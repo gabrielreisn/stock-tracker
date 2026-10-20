@@ -52,6 +52,20 @@ struct IntradaySeries: Sendable {
     }
 }
 
+/// Notifies once when a ticker reaches a target, in its own currency: buy alerts fire at or below it, sell alerts at or above.
+/// A fired alert switches itself off; switching it back on re-arms it.
+struct PriceAlert: Codable, Identifiable, Hashable {
+    var id = UUID()
+    var ticker: String
+    var target: Double
+    var kind: TradeKind
+    var isEnabled = true
+    var triggeredAt: Date?
+
+    func isMet(by price: Double) -> Bool { kind == .buy ? price <= target : price >= target }
+    var condition: String { kind == .buy ? "at or below" : "at or above" }
+}
+
 struct Holding: Identifiable {
     var ticker: String
     var name: String?
@@ -63,22 +77,23 @@ struct Holding: Identifiable {
 }
 
 enum BenchmarkID: String, CaseIterable, Identifiable, Codable {
-    case cdi, ipca, sp500, ipcaPlus5, ifix
+    case cdi, ipca, sp500, ipcaPlus6, ifix, ibov
     var id: String { rawValue }
 
     /// More lines than this can't all be told apart by color, so the chart caps them.
     static let maxEnabled = 3
 
     /// Rate-based benchmarks are drawn dashed — a second cue besides color.
-    var isRate: Bool { self == .cdi || self == .ipca || self == .ipcaPlus5 }
+    var isRate: Bool { self == .cdi || self == .ipca || self == .ipcaPlus6 }
 
     var label: String {
         switch self {
         case .cdi: "CDI"
         case .ipca: "IPCA"
         case .sp500: "S&P 500"
-        case .ipcaPlus5: "IPCA+5%"
+        case .ipcaPlus6: "IPCA+6%"
         case .ifix: "IFIX"
+        case .ibov: "IBOV"
         }
     }
 
@@ -87,8 +102,9 @@ enum BenchmarkID: String, CaseIterable, Identifiable, Codable {
         case .cdi: "Interbank deposit rate, the usual fixed-income yardstick. Banco Central, series 12."
         case .ipca: "Official inflation. IBGE, via Banco Central series 433."
         case .sp500: "S&P 500 with dividends reinvested (^SP500TR), converted to reais at USD/BRL."
-        case .ipcaPlus5: "Inflation plus a 5% real return a year — a typical long-term target."
+        case .ipcaPlus6: "Inflation plus a 6% real return a year — a typical long-term target."
         case .ifix: "B3's real-estate fund (FII) index, with distributions reinvested. Starts Dec 2010."
+        case .ibov: "Ibovespa, B3's main stock index (a total-return index), via Yahoo (^BVSP)."
         }
     }
 }

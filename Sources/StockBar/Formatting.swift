@@ -20,6 +20,11 @@ extension Double {
     /// For editable fields: no thousands separator, so it parses back unambiguously.
     var editableQuantity: String { formatted(.number.precision(.fractionLength(0...5)).grouping(.never).locale(brazil)) }
 
+    /// A price in the ticker's own currency: reais on B3, dollars otherwise.
+    func price(for ticker: String) -> String {
+        formatted(.currency(code: MarketData.isB3(ticker) ? "BRL" : "USD").locale(brazil))
+    }
+
     var gainColor: Color { self > 0.0000001 ? .green : self < -0.0000001 ? .red : .secondary }
 }
 

@@ -44,6 +44,7 @@ final class PortfolioStore {
     private(set) var isLoading = false
     private(set) var lastUpdated: Date?
     private(set) var errors: [String] = []
+    private(set) var alerts: [PriceAlert] = []
 
     var menuBarDisplay: MenuBarDisplay {
         didSet { UserDefaults.standard.set(menuBarDisplay.rawValue, forKey: "menuBarDisplay") }
@@ -85,16 +86,22 @@ final class PortfolioStore {
         return dir
     }()
     static let dataURL = directory.appendingPathComponent("trades.json")
+    private static let alertsURL = directory.appendingPathComponent("alerts.json")
     private static let cdiURL = directory.appendingPathComponent("cdi-cache.json")
     private static let ipcaURL = directory.appendingPathComponent("ipca-cache.json")
     private static let ifixURL = directory.appendingPathComponent("ifix-cache.json")
 
     init() {
         menuBarDisplay = MenuBarDisplay(rawValue: UserDefaults.standard.string(forKey: "menuBarDisplay") ?? "") ?? .dayChange
-        let saved = (UserDefaults.standard.stringArray(forKey: "benchmarks") ?? ["cdi", "ipca"]).compactMap(BenchmarkID.init)
+        // IPCA+5% was replaced by IPCA+6%; carry the old choice over.
+        let saved = (UserDefaults.standard.stringArray(forKey: "benchmarks") ?? ["cdi", "ipca"])
+            .map { $0 == "ipcaPlus5" ? BenchmarkID.ipcaPlus6.rawValue : $0 }
+            .compactMap(BenchmarkID.init)
         enabledBenchmarks = Array(BenchmarkID.allCases.filter(saved.contains).prefix(BenchmarkID.maxEnabled))
         load()
+        loadAlerts()
         loadBenchmarks()
+        AlertNotifier.shared.setUp()
         recompute()
         refreshLoop = Task { [weak self] in
             while !Task.isCancelled {
@@ -132,6 +139,66 @@ final class PortfolioStore {
         let decoder = JSONDecoder()
         decoder.dateDecodingStrategy = .iso8601
         trades = (try? decoder.decode([Trade].self, from: data)) ?? []
+    }
+
+    // MARK: - Price alerts
+
+    func addAlert(_ alert: PriceAlert) {
+        alerts.append(alert)
+        saveAlerts()
+        Task { await refresh() }
+    }
+
+    /// Saving an edit re-arms the alert against the new target.
+    func updateAlert(_ alert: PriceAlert) {
+        guard let i = alerts.firstIndex(where: { $0.id == alert.id }) else { return }
+        alerts[i] = alert
+        saveAlerts()
+        Task { await refresh() }
+    }
+
+    func setAlert(_ alert: PriceAlert, enabled: Bool) {
+        guard let i = alerts.firstIndex(where: { $0.id == alert.id }) else { return }
+        alerts[i].isEnabled = enabled
+        if enabled { alerts[i].triggeredAt = nil }
+        saveAlerts()
+        checkAlerts()
+    }
+
+    func deleteAlert(_ alert: PriceAlert) {
+        alerts.removeAll { $0.id == alert.id }
+        saveAlerts()
+    }
+
+    /// Latest price in the ticker's own currency (dollars for US stocks).
+    func livePrice(_ ticker: String) -> Double? { intraday[ticker]?.last }
+
+    /// Fires every armed alert whose target the latest price has reached, then disarms it.
+    private func checkAlerts() {
+        var fired = false
+        for i in alerts.indices where alerts[i].isEnabled {
+            guard let price = livePrice(alerts[i].ticker), alerts[i].isMet(by: price) else { continue }
+            alerts[i].isEnabled = false
+            alerts[i].triggeredAt = .now
+            fired = true
+            let alert = alerts[i]
+            Task { await AlertNotifier.shared.send(alert, price: price) }
+        }
+        if fired { saveAlerts() }
+    }
+
+    private func loadAlerts() {
+        guard let data = try? Data(contentsOf: Self.alertsURL) else { return }
+        let decoder = JSONDecoder()
+        decoder.dateDecodingStrategy = .iso8601
+        alerts = (try? decoder.decode([PriceAlert].self, from: data)) ?? []
+    }
+
+    private func saveAlerts() {
+        let encoder = JSONEncoder()
+        encoder.dateEncodingStrategy = .iso8601
+        encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
+        try? encoder.encode(alerts).write(to: Self.alertsURL, options: .atomic)
     }
 
     // MARK: - Benchmark cache
@@ -228,7 +295,9 @@ final class PortfolioStore {
         if staleHistories, !needHistory.isEmpty { historiesFetchedAt = .now }
 
         let intradayResults = await withTaskGroup(of: (String, IntradaySeries?).self) { group in
-            for ticker in symbols.union(tickers.isEmpty ? [] : [MarketData.ifixSymbol]) {
+            // Alerts can watch tickers that aren't held.
+            let watched = Set(alerts.filter(\.isEnabled).map(\.ticker))
+            for ticker in symbols.union(tickers.isEmpty ? [] : [MarketData.ifixSymbol]).union(watched) {
                 group.addTask { (ticker, try? await MarketData.intraday(for: ticker)) }
             }
             return await group.reduce(into: []) { $0.append($1) }
@@ -244,6 +313,7 @@ final class PortfolioStore {
             }
         }
 
+        checkAlerts()
         // Show fresh prices right away; the benchmarks can take a while on the first run.
         recompute()
 
@@ -319,12 +389,15 @@ final class PortfolioStore {
         holdings = result.sorted { $0.weight > $1.weight }
 
         let daily = dailyIndex(quantities, histories)
-        let references = ReferenceSeries(sp500: histories[MarketData.sp500Symbol], ifix: liveIFIX())
+        let references = ReferenceSeries(sp500: histories[MarketData.sp500Symbol], ifix: liveIFIX(), ibov: histories[MarketData.ibovSymbol])
         var newCurves: [ChartRange: [PerformancePoint]] = [.day: intradayCurve(quantities, intraday)]
         var newReturns: [ChartRange: [String: Double]] = [:]
         var newTickerCurves: [ChartRange: [String: [Double]]] = [:]
-        newReturns[.day] = intraday.compactMapValues { $0.previousClose > 0 ? $0.last / $0.previousClose - 1 : nil }
-        newTickerCurves[.day] = intraday.compactMapValues { s in
+        // A market that hasn't traded today (US before its open, weekends, holidays) shows no change rather than a stale one.
+        let today = DayKey.from(.now, calendar: .b3)
+        let tradedToday = intraday.filter { $0.value.day == today && $0.value.previousClose > 0 }
+        newReturns[.day] = tradedToday.mapValues { $0.last / $0.previousClose - 1 }
+        newTickerCurves[.day] = tradedToday.compactMapValues { s in
             s.previousClose > 0 ? downsampled([0] + s.prices.map { $0 / s.previousClose - 1 } + [s.last / s.previousClose - 1], limit: 80) : nil
         }
         for range in ChartRange.allCases where range != .day {
@@ -371,6 +444,7 @@ final class PortfolioStore {
     private struct ReferenceSeries {
         var sp500: PriceHistory?
         var ifix: PriceHistory?
+        var ibov: PriceHistory?
     }
 
     /// B3's IFIX history with today's live value from Yahoo on the end.
@@ -388,12 +462,13 @@ final class PortfolioStore {
         switch id {
         case .cdi: return cdi.isEmpty ? nil : cdi.level(at: day)
         case .ipca: return ipca.isEmpty ? nil : ipca.level(at: day)
-        case .ipcaPlus5:
+        case .ipcaPlus6:
             guard !ipca.isEmpty else { return nil }
             let years = DayKey.date(day).timeIntervalSinceReferenceDate / (365.25 * 86_400)
-            return ipca.level(at: day) * pow(1.05, years)
+            return ipca.level(at: day) * pow(1.06, years)
         case .sp500: return references.sp500?.price(onOrBefore: day)
         case .ifix: return references.ifix?.price(onOrBefore: day)
+        case .ibov: return references.ibov?.price(onOrBefore: day)
         }
     }
 
@@ -428,35 +503,34 @@ final class PortfolioStore {
 
         let cdiDaily = cdi.latestRate.map { $0 / 100 }
         let ipcaDaily = ipca.latestRate.map { pow(1 + $0 / 100, 1.0 / 21) - 1 }
-        let realDaily = pow(1.05, 1.0 / 252) - 1
-        let sp500 = intraday[MarketData.sp500Symbol].flatMap { $0.day == session && $0.previousClose > 0 ? $0 : nil }
-        let ifix = intraday[MarketData.ifixSymbol].flatMap { $0.day == session && $0.previousClose > 0 ? $0 : nil }
+        let realDaily = pow(1.06, 1.0 / 252) - 1
+        // Market indices move with their own live prices against the previous close.
+        let indices: [(id: BenchmarkID, series: IntradaySeries)] = [
+            (.sp500, MarketData.sp500Symbol), (.ifix, MarketData.ifixSymbol), (.ibov, MarketData.ibovSymbol),
+        ].compactMap { id, symbol in
+            intraday[symbol].flatMap { $0.day == session && $0.previousClose > 0 ? (id, $0) : nil }
+        }
         let start = open.addingTimeInterval(-300)
-        func point(_ time: Date, _ value: Double, sp500Price: Double?, ifixValue: Double?) -> PerformancePoint {
+        func point(_ time: Date, _ value: Double, indexValue: (IntradaySeries) -> Double) -> PerformancePoint {
             let fraction = min(1, time.timeIntervalSince(start) / (7 * 3600))
             var point = PerformancePoint(date: time, portfolio: value / base - 1)
             if let cdiDaily { point.benchmarks[.cdi] = pow(1 + cdiDaily, fraction) - 1 }
             if let ipcaDaily {
                 point.benchmarks[.ipca] = pow(1 + ipcaDaily, fraction) - 1
-                point.benchmarks[.ipcaPlus5] = pow((1 + ipcaDaily) * (1 + realDaily), fraction) - 1
+                point.benchmarks[.ipcaPlus6] = pow((1 + ipcaDaily) * (1 + realDaily), fraction) - 1
             }
-            if let sp500, let sp500Price { point.benchmarks[.sp500] = sp500Price / sp500.previousClose - 1 }
-            if let ifix, let ifixValue { point.benchmarks[.ifix] = ifixValue / ifix.previousClose - 1 }
+            for (id, series) in indices { point.benchmarks[id] = indexValue(series) / series.previousClose - 1 }
             return point
         }
 
-        var points = [point(start, base, sp500Price: sp500?.previousClose, ifixValue: ifix?.previousClose)]
+        var points = [point(start, base) { $0.previousClose }]
         for time in times {
             let value = held.reduce(0) { $0 + $1.quantity * ($1.series.price(at: time) ?? $1.series.previousClose) }
-            points.append(point(
-                time, value,
-                sp500Price: sp500.map { $0.price(at: time) ?? $0.previousClose },
-                ifixValue: ifix.map { $0.price(at: time) ?? $0.previousClose }
-            ))
+            points.append(point(time, value) { $0.price(at: time) ?? $0.previousClose })
         }
         // End on the live price, which can be newer than the last 5-minute bar.
         let live = held.reduce(0) { $0 + $1.quantity * $1.series.last }
-        if let last = times.last { points[points.count - 1] = point(last, live, sp500Price: sp500?.last, ifixValue: ifix?.last) }
+        if let last = times.last { points[points.count - 1] = point(last, live) { $0.last } }
         return points
     }
 

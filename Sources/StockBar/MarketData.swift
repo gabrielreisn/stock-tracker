@@ -29,14 +29,16 @@ enum MarketData {
     static let dollarSymbol = "BRL=X"
     /// S&P 500 total return (dividends reinvested), in dollars.
     static let sp500Symbol = "^SP500TR"
+    /// Ibovespa, in reais.
+    static let ibovSymbol = "^BVSP"
     /// IFIX live value; its history comes from B3 (Yahoo only has today).
     static let ifixSymbol = "IFIX.SA"
     /// Fetched with daily history; IFIX only intraday.
-    static let referenceSymbols: Set<String> = [dollarSymbol, sp500Symbol]
+    static let referenceSymbols: Set<String> = [dollarSymbol, sp500Symbol, ibovSymbol]
 
     /// Dollar-priced symbols that need converting to reais.
     static func isInDollars(_ symbol: String) -> Bool {
-        !isB3(symbol) && symbol != dollarSymbol && symbol != ifixSymbol
+        !isB3(symbol) && symbol != dollarSymbol && symbol != ifixSymbol && symbol != ibovSymbol
     }
 
     static func displayName(_ symbol: String) -> String {
@@ -44,6 +46,7 @@ enum MarketData {
         case dollarSymbol: "USD/BRL"
         case sp500Symbol: "S&P 500"
         case ifixSymbol: "IFIX"
+        case ibovSymbol: "IBOV"
         default: symbol
         }
     }

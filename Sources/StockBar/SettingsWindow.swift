@@ -55,7 +55,7 @@ struct SettingsWindow: View {
                     }
                 }
                 LabeledContent("Sources") {
-                    Text("Prices, USD/BRL, S&P 500: Yahoo Finance\nCDI and IPCA: Banco Central (SGS)\nIFIX history: B3")
+                    Text("Prices, USD/BRL, S&P 500, IBOV: Yahoo Finance\nCDI and IPCA: Banco Central (SGS)\nIFIX history: B3")
                         .font(.caption).foregroundStyle(.secondary).multilineTextAlignment(.trailing)
                 }
             }

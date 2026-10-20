@@ -1,7 +1,7 @@
 import Charts
 import SwiftUI
 
-enum Screen { case overview, addTrade, trades }
+enum Screen { case overview, trades, alerts }
 
 struct ContentView: View {
     @State private var screen: Screen = .overview
@@ -10,8 +10,8 @@ struct ContentView: View {
         Group {
             switch screen {
             case .overview: OverviewView(screen: $screen)
-            case .addTrade: AddTradeView(screen: $screen)
             case .trades: TradesView(screen: $screen)
+            case .alerts: AlertsView(screen: $screen)
             }
         }
         .frame(width: 400)
@@ -24,13 +24,20 @@ struct ScreenHeader: View {
     @Binding var screen: Screen
 
     var body: some View {
-        HStack {
-            Button { screen = .overview } label: { Image(systemName: "chevron.left") }
-                .buttonStyle(.borderless)
-            Text(title).font(.headline)
+        HStack(spacing: 8) {
+            Button { screen = .overview } label: {
+                Image(systemName: "chevron.left")
+                    .font(.title2.weight(.semibold))
+                    .frame(width: 28, height: 28)
+                    .contentShape(Rectangle())
+            }
+            .buttonStyle(.borderless)
+            .help("Back")
+            Text(title).font(.title2.weight(.semibold))
             Spacer()
         }
-        .padding(12)
+        .padding(.horizontal, 8)
+        .padding(.vertical, 12)
     }
 }
 
@@ -62,7 +69,7 @@ struct OverviewView: View {
             Text("No trades yet").font(.headline)
             Text("Add the stocks you hold and see how they did against CDI and IPCA.")
                 .font(.callout).foregroundStyle(.secondary).multilineTextAlignment(.center)
-            Button("Add first trade") { screen = .addTrade }.buttonStyle(.borderedProminent)
+            Button("Add first trade") { screen = .trades }.buttonStyle(.borderedProminent)
         }
         .padding(24)
     }
@@ -72,7 +79,7 @@ struct OverviewView: View {
     }
 
     private var footer: some View {
-        HStack(spacing: 14) {
+        HStack(spacing: 18) {
             if let error = store.errors.first {
                 Label(error, systemImage: "exclamationmark.triangle")
                     .foregroundStyle(.orange).lineLimit(1).help(store.errors.joined(separator: "\n"))
@@ -86,17 +93,19 @@ struct OverviewView: View {
             }
             .help("Refresh")
             .disabled(store.isLoading)
-            Button { screen = .addTrade } label: { Image(systemName: "plus") }.help("Add trade")
+            Button { screen = .trades } label: { Image(systemName: "plus") }.help("Add trade")
             Button { screen = .trades } label: { Image(systemName: "list.bullet") }.help("Trades")
+            Button { screen = .alerts } label: { Image(systemName: "bell") }.help("Price alerts")
             Button {
                 openWindow(id: "settings")
                 NSApp.activate()
             } label: { Image(systemName: "gearshape") }.help("Settings")
         }
-        .font(.caption)
+        .font(.callout)
+        .imageScale(.large)
         .buttonStyle(.borderless)
         .padding(.horizontal, 14)
-        .padding(.vertical, 10)
+        .padding(.vertical, 12)
     }
 }
 
@@ -113,7 +122,7 @@ enum Series: Hashable {
         }
     }
 
-    /// Fixed color per entity (palette slots 1–6). Six lines can't all be told apart by color alone, so the chart
+    /// Fixed color per entity (palette slots 1–7). That many lines can't all be told apart by color alone, so the chart
     /// caps benchmarks at three and draws the rate-based ones dashed.
     func color(_ scheme: ColorScheme) -> Color {
         let dark = scheme == .dark
@@ -122,8 +131,9 @@ enum Series: Hashable {
         case .benchmark(.cdi): Color(hex: dark ? 0xD95926 : 0xEB6834)
         case .benchmark(.ipca): Color(hex: dark ? 0x199E70 : 0x1BAF7A)
         case .benchmark(.sp500): Color(hex: dark ? 0xC98500 : 0xEDA100)
-        case .benchmark(.ipcaPlus5): Color(hex: dark ? 0xD55181 : 0xE87BA4)
+        case .benchmark(.ipcaPlus6): Color(hex: dark ? 0xD55181 : 0xE87BA4)
         case .benchmark(.ifix): Color(hex: 0x008300)
+        case .benchmark(.ibov): Color(hex: dark ? 0x9A6FE8 : 0x7E4FD6)
         }
     }
 
@@ -359,7 +369,8 @@ struct HoldingsList: View {
                             holding: h,
                             path: store.tickerCurves[range]?[h.ticker] ?? [],
                             rangeReturn: store.tickerReturns[range]?[h.ticker],
-                            dayChange: range == .day ? nil : store.tickerReturns[.day]?[h.ticker]
+                            dayChange: store.tickerReturns[.day]?[h.ticker],
+                            showsDayChange: range != .day
                         )
                         .frame(height: Self.rowHeight)
                         Divider().padding(.leading, 14)
@@ -404,6 +415,7 @@ struct HoldingRow: View {
     let path: [Double]
     let rangeReturn: Double?
     let dayChange: Double?
+    let showsDayChange: Bool
 
     var body: some View {
         HStack(spacing: 8) {
@@ -430,9 +442,9 @@ struct HoldingRow: View {
                 .font(.callout.weight(.medium).monospacedDigit())
                 .foregroundStyle((rangeReturn ?? 0).gainColor)
                 .frame(width: 74, alignment: .trailing)
-            if let dayChange {
-                Text(dayChange.signedPercent)
-                    .font(.caption.monospacedDigit()).foregroundStyle(dayChange.gainColor)
+            if showsDayChange {
+                Text(dayChange?.signedPercent ?? "—")
+                    .font(.caption.monospacedDigit()).foregroundStyle((dayChange ?? 0).gainColor)
                     .frame(width: 60, alignment: .trailing)
             }
         }

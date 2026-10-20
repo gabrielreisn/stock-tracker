@@ -4,7 +4,7 @@
 # StockBar
 
 A native macOS menu bar app (SwiftUI, no Electron) that tracks a Brazilian and US stock portfolio
-against CDI, IPCA, IPCA+5%, the S&P 500 and IFIX.
+against CDI, IPCA, IPCA+6%, the S&P 500, IFIX and IBOV.
 
 ## Install
 
@@ -31,13 +31,15 @@ git tag v1.1.0 && git push origin v1.1.0
 
 ## How it works
 
-- **Trades** are buy/sell, ticker, date and quantity, stored in `~/Library/Application Support/StockBar/trades.json`.
-  The quantities you hold today define the portfolio.
+- **Trades** are a ticker and a quantity, stored in `~/Library/Application Support/StockBar/trades.json`.
+  The quantities you hold today define the portfolio, so trades need no date; edit a quantity or delete a trade to sell.
+- **Price alerts** notify you when a ticker (held or not) reaches a target in its own currency: buy alerts at or below it,
+  sell alerts at or above. They're checked on every refresh, switch themselves off once they fire, and live in `alerts.json`.
 - **The curve** shows the current portfolio (today's quantities) held through the whole range: 1D, 3M, YTD, or All (since 01/01/2010).
   Each session's return weights stocks by their value at the previous close. Stocks that weren't listed yet are left out until they were.
 - **Prices** come from Yahoo Finance (`PETR4` → `PETR4.SA`; fractional `PETR4F` maps to `PETR4`).
   Daily prices are adjusted closes, so dividends, JCP and splits are included (total return); they reload every 6 hours.
-  1D uses 5-minute prices against the previous close. Prices refresh every 5 minutes.
+  1D uses 5-minute prices against the previous close; a market that hasn't traded today shows "—". Prices refresh every 5 minutes.
 - **Benchmarks** come from Banco Central's SGS API: CDI is series 12 (daily rate) and IPCA is series 433 (monthly rate).
   IPCA is pro-rated by calendar days within a month, and months not yet published count as 0%.
   The API is flaky with long ranges, so it's fetched a year at a time with retries.
