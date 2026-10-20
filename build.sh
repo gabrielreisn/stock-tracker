@@ -1,5 +1,9 @@
 #!/bin/zsh
-# Builds StockBar.app into ./build. Pass --install to copy it to ~/Applications and launch it.
+# Builds a universal StockBar.app into ./build.
+#   ./build.sh            build the app
+#   ./build.sh --dmg      also package build/StockBar-<version>.dmg
+#   ./build.sh --install  copy it to ~/Applications and launch it
+# VERSION=1.2.0 ./build.sh --dmg   sets the app version (default: latest git tag, else 0.0.0)
 set -euo pipefail
 cd "$(dirname "$0")"
 
@@ -8,13 +12,23 @@ if ! xcrun swift --version &>/dev/null; then
   export DEVELOPER_DIR=/Library/Developer/CommandLineTools
 fi
 
-swift build -c release
-BIN="$(swift build -c release --show-bin-path)/StockBar"
+VERSION="${VERSION:-$(git describe --tags --abbrev=0 2>/dev/null | sed 's/^v//' || true)}"
+VERSION="${VERSION:-0.0.0}"
+BUILD_NUMBER="$(git rev-list --count HEAD 2>/dev/null || echo 1)"
+
+# One build per architecture, merged into a universal binary (multi-arch in one step needs full Xcode).
+for arch in arm64 x86_64; do
+  swift build -c release --triple "$arch-apple-macosx15.0"
+done
 
 APP=build/StockBar.app
 rm -rf "$APP"
 mkdir -p "$APP/Contents/MacOS" "$APP/Contents/Resources"
-cp "$BIN" "$APP/Contents/MacOS/StockBar"
+lipo -create \
+  .build/arm64-apple-macosx/release/StockBar \
+  .build/x86_64-apple-macosx/release/StockBar \
+  -output "$APP/Contents/MacOS/StockBar"
+cp Resources/AppIcon.icns "$APP/Contents/Resources/"
 
 cat > "$APP/Contents/Info.plist" <<PLIST
 <?xml version="1.0" encoding="UTF-8"?>
@@ -25,9 +39,11 @@ cat > "$APP/Contents/Info.plist" <<PLIST
   <key>CFBundleDisplayName</key><string>StockBar</string>
   <key>CFBundleIdentifier</key><string>com.gabrielreis.stockbar</string>
   <key>CFBundleExecutable</key><string>StockBar</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
   <key>CFBundlePackageType</key><string>APPL</string>
-  <key>CFBundleShortVersionString</key><string>1.0</string>
-  <key>CFBundleVersion</key><string>1</string>
+  <key>CFBundleShortVersionString</key><string>$VERSION</string>
+  <key>CFBundleVersion</key><string>$BUILD_NUMBER</string>
+  <key>LSApplicationCategoryType</key><string>public.app-category.finance</string>
   <key>LSMinimumSystemVersion</key><string>15.0</string>
   <key>LSUIElement</key><true/>
   <key>NSHighResolutionCapable</key><true/>
@@ -36,13 +52,25 @@ cat > "$APP/Contents/Info.plist" <<PLIST
 PLIST
 
 codesign --force --sign - "$APP"
-echo "Built $APP"
+echo "Built $APP $VERSION ($BUILD_NUMBER), $(lipo -archs "$APP/Contents/MacOS/StockBar")"
 
-if [[ "${1:-}" == "--install" ]]; then
-  mkdir -p ~/Applications
-  pkill -x StockBar || true
-  rm -rf ~/Applications/StockBar.app
-  cp -R "$APP" ~/Applications/
-  open ~/Applications/StockBar.app
-  echo "Installed to ~/Applications/StockBar.app"
-fi
+case "${1:-}" in
+  --dmg)
+    DMG="build/StockBar-$VERSION.dmg"
+    STAGING="$(mktemp -d)"
+    cp -R "$APP" "$STAGING/"
+    ln -s /Applications "$STAGING/Applications"   # drag-to-install target
+    rm -f "$DMG"
+    hdiutil create -volname "StockBar $VERSION" -srcfolder "$STAGING" -fs HFS+ -format UDZO -ov "$DMG" >/dev/null
+    rm -rf "$STAGING"
+    echo "Packaged $DMG"
+    ;;
+  --install)
+    mkdir -p ~/Applications
+    pkill -x StockBar || true
+    rm -rf ~/Applications/StockBar.app
+    cp -R "$APP" ~/Applications/
+    open ~/Applications/StockBar.app
+    echo "Installed to ~/Applications/StockBar.app"
+    ;;
+esac

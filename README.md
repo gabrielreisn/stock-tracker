@@ -1,15 +1,30 @@
 # StockBar
 
-A native macOS menu bar app (SwiftUI, no Electron) that tracks a B3 stock portfolio and compares it with CDI and IPCA.
+A native macOS menu bar app (SwiftUI, no Electron) that tracks a Brazilian and US stock portfolio
+against CDI, IPCA, IPCA+5%, the S&P 500 and IFIX.
 
-## Build
+## Install
+
+Download the latest `StockBar-<version>.dmg` from [Releases](../../releases), open it and drag StockBar to Applications.
+The app isn't notarized yet: on first launch, allow it in **System Settings → Privacy & Security → Open Anyway**.
+Requires macOS 15+ (Apple Silicon or Intel).
+
+## Develop
 
 ```sh
-./build.sh            # builds build/StockBar.app
-./build.sh --install  # copies it to ~/Applications and launches it
+./build.sh            # universal build/StockBar.app
+./build.sh --install  # copy to ~/Applications and launch
+./build.sh --dmg      # package build/StockBar-<version>.dmg
+swift scripts/make-icon.swift  # regenerate Resources/AppIcon.icns
 ```
 
-Requires macOS 15+ and the Swift toolchain (Xcode or Command Line Tools).
+## Release
+
+Push a version tag and GitHub Actions builds the DMG and publishes the release:
+
+```sh
+git tag v1.1.0 && git push origin v1.1.0
+```
 
 ## How it works
 

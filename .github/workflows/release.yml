@@ -1,0 +1,29 @@
+# Pushing a tag like v1.2.0 builds a universal StockBar DMG and publishes it as a GitHub release.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # build number = commit count
+
+      - name: Build DMG
+        run: VERSION="${GITHUB_REF_NAME#v}" ./build.sh --dmg
+
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" build/StockBar-*.dmg \
+            --title "StockBar ${GITHUB_REF_NAME#v}" \
+            --notes-file .github/release-notes.md \
+            --generate-notes
