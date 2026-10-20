@@ -1,3 +1,6 @@
+<img width="1102" height="1604" alt="CleanShot 2026-10-19 at 21 11 21@2x" src="https://github.com/user-attachments/assets/093c2e46-a93e-4083-8a21-2c63fe585407" />
+
+
 # StockBar
 
 A native macOS menu bar app (SwiftUI, no Electron) that tracks a Brazilian and US stock portfolio
