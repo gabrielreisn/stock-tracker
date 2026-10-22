@@ -25,6 +25,14 @@ extension Double {
         formatted(.currency(code: MarketData.isB3(ticker) ? "BRL" : "USD").locale(brazil))
     }
 
+    var reais: String { formatted(.currency(code: "BRL").locale(brazil)) }
+
+    /// Fund sizes: "R$ 1,2 bi", "R$ 350 mi".
+    var compactReais: String {
+        let (value, unit): (Double, String) = abs(self) >= 1e9 ? (self / 1e9, "bi") : abs(self) >= 1e6 ? (self / 1e6, "mi") : (self / 1e3, "mil")
+        return "R$ " + value.formatted(.number.precision(.fractionLength(value < 10 ? 1 : 0)).locale(brazil)) + " " + unit
+    }
+
     var gainColor: Color { self > 0.0000001 ? .green : self < -0.0000001 ? .red : .secondary }
 }
 

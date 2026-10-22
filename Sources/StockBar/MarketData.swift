@@ -75,8 +75,13 @@ enum MarketData {
                 var meta: Meta
                 var timestamp: [TimeInterval]?
                 var indicators: Indicators
+                var events: Events?
             }
             struct Meta: Decodable { var shortName: String?; var longName: String? }
+            struct Events: Decodable {
+                struct Dividend: Decodable { var amount: Double; var date: TimeInterval }
+                var dividends: [String: Dividend]?
+            }
             struct Indicators: Decodable {
                 struct Quote: Decodable { var close: [Double?]? }
                 struct AdjClose: Decodable { var adjclose: [Double?]? }
@@ -104,6 +109,9 @@ enum MarketData {
             }
         }
         guard !history.days.isEmpty else { throw MarketDataError.badResponse(ticker) }
+        history.dividends = (result.events?.dividends.map { Array($0.values) } ?? [])
+            .map { ExDividend(day: DayKey.from(Date(timeIntervalSince1970: $0.date), calendar: .b3), amount: $0.amount) }
+            .sorted { $0.day < $1.day }
         return history
     }
 
@@ -152,6 +160,44 @@ enum MarketData {
             series.prices.append(close)
         }
         return series
+    }
+
+    /// Cash dividends and JCP announced by a B3-listed company (B3's company page data), for one share class.
+    /// Returns nil when B3 doesn't know the ticker as a company (FIIs, ETFs, BDRs).
+    static func b3Dividends(for ticker: String) async throws -> [(kind: DividendKind, recordDay: Int, paymentDay: Int?, perShare: Double)]? {
+        let t = yahooSymbol(for: ticker).replacingOccurrences(of: ".SA", with: "")
+        let company = String(t.prefix(4))
+        // ISIN for the share class: ...ACNOR (ON, 3), ACNPR (PN, 4), ACNPA (PNA, 5), ACNPB (PNB, 6), UNT (unit, 11).
+        let classCode: String? = switch t.dropFirst(4) {
+        case "3": "ACNOR"
+        case "4": "ACNPR"
+        case "5": "ACNPA"
+        case "6": "ACNPB"
+        case "11": "UNT"
+        default: nil
+        }
+        guard let classCode else { return nil }
+        let query = Data(#"{"language":"pt-br","issuingCompany":"\#(company)"}"#.utf8).base64EncodedString()
+        var request = URLRequest(url: URL(string: "https://sistemaswebb3-listados.b3.com.br/listedCompaniesProxy/CompanyCall/GetListedSupplementCompany/\(query)")!)
+        request.setValue("Mozilla/5.0", forHTTPHeaderField: "User-Agent")
+        request.timeoutInterval = 20
+
+        struct Company: Decodable {
+            struct Cash: Decodable { var isinCode: String?; var label: String?; var rate: String?; var paymentDate: String?; var lastDatePrior: String? }
+            var cashDividends: [Cash]?
+        }
+        let (data, _) = try await URLSession.shared.data(for: request)
+        guard let listing = (try? JSONDecoder().decode([Company].self, from: data))?.first, let cash = listing.cashDividends, !cash.isEmpty else { return nil }
+        let isinPrefix = "BR\(company)\(classCode)"
+        let rows = cash.compactMap { c -> (kind: DividendKind, recordDay: Int, paymentDay: Int?, perShare: Double)? in
+            guard c.isinCode?.hasPrefix(isinPrefix) == true,
+                  let record = c.lastDatePrior.flatMap(DayKey.parse),
+                  let rate = c.rate.flatMap({ Double($0.replacingOccurrences(of: ".", with: "").replacingOccurrences(of: ",", with: ".")) }), rate > 0
+            else { return nil }
+            let kind: DividendKind = c.label?.contains("JRS") == true ? .jcp : c.label?.contains("REND") == true ? .income : .dividend
+            return (kind, record, c.paymentDate.flatMap(DayKey.parse), rate)
+        }
+        return rows.isEmpty ? nil : rows
     }
 
     /// Daily closes of a B3 index (e.g. IFIX) from B3's index statistics, one request per year.

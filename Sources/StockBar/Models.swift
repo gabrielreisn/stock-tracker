@@ -13,6 +13,8 @@ struct Trade: Codable, Identifiable, Hashable {
     var kind: TradeKind
     var date: Date
     var quantity: Double
+    /// Price paid per share, in the stock's own currency (dollars for US stocks).
+    var price: Double?
 
     var dayKey: Int { DayKey.from(date) }
     var signedQuantity: Double { kind == .buy ? quantity : -quantity }
@@ -23,6 +25,8 @@ struct PriceHistory: Codable, Sendable {
     var days: [Int]
     var prices: [Double]
     var name: String?
+    /// Cash per share by ex-date, in the stock's own currency (Yahoo's dividend events).
+    var dividends: [ExDividend]?
 
     /// Last close on or before `day` (trades on weekends/holidays use the previous session).
     func price(onOrBefore day: Int) -> Double? {
@@ -36,6 +40,45 @@ struct PriceHistory: Codable, Sendable {
 
     var last: Double? { prices.last }
     var previous: Double? { prices.count > 1 ? prices[prices.count - 2] : nil }
+}
+
+struct ExDividend: Codable, Sendable, Hashable {
+    var day: Int
+    var amount: Double
+}
+
+enum DividendKind: String, Hashable {
+    case dividend, jcp, income
+    var label: String {
+        switch self {
+        case .dividend: "Dividend"
+        case .jcp: "JCP"
+        case .income: "Income"
+        }
+    }
+}
+
+/// A cash payment on a held stock: per-share amount times today's quantity, in reais.
+struct DividendPayment: Identifiable, Hashable {
+    var ticker: String
+    var kind: DividendKind
+    /// Last day to hold the stock to get it ("data com"), or the ex-date when that's all the source gives.
+    var recordDay: Int
+    /// nil while the company hasn't set it (common for JCP), or when the source only has ex-dates.
+    var paymentDay: Int?
+    /// Yahoo's events only carry the ex-date; B3's announcements carry the record and payment dates.
+    var datedByExDate = false
+    var perShare: Double
+    var quantity: Double
+    var amount: Double
+
+    var id: String { "\(ticker)-\(kind.rawValue)-\(recordDay)-\(paymentDay ?? 0)-\(perShare)" }
+    /// The month it lands in: payment day, or the record day while that's unknown.
+    var day: Int { paymentDay ?? recordDay }
+
+    func isPaid(asOf today: Int) -> Bool {
+        datedByExDate ? recordDay <= today : paymentDay.map { $0 <= today } ?? false
+    }
 }
 
 /// One session of 5-minute prices; `last` is the live price.
@@ -70,6 +113,8 @@ struct Holding: Identifiable {
     var ticker: String
     var name: String?
     var quantity: Double
+    /// Average price paid per share, in the stock's own currency.
+    var averagePrice: Double?
     var weight: Double = 0
 
     var id: String { ticker }

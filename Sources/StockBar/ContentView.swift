@@ -1,7 +1,7 @@
 import Charts
 import SwiftUI
 
-enum Screen { case overview, trades, alerts }
+enum Screen { case overview, alerts }
 
 struct ContentView: View {
     @State private var screen: Screen = .overview
@@ -10,7 +10,6 @@ struct ContentView: View {
         Group {
             switch screen {
             case .overview: OverviewView(screen: $screen)
-            case .trades: TradesView(screen: $screen)
             case .alerts: AlertsView(screen: $screen)
             }
         }
@@ -46,6 +45,7 @@ struct ScreenHeader: View {
 struct OverviewView: View {
     @Environment(PortfolioStore.self) private var store
     @Environment(\.openWindow) private var openWindow
+    @AppStorage("mainSection") private var mainSection: MainSection = .stocks
     @AppStorage("chartRange") private var range: ChartRange = .ytd
     @Binding var screen: Screen
 
@@ -69,13 +69,19 @@ struct OverviewView: View {
             Text("No trades yet").font(.headline)
             Text("Add the stocks you hold and see how they did against CDI and IPCA.")
                 .font(.callout).foregroundStyle(.secondary).multilineTextAlignment(.center)
-            Button("Add first trade") { screen = .trades }.buttonStyle(.borderedProminent)
+            Button("Add your stocks") { open(.stocks) }.buttonStyle(.borderedProminent)
         }
         .padding(24)
     }
 
     private var holdingsList: some View {
         HoldingsList(range: range)
+    }
+
+    private func open(_ section: MainSection) {
+        mainSection = section
+        openWindow(id: "main")
+        NSApp.activate()
     }
 
     private var footer: some View {
@@ -93,13 +99,9 @@ struct OverviewView: View {
             }
             .help("Refresh")
             .disabled(store.isLoading)
-            Button { screen = .trades } label: { Image(systemName: "plus") }.help("Add trade")
-            Button { screen = .trades } label: { Image(systemName: "list.bullet") }.help("Trades")
             Button { screen = .alerts } label: { Image(systemName: "bell") }.help("Price alerts")
-            Button {
-                openWindow(id: "settings")
-                NSApp.activate()
-            } label: { Image(systemName: "gearshape") }.help("Settings")
+            Button { open(.stocks) } label: { Image(systemName: "list.bullet") }.help("Holdings")
+            Button { open(.settings) } label: { Image(systemName: "gearshape") }.help("Settings")
         }
         .font(.callout)
         .imageScale(.large)
@@ -153,26 +155,43 @@ enum Series: Hashable {
     }
 }
 
+/// Two points picked by dragging across a chart; values in between are compounded returns.
+struct ChartSelection {
+    var from: PerformancePoint
+    var to: PerformancePoint
+
+    /// Change between the two points for a series of returns-since-start.
+    func change(_ series: Series) -> Double? {
+        guard let a = series.value(from), let b = series.value(to) else { return nil }
+        return (1 + b) / (1 + a) - 1
+    }
+}
+
 struct PerformanceSection: View {
     @Environment(PortfolioStore.self) private var store
     @Environment(\.colorScheme) private var scheme
     @AppStorage("chartRange") private var range: ChartRange = .ytd
     @State private var hoverDate: Date?
+    @State private var dragStart: Date?
+    @State private var dragEnd: Date?
+    var chartHeight: CGFloat = 180
 
     var body: some View {
         let points = store.curves[range] ?? []
-        let hovered = hoverDate.flatMap { date in points.min { abs($0.date.timeIntervalSince(date)) < abs($1.date.timeIntervalSince(date)) } }
+        let selection = selection(points)
+        let hovered = selection == nil ? nearest(hoverDate, in: points) : nil
         let shown = hovered ?? points.last
         // Enabled benchmarks keep their slot even while their data loads, so the layout never jumps.
         let series = [Series.portfolio] + store.enabledBenchmarks.map(Series.benchmark)
+        let headline = selection.map { $0.change(.portfolio) } ?? shown?.portfolio
 
         VStack(alignment: .leading, spacing: 10) {
             HStack(alignment: .firstTextBaseline) {
                 VStack(alignment: .leading, spacing: 2) {
-                    Text(shown.map { $0.portfolio.signedPercent } ?? "…")
+                    Text(headline?.signedPercent ?? "…")
                         .font(.system(size: 26, weight: .semibold, design: .rounded).monospacedDigit())
-                        .foregroundStyle((shown?.portfolio ?? 0).gainColor)
-                    Text(caption(hovered: hovered, points: points))
+                        .foregroundStyle((headline ?? 0).gainColor)
+                    Text(selection.map(selectionCaption) ?? caption(hovered: hovered, points: points))
                         .font(.caption).foregroundStyle(.secondary)
                 }
                 Spacer()
@@ -185,21 +204,36 @@ struct PerformanceSection: View {
                 .fixedSize()
             }
 
-            legend(series: series, shown: shown)
+            legend(series: series) { s in selection.map { $0.change(s) } ?? shown.flatMap { s.value($0) } }
 
-            chart(points: points, series: series, hovered: hovered)
-                .frame(height: 180)
+            chart(points: points, series: series, hovered: hovered, selection: selection)
+                .frame(height: chartHeight)
         }
         .padding(14)
-        .onChange(of: range) { hoverDate = nil }
+        .onChange(of: range) { hoverDate = nil; dragStart = nil; dragEnd = nil }
     }
 
-    /// Legend doubling as the value readout (follows the crosshair).
+    private func nearest(_ date: Date?, in points: [PerformancePoint]) -> PerformancePoint? {
+        date.flatMap { date in points.min { abs($0.date.timeIntervalSince(date)) < abs($1.date.timeIntervalSince(date)) } }
+    }
+
+    private func selection(_ points: [PerformancePoint]) -> ChartSelection? {
+        guard let a = nearest(dragStart, in: points), let b = nearest(dragEnd, in: points), a.date != b.date else { return nil }
+        return a.date < b.date ? ChartSelection(from: a, to: b) : ChartSelection(from: b, to: a)
+    }
+
+    private func selectionCaption(_ s: ChartSelection) -> String {
+        range == .day
+            ? "\(s.from.date.formatted(date: .omitted, time: .shortened)) – \(s.to.date.formatted(date: .omitted, time: .shortened))"
+            : "\(s.from.date.formatted(date: .abbreviated, time: .omitted)) – \(s.to.date.formatted(date: .abbreviated, time: .omitted))"
+    }
+
+    /// Legend doubling as the value readout (follows the crosshair, or shows the dragged range's change).
     /// Fixed 4-column grid, so values changing never reflow it.
-    private func legend(series: [Series], shown: PerformancePoint?) -> some View {
+    private func legend(series: [Series], value: @escaping (Series) -> Double?) -> some View {
         LazyVGrid(columns: Array(repeating: GridItem(.flexible(), spacing: 6, alignment: .leading), count: 1 + BenchmarkID.maxEnabled), alignment: .leading, spacing: 6) {
             ForEach(series, id: \.self) { s in
-                let value = shown.flatMap { s.value($0) }
+                let value = value(s)
                 VStack(alignment: .leading, spacing: 1) {
                     HStack(spacing: 5) {
                         LegendSwatch(series: s)
@@ -230,7 +264,7 @@ struct PerformanceSection: View {
         }
     }
 
-    private func chart(points: [PerformancePoint], series: [Series], hovered: PerformancePoint?) -> some View {
+    private func chart(points: [PerformancePoint], series: [Series], hovered: PerformancePoint?, selection: ChartSelection?) -> some View {
         let domain = yDomain(points: points, series: series)
         let span = domain.upperBound - domain.lowerBound
         let digits = span < 0.03 ? 2 : span < 0.15 ? 1 : 0
@@ -247,10 +281,23 @@ struct PerformanceSection: View {
                             .lineStyle(s.stroke(width: s == .portfolio ? 2.5 : 2))
                     }
                 }
-                if let last = points.last, let v = s.value(last), hovered == nil {
+                if let last = points.last, let v = s.value(last), hovered == nil, selection == nil {
                     PointMark(x: .value("Date", last.date), y: .value("Return", v))
                         .foregroundStyle(s.color(scheme))
                         .symbolSize(30)
+                }
+            }
+            if let selection {
+                let tint = (selection.change(.portfolio) ?? 0).gainColor
+                RectangleMark(xStart: .value("From", selection.from.date), xEnd: .value("To", selection.to.date))
+                    .foregroundStyle(tint.opacity(0.12))
+                ForEach([selection.from, selection.to]) { p in
+                    RuleMark(x: .value("Date", p.date))
+                        .foregroundStyle(tint)
+                        .lineStyle(StrokeStyle(lineWidth: 1))
+                    PointMark(x: .value("Date", p.date), y: .value("Return", p.portfolio))
+                        .foregroundStyle(tint)
+                        .symbolSize(60)
                 }
             }
             if let hovered {
@@ -278,6 +325,17 @@ struct PerformanceSection: View {
                             hoverDate = nil
                         }
                     }
+                    // Drag across the chart to measure the change between two days, like Stocks.
+                    .gesture(
+                        DragGesture(minimumDistance: 4)
+                            .onChanged { drag in
+                                guard let plot = proxy.plotFrame else { return }
+                                let x = geo[plot].origin.x
+                                if dragStart == nil { dragStart = proxy.value(atX: drag.startLocation.x - x) }
+                                dragEnd = proxy.value(atX: drag.location.x - x)
+                            }
+                            .onEnded { _ in dragStart = nil; dragEnd = nil }
+                    )
             }
         }
         .chartYScale(domain: domain)

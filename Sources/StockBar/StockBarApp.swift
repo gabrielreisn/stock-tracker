@@ -2,7 +2,14 @@ import SwiftUI
 
 @main
 struct StockBarApp: App {
-    @State private var store = PortfolioStore()
+    @State private var store: PortfolioStore
+    @State private var funds: FundStore
+
+    init() {
+        let store = PortfolioStore()
+        _store = State(initialValue: store)
+        _funds = State(initialValue: FundStore(portfolio: store))
+    }
 
     var body: some Scene {
         MenuBarExtra {
@@ -18,11 +25,12 @@ struct StockBarApp: App {
         }
         .menuBarExtraStyle(.window)
 
-        Window("StockBar Settings", id: "settings") {
-            SettingsWindow()
+        Window("StockBar", id: "main") {
+            MainWindow()
                 .environment(store)
+                .environment(funds)
         }
-        .windowResizability(.contentSize)
+        .defaultSize(width: 1200, height: 860)
         .defaultPosition(.center)
         .defaultLaunchBehavior(.suppressed)
     }

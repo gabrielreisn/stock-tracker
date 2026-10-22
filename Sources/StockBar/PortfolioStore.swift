@@ -45,6 +45,11 @@ final class PortfolioStore {
     private(set) var lastUpdated: Date?
     private(set) var errors: [String] = []
     private(set) var alerts: [PriceAlert] = []
+    /// This year's and upcoming cash payments on today's holdings, newest first.
+    private(set) var dividends: [DividendPayment] = []
+    /// Today's holdings at the latest prices, in reais.
+    private(set) var totalValue: Double = 0
+    private(set) var bonds: [Bond] = []
 
     var menuBarDisplay: MenuBarDisplay {
         didSet { UserDefaults.standard.set(menuBarDisplay.rawValue, forKey: "menuBarDisplay") }
@@ -67,6 +72,8 @@ final class PortfolioStore {
     }
 
     private var histories: [String: PriceHistory] = [:]
+    /// B3's announcements per ticker; tickers B3 has none for (FIIs, ETFs) fall back to Yahoo's dividend events.
+    private var b3Dividends: [String: [(kind: DividendKind, recordDay: Int, paymentDay: Int?, perShare: Double)]] = [:]
     private var intraday: [String: IntradaySeries] = [:]
     private var cdi = Benchmark(points: [], kind: .daily)
     private var ipca = Benchmark(points: [], kind: .monthly)
@@ -87,6 +94,7 @@ final class PortfolioStore {
     }()
     static let dataURL = directory.appendingPathComponent("trades.json")
     private static let alertsURL = directory.appendingPathComponent("alerts.json")
+    private static let bondsURL = directory.appendingPathComponent("bonds.json")
     private static let cdiURL = directory.appendingPathComponent("cdi-cache.json")
     private static let ipcaURL = directory.appendingPathComponent("ipca-cache.json")
     private static let ifixURL = directory.appendingPathComponent("ifix-cache.json")
@@ -100,6 +108,7 @@ final class PortfolioStore {
         enabledBenchmarks = Array(BenchmarkID.allCases.filter(saved.contains).prefix(BenchmarkID.maxEnabled))
         load()
         loadAlerts()
+        loadBonds()
         loadBenchmarks()
         AlertNotifier.shared.setUp()
         recompute()
@@ -121,15 +130,27 @@ final class PortfolioStore {
         Task { await refresh() }
     }
 
-    func update(_ trade: Trade) {
-        guard let i = trades.firstIndex(where: { $0.id == trade.id }) else { return }
-        trades[i] = trade
+    /// Average price of the buys that have one, weighted by quantity.
+    func averagePrice(_ ticker: String) -> Double? {
+        let priced = trades.filter { $0.ticker == ticker && $0.kind == .buy && $0.price != nil }
+        let shares = priced.reduce(0) { $0 + $1.quantity }
+        guard shares > 0 else { return nil }
+        return priced.reduce(0) { $0 + $1.quantity * $1.price! } / shares
+    }
+
+    /// Sets a stock's holding to `quantity` at `averagePrice`, folding its trades into one
+    /// (dated like the first, which nothing relies on).
+    func setQuantity(_ ticker: String, to quantity: Double, averagePrice: Double?) {
+        let first = trades.first { $0.ticker == ticker }
+        trades.removeAll { $0.ticker == ticker }
+        trades.append(Trade(ticker: ticker, kind: .buy, date: first?.date ?? .now, quantity: quantity, price: averagePrice))
+        trades.sort { $0.date < $1.date }
         save()
         recompute()
     }
 
-    func delete(_ trade: Trade) {
-        trades.removeAll { $0.id == trade.id }
+    func removeStock(_ ticker: String) {
+        trades.removeAll { $0.ticker == ticker }
         save()
         recompute()
     }
@@ -139,6 +160,35 @@ final class PortfolioStore {
         let decoder = JSONDecoder()
         decoder.dateDecodingStrategy = .iso8601
         trades = (try? decoder.decode([Trade].self, from: data)) ?? []
+    }
+
+    // MARK: - Bonds
+
+    /// Prices bonds with the CDI and IPCA series loaded for the benchmarks.
+    var bondPricer: BondPricer {
+        BondPricer(cdi: cdiPoints, ipca: Dictionary(ipcaPoints.map { ($0.day / 100, $0.rate) }, uniquingKeysWith: { $1 }))
+    }
+
+    func saveBond(_ bond: Bond) {
+        if let i = bonds.firstIndex(where: { $0.id == bond.id }) { bonds[i] = bond } else { bonds.append(bond) }
+        bonds.sort { ($0.maturityDay, $0.issuer) < ($1.maturityDay, $1.issuer) }
+        saveBonds()
+    }
+
+    func deleteBond(_ bond: Bond) {
+        bonds.removeAll { $0.id == bond.id }
+        saveBonds()
+    }
+
+    private func loadBonds() {
+        guard let data = try? Data(contentsOf: Self.bondsURL) else { return }
+        bonds = (try? JSONDecoder().decode([Bond].self, from: data)) ?? []
+    }
+
+    private func saveBonds() {
+        let encoder = JSONEncoder()
+        encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
+        try? encoder.encode(bonds).write(to: Self.bondsURL, options: .atomic)
     }
 
     // MARK: - Price alerts
@@ -169,6 +219,9 @@ final class PortfolioStore {
         alerts.removeAll { $0.id == alert.id }
         saveAlerts()
     }
+
+    /// Cumulative CDI level on a day (growth between two days is the ratio), for the fund comparison.
+    func cdiLevel(at day: Int) -> Double? { cdi.isEmpty ? nil : cdi.level(at: day) }
 
     /// Latest price in the ticker's own currency (dollars for US stocks).
     func livePrice(_ ticker: String) -> Double? { intraday[ticker]?.last }
@@ -293,6 +346,14 @@ final class PortfolioStore {
             if let history { histories[ticker] = history } else { newErrors.append("No data for \(MarketData.displayName(ticker))") }
         }
         if staleHistories, !needHistory.isEmpty { historiesFetchedAt = .now }
+        if !needHistory.isEmpty {
+            let b3Tickers = tickers.filter(MarketData.isB3)
+            let announced = await withTaskGroup(of: (String, [(kind: DividendKind, recordDay: Int, paymentDay: Int?, perShare: Double)]?).self) { group in
+                for ticker in b3Tickers { group.addTask { (ticker, try? await MarketData.b3Dividends(for: ticker)) } }
+                return await group.reduce(into: []) { $0.append($1) }
+            }
+            for (ticker, rows) in announced { b3Dividends[ticker] = rows }
+        }
 
         let intradayResults = await withTaskGroup(of: (String, IntradaySeries?).self) { group in
             // Alerts can watch tickers that aren't held.
@@ -318,7 +379,7 @@ final class PortfolioStore {
         recompute()
 
         let staleBenchmarks = benchmarksFetchedAt.map { Date.now.timeIntervalSince($0) > 6 * 3600 } ?? true
-        if staleBenchmarks, !tickers.isEmpty {
+        if staleBenchmarks, !tickers.isEmpty || !bonds.isEmpty {
             do {
                 async let newCDI = updatedSeries(12, cached: cdiPoints, overlapDays: 10)
                 async let newIPCA = updatedSeries(433, cached: ipcaPoints, overlapDays: 70)
@@ -380,13 +441,15 @@ final class PortfolioStore {
         let histories = pricesInReais()
         let intraday = intradayInReais()
 
-        var result = quantities.map { Holding(ticker: $0.key, name: histories[$0.key]?.name, quantity: $0.value) }
+        var result = quantities.map { Holding(ticker: $0.key, name: histories[$0.key]?.name, quantity: $0.value, averagePrice: averagePrice($0.key)) }
         let values = result.map { $0.quantity * (histories[$0.ticker]?.last ?? 0) }
         let total = values.reduce(0, +)
         if total > 0 {
             for i in result.indices { result[i].weight = values[i] / total }
         }
         holdings = result.sorted { $0.weight > $1.weight }
+        totalValue = total
+        dividends = dividendPayments(quantities)
 
         let daily = dailyIndex(quantities, histories)
         let references = ReferenceSeries(sp500: histories[MarketData.sp500Symbol], ifix: liveIFIX(), ibov: histories[MarketData.ibovSymbol])
@@ -397,8 +460,9 @@ final class PortfolioStore {
         let today = DayKey.from(.now, calendar: .b3)
         let tradedToday = intraday.filter { $0.value.day == today && $0.value.previousClose > 0 }
         newReturns[.day] = tradedToday.mapValues { $0.last / $0.previousClose - 1 }
-        newTickerCurves[.day] = tradedToday.compactMapValues { s in
-            s.previousClose > 0 ? downsampled([0] + s.prices.map { $0 / s.previousClose - 1 } + [s.last / s.previousClose - 1], limit: 80) : nil
+        newTickerCurves[.day] = tradedToday.mapValues { s -> [Double] in
+            let path: [Double] = s.prices.map { $0 / s.previousClose - 1 }
+            return downsampled([0] + path + [s.last / s.previousClose - 1], limit: 80)
         }
         for range in ChartRange.allCases where range != .day {
             newCurves[range] = rebased(daily, from: range.startDay, references: references)
@@ -417,6 +481,33 @@ final class PortfolioStore {
         tickerReturns = newReturns
         tickerCurves = newTickerCurves
     }
+
+    /// Payments landing this year or later, for today's quantities (trades carry no dates to say otherwise).
+    /// B3 companies use B3's announcements (dividend vs JCP, with payment dates); everything else uses
+    /// Yahoo's ex-dividend events, converted to reais at that day's dollar for US stocks.
+    private func dividendPayments(_ quantities: [String: Double]) -> [DividendPayment] {
+        let yearStart = DayKey.from(.now) / 10_000 * 10_000 + 101
+        let dollar = histories[MarketData.dollarSymbol]
+        var result: [DividendPayment] = []
+        for (ticker, quantity) in quantities {
+            if let rows = b3Dividends[ticker] {
+                for r in rows where (r.paymentDay ?? r.recordDay) >= yearStart {
+                    result.append(DividendPayment(ticker: ticker, kind: r.kind, recordDay: r.recordDay, paymentDay: r.paymentDay,
+                                                  perShare: r.perShare, quantity: quantity, amount: r.perShare * quantity))
+                }
+            } else if let events = histories[ticker]?.dividends {
+                let isUS = MarketData.isInDollars(ticker)
+                for e in events where e.day >= yearStart {
+                    let rate = isUS ? (dollar?.price(onOrBefore: e.day) ?? dollar?.last) : 1
+                    guard let rate else { continue }
+                    result.append(DividendPayment(ticker: ticker, kind: isUS ? .dividend : .income, recordDay: e.day, paymentDay: nil,
+                                                  datedByExDate: true, perShare: e.amount, quantity: quantity, amount: e.amount * quantity * rate))
+                }
+            }
+        }
+        return result.sorted { ($0.day, $0.ticker) > ($1.day, $1.ticker) }
+    }
+
 
     /// Growth of the current portfolio (today's quantities) held through every session since 2010.
     /// Each session's return weights stocks by their value at the previous close; stocks not yet listed are left out.
