@@ -2,7 +2,7 @@ import Foundation
 import Observation
 
 enum ChartRange: String, CaseIterable, Identifiable {
-    case day = "1D", quarter = "3M", ytd = "YTD", all = "All"
+    case day = "1D", quarter = "3M", ytd = "YTD", year = "1Y", all = "All"
     var id: String { rawValue }
 
     static let earliestDay = 20100101
@@ -14,20 +14,8 @@ enum ChartRange: String, CaseIterable, Identifiable {
         case .day: return DayKey.from(.now)
         case .quarter: return DayKey.from(cal.date(byAdding: .month, value: -3, to: .now)!)
         case .ytd: return DayKey.from(cal.date(from: cal.dateComponents([.year], from: .now))!)
+        case .year: return DayKey.from(cal.date(byAdding: .year, value: -1, to: .now)!)
         case .all: return Self.earliestDay
-        }
-    }
-}
-
-enum MenuBarDisplay: String, CaseIterable, Identifiable {
-    case dayChange, ytdReturn, ytdVersusCDI, iconOnly
-    var id: String { rawValue }
-    var label: String {
-        switch self {
-        case .dayChange: "Today's change"
-        case .ytdReturn: "Year-to-date return"
-        case .ytdVersusCDI: "Year-to-date vs CDI"
-        case .iconOnly: "Icon only"
         }
     }
 }
@@ -50,10 +38,6 @@ final class PortfolioStore {
     /// Today's holdings at the latest prices, in reais.
     private(set) var totalValue: Double = 0
     private(set) var bonds: [Bond] = []
-
-    var menuBarDisplay: MenuBarDisplay {
-        didSet { UserDefaults.standard.set(menuBarDisplay.rawValue, forKey: "menuBarDisplay") }
-    }
 
     /// Benchmarks drawn on the chart, in the fixed order of `BenchmarkID.allCases` (so colors never move).
     var enabledBenchmarks: [BenchmarkID] {
@@ -100,7 +84,6 @@ final class PortfolioStore {
     private static let ifixURL = directory.appendingPathComponent("ifix-cache.json")
 
     init() {
-        menuBarDisplay = MenuBarDisplay(rawValue: UserDefaults.standard.string(forKey: "menuBarDisplay") ?? "") ?? .dayChange
         // IPCA+5% was replaced by IPCA+6%; carry the old choice over.
         let saved = (UserDefaults.standard.stringArray(forKey: "benchmarks") ?? ["cdi", "ipca"])
             .map { $0 == "ipcaPlus5" ? BenchmarkID.ipcaPlus6.rawValue : $0 }
@@ -532,6 +515,16 @@ final class PortfolioStore {
     }
 
     /// Market-index benchmarks, in reais.
+    /// Stock prices in reais by ticker (US stocks at each day's dollar), for the consolidated overview.
+    func stockHistoriesInReais() -> [String: PriceHistory] { pricesInReais() }
+
+    /// Returns since `start` for any daily value series, with every benchmark alongside, like the stock curves.
+    func performance(of daily: [(day: Int, value: Double)], from start: Int) -> [PerformancePoint] {
+        let histories = pricesInReais()
+        let references = ReferenceSeries(sp500: histories[MarketData.sp500Symbol], ifix: liveIFIX(), ibov: histories[MarketData.ibovSymbol])
+        return rebased(daily, from: start, references: references)
+    }
+
     private struct ReferenceSeries {
         var sp500: PriceHistory?
         var ifix: PriceHistory?
@@ -634,16 +627,4 @@ final class PortfolioStore {
 
 
     var dayChange: Double? { curves[.day]?.last?.portfolio }
-
-    var menuBarTitle: String {
-        guard !trades.isEmpty else { return "" }
-        switch menuBarDisplay {
-        case .dayChange: return dayChange?.signedPercent ?? ""
-        case .ytdReturn: return curves[.ytd]?.last?.portfolio.signedPercent ?? ""
-        case .ytdVersusCDI:
-            guard let last = curves[.ytd]?.last, let cdi = last.benchmarks[.cdi] else { return "" }
-            return "\((last.portfolio - cdi).signedPoints) CDI"
-        case .iconOnly: return ""
-        }
-    }
 }

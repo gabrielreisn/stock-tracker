@@ -5,6 +5,9 @@ enum BondKind: String, Codable, CaseIterable, Identifiable {
     case debenture = "Debênture", incentivizedDebenture = "Debênture incentivada"
     var id: String { rawValue }
 
+    /// Guaranteed by the FGC (deposits and bank-issued paper); CRI, CRA and debentures aren't.
+    var isFGCCovered: Bool { [.cdb, .lca, .lci, .lc].contains(self) }
+
     /// Exempt from income tax for individuals.
     var isTaxExempt: Bool { [.lca, .lci, .cri, .cra, .incentivizedDebenture].contains(self) }
 }
@@ -46,6 +49,8 @@ struct Bond: Codable, Identifiable, Hashable {
     var id = UUID()
     var kind: BondKind
     var issuer: String
+    /// Issuer's CNPJ digits, for the FGC limit (filled from Open Finance when it has them).
+    var issuerCNPJ: String?
     var code: String
     var issueDay: Int
     var maturityDay: Int
@@ -198,21 +203,38 @@ enum BusinessDays {
         return set
     }()
 
+    /// Every business day from 2000 to 2070, sorted, so counting is two binary searches
+    /// (pricing a bond on each day of a year would otherwise walk the calendar thousands of times).
+    private static let all: [Int] = {
+        var days: [Int] = [], date = DayKey.date(20000101)
+        let stop = DayKey.date(20701231)
+        while date <= stop {
+            let day = DayKey.from(date)
+            if !holidays.contains(day), !Calendar.current.isDateInWeekend(date) { days.append(day) }
+            date = Calendar.current.date(byAdding: .day, value: 1, to: date)!
+        }
+        return days
+    }()
+
+    private static func lowerBound(_ day: Int) -> Int {
+        var lo = 0, hi = all.count
+        while lo < hi { let mid = (lo + hi) / 2; if all[mid] < day { lo = mid + 1 } else { hi = mid } }
+        return lo
+    }
+
     static func isBusinessDay(_ day: Int) -> Bool {
-        !holidays.contains(day) && !Calendar.current.isDateInWeekend(DayKey.date(day))
+        let i = lowerBound(day)
+        return i < all.count && all[i] == day
     }
 
     /// Business days in [start, end).
     static func count(from start: Int, to end: Int) -> Int {
-        guard end > start else { return 0 }
-        var date = DayKey.date(start), n = 0
-        let stop = DayKey.date(end)
-        while date < stop {
-            let day = DayKey.from(date)
-            if !holidays.contains(day), !Calendar.current.isDateInWeekend(date) { n += 1 }
-            date = Calendar.current.date(byAdding: .day, value: 1, to: date)!
-        }
-        return n
+        end > start ? lowerBound(end) - lowerBound(start) : 0
+    }
+
+    /// The business days in [start, end].
+    static func days(from start: Int, through end: Int) -> [Int] {
+        Array(all[lowerBound(start)..<lowerBound(end + 1)])
     }
 
     /// Anonymous Gregorian algorithm.

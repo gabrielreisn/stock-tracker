@@ -6,7 +6,6 @@ struct SettingsWindow: View {
     @State private var launchAtLogin = SMAppService.mainApp.status == .enabled
 
     var body: some View {
-        @Bindable var store = store
         Form {
             Section {
                 ForEach(BenchmarkID.allCases) { id in
@@ -34,11 +33,7 @@ struct SettingsWindow: View {
                     .font(.caption).foregroundStyle(.secondary)
             }
 
-            Section("Menu bar") {
-                Picker("Show", selection: $store.menuBarDisplay) {
-                    ForEach(MenuBarDisplay.allCases) { Text($0.label).tag($0) }
-                }
-            }
+            PluggySettingsSection()
 
             Section("General") {
                 Toggle("Launch at login", isOn: $launchAtLogin)

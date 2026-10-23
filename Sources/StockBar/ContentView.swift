@@ -170,14 +170,24 @@ struct ChartSelection {
 struct PerformanceSection: View {
     @Environment(PortfolioStore.self) private var store
     @Environment(\.colorScheme) private var scheme
-    @AppStorage("chartRange") private var range: ChartRange = .ytd
+    @AppStorage private var range: ChartRange
     @State private var hoverDate: Date?
     @State private var dragStart: Date?
     @State private var dragEnd: Date?
-    var chartHeight: CGFloat = 180
+    private let chartHeight: CGFloat
+    /// Curves to show instead of the stocks' (the consolidated overview passes its own).
+    private let curves: [ChartRange: [PerformancePoint]]?
+    private let ranges: [ChartRange]
+
+    init(chartHeight: CGFloat = 180, curves: [ChartRange: [PerformancePoint]]? = nil, ranges: [ChartRange] = ChartRange.allCases, rangeKey: String = "chartRange") {
+        self.chartHeight = chartHeight
+        self.curves = curves
+        self.ranges = ranges
+        _range = AppStorage(wrappedValue: ranges.contains(.ytd) ? .ytd : ranges[0], rangeKey)
+    }
 
     var body: some View {
-        let points = store.curves[range] ?? []
+        let points = (curves ?? store.curves)[range] ?? []
         let selection = selection(points)
         let hovered = selection == nil ? nearest(hoverDate, in: points) : nil
         let shown = hovered ?? points.last
@@ -196,7 +206,7 @@ struct PerformanceSection: View {
                 }
                 Spacer()
                 Picker("Range", selection: $range) {
-                    ForEach(ChartRange.allCases) { Text($0.rawValue).tag($0) }
+                    ForEach(ranges) { Text($0.rawValue).tag($0) }
                 }
                 .pickerStyle(.segmented)
                 .labelsHidden()
@@ -260,6 +270,7 @@ struct PerformanceSection: View {
                 ? "today" : "last session, \(first.date.formatted(.dateTime.weekday(.wide).day().month()))"
         case .quarter: return "last 3 months"
         case .ytd: return "year to date"
+        case .year: return "last 12 months"
         case .all: return "since \(first.date.formatted(.dateTime.month(.abbreviated).year()))"
         }
     }
@@ -387,7 +398,7 @@ struct PerformanceSection: View {
         switch range {
         case .day: .dateTime.hour().minute()
         case .quarter: .dateTime.day().month(.abbreviated)
-        case .ytd: .dateTime.month(.abbreviated)
+        case .ytd, .year: .dateTime.month(.abbreviated)
         case .all: .dateTime.year()
         }
     }

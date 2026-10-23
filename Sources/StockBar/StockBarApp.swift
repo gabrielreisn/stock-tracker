@@ -4,6 +4,7 @@ import SwiftUI
 struct StockBarApp: App {
     @State private var store: PortfolioStore
     @State private var funds: FundStore
+    @State private var pluggy = PluggyStore()
 
     init() {
         let store = PortfolioStore()
@@ -16,12 +17,7 @@ struct StockBarApp: App {
             ContentView()
                 .environment(store)
         } label: {
-            let title = store.menuBarTitle
-            if title.isEmpty {
-                Image(systemName: "chart.line.uptrend.xyaxis")
-            } else {
-                Text("\(Image(systemName: "chart.line.uptrend.xyaxis")) \(title)")
-            }
+            Image(systemName: "chart.line.uptrend.xyaxis")
         }
         .menuBarExtraStyle(.window)
 
@@ -29,9 +25,11 @@ struct StockBarApp: App {
             MainWindow()
                 .environment(store)
                 .environment(funds)
+                .environment(pluggy)
         }
         .defaultSize(width: 1200, height: 860)
         .defaultPosition(.center)
-        .defaultLaunchBehavior(.suppressed)
+        // The main window is the app; the menu bar item is a quick-look widget.
+        .defaultLaunchBehavior(.presented)
     }
 }

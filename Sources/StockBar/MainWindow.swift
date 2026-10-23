@@ -2,14 +2,14 @@ import Charts
 import SwiftUI
 
 enum MainSection: String, CaseIterable, Identifiable {
-    case stocks, bonds, funds, fundComparison, settings
+    case overview, stocks, bonds, funds, fgc, fundComparison, openFinance, settings
     var id: String { rawValue }
 }
 
 /// The full app window: portfolio and sections in a sidebar, the selected section on the right.
 struct MainWindow: View {
     @Environment(FundStore.self) private var funds
-    @AppStorage("mainSection") private var section: MainSection = .stocks
+    @AppStorage("mainSection") private var section: MainSection = .overview
 
     var body: some View {
         NavigationSplitView {
@@ -17,10 +17,13 @@ struct MainWindow: View {
                 .navigationSplitViewColumnWidth(min: 200, ideal: 230, max: 300)
         } detail: {
             switch section {
+            case .overview: OverviewPage()
             case .stocks: StocksPage()
             case .bonds: BondsPage()
             case .funds: FundHoldingsPage()
+            case .fgc: FGCPage()
             case .fundComparison: FundsWindow()
+            case .openFinance: OpenFinancePage()
             case .settings:
                 ScrollView { SettingsWindow().padding(.vertical, 20) }
                     .frame(maxWidth: .infinity)
@@ -29,7 +32,10 @@ struct MainWindow: View {
         .frame(minWidth: 1120, minHeight: 720)
         .task { funds.loadHoldings() }
         // A menu bar app has no Dock icon; give it one while this window is open so it can be found with ⌘-Tab.
-        .onAppear { NSApp.setActivationPolicy(.regular) }
+        .onAppear {
+            NSApp.setActivationPolicy(.regular)
+            NSApp.activate()
+        }
         .onDisappear { NSApp.setActivationPolicy(.accessory) }
     }
 
@@ -40,10 +46,16 @@ struct MainWindow: View {
                 .padding(.top, 12)
                 .padding(.bottom, 8)
             List(selection: Binding(get: { section == .settings ? nil : section }, set: { if let s = $0 { section = s } })) {
+                Section {
+                    Label("Overview", systemImage: "chart.pie").tag(MainSection.overview)
+                }
+                Divider()
                 Label("Stocks", systemImage: "chart.line.uptrend.xyaxis").tag(MainSection.stocks)
                 Label("Bonds", systemImage: "banknote").tag(MainSection.bonds)
                 Label("Funds", systemImage: "building.columns").tag(MainSection.funds)
+                Label("FGC Watcher", systemImage: "shield.lefthalf.filled").tag(MainSection.fgc)
                 Label("Fund Comparison", systemImage: "chart.xyaxis.line").tag(MainSection.fundComparison)
+                Label("Open Finance", systemImage: "building.2").tag(MainSection.openFinance)
             }
             .listStyle(.sidebar)
             Divider()
@@ -68,7 +80,7 @@ private struct PortfolioCard: View {
 
     var body: some View {
         let pricer = store.bondPricer
-        let bonds = store.bonds.reduce(0) { $0 + pricer.value($1).net }
+        let bonds = store.bonds.reduce(0) { $0 + pricer.value($1).gross }
         let fundsValue = funds.holdings.reduce(0) { $0 + (funds.value($1)?.gross ?? 0) }
         let total = store.totalValue + bonds + fundsValue
         VStack(alignment: .leading, spacing: 4) {
@@ -78,7 +90,7 @@ private struct PortfolioCard: View {
             if bonds > 0 || fundsValue > 0 {
                 Group {
                     Text("Stocks \(store.totalValue.compactReais)")
-                    if bonds > 0 { Text("Bonds \(bonds.compactReais) net") }
+                    if bonds > 0 { Text("Bonds \(bonds.compactReais)") }
                     if fundsValue > 0 { Text("Funds \(fundsValue.compactReais)") }
                 }
                 .font(.caption.monospacedDigit()).foregroundStyle(.secondary)
@@ -269,7 +281,7 @@ private struct KindTag: View {
     }
 }
 
-private extension View {
+extension View {
     /// The rounded panel the sketch draws around each block.
     func card() -> some View {
         background(.quaternary.opacity(0.35), in: RoundedRectangle(cornerRadius: 12))

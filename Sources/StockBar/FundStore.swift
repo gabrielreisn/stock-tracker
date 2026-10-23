@@ -77,6 +77,7 @@ final class FundStore {
     var holdings: [FundHolding] = FundStore.loadHoldingsFile()
     var holdingSeries: [String: PriceHistory] = [:]
     var holdingsLoading = false
+    var registryDetails: [String: FundDetails] = [:]
 
     private var index: [FundInfo] = []
     /// Accent- and case-folded "name manager category cnpj" per index entry, for search.

@@ -1,8 +1,14 @@
 import SwiftUI
 
+enum StockSort: String {
+    case ticker, shares, average, price, value, gain, today, ytd
+}
+
 /// Every stock held, with adding, editing (quantity and average price) and removal.
 struct StockHoldingsSection: View {
     @Environment(PortfolioStore.self) private var store
+    @AppStorage("stockSort") private var sort: StockSort = .value
+    @AppStorage("stockSortAscending") private var ascending = false
 
     @State private var ticker = ""
     @State private var quantity = ""
@@ -15,7 +21,6 @@ struct StockHoldingsSection: View {
     @State private var pendingDelete: String?
     @FocusState private var editFocused: Bool
 
-    private static let rowHeight: CGFloat = 48
     private enum Width {
         static let shares: CGFloat = 96, average: CGFloat = 96, price: CGFloat = 96, value: CGFloat = 112
         static let gain: CGFloat = 116, today: CGFloat = 64, ytd: CGFloat = 72, actions: CGFloat = 56
@@ -42,9 +47,10 @@ struct StockHoldingsSection: View {
                 if store.holdings.isEmpty {
                     Text("No stocks yet. Add a ticker and quantity above.").foregroundStyle(.secondary).padding(24)
                 } else {
-                    ForEach(store.holdings) { h in
+                    let rows = sorted(store.holdings)
+                    ForEach(rows) { h in
                         row(h)
-                        if h.id != store.holdings.last?.id { Divider().padding(.horizontal, 14) }
+                        if h.id != rows.last?.id { Divider().padding(.horizontal, 14) }
                     }
                 }
             }
@@ -126,18 +132,36 @@ struct StockHoldingsSection: View {
 
     private var header: some View {
         HStack(spacing: 10) {
-            Text("Stock").frame(maxWidth: .infinity, alignment: .leading)
-            Text("Shares").frame(width: Width.shares, alignment: .trailing)
-            Text("Avg price").frame(width: Width.average, alignment: .trailing)
-            Text("Price").frame(width: Width.price, alignment: .trailing)
-            Text("Value").frame(width: Width.value, alignment: .trailing)
-            Text("Gain").frame(width: Width.gain, alignment: .trailing)
-            Text("Today").frame(width: Width.today, alignment: .trailing)
-            Text("YTD").frame(width: Width.ytd, alignment: .trailing)
+            column("Stock", .ticker, ascendingFirst: true).frame(maxWidth: .infinity, alignment: .leading)
+            column("Shares", .shares).frame(width: Width.shares, alignment: .trailing)
+            column("Avg price", .average).frame(width: Width.average, alignment: .trailing)
+            column("Price", .price).frame(width: Width.price, alignment: .trailing)
+            column("Value", .value).frame(width: Width.value, alignment: .trailing)
+            column("Gain", .gain).frame(width: Width.gain, alignment: .trailing)
+            column("Today", .today).frame(width: Width.today, alignment: .trailing)
+            column("YTD", .ytd).frame(width: Width.ytd, alignment: .trailing)
             Text("").frame(width: Width.actions)
         }
         .font(.caption).foregroundStyle(.secondary)
         .padding(.horizontal, 14).padding(.top, 12).padding(.bottom, 6)
+    }
+
+    private func column(_ title: String, _ key: StockSort, ascendingFirst: Bool = false) -> some View {
+        SortHeader(title: title, key: key, sort: $sort, ascending: $ascending, ascendingFirst: ascendingFirst)
+    }
+
+    /// Prices are in each stock's own currency, so sorting by price or average mixes reais and dollars, as the columns do.
+    private func sorted(_ rows: [Holding]) -> [Holding] {
+        switch sort {
+        case .ticker: rows.sorted(byText: { $0.ticker }, ascending: ascending)
+        case .shares: rows.sorted(by: { $0.quantity }, ascending: ascending)
+        case .average: rows.sorted(by: { $0.averagePrice }, ascending: ascending)
+        case .price: rows.sorted(by: { store.livePrice($0.ticker) }, ascending: ascending)
+        case .value: rows.sorted(by: { $0.weight }, ascending: ascending)
+        case .gain: rows.sorted(by: { h in h.averagePrice.flatMap { avg in store.livePrice(h.ticker).map { $0 / avg - 1 } } }, ascending: ascending)
+        case .today: rows.sorted(by: { store.tickerReturns[.day]?[$0.ticker] }, ascending: ascending)
+        case .ytd: rows.sorted(by: { store.tickerReturns[.ytd]?[$0.ticker] }, ascending: ascending)
+        }
     }
 
     private func row(_ h: Holding) -> some View {
@@ -197,7 +221,7 @@ struct StockHoldingsSection: View {
         }
         .font(.callout.monospacedDigit())
         .padding(.horizontal, 14)
-        .frame(height: Self.rowHeight)
+        .frame(height: PageLayout.rowHeight)
     }
 
     /// Against the average price, in the stock's own currency.

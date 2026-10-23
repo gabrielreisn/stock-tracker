@@ -1,32 +1,40 @@
 import Charts
 import SwiftUI
 
+enum FundSort: String {
+    case name, shares, price, gross, month, ytd, year
+}
+
 /// The funds held, valued at the latest share price from CVM (or the statement, when that's newer).
 struct FundHoldingsPage: View {
     @Environment(FundStore.self) private var funds
     @Environment(\.colorScheme) private var scheme
+    @State private var editing: FundHolding?
+    @AppStorage("fundSort") private var sort: FundSort = .gross
+    @AppStorage("fundSortAscending") private var ascending = false
     private static let brazil = Locale(identifier: "pt_BR")
+    private enum Width { static let shares: CGFloat = 110, price: CGFloat = 120, gross: CGFloat = 110, change: CGFloat = 64 }
 
     var body: some View {
-        let rows = funds.holdings.map { (holding: $0, value: funds.value($0)) }
-            .sorted { ($0.value?.gross ?? 0) > ($1.value?.gross ?? 0) }
+        let rows = sorted(funds.holdings.map { (holding: $0, value: funds.value($0)) })
         let total = rows.reduce(0) { $0 + ($1.value?.gross ?? 0) }
 
         ScrollView {
-            VStack(alignment: .leading, spacing: 20) {
-                HStack {
-                    Text("Funds").font(.title2.weight(.semibold))
-                    if funds.holdingsLoading { ProgressView().controlSize(.small).padding(.leading, 6) }
-                    Spacer()
+            VStack(alignment: .leading, spacing: PageLayout.spacing) {
+                PageHeader(title: "Funds") {
+                    if funds.holdingsLoading { ProgressView().controlSize(.small) }
+                    Button { editing = FundHolding(cnpj: "", name: "", kind: .fif, quantity: 0, taxExempt: false) } label: {
+                        Label("Add fund", systemImage: "plus")
+                    }
                 }
                 if rows.isEmpty {
                     Text("No funds held.").foregroundStyle(.secondary).frame(maxWidth: .infinity).padding(40)
                 } else {
-                    HStack(spacing: 10) {
-                        tile("Gross value", total.reais)
-                        tile("Last month", weighted(rows, \.month))
-                        tile("Year to date", weighted(rows, \.ytd))
-                        tile("Last 12 months", weighted(rows, \.year))
+                    TileRow {
+                        SummaryTile(title: "Gross value", value: total.reais)
+                        returnTile("Last month", weighted(rows, \.month))
+                        returnTile("Year to date", weighted(rows, \.ytd))
+                        returnTile("Last 12 months", weighted(rows, \.year))
                     }
                     table(rows)
                     allocation(rows, total: total)
@@ -35,51 +43,77 @@ struct FundHoldingsPage: View {
                         .fixedSize(horizontal: false, vertical: true)
                 }
             }
-            .padding(24)
+            .padding(PageLayout.padding)
         }
-        .task { funds.loadHoldings() }
+        .sheet(item: $editing) { FundHoldingForm(holding: $0).environment(funds) }
+        .task {
+            funds.loadHoldings()
+            await funds.loadRegistryDetails()
+        }
     }
 
     /// Value-weighted return over the funds that have one.
-    private func weighted(_ rows: [(holding: FundHolding, value: FundHoldingValue?)], _ key: KeyPath<FundHoldingValue, Double?>) -> String {
+    private func weighted(_ rows: [(holding: FundHolding, value: FundHoldingValue?)], _ key: KeyPath<FundHoldingValue, Double?>) -> Double? {
         var sum = 0.0, weight = 0.0
         for r in rows {
             guard let v = r.value, let x = v[keyPath: key] else { continue }
             sum += x * v.gross
             weight += v.gross
         }
-        return weight > 0 ? (sum / weight).signedPercent : "—"
+        return weight > 0 ? sum / weight : nil
+    }
+
+    private func returnTile(_ title: String, _ value: Double?) -> SummaryTile {
+        SummaryTile(title: title, value: value?.signedPercent ?? "—", tint: value.map(\.gainColor))
+    }
+
+    private func sorted(_ rows: [(holding: FundHolding, value: FundHoldingValue?)]) -> [(holding: FundHolding, value: FundHoldingValue?)] {
+        switch sort {
+        case .name: rows.sorted(byText: { $0.holding.name }, ascending: ascending)
+        case .shares: rows.sorted(by: { $0.holding.quantity }, ascending: ascending)
+        case .price: rows.sorted(by: { $0.value?.price }, ascending: ascending)
+        case .gross: rows.sorted(by: { $0.value?.gross }, ascending: ascending)
+        case .month: rows.sorted(by: { $0.value?.month }, ascending: ascending)
+        case .ytd: rows.sorted(by: { $0.value?.ytd }, ascending: ascending)
+        case .year: rows.sorted(by: { $0.value?.year }, ascending: ascending)
+        }
+    }
+
+    private func column(_ title: String, _ key: FundSort, ascendingFirst: Bool = false) -> some View {
+        SortHeader(title: title, key: key, sort: $sort, ascending: $ascending, ascendingFirst: ascendingFirst)
     }
 
     private func table(_ rows: [(holding: FundHolding, value: FundHoldingValue?)]) -> some View {
         VStack(spacing: 0) {
             HStack(spacing: 8) {
-                Text("Fund").frame(maxWidth: .infinity, alignment: .leading)
-                Text("Shares").frame(width: 110, alignment: .trailing)
-                Text("Share price").frame(width: 120, alignment: .trailing)
-                Text("Gross value").frame(width: 110, alignment: .trailing)
-                Text("1M").frame(width: 64, alignment: .trailing)
-                Text("YTD").frame(width: 64, alignment: .trailing)
-                Text("12M").frame(width: 64, alignment: .trailing)
+                column("Fund", .name, ascendingFirst: true).frame(maxWidth: .infinity, alignment: .leading)
+                column("Shares", .shares).frame(width: Width.shares, alignment: .trailing)
+                column("Share price", .price).frame(width: Width.price, alignment: .trailing)
+                column("Gross value", .gross).frame(width: Width.gross, alignment: .trailing)
+                column("1M", .month).frame(width: Width.change, alignment: .trailing)
+                column("YTD", .ytd).frame(width: Width.change, alignment: .trailing)
+                column("12M", .year).frame(width: Width.change, alignment: .trailing)
             }
             .font(.caption).foregroundStyle(.secondary)
             .padding(.horizontal, 14).padding(.top, 12).padding(.bottom, 6)
             Divider()
             ForEach(rows, id: \.holding.id) { row in
                 holdingRow(row.holding, row.value)
+                    .contentShape(Rectangle())
+                    .onTapGesture { editing = row.holding }
+                    .help("Click to edit")
                 Divider().padding(.horizontal, 14)
             }
             HStack {
                 Text("Total").fontWeight(.semibold)
                 Spacer()
-                Text(rows.reduce(0) { $0 + ($1.value?.gross ?? 0) }.reais).fontWeight(.semibold).frame(width: 110, alignment: .trailing)
-                Text("").frame(width: 64 * 3 + 16)
+                Text(rows.reduce(0) { $0 + ($1.value?.gross ?? 0) }.reais).fontWeight(.semibold).frame(width: Width.gross, alignment: .trailing)
+                Text("").frame(width: Width.change * 3 + 16)
             }
             .font(.callout.monospacedDigit())
             .padding(.horizontal, 14).padding(.vertical, 10)
         }
-        .background(.quaternary.opacity(0.35), in: RoundedRectangle(cornerRadius: 12))
-        .overlay(RoundedRectangle(cornerRadius: 12).stroke(.separator))
+        .card()
     }
 
     private func holdingRow(_ h: FundHolding, _ v: FundHoldingValue?) -> some View {
@@ -111,7 +145,7 @@ struct FundHoldingsPage: View {
         }
         .font(.callout.monospacedDigit())
         .padding(.horizontal, 14)
-        .frame(height: 52)
+        .frame(height: PageLayout.rowHeight)
     }
 
     private func percent(_ value: Double?) -> some View {
@@ -139,46 +173,45 @@ struct FundHoldingsPage: View {
 
     // MARK: - Allocation
 
+    /// By purpose (Selic, credit, inflation…), with the funds in each group named under it.
     private func allocation(_ rows: [(holding: FundHolding, value: FundHoldingValue?)], total: Double) -> some View {
         let palette: [UInt32] = scheme == .dark
             ? [0x3987E5, 0xD95926, 0x199E70, 0xC98500, 0xD55181, 0x9A6FE8]
             : [0x2A78D6, 0xEB6834, 0x1BAF7A, 0xEDA100, 0xE87BA4, 0x7E4FD6]
-        let valued = rows.compactMap { r in r.value.map { (name: r.holding.name, gross: $0.gross) } }
-        return HStack(alignment: .center, spacing: 24) {
-            Chart(Array(valued.enumerated()), id: \.offset) { i, r in
-                SectorMark(angle: .value("Value", r.gross), innerRadius: .ratio(0.6), angularInset: 1.5)
-                    .foregroundStyle(Color(hex: palette[i % palette.count]))
-            }
-            .frame(width: 180, height: 180)
-            VStack(alignment: .leading, spacing: 8) {
-                Text("Allocation").font(.headline)
-                ForEach(Array(valued.enumerated()), id: \.offset) { i, r in
-                    HStack(spacing: 8) {
-                        Circle().fill(Color(hex: palette[i % palette.count])).frame(width: 9, height: 9)
-                        Text(r.name).lineLimit(1)
-                        Spacer()
-                        Text((r.gross / max(total, 1)).percent).monospacedDigit().foregroundStyle(.secondary)
+        let valued = rows.compactMap { r in r.value.map { (holding: r.holding, gross: $0.gross) } }
+        let groups = Dictionary(grouping: valued) { funds.purpose(of: $0.holding) }
+            .map { (purpose: $0.key, funds: $0.value.sorted { $0.gross > $1.gross }, gross: $0.value.reduce(0) { $0 + $1.gross }) }
+            .sorted { $0.gross > $1.gross }
+        // Colors follow FundPurpose's order, so a group keeps its color as values move.
+        func color(_ p: FundPurpose) -> Color { Color(hex: palette[(FundPurpose.allCases.firstIndex(of: p) ?? 0) % palette.count]) }
+
+        return VStack(alignment: .leading, spacing: 12) {
+            Text("Allocation by purpose").font(.headline)
+            HStack(alignment: .top, spacing: 20) {
+                Chart(groups, id: \.purpose) { g in
+                    SectorMark(angle: .value("Value", g.gross), innerRadius: .ratio(0.6), angularInset: 1.5)
+                        .foregroundStyle(color(g.purpose))
+                }
+                .frame(width: 150, height: 150)
+                VStack(alignment: .leading, spacing: 10) {
+                    ForEach(groups, id: \.purpose) { g in
+                        VStack(alignment: .leading, spacing: 3) {
+                            AllocationLine(color: color(g.purpose), title: g.purpose.label, value: g.gross, total: total)
+                            ForEach(g.funds, id: \.holding.id) { f in
+                                AllocationLine(title: f.holding.name, value: f.gross, total: total)
+                            }
+                        }
                     }
-                    .font(.callout)
+                    Text("Grouped from each fund's name, type and CVM benchmark; change a fund's purpose in its form.")
+                        .font(.caption2).foregroundStyle(.tertiary)
                 }
             }
         }
         .padding(16)
-        .background(.quaternary.opacity(0.35), in: RoundedRectangle(cornerRadius: 12))
-        .overlay(RoundedRectangle(cornerRadius: 12).stroke(.separator))
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .card()
     }
 
-    private func tile(_ title: String, _ value: String) -> some View {
-        VStack(alignment: .leading, spacing: 3) {
-            Text(title).font(.caption).foregroundStyle(.secondary)
-            Text(value).font(.title3.weight(.semibold).monospacedDigit())
-                .foregroundStyle(value.hasPrefix("+") ? .green : value.hasPrefix("-") || value.hasPrefix("−") ? .red : .primary)
-                .lineLimit(1).minimumScaleFactor(0.7)
-        }
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .padding(12)
-        .background(.quaternary.opacity(0.5), in: RoundedRectangle(cornerRadius: 8))
-    }
 }
 
 private struct Tag: View {

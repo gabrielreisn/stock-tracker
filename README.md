@@ -3,14 +3,32 @@
 
 # StockBar
 
-A native macOS menu bar app (SwiftUI, no Electron) that tracks a Brazilian and US stock portfolio
-against CDI, IPCA, IPCA+6%, the S&P 500, IFIX and IBOV.
+A native macOS app (SwiftUI, no Electron) that tracks a Brazilian investment portfolio — stocks (B3 and US),
+bonds and funds — against CDI, IPCA, IPCA+6%, the S&P 500, IFIX and IBOV. It opens as a window, with a
+menu bar widget for a quick look.
 
 ## Install
 
 Download the latest `StockBar-<version>.dmg` from [Releases](../../releases), open it and drag StockBar to Applications.
 The app isn't notarized yet: on first launch, allow it in **System Settings → Privacy & Security → Open Anyway**.
 Requires macOS 15+ (Apple Silicon or Intel).
+
+## What's in it
+
+- **Overview** — the whole portfolio: value by asset class, allocation (B3 stocks, US stocks, bonds, funds),
+  largest positions, and one return curve for everything against the benchmarks (3M, YTD, 1Y).
+- **Stocks** — the performance chart (drag across it to measure a period), holdings with quantity and average
+  price, and this year's dividends and JCP with a monthly chart.
+- **Bonds** — CDBs, LCAs and other fixed income valued from their terms, with income tax, allocation by indexer
+  and maturities.
+- **Funds** — fund holdings at CVM's latest share price, returns, and allocation by purpose (Selic, credit, inflation…).
+- **FGC Watcher** — exposure per financial conglomerate against the FGC's R$ 250 mil per-institution limit and
+  R$ 1 milhão overall, today and estimated at maturity.
+- **Fund Comparison** — search CVM's ~26k funds by name, CNPJ or manager, compare up to six against CDI, and open
+  a fact sheet for each.
+- **Open Finance** — investments and accounts pulled through [Meu Pluggy](https://meu.pluggy.ai), checked against
+  what StockBar tracks, with one click to add or update a position.
+- **Menu bar widget** — today's chart and holdings, plus price alerts that send a notification when a ticker reaches a target.
 
 ## Develop
 
@@ -26,22 +44,28 @@ swift scripts/make-icon.swift  # regenerate Resources/AppIcon.icns
 Push a version tag and GitHub Actions builds the DMG and publishes the release:
 
 ```sh
-git tag v1.1.0 && git push origin v1.1.0
+git tag v2.0.0 && git push origin v2.0.0
 ```
 
 ## How it works
 
-- **Trades** are a ticker and a quantity, stored in `~/Library/Application Support/StockBar/trades.json`.
-  The quantities you hold today define the portfolio, so trades need no date; edit a quantity or delete a trade to sell.
-- **Price alerts** notify you when a ticker (held or not) reaches a target in its own currency: buy alerts at or below it,
-  sell alerts at or above. They're checked on every refresh, switch themselves off once they fire, and live in `alerts.json`.
-- **The curve** shows the current portfolio (today's quantities) held through the whole range: 1D, 3M, YTD, or All (since 01/01/2010).
-  Each session's return weights stocks by their value at the previous close. Stocks that weren't listed yet are left out until they were.
-- **Prices** come from Yahoo Finance (`PETR4` → `PETR4.SA`; fractional `PETR4F` maps to `PETR4`).
-  Daily prices are adjusted closes, so dividends, JCP and splits are included (total return); they reload every 6 hours.
-  1D uses 5-minute prices against the previous close; a market that hasn't traded today shows "—". Prices refresh every 5 minutes.
-- **Benchmarks** come from Banco Central's SGS API: CDI is series 12 (daily rate) and IPCA is series 433 (monthly rate).
-  IPCA is pro-rated by calendar days within a month, and months not yet published count as 0%.
-  The API is flaky with long ranges, so it's fetched a year at a time with retries.
-  It's cached in `cdi-cache.json` and `ipca-cache.json` next to the trades; only recent weeks are re-fetched.
-- Every range starts at 0% at the close before it begins (for YTD, the last close of last year).
+Your data lives in `~/Library/Application Support/StockBar/` (`trades.json`, `bonds.json`, `fund-holdings.json`,
+`alerts.json`); downloaded market data is cached in `~/Library/Caches/StockBar/`.
+
+- **Stocks** are a ticker, a quantity and an optional average price. The quantities you hold today define the portfolio:
+  the curve holds them through the whole range, each session's return weighting stocks by their value at the previous close.
+- **Prices** come from Yahoo Finance (`PETR4` → `PETR4.SA`), as adjusted closes so dividends, JCP and splits are included
+  (total return). US stocks are converted at each day's USD/BRL. A market that hasn't traded today shows "—" for 1D.
+- **Benchmarks**: CDI (series 12) and IPCA (series 433) from Banco Central's SGS API, cached and refreshed incrementally;
+  IFIX history from B3; S&P 500 (total return) and IBOV from Yahoo.
+- **Dividends** for B3 companies come from B3's announcements (dividend vs JCP, record and payment dates); FIIs and US
+  stocks use Yahoo's ex-dividend events. Amounts are gross, for the quantity held today.
+- **Bonds** are priced like banks mark them: business days over 252 with ANBIMA holidays; CDI compounded daily at the
+  contracted share; IPCA stepped on the issue day's monthly anniversary with the latest index published before each
+  period ends. Income tax follows the regressive table; LCA, LCI, CRI, CRA and incentivized debentures are exempt.
+- **Funds** use CVM's open data: daily reports (informe diário) for regular funds, the monthly FIDC report for receivables
+  funds, and the statement price for FIPs. The fund registry, fact sheets (lâmina) and daily reports also power Fund Comparison.
+- **FGC Watcher** groups issuers by their prudential conglomerate in Banco Central's IF.data, since institutions of one
+  conglomerate share a single limit.
+- **Open Finance** uses your own Pluggy application: the client secret is stored in the macOS Keychain, and each
+  connection's item ID is added in Settings (Meu Pluggy can't list connections through the API).

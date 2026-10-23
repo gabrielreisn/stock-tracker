@@ -11,6 +11,36 @@ enum FundHoldingKind: String, Codable {
     var label: String { rawValue.uppercased() }
 }
 
+/// What a fund is for, for the allocation chart.
+enum FundPurpose: String, Codable, CaseIterable, Identifiable {
+    case selic, credit, inflation, infrastructure, equities, other
+    var id: String { rawValue }
+
+    var label: String {
+        switch self {
+        case .selic: "Selic / DI"
+        case .credit: "Private credit (CDI)"
+        case .inflation: "Inflation (IPCA)"
+        case .infrastructure: "Infrastructure (FIP)"
+        case .equities: "Equities"
+        case .other: "Other"
+        }
+    }
+
+    /// From the name, the fund type and CVM's registered benchmark: Selic funds by name, IPCA/NTN-B benchmarks
+    /// or names as inflation, FIDCs and credit funds as private credit, FIPs as infrastructure.
+    static func infer(name: String, kind: FundHoldingKind, benchmark: String?, category: String?) -> FundPurpose {
+        let n = name.folding(options: [.caseInsensitive, .diacriticInsensitive], locale: nil).uppercased()
+        let b = (benchmark ?? "").uppercased(), c = (category ?? "").uppercased()
+        if n.contains("SELIC") || c.contains("SOBERANO") && b.contains("DI") { return .selic }
+        if n.contains("IPCA") || n.contains("INFLA") || b.contains("IPCA") || b.contains("NTN-B") || b.contains("IMA-B") { return .inflation }
+        if kind == .fip { return .infrastructure }
+        if c.contains("ACOES") || c.contains("AÇÕES") || n.contains(" ACOES") { return .equities }
+        if kind == .fidc || n.contains("CRED") || n.contains(" CP ") || n.contains("CRPR") || c.contains("CREDITO") || c.contains("CRÉDITO") || b.contains("DI") { return .credit }
+        return .other
+    }
+}
+
 /// Shares held in a fund. The statement price is a fallback for funds CVM reports late or rarely (FIDC, FIP);
 /// whichever of it and CVM's latest price is newer is used.
 struct FundHolding: Codable, Identifiable, Hashable {
@@ -24,6 +54,8 @@ struct FundHolding: Codable, Identifiable, Hashable {
     var taxExempt: Bool
     var statementPrice: Double?
     var statementDay: Int?
+    /// Set by hand; nil means inferred (see `FundStore.purpose(of:)`).
+    var purpose: FundPurpose?
 }
 
 struct FundHoldingValue {
@@ -44,6 +76,39 @@ extension FundStore {
 
     static func loadHoldingsFile() -> [FundHolding] {
         (try? Data(contentsOf: holdingsURL)).flatMap { try? JSONDecoder().decode([FundHolding].self, from: $0) } ?? []
+    }
+
+    /// The holding's purpose: the one set by hand, or inferred with CVM's registered benchmark when known.
+    func purpose(of h: FundHolding) -> FundPurpose {
+        h.purpose ?? inferredPurpose(of: h)
+    }
+
+    func inferredPurpose(of h: FundHolding) -> FundPurpose {
+        FundPurpose.infer(name: h.name, kind: h.kind, benchmark: registryDetails[h.cnpj]?.benchmark, category: registryDetails[h.cnpj]?.cvmClass)
+    }
+
+    /// Registry details for the funds held, for the purpose inference (read from the cached registry once).
+    func loadRegistryDetails() async {
+        guard registryDetails.isEmpty else { return }
+        let all = await CVM.fundDetails()
+        registryDetails = all.filter { id, _ in holdings.contains { $0.cnpj == id } }
+    }
+
+    func saveHolding(_ holding: FundHolding) {
+        if let i = holdings.firstIndex(where: { $0.id == holding.id }) { holdings[i] = holding } else { holdings.append(holding) }
+        saveHoldingsFile()
+        loadHoldings()
+    }
+
+    func deleteHolding(_ holding: FundHolding) {
+        holdings.removeAll { $0.id == holding.id }
+        saveHoldingsFile()
+    }
+
+    private func saveHoldingsFile() {
+        let encoder = JSONEncoder()
+        encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
+        try? encoder.encode(holdings).write(to: Self.holdingsURL, options: .atomic)
     }
 
     /// Price, value and returns for a holding from what's loaded.

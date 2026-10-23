@@ -8,11 +8,6 @@ extension Double {
         formatted(.percent.precision(.fractionLength(2)).sign(strategy: .always()).locale(brazil))
     }
 
-    /// Difference between two returns, in percentage points.
-    var signedPoints: String {
-        (self * 100).formatted(.number.precision(.fractionLength(1)).sign(strategy: .always()).locale(brazil)) + " p.p."
-    }
-
     var percent: String { formatted(.percent.precision(.fractionLength(1)).locale(brazil)) }
 
     var quantity: String { formatted(.number.precision(.fractionLength(0...5)).locale(brazil)) }
