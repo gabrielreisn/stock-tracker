@@ -326,7 +326,7 @@ struct FundsWindow: View {
                         Text(s.volatility.map { $0.formatted(.percent.precision(.fractionLength(1))) } ?? "—")
                         Text(s.maxDrawdown < -0.00005 ? s.maxDrawdown.formatted(.percent.precision(.fractionLength(1))) : "—")
                             .foregroundStyle(s.maxDrawdown < -0.00005 ? .red : .secondary)
-                        Text(f.fund.netAssets.map(\.compactReais) ?? "—").foregroundStyle(.secondary)
+                        Text(f.fund.netAssets.map(\.fundSize) ?? "—").foregroundStyle(.secondary)
                     }
                     .monospacedDigit()
                 }
@@ -391,7 +391,7 @@ private struct ResultRow: View {
                 if isSelected {
                     Image(systemName: "checkmark").foregroundStyle(.secondary)
                 } else if let assets = fund.netAssets {
-                    Text(assets.compactReais).font(.caption).foregroundStyle(.secondary).monospacedDigit()
+                    Text(assets.fundSize).font(.caption).foregroundStyle(.secondary).monospacedDigit()
                 }
             }
             .padding(.horizontal, 12)

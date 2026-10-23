@@ -10,24 +10,18 @@ enum MainSection: String, CaseIterable, Identifiable {
 struct MainWindow: View {
     @Environment(FundStore.self) private var funds
     @AppStorage("mainSection") private var section: MainSection = .overview
+    @AppStorage(Privacy.key) private var hideValues = false
 
     var body: some View {
         NavigationSplitView {
             sidebar
+                .id(hideValues)
                 .navigationSplitViewColumnWidth(min: 200, ideal: 230, max: 300)
         } detail: {
-            switch section {
-            case .overview: OverviewPage()
-            case .stocks: StocksPage()
-            case .bonds: BondsPage()
-            case .funds: FundHoldingsPage()
-            case .fgc: FGCPage()
-            case .fundComparison: FundsWindow()
-            case .openFinance: OpenFinancePage()
-            case .settings:
-                ScrollView { SettingsWindow().padding(.vertical, 20) }
-                    .frame(maxWidth: .infinity)
-            }
+            detail
+                .id(hideValues)
+                // No window title: the pages carry their own headings.
+                .toolbar(removing: .title)
         }
         .frame(minWidth: 1120, minHeight: 720)
         .task { funds.loadHoldings() }
@@ -37,6 +31,22 @@ struct MainWindow: View {
             NSApp.activate()
         }
         .onDisappear { NSApp.setActivationPolicy(.accessory) }
+    }
+
+    @ViewBuilder
+    private var detail: some View {
+        switch section {
+        case .overview: OverviewPage()
+        case .stocks: StocksPage()
+        case .bonds: BondsPage()
+        case .funds: FundHoldingsPage()
+        case .fgc: FGCPage()
+        case .fundComparison: FundsWindow()
+        case .openFinance: OpenFinancePage()
+        case .settings:
+            ScrollView { SettingsWindow().padding(.vertical, 20) }
+                .frame(maxWidth: .infinity)
+        }
     }
 
     private var sidebar: some View {
@@ -58,6 +68,19 @@ struct MainWindow: View {
                 Label("Open Finance", systemImage: "building.2").tag(MainSection.openFinance)
             }
             .listStyle(.sidebar)
+            Button { hideValues.toggle() } label: {
+                Label(hideValues ? "Show values" : "Hide values", systemImage: hideValues ? "eye.slash" : "eye")
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .padding(.horizontal, 10)
+                    .padding(.vertical, 7)
+                    .background(hideValues ? Color.accentColor.opacity(0.2) : .clear, in: RoundedRectangle(cornerRadius: 6))
+                    .contentShape(Rectangle())
+            }
+            .buttonStyle(.plain)
+            .keyboardShortcut("h", modifiers: [.command, .shift])
+            .help(hideValues ? "Show amounts and quantities (⇧⌘H)" : "Hide amounts and quantities, for screenshots (⇧⌘H)")
+            .padding(.horizontal, 10)
+            .padding(.bottom, 4)
             Divider()
             Button { section = .settings } label: {
                 Label("Settings", systemImage: "gearshape")

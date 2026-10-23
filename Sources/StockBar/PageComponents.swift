@@ -1,5 +1,18 @@
 import SwiftUI
 
+/// Hides amounts, quantities, account numbers and connection ids everywhere, for screenshots (⇧⌘H).
+struct HideValuesButton: View {
+    @AppStorage(Privacy.key) private var hideValues = false
+
+    var body: some View {
+        Button { hideValues.toggle() } label: {
+            Label(hideValues ? "Show values" : "Hide values", systemImage: hideValues ? "eye.slash" : "eye")
+        }
+        .keyboardShortcut("h", modifiers: [.command, .shift])
+        .help(hideValues ? "Show amounts and quantities (⇧⌘H)" : "Hide amounts and quantities, for screenshots (⇧⌘H)")
+    }
+}
+
 /// Shared pieces for the main window's pages, so they line up with each other.
 enum PageLayout {
     static let padding: CGFloat = 24

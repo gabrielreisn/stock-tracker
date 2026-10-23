@@ -121,12 +121,12 @@ struct OpenFinancePage: View {
             ForEach(pluggy.items) { item in
                 HStack(spacing: 10) {
                     Circle().fill(item.status == "UPDATED" ? Color.green : item.status == "UPDATING" ? .yellow : .orange).frame(width: 8, height: 8)
-                    Text(item.connector?.name ?? "Item").fontWeight(.semibold)
+                    Text(pluggy.institutions(of: item.id) ?? item.connector?.name ?? "Item").fontWeight(.semibold)
                     Text(item.status ?? "").font(.caption).foregroundStyle(.secondary)
                     if let message = item.error?.message { Text(message).font(.caption).foregroundStyle(.orange) }
                     Spacer()
                     if let updated = item.lastUpdatedAt ?? item.updatedAt { Text("updated \(isoDay(updated))").font(.caption).foregroundStyle(.secondary) }
-                    Text(item.id).font(.caption.monospaced()).foregroundStyle(.tertiary).textSelection(.enabled)
+                    Text(Privacy.isOn ? "•••" : item.id).font(.caption.monospaced()).foregroundStyle(.tertiary).textSelection(.enabled)
                 }
             }
         }
@@ -141,7 +141,7 @@ struct OpenFinancePage: View {
                 HStack {
                     VStack(alignment: .leading, spacing: 1) {
                         Text(a.marketingName ?? a.name ?? "Account")
-                        Text([a.type, a.subtype, a.number].compactMap { $0 }.joined(separator: " · ")).font(.caption).foregroundStyle(.secondary)
+                        Text([a.type, a.subtype, a.number.map { Privacy.isOn ? "•••" : $0 }].compactMap { $0 }.joined(separator: " · ")).font(.caption).foregroundStyle(.secondary)
                     }
                     Spacer()
                     Text(a.balance.map(\.reais) ?? "—").monospacedDigit().fontWeight(.medium)
@@ -230,7 +230,7 @@ struct OpenFinancePage: View {
                     .font(.caption).foregroundStyle(.secondary).lineLimit(1)
             }
             .frame(maxWidth: .infinity, alignment: .leading)
-            Text(inv.quantity.map { $0.formatted(.number.precision(.fractionLength(0...8)).locale(brazil)) } ?? "—")
+            Text(inv.quantity.map(\.shares) ?? "—")
                 .frame(width: StockColumn.shares, alignment: .trailing)
             Group {
                 if closed { Text("—").foregroundStyle(.tertiary) } else { averageField(inv, match: match) }
@@ -320,7 +320,7 @@ struct OpenFinancePage: View {
             }
             .frame(maxWidth: .infinity, alignment: .leading)
             VStack(alignment: .trailing, spacing: 2) {
-                Text(inv.quantity.map { $0.formatted(.number.precision(.fractionLength(0...8)).locale(Locale(identifier: "pt_BR"))) } ?? "—")
+                Text(inv.quantity.map(\.shares) ?? "—")
                 if let v = inv.value { Text("× \(v.formatted(.number.precision(.fractionLength(2...8)).locale(Locale(identifier: "pt_BR"))))").font(.caption).foregroundStyle(.secondary) }
             }
             .frame(width: 150, alignment: .trailing)
@@ -536,7 +536,7 @@ struct OpenFinancePage: View {
         var parts: [String] = []
         if let code = inv.code { parts.append(code) }
         if let subtype = inv.subtype { parts.append(subtype) }
-        if inv.type == "EQUITY" || inv.type == "ETF", let average = inv.averagePrice {
+        if inv.type == "EQUITY" || inv.type == "ETF", let average = inv.averagePrice, !Privacy.isOn {
             parts.append("avg \(average.formatted(.currency(code: inv.currencyCode ?? "BRL").locale(Locale(identifier: "pt_BR"))))")
         }
         if let issuer = inv.issuer { parts.append(issuer) }
@@ -729,16 +729,26 @@ struct OpenFinancePage: View {
     }
 }
 
-/// Credentials and item IDs, in Settings.
+/// Open Finance in Settings: a short setup guide, the Pluggy application's credentials, and the connections,
+/// added and renewed through Pluggy Connect.
 struct PluggySettingsSection: View {
     @Environment(PluggyStore.self) private var pluggy
     @State private var secret = ""
     @State private var newItem = ""
+    @State private var connecting: ConnectRequest?
+    @State private var showManual = false
+
+    /// Opens the Connect widget, to add an item or reconnect one.
+    struct ConnectRequest: Identifiable {
+        var updating: String?
+        var id: String { updating ?? "new" }
+    }
 
     var body: some View {
         @Bindable var pluggy = pluggy
         Section {
-            TextField("Client ID", text: $pluggy.clientId)
+            if !pluggy.isConfigured { guide }
+            TextField("Client ID", text: $pluggy.clientId, prompt: Text("From your Pluggy application"))
                 .disabled(pluggy.hasSecret)
             if pluggy.hasSecret {
                 LabeledContent("Client secret") {
@@ -754,33 +764,84 @@ struct PluggySettingsSection: View {
                         .disabled(pluggy.clientId.isEmpty || secret.isEmpty)
                 }
             }
-            ForEach(pluggy.itemIDs, id: \.self) { id in
-                LabeledContent("Item") {
-                    HStack {
-                        Text(id).font(.caption.monospaced()).textSelection(.enabled)
-                        Button { pluggy.removeItem(id) } label: { Image(systemName: "minus.circle") }.buttonStyle(.borderless)
-                    }
+
+            ForEach(pluggy.itemIDs, id: \.self) { id in connectionRow(id) }
+
+            HStack {
+                Button {
+                    connecting = ConnectRequest()
+                } label: {
+                    Label(pluggy.itemIDs.isEmpty ? "Connect a bank or broker" : "Connect another bank or broker", systemImage: "link.badge.plus")
                 }
-            }
-            HStack {
-                TextField("Add item ID", text: $newItem, prompt: Text("00000000-0000-0000-0000-000000000000"))
-                    .onSubmit { pluggy.addItem(newItem); newItem = "" }
-                Button("Add") { pluggy.addItem(newItem); newItem = "" }
-                    .disabled(UUID(uuidString: newItem.trimmingCharacters(in: .whitespaces)) == nil)
-            }
-            HStack {
-                if let error = pluggy.error { Text(error).font(.caption).foregroundStyle(.orange).lineLimit(3) }
-                else if let last = pluggy.lastSync { Text("Synced \(pluggy.investments.count) investments at \(last.formatted(date: .omitted, time: .shortened))").font(.caption).foregroundStyle(.secondary) }
+                .buttonStyle(.borderedProminent)
+                .disabled(!pluggy.isConfigured)
                 Spacer()
                 if pluggy.isSyncing { ProgressView().controlSize(.small) }
                 Button("Sync now") { Task { await pluggy.sync() } }
                     .disabled(!pluggy.isConfigured || pluggy.itemIDs.isEmpty || pluggy.isSyncing)
             }
+            if let error = pluggy.error {
+                Text(error).font(.caption).foregroundStyle(.orange).lineLimit(3)
+            } else if let last = pluggy.lastSync {
+                Text("Synced \(pluggy.investments.count) investments at \(last.formatted(date: .omitted, time: .shortened))")
+                    .font(.caption).foregroundStyle(.secondary)
+            }
+
+            DisclosureGroup("Advanced: add an item ID by hand", isExpanded: $showManual) {
+                HStack {
+                    TextField("Item ID", text: $newItem, prompt: Text("00000000-0000-0000-0000-000000000000"))
+                        .onSubmit { pluggy.addItem(newItem); newItem = "" }
+                    Button("Add") { pluggy.addItem(newItem); newItem = "" }
+                        .disabled(UUID(uuidString: newItem.trimmingCharacters(in: .whitespaces)) == nil)
+                }
+            }
+            .font(.callout)
         } header: {
             Text("Open Finance (Pluggy)")
         } footer: {
-            Text("The secret is stored in your login keychain. Meu Pluggy can't list connections through the API, so add the item ID of each connection from the Pluggy dashboard.")
+            Text("Your client secret stays in your login keychain and never leaves this Mac except to sign in to Pluggy. Meu Pluggy consent lasts a year; when it lapses, use Reconnect.")
                 .font(.caption).foregroundStyle(.secondary)
+        }
+        .sheet(item: $connecting) { request in
+            PluggyConnectView(updating: request.updating).environment(pluggy)
+        }
+        .task { if pluggy.isConfigured, !pluggy.itemIDs.isEmpty, pluggy.lastSync == nil { await pluggy.sync() } }
+    }
+
+    /// What a new user needs before the first connection: their own (free) Pluggy application.
+    private var guide: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            Text("Set up once").font(.callout.weight(.semibold))
+            Group {
+                Text("1. Create a free account at [meu.pluggy.ai](https://meu.pluggy.ai) and connect your banks and brokers there.")
+                Text("2. In the [Pluggy dashboard](https://dashboard.pluggy.ai), open your application and copy its Client ID and Client Secret.")
+                Text("3. Paste them below and click Connect a bank or broker. Each connection shares one institution from Meu Pluggy; connect again for the next one.")
+            }
+            .font(.callout).foregroundStyle(.secondary)
+            .fixedSize(horizontal: false, vertical: true)
+        }
+        .padding(.vertical, 4)
+    }
+
+    private func connectionRow(_ id: String) -> some View {
+        let item = pluggy.items.first { $0.id == id }
+        let reconnect = pluggy.needsReconnect(id)
+        return HStack(spacing: 8) {
+            Circle().fill(reconnect ? Color.orange : item?.status == "UPDATED" ? .green : .secondary).frame(width: 8, height: 8)
+            VStack(alignment: .leading, spacing: 1) {
+                Text(pluggy.institutions(of: id) ?? item?.connector?.name ?? "Connection")
+                Text(reconnect ? (item?.error?.message ?? "Needs to be reconnected") : Privacy.isOn ? "•••" : id)
+                    .font(.caption.monospaced()).foregroundStyle(reconnect ? .orange : .secondary)
+                    .lineLimit(1).textSelection(.enabled)
+            }
+            Spacer()
+            Button(reconnect ? "Reconnect" : "Renew") { connecting = ConnectRequest(updating: id) }
+                .buttonStyle(.borderless)
+                .foregroundStyle(reconnect ? .orange : Color.accentColor)
+                .help("Open Pluggy Connect to sign in again for this connection")
+            Button { pluggy.removeItem(id) } label: { Image(systemName: "minus.circle") }
+                .buttonStyle(.borderless)
+                .help("Remove from StockBar (the connection stays in Pluggy)")
         }
     }
 }

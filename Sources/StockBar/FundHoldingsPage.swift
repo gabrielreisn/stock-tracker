@@ -134,7 +134,7 @@ struct FundHoldingsPage: View {
                 .foregroundStyle(.secondary)
             }
             .frame(maxWidth: .infinity, alignment: .leading)
-            Text(h.quantity.formatted(.number.precision(.fractionLength(0...8)).locale(Self.brazil)))
+            Text(h.quantity.shares)
                 .frame(width: 110, alignment: .trailing)
             VStack(alignment: .trailing, spacing: 1) {
                 Text(v.map { $0.price.formatted(.number.precision(.fractionLength(8)).locale(Self.brazil)) } ?? "—")

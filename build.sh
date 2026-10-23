@@ -51,7 +51,25 @@ cat > "$APP/Contents/Info.plist" <<PLIST
 </plist>
 PLIST
 
-codesign --force --sign - "$APP"
+# Sign with a stable identity when there is one, so macOS keeps "Always Allow" for the Keychain item across builds
+# (an ad-hoc signature changes with every build). CI imports it from secrets; locally it's in the login keychain.
+IDENTITY="${CODESIGN_IDENTITY:-StockBar Code Signing}"
+if [[ -n "${SIGNING_P12_BASE64:-}" ]]; then
+  KEYCHAIN="$RUNNER_TEMP/signing.keychain-db"
+  security create-keychain -p ci "$KEYCHAIN"
+  security set-keychain-settings "$KEYCHAIN"
+  security unlock-keychain -p ci "$KEYCHAIN"
+  echo "$SIGNING_P12_BASE64" | base64 --decode > "$RUNNER_TEMP/signing.p12"
+  security import "$RUNNER_TEMP/signing.p12" -k "$KEYCHAIN" -P "$SIGNING_P12_PASSWORD" -T /usr/bin/codesign
+  security set-key-partition-list -S apple-tool:,apple: -s -k ci "$KEYCHAIN" >/dev/null
+  security list-keychains -d user -s "$KEYCHAIN" $(security list-keychains -d user | tr -d '"')
+fi
+if security find-certificate -c "$IDENTITY" >/dev/null 2>&1; then
+  codesign --force --sign "$IDENTITY" "$APP"
+else
+  echo "No '$IDENTITY' certificate: signing ad hoc (Keychain access will be asked again after each build)"
+  codesign --force --sign - "$APP"
+fi
 echo "Built $APP $VERSION ($BUILD_NUMBER), $(lipo -archs "$APP/Contents/MacOS/StockBar")"
 
 case "${1:-}" in

@@ -5,6 +5,7 @@ enum Screen { case overview, alerts }
 
 struct ContentView: View {
     @State private var screen: Screen = .overview
+    @AppStorage(Privacy.key) private var hideValues = false
 
     var body: some View {
         Group {
@@ -13,6 +14,7 @@ struct ContentView: View {
             case .alerts: AlertsView(screen: $screen)
             }
         }
+        .id(hideValues)
         .frame(width: 400)
     }
 }
@@ -99,6 +101,7 @@ struct OverviewView: View {
             }
             .help("Refresh")
             .disabled(store.isLoading)
+            HideValuesButton().labelStyle(.iconOnly)
             Button { screen = .alerts } label: { Image(systemName: "bell") }.help("Price alerts")
             Button { open(.stocks) } label: { Image(systemName: "list.bullet") }.help("Holdings")
             Button { open(.settings) } label: { Image(systemName: "gearshape") }.help("Settings")

@@ -88,7 +88,7 @@ struct FundDetailView: View {
             Tile(title: "Volatility (yearly)", value: stats?.volatility.map { $0.formatted(.percent.precision(.fractionLength(1))) } ?? "—")
             Tile(title: "Max drawdown", value: stats.map { $0.maxDrawdown < -0.00005 ? $0.maxDrawdown.formatted(.percent.precision(.fractionLength(1))) : "—" } ?? "—",
                  tint: (stats?.maxDrawdown ?? 0) < -0.00005 ? .red : nil)
-            Tile(title: "Net assets", value: (latest?.netAssets ?? fund.netAssets).map(\.compactReais) ?? "—")
+            Tile(title: "Net assets", value: (latest?.netAssets ?? fund.netAssets).map(\.fundSize) ?? "—")
             Tile(title: "Shareholders", value: latest.map { $0.shareholders.formatted(.number.locale(Self.brazil)) } ?? "—")
         }
     }
@@ -152,7 +152,7 @@ struct FundDetailView: View {
                         LineMark(x: .value("Month", DayKey.date(r.month * 100 + 15)), y: .value("Net assets", r.summary.netAssets))
                             .foregroundStyle(.blue)
                     }
-                    .chartYAxis { AxisMarks(position: .trailing) { v in AxisGridLine(); AxisValueLabel { if let d = v.as(Double.self) { Text(d.compactReais) } } } }
+                    .chartYAxis { AxisMarks(position: .trailing) { v in AxisGridLine(); AxisValueLabel { if let d = v.as(Double.self) { Text(d.fundSize) } } } }
                     .chartXAxis { AxisMarks(values: .automatic(desiredCount: 4)) { _ in AxisValueLabel(format: .dateTime.month(.abbreviated).year(.twoDigits)) } }
                     .frame(height: 150)
                     Chart(rows, id: \.month) { r in
@@ -160,7 +160,7 @@ struct FundDetailView: View {
                         BarMark(x: .value("Month", DayKey.date(r.month * 100 + 15), unit: .month), y: .value("Net flow", net))
                             .foregroundStyle(net >= 0 ? Color.green : Color.red)
                     }
-                    .chartYAxis { AxisMarks(position: .trailing) { v in AxisGridLine(); AxisValueLabel { if let d = v.as(Double.self) { Text(d.compactReais) } } } }
+                    .chartYAxis { AxisMarks(position: .trailing) { v in AxisGridLine(); AxisValueLabel { if let d = v.as(Double.self) { Text(d.fundSize) } } } }
                     .chartXAxis { AxisMarks(values: .automatic(desiredCount: 4)) { _ in AxisValueLabel(format: .dateTime.month(.abbreviated).year(.twoDigits)) } }
                     .frame(height: 150)
                 }

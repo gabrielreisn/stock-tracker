@@ -31,6 +31,8 @@ Requires macOS 15+ (Apple Silicon or Intel).
   what StockBar tracks, and an importer: pick positions (or select all bonds and funds), type average prices inline,
   and import them together.
 - **Menu bar widget** — today's chart and holdings, plus price alerts that send a notification when a ticker reaches a target.
+- **Hide values** — one click (or ⇧⌘H) masks every amount, quantity and account number, for sharing screenshots;
+  percentages and charts stay.
 
 ## Develop
 
@@ -69,5 +71,13 @@ Your data lives in `~/Library/Application Support/StockBar/` (`trades.json`, `bo
   funds, and the statement price for FIPs. The fund registry, fact sheets (lâmina) and daily reports also power Fund Comparison.
 - **FGC Watcher** groups issuers by their prudential conglomerate in Banco Central's IF.data, since institutions of one
   conglomerate share a single limit.
-- **Open Finance** uses your own Pluggy application: the client secret is stored in the macOS Keychain, and each
-  connection's item ID is added in Settings (Meu Pluggy can't list connections through the API).
+- **Open Finance** uses your own (free) Pluggy application: paste its client ID and secret in Settings once (the
+  secret is stored in the macOS Keychain), then **Connect a bank or broker** opens Pluggy Connect inside the app.
+  Each MeuPluggy connection shares one institution; connecting the same one twice is deduplicated, and
+  **Reconnect** renews a connection when Meu Pluggy's one-year consent lapses.
+
+## Signing
+
+Builds are signed with a self-signed certificate ("StockBar Code Signing") when it's in the keychain, or in CI
+from the `SIGNING_P12_BASE64` / `SIGNING_P12_PASSWORD` secrets; otherwise ad hoc. A stable signature lets macOS
+remember "Always Allow" for the app's Keychain item across updates. The app isn't notarized.

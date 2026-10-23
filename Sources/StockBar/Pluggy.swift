@@ -137,6 +137,30 @@ actor PluggyClient {
 
     func item(_ id: String) async throws -> PluggyItem { try await get("items/\(id)") }
 
+    /// A 30-minute token for the Connect widget; with `itemId`, the widget reconnects that item instead of adding one.
+    func connectToken(updating itemId: String?) async throws -> String {
+        var request = URLRequest(url: Self.base.appendingPathComponent("connect_token"))
+        request.httpMethod = "POST"
+        request.setValue("application/json", forHTTPHeaderField: "Content-Type")
+        request.setValue(try await key(), forHTTPHeaderField: "X-API-KEY")
+        // No avoidDuplicates: MeuPluggy items carry no credentials, so Pluggy would treat every new one as a
+        // duplicate, yet each one shares a different institution. StockBar dedupes by accounts after syncing.
+        var body: [String: Any] = [:]
+        if let itemId { body["itemId"] = itemId }
+        request.httpBody = try JSONSerialization.data(withJSONObject: body)
+        struct Token: Decodable { var accessToken: String }
+        let token: Token = try await send(request)
+        return token.accessToken
+    }
+
+    /// The MeuPluggy connector's id: personal applications connect through it, reusing the consent given in Meu Pluggy.
+    func meuPluggyConnectorId() async -> Int? {
+        struct Connector: Decodable { var id: Int; var name: String }
+        guard let page: Page<Connector> = try? await get("connectors", ["name": "MeuPluggy"]) else { return nil }
+        let fold = { (s: String) in s.lowercased().filter(\.isLetter) }
+        return page.results.first { fold($0.name) == "meupluggy" }?.id
+    }
+
     func accounts(item: String) async throws -> [PluggyAccount] { try await all("accounts", item: item) }
 
     func investments(item: String) async throws -> [PluggyInvestment] { try await all("investments", item: item) }
@@ -215,6 +239,54 @@ final class PluggyStore {
         if !clientId.isEmpty { Keychain.deleteSecret(for: clientId) }
         hasSecret = false
         items = []; accounts = []; investments = []
+    }
+
+    /// What the Connect widget needs: a fresh token, and the MeuPluggy connector to offer when it can be found.
+    func connectSession(updating itemId: String?) async throws -> (token: String, connectorId: Int?) {
+        guard isConfigured, let secret = Keychain.secret(for: clientId) else { throw PluggyError.missingCredentials }
+        let client = PluggyClient(clientId: clientId, clientSecret: secret)
+        async let token = client.connectToken(updating: itemId)
+        async let connector = client.meuPluggyConnectorId()
+        return (try await token, await connector)
+    }
+
+    /// After the widget succeeds: keep the item (a reconnect can hand back a new id) and sync it. If an older
+    /// connection turns out to share the same accounts (the same institution connected twice), it's dropped from
+    /// StockBar so nothing is counted twice; it stays in Pluggy. Returns the names of those dropped.
+    @discardableResult
+    func connected(itemId: String, replacing old: String?) async -> [String] {
+        let id = itemId.lowercased()
+        if let old, old != id { removeItem(old) }
+        addItem(id)
+        await sync()
+        func signature(_ item: String) -> Set<String> {
+            Set(accounts.filter { $0.itemId == item }.map { "\($0.type ?? "")|\($0.number ?? "")|\($0.marketingName ?? $0.name ?? "")" })
+        }
+        let fresh = signature(id)
+        guard !fresh.isEmpty else { return [] }
+        var dropped: [String] = []
+        for other in itemIDs where other != id {
+            let theirs = signature(other)
+            if !theirs.isEmpty, theirs.isSubset(of: fresh) {
+                dropped.append(items.first { $0.id == other }?.connector?.name ?? other)
+                removeItem(other)
+            }
+        }
+        if !dropped.isEmpty { await sync() }
+        return dropped
+    }
+
+    /// The institutions behind a connection, from its accounts (a MeuPluggy item is named after the connector only).
+    func institutions(of item: String) -> String? {
+        let names = accounts.filter { $0.itemId == item && $0.type == "BANK" }.compactMap { $0.marketingName ?? $0.name }
+        let all = names.isEmpty ? accounts.filter { $0.itemId == item }.compactMap { $0.marketingName ?? $0.name } : names
+        return all.isEmpty ? nil : Array(NSOrderedSet(array: all)).compactMap { $0 as? String }.joined(separator: ", ")
+    }
+
+    /// Items that need the user again: consent expired after a year, or a login error.
+    func needsReconnect(_ id: String) -> Bool {
+        guard let item = items.first(where: { $0.id == id }) else { return false }
+        return item.error != nil || ["LOGIN_ERROR", "OUTDATED", "WAITING_USER_INPUT"].contains(item.status ?? "")
     }
 
     func addItem(_ id: String) {

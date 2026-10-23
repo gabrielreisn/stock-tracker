@@ -17,6 +17,10 @@ jobs:
           fetch-depth: 0  # build number = commit count
 
       - name: Build DMG
+        env:
+          # Optional: a stable signing certificate, so "Always Allow" on the Keychain prompt survives updates.
+          SIGNING_P12_BASE64: ${{ secrets.SIGNING_P12_BASE64 }}
+          SIGNING_P12_PASSWORD: ${{ secrets.SIGNING_P12_PASSWORD }}
         run: VERSION="${GITHUB_REF_NAME#v}" ./build.sh --dmg
 
       - name: Publish release
