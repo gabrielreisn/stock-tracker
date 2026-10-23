@@ -271,6 +271,8 @@ struct PerformanceSection: View {
         case .quarter: return "last 3 months"
         case .ytd: return "year to date"
         case .year: return "last 12 months"
+        case .threeYears: return "last 3 years"
+        case .fiveYears: return "last 5 years"
         case .all: return "since \(first.date.formatted(.dateTime.month(.abbreviated).year()))"
         }
     }
@@ -399,6 +401,7 @@ struct PerformanceSection: View {
         case .day: .dateTime.hour().minute()
         case .quarter: .dateTime.day().month(.abbreviated)
         case .ytd, .year: .dateTime.month(.abbreviated)
+        case .threeYears, .fiveYears: .dateTime.month(.abbreviated).year(.twoDigits)
         case .all: .dateTime.year()
         }
     }

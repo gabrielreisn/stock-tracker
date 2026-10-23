@@ -16,7 +16,7 @@ enum AssetClass: String, CaseIterable, Identifiable {
 
 /// The whole portfolio: stocks, bonds and funds valued together, and one return curve for all of it.
 struct Overview {
-    static let ranges: [ChartRange] = [.quarter, .ytd, .year]
+    static let ranges: [ChartRange] = [.quarter, .ytd, .year, .threeYears, .fiveYears, .all]
 
     struct Position: Identifiable {
         var name: String
@@ -134,7 +134,7 @@ struct OverviewPage: View {
          store.holdings.map { "\($0.ticker)\($0.quantity)" }.joined(),
          store.bonds.map { "\($0.id)\($0.quantity)\($0.rate)" }.joined(),
          funds.holdings.map { "\($0.id)\($0.quantity)" }.joined(),
-         String(funds.holdingSeries.count), String(funds.holdingsLoading)].joined(separator: "|")
+         String(funds.holdingSeriesVersion), String(funds.holdingsLoading)].joined(separator: "|")
     }
 
     var body: some View {

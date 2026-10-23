@@ -90,11 +90,22 @@ enum CVM {
 
     private static var indexURL: URL { cacheDirectory.appendingPathComponent("funds-v2.json") }
     private static var detailsURL: URL { cacheDirectory.appendingPathComponent("fund-details-v2.json") }
+    /// Operating classes that aren't FIFs (FIDC, FIP, FII…): no daily prices, so not in the search index,
+    /// but still worth knowing by CNPJ for autofill.
+    private static var othersURL: URL { cacheDirectory.appendingPathComponent("fund-registry-others-v1.json") }
+
+    /// A fund class as the registry has it, for filling in a holding from its CNPJ.
+    struct RegisteredFund: Codable, Sendable {
+        var name: String
+        /// The CVM type at the end of "Classes de Cotas de Fundos …": FIF, FIDC, FIP, FII…
+        var type: String
+    }
 
     /// Every operating FIF class and sub-class. Cached for a week; a stale copy is used if CVM is unreachable.
     static func fundIndex() async throws -> [FundInfo] {
         let cached = (try? Data(contentsOf: indexURL)).flatMap { try? JSONDecoder().decode([FundInfo].self, from: $0) }
-        if let cached, let age = age(of: indexURL), age < 7 * 86_400, FileManager.default.fileExists(atPath: detailsURL.path) {
+        if let cached, let age = age(of: indexURL), age < 7 * 86_400, FileManager.default.fileExists(atPath: detailsURL.path),
+           FileManager.default.fileExists(atPath: othersURL.path) {
             return cached
         }
         do {
@@ -102,8 +113,9 @@ enum CVM {
                 throw MarketDataError.badResponse("the CVM fund registry")
             }
             defer { try? FileManager.default.removeItem(at: zip) }
-            let (funds, details) = try await Task.detached(priority: .userInitiated) { try parseRegistry(zip) }.value
+            let (funds, details, others) = try await Task.detached(priority: .userInitiated) { try parseRegistry(zip) }.value
             try? JSONEncoder().encode(details).write(to: detailsURL, options: .atomic)
+            try? JSONEncoder().encode(others).write(to: othersURL, options: .atomic)
             try? JSONEncoder().encode(funds).write(to: indexURL, options: .atomic)
             return funds
         } catch {
@@ -119,7 +131,7 @@ enum CVM {
         }.value
     }
 
-    private static func parseRegistry(_ zip: URL) throws -> ([FundInfo], [String: FundDetails]) {
+    private static func parseRegistry(_ zip: URL) throws -> ([FundInfo], [String: FundDetails], [String: RegisteredFund]) {
         let funds = Table(try unzip(zip, entry: "registro_fundo.csv"))
         let classes = Table(try unzip(zip, entry: "registro_classe.csv"))
         let subclasses = Table(try unzip(zip, entry: "registro_subclasse.csv"))
@@ -138,7 +150,14 @@ enum CVM {
 
         var index: [FundInfo] = []
         var details: [String: FundDetails] = [:]
+        var others: [String: RegisteredFund] = [:]
         for row in classes.rows {
+            if classes.value(row, "Situacao") == operating, let type = classes.value(row, "Tipo_Classe"),
+               !type.hasPrefix("Classes de Cotas de Fundos FIF"),
+               let cnpj = classes.value(row, "CNPJ_Classe"), let name = classes.value(row, "Denominacao_Social") {
+                let short = type.replacingOccurrences(of: "Classes de Cotas de Fundos ", with: "")
+                others[cnpj] = RegisteredFund(name: name, type: short.split(separator: " ").first.map(String.init) ?? short)
+            }
             guard classes.value(row, "Situacao") == operating,
                   classes.value(row, "Tipo_Classe")?.hasPrefix("Classes de Cotas de Fundos FIF") == true,
                   let cnpj = classes.value(row, "CNPJ_Classe"), let name = classes.value(row, "Denominacao_Social")
@@ -187,7 +206,7 @@ enum CVM {
                 details[fund.id] = detail
             }
         }
-        return (index, details)
+        return (index, details, others)
     }
 
     /// A semicolon-separated CVM file (Windows-1252), addressed by column name.
@@ -209,6 +228,38 @@ enum CVM {
             guard let i = columns[column], i < row.count, !row[i].isEmpty else { return nil }
             return String(row[i])
         }
+    }
+
+    // MARK: - Lookup by CNPJ
+
+    /// What the registry says about a fund class, from the search index (FIFs) or the other classes.
+    static func registeredFund(cnpj: String) async -> RegisteredFund? {
+        let index = (try? await fundIndex()) ?? []
+        if let f = index.first(where: { $0.id == cnpj }) ?? index.first(where: { $0.cnpj == cnpj }) {
+            // Sub-class entries carry " — <sub-class>" after the class name.
+            let name = f.id == cnpj ? f.name : (f.name.components(separatedBy: " — ").first ?? f.name)
+            return RegisteredFund(name: name, type: "FIF")
+        }
+        let others = (try? Data(contentsOf: othersURL)).flatMap { try? JSONDecoder().decode([String: RegisteredFund].self, from: $0) }
+        return others?[cnpj]
+    }
+
+    /// The newest share price CVM has for a fund: the daily report for FIFs, the monthly report for FIDCs
+    /// (looking back a few months); nil for types that report neither.
+    static func latestQuota(cnpj: String, type: String) async -> (day: Int, quota: Double)? {
+        let current = DayKey.from(.now) / 100
+        let months = (0..<4).map { DayKey.addMonths(current * 100 + 1, -$0) / 100 }
+        for month in months {
+            switch type {
+            case "FIF":
+                if let last = (try? await self.month(month, for: [cnpj]))?.quotas[cnpj]?.max(by: { $0.day < $1.day }) { return last }
+            case "FIDC":
+                if let last = await fidcQuotas(month: month, for: [cnpj])[cnpj] { return last }
+            default:
+                return nil
+            }
+        }
+        return nil
     }
 
     // MARK: - Daily reports

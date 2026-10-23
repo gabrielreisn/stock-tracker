@@ -75,7 +75,9 @@ final class FundStore {
 
     /// Funds held, with CVM price histories by CNPJ (see FundHoldings.swift).
     var holdings: [FundHolding] = FundStore.loadHoldingsFile()
-    var holdingSeries: [String: PriceHistory] = [:]
+    var holdingSeries: [String: PriceHistory] = [:] { didSet { holdingSeriesVersion += 1 } }
+    /// Bumped whenever the histories change, including when older months arrive.
+    var holdingSeriesVersion = 0
     var holdingsLoading = false
     var registryDetails: [String: FundDetails] = [:]
 

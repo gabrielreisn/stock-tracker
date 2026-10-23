@@ -103,3 +103,30 @@ extension Array {
         }
     }
 }
+
+/// What a page shows before anything is added: what it's for, and ways to fill it.
+struct EmptyPageState: View {
+    let symbol: String
+    let title: String
+    let message: String
+    let addTitle: String
+    let onAdd: () -> Void
+    @AppStorage("mainSection") private var section: MainSection = .overview
+
+    var body: some View {
+        VStack(spacing: 10) {
+            Image(systemName: symbol).font(.largeTitle).foregroundStyle(.tertiary)
+            Text(title).font(.headline)
+            Text(message).foregroundStyle(.secondary).multilineTextAlignment(.center)
+                .frame(maxWidth: 460)
+            HStack(spacing: 10) {
+                Button(addTitle, action: onAdd).buttonStyle(.borderedProminent)
+                Button("Import from Open Finance") { section = .openFinance }
+            }
+            .controlSize(.large)
+            .padding(.top, 4)
+        }
+        .frame(maxWidth: .infinity)
+        .padding(40)
+    }
+}

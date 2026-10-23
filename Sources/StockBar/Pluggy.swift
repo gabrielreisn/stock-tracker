@@ -58,6 +58,14 @@ struct PluggyInvestment: Decodable, Identifiable {
     var lastMonthRate: Double?
     var lastTwelveMonthsRate: Double?
     var currencyCode: String?
+
+    /// Average price paid per unit, when Open Finance reports the amount invested or the profit.
+    var averagePrice: Double? {
+        guard let quantity, quantity > 0 else { return nil }
+        if let original = amountOriginal, original > 0 { return original / quantity }
+        if let gross = amount ?? balance, let profit = amountProfit, gross - profit > 0 { return (gross - profit) / quantity }
+        return nil
+    }
 }
 
 private struct PluggyFailure: Decodable { var message: String? }

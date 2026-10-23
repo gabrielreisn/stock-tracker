@@ -64,15 +64,9 @@ struct BondsPage: View {
     }
 
     private var emptyState: some View {
-        VStack(spacing: 10) {
-            Image(systemName: "banknote").font(.largeTitle).foregroundStyle(.tertiary)
-            Text("No bonds yet").font(.headline)
-            Text("Add CDBs, LCAs and other fixed income with their rate and dates; their value is updated daily from CDI and IPCA.")
-                .foregroundStyle(.secondary).multilineTextAlignment(.center)
-            Button("Add bond") { editing = newBond() }.buttonStyle(.borderedProminent)
-        }
-        .frame(maxWidth: .infinity)
-        .padding(40)
+        EmptyPageState(symbol: "banknote", title: "No bonds yet",
+                       message: "Add CDBs, LCAs and other fixed income with their rate and dates; their value is updated daily from CDI and IPCA.",
+                       addTitle: "Add bond") { editing = newBond() }
     }
 
     private func newBond() -> Bond {

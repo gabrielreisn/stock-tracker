@@ -4,7 +4,33 @@ enum OpenFinanceSort: String {
     case name, quantity, value, status
 }
 
-/// What Open Finance (via Pluggy) reports, side by side with what StockBar tracks. Read-only: nothing is imported.
+/// A position picked for import, with what the user still fills in on its row.
+private struct StagedImport {
+    enum Item {
+        case stock(ticker: String, quantity: Double)
+        /// A stock StockBar already holds, getting the average price typed on its row.
+        case stockAverage(ticker: String)
+        case bond(Bond)
+        case fund(FundHolding)
+    }
+    var item: Item
+    /// Average price for a stock (optional), CNPJ for a fund (required).
+    var input: String
+    /// Why the last import attempt left it behind.
+    var failure: String?
+
+    var isValid: Bool {
+        switch item {
+        case .stock: input.trimmingCharacters(in: .whitespaces).isEmpty || (parseNumber(input) ?? 0) > 0
+        case .stockAverage: (parseNumber(input) ?? 0) > 0
+        case .bond: true
+        case .fund: input.filter(\.isNumber).count == 14
+        }
+    }
+}
+
+/// What Open Finance (via Pluggy) reports, side by side with what StockBar tracks. Positions StockBar doesn't
+/// have can be picked (they turn blue) and imported together from the bar at the bottom.
 struct OpenFinancePage: View {
     @Environment(PluggyStore.self) private var pluggy
     @Environment(PortfolioStore.self) private var store
@@ -12,6 +38,10 @@ struct OpenFinancePage: View {
     @AppStorage("mainSection") private var section: MainSection = .stocks
     @State private var showClosed = false
     @State private var editor: Editor?
+    /// Picked for import, by investment id.
+    @State private var staged: [String: StagedImport] = [:]
+    @State private var importing = false
+    @State private var importResult: String?
     @AppStorage("openFinanceSort") private var sort: OpenFinanceSort = .value
     @AppStorage("openFinanceSortAscending") private var ascending = false
 
@@ -60,6 +90,9 @@ struct OpenFinancePage: View {
                 }
             }
             .padding(24)
+        }
+        .safeAreaInset(edge: .bottom) {
+            if !staged.isEmpty || importResult != nil { importBar }
         }
         .sheet(item: $editor) { e in
             switch e {
@@ -141,18 +174,35 @@ struct OpenFinancePage: View {
             }
             ForEach(groups.keys.sorted(), id: \.self) { type in
                 VStack(alignment: .leading, spacing: 0) {
-                    Text(typeLabel(type)).font(.subheadline.weight(.semibold)).padding(.horizontal, 14).padding(.top, 12).padding(.bottom, 6)
-                    HStack(alignment: .top, spacing: 12) {
-                        column("Name", .name, ascendingFirst: true).frame(maxWidth: .infinity, alignment: .leading)
-                        column("Quantity", .quantity).frame(width: 150, alignment: .trailing)
-                        column("Value", .value).frame(width: 150, alignment: .trailing)
-                        column("StockBar", .status, ascendingFirst: true).frame(width: 210, alignment: .leading)
+                    HStack(spacing: 12) {
+                        Text(typeLabel(type)).font(.subheadline.weight(.semibold))
+                        if type == "FIXED_INCOME" || type == "MUTUAL_FUND" { selectAll(groups[type]!) }
                     }
-                    .font(.caption).foregroundStyle(.secondary)
-                    .padding(.horizontal, 14).padding(.bottom, 4)
+                    .padding(.horizontal, 14).padding(.top, 12).padding(.bottom, 6)
+                    if isStockGroup(type) {
+                        HStack(spacing: 12) {
+                            column("Stock", .name, ascendingFirst: true).frame(maxWidth: .infinity, alignment: .leading)
+                            column("Shares", .quantity).frame(width: StockColumn.shares, alignment: .trailing)
+                            Text("Avg price").frame(width: StockColumn.average, alignment: .center)
+                            Text("Price").frame(width: StockColumn.price, alignment: .trailing)
+                            column("Value", .value).frame(width: StockColumn.value, alignment: .trailing)
+                            column("StockBar", .status, ascendingFirst: true).frame(width: 230, alignment: .leading)
+                        }
+                        .font(.caption).foregroundStyle(.secondary)
+                        .padding(.horizontal, 14).padding(.bottom, 4)
+                    } else {
+                        HStack(alignment: .top, spacing: 12) {
+                            column("Name", .name, ascendingFirst: true).frame(maxWidth: .infinity, alignment: .leading)
+                            column("Quantity", .quantity).frame(width: 150, alignment: .trailing)
+                            column("Value", .value).frame(width: 150, alignment: .trailing)
+                            column("StockBar", .status, ascendingFirst: true).frame(width: 230, alignment: .leading)
+                        }
+                        .font(.caption).foregroundStyle(.secondary)
+                        .padding(.horizontal, 14).padding(.bottom, 4)
+                    }
                     Divider()
                     ForEach(sorted(groups[type]!)) { inv in
-                        investmentRow(inv)
+                        if isStockGroup(type) { stockRow(inv) } else { investmentRow(inv) }
                         Divider().padding(.horizontal, 14)
                     }
                 }
@@ -161,10 +211,109 @@ struct OpenFinancePage: View {
         }
     }
 
+    private func isStockGroup(_ type: String) -> Bool { type == "EQUITY" || type == "ETF" }
+
+    private enum StockColumn {
+        static let shares: CGFloat = 90, average: CGFloat = 120, price: CGFloat = 100, value: CGFloat = 130
+    }
+
+    /// Stocks laid out like the Holdings table, with the average price typed right on the row.
+    private func stockRow(_ inv: PluggyInvestment) -> some View {
+        let closed = isClosed(inv)
+        let match = closed ? nil : compare(inv)
+        let ticker = normalizedCode(inv).isEmpty ? (inv.name ?? "") : normalizedCode(inv)
+        let brazil = Locale(identifier: "pt_BR")
+        return HStack(alignment: .center, spacing: 12) {
+            VStack(alignment: .leading, spacing: 1) {
+                Text(ticker).fontWeight(.semibold)
+                Text(store.holdings.first { $0.ticker == ticker }?.name ?? [inv.subtype, inv.name == ticker ? nil : inv.name].compactMap { $0 }.joined(separator: " · "))
+                    .font(.caption).foregroundStyle(.secondary).lineLimit(1)
+            }
+            .frame(maxWidth: .infinity, alignment: .leading)
+            Text(inv.quantity.map { $0.formatted(.number.precision(.fractionLength(0...8)).locale(brazil)) } ?? "—")
+                .frame(width: StockColumn.shares, alignment: .trailing)
+            Group {
+                if closed { Text("—").foregroundStyle(.tertiary) } else { averageField(inv, match: match) }
+            }
+            .frame(width: StockColumn.average, alignment: .center)
+            Text(inv.value.map { $0.formatted(.currency(code: inv.currencyCode ?? "BRL").locale(brazil)) } ?? "—")
+                .frame(width: StockColumn.price, alignment: .trailing)
+            Text(gross(inv).map(\.reais) ?? "—").fontWeight(.medium)
+                .frame(width: StockColumn.value, alignment: .trailing)
+            status(inv, closed: closed, match: match)
+                .font(.callout)
+                .frame(width: 230, alignment: .leading)
+        }
+        .font(.callout.monospacedDigit())
+        .padding(.horizontal, 14)
+        .frame(height: PageLayout.rowHeight)
+        .background(rowTint(inv))
+        .contentShape(Rectangle())
+        .onTapGesture {
+            guard !closed else { return }
+            if let target = match?.target { editor = editor(for: target) } else { toggleStaged(inv) }
+        }
+        .help(closed ? "" : match?.target == nil ? "Click to pick for import" : "Click to edit in StockBar")
+    }
+
+    /// Typing an average price picks the row: a new stock is imported with it, a held one gets it as an update.
+    /// A held stock's current average shows as the placeholder.
+    private func averageField(_ inv: PluggyInvestment, match: Match?) -> some View {
+        let held: Holding? = if case .stock(let h)? = match?.target { h } else { nil }
+        let binding = Binding(
+            get: { staged[inv.id]?.input ?? "" },
+            set: { text in
+                if staged[inv.id] == nil {
+                    if let held {
+                        guard !text.isEmpty else { return }
+                        staged[inv.id] = StagedImport(item: .stockAverage(ticker: held.ticker), input: "")
+                    } else {
+                        toggleStaged(inv)
+                    }
+                }
+                if case .stockAverage? = staged[inv.id]?.item, text.isEmpty {
+                    staged[inv.id] = nil
+                    return
+                }
+                staged[inv.id]?.input = text
+                staged[inv.id]?.failure = nil
+            })
+        let placeholder = held?.averagePrice.map { $0.formatted(.number.precision(.fractionLength(2)).locale(Locale(identifier: "pt_BR"))) } ?? "-"
+        return TextField("Avg price", text: binding, prompt: Text(placeholder))
+            .textFieldStyle(.roundedBorder)
+            .multilineTextAlignment(.center)
+            .controlSize(.small)
+            .frame(width: 76)
+    }
+
+    /// Picks every untracked row in a group that has all it needs (bonds always, funds when the CNPJ is known);
+    /// once they're all picked, it unpicks them.
+    @ViewBuilder
+    private func selectAll(_ items: [PluggyInvestment]) -> some View {
+        let candidates = items.filter { inv in
+            guard !isClosed(inv), compare(inv).target == nil, let editor = newEditor(inv) else { return false }
+            if case .fund(let f) = editor { return f.cnpj.count == 14 }
+            return true
+        }
+        let picked = candidates.filter { staged[$0.id] != nil }
+        if !candidates.isEmpty {
+            Button(picked.count == candidates.count ? "Unselect all" : "Select all (\(candidates.count - picked.count))") {
+                if picked.count == candidates.count {
+                    for inv in candidates { staged[inv.id] = nil }
+                } else {
+                    for inv in candidates where staged[inv.id] == nil { toggleStaged(inv) }
+                }
+            }
+            .buttonStyle(.borderless)
+            .font(.callout.weight(.medium))
+            .foregroundStyle(Color.accentColor)
+        }
+    }
+
     private func investmentRow(_ inv: PluggyInvestment) -> some View {
         let closed = isClosed(inv)
         let match = closed ? nil : compare(inv)
-        return HStack(alignment: .top, spacing: 12) {
+        return HStack(alignment: .center, spacing: 12) {
             VStack(alignment: .leading, spacing: 2) {
                 Text(inv.name ?? inv.code ?? "Investment").lineLimit(1)
                 Text(details(inv)).font(.caption).foregroundStyle(.secondary).lineLimit(2)
@@ -186,14 +335,23 @@ struct OpenFinancePage: View {
             }
             .frame(width: 150, alignment: .trailing)
             status(inv, closed: closed, match: match)
-                .font(.caption)
-                .frame(width: 210, alignment: .leading)
+                .font(.callout)
+                .frame(width: 230, alignment: .leading)
         }
         .font(.callout.monospacedDigit())
         .padding(.horizontal, 14).padding(.vertical, 8)
+        .background(rowTint(inv))
         .contentShape(Rectangle())
-        .onTapGesture { if !closed { editor = match?.target.map(editor(for:)) ?? newEditor(inv) } }
-        .help(closed ? "" : match?.target == nil ? "Click to add to StockBar" : "Click to edit in StockBar")
+        .onTapGesture {
+            guard !closed else { return }
+            if let target = match?.target { editor = editor(for: target) } else { toggleStaged(inv) }
+        }
+        .help(closed ? "" : match?.target == nil ? "Click to pick for import" : "Click to edit in StockBar")
+    }
+
+    private func rowTint(_ inv: PluggyInvestment) -> Color {
+        guard let s = staged[inv.id] else { return .clear }
+        return s.failure != nil ? Color.red.opacity(0.12) : Color.accentColor.opacity(0.16)
     }
 
     /// Pluggy's `amount` is the gross value and `balance` what's left after taxes; some positions only have one.
@@ -218,6 +376,8 @@ struct OpenFinancePage: View {
     private func status(_ inv: PluggyInvestment, closed: Bool, match: Match?) -> some View {
         if closed {
             Label("Closed", systemImage: "minus.circle").foregroundStyle(.secondary)
+        } else if staged[inv.id] != nil {
+            stagedControls(inv)
         } else if let match, let target = match.target {
             if match.matches {
                 VStack(alignment: .leading, spacing: 2) {
@@ -225,29 +385,160 @@ struct OpenFinancePage: View {
                     if let ours = ourValue(target), let theirs = gross(inv), theirs > 0 {
                         let diff = ours - theirs
                         Text("StockBar \(ours.reais) (\(diff >= 0 ? "+" : "")\(diff.reais))")
+                            .font(.caption)
                             .foregroundStyle(abs(diff / theirs) < 0.005 ? Color.secondary : .orange)
                             .help("StockBar's gross value vs. Open Finance's. Small differences come from different price dates.")
                     }
                 }
             } else {
-                Button { update(target, to: match.quantity) } label: {
-                    Label("Update to \(match.quantity.quantity) (StockBar has \(match.ours.quantity))", systemImage: "arrow.triangle.2.circlepath")
+                Button { update(target, from: match) } label: {
+                    Label(match.quantityMatches ? "Update avg price" : "Update to \(match.quantity.quantity)", systemImage: "arrow.triangle.2.circlepath")
                 }
                 .buttonStyle(.borderless).foregroundStyle(.orange)
-                .help("Set \(match.label) to the Open Finance quantity")
+                .help(match.quantityMatches
+                      ? "Average price: StockBar \(match.ourAverage.map { $0.price(for: match.label) } ?? "none"), Open Finance \(match.theirAverage.map { $0.price(for: match.label) } ?? "—")"
+                      : "StockBar has \(match.ours.quantity); set \(match.label) to the Open Finance quantity" + (match.theirAverage.map { " and average price \($0.price(for: match.label))" } ?? ""))
             }
-        } else if let new = newEditor(inv) {
-            Button { editor = new } label: { Label("Add to StockBar", systemImage: "plus.circle.fill") }
+        } else if newEditor(inv) != nil {
+            Button { toggleStaged(inv) } label: { Label("Add to StockBar", systemImage: "plus.circle.fill") }
                 .buttonStyle(.borderless)
         } else {
             Label("Not supported", systemImage: "circle.dashed").foregroundStyle(.secondary)
         }
     }
 
+    // MARK: Import
+
+    /// Picks a position for import, pre-filled the way the add forms would be, or drops it.
+    private func toggleStaged(_ inv: PluggyInvestment) {
+        if staged[inv.id] != nil { staged[inv.id] = nil; return }
+        guard let editor = newEditor(inv) else { return }
+        let brazil = Locale(identifier: "pt_BR")
+        switch editor {
+        case let .stock(ticker, quantity, price):
+            staged[inv.id] = StagedImport(item: .stock(ticker: ticker, quantity: quantity ?? 0),
+                                          input: price.map { $0.formatted(.number.precision(.fractionLength(2)).locale(brazil)) } ?? "")
+        case .bond(let b):
+            staged[inv.id] = StagedImport(item: .bond(b), input: "")
+        case .fund(let f):
+            staged[inv.id] = StagedImport(item: .fund(f), input: f.cnpj.isEmpty ? "" : CVM.formatCNPJ(f.cnpj))
+        }
+        importResult = nil
+    }
+
+    /// The inline input for a picked row (average price, or a fund's CNPJ) and a way to drop it.
+    @ViewBuilder
+    private func stagedControls(_ inv: PluggyInvestment) -> some View {
+        let binding = Binding(get: { staged[inv.id]?.input ?? "" }, set: { staged[inv.id]?.input = $0; staged[inv.id]?.failure = nil })
+        let item = staged[inv.id]!
+        VStack(alignment: .leading, spacing: 2) {
+            HStack(spacing: 6) {
+                switch item.item {
+                case .stock:
+                    Label("Ready to import", systemImage: "checkmark.circle").foregroundStyle(Color.accentColor)
+                case .stockAverage:
+                    Label("Will update avg price", systemImage: "checkmark.circle").foregroundStyle(Color.accentColor)
+                case .bond:
+                    Label("Ready to import", systemImage: "checkmark.circle").foregroundStyle(Color.accentColor)
+                case .fund(let f) where f.cnpj.count == 14:
+                    Label("Ready to import", systemImage: "checkmark.circle").foregroundStyle(Color.accentColor)
+                case .fund:
+                    // Only when Open Finance didn't say: a fund can't be priced without its CNPJ.
+                    TextField("CNPJ", text: binding, prompt: Text("Fund CNPJ"))
+                        .textFieldStyle(.roundedBorder).frame(width: 170)
+                }
+                Button { staged[inv.id] = nil } label: { Image(systemName: "xmark.circle.fill") }
+                    .buttonStyle(.borderless).foregroundStyle(.secondary)
+                    .help("Don't import")
+            }
+            if let failure = item.failure {
+                Text(failure).font(.caption).foregroundStyle(.red)
+            } else if !item.isValid {
+                Text(item.input.isEmpty ? "CNPJ needed" : "Check this value").font(.caption).foregroundStyle(.orange)
+            }
+        }
+    }
+
+    private var importBar: some View {
+        let valid = staged.values.allSatisfy(\.isValid)
+        return HStack(spacing: 14) {
+            Image(systemName: "square.and.arrow.down.on.square").foregroundStyle(Color.accentColor)
+            if staged.isEmpty {
+                Text(importResult ?? "")
+            } else {
+                Text("\(staged.count) \(staged.count == 1 ? "item" : "items") picked")
+                if let importResult { Text(importResult).foregroundStyle(.secondary) }
+            }
+            Spacer()
+            if staged.isEmpty {
+                Button("Done") { importResult = nil }
+            } else {
+                Button("Clear") { staged = [:]; importResult = nil }
+                Button {
+                    Task { await runImport() }
+                } label: {
+                    if importing { ProgressView().controlSize(.small) } else { Text("Import \(staged.count) \(staged.count == 1 ? "item" : "items")") }
+                }
+                .buttonStyle(.borderedProminent)
+                .disabled(importing || !valid)
+                .help(valid ? "" : "Fill in the highlighted rows first")
+            }
+        }
+        .controlSize(.large)
+        .padding(.horizontal, PageLayout.padding)
+        .padding(.vertical, 12)
+        .background(.bar)
+        .overlay(alignment: .top) { Divider() }
+    }
+
+    /// Adds every picked position. Stocks need a market price, checked side by side first; anything that fails
+    /// stays picked with the reason on its row.
+    private func runImport() async {
+        importing = true
+        defer { importing = false }
+        let tickers = staged.values.compactMap { s -> String? in if case let .stock(t, _) = s.item { t } else { nil } }
+        let priced = await withTaskGroup(of: (String, Bool).self) { group in
+            for t in Set(tickers) { group.addTask { (t, (try? await MarketData.intraday(for: t)) != nil) } }
+            return await group.reduce(into: [String: Bool]()) { $0[$1.0] = $1.1 }
+        }
+        var imported = 0, failed: [String] = []
+        for (id, s) in staged {
+            switch s.item {
+            case .stockAverage(let ticker):
+                if let held = store.holdings.first(where: { $0.ticker == ticker }) {
+                    store.setQuantity(ticker, to: held.quantity, averagePrice: parseNumber(s.input))
+                }
+            case let .stock(ticker, quantity):
+                guard priced[ticker] == true else {
+                    staged[id]?.failure = "No market price for \(ticker)"
+                    failed.append(ticker)
+                    continue
+                }
+                let average = parseNumber(s.input).flatMap { $0 > 0 ? $0 : nil }
+                if let held = store.holdings.first(where: { $0.ticker == ticker }) {
+                    store.setQuantity(ticker, to: held.quantity + quantity, averagePrice: average ?? held.averagePrice)
+                } else {
+                    store.add(Trade(ticker: ticker, kind: .buy, date: .now, quantity: quantity, price: average))
+                }
+            case .bond(let b):
+                store.saveBond(b)
+            case .fund(var f):
+                f.cnpj = s.input.filter(\.isNumber)
+                funds.saveHolding(f)
+            }
+            staged[id] = nil
+            imported += 1
+        }
+        importResult = "Imported \(imported)" + (failed.isEmpty ? "" : " · \(failed.count) left: \(failed.sorted().joined(separator: ", ")) (no market price)")
+    }
+
     private func details(_ inv: PluggyInvestment) -> String {
         var parts: [String] = []
         if let code = inv.code { parts.append(code) }
         if let subtype = inv.subtype { parts.append(subtype) }
+        if inv.type == "EQUITY" || inv.type == "ETF", let average = inv.averagePrice {
+            parts.append("avg \(average.formatted(.currency(code: inv.currencyCode ?? "BRL").locale(Locale(identifier: "pt_BR"))))")
+        }
         if let issuer = inv.issuer { parts.append(issuer) }
         if let rate = inv.rate { parts.append("\(rate.formatted(.number.precision(.fractionLength(0...2))))% \(inv.rateType ?? "")") }
         if let fixed = inv.fixedAnnualRate, fixed != 0 { parts.append("+\(fixed.formatted(.number.precision(.fractionLength(0...2))))% a.a.") }
@@ -284,7 +575,17 @@ struct OpenFinancePage: View {
         var ours = 0.0
         /// Open Finance's quantity, summed over entries with the same code.
         var quantity = 0.0
-        var matches: Bool { abs(ours - quantity) <= max(0.0001, abs(quantity) * 0.0001) }
+        /// For stocks: StockBar's average price and Open Finance's.
+        var ourAverage: Double?
+        var theirAverage: Double?
+        var quantityMatches: Bool { abs(ours - quantity) <= max(0.0001, abs(quantity) * 0.0001) }
+        /// Open Finance has an average price and StockBar has none, or one more than 0,5% away.
+        var averageDiffers: Bool {
+            guard let theirs = theirAverage else { return false }
+            guard let ours = ourAverage else { return true }
+            return abs(ours / theirs - 1) > 0.005
+        }
+        var matches: Bool { quantityMatches && !averageDiffers }
     }
 
     private func normalizedCode(_ inv: PluggyInvestment) -> String {
@@ -302,6 +603,11 @@ struct OpenFinancePage: View {
         case "EQUITY", "ETF":
             if let h = store.holdings.first(where: { $0.ticker == code || $0.ticker + "F" == code }) {
                 (match.target, match.label, match.ours) = (.stock(h), h.ticker, h.quantity)
+                match.ourAverage = h.averagePrice
+                // Across split entries, the average weighted by each one's quantity.
+                let priced = siblings.compactMap { s in s.averagePrice.map { (price: $0, quantity: s.quantity ?? 0) } }
+                let shares = priced.reduce(0) { $0 + $1.quantity }
+                if shares > 0 { match.theirAverage = priced.reduce(0) { $0 + $1.price * $1.quantity } / shares }
             }
         case "FIXED_INCOME":
             let due = inv.dueDate.map(isoDayKey)
@@ -320,9 +626,11 @@ struct OpenFinancePage: View {
         return match
     }
 
-    private func update(_ target: Target, to quantity: Double) {
+    /// Takes Open Finance's quantity, and for stocks its average price when it has one.
+    private func update(_ target: Target, from match: Match) {
+        let quantity = match.quantity
         switch target {
-        case .stock(let h): store.setQuantity(h.ticker, to: quantity, averagePrice: h.averagePrice)
+        case .stock(let h): store.setQuantity(h.ticker, to: quantity, averagePrice: match.theirAverage ?? h.averagePrice)
         case .bond(var b): b.quantity = quantity; store.saveBond(b)
         case .fund(var f): f.quantity = quantity; funds.saveHolding(f)
         }
@@ -355,7 +663,7 @@ struct OpenFinancePage: View {
     /// A StockBar entry pre-filled from Open Finance, for review before saving; nil for types StockBar doesn't track.
     private func newEditor(_ inv: PluggyInvestment) -> Editor? {
         let quantity = inv.quantity ?? 0
-        let cost = (inv.amountOriginal ?? 0) > 0 && quantity > 0 ? inv.amountOriginal! / quantity : nil
+        let cost = inv.averagePrice
         let name = inv.name ?? inv.code ?? ""
         switch inv.type {
         case "EQUITY", "ETF":

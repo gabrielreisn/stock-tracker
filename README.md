@@ -16,18 +16,20 @@ Requires macOS 15+ (Apple Silicon or Intel).
 ## What's in it
 
 - **Overview** — the whole portfolio: value by asset class, allocation (B3 stocks, US stocks, bonds, funds),
-  largest positions, and one return curve for everything against the benchmarks (3M, YTD, 1Y).
+  largest positions, and one return curve for everything against the benchmarks (3M to 5Y, or All).
 - **Stocks** — the performance chart (drag across it to measure a period), holdings with quantity and average
   price, and this year's dividends and JCP with a monthly chart.
 - **Bonds** — CDBs, LCAs and other fixed income valued from their terms, with income tax, allocation by indexer
   and maturities.
-- **Funds** — fund holdings at CVM's latest share price, returns, and allocation by purpose (Selic, credit, inflation…).
+- **Funds** — fund holdings at CVM's latest share price, returns, and allocation by purpose (Selic, credit, inflation…);
+  type a CNPJ and Autofill fills in the name, type, tax status and latest price from CVM.
 - **FGC Watcher** — exposure per financial conglomerate against the FGC's R$ 250 mil per-institution limit and
   R$ 1 milhão overall, today and estimated at maturity.
 - **Fund Comparison** — search CVM's ~26k funds by name, CNPJ or manager, compare up to six against CDI, and open
   a fact sheet for each.
 - **Open Finance** — investments and accounts pulled through [Meu Pluggy](https://meu.pluggy.ai), checked against
-  what StockBar tracks, with one click to add or update a position.
+  what StockBar tracks, and an importer: pick positions (or select all bonds and funds), type average prices inline,
+  and import them together.
 - **Menu bar widget** — today's chart and holdings, plus price alerts that send a notification when a ticker reaches a target.
 
 ## Develop

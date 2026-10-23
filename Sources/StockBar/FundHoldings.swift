@@ -137,32 +137,45 @@ extension FundStore {
         return value
     }
 
-    /// Latest prices and 13 months of history for the funds held: daily reports for FIFs, monthly reports for FIDCs.
+    /// Prices for the funds held: the last 13 months first (latest price and returns), then back to 2021
+    /// (CVM's first monthly files) for the overview's long ranges. Daily reports for FIFs, monthly for FIDCs.
     func loadHoldings() {
         guard !holdingsLoading else { return }
         holdingsLoading = true
         let current = DayKey.from(.now) / 100
-        let months = (0...13).map { DayKey.addMonths(current * 100 + 1, -$0) / 100 }
+        var months: [Int] = [], m = current
+        while m >= CVM.firstMonth {
+            months.append(m)
+            m = DayKey.addMonths(m * 100 + 1, -1) / 100
+        }
+        let recent = Array(months.prefix(14)), older = Array(months.dropFirst(14))
         let daily = Set(holdings.filter { $0.kind == .fif }.map(\.cnpj))
         let monthly = Set(holdings.filter { $0.kind == .fidc }.map(\.cnpj))
-        Task {
+        Task { @MainActor in
             var rows: [String: [(day: Int, quota: Double)]] = [:]
-            await withTaskGroup(of: [String: [(day: Int, quota: Double)]].self) { group in
-                for month in months {
-                    if !daily.isEmpty { group.addTask { (try? await CVM.month(month, for: daily))?.quotas ?? [:] } }
-                    if !monthly.isEmpty {
-                        group.addTask { await CVM.fidcQuotas(month: month, for: monthly).mapValues { [$0] } }
+            @MainActor func publish() {
+                holdingSeries = rows.mapValues { r in
+                    let sorted = r.sorted { $0.day < $1.day }
+                    return PriceHistory(days: sorted.map(\.day), prices: sorted.map(\.quota))
+                }
+            }
+            // A few months at a time: each daily-report month is a ~10 MB download the first time.
+            for (index, batch) in [recent, older].enumerated() {
+                for chunk in stride(from: 0, to: batch.count, by: 4) {
+                    let slice = batch[chunk..<min(chunk + 4, batch.count)]
+                    await withTaskGroup(of: [String: [(day: Int, quota: Double)]].self) { group in
+                        for month in slice {
+                            if !daily.isEmpty { group.addTask { (try? await CVM.month(month, for: daily))?.quotas ?? [:] } }
+                            if !monthly.isEmpty { group.addTask { await CVM.fidcQuotas(month: month, for: monthly).mapValues { [$0] } } }
+                        }
+                        for await result in group {
+                            for (id, r) in result { rows[id, default: []].append(contentsOf: r) }
+                        }
                     }
                 }
-                for await result in group {
-                    for (id, r) in result { rows[id, default: []].append(contentsOf: r) }
-                }
+                publish()
+                if index == 0 { holdingsLoading = false }
             }
-            holdingSeries = rows.mapValues { r in
-                let sorted = r.sorted { $0.day < $1.day }
-                return PriceHistory(days: sorted.map(\.day), prices: sorted.map(\.quota))
-            }
-            holdingsLoading = false
         }
     }
 }

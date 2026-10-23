@@ -2,7 +2,7 @@ import Foundation
 import Observation
 
 enum ChartRange: String, CaseIterable, Identifiable {
-    case day = "1D", quarter = "3M", ytd = "YTD", year = "1Y", all = "All"
+    case day = "1D", quarter = "3M", ytd = "YTD", year = "1Y", threeYears = "3Y", fiveYears = "5Y", all = "All"
     var id: String { rawValue }
 
     static let earliestDay = 20100101
@@ -15,6 +15,8 @@ enum ChartRange: String, CaseIterable, Identifiable {
         case .quarter: return DayKey.from(cal.date(byAdding: .month, value: -3, to: .now)!)
         case .ytd: return DayKey.from(cal.date(from: cal.dateComponents([.year], from: .now))!)
         case .year: return DayKey.from(cal.date(byAdding: .year, value: -1, to: .now)!)
+        case .threeYears: return DayKey.from(cal.date(byAdding: .year, value: -3, to: .now)!)
+        case .fiveYears: return DayKey.from(cal.date(byAdding: .year, value: -5, to: .now)!)
         case .all: return Self.earliestDay
         }
     }

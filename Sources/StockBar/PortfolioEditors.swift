@@ -84,6 +84,8 @@ struct FundHoldingForm: View {
     @State private var price: String
     @State private var priceDate: Date
     @State private var confirmDelete = false
+    @State private var autofilling = false
+    @State private var autofillNote: String?
 
     init(holding: FundHolding) {
         _holding = State(initialValue: holding)
@@ -91,6 +93,38 @@ struct FundHoldingForm: View {
         _quantity = State(initialValue: holding.quantity > 0 ? holding.quantity.formatted(.number.precision(.fractionLength(0...8)).grouping(.never).locale(Locale(identifier: "pt_BR"))) : "")
         _price = State(initialValue: holding.statementPrice.map { $0.formatted(.number.precision(.fractionLength(0...8)).grouping(.never).locale(Locale(identifier: "pt_BR"))) } ?? "")
         _priceDate = State(initialValue: holding.statementDay.map(DayKey.date) ?? .now)
+    }
+
+    /// Name, type, tax status and the latest share price from CVM's registry and reports. Shares stay with the user.
+    private func autofill() {
+        let digits = cnpj.filter(\.isNumber)
+        guard digits.count == 14, !autofilling else { return }
+        autofilling = true
+        autofillNote = "Looking up \(CVM.formatCNPJ(digits)) in CVM's registry…"
+        Task {
+            defer { autofilling = false }
+            guard let fund = await CVM.registeredFund(cnpj: digits) else {
+                autofillNote = "CVM's registry has no operating fund with this CNPJ."
+                return
+            }
+            cnpj = CVM.formatCNPJ(digits)
+            holding.name = fund.name
+            switch fund.type {
+            case "FIDC": holding.kind = .fidc
+            case "FIP": holding.kind = .fip
+            default: holding.kind = .fif
+            }
+            let folded = fund.name.folding(options: [.caseInsensitive, .diacriticInsensitive], locale: nil).uppercased()
+            holding.taxExempt = folded.contains("INCENTIVAD") || folded.contains("INFRAESTRUTURA") || folded.contains("INFRA ")
+            var filled = ["name", "type", "tax status"]
+            if let quote = await CVM.latestQuota(cnpj: digits, type: fund.type) {
+                price = quote.quota.formatted(.number.precision(.fractionLength(0...8)).grouping(.never).locale(Locale(identifier: "pt_BR")))
+                priceDate = DayKey.date(quote.day)
+                filled.append("share price of \(DayKey.date(quote.day).formatted(date: .abbreviated, time: .omitted))")
+            }
+            autofillNote = "Filled \(filled.joined(separator: ", ")) from CVM (\(fund.type)). Enter your shares."
+                + (fund.type == "FIP" ? " FIPs don't publish daily prices: add the statement's." : "")
+        }
     }
 
     private var isNew: Bool { !funds.holdings.contains { $0.id == holding.id } }
@@ -110,8 +144,23 @@ struct FundHoldingForm: View {
     var body: some View {
         VStack(spacing: 0) {
             Form {
+                Section {
+                    HStack {
+                        TextField("CNPJ", text: $cnpj, prompt: Text("00.000.000/0000-00"))
+                            .onSubmit(autofill)
+                        Button(action: autofill) {
+                            if autofilling { ProgressView().controlSize(.mini) } else { Label("Autofill", systemImage: "wand.and.stars") }
+                        }
+                        .buttonStyle(.borderless)
+                        .font(.caption)
+                        .foregroundStyle(Color.accentColor)
+                        .disabled(cnpj.filter(\.isNumber).count != 14 || autofilling)
+                        .help("Fill in the name, type, tax status and latest share price from CVM")
+                    }
+                } footer: {
+                    if let autofillNote { Text(autofillNote).font(.caption).foregroundStyle(.secondary) }
+                }
                 TextField("Name", text: $holding.name)
-                TextField("CNPJ", text: $cnpj, prompt: Text("00.000.000/0000-00"))
                 Picker("Type", selection: $holding.kind) {
                     Text("Fund (FIF)").tag(FundHoldingKind.fif)
                     Text("Receivables fund (FIDC)").tag(FundHoldingKind.fidc)

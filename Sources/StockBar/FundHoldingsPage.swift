@@ -23,12 +23,14 @@ struct FundHoldingsPage: View {
             VStack(alignment: .leading, spacing: PageLayout.spacing) {
                 PageHeader(title: "Funds") {
                     if funds.holdingsLoading { ProgressView().controlSize(.small) }
-                    Button { editing = FundHolding(cnpj: "", name: "", kind: .fif, quantity: 0, taxExempt: false) } label: {
+                    Button { editing = newFund() } label: {
                         Label("Add fund", systemImage: "plus")
                     }
                 }
                 if rows.isEmpty {
-                    Text("No funds held.").foregroundStyle(.secondary).frame(maxWidth: .infinity).padding(40)
+                    EmptyPageState(symbol: "building.columns", title: "No funds yet",
+                                   message: "Add the funds you hold with their CNPJ and number of shares; their value follows CVM's daily share prices.",
+                                   addTitle: "Add fund") { editing = newFund() }
                 } else {
                     TileRow {
                         SummaryTile(title: "Gross value", value: total.reais)
@@ -50,6 +52,10 @@ struct FundHoldingsPage: View {
             funds.loadHoldings()
             await funds.loadRegistryDetails()
         }
+    }
+
+    private func newFund() -> FundHolding {
+        FundHolding(cnpj: "", name: "", kind: .fif, quantity: 0, taxExempt: false)
     }
 
     /// Value-weighted return over the funds that have one.
