@@ -5,6 +5,14 @@ enum AssetClass: String, CaseIterable, Identifiable {
     case stocks = "Stocks", bonds = "Bonds", funds = "Funds"
     var id: String { rawValue }
 
+    var label: String {
+        switch self {
+        case .stocks: String(localized: "Stocks")
+        case .bonds: String(localized: "Bonds")
+        case .funds: String(localized: "Funds")
+        }
+    }
+
     var color: Color {
         switch self {
         case .stocks: Color(hex: 0x2A78D6)
@@ -64,10 +72,10 @@ struct Overview {
 
         let usStocks = store.holdings.filter(\.isUS).reduce(0) { $0 + $1.weight * store.totalValue }
         slices = [
-            Slice(label: "Stocks B3", color: AssetClass.stocks.color, value: (values[.stocks] ?? 0) - usStocks),
-            Slice(label: "Stocks US", color: Color(hex: 0x7E4FD6), value: usStocks),
-            Slice(label: AssetClass.bonds.rawValue, color: AssetClass.bonds.color, value: values[.bonds] ?? 0),
-            Slice(label: AssetClass.funds.rawValue, color: AssetClass.funds.color, value: values[.funds] ?? 0),
+            Slice(label: String(localized: "Stocks B3"), color: AssetClass.stocks.color, value: (values[.stocks] ?? 0) - usStocks),
+            Slice(label: String(localized: "Stocks US"), color: Color(hex: 0x7E4FD6), value: usStocks),
+            Slice(label: AssetClass.bonds.label, color: AssetClass.bonds.color, value: values[.bonds] ?? 0),
+            Slice(label: AssetClass.funds.label, color: AssetClass.funds.color, value: values[.funds] ?? 0),
         ].filter { $0.value > 0 }
 
         // A value series per holding over the business days of the longest range, plus a few days for its base.
@@ -166,7 +174,7 @@ struct OverviewPage: View {
         HStack(spacing: 10) {
             tile("Total", value: o.total, share: nil, change: o.curves[range]?.last?.portfolio)
             ForEach(AssetClass.allCases) { c in
-                tile(c.rawValue, value: o.values[c] ?? 0, share: o.total > 0 ? (o.values[c] ?? 0) / o.total : nil,
+                tile(c.label, value: o.values[c] ?? 0, share: o.total > 0 ? (o.values[c] ?? 0) / o.total : nil,
                      change: o.classReturns[range]?[c], color: c.color)
             }
         }
@@ -180,7 +188,7 @@ struct OverviewPage: View {
                 if let share { Text(share.percent).font(.caption).foregroundStyle(.tertiary) }
             }
             Text(value.reais).font(.title3.weight(.semibold).monospacedDigit()).lineLimit(1).minimumScaleFactor(0.7)
-            Text(change.map { "\($0.signedPercent) \(range.rawValue)" } ?? "—")
+            Text(change.map { "\($0.signedPercent) \(range.label)" } ?? "—")
                 .font(.caption.monospacedDigit()).foregroundStyle((change ?? 0).gainColor)
         }
         .frame(maxWidth: .infinity, alignment: .leading)

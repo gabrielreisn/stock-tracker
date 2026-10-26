@@ -265,7 +265,9 @@ private struct DividendsSection: View {
                     }
             }
         }
-        .chartForegroundStyleScale(["Dividend": Color(hex: 0x2A78D6), "JCP": Color(hex: 0xEB6834), "Income": Color(hex: 0x1BAF7A)])
+        // Keys come from the same (translated) labels as the bars: a value missing from the scale crashes Charts.
+        .chartForegroundStyleScale([DividendKind.dividend.label: Color(hex: 0x2A78D6), DividendKind.jcp.label: Color(hex: 0xEB6834),
+                                    DividendKind.income.label: Color(hex: 0x1BAF7A)])
         .chartXScale(domain: monthDate(1).addingTimeInterval(-15 * 86_400)...monthDate(12).addingTimeInterval(16 * 86_400))
         .chartXAxis {
             AxisMarks(values: (1...12).map(monthDate)) { _ in

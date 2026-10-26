@@ -25,7 +25,7 @@ final class AlertNotifier: NSObject, UNUserNotificationCenterDelegate {
         guard let center, await authorize() else { return false }
         let content = UNMutableNotificationContent()
         content.title = "\(alert.kind.label) \(alert.ticker)"
-        content.body = "\(alert.ticker) is at \(price.price(for: alert.ticker)), \(alert.condition) your target of \(alert.target.price(for: alert.ticker))."
+        content.body = String(localized: "\(alert.ticker) is at \(price.price(for: alert.ticker)), \(alert.condition) your target of \(alert.target.price(for: alert.ticker)).")
         content.sound = .default
         do {
             try await center.add(UNNotificationRequest(identifier: UUID().uuidString, content: content, trigger: nil))
@@ -183,7 +183,7 @@ struct AlertsView: View {
     private func subtitle(_ alert: PriceAlert) -> String {
         let target = "\(alert.condition.prefix(1).uppercased())\(alert.condition.dropFirst()) \(alert.target.price(for: alert.ticker))"
         guard !alert.isEnabled, let fired = alert.triggeredAt else { return target }
-        return "Hit \(fired.formatted(date: .abbreviated, time: .shortened)) · \(target)"
+        return String(localized: "Hit \(fired.formatted(date: .abbreviated, time: .shortened)) · \(target)")
     }
 
     /// Makes sure the ticker exists before saving, and asks for notification permission on the first alert.

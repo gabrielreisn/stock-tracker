@@ -43,7 +43,7 @@ struct BondsPage: View {
                         SummaryTile(title: "Income tax", value: tax > 0 ? "−" + tax.reais : "—")
                         SummaryTile(title: "Net value", value: (gross - tax).reais)
                         SummaryTile(title: "Gain", value: (gross - invested).reais,
-                                    detail: invested > 0 ? (gross / invested - 1).signedPercent : nil, tint: (gross - invested).gainColor)
+                                    detail: invested > 0 ? "\((gross / invested - 1).signedPercent)" : nil, tint: (gross - invested).gainColor)
                     }
                     ForEach(BondKind.allCases) { kind in
                         let rows = valued.filter { $0.bond.kind == kind }
@@ -135,7 +135,7 @@ struct BondsPage: View {
         .padding(.horizontal, 14).padding(.bottom, 6)
     }
 
-    private func column(_ title: String, _ key: BondSort, ascendingFirst: Bool = false) -> some View {
+    private func column(_ title: LocalizedStringKey, _ key: BondSort, ascendingFirst: Bool = false) -> some View {
         SortHeader(title: title, key: key, sort: $sort, ascending: $ascending, ascendingFirst: ascendingFirst)
     }
 
@@ -371,9 +371,9 @@ struct BondForm: View {
 
     private var rateLabel: String {
         switch bond.indexer {
-        case .fixed: "Rate (% a year)"
-        case .cdi: "% of CDI"
-        case .cdiPlus, .ipca: "Spread (% a year)"
+        case .fixed: String(localized: "Rate (% a year)")
+        case .cdi: String(localized: "% of CDI")
+        case .cdiPlus, .ipca: String(localized: "Spread (% a year)")
         }
     }
 

@@ -65,7 +65,7 @@ struct FundDetailView: View {
                 }
                 .font(.callout).foregroundStyle(.secondary)
                 HStack(spacing: 6) {
-                    if let category = fund.category { Badge(text: category) }
+                    if let category = fund.category { Badge(text: "\(category)") }
                     if let risk = lamina?.number("CLASSE_RISCO_ADMIN") { Badge(text: "Risk \(Int(risk)) of 5", tint: riskColor(Int(risk))) }
                     if details?.longTermTax == true { Badge(text: "Long-term tax") }
                     if details?.exclusive == true { Badge(text: "Exclusive", tint: .orange) }
@@ -367,8 +367,8 @@ struct FundDetailView: View {
 }
 
 private struct SheetSection<Content: View>: View {
-    let title: String
-    var note: String?
+    let title: LocalizedStringKey
+    var note: LocalizedStringKey?
     @ViewBuilder let content: Content
 
     var body: some View {
@@ -384,7 +384,7 @@ private struct SheetSection<Content: View>: View {
 }
 
 private struct Tile: View {
-    let title: String
+    let title: LocalizedStringKey
     let value: String
     var tint: Color?
 
@@ -400,7 +400,7 @@ private struct Tile: View {
 }
 
 private struct Badge: View {
-    let text: String
+    let text: LocalizedStringKey
     var tint: Color = .secondary
 
     var body: some View {

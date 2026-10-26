@@ -28,7 +28,7 @@ struct FundsWindow: View {
                         .font(.caption).foregroundStyle(.secondary).monospacedDigit()
                 }
                 Picker("Range", selection: $funds.range) {
-                    ForEach(FundRange.allCases) { Text($0.rawValue).tag($0) }
+                    ForEach(FundRange.allCases) { Text(LocalizedStringKey($0.rawValue)).tag($0) }
                 }
                 .pickerStyle(.segmented)
                 .labelsHidden()
@@ -85,9 +85,9 @@ struct FundsWindow: View {
 
     private var searchPrompt: String {
         switch funds.indexState {
-        case .ready: "Search funds by name, CNPJ, manager or category"
-        case .loading: "Downloading the fund list from CVM…"
-        default: "Fund list unavailable"
+        case .ready: String(localized: "Search funds by name, CNPJ, manager or category")
+        case .loading: String(localized: "Downloading the fund list from CVM…")
+        default: String(localized: "Fund list unavailable")
         }
     }
 

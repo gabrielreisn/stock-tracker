@@ -25,10 +25,10 @@ enum BondIndexer: String, Codable, CaseIterable, Identifiable {
 
     var label: String {
         switch self {
-        case .fixed: "Fixed rate"
-        case .cdi: "% of CDI"
-        case .cdiPlus: "CDI + spread"
-        case .ipca: "IPCA + spread"
+        case .fixed: String(localized: "Fixed rate")
+        case .cdi: String(localized: "% of CDI")
+        case .cdiPlus: String(localized: "CDI + spread")
+        case .ipca: String(localized: "IPCA + spread")
         }
     }
 

@@ -29,6 +29,8 @@ lipo -create \
   .build/x86_64-apple-macosx/release/StockBar \
   -output "$APP/Contents/MacOS/StockBar"
 cp Resources/AppIcon.icns "$APP/Contents/Resources/"
+# Translations: <lang>.lproj/Localizable.strings, looked up from the main bundle by SwiftUI and String(localized:).
+cp -R Resources/*.lproj "$APP/Contents/Resources/"
 
 cat > "$APP/Contents/Info.plist" <<PLIST
 <?xml version="1.0" encoding="UTF-8"?>
@@ -40,6 +42,8 @@ cat > "$APP/Contents/Info.plist" <<PLIST
   <key>CFBundleIdentifier</key><string>com.gabrielreis.stockbar</string>
   <key>CFBundleExecutable</key><string>StockBar</string>
   <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>CFBundleDevelopmentRegion</key><string>en</string>
+  <key>CFBundleLocalizations</key><array><string>en</string><string>pt-BR</string></array>
   <key>CFBundlePackageType</key><string>APPL</string>
   <key>CFBundleShortVersionString</key><string>$VERSION</string>
   <key>CFBundleVersion</key><string>$BUILD_NUMBER</string>

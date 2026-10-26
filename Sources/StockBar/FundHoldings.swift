@@ -18,12 +18,12 @@ enum FundPurpose: String, Codable, CaseIterable, Identifiable {
 
     var label: String {
         switch self {
-        case .selic: "Selic / DI"
-        case .credit: "Private credit (CDI)"
-        case .inflation: "Inflation (IPCA)"
-        case .infrastructure: "Infrastructure (FIP)"
-        case .equities: "Equities"
-        case .other: "Other"
+        case .selic: String(localized: "Selic / DI")
+        case .credit: String(localized: "Private credit (CDI)")
+        case .inflation: String(localized: "Inflation (IPCA)")
+        case .infrastructure: String(localized: "Infrastructure (FIP)")
+        case .equities: String(localized: "Equities")
+        case .other: String(localized: "Other")
         }
     }
 

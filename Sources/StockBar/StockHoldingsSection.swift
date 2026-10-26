@@ -146,7 +146,7 @@ struct StockHoldingsSection: View {
         .padding(.horizontal, 14).padding(.top, 12).padding(.bottom, 6)
     }
 
-    private func column(_ title: String, _ key: StockSort, ascendingFirst: Bool = false) -> some View {
+    private func column(_ title: LocalizedStringKey, _ key: StockSort, ascendingFirst: Bool = false) -> some View {
         SortHeader(title: title, key: key, sort: $sort, ascending: $ascending, ascendingFirst: ascendingFirst)
     }
 

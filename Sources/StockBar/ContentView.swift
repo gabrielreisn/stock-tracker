@@ -21,7 +21,7 @@ struct ContentView: View {
 
 /// Title bar with a back button for the secondary screens.
 struct ScreenHeader: View {
-    let title: String
+    let title: LocalizedStringKey
     @Binding var screen: Screen
 
     var body: some View {
@@ -56,7 +56,8 @@ struct OverviewView: View {
             if store.trades.isEmpty {
                 emptyState
             } else {
-                PerformanceSection()
+                // The widget is narrow: four ranges keep the headline readable.
+                PerformanceSection(ranges: [.day, .week, .ytd, .all], rangeKey: "widgetRange")
                 Divider()
                 holdingsList
             }
@@ -122,7 +123,7 @@ enum Series: Hashable {
 
     var label: String {
         switch self {
-        case .portfolio: "Portfolio"
+        case .portfolio: String(localized: "Portfolio")
         case .benchmark(let id): id.label
         }
     }
@@ -203,13 +204,14 @@ struct PerformanceSection: View {
                 VStack(alignment: .leading, spacing: 2) {
                     Text(headline?.signedPercent ?? "…")
                         .font(.system(size: 26, weight: .semibold, design: .rounded).monospacedDigit())
+                        .lineLimit(1).fixedSize()
                         .foregroundStyle((headline ?? 0).gainColor)
                     Text(selection.map(selectionCaption) ?? caption(hovered: hovered, points: points))
                         .font(.caption).foregroundStyle(.secondary)
                 }
                 Spacer()
                 Picker("Range", selection: $range) {
-                    ForEach(ranges) { Text($0.rawValue).tag($0) }
+                    ForEach(ranges) { Text($0.label).tag($0) }
                 }
                 .pickerStyle(.segmented)
                 .labelsHidden()
@@ -266,17 +268,18 @@ struct PerformanceSection: View {
                 ? hovered.date.formatted(date: .omitted, time: .shortened)
                 : hovered.date.formatted(date: .abbreviated, time: .omitted)
         }
-        guard let first = points.first else { return store.isLoading ? "Loading prices…" : "No data" }
+        guard let first = points.first else { return store.isLoading ? String(localized: "Loading prices…") : String(localized: "No data") }
         switch range {
         case .day:
             return Calendar.current.isDateInToday(first.date)
-                ? "today" : "last session, \(first.date.formatted(.dateTime.weekday(.wide).day().month()))"
-        case .quarter: return "last 3 months"
-        case .ytd: return "year to date"
-        case .year: return "last 12 months"
-        case .threeYears: return "last 3 years"
-        case .fiveYears: return "last 5 years"
-        case .all: return "since \(first.date.formatted(.dateTime.month(.abbreviated).year()))"
+                ? String(localized: "today") : String(localized: "last session, \(first.date.formatted(.dateTime.weekday(.wide).day().month()))")
+        case .week: return String(localized: "last 7 days")
+        case .quarter: return String(localized: "last 3 months")
+        case .ytd: return String(localized: "year to date")
+        case .year: return String(localized: "last 12 months")
+        case .threeYears: return String(localized: "last 3 years")
+        case .fiveYears: return String(localized: "last 5 years")
+        case .all: return String(localized: "since \(first.date.formatted(.dateTime.month(.abbreviated).year()))")
         }
     }
 
@@ -402,6 +405,7 @@ struct PerformanceSection: View {
     private var xFormat: Date.FormatStyle {
         switch range {
         case .day: .dateTime.hour().minute()
+        case .week: .dateTime.weekday(.abbreviated)
         case .quarter: .dateTime.day().month(.abbreviated)
         case .ytd, .year: .dateTime.month(.abbreviated)
         case .threeYears, .fiveYears: .dateTime.month(.abbreviated).year(.twoDigits)
@@ -461,18 +465,21 @@ struct HoldingsList: View {
         HStack(spacing: 8) {
             Text("\(store.holdings.count) stocks").frame(maxWidth: .infinity, alignment: .leading)
             sortButton("Weight", .weight).frame(width: 46, alignment: .trailing)
-            sortButton(range.rawValue, .rangeReturn).frame(width: 74, alignment: .trailing)
+            sortButton("\(range.label)", .rangeReturn).frame(width: 74, alignment: .trailing)
             if range != .day {
                 sortButton("Today", .today).frame(width: 60, alignment: .trailing)
             }
         }
-        .font(.caption2)
+        .font(.caption)
         .foregroundStyle(.secondary)
-        .padding(.horizontal, 14)
+        .padding(.leading, 14)
+        // With "always show scroll bars", the scroller narrows the rows below but not this header.
+        .padding(.trailing, 14 + (NSScroller.preferredScrollerStyle == .legacy
+            ? NSScroller.scrollerWidth(for: .regular, scrollerStyle: .legacy) : 0))
         .padding(.vertical, 6)
     }
 
-    private func sortButton(_ title: String, _ column: HoldingSort) -> some View {
+    private func sortButton(_ title: LocalizedStringKey, _ column: HoldingSort) -> some View {
         Button { sort = column } label: {
             HStack(spacing: 2) {
                 Text(title)
@@ -481,7 +488,7 @@ struct HoldingsList: View {
             .fontWeight(sort == column ? .semibold : .regular)
         }
         .buttonStyle(.plain)
-        .help("Sort by \(title)")
+        .help(Text("Sort by") + Text(" ") + Text(title))
     }
 }
 

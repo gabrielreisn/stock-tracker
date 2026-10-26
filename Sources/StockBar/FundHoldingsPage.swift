@@ -69,7 +69,7 @@ struct FundHoldingsPage: View {
         return weight > 0 ? sum / weight : nil
     }
 
-    private func returnTile(_ title: String, _ value: Double?) -> SummaryTile {
+    private func returnTile(_ title: LocalizedStringKey, _ value: Double?) -> SummaryTile {
         SummaryTile(title: title, value: value?.signedPercent ?? "—", tint: value.map(\.gainColor))
     }
 
@@ -85,7 +85,7 @@ struct FundHoldingsPage: View {
         }
     }
 
-    private func column(_ title: String, _ key: FundSort, ascendingFirst: Bool = false) -> some View {
+    private func column(_ title: LocalizedStringKey, _ key: FundSort, ascendingFirst: Bool = false) -> some View {
         SortHeader(title: title, key: key, sort: $sort, ascending: $ascending, ascendingFirst: ascendingFirst)
     }
 
@@ -128,7 +128,7 @@ struct FundHoldingsPage: View {
                 Text(h.name).lineLimit(1).truncationMode(.tail)
                 HStack(spacing: 6) {
                     Text(CVM.formatCNPJ(h.cnpj)).font(.caption.monospacedDigit()).textSelection(.enabled)
-                    Tag(text: h.kind.label)
+                    Tag(text: "\(h.kind.label)")
                     Tag(text: h.taxExempt ? "Tax exempt" : "Taxable", tint: h.taxExempt ? .green : .secondary)
                 }
                 .foregroundStyle(.secondary)
@@ -162,9 +162,9 @@ struct FundHoldingsPage: View {
 
     private func source(_ s: FundHoldingValue.Source) -> String {
         switch s {
-        case .cvmDaily: "CVM"
-        case .cvmMonthly: "CVM monthly"
-        case .statement: "Statement"
+        case .cvmDaily: String(localized: "CVM")
+        case .cvmMonthly: String(localized: "CVM monthly")
+        case .statement: String(localized: "Statement")
         }
     }
 
@@ -221,7 +221,7 @@ struct FundHoldingsPage: View {
 }
 
 private struct Tag: View {
-    let text: String
+    let text: LocalizedStringKey
     var tint: Color = .secondary
 
     var body: some View {

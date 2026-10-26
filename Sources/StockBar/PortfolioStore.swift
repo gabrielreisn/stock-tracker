@@ -2,8 +2,22 @@ import Foundation
 import Observation
 
 enum ChartRange: String, CaseIterable, Identifiable {
-    case day = "1D", quarter = "3M", ytd = "YTD", year = "1Y", threeYears = "3Y", fiveYears = "5Y", all = "All"
+    case day = "1D", week = "1W", quarter = "3M", ytd = "YTD", year = "1Y", threeYears = "3Y", fiveYears = "5Y", all = "All"
     var id: String { rawValue }
+
+    /// The short label on range pickers; the raw value stays the stored setting.
+    var label: String {
+        switch self {
+        case .day: String(localized: "1D")
+        case .week: String(localized: "1W")
+        case .quarter: String(localized: "3M")
+        case .ytd: String(localized: "YTD")
+        case .year: String(localized: "1Y")
+        case .threeYears: String(localized: "3Y")
+        case .fiveYears: String(localized: "5Y")
+        case .all: String(localized: "All")
+        }
+    }
 
     static let earliestDay = 20100101
 
@@ -12,6 +26,7 @@ enum ChartRange: String, CaseIterable, Identifiable {
         let cal = Calendar.current
         switch self {
         case .day: return DayKey.from(.now)
+        case .week: return DayKey.from(cal.date(byAdding: .day, value: -7, to: .now)!)
         case .quarter: return DayKey.from(cal.date(byAdding: .month, value: -3, to: .now)!)
         case .ytd: return DayKey.from(cal.date(from: cal.dateComponents([.year], from: .now))!)
         case .year: return DayKey.from(cal.date(byAdding: .year, value: -1, to: .now)!)

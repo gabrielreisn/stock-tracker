@@ -31,6 +31,7 @@ Requires macOS 15+ (Apple Silicon or Intel).
   what StockBar tracks, and an importer: pick positions (or select all bonds and funds), type average prices inline,
   and import them together.
 - **Menu bar widget** — today's chart and holdings, plus price alerts that send a notification when a ticker reaches a target.
+- **Português e English** — the whole app is translated to Brazilian Portuguese; pick the language in Settings → General.
 - **Hide values** — one click (or ⇧⌘H) masks every amount, quantity and account number, for sharing screenshots;
   percentages and charts stay.
 

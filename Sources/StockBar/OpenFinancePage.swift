@@ -466,7 +466,7 @@ struct OpenFinancePage: View {
             if staged.isEmpty {
                 Text(importResult ?? "")
             } else {
-                Text("\(staged.count) \(staged.count == 1 ? "item" : "items") picked")
+                Text("\(staged.count) \(staged.count == 1 ? String(localized: "item") : String(localized: "items")) picked")
                 if let importResult { Text(importResult).foregroundStyle(.secondary) }
             }
             Spacer()
@@ -477,7 +477,7 @@ struct OpenFinancePage: View {
                 Button {
                     Task { await runImport() }
                 } label: {
-                    if importing { ProgressView().controlSize(.small) } else { Text("Import \(staged.count) \(staged.count == 1 ? "item" : "items")") }
+                    if importing { ProgressView().controlSize(.small) } else { Text("Import \(staged.count) \(staged.count == 1 ? String(localized: "item") : String(localized: "items"))") }
                 }
                 .buttonStyle(.borderedProminent)
                 .disabled(importing || !valid)
@@ -546,7 +546,7 @@ struct OpenFinancePage: View {
         return parts.joined(separator: " · ")
     }
 
-    private func column(_ title: String, _ key: OpenFinanceSort, ascendingFirst: Bool = false) -> some View {
+    private func column(_ title: LocalizedStringKey, _ key: OpenFinanceSort, ascendingFirst: Bool = false) -> some View {
         SortHeader(title: title, key: key, sort: $sort, ascending: $ascending, ascendingFirst: ascendingFirst)
     }
 
@@ -711,11 +711,11 @@ struct OpenFinancePage: View {
 
     private func typeLabel(_ type: String) -> String {
         switch type {
-        case "EQUITY": "Stocks"
+        case "EQUITY": String(localized: "Stocks")
         case "ETF": "ETFs"
-        case "FIXED_INCOME": "Fixed income"
-        case "MUTUAL_FUND": "Funds"
-        case "SECURITY": "Securities"
+        case "FIXED_INCOME": String(localized: "Fixed income")
+        case "MUTUAL_FUND": String(localized: "Funds")
+        case "SECURITY": String(localized: "Securities")
         case "COE": "COE"
         default: type.capitalized
         }

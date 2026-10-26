@@ -3,7 +3,7 @@ import Foundation
 enum TradeKind: String, Codable, CaseIterable, Identifiable {
     case buy, sell
     var id: String { rawValue }
-    var label: String { self == .buy ? "Buy" : "Sell" }
+    var label: String { self == .buy ? String(localized: "Buy") : String(localized: "Sell") }
 }
 
 /// Only what the user knows offhand: prices come from the market history for that date.
@@ -51,9 +51,9 @@ enum DividendKind: String, Hashable {
     case dividend, jcp, income
     var label: String {
         switch self {
-        case .dividend: "Dividend"
+        case .dividend: String(localized: "Dividend")
         case .jcp: "JCP"
-        case .income: "Income"
+        case .income: String(localized: "Income")
         }
     }
 }
@@ -106,7 +106,7 @@ struct PriceAlert: Codable, Identifiable, Hashable {
     var triggeredAt: Date?
 
     func isMet(by price: Double) -> Bool { kind == .buy ? price <= target : price >= target }
-    var condition: String { kind == .buy ? "at or below" : "at or above" }
+    var condition: String { kind == .buy ? String(localized: "at or below") : String(localized: "at or above") }
 }
 
 struct Holding: Identifiable {
@@ -144,12 +144,12 @@ enum BenchmarkID: String, CaseIterable, Identifiable, Codable {
 
     var detail: String {
         switch self {
-        case .cdi: "Interbank deposit rate, the usual fixed-income yardstick. Banco Central, series 12."
-        case .ipca: "Official inflation. IBGE, via Banco Central series 433."
-        case .sp500: "S&P 500 with dividends reinvested (^SP500TR), converted to reais at USD/BRL."
-        case .ipcaPlus6: "Inflation plus a 6% real return a year — a typical long-term target."
-        case .ifix: "B3's real-estate fund (FII) index, with distributions reinvested. Starts Dec 2010."
-        case .ibov: "Ibovespa, B3's main stock index (a total-return index), via Yahoo (^BVSP)."
+        case .cdi: String(localized: "Interbank deposit rate, the usual fixed-income yardstick. Banco Central, series 12.")
+        case .ipca: String(localized: "Official inflation. IBGE, via Banco Central series 433.")
+        case .sp500: String(localized: "S&P 500 with dividends reinvested (^SP500TR), converted to reais at USD/BRL.")
+        case .ipcaPlus6: String(localized: "Inflation plus a 6% real return a year — a typical long-term target.")
+        case .ifix: String(localized: "B3's real-estate fund (FII) index, with distributions reinvested. Starts Dec 2010.")
+        case .ibov: String(localized: "Ibovespa, B3's main stock index (a total-return index), via Yahoo (^BVSP).")
         }
     }
 }

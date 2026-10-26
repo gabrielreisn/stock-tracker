@@ -22,7 +22,7 @@ enum PageLayout {
 
 /// Page title with an optional trailing control; the same height whether or not there is one.
 struct PageHeader<Accessory: View>: View {
-    let title: String
+    let title: LocalizedStringKey
     @ViewBuilder var accessory: Accessory
 
     var body: some View {
@@ -36,14 +36,14 @@ struct PageHeader<Accessory: View>: View {
 }
 
 extension PageHeader where Accessory == EmptyView {
-    init(title: String) { self.init(title: title) { EmptyView() } }
+    init(title: LocalizedStringKey) { self.init(title: title) { EmptyView() } }
 }
 
 /// A summary figure. Every tile keeps a detail line (blank when there's none), so a row of them is even.
 struct SummaryTile: View {
-    let title: String
+    let title: LocalizedStringKey
     let value: String
-    var detail: String?
+    var detail: LocalizedStringKey?
     var tint: Color?
 
     var body: some View {
@@ -71,7 +71,7 @@ struct TileRow<Content: View>: View {
 
 /// A column title that sorts its table: click to sort by it, click again to flip the order.
 struct SortHeader<Key: Equatable>: View {
-    let title: String
+    let title: LocalizedStringKey
     let key: Key
     @Binding var sort: Key
     @Binding var ascending: Bool
@@ -92,7 +92,7 @@ struct SortHeader<Key: Equatable>: View {
             .contentShape(Rectangle())
         }
         .buttonStyle(.plain)
-        .help("Sort by \(title)")
+        .help(Text("Sort by") + Text(" ") + Text(title))
     }
 }
 
@@ -120,9 +120,9 @@ extension Array {
 /// What a page shows before anything is added: what it's for, and ways to fill it.
 struct EmptyPageState: View {
     let symbol: String
-    let title: String
-    let message: String
-    let addTitle: String
+    let title: LocalizedStringKey
+    let message: LocalizedStringKey
+    let addTitle: LocalizedStringKey
     let onAdd: () -> Void
     @AppStorage("mainSection") private var section: MainSection = .overview
 
