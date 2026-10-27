@@ -2,7 +2,7 @@ import Charts
 import SwiftUI
 
 enum MainSection: String, CaseIterable, Identifiable {
-    case overview, stocks, bonds, funds, fgc, fundComparison, openFinance, settings
+    case overview, stocks, bonds, funds, fgc, fundComparison, expenses, bills, insights, categories, openFinance, settings
     var id: String { rawValue }
 }
 
@@ -42,6 +42,10 @@ struct MainWindow: View {
         case .funds: FundHoldingsPage()
         case .fgc: FGCPage()
         case .fundComparison: FundsWindow()
+        case .expenses: ExpensesPage()
+        case .bills: BillsPage()
+        case .insights: InsightsPage()
+        case .categories: CategoriesPage()
         case .openFinance: OpenFinancePage()
         case .settings:
             ScrollView { SettingsWindow().padding(.vertical, 20) }
@@ -65,7 +69,15 @@ struct MainWindow: View {
                 Label("Funds", systemImage: "building.columns").tag(MainSection.funds)
                 Label("FGC Watcher", systemImage: "shield.lefthalf.filled").tag(MainSection.fgc)
                 Label("Fund Comparison", systemImage: "chart.xyaxis.line").tag(MainSection.fundComparison)
-                Label("Open Finance", systemImage: "building.2").tag(MainSection.openFinance)
+                Section("Finances") {
+                    Label("Expenses", systemImage: "list.bullet.rectangle").tag(MainSection.expenses)
+                    Label("Bills", systemImage: "calendar.badge.clock").tag(MainSection.bills)
+                    Label("Insights", systemImage: "chart.bar.xaxis").tag(MainSection.insights)
+                    Label("Categories & limits", systemImage: "slider.horizontal.3").tag(MainSection.categories)
+                }
+                Section {
+                    Label("Open Finance", systemImage: "building.2").tag(MainSection.openFinance)
+                }
             }
             .listStyle(.sidebar)
             Button { hideValues.toggle() } label: {

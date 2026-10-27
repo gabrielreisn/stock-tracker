@@ -15,6 +15,8 @@ fi
 VERSION="${VERSION:-$(git describe --tags --abbrev=0 2>/dev/null | sed 's/^v//' || true)}"
 VERSION="${VERSION:-0.0.0}"
 BUILD_NUMBER="$(git rev-list --count HEAD 2>/dev/null || echo 1)"
+# macOS wants a numeric version in the app; a pre-release like 3.0.0-beta-1 keeps its suffix only in the tag and DMG name.
+SHORT_VERSION="${VERSION%%-*}"
 
 # One build per architecture, merged into a universal binary (multi-arch in one step needs full Xcode).
 for arch in arm64 x86_64; do
@@ -45,7 +47,7 @@ cat > "$APP/Contents/Info.plist" <<PLIST
   <key>CFBundleDevelopmentRegion</key><string>en</string>
   <key>CFBundleLocalizations</key><array><string>en</string><string>pt-BR</string></array>
   <key>CFBundlePackageType</key><string>APPL</string>
-  <key>CFBundleShortVersionString</key><string>$VERSION</string>
+  <key>CFBundleShortVersionString</key><string>$SHORT_VERSION</string>
   <key>CFBundleVersion</key><string>$BUILD_NUMBER</string>
   <key>LSApplicationCategoryType</key><string>public.app-category.finance</string>
   <key>LSMinimumSystemVersion</key><string>15.0</string>

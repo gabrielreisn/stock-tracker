@@ -1,4 +1,5 @@
 # Pushing a tag like v1.2.0 builds a universal StockBar DMG and publishes it as a GitHub release.
+# A tag with a suffix, like v3.0.0-beta-1, is published as a pre-release (never marked "Latest").
 name: Release
 
 on:
@@ -27,7 +28,9 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create "$GITHUB_REF_NAME" build/StockBar-*.dmg \
+          prerelease=()
+          [[ "$GITHUB_REF_NAME" == *-* ]] && prerelease=(--prerelease)
+          gh release create "$GITHUB_REF_NAME" build/StockBar-*.dmg "${prerelease[@]}" \
             --title "StockBar ${GITHUB_REF_NAME#v}" \
             --notes-file .github/release-notes.md \
             --generate-notes

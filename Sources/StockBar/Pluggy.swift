@@ -16,7 +16,7 @@ struct PluggyItem: Decodable, Identifiable {
     var error: ItemError?
 }
 
-struct PluggyAccount: Decodable, Identifiable {
+struct PluggyAccount: Codable, Identifiable {
     var id: String
     var itemId: String?
     var type: String?
@@ -26,6 +26,53 @@ struct PluggyAccount: Decodable, Identifiable {
     var number: String?
     var balance: Double?
     var currencyCode: String?
+}
+
+/// A bank, card or PIX transaction. Bank accounts: DEBIT leaves the account, CREDIT comes in.
+/// Credit cards: DEBIT is a purchase; payments of the bill and refunds come as CREDIT.
+struct PluggyTransaction: Codable, Identifiable, Hashable {
+    var id: String
+    var accountId: String?
+    var description: String?
+    var descriptionRaw: String?
+    var amount: Double?
+    var currencyCode: String?
+    /// For purchases in another currency, the amount the bank converted it to; nil when it doesn't say.
+    var amountInAccountCurrency: Double?
+    var date: String?
+    var type: String?
+    var category: String?
+    var status: String?
+    var merchant: Merchant?
+    var creditCardMetadata: CardMetadata?
+    var paymentData: PaymentData?
+
+    struct Merchant: Codable, Hashable {
+        var name: String?
+        var businessName: String?
+        var cnpj: String?
+        var category: String?
+    }
+
+    struct CardMetadata: Codable, Hashable {
+        var installmentNumber: Int?
+        var totalInstallments: Int?
+        var totalAmount: Double?
+        var purchaseDate: String?
+        var billId: String?
+    }
+
+    /// PIX and transfers: who paid or got paid.
+    struct PaymentData: Codable, Hashable {
+        struct Party: Codable, Hashable { var name: String? }
+        var payer: Party?
+        var receiver: Party?
+        var paymentMethod: String?
+    }
+
+    var isCredit: Bool { (type ?? "").uppercased() == "CREDIT" }
+    /// yyyymmdd, from the purchase date for card installments' first charge or the transaction date.
+    var day: Int { Int((date ?? "").prefix(10).replacingOccurrences(of: "-", with: "")) ?? 0 }
 }
 
 struct PluggyInvestment: Decodable, Identifiable {
@@ -65,6 +112,60 @@ struct PluggyInvestment: Decodable, Identifiable {
         if let original = amountOriginal, original > 0 { return original / quantity }
         if let gross = amount ?? balance, let profit = amountProfit, gross - profit > 0 { return (gross - profit) / quantity }
         return nil
+    }
+}
+
+/// A closed credit card bill (Open Finance): what's due and when, and the payments made against it.
+struct PluggyBill: Codable, Identifiable, Hashable {
+    var id: String
+    var accountId: String?
+    var dueDate: String?
+    var billClosingDate: String?
+    var totalAmount: Double?
+    var totalAmountCurrencyCode: String?
+    var minimumPaymentAmount: Double?
+    var payments: [Payment]?
+
+    struct Payment: Codable, Hashable {
+        var paymentDate: String?
+        var amount: Double?
+    }
+}
+
+/// A loan or financing contract (Open Finance). There's no "next due date": it follows from the first
+/// installment's due date, the periodicity and how many installments are paid.
+struct PluggyLoan: Codable, Identifiable, Hashable {
+    var id: String
+    var itemId: String?
+    var productName: String?
+    var type: String?
+    var contractAmount: Double?
+    var currencyCode: String?
+    var contractDate: String?
+    /// When the last installment falls due.
+    var dueDate: String?
+    var firstInstallmentDueDate: String?
+    /// "MENSAL", "SEMANAL", "SEM_PERIODICIDADE_REGULAR"…
+    var installmentPeriodicity: String?
+    var installments: Installments?
+    var payments: Payments?
+
+    struct Installments: Codable, Hashable {
+        var totalNumberOfInstallments: Double?
+        var contractRemainingNumber: Double?
+        var paidInstallments: Double?
+        var dueInstallments: Double?
+        var pastDueInstallments: Double?
+    }
+
+    struct Payments: Codable, Hashable {
+        var contractOutstandingBalance: Double?
+        var releases: [Release]?
+
+        struct Release: Codable, Hashable {
+            var paidDate: String?
+            var paidAmount: Double?
+        }
     }
 }
 
@@ -165,10 +266,35 @@ actor PluggyClient {
 
     func investments(item: String) async throws -> [PluggyInvestment] { try await all("investments", item: item) }
 
-    private func all<T: Decodable>(_ path: String, item: String) async throws -> [T] {
+    /// Transactions dated `from`...`to` (yyyymmdd, inclusive), following the cursor the API hands back.
+    func transactions(account: String, from: Int, to: Int) async throws -> [PluggyTransaction] {
+        struct CursorPage: Decodable { var results: [PluggyTransaction]; var next: String? }
+        func iso(_ d: Int) -> String { String(format: "%04d-%02d-%02d", d / 10_000, d / 100 % 100, d % 100) }
+        let query = ["accountId": account, "dateFrom": iso(from), "dateTo": iso(to)]
+        var results: [PluggyTransaction] = []
+        var page: CursorPage = try await get("v2/transactions", query)
+        results += page.results
+        while let next = page.next, !next.isEmpty,
+              let after = URLComponents(string: next.hasPrefix("?") ? next : "?" + next)?.queryItems?.first(where: { $0.name == "after" })?.value {
+            page = try await get("v2/transactions", query.merging(["after": after]) { $1 })
+            results += page.results
+        }
+        return results.map { var t = $0; t.accountId = t.accountId ?? account; return t }
+    }
+
+    func loans(item: String) async throws -> [PluggyLoan] { try await all("loans", item: item) }
+
+    /// A card's closed bills.
+    func bills(account: String) async throws -> [PluggyBill] {
+        try await all("bills", ["accountId": account]).map { var b: PluggyBill = $0; b.accountId = b.accountId ?? account; return b }
+    }
+
+    private func all<T: Decodable>(_ path: String, item: String) async throws -> [T] { try await all(path, ["itemId": item]) }
+
+    private func all<T: Decodable>(_ path: String, _ query: [String: String]) async throws -> [T] {
         var results: [T] = [], page = 1
         while true {
-            let p: Page<T> = try await get(path, ["itemId": item, "page": String(page), "pageSize": "500"])
+            let p: Page<T> = try await get(path, query.merging(["page": String(page), "pageSize": "500"]) { $1 })
             results += p.results
             guard let total = p.totalPages, page < total else { return results }
             page += 1
@@ -300,6 +426,37 @@ final class PluggyStore {
         items.removeAll { $0.id == id }
         accounts.removeAll { $0.itemId == id }
         investments.removeAll { $0.itemId == id }
+    }
+
+    /// One month's (yyyymm) transactions of every bank account and credit card, side by side.
+    func fetchTransactions(month: Int) async throws -> [PluggyTransaction] {
+        guard isConfigured, let secret = Keychain.secret(for: clientId) else { throw PluggyError.missingCredentials }
+        let client = PluggyClient(clientId: clientId, clientSecret: secret)
+        let from = month * 100 + 1, to = month * 100 + DayKey.daysInMonth(month * 100 + 1)
+        let ids = accounts.filter { $0.type == "BANK" || $0.type == "CREDIT" }.map(\.id)
+        return try await withThrowingTaskGroup(of: [PluggyTransaction].self) { group in
+            for id in ids { group.addTask { try await client.transactions(account: id, from: from, to: to) } }
+            return try await group.reduce(into: []) { $0 += $1 }
+        }
+    }
+
+    /// Every card's closed bills and every connection's loans. Each one is asked on its own, so a bank that
+    /// doesn't share one of them only adds a line to `failures`.
+    func fetchBillsAndLoans() async throws -> (bills: [PluggyBill], loans: [PluggyLoan], cards: Int, failures: [String]) {
+        guard isConfigured, let secret = Keychain.secret(for: clientId) else { throw PluggyError.missingCredentials }
+        if accounts.isEmpty { await sync() }
+        let client = PluggyClient(clientId: clientId, clientSecret: secret)
+        let cards = accounts.filter { $0.type == "CREDIT" }
+        var bills: [PluggyBill] = [], loans: [PluggyLoan] = [], failures: [String] = []
+        for card in cards {
+            do { bills += try await client.bills(account: card.id) }
+            catch { failures.append(String(localized: "Bills of \(card.marketingName ?? card.name ?? "a card"): \(error.localizedDescription)")) }
+        }
+        for id in itemIDs {
+            do { loans += try await client.loans(item: id).map { var l = $0; l.itemId = l.itemId ?? id; return l } }
+            catch { failures.append(String(localized: "Loans of \(institutions(of: id) ?? String(id.prefix(8))): \(error.localizedDescription)")) }
+        }
+        return (bills, loans, cards.count, failures)
     }
 
     /// Authenticates, then fetches each item with its accounts and investments.

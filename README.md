@@ -30,6 +30,16 @@ Requires macOS 15+ (Apple Silicon or Intel).
 - **Open Finance** — investments and accounts pulled through [Meu Pluggy](https://meu.pluggy.ai), checked against
   what StockBar tracks, and an importer: pick positions (or select all bonds and funds), type average prices inline,
   and import them together.
+- **Expenses** — every card, account and PIX transaction of a month from Open Finance, sorted into categories
+  (pick one per row, or always use it for a store), with income, "to review" and what isn't spending (card bill
+  payments, own transfers, investments). Card installments count in the month they're billed, and purchases in
+  another currency are converted at the bank's rate (or the day's rate from Yahoo).
+- **Categories & limits** — monthly limits per category and in total, with notifications near and over them, plus
+  alerts for large purchases.
+- **Insights** — a year month by month: spending against the limit with a trendline, each category's trend, and a
+  month-by-month grid.
+- **Bills** — what's due and when: card bills from the bank, and recurring boletos, automatic debits and financing
+  found in your accounts, with the due day estimated from past payments (or set by you) and what's late this month.
 - **Menu bar widget** — today's chart and holdings, plus price alerts that send a notification when a ticker reaches a target.
 - **Português e English** — the whole app is translated to Brazilian Portuguese; pick the language in Settings → General.
 - **Hide values** — one click (or ⇧⌘H) masks every amount, quantity and account number, for sharing screenshots;
@@ -52,10 +62,13 @@ Push a version tag and GitHub Actions builds the DMG and publishes the release:
 git tag v2.0.0 && git push origin v2.0.0
 ```
 
+A tag with a suffix (`v3.0.0-beta-1`) is published as a pre-release; the app itself shows the numeric part (3.0.0).
+
 ## How it works
 
 Your data lives in `~/Library/Application Support/StockBar/` (`trades.json`, `bonds.json`, `fund-holdings.json`,
-`alerts.json`); downloaded market data is cached in `~/Library/Caches/StockBar/`.
+`alerts.json`, `expenses.json` for categories, limits and bill choices); downloaded market data and Open Finance
+transactions is cached in `~/Library/Caches/StockBar/`.
 
 - **Stocks** are a ticker, a quantity and an optional average price. The quantities you hold today define the portfolio:
   the curve holds them through the whole range, each session's return weighting stocks by their value at the previous close.
