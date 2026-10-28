@@ -305,8 +305,18 @@ actor PluggyClient {
 // MARK: - Keychain
 
 /// The client secret lives in the login keychain, never in files or defaults.
+///
+/// macOS grants a self-signed app access per build (cdhash), so a new version asks again once; reading the
+/// secret's data is what asks, so StockBar reads it at most once per launch and checks for it by attributes only.
 enum Keychain {
     private static let service = "StockBar Pluggy"
+
+    /// Whether the item exists, without reading the secret itself (which is what asks for permission).
+    static func hasSecret(for account: String) -> Bool {
+        let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
+                                    kSecAttrAccount as String: account, kSecReturnAttributes as String: true]
+        return SecItemCopyMatching(query as CFDictionary, nil) == errSecSuccess
+    }
 
     static func secret(for account: String) -> String? {
         let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
@@ -340,6 +350,8 @@ final class PluggyStore {
     var clientId: String { didSet { UserDefaults.standard.set(clientId, forKey: "pluggyClientId") } }
     private(set) var itemIDs: [String] { didSet { UserDefaults.standard.set(itemIDs, forKey: "pluggyItems") } }
     private(set) var hasSecret = false
+    /// Read from the Keychain on first use, then kept for the rest of the launch.
+    @ObservationIgnored private var cachedSecret: String?
 
     private(set) var items: [PluggyItem] = []
     private(set) var accounts: [PluggyAccount] = []
@@ -355,25 +367,32 @@ final class PluggyStore {
     init() {
         clientId = UserDefaults.standard.string(forKey: "pluggyClientId") ?? ""
         itemIDs = UserDefaults.standard.stringArray(forKey: "pluggyItems") ?? []
-        hasSecret = !clientId.isEmpty && Keychain.secret(for: clientId) != nil
+        hasSecret = !clientId.isEmpty && Keychain.hasSecret(for: clientId)
     }
 
     var isConfigured: Bool { !clientId.isEmpty && hasSecret }
 
+    private func secret() -> String? {
+        if cachedSecret == nil { cachedSecret = Keychain.secret(for: clientId) }
+        return cachedSecret
+    }
+
     func saveSecret(_ secret: String) {
         guard !clientId.isEmpty, !secret.isEmpty else { return }
         hasSecret = Keychain.setSecret(secret, for: clientId)
+        cachedSecret = hasSecret ? secret : nil
     }
 
     func forgetCredentials() {
         if !clientId.isEmpty { Keychain.deleteSecret(for: clientId) }
         hasSecret = false
+        cachedSecret = nil
         items = []; accounts = []; investments = []
     }
 
     /// What the Connect widget needs: a fresh token, and the MeuPluggy connector to offer when it can be found.
     func connectSession(updating itemId: String?) async throws -> (token: String, connectorId: Int?) {
-        guard isConfigured, let secret = Keychain.secret(for: clientId) else { throw PluggyError.missingCredentials }
+        guard isConfigured, let secret = secret() else { throw PluggyError.missingCredentials }
         let client = PluggyClient(clientId: clientId, clientSecret: secret)
         async let token = client.connectToken(updating: itemId)
         async let connector = client.meuPluggyConnectorId()
@@ -434,7 +453,7 @@ final class PluggyStore {
 
     /// One month's (yyyymm) transactions of every bank account and credit card, side by side.
     func fetchTransactions(month: Int) async throws -> [PluggyTransaction] {
-        guard isConfigured, let secret = Keychain.secret(for: clientId) else { throw PluggyError.missingCredentials }
+        guard isConfigured, let secret = secret() else { throw PluggyError.missingCredentials }
         let client = PluggyClient(clientId: clientId, clientSecret: secret)
         let from = month * 100 + 1, to = month * 100 + DayKey.daysInMonth(month * 100 + 1)
         let ids = accounts.filter { $0.type == "BANK" || $0.type == "CREDIT" }.map(\.id)
@@ -447,7 +466,7 @@ final class PluggyStore {
     /// Every card's closed bills and every connection's loans. Each one is asked on its own, so a bank that
     /// doesn't share one of them only adds a line to `failures`.
     func fetchBillsAndLoans() async throws -> (bills: [PluggyBill], loans: [PluggyLoan], cards: Int, failures: [String]) {
-        guard isConfigured, let secret = Keychain.secret(for: clientId) else { throw PluggyError.missingCredentials }
+        guard isConfigured, let secret = secret() else { throw PluggyError.missingCredentials }
         if accounts.isEmpty { await sync() }
         let client = PluggyClient(clientId: clientId, clientSecret: secret)
         let cards = accounts.filter { $0.type == "CREDIT" }
@@ -466,7 +485,7 @@ final class PluggyStore {
     /// Authenticates, then fetches each item with its accounts and investments.
     func sync() async {
         guard !isSyncing else { return }
-        guard isConfigured, let secret = Keychain.secret(for: clientId) else { error = PluggyError.missingCredentials.errorDescription; return }
+        guard isConfigured, let secret = secret() else { error = PluggyError.missingCredentials.errorDescription; return }
         isSyncing = true
         error = nil
         defer { isSyncing = false }

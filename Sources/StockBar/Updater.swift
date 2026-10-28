@@ -224,3 +224,8 @@ struct Version: Comparable {
 
     static func == (a: Version, b: Version) -> Bool { !(a < b) && !(b < a) }
 }
+
+extension Bundle {
+    /// Built locally rather than by the release workflow (see build.sh).
+    var isDevBuild: Bool { object(forInfoDictionaryKey: "StockBarDevBuild") as? Bool ?? true }
+}

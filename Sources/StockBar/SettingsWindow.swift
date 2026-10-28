@@ -6,6 +6,18 @@ struct SettingsWindow: View {
     @State private var showOnboarding = false
 
     var body: some View {
+        VStack(alignment: .trailing, spacing: 0) {
+            form
+            // Outside the form, so it's a plain button rather than a row of its own.
+            Button("Quit StockBar") { NSApplication.shared.terminate(nil) }
+                .padding(.horizontal, 20)
+                .padding(.bottom, 20)
+        }
+        .frame(width: 520)
+        .sheet(isPresented: $showOnboarding) { OnboardingView() }
+    }
+
+    private var form: some View {
         Form {
             Section {
                 ForEach(BenchmarkID.allCases) { id in
@@ -38,8 +50,10 @@ struct SettingsWindow: View {
             Section("General") {
                 LanguagePicker()
                 LaunchAtLoginToggle()
-                LabeledContent("Setup guide") {
-                    Button("Show") { showOnboarding = true }
+                if Bundle.main.isDevBuild {
+                    LabeledContent("Setup guide") {
+                        Button("Show") { showOnboarding = true }
+                    }
                 }
                 LabeledContent("Data") {
                     Button("Show in Finder") {
@@ -53,18 +67,9 @@ struct SettingsWindow: View {
             }
 
             UpdatesSection()
-
-            Section {
-                HStack {
-                    Spacer()
-                    Button("Quit StockBar") { NSApplication.shared.terminate(nil) }
-                }
-            }
         }
         .formStyle(.grouped)
-        .frame(width: 520)
         .fixedSize(horizontal: false, vertical: true)
-        .sheet(isPresented: $showOnboarding) { OnboardingView() }
     }
 }
 

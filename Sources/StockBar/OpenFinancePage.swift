@@ -718,10 +718,8 @@ struct OpenFinancePage: View {
 struct PluggySettingsSection: View {
     @Environment(PluggyStore.self) private var pluggy
     @State private var secret = ""
-    @State private var newItem = ""
     @State private var connecting: ConnectRequest?
-    @State private var showManual = false
-    /// In the setup guide, whose own steps already explain Meu Pluggy and the dashboard: no guide, no manual item IDs.
+    /// In the setup guide, whose own steps already explain Meu Pluggy and the dashboard.
     var inOnboarding = false
 
     /// Opens the Connect widget, to add an item or reconnect one.
@@ -771,18 +769,6 @@ struct PluggySettingsSection: View {
             } else if let last = pluggy.lastSync {
                 Text("Synced \(pluggy.investments.count) investments at \(last.formatted(date: .omitted, time: .shortened))")
                     .font(.caption).foregroundStyle(.secondary)
-            }
-
-            if !inOnboarding {
-                DisclosureGroup("Advanced: add an item ID by hand", isExpanded: $showManual) {
-                    HStack {
-                        TextField("Item ID", text: $newItem, prompt: Text("00000000-0000-0000-0000-000000000000"))
-                            .onSubmit { pluggy.addItem(newItem); newItem = "" }
-                        Button("Add") { pluggy.addItem(newItem); newItem = "" }
-                            .disabled(UUID(uuidString: newItem.trimmingCharacters(in: .whitespaces)) == nil)
-                    }
-                }
-                .font(.callout)
             }
         } header: {
             Text("Open Finance (Pluggy)")
