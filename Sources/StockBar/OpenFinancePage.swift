@@ -45,9 +45,10 @@ struct OpenFinancePage: View {
     @AppStorage("openFinanceSort") private var sort: OpenFinanceSort = .value
     @AppStorage("openFinanceSortAscending") private var ascending = false
 
+    private var matcher: OpenFinanceMatcher { OpenFinanceMatcher(store: store, funds: funds, investments: pluggy.investments) }
     /// Positions already sold come back with zero quantity and balance; they're hidden unless asked for.
-    private func isClosed(_ inv: PluggyInvestment) -> Bool { (inv.balance ?? 0) == 0 && (inv.quantity ?? 0) == 0 }
-    private var openInvestments: [PluggyInvestment] { pluggy.investments.filter { !isClosed($0) } }
+    private func isClosed(_ inv: PluggyInvestment) -> Bool { OpenFinanceMatcher.isClosed(inv) }
+    private var openInvestments: [PluggyInvestment] { matcher.open }
 
     /// The same account can come back more than once (same type, number and name); keep the one with a balance.
     private var accounts: [PluggyAccount] {
@@ -85,6 +86,7 @@ struct OpenFinancePage: View {
                     setupHint
                 } else {
                     connections
+                    if let changes = pluggy.syncChanges { syncChangesCard(changes) }
                     if !accounts.isEmpty { accountsCard }
                     investmentsCard
                 }
@@ -132,6 +134,42 @@ struct OpenFinancePage: View {
         }
         .padding(14)
         .card()
+    }
+
+    /// What the last sync changed in StockBar to match Open Finance.
+    private func syncChangesCard(_ changes: [OpenFinanceChange]) -> some View {
+        VStack(alignment: .leading, spacing: 6) {
+            if changes.isEmpty {
+                Label("Everything StockBar tracks matches Open Finance", systemImage: "checkmark.circle.fill").foregroundStyle(.green)
+            } else {
+                Label("Updated to match Open Finance", systemImage: "arrow.triangle.2.circlepath").font(.headline)
+                ForEach(changes) { c in
+                    HStack(alignment: .firstTextBaseline, spacing: 8) {
+                        Text(c.name).lineLimit(1)
+                        Spacer()
+                        Text(changeText(c)).foregroundStyle(.secondary).monospacedDigit()
+                    }
+                    .font(.callout)
+                }
+            }
+        }
+        .padding(14)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .card()
+    }
+
+    private func changeText(_ c: OpenFinanceChange) -> String {
+        func price(_ p: Double) -> String {
+            Privacy.isOn ? Privacy.mask : p.formatted(.number.precision(.fractionLength(2...8)).locale(Locale(identifier: "pt_BR")))
+        }
+        switch c.kind {
+        case let .quantity(from, to): return String(localized: "quantity \(from.shares) → \(to.shares)")
+        case .averagePrice: return String(localized: "average price updated")
+        case let .price(from, to, day):
+            let date = DayKey.date(day).formatted(.dateTime.day(.twoDigits).month(.twoDigits).year(.twoDigits).locale(Locale(identifier: "pt_BR")))
+            return String(localized: "share price \(from.map(price) ?? "—") → \(price(to)) (\(date))")
+        case .removed: return String(localized: "removed: fully withdrawn")
+        }
     }
 
     private var accountsCard: some View {
@@ -567,64 +605,12 @@ struct OpenFinancePage: View {
 
     // MARK: Matching
 
-    private enum Target { case stock(Holding), bond(Bond), fund(FundHolding) }
+    private typealias Target = OpenFinanceTarget
+    private typealias Match = OpenFinanceMatch
 
-    private struct Match {
-        var target: Target?
-        var label = ""
-        var ours = 0.0
-        /// Open Finance's quantity, summed over entries with the same code.
-        var quantity = 0.0
-        /// For stocks: StockBar's average price and Open Finance's.
-        var ourAverage: Double?
-        var theirAverage: Double?
-        var quantityMatches: Bool { abs(ours - quantity) <= max(0.0001, abs(quantity) * 0.0001) }
-        /// Open Finance has an average price and StockBar has none, or one more than 0,5% away.
-        var averageDiffers: Bool {
-            guard let theirs = theirAverage else { return false }
-            guard let ours = ourAverage else { return true }
-            return abs(ours / theirs - 1) > 0.005
-        }
-        var matches: Bool { quantityMatches && !averageDiffers }
-    }
+    private func normalizedCode(_ inv: PluggyInvestment) -> String { OpenFinanceMatcher.normalizedCode(inv) }
 
-    private func normalizedCode(_ inv: PluggyInvestment) -> String {
-        (inv.code ?? "").uppercased().replacingOccurrences(of: "CDB-", with: "").trimmingCharacters(in: .whitespaces)
-    }
-
-    /// Stocks by ticker, bonds by code (or issuer and maturity), funds by CNPJ (or name).
-    private func compare(_ inv: PluggyInvestment) -> Match {
-        let code = normalizedCode(inv)
-        // The same asset can be split across entries (or institutions); compare the open total.
-        let siblings = code.isEmpty ? [inv] : openInvestments.filter { $0.type == inv.type && normalizedCode($0) == code }
-        var match = Match(quantity: siblings.reduce(0) { $0 + ($1.quantity ?? 0) })
-
-        switch inv.type {
-        case "EQUITY", "ETF":
-            if let h = store.holdings.first(where: { $0.ticker == code || $0.ticker + "F" == code }) {
-                (match.target, match.label, match.ours) = (.stock(h), h.ticker, h.quantity)
-                match.ourAverage = h.averagePrice
-                // Across split entries, the average weighted by each one's quantity.
-                let priced = siblings.compactMap { s in s.averagePrice.map { (price: $0, quantity: s.quantity ?? 0) } }
-                let shares = priced.reduce(0) { $0 + $1.quantity }
-                if shares > 0 { match.theirAverage = priced.reduce(0) { $0 + $1.price * $1.quantity } / shares }
-            }
-        case "FIXED_INCOME":
-            let due = inv.dueDate.map(isoDayKey)
-            if let b = store.bonds.first(where: { !code.isEmpty && ($0.code == code || code.hasSuffix($0.code)) })
-                ?? store.bonds.first(where: { $0.maturityDay == due && fold(inv.issuer ?? inv.name ?? "").contains(fold($0.issuer).prefix(10)) }) {
-                (match.target, match.label, match.ours) = (.bond(b), b.code, b.quantity)
-            }
-        case "MUTUAL_FUND":
-            let digits = [inv.code, inv.number, inv.issuerCNPJ, inv.name].compactMap { $0?.filter(\.isNumber) }
-            if let f = funds.holdings.first(where: { h in digits.contains { $0.contains(h.cnpj) } })
-                ?? funds.holdings.first(where: { fold($0.name).prefix(12) == fold(inv.name ?? "").prefix(12) }) {
-                (match.target, match.label, match.ours) = (.fund(f), CVM.formatCNPJ(f.cnpj), f.quantity)
-            }
-        default: break
-        }
-        return match
-    }
+    private func compare(_ inv: PluggyInvestment) -> Match { matcher.compare(inv) }
 
     /// Takes Open Finance's quantity, and for stocks its average price when it has one.
     private func update(_ target: Target, from match: Match) {
@@ -705,9 +691,7 @@ struct OpenFinancePage: View {
                     indexer: indexer, rate: rate, quantity: quantity, unitPrice: unitPrice ?? 1000)
     }
 
-    private func fold(_ s: String) -> String {
-        s.folding(options: [.caseInsensitive, .diacriticInsensitive], locale: nil).filter { $0.isLetter || $0.isNumber }
-    }
+    private func fold(_ s: String) -> String { OpenFinanceMatcher.fold(s) }
 
     private func typeLabel(_ type: String) -> String {
         switch type {
@@ -721,7 +705,7 @@ struct OpenFinancePage: View {
         }
     }
 
-    private func isoDayKey(_ iso: String) -> Int { Int(iso.prefix(10).replacingOccurrences(of: "-", with: "")) ?? 0 }
+    private func isoDayKey(_ iso: String) -> Int { OpenFinanceMatcher.isoDayKey(iso) }
 
     private func isoDay(_ iso: String) -> String {
         let key = isoDayKey(iso)
@@ -737,6 +721,8 @@ struct PluggySettingsSection: View {
     @State private var newItem = ""
     @State private var connecting: ConnectRequest?
     @State private var showManual = false
+    /// In the setup guide, whose own steps already explain Meu Pluggy and the dashboard: no guide, no manual item IDs.
+    var inOnboarding = false
 
     /// Opens the Connect widget, to add an item or reconnect one.
     struct ConnectRequest: Identifiable {
@@ -747,7 +733,7 @@ struct PluggySettingsSection: View {
     var body: some View {
         @Bindable var pluggy = pluggy
         Section {
-            if !pluggy.isConfigured { guide }
+            if !pluggy.isConfigured, !inOnboarding { guide }
             TextField("Client ID", text: $pluggy.clientId, prompt: Text("From your Pluggy application"))
                 .disabled(pluggy.hasSecret)
             if pluggy.hasSecret {
@@ -787,15 +773,17 @@ struct PluggySettingsSection: View {
                     .font(.caption).foregroundStyle(.secondary)
             }
 
-            DisclosureGroup("Advanced: add an item ID by hand", isExpanded: $showManual) {
-                HStack {
-                    TextField("Item ID", text: $newItem, prompt: Text("00000000-0000-0000-0000-000000000000"))
-                        .onSubmit { pluggy.addItem(newItem); newItem = "" }
-                    Button("Add") { pluggy.addItem(newItem); newItem = "" }
-                        .disabled(UUID(uuidString: newItem.trimmingCharacters(in: .whitespaces)) == nil)
+            if !inOnboarding {
+                DisclosureGroup("Advanced: add an item ID by hand", isExpanded: $showManual) {
+                    HStack {
+                        TextField("Item ID", text: $newItem, prompt: Text("00000000-0000-0000-0000-000000000000"))
+                            .onSubmit { pluggy.addItem(newItem); newItem = "" }
+                        Button("Add") { pluggy.addItem(newItem); newItem = "" }
+                            .disabled(UUID(uuidString: newItem.trimmingCharacters(in: .whitespaces)) == nil)
+                    }
                 }
+                .font(.callout)
             }
-            .font(.callout)
         } header: {
             Text("Open Finance (Pluggy)")
         } footer: {

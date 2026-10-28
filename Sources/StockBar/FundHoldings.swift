@@ -54,12 +54,14 @@ struct FundHolding: Codable, Identifiable, Hashable {
     var taxExempt: Bool
     var statementPrice: Double?
     var statementDay: Int?
+    /// The statement price was taken from Open Finance on a sync, not typed in.
+    var statementFromOpenFinance: Bool?
     /// Set by hand; nil means inferred (see `FundStore.purpose(of:)`).
     var purpose: FundPurpose?
 }
 
 struct FundHoldingValue {
-    enum Source { case cvmDaily, cvmMonthly, statement }
+    enum Source { case cvmDaily, cvmMonthly, statement, openFinance }
 
     var price: Double
     var day: Int
@@ -119,7 +121,7 @@ extension FundStore {
             (price, day, source) = (p, last, h.kind == .fidc ? .cvmMonthly : .cvmDaily)
         }
         if let sp = h.statementPrice, let sd = h.statementDay, sd > day {
-            (price, day, source) = (sp, sd, .statement)
+            (price, day, source) = (sp, sd, h.statementFromOpenFinance == true ? .openFinance : .statement)
         }
         guard let price else { return nil }
 

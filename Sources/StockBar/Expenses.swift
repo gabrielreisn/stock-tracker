@@ -10,6 +10,11 @@ struct ExpenseCategory: Codable, Identifiable, Hashable {
     var symbol: String
     var limit: Double?
     var pluggyKeywords: [String] = []
+
+    func isLike(_ other: ExpenseCategory) -> Bool {
+        name.localizedCaseInsensitiveCompare(other.name) == .orderedSame
+            || (!pluggyKeywords.isEmpty && pluggyKeywords == other.pluggyKeywords)
+    }
 }
 
 /// A purchase typed by hand (cash, another card…), counted like an Open Finance one.
@@ -123,6 +128,8 @@ struct Expense: Identifiable, Hashable {
 @Observable
 final class ExpenseStore {
     private(set) var settings = ExpenseSettings()
+    /// True until the settings are first saved: the categories are still the built-in starting set.
+    private(set) var usingDefaultCategories = false
     /// Transactions by month (yyyymm), fetched only for the months that are opened.
     private(set) var monthsLoaded: [Int: [PluggyTransaction]] = [:]
     private var fetchedAt: [Int: Date] = [:]
@@ -166,6 +173,7 @@ final class ExpenseStore {
             settings = saved
         } else {
             settings.categories = Self.defaultCategories
+            usingDefaultCategories = true
         }
     }
 
@@ -194,6 +202,7 @@ final class ExpenseStore {
     }
 
     private func save() {
+        usingDefaultCategories = false
         reclassify()
         let encoder = JSONEncoder()
         encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
@@ -470,6 +479,26 @@ final class ExpenseStore {
         save()
     }
 
+    /// Whether there's already a category like this one: same name, or the same Pluggy mapping (a default created
+    /// in another language).
+    func hasCategory(like other: ExpenseCategory) -> Bool {
+        settings.categories.contains { $0.isLike(other) }
+    }
+
+    /// The setup guide's answer. While the categories are still the starting set they become the picks (in the
+    /// guide's order); afterwards picks are only added, so nothing the user set up is lost.
+    func adoptCategories(_ picks: [ExpenseCategory], replacingDefaults: Bool) {
+        if replacingDefaults {
+            settings.categories = picks.map { pick in settings.categories.first { $0.isLike(pick) } ?? pick }
+            let ids = Set(settings.categories.map(\.id))
+            settings.rules = settings.rules.filter { ids.contains($0.value) }
+            settings.overrides = settings.overrides.filter { if case .category(let id) = $0.value { ids.contains(id) } else { true } }
+        } else {
+            settings.categories += picks.filter { !hasCategory(like: $0) }
+        }
+        save()
+    }
+
     func moveCategories(from source: IndexSet, to destination: Int) {
         settings.categories.move(fromOffsets: source, toOffset: destination)
         save()
@@ -557,6 +586,28 @@ final class ExpenseStore {
     }
 
     // MARK: - Defaults
+
+    /// What the setup guide offers, in the order they're kept: most of the starting set, plus two that only
+    /// make sense when someone says they have them.
+    static var onboardingCategories: [ExpenseCategory] {
+        let defaults = defaultCategories
+        func starting(_ symbol: String) -> ExpenseCategory { defaults.first { $0.symbol == symbol }! }
+        return [
+            ExpenseCategory(name: String(localized: "Fixed expenses"), symbol: "pin", pluggyKeywords: ["insurance", "loan", "financing"]),
+            starting("bolt"),                          // Housing & Bills
+            starting("arrow.triangle.2.circlepath"),   // Subscriptions & Apps
+            starting("pawprint"),                      // Pets
+            // Ahead of Transport & Travel, so fuel and parking land here when both are picked.
+            ExpenseCategory(name: String(localized: "Car"), symbol: "car.side", pluggyKeywords: ["gas station", "parking", "toll", "vehicle", "automotive"]),
+            starting("cart"),                          // Groceries & Cleaning
+            starting("fork.knife"),                    // Delivery & Restaurants
+            starting("cross.case"),                    // Health & Pharmacy
+            starting("car"),                           // Transport & Travel
+            starting("gamecontroller"),                // Leisure & Games
+            starting("bag"),                           // Shopping
+            starting("book"),                          // Books & Education
+        ]
+    }
 
     /// A starting set, named in the app's language, mapped to Pluggy's categories.
     static var defaultCategories: [ExpenseCategory] {

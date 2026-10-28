@@ -347,6 +347,10 @@ final class PluggyStore {
     private(set) var isSyncing = false
     private(set) var lastSync: Date?
     private(set) var error: String?
+    /// What the last sync changed to match Open Finance; nil when it didn't get to match.
+    private(set) var syncChanges: [OpenFinanceChange]?
+    /// Applies a sync's investments to what StockBar tracks (see `OpenFinanceMatcher.reconcile`).
+    var reconcile: (@MainActor ([PluggyInvestment]) -> [OpenFinanceChange])?
 
     init() {
         clientId = UserDefaults.standard.string(forKey: "pluggyClientId") ?? ""
@@ -484,7 +488,13 @@ final class PluggyStore {
             accounts = newAccounts
             investments = newInvestments
             lastSync = .now
-            if !failures.isEmpty { error = failures.joined(separator: "\n") }
+            if failures.isEmpty {
+                syncChanges = reconcile?(newInvestments)
+            } else {
+                // A missing institution would look like positions sold; match again once they all respond.
+                syncChanges = nil
+                error = (failures + [String(localized: "Positions weren't updated: sync again once every connection responds.")]).joined(separator: "\n")
+            }
         } catch {
             self.error = error.localizedDescription
         }

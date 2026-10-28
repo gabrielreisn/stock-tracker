@@ -3,7 +3,7 @@ import SwiftUI
 
 struct SettingsWindow: View {
     @Environment(PortfolioStore.self) private var store
-    @State private var launchAtLogin = SMAppService.mainApp.status == .enabled
+    @State private var showOnboarding = false
 
     var body: some View {
         Form {
@@ -37,14 +37,10 @@ struct SettingsWindow: View {
 
             Section("General") {
                 LanguagePicker()
-                Toggle("Launch at login", isOn: $launchAtLogin)
-                    .onChange(of: launchAtLogin) { _, enabled in
-                        do {
-                            if enabled { try SMAppService.mainApp.register() } else { try SMAppService.mainApp.unregister() }
-                        } catch {
-                            launchAtLogin = SMAppService.mainApp.status == .enabled
-                        }
-                    }
+                LaunchAtLoginToggle()
+                LabeledContent("Setup guide") {
+                    Button("Show") { showOnboarding = true }
+                }
                 LabeledContent("Data") {
                     Button("Show in Finder") {
                         NSWorkspace.shared.activateFileViewerSelecting([PortfolioStore.dataURL])
@@ -56,6 +52,8 @@ struct SettingsWindow: View {
                 }
             }
 
+            UpdatesSection()
+
             Section {
                 HStack {
                     Spacer()
@@ -66,12 +64,87 @@ struct SettingsWindow: View {
         .formStyle(.grouped)
         .frame(width: 520)
         .fixedSize(horizontal: false, vertical: true)
+        .sheet(isPresented: $showOnboarding) { OnboardingView() }
+    }
+}
+
+struct LaunchAtLoginToggle: View {
+    @State private var launchAtLogin = SMAppService.mainApp.status == .enabled
+
+    var body: some View {
+        Toggle("Launch at login", isOn: $launchAtLogin)
+            .onChange(of: launchAtLogin) { _, enabled in
+                do {
+                    if enabled { try SMAppService.mainApp.register() } else { try SMAppService.mainApp.unregister() }
+                } catch {
+                    launchAtLogin = SMAppService.mainApp.status == .enabled
+                }
+            }
+    }
+}
+
+private struct UpdatesSection: View {
+    @Environment(Updater.self) private var updater
+
+    var body: some View {
+        @Bindable var updater = updater
+        Section {
+            LabeledContent("Version") {
+                Text(verbatim: Updater.currentVersion).monospacedDigit()
+            }
+            HStack {
+                status
+                Spacer()
+                if case .available = updater.state {
+                    Button("Update and relaunch") { updater.install() }
+                        .buttonStyle(.borderedProminent)
+                } else {
+                    Button("Check now") { Task { await updater.check() } }
+                        .disabled(updater.isBusy)
+                }
+            }
+            Toggle("Check for updates automatically", isOn: $updater.checkAutomatically)
+            Toggle("Include beta versions", isOn: $updater.includeBetas)
+        } header: {
+            Text("Updates")
+        } footer: {
+            Text("Updates come from StockBar's releases on GitHub and are installed only when signed like this copy.")
+                .font(.caption).foregroundStyle(.secondary)
+        }
+    }
+
+    @ViewBuilder
+    private var status: some View {
+        switch updater.state {
+        case .idle:
+            EmptyView()
+        case .checking:
+            HStack(spacing: 6) { ProgressView().controlSize(.small); Text("Checking…") }.foregroundStyle(.secondary)
+        case .upToDate:
+            VStack(alignment: .leading, spacing: 2) {
+                Text("StockBar is up to date")
+                if let last = updater.lastCheck {
+                    Text("Checked \(last.formatted(.relative(presentation: .named)))").font(.caption).foregroundStyle(.secondary)
+                }
+            }
+        case .available(let release):
+            VStack(alignment: .leading, spacing: 2) {
+                Text("StockBar \(release.version) is available")
+                Link("Release notes", destination: release.page).font(.caption)
+            }
+        case .downloading:
+            HStack(spacing: 6) { ProgressView().controlSize(.small); Text("Downloading update…") }.foregroundStyle(.secondary)
+        case .installing:
+            HStack(spacing: 6) { ProgressView().controlSize(.small); Text("Installing update…") }.foregroundStyle(.secondary)
+        case .failed(let message):
+            Text(message).foregroundStyle(.red)
+        }
     }
 }
 
 /// The app's language. macOS reads it (AppleLanguages in the app's own preferences) only at launch,
 /// so a change asks to relaunch; "Later" keeps it for the next launch.
-private struct LanguagePicker: View {
+struct LanguagePicker: View {
     @State private var language = Self.saved
     @State private var pending: String?
 

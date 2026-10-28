@@ -40,7 +40,7 @@ struct FundHoldingsPage: View {
                     }
                     table(rows)
                     allocation(rows, total: total)
-                    Text("Prices come from CVM: daily reports for regular funds (a day or two behind), monthly reports for FIDCs, and only the statement price for FIPs, which report quarterly. The newer of CVM's price and the statement's is used. Returns are from CVM's history, as of its latest price; holdings without it show —. Values are gross: income tax depends on what you paid for the shares.")
+                    Text("Prices come from CVM: daily reports for regular funds (a day or two behind) and monthly reports for FIDCs. Each Open Finance sync brings the brokers' share price for FIDCs and FIPs (FIPs only report quarterly), and the newer of CVM's price and that one is used. Returns are from CVM's history, as of its latest price; holdings without it show —. Values are gross: income tax depends on what you paid for the shares.")
                         .font(.caption).foregroundStyle(.secondary)
                         .fixedSize(horizontal: false, vertical: true)
                 }
@@ -165,6 +165,7 @@ struct FundHoldingsPage: View {
         case .cvmDaily: String(localized: "CVM")
         case .cvmMonthly: String(localized: "CVM monthly")
         case .statement: String(localized: "Statement")
+        case .openFinance: "Open Finance"
         }
     }
 

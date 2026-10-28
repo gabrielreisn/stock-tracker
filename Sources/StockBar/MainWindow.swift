@@ -11,6 +11,7 @@ struct MainWindow: View {
     @Environment(FundStore.self) private var funds
     @AppStorage("mainSection") private var section: MainSection = .overview
     @AppStorage(Privacy.key) private var hideValues = false
+    @State private var showOnboarding = false
 
     var body: some View {
         NavigationSplitView {
@@ -25,6 +26,8 @@ struct MainWindow: View {
         }
         .frame(minWidth: 1120, minHeight: 720)
         .task { funds.loadHoldings() }
+        .task { if OnboardingView.shouldStartOnLaunch() { showOnboarding = true } }
+        .sheet(isPresented: $showOnboarding) { OnboardingView() }
         // A menu bar app has no Dock icon; give it one while this window is open so it can be found with ⌘-Tab.
         .onAppear {
             NSApp.setActivationPolicy(.regular)
@@ -80,6 +83,9 @@ struct MainWindow: View {
                 }
             }
             .listStyle(.sidebar)
+            UpdateButton()
+                .padding(.horizontal, 10)
+                .padding(.bottom, 4)
             Button { hideValues.toggle() } label: {
                 Label(hideValues ? "Show values" : "Hide values", systemImage: hideValues ? "eye.slash" : "eye")
                     .frame(maxWidth: .infinity, alignment: .leading)
@@ -104,6 +110,49 @@ struct MainWindow: View {
             }
             .buttonStyle(.plain)
             .padding(10)
+        }
+    }
+}
+
+/// Shown in the sidebar only while there's an update: one click downloads it, swaps the app and relaunches.
+private struct UpdateButton: View {
+    @Environment(Updater.self) private var updater
+
+    var body: some View {
+        @Bindable var updater = updater
+        Group {
+            switch updater.state {
+            case .available(let release):
+                Button { updater.install() } label: {
+                    Label("Update to \(release.version)", systemImage: "arrow.down.circle.fill")
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 7)
+                        .background(Color.accentColor.opacity(0.2), in: RoundedRectangle(cornerRadius: 6))
+                        .contentShape(Rectangle())
+                }
+                .buttonStyle(.plain)
+                .help("Download StockBar \(release.version) and relaunch")
+            case .downloading, .installing:
+                HStack(spacing: 8) {
+                    ProgressView().controlSize(.small)
+                    Text(updater.state.isDownloading ? "Downloading update…" : "Installing update…")
+                        .foregroundStyle(.secondary)
+                }
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .padding(.horizontal, 10)
+                .padding(.vertical, 7)
+            default:
+                EmptyView()
+            }
+        }
+        .alert("The update wasn't installed", isPresented: Binding(get: { updater.installError != nil }, set: { if !$0 { updater.installError = nil } })) {
+            if case .available(let release) = updater.state {
+                Button("Open on GitHub") { NSWorkspace.shared.open(release.page) }
+            }
+            Button("OK", role: .cancel) {}
+        } message: {
+            Text(updater.installError ?? "")
         }
     }
 }
@@ -277,9 +326,8 @@ private struct DividendsSection: View {
                     }
             }
         }
-        // Keys come from the same (translated) labels as the bars: a value missing from the scale crashes Charts.
-        .chartForegroundStyleScale([DividendKind.dividend.label: Color(hex: 0x2A78D6), DividendKind.jcp.label: Color(hex: 0xEB6834),
-                                    DividendKind.income.label: Color(hex: 0x1BAF7A)])
+        // Keys come from the same (translated) labels as the bars, for every kind: a value missing from the scale crashes Charts.
+        .chartForegroundStyleScale(domain: DividendKind.allCases.map(\.label), range: DividendKind.allCases.map(\.color))
         .chartXScale(domain: monthDate(1).addingTimeInterval(-15 * 86_400)...monthDate(12).addingTimeInterval(16 * 86_400))
         .chartXAxis {
             AxisMarks(values: (1...12).map(monthDate)) { _ in
@@ -323,5 +371,15 @@ extension View {
     func card() -> some View {
         background(.quaternary.opacity(0.35), in: RoundedRectangle(cornerRadius: 12))
             .overlay(RoundedRectangle(cornerRadius: 12).stroke(.separator))
+    }
+}
+
+private extension DividendKind {
+    var color: Color {
+        switch self {
+        case .dividend: Color(hex: 0x2A78D6)
+        case .jcp: Color(hex: 0xEB6834)
+        case .income: Color(hex: 0x1BAF7A)
+        }
     }
 }

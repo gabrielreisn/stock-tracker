@@ -47,7 +47,7 @@ struct ExDividend: Codable, Sendable, Hashable {
     var amount: Double
 }
 
-enum DividendKind: String, Hashable {
+enum DividendKind: String, Hashable, CaseIterable {
     case dividend, jcp, income
     var label: String {
         switch self {

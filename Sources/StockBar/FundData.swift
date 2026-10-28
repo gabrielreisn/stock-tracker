@@ -215,7 +215,9 @@ enum CVM {
         var rows: [[Substring]] = []
 
         init(_ data: Data) {
-            let text = String(data: data, encoding: .windowsCP1252) ?? ""
+            var text = String(data: data, encoding: .windowsCP1252) ?? ""
+            // Decoding hands back a bridged NSString, which Swift walks one UTF-16 unit at a time: re-encode as native UTF-8 first.
+            text.makeContiguousUTF8()
             var lines = text.split(whereSeparator: \.isNewline)[...]
             guard let header = lines.popFirst() else { return }
             for (i, name) in header.split(separator: ";", omittingEmptySubsequences: false).enumerated() {

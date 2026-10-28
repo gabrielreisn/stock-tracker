@@ -13,6 +13,10 @@ Download the latest `StockBar-<version>.dmg` from [Releases](../../releases), op
 The app isn't notarized yet: on first launch, allow it in **System Settings → Privacy & Security → Open Anyway**.
 Requires macOS 15+ (Apple Silicon or Intel).
 
+After that, StockBar updates itself: it checks GitHub every few hours and shows **Update to …** in the sidebar;
+one click downloads the new version, checks it's signed with the same certificate, replaces the app and relaunches.
+Settings → Updates has "Check now" and a switch for beta versions.
+
 ## What's in it
 
 - **Overview** — the whole portfolio: value by asset class, allocation (B3 stocks, US stocks, bonds, funds),

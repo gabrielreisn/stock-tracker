@@ -277,7 +277,7 @@
 "Price" = "Preço";
 "Price alerts" = "Alertas de preço";
 "Price date" = "Data do preço";
-"Prices come from CVM: daily reports for regular funds (a day or two behind), monthly reports for FIDCs, and only the statement price for FIPs, which report quarterly. The newer of CVM's price and the statement's is used. Returns are from CVM's history, as of its latest price; holdings without it show —. Values are gross: income tax depends on what you paid for the shares." = "Os preços vêm da CVM: informes diários para fundos comuns (um ou dois dias de atraso), informes mensais para FIDCs e só o preço do extrato para FIPs, que informam trimestralmente. Usa-se o mais recente entre o preço da CVM e o do extrato. A rentabilidade vem do histórico da CVM, até o último preço; posições sem histórico mostram —. Os valores são brutos: o IR depende de quanto você pagou pelas cotas.";
+"Prices come from CVM: daily reports for regular funds (a day or two behind) and monthly reports for FIDCs. Each Open Finance sync brings the brokers' share price for FIDCs and FIPs (FIPs only report quarterly), and the newer of CVM's price and that one is used. Returns are from CVM's history, as of its latest price; holdings without it show —. Values are gross: income tax depends on what you paid for the shares." = "Os preços vêm da CVM: informes diários para fundos comuns (um ou dois dias de atraso) e informes mensais para FIDCs. Cada sincronização do Open Finance traz o valor da cota das corretoras para FIDCs e FIPs (os FIPs só informam trimestralmente), e usa-se o mais recente entre esse e o da CVM. A rentabilidade vem do histórico da CVM, até o último preço; posições sem histórico mostram —. Os valores são brutos: o IR depende de quanto você pagou pelas cotas.";
 "Prices, USD/BRL, S&P 500, IBOV: Yahoo Finance\nCDI and IPCA: Banco Central (SGS)\nIFIX history: B3" = "Preços, dólar, S&P 500, IBOV: Yahoo Finance\nCDI e IPCA: Banco Central (SGS)\nHistórico do IFIX: B3";
 "Private credit (CDI)" = "Crédito privado (CDI)";
 "Private equity fund (FIP)" = "Fundo de participações (FIP)";
@@ -530,3 +530,69 @@
 "tomorrow" = "amanhã";
 "Overdue" = "Vencida";
 "when it closes" = "quando fechar";
+
+/* Open Finance sync */
+"Everything StockBar tracks matches Open Finance" = "Tudo o que o StockBar acompanha bate com o Open Finance";
+"Updated to match Open Finance" = "Atualizado conforme o Open Finance";
+"quantity %@ → %@" = "quantidade %1$@ → %2$@";
+"average price updated" = "preço médio atualizado";
+"share price %@ → %@ (%@)" = "valor da cota %1$@ → %2$@ (%3$@)";
+"removed: fully withdrawn" = "removido: resgate total";
+"Positions weren't updated: sync again once every connection responds." = "As posições não foram atualizadas: sincronize de novo quando todas as conexões responderem.";
+
+/* Updates */
+"Couldn't reach GitHub to check for updates." = "Não foi possível acessar o GitHub para procurar atualizações.";
+"StockBar can't write to the folder it's installed in. Download the update from GitHub instead." = "O StockBar não consegue gravar na pasta em que está instalado. Baixe a atualização pelo GitHub.";
+"The downloaded update isn't signed like this copy of StockBar, so it wasn't installed." = "A atualização baixada não tem a mesma assinatura desta cópia do StockBar, então não foi instalada.";
+"Installing the update failed (%@ exited with %d)." = "Falha ao instalar a atualização (%1$@ terminou com %2$d).";
+"Download StockBar %@ and relaunch" = "Baixar o StockBar %@ e reabrir";
+"Downloading update…" = "Baixando atualização…";
+"Installing update…" = "Instalando atualização…";
+"The update wasn't installed" = "A atualização não foi instalada";
+"Open on GitHub" = "Abrir no GitHub";
+"OK" = "OK";
+"Version" = "Versão";
+"Update and relaunch" = "Atualizar e reabrir";
+"Check now" = "Verificar agora";
+"Check for updates automatically" = "Procurar atualizações automaticamente";
+"Include beta versions" = "Incluir versões beta";
+"Updates" = "Atualizações";
+"Updates come from StockBar's releases on GitHub and are installed only when signed like this copy." = "As atualizações vêm das versões do StockBar no GitHub e só são instaladas se tiverem a mesma assinatura desta cópia.";
+"Checking…" = "Verificando…";
+"StockBar is up to date" = "O StockBar está atualizado";
+"Checked %@" = "Verificado %@";
+"StockBar %@ is available" = "O StockBar %@ está disponível";
+"Release notes" = "Notas da versão";
+
+/* Setup guide */
+"Setup guide" = "Guia de configuração";
+"Show" = "Mostrar";
+"Welcome" = "Boas-vindas";
+"Welcome to StockBar" = "Boas-vindas ao StockBar";
+"Your stocks, bonds, funds and spending in one place, checked against CDI, IPCA and the market. A few quick steps and you're set." = "Suas ações, renda fixa, fundos e gastos em um só lugar, comparados com CDI, IPCA e o mercado. Alguns passos rápidos e está tudo pronto.";
+"You're all set" = "Tudo pronto";
+"Skip setup" = "Pular configuração";
+"Get started" = "Começar";
+"Continue" = "Continuar";
+"Finish" = "Concluir";
+"Create Pluggy account" = "Criar conta Pluggy";
+"Get dashboard info" = "Dados do painel";
+"Sync with Open Finance" = "Sincronizar com Open Finance";
+"Create your Meu Pluggy account" = "Crie sua conta no Meu Pluggy";
+"Meu Pluggy is a free service that reaches your banks and brokers through Open Finance. Create an account and connect your banks and brokers there; StockBar reads them from it." = "O Meu Pluggy é um serviço gratuito que acessa seus bancos e corretoras pelo Open Finance. Crie uma conta e conecte seus bancos e corretoras lá; o StockBar lê os dados de lá.";
+"Open meu.pluggy.ai" = "Abrir meu.pluggy.ai";
+"Get your Client ID and secret" = "Pegue seu Client ID e secret";
+"In the Pluggy dashboard, open your application and copy its Client ID and Client Secret. You'll paste them in the next step." = "No painel da Pluggy, abra sua aplicação e copie o Client ID e o Client Secret. Você vai colá-los no próximo passo.";
+"Open the Pluggy dashboard" = "Abrir o painel da Pluggy";
+"Paste the Client ID and secret, then connect each bank or broker. Each connection shares one institution from Meu Pluggy; connect again for the next one." = "Cole o Client ID e o secret e conecte cada banco ou corretora. Cada conexão compartilha uma instituição do Meu Pluggy; conecte de novo para a próxima.";
+"Connect at least one bank or broker to continue" = "Conecte pelo menos um banco ou corretora para continuar";
+"Expense categories" = "Categorias de gastos";
+"What do you spend on?" = "Com o que você gasta?";
+"Pick the kinds of expenses you have. Transactions from your banks are sorted into them, and you can set a monthly limit for each in Categories & limits." = "Escolha os tipos de gasto que você tem. As transações dos seus bancos são separadas neles, e você pode definir um limite mensal para cada um em Limites e categorias.";
+"Already in your categories" = "Já está nas suas categorias";
+"Fixed expenses" = "Despesas fixas";
+"Car" = "Carro";
+"Before relying on the numbers, review everything Open Finance brought in on the Open Finance page: the positions it found, how they were matched to what StockBar tracks, and their average prices." = "Antes de confiar nos números, revise na página Open Finance tudo o que veio do Open Finance: as posições encontradas, como foram associadas ao que o StockBar acompanha e os preços médios.";
+"Review on the Open Finance page" = "Revisar na página Open Finance";
+"You can open this guide again from Settings." = "Você pode abrir este guia de novo em Ajustes.";
+

@@ -138,6 +138,8 @@ struct FundHoldingForm: View {
         h.quantity = q
         h.statementPrice = parseNumber(price).flatMap { $0 > 0 ? $0 : nil }
         h.statementDay = h.statementPrice == nil ? nil : DayKey.from(priceDate)
+        // A price changed by hand is the user's own, not Open Finance's anymore.
+        if h.statementPrice != holding.statementPrice || h.statementDay != holding.statementDay { h.statementFromOpenFinance = nil }
         return h
     }
 
