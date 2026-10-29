@@ -1,11 +1,48 @@
-<img width="1102" height="1604" alt="CleanShot 2026-10-19 at 21 11 21@2x" src="https://github.com/user-attachments/assets/093c2e46-a93e-4083-8a21-2c63fe585407" />
-
-
 # StockBar
 
-A native macOS app (SwiftUI, no Electron) that tracks a Brazilian investment portfolio — stocks (B3 and US),
+A native macOS app made with SwiftUI that tracks a Brazilian investment portfolio — stocks (B3 and US),
 bonds and funds — against CDI, IPCA, IPCA+6%, the S&P 500, IFIX and IBOV. It opens as a window, with a
-menu bar widget for a quick look.
+menu bar widget for a quick look. It also follows your spending through Open Finance, and you can ask it
+about all of it in plain words.
+
+![Overview: the whole portfolio against CDI, IPCA+6% and the S&P 500](docs/screenshots/overview.png)
+
+<table>
+  <tr>
+    <td><img src="docs/screenshots/stocks.png" alt="Stocks: performance chart and holdings"></td>
+    <td><img src="docs/screenshots/ai.png" alt="AI: questions about spending, answered from your own data"></td>
+  </tr>
+  <tr>
+    <td align="center">Stocks: performance against benchmarks, holdings with average price and gain</td>
+    <td align="center">AI: ask about your money; it shows what it looked up</td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/expenses.png" alt="Expenses: a month of card and account transactions by category"></td>
+    <td><img src="docs/screenshots/insights.png" alt="Insights: spending by month against the limit, per category trends"></td>
+  </tr>
+  <tr>
+    <td align="center">Expenses: every transaction of the month, categorized</td>
+    <td align="center">Insights: the year month by month, with trends per category</td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/bonds.png" alt="Bonds: CDBs, LCAs and LCIs valued from their terms"></td>
+    <td><img src="docs/screenshots/funds.png" alt="Funds: holdings at CVM's share price and allocation by purpose"></td>
+  </tr>
+  <tr>
+    <td align="center">Bonds: valued from their terms, with income tax</td>
+    <td align="center">Funds: CVM share prices and allocation by purpose</td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/fgc.png" alt="FGC Watcher: exposure per financial conglomerate"></td>
+    <td><img src="docs/screenshots/openfinance.png" alt="Open Finance: connections, accounts and investments checked against StockBar"></td>
+  </tr>
+  <tr>
+    <td align="center">FGC Watcher: exposure per conglomerate against the R$ 250 mil limit</td>
+    <td align="center">Open Finance: your banks' positions, checked against what StockBar tracks</td>
+  </tr>
+</table>
+
+<sub>Screenshots use made-up data.</sub>
 
 ## Install
 
@@ -54,9 +91,19 @@ Settings → Updates has "Check now" and a switch for beta versions.
 - **Hide values** — one click (or ⇧⌘H) masks every amount, quantity and account number, for sharing screenshots;
   percentages and charts stay.
 
+## Repository
+
+- `macOS/` — the app: a Swift package (`Package.swift`, `Sources/`, `Resources/`) and `build.sh`, which builds the
+  `.app` and the DMG.
+- `web/` — a Next.js app, just started.
+- `docs/screenshots/` — the images in this README.
+
 ## Develop
 
+The macOS app, from `macOS/`:
+
 ```sh
+cd macOS
 ./build.sh            # universal build/StockBar.app
 ./build.sh --install  # copy to ~/Applications and launch
 ./build.sh --dmg      # package build/StockBar-<version>.dmg
@@ -104,7 +151,7 @@ transactions is cached in `~/Library/Caches/StockBar/`.
 
 - **AI** answers through four read-only tools (search and total transactions, spending summary, portfolio overview,
   holdings), shared by every engine; the model never sees raw files, only what a tool returns. The rules it follows
-  are in `Resources/AI/rules.md`. The local model runs through llama.cpp, starts each answer with a lookup (so it
+  are in `macOS/Resources/AI/rules.md`. The local model runs through llama.cpp, starts each answer with a lookup (so it
   can't answer from nothing) and is unloaded when you leave the AI tab. With an API key, your question and what the
   tools return are sent to that provider; nothing else leaves the Mac.
 

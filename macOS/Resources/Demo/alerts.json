@@ -1,0 +1,16 @@
+[
+  {
+    "id": "C6F87718-6D76-B07E-881E-D162AE2EB154",
+    "ticker": "PRIO3",
+    "target": 40.0,
+    "kind": "buy",
+    "isEnabled": true
+  },
+  {
+    "id": "EC66A787-95E7-61D1-7731-AF10506BF2EF",
+    "ticker": "WEGE3",
+    "target": 60.0,
+    "kind": "sell",
+    "isEnabled": true
+  }
+]

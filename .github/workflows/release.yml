@@ -23,7 +23,7 @@ jobs:
           # Optional: a stable signing certificate, so "Always Allow" on the Keychain prompt survives updates.
           SIGNING_P12_BASE64: ${{ secrets.SIGNING_P12_BASE64 }}
           SIGNING_P12_PASSWORD: ${{ secrets.SIGNING_P12_PASSWORD }}
-        run: VERSION="${GITHUB_REF_NAME#v}" ./build.sh --dmg
+        run: VERSION="${GITHUB_REF_NAME#v}" macOS/build.sh --dmg
 
       - name: Publish release
         env:
@@ -31,7 +31,7 @@ jobs:
         run: |
           prerelease=()
           [[ "$GITHUB_REF_NAME" == *-* ]] && prerelease=(--prerelease)
-          gh release create "$GITHUB_REF_NAME" build/StockBar-*.dmg "${prerelease[@]}" \
+          gh release create "$GITHUB_REF_NAME" macOS/build/StockBar-*.dmg "${prerelease[@]}" \
             --title "StockBar ${GITHUB_REF_NAME#v}" \
             --notes-file .github/release-notes.md \
             --generate-notes

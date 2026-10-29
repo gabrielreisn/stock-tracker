@@ -1,0 +1,146 @@
+[
+  {
+    "id": "0FD630F1-F29D-0DA9-953F-48F1A09F76B5",
+    "ticker": "HGLG11",
+    "kind": "buy",
+    "date": "2024-02-14T15:00:00Z",
+    "quantity": 60,
+    "price": 164.75
+  },
+  {
+    "id": "6513270E-269E-0D37-F2A7-4DE452E6B438",
+    "ticker": "WEGE3",
+    "kind": "buy",
+    "date": "2024-03-12T15:00:00Z",
+    "quantity": 300,
+    "price": 37.61
+  },
+  {
+    "id": "AE97BA94-D0ED-A82F-8F6D-05584EF8AA38",
+    "ticker": "IVVB11",
+    "kind": "buy",
+    "date": "2024-04-02T15:00:00Z",
+    "quantity": 90,
+    "price": 292.7
+  },
+  {
+    "id": "9531985D-5D9D-C9F8-1818-E811892F902B",
+    "ticker": "EGIE3",
+    "kind": "buy",
+    "date": "2024-05-20T15:00:00Z",
+    "quantity": 400,
+    "price": 31.56
+  },
+  {
+    "id": "92276658-1E27-A1C0-8A6A-63EC24EDE6A4",
+    "ticker": "BOVA11",
+    "kind": "buy",
+    "date": "2024-06-10T15:00:00Z",
+    "quantity": 150,
+    "price": 117.35
+  },
+  {
+    "id": "18F135D2-5F55-7203-3018-50C5A38FD547",
+    "ticker": "AAPL",
+    "kind": "buy",
+    "date": "2024-07-15T15:00:00Z",
+    "quantity": 25,
+    "price": 234.4
+  },
+  {
+    "id": "36F675CC-81E7-4EF5-E8E2-5D940ED90475",
+    "ticker": "TAEE11",
+    "kind": "buy",
+    "date": "2024-08-06T15:00:00Z",
+    "quantity": 500,
+    "price": 34.69
+  },
+  {
+    "id": "8E81973E-0BEC-D7B0-3898-D190F9EBDACC",
+    "ticker": "KNRI11",
+    "kind": "buy",
+    "date": "2024-09-18T15:00:00Z",
+    "quantity": 80,
+    "price": 147.28
+  },
+  {
+    "id": "8D116ECE-1738-F7D9-3D9C-172411E20B8F",
+    "ticker": "BBSE3",
+    "kind": "buy",
+    "date": "2024-11-04T15:00:00Z",
+    "quantity": 600,
+    "price": 34.64
+  },
+  {
+    "id": "6B4CB242-4A23-D596-2217-BEADDBC496CB",
+    "ticker": "XPML11",
+    "kind": "buy",
+    "date": "2025-01-21T15:00:00Z",
+    "quantity": 120,
+    "price": 95.15
+  },
+  {
+    "id": "90C192CF-D3AC-94AF-0F21-DDB66CAD4A26",
+    "ticker": "PRIO3",
+    "kind": "buy",
+    "date": "2025-02-11T15:00:00Z",
+    "quantity": 350,
+    "price": 40.3
+  },
+  {
+    "id": "907A70C3-1012-F037-B64C-E4228C38FB29",
+    "ticker": "MSFT",
+    "kind": "buy",
+    "date": "2025-03-03T15:00:00Z",
+    "quantity": 12,
+    "price": 388.49
+  },
+  {
+    "id": "A170B338-3926-3059-F28C-105D1FB17C23",
+    "ticker": "VIVT3",
+    "kind": "buy",
+    "date": "2025-04-22T15:00:00Z",
+    "quantity": 250,
+    "price": 26.36
+  },
+  {
+    "id": "7F150524-34B9-B5DF-9E77-69B10F4205B4",
+    "ticker": "NVDA",
+    "kind": "buy",
+    "date": "2025-05-12T15:00:00Z",
+    "quantity": 40,
+    "price": 123.0
+  },
+  {
+    "id": "D23F0824-128B-2F33-0C5C-7FD0A6A3A450",
+    "ticker": "WEGE3",
+    "kind": "buy",
+    "date": "2025-06-03T15:00:00Z",
+    "quantity": 200,
+    "price": 41.7
+  },
+  {
+    "id": "0CB1E29C-658C-DA14-95E6-0AF593BD04CF",
+    "ticker": "HGLG11",
+    "kind": "buy",
+    "date": "2025-07-09T15:00:00Z",
+    "quantity": 40,
+    "price": 155.08
+  },
+  {
+    "id": "6B0D549B-6F03-675A-1600-A35A099950D8",
+    "ticker": "TAEE11",
+    "kind": "buy",
+    "date": "2025-09-15T15:00:00Z",
+    "quantity": 300,
+    "price": 35.01
+  },
+  {
+    "id": "923A7369-94E3-BF91-1A61-DBE22E44158B",
+    "ticker": "IVVB11",
+    "kind": "buy",
+    "date": "2025-10-01T15:00:00Z",
+    "quantity": 50,
+    "price": 401.45
+  }
+]

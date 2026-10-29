@@ -1,0 +1,47 @@
+[
+  {
+    "id": "7F26144B-9828-9FCD-59A5-4A7BB1FEE08F",
+    "cnpj": "45278833000157",
+    "name": "TREND DI FIC FI RENDA FIXA SIMPLES",
+    "kind": "fif",
+    "quantity": 18000.0,
+    "taxExempt": false,
+    "purpose": "selic"
+  },
+  {
+    "id": "119A72D1-74C9-DF6A-CC01-1CDD9474031B",
+    "cnpj": "09215250000113",
+    "name": "BTG PACTUAL TESOURO SELIC FI RENDA FIXA REFERENCIADO DI",
+    "kind": "fif",
+    "quantity": 4200.0,
+    "taxExempt": false,
+    "purpose": "selic"
+  },
+  {
+    "id": "451ABD81-F1D6-9ED6-17F5-E837D70820FE",
+    "cnpj": "14188162000100",
+    "name": "SPARTA TOP FIC FIF RENDA FIXA CR\u00c9DITO PRIVADO",
+    "kind": "fif",
+    "quantity": 9500.0,
+    "taxExempt": false,
+    "purpose": "credit"
+  },
+  {
+    "id": "10A3D6B2-AA05-E11A-B271-5945795E8229",
+    "cnpj": "23556185000110",
+    "name": "AZ QUEST LUCE FIC FIF RENDA FIXA CR\u00c9DITO PRIVADO",
+    "kind": "fif",
+    "quantity": 11000.0,
+    "taxExempt": false,
+    "purpose": "credit"
+  },
+  {
+    "id": "4F426DCB-B394-FB36-BB2D-420F0F88080B",
+    "cnpj": "42730834000100",
+    "name": "SPARTA INFRA FIC FI INCENTIVADO INFRAESTRUTURA",
+    "kind": "fif",
+    "quantity": 160.0,
+    "taxExempt": true,
+    "purpose": "infrastructure"
+  }
+]
