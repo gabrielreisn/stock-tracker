@@ -309,16 +309,17 @@ actor PluggyClient {
 /// macOS grants a self-signed app access per build (cdhash), so a new version asks again once; reading the
 /// secret's data is what asks, so StockBar reads it at most once per launch and checks for it by attributes only.
 enum Keychain {
-    private static let service = "StockBar Pluggy"
+    /// Pluggy's client secret, by client ID. Other secrets pass their own service.
+    static let pluggy = "StockBar Pluggy"
 
     /// Whether the item exists, without reading the secret itself (which is what asks for permission).
-    static func hasSecret(for account: String) -> Bool {
+    static func hasSecret(for account: String, service: String = pluggy) -> Bool {
         let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
                                     kSecAttrAccount as String: account, kSecReturnAttributes as String: true]
         return SecItemCopyMatching(query as CFDictionary, nil) == errSecSuccess
     }
 
-    static func secret(for account: String) -> String? {
+    static func secret(for account: String, service: String = pluggy) -> String? {
         let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
                                     kSecAttrAccount as String: account, kSecReturnData as String: true]
         var result: AnyObject?
@@ -327,14 +328,14 @@ enum Keychain {
     }
 
     @discardableResult
-    static func setSecret(_ secret: String, for account: String) -> Bool {
-        deleteSecret(for: account)
+    static func setSecret(_ secret: String, for account: String, service: String = pluggy) -> Bool {
+        deleteSecret(for: account, service: service)
         let item: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
                                    kSecAttrAccount as String: account, kSecValueData as String: Data(secret.utf8)]
         return SecItemAdd(item as CFDictionary, nil) == errSecSuccess
     }
 
-    static func deleteSecret(for account: String) {
+    static func deleteSecret(for account: String, service: String = pluggy) {
         let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
                                     kSecAttrAccount as String: account]
         SecItemDelete(query as CFDictionary)
@@ -362,7 +363,8 @@ final class PluggyStore {
     /// What the last sync changed to match Open Finance; nil when it didn't get to match.
     private(set) var syncChanges: [OpenFinanceChange]?
     /// Applies a sync's investments to what StockBar tracks (see `OpenFinanceMatcher.reconcile`).
-    var reconcile: (@MainActor ([PluggyInvestment]) -> [OpenFinanceChange])?
+    /// Its second argument is the connections that finished updating, whose listings are complete.
+    var reconcile: (@MainActor ([PluggyInvestment], Set<String>) -> [OpenFinanceChange])?
 
     init() {
         clientId = UserDefaults.standard.string(forKey: "pluggyClientId") ?? ""
@@ -508,7 +510,7 @@ final class PluggyStore {
             investments = newInvestments
             lastSync = .now
             if failures.isEmpty {
-                syncChanges = reconcile?(newInvestments)
+                syncChanges = reconcile?(newInvestments, Set(newItems.filter { $0.status == "UPDATED" }.map(\.id)))
             } else {
                 // A missing institution would look like positions sold; match again once they all respond.
                 syncChanges = nil

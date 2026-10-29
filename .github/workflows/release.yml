@@ -11,7 +11,8 @@ permissions:
 
 jobs:
   release:
-    runs-on: macos-15
+    # macOS 26 SDK: Apple Intelligence (FoundationModels) is compiled out with older Xcodes.
+    runs-on: macos-26
     steps:
       - uses: actions/checkout@v5
         with:

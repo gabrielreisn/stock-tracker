@@ -44,8 +44,13 @@ Settings → Updates has "Check now" and a switch for beta versions.
   month-by-month grid.
 - **Bills** — what's due and when: card bills from the bank, and recurring boletos, automatic debits and financing
   found in your accounts, with the due day estimated from past payments (or set by you) and what's late this month.
+- **AI** — ask about your money in plain words ("quantas vezes andei de Uber este mês?", "quanto rendeu meu CDB
+  pré-fixado?"). The assistant looks things up with StockBar's own queries and shows what it looked up under each
+  answer. Pick the engine in Settings → AI: Apple Intelligence or a local model (Qwen3 4B, a one-time 2,5 GB
+  download), both free and on your Mac, or your own OpenAI, Anthropic, DeepSeek or Google Gemini API key.
 - **Menu bar widget** — today's chart and holdings, plus price alerts that send a notification when a ticker reaches a target.
-- **Português e English** — the whole app is translated to Brazilian Portuguese; pick the language in Settings → General.
+- **Português e English** — the whole app is translated to Brazilian Portuguese; pick the language, and light, dark
+  or system theme, in Settings → Appearance.
 - **Hide values** — one click (or ⇧⌘H) masks every amount, quantity and account number, for sharing screenshots;
   percentages and charts stay.
 
@@ -57,6 +62,9 @@ Settings → Updates has "Check now" and a switch for beta versions.
 ./build.sh --dmg      # package build/StockBar-<version>.dmg
 swift scripts/make-icon.swift  # regenerate Resources/AppIcon.icns
 ```
+
+The first build downloads [llama.cpp](https://github.com/ggml-org/llama.cpp)'s Apple framework (the release pinned in
+`build.sh`, checked against its SHA-256) into `Vendor/`, which isn't committed.
 
 ## Release
 
@@ -93,6 +101,12 @@ transactions is cached in `~/Library/Caches/StockBar/`.
   secret is stored in the macOS Keychain), then **Connect a bank or broker** opens Pluggy Connect inside the app.
   Each MeuPluggy connection shares one institution; connecting the same one twice is deduplicated, and
   **Reconnect** renews a connection when Meu Pluggy's one-year consent lapses.
+
+- **AI** answers through four read-only tools (search and total transactions, spending summary, portfolio overview,
+  holdings), shared by every engine; the model never sees raw files, only what a tool returns. The rules it follows
+  are in `Resources/AI/rules.md`. The local model runs through llama.cpp, starts each answer with a lookup (so it
+  can't answer from nothing) and is unloaded when you leave the AI tab. With an API key, your question and what the
+  tools return are sent to that provider; nothing else leaves the Mac.
 
 ## Signing
 

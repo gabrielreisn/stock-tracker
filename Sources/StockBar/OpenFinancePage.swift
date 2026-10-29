@@ -721,6 +721,8 @@ struct PluggySettingsSection: View {
     @State private var connecting: ConnectRequest?
     /// In the setup guide, whose own steps already explain Meu Pluggy and the dashboard.
     var inOnboarding = false
+    /// Off inside a Settings card, which already carries the title.
+    var showsHeader = true
 
     /// Opens the Connect widget, to add an item or reconnect one.
     struct ConnectRequest: Identifiable {
@@ -771,7 +773,7 @@ struct PluggySettingsSection: View {
                     .font(.caption).foregroundStyle(.secondary)
             }
         } header: {
-            Text("Open Finance (Pluggy)")
+            if showsHeader { Text("Open Finance (Pluggy)") }
         } footer: {
             Text("Your client secret stays in your login keychain and never leaves this Mac except to sign in to Pluggy. Meu Pluggy consent lasts a year; when it lapses, use Reconnect.")
                 .font(.caption).foregroundStyle(.secondary)

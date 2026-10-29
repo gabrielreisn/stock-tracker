@@ -109,8 +109,6 @@ struct OnboardingView: View {
                 .buttonStyle(.borderedProminent)
                 .controlSize(.large)
                 .padding(.top, 8)
-                Text("You can open this guide again from Settings.")
-                    .font(.caption).foregroundStyle(.secondary)
             }
         }
     }

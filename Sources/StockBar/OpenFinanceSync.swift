@@ -53,8 +53,17 @@ struct OpenFinanceMatcher {
     let funds: FundStore
     let investments: [PluggyInvestment]
 
-    /// Positions already sold come back with zero quantity and balance.
-    nonisolated static func isClosed(_ inv: PluggyInvestment) -> Bool { (inv.balance ?? 0) == 0 && (inv.quantity ?? 0) == 0 }
+    /// Positions already sold come back with zero quantity and balance, or flagged as fully withdrawn.
+    nonisolated static func isClosed(_ inv: PluggyInvestment) -> Bool {
+        inv.status == "TOTAL_WITHDRAWAL" || ((inv.balance ?? 0) == 0 && (inv.quantity ?? 0) == 0)
+    }
+
+    /// The Open Finance connections that listed each position (by `OpenFinanceTarget.key`) at the last sync.
+    /// Some institutions drop a redeemed position instead of reporting it at zero; this is how that's noticed.
+    nonisolated static var lastListed: [String: [String]] {
+        get { UserDefaults.standard.dictionary(forKey: "openFinanceLastListed") as? [String: [String]] ?? [:] }
+        set { UserDefaults.standard.set(newValue, forKey: "openFinanceLastListed") }
+    }
 
     nonisolated static func normalizedCode(_ inv: PluggyInvestment) -> String {
         (inv.code ?? "").uppercased().replacingOccurrences(of: "CDB-", with: "").trimmingCharacters(in: .whitespaces)
@@ -95,6 +104,14 @@ struct OpenFinanceMatcher {
         return nil
     }
 
+    /// The StockBar position behind a key from `lastListed`, if it's still tracked.
+    private func target(forKey key: String) -> (target: OpenFinanceTarget, label: String)? {
+        if let h = store.holdings.first(where: { OpenFinanceTarget.stock($0).key == key }) { return (.stock(h), h.ticker) }
+        if let b = store.bonds.first(where: { OpenFinanceTarget.bond($0).key == key }) { return (.bond(b), b.code) }
+        if let f = funds.holdings.first(where: { OpenFinanceTarget.fund($0).key == key }) { return (.fund(f), CVM.formatCNPJ(f.cnpj)) }
+        return nil
+    }
+
     /// One investment against StockBar. The same asset can be split across entries (or institutions), so the
     /// open total of entries with its code is compared.
     func compare(_ inv: PluggyInvestment) -> OpenFinanceMatch {
@@ -125,9 +142,10 @@ struct OpenFinanceMatcher {
     /// - quantities of the positions it reports, summed across institutions, and stocks' average prices;
     /// - the price of FIDCs and FIPs, which CVM reports late or not at all. Regular funds keep CVM's daily price,
     ///   which is fresher than what the brokers share;
-    /// - positions it reports only as fully withdrawn are removed.
-    /// Positions Open Finance doesn't list at all (a pension fund, a broker that isn't connected) are left alone.
-    func reconcile() -> [OpenFinanceChange] {
+    /// - positions it reports only as fully withdrawn are removed, and so are positions a connection listed at the
+    ///   last sync and no longer lists, once that connection has updated (`updatedItems`).
+    /// Positions Open Finance has never listed (a pension fund, a broker that isn't connected) are left alone.
+    func reconcile(updatedItems: Set<String>) -> [OpenFinanceChange] {
         struct Group { var target: OpenFinanceTarget; var label: String; var entries: [PluggyInvestment] = [] }
         var held: [String: Group] = [:], withdrawn: [String: Group] = [:]
         for inv in investments {
@@ -138,6 +156,18 @@ struct OpenFinanceMatcher {
                 held[target.key, default: Group(target: target, label: label)].entries.append(inv)
             }
         }
+        // Listed last time, missing now from connections that answered in full: redeemed.
+        let listedBefore = Self.lastListed
+        var stillPending: [String: [String]] = [:]
+        for (key, items) in listedBefore where held[key] == nil && withdrawn[key] == nil {
+            guard let (target, label) = target(forKey: key) else { continue }
+            if !items.isEmpty, items.allSatisfy(updatedItems.contains) {
+                withdrawn[key] = Group(target: target, label: label)
+            } else {
+                stillPending[key] = items
+            }
+        }
+        Self.lastListed = held.mapValues { Array(Set($0.entries.compactMap(\.itemId))).sorted() }.merging(stillPending) { a, _ in a }
 
         var changes: [OpenFinanceChange] = []
         for group in held.values {

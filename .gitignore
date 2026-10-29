@@ -1,6 +1,8 @@
 .build/
 build/
 .swiftpm/
+# llama.cpp, fetched by build.sh (see LLAMA_* there)
+Vendor/
 
 # Private notes (business drafts, not for the public repo)
 notes/

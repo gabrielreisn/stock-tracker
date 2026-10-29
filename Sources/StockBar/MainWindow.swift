@@ -2,7 +2,7 @@ import Charts
 import SwiftUI
 
 enum MainSection: String, CaseIterable, Identifiable {
-    case overview, stocks, bonds, funds, fgc, fundComparison, expenses, bills, insights, categories, openFinance, settings
+    case overview, ai, stocks, bonds, funds, fgc, fundComparison, expenses, bills, insights, categories, openFinance, settings, developer
     var id: String { rawValue }
 }
 
@@ -12,6 +12,7 @@ struct MainWindow: View {
     @AppStorage("mainSection") private var section: MainSection = .overview
     @AppStorage(Privacy.key) private var hideValues = false
     @State private var showOnboarding = false
+    @Environment(AIChat.self) private var chat
 
     var body: some View {
         NavigationSplitView {
@@ -30,6 +31,7 @@ struct MainWindow: View {
         .sheet(isPresented: $showOnboarding) { OnboardingView() }
         // A menu bar app has no Dock icon; give it one while this window is open so it can be found with ⌘-Tab.
         .onAppear {
+            AppTheme.apply()
             NSApp.setActivationPolicy(.regular)
             NSApp.activate()
         }
@@ -40,6 +42,7 @@ struct MainWindow: View {
     private var detail: some View {
         switch section {
         case .overview: OverviewPage()
+        case .ai: AIPage(chat: chat)
         case .stocks: StocksPage()
         case .bonds: BondsPage()
         case .funds: FundHoldingsPage()
@@ -53,6 +56,14 @@ struct MainWindow: View {
         case .settings:
             ScrollView { SettingsWindow().padding(.vertical, 20) }
                 .frame(maxWidth: .infinity)
+        case .developer:
+            // A release build can't reach it, but a section saved by a dev build could linger.
+            if Bundle.main.isDevBuild {
+                ScrollView { DeveloperPage().padding(.vertical, 20) }
+                    .frame(maxWidth: .infinity)
+            } else {
+                OverviewPage()
+            }
         }
     }
 
@@ -62,9 +73,10 @@ struct MainWindow: View {
                 .padding(.horizontal, 12)
                 .padding(.top, 12)
                 .padding(.bottom, 8)
-            List(selection: Binding(get: { section == .settings ? nil : section }, set: { if let s = $0 { section = s } })) {
+            List(selection: Binding(get: { [.settings, .developer].contains(section) ? nil : section }, set: { if let s = $0 { section = s } })) {
                 Section {
                     Label("Overview", systemImage: "chart.pie").tag(MainSection.overview)
+                    Label("AI", systemImage: "sparkles").tag(MainSection.ai)
                 }
                 Divider()
                 Label("Stocks", systemImage: "chart.line.uptrend.xyaxis").tag(MainSection.stocks)
@@ -86,6 +98,19 @@ struct MainWindow: View {
             UpdateButton()
                 .padding(.horizontal, 10)
                 .padding(.bottom, 4)
+            if Bundle.main.isDevBuild {
+                Button { section = .developer } label: {
+                    Label("Developer", systemImage: "hammer")
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal, 10)
+                        .padding(.vertical, 7)
+                        .background(section == .developer ? Color.accentColor.opacity(0.2) : .clear, in: RoundedRectangle(cornerRadius: 6))
+                        .contentShape(Rectangle())
+                }
+                .buttonStyle(.plain)
+                .padding(.horizontal, 10)
+                .padding(.bottom, 4)
+            }
             Button { hideValues.toggle() } label: {
                 Label(hideValues ? "Show values" : "Hide values", systemImage: hideValues ? "eye.slash" : "eye")
                     .frame(maxWidth: .infinity, alignment: .leading)
