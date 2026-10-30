@@ -1,0 +1,1012 @@
+{
+  "list": "us-etfs",
+  "title": "ETFs americanos mais negociados",
+  "measure": "Average daily traded value (close × volume) over the last 3 months",
+  "currency": "USD",
+  "source": "Yahoo Finance daily bars",
+  "generatedAt": "2026-10-30",
+  "candidates": 517,
+  "found": 516,
+  "assets": [
+    {
+      "rank": 1,
+      "ticker": "SPY",
+      "slug": "spy",
+      "name": "State Street SPDR S&P 500 ETF Trust",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 31578075502,
+      "lastPrice": 759.79
+    },
+    {
+      "rank": 2,
+      "ticker": "QQQ",
+      "slug": "qqq",
+      "name": "Invesco QQQ Trust",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 25132479242,
+      "lastPrice": 696.65
+    },
+    {
+      "rank": 3,
+      "ticker": "SOXL",
+      "slug": "soxl",
+      "name": "Direxion Daily Semiconductor Bull 3X Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 8335971905,
+      "lastPrice": 79.9
+    },
+    {
+      "rank": 4,
+      "ticker": "IWM",
+      "slug": "iwm",
+      "name": "iShares Russell 2000 ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 6148259039,
+      "lastPrice": 280.435
+    },
+    {
+      "rank": 5,
+      "ticker": "VOO",
+      "slug": "voo",
+      "name": "Vanguard S&P 500 ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 4941179503,
+      "lastPrice": 698.44
+    },
+    {
+      "rank": 6,
+      "ticker": "IVV",
+      "slug": "ivv",
+      "name": "iShares Core S&P 500 ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 4828179087,
+      "lastPrice": 763.1
+    },
+    {
+      "rank": 7,
+      "ticker": "SMH",
+      "slug": "smh",
+      "name": "VanEck Semiconductor ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 4248630285,
+      "lastPrice": 528.93
+    },
+    {
+      "rank": 8,
+      "ticker": "SOXX",
+      "slug": "soxx",
+      "name": "iShares Semiconductor ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 4166979784,
+      "lastPrice": 476.37
+    },
+    {
+      "rank": 9,
+      "ticker": "TQQQ",
+      "slug": "tqqq",
+      "name": "ProShares UltraPro QQQ",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 3861214613,
+      "lastPrice": 63.765
+    },
+    {
+      "rank": 10,
+      "ticker": "GLD",
+      "slug": "gld",
+      "name": "SPDR Gold Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 3751810100,
+      "lastPrice": 359.118
+    },
+    {
+      "rank": 11,
+      "ticker": "HYG",
+      "slug": "hyg",
+      "name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 3522492433,
+      "lastPrice": 77.39
+    },
+    {
+      "rank": 12,
+      "ticker": "LQD",
+      "slug": "lqd",
+      "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 3242044278,
+      "lastPrice": 104.13
+    },
+    {
+      "rank": 13,
+      "ticker": "TLT",
+      "slug": "tlt",
+      "name": "iShares 20+ Year Treasury Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 3121566430,
+      "lastPrice": 81.535
+    },
+    {
+      "rank": 14,
+      "ticker": "SOXS",
+      "slug": "soxs",
+      "name": "Direxion Daily Semiconductor Bear 3X Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 2759077054,
+      "lastPrice": 50.872
+    },
+    {
+      "rank": 15,
+      "ticker": "EWY",
+      "slug": "ewy",
+      "name": "iShares MSCI South Korea ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 2662554469,
+      "lastPrice": 154.16
+    },
+    {
+      "rank": 16,
+      "ticker": "SGOV",
+      "slug": "sgov",
+      "name": "iShares 0-3 Month Treasury Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 2167187136,
+      "lastPrice": 100.74
+    },
+    {
+      "rank": 17,
+      "ticker": "DRAM",
+      "slug": "dram",
+      "name": "Roundhill Memory ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 2039155114,
+      "lastPrice": 48.705
+    },
+    {
+      "rank": 18,
+      "ticker": "IBIT",
+      "slug": "ibit",
+      "name": "iShares Bitcoin Trust ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 2006661447,
+      "lastPrice": 43.532
+    },
+    {
+      "rank": 19,
+      "ticker": "GDX",
+      "slug": "gdx",
+      "name": "VanEck Gold Miners ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1981629154,
+      "lastPrice": 77.505
+    },
+    {
+      "rank": 20,
+      "ticker": "XLE",
+      "slug": "xle",
+      "name": "State Street Energy Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1918833691,
+      "lastPrice": 69.58
+    },
+    {
+      "rank": 21,
+      "ticker": "XLF",
+      "slug": "xlf",
+      "name": "State Street Financial Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1808725853,
+      "lastPrice": 56.705
+    },
+    {
+      "rank": 22,
+      "ticker": "SQQQ",
+      "slug": "sqqq",
+      "name": "ProShares UltraPro Short QQQ",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1769110498,
+      "lastPrice": 40.865
+    },
+    {
+      "rank": 23,
+      "ticker": "DIA",
+      "slug": "dia",
+      "name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1723134524,
+      "lastPrice": 520.41
+    },
+    {
+      "rank": 24,
+      "ticker": "RSP",
+      "slug": "rsp",
+      "name": "Invesco S&P 500 Equal Weight ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1554544676,
+      "lastPrice": 218.69
+    },
+    {
+      "rank": 25,
+      "ticker": "EWZ",
+      "slug": "ewz",
+      "name": "iShares MSCI Brazil ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1518946495,
+      "lastPrice": 32.77
+    },
+    {
+      "rank": 26,
+      "ticker": "XLV",
+      "slug": "xlv",
+      "name": "State Street Health Care Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1449504816,
+      "lastPrice": 186.05
+    },
+    {
+      "rank": 27,
+      "ticker": "XLK",
+      "slug": "xlk",
+      "name": "State Street Technology Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1422484445,
+      "lastPrice": 181.19
+    },
+    {
+      "rank": 28,
+      "ticker": "XBI",
+      "slug": "xbi",
+      "name": "State Street SPDR S&P Biotech ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1374264868,
+      "lastPrice": 156.88
+    },
+    {
+      "rank": 29,
+      "ticker": "EEM",
+      "slug": "eem",
+      "name": "iShares MSCI Emerging Markets ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1282196039,
+      "lastPrice": 61.38
+    },
+    {
+      "rank": 30,
+      "ticker": "EFA",
+      "slug": "efa",
+      "name": "iShares MSCI EAFE ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1234280407,
+      "lastPrice": 103.53
+    },
+    {
+      "rank": 31,
+      "ticker": "XLI",
+      "slug": "xli",
+      "name": "State Street Industrial Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1222293858,
+      "lastPrice": 168.76
+    },
+    {
+      "rank": 32,
+      "ticker": "MUB",
+      "slug": "mub",
+      "name": "iShares National Muni Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1144392471,
+      "lastPrice": 104.038
+    },
+    {
+      "rank": 33,
+      "ticker": "VTI",
+      "slug": "vti",
+      "name": "Vanguard Morningstar Total Stock Market ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1115212479,
+      "lastPrice": 373.495
+    },
+    {
+      "rank": 34,
+      "ticker": "SPYM",
+      "slug": "spym",
+      "name": "State Street SPDR Portfolio S&P 500 ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1090353647,
+      "lastPrice": 89.43
+    },
+    {
+      "rank": 35,
+      "ticker": "XLU",
+      "slug": "xlu",
+      "name": "State Street Utilities Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 1070452824,
+      "lastPrice": 43.45
+    },
+    {
+      "rank": 36,
+      "ticker": "VTEB",
+      "slug": "vteb",
+      "name": "Vanguard Tax-Exempt Bond Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 997033310,
+      "lastPrice": 48.817
+    },
+    {
+      "rank": 37,
+      "ticker": "IGV",
+      "slug": "igv",
+      "name": "iShares Expanded Tech-Software Sector ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 992232075,
+      "lastPrice": 105.43
+    },
+    {
+      "rank": 38,
+      "ticker": "AGG",
+      "slug": "agg",
+      "name": "iShares Core U.S. Aggregate Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 982432830,
+      "lastPrice": 96.265
+    },
+    {
+      "rank": 39,
+      "ticker": "KRE",
+      "slug": "kre",
+      "name": "State Street SPDR S&P Regional Banking ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 973830132,
+      "lastPrice": 72.285
+    },
+    {
+      "rank": 40,
+      "ticker": "XLP",
+      "slug": "xlp",
+      "name": "State Street Consumer Staples Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 962680522,
+      "lastPrice": 89.365
+    },
+    {
+      "rank": 41,
+      "ticker": "SNXX",
+      "slug": "snxx",
+      "name": "Tradr 2X Long Sndk Daily ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 959632679,
+      "lastPrice": 7.51
+    },
+    {
+      "rank": 42,
+      "ticker": "BIL",
+      "slug": "bil",
+      "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 957690336,
+      "lastPrice": 91.703
+    },
+    {
+      "rank": 43,
+      "ticker": "SLV",
+      "slug": "slv",
+      "name": "iShares Silver Trust",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 920219776,
+      "lastPrice": 44.81
+    },
+    {
+      "rank": 44,
+      "ticker": "IEF",
+      "slug": "ief",
+      "name": "iShares 7-10 Year Treasury Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 903188980,
+      "lastPrice": 91.465
+    },
+    {
+      "rank": 45,
+      "ticker": "IEMG",
+      "slug": "iemg",
+      "name": "iShares Core MSCI Emerging Markets ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 871510772,
+      "lastPrice": 74.705
+    },
+    {
+      "rank": 46,
+      "ticker": "MUU",
+      "slug": "muu",
+      "name": "Direxion Daily MU Bull 2X Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 864643012,
+      "lastPrice": 24.69
+    },
+    {
+      "rank": 47,
+      "ticker": "QQQM",
+      "slug": "qqqm",
+      "name": "Invesco NASDAQ 100 ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 846947869,
+      "lastPrice": 286.86
+    },
+    {
+      "rank": 48,
+      "ticker": "VCIT",
+      "slug": "vcit",
+      "name": "Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 836890639,
+      "lastPrice": 79.545
+    },
+    {
+      "rank": 49,
+      "ticker": "IEFA",
+      "slug": "iefa",
+      "name": "iShares Core MSCI EAFE ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 831740285,
+      "lastPrice": 96.405
+    },
+    {
+      "rank": 50,
+      "ticker": "SCHD",
+      "slug": "schd",
+      "name": "Schwab U.S. Dividend Equity ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 780980345,
+      "lastPrice": 35.815
+    },
+    {
+      "rank": 51,
+      "ticker": "BITO",
+      "slug": "bito",
+      "name": "ProShares Bitcoin ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 776792428,
+      "lastPrice": 10.265
+    },
+    {
+      "rank": 52,
+      "ticker": "USO",
+      "slug": "uso",
+      "name": "United States Oil Fund, LP",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 757482118,
+      "lastPrice": 170.6
+    },
+    {
+      "rank": 53,
+      "ticker": "XLY",
+      "slug": "xly",
+      "name": "State Street Consumer Discretionary Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 731324572,
+      "lastPrice": 115.53
+    },
+    {
+      "rank": 54,
+      "ticker": "TSLL",
+      "slug": "tsll",
+      "name": "Direxion Daily TSLA Bull 2X Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 716963438,
+      "lastPrice": 11.295
+    },
+    {
+      "rank": 55,
+      "ticker": "BND",
+      "slug": "bnd",
+      "name": "Vanguard Total Bond Market Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 707953730,
+      "lastPrice": 71.434
+    },
+    {
+      "rank": 56,
+      "ticker": "EMB",
+      "slug": "emb",
+      "name": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 670651620,
+      "lastPrice": 92.08
+    },
+    {
+      "rank": 57,
+      "ticker": "VEA",
+      "slug": "vea",
+      "name": "Vanguard FTSE Developed Markets Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 669917438,
+      "lastPrice": 69.565
+    },
+    {
+      "rank": 58,
+      "ticker": "ETHA",
+      "slug": "etha",
+      "name": "iShares Ethereum Trust ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 654355892,
+      "lastPrice": 50.47
+    },
+    {
+      "rank": 59,
+      "ticker": "XLC",
+      "slug": "xlc",
+      "name": "State Street Communication Services Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 612912766,
+      "lastPrice": 100.81
+    },
+    {
+      "rank": 60,
+      "ticker": "FXI",
+      "slug": "fxi",
+      "name": "iShares China Large-Cap ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 594898386,
+      "lastPrice": 33.085
+    },
+    {
+      "rank": 61,
+      "ticker": "VTV",
+      "slug": "vtv",
+      "name": "Vanguard Morningstar Value ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 581182662,
+      "lastPrice": 228.62
+    },
+    {
+      "rank": 62,
+      "ticker": "XLB",
+      "slug": "xlb",
+      "name": "State Street Materials Select Sector SPDR ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 568773750,
+      "lastPrice": 52.365
+    },
+    {
+      "rank": 63,
+      "ticker": "IYR",
+      "slug": "iyr",
+      "name": "iShares U.S. Real Estate ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 554926310,
+      "lastPrice": 99.78
+    },
+    {
+      "rank": 64,
+      "ticker": "XOP",
+      "slug": "xop",
+      "name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 532787782,
+      "lastPrice": 202.42
+    },
+    {
+      "rank": 65,
+      "ticker": "USHY",
+      "slug": "ushy",
+      "name": "iShares Broad USD High Yield Corporate Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 514854135,
+      "lastPrice": 35.765
+    },
+    {
+      "rank": 66,
+      "ticker": "GDXJ",
+      "slug": "gdxj",
+      "name": "VanEck Junior Gold Miners ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 501844822,
+      "lastPrice": 95.965
+    },
+    {
+      "rank": 67,
+      "ticker": "IWF",
+      "slug": "iwf",
+      "name": "iShares Russell 1000 Growth ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 497118239,
+      "lastPrice": 118.65
+    },
+    {
+      "rank": 68,
+      "ticker": "VGT",
+      "slug": "vgt",
+      "name": "Vanguard Information Technology Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 491620603,
+      "lastPrice": 117.93
+    },
+    {
+      "rank": 69,
+      "ticker": "KORU",
+      "slug": "koru",
+      "name": "Direxion Daily South Korea Bull 3X Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 490591314,
+      "lastPrice": 10.926
+    },
+    {
+      "rank": 70,
+      "ticker": "VUG",
+      "slug": "vug",
+      "name": "Vanguard Morningstar Growth ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 490424794,
+      "lastPrice": 85.745
+    },
+    {
+      "rank": 71,
+      "ticker": "IJH",
+      "slug": "ijh",
+      "name": "iShares Core S&P Mid-Cap ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 490229861,
+      "lastPrice": 73.505
+    },
+    {
+      "rank": 72,
+      "ticker": "EWT",
+      "slug": "ewt",
+      "name": "iShares MSCI Taiwan ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 469844478,
+      "lastPrice": 102
+    },
+    {
+      "rank": 73,
+      "ticker": "RWM",
+      "slug": "rwm",
+      "name": "ProShares Short Russell2000",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 467606704,
+      "lastPrice": 14.33
+    },
+    {
+      "rank": 74,
+      "ticker": "QID",
+      "slug": "qid",
+      "name": "ProShares UltraShort QQQ",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 455023533,
+      "lastPrice": 14.845
+    },
+    {
+      "rank": 75,
+      "ticker": "MBB",
+      "slug": "mbb",
+      "name": "iShares MBS ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 454305360,
+      "lastPrice": 91.865
+    },
+    {
+      "rank": 76,
+      "ticker": "SPXL",
+      "slug": "spxl",
+      "name": "Direxion Daily S&P500 Bull 3X Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 449987496,
+      "lastPrice": 274.66
+    },
+    {
+      "rank": 77,
+      "ticker": "VXUS",
+      "slug": "vxus",
+      "name": "Vanguard Total International Stock Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 444386926,
+      "lastPrice": 82.57
+    },
+    {
+      "rank": 78,
+      "ticker": "VCSH",
+      "slug": "vcsh",
+      "name": "Vanguard Short-Term Corporate Bond Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 443608490,
+      "lastPrice": 77.81
+    },
+    {
+      "rank": 79,
+      "ticker": "IJR",
+      "slug": "ijr",
+      "name": "iShares Core S&P Small-Cap ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 435935240,
+      "lastPrice": 140.61
+    },
+    {
+      "rank": 80,
+      "ticker": "IWD",
+      "slug": "iwd",
+      "name": "iShares Russell 1000 Value ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 435074603,
+      "lastPrice": 259.24
+    },
+    {
+      "rank": 81,
+      "ticker": "BOXX",
+      "slug": "boxx",
+      "name": "Alpha Architect 1-3 Month Box ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 427950996,
+      "lastPrice": 118.82
+    },
+    {
+      "rank": 82,
+      "ticker": "KWEB",
+      "slug": "kweb",
+      "name": "KraneShares CSI China Internet ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 419135828,
+      "lastPrice": 22.89
+    },
+    {
+      "rank": 83,
+      "ticker": "IAU",
+      "slug": "iau",
+      "name": "iShares Gold Trust",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 409469819,
+      "lastPrice": 73.625
+    },
+    {
+      "rank": 84,
+      "ticker": "MDY",
+      "slug": "mdy",
+      "name": "State Street SPDR S&P MIDCAP 400 ETF Trust",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 408908836,
+      "lastPrice": 670.42
+    },
+    {
+      "rank": 85,
+      "ticker": "VWO",
+      "slug": "vwo",
+      "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 406731780,
+      "lastPrice": 55.8
+    },
+    {
+      "rank": 86,
+      "ticker": "VT",
+      "slug": "vt",
+      "name": "Vanguard Total World Stock Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 403715852,
+      "lastPrice": 155.945
+    },
+    {
+      "rank": 87,
+      "ticker": "NVDL",
+      "slug": "nvdl",
+      "name": "GraniteShares 2x Long NVDA Daily ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 401868777,
+      "lastPrice": 29.615
+    },
+    {
+      "rank": 88,
+      "ticker": "SNDQ",
+      "slug": "sndq",
+      "name": "Tradr 2X Short SNDK Daily ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 398122599,
+      "lastPrice": 19.535
+    },
+    {
+      "rank": 89,
+      "ticker": "MTUM",
+      "slug": "mtum",
+      "name": "iShares MSCI USA Momentum Factor ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 391483228,
+      "lastPrice": 286.455
+    },
+    {
+      "rank": 90,
+      "ticker": "GLDM",
+      "slug": "gldm",
+      "name": "SPDR Gold MiniShares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 387874735,
+      "lastPrice": 77.5
+    },
+    {
+      "rank": 91,
+      "ticker": "VCLT",
+      "slug": "vclt",
+      "name": "Vanguard Long-Term Corporate Bond Index Fund ETF Shares",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 387472064,
+      "lastPrice": 70.485
+    },
+    {
+      "rank": 92,
+      "ticker": "ARKK",
+      "slug": "arkk",
+      "name": "ARK Innovation ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 386203295,
+      "lastPrice": 81.63
+    },
+    {
+      "rank": 93,
+      "ticker": "SHV",
+      "slug": "shv",
+      "name": "iShares 0–1 Year Treasury Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 385074456,
+      "lastPrice": 110.425
+    },
+    {
+      "rank": 94,
+      "ticker": "JPST",
+      "slug": "jpst",
+      "name": "JPMorgan Ultra-Short Income ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 375971839,
+      "lastPrice": 50.42
+    },
+    {
+      "rank": 95,
+      "ticker": "PSQ",
+      "slug": "psq",
+      "name": "ProShares Short QQQ",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 370547967,
+      "lastPrice": 26.42
+    },
+    {
+      "rank": 96,
+      "ticker": "QLD",
+      "slug": "qld",
+      "name": "ProShares Ultra QQQ",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 361450893,
+      "lastPrice": 84.105
+    },
+    {
+      "rank": 97,
+      "ticker": "JEPQ",
+      "slug": "jepq",
+      "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 359035948,
+      "lastPrice": 58.04
+    },
+    {
+      "rank": 98,
+      "ticker": "JAAA",
+      "slug": "jaaa",
+      "name": "Janus Henderson AAA CLO ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 358052517,
+      "lastPrice": 50.45
+    },
+    {
+      "rank": 99,
+      "ticker": "EWJ",
+      "slug": "ewj",
+      "name": "iShares MSCI Japan ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 356921376,
+      "lastPrice": 93.08
+    },
+    {
+      "rank": 100,
+      "ticker": "JNK",
+      "slug": "jnk",
+      "name": "State Street SPDR Bloomberg High Yield Bond ETF",
+      "exchange": "NYSE Arca / Nasdaq",
+      "currency": "USD",
+      "avgDailyValue": 353872288,
+      "lastPrice": 92.905
+    }
+  ]
+}

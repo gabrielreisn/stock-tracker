@@ -1,0 +1,334 @@
+{
+  "ticker": "KNIP11",
+  "slug": "knip11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "KNIP11: FII de papel, CRI e dividendos",
+    "description": "KNIP11 é FII de papel da Kinea, com 93,3% em CRI indexados ao IPCA. Patrimônio de R$ 7,62 bi, dividend yield de 11,63% e proventos mensais isentos de IR.",
+    "h1": "KNIP11: Kinea Índices de Preços FII",
+    "canonicalPath": "/fiis/knip11",
+    "keywords": [
+      "KNIP11",
+      "Kinea Índices de Preços",
+      "FII de papel",
+      "CRI",
+      "FII IPCA",
+      "dividendos FII",
+      "FII investidor qualificado",
+      "KNIP11 dividend yield"
+    ]
+  },
+  "summary": "KNIP11 é o Kinea Índices de Preços Fundo de Investimento Imobiliário, um FII de papel voltado a investidores qualificados que investe predominantemente em Certificados de Recebíveis Imobiliários (CRI) indexados à inflação. Com patrimônio de R$ 7,62 bilhões em 09/2026, a carteira possui taxa média de IPCA + 9,79% a.a. e distribui proventos mensais isentos de imposto de renda para pessoas físicas.",
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Kinea Investimentos Ltda",
+    "name": "Kinea Índices de Preços Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "KINEA ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "16/09/2016",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "KINEA ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "24.960.430/0001-13",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "16/09/2016",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 7,62 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "71.743",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 95,11",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 86,90",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "13,53% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,24",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,63%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 10,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KNIP11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Kinea Indices Precos Fundo Investimento Imobiliario - FII",
+    "currency": "BRL",
+    "price": 86.9,
+    "historyStarts": "2017-10-09",
+    "returns": {
+      "1y": 0.1096,
+      "3y": 0.322,
+      "5y": 0.4346,
+      "10y": null
+    },
+    "volatility1y": 0.1353,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.0961,
+      "from": "2022-06-22",
+      "to": "2022-12-19"
+    },
+    "beta1y": {
+      "value": 0.24,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.11,
+      "payments12Months": 12,
+      "yield12Months": 0.1163,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.6
+      }
+    },
+    "avgDailyTradedValue3m": 10398735
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do KNIP11 nos 12 meses até 28/10/2026 é de 13,53%, nível baixo para um FII de papel. O beta de 0,24 contra o Ibovespa indica que o fundo tem baixa sensibilidade às oscilações do mercado de ações, o que é esperado para um ativo indexado à inflação e com foco em CRI de baixo risco. A maior queda em 5 anos foi de -9,61%, entre 22/06/2022 e 19/12/2022, período em que a Selic subiu e pressionou o valor de mercado dos títulos de renda fixa. Para FIIs de papel indexados ao IPCA, essa volatilidade é compatível com o perfil de baixo risco de crédito e duration de 4,0 anos da carteira."
+  },
+  "history": {
+    "overview": "Fundado em 16/09/2016, o KNIP11 foi estruturado para atender ao público de investidores qualificados, com foco em ativos de renda fixa de natureza imobiliária de baixo risco de crédito. A estratégia do fundo é predominantemente indexada à inflação, utilizando o IPCA como indexador principal para a maior parte de sua carteira. Desde o início, o fundo realizou 11 ofertas públicas de cotas para captar recursos e expandir seu patrimônio, com as primeiras emissões ocorrendo em 2016 e 2017, e outras em 2018, 2019, 2020, 2021 e 2022. A gestão é ativa, conduzida pela Kinea Investimentos, com administração da Intrag DTVM. O fundo não possui taxa de performance, apenas taxa de administração de 1,00% a.a. 3. Em 09/2026, o patrimônio líquido atingiu R$ 7,62 bilhões, com 71.743 cotistas e valor patrimonial da cota de R$ 95,11 1. A carteira é diversificada por setores imobiliários, com destaque para logístico, shoppings e residencial, e por indexadores, com 90,7% atrelados ao IPCA 3.",
+    "timeline": [
+      {
+        "date": "2016-08-04",
+        "event": "Início da primeira oferta pública de cotas do KNIP11.",
+        "source": 2
+      },
+      {
+        "date": "2016-09-16",
+        "event": "Início das atividades do fundo.",
+        "source": 1
+      },
+      {
+        "date": "2016-09-19",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2017-04-13",
+        "event": "Início de nova oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2017-07-14",
+        "event": "Encerramento da oferta pública iniciada em abril de 2017.",
+        "source": 2
+      },
+      {
+        "date": "2018-06-07",
+        "event": "Encerramento da oferta pública iniciada em março de 2018.",
+        "source": 2
+      },
+      {
+        "date": "2019-05-09",
+        "event": "Encerramento da oferta pública iniciada em abril de 2019.",
+        "source": 2
+      },
+      {
+        "date": "2019-11-01",
+        "event": "Encerramento da oferta pública iniciada em outubro de 2019.",
+        "source": 2
+      },
+      {
+        "date": "2020-11-17",
+        "event": "Encerramento da oferta pública iniciada em fevereiro de 2020.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do KNIP11",
+      "body": "O KNIP11 é um FII de papel, com foco em Certificados de Recebíveis Imobiliários (CRI) de baixo risco de crédito, predominantemente indexados à inflação (IPCA). A gestora é a Kinea Investimentos Ltda. e a administradora é a Intrag DTVM Ltda. [1, 3]. O fundo é de acesso restrito a investidores qualificados e possui gestão ativa, sem taxa de performance. Ao final de setembro de 2026, a carteira estava alocada em 93,3% em CRI, 8,0% em LCI e 1,6% em instrumentos de caixa. A parcela de CRI tem taxa média de IPCA + 9,79% a.a. e duration de 4,0 anos. A alocação por setor é diversificada, com 33,1% em logístico, 25,5% em shoppings, 18,4% em residencial pulverizado, 11,8% em escritórios, 5,8% em residencial e 5,4% em outros. Por indexador, 90,7% dos ativos são atrelados ao IPCA, 7,7% ao CDI e 1,5% à Selic 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do KNIP11",
+      "body": "Nos 12 meses até 28/10/2026, o KNIP11 distribuiu R$ 10,1100 por cota em 12 pagamentos, resultando em dividend yield de 11,63%. O último provento foi de R$ 0,6000, pago em 01/10/2026. Os rendimentos do fundo são isentos de imposto de renda para pessoas físicas, conforme informado no relatório gerencial de setembro de 2026. A distribuição de setembro de 2026, no valor de R$ 0,60 por cota, representa 0,58% de rentabilidade com base na cota média de ingresso de R$ 102,96, correspondendo a 54% da taxa DI do período. É possível acompanhar os proventos do KNIP11 com data de competência e pagamento no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O KNIP11 realizou 11 ofertas públicas de cotas desde 2016, com as primeiras em 2016 e 2017, e outras em 2018, 2019, 2020, 2021 e 2022. Em 09/2026, o patrimônio líquido do fundo era de R$ 7,62 bilhões, com 71.743 cotistas e valor patrimonial da cota de R$ 95,11. O número de cotas emitidas era de 80.078.186. A taxa de administração no mês de 09/2026 foi de 0,083% sobre o patrimônio, equivalente a 1,00% a.a. [1, 2, 3]."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KNIP11",
+      "body": "A rentabilidade total do KNIP11, com proventos, foi de 10,96% nos 12 meses até 28/10/2026, 32,20% em 3 anos e 43,46% em 5 anos. O fundo é indexado ao IPCA, e sua carteira tem taxa média de IPCA + 9,79% a.a. A comparação com índices como o IFIX e o CDI pode ser feita no recurso de [comparação com índices](/recursos/comparacao-com-indices) do StockBar, que exibe a rentabilidade do fundo lado a lado com esses benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KNIP11",
+      "body": "Como FII de papel, o KNIP11 está exposto ao risco de crédito dos devedores dos CRI, embora o fundo priorize ativos de baixo risco. A volatilidade anualizada de 12 meses é de 13,53%, classificada como baixa. O beta de 0,24 contra o Ibovespa indica baixa correlação com o mercado de ações. A maior queda nos últimos 5 anos foi de -9,61%, entre 22/06/2022 e 19/12/2022. O fundo também está exposto ao risco de liquidez, com volume médio diário de R$ 10,4 milhões nos últimos 3 meses. A deflação pontual em agosto de 2026, causada pelo Bônus de Itaipu, reduziu os rendimentos do fundo naquele mês [0, 3]. Alertas de preço podem ser configurados no StockBar para acompanhar variações da cota: [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KNIP11 é FII de papel ou de tijolo?",
+      "answer": "KNIP11 é um FII de papel, com foco em Certificados de Recebíveis Imobiliários (CRI). A carteira é 93,3% CRI, 8,0% LCI e 1,6% caixa, com taxa média de IPCA + 9,79% a.a. em setembro de 2026. O fundo não possui imóveis físicos na carteira, apenas títulos de renda fixa de natureza imobiliária."
+    },
+    {
+      "question": "KNIP11 paga dividendos mensais?",
+      "answer": "Sim, o KNIP11 distribui proventos mensais. Nos 12 meses até 28/10/2026, foram 12 pagamentos, totalizando R$ 10,1100 por cota. O último provento foi de R$ 0,6000, pago em 01/10/2026. Os rendimentos são isentos de imposto de renda para pessoas físicas."
+    },
+    {
+      "question": "Qual o dividend yield do KNIP11?",
+      "answer": "O dividend yield do KNIP11 nos 12 meses até 28/10/2026 é de 11,63%, com base no preço de R$ 86,90. O provento mensal de setembro de 2026, de R$ 0,60 por cota, representa 0,58% de rentabilidade com base na cota média de ingresso de R$ 102,96."
+    },
+    {
+      "question": "KNIP11 é aberto a investidores pessoa física?",
+      "answer": "Não, o KNIP11 é de acesso restrito a investidores qualificados, conforme informado pela CVM. Investidores pessoa física comuns não podem adquirir cotas do fundo diretamente, a menos que se enquadrem na categoria de investidor qualificado."
+    },
+    {
+      "question": "Qual a taxa de administração do KNIP11?",
+      "answer": "A taxa de administração do KNIP11 é de 1,00% a.a., equivalente a 0,083% no mês de 09/2026. O fundo não possui taxa de performance, conforme o relatório gerencial de setembro de 2026."
+    },
+    {
+      "question": "O KNIP11 é indexado ao IPCA?",
+      "answer": "Sim, a maior parte da carteira do KNIP11 é indexada ao IPCA. Em setembro de 2026, 90,7% dos ativos eram atrelados ao IPCA, 7,7% ao CDI e 1,5% à Selic. A taxa média da carteira de CRI é de IPCA + 9,79% a.a."
+    },
+    {
+      "question": "Qual o patrimônio do KNIP11?",
+      "answer": "O patrimônio líquido do KNIP11 em 09/2026 era de R$ 7,62 bilhões, com 71.743 cotistas e valor patrimonial da cota de R$ 95,11. O fundo possui 80.078.186 cotas emitidas."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os proventos do KNIP11 com data de competência e pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do KNIP11 com o IFIX, CDI e IPCA no mesmo gráfico, para avaliar o desempenho do fundo em relação a benchmarks relevantes."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando a cota do KNIP11 atingir um preço que você definiu, útil para acompanhar a volatilidade de 13,53% do fundo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do KNIP11 junto a outros ativos na sua carteira, com valor por classe e as maiores posições em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em KNIP11, e o assistente responde com base nos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FII da Kinea, com foco em rendimentos imobiliários, para comparação de estratégia e desempenho entre fundos da mesma gestora."
+      },
+      {
+        "ticker": "KNRI11",
+        "list": "fiis",
+        "reason": "Kinea Renda Imobiliária, FII de tijolo da mesma gestora, para quem quer diversificar entre papel e imóveis físicos."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "Maxi Renda, FII de papel que também investe em CRI, para comparação de estratégia e dividend yield entre fundos de renda fixa imobiliária."
+      },
+      {
+        "ticker": "KNSC11",
+        "list": "fiis",
+        "reason": "Kinea Securities, FII de papel da mesma gestora, para quem quer comparar diferentes estratégias de renda fixa imobiliária da Kinea."
+      },
+      {
+        "ticker": "MCCI11",
+        "list": "fiis",
+        "reason": "Fundo Maua Capital Recebíveis Imobiliários, FII de papel com foco em CRI, para comparação de estratégia e risco de crédito entre fundos do mesmo segmento."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KNIP11",
+      "url": "https://finance.yahoo.com/quote/KNIP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do KINEA INDICES DE PREÇOS FII RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo KNIP11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=24960430000113",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do KNIP11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1345801",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,370 @@
+{
+  "ticker": "VBBR3",
+  "slug": "vbbr3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "VBBR3: história, dividendos e volatilidade",
+    "description": "VBBR3 é a ação ordinária da Vibra Energia, distribuidora de combustíveis. Veja história, dividendos, volatilidade e desempenho até 29/10/2026.",
+    "h1": "VBBR3: Vibra Energia S.A. - Ação Ordinária",
+    "canonicalPath": "/acoes/vbbr3",
+    "keywords": [
+      "VBBR3",
+      "Vibra Energia",
+      "ação ordinária",
+      "distribuição de combustíveis",
+      "dividendos",
+      "volatilidade",
+      "Ibovespa"
+    ]
+  },
+  "summary": "VBBR3 é a ação ordinária da Vibra Energia S.A., empresa brasileira de distribuição de combustíveis, biocombustíveis e lubrificantes. Fundada em 1971 como subsidiária da Petrobras, tornou-se privada em 2019 e opera em mais de 8.350 postos. Em 29/10/2026, a ação cotava a R$ 30,46, com rentabilidade de 48,77% nos últimos 12 meses e dividend yield de 6,49%.",
+  "profile": {
+    "name": "Vibra Energia S.A.",
+    "legalName": "VIBRA ENERGIA S/A",
+    "type": "Ação ordinária (ON)",
+    "sector": "Petróleo, Gás e Biocombustíveis",
+    "segment": "Distribuição de Combustíveis",
+    "founded": "12/11/1971",
+    "listedSince": "15/12/2017",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://www.br.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "VIBRA ENERGIA S/A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "34.274.233/0001-02",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Petróleo, Gás e Biocombustíveis / Distribuição de Combustíveis",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "12/11/1971",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "15/12/2017",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "VBBR3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 30,46",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "30,85% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,80",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,49%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VBBR3",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vibra Energia S.A.",
+    "currency": "BRL",
+    "price": 30.46,
+    "historyStarts": "2018-03-14",
+    "returns": {
+      "1y": 0.4877,
+      "3y": 1.025,
+      "5y": 1.0608,
+      "10y": null
+    },
+    "volatility1y": 0.3085,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4721,
+      "from": "2022-03-25",
+      "to": "2023-05-02"
+    },
+    "beta1y": {
+      "value": 0.8,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.9774,
+      "payments12Months": 4,
+      "yield12Months": 0.0649,
+      "lastPayment": {
+        "date": "2026-09-22",
+        "amount": 0.417364
+      }
+    },
+    "avgDailyTradedValue3m": 433092740
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 12 meses da VBBR3 é de 30,85%, nível considerado 'alta'. O beta de 0,80 contra o Ibovespa indica que a ação tende a ser menos volátil que o índice. A maior queda nos últimos 5 anos foi de -47,21%, entre 25/03/2022 e 02/05/2023. Para ativos do setor de energia, essa volatilidade é comum, mas o beta abaixo de 1 sugere uma exposição menor aos movimentos do mercado."
+  },
+  "history": {
+    "overview": "A Vibra Energia S.A. (antiga BR Distribuidora) foi fundada em 12 de novembro de 1971, durante o 'milagre econômico', como a Petrobras Distribuidora. A empresa herdou 840 postos e 21% do mercado de distribuição de combustíveis. Em 1994, lançou a BR Mania, primeira rede de lojas de conveniência do setor, e em 2004 adquiriu a Liquigás. Em 2017, a companhia reabriu seu capital na B3, listada no Novo Mercado, em uma operação que arrecadou R$ 5 bilhões para a Petrobras reduzir seu endividamento. Em 2019, a Petrobras vendeu o controle acionário, tornando a empresa privada, e em 2021 a Vibra adotou sua nova identidade visual, mantendo a sigla BR na rede de postos. Em 2021, a empresa adquiriu a trading Comerc, ampliando sua presença em energias renováveis, e em 2023 vendeu a ES Gás para a Energisa.",
+    "timeline": [
+      {
+        "date": "1971-11-12",
+        "event": "Constituição da companhia como Petrobras Distribuidora.",
+        "source": 2
+      },
+      {
+        "date": "2017-12-12",
+        "event": "Registro como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2017-12-15",
+        "event": "Início da cotação das ações na B3 sob o código VIBRA.",
+        "source": 1
+      },
+      {
+        "date": "2021-08-19",
+        "event": "Mudança de identidade visual e nome para Vibra Energia.",
+        "source": 3
+      },
+      {
+        "date": "2021-10-22",
+        "event": "Ações passam a ser negociadas na B3 sob o código VBBR3.",
+        "source": 3
+      },
+      {
+        "date": "2025-10-03",
+        "event": "Movimentações na Diretoria Executiva da companhia.",
+        "source": 11
+      },
+      {
+        "date": "2025-10-16",
+        "event": "Revisão da projeção de EBITDA @Stake da Comerc.",
+        "source": 10
+      },
+      {
+        "date": "2025-11-19",
+        "event": "Comunicação sobre remuneração aos acionistas.",
+        "source": 9
+      },
+      {
+        "date": "2025-12-08",
+        "event": "Saída do capital social da Evolua Etanol.",
+        "source": 8
+      },
+      {
+        "date": "2026-01-14",
+        "event": "Nomeação de novo Vice-presidente Executivo Financeiro e de Relação com Investidores.",
+        "source": 7
+      },
+      {
+        "date": "2026-03-10",
+        "event": "Emissão de Debêntures Incentivadas.",
+        "source": 6
+      },
+      {
+        "date": "2026-04-14",
+        "event": "Nova saída do capital social da Evolua Etanol.",
+        "source": 5
+      },
+      {
+        "date": "2026-09-04",
+        "event": "Fato relevante referente à emissão da 11ª Debênture.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Vibra Energia S.A. ganha dinheiro",
+      "body": "A Vibra Energia S.A. atua na distribuição e venda de álcool carburante, biodísel, gasolina, lubrificantes, emulsões asfálticas, produtos químicos e gás natural. A empresa opera em todos os 26 estados brasileiros e no Distrito Federal, com uma rede de mais de 8.350 postos de serviços licenciados à bandeira Petrobras. Além da distribuição de combustíveis, a companhia possui participação na trading Comerc, focada em energias renováveis, e atua no segmento de energia, sendo uma das maiores do país nesse setor."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Vibra Energia S.A.",
+      "body": "A Vibra Energia S.A. é uma companhia de capital aberto com controle privado, registrada na CVM em 12/12/2017. As ações são negociadas na B3 sob o código VBBR3, listadas no segmento Novo Mercado, que exige o mais alto nível de governança corporativa. VBBR3 é uma ação ordinária (ON), o que significa que o acionista tem direito a voto nas assembleias gerais. Não há menção às fontes sobre a existência de ações preferenciais (PN) para a Vibra, mas em termos gerais, ações ON possuem prioridade em decisões corporativas, enquanto PN têm preferência no recebimento de dividendos e no capital em caso de liquidação."
+    },
+    {
+      "id": "proventos",
+      "heading": "VBBR3 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, a VBBR3 distribuiu R$ 1,9774 por ação em 4 pagamentos, resultando em um dividend yield de 6,49%. O último pagamento foi de R$ 0,4174, com data de pagamento em 22/09/2026. A companhia comunicou em 19/11/2025 a remuneração aos acionistas. Para acompanhar a data com e a data de pagamento dos dividendos e JCP da VBBR3, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da VBBR3",
+      "body": "Até 29/10/2026, a VBBR3 apresentou rentabilidade total com proventos de 48,77% nos últimos 12 meses, 102,50% em 3 anos e 106,08% em 5 anos. O preço da ação nesse período era de R$ 30,46. Para comparar a rentabilidade da VBBR3 com índices como o Ibovespa, CDI e IPCA, utilize a [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da VBBR3",
+      "body": "A VBBR3 está sujeita a riscos do setor de petróleo, gás e biocombustíveis, como variações nos preços dos combustíveis e mudanças regulatórias. A volatilidade anualizada de 12 meses é de 30,85%, classificada como 'alta'. A maior queda nos últimos 5 anos foi de -47,21%, do pico em 25/03/2022 ao ponto mais baixo em 02/05/2023. O beta de 0,80 indica que a ação tende a ser menos volátil que o Ibovespa. Para monitorar movimentos de preço e definir alertas, utilize os [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VBBR3 paga dividendos?",
+      "answer": "Sim, a VBBR3 distribuiu R$ 1,9774 por ação em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 6,49%. O último pagamento foi de R$ 0,4174 em 22/09/2026. Para acompanhar os proventos, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre VBBR3 e VIBRA?",
+      "answer": "VIBRA era o código de negociação da ação na B3 até 22/10/2021, quando a empresa mudou seu nome para Vibra Energia e o código passou a ser VBBR3. A ação continua sendo a mesma, mas o código reflete a nova identidade da companhia."
+    },
+    {
+      "question": "VBBR3 é ação ordinária ou preferencial?",
+      "answer": "VBBR3 é uma ação ordinária (ON), o que significa que o acionista tem direito a voto nas assembleias gerais. Não há menção às fontes sobre a existência de ações preferenciais (PN) para a Vibra."
+    },
+    {
+      "question": "Qual o setor da Vibra Energia?",
+      "answer": "A Vibra Energia atua no setor de Petróleo, Gás e Biocombustíveis, com foco na distribuição de combustíveis, biocombustíveis, lubrificantes e gás natural. A empresa opera em todos os estados brasileiros e no Distrito Federal."
+    },
+    {
+      "question": "VBBR3 é uma boa ação para investir?",
+      "answer": "A VBBR3 apresentou rentabilidade de 48,77% nos últimos 12 meses até 29/10/2026, mas rentabilidade passada não é garantia de resultados futuros. A ação tem volatilidade alta e beta de 0,80. Para comparar com índices, utilize a [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da VBBR3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices no StockBar",
+        "context": "Compare a rentabilidade da VBBR3 com o Ibovespa, CDI e IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço no StockBar",
+        "context": "Receba uma notificação quando a VBBR3 chegar ao preço que você escolheu, para acompanhar a volatilidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Petrobras, ex-controladora da Vibra Energia."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Outra empresa do setor de energia, com foco em geração de energia."
+      },
+      {
+        "ticker": "PRIO3",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de petróleo e gás, com foco em exploração e produção."
+      },
+      {
+        "ticker": "ENEV3",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de energia, com foco em geração de energia eólica."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VBBR3",
+      "url": "https://finance.yahoo.com/quote/VBBR3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: VIBRA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24295/VBBR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, VIBRA ENERGIA S/A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Vibra Energia",
+      "url": "https://pt.wikipedia.org/wiki/Vibra_Energia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/09/2026, “Fato Relevante referente a emissão da 11 Debenture”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1565350&numSequencia=1090056&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/04/2026, “Saída do Capital Social da Evolua Etanol”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1505906&numSequencia=1030612&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/03/2026, “Emissão de Debêntures Incentivadas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1488466&numSequencia=1013172&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/01/2026, “Novo Vice-presidente Executivo Financeiro e Relação com  Investidores”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1467219&numSequencia=991925&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/12/2025, “Saída do Capital Social da Evolua Etanol”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1454270&numSequencia=978982&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/11/2025, “Remuneração aos Acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1447585&numSequencia=972297&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/10/2025, “Revisão da projeção de EBITDA @Stake da Comerc”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1433492&numSequencia=958204&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/10/2025, “Movimentações em Diretoria Executiva”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1429574&numSequencia=954286&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

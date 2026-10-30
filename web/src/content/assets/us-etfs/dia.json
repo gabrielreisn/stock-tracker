@@ -1,0 +1,275 @@
+{
+  "ticker": "DIA",
+  "slug": "dia",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "DIA: história, dividendos e volatilidade",
+    "description": "Conheça o DIA, o ETF que replica o Dow Jones Industrial Average. Veja desempenho, dividendos, riscos e como investir a partir do Brasil.",
+    "h1": "DIA: State Street SPDR Dow Jones Industrial Average ETF Trust",
+    "canonicalPath": "/etfs/dia",
+    "keywords": [
+      "DIA ETF",
+      "Dow Jones Industrial Average ETF",
+      "State Street SPDR DIA",
+      "ETF Dow Jones",
+      "investir em DIA Brasil",
+      "dividendos DIA",
+      "volatilidade DIA",
+      "DIA vs SPY"
+    ]
+  },
+  "summary": "DIA é o State Street SPDR Dow Jones Industrial Average ETF Trust, um ETF que replica o índice Dow Jones Industrial Average. Lançado em 1998, o fundo oferece exposição às 30 empresas de maior capitalização e tradição do mercado americano. Em 29/10/2026, a cota valia US$ 522,73, com rentabilidade total de 11,34% nos últimos 12 meses e dividend yield de 1,37%.",
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "State Street Global Advisors",
+    "trackedIndex": "Dow Jones Industrial Average",
+    "name": "State Street SPDR Dow Jones Industrial Average ETF Trust"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street SPDR Dow Jones Industrial Average ETF Trust",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 522,73",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "12,56% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,81",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,37%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,77 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "DIA",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
+    "currency": "USD",
+    "price": 522.73,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1134,
+      "3y": 0.6653,
+      "5y": 0.591,
+      "10y": 2.4949
+    },
+    "volatility1y": 0.1256,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2076,
+      "from": "2022-01-04",
+      "to": "2022-09-30"
+    },
+    "beta1y": {
+      "value": 0.81,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 7.185,
+      "payments12Months": 12,
+      "yield12Months": 0.0137,
+      "lastPayment": {
+        "date": "2026-10-16",
+        "amount": 0.114
+      }
+    },
+    "avgDailyTradedValue3m": 1771687585
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do DIA nos últimos 12 meses foi de 12,56%, um nível considerado baixo para um ETF de ações. O beta de 0,81 em relação ao S&P 500 sugere que o DIA tende a oscilar menos que o índice de referência, o que pode ser atribuído à composição do Dow Jones, que inclui empresas de grande porte e estabilidade. A maior queda nos últimos 5 anos foi de -20,76%, entre 04/01/2022 e 30/09/2022, um período de forte correção no mercado americano. Para investidores que buscam estabilidade, a volatilidade do DIA é menor que a de ETFs de setores específicos ou de empresas de capitalização menor, mas ainda assim exige acompanhamento. O [alertas de preço](/recursos/alertas-de-preco) do StockBar pode ajudar a monitorar oscilações e definir pontos de entrada ou saída sem a necessidade de acompanhar o pregão o dia todo."
+  },
+  "history": {
+    "overview": "O mercado de ETFs nos Estados Unidos teve início em 1989 com os Index Participation Shares, mas o produto que consolidou o modelo foi o SPDR S&P 500 (SPY), lançado em janeiro de 1993 por Nathan Most e Steven Bloom. A State Street Global Advisors expandiu sua linha de produtos ao longo dos anos, introduzindo os 'Sector Spiders' em 1998 para cobrir os setores do S&P 500. No mesmo ano, a gestora lançou os 'Dow Diamonds', que passaram a ser conhecidos pelo ticker DIA, com o objetivo de replicar o movimento do Dow Jones Industrial Average. Esse lançamento ocorreu em um período de expansão da indústria de ETFs, que buscava atender à demanda por diversificação e liquidez com custos baixos. Desde então, o DIA consolidou-se como uma das principais formas de acesso passivo ao índice de referência do mercado industrial americano, mantendo a estrutura de fundo de investimento unitário (unit investment trust) característica dos SPDRs.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "Lançamento dos 'Dow Diamonds' (DIA) pela State Street Global Advisors para acompanhar o Dow Jones Industrial Average.",
+        "source": 2
+      },
+      {
+        "date": "2009",
+        "event": "A Barclays Global Investors, que detinha a linha iShares, foi vendida para a BlackRock, reorganizando o mercado de ETFs.",
+        "source": 2
+      },
+      {
+        "date": "2014-12",
+        "event": "Os ativos sob gestão de ETFs nos Estados Unidos atingiram US$ 2 trilhões.",
+        "source": 2
+      },
+      {
+        "date": "2019-11",
+        "event": "O total de ativos em ETFs nos EUA chegou a US$ 4 trilhões.",
+        "source": 2
+      },
+      {
+        "date": "2021-01",
+        "event": "Os ativos de ETFs nos EUA cresceram para US$ 5,5 trilhões.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o DIA funciona",
+      "body": "O DIA é um Exchange-Traded Fund (ETF) que replica o índice Dow Jones Industrial Average. Diferente de fundos mútuos, as cotas do DIA são negociadas continuamente durante o pregão da bolsa, permitindo que o investidor compre e venda a qualquer momento, com preços atualizados em tempo real. O fundo é administrado pela State Street Global Advisors e foi lançado em 1998 com o nome comercial de 'Dow Diamonds'. A estrutura do produto é a de um unit investment trust, o que significa que ele não possui um gestor ativo que tenta superar o mercado, mas sim uma estratégia passiva de replicação do índice. Isso confere ao DIA a característica de baixo custo e transparência, típica dos ETFs indexados, que são amplamente utilizados por investidores que buscam exposição ao mercado com eficiência tributária e operacional."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do DIA",
+      "body": "O DIA segue o Dow Jones Industrial Average, um índice de ações que reflete o desempenho de 30 empresas industriais e de serviços de grande porte nos Estados Unidos. A composição do índice é definida com base em critérios de capitalização de mercado e liquidez, incluindo empresas de setores variados, como tecnologia, saúde e finanças, apesar do nome 'Industrial'. As fontes não detalham a lista atualizada das 30 empresas nem os pesos individuais de cada uma na carteira do DIA, mas o fundo busca replicar a performance do índice através da posse dos ativos subjacentes. A atualização da composição ocorre conforme as regras do índice, que podem substituir empresas que não atendem mais aos critérios de elegibilidade."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no DIA a partir do Brasil",
+      "body": "Investidores brasileiros podem adquirir o DIA através de contas em corretoras de valores no exterior, que operam em mercados como a NYSE Arca. Outra alternativa é buscar na B3 (Brasil, Bolsa, Balcão) ETFs ou BDRs que tenham como referência o mesmo índice ou o próprio DIA, o que permite a negociação em reais. O principal risco cambial nesse cenário é a variação do câmbio entre o dólar e o real: uma valorização do dólar em relação ao real aumenta o retorno em reais do ativo, enquanto a desvalorização do dólar pode reduzir ou anular os ganhos em dólar. É essencial considerar a exposição cambial ao incluir ativos internacionais na carteira, pois a rentabilidade final em reais é a soma da performance do ativo em dólar com a variação do câmbio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do DIA",
+      "body": "Até 29/10/2026, o DIA apresentou uma rentabilidade total com proventos de 11,34% nos últimos 12 meses. No horizonte de 3 anos, o retorno acumulado foi de 66,53%, enquanto nos últimos 5 anos o ganho foi de 59,10%. Em 10 anos, a rentabilidade total chegou a 249,49%. Esses números refletem a performance do índice Dow Jones Industrial Average, ajustada pela taxa de administração do fundo. Para uma análise mais completa, é possível comparar o desempenho do DIA com o do S&P 500, outro índice de referência do mercado americano, utilizando a [comparação com índices](/recursos/comparacao-com-indices) do StockBar, que permite visualizar a rentabilidade lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do DIA",
+      "body": "O principal risco do DIA é o risco de mercado, pois o fundo replica o desempenho do Dow Jones Industrial Average, que está sujeito às flutuações do mercado acionário americano. A volatilidade anualizada do DIA nos últimos 12 meses foi de 12,56%, classificada como 'baixa', mas ainda assim representa oscilações significativas no curto prazo. O beta de 0,81 em relação ao S&P 500 indica que o DIA tende a ser menos volátil que o índice de referência, mas não elimina o risco de quedas. A maior queda nos últimos 5 anos foi de -20,76%, ocorrida entre o pico de 04/01/2022 e o fundo de 30/09/2022. Além disso, há o risco cambial para investidores brasileiros, que depende da variação do dólar. A concentração em apenas 30 empresas também pode limitar a diversificação em comparação com índices mais amplos, como o S&P 500 ou o Russell 1000."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o ETF DIA?",
+      "answer": "O DIA é o State Street SPDR Dow Jones Industrial Average ETF Trust, um fundo que replica o índice Dow Jones Industrial Average. Ele foi lançado em 1998 pela State Street Global Advisors e é negociado na NYSE Arca. O fundo oferece exposição passiva às 30 empresas que compõem o índice, com baixa volatilidade e dividend yield de 1,37% em 29/10/2026."
+    },
+    {
+      "question": "Qual a diferença entre DIA e SPY?",
+      "answer": "O principal diferencial é o índice que cada um replica. O DIA segue o Dow Jones Industrial Average, que é composto por 30 empresas de grande porte e tradição, enquanto o [SPY](/etfs/spy) replica o S&P 500, que inclui 500 empresas de maior capitalização de mercado. O DIA tende a ter menor volatilidade e beta em relação ao S&P 500, mas a composição é mais concentrada. Ambos são ETFs da State Street, com estrutura de unit investment trust."
+    },
+    {
+      "question": "DIA paga dividendos?",
+      "answer": "Sim, o DIA distribui proventos aos cotistas. Nos 12 meses até 29/10/2026, o fundo pagou US$ 7,1850 por cota em 12 pagamentos, resultando em um dividend yield de 1,37%. O último pagamento foi de US$ 0,1140 em 16/10/2026. Os dividendos são provenientes dos lucros das empresas que compõem o índice Dow Jones Industrial Average."
+    },
+    {
+      "question": "Como investir no DIA a partir do Brasil?",
+      "answer": "Investidores brasileiros podem comprar o DIA através de contas em corretoras no exterior, que operam em mercados como a NYSE Arca. Outra opção é buscar na B3 ETFs ou BDRs que tenham como referência o DIA ou o Dow Jones Industrial Average. O principal risco é o cambial, pois a rentabilidade em reais depende da variação do dólar. É possível acompanhar a posição e a performance em reais usando a [carteira consolidada](/recursos/carteira-consolidada) do StockBar."
+    },
+    {
+      "question": "Qual a volatilidade do DIA?",
+      "answer": "A volatilidade anualizada do DIA nos últimos 12 meses foi de 12,56%, um nível baixo para um ETF de ações. O beta de 0,81 em relação ao S&P 500 indica que o fundo tende a ser menos volátil que o índice de referência. A maior queda nos últimos 5 anos foi de -20,76%, entre 04/01/2022 e 30/09/2022. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do StockBar permite visualizar a trajetória do ativo e medir a rentabilidade em períodos específicos."
+    },
+    {
+      "question": "O DIA é um ETF alavancado?",
+      "answer": "Não, o DIA não é um ETF alavancado. Ele replica o índice Dow Jones Industrial Average com uma alavancagem de 1x, ou seja, busca acompanhar a performance do índice sem multiplicar os retornos. ETFs alavancados, como o [TQQQ](/etfs/tqqq) ou o [SOXL](/etfs/soxl), buscam retornos diários multiplicados por um fator, o que pode gerar resultados muito diferentes no longo prazo devido ao rebalanceamento diário."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do DIA lado a lado com o S&P 500, Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o DIA chegar ao preço que você escolheu, para acompanhar oscilações sem ficar na frente da tela."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do DIA junto com outras posições em ações, renda fixa e fundos, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Visualize o gráfico de rentabilidade do DIA e o preço médio da sua posição, com variação do dia e do ano."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no DIA e a performance da carteira, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF da State Street que replica o S&P 500, o principal índice de referência do mercado americano, com maior diversificação que o DIA."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard que também replica o S&P 500, uma alternativa com custos baixos para quem busca exposição ao mercado americano."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF da iShares que replica o S&P 500, oferecendo uma opção de baixo custo e alta liquidez para investidores que querem diversificação ampla."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o Nasdaq-100, com maior peso em tecnologia, para quem busca exposição a um segmento de maior crescimento, mas também de maior volatilidade."
+      },
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "ETF que replica o Russell 2000, com foco em empresas de capitalização menor, para quem busca diversificação em um segmento diferente do Dow Jones."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de DIA",
+      "url": "https://finance.yahoo.com/quote/DIA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Exchange-traded fund",
+      "url": "https://www.wikidata.org/wiki/Q845477",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Fundo negociado em bolsa",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_negociado_em_bolsa",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,325 @@
+{
+  "ticker": "KNCR11",
+  "slug": "kncr11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "KNCR11: FII de papel, dividendos e volatilidade",
+    "description": "KNCR11 é um FII de papel com 99% em CRI, dividend yield de 13,30% e patrimônio de R$ 11 bilhões.",
+    "h1": "KNCR11: Kinea Rendimentos Imobiliários FII",
+    "canonicalPath": "/fiis/kncr11",
+    "keywords": [
+      "KNCR11",
+      "Kinea Rendimentos Imobiliários",
+      "FII de papel",
+      "CRI",
+      "dividendos KNCR11",
+      "volatilidade KNCR11",
+      "patrimônio KNCR11",
+      "FII CDI"
+    ]
+  },
+  "summary": "KNCR11 é a cota do Kinea Rendimentos Imobiliários, um fundo imobiliário de papel que investe predominantemente em Certificados de Recebíveis Imobiliários (CRI). Com patrimônio de R$ 10,98 bilhões em 09/2026, o fundo prioriza ativos pós-fixados e de baixo risco de crédito. Nos 12 meses até 28/10/2026, a rentabilidade total foi de 12,53%, com dividend yield de 13,30% e volatilidade anualizada de 7,07%.",
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Kinea Investimentos Ltda",
+    "name": "Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "15/10/2012",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "16.706.958/0001-32",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "15/10/2012",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 10,98 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "593.709",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 102,57",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 104,60",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "7,07% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,05",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "13,30%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 25,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KNCR11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII",
+    "currency": "BRL",
+    "price": 104.6,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1253,
+      "3y": 0.4857,
+      "5y": 0.9805,
+      "10y": 0.6354
+    },
+    "volatility1y": 0.0707,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.0702,
+      "from": "2024-09-27",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.05,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 13.9124,
+      "payments12Months": 12,
+      "yield12Months": 0.133,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 1.129381
+      }
+    },
+    "avgDailyTradedValue3m": 25783785
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do KNCR11 nos 12 meses até 28/10/2026 foi de 7,07%, classificada como baixa 0. O beta de 0,05 contra o Ibovespa mostra que o fundo tem pouca sensibilidade às oscilações do mercado de ações 0. A maior queda em 5 anos foi de -7,02%, entre 27/09/2024 e 18/12/2024 0. Esse perfil é típico de FIIs de papel indexados ao CDI, que priorizam estabilidade de caixa. Use os [alertas de preço no StockBar](/recursos/alertas-de-preco) para ser notificado quando a cota atingir níveis de interesse, sem precisar monitorar o gráfico diariamente."
+  },
+  "history": {
+    "overview": "Diferente de fundos de tijolo, o KNCR11 é classificado como multicategoria, mas seu portfólio é dedicado a CRI, que são títulos de dívida lastreados em recebíveis do setor imobiliário 3. Desde 2016, o fundo realizou 10 ofertas públicas de cotas, ampliando sua base de investidores e patrimônio 2. Em 15/10/2026, o patrimônio líquido era de R$ 11,01 bilhões, com 593.709 cotistas 3. A estratégia de baixo risco de crédito e a forte exposição a CRI indexados ao CDI (99,0% da carteira) resultaram em uma volatilidade anualizada de 7,07% nos 12 meses até 28/10/2026, um nível baixo para o mercado de FIIs 0.",
+    "timeline": [
+      {
+        "date": "2012-10-15",
+        "event": "Início das atividades do fundo KNCR11.",
+        "source": 1
+      },
+      {
+        "date": "2016-07-25",
+        "event": "Início da primeira oferta pública de cotas registrada no FNET.",
+        "source": 2
+      },
+      {
+        "date": "2016-08-08",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2017-04-13",
+        "event": "Início de nova oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2025-04-09",
+        "event": "Encerramento da oferta pública iniciada em 2024.",
+        "source": 2
+      },
+      {
+        "date": "2026-03-03",
+        "event": "Encerramento da oferta pública iniciada em 2025.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do KNCR11",
+      "body": "O KNCR11 é um fundo de investimento imobiliário (FII) de papel, com gestão ativa e prazo indeterminado 1. A estratégia, detalhada no relatório gerencial de 15/10/2026, é investir em ativos de renda fixa de natureza imobiliária, predominantemente pós-fixados e com baixo risco de crédito, especialmente em Certificados de Recebíveis Imobiliários (CRI) 3. A Kinea Investimentos é a gestora e a INTRAG DTVM é a administradora 3. Na data do relatório, 99,8% do patrimônio estava alocado em ativos alvo, sendo 99,0% em CRI indexados ao CDI, com remuneração média de CDI + 2,00% a.a. e prazo médio de 3,2 anos 3. O fundo também possui pequenas alocações em CRI indexados ao IPCA (0,7%) e prefixados (0,1%), além de 0,2% em caixa 3. A carteira inclui cotas sênior de um FII pulverizado e um CRI de Home Equity da Crediblue, com LTV de 45% 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do KNCR11",
+      "body": "Nos 12 meses até 28/10/2026, o KNCR11 distribuiu R$ 13,9124 por cota em 12 pagamentos, resultando em um dividend yield de 13,30% 0. O último pagamento foi de R$ 1,1294 em 01/10/2026 0. O relatório de 15/10/2026 indica que os dividendos de setembro, pagos em 14/10/2026, representaram 1,11% de rentabilidade, isentos de imposto de renda para pessoas físicas, considerando a cota média de ingresso de R$ 102,12 3. O fundo não possui taxa de performance, apenas taxa de administração de 1,00% a.a. 3. Acompanhe os [dividendos e JCP no StockBar](/recursos/proventos) para ver o histórico de pagamentos multiplicado pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O KNCR11 realizou 10 ofertas públicas de cotas encerradas, com a primeira iniciada em 25/07/2016 e a mais recente iniciada em 28/09/2026 2. Em 09/2026, o patrimônio líquido era de R$ 10,98 bilhões, com 593.709 cotistas e valor patrimonial da cota de R$ 102,57 1. O relatório de 15/10/2026 atualiza o patrimônio para R$ 11,01 bilhões, com a cota patrimonial em R$ 102,83 e a cota de mercado em R$ 105,10 3. A liquidez é alta, com média diária de R$ 33,23 milhões em setembro/2026 3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KNCR11",
+      "body": "A rentabilidade total com proventos do KNCR11 foi de 12,53% nos 12 meses até 28/10/2026, 48,57% em 3 anos e 98,05% em 5 anos 0. O fundo tem histórico de longo prazo, com 63,54% de rentabilidade em 10 anos 0. Como o portfólio é majoritariamente indexado ao CDI, o desempenho do fundo acompanha de perto a curva de juros. Compare a [rentabilidade do KNCR11 com o CDI e o IFIX no StockBar](/recursos/comparacao-com-indices) para avaliar seu desempenho relativo."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KNCR11",
+      "body": "Os principais riscos do KNCR11 são de crédito e de juros. Como fundo de papel, a carteira depende da capacidade de pagamento dos devedores dos CRI 3. O relatório de 15/10/2026 afirma que a carteira permanece sem eventos negativos de crédito 3. O risco de juros é relevante porque 99,0% dos ativos são indexados ao CDI; uma queda na Selic, como a redução de 0,25% para 13,75% em setembro/2026, impacta a rentabilidade futura 3. A volatilidade anualizada de 7,07% é baixa, e a maior queda em 5 anos foi de -7,02%, de 27/09/2024 a 18/12/2024 0. O beta de 0,05 contra o Ibovespa indica baixa correlação com o mercado de ações 0."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KNCR11 é FII de papel ou de tijolo?",
+      "answer": "KNCR11 é um FII de papel. O relatório de 15/10/2026 mostra que 99,8% do patrimônio está em ativos de renda fixa imobiliária, sendo 99,0% em CRI 3. Fundos de papel investem em títulos de dívida, não em imóveis físicos, o que reduz a exposição a vacância e valorização de ativos."
+    },
+    {
+      "question": "KNCR11 paga dividendos mensais?",
+      "answer": "Sim, o KNCR11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, houve 12 pagamentos, totalizando R$ 13,9124 por cota 0. O último pagamento foi de R$ 1,1294 em 01/10/2026 0. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme o relatório de 15/10/2026 3."
+    },
+    {
+      "question": "Qual a taxa de administração do KNCR11?",
+      "answer": "A taxa de administração do KNCR11 é de 1,00% a.a., conforme o relatório de 15/10/2026 3. A taxa mensal informada pela CVM em 09/2026 foi de 0,086% sobre o patrimônio 1. O fundo não cobra taxa de performance 3."
+    },
+    {
+      "question": "Qual o patrimônio do KNCR11?",
+      "answer": "O patrimônio líquido do KNCR11 era de R$ 10,98 bilhões em 09/2026, com 593.709 cotistas 1. O relatório de 15/10/2026 atualiza o valor para R$ 11,01 bilhões 3. O fundo tem 107.089.622 cotas emitidas 1."
+    },
+    {
+      "question": "KNCR11 tem risco de crédito?",
+      "answer": "Sim, mas o fundo busca baixo risco de crédito. O relatório de 15/10/2026 afirma que a carteira permanece sem eventos negativos de crédito 3. Os CRI têm garantias, como o CRI da Crediblue com LTV de 45% e o FII pulverizado com LTV de 55% 3. O risco de crédito é inerente a qualquer fundo de papel, mas o KNCR11 prioriza ativos com qualidade."
+    },
+    {
+      "question": "Como acompanhar a rentabilidade do KNCR11?",
+      "answer": "Você pode usar o [desempenho e preço médio no StockBar](/recursos/desempenho-e-preco-medio) para ver o gráfico de rentabilidade e o ganho da sua posição. O recurso mostra a quantidade, o preço médio e a variação do dia e do ano, ajudando a acompanhar o desempenho sem precisar calcular manualmente."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os 12 pagamentos de R$ 13,9124 por cota nos últimos 12 meses, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com CDI e IFIX",
+        "context": "Compare a rentabilidade de 12,53% do KNCR11 com o CDI e o IFIX no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota de R$ 104,60 atingir o nível que você definir, sem precisar monitorar o gráfico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do KNCR11 ao lado de outros FIIs e ações, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em KNCR11 e o assistente responde com base nos seus dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "Outro FII de papel de grande porte, com estratégia similar de renda fixa imobiliária."
+      },
+      {
+        "ticker": "KNRI11",
+        "list": "fiis",
+        "reason": "Fundo da mesma gestora (Kinea), com foco em renda imobiliária, para comparação de estratégias."
+      },
+      {
+        "ticker": "KNSC11",
+        "list": "fiis",
+        "reason": "Kinea Securities, outro FII de papel da Kinea, com foco em recebíveis imobiliários."
+      },
+      {
+        "ticker": "KNHF11",
+        "list": "fiis",
+        "reason": "Kinea Hedge Fund, fundo da mesma gestora com estratégia diferente, para diversificação."
+      },
+      {
+        "ticker": "KNUQ11",
+        "list": "fiis",
+        "reason": "Kinea Unique Hy CDI, outro FII da Kinea indexado ao CDI, para comparação de rentabilidade."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KNCR11",
+      "url": "https://finance.yahoo.com/quote/KNCR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do KINEA RENDIMENTOS IMOBILIARIOS FII RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo KNCR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=16706958000132",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do KNCR11, referência 15/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1353832",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do KNCR11, 28/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1331887",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do KNCR11, 07/08/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=962129",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

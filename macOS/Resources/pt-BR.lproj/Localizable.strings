@@ -662,7 +662,6 @@
 "Apple Intelligence · on this Mac" = "Apple Intelligence · neste Mac";
 "StockBar couldn't read the API key from the Keychain. Enter it again in Settings → AI." = "O StockBar não conseguiu ler a chave de API do Keychain. Informe de novo em Ajustes → IA.";
 "model %@" = "modelo %@";
-"Thinking: deciding what to look up. Lookup: StockBar's queries. Reading: the model reading what they returned. Writing: the answer itself. Model: one request to the cloud model." = "Pensando: decidir o que consultar. Consulta: as buscas do StockBar. Leitura: o modelo lendo o que elas retornaram. Escrita: a resposta em si. Modelo: uma chamada ao modelo na nuvem.";
 "Change it in Settings → AI" = "Altere em Ajustes → IA";
 "Answers come from %@, with your API key. Your question and what StockBar looks up to answer it (amounts, places, positions) are sent to %@. Check the figures it looked up under each answer." = "As respostas vêm da %@, com a sua chave de API. Sua pergunta e o que o StockBar consulta para respondê-la (valores, lugares, posições) são enviados à %@. Confira o que foi consultado embaixo de cada resposta.";
 "Apple Intelligence, on this Mac" = "Apple Intelligence, neste Mac";
@@ -679,24 +678,16 @@
 "Apple Intelligence" = "Apple Intelligence";
 "Your API key" = "Sua chave de API";
 "On this Mac, free and private. Needs macOS 26 and Apple silicon; the slowest and least capable of the three." = "Neste Mac, grátis e privado. Precisa do macOS 26 e Apple silicon; o mais lento e menos capaz dos três.";
-"On this Mac, free and private, after a one-time download. About 1–2 seconds an answer on Apple silicon." = "Neste Mac, grátis e privado, depois de um download único. Cerca de 1–2 segundos por resposta em Apple silicon.";
 "The provider's model, billed to your key. The fastest and most capable; your questions and what StockBar looks up leave the Mac." = "O modelo do provedor, cobrado na sua chave. O mais rápido e capaz; suas perguntas e o que o StockBar consulta saem do Mac.";
 "Download (%@)" = "Baixar (%@)";
-"Checking the download…" = "Verificando o download…";
-"Downloaded" = "Baixado";
 "Try again" = "Tentar de novo";
-"Runs on this Mac with llama.cpp. While answering it uses about 3,5 GB of memory, freed ten minutes after the last question. Until it's downloaded, the AI tab uses Apple Intelligence." = "Roda neste Mac com o llama.cpp. Enquanto responde, usa cerca de 3,5 GB de memória, liberados dez minutos depois da última pergunta. Até terminar o download, a aba IA usa a Apple Intelligence.";
-"Runs on this Mac with llama.cpp. On an Intel Mac it runs on the processor and is slow. Until it's downloaded, the AI tab uses Apple Intelligence." = "Roda neste Mac com o llama.cpp. Num Mac Intel roda no processador e fica lento. Até terminar o download, a aba IA usa a Apple Intelligence.";
 "Works with OpenAI, Anthropic, DeepSeek and Google Gemini keys. Until one is saved, the AI tab uses Apple Intelligence. The key stays in your login keychain." = "Funciona com chaves da OpenAI, Anthropic, DeepSeek e Google Gemini. Até salvar uma, a aba IA usa a Apple Intelligence. A chave fica no seu keychain de login.";
 "on this Mac" = "neste Mac";
-"not downloaded" = "não baixado";
 "Your API key · not saved yet" = "Sua chave de API · ainda não salva";
 "Answers come from %@, running on this Mac: free, and neither your questions nor your data leave it. Check the figures it looked up under each answer." = "As respostas vêm do %@, rodando neste Mac: de graça, e nem suas perguntas nem seus dados saem dele. Confira o que foi consultado embaixo de cada resposta.";
-"loading %@" = "carregando %@";
 "The local model couldn't be loaded. Delete it in Settings → AI and download it again." = "Não foi possível carregar o modelo local. Apague-o em Ajustes → IA e baixe de novo.";
 "The local model stopped while answering. Try again." = "O modelo local parou no meio da resposta. Tente de novo.";
 "This conversation got too long for the local model." = "A conversa ficou longa demais para o modelo local.";
-"The download was damaged. Try again." = "O download veio corrompido. Tente de novo.";
 "Start a new conversation" = "Começar uma nova conversa";
 "Personal" = "Pessoal";
 "Demo" = "Demo";
@@ -710,3 +701,18 @@
 "Reset the demo data?" = "Redefinir os dados da demo?";
 "Reset and relaunch" = "Redefinir e reabrir";
 "Changes made in the demo account are replaced by the original made-up data." = "As mudanças feitas na conta demo são substituídas pelos dados inventados originais.";
+
+/* Local model through Ollama */
+"Ollama isn't running" = "O Ollama não está aberto";
+"Get Ollama" = "Baixar o Ollama";
+"Check again" = "Verificar de novo";
+"not set up" = "não configurado";
+"Ollama isn't running. Open it, then ask again." = "O Ollama não está aberto. Abra-o e pergunte de novo.";
+"Ollama returned error %lld." = "O Ollama retornou o erro %lld.";
+"Thinking: deciding what to look up. Lookup: StockBar's queries. Reading: the model reading what they returned. Writing: the answer itself. Model: one request to the model, in the cloud or in Ollama on this Mac." = "Pensando: decidir o que consultar. Consulta: as buscas do StockBar. Leitura: o modelo lendo o que elas retornaram. Escrita: a resposta em si. Modelo: uma chamada ao modelo, na nuvem ou no Ollama neste Mac.";
+"On this Mac, free and private, with a model you run in Ollama. Bigger models answer better but need more memory and time: about 6 GB for an 8-billion-parameter model, 18 GB for a 27-billion one." = "Neste Mac, grátis e privado, com um modelo que você roda no Ollama. Modelos maiores respondem melhor, mas precisam de mais memória e tempo: cerca de 6 GB para um modelo de 8 bilhões de parâmetros, 18 GB para um de 27 bilhões.";
+"No model that can look things up" = "Nenhum modelo que faça consultas";
+"Download %@" = "Baixar %@";
+"Running" = "Em execução";
+"Ollama is a free app that runs models on the Mac: install it from ollama.com and keep it open. The list shows its models that can call StockBar's lookups; add more with Ollama. StockBar asks it to free the memory when you leave the AI tab. Until it's ready, the AI tab uses Apple Intelligence." = "O Ollama é um app gratuito que roda modelos no Mac: instale pelo ollama.com e deixe-o aberto. A lista mostra os modelos dele que conseguem usar as consultas do StockBar; adicione outros pelo Ollama. O StockBar pede para ele liberar a memória quando você sai da aba IA. Até estar pronto, a aba IA usa a Apple Intelligence.";
+"Ollama doesn't have this model anymore. Pick another in Settings → AI." = "O Ollama não tem mais este modelo. Escolha outro em Ajustes → IA.";

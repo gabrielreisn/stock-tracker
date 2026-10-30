@@ -1,0 +1,355 @@
+{
+  "ticker": "GGBR4",
+  "slug": "ggbr4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "GGBR4: história, dividendos e volatilidade",
+    "description": "GGBR4 é a ação preferencial da Gerdau S.A., maior produtora de aço do Brasil. Veja dividendos, volatilidade e desempenho até 28/10/2026.",
+    "h1": "GGBR4: Gerdau S.A. - Ação Preferencial",
+    "canonicalPath": "/acoes/ggbr4",
+    "keywords": [
+      "GGBR4",
+      "Gerdau",
+      "ação preferencial",
+      "siderurgia",
+      "dividendos",
+      "volatilidade",
+      "B3",
+      "Ibovespa"
+    ]
+  },
+  "summary": "GGBR4 é a ação preferencial da Gerdau S.A., a maior produtora de aço do Brasil e uma das principais fornecedoras de aços longos nas Américas. A empresa opera no setor de Materiais Básicos, com foco em siderurgia e reciclagem, utilizando sucata como matéria-prima principal. Em 28/10/2026, a ação estava cotada a R$ 24,09 na B3, com dividend yield de 3,28% nos últimos 12 meses.",
+  "profile": {
+    "name": "Gerdau S.A.",
+    "legalName": "GERDAU S.A.",
+    "type": "Ação preferencial (PN)",
+    "sector": "Materiais Básicos",
+    "segment": "Siderurgia",
+    "founded": "20/11/1961",
+    "listedSince": "01/02/2001",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.gerdau.com"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "GERDAU S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "33.611.500/0001-19",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Siderurgia",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "20/11/1961",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "01/02/2001",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "GGBR3, GGBR4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 24,09",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "30,05% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,45",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,28%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GGBR4",
+    "list": "br-stocks",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Gerdau S.A.",
+    "currency": "BRL",
+    "price": 24.09,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.3553,
+      "3y": 0.4888,
+      "5y": 0.5922,
+      "10y": 3.4308
+    },
+    "volatility1y": 0.3005,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4112,
+      "from": "2023-01-19",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": 0.45,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.79,
+      "payments12Months": 4,
+      "yield12Months": 0.0328,
+      "lastPayment": {
+        "date": "2026-08-20",
+        "amount": 0.23
+      }
+    },
+    "avgDailyTradedValue3m": 268883032
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da GGBR4 é de 30,05% nos últimos 12 meses, nível classificado como 'alta'. O beta de 0,45 contra o Ibovespa indica que a ação tende a ser menos volátil que o índice. A maior queda nos últimos 5 anos foi de -41,12%, do pico em 19/01/2023 ao ponto mais baixo em 08/04/2025. Para acompanhar a variação de preço e definir pontos de entrada ou saída, use os [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+  },
+  "history": {
+    "overview": "A Gerdau S.A. tem origem na fábrica de pregos Pontas de Paris, comprada por João Gerdau em 1901 em Porto Alegre. A companhia foi constituída formalmente em 20/11/1961 e registrou-se como companhia aberta na CVM em 03/09/1980, iniciando a cotação na B3 em 01/02/2001. Hoje, a Gerdau é a maior recicladora da América Latina, com 73% do aço produzido a partir de sucata, e possui operações em 10 países, com mais de 30 mil colaboradores. A estrutura acionária é controlada pela Metalúrgica Gerdau, holding familiar, e a empresa mantém um programa ativo de recompra e cancelamento de ações, com múltiplos eventos registrados entre 2025 e 2026.",
+    "timeline": [
+      {
+        "date": "1961-11-20",
+        "event": "Constituição da companhia Gerdau S.A.",
+        "source": 2
+      },
+      {
+        "date": "1980-09-03",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2001-02-01",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-07-31",
+        "event": "Cancelamento de ações em tesouraria",
+        "source": 11
+      },
+      {
+        "date": "2025-10-01",
+        "event": "Publicação do plano de investimentos em CAPEX 2025 e 2026",
+        "source": 9
+      },
+      {
+        "date": "2025-10-01",
+        "event": "Atualização sobre investimento nos principais projetos",
+        "source": 10
+      },
+      {
+        "date": "2025-12-19",
+        "event": "Conclusão do Programa de Recompra de Ações 2025",
+        "source": 7
+      },
+      {
+        "date": "2026-02-23",
+        "event": "Aquisição e cancelamento de ações de emissão da própria companhia",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Gerdau S.A. ganha dinheiro",
+      "body": "A Gerdau S.A. atua no setor de Materiais Básicos, especificamente na siderurgia, sendo a maior empresa brasileira produtora de aço. A receita vem da produção e venda de aços longos, aços planos e aços especiais, além de mineração de ferro para consumo próprio. A empresa é a maior recicladora da América Latina, utilizando sucata como matéria-prima em 73% da produção, com mais de 11 milhões de toneladas processadas anualmente. As operações abrangem 10 países, com unidades no Brasil, América do Norte, América do Sul e unidades de aços especiais no Brasil e nos Estados Unidos."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Gerdau S.A.",
+      "body": "O controle acionário da Gerdau S.A. é privado, exercido pela Metalúrgica Gerdau, holding familiar. A empresa está listada no Nível 1 da B3, com códigos de negociação GGBR3 (ações ordinárias) e GGBR4 (ações preferenciais). As ações preferenciais (GGBR4) têm preferência no recebimento de dividendos e no retorno do capital em caso de liquidação, mas não conferem direito a voto nas assembleias, diferentemente das ações ordinárias (GGBR3), que têm direito a voto e participam da governança da empresa."
+    },
+    {
+      "id": "proventos",
+      "heading": "GGBR4 paga dividendos?",
+      "body": "Nos 12 meses até 28/10/2026, a GGBR4 distribuiu R$ 0,7900 por ação em 4 pagamentos, resultando em dividend yield de 3,28%. O último pagamento foi de R$ 0,2300 em 20/08/2026. A empresa mantém um programa ativo de recompra e cancelamento de ações, com múltiplos eventos registrados entre 2025 e 2026, o que pode impactar a oferta de ações no mercado. Veja os [dividendos e JCP no StockBar](/recursos/proventos) para acompanhar as datas de pagamento e a quantidade de ações que você possui."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da GGBR4",
+      "body": "A GGBR4 teve rentabilidade total com proventos de 35,53% nos 12 meses até 28/10/2026, 48,88% em 3 anos e 59,22% em 5 anos. Em 10 anos, a rentabilidade foi de 343,08%. O volume médio negociado por dia nos últimos 3 meses foi de R$ 268,9 milhões. Para comparar com o Ibovespa e o CDI, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da GGBR4",
+      "body": "A GGBR4 apresenta volatilidade anualizada de 30,05% nos últimos 12 meses, classificada como nível 'alta'. O beta de 0,45 indica que a ação tende a ser menos volátil que o Ibovespa. A maior queda nos últimos 5 anos foi de -41,12%, do pico em 19/01/2023 ao ponto mais baixo em 08/04/2025. Os riscos do setor de siderurgia incluem flutuações no preço do aço, demanda cíclica e custos de energia. Use os [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos de preço."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GGBR4 paga dividendos?",
+      "answer": "Sim, a GGBR4 distribui dividendos. Nos 12 meses até 28/10/2026, foram R$ 0,7900 por ação em 4 pagamentos, com dividend yield de 3,28%. O último pagamento foi de R$ 0,2300 em 20/08/2026. Veja os [dividendos e JCP no StockBar](/recursos/proventos) para acompanhar as datas de pagamento."
+    },
+    {
+      "question": "Qual a diferença entre GGBR3 e GGBR4?",
+      "answer": "GGBR3 é a ação ordinária, com direito a voto nas assembleias, enquanto GGBR4 é a ação preferencial, com preferência no recebimento de dividendos e no retorno do capital em caso de liquidação, mas sem direito a voto. Ambas são negociadas na B3, com o mesmo preço de referência."
+    },
+    {
+      "question": "A Gerdau é uma empresa de siderurgia?",
+      "answer": "Sim, a Gerdau S.A. atua no setor de Materiais Básicos, especificamente na siderurgia, sendo a maior empresa brasileira produtora de aço. A empresa também produz aços planos, aços especiais e minério de ferro para consumo próprio."
+    },
+    {
+      "question": "Qual o risco de GGBR4?",
+      "answer": "A GGBR4 apresenta volatilidade anualizada de 30,05% nos últimos 12 meses, nível classificado como 'alta'. O beta de 0,45 indica que a ação tende a ser menos volátil que o Ibovespa. A maior queda nos últimos 5 anos foi de -41,12%, do pico em 19/01/2023 ao ponto mais baixo em 08/04/2025."
+    },
+    {
+      "question": "A Gerdau faz recompra de ações?",
+      "answer": "Sim, a Gerdau mantém um programa ativo de recompra e cancelamento de ações. Entre 2025 e 2026, houve múltiplos eventos de cancelamento de ações em tesouraria, com a conclusão do Programa de Recompra de Ações 2025 em 19/12/2025."
+    },
+    {
+      "question": "Onde a Gerdau opera?",
+      "answer": "A Gerdau está presente em 10 países, com unidades no Brasil, América do Norte, América do Sul e unidades de aços especiais no Brasil e nos Estados Unidos. No Brasil, possui usinas em vários estados, incluindo Rio Grande do Sul, Minas Gerais, São Paulo, Paraná, Ceará, Pernambuco, Rio de Janeiro e Bahia."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da GGBR4 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da GGBR4 com o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a GGBR4 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a GGBR4 junto com suas outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Outra empresa do setor de Materiais Básicos, com foco em mineração e commodities."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial de outra empresa de grande porte no Ibovespa, com perfil de dividendos."
+      },
+      {
+        "ticker": "GARE11",
+        "list": "fiis",
+        "reason": "FII de logística, setor que se beneficia da infraestrutura e transporte de commodities."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o índice MSCI Brazil, com exposição a ações brasileiras como a GGBR4."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GGBR4",
+      "url": "https://finance.yahoo.com/quote/GGBR4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: GERDAU, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/3980/GGBR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, GERDAU S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Gerdau",
+      "url": "https://pt.wikipedia.org/wiki/Gerdau",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/08/2026, “Cancelamento de ações em tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1551986&numSequencia=1076692&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/04/2026, “Cancelamento de ações em tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1509331&numSequencia=1034037&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/02/2026, “Aquisição de Ações de Emissão da Própria Companhia||Cancelamento de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1480641&numSequencia=1005347&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/12/2025, “Conclusão Programa de Recompra de Ações 2025”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1459598&numSequencia=984304&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/10/2025, “Cancelamento de ações em tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1437732&numSequencia=962444&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/10/2025, “Plano de investimentos em CAPEX 2025 e 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1428134&numSequencia=952846&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/10/2025, “Atualização - Investimento nos Principais Projetos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1428147&numSequencia=952859&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/07/2025, “Cancelamento de ações em tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1406195&numSequencia=930907&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,389 @@
+{
+  "ticker": "ITSA4",
+  "slug": "itsa4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "ITSA4: história, dividendos e volatilidade",
+    "description": "ITSA4 é a ação preferencial da Itaúsa, holding diversificada com dividend yield de 8,78% e rentabilidade de 24,11% em 12 meses.",
+    "h1": "ITSA4: Itaúsa S.A. - Ação Preferencial",
+    "canonicalPath": "/acoes/itsa4",
+    "keywords": [
+      "ITSA4",
+      "Itaúsa",
+      "ação preferencial",
+      "dividendos ITSA4",
+      "ITSA4 dividend yield",
+      "Itaúsa holding",
+      "ações financeiras B3"
+    ]
+  },
+  "summary": "ITSA4 é a ação preferencial da Itaúsa S.A., uma holding diversificada brasileira com sede em São Paulo, fundada em 1966. A empresa controla participações em companhias como Itaú Unibanco, Alpargatas, Dexco, Copa Energia, Motiva, Aegea e NTS. Em 29/10/2026, a ação era cotada a R$ 12,85, com dividend yield de 8,78% nos últimos 12 meses e rentabilidade total de 24,11% no mesmo período.",
+  "profile": {
+    "name": "Itaúsa",
+    "legalName": "ITAUSA S.A.",
+    "type": "Ação preferencial (PN)",
+    "sector": "Financeiro",
+    "segment": "Holdings Diversificadas",
+    "founded": "06/05/1966",
+    "listedSince": "30/06/1978",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.itausa.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "ITAUSA S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "61.532.644/0001-15",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Holdings Diversificadas",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "06/05/1966",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "30/06/1978",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "ITSA3, ITSA4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 12,85",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "30,83% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,12",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "8,78%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ITSA4",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Itaúsa S.A.",
+    "currency": "BRL",
+    "price": 12.85,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2411,
+      "3y": 1.1846,
+      "5y": 1.4587,
+      "10y": 3.0741
+    },
+    "volatility1y": 0.3083,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2516,
+      "from": "2022-03-29",
+      "to": "2022-07-14"
+    },
+    "beta1y": {
+      "value": 1.12,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.1278,
+      "payments12Months": 7,
+      "yield12Months": 0.0878,
+      "lastPayment": {
+        "date": "2026-09-01",
+        "amount": 0.024243
+      }
+    },
+    "avgDailyTradedValue3m": 448217996
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A ITSA4 apresenta volatilidade anualizada de 30,83% nos últimos 12 meses, nível considerado alto para uma ação de holding diversificada. A maior queda em 5 anos foi de -25,16%, entre 29/03/2022 e 14/07/2022, período que reflete a sensibilidade da empresa a mudanças no cenário macroeconômico e nos setores em que está exposta. Para investidores que desejam monitorar movimentos bruscos de preço, os [alertas de preço](/recursos/alertas-de-preco) do StockBar notificam quando a ação atinge níveis pré-definidos."
+  },
+  "history": {
+    "overview": "A Itaúsa S.A. foi constituída em 06/05/1966, originalmente como Banco Itaú de Investimento. Ao longo das décadas, a empresa passou por diversas mudanças de nome, incluindo Banco Itaú Português de Investimentos (1973) e Investimentos Itaú (1974), até adotar a denominação atual em 30/04/1991. A companhia registrou-se como aberta na CVM em 20/07/1977 e iniciou a cotação de suas ações na B3 em 30/06/1978, tornando-se uma das bases acionárias mais amplas da bolsa brasileira, com cerca de 900 mil investidores pessoas físicas.",
+    "timeline": [
+      {
+        "date": "1965",
+        "event": "Fundação da empresa",
+        "source": 3
+      },
+      {
+        "date": "1966-05-06",
+        "event": "Constituição da Itaúsa S.A.",
+        "source": 2
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "1978-06-30",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2013",
+        "event": "Início do processo de desinvestimento da Itautec",
+        "source": 4
+      },
+      {
+        "date": "2018-06",
+        "event": "Venda da Elekeiroz ao H.I.G. Capital por R$ 160 milhões",
+        "source": 4
+      },
+      {
+        "date": "2026-05-25",
+        "event": "Participação em processo de investimento na Copasa",
+        "source": 13
+      },
+      {
+        "date": "2026-06-03",
+        "event": "Processo de investimento na Copasa MG",
+        "source": 12
+      },
+      {
+        "date": "2026-06-15",
+        "event": "Declaração de juros sobre capital próprio",
+        "source": 11
+      },
+      {
+        "date": "2026-07-01",
+        "event": "Proventos recebidos de subsidiária integral",
+        "source": 10
+      },
+      {
+        "date": "2026-07-07",
+        "event": "Aumento de participação acionária na AEGEA",
+        "source": 9
+      },
+      {
+        "date": "2026-07-28",
+        "event": "Capitalização na Aegea",
+        "source": 8
+      },
+      {
+        "date": "2026-08-10",
+        "event": "Pagamento de juros sobre capital próprio",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Itaúsa ganha dinheiro",
+      "body": "A Itaúsa S.A. atua como uma holding diversificada, com atividade principal de gestão de participações societárias. O portfólio da companhia inclui empresas líderes em seus segmentos, com destaque para o setor financeiro (Itaú Unibanco), moda e calçados (Alpargatas), logística (Dexco), energia (Copa Energia, Motiva, Aegea) e transporte (NTS - Nova Transportadora do Sudeste). A empresa possui presença em mais de 50 países e conta com cerca de 126.800 funcionários em suas participações. A receita da Itaúsa provém dos resultados e proventos recebidos de suas controladas e participadas, como evidenciado pelos fatos relevantes de proventos recebidos de subsidiárias integrais em 2026."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Itaúsa",
+      "body": "O controle acionário da Itaúsa é privado, mantido pelas famílias Setubal e Villela, com a família Camargo como acionista minoritária. A empresa é listada no Nível 1 da B3 e possui dois códigos de negociação: ITSA3 (ações ordinárias) e ITSA4 (ações preferenciais). As ações preferenciais (ITSA4) têm prioridade no recebimento de dividendos e no retorno do capital em caso de liquidação, mas geralmente não possuem direito a voto em assembleias, diferentemente das ações ordinárias (ITSA3), que conferem poder de decisão na governança da empresa."
+    },
+    {
+      "id": "proventos",
+      "heading": "ITSA4 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, a ITSA4 distribuiu R$ 1,1278 por ação em 7 pagamentos, resultando em um dividend yield de 8,78%. O último pagamento registrado foi de R$ 0,0242 em 01/09/2026. A Itaúsa tem histórico de remuneração aos acionistas por meio de dividendos e juros sobre capital próprio (JCP), com declarações e pagamentos registrados em 2026. É possível acompanhar o histórico completo de [dividendos e JCP no StockBar](/recursos/proventos), que mostra as datas de competência e pagamento, multiplicadas pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da ITSA4",
+      "body": "Até 29/10/2026, a ITSA4 apresentou rentabilidade total com proventos de 24,11% em 12 meses, 118,46% em 3 anos, 145,87% em 5 anos e 307,41% em 10 anos. O preço da ação era de R$ 12,85 nessa data. Para avaliar esses resultados no contexto do mercado, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que coloca a rentabilidade da carteira lado a lado com o Ibovespa, CDI e outros benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da ITSA4",
+      "body": "A ITSA4 possui volatilidade anualizada de 30,83% nos últimos 12 meses, classificada como nível alto, e beta de 1,12 contra o Ibovespa, indicando maior sensibilidade às oscilações do mercado. A maior queda em 5 anos foi de -25,16%, do pico em 29/03/2022 ao ponto mais baixo em 14/07/2022. Como holding diversificada, a Itaúsa está exposta aos riscos setoriais de seus investimentos, incluindo financeiro, energia, logística e saneamento. A exposição a múltiplos setores pode mitigar riscos específicos, mas a empresa permanece sujeita a ciclos econômicos e regulatórios. O [alertas de preço](/recursos/alertas-de-preco) do StockBar permite monitorar oscilações sem necessidade de acompanhamento constante."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ITSA4 paga dividendos?",
+      "answer": "Sim, a ITSA4 distribui proventos regularmente. Nos 12 meses até 29/10/2026, a ação pagou R$ 1,1278 por ação em 7 pagamentos, com dividend yield de 8,78%. O último pagamento foi de R$ 0,0242 em 01/09/2026. A Itaúsa também declara juros sobre capital próprio (JCP), com registros em 2026. O histórico completo está disponível no [recurso de proventos](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre ITSA3 e ITSA4?",
+      "answer": "ITSA3 é a ação ordinária e ITSA4 é a ação preferencial da Itaúsa. A principal diferença é que a ação preferencial (ITSA4) tem prioridade no recebimento de dividendos e no retorno do capital em caso de liquidação, mas geralmente não possui direito a voto em assembleias. A ação ordinária (ITSA3) confere poder de decisão na governança da empresa, mas não tem prioridade nos proventos. Ambas são negociadas na B3 sob o mesmo nome de pregão, ITAUSA."
+    },
+    {
+      "question": "O que a Itaúsa faz?",
+      "answer": "A Itaúsa é uma holding diversificada que gerencia participações em empresas líderes em seus segmentos. O portfólio inclui Itaú Unibanco (financeiro), Alpargatas (moda e calçados), Dexco (logística), Copa Energia, Motiva e Aegea (energia e saneamento), e NTS (transporte). A empresa tem presença em mais de 50 países e cerca de 126.800 funcionários em suas participações."
+    },
+    {
+      "question": "Qual o dividend yield da ITSA4?",
+      "answer": "O dividend yield da ITSA4 nos 12 meses até 29/10/2026 foi de 8,78%, com base em R$ 1,1278 distribuídos por ação em 7 pagamentos. O último pagamento registrado foi de R$ 0,0242 em 01/09/2026. O [recurso de proventos](/recursos/proventos) do StockBar permite acompanhar a evolução dos pagamentos ao longo do tempo."
+    },
+    {
+      "question": "Quem controla a Itaúsa?",
+      "answer": "O controle acionário da Itaúsa é privado, mantido pelas famílias Setubal e Villela, com a família Camargo como acionista minoritária. A empresa é listada no Nível 1 da B3 e possui cerca de 900 mil acionistas pessoas físicas, uma das maiores bases acionárias da bolsa brasileira."
+    },
+    {
+      "question": "ITSA4 é uma boa ação para renda passiva?",
+      "answer": "A ITSA4 distribui proventos regularmente, com dividend yield de 8,78% nos 12 meses até 29/10/2026. No entanto, a ação possui volatilidade anualizada de 30,83% e beta de 1,12, o que indica oscilações superiores à média do Ibovespa. A decisão de incluir a ação em uma carteira de renda passiva depende do perfil de risco do investidor e da diversificação da carteira. O [recurso de carteira consolidada](/recursos/carteira-consolidada) ajuda a visualizar a alocação entre classes de ativos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da ITSA4 com data de competência e data de pagamento, multiplicados pela sua quantidade de ações."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da ITSA4 com o Ibovespa, CDI e outros índices no mesmo gráfico, para avaliar o desempenho no contexto do mercado."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a ITSA4 atingir o preço que você escolheu, útil para monitorar oscilações sem acompanhar a cotação o dia todo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a ITSA4 junto com outras ações, FIIs e renda fixa em uma só visão, com alocação por classe e as maiores posições da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Itaú Unibanco é a principal participação da Itaúsa, e a ITUB4 é a ação preferencial do banco, com desempenho correlacionado à holding."
+      },
+      {
+        "ticker": "MOTV3",
+        "list": "br-stocks",
+        "reason": "Motiva é uma das participações da Itaúsa no setor de energia, e a MOTV3 é a ação preferencial da empresa de infraestrutura de mobilidade."
+      },
+      {
+        "ticker": "CSMG3",
+        "list": "br-stocks",
+        "reason": "A Itaúsa tem participação na Copasa MG, e a CSMG3 é a ação da Companhia de Saneamento de Minas Gerais, setor em que a holding tem exposição crescente."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Axia Energia é uma empresa do setor de energia, similar às participações da Itaúsa em Copa Energia, Motiva e Aegea."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ITSA4",
+      "url": "https://finance.yahoo.com/quote/ITSA4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ITAUSA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/7617/ITSA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, ITAUSA S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Itaúsa",
+      "url": "https://www.wikidata.org/wiki/Q1579151",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Itaúsa",
+      "url": "https://pt.wikipedia.org/wiki/Ita%C3%BAsa",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Itaúsa",
+      "url": "https://en.wikipedia.org/wiki/Ita%C3%BAsa",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/08/2026, “Pagamento de juros sobre capital próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1555260&numSequencia=1079966&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/08/2026, “Capitalização na Aegea”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1552793&numSequencia=1077499&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/07/2026, “Capitalização na Aegea”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1549008&numSequencia=1073714&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/07/2026, “Aumento de participação acionária na AEGEA”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1542262&numSequencia=1066968&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/07/2026, “Proventos recebidos de subsidiária integral”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1540729&numSequencia=1065435&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/06/2026, “Declaração de juros sobre capital próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1534704&numSequencia=1059410&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/06/2026, “Processo de Investimento na Copasa MG”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1530614&numSequencia=1055320&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/05/2026, “Participação em Processo de Investimento na Copasa”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1526621&numSequencia=1051327&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

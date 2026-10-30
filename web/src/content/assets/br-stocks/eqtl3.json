@@ -1,0 +1,374 @@
+{
+  "ticker": "EQTL3",
+  "slug": "eqtl3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "EQTL3: história, dividendos e volatilidade",
+    "description": "EQTL3 é a ação ordinária da Equatorial Energia, holding de energia e saneamento.",
+    "h1": "EQTL3: Equatorial Energia",
+    "canonicalPath": "/acoes/eqtl3",
+    "keywords": [
+      "EQTL3",
+      "Equatorial Energia",
+      "ação energia elétrica",
+      "dividendos EQTL3",
+      "volatilidade EQTL3",
+      "saneamento básico",
+      "distribuição de energia"
+    ]
+  },
+  "summary": "EQTL3 é a ação ordinária da Equatorial Energia, holding brasileira do setor de energia elétrica e saneamento com sede em São Luís. A empresa atua na distribuição de energia em estados como Maranhão, Pará, Piauí, Alagoas, Rio Grande do Sul e Amapá. Em 29/10/2026, a ação cotava a R$ 32,90, com dividend yield de 4,81% nos últimos 12 meses e volatilidade anualizada de 45,16%.",
+  "profile": {
+    "name": "Equatorial Energia",
+    "legalName": "EQUATORIAL S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "16/06/1999",
+    "listedSince": "03/04/2006",
+    "headquarters": "São Luís (MA)",
+    "website": "https://www.equatorialenergia.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "EQUATORIAL S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "03.220.438/0001-73",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "16/06/1999",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Luís (MA)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "03/04/2006",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "EQTL3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 32,90",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "45,16% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,64",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,81%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EQTL3",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Equatorial S.A.",
+    "currency": "BRL",
+    "price": 32.9,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0653,
+      "3y": 0.1396,
+      "5y": 0.6191,
+      "10y": 2.5466
+    },
+    "volatility1y": 0.4516,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3517,
+      "from": "2026-10-09",
+      "to": "2026-10-29"
+    },
+    "beta1y": {
+      "value": 1.64,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.5833,
+      "payments12Months": 2,
+      "yield12Months": 0.0481,
+      "lastPayment": {
+        "date": "2025-12-30",
+        "amount": 0.133293
+      }
+    },
+    "avgDailyTradedValue3m": 546499098
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A EQTL3 tem volatilidade anualizada de 45,16% nos últimos 12 meses, nível muito alto, e beta de 1,64 contra o Ibovespa, indicando maior sensibilidade ao mercado. A maior queda em 5 anos foi de -35,17%, do pico em 09/10/2026 ao fundo em 29/10/2026. Para ações de utilidade pública, essa volatilidade é elevada, refletindo a exposição a eventos regulatórios, aportes em concessionárias e mudanças na política de dividendos. Acompanhe oscilações com [alertas de preço](/recursos/alertas-de-preco) e veja o histórico no [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A Equatorial Energia nasceu em 1999, originada da privatização da Companhia Energética do Maranhão (Cemar) em 2000. A partir de 2002, a Cemar passou por intervenção da ANEEL e reestruturação, com a GP Investments assumindo o controle em 2004. Em 2006, a empresa abriu capital na B3 e, em 2008, migrou para o Novo Mercado. A estratégia de crescimento baseou-se na aquisição de concessionárias em dificuldades: em 2012, comprou a Celpa do Pará por R$ 1; em 2018, adquiriu a Cepisa (Piauí) e a Ceal (Alagoas) no âmbito das privatizações federais. Em 2021, expandiu-se para o Rio Grande do Sul (CEEE-D) e Amapá (CEA), ingressando também no saneamento básico. Em 2025, alienou ativos de transmissão e aprovou aumento de capital. Em 2026, renovou concessões e avançou na oferta de ações da Copasa, além de reduzir dividendos obrigatórios e iniciar programa de recompra.",
+    "timeline": [
+      {
+        "date": "1999-06-16",
+        "event": "Constituição da Equatorial S.A.",
+        "source": 2
+      },
+      {
+        "date": "2006-03-30",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2006-04-03",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-01-07",
+        "event": "Aumento de capital aprovado em reunião de conselho de administração",
+        "source": 12
+      },
+      {
+        "date": "2025-04-04",
+        "event": "Alienação dos ativos de transmissão da companhia",
+        "source": 11
+      },
+      {
+        "date": "2025-11-12",
+        "event": "Início do programa de recompra de ações",
+        "source": 10
+      },
+      {
+        "date": "2026-03-25",
+        "event": "Redução dos dividendos obrigatórios",
+        "source": 9
+      },
+      {
+        "date": "2026-05-08",
+        "event": "Renovação das concessões de energia elétrica",
+        "source": 8
+      },
+      {
+        "date": "2026-06-03",
+        "event": "Definição do investidor de referência finalista da oferta de Copasa",
+        "source": 7
+      },
+      {
+        "date": "2026-06-11",
+        "event": "Seleção do investidor de referência para a Copasa",
+        "source": 6
+      },
+      {
+        "date": "2026-06-12",
+        "event": "Alocação das ações de emissão da Copasa à Equatorial",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Equatorial Energia ganha dinheiro",
+      "body": "A Equatorial Energia é uma holding que atua na geração, transmissão, distribuição de energia elétrica e serviços de saneamento básico. A receita principal vem da distribuição de energia em estados como Maranhão, Pará, Piauí, Alagoas, Rio Grande do Sul e Amapá, além de concessões de saneamento de longo prazo, como a dos 16 municípios do Amapá. Em 2025, a companhia alienou seus ativos de transmissão, focando mais na distribuição e no saneamento."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Equatorial Energia",
+      "body": "A Equatorial S.A. é uma companhia aberta com controle privado, registrada na CVM desde 30/03/2006. As ações EQTL3 são ordinárias (ON), listadas no segmento Novo Mercado da B3 desde 2008. Ações ordinárias dão direito a voto em assembleias e participação nos lucros, enquanto ações preferenciais (não listadas neste caso) têm prioridade no recebimento de dividendos, mas sem direito a voto. O código de negociação na B3 é EQTL3."
+    },
+    {
+      "id": "proventos",
+      "heading": "EQTL3 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, a EQTL3 pagou R$ 1,5833 por ação em 2 pagamentos, resultando em dividend yield de 4,81%. O último pagamento foi de R$ 0,1333 em 30/12/2025. Em 25/03/2026, a empresa anunciou a redução dos dividendos obrigatórios. Para acompanhar os pagamentos com data de competência e data de pagamento, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da EQTL3",
+      "body": "Até 29/10/2026, a EQTL3 tinha rentabilidade total de -6,53% em 12 meses, 13,96% em 3 anos, 61,91% em 5 anos e 254,66% em 10 anos. O preço era de R$ 32,90. Para comparar esses números com o Ibovespa, CDI ou IPCA, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da EQTL3",
+      "body": "A EQTL3 apresenta volatilidade anualizada de 45,16% nos últimos 12 meses, classificada como muito alta, e beta de 1,64 contra o Ibovespa. A maior queda em 5 anos foi de -35,17%, entre 09/10/2026 e 29/10/2026. Riscos setoriais incluem a dependência de concessões reguladas, exposição a mudanças regulatórias da ANEEL e a necessidade de aportes em concessionárias em recuperação. A empresa também reduziu dividendos em 2026 e iniciou recompra de ações em 2025, indicando gestão de caixa. Use [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "EQTL3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 29/10/2026, a EQTL3 pagou R$ 1,5833 por ação em 2 pagamentos, com dividend yield de 4,81%. O último pagamento foi de R$ 0,1333 em 30/12/2025. Em 25/03/2026, a empresa anunciou redução dos dividendos obrigatórios. Veja os detalhes no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre EQTL3 e ações preferenciais da Equatorial?",
+      "answer": "EQTL3 é ação ordinária (ON), com direito a voto em assembleias e participação nos lucros. Ações preferenciais (PN) têm prioridade no recebimento de dividendos, mas não dão direito a voto. A Equatorial não possui ações PN listadas na B3; apenas EQTL3 é negociada."
+    },
+    {
+      "question": "EQTL3 é ação de empresa de energia ou saneamento?",
+      "answer": "A Equatorial atua em ambos os setores. A empresa é uma holding de energia elétrica e saneamento básico, com distribuição de energia em seis estados e concessão de saneamento no Amapá. Em 2025, alienou ativos de transmissão, focando em distribuição e saneamento."
+    },
+    {
+      "question": "Qual a rentabilidade da EQTL3 nos últimos 5 anos?",
+      "answer": "Até 29/10/2026, a EQTL3 rendeu 61,91% em 5 anos, 13,96% em 3 anos e -6,53% em 12 meses. Para comparar com o Ibovespa ou CDI, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+    },
+    {
+      "question": "A EQTL3 tem alta volatilidade?",
+      "answer": "Sim. A volatilidade anualizada de 12 meses é de 45,16%, nível muito alto, com beta de 1,64 contra o Ibovespa. A maior queda em 5 anos foi de -35,17%, entre 09/10/2026 e 29/10/2026. Acompanhe movimentos com [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Onde a Equatorial Energia atua?",
+      "answer": "A empresa atua na distribuição de energia elétrica no Maranhão, Pará, Piauí, Alagoas, Rio Grande do Sul e Amapá, além de saneamento básico no Amapá. A sede está em São Luís (MA), mas a administração é em Brasília."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos da EQTL3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da EQTL3 com o Ibovespa, CDI e IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a EQTL3 chegar ao preço que você definiu, útil dada a volatilidade de 45,16%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a EQTL3 junto com outras ações e FIIs, com alocação por classe e valor total."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Outra ação de energia elétrica na B3, mesma classe setorial."
+      },
+      {
+        "ticker": "CPLE3",
+        "list": "br-stocks",
+        "reason": "Companhia Paranaense de Energia, distribuidora de energia elétrica, par setorial."
+      },
+      {
+        "ticker": "SBSP3",
+        "list": "br-stocks",
+        "reason": "SABESP, empresa de saneamento básico, setor relacionado à expansão da Equatorial."
+      },
+      {
+        "ticker": "CSMG3",
+        "list": "br-stocks",
+        "reason": "Companhia de Saneamento de Minas Gerais, outro ativo de saneamento na B3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EQTL3",
+      "url": "https://finance.yahoo.com/quote/EQTL3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: EQUATORIAL, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20010/EQTL/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, EQUATORIAL S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Equatorial Energia",
+      "url": "https://www.wikidata.org/wiki/Q18474582",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Equatorial Energia",
+      "url": "https://pt.wikipedia.org/wiki/Equatorial_Energia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/06/2026, “Alocação das ações de emissão da Copasa à Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1534080&numSequencia=1058786&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/06/2026, “Fato Relevante - Investidor de Referência Selecionado - COPASA”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1533446&numSequencia=1058152&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/06/2026, “Definição do Investidor de Referência Finalista da Oferta de Copasa”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1530620&numSequencia=1055326&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/05/2026, “Renovação das Concessões”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1519276&numSequencia=1043982&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/03/2026, “Redução de Dividendos Obrigatórios”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1495201&numSequencia=1019907&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/11/2025, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1444332&numSequencia=969044&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/04/2025, “Alienação dos Ativos de Transmissão”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1358179&numSequencia=882905&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/01/2025, “Aumento de capital aprovado em RCA”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1322825&numSequencia=847551&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

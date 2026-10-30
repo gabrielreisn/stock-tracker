@@ -1,10 +1,10 @@
 import Foundation
 
-/// A cloud model the user brings their own API key for. OpenAI, DeepSeek and Gemini (through its
-/// OpenAI-compatible endpoint) share the Chat Completions format; Anthropic has its own Messages API.
-/// Without a key, the AI tab runs Apple Intelligence on the Mac.
+/// A model behind an HTTP API: a cloud model the user brings their own API key for, or Ollama on this Mac (the local
+/// engine, no key). OpenAI, DeepSeek, Gemini and Ollama (through their OpenAI-compatible endpoints) share the Chat
+/// Completions format; Anthropic has its own Messages API. Without either, the AI tab runs Apple Intelligence.
 enum AIProvider: String, CaseIterable {
-    case openAI, anthropic, deepSeek, gemini
+    case openAI, anthropic, deepSeek, gemini, ollama
 
     var label: String {
         switch self {
@@ -12,6 +12,7 @@ enum AIProvider: String, CaseIterable {
         case .anthropic: "Anthropic"
         case .deepSeek: "DeepSeek"
         case .gemini: "Google Gemini"
+        case .ollama: "Ollama"
         }
     }
 
@@ -21,6 +22,7 @@ enum AIProvider: String, CaseIterable {
         case .anthropic: URL(string: "https://api.anthropic.com/v1/models?limit=100")!
         case .deepSeek: URL(string: "https://api.deepseek.com/models")!
         case .gemini: URL(string: "https://generativelanguage.googleapis.com/v1beta/openai/models")!
+        case .ollama: LocalModel.server.appendingPathComponent("v1/models")
         }
     }
 
@@ -30,10 +32,12 @@ enum AIProvider: String, CaseIterable {
         case .anthropic: URL(string: "https://api.anthropic.com/v1/messages")!
         case .deepSeek: URL(string: "https://api.deepseek.com/chat/completions")!
         case .gemini: URL(string: "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions")!
+        case .ollama: LocalModel.server.appendingPathComponent("v1/chat/completions")
         }
     }
 
     fileprivate func authorize(_ request: inout URLRequest, key: String) {
+        if self == .ollama { return }
         if self == .anthropic {
             request.setValue(key, forHTTPHeaderField: "x-api-key")
             request.setValue("2026-10-21", forHTTPHeaderField: "anthropic-version")
@@ -66,6 +70,8 @@ enum AIProvider: String, CaseIterable {
             let preferred = chat.first { $0.range(of: #"^gpt-\d+(\.\d+)?-mini$"#, options: .regularExpression) != nil }
                 ?? chat.first { $0 == "gpt-4o-mini" }
             return (preferred.map { [$0] } ?? []) + chat.filter { $0 != preferred }
+        case .ollama:
+            return ids
         }
     }
 }
@@ -74,7 +80,7 @@ enum AIProvider: String, CaseIterable {
 enum AIEngine: String, CaseIterable {
     /// Apple Intelligence: on the Mac, free; needs macOS 26 and Apple silicon.
     case apple
-    /// Qwen3 4B through llama.cpp (`LocalModel`): on the Mac, free, once downloaded.
+    /// Qwen 3.8 through Ollama (`LocalModel`): on the Mac, free, once Ollama and the model are installed.
     case local
     /// The user's own API key.
     case cloud
@@ -177,6 +183,8 @@ final class AICloudConversation {
     let provider: AIProvider
     let model: String
     private let key: String
+    /// Turns off a local model's thinking (see chatCompletionsBody).
+    private let skipThinking: Bool
     private var messages: [[String: Any]] = []
 
     struct Failure: LocalizedError {
@@ -184,10 +192,11 @@ final class AICloudConversation {
         var errorDescription: String? { message }
     }
 
-    init(provider: AIProvider, model: String, key: String) {
+    init(provider: AIProvider, model: String, key: String, skipThinking: Bool = false) {
         self.provider = provider
         self.model = model
         self.key = key
+        self.skipThinking = skipThinking
     }
 
     /// Asks the model, runs the tools it calls and asks again, until it answers (at most 6 rounds).
@@ -261,14 +270,19 @@ final class AICloudConversation {
         return .answer(content.filter { $0["type"] as? String == "text" }.compactMap { $0["text"] as? String }.joined())
     }
 
-    // MARK: Chat Completions (OpenAI, DeepSeek)
+    // MARK: Chat Completions (OpenAI, DeepSeek, Gemini, Ollama)
 
     private func chatCompletionsBody(system: String) -> [String: Any] {
-        [
+        var body: [String: Any] = [
             "model": model,
             "messages": [["role": "system", "content": system]] + messages,
             "tools": AIToolbox.specs.map { ["type": "function", "function": ["name": $0.name, "description": $0.description, "parameters": $0.parameters]] },
         ]
+        // Thinking models (Qwen 3.x and others) think before answering by default, which on a Mac takes longer than
+        // the answer itself; looking up and restating the user's figures doesn't need it. Sent only to models that
+        // think: Ollama can reject it for the others.
+        if provider == .ollama, skipThinking { body["reasoning_effort"] = "none" }
+        return body
     }
 
     private func chatCompletionsCalls(_ reply: [String: Any]) throws -> Step {
@@ -294,7 +308,8 @@ final class AICloudConversation {
     private func send(_ body: [String: Any]) async throws -> [String: Any] {
         var request = URLRequest(url: provider.chatURL)
         request.httpMethod = "POST"
-        request.timeoutInterval = 90
+        // A local model may first have to load (18 GB from disk) before it reads the question.
+        request.timeoutInterval = provider == .ollama ? 300 : 90
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")
         provider.authorize(&request, key: key)
         if provider == .anthropic, Self.takesFallbacks(model) {
@@ -312,7 +327,12 @@ final class AICloudConversation {
     }
 
     private static func explain(_ status: Int, provider: AIProvider) -> String {
-        switch status {
+        if provider == .ollama {
+            return status == 404
+                ? String(localized: "Ollama doesn't have this model anymore. Pick another in Settings → AI.")
+                : String(localized: "Ollama returned error \(status).")
+        }
+        return switch status {
         case 401, 403: String(localized: "\(provider.label) rejected the API key. Check it in Settings → AI.")
         case 402: String(localized: "The \(provider.label) account is out of credit.")
         case 429: String(localized: "\(provider.label) is rate-limiting this key, or its credit ran out. Try again in a moment.")

@@ -1,0 +1,114 @@
+{
+  "about": "StockBar's features, for internal links from asset pages. Every summary describes only what the macOS app does today; keep it that way when the app changes.",
+  "site": {
+    "assetPaths": { "br-stocks": "/acoes/{slug}", "us-etfs": "/etfs/{slug}", "fiis": "/fiis/{slug}" },
+    "hubs": { "br-stocks": "/acoes", "us-etfs": "/etfs", "fiis": "/fiis" },
+    "download": "/download"
+  },
+  "features": [
+    {
+      "slug": "carteira-consolidada",
+      "path": "/recursos/carteira-consolidada",
+      "name": "Carteira consolidada",
+      "summary": "Ações da B3 e dos EUA, renda fixa e fundos em uma só visão: valor por classe, alocação e as maiores posições.",
+      "relevantFor": ["br-stocks", "us-etfs", "fiis"],
+      "linkWhen": "The page talks about diversification, allocation or holding the asset next to others."
+    },
+    {
+      "slug": "desempenho-e-preco-medio",
+      "path": "/recursos/desempenho-e-preco-medio",
+      "name": "Desempenho e preço médio",
+      "summary": "Gráfico de rentabilidade da carteira (arraste para medir um período) e cada ativo com quantidade, preço médio, ganho, variação do dia e do ano.",
+      "relevantFor": ["br-stocks", "us-etfs", "fiis"],
+      "linkWhen": "Returns, price history, volatility or the cost of a position come up."
+    },
+    {
+      "slug": "comparacao-com-indices",
+      "path": "/recursos/comparacao-com-indices",
+      "name": "Comparação com CDI, IPCA, Ibovespa, IFIX e S&P 500",
+      "summary": "A rentabilidade da carteira lado a lado com CDI, IPCA, IPCA+6%, S&P 500, IFIX e Ibovespa, no mesmo gráfico.",
+      "relevantFor": ["br-stocks", "us-etfs", "fiis"],
+      "linkWhen": "The asset is compared with an index: Ibovespa for stocks, IFIX for FIIs, S&P 500 for US ETFs, or CDI for any of them."
+    },
+    {
+      "slug": "proventos",
+      "path": "/recursos/proventos",
+      "name": "Dividendos, JCP e rendimentos",
+      "summary": "Dividendos e JCP das empresas da B3 com data com e data de pagamento, a partir dos comunicados da B3, e os rendimentos de FIIs, multiplicados pela sua quantidade.",
+      "relevantFor": ["br-stocks", "fiis"],
+      "linkWhen": "Dividends, JCP, FII income, payout or dividend yield are discussed."
+    },
+    {
+      "slug": "alertas-de-preco",
+      "path": "/recursos/alertas-de-preco",
+      "name": "Alertas de preço",
+      "summary": "Uma notificação quando o ativo chega ao preço que você escolheu, para comprar ou vender.",
+      "relevantFor": ["br-stocks", "us-etfs", "fiis"],
+      "linkWhen": "Volatility, price swings or entry points come up (without suggesting a trade)."
+    },
+    {
+      "slug": "widget-da-barra-de-menus",
+      "path": "/recursos/widget-da-barra-de-menus",
+      "name": "Widget na barra de menus",
+      "summary": "O gráfico do dia e as posições num clique na barra de menus do Mac.",
+      "relevantFor": ["br-stocks", "us-etfs", "fiis"],
+      "linkWhen": "Following the asset during the trading day."
+    },
+    {
+      "slug": "assistente-de-ia",
+      "path": "/recursos/assistente-de-ia",
+      "name": "Assistente de IA",
+      "summary": "Pergunte em português sobre a sua carteira e os seus gastos; as respostas vêm dos seus próprios dados, mostrando o que foi consultado. Roda no Mac (grátis e privado) ou com a sua chave de API.",
+      "relevantFor": ["br-stocks", "us-etfs", "fiis"],
+      "linkWhen": "A FAQ or closing section invites the reader to ask about their own position."
+    },
+    {
+      "slug": "open-finance",
+      "path": "/recursos/open-finance",
+      "name": "Open Finance",
+      "summary": "Conecta bancos e corretoras pelo Open Finance e confere as posições deles com a sua carteira: quantidades, preço médio e o que falta importar.",
+      "relevantFor": ["br-stocks", "us-etfs", "fiis"],
+      "linkWhen": "Buying the asset through a broker or keeping holdings in sync."
+    },
+    {
+      "slug": "renda-fixa",
+      "path": "/recursos/renda-fixa",
+      "name": "Renda fixa",
+      "summary": "CDB, LCA, LCI e debêntures avaliados pelas condições do título, com imposto de renda e alocação por indexador.",
+      "relevantFor": ["fiis", "us-etfs"],
+      "linkWhen": "The page contrasts the asset with fixed income: FII de papel versus CDB/LCI, or bond ETFs."
+    },
+    {
+      "slug": "monitor-do-fgc",
+      "path": "/recursos/monitor-do-fgc",
+      "name": "Monitor do FGC",
+      "summary": "Quanto da garantia do FGC você usa em cada conglomerado financeiro, contra o limite de R$ 250 mil.",
+      "relevantFor": ["br-stocks"],
+      "linkWhen": "Bank stocks (Itaú, Bradesco, BB, Santander, BTG) and the safety of deposits at those banks."
+    },
+    {
+      "slug": "fundos-de-investimento",
+      "path": "/recursos/fundos-de-investimento",
+      "name": "Fundos de investimento",
+      "summary": "Fundos pelo valor da cota diária da CVM, com rentabilidade e alocação por objetivo (Selic, crédito, inflação, infraestrutura).",
+      "relevantFor": ["fiis", "us-etfs"],
+      "linkWhen": "Comparing the asset with regular funds or explaining what a fund is."
+    },
+    {
+      "slug": "comparador-de-fundos",
+      "path": "/recursos/comparador-de-fundos",
+      "name": "Comparador de fundos",
+      "summary": "Busque entre cerca de 26 mil fundos da CVM por nome, CNPJ ou gestora e compare até seis contra o CDI.",
+      "relevantFor": ["fiis", "us-etfs"],
+      "linkWhen": "Alternatives to the asset among Brazilian funds."
+    },
+    {
+      "slug": "controle-de-gastos",
+      "path": "/recursos/controle-de-gastos",
+      "name": "Controle de gastos",
+      "summary": "Cada compra do cartão, PIX e conta do mês, categorizada pelo Open Finance, com limites por categoria e tendências do ano.",
+      "relevantFor": [],
+      "linkWhen": "Rarely from asset pages: only when the text is about saving money to invest."
+    }
+  ]
+}

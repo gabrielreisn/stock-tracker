@@ -1,0 +1,379 @@
+{
+  "ticker": "SBSP3",
+  "slug": "sbsp3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "SBSP3: história, dividendos e volatilidade",
+    "description": "Conheça a Sabesp (SBSP3): ação ordinária do setor de saneamento, com dividend yield de 2,76% e volatilidade de 38,28% em 2026.",
+    "h1": "SBSP3: Sabesp - Ação Ordinária de Saneamento",
+    "canonicalPath": "/acoes/sbsp3",
+    "keywords": [
+      "SBSP3",
+      "Sabesp",
+      "ação de saneamento",
+      "dividendos SBSP3",
+      "volatilidade SBSP3",
+      "desestatização Sabesp",
+      "incorporação EMAE"
+    ]
+  },
+  "summary": "SBSP3 é a ação ordinária da Companhia de Saneamento Básico do Estado de São Paulo (Sabesp), empresa do setor de utilidade pública que atua em 375 municípios paulistas. Em 2024, o controle acionário foi transferido ao setor privado, com a Equatorial Energia como acionista de referência. Em 29/10/2026, a ação cotava a R$ 25,14, com dividend yield de 2,76% nos últimos 12 meses.",
+  "profile": {
+    "name": "Sabesp",
+    "legalName": "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO",
+    "type": "Ação ordinária (ON)",
+    "sector": "Utilidade Pública",
+    "segment": "Água e Saneamento",
+    "founded": "06/09/1973",
+    "listedSince": "04/06/1997",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.sabesp.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "43.776.517/0001-80",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Água e Saneamento",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estatal",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "06/09/1973",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "04/06/1997",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "SBSP3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 25,14",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "38,28% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,30",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,76%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SBSP3",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
+    "currency": "BRL",
+    "price": 25.14,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0127,
+      "3y": 1.3863,
+      "5y": 3.1698,
+      "10y": 3.9796
+    },
+    "volatility1y": 0.3828,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3379,
+      "from": "2026-04-20",
+      "to": "2026-08-20"
+    },
+    "beta1y": {
+      "value": 1.3,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.6946,
+      "payments12Months": 2,
+      "yield12Months": 0.0276,
+      "lastPayment": {
+        "date": "2026-03-20",
+        "amount": 0.166685
+      }
+    },
+    "avgDailyTradedValue3m": 696999998
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da SBSP3 nos últimos 12 meses é de 38,28%, nível 'alta', com beta de 1,30 contra o Ibovespa, indicando maior sensibilidade ao mercado. A maior queda em 5 anos foi de -33,79%, entre 20/04/2026 e 20/08/2026. Esse nível de volatilidade é compatível com ações de utilidade pública em transição regulatória e societária, mas acima da média de setores mais estáveis. Para acompanhar oscilações e definir pontos de entrada, utilize o [recurso de alertas de preço](/recursos/alertas-de-preco) do StockBar."
+  },
+  "history": {
+    "overview": "A Sabesp foi constituída em 06/09/1973 no contexto do Plano Nacional de Saneamento (Planasa), com o objetivo de reorganizar e incorporar entidades do setor de saneamento no estado de São Paulo. A companhia iniciou a operação da Estação de Tratamento de Água (ETA) Guaraú, do Sistema Cantareira, em 1974, e inaugurou o emissário submarino de Santos em 1978. Na década de 1990, a empresa registrou-se como companhia aberta na CVM em 1994 e começou a ser negociada na B3 em 04/06/1997. Em 2002, a Sabesp aderiu ao Novo Mercado e obteve registro na SEC, com negociação de ADRs na NYSE. Em 2004, uma oferta pública secundária reduziu a participação do Estado no capital social para 50,3%.",
+    "timeline": [
+      {
+        "date": "1973",
+        "event": "Fundação da Sabesp no contexto do Plano Nacional de Saneamento (Planasa).",
+        "source": 3
+      },
+      {
+        "date": "1973-09-06",
+        "event": "Constituição formal da Companhia de Saneamento Básico do Estado de São Paulo.",
+        "source": 2
+      },
+      {
+        "date": "1994-06-27",
+        "event": "Registro da companhia como aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "1997-06-04",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2026-04-27",
+        "event": "Desdobramento de ações da Sabesp.",
+        "source": 12
+      },
+      {
+        "date": "2026-04-28",
+        "event": "Aprovação do desdobramento de ações.",
+        "source": 11
+      },
+      {
+        "date": "2026-06-15",
+        "event": "Mudança na diretoria da companhia.",
+        "source": 10
+      },
+      {
+        "date": "2026-06-29",
+        "event": "Protocolo e justificação da incorporação das ações da EMAE.",
+        "source": 9
+      },
+      {
+        "date": "2026-07-30",
+        "event": "AGE da Sabesp aprovou a incorporação das ações da EMAE, condicionada à aprovação pela assembleia da EMAE.",
+        "source": 8
+      },
+      {
+        "date": "2026-09-16",
+        "event": "Acionistas da EMAE aprovaram a incorporação de suas ações pela Sabesp, concluindo a transferência da base acionária.",
+        "source": 7
+      },
+      {
+        "date": "2026-10-08",
+        "event": "Atualização do cronograma estimado da incorporação de ações.",
+        "source": 6
+      },
+      {
+        "date": "2026-10-20",
+        "event": "Resultado do exercício do direito de rescisão e confirmação do cronograma da incorporação de ações.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Sabesp ganha dinheiro",
+      "body": "A Sabesp atua no abastecimento de água, esgotamento sanitário, drenagem e manejo de águas pluviais urbanas, limpeza urbana, manejo de resíduos sólidos e energia. A companhia opera em 375 municípios paulistas, atendendo cerca de 29,9 milhões de pessoas em abastecimento de água e 27,0 milhões em coleta de esgoto. Desde 2024, parte da prestação de serviços ocorre no modelo regionalizado da Unidade Regional de Água e Esgoto 1 (URAE-1 – Sudeste), que reúne municípios sob um contrato único e define a regulação e a fiscalização do serviço. Em 2025, a Sabesp iniciou negociações para aquisição de participação de controle na Empresa Metropolitana de Águas e Energia (EMAE), em operação estimada em R$ 1,13 bilhão, com aprovação concorrencial e regulatória (Cade e Aneel) em janeiro de 2026."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Sabesp",
+      "body": "A Sabesp é uma empresa de capital aberto com controle acionário estatal, conforme o cadastro da CVM. Em 2024, o controle foi transferido ao setor privado, com a Equatorial Energia tornando-se acionista de referência ao adquirir 15% do capital, em operação aprovada pelo Cade. O governo estadual mantém participação minoritária de 18,3% e uma golden share (ação preferencial de classe especial). A ação SBSP3 é do tipo ordinária (ON), listada no segmento Novo Mercado na B3, com código de negociação SBSP3. Ações ordinárias conferem direito a voto em assembleias e participação nos lucros, enquanto ações preferenciais têm preferência no recebimento de dividendos, mas geralmente não têm direito a voto."
+    },
+    {
+      "id": "proventos",
+      "heading": "SBSP3 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, a SBSP3 distribuiu R$ 0,6946 por ação em 2 pagamentos, resultando em dividend yield de 2,76%. O último pagamento foi de R$ 0,1667 em 20/03/2026. A companhia não detalha política de dividendos fixa nas fontes, mas a remuneração aos acionistas ocorre por meio de proventos periódicos. Para acompanhar os dividendos e JCP da SBSP3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o [recurso de proventos](/recursos/proventos) do StockBar."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da SBSP3",
+      "body": "Até 29/10/2026, a SBSP3 apresentou rentabilidade total com proventos de 1,27% em 12 meses, 138,63% em 3 anos, 316,98% em 5 anos e 397,96% em 10 anos. Esses números refletem o desempenho histórico da ação, que pode variar conforme o mercado. Para comparar a rentabilidade da SBSP3 com o Ibovespa, CDI e outros índices, utilize o [recurso de comparação com índices](/recursos/comparacao-com-indices) do StockBar, que exibe a rentabilidade da carteira lado a lado com CDI, IPCA, IPCA+6%, S&P 500, IFIX e Ibovespa, no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da SBSP3",
+      "body": "A volatilidade anualizada da SBSP3 nos últimos 12 meses é de 38,28%, classificada como nível 'alta'. O beta de 1,30 contra o Ibovespa indica que a ação tende a oscilar mais que o índice. A maior queda nos últimos 5 anos foi de -33,79%, do pico em 20/04/2026 ao ponto mais baixo em 20/08/2026. Riscos setoriais incluem mudanças regulatórias no saneamento, dependência de políticas públicas e a execução de projetos de universalização até 2033, conforme a Lei federal nº 14.026/2020. A desestatização e a incorporação da EMAE também trazem riscos operacionais e de integração. Para monitorar oscilações de preço, utilize o [recurso de alertas de preço](/recursos/alertas-de-preco) do StockBar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SBSP3 paga dividendos?",
+      "answer": "Sim, a SBSP3 distribui proventos aos acionistas. Nos 12 meses até 29/10/2026, foram pagos R$ 0,6946 por ação em 2 pagamentos, com dividend yield de 2,76%. O último pagamento foi de R$ 0,1667 em 20/03/2026. Para acompanhar os dividendos e JCP com data com e data de pagamento, utilize o [recurso de proventos](/recursos/proventos) do StockBar."
+    },
+    {
+      "question": "Qual a diferença entre SBSP3 e SBSP4?",
+      "answer": "SBSP3 é a ação ordinária (ON) da Sabesp, com direito a voto em assembleias e participação nos lucros. SBSP4 é a ação preferencial (PN), com preferência no recebimento de dividendos, mas geralmente sem direito a voto. Ambas são negociadas na B3, mas com direitos distintos para o acionista."
+    },
+    {
+      "question": "A Sabesp é estatal ou privada?",
+      "answer": "A Sabesp é uma empresa de capital aberto com controle acionário estatal, conforme a CVM. Em 2024, o controle foi transferido ao setor privado, com a Equatorial Energia como acionista de referência (15% do capital). O governo estadual mantém 18,3% do capital e uma golden share."
+    },
+    {
+      "question": "Qual o setor da Sabesp?",
+      "answer": "A Sabesp atua no setor de Utilidade Pública, segmento de Água e Saneamento, conforme a classificação da B3. A companhia opera em 375 municípios paulistas, atendendo cerca de 29,9 milhões de pessoas em abastecimento de água e 27,0 milhões em coleta de esgoto."
+    },
+    {
+      "question": "A Sabesp vai incorporar a EMAE?",
+      "answer": "Sim, a incorporação da EMAE pela Sabesp foi aprovada em 2026. A AGE da Sabesp aprovou a incorporação em 30/07/2026, condicionada à aprovação pela assembleia da EMAE, que ocorreu em 16/09/2026. O cronograma da incorporação foi atualizado em 08/10/2026 e confirmado em 20/10/2026, com resultado do exercício do direito de rescisão."
+    },
+    {
+      "question": "Qual a rentabilidade da SBSP3 nos últimos 5 anos?",
+      "answer": "Até 29/10/2026, a SBSP3 apresentou rentabilidade total com proventos de 316,98% em 5 anos. Esse número reflete o desempenho histórico da ação, que pode variar conforme o mercado. Para comparar com o Ibovespa e outros índices, utilize o [recurso de comparação com índices](/recursos/comparacao-com-indices) do StockBar."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da SBSP3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da SBSP3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a SBSP3 chegar ao preço que você escolheu, para monitorar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a SBSP3 junto com outras ações, renda fixa e fundos em uma só visão, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Equatorial S.A. é a acionista de referência da Sabesp, com 15% do capital após a desestatização de 2024."
+      },
+      {
+        "ticker": "CSMG3",
+        "list": "br-stocks",
+        "reason": "Companhia de Saneamento de Minas Gerais, mesma classe de ativo e setor de saneamento básico."
+      },
+      {
+        "ticker": "CPLE3",
+        "list": "br-stocks",
+        "reason": "Companhia Paranaense de Energia, mesma classe de ativo e setor de utilidade pública."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "AXIA Energia SA, mesma classe de ativo e setor de energia e utilidade pública."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SBSP3",
+      "url": "https://finance.yahoo.com/quote/SBSP3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SABESP, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/14443/SBSP/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Sabesp",
+      "url": "https://www.wikidata.org/wiki/Q183184",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Sabesp",
+      "url": "https://pt.wikipedia.org/wiki/Sabesp",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/10/2026, “RESULTADO DO EXERCÍCIO DO DIREITO DE RECESSO E CONFIRMAÇÃO DO CRONOGRAMA DA INCORPORAÇÃO DE AÇÕES”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1578859&numSequencia=1103565&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/10/2026, “ATUALIZAÇÃO DO CRONOGRAMA ESTIMADO DA INCORPORAÇÃO DE AÇÕES”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1575714&numSequencia=1100420&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/09/2026, “Acionistas da EMAE aprovaram a incorporação de suas ações pela Sabesp, concluindo a transferência da base acionária”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1568917&numSequencia=1093623&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/07/2026, “AGE da Sabesp aprovou a incorporação das ações da EMAE, condicionada à aprovação pela assembleia da EMAE.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550021&numSequencia=1074727&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/06/2026, “Protocolo e Justificação de Incorporação das Ações da EMAE”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1539689&numSequencia=1064395&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/06/2026, “Mudança de Diretoria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1534737&numSequencia=1059443&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/04/2026, “Aprovação do Desdobramento de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1510039&numSequencia=1034745&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/04/2026, “Desdobramento de ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1509238&numSequencia=1033944&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

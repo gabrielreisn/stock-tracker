@@ -1,0 +1,369 @@
+{
+  "ticker": "LREN3",
+  "slug": "lren3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "LREN3: história, dividendos e volatilidade",
+    "description": "LREN3 é a ação ordinária da Lojas Renner, maior varejista de moda do Brasil. Veja a história, dividendos, volatilidade e desempenho da ação no StockBar.",
+    "h1": "LREN3: Lojas Renner S.A.",
+    "canonicalPath": "/acoes/lren3",
+    "keywords": [
+      "LREN3",
+      "Lojas Renner",
+      "ação ordinária",
+      "dividendos",
+      "volatilidade",
+      "Novo Mercado",
+      "varejo de moda"
+    ]
+  },
+  "summary": "LREN3 é a ação ordinária da Lojas Renner S.A., maior varejista de moda do Brasil, listada no Novo Mercado da B3. A empresa opera as marcas Renner, Camicado, Youcom e Ashua, além da Realize CFI. Em 28/10/2026, a ação cotava a R$ 9,59, com rentabilidade total de -29,62% nos últimos 12 meses e dividend yield de 9,60%.",
+  "profile": {
+    "name": "Lojas Renner",
+    "legalName": "LOJAS RENNER SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Tecidos, Vestuário e Calçados",
+    "founded": "10/06/1965",
+    "listedSince": "07/04/1988",
+    "headquarters": "Porto Alegre (RS)",
+    "website": "https://www.lojasrenner.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "LOJAS RENNER SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "92.754.738/0001-62",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Tecidos, Vestuário e Calçados",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "10/06/1965",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Porto Alegre (RS)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "07/04/1988",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "LREN3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 9,59",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "59,90% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,98",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,60%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "LREN3",
+    "list": "br-stocks",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Lojas Renner S.A.",
+    "currency": "BRL",
+    "price": 9.59,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.2962,
+      "3y": 0.039,
+      "5y": -0.5493,
+      "10y": -0.3009
+    },
+    "volatility1y": 0.599,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.624,
+      "from": "2021-11-11",
+      "to": "2023-10-30"
+    },
+    "beta1y": {
+      "value": 1.98,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.9204,
+      "payments12Months": 4,
+      "yield12Months": 0.096,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.240666
+      }
+    },
+    "avgDailyTradedValue3m": 291347381
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da LREN3 nos 12 meses até 28/10/2026 foi de 59,90%, nível 'muito alta'. O beta da ação contra o Ibovespa foi de 1,98, indicando maior sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -62,40%, do pico em 11/11/2021 ao ponto mais baixo em 30/10/2023. Para ações do setor de consumo cíclico, a volatilidade pode ser influenciada por variações no consumo e mudanças nas preferências dos consumidores. Para monitorar a volatilidade e definir alertas de preço, use o recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "A história da Lojas Renner começa em 1922, quando Antônio Jacob Renner abriu o primeiro posto de venda da fábrica em Porto Alegre. A empresa evoluiu para o formato de loja de departamentos e, em 1965, desvinculou-se do Grupo A.J. Renner, consolidando sua atuação no varejo de moda. Em 1977, obteve registro como companhia aberta na CVM, e em 1988, suas ações passaram a ser negociadas na B3. Na década de 1990, a empresa reestruturou-se, adotando o formato de loja de departamentos especializada em moda e expandindo-se para outros estados do Brasil. Em 1998, a J.C. Penney Brazil adquiriu o controle acionário, o que intensificou a expansão e a adoção de conceitos de lifestyle nas coleções. Em 2005, a JCPenney vendeu o controle, e a Lojas Renner tornou-se a primeira corporation brasileira, com capital amplamente pulverizado e integração ao Novo Mercado da B3. A empresa adotou a 'cultura do encantamento' como estratégia de atendimento ao cliente, focando na centralidade do cliente e na superação de expectativas. Atualmente, a Lojas Renner opera um ecossistema de marcas próprias, com foco em diferentes perfis de consumidores e ocasiões de uso, e atua no mercado de comércio eletrônico desde 2010, com presença internacional no Uruguai e na Argentina.",
+    "timeline": [
+      {
+        "date": "1922",
+        "event": "Fundação da Lojas Renner, com o primeiro posto de venda da fábrica em Porto Alegre.",
+        "source": 3
+      },
+      {
+        "date": "1965-06-10",
+        "event": "Constituição da companhia Lojas Renner, desvinculando-se do Grupo A.J. Renner.",
+        "source": 2
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Registro como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "1988-04-07",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-02-20",
+        "event": "Aquisição de Ações de Emissão da Própria Companhia e Modificação de Projeções Divulgadas.",
+        "source": 10
+      },
+      {
+        "date": "2025-12-08",
+        "event": "Aquisição de Ações de Emissão da Própria Companhia e Cancelamento de Ações em Tesouraria; Divulgação de Projeções.",
+        "source": 8
+      },
+      {
+        "date": "2026-03-05",
+        "event": "Projeções 2026.",
+        "source": 7
+      },
+      {
+        "date": "2026-08-06",
+        "event": "Projeções.",
+        "source": 6
+      },
+      {
+        "date": "2026-08-10",
+        "event": "Contratação de Formador de Mercado.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Lojas Renner ganha dinheiro",
+      "body": "A Lojas Renner S.A. atua no setor de Consumo Cíclico, no segmento de Tecidos, Vestuário e Calçados, sendo a maior varejista de moda do Brasil. A empresa opera um ecossistema de marcas próprias, incluindo Renner, Camicado, Youcom e Ashua, além da Realize CFI, que é responsável pelas operações de crédito e soluções financeiras. A companhia atua no mercado de comércio eletrônico desde 2010 e possui presença internacional no Uruguai e na Argentina. A estratégia da Lojas Renner é baseada em um ecossistema de marcas próprias de moda e negócios complementares, com foco em diferentes perfis de consumidores e ocasiões de uso."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Lojas Renner",
+      "body": "O controle acionário da Lojas Renner é privado, conforme o cadastro da CVM. A empresa está listada no Novo Mercado da B3, segmento destinado a empresas com padrões diferenciados de governança corporativa. O código de negociação da ação ordinária é LREN3. Ações ordinárias (ON) dão direito a voto em assembleias e participação nos lucros, enquanto ações preferenciais (PN) têm preferência na distribuição de dividendos e no capital em caso de liquidação, mas geralmente não têm direito a voto. A Lojas Renner possui apenas ações ordinárias."
+    },
+    {
+      "id": "proventos",
+      "heading": "LREN3 paga dividendos?",
+      "body": "Nos 12 meses até 28/10/2026, a LREN3 distribuiu R$ 0,9204 por ação em 4 pagamentos, resultando em um dividend yield de 9,60%. O último pagamento foi de R$ 0,2407 em 23/09/2026. A empresa tem realizado aquisições de ações de emissão da própria companhia, o que pode impactar a remuneração aos acionistas. Para acompanhar os dividendos e JCP da LREN3 com data com e data de pagamento, multiplicados pela sua quantidade, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da LREN3",
+      "body": "A rentabilidade total com proventos da LREN3 nos 12 meses até 28/10/2026 foi de -29,62%. Nos 3 anos, a rentabilidade foi de 3,90%, e nos 5 anos, de -54,93%. Nos 10 anos, a rentabilidade foi de -30,09%. Para comparar a rentabilidade da LREN3 com índices como o Ibovespa e o CDI, use o recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da LREN3",
+      "body": "A volatilidade anualizada da LREN3 nos 12 meses até 28/10/2026 foi de 59,90%, nível 'muito alta'. O beta da ação contra o Ibovespa foi de 1,98, indicando maior sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -62,40%, do pico em 11/11/2021 ao ponto mais baixo em 30/10/2023. Riscos gerais do setor incluem variações no consumo, mudanças nas preferências dos consumidores e concorrência. Para monitorar a volatilidade e definir alertas de preço, use o recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "LREN3 paga dividendos?",
+      "answer": "Sim, a LREN3 distribui dividendos. Nos 12 meses até 28/10/2026, a ação distribuiu R$ 0,9204 por ação em 4 pagamentos, resultando em um dividend yield de 9,60%. O último pagamento foi de R$ 0,2407 em 23/09/2026. Para acompanhar os dividendos e JCP da LREN3 com data com e data de pagamento, multiplicados pela sua quantidade, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre LREN3 e LREN4?",
+      "answer": "LREN3 é a ação ordinária da Lojas Renner, que dá direito a voto em assembleias e participação nos lucros. LREN4 é a ação preferencial, que tem preferência na distribuição de dividendos e no capital em caso de liquidação, mas geralmente não tem direito a voto. A Lojas Renner possui apenas ações ordinárias, portanto, não há LREN4."
+    },
+    {
+      "question": "LREN3 é uma boa ação para investir?",
+      "answer": "Não é possível afirmar se a LREN3 é uma boa ação para investir, pois isso depende dos objetivos e do perfil de risco do investidor. A rentabilidade total com proventos nos 12 meses até 28/10/2026 foi de -29,62%, e a volatilidade anualizada foi de 59,90%, nível 'muito alta'. Para acompanhar a rentabilidade e a volatilidade da LREN3, use o recurso de [desempenho e preço médio no StockBar](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "Qual o setor da Lojas Renner?",
+      "answer": "A Lojas Renner atua no setor de Consumo Cíclico, no segmento de Tecidos, Vestuário e Calçados, sendo a maior varejista de moda do Brasil. A empresa opera as marcas Renner, Camicado, Youcom e Ashua, além da Realize CFI."
+    },
+    {
+      "question": "LREN3 é listada no Novo Mercado?",
+      "answer": "Sim, a LREN3 está listada no Novo Mercado da B3, segmento destinado a empresas com padrões diferenciados de governança corporativa. O controle acionário da Lojas Renner é privado, conforme o cadastro da CVM."
+    },
+    {
+      "question": "Como acompanhar a LREN3 no StockBar?",
+      "answer": "Para acompanhar a LREN3 no StockBar, use o recurso de [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e as maiores posições, e o recurso de [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua carteira e os seus gastos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da LREN3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices no StockBar",
+        "context": "Compare a rentabilidade da LREN3 com índices como o Ibovespa e o CDI, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço no StockBar",
+        "context": "Defina alertas de preço para a LREN3 e receba uma notificação quando o ativo chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação e as maiores posições da sua carteira, incluindo a LREN3, em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua carteira e os seus gastos; as respostas vêm dos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MGLU3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de Consumo Cíclico, no segmento de varejo."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação de outra empresa brasileira listada no Novo Mercado, para comparação de desempenho."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Ação de outra empresa brasileira listada no Novo Mercado, para comparação de desempenho."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação de outra empresa brasileira listada no Novo Mercado, para comparação de desempenho."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Ação de outra empresa brasileira listada no Novo Mercado, para comparação de desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de LREN3",
+      "url": "https://finance.yahoo.com/quote/LREN3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: LOJAS RENNER, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/8133/LREN/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, LOJAS RENNER SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Lojas Renner",
+      "url": "https://www.wikidata.org/wiki/Q3064071",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Lojas Renner",
+      "url": "https://pt.wikipedia.org/wiki/Lojas_Renner",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/08/2026, “Contratação de Formador de Mercado”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1555051&numSequencia=1079757&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/08/2026, “Projeções”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1553699&numSequencia=1078405&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/03/2026, “Projeções 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1487086&numSequencia=1011792&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/12/2025, “Aquisição de Ações de Emissão da Própria Companhia||Cancelamento de Ações em Tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1453748&numSequencia=978460&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/12/2025, “Divulgação de Projeções”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1453759&numSequencia=978471&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/02/2025, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1337483&numSequencia=862209&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/02/2025, “Modificação de Projeções Divulgadas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1337542&numSequencia=862268&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

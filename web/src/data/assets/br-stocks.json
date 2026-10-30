@@ -1,0 +1,1012 @@
+{
+  "list": "br-stocks",
+  "title": "Ações brasileiras mais negociadas",
+  "measure": "Average daily traded value (close × volume) over the last 3 months",
+  "currency": "BRL",
+  "source": "Yahoo Finance daily bars",
+  "generatedAt": "2026-10-30",
+  "candidates": 168,
+  "found": 152,
+  "assets": [
+    {
+      "rank": 1,
+      "ticker": "PETR4",
+      "slug": "petr4",
+      "name": "Petróleo Brasileiro S.A. - Petrobras",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2356618956,
+      "lastPrice": 53.16
+    },
+    {
+      "rank": 2,
+      "ticker": "VALE3",
+      "slug": "vale3",
+      "name": "Vale S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1765915048,
+      "lastPrice": 62.81
+    },
+    {
+      "rank": 3,
+      "ticker": "ITUB4",
+      "slug": "itub4",
+      "name": "Itaú Unibanco Holding S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1389003464,
+      "lastPrice": 39.16
+    },
+    {
+      "rank": 4,
+      "ticker": "BBDC4",
+      "slug": "bbdc4",
+      "name": "Banco Bradesco S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1023121362,
+      "lastPrice": 13.93
+    },
+    {
+      "rank": 5,
+      "ticker": "BPAC11",
+      "slug": "bpac11",
+      "name": "Banco BTG Pactual S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 985114149,
+      "lastPrice": 51.77
+    },
+    {
+      "rank": 6,
+      "ticker": "B3SA3",
+      "slug": "b3sa3",
+      "name": "B3 S.A. - Brasil, Bolsa, Balcão",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 942433880,
+      "lastPrice": 13.74
+    },
+    {
+      "rank": 7,
+      "ticker": "BBAS3",
+      "slug": "bbas3",
+      "name": "Banco do Brasil S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 937241526,
+      "lastPrice": 16.37
+    },
+    {
+      "rank": 8,
+      "ticker": "AXIA3",
+      "slug": "axia3",
+      "name": "AXIA Energia SA",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 890090749,
+      "lastPrice": 46.98
+    },
+    {
+      "rank": 9,
+      "ticker": "PETR3",
+      "slug": "petr3",
+      "name": "Petróleo Brasileiro S.A. - Petrobras",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 690188503,
+      "lastPrice": 60.14
+    },
+    {
+      "rank": 10,
+      "ticker": "SBSP3",
+      "slug": "sbsp3",
+      "name": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 685450764,
+      "lastPrice": 24.52
+    },
+    {
+      "rank": 11,
+      "ticker": "EMBJ3",
+      "slug": "embj3",
+      "name": "Embraer S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 570542609,
+      "lastPrice": 101
+    },
+    {
+      "rank": 12,
+      "ticker": "RENT3",
+      "slug": "rent3",
+      "name": "Localiza Rent a Car S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 561497881,
+      "lastPrice": 27.95
+    },
+    {
+      "rank": 13,
+      "ticker": "EQTL3",
+      "slug": "eqtl3",
+      "name": "Equatorial S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 543741530,
+      "lastPrice": 32.17
+    },
+    {
+      "rank": 14,
+      "ticker": "PRIO3",
+      "slug": "prio3",
+      "name": "Prio S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 540484722,
+      "lastPrice": 71.1
+    },
+    {
+      "rank": 15,
+      "ticker": "ABEV3",
+      "slug": "abev3",
+      "name": "Ambev S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 529995240,
+      "lastPrice": 14.72
+    },
+    {
+      "rank": 16,
+      "ticker": "WEGE3",
+      "slug": "wege3",
+      "name": "WEG S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 493223948,
+      "lastPrice": 49.18
+    },
+    {
+      "rank": 17,
+      "ticker": "ITSA4",
+      "slug": "itsa4",
+      "name": "Itaúsa S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 446604701,
+      "lastPrice": 12.62
+    },
+    {
+      "rank": 18,
+      "ticker": "VBBR3",
+      "slug": "vbbr3",
+      "name": "Vibra Energia S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 433044498,
+      "lastPrice": 29.7
+    },
+    {
+      "rank": 19,
+      "ticker": "UGPA3",
+      "slug": "ugpa3",
+      "name": "Ultrapar Participações S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 390431308,
+      "lastPrice": 31.63
+    },
+    {
+      "rank": 20,
+      "ticker": "SUZB3",
+      "slug": "suzb3",
+      "name": "Suzano S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 349039824,
+      "lastPrice": 50.29
+    },
+    {
+      "rank": 21,
+      "ticker": "ENEV3",
+      "slug": "enev3",
+      "name": "Eneva S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 337649262,
+      "lastPrice": 25.47
+    },
+    {
+      "rank": 22,
+      "ticker": "CPLE3",
+      "slug": "cple3",
+      "name": "Companhia Paranaense de Energia - COPEL",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 335153952,
+      "lastPrice": 14.26
+    },
+    {
+      "rank": 23,
+      "ticker": "RDOR3",
+      "slug": "rdor3",
+      "name": "Rede D'Or São Luiz S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 334872518,
+      "lastPrice": 31.56
+    },
+    {
+      "rank": 24,
+      "ticker": "CSMG3",
+      "slug": "csmg3",
+      "name": "Companhia de Saneamento de Minas Gerais",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 292761846,
+      "lastPrice": 47.91
+    },
+    {
+      "rank": 25,
+      "ticker": "LREN3",
+      "slug": "lren3",
+      "name": "Lojas Renner S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 291510564,
+      "lastPrice": 9.13
+    },
+    {
+      "rank": 26,
+      "ticker": "MGLU3",
+      "slug": "mglu3",
+      "name": "Magazine Luiza S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 290994652,
+      "lastPrice": 5.2
+    },
+    {
+      "rank": 27,
+      "ticker": "BBSE3",
+      "slug": "bbse3",
+      "name": "BB Seguridade Participações S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 284536299,
+      "lastPrice": 41.34
+    },
+    {
+      "rank": 28,
+      "ticker": "CYRE3",
+      "slug": "cyre3",
+      "name": "Cyrela Brazil Realty S.A. Empreendimentos e Participações",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 274599829,
+      "lastPrice": 17
+    },
+    {
+      "rank": 29,
+      "ticker": "MOTV3",
+      "slug": "motv3",
+      "name": "Motiva Infraestrutura de Mobilidade S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 271108734,
+      "lastPrice": 13.99
+    },
+    {
+      "rank": 30,
+      "ticker": "GGBR4",
+      "slug": "ggbr4",
+      "name": "Gerdau S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 269564222,
+      "lastPrice": 25.42
+    },
+    {
+      "rank": 31,
+      "ticker": "ENGI11",
+      "slug": "engi11",
+      "name": "Energisa S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 237755635,
+      "lastPrice": 43.45
+    },
+    {
+      "rank": 32,
+      "ticker": "RADL3",
+      "slug": "radl3",
+      "name": "Raia Drogasil S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 230292345,
+      "lastPrice": 15.17
+    },
+    {
+      "rank": 33,
+      "ticker": "RAIL3",
+      "slug": "rail3",
+      "name": "Rumo S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 228190788,
+      "lastPrice": 13.85
+    },
+    {
+      "rank": 34,
+      "ticker": "SMFT3",
+      "slug": "smft3",
+      "name": "Smartfit Escola de Ginástica e Dança S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 218417992,
+      "lastPrice": 15
+    },
+    {
+      "rank": 35,
+      "ticker": "BBDC3",
+      "slug": "bbdc3",
+      "name": "Banco Bradesco S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 205798852,
+      "lastPrice": 12.75
+    },
+    {
+      "rank": 36,
+      "ticker": "MULT3",
+      "slug": "mult3",
+      "name": "Multiplan Empreendimentos Imobiliários S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 201604163,
+      "lastPrice": 24.83
+    },
+    {
+      "rank": 37,
+      "ticker": "ALOS3",
+      "slug": "alos3",
+      "name": "Allos S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 201413428,
+      "lastPrice": 23.28
+    },
+    {
+      "rank": 38,
+      "ticker": "TOTS3",
+      "slug": "tots3",
+      "name": "TOTVS S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 193938407,
+      "lastPrice": 32.4
+    },
+    {
+      "rank": 39,
+      "ticker": "CMIG4",
+      "slug": "cmig4",
+      "name": "Companhia Energética de Minas Gerais - CEMIG",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 193587738,
+      "lastPrice": 10.01
+    },
+    {
+      "rank": 40,
+      "ticker": "VIVT3",
+      "slug": "vivt3",
+      "name": "Telefônica Brasil S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 186640080,
+      "lastPrice": 30.9
+    },
+    {
+      "rank": 41,
+      "ticker": "ASAI3",
+      "slug": "asai3",
+      "name": "Sendas Distribuidora S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 170342351,
+      "lastPrice": 7.79
+    },
+    {
+      "rank": 42,
+      "ticker": "TIMS3",
+      "slug": "tims3",
+      "name": "TIM S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 165827804,
+      "lastPrice": 19.18
+    },
+    {
+      "rank": 43,
+      "ticker": "SANB11",
+      "slug": "sanb11",
+      "name": "Banco Santander (Brasil) S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 160093520,
+      "lastPrice": 24
+    },
+    {
+      "rank": 44,
+      "ticker": "CSAN3",
+      "slug": "csan3",
+      "name": "Cosan S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 159310542,
+      "lastPrice": 2.23
+    },
+    {
+      "rank": 45,
+      "ticker": "CXSE3",
+      "slug": "cxse3",
+      "name": "Caixa Seguridade Participações S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 156756347,
+      "lastPrice": 21.25
+    },
+    {
+      "rank": 46,
+      "ticker": "CURY3",
+      "slug": "cury3",
+      "name": "Cury Construtora e Incorporadora S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 147969432,
+      "lastPrice": 25.66
+    },
+    {
+      "rank": 47,
+      "ticker": "DIRR3",
+      "slug": "dirr3",
+      "name": "Direcional Engenharia S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 131597183,
+      "lastPrice": 7.99
+    },
+    {
+      "rank": 48,
+      "ticker": "MOVI3",
+      "slug": "movi3",
+      "name": "Movida Participações S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 129721047,
+      "lastPrice": 5.74
+    },
+    {
+      "rank": 49,
+      "ticker": "GOAU4",
+      "slug": "goau4",
+      "name": "Metalurgica Gerdau S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 128687027,
+      "lastPrice": 11.21
+    },
+    {
+      "rank": 50,
+      "ticker": "CSNA3",
+      "slug": "csna3",
+      "name": "Companhia Siderúrgica Nacional",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 123621668,
+      "lastPrice": 4.16
+    },
+    {
+      "rank": 51,
+      "ticker": "TEND3",
+      "slug": "tend3",
+      "name": "Construtora Tenda S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 122774964,
+      "lastPrice": 19.7
+    },
+    {
+      "rank": 52,
+      "ticker": "FLRY3",
+      "slug": "flry3",
+      "name": "Fleury S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 117152386,
+      "lastPrice": 20.27
+    },
+    {
+      "rank": 53,
+      "ticker": "KLBN11",
+      "slug": "klbn11",
+      "name": "Klabin S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 115653096,
+      "lastPrice": 17.12
+    },
+    {
+      "rank": 54,
+      "ticker": "CEAB3",
+      "slug": "ceab3",
+      "name": "C&A Modas S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 115537359,
+      "lastPrice": 6.47
+    },
+    {
+      "rank": 55,
+      "ticker": "EGIE3",
+      "slug": "egie3",
+      "name": "Engie Brasil Energia S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 115354103,
+      "lastPrice": 26.24
+    },
+    {
+      "rank": 56,
+      "ticker": "ECOR3",
+      "slug": "ecor3",
+      "name": "EcoRodovias Infraestrutura e Logística S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 115156316,
+      "lastPrice": 4.97
+    },
+    {
+      "rank": 57,
+      "ticker": "ISAE4",
+      "slug": "isae4",
+      "name": "ISA Energía Brasil S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 113509522,
+      "lastPrice": 24.59
+    },
+    {
+      "rank": 58,
+      "ticker": "MBRF3",
+      "slug": "mbrf3",
+      "name": "MBRF Global Foods Company S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 108598328,
+      "lastPrice": 15.97
+    },
+    {
+      "rank": 59,
+      "ticker": "COGN3",
+      "slug": "cogn3",
+      "name": "Cogna Educação S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 107213652,
+      "lastPrice": 1.56
+    },
+    {
+      "rank": 60,
+      "ticker": "SAUD3",
+      "slug": "saud3",
+      "name": "Bradsaúde S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 106173702,
+      "lastPrice": 14.41
+    },
+    {
+      "rank": 61,
+      "ticker": "ITUB3",
+      "slug": "itub3",
+      "name": "Itaú Unibanco Holding S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 105073346,
+      "lastPrice": 43.64
+    },
+    {
+      "rank": 62,
+      "ticker": "IGTI11",
+      "slug": "igti11",
+      "name": "Iguatemi S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 104302188,
+      "lastPrice": 21.62
+    },
+    {
+      "rank": 63,
+      "ticker": "VAMO3",
+      "slug": "vamo3",
+      "name": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 101124951,
+      "lastPrice": 2.44
+    },
+    {
+      "rank": 64,
+      "ticker": "PSSA3",
+      "slug": "pssa3",
+      "name": "Porto Seguro S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 100650521,
+      "lastPrice": 45.25
+    },
+    {
+      "rank": 65,
+      "ticker": "TAEE11",
+      "slug": "taee11",
+      "name": "Transmissora Aliança de Energia Elétrica S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 98234905,
+      "lastPrice": 39.17
+    },
+    {
+      "rank": 66,
+      "ticker": "HYPE3",
+      "slug": "hype3",
+      "name": "Hypera S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 95351719,
+      "lastPrice": 21.49
+    },
+    {
+      "rank": 67,
+      "ticker": "MRVE3",
+      "slug": "mrve3",
+      "name": "MRV Engenharia e Participações S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 94035893,
+      "lastPrice": 3.97
+    },
+    {
+      "rank": 68,
+      "ticker": "BRAV3",
+      "slug": "brav3",
+      "name": "Brava Energia S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 93640979,
+      "lastPrice": 18.35
+    },
+    {
+      "rank": 69,
+      "ticker": "CPFE3",
+      "slug": "cpfe3",
+      "name": "CPFL Energia S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 92029810,
+      "lastPrice": 41.98
+    },
+    {
+      "rank": 70,
+      "ticker": "BEEF3",
+      "slug": "beef3",
+      "name": "Minerva S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 85663692,
+      "lastPrice": 2.66
+    },
+    {
+      "rank": 71,
+      "ticker": "USIM5",
+      "slug": "usim5",
+      "name": "Usinas Siderúrgicas de Minas Gerais S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 83876640,
+      "lastPrice": 5.31
+    },
+    {
+      "rank": 72,
+      "ticker": "POMO4",
+      "slug": "pomo4",
+      "name": "Marcopolo S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 82885243,
+      "lastPrice": 3.76
+    },
+    {
+      "rank": 73,
+      "ticker": "VIVA3",
+      "slug": "viva3",
+      "name": "Vivara Participações S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 82496593,
+      "lastPrice": 17.41
+    },
+    {
+      "rank": 74,
+      "ticker": "HAPV3",
+      "slug": "hapv3",
+      "name": "Hapvida Participações e Investimentos S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 80734638,
+      "lastPrice": 4.22
+    },
+    {
+      "rank": 75,
+      "ticker": "GGPS3",
+      "slug": "ggps3",
+      "name": "GPS Participações e Empreendimentos S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 80367776,
+      "lastPrice": 10.42
+    },
+    {
+      "rank": 76,
+      "ticker": "AZZA3",
+      "slug": "azza3",
+      "name": "Azzas 2154 S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 78042155,
+      "lastPrice": 13.7
+    },
+    {
+      "rank": 77,
+      "ticker": "NATU3",
+      "slug": "natu3",
+      "name": "Natura Cosméticos S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 71305730,
+      "lastPrice": 4.54
+    },
+    {
+      "rank": 78,
+      "ticker": "SAPR11",
+      "slug": "sapr11",
+      "name": "Companhia de Saneamento do Paraná - SANEPAR",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 68337983,
+      "lastPrice": 31.05
+    },
+    {
+      "rank": 79,
+      "ticker": "BRAP4",
+      "slug": "brap4",
+      "name": "Bradespar S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 63671552,
+      "lastPrice": 18.36
+    },
+    {
+      "rank": 80,
+      "ticker": "ORVR3",
+      "slug": "orvr3",
+      "name": "Orizon Valorização de Resíduos S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 62653782,
+      "lastPrice": 15.74
+    },
+    {
+      "rank": 81,
+      "ticker": "SIMH3",
+      "slug": "simh3",
+      "name": "SIMPAR S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 62601741,
+      "lastPrice": 4.85
+    },
+    {
+      "rank": 82,
+      "ticker": "YDUQ3",
+      "slug": "yduq3",
+      "name": "Yduqs Participações S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 59579505,
+      "lastPrice": 8.85
+    },
+    {
+      "rank": 83,
+      "ticker": "AURE3",
+      "slug": "aure3",
+      "name": "Auren Energia S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 57362394,
+      "lastPrice": 10.78
+    },
+    {
+      "rank": 84,
+      "ticker": "EZTC3",
+      "slug": "eztc3",
+      "name": "EZTEC Empreendimentos e Participações S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 56988313,
+      "lastPrice": 8.91
+    },
+    {
+      "rank": 85,
+      "ticker": "IRBR3",
+      "slug": "irbr3",
+      "name": "IRB-Brasil Resseguros S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 56050446,
+      "lastPrice": 55.77
+    },
+    {
+      "rank": 86,
+      "ticker": "SLCE3",
+      "slug": "slce3",
+      "name": "SLC Agrícola S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 52470309,
+      "lastPrice": 16.94
+    },
+    {
+      "rank": 87,
+      "ticker": "JHSF3",
+      "slug": "jhsf3",
+      "name": "JHSF Participações S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 51546934,
+      "lastPrice": 8.58
+    },
+    {
+      "rank": 88,
+      "ticker": "ALUP11",
+      "slug": "alup11",
+      "name": "Alupar Investimento S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 47314052,
+      "lastPrice": 31.53
+    },
+    {
+      "rank": 89,
+      "ticker": "CMIN3",
+      "slug": "cmin3",
+      "name": "CSN Mineração S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 45378517,
+      "lastPrice": 4.59
+    },
+    {
+      "rank": 90,
+      "ticker": "MDNE3",
+      "slug": "mdne3",
+      "name": "Moura Dubeux Engenharia S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 42654231,
+      "lastPrice": 15.81
+    },
+    {
+      "rank": 91,
+      "ticker": "SMTO3",
+      "slug": "smto3",
+      "name": "São Martinho S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 40273026,
+      "lastPrice": 20.61
+    },
+    {
+      "rank": 92,
+      "ticker": "SBFG3",
+      "slug": "sbfg3",
+      "name": "Grupo SBF S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 38214335,
+      "lastPrice": 4.93
+    },
+    {
+      "rank": 93,
+      "ticker": "CBAV3",
+      "slug": "cbav3",
+      "name": "Companhia Brasileira de Alumínio",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 38183608,
+      "lastPrice": 11.21
+    },
+    {
+      "rank": 94,
+      "ticker": "PGMN3",
+      "slug": "pgmn3",
+      "name": "Empreendimentos Pague Menos S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 37118982,
+      "lastPrice": 2.49
+    },
+    {
+      "rank": 95,
+      "ticker": "ALPA4",
+      "slug": "alpa4",
+      "name": "Alpargatas S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 36919239,
+      "lastPrice": 12.64
+    },
+    {
+      "rank": 96,
+      "ticker": "BRSR6",
+      "slug": "brsr6",
+      "name": "Banco do Estado do Rio Grande do Sul S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 35652338,
+      "lastPrice": 12.34
+    },
+    {
+      "rank": 97,
+      "ticker": "VULC3",
+      "slug": "vulc3",
+      "name": "Vulcabras S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 34263953,
+      "lastPrice": 11.55
+    },
+    {
+      "rank": 98,
+      "ticker": "GMAT3",
+      "slug": "gmat3",
+      "name": "Grupo Mateus S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 33975342,
+      "lastPrice": 3.58
+    },
+    {
+      "rank": 99,
+      "ticker": "ANIM3",
+      "slug": "anim3",
+      "name": "Ânima Holding S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 33558192,
+      "lastPrice": 2.27
+    },
+    {
+      "rank": 100,
+      "ticker": "BRKM5",
+      "slug": "brkm5",
+      "name": "Braskem S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 31504652,
+      "lastPrice": 2.96
+    }
+  ]
+}

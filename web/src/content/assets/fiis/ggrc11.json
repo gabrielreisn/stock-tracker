@@ -1,0 +1,334 @@
+{
+  "ticker": "GGRC11",
+  "slug": "ggrc11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "GGRC11: história, dividendos e volatilidade",
+    "description": "GGRC11 é FII de tijolo multicategoria com R$ 3,78 bilhões em patrimônio. Veja dividendos, desempenho e riscos do Zagros Renda Imobiliário.",
+    "h1": "GGRC11: Zagros Renda Imobiliário FII",
+    "canonicalPath": "/fiis/ggrc11",
+    "keywords": [
+      "GGRC11",
+      "Zagros Renda Imobiliário",
+      "FII de tijolo",
+      "dividendos GGRC11",
+      "volatilidade GGRC11",
+      "patrimônio GGRC11",
+      "FII multicategoria"
+    ]
+  },
+  "summary": "GGRC11 é a cota do Zagros Renda Imobiliário FII, um fundo de investimento imobiliário de gestão ativa e segmento multicategoria, administrado pela Vórtx DTVM. Com patrimônio de R$ 3,78 bilhões em 09/2026, o fundo investe prioritariamente em imóveis comerciais prontos ou em construção, com foco em logística e locação atípica. No período de 12 meses até 28/10/2026, a cota registrou rentabilidade total de -3,77%, com dividend yield de 14,10%.",
+  "profile": {
+    "type": "FII de tijolo, multicategoria",
+    "issuerOrManager": "Vórtx DTVM Ltda (administrador) / Vórtx Investimentos (gestora, conforme site institucional citado no dossiê, embora o C",
+    "name": "Zagros Renda Imobiliária Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "ZAGROS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "28/04/2017",
+    "administrator": "VÓRTX DTVM LTDA",
+    "website": "https://www.vortx.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ZAGROS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "26.614.291/0001-00",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "VÓRTX DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "28/04/2017",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 3,78 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "423.361",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 10,93",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 8,51",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "10,82% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,24",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,10%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 16,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GGRC11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Ggr Covipe Renda Fundo Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 8.51,
+    "historyStarts": "2017-10-09",
+    "returns": {
+      "1y": -0.0377,
+      "3y": 0.0503,
+      "5y": 0.2503,
+      "10y": null
+    },
+    "volatility1y": 0.1082,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1789,
+      "from": "2022-10-21",
+      "to": "2023-01-19"
+    },
+    "beta1y": {
+      "value": 0.24,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.2,
+      "payments12Months": 12,
+      "yield12Months": 0.141,
+      "lastPayment": {
+        "date": "2026-10-02",
+        "amount": 0.1
+      }
+    },
+    "avgDailyTradedValue3m": 16733300
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do GGRC11 nos 12 meses até 28/10/2026 é de 10,82%, classificada como baixa. O beta contra o Ibovespa é 0,24, indicando baixa correlação com o índice acionário. A maior queda em 5 anos foi de -17,89%, entre 21/10/2022 e 19/01/2023, período que coincide com a alta de juros no Brasil. Para FIIs de tijolo, essa volatilidade é considerada moderada, refletindo a exposição a imóveis logísticos e comerciais. O [alertas de preço](/recursos/alertas-de-preco) do StockBar permite definir níveis de compra ou venda para acompanhar esses movimentos."
+  },
+  "history": {
+    "overview": "O Zagros Renda Imobiliário FII (GGRC11) iniciou suas atividades em 28/04/2017, com a primeira oferta pública de cotas encerrada em 02/05/2017. Desde então, o fundo consolidou-se como um dos maiores do mercado em termos de patrimônio, atingindo R$ 3,78 bilhões em 09/2026, com mais de 423 mil cotistas. A estratégia do fundo é de gestão ativa, focada em imóveis comerciais, com ênfase em empreendimentos logísticos de padrão Triple A e contratos de locação atípica (built to suit, retrofit ou sale and leaseback). A carteira possui 1 milhão de m² de área bruta locável e 49 inquilinos, com WAULT de 4,47 anos, conforme relatório gerencial de 30/09/2026. Em 2026, o fundo realizou aquisições relevantes, como o Condomínio Raposo/Sanca em São Paulo e um galpão logístico em Camaçari/BA, ambos integrados à 11ª emissão de cotas. O fundo já realizou 16 ofertas públicas de cotas encerradas, demonstrando capacidade de captação contínua.",
+    "timeline": [
+      {
+        "date": "2017-04-03",
+        "event": "Início da primeira oferta pública de cotas do GGRC11",
+        "source": 2
+      },
+      {
+        "date": "2017-04-28",
+        "event": "Início das atividades do fundo, conforme registro na CVM",
+        "source": 1
+      },
+      {
+        "date": "2017-05-02",
+        "event": "Encerramento da primeira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2019-01-23",
+        "event": "Início de nova oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2022-12-14",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2023-08-15",
+        "event": "Início de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-04-07",
+        "event": "Início da 11ª oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-06-29",
+        "event": "Fundo celebra contrato de aquisição do Condomínio Raposo/Sanca em São Paulo por R$ 121,25 milhões",
+        "source": 4
+      },
+      {
+        "date": "2026-06-29",
+        "event": "Fundo celebra compromisso de aquisição de galpão logístico em Camaçari/BA por R$ 150 milhões",
+        "source": 5
+      },
+      {
+        "date": "2026-07-13",
+        "event": "Encerramento da 11ª oferta pública de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do GGRC11",
+      "body": "O GGRC11 é um fundo de investimento imobiliário de gestão ativa e segmento multicategoria, administrado pela Vórtx DTVM Ltda. O objetivo do fundo é investir em imóveis comerciais, priorizando empreendimentos prontos ou em construção com finalidade de locação atípica (built to suit, retrofit ou sale and leaseback) ou venda. Conforme o relatório gerencial de 30/09/2026, a carteira possui 1 milhão de m² de área bruta locável, 49 inquilinos e WAULT de 4,47 anos. Em 2026, o fundo adquiriu o Condomínio Raposo/Sanca em São Paulo e um galpão logístico em Camaçari/BA, ambos de padrão Triple A, integrados à 11ª emissão de cotas."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do GGRC11",
+      "body": "Nos 12 meses até 28/10/2026, o GGRC11 distribuiu R$ 1,2000 por cota em 12 pagamentos, resultando em dividend yield de 14,10%. O último pagamento foi de R$ 0,1000 em 02/10/2026. O informe mensal da CVM de 09/2026 indica dividend yield de 0,90% para o mês. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Acompanhe os proventos do GGRC11 com [dividendos e JCP no StockBar](/recursos/proventos), que mostra as datas de pagamento e o valor total recebido."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O GGRC11 já realizou 16 ofertas públicas de cotas encerradas, conforme o FNET da B3. A 11ª emissão teve início em 07/04/2026 e encerramento em 13/07/2026. Em 09/2026, o patrimônio líquido do fundo era de R$ 3,78 bilhões, com 345.709.457 cotas emitidas e valor patrimonial de R$ 10,93 por cota. O número de cotistas era de 423.361. A taxa de administração no mês de 09/2026 foi de 0,003% sobre o patrimônio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do GGRC11",
+      "body": "A rentabilidade total do GGRC11, com proventos, foi de -3,77% em 12 meses, 5,03% em 3 anos e 25,03% em 5 anos, até 28/10/2026. A volatilidade anualizada de 12 meses é de 10,82%, nível baixo, e o beta contra o Ibovespa é 0,24. Compare o desempenho do GGRC11 com o IFIX e o CDI no [comparação com índices](/recursos/comparacao-com-indices) do StockBar, que mostra a rentabilidade lado a lado com os principais benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do GGRC11",
+      "body": "Os riscos do GGRC11 incluem vacância, inadimplência de inquilinos e variação de preços de imóveis, típicos de FIIs de tijolo. A volatilidade anualizada de 12 meses é de 10,82%, nível baixo, mas a maior queda em 5 anos foi de -17,89%, do pico em 21/10/2022 ao ponto mais baixo em 19/01/2023. O fundo também está exposto a riscos de crédito, dado que parte da carteira pode incluir CRIs, e a riscos de juros, que afetam a valuation de ativos imobiliários. Use [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos da cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GGRC11 paga dividendos?",
+      "answer": "Sim, o GGRC11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram R$ 1,2000 por cota, com dividend yield de 14,10%. O último pagamento foi de R$ 0,1000 em 02/10/2026. Veja os detalhes no [proventos](/recursos/proventos) do StockBar."
+    },
+    {
+      "question": "Qual a diferença entre GGRC11 e outros FIIs de logística?",
+      "answer": "GGRC11 é um FII multicategoria com foco em logística e locação atípica, enquanto FIIs como [BTLG11](/fiis/btlg11) e [HGLG11](/fiis/hglg11) são puros de logística. O GGRC11 tem maior diversificação, com 1 milhão de m² e 49 inquilinos, mas também maior complexidade de gestão ativa."
+    },
+    {
+      "question": "GGRC11 é FII de papel ou de tijolo?",
+      "answer": "GGRC11 é um FII de tijolo, com foco em imóveis comerciais e logísticos. O relatório gerencial de 30/09/2026 mostra 1 milhão de m² de área bruta locável e 49 inquilinos, indicando exposição a ativos físicos. A carteira também pode incluir CRIs, mas o foco é em imóveis."
+    },
+    {
+      "question": "Qual o patrimônio do GGRC11?",
+      "answer": "Em 09/2026, o patrimônio líquido do GGRC11 era de R$ 3,78 bilhões, com 345.709.457 cotas emitidas e valor patrimonial de R$ 10,93 por cota. O fundo tem 423.361 cotistas, conforme o informe mensal da CVM."
+    },
+    {
+      "question": "GGRC11 é isento de imposto de renda?",
+      "answer": "Sim, os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. O GGRC11 distribui R$ 1,2000 por cota em 12 meses, com dividend yield de 14,10%, sem incidência de IR."
+    },
+    {
+      "question": "Como acompanhar o desempenho do GGRC11?",
+      "answer": "Use o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do StockBar para ver a rentabilidade da cota e o preço médio da sua posição. O [comparação com índices](/recursos/comparacao-com-indices) mostra o GGRC11 lado a lado com o IFIX e o CDI."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os proventos do GGRC11 com data de pagamento e valor total, multiplicado pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do GGRC11 com o IFIX e o CDI no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina níveis de preço para o GGRC11 e receba notificações quando a cota atingir esses valores, útil para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o GGRC11 junto com seus outros ativos, com alocação por classe e as maiores posições, para avaliar a diversificação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística, similar ao segmento do GGRC11, mas com foco exclusivo em imóveis logísticos."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística, com carteira diversificada de galpões e centros de distribuição."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII multicategoria, similar ao GGRC11, com exposição a diferentes segmentos imobiliários."
+      },
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "FII de tijolo com foco em imóveis comerciais, comparável à estratégia do GGRC11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GGRC11",
+      "url": "https://finance.yahoo.com/quote/GGRC11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do ZAGROS RENDA IMOBILIÁRIA FII RESPONSABIL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo GGRC11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=26614291000100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do GGRC11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1355299",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do GGRC11, 29/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1233064",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do GGRC11, 29/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1233060",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

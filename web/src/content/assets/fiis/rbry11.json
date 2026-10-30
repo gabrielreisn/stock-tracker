@@ -1,0 +1,315 @@
+{
+  "ticker": "RBRY11",
+  "slug": "rbry11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "RBRY11: FII de crédito, dividendos e gestão",
+    "description": "Conheça o RBRY11, FII de crédito imobiliário indexado ao CDI com dividend yield de 16,03% em 12 meses.",
+    "h1": "RBRY11: Patria Crédito Imobiliário Estruturado",
+    "canonicalPath": "/fiis/rbry11",
+    "keywords": [
+      "RBRY11",
+      "FII de crédito imobiliário",
+      "RBRY PAX",
+      "Patria Crédito Imobiliário",
+      "dividend yield FII",
+      "FII indexado ao CDI",
+      "RBRY11 dividendos",
+      "FII de papel"
+    ]
+  },
+  "summary": "RBRY11 é a cota do Fundo de Investimento Imobiliário Patria Crédito Imobiliário Estruturado, um FII de papel que investe preponderantemente em CRIs indexados ao CDI. Com patrimônio de R$ 1,27 bilhão em setembro de 2026, distribuiu R$ 13,05 por cota nos últimos 12 meses, gerando um dividend yield de 16,03% até 28/10/2026.",
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Patria Gestão de Recursos Ltda",
+    "name": "Fundo de Investimento Imobiliário Patria Crédito Imobiliário Estruturado Responsabilidade Limitada",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA CRÉDITO IMOBILIÁRIO ESTRUTURADO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "24/05/2018",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA CRÉDITO IMOBILIÁRIO ESTRUTURADO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "30.166.700/0001-11",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "24/05/2018",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,27 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "75.852",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 99,63",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 81,39",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,40% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,30",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "16,03%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 4,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RBRY11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo Investimeto Imobiliario Rbr Private Credito Imobiliario",
+    "currency": "BRL",
+    "price": 81.39,
+    "historyStarts": "2019-05-22",
+    "returns": {
+      "1y": -0.016,
+      "3y": 0.2192,
+      "5y": 0.5184,
+      "10y": null
+    },
+    "volatility1y": 0.154,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.1835,
+      "from": "2026-04-01",
+      "to": "2026-08-20"
+    },
+    "beta1y": {
+      "value": 0.3,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 13.05,
+      "payments12Months": 12,
+      "yield12Months": 0.1603,
+      "lastPayment": {
+        "date": "2026-10-13",
+        "amount": 1
+      }
+    },
+    "avgDailyTradedValue3m": 4292323
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do RBRY11 nos últimos 12 meses é de 15,40%, nível moderado para um FII de crédito imobiliário. O beta de 0,30 contra o Ibovespa mostra que o fundo tem baixa sensibilidade às oscilações do mercado de ações, o que é típico de FIIs de papel. A maior queda em 5 anos foi de -18,35%, entre 01/04/2026 e 20/08/2026, período que coincide com o cenário de reprecificação de ativos locais mencionado no relatório gerencial de setembro de 2026. Acompanhe a variação diária e o preço médio da sua posição com o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "O fundo iniciou suas atividades em 24 de maio de 2018, com foco em crédito imobiliário estruturado. Até dezembro de 2025, a gestão era da RBR Gestão de Recursos Ltda., com administração e escrituração pela BTG Pactual. Em 10 de dezembro de 2025, o Pátria Investimentos Ltda. celebrou contrato para adquirir a totalidade das quotas da gestora. A transação foi concluída em 3 de fevereiro de 2026, quando a RBR passou a ser controlada pelo Pátria e teve sua denominação alterada para Patria Gestão de Recursos Ltda. O fundo também mudou de nome para Patria Crédito Imobiliário Estruturado, mantendo o código de negociação RBRY11 na B3 a partir de 9 de fevereiro de 2026. A mudança consolidou o RBRY11 na plataforma de crédito do Pátria Real Estate, que passou a gerir cerca de R$ 38 bilhões em mais de 30 fundos imobiliários.",
+    "timeline": [
+      {
+        "date": "2018-05-24",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2021-02-23",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2021-03-23",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2025-12-10",
+        "event": "Pátria Investimentos Ltda. celebra contrato para aquisição da totalidade das quotas da RBR Gestão de Recursos Ltda.",
+        "source": 5
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Conclusão da transação de aquisição da gestora pelo Pátria Investimentos",
+        "source": 4
+      },
+      {
+        "date": "2026-02-09",
+        "event": "Fundo passa a ser negociado com o nome de pregão 'FII RBRY PAX' na B3",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RBRY11",
+      "body": "O RBRY11 é classificado pela ANBIMA como 'Papel Híbrido Gestão Ativa, Multicategoria', com foco em operações de crédito imobiliário indexadas ao CDI e perfil de risco intermediário. A gestora é a Patria Gestão de Recursos Ltda. e a administradora e escrituradora é a BTG Pactual Serviços Financeiros S.A. DTVM. Segundo o relatório gerencial de referência 30/09/2026, a carteira é composta por 86,7% em CRIs e operações estruturadas, 3,2% em FIIs e 10,1% em caixa. O prazo médio da carteira é de 1,8 anos, com spread de 4,2% sobre a curva pré."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RBRY11",
+      "body": "Nos 12 meses até 28/10/2026, o RBRY11 distribuiu R$ 13,0500 por cota em 12 pagamentos, resultando em um dividend yield de 16,03%. O último provento foi de R$ 1,0000, com data de pagamento em 13/10/2026. O relatório gerencial de setembro de 2026 informou um resultado distribuível de R$ 1,06 por cota no mês. A tributação dos rendimentos de FIIs não é detalhada nas fontes do dossiê. Acompanhe o histórico de pagamentos e a data de recebimento com o recurso de [proventos](/recursos/proventos) do StockBar."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O FNET registra 4 ofertas públicas de cotas encerradas desde a fundação do fundo em 24/05/2018, com emissões realizadas em 2021, 2022, 2023 e 2024. Em setembro de 2026, o patrimônio líquido era de R$ 1,27 bilhão, com 12.769.512 cotas emitidas e 75.852 cotistas. O valor patrimonial da cota era de R$ 99,63, enquanto o preço de mercado em 28/10/2026 era de R$ 81,39, o que representa um P/VP de 0,83x."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RBRY11",
+      "body": "A rentabilidade total com proventos do RBRY11 foi de -1,60% nos 12 meses até 28/10/2026, 21,92% em 3 anos e 51,84% em 5 anos. O fundo é indexado ao CDI, mas sua performance deve ser avaliada em relação a outros FIIs de crédito e ao IFIX. Utilize a [comparação com índices](/recursos/comparacao-com-indices) do StockBar para medir a rentabilidade do RBRY11 lado a lado com o IFIX, o CDI e o Ibovespa no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RBRY11",
+      "body": "Como FII de papel, o RBRY11 está exposto ao risco de crédito dos devedores dos CRIs e à sensibilidade a mudanças na taxa de juros, dado que a carteira é indexada ao CDI. A volatilidade anualizada nos últimos 12 meses foi de 15,40%, classificada como moderada. O beta de 0,30 contra o Ibovespa indica baixa correlação com o mercado de ações. A maior queda em 5 anos foi de -18,35%, do pico em 01/04/2026 ao ponto mais baixo em 20/08/2026. Para monitorar movimentos bruscos de preço, configure [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RBRY11 é FII de papel ou de tijolo?",
+      "answer": "O RBRY11 é um FII de papel, classificado como 'Papel Híbrido Gestão Ativa, Multicategoria' pela ANBIMA. A carteira é composta majoritariamente por CRIs e operações estruturadas, com 86,7% do patrimônio em setembro de 2026, além de uma pequena alocação em FIIs e caixa."
+    },
+    {
+      "question": "Qual a diferença entre RBRY11 e RBRR11?",
+      "answer": "O RBRY11 tem foco em operações de crédito imobiliário indexadas ao CDI com perfil de risco intermediário, enquanto o [RBRR11](/fiis/rbrr11) é um fundo high grade indexado à inflação. Ambos são geridos pela Patria Gestão de Recursos Ltda. e fazem parte da plataforma de crédito do Pátria Real Estate."
+    },
+    {
+      "question": "RBRY11 paga dividendos?",
+      "answer": "Sim, o RBRY11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram distribuídos R$ 13,0500 por cota em 12 pagamentos, com dividend yield de 16,03%. O último provento foi de R$ 1,0000 em 13/10/2026. Veja o histórico completo no recurso de [proventos](/recursos/proventos)."
+    },
+    {
+      "question": "Quem é a gestora do RBRY11?",
+      "answer": "A partir de 3 de fevereiro de 2026, a gestora do RBRY11 é a Patria Gestão de Recursos Ltda., que substituiu a RBR Gestão de Recursos Ltda. após a aquisição pelo Pátria Investimentos. A administradora e escrituradora continua sendo a BTG Pactual Serviços Financeiros S.A. DTVM."
+    },
+    {
+      "question": "Qual o patrimônio do RBRY11?",
+      "answer": "Em setembro de 2026, o patrimônio líquido do RBRY11 era de R$ 1,27 bilhão, com 12.769.512 cotas emitidas e 75.852 cotistas. O valor patrimonial da cota era de R$ 99,63."
+    },
+    {
+      "question": "O RBRY11 é indexado ao CDI?",
+      "answer": "Sim, o RBRY11 tem foco em operações de crédito imobiliário indexadas ao CDI, com perfil de risco intermediário. O spread médio da carteira é de 4,2% sobre a curva pré, com prazo médio de 1,8 anos, segundo o relatório gerencial de setembro de 2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos de FIIs no StockBar",
+        "context": "Veja os 12 pagamentos de R$ 1,0000 a R$ 1,06 por cota do RBRY11 com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX e CDI",
+        "context": "Meça a rentabilidade do RBRY11 lado a lado com o IFIX e o CDI no mesmo gráfico, para entender como o fundo se comportou em relação aos principais benchmarks de FIIs."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço do RBRY11",
+        "context": "Receba uma notificação no Mac quando a cota do RBRY11 atingir o preço que você definiu, útil para acompanhar a volatilidade de 15,40% e a queda de -18,35% em 2026."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RBRY11 junto com seus outros FIIs, ações e renda fixa em uma só visão, com alocação por classe e as maiores posições da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RBRR11",
+        "list": "fiis",
+        "reason": "Fundo de crédito imobiliário high grade indexado à inflação, da mesma gestora Patria, para comparação de perfil de risco e indexador."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FII de crédito imobiliário de grande porte, para comparar dividend yield e exposição a CRIs."
+      },
+      {
+        "ticker": "MCCI11",
+        "list": "fiis",
+        "reason": "FII de recebíveis imobiliários, para diversificação dentro do segmento de crédito imobiliário."
+      },
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "FII de renda urbana gerido pela Patria, para quem quer exposição a imóveis físicos da mesma gestora."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RBRY11",
+      "url": "https://finance.yahoo.com/quote/RBRY11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do PATRIA CREDITO FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RBRY11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30166700000111",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RBRY11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356173",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBRY11, 03/02/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1100752",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBRY11, 11/12/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1058416",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -100,7 +100,7 @@ struct SettingsWindow: View {
     private var aiSummary: String {
         switch ai.engine {
         case .cloud: ai.provider.map { "\($0.label) · \(ai.model)" } ?? String(localized: "Your API key · not saved yet")
-        case .local: LocalModel.displayName + " · " + (local.isReady ? String(localized: "on this Mac") : String(localized: "not downloaded"))
+        case .local: local.isReady ? "Ollama · \(local.model)" : "Ollama · " + String(localized: "not set up")
         case .apple: String(localized: "Apple Intelligence, on this Mac")
         }
     }
@@ -200,7 +200,7 @@ enum AppTheme: String, CaseIterable, Identifiable {
     }
 }
 
-/// The AI tab's engine: Apple Intelligence, the local model (downloaded here) or the user's own API key, in one
+/// The AI tab's engine: Apple Intelligence, the local model (run by Ollama) or the user's own API key, in one
 /// field for any provider (StockBar finds out whose it is).
 struct AISettingsSection: View {
     @Environment(AIAccount.self) private var ai
@@ -212,7 +212,7 @@ struct AISettingsSection: View {
         Section {
             Picker("Engine", selection: $ai.engine) {
                 Text("Apple Intelligence").tag(AIEngine.apple)
-                Text(verbatim: LocalModel.displayName).tag(AIEngine.local)
+                Text(verbatim: "Ollama").tag(AIEngine.local)
                 Text("Your API key").tag(AIEngine.cloud)
             }
             .pickerStyle(.radioGroup)
@@ -222,7 +222,7 @@ struct AISettingsSection: View {
                 case .apple:
                     Text("On this Mac, free and private. Needs macOS 26 and Apple silicon; the slowest and least capable of the three.")
                 case .local:
-                    Text("On this Mac, free and private, after a one-time download. About 1–2 seconds an answer on Apple silicon.")
+                    Text("On this Mac, free and private, with a model you run in Ollama. Bigger models answer better but need more memory and time: about 6 GB for an 8-billion-parameter model, 18 GB for a 27-billion one.")
                 case .cloud:
                     Text("The provider's model, billed to your key. The fastest and most capable; your questions and what StockBar looks up leave the Mac.")
                 }
@@ -236,24 +236,42 @@ struct AISettingsSection: View {
         }
     }
 
+    @ViewBuilder
     private var localModel: some View {
+        @Bindable var local = local
         Section {
+            if local.isReady {
+                Picker("Model", selection: $local.model) {
+                    ForEach(local.models, id: \.name) { model in
+                        Text(verbatim: "\(model.name) · \(model.size.formatted(.byteCount(style: .file)))").tag(model.name)
+                    }
+                }
+            }
             LabeledContent {
                 switch local.state {
+                case .checking:
+                    ProgressView().controlSize(.small)
+                case .notRunning:
+                    HStack {
+                        Text("Ollama isn't running").foregroundStyle(.secondary)
+                        Link("Get Ollama", destination: LocalModel.downloadPage)
+                        Button("Check again") { Task { await local.refresh() } }
+                    }
                 case .missing:
-                    Button("Download (\(LocalModel.size.formatted(.byteCount(style: .file))))") { local.startDownload() }
+                    HStack {
+                        Text("No model that can look things up").foregroundStyle(.secondary)
+                        Button("Download \(LocalModel.suggested)") { local.startDownload() }
+                    }
                 case .downloading(let fraction):
                     HStack {
                         ProgressView(value: fraction).frame(width: 140)
                         Text(fraction.formatted(.percent.precision(.fractionLength(0)))).monospacedDigit().foregroundStyle(.secondary)
                         Button("Cancel") { local.cancelDownload() }
                     }
-                case .verifying:
-                    HStack { ProgressView().controlSize(.small); Text("Checking the download…").foregroundStyle(.secondary) }
                 case .ready:
                     HStack {
-                        Text("Downloaded").foregroundStyle(.secondary)
-                        Button("Delete", role: .destructive) { local.delete() }
+                        Text("Running").foregroundStyle(.secondary)
+                        Button("Check again") { Task { await local.refresh() } }
                     }
                 case .failed(let message):
                     HStack {
@@ -262,17 +280,12 @@ struct AISettingsSection: View {
                     }
                 }
             } label: {
-                Text(verbatim: LocalModel.displayName)
+                Text(verbatim: "Ollama")
             }
+            .task { await local.refresh() }
         } footer: {
-            Group {
-                #if arch(arm64)
-                Text("Runs on this Mac with llama.cpp. While answering it uses about 3,5 GB of memory, freed ten minutes after the last question. Until it's downloaded, the AI tab uses Apple Intelligence.")
-                #else
-                Text("Runs on this Mac with llama.cpp. On an Intel Mac it runs on the processor and is slow. Until it's downloaded, the AI tab uses Apple Intelligence.")
-                #endif
-            }
-            .font(.caption).foregroundStyle(.secondary)
+            Text("Ollama is a free app that runs models on the Mac: install it from ollama.com and keep it open. The list shows its models that can call StockBar's lookups; add more with Ollama. StockBar asks it to free the memory when you leave the AI tab. Until it's ready, the AI tab uses Apple Intelligence.")
+                .font(.caption).foregroundStyle(.secondary)
         }
     }
 

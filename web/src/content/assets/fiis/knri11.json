@@ -1,0 +1,309 @@
+{
+  "ticker": "KNRI11",
+  "slug": "knri11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "KNRI11: FII de tijolo, rendimentos e volatilidade",
+    "description": "KNRI11 é FII de tijolo multicategoria da Kinea, com patrimônio de R$ 4,62 bilhões em 09/2026. Veja rendimentos, volatilidade e desempenho do fundo.",
+    "h1": "KNRI11: Kinea Renda Imobiliário FII",
+    "canonicalPath": "/fiis/knri11",
+    "keywords": [
+      "KNRI11",
+      "Kinea Renda Imobiliário",
+      "FII de tijolo",
+      "rendimentos KNRI11",
+      "volatilidade KNRI11",
+      "patrimônio KNRI11",
+      "dividend yield KNRI11"
+    ]
+  },
+  "summary": "KNRI11 é a cota do Kinea Renda Imobiliário Fundo de Investimento Imobiliário, um FII de tijolo multicategoria fundado em 11/08/2010. A estratégia busca renda de aluguel mensal com portfólio diversificado de prédios corporativos e galpões logísticos, sob gestão ativa da Kinea Investimentos. Em 09/2026, o patrimônio líquido era de R$ 4,62 bilhões, com 313.851 cotistas e valor patrimonial de R$ 163,64 por cota [1].",
+  "profile": {
+    "type": "FII de tijolo, multicategoria",
+    "issuerOrManager": "Kinea Investimentos Ltda",
+    "name": "Kinea Renda Imobiliária Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "KINEA RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "11/08/2010",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "KINEA RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "12.005.956/0001-65",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "11/08/2010",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 4,62 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "313.851",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 163,64",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 148,45",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "16,73% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,25",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "8,90%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 8,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KNRI11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Kinea Renda Imobiliária Fundo de Investimento Imobiliário",
+    "currency": "BRL",
+    "price": 148.45,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1037,
+      "3y": 0.1872,
+      "5y": 0.5666,
+      "10y": 0.4662
+    },
+    "volatility1y": 0.1673,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2021,
+      "from": "2024-03-28",
+      "to": "2024-12-05"
+    },
+    "beta1y": {
+      "value": 0.25,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 13.21,
+      "payments12Months": 12,
+      "yield12Months": 0.089,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 1.1
+      }
+    },
+    "avgDailyTradedValue3m": 8042418
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada (12 meses) do KNRI11 era de 16,73%, nível moderado 0. O beta (12 meses) contra o Ibovespa era de 0,25, indicando menor sensibilidade ao índice 0. A maior queda nos últimos 5 anos foi de -20,21%, do pico em 28/03/2024 ao ponto mais baixo em 05/12/2024 0. Para FIIs de tijolo, volatilidade moderada e beta baixo são comuns, refletindo a estabilidade de aluguéis e a diversificação de ativos. No [alertas de preço](/recursos/alertas-de-preco) do StockBar, é possível configurar notificações quando o ativo chega ao preço escolhido."
+  },
+  "history": {
+    "overview": "O Kinea Renda Imobiliário (KNRI11) iniciou suas atividades em 11/08/2010, com o objetivo de gerar renda de aluguel mensal por meio de um portfólio diversificado de prédios corporativos e galpões logísticos [1, 3]. A gestão é ativa, conduzida pela Kinea Investimentos Ltda., enquanto a administração é feita pela Intrag Distribuidora de Títulos e Valores Mobiliários Ltda. [1, 3]. A taxa de administração e gestão é de 1,11% ao ano sobre o valor de mercado das cotas, englobando a remuneração do administrador, gestor, banco escriturador e custodiante, sem taxa de performance 3. O fundo realizou 6 ofertas públicas de cotas encerradas, conforme registros no FNET da B3 2. A primeira oferta confirmada iniciou em 25/05/2017 e encerrou em 01/09/2017 2. Em 2019, houve nova oferta entre 07/01/2019 e 01/07/2019 2. Em 2020/2021, a oferta iniciou em 10/11/2020 e teve encerramentos em 14/05/2021 e 19/05/2021 2. A mais recente oferta encerrada iniciou em 21/03/2024 e encerrou em 03/07/2024 2. Em setembro de 2026, o fundo concluiu a venda do imóvel PIB Sumaré por R$ 26 milhões, com recebimento de 24% à vista e saldo em 6 parcelas semestrais, justificada pela idade do ativo e necessidade de investimentos adicionais 3. A vacância física reduziu para 1,84% e a financeira para 4,66% no mês, ante 3,91% e 5,14% no mês anterior 3. A carteira inclui ativos como o Edifício Boulevard Corporate Tower, Complexo Rochaverá – Torre C, Edifício Madison e o Centro de Distribuição Pouso Alegre, que teve contrato renovado por 5 anos em setembro de 2026 3.",
+    "timeline": [
+      {
+        "date": "2010-08-11",
+        "event": "Início das atividades do fundo KNRI11",
+        "source": 1
+      },
+      {
+        "date": "2017-05-25",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2017-09-01",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2019-01-07",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2019-07-01",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do KNRI11",
+      "body": "O KNRI11 é um FII de tijolo multicategoria, com gestão ativa, cujo objetivo é gerar renda de aluguel mensal através da locação de um portfólio diversificado de prédios corporativos e galpões logísticos 3. O gestor é a Kinea Investimentos Ltda. e o administrador é a Intrag DTVM Ltda. [1, 3]. A taxa de administração e gestão é de 1,11% ao ano sobre o valor de mercado das cotas, englobando a remuneração do administrador, gestor, banco escriturador e custodiante, sem taxa de performance 3. Em setembro de 2026, a carteira incluía ativos como o Edifício Boulevard Corporate Tower, Complexo Rochaverá – Torre C, Edifício Madison e o Centro de Distribuição Pouso Alegre, que teve contrato renovado por 5 anos 3. O fundo concluiu a venda do imóvel PIB Sumaré por R$ 26 milhões, com recebimento de 24% à vista e saldo em 6 parcelas semestrais 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do KNRI11",
+      "body": "Nos 12 meses até 28/10/2026, o KNRI11 distribuiu R$ 13,2100 por cota em 12 pagamentos, com dividend yield de 8,90% 0. O último pagamento foi de R$ 1,1000 em 01/10/2026 0. O relatório gerencial de setembro de 2026 informou distribuição de R$ 1,10 por cota, com pagamento em 15/10/2026 3. O CVM informou dividend yield do mês de 0,67% em 09/2026 1. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. No [proventos](/recursos/proventos) do StockBar, é possível acompanhar os rendimentos do KNRI11 multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O FNET da B3 registra 6 ofertas públicas de cotas encerradas para o KNRI11 2. A primeira oferta confirmada iniciou em 25/05/2017 e encerrou em 01/09/2017 2. Em 2019, houve nova oferta entre 07/01/2019 e 01/07/2019 2. Em 2020/2021, a oferta iniciou em 10/11/2020 e teve encerramentos em 14/05/2021 e 19/05/2021 2. A mais recente oferta encerrada iniciou em 21/03/2024 e encerrou em 03/07/2024 2. Em 09/2026, o patrimônio líquido era de R$ 4,62 bilhões, com 313.851 cotistas e valor patrimonial de R$ 163,64 por cota 1. O total de cotas emitidas era de 28.204.047 [1, 3]."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KNRI11",
+      "body": "A rentabilidade total com proventos do KNRI11 foi de 10,37% nos 12 meses até 28/10/2026, 18,72% em 3 anos, 56,66% em 5 anos e 46,62% em 10 anos 0. O preço em 28/10/2026 era de R$ 148,45 0. O volume médio negociado por dia nos últimos 3 meses era de R$ 8,0 milhões 0. No [comparação com índices](/recursos/comparacao-com-indices) do StockBar, é possível comparar a rentabilidade do KNRI11 com o IFIX, CDI, IPCA, Ibovespa e S&P 500 no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KNRI11",
+      "body": "Os riscos do KNRI11 incluem vacância física e financeira, que em setembro de 2026 eram de 1,84% e 4,66%, respectivamente 3. A vacância financeira ajustada pelas carências previstas nos novos contratos de locação era de 5,63% 3. A maior queda nos últimos 5 anos foi de -20,21%, do pico em 28/03/2024 ao ponto mais baixo em 05/12/2024 0. A volatilidade anualizada (12 meses) era de 16,73%, nível moderado 0. O beta (12 meses) contra o Ibovespa era de 0,25 0. Riscos gerais de FIIs de tijolo incluem variação de aluguéis, inadimplência de inquilinos e mudanças no mercado imobiliário. No [alertas de preço](/recursos/alertas-de-preco) do StockBar, é possível configurar notificações quando o ativo chega ao preço escolhido."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KNRI11 é FII de papel ou de tijolo?",
+      "answer": "KNRI11 é um FII de tijolo multicategoria 3. O objetivo é gerar renda de aluguel mensal através da locação de um portfólio diversificado de prédios corporativos e galpões logísticos 3. A gestão é ativa, conduzida pela Kinea Investimentos Ltda. 3."
+    },
+    {
+      "question": "KNRI11 paga dividendos?",
+      "answer": "Sim, o KNRI11 distribui rendimentos mensais 3. Nos 12 meses até 28/10/2026, distribuiu R$ 13,2100 por cota em 12 pagamentos, com dividend yield de 8,90% 0. O último pagamento foi de R$ 1,1000 em 01/10/2026 0. No [proventos](/recursos/proventos) do StockBar, é possível acompanhar os rendimentos do KNRI11 multiplicados pela sua quantidade."
+    },
+    {
+      "question": "Qual a taxa de administração do KNRI11?",
+      "answer": "A taxa de administração e gestão do KNRI11 é de 1,11% ao ano sobre o valor de mercado das cotas 3. A taxa engloba a remuneração do administrador, gestor, banco escriturador e custodiante, sem taxa de performance 3. Em 09/2026, a taxa de administração no mês sobre o patrimônio era de 0,089% 1."
+    },
+    {
+      "question": "Qual o patrimônio do KNRI11?",
+      "answer": "Em 09/2026, o patrimônio líquido do KNRI11 era de R$ 4,62 bilhões 1. O valor patrimonial da cota era de R$ 163,64 1. O total de cotas emitidas era de 28.204.047 [1, 3]. O número de cotistas era de 313.851 1."
+    },
+    {
+      "question": "KNRI11 tem alta volatilidade?",
+      "answer": "A volatilidade anualizada (12 meses) do KNRI11 era de 16,73%, nível moderado 0. O beta (12 meses) contra o Ibovespa era de 0,25, indicando menor sensibilidade ao índice 0. A maior queda nos últimos 5 anos foi de -20,21%, do pico em 28/03/2024 ao ponto mais baixo em 05/12/2024 0. No [alertas de preço](/recursos/alertas-de-preco) do StockBar, é possível configurar notificações quando o ativo chega ao preço escolhido."
+    },
+    {
+      "question": "Como acompanhar o desempenho do KNRI11?",
+      "answer": "A rentabilidade total com proventos do KNRI11 foi de 10,37% nos 12 meses até 28/10/2026, 18,72% em 3 anos, 56,66% em 5 anos e 46,62% em 10 anos 0. No [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do StockBar, é possível ver o gráfico de rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho, variação do dia e do ano."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "rendimentos do KNRI11 no StockBar",
+        "context": "Veja os rendimentos do KNRI11 multiplicados pela sua quantidade, com data de pagamento."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX e CDI",
+        "context": "Compare a rentabilidade do KNRI11 com o IFIX, CDI, IPCA, Ibovespa e S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço do KNRI11",
+        "context": "Configure notificações quando o KNRI11 chega ao preço que você escolheu."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio do KNRI11",
+        "context": "Veja o gráfico de rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho, variação do dia e do ano."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada com o KNRI11",
+        "context": "Acompanhe o KNRI11 junto com outras ações, renda fixa e fundos em uma só visão, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FII da Kinea, com foco em rendimentos imobiliários"
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII da Kinea focado em índices de preços, útil para comparação de estratégias"
+      },
+      {
+        "ticker": "KNSC11",
+        "list": "fiis",
+        "reason": "FII da Kinea de papel, útil para diversificação entre tijolo e papel"
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística, segmento similar ao galpões logísticos do KNRI11"
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística, útil para comparação de ativos do mesmo segmento"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KNRI11",
+      "url": "https://finance.yahoo.com/quote/KNRI11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do KINEA RENDA IMOBILIARIA FII RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo KNRI11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=12005956000165",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do KNRI11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338388",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

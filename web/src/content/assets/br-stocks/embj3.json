@@ -1,0 +1,369 @@
+{
+  "ticker": "EMBJ3",
+  "slug": "embj3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "EMBJ3: história, dividendos e volatilidade",
+    "description": "EMBJ3 é a ação ordinária da Embraer S.A., fabricante de aeronaves. Veja histórico, dividendos, volatilidade e desempenho da EMBJ3 na B3.",
+    "h1": "EMBJ3: Embraer S.A. - Ação Ordinária",
+    "canonicalPath": "/acoes/embj3",
+    "keywords": [
+      "EMBJ3",
+      "Embraer ação",
+      "dividendos EMBJ3",
+      "volatilidade EMBJ3",
+      "desempenho EMBJ3",
+      "ação Embraer B3",
+      "Novo Mercado EMBJ3"
+    ]
+  },
+  "summary": "EMBJ3 é a ação ordinária da Embraer S.A., empresa brasileira de bens industriais que projeta, fabrica e comercializa aeronaves comerciais, executivas, agrícolas e militares. Listada no Novo Mercado da B3 desde 2006, a companhia possui sede em São José dos Campos (SP) e opera globalmente. Em 29/10/2026, a ação estava cotada a R$ 102,40, com rentabilidade total de 18,00% nos últimos 12 meses e dividend yield de 1,20% no mesmo período.",
+  "profile": {
+    "name": "Embraer S.A.",
+    "legalName": "EMBRAER S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Bens Industriais",
+    "segment": "Material Aeronáutico e de Defesa",
+    "founded": "02/09/2005",
+    "listedSince": "05/06/2006",
+    "headquarters": "São José dos Campos (SP)",
+    "website": "https://www.embraer.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "EMBRAER S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "07.689.002/0001-89",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Bens Industriais / Material Aeronáutico e de Defesa",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "02/09/2005",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São José dos Campos (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "05/06/2006",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "EMBJ3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 102,40",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "39,17% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,12",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,20%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EMBJ3",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Embraer S.A.",
+    "currency": "BRL",
+    "price": 102.4,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.18,
+      "3y": 4.9817,
+      "5y": 3.7407,
+      "10y": 5.2075
+    },
+    "volatility1y": 0.3917,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5693,
+      "from": "2022-01-03",
+      "to": "2022-07-11"
+    },
+    "beta1y": {
+      "value": 0.12,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.2237,
+      "payments12Months": 5,
+      "yield12Months": 0.012,
+      "lastPayment": {
+        "date": "2026-09-22",
+        "amount": 0.216343
+      }
+    },
+    "avgDailyTradedValue3m": 568167189
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da EMBJ3 nos últimos 12 meses é de 39,17%, nível classificado como 'alta'. O beta contra o Ibovespa é de 0,12, o que indica que a ação tem menor sensibilidade às variações do índice em comparação com a média do mercado. A maior queda nos últimos 5 anos foi de -56,93%, ocorrida entre o pico em 03/01/2022 e o ponto mais baixo em 11/07/2022. Para ações de bens industriais, especialmente no setor aeroespacial, volatilidades elevadas são comuns devido à natureza cíclica da demanda e à exposição a fatores macroeconômicos globais."
+  },
+  "history": {
+    "overview": "A Embraer S.A. tem origens no projeto governamental IPD-6504, aprovado em 1965, que visava a produção de uma aeronave para o transporte aéreo comercial brasileiro. A empresa foi fundada em 1969 como sociedade de economia mista, com o engenheiro Ozires Silva como primeiro presidente. Nas décadas de 1970 e 1980, a companhia ganhou projeção internacional com os modelos Bandeirante, Xingu e Brasília, mas enfrentou uma crise severa no final da década de 1980, acumulando dívidas de 790 milhões de dólares em 1991 e 933 milhões em 1992. Em 1994, a Embraer foi privatizada, com a União arrecadando cerca de 154 milhões de reais, e passou por um processo de reestruturação que reduziu o quadro de funcionários de nove mil para cerca de seis mil pessoas. A recuperação de mercado foi impulsionada pelo sucesso dos programas ERJ-145, ERJ-170 e ERJ-190, consolidando a empresa como a terceira maior fabricante de jatos comerciais do mundo. A Embraer S.A. foi constituída em 02/09/2005, registrada como companhia aberta na CVM em 23/05/2006 e começou a cotar na B3 em 05/06/2006. Em 2024, a receita líquida foi de 35,4 bilhões de reais, e a empresa ocupa a terceira posição mundial no setor, atrás da Airbus e da Boeing.",
+    "timeline": [
+      {
+        "date": "1969",
+        "event": "Fundação da Embraer como sociedade de economia mista, com Ozires Silva como primeiro presidente.",
+        "source": 3
+      },
+      {
+        "date": "1994",
+        "event": "Privatização da empresa, com a União arrecadando cerca de 154 milhões de reais.",
+        "source": 3
+      },
+      {
+        "date": "2005-09-02",
+        "event": "Constituição da Embraer S.A.",
+        "source": 2
+      },
+      {
+        "date": "2006-05-23",
+        "event": "Registro como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2006-06-05",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-11-06",
+        "event": "Aquisição de Ações de Emissão da Própria Companhia.",
+        "source": 11
+      },
+      {
+        "date": "2025-12-02",
+        "event": "Conclusão do Programa de Recompra de Ações.",
+        "source": 10
+      },
+      {
+        "date": "2026-03-06",
+        "event": "Divulgação das estimativas da Companhia para 2026.",
+        "source": 7
+      },
+      {
+        "date": "2026-04-06",
+        "event": "Renúncia do CFO.",
+        "source": 6
+      },
+      {
+        "date": "2026-04-10",
+        "event": "Novo CFO.",
+        "source": 5
+      },
+      {
+        "date": "2026-08-10",
+        "event": "Atualização das Projeções 2026.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Embraer S.A. ganha dinheiro",
+      "body": "A Embraer S.A. atua no setor de Bens Industriais, segmento Material Aeronáutico e de Defesa, com atividade de projeto, desenvolvimento, fabricação, comercialização de aeronaves e sistemas, além de fornecimento de suporte e serviços de pós-venda. A empresa é fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área. Em 2024, a receita líquida foi de 35,4 bilhões de reais (6,03 bilhões de dólares). A companhia possui unidades industriais, escritórios e centros de distribuição de peças e serviços na América, África, Ásia e Europa, incluindo joint ventures na China e em Portugal. A Embraer é a terceira maior fabricante de jatos comerciais do mundo, atrás da Airbus e da Boeing, e líder absoluta no segmento de até 130 assentos."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Embraer S.A.",
+      "body": "O controle acionário da Embraer S.A. é privado, conforme cadastro da CVM. A empresa está listada no segmento Novo Mercado da B3, que exige padrões elevados de governança corporativa e transparência. O código de negociação das ações ordinárias é EMBJ3. Ações ordinárias (ON) conferem direito a voto em assembleias gerais e participação nos lucros, enquanto ações preferenciais (PN) têm preferência no recebimento de dividendos, mas geralmente não têm direito a voto. A Embraer também possui ações listadas na NYSE sob o ticker EMBJ."
+    },
+    {
+      "id": "proventos",
+      "heading": "EMBJ3 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, a EMBJ3 distribuiu R$ 1,2237 por ação em 5 pagamentos, resultando em dividend yield de 1,20%. O último pagamento foi de R$ 0,2163 em 22/09/2026. A Embraer distribui dividendos a acionistas minoritários e funcionários, conforme mencionado em fontes históricas. O [recurso de proventos](/recursos/proventos) permite acompanhar os dividendos e JCP da EMBJ3 com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da EMBJ3",
+      "body": "Em 29/10/2026, a EMBJ3 estava cotada a R$ 102,40. A rentabilidade total com proventos foi de 18,00% nos 12 meses, 498,17% em 3 anos, 374,07% em 5 anos e 520,75% em 10 anos. O [recurso de comparação com índices](/recursos/comparacao-com-indices) permite visualizar a rentabilidade da EMBJ3 lado a lado com o Ibovespa, CDI, IPCA e S&P 500, no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da EMBJ3",
+      "body": "A volatilidade anualizada da EMBJ3 nos últimos 12 meses é de 39,17%, classificada como nível 'alta'. O beta contra o Ibovespa é de 0,12, indicando menor sensibilidade ao índice em relação à média do mercado. A maior queda nos últimos 5 anos foi de -56,93%, do pico em 03/01/2022 ao ponto mais baixo em 11/07/2022. Riscos setoriais incluem flutuações na demanda por aeronaves, variações cambiais, custos de insumos e dependência de mercados internacionais. O [recurso de alertas de preço](/recursos/alertas-de-preco) permite configurar notificações quando a EMBJ3 atinge preços específicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "EMBJ3 paga dividendos?",
+      "answer": "Sim, a EMBJ3 distribui dividendos. Nos 12 meses até 29/10/2026, foram pagos R$ 1,2237 por ação em 5 pagamentos, com dividend yield de 1,20%. O último pagamento foi de R$ 0,2163 em 22/09/2026. O [recurso de proventos](/recursos/proventos) permite acompanhar os dividendos e JCP da EMBJ3 com data com e data de pagamento."
+    },
+    {
+      "question": "Qual a diferença entre EMBJ3 e EMBR3?",
+      "answer": "EMBJ3 é a ação ordinária (ON) da Embraer S.A., enquanto EMBR3 é a ação preferencial (PN). Ações ordinárias conferem direito a voto em assembleias gerais, enquanto ações preferenciais têm preferência no recebimento de dividendos, mas geralmente não têm direito a voto. Ambas representam participação no capital da empresa, mas com direitos diferentes."
+    },
+    {
+      "question": "EMBJ3 é ação de qual empresa?",
+      "answer": "EMBJ3 é a ação ordinária da Embraer S.A., empresa brasileira de bens industriais que projeta, fabrica e comercializa aeronaves comerciais, executivas, agrícolas e militares. A empresa está listada no Novo Mercado da B3 e possui sede em São José dos Campos (SP)."
+    },
+    {
+      "question": "Qual o desempenho da EMBJ3 nos últimos 12 meses?",
+      "answer": "Em 29/10/2026, a EMBJ3 tinha rentabilidade total com proventos de 18,00% nos últimos 12 meses. A ação estava cotada a R$ 102,40. O [recurso de comparação com índices](/recursos/comparacao-com-indices) permite visualizar a rentabilidade da EMBJ3 lado a lado com o Ibovespa, CDI, IPCA e S&P 500."
+    },
+    {
+      "question": "Qual a volatilidade da EMBJ3?",
+      "answer": "A volatilidade anualizada da EMBJ3 nos últimos 12 meses é de 39,17%, classificada como nível 'alta'. O beta contra o Ibovespa é de 0,12, indicando menor sensibilidade ao índice. A maior queda nos últimos 5 anos foi de -56,93%, entre 03/01/2022 e 11/07/2022. O [recurso de alertas de preço](/recursos/alertas-de-preco) permite configurar notificações quando a EMBJ3 atinge preços específicos."
+    },
+    {
+      "question": "EMBJ3 está no Novo Mercado?",
+      "answer": "Sim, a EMBJ3 está listada no segmento Novo Mercado da B3, que exige padrões elevados de governança corporativa e transparência. A empresa tem controle acionário privado e auditor independente, a KPMG Auditores Independentes Ltda."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da EMBJ3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da EMBJ3 com o Ibovespa, CDI, IPCA e S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações quando a EMBJ3 atinge preços específicos que você escolher."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a EMBJ3 junto com outras ações, renda fixa e fundos em uma só visão, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Outra ação brasileira de grande capitalização, com exposição a setores diferentes (petróleo e gás vs. aeroespacial)."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Ação brasileira de bens industriais, com exposição a commodities, similar à exposição da EMBJ3 a fatores macroeconômicos."
+      },
+      {
+        "ticker": "WEGE3",
+        "list": "br-stocks",
+        "reason": "Ação brasileira de bens industriais, com foco em equipamentos elétricos, setor correlato ao de manufatura da EMBJ3."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF que acompanha o mercado brasileiro, útil para diversificação e comparação com a EMBJ3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EMBJ3",
+      "url": "https://finance.yahoo.com/quote/EMBJ3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: EMBRAER, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20087/EMBJ/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, EMBRAER S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Embraer",
+      "url": "https://pt.wikipedia.org/wiki/Embraer",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/08/2026, “Atualização das Projeções 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1554607&numSequencia=1079313&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/04/2026, “Novo CFO”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1503373&numSequencia=1028079&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/04/2026, “Renúncia CFO”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1501310&numSequencia=1026016&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/03/2026, “Divulgação das estimativas da Companhia para 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1486428&numSequencia=1011134&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/03/2026, “Conclusão do Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1486943&numSequencia=1011649&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/03/2026, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1486331&numSequencia=1011037&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/12/2025, “Conclusão do Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1451958&numSequencia=976670&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/11/2025, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1441169&numSequencia=965881&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

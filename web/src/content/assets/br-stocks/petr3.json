@@ -1,0 +1,364 @@
+{
+  "ticker": "PETR3",
+  "slug": "petr3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "PETR3: história, dividendos e volatilidade",
+    "description": "PETR3 é a ação ordinária da Petrobras, empresa estatal de petróleo e gás. Veja dividendos, rentabilidade, volatilidade e riscos da PETR3 até 29/10/2026.",
+    "h1": "PETR3: Petróleo Brasileiro S.A. (Petrobras)",
+    "canonicalPath": "/acoes/petr3",
+    "keywords": [
+      "PETR3",
+      "Petrobras",
+      "ação ordinária",
+      "petróleo",
+      "dividendos",
+      "volatilidade",
+      "empresa estatal",
+      "B3"
+    ]
+  },
+  "summary": "PETR3 é a ação ordinária da Petróleo Brasileiro S.A. (Petrobras), empresa estatal de capital aberto com sede no Rio de Janeiro, que atua na exploração, refino e distribuição de petróleo e gás natural. Com controle acionário do Governo do Brasil, a companhia registrou rentabilidade total de 101,25% nos 12 meses até 29/10/2026, com dividend yield de 6,20% no mesmo período.",
+  "profile": {
+    "name": "Petrobras",
+    "legalName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+    "type": "Ação ordinária (ON)",
+    "sector": "Petróleo, Gás e Biocombustíveis",
+    "segment": "Exploração, Refino e Distribuição",
+    "founded": "03/10/1953",
+    "listedSince": "20/07/1977",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://www.petrobras.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "33.000.167/0001-01",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Petróleo, Gás e Biocombustíveis / Exploração, Refino e Distribuição",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 2",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estatal holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "03/10/1953",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "20/07/1977",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "PETR3, PETR4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 59,06",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "31,85% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,50",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,20%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PETR3",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Petróleo Brasileiro S.A. - Petrobras",
+    "currency": "BRL",
+    "price": 59.06,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 1.0125,
+      "3y": 1.269,
+      "5y": 5.9709,
+      "10y": 10.7432
+    },
+    "volatility1y": 0.3185,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3429,
+      "from": "2022-10-21",
+      "to": "2022-12-14"
+    },
+    "beta1y": {
+      "value": 0.5,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 3.6643,
+      "payments12Months": 4,
+      "yield12Months": 0.062,
+      "lastPayment": {
+        "date": "2026-08-24",
+        "amount": 1.348143
+      }
+    },
+    "avgDailyTradedValue3m": 690718776
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da PETR3 nos últimos 12 meses é de 31,85%, classificada como nível 'alta'. O beta de 0,50 contra o Ibovespa indica que a ação tende a se mover com metade da amplitude do índice. A maior queda em 5 anos foi de -34,29%, entre 21/10/2022 e 14/12/2022. Para ações de energia com controle estatal, essa volatilidade reflete a sensibilidade aos preços do petróleo e a influência de políticas governamentais. No [StockBar](/recursos/desempenho-e-preco-medio), é possível visualizar a rentabilidade da PETR3 e o preço médio da sua posição ao longo do tempo."
+  },
+  "history": {
+    "overview": "A Petróleo Brasileiro S.A. (Petrobras) foi instituída em 3 de outubro de 1953, por meio da Lei nº 2.004, sancionada pelo presidente Getúlio Vargas, estabelecendo o monopólio estatal do petróleo no Brasil. A empresa iniciou suas operações com o patrimônio recebido do Conselho Nacional do Petróleo, incluindo a Refinaria de Mataripe, na Bahia, e a Refinaria de Cubatão, em construção. Durante a ditadura militar, a companhia expandiu sua infraestrutura com a construção de novas refinarias, oleodutos e gasodutos, além de criar subsidiárias como a Petroquisa em 1967 e a BR Distribuidora em 1971. Em 1977, a Petrobras começou a cotar suas ações na B3 e obteve registro como companhia aberta na CVM. Em 2010, a empresa realizou a maior capitalização em capital aberto da história, com 72,8 bilhões de dólares, tornando-se a segunda maior empresa de energia do mundo em valor de mercado. Em 2014, a companhia registrou um prejuízo de 21,587 bilhões de reais, o maior desde 1986, impactado pela corrupção entre 2004 e 2012. Em 2024, a Forbes Global 2000 classificou a Petrobras como a 54ª maior empresa pública do mundo, sendo a maior entre as brasileiras.",
+    "timeline": [
+      {
+        "date": "1953-10-03",
+        "event": "Constituição da companhia e fundação da Petrobras",
+        "source": 2
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Início da cotação das ações na B3 e registro como companhia aberta na CVM",
+        "source": 1
+      },
+      {
+        "date": "2026-05-11",
+        "event": "Petrobras informa sobre remuneração aos acionistas",
+        "source": 12
+      },
+      {
+        "date": "2026-05-20",
+        "event": "Petrobras informa sobre adesão à nova subvenção econômica",
+        "source": 11
+      },
+      {
+        "date": "2026-07-28",
+        "event": "Relatório de Produção e Vendas 2T26",
+        "source": 9
+      },
+      {
+        "date": "2026-10-08",
+        "event": "Petrobras informa sobre resultado de leilão da ANP",
+        "source": 6
+      },
+      {
+        "date": "2026-10-13",
+        "event": "Petrobras assina acordos de equalizações referentes às Jazidas Compartilhadas de Berbigão e Sururu",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Petrobras ganha dinheiro",
+      "body": "A Petróleo Brasileiro S.A. (Petrobras) atua na pesquisa, lavra, refinação, processamento, comércio e transporte de petróleo, seus derivados, gás natural e outros hidrocarbonetos fluidos, além de atividades vinculadas à energia. A empresa opera em seis países e possui produção diária de mais de 3 milhões de barris. A companhia é proprietária de refinarias, petroleiros, dutos e terminais, e é reconhecida por seu desenvolvimento de tecnologia avançada para exploração petrolífera em águas profundas e ultraprofundas. Em 2026, a visão da empresa é ser a melhor empresa diversificada e integrada de energia na geração de valor, conciliando o foco em óleo e gás com a diversificação em negócios de baixo carbono, incluindo produtos petroquímicos, fertilizantes e biocombustíveis."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Petrobras",
+      "body": "O controle acionário da Petrobras é estatal holding, com o Governo do Brasil (União) como acionista majoritário. A companhia está listada no Nível 2 da B3, o segmento de listagem com maior padrão de governança corporativa. Os códigos de negociação são PETR3 (ação ordinária) e PETR4 (ação preferencial). A ação ordinária (PETR3) confere direito a voto em assembleias gerais, enquanto a ação preferencial (PETR4) tem preferência na distribuição de dividendos, mas sem direito a voto."
+    },
+    {
+      "id": "proventos",
+      "heading": "PETR3 paga dividendos?",
+      "body": "PETR3 pagou R$ 3,6643 por ação em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 6,20%. O último pagamento foi de R$ 1,3481 em 24/08/2026. A companhia informou sobre remuneração aos acionistas em 11/05/2026 e 06/08/2026. No [StockBar](/recursos/proventos), é possível acompanhar os dividendos e JCP da PETR3 com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da PETR3",
+      "body": "A PETR3 registrou rentabilidade total com proventos de 101,25% nos 12 meses, 126,90% em 3 anos, 597,09% em 5 anos e 1.074,32% em 10 anos até 29/10/2026. O volume médio negociado por dia nos últimos 3 meses foi de R$ 690,7 milhões. No [StockBar](/recursos/comparacao-com-indices), é possível comparar a rentabilidade da PETR3 com o Ibovespa, CDI, IPCA e outros índices no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da PETR3",
+      "body": "A volatilidade anualizada da PETR3 nos últimos 12 meses é de 31,85%, classificada como nível 'alta'. O beta contra o Ibovespa é de 0,50, indicando menor sensibilidade ao índice. A maior queda nos últimos 5 anos foi de -34,29%, do pico em 21/10/2022 ao ponto mais baixo em 14/12/2022. Riscos do setor incluem flutuações nos preços do petróleo, mudanças regulatórias, eventos geopolíticos e a dependência de políticas governamentais, dada a natureza estatal da empresa. No [StockBar](/recursos/alertas-de-preco), é possível configurar alertas de preço para acompanhar movimentos da PETR3."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PETR3 paga dividendos?",
+      "answer": "Sim, PETR3 pagou R$ 3,6643 por ação em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 6,20%. O último pagamento foi de R$ 1,3481 em 24/08/2026. A companhia informou sobre remuneração aos acionistas em 11/05/2026 e 06/08/2026. No [StockBar](/recursos/proventos), é possível acompanhar os dividendos e JCP da PETR3 com data com e data de pagamento."
+    },
+    {
+      "question": "Qual a diferença entre PETR3 e PETR4?",
+      "answer": "PETR3 é a ação ordinária da Petrobras, com direito a voto em assembleias gerais. PETR4 é a ação preferencial, com preferência na distribuição de dividendos, mas sem direito a voto. Ambas são negociadas na B3 e representam a mesma empresa, a Petróleo Brasileiro S.A. (Petrobras). Veja a [PETR4](/acoes/petr4) para comparar."
+    },
+    {
+      "question": "PETR3 é ação de empresa estatal?",
+      "answer": "Sim, a Petrobras é uma empresa de economia mista com controle acionário do Governo do Brasil (União), classificada como 'estatal holding' na CVM. A companhia foi fundada em 1953 com o monopólio estatal do petróleo e continua sendo a maior empresa brasileira em valor de mercado."
+    },
+    {
+      "question": "Qual o setor da PETR3?",
+      "answer": "PETR3 está classificada no setor de Petróleo, Gás e Biocombustíveis, segmento de Exploração, Refino e Distribuição, tanto na B3 quanto na CVM. A empresa atua na pesquisa, lavra, refinação, processamento, comércio e transporte de petróleo, gás natural e derivados."
+    },
+    {
+      "question": "PETR3 tem alta volatilidade?",
+      "answer": "A volatilidade anualizada da PETR3 nos últimos 12 meses é de 31,85%, classificada como nível 'alta'. O beta contra o Ibovespa é de 0,50, indicando menor sensibilidade ao índice. A maior queda em 5 anos foi de -34,29%, entre 21/10/2022 e 14/12/2022. No [StockBar](/recursos/alertas-de-preco), é possível configurar alertas de preço para acompanhar movimentos da PETR3."
+    },
+    {
+      "question": "Como a Petrobras ganhou dinheiro em 2026?",
+      "answer": "A PETR3 registrou rentabilidade total com proventos de 101,25% nos 12 meses até 29/10/2026. A companhia informou sobre remuneração aos acionistas em 11/05/2026 e 06/08/2026, e sobre adesão à nova subvenção econômica em 20/05/2026, 02/06/2026 e 19/09/2026. No [StockBar](/recursos/comparacao-com-indices), é possível comparar a rentabilidade da PETR3 com o Ibovespa e outros índices."
+    },
+    {
+      "question": "PETR3 é a maior empresa brasileira?",
+      "answer": "Em 2024, a Forbes Global 2000 classificou a Petrobras como a 54ª maior empresa pública do mundo, sendo a maior entre as brasileiras. Em 2025, a empresa foi a segunda maior do continente latino-americano em valor de mercado, segundo a Elos Ayta Consultoria."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da PETR3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com Ibovespa e CDI",
+        "context": "Compare a rentabilidade da PETR3 com o Ibovespa, CDI, IPCA e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para ser notificado quando a PETR3 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Visualize a rentabilidade da PETR3 e o preço médio da sua posição ao longo do tempo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a PETR3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da mesma empresa, com preferência na distribuição de dividendos."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Outra grande empresa brasileira de commodities, com exposição a metais e mineração."
+      },
+      {
+        "ticker": "PRIO3",
+        "list": "br-stocks",
+        "reason": "Empresa do mesmo setor de petróleo e gás, com foco em exploração e produção."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF de energia dos EUA, para comparar com o setor global de petróleo e gás."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PETR3",
+      "url": "https://finance.yahoo.com/quote/PETR3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: PETROBRAS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/9512/PETR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Petrobras",
+      "url": "https://www.wikidata.org/wiki/Q210047",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Petrobras",
+      "url": "https://pt.wikipedia.org/wiki/Petrobras",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/10/2026, “Petrobras assina acordos de equalizações referentes às Jazidas Compartilhadas de Berbigão e Sururu”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1576827&numSequencia=1101533&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/10/2026, “Petrobras informa sobre resultado de leilão da ANP”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1575304&numSequencia=1100010&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/09/2026, “Petrobras informa sobre adesão à nova subvenção econômica”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569745&numSequencia=1094451&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/08/2026, “Petrobras informa sobre remuneração aos acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1553780&numSequencia=1078486&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/07/2026, “Relatório de Produção e Vendas 2T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550775&numSequencia=1075481&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/06/2026, “Petrobras informa sobre adesão à nova subvenção econômica”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1529607&numSequencia=1054313&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/05/2026, “Petrobras informa sobre adesão à nova subvenção econômica”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525282&numSequencia=1049988&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/05/2026, “Petrobras informa sobre remuneração aos acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1520177&numSequencia=1044883&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

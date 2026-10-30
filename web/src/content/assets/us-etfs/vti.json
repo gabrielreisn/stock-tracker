@@ -1,0 +1,259 @@
+{
+  "ticker": "VTI",
+  "slug": "vti",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "VTI: história, dividendos e volatilidade",
+    "description": "VTI é o Vanguard Total Stock Market ETF, lançado em 2001 pela The Vanguard Group.",
+    "h1": "VTI: Vanguard Total Stock Market ETF",
+    "canonicalPath": "/etfs/vti",
+    "keywords": [
+      "VTI",
+      "Vanguard Total Stock Market ETF",
+      "ETF mercado acionário EUA",
+      "investir em VTI Brasil",
+      "dividendos VTI",
+      "volatilidade VTI"
+    ]
+  },
+  "summary": "VTI é o Vanguard Total Stock Market ETF, lançado em 2001 pela The Vanguard Group. O fundo replica o mercado acionário total dos Estados Unidos, incluindo todas as empresas públicas listadas. Em 29/10/2026, a cota valia US$ 378,24, com rentabilidade de 13,28% nos últimos 12 meses e dividend yield de 1,04%.",
+  "profile": {
+    "type": "ETF de índice (ações)",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "Morningstar US Total Market Index",
+    "name": "Vanguard Morningstar Total Stock Market ETF"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Morningstar Total Stock Market ETF",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 378,24",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "12,91% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,01",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,04%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,13 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VTI",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Morningstar Total Stock Market ETF",
+    "currency": "USD",
+    "price": 378.24,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1328,
+      "3y": 0.9128,
+      "5y": 0.7114,
+      "10y": 3.0729
+    },
+    "volatility1y": 0.1291,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2536,
+      "from": "2022-01-03",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 1.01,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.949,
+      "payments12Months": 4,
+      "yield12Months": 0.0104,
+      "lastPayment": {
+        "date": "2026-09-28",
+        "amount": 0.956
+      }
+    },
+    "avgDailyTradedValue3m": 1131300012
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do VTI nos últimos 12 meses é de 12,91%, considerada de nível baixo. O beta de 1,01 contra o S&P 500 indica que o VTI se move de forma similar ao índice de referência, sem amplificar ou atenuar as variações do mercado. A maior queda nos últimos 5 anos foi de -25,36%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Para monitorar a volatilidade e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+  },
+  "history": {
+    "overview": "O mercado de Exchange-Traded Funds (ETFs) nos Estados Unidos teve início em 1993 com o lançamento dos SPDRs ([SPY](/etfs/spy)), que replicavam o S&P 500. A The Vanguard Group, reconhecida como defensora dos fundos de índice de baixo custo, entrou nesse mercado em 2001 com o lançamento do Vanguard Total Stock Market ETF (VTI). Diferente dos primeiros ETFs que focavam em índices específicos como o S&P 500 ou o Nasdaq-100, o VTI foi projetado para oferecer exposição a todo o mercado acionário americano, incluindo pequenas, médias e grandes capitalizações. A estratégia de gestão passiva do VTI visa replicar o desempenho do índice de referência com a menor taxa de administração possível, o que o tornou um dos principais veículos para investidores que buscam diversificação ampla e custos reduzidos. Com o crescimento da indústria de ETFs, que atingiu US$ 5,5 trilhões em ativos sob gestão em janeiro de 2021, o VTI consolidou-se como uma ferramenta central para a alocação em ações dos EUA, oferecendo liquidez e transparência superior às de fundos mútuos tradicionais.",
+    "timeline": [
+      {
+        "date": "1993-01",
+        "event": "Lançamento dos Standard & Poor's Depositary Receipts (SPY), o primeiro ETF de grande sucesso nos EUA.",
+        "source": 2
+      },
+      {
+        "date": "2001",
+        "event": "The Vanguard Group lança o Vanguard Total Stock Market ETF (VTI), que detém todas as ações negociadas publicamente nos EUA.",
+        "source": 2
+      },
+      {
+        "date": "2014-12",
+        "event": "Os ativos sob gestão dos ETFs nos EUA atingem US$ 2 trilhões.",
+        "source": 2
+      },
+      {
+        "date": "2019-11",
+        "event": "Os ativos sob gestão dos ETFs nos EUA atingem US$ 4 trilhões.",
+        "source": 2
+      },
+      {
+        "date": "2021-01",
+        "event": "Os ativos sob gestão dos ETFs nos EUA crescem para US$ 5,5 trilhões.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VTI funciona",
+      "body": "O VTI é um Exchange-Traded Fund (ETF) de gestão passiva lançado em 2001 pela The Vanguard Group. O objetivo do fundo é replicar o desempenho do mercado acionário total dos Estados Unidos. Diferente de ETFs que focam em índices específicos como o S&P 500, o VTI busca capturar a rentabilidade de todas as empresas públicas listadas nos EUA, independentemente do tamanho. A gestão passiva implica que o fundo não tenta superar o mercado, mas sim acompanhar o índice de referência com a menor taxa de administração possível, o que resulta em custos baixos para o investidor. O VTI é negociado em bolsa, permitindo que as cotas sejam compradas e vendidas durante o horário de negociação, com preços que se ajustam continuamente."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VTI",
+      "body": "O VTI segue o Morningstar US Total Market Index, que inclui todas as ações negociadas publicamente nos Estados Unidos. Isso significa que a carteira do fundo é composta por uma vasta gama de empresas, abrangendo diferentes setores e tamanhos de capitalização, desde as maiores corporações até empresas de menor porte. A composição é passiva, refletindo a estrutura do índice de referência. A Vanguard é a gestora do fundo, e o VTI é um dos principais veículos para exposição ampla ao mercado acionário americano. A transparência da composição é uma característica dos ETFs, que são obrigados a publicar a composição de suas carteiras regularmente."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VTI a partir do Brasil",
+      "body": "Investir no VTI a partir do Brasil pode ser feito de duas formas principais: através de uma conta em uma corretora de valores no exterior, que permite a compra direta do ETF em dólar, ou por meio de ETFs e BDRs listados na B3 que replicam o mesmo índice ou mercado. A compra direta em corretoras estrangeiras exige a abertura de conta e a transferência de recursos, sujeita a regras de câmbio. O principal risco cambial é a variação da taxa de câmbio do dólar em relação ao real, que pode impactar a rentabilidade final do investimento, independentemente do desempenho do mercado acionário americano. Investidores devem considerar esse risco ao alocar recursos em ativos denominados em moeda estrangeira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VTI",
+      "body": "Em 29/10/2026, a cota do VTI valia US$ 378,24. A rentabilidade total com proventos foi de 13,28% nos últimos 12 meses, 91,28% em 3 anos, 71,14% em 5 anos e 307,29% em 10 anos. O dividend yield é de 1,04%, com US$ 3,9490 pagos por cota em 4 pagamentos nos 12 meses até 29/10/2026. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,13 bilhão. Para comparar o desempenho do VTI com outros índices, como o S&P 500, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VTI",
+      "body": "Os riscos do VTI incluem a volatilidade do mercado acionário americano e o risco cambial para investidores brasileiros. A volatilidade anualizada do VTI nos últimos 12 meses é de 12,91%, considerada de nível baixo. O beta de 1,01 contra o S&P 500 indica que o VTI se move de forma similar ao índice de referência. A maior queda nos últimos 5 anos foi de -25,36%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Riscos gerais de ETFs incluem a liquidez do mercado e a possibilidade de perdas em caso de queda do mercado acionário. A exposição a todo o mercado acionário americano também significa que o investidor está sujeito a riscos setoriais e econômicos dos EUA."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o VTI?",
+      "answer": "O VTI é o Vanguard Total Stock Market ETF, um fundo de índice que replica o mercado acionário total dos Estados Unidos. Ele foi lançado em 2001 pela The Vanguard Group e é negociado em bolsa, permitindo que as cotas sejam compradas e vendidas durante o horário de negociação."
+    },
+    {
+      "question": "Qual a diferença entre VTI e SPY?",
+      "answer": "O VTI replica o mercado acionário total dos EUA, incluindo todas as empresas públicas, enquanto o SPY replica o S&P 500, que inclui as 500 maiores empresas por capitalização. O VTI oferece maior diversificação, incluindo pequenas e médias capitalizações, enquanto o SPY é mais concentrado em grandes empresas."
+    },
+    {
+      "question": "O VTI paga dividendos?",
+      "answer": "Sim, o VTI paga dividendos. Nos 12 meses até 29/10/2026, foram pagos US$ 3,9490 por cota em 4 pagamentos, resultando em um dividend yield de 1,04%. O último pagamento foi de US$ 0,9560 em 28/09/2026. Veja os [dividendos e JCP no StockBar](/recursos/desempenho-e-preco-medio) para acompanhar os proventos."
+    },
+    {
+      "question": "Como investir no VTI a partir do Brasil?",
+      "answer": "Investir no VTI a partir do Brasil pode ser feito através de uma conta em uma corretora de valores no exterior, que permite a compra direta do ETF em dólar, ou por meio de ETFs e BDRs listados na B3 que replicam o mesmo índice ou mercado. O principal risco cambial é a variação da taxa de câmbio do dólar em relação ao real."
+    },
+    {
+      "question": "Qual a volatilidade do VTI?",
+      "answer": "A volatilidade anualizada do VTI nos últimos 12 meses é de 12,91%, considerada de nível baixo. O beta de 1,01 contra o S&P 500 indica que o VTI se move de forma similar ao índice de referência. A maior queda nos últimos 5 anos foi de -25,36%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do VTI lado a lado com o S&P 500, Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do VTI chegar ao preço que você escolheu, para monitorar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do VTI junto com outras ações, ETFs e fundos na sua carteira, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos do VTI com data de pagamento e a rentabilidade da sua posição, com preço médio e ganho."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, o índice de referência mais conhecido dos EUA, para comparação com o VTI."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF da Vanguard que replica o S&P 500, para comparação de custos e desempenho."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF da iShares que replica o S&P 500, para comparação de custos e desempenho."
+      },
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "ETF que replica o Russell 2000, para exposição a pequenas capitalizações, complementando o VTI."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VTI",
+      "url": "https://finance.yahoo.com/quote/VTI/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Exchange-traded fund",
+      "url": "https://www.wikidata.org/wiki/Q845477",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Fundo negociado em bolsa",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_negociado_em_bolsa",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

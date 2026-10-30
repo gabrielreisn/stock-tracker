@@ -1,0 +1,329 @@
+{
+  "ticker": "HGRU11",
+  "slug": "hgru11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "HGRU11: história, rendimentos e volatilidade",
+    "description": "Conheça o HGRU11, FII de tijolo da Patria com foco em educação e varejo. Veja rendimentos, patrimônio, emissões e desempenho até 28/10/2026.",
+    "h1": "HGRU11: Pátria Renda Urbana FII",
+    "canonicalPath": "/fiis/hgru11",
+    "keywords": [
+      "HGRU11",
+      "Pátria Renda Urbana FII",
+      "FII de tijolo",
+      "renda urbana",
+      "dividend yield HGRU11",
+      "patrimônio HGRU11",
+      "volatilidade HGRU11"
+    ]
+  },
+  "summary": "HGRU11 é a cota do Pátria Renda Urbana - Fundo de Investimento Imobiliário, um FII de tijolo focado em imóveis urbanos de uso institucional e comercial, com ênfase em educação e varejo. Em 09/2026, o fundo contava com 233.809 cotistas e patrimônio líquido de R$ 3,18 bilhões. Nos 12 meses até 28/10/2026, a cota registrou rentabilidade total de -1,77% e distribuiu proventos que resultaram em dividend yield de 9,60%.",
+  "profile": {
+    "type": "FII de tijolo, renda urbana (comércio e educação)",
+    "issuerOrManager": "Patria Investimentos Ltda",
+    "name": "Pátria Renda Urbana - Fundo de Investimento Imobiliário",
+    "legalName": "PÁTRIA RENDA URBANA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "27/04/2018",
+    "administrator": "GENIAL INVESTIMENTOS CORRETORA DE MOBILIARIOS S.A.",
+    "website": "https://www.genialinvestimentos.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "PÁTRIA RENDA URBANA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "29.641.226/0001-53",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "GENIAL INVESTIMENTOS CORRETORA DE MOBILIARIOS S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "27/04/2018",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 3,18 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "233.809",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 127,89",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 113,99",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "13,78% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,27",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,60%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 9,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HGRU11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Patria Renda Urbana - Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 113.99,
+    "historyStarts": "2018-07-27",
+    "returns": {
+      "1y": -0.0177,
+      "3y": 0.1693,
+      "5y": 0.558,
+      "10y": null
+    },
+    "volatility1y": 0.1378,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1654,
+      "from": "2024-01-15",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.27,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.945,
+      "payments12Months": 11,
+      "yield12Months": 0.096,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.95
+      }
+    },
+    "avgDailyTradedValue3m": 9088967
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do HGRU11 nos 12 meses até 28/10/2026 foi de 13,78%, classificada como nível baixo. O beta de 0,27 contra o Ibovespa indica que a cota tende a oscilar menos que o índice de ações. A maior queda em 5 anos foi de -16,54%, entre 15/01/2024 e 19/12/2024. Para um FII de tijolo com foco em renda urbana, essa volatilidade é compatível com o perfil de ativos que dependem de locações de longo prazo e têm baixa vacância. Use [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações da cota e o [recurso de desempenho e preço médio](/recursos/desempenho-e-preco-medio) para avaliar a rentabilidade da sua posição."
+  },
+  "history": {
+    "overview": "O Pátria Renda Urbana FII (HGRU11) iniciou suas atividades em 27/04/2018, com o objetivo de explorar empreendimentos imobiliários urbanos de uso institucional e comercial, priorizando ativos que não sejam lajes corporativas, shopping centers ou logística. A gestão é ativa e conduzida pela Patria Investimentos Ltda., enquanto a administração fiduciária era realizada pelo Banco Genial S.A. Em 01/10/2026, houve uma reorganização societária do Grupo Genial, transferindo a administração fiduciária para a Genial Investimentos Corretora de Valores Mobiliários S.A., sem alteração na equipe, nos sistemas ou na política de investimento do fundo. O HGRU11 é parte de índices internacionais, o que o expõe a rebalanceamentos periódicos de carteiras de investidores estrangeiros, como o ocorrido em 18/09/2026. O fundo já realizou seis ofertas públicas de cotas encerradas, ampliando seu patrimônio ao longo dos anos.",
+    "timeline": [
+      {
+        "date": "2018-04-27",
+        "event": "Início das atividades do Pátria Renda Urbana FII (HGRU11).",
+        "source": 1
+      },
+      {
+        "date": "2019-10-17",
+        "event": "Início de uma oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-12-03",
+        "event": "Encerramento da oferta pública de cotas iniciada em outubro de 2019.",
+        "source": 2
+      },
+      {
+        "date": "2020-11-04",
+        "event": "Encerramento da oferta pública de cotas iniciada em setembro de 2020.",
+        "source": 2
+      },
+      {
+        "date": "2024-10-29",
+        "event": "Encerramento da oferta pública de cotas iniciada em julho de 2024.",
+        "source": 2
+      },
+      {
+        "date": "2026",
+        "event": "Início da 7ª emissão de cotas, com montante total de R$ 1,1 bilhão.",
+        "source": 3
+      },
+      {
+        "date": "2026-06-12",
+        "event": "Encerramento de uma oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2026-09-18",
+        "event": "Rebalanceamento de carteira de índice internacional, com possível ajuste na composição da carteira do HGRU11.",
+        "source": 5
+      },
+      {
+        "date": "2026-10-01",
+        "event": "Substituição do administrador fiduciário para a Genial Investimentos Corretora de Valores Mobiliários S.A., em reorganização do Grupo Genial.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do HGRU11",
+      "body": "O HGRU11 é um Fundo de Investimento Imobiliário (FII) de tijolo, com gestão ativa, focado em empreendimentos imobiliários urbanos de uso institucional e comercial. O fundo prioriza a aquisição de ativos que não sejam lajes corporativas, shopping centers ou da área de logística, com ênfase nos segmentos de educação e varejo. A gestora é a Patria Investimentos Ltda. e, desde 01/10/2026, o administrador fiduciário é a Genial Investimentos Corretora de Valores Mobiliários S.A., após reorganização do Grupo Genial. Em 30/09/2026, o portfólio contava com 104 imóveis e 29 locatários, com Área Bruta Locável (ABL) de 613.427 m² e vacância física de 0,8%. O fundo mantém 5,0% de alavancagem financeira, utilizada para auxiliar o crescimento do portfólio sem comprometer a estrutura de capital."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do HGRU11",
+      "body": "Nos 12 meses até 28/10/2026, o HGRU11 distribuiu R$ 10,9450 por cota em 11 pagamentos, resultando em dividend yield de 9,60% sobre o preço de mercado. O último provento foi de R$ 0,9500, pago em 01/10/2026. Em setembro de 2026, a receita total foi de R$ 1,09/cota, com resultado distribuível de R$ 0,85/cota, impactado positivamente pela venda de uma loja Pernambucanas. O dividend yield patrimonial informado pelo fundo em 09/2026 era de 8,9% ao ano. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Acompanhe os proventos do HGRU11 no [recurso de proventos](/recursos/proventos), que exibe as datas de competência e pagamento multiplicadas pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O HGRU11 realizou 6 ofertas públicas de cotas encerradas, conforme registros do FNET (B3). A 7ª emissão teve início em 21/08/2026, com montante total de R$ 1,1 bilhão. Em 09/2026, o patrimônio líquido do fundo era de R$ 3,18 bilhões, com 233.809 cotistas e valor patrimonial da cota de R$ 127,89. O número de cotas emitidas era de 24.834.204. A taxa de administração no mês de 09/2026 foi de 0,052% sobre o patrimônio, equivalente a 0,7% ao ano sobre o valor de mercado de negociação em bolsa. A taxa de performance é de 20% do que exceder 5,5% a.a. da cota de integralização atualizada pelo IPCA."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HGRU11",
+      "body": "A rentabilidade total do HGRU11 com proventos foi de -1,77% nos 12 meses até 28/10/2026, 16,93% em 3 anos e 55,80% em 5 anos. O fundo é classificado pela Anbima como Tijolo Renda Gestão Ativa - Multicategoria. Em setembro de 2026, o setor de Renda Urbana do IFIX recuou 3,1%, enquanto o IFIX total teve queda de 0,2%. O valor de mercado do HGRU11 era de R$ 2,8 bilhões, com P/VP de 0,90x. Compare a rentabilidade do HGRU11 com o IFIX e o CDI no [recurso de comparação com índices](/recursos/comparacao-com-indices), que exibe a performance lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HGRU11",
+      "body": "Como FII de tijolo, o HGRU11 está exposto a riscos de vacância e inadimplência de locatários. Em 30/09/2026, a vacância física e financeira eram de 0,8%, com WALE de 8,9 anos. O fundo possui 5,0% de alavancagem financeira, o que pode amplificar perdas em cenários de estresse. A volatilidade anualizada nos 12 meses até 28/10/2026 foi de 13,78%, nível baixo, e o beta contra o Ibovespa foi de 0,27, indicando menor sensibilidade ao índice. A maior queda em 5 anos foi de -16,54%, do pico em 15/01/2024 ao ponto mais baixo em 19/12/2024. O fundo também está sujeito a riscos de liquidez, com volume médio diário de R$ 9,1 milhões nos últimos 3 meses. Configure [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos da cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HGRU11 é FII de papel ou de tijolo?",
+      "answer": "HGRU11 é um FII de tijolo, focado em imóveis urbanos de uso institucional e comercial, com ênfase em educação e varejo. O fundo possui 104 imóveis e 29 locatários, com vacância física de 0,8% em 30/09/2026. A gestão é ativa e a estratégia prioriza ativos líquidos, bem localizados e com pontos comerciais consolidados."
+    },
+    {
+      "question": "HGRU11 paga dividendos?",
+      "answer": "Sim, o HGRU11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram distribuídos R$ 10,9450 por cota em 11 pagamentos, com dividend yield de 9,60%. O último provento foi de R$ 0,9500, pago em 01/10/2026. Acompanhe os proventos no [recurso de proventos](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a taxa de administração do HGRU11?",
+      "answer": "A taxa de administração total do HGRU11 é de 0,7% ao ano sobre o valor de mercado de negociação em bolsa. Em 09/2026, a taxa mensal foi de 0,052% sobre o patrimônio. Há também taxa de performance de 20% do que exceder 5,5% a.a. da cota de integralização atualizada pelo IPCA."
+    },
+    {
+      "question": "Qual o patrimônio do HGRU11?",
+      "answer": "Em 09/2026, o patrimônio líquido do HGRU11 era de R$ 3,18 bilhões, com 233.809 cotistas e valor patrimonial da cota de R$ 127,89. O valor de mercado era de R$ 2,8 bilhões, com P/VP de 0,90x. O fundo tem 24.834.204 cotas emitidas."
+    },
+    {
+      "question": "HGRU11 tem alavancagem?",
+      "answer": "Sim, o HGRU11 possui 5,0% de alavancagem financeira no portfólio, segundo o relatório gerencial de 30/09/2026. Essa estrutura é utilizada para auxiliar o crescimento do portfólio sem comprometer a estrutura de capital do fundo, e o time de gestão acompanha a evolução da alavancagem de modo ativo."
+    },
+    {
+      "question": "O que é o HGRU11?",
+      "answer": "HGRU11 é a cota do Pátria Renda Urbana - Fundo de Investimento Imobiliário, um FII de tijolo com foco em imóveis urbanos de uso institucional e comercial, especialmente educação e varejo. O fundo iniciou atividades em 27/04/2018, tem gestão ativa pela Patria Investimentos e administração fiduciária pela Genial Investimentos desde 01/10/2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos do HGRU11",
+        "context": "Veja os rendimentos distribuídos pelo HGRU11 com data de competência e pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX e CDI",
+        "context": "Compare a rentabilidade do HGRU11 com o IFIX e o CDI no mesmo gráfico, para avaliar o desempenho do fundo em relação a índices de referência."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço do HGRU11",
+        "context": "Receba uma notificação quando a cota do HGRU11 atingir o preço que você escolheu, para acompanhar movimentos de volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o HGRU11 junto com seus outros investimentos em uma só visão, com alocação por classe e as maiores posições da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PMLL11",
+        "list": "fiis",
+        "reason": "Outro FII da gestora Patria Investimentos, focado em shopping centers, para comparação dentro do mesmo grupo gestor."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda urbana e institucional, com perfil similar de ativos e foco em imóveis comerciais e educacionais."
+      },
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "FII de tijolo com gestão ativa, para comparação de estratégia e desempenho no segmento de fundos imobiliários."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shopping centers, para comparação de segmento e exposição a ativos de varejo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HGRU11",
+      "url": "https://finance.yahoo.com/quote/HGRU11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do PÁTRIA RENDA URBANA - FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo HGRU11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=29641226000153",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do HGRU11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1348100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HGRU11, 01/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HGRU11, 17/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1323272",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

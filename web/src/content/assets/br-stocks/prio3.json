@@ -1,0 +1,400 @@
+{
+  "ticker": "PRIO3",
+  "slug": "prio3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "PRIO3: história, dividendos e volatilidade",
+    "description": "Conheça a PRIO3, ação da petroleira independente PRIO S.A. Veja desempenho, riscos, proventos e como acompanhar no StockBar.",
+    "h1": "PRIO3: Ação Ordinária da PRIO S.A.",
+    "canonicalPath": "/acoes/prio3",
+    "keywords": [
+      "PRIO3",
+      "PRIO S.A.",
+      "petroleira independente",
+      "ações de petróleo",
+      "dividendos PRIO3",
+      "volatilidade PRIO3",
+      "campo de Wahoo",
+      "B3 petróleo"
+    ]
+  },
+  "summary": "PRIO3 é a ação ordinária da PRIO S.A., empresa brasileira do setor de petróleo e gás, focada na produção e recuperação de ativos maduros. Fundada em 2008 e listada na B3 desde 2010, a companhia opera campos como Polvo, Frade e Wahoo. Em 29/10/2026, a ação cotava a R$ 70,47, com alta volatilidade anualizada de 36,33% e beta de 0,19 em relação ao Ibovespa.",
+  "profile": {
+    "name": "PRIO",
+    "legalName": "PRIO S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Petróleo, Gás e Biocombustíveis",
+    "segment": "Exploração, Refino e Distribuição",
+    "founded": "13/10/2008",
+    "listedSince": "25/10/2010",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://www.petroriosa.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "PRIO S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "10.629.105/0001-68",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Petróleo, Gás e Biocombustíveis / Exploração, Refino e Distribuição",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "13/10/2008",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "25/10/2010",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "PRIO3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 70,47",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "36,33% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,19",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 544,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PRIO3",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Prio S.A.",
+    "currency": "BRL",
+    "price": 70.47,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.9575,
+      "3y": 0.5225,
+      "5y": 2.0074,
+      "10y": 219.5725
+    },
+    "volatility1y": 0.3633,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3533,
+      "from": "2024-04-12",
+      "to": "2025-04-10"
+    },
+    "beta1y": {
+      "value": 0.19,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2023-12-14",
+        "amount": 0.072644
+      }
+    },
+    "avgDailyTradedValue3m": 544129843
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da PRIO3 é de 36,33%, considerada alta para ações de petróleo, refletindo a sensibilidade ao preço do barril e a execução de projetos. O beta de 0,19 indica que a ação tende a variar menos que o Ibovespa, o que pode ser atribuído à sua estratégia de ativos maduros e à diversificação de campos. A maior queda em 5 anos, de -35,33% entre 12/04/2024 e 10/04/2025, mostra o potencial de correções em períodos de estresse no setor. Para acompanhar movimentos bruscos, o recurso de [alertas de preço](/recursos/alertas-de-preco) no StockBar permite definir notificações personalizadas."
+  },
+  "history": {
+    "overview": "A PRIO S.A. (antiga PetroRio) foi fundada em 13 de outubro de 2008 no Rio de Janeiro, inicialmente como BN 16 Participações. Em 2009, passou a se chamar HRT Participações em Petróleo e, em 2010, abriu capital na B3. Em 2015, adotou o nome PetroRio e, em maio de 2022, atualizou a marca para PRIO, consolidando-se como a principal petroleira independente de origem brasileira e uma das dez maiores produtoras do país. A estratégia da empresa baseia-se na aquisição de ativos em produção e na recuperação de campos maduros, com destaque para a interligação (tieback) entre os campos de Polvo e Tubarão Martelo, concluída em 2021, que reduziu custos operacionais. Em 2022, a companhia concluiu a incorporação da Dommo Energia (antiga OGX), garantindo 100% do campo de Tubarão Martelo. Em 2026, a PRIO iniciou a produção do campo de Wahoo, marcando sua entrada no pré-sal, e obteve licença de perfuração no campo de Frade.",
+    "timeline": [
+      {
+        "date": "2008-10-13",
+        "event": "Constituição da companhia como PRIO S.A.",
+        "source": 2
+      },
+      {
+        "date": "2010-10-21",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2010-10-25",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2015-01",
+        "event": "Mudança de nome para PetroRio",
+        "source": 4
+      },
+      {
+        "date": "2018-10",
+        "event": "Compra da Frade Japan Petroleum, aumentando produção e reservas",
+        "source": 4
+      },
+      {
+        "date": "2020-08",
+        "event": "Tornou-se operadora do Campo de Tubarão Martelo",
+        "source": 4
+      },
+      {
+        "date": "2021-07",
+        "event": "Conclusão do tieback entre Polvo e Tubarão Martelo",
+        "source": 4
+      },
+      {
+        "date": "2022-05",
+        "event": "Atualização da marca para PRIO",
+        "source": 4
+      },
+      {
+        "date": "2022-09",
+        "event": "Anúncio da compra da Dommo Energia",
+        "source": 4
+      },
+      {
+        "date": "2026-03-16",
+        "event": "Obtenção de licença de perfuração em Frade",
+        "source": 12
+      },
+      {
+        "date": "2026-03-19",
+        "event": "Start-up do Campo de Wahoo",
+        "source": 11
+      },
+      {
+        "date": "2026-03-23",
+        "event": "Produção do primeiro poço de Wahoo",
+        "source": 10
+      },
+      {
+        "date": "2026-06-16",
+        "event": "Produção do quarto poço de Wahoo",
+        "source": 6
+      },
+      {
+        "date": "2026-10-07",
+        "event": "Resultado em leilão da ANP",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a PRIO ganha dinheiro",
+      "body": "A PRIO S.A. atua no setor de Petróleo, Gás e Biocombustíveis, com foco na exploração, produção, comercialização e transporte de petróleo e gás natural. A empresa especializa-se na gestão eficiente de reservatórios e no desenvolvimento de campos maduros, além de participar de outras sociedades visando à consecução de atividades relacionadas à energia. A receita provém da operação de campos como Polvo, Frade, Tubarão Martelo e Wahoo, com destaque para a produção de gás não associado no Campo de Manati, que atende cerca de 30% da demanda do Nordeste."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da PRIO",
+      "body": "O controle acionário da PRIO é privado holding, conforme cadastro da CVM. A empresa está listada no segmento Novo Mercado da B3, o que implica maior governança corporativa e transparência. As ações são negociadas sob o código PRIO3, que representa a ação ordinária. Diferentemente das ações preferenciais, as ordinárias possuem direito a voto em assembleias gerais, mas não têm prioridade no recebimento de dividendos ou no capital social em caso de liquidação. A PRIO incentiva a aquisição de ações por funcionários por meio de um programa de stock options."
+    },
+    {
+      "id": "proventos",
+      "heading": "PRIO3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, a PRIO3 não distribuiu proventos, como dividendos ou JCP. A ausência de pagamentos recentes não indica necessariamente uma política de retenção de lucros, mas reflete o momento da empresa, que tem investido em expansões e aquisições, como a entrada no pré-sal com o campo de Wahoo. Para acompanhar a distribuição de proventos quando ocorrer, é possível utilizar o recurso de [dividendos e JCP no StockBar](/recursos/proventos), que lista as datas de comunicação e pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da PRIO3",
+      "body": "Até 29/10/2026, a PRIO3 apresentou rentabilidade total de 95,75% em 12 meses, 52,25% em 3 anos e 200,74% em 5 anos. Em 10 anos, o retorno foi de 21.957,25%. Esses números refletem o crescimento da empresa e a valorização do setor de petróleo. Para comparar esse desempenho com o Ibovespa, o CDI e outros índices, o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar permite visualizar a rentabilidade lado a lado, ajudando a entender o contexto de mercado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da PRIO3",
+      "body": "A PRIO3 apresenta volatilidade anualizada de 36,33% nos últimos 12 meses, classificada como alta, e beta de 0,19 em relação ao Ibovespa, indicando menor sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -35,33%, entre 12/04/2024 e 10/04/2025. Riscos setoriais incluem a dependência do preço do petróleo, mudanças regulatórias e a execução de projetos de expansão, como a produção no campo de Wahoo. A volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PRIO3 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 29/10/2026, a PRIO3 não distribuiu proventos. A empresa tem investido em expansões, como a entrada no pré-sal, o que pode adiar a distribuição de dividendos. Para acompanhar futuros pagamentos, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre PRIO3 e ações preferenciais da PRIO?",
+      "answer": "PRIO3 é a ação ordinária, com direito a voto em assembleias, mas sem prioridade em proventos. Ações preferenciais, quando existem, têm prioridade no recebimento de dividendos, mas não votam. A PRIO atualmente negocia apenas ações ordinárias na B3."
+    },
+    {
+      "question": "PRIO3 é uma ação de petróleo ou de gás?",
+      "answer": "PRIO3 é a ação da PRIO S.A., que atua em ambos os setores, com foco em petróleo e gás natural. A empresa opera campos de petróleo como Polvo e Frade, e gás não associado em Manati, além de ter entrado no pré-sal com Wahoo."
+    },
+    {
+      "question": "Qual o risco da PRIO3?",
+      "answer": "A PRIO3 tem volatilidade anualizada de 36,33% e beta de 0,19, indicando alta volatilidade, mas menor sensibilidade ao Ibovespa. Riscos incluem o preço do petróleo e a execução de projetos. Para monitorar, use [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+    },
+    {
+      "question": "PRIO3 é boa para longo prazo?",
+      "answer": "A PRIO3 teve alta de 200,74% em 5 anos e 21.957,25% em 10 anos, mas rentabilidade passada não garante futuro. A empresa está em fase de expansão, com projetos como Wahoo. Para avaliar, compare com índices no [StockBar](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Como acompanhar a PRIO3 no dia a dia?",
+      "answer": "O StockBar oferece o [widget na barra de menus](/recursos/widget-da-barra-de-menus) para ver o gráfico do dia e posições rapidamente. Para dúvidas sobre a carteira, o [assistente de IA](/recursos/assistente-de-ia) responde em português, usando seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da PRIO3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da PRIO3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a PRIO3 atingir o preço que você escolheu, útil para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação da PRIO3 junto com outros ativos, como PETR4 e VALE3, em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em PRIO3 e receba respostas baseadas nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Petrobras, maior petroleira do Brasil, para comparação no setor."
+      },
+      {
+        "ticker": "PETR3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária da Petrobras, para comparar com a PRIO3 no segmento de petróleo."
+      },
+      {
+        "ticker": "VBBR3",
+        "list": "br-stocks",
+        "reason": "Ação da Vibra Energia, outra empresa independente do setor de petróleo e gás."
+      },
+      {
+        "ticker": "ENEV3",
+        "list": "br-stocks",
+        "reason": "Ação da Eneva, empresa de gás natural, para diversificação no setor de energia."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Ação da AXIA Energia, para comparar com outras empresas de energia na B3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PRIO3",
+      "url": "https://finance.yahoo.com/quote/PRIO3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: PRIO, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22187/PRIO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, PRIO S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: PRIO",
+      "url": "https://www.wikidata.org/wiki/Q19709597",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): PRIO",
+      "url": "https://pt.wikipedia.org/wiki/PRIO",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/10/2026, “Resultado em leilão da ANP”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1574965&numSequencia=1099671&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/06/2026, “Produção do Quarto Poço de Wahoo”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1535182&numSequencia=1059888&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/05/2026, “Alteração na Diretoria de Operações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1516112&numSequencia=1040818&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/04/2026, “Produção do Terceiro Poço de Wahoo”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1501613&numSequencia=1026319&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/03/2026, “Produção do segundo poço de Wahoo”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1496355&numSequencia=1021061&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/03/2026, “Produção do Primeiro Poço de Wahoo”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1493458&numSequencia=1018164&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/03/2026, “Start-up do Campo de Wahoo”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492359&numSequencia=1017065&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/03/2026, “Licença de Perfuração em Frade”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1491005&numSequencia=1015711&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,382 @@
+{
+  "ticker": "ENEV3",
+  "slug": "enev3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "ENEV3: história, dividendos e volatilidade",
+    "description": "ENEV3 é a ação ordinária da Eneva, empresa integrada de energia com 7,2 GWh de capacidade.",
+    "h1": "ENEV3: Eneva S.A. – Ação Ordinária de Energia Elétrica",
+    "canonicalPath": "/acoes/enev3",
+    "keywords": [
+      "ENEV3",
+      "Eneva",
+      "ação de energia",
+      "gás natural",
+      "dividendos ENEV3",
+      "volatilidade ENEV3",
+      "Novo Mercado",
+      "B3"
+    ]
+  },
+  "summary": "ENEV3 é a ação ordinária da Eneva S.A., empresa brasileira integrada de energia que atua na geração, exploração e produção de petróleo e gás natural. Listada no Novo Mercado da B3 desde 2007, a companhia possui capacidade instalada de 7,2 GWh ao final de 2025. Em 28/10/2026, a ação cotava a R$ 26,38, com rentabilidade total de 48,20% nos últimos 12 meses.",
+  "profile": {
+    "name": "Eneva",
+    "legalName": "ENEVA S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "25/04/2001",
+    "listedSince": "14/12/2007",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://www.eneva.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "ENEVA S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "04.423.567/0001-21",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "25/04/2001",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "14/12/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "ENEV3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 26,38",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "38,82% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,07",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 338,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ENEV3",
+    "list": "br-stocks",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Eneva S.A.",
+    "currency": "BRL",
+    "price": 26.38,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.482,
+      "3y": 1.4358,
+      "5y": 0.8358,
+      "10y": 6.2522
+    },
+    "volatility1y": 0.3882,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4072,
+      "from": "2022-09-12",
+      "to": "2025-01-02"
+    },
+    "beta1y": {
+      "value": 1.07,
+      "against": "Ibovespa"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 338274525
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A ENEV3 apresenta volatilidade anualizada de 38,82% nos últimos 12 meses, nível considerado 'alta' para ações de utilidade pública, que tradicionalmente têm menor oscilação. O beta de 1,07 indica que a ação tende a se mover 7% mais que o Ibovespa em movimentos de mercado. A maior queda em 5 anos foi de -40,72%, entre 12/09/2022 e 02/01/2025, refletindo ajustes no setor de energia e reestruturação de ativos. Para acompanhar oscilações e definir pontos de entrada ou saída, o recurso de [alertas de preço](/recursos/alertas-de-preco) no StockBar envia notificações quando a ação atinge o preço escolhido."
+  },
+  "history": {
+    "overview": "A Eneva tem origem na MPX Energia, criada em 2001 para construir a Usina Termelétrica Termoceará durante a crise do apagão. Em 2005, a Petrobras adquiriu a usina, e a MPX abriu capital na B3 em dezembro de 2007. A empresa passou por uma cisão em 2012, criando a CCX para mineração de carvão na Colômbia. Em 2014, o controle da MPX foi vendido ao grupo alemão E.ON, que renomeou a empresa para Eneva. No mesmo ano, a OGX Maranhão, que operava o gás natural, foi assumida pelo Fundo Cambuhy e renomeada para Parnaíba Gás Natural. Em 2016, as duas empresas se fundiram, mantendo o nome Eneva e criando um modelo integrado de extração de gás natural para alimentar usinas termelétricas, reduzindo a dependência de gasodutos em regiões remotas. Em 2022, a empresa expandiu-se para energia solar com a aquisição da Focus Energia e inaugurou a UTE Jaguatirica II. Em 2026, a Eneva iniciou a operação comercial da UTE Azulão I e concluiu a venda da UTE Pecém II e da UTE Itaqui, reestruturando seu portfólio de geração.",
+    "timeline": [
+      {
+        "date": "2001-04-25",
+        "event": "Constituição da companhia (MPX Energia)",
+        "source": 2
+      },
+      {
+        "date": "2007-12-07",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2007-12-14",
+        "event": "Início da cotação das ações na B3 (IPO)",
+        "source": 1
+      },
+      {
+        "date": "2012-05-25",
+        "event": "Cisão da MPX para criação da CCX (mineração de carvão na Colômbia)",
+        "source": 4
+      },
+      {
+        "date": "2014",
+        "event": "Venda do controle da MPX ao grupo E.ON e mudança de nome para Eneva",
+        "source": 4
+      },
+      {
+        "date": "2016",
+        "event": "Fusão entre Eneva e Parnaíba Gás Natural (ex-OGX Maranhão)",
+        "source": 4
+      },
+      {
+        "date": "2022-03",
+        "event": "Aquisição da Focus Energia e inauguração da UTE Jaguatirica II",
+        "source": 4
+      },
+      {
+        "date": "2026-03-05",
+        "event": "Divulgação de Relatório de Certificação de Reservas da Bacia do Parnaíba",
+        "source": 12
+      },
+      {
+        "date": "2026-03-18",
+        "event": "Resultados do LRCAP 2026",
+        "source": 11
+      },
+      {
+        "date": "2026-03-27",
+        "event": "Venda de Pecém II e Cessão de Área de Porto para Terminal de GNL no Hub Ceará",
+        "source": 10
+      },
+      {
+        "date": "2026-06-25",
+        "event": "Aquisição de Ações de Emissão da Própria Companhia",
+        "source": 9
+      },
+      {
+        "date": "2026-08-04",
+        "event": "Início da Operação Comercial da UTE Azulão I",
+        "source": 8
+      },
+      {
+        "date": "2026-08-31",
+        "event": "Conclusão da Venda da UTE Pecém II",
+        "source": 7
+      },
+      {
+        "date": "2026-10-21",
+        "event": "Conclusão do Processo de Alienação da UTE Itaqui",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Eneva ganha dinheiro",
+      "body": "A Eneva S.A. atua de forma integrada na geração, exploração e produção de petróleo e gás natural, além da comercialização de energia elétrica. O modelo de negócio baseia-se na extração de gás natural em bacias sedimentares terrestres, como a Bacia do Parnaíba (Maranhão) e a Bacia do Amazonas (Campo de Azulão), que é utilizado como combustível em suas usinas termelétricas. Essa integração permite dar destino a gás natural em regiões onde gasodutos são escassos, mas há rede de transmissão elétrica. A capacidade total instalada atingiu 7,2 GWh ao final de 2025, com geração de 5.373 GWh em 2022. Em 2026, a empresa iniciou a operação da UTE Azulão I e concluiu a venda das UTEs Pecém II e Itaqui, reestruturando seu portfólio para focar em ativos de gás natural e energia solar."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Eneva",
+      "body": "ENEV3 é a ação ordinária da Eneva S.A., listada no segmento de governança Novo Mercado da B3 desde 14/12/2007. O controle acionário é privado, com BTG Pactual (22,02%), Cambuhy Investimentos (19,73%), Dynamo (10,06%), Atmos Capital (5,10%) e Partners Alpha (5,05%) como maiores acionistas. Ações ordinárias (ON) conferem direito a voto em assembleias e, em caso de liquidação, têm preferência sobre ações preferenciais, mas não têm prioridade no recebimento de dividendos. A Eneva possui apenas ações ON, sem emissão de ações preferenciais (PN)."
+    },
+    {
+      "id": "proventos",
+      "heading": "ENEV3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 28/10/2026, a ENEV3 não distribuiu dividendos ou JCP, conforme os números calculados. A empresa não possui histórico recente de proventos no período analisado. Para acompanhar a distribuição de dividendos e JCP de empresas da B3, com data com e data de pagamento, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos), que consolida as informações a partir dos comunicados da B3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da ENEV3",
+      "body": "A ENEV3 apresentou rentabilidade total com proventos de 48,20% nos 12 meses, 143,58% em 3 anos, 83,58% em 5 anos e 625,22% em 10 anos, até 28/10/2026. O preço da ação era de R$ 26,38 nessa data. Para comparar a rentabilidade da ENEV3 com índices de referência como o Ibovespa, CDI e IPCA, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que exibe a performance lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da ENEV3",
+      "body": "A ENEV3 apresenta volatilidade anualizada de 38,82% nos últimos 12 meses, classificada como nível 'alta', e beta de 1,07 contra o Ibovespa, indicando sensibilidade ligeiramente superior ao índice. A maior queda em 5 anos foi de -40,72%, do pico em 12/09/2022 ao ponto mais baixo em 02/01/2025. Os riscos incluem a dependência de preços de gás natural, regulação do setor de energia, e a reestruturação de ativos, como a venda de UTEs em 2026. A volatilidade elevada exige monitoramento de preços; o recurso de [alertas de preço](/recursos/alertas-de-preco) no StockBar permite notificações quando a ação atinge níveis definidos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ENEV3 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 28/10/2026, a ENEV3 não distribuiu dividendos ou JCP. A empresa não possui histórico recente de proventos no período analisado. Para acompanhar distribuições futuras, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre ENEV3 e ações preferenciais?",
+      "answer": "ENEV3 é a ação ordinária (ON) da Eneva, que confere direito a voto em assembleias e preferência em liquidação, mas não prioridade em dividendos. A Eneva não possui ações preferenciais (PN) em circulação. Ações ON são as únicas negociadas sob o código ENEV3 na B3."
+    },
+    {
+      "question": "O que a Eneva faz?",
+      "answer": "A Eneva é uma empresa integrada de energia que atua na geração, exploração e produção de petróleo e gás natural, e comercialização de energia elétrica. O modelo baseia-se em extrair gás natural em bacias terrestres e usá-lo em usinas termelétricas, reduzindo dependência de gasodutos. A capacidade instalada é de 7,2 GWh ao final de 2025."
+    },
+    {
+      "question": "Qual a rentabilidade da ENEV3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos da ENEV3 foi de 48,20% nos 12 meses até 28/10/2026. Para comparar com o Ibovespa e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+    },
+    {
+      "question": "ENEV3 é uma empresa de energia renovável?",
+      "answer": "A Eneva atua majoritariamente em geração térmica a gás natural, mas possui participação em energia solar desde 2022, com a aquisição da Focus Energia e a Usina Solar Futura I. A capacidade total instalada é de 7,2 GWh ao final de 2025, com foco em gás natural e expansão em renováveis."
+    },
+    {
+      "question": "Quais são os maiores acionistas da Eneva?",
+      "answer": "Os maiores acionistas são BTG Pactual (22,02%), Cambuhy Investimentos (19,73%), Dynamo (10,06%), Atmos Capital (5,10%) e Partners Alpha (5,05%). O controle é privado, e o restante está pulverizado no mercado em regime free float."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da ENEV3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da ENEV3 com o Ibovespa, CDI e IPCA no mesmo gráfico, com o período que você escolher."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a ENEV3 atinge o preço que você definiu, útil para acompanhar a volatilidade de 38,82%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a ENEV3 junto com outros ativos de energia e utilidade pública, como AXIA3 e EQTL3, em uma visão única de alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Outra empresa de energia elétrica na B3, com foco em geração e distribuição, para comparação de setor."
+      },
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Empresa de energia elétrica com atuação em distribuição e geração, útil para diversificação no setor de utilidade pública."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Petrobras, maior empresa de energia do Brasil, para comparação com o setor de petróleo e gás."
+      },
+      {
+        "ticker": "PRIO3",
+        "list": "br-stocks",
+        "reason": "Empresa de petróleo e gás natural, relevante para quem acompanha o setor de energia e commodities."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ENEV3",
+      "url": "https://finance.yahoo.com/quote/ENEV3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ENEVA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21237/ENEV/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, ENEVA S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Eneva",
+      "url": "https://www.wikidata.org/wiki/Q3273148",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Eneva",
+      "url": "https://pt.wikipedia.org/wiki/Eneva",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 21/10/2026, “Conclusão do Processo de Alienação da UTE Itaqui”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1579126&numSequencia=1103832&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/09/2026, “Eneva e Diamante Energia Celebram Operações para Permuta de Participações Societárias e Diamante Energia Informa Não Exercício da Opção de Compra do Hub Ceará”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1563848&numSequencia=1088554&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/08/2026, “Eneva Anuncia a Conclusão da Venda da UTE Pecém II”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1563328&numSequencia=1088034&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/08/2026, “Eneva Inicia a Operação Comercial da UTE Azulão I”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1551994&numSequencia=1076700&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/06/2026, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538640&numSequencia=1063346&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/03/2026, “Venda de Pecém II e Cessão de Área de Porto para Implantação de Terminal de GNL no Hub Ceará”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1496294&numSequencia=1021000&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/03/2026, “Resultados do LRCAP 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492264&numSequencia=1016970&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/03/2026, “Divulgação de Relatório de Certificação de Reservas da Bacia do Parnaíba”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1486067&numSequencia=1010773&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

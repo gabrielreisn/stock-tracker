@@ -1,0 +1,309 @@
+{
+  "ticker": "BTLG11",
+  "slug": "btlg11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "BTLG11: FII de logística, proventos e patrimônio",
+    "description": "BTLG11 é um FII de tijolo focado em logística, com 35 imóveis e R$ 7,54 bilhões em patrimônio.",
+    "h1": "BTLG11: BTG Pactual Logística FII",
+    "canonicalPath": "/fiis/btlg11",
+    "keywords": [
+      "BTLG11",
+      "BTG Pactual Logística FII",
+      "FII de logística",
+      "proventos BTLG11",
+      "dividend yield BTLG11",
+      "patrimônio BTLG11",
+      "FII tijolo logística"
+    ]
+  },
+  "summary": "BTLG11 é a cota do BTG Pactual Logística Fundo de Investimento Imobiliário, um fundo de tijolo focado em ativos logísticos no Brasil. Em 09/2026, o fundo possuía patrimônio líquido de R$ 7,54 bilhões e 537.579 cotistas. Nos 12 meses até 28/10/2026, a cota rendeu 3,75% com proventos, distribuindo R$ 9,6288 por cota, o que representa um dividend yield de 9,89%.",
+  "profile": {
+    "type": "FII de tijolo, logística",
+    "issuerOrManager": "BTG Pactual Serviços Financeiros S.A",
+    "name": "BTG Pactual Logística Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "06/08/2010",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "11.839.593/0001-09",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "06/08/2010",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 7,54 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "537.579",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 106,22",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 97,37",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "8,89% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,15",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,89%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 21,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BTLG11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "BTG Pactual Logística Fundo de Investimento Imobiliário",
+    "currency": "BRL",
+    "price": 97.37,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0375,
+      "3y": 0.2952,
+      "5y": 0.4202,
+      "10y": 1.8631
+    },
+    "volatility1y": 0.0889,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1424,
+      "from": "2024-04-05",
+      "to": "2024-12-05"
+    },
+    "beta1y": {
+      "value": 0.15,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 9.6288,
+      "payments12Months": 12,
+      "yield12Months": 0.0989,
+      "lastPayment": {
+        "date": "2026-10-16",
+        "amount": 0.81
+      }
+    },
+    "avgDailyTradedValue3m": 21634975
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do BTLG11 nos últimos 12 meses foi de 8,89%, classificada como baixa, e o beta contra o Ibovespa foi de 0,15, indicando baixa correlação com o índice. A maior queda nos últimos 5 anos foi de -14,24%, do pico em 05/04/2024 ao ponto mais baixo em 05/12/2024. Para FIIs de tijolo logístico, essa volatilidade é compatível com a natureza do segmento, que tende a apresentar menor sensibilidade a movimentos de mercado em comparação com ações. O beta de 0,15 sugere que o fundo reage de forma atenuada às variações do Ibovespa, o que pode ser relevante para investidores que buscam diversificação. Para acompanhar a evolução do preço e definir alertas, utilize o recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "Fundado em 06/08/2010, o BTLG11 é um dos fundos imobiliários mais antigos do mercado brasileiro, com foco exclusivo no segmento de logística. A estratégia do fundo é obter renda e ganho de capital por meio da exploração de empreendimentos imobiliários logísticos, com forte concentração no estado de São Paulo, principal mercado do país. O fundo opera com gestão ativa e prazo de duração indeterminado, buscando ativos de padrão AAA e locações de longo prazo com grandes empresas de e-commerce e transporte. Desde 2020, o BTLG11 realizou múltiplas emissões de cotas para ampliar seu portfólio e patrimônio, consolidando-se como uma das principais referências no setor logístico. Em 2026, o fundo celebrou memorando para a aquisição de três ativos de padrão AAA locados para Amazon e Mercado Livre, além de quitar integralmente as aquisições dos imóveis BTLG Mauá II e BTLG Osasco, reforçando a solidez de seu portfólio.",
+    "timeline": [
+      {
+        "date": "2010-08-06",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2020-09-22",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2020-11-03",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2021-07-29",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2023-08-04",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do BTLG11",
+      "body": "O BTLG11 é um fundo de investimento imobiliário de tijolo, com foco exclusivo no segmento de logística. A gestora da carteira é a BTG Pactual Gestora de Recursos Ltda., e o administrador é a BTG Pactual Serviços Financeiros S.A. Distribuidor. O objetivo do fundo é a obtenção de renda e ganho de capital por meio da exploração de empreendimentos imobiliários focados em operações logísticas. Em 30/09/2026, o portfólio contava com 35 imóveis, totalizando 1.530.692 m² de área bruta locável (ABL), com 92% dos ativos localizados no estado de São Paulo. A vacância financeira era de 1,1% e o LTV (razão da dívida frente ao montante total de ativos) de 1,9%. O fundo opera com gestão ativa e prazo de duração indeterminado, buscando ativos de padrão AAA e locações de longo prazo com grandes empresas de e-commerce e transporte."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do BTLG11",
+      "body": "Nos 12 meses até 28/10/2026, o BTLG11 distribuiu R$ 9,6288 por cota em 12 pagamentos, resultando em um dividend yield de 9,89%. O último provento foi de R$ 0,8100, com data de pagamento em 16/10/2026. Em setembro de 2026, o fundo distribuiu R$ 0,81 por cota, o que representava um dividend yield anualizado de 10,3% com base no preço de fechamento. A tributação de proventos de FIIs segue as regras da CVM e da Receita Federal, mas as fontes do dossiê não detalham as alíquotas específicas. Para acompanhar os proventos do BTLG11 com data de competência e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O BTLG11 realizou 6 ofertas públicas de cotas encerradas, conforme registros do FNET (B3) desde 14/06/2016. Em 02/10/2026, a Assembleia Especial de Cotistas aprovou a 17ª emissão de cotas, no montante inicial de R$ 800 milhões, com 7.498.360 cotas ao preço unitário de R$ 106,69. Em 09/2026, o fundo possuía patrimônio líquido de R$ 7,54 bilhões, 537.579 cotistas e 70.940.261 cotas emitidas, com valor patrimonial da cota de R$ 106,22. A taxa de administração no mês de 09/2026 foi de 0,070% sobre o patrimônio. O volume médio negociado por dia nos últimos 3 meses foi de R$ 21,6 milhões."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BTLG11",
+      "body": "Nos 12 meses até 28/10/2026, a cota do BTLG11 rendeu 3,75% com proventos. Nos 3 anos, a rentabilidade foi de 29,52%, e nos 5 anos, de 42,02%. Nos 10 anos, o retorno acumulado foi de 186,31%. Em 2026, o retorno do BTLG11 foi de 3,0%, enquanto o IFIX teve variação de -0,3%. Para comparar a rentabilidade do BTLG11 com o IFIX, CDI e outros índices, utilize o recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BTLG11",
+      "body": "Os principais riscos do BTLG11 incluem a vacância de seus ativos logísticos, a concentração geográfica no estado de São Paulo (92% do portfólio) e a exposição a grandes locatários como Amazon e Mercado Livre. A volatilidade anualizada do fundo nos últimos 12 meses foi de 8,89%, classificada como baixa, e o beta contra o Ibovespa foi de 0,15. A maior queda nos últimos 5 anos foi de -14,24%, do pico em 05/04/2024 ao ponto mais baixo em 05/12/2024. O fundo também enfrenta riscos de crédito nos ativos em desenvolvimento (Built-to-Suit), embora a estrutura da operação preveja remuneração de IPCA + 11,0% ao ano durante a execução das obras. Para acompanhar movimentos de preço e definir alertas, utilize o recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BTLG11 paga dividendos?",
+      "answer": "Sim, o BTLG11 distribui proventos mensais. Nos 12 meses até 28/10/2026, o fundo distribuiu R$ 9,6288 por cota em 12 pagamentos, com dividend yield de 9,89%. O último provento foi de R$ 0,8100, com data de pagamento em 16/10/2026. Em setembro de 2026, o fundo distribuiu R$ 0,81 por cota, o que representava um dividend yield anualizado de 10,3% com base no preço de fechamento."
+    },
+    {
+      "question": "Qual a diferença entre BTLG11 e outros FIIs de logística?",
+      "answer": "O BTLG11 é um FII de tijolo focado exclusivamente em ativos logísticos, com 35 imóveis e 1,5 milhão de m² de ABL em 30/09/2026. Outros FIIs de logística, como [HGLG11](/fiis/hglg11) e [XPLG11](/fiis/xplg11), também atuam no segmento, mas com estratégias e portfólios distintos. O BTLG11 tem forte concentração no estado de São Paulo (92% dos ativos) e busca ativos de padrão AAA com locações de longo prazo para grandes empresas de e-commerce e transporte."
+    },
+    {
+      "question": "BTLG11 é FII de papel ou de tijolo?",
+      "answer": "O BTLG11 é um FII de tijolo, com foco em ativos logísticos. O fundo possui 35 imóveis com 1.530.692 m² de ABL em 30/09/2026, e a vacância financeira era de 1,1%. O LTV (razão da dívida frente ao montante total de ativos) era de 1,9%, indicando baixa alavancagem. O fundo não investe em papéis (CRI, CRA), mas em imóveis físicos de logística."
+    },
+    {
+      "question": "Qual o patrimônio do BTLG11?",
+      "answer": "Em 09/2026, o BTLG11 possuía patrimônio líquido de R$ 7,54 bilhões, 537.579 cotistas e 70.940.261 cotas emitidas. O valor patrimonial da cota era de R$ 106,22. O fundo realizou 6 ofertas públicas de cotas encerradas, conforme registros do FNET, e em 02/10/2026 aprovou a 17ª emissão, no montante inicial de R$ 800 milhões."
+    },
+    {
+      "question": "BTLG11 tem risco de vacância?",
+      "answer": "Sim, mas a vacância financeira do BTLG11 era de 1,1% em 30/09/2026, o que indica alta ocupação. O fundo possui 35 imóveis com 1,5 milhão de m² de ABL, e a concentração geográfica no estado de São Paulo (92% dos ativos) pode ser um fator de risco em caso de mudanças no mercado logístico local. O fundo também enfrenta riscos de crédito nos ativos em desenvolvimento, embora a estrutura da operação preveja remuneração de IPCA + 11,0% ao ano durante a execução das obras."
+    },
+    {
+      "question": "Como acompanhar os proventos do BTLG11?",
+      "answer": "Para acompanhar os proventos do BTLG11 com data de competência e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos). O recurso exibe os rendimentos de FIIs a partir dos comunicados da B3, permitindo que o investidor veja o impacto dos proventos na sua carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os proventos do BTLG11 com data de competência e data de pagamento, multiplicados pela sua quantidade, a partir dos comunicados da B3."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices no StockBar",
+        "context": "Compare a rentabilidade do BTLG11 com o IFIX, CDI e outros índices no mesmo gráfico, para entender o desempenho do fundo em relação ao mercado de FIIs."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina alertas de preço para o BTLG11 e receba notificações quando a cota atingir o valor que você escolheu, útil para acompanhar movimentos de volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o BTLG11 junto com suas outras posições em FIIs, ações e renda fixa, com alocação por classe e as maiores posições da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística, com foco em ativos logísticos e locações de longo prazo, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística com portfólio diversificado, útil para comparar concentração geográfica e vacância com o BTLG11."
+      },
+      {
+        "ticker": "GARE11",
+        "list": "fiis",
+        "reason": "FII de logística com foco em ativos de padrão AAA, para comparação de qualidade de ativos e locatários."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda imobiliária com portfólio diversificado, útil para comparação de diversificação de segmentos e vacância."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BTLG11",
+      "url": "https://finance.yahoo.com/quote/BTLG11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do BTGP LOGISTICA FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo BTLG11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=11839593000109",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do BTLG11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1336846",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BTLG11, 07/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342449",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BTLG11, 01/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1306470",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

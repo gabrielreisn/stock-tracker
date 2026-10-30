@@ -1,0 +1,379 @@
+{
+  "ticker": "ITUB4",
+  "slug": "itub4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "ITUB4: história, dividendos e volatilidade",
+    "description": "ITUB4 é a ação preferencial da Itaú Unibanco, maior banco privado do Brasil. Veja dividend yield de 7,84%, volatilidade de 30,89% e histórico desde 1943.",
+    "h1": "ITUB4: Itaú Unibanco - Ação Preferencial",
+    "canonicalPath": "/acoes/itub4",
+    "keywords": [
+      "ITUB4",
+      "Itaú Unibanco",
+      "ação preferencial banco",
+      "dividendos ITUB4",
+      "volatilidade ITUB4",
+      "ITUB3 vs ITUB4",
+      "maior banco privado Brasil"
+    ]
+  },
+  "summary": "ITUB4 é a ação preferencial da Itaú Unibanco Holding S.A., o maior conglomerado financeiro privado do Brasil, com sede em São Paulo. O banco opera em 21 países e possui cerca de 5 mil agências. Em 29/10/2026, a ação estava cotada a R$ 39,54, com dividend yield de 7,84% nos últimos 12 meses.",
+  "profile": {
+    "name": "Itaú Unibanco",
+    "legalName": "ITAÚ UNIBANCO HOLDING S.A.",
+    "type": "Ação preferencial (PN)",
+    "sector": "Financeiro",
+    "segment": "Bancos",
+    "founded": "01/01/1943",
+    "listedSince": "24/03/2003",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.itau-unibanco.com.br/relacoes-com-investidores"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "ITAÚ UNIBANCO HOLDING S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "60.872.504/0001-23",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Bancos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "01/01/1943",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "24/03/2003",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "ITUB3, ITUB4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 39,54",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "30,89% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,12",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,84%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ITUB4",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Itaú Unibanco Holding S.A.",
+    "currency": "BRL",
+    "price": 39.54,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1192,
+      "3y": 1.078,
+      "5y": 1.6426,
+      "10y": 2.1161
+    },
+    "volatility1y": 0.3089,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2376,
+      "from": "2022-10-21",
+      "to": "2022-12-13"
+    },
+    "beta1y": {
+      "value": 1.12,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 3.0996,
+      "payments12Months": 15,
+      "yield12Months": 0.0784,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.018182
+      }
+    },
+    "avgDailyTradedValue3m": 1392534779
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da ITUB4 nos últimos 12 meses é de 30,89%, nível considerado 'alta'. O beta contra o Ibovespa é de 1,12, o que significa que a ação tende a oscilar 1,12 vezes mais que o índice de referência. A maior queda nos últimos 5 anos foi de -23,76%, ocorrida entre 21/10/2022 e 13/12/2022. Para ações de bancos, essa volatilidade é compatível com o setor, que tende a ter oscilações maiores que a média do mercado devido à exposição a crédito e ciclos econômicos. No StockBar, você pode acompanhar a [volatilidade e desempenho no gráfico](/recursos/desempenho-e-preco-medio) e configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos extremos."
+  },
+  "history": {
+    "overview": "A história do Itaú Unibanco começa em 1943, com a constituição do Banco Central de Crédito por Alfredo Egydio de Souza Aranha. Em 1944, José Balbino Siqueira fundou o Banco Itaú em Minas Gerais. Em 1973, o banco adotou o nome atual e o logotipo que mantém até hoje. O marco mais recente ocorreu em 4 de novembro de 2008, quando o Banco Itaú e o Unibanco se fundiram, criando a maior instituição financeira privada do país, com R$ 575 bilhões em ativos na época. A integração foi concluída em outubro de 2010, com custo superior a R$ 1 bilhão, e a marca Unibanco foi gradativamente extinta. Desde então, o banco expandiu sua presença internacional e diversificou seus negócios, incluindo a aquisição da Credicard em 2013 e a compra de participação na XP Investimentos em 2017, da qual se desfez em 2024.",
+    "timeline": [
+      {
+        "date": "1943-01-01",
+        "event": "Constituição da companhia",
+        "source": 2
+      },
+      {
+        "date": "2002-12-30",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2003-03-24",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2008",
+        "event": "Fundação do Itaú Unibanco a partir da fusão entre Banco Itaú e Unibanco",
+        "source": 3
+      },
+      {
+        "date": "2025-11-27",
+        "event": "Cancelamento de ações mantidas em tesouraria e pagamento de dividendos/JCP",
+        "source": 12
+      },
+      {
+        "date": "2025-12-18",
+        "event": "Bonificação em ações",
+        "source": 11
+      },
+      {
+        "date": "2026-02-04",
+        "event": "Programa de Recompra de Ações",
+        "source": 9
+      },
+      {
+        "date": "2026-02-04",
+        "event": "Projeções 2026",
+        "source": 10
+      },
+      {
+        "date": "2026-02-26",
+        "event": "Pagamento de Juros sobre Capital Próprio",
+        "source": 8
+      },
+      {
+        "date": "2026-05-08",
+        "event": "Alteração do portal de divulgação de notícias",
+        "source": 7
+      },
+      {
+        "date": "2026-05-28",
+        "event": "Pagamento de Juros sobre o Capital Próprio",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Itaú Unibanco ganha dinheiro",
+      "body": "A Itaú Unibanco Holding S.A. tem por objeto a atividade bancária em todas as modalidades autorizadas, inclusive operações de câmbio, segundo a B3. O banco opera em 21 países e possui cerca de 5 mil agências no Brasil e no exterior, além de 26 mil caixas eletrônicos e pontos de atendimento. A instituição atende quase 55 milhões de clientes e possui mais de 95 mil acionistas. Em 2016, a carteira de ativos do Itaú atingiu R$ 1,43 trilhão, a maior do país. O banco também possui negócios em seguros, previdência, private banking e cartões de crédito, incluindo as bandeiras Itaucard, Unicard, Hipercard e Hiper."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Itaú Unibanco",
+      "body": "O controle acionário da Itaú Unibanco é privado, com a Itaúsa como empresa controladora, segundo a CVM e o Wikidata. As ações são negociadas na B3 sob os códigos ITUB3 (ordinárias) e ITUB4 (preferenciais), com início de cotação em 24/03/2003. O segmento de listagem é Nível 1. Ações preferenciais (PN) têm prioridade no recebimento de dividendos e JCP, mas não têm direito a voto em assembleias, diferentemente das ações ordinárias (ON), que têm direito a voto, mas ficam em segundo lugar na distribuição de proventos."
+    },
+    {
+      "id": "proventos",
+      "heading": "ITUB4 paga dividendos?",
+      "body": "ITUB4 pagou R$ 3,0996 por ação em 15 pagamentos nos 12 meses até 29/10/2026, resultando em dividend yield de 7,84%. O último pagamento foi de R$ 0,0182 em 01/10/2026. A empresa tem histórico de pagamentos regulares de Juros sobre Capital Próprio (JCP), com fatos relevantes registrados em 26/02/2026 e 28/05/2026. Em 27/11/2025, houve cancelamento de ações mantidas em tesouraria e pagamento de dividendos/JCP. Em 18/12/2025, foi realizada bonificação em ações. No StockBar, você pode acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da ITUB4",
+      "body": "Em 29/10/2026, a ITUB4 estava cotada a R$ 39,54. A rentabilidade total com proventos foi de 11,92% nos 12 meses, 107,80% em 3 anos, 164,26% em 5 anos e 211,61% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de R$ 1,39 bilhão. Para comparar esse desempenho com índices de referência, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que mostra a rentabilidade da carteira lado a lado com Ibovespa, CDI e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da ITUB4",
+      "body": "A volatilidade anualizada da ITUB4 nos últimos 12 meses é de 30,89%, classificada como 'alta'. O beta contra o Ibovespa é de 1,12, indicando que a ação tende a se mover 1,12 vezes mais que o índice. A maior queda nos últimos 5 anos foi de -23,76%, do pico em 21/10/2022 ao ponto mais baixo em 13/12/2022. Riscos do setor financeiro incluem exposição a crédito, liquidez e regulação. No StockBar, você pode configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a ação atingir níveis que você considerar relevantes."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ITUB4 paga dividendos?",
+      "answer": "Sim, ITUB4 paga dividendos e Juros sobre Capital Próprio (JCP) regularmente. Nos 12 meses até 29/10/2026, foram pagos R$ 3,0996 por ação em 15 pagamentos, com dividend yield de 7,84%. O último pagamento foi de R$ 0,0182 em 01/10/2026. No StockBar, você pode ver o histórico completo de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre ITUB3 e ITUB4?",
+      "answer": "ITUB3 é a ação ordinária (ON) e ITUB4 é a ação preferencial (PN) da Itaú Unibanco. A principal diferença é que a ação preferencial tem prioridade no recebimento de dividendos e JCP, mas não tem direito a voto em assembleias. A ação ordinária tem direito a voto, mas fica em segundo lugar na distribuição de proventos. Ambas são negociadas na B3."
+    },
+    {
+      "question": "ITUB4 é ação de banco ou de holding?",
+      "answer": "ITUB4 é a ação preferencial da Itaú Unibanco Holding S.A., que é uma holding financeira. A empresa tem por objeto a atividade bancária em todas as modalidades autorizadas, inclusive operações de câmbio. O banco opera em 21 países e possui cerca de 5 mil agências."
+    },
+    {
+      "question": "Qual a volatilidade da ITUB4?",
+      "answer": "A volatilidade anualizada da ITUB4 nos últimos 12 meses é de 30,89%, classificada como 'alta'. O beta contra o Ibovespa é de 1,12, indicando que a ação tende a se mover 1,12 vezes mais que o índice. A maior queda nos últimos 5 anos foi de -23,76%, entre 21/10/2022 e 13/12/2022. No StockBar, você pode configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos extremos."
+    },
+    {
+      "question": "Quem controla a Itaú Unibanco?",
+      "answer": "O controle acionário da Itaú Unibanco é privado, com a Itaúsa como empresa controladora, segundo a CVM e o Wikidata. A Itaúsa é uma holding de participações que controla a Itaú Unibanco e outras empresas."
+    },
+    {
+      "question": "ITUB4 é boa para renda passiva?",
+      "answer": "ITUB4 tem dividend yield de 7,84% nos 12 meses até 29/10/2026, com 15 pagamentos no período. A empresa tem histórico de pagamentos regulares de JCP e dividendos. No entanto, não é possível afirmar se é 'boa' para renda passiva, pois isso depende do perfil do investidor. No StockBar, você pode acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) e usar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação total."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da ITUB4 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da ITUB4 com Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a ITUB4 chegar ao preço que você escolheu, útil para monitorar a volatilidade de 30,89%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a ITUB4 junto com outras ações, FIIs e renda fixa em uma só visão, com alocação por classe."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em ITUB4 e as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ITSA4",
+        "list": "br-stocks",
+        "reason": "Itaúsa S.A. é a controladora da Itaú Unibanco, com exposição direta ao mesmo conglomerado financeiro."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Banco Bradesco S.A. é um par do mesmo setor, ambos são grandes bancos privados brasileiros."
+      },
+      {
+        "ticker": "BBAS3",
+        "list": "br-stocks",
+        "reason": "Banco do Brasil S.A. é o maior banco do país por ativos, competindo diretamente com o Itaú Unibanco."
+      },
+      {
+        "ticker": "BPAC11",
+        "list": "br-stocks",
+        "reason": "Banco BTG Pactual S.A. é outro banco de investimento relevante no Brasil, com exposição a crédito e mercados de capitais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ITUB4",
+      "url": "https://finance.yahoo.com/quote/ITUB4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ITAUUNIBANCO, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19348/ITUB/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, ITAÚ UNIBANCO HOLDING S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Itaú Unibanco",
+      "url": "https://www.wikidata.org/wiki/Q1424293",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Itaú Unibanco",
+      "url": "https://pt.wikipedia.org/wiki/Ita%C3%BA_Unibanco",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/08/2026, “Projeções 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1552012&numSequencia=1076718&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/05/2026, “Pagamento de Juros sobre o Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528166&numSequencia=1052872&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/05/2026, “Alteração do portal de divulgação de notícias”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1518428&numSequencia=1043134&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 26/02/2026, “Pagamento de Juros sobre Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1482605&numSequencia=1007311&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/02/2026, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473197&numSequencia=997903&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/02/2026, “Projeções 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473323&numSequencia=998029&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/12/2025, “Bonificação em ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1459139&numSequencia=983851&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/11/2025, “- Cancelamento de ações mantidas em tesouraria||- Pagamento de dividendos/JCP”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1450620&numSequencia=975332&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

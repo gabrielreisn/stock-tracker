@@ -2,16 +2,27 @@
   "name": "web",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.6.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "typecheck": "next typegen && tsc --noEmit",
+    "assets:rank": "node scripts/most-traded.mjs",
+    "assets:stats": "node scripts/asset-stats.mjs",
+    "assets:sources": "node scripts/asset-sources.mjs",
+    "assets:validate": "node scripts/validate-asset-page.mjs",
+    "assets:generate": "node scripts/generate-asset-page.mjs",
+    "assets:generate:all": "node scripts/generate-asset-page.mjs --all"
   },
   "dependencies": {
+    "lightweight-charts": "5.2.1",
     "next": "16.4.2",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "zod": "4.6.7"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
@@ -21,6 +32,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.4.2",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "^5",
+    "unpdf": "1.8.1"
   }
 }

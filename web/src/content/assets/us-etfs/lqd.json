@@ -1,0 +1,269 @@
+{
+  "ticker": "LQD",
+  "slug": "lqd",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "LQD: história, dividendos e volatilidade",
+    "description": "LQD é o ETF de títulos corporativos de grau de investimento nos EUA. Veja desempenho, dividendos, riscos e como investir do Brasil.",
+    "h1": "LQD: iShares iBoxx $ Investment Grade Corporate Bond ETF",
+    "canonicalPath": "/etfs/lqd",
+    "keywords": [
+      "LQD",
+      "iShares iBoxx Investment Grade Corporate Bond ETF",
+      "ETF de renda fixa corporativa",
+      "títulos corporativos EUA",
+      "LQD dividendos",
+      "LQD volatilidade",
+      "como investir em LQD do Brasil"
+    ]
+  },
+  "summary": "LQD é o iShares iBoxx $ Investment Grade Corporate Bond ETF, lançado em julho de 2002 pela iShares (BlackRock). O fundo replica o índice de títulos corporativos de alta qualidade (investment grade) nos Estados Unidos. Em 29/10/2026, a cota valia US$ 104,22, com dividend yield de 4,84% nos últimos 12 meses e volume médio diário de US$ 3,30 bilhões.",
+  "profile": {
+    "type": "ETF de renda fixa corporativa (investment grade)",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "iBoxx $ Investment Grade Corporate Bond Index",
+    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 104,22",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "5,64% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,21",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,84%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 3,30 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "LQD",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+    "currency": "USD",
+    "price": 104.22,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0276,
+      "3y": 0.2012,
+      "5y": -0.0441,
+      "10y": 0.231
+    },
+    "volatility1y": 0.0564,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2454,
+      "from": "2021-11-09",
+      "to": "2022-10-20"
+    },
+    "beta1y": {
+      "value": 0.21,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 5.049,
+      "payments12Months": 12,
+      "yield12Months": 0.0484,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.439
+      }
+    },
+    "avgDailyTradedValue3m": 3297006684
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do LQD nos últimos 12 meses é de 5,64%, um nível considerado baixo para um ETF de renda fixa, mas ainda assim expressivo em comparação com títulos de curto prazo ou fundos de renda fixa brasileira atrelados ao CDI. A maior queda nos últimos 5 anos foi de -24,54%, entre 09/11/2021 e 20/10/2022, período em que a alta agressiva dos juros nos EUA pressionou os preços de títulos de longo prazo. Esse movimento é típico de ETFs de renda fixa corporativa em ciclos de aperto monetário, e reflete a sensibilidade do preço dos títulos às mudanças na taxa de juros. Para quem acompanha a posição, o [alertas de preço](/recursos/alertas-de-preco) pode ser útil para monitorar oscilações, e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) permite medir o impacto da volatilidade no resultado da carteira."
+  },
+  "history": {
+    "overview": "O LQD foi lançado em julho de 2002 pela iShares, então parte do Barclays Global Investors, como um dos primeiros ETFs de renda fixa do mundo. O fundo nasceu no contexto da expansão da indústria de ETFs nos Estados Unidos, que começou em 1993 com o SPY e ganhou escala com a criação de produtos setoriais e de outros mercados ao longo da década de 1990. A linha iShares foi formalizada no início de 2000, e a Barclays Global Investors foi posteriormente adquirida pela BlackRock em 2009, consolidando a iShares como a maior gestora de ETFs do mundo, com 29,5% de participação de mercado nos Estados Unidos. O LQD permite que investidores acessem uma carteira diversificada de títulos corporativos de grau de investimento sem a necessidade de comprar obrigações individuais, oferecendo liquidez contínua durante o pregão e custos de transação geralmente menores que os de fundos abertos tradicionais.",
+    "timeline": [
+      {
+        "date": "1993-01",
+        "event": "Lançamento do SPY (SPDR S&P 500), o primeiro ETF de grande escala nos EUA, precursor da indústria de ETFs.",
+        "source": 2
+      },
+      {
+        "date": "2000",
+        "event": "A linha iShares é lançada no início de 2000, expandindo a oferta de ETFs indexados globalmente.",
+        "source": 2
+      },
+      {
+        "date": "2002-07",
+        "event": "A iShares lança o LQD (iShares iBoxx $ Investment Grade Corporate Bond Fund), um dos primeiros ETFs de renda fixa corporativa.",
+        "source": 3
+      },
+      {
+        "date": "2009",
+        "event": "A Barclays Global Investors é vendida para a BlackRock, tornando a iShares a maior gestora de ETFs do mundo.",
+        "source": 2
+      },
+      {
+        "date": "2014-12",
+        "event": "Os ativos sob gestão de ETFs nos EUA atingem US$ 2 trilhões, consolidando a classe de ativos.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o LQD funciona",
+      "body": "O LQD é um ETF passivo que replica o desempenho do índice iBoxx $ Investment Grade Corporate Bond Index, composto por títulos de dívida corporativa de alta qualidade (grau de investimento) emitidos por empresas nos Estados Unidos. A emissora é a iShares, braço de ETFs da BlackRock, e o fundo foi lançado em julho de 2002, sendo um dos primeiros produtos de renda fixa corporativa a ser negociado em bolsa nos EUA. Diferente de um fundo aberto, o LQD é cotado continuamente durante o pregão da bolsa, o que permite ao investidor comprar e vender cotas a qualquer momento, com liquidez elevada — o volume médio diário nos últimos 3 meses é de US$ 3,30 bilhões. O fundo não é alavancado nem inverso; ele busca replicar o retorno do índice subjacente, incluindo os juros pagos pelos títulos e a variação de preço da carteira."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do LQD",
+      "body": "O LQD segue o índice iBoxx $ Investment Grade Corporate Bond Index, que reúne títulos corporativos de grau de investimento (investment grade) nos Estados Unidos. As fontes disponíveis não detalham a composição exata por setor, prazo médio ou crédito específico, mas o foco do índice é a qualidade de crédito, excluindo títulos de alto risco (high yield). A carteira é passiva, ou seja, o fundo tenta espelhar o índice com a menor discrepância possível, sem seleção ativa de títulos. A iShares publica a composição do portfólio, e o fundo é administrado pela BlackRock, que detém 29,5% do mercado de ETFs nos EUA."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no LQD a partir do Brasil",
+      "body": "Para investir no LQD a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso a mercados internacionais, como as corretoras americanas ou as corretoras brasileiras com câmbio para ativos estrangeiros. A compra é feita em dólar, e o preço da cota é cotado em bolsa durante o pregão dos EUA. O risco cambial é um fator central: uma valorização do dólar frente ao real aumenta o retorno em reais, enquanto uma desvalorização reduz o resultado. Alternativamente, é possível buscar exposição ao mesmo índice por meio de BDRs ou ETFs listados na B3 que replicam o iBoxx $ Investment Grade Corporate Bond, se disponíveis. O LQD não é um ativo da B3, portanto, não é negociado diretamente na bolsa brasileira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do LQD",
+      "body": "Até 29/10/2026, o LQD apresentou rentabilidade total com proventos de -2,76% em 12 meses, 20,12% em 3 anos, -4,41% em 5 anos e 23,10% em 10 anos. O desempenho de 12 meses reflete o impacto da alta de juros no período, que pressiona o preço de títulos de renda fixa. A rentabilidade de 3 anos e 10 anos é positiva, indicando recuperação após o ciclo de alta. O dividend yield de 4,84% nos últimos 12 meses, com US$ 5,0490 distribuídos em 12 pagamentos, contribui para o retorno total. Para comparar o LQD com o S&P 500, o [comparação com índices](/recursos/comparacao-com-indices) do StockBar permite visualizar a rentabilidade lado a lado. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) também ajuda a acompanhar a evolução da posição."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do LQD",
+      "body": "O principal risco do LQD é o risco de juros: quando a taxa de juros sobe, o preço dos títulos de renda fixa cai, o que impacta negativamente o valor da cota. A maior queda registrada nos últimos 5 anos foi de -24,54%, entre o pico em 09/11/2021 e o fundo em 20/10/2022, período de forte alta dos juros nos EUA. A volatilidade anualizada de 12 meses é de 5,64%, classificada como baixa, mas ainda assim superior à de títulos de curto prazo. O risco de crédito é menor que o de títulos high yield, mas não é nulo: em cenários de estresse, mesmo empresas de grau de investimento podem sofrer rebaixamento. O risco cambial é relevante para o investidor brasileiro, pois o LQD é cotado em dólar. O [alertas de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos bruscos, e a [carteira consolidada](/recursos/carteira-consolidada) permite avaliar a alocação total em ativos de renda fixa internacional."
+    }
+  ],
+  "faq": [
+    {
+      "question": "LQD paga dividendos?",
+      "answer": "Sim, o LQD distribui proventos mensais. Nos 12 meses até 29/10/2026, foram pagos US$ 5,0490 por cota em 12 pagamentos, com o último de US$ 0,4390 em 01/10/2026, resultando em dividend yield de 4,84%. Os proventos vêm dos juros pagos pelos títulos corporativos da carteira. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do StockBar permite acompanhar a evolução do preço e o impacto dos proventos no retorno total."
+    },
+    {
+      "question": "Qual a diferença entre LQD e HYG?",
+      "answer": "O LQD investe em títulos corporativos de grau de investimento (investment grade), com menor risco de crédito, enquanto o [HYG](/etfs/hyg) investe em títulos de alto rendimento (high yield), com maior risco de crédito e, em geral, maior yield. O LQD tem menor volatilidade e menor sensibilidade a crises de crédito, mas também menor retorno em cenários de estresse. Ambos são ETFs da iShares, mas seguem índices diferentes."
+    },
+    {
+      "question": "LQD é um ETF alavancado?",
+      "answer": "Não, o LQD não é alavancado nem inverso. Ele replica o desempenho do índice iBoxx $ Investment Grade Corporate Bond Index sem multiplicadores. O fundo busca espelhar o retorno do índice, incluindo juros e variação de preço, sem alavancagem. Isso o diferencia de ETFs como [TQQQ](/etfs/tqqq) ou [SOXL](/etfs/soxl), que usam alavancagem diária."
+    },
+    {
+      "question": "Como investir no LQD do Brasil?",
+      "answer": "É possível investir no LQD abrindo conta em uma corretora que ofereça acesso a mercados internacionais, comprando a cota em dólar. O risco cambial é um fator importante, pois a cotação em reais depende do câmbio. Alternativamente, pode-se buscar BDRs ou ETFs na B3 que replicam o mesmo índice, se disponíveis. O [open finance](/recursos/open-finance) do StockBar ajuda a conciliar posições em diferentes corretoras."
+    },
+    {
+      "question": "Qual o risco de crédito do LQD?",
+      "answer": "O LQD investe em títulos de grau de investimento (investment grade), que têm menor risco de crédito que títulos high yield, mas não são livres de risco. Em cenários de estresse, empresas de boa qualidade podem sofrer rebaixamento, impactando o preço dos títulos. A maior queda do LQD nos últimos 5 anos foi de -24,54%, entre 09/11/2021 e 20/10/2022, período de alta de juros. O [alertas de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos bruscos."
+    },
+    {
+      "question": "LQD é melhor que o S&P 500?",
+      "answer": "Não há uma resposta única, pois o LQD e o [SPY](/etfs/spy) (ou [VOO](/etfs/voo)) têm perfis de risco e retorno diferentes. O LQD é um ETF de renda fixa, com menor volatilidade e menor retorno esperado que o S&P 500, que é um ETF de ações. A escolha depende do objetivo do investidor: o LQD é mais adequado para quem busca renda e menor oscilação, enquanto o S&P 500 é voltado para crescimento. O [comparação com índices](/recursos/comparacao-com-indices) do StockBar permite visualizar a rentabilidade lado a lado."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do LQD lado a lado com o S&P 500, no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a evolução do preço do LQD e o impacto dos proventos no retorno total da posição."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do LQD atingir um preço que você escolheu, útil para monitorar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do LQD junto com outras posições em renda fixa internacional, ações e fundos, em uma só visão."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Conecte sua corretora e confira as quantidades e o preço médio do LQD, garantindo que a carteira esteja atualizada."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "HYG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos corporativos de alto rendimento (high yield), da mesma gestora, com maior risco de crédito e maior yield."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro de longo prazo, da mesma gestora, com maior sensibilidade a juros e menor risco de crédito."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho entre renda fixa e renda variável."
+      },
+      {
+        "ticker": "SGOV",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro de curto prazo, da mesma gestora, com menor volatilidade e menor sensibilidade a juros."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de LQD",
+      "url": "https://finance.yahoo.com/quote/LQD/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Exchange-traded fund",
+      "url": "https://www.wikidata.org/wiki/Q845477",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Fundo negociado em bolsa",
+      "url": "https://pt.wikipedia.org/wiki/Fundo_negociado_em_bolsa",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

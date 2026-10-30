@@ -1,0 +1,491 @@
+{
+  "about": "Wikipedia articles for each US ETF's page, read by scripts/asset-sources.mjs. Few ETFs have an article of their own, so each also gets the index it tracks, its issuer, and background on its theme. The role says what an article is to the ETF, and the page's sources say so: an article with role \"context\" is background, not the ETF's own index. \"prefer\" picks the sections to read first (a regular expression on section headings). Every title was checked to exist on en.wikipedia.org; check new ones the same way.",
+  "roles": {
+    "etf": "artigo sobre o próprio ETF",
+    "index": "índice que o ETF replica",
+    "issuer": "emissora do ETF",
+    "context": "contexto, não é o índice do ETF"
+  },
+  "etfs": {
+    "SPY": [
+      { "title": "SPDR S&P 500 ETF Trust", "role": "etf" },
+      { "title": "S&P 500", "role": "index" },
+      { "title": "State Street Investment Management", "role": "issuer" }
+    ],
+    "QQQ": [
+      { "title": "Invesco QQQ", "role": "etf" },
+      { "title": "Nasdaq-100", "role": "index" },
+      { "title": "Invesco", "role": "issuer" }
+    ],
+    "SOXL": [
+      { "title": "Direxion", "role": "issuer" },
+      { "title": "Exchange-traded fund", "role": "context", "prefer": "leverag" },
+      { "title": "Semiconductor industry", "role": "context" }
+    ],
+    "IWM": [
+      { "title": "Russell 2000 Index", "role": "index" },
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Index fund", "role": "context" }
+    ],
+    "VOO": [
+      { "title": "S&P 500", "role": "index" },
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Index fund", "role": "context" }
+    ],
+    "IVV": [
+      { "title": "S&P 500", "role": "index" },
+      { "title": "IShares", "role": "issuer" },
+      { "title": "BlackRock", "role": "context" }
+    ],
+    "SMH": [
+      { "title": "VanEck", "role": "issuer" },
+      { "title": "Semiconductor industry", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context" }
+    ],
+    "SOXX": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Semiconductor industry", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context" }
+    ],
+    "TQQQ": [
+      { "title": "Nasdaq-100", "role": "index" },
+      { "title": "ProShares", "role": "issuer" },
+      { "title": "Exchange-traded fund", "role": "context", "prefer": "leverag" }
+    ],
+    "GLD": [
+      { "title": "SPDR Gold Shares", "role": "etf" },
+      { "title": "Gold exchange-traded product", "role": "context" },
+      { "title": "Gold as an investment", "role": "context" }
+    ],
+    "HYG": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "High-yield debt", "role": "context" },
+      { "title": "IHS Markit", "role": "context" }
+    ],
+    "LQD": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Corporate bond", "role": "context" },
+      { "title": "IHS Markit", "role": "context" }
+    ],
+    "TLT": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "United States Treasury security", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context" }
+    ],
+    "SOXS": [
+      { "title": "Direxion", "role": "issuer" },
+      { "title": "Inverse exchange-traded fund", "role": "context" },
+      { "title": "Semiconductor industry", "role": "context" }
+    ],
+    "EWY": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "MSCI", "role": "context" },
+      { "title": "Economy of South Korea", "role": "context" }
+    ],
+    "SGOV": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "United States Treasury security", "role": "context", "prefer": "bill" },
+      { "title": "Exchange-traded fund", "role": "context" }
+    ],
+    "DRAM": [
+      { "title": "Semiconductor memory", "role": "context" },
+      { "title": "Semiconductor industry", "role": "context" }
+    ],
+    "IBIT": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "BlackRock", "role": "context" },
+      { "title": "Bitcoin", "role": "context" }
+    ],
+    "GDX": [
+      { "title": "VanEck", "role": "issuer" },
+      { "title": "Gold mining", "role": "context" },
+      { "title": "Gold as an investment", "role": "context" }
+    ],
+    "XLE": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Energy industry", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" }
+    ],
+    "XLF": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Financial services", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" }
+    ],
+    "SQQQ": [
+      { "title": "Nasdaq-100", "role": "index" },
+      { "title": "ProShares", "role": "issuer" },
+      { "title": "Inverse exchange-traded fund", "role": "context" }
+    ],
+    "DIA": [
+      { "title": "Dow Jones Industrial Average", "role": "index" },
+      { "title": "State Street Investment Management", "role": "issuer" },
+      { "title": "SPDR", "role": "context" }
+    ],
+    "RSP": [
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Invesco", "role": "issuer" },
+      { "title": "Index fund", "role": "context" }
+    ],
+    "EWZ": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "MSCI", "role": "context" },
+      { "title": "Índice Bovespa", "role": "context" },
+      { "title": "B3 (stock exchange)", "role": "context" }
+    ],
+    "XLV": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Healthcare industry", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" }
+    ],
+    "XLK": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Information technology", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" }
+    ],
+    "XBI": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "Biotechnology", "role": "context" },
+      { "title": "Index fund", "role": "context" }
+    ],
+    "EEM": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "MSCI", "role": "context" },
+      { "title": "Emerging market", "role": "context" }
+    ],
+    "EFA": [
+      { "title": "MSCI EAFE", "role": "index" },
+      { "title": "IShares", "role": "issuer" },
+      { "title": "MSCI", "role": "context" }
+    ],
+    "XLI": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" },
+      { "title": "Industry (economics)", "role": "context" }
+    ],
+    "MUB": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Municipal bond", "role": "context" }
+    ],
+    "VTI": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Index fund", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context" }
+    ],
+    "SPYM": [
+      { "title": "S&P 500", "role": "index" },
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "Index fund", "role": "context" }
+    ],
+    "XLU": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Public utility", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" }
+    ],
+    "VTEB": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Municipal bond", "role": "context" }
+    ],
+    "IGV": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Software industry", "role": "context" }
+    ],
+    "AGG": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Bloomberg US Aggregate Bond Index", "role": "index" },
+      { "title": "Bond market", "role": "context" }
+    ],
+    "KRE": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "Regional bank", "role": "context" },
+      { "title": "Bank", "role": "context" }
+    ],
+    "XLP": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" },
+      { "title": "Fast-moving consumer goods", "role": "context" }
+    ],
+    "SNXX": [
+      { "title": "Sandisk", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context", "prefer": "leverag" }
+    ],
+    "BIL": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "United States Treasury security", "role": "context", "prefer": "bill" }
+    ],
+    "SLV": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Silver as an investment", "role": "context" }
+    ],
+    "IEF": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "United States Treasury security", "role": "context" }
+    ],
+    "IEMG": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "MSCI", "role": "context" },
+      { "title": "Emerging market", "role": "context" }
+    ],
+    "MUU": [
+      { "title": "Direxion", "role": "issuer" },
+      { "title": "Micron Technology", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context", "prefer": "leverag" }
+    ],
+    "QQQM": [
+      { "title": "Nasdaq-100", "role": "index" },
+      { "title": "Invesco", "role": "issuer" },
+      { "title": "Invesco QQQ", "role": "context" }
+    ],
+    "VCIT": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Corporate bond", "role": "context" }
+    ],
+    "IEFA": [
+      { "title": "MSCI EAFE", "role": "index" },
+      { "title": "IShares", "role": "issuer" }
+    ],
+    "SCHD": [
+      { "title": "Charles Schwab Corporation", "role": "issuer" },
+      { "title": "Dividend", "role": "context" },
+      { "title": "S&P Dow Jones Indices", "role": "context" }
+    ],
+    "BITO": [
+      { "title": "ProShares", "role": "issuer" },
+      { "title": "Bitcoin", "role": "context" },
+      { "title": "Futures contract", "role": "context" }
+    ],
+    "USO": [
+      { "title": "United States Oil Fund", "role": "etf" },
+      { "title": "West Texas Intermediate", "role": "context" },
+      { "title": "Futures contract", "role": "context" }
+    ],
+    "XLY": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" }
+    ],
+    "TSLL": [
+      { "title": "Direxion", "role": "issuer" },
+      { "title": "Tesla, Inc.", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context", "prefer": "leverag" }
+    ],
+    "BND": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Bloomberg US Aggregate Bond Index", "role": "context" },
+      { "title": "Bond market", "role": "context" }
+    ],
+    "EMB": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Emerging market", "role": "context" }
+    ],
+    "VEA": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "FTSE Russell", "role": "context" },
+      { "title": "Developed country", "role": "context" }
+    ],
+    "ETHA": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Ethereum", "role": "context" },
+      { "title": "BlackRock", "role": "context" }
+    ],
+    "XLC": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" }
+    ],
+    "FXI": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Economy of China", "role": "context" },
+      { "title": "Hong Kong Stock Exchange", "role": "context" }
+    ],
+    "VTV": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Value investing", "role": "context" },
+      { "title": "Morningstar, Inc.", "role": "context" }
+    ],
+    "XLB": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "S&P 500", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" }
+    ],
+    "IYR": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Real estate investment trust", "role": "context" }
+    ],
+    "XOP": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "Petroleum industry", "role": "context" },
+      { "title": "Upstream (petroleum industry)", "role": "context" }
+    ],
+    "USHY": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "High-yield debt", "role": "context" }
+    ],
+    "GDXJ": [
+      { "title": "VanEck", "role": "issuer" },
+      { "title": "Gold mining", "role": "context" }
+    ],
+    "IWF": [
+      { "title": "Russell 1000 Index", "role": "index" },
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Growth stock", "role": "context" }
+    ],
+    "VGT": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Information technology", "role": "context" },
+      { "title": "Global Industry Classification Standard", "role": "context" }
+    ],
+    "KORU": [
+      { "title": "Direxion", "role": "issuer" },
+      { "title": "Economy of South Korea", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context", "prefer": "leverag" }
+    ],
+    "VUG": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Growth stock", "role": "context" },
+      { "title": "Morningstar, Inc.", "role": "context" }
+    ],
+    "IJH": [
+      { "title": "S&P 400", "role": "index" },
+      { "title": "IShares", "role": "issuer" }
+    ],
+    "EWT": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "MSCI", "role": "context" },
+      { "title": "Economy of Taiwan", "role": "context" }
+    ],
+    "RWM": [
+      { "title": "Russell 2000 Index", "role": "index" },
+      { "title": "ProShares", "role": "issuer" },
+      { "title": "Inverse exchange-traded fund", "role": "context" }
+    ],
+    "QID": [
+      { "title": "Nasdaq-100", "role": "index" },
+      { "title": "ProShares", "role": "issuer" },
+      { "title": "Inverse exchange-traded fund", "role": "context" }
+    ],
+    "MBB": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Mortgage-backed security", "role": "context" }
+    ],
+    "SPXL": [
+      { "title": "S&P 500", "role": "index" },
+      { "title": "Direxion", "role": "issuer" },
+      { "title": "Exchange-traded fund", "role": "context", "prefer": "leverag" }
+    ],
+    "VXUS": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "FTSE Russell", "role": "context" },
+      { "title": "Index fund", "role": "context" }
+    ],
+    "VCSH": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Corporate bond", "role": "context" }
+    ],
+    "IJR": [
+      { "title": "S&P 600", "role": "index" },
+      { "title": "IShares", "role": "issuer" }
+    ],
+    "IWD": [
+      { "title": "Russell 1000 Index", "role": "index" },
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Value investing", "role": "context" }
+    ],
+    "BOXX": [
+      { "title": "Box spread", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context" }
+    ],
+    "KWEB": [
+      { "title": "Internet in China", "role": "context" },
+      { "title": "Economy of China", "role": "context" }
+    ],
+    "IAU": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Gold exchange-traded product", "role": "context" },
+      { "title": "Gold as an investment", "role": "context" }
+    ],
+    "MDY": [
+      { "title": "S&P 400", "role": "index" },
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "State Street Investment Management", "role": "context" }
+    ],
+    "VWO": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "FTSE Russell", "role": "context" },
+      { "title": "Emerging market", "role": "context" }
+    ],
+    "VT": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "FTSE Russell", "role": "context" },
+      { "title": "Index fund", "role": "context" }
+    ],
+    "NVDL": [
+      { "title": "Nvidia", "role": "context" },
+      { "title": "Exchange-traded fund", "role": "context", "prefer": "leverag" }
+    ],
+    "SNDQ": [
+      { "title": "Sandisk", "role": "context" },
+      { "title": "Inverse exchange-traded fund", "role": "context" }
+    ],
+    "MTUM": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "Momentum investing", "role": "context" },
+      { "title": "MSCI", "role": "context" }
+    ],
+    "GLDM": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "Gold exchange-traded product", "role": "context" },
+      { "title": "Gold as an investment", "role": "context" }
+    ],
+    "VCLT": [
+      { "title": "The Vanguard Group", "role": "issuer" },
+      { "title": "Corporate bond", "role": "context" }
+    ],
+    "ARKK": [
+      { "title": "Ark Invest", "role": "issuer" },
+      { "title": "Cathie Wood", "role": "context" }
+    ],
+    "SHV": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "United States Treasury security", "role": "context", "prefer": "bill" }
+    ],
+    "JPST": [
+      { "title": "JPMorgan Chase", "role": "issuer" },
+      { "title": "Money market fund", "role": "context" }
+    ],
+    "PSQ": [
+      { "title": "Nasdaq-100", "role": "index" },
+      { "title": "ProShares", "role": "issuer" },
+      { "title": "Inverse exchange-traded fund", "role": "context" }
+    ],
+    "QLD": [
+      { "title": "Nasdaq-100", "role": "index" },
+      { "title": "ProShares", "role": "issuer" },
+      { "title": "Exchange-traded fund", "role": "context", "prefer": "leverag" }
+    ],
+    "JEPQ": [
+      { "title": "JPMorgan Chase", "role": "issuer" },
+      { "title": "Nasdaq-100", "role": "context" },
+      { "title": "Covered option", "role": "context" }
+    ],
+    "JAAA": [
+      { "title": "Janus Henderson", "role": "issuer" },
+      { "title": "Collateralized loan obligation", "role": "context" }
+    ],
+    "EWJ": [
+      { "title": "IShares", "role": "issuer" },
+      { "title": "MSCI", "role": "context" },
+      { "title": "Economy of Japan", "role": "context" }
+    ],
+    "JNK": [
+      { "title": "SPDR", "role": "issuer" },
+      { "title": "High-yield debt", "role": "context" }
+    ]
+  }
+}

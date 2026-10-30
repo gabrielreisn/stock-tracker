@@ -1,0 +1,270 @@
+{
+  "ticker": "QQQ",
+  "slug": "qqq",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "QQQ: história, desempenho e riscos",
+    "description": "Conheça o Invesco QQQ Trust, ETF que replica o Nasdaq-100. Veja desempenho, volatilidade, maior queda e como investir a partir do Brasil.",
+    "h1": "QQQ: Invesco QQQ Trust",
+    "canonicalPath": "/etfs/qqq",
+    "keywords": [
+      "QQQ",
+      "Invesco QQQ Trust",
+      "ETF Nasdaq-100",
+      "QQQ Brasil",
+      "QQQ dividendos",
+      "QQQ volatilidade"
+    ]
+  },
+  "summary": "QQQ é o ticker do Invesco QQQ Trust, um ETF que replica o índice Nasdaq-100, composto por 100 das maiores empresas de tecnologia e crescimento listadas na Nasdaq. Lançado em 1999, o fundo é o mais negociado que segue esse índice. Em julho de 2026, o QQQ administrava aproximadamente US$ 500 bilhões em ativos. Em 29/10/2026, a cota era negociada a US$ 715,34.",
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "Invesco",
+    "trackedIndex": "Nasdaq-100",
+    "expenseRatio": "0,18% (fonte [2])",
+    "name": "Invesco QQQ Trust",
+    "founded": "1999"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Invesco QQQ Trust",
+      "source": 0
+    },
+    {
+      "label": "Lançamento",
+      "value": "1999",
+      "source": 1
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 715,34",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "20,04% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,45",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,43%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 25,50 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "QQQ",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Invesco QQQ Trust",
+    "currency": "USD",
+    "price": 715.34,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1304,
+      "3y": 1.0834,
+      "5y": 0.9089,
+      "10y": 5.5431
+    },
+    "volatility1y": 0.2004,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3512,
+      "from": "2021-12-27",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": 1.45,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.091,
+      "payments12Months": 4,
+      "yield12Months": 0.0043,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.751
+      }
+    },
+    "avgDailyTradedValue3m": 25495239169
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do QQQ nos últimos 12 meses foi de 20,04%, classificada como moderada. O beta de 1,45 contra o S&P 500 indica que o fundo tende a oscilar mais que o índice de referência. A maior queda nos últimos 5 anos foi de -35,12%, do pico em 27/12/2021 ao ponto mais baixo em 03/11/2022. Para acompanhar a volatilidade e definir pontos de entrada ou saída, os [alertas de preço](/recursos/alertas-de-preco) podem ser úteis. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) também permite visualizar a rentabilidade da carteira ao longo do tempo."
+  },
+  "history": {
+    "overview": "O Invesco QQQ Trust foi lançado em 10 de março de 1999 com o objetivo de replicar o desempenho do índice Nasdaq-100. Em 2004, o ticker foi alterado para QQQQ, mas voltou a ser QQQ em março de 2011. O fundo é amplamente reconhecido por ser o mais negociado que replica o Nasdaq-100, atraindo investidores que buscam exposição ao setor de tecnologia e empresas de crescimento dos Estados Unidos. Em dezembro de 2025, o QQQ passou por uma mudança estrutural significativa, deixando de ser uma unit investment trust (UIT) para se tornar um ETF de estrutura aberta sob a Investment Company Act of 1940. Essa alteração permitiu que o fundo reinvestisse rendimentos, participasse de empréstimos de títulos (securities lending) e utilizasse cestas de resgate personalizadas. Além disso, a governança foi transferida de um banco terceiro para um conselho de administradores, e a taxa de administração foi reduzida de 0,20% para 0,18%.",
+    "timeline": [
+      {
+        "date": "1999-03-10",
+        "event": "Lançamento do Invesco QQQ Trust",
+        "source": 2
+      },
+      {
+        "date": "2004",
+        "event": "Ticker alterado de QQQ para QQQQ",
+        "source": 2
+      },
+      {
+        "date": "2011-03",
+        "event": "Ticker revertido de QQQQ para QQQ",
+        "source": 2
+      },
+      {
+        "date": "2025-12",
+        "event": "Mudança de estrutura de UIT para ETF aberto e redução da taxa de administração para 0,18%",
+        "source": 2
+      },
+      {
+        "date": "2026-07",
+        "event": "Fundo atinge aproximadamente US$ 500 bilhões em ativos sob gestão",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o QQQ funciona",
+      "body": "O Invesco QQQ Trust é um ETF que replica o desempenho do índice Nasdaq-100, mantendo as mesmas ações do índice nas mesmas proporções. A emissora é a Invesco, e o fundo foi lançado em 10 de março de 1999. Em dezembro de 2025, o QQQ mudou sua estrutura de uma unit investment trust (UIT) para um ETF de estrutura aberta sob a Investment Company Act of 1940. Essa mudança permite que o fundo reinvesta rendimentos, participe de empréstimos de títulos e utilize cestas de resgate personalizadas, além de ter a governança conduzida por um conselho de administradores em vez de um banco terceiro. A taxa de administração foi reduzida de 0,20% para 0,18% com essa alteração."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do QQQ",
+      "body": "O QQQ replica o índice Nasdaq-100, que é composto por 100 das maiores empresas de tecnologia e crescimento listadas na Nasdaq. As fontes não detalham a composição exata das ações ou o peso de cada empresa no índice. O fundo é o mais negociado que replica o desempenho do Nasdaq-100, com aproximadamente US$ 500 bilhões em ativos sob gestão em julho de 2026."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no QQQ a partir do Brasil",
+      "body": "Para investir no QQQ a partir do Brasil, é necessário abrir uma conta em uma corretora que opere no mercado americano, comprando o ETF diretamente em dólar. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou empresas semelhantes. O principal risco cambial é a variação do dólar em relação ao real, que pode afetar o retorno do investidor. O QQQ não é listado na B3, então a compra direta exige uma conta no exterior. Para acompanhar a carteira, o [Open Finance](/recursos/open-finance) pode conectar a corretora e conferir as posições."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do QQQ",
+      "body": "Até 29/10/2026, o QQQ apresentou rentabilidade total com proventos de 13,04% nos últimos 12 meses, 108,34% em 3 anos, 90,89% em 5 anos e 554,31% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 25,50 bilhões. Para comparar o desempenho do QQQ com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) também permite visualizar a rentabilidade da carteira ao longo do tempo."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do QQQ",
+      "body": "O QQQ está sujeito a riscos de mercado, especialmente por sua concentração em empresas de tecnologia e crescimento. A volatilidade anualizada nos últimos 12 meses foi de 20,04%, classificada como moderada. O beta de 1,45 contra o S&P 500 indica que o QQQ tende a oscilar mais que o índice de referência. A maior queda nos últimos 5 anos foi de -35,12%, do pico em 27/12/2021 ao ponto mais baixo em 03/11/2022. Para monitorar movimentos de preço, os [alertas de preço](/recursos/alertas-de-preco) podem notificar quando o ativo atinge um valor definido."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o QQQ?",
+      "answer": "QQQ é o ticker do Invesco QQQ Trust, um ETF que replica o índice Nasdaq-100, composto por 100 das maiores empresas de tecnologia e crescimento listadas na Nasdaq. O fundo é o mais negociado que segue esse índice, com aproximadamente US$ 500 bilhões em ativos sob gestão em julho de 2026."
+    },
+    {
+      "question": "Qual a diferença entre QQQ e SPY?",
+      "answer": "QQQ replica o índice Nasdaq-100, focado em empresas de tecnologia e crescimento, enquanto [SPY](/etfs/spy) replica o S&P 500, que é mais diversificado por setor. O QQQ tende a ter maior volatilidade e exposição a tecnologia, enquanto SPY oferece uma visão mais ampla do mercado americano. Para comparar, use a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Como investir no QQQ a partir do Brasil?",
+      "answer": "Para investir no QQQ, é necessário abrir uma conta em uma corretora que opere no mercado americano, comprando o ETF diretamente em dólar. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam o mesmo índice. O risco cambial é a variação do dólar em relação ao real. O [Open Finance](/recursos/open-finance) pode conectar a corretora e conferir as posições."
+    },
+    {
+      "question": "Qual a taxa de administração do QQQ?",
+      "answer": "A taxa de administração do QQQ foi reduzida de 0,20% para 0,18% em dezembro de 2025, com a mudança de estrutura de UIT para ETF aberto. Essa alteração também permitiu que o fundo reinvestisse rendimentos e participasse de empréstimos de títulos."
+    },
+    {
+      "question": "Qual a maior queda do QQQ nos últimos 5 anos?",
+      "answer": "A maior queda do QQQ nos últimos 5 anos foi de -35,12%, do pico em 27/12/2021 ao ponto mais baixo em 03/11/2022. A volatilidade anualizada nos últimos 12 meses foi de 20,04%, classificada como moderada. Para monitorar movimentos de preço, os [alertas de preço](/recursos/alertas-de-preco) podem ser úteis."
+    },
+    {
+      "question": "O QQQ paga dividendos?",
+      "answer": "Sim, o QQQ paga proventos. Nos 12 meses até 29/10/2026, foram distribuídos US$ 3,0910 por cota em 4 pagamentos, com dividend yield de 0,43%. O último pagamento foi de US$ 0,7510 em 21/09/2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do QQQ lado a lado com o S&P 500, no mesmo gráfico."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Gráfico de rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho e variação."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Notificação quando o QQQ atinge o preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecta a corretora e confere as posições do QQQ com a sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, para comparação com o QQQ."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF que replica o S&P 500, alternativa ao SPY."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, com baixa taxa de administração."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF de tecnologia, para comparação com a exposição do QQQ."
+      },
+      {
+        "ticker": "TQQQ",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 3x do QQQ, para quem busca maior exposição ao Nasdaq-100."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de QQQ",
+      "url": "https://finance.yahoo.com/quote/QQQ/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Invesco QQQ",
+      "url": "https://www.wikidata.org/wiki/Q122166676",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Invesco QQQ",
+      "url": "https://en.wikipedia.org/wiki/Invesco_QQQ",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

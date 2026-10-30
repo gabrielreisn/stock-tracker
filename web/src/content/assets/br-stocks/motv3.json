@@ -1,0 +1,373 @@
+{
+  "ticker": "MOTV3",
+  "slug": "motv3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "MOTV3: história, dividendos e volatilidade",
+    "description": "MOTV3 é a ação ordinária da Motiva, que opera concessões de rodovias e trilhos. Veja dividendos, rentabilidade e riscos da ação na B3.",
+    "h1": "MOTV3: Motiva Infraestrutura de Mobilidade",
+    "canonicalPath": "/acoes/motv3",
+    "keywords": [
+      "MOTV3",
+      "Motiva",
+      "ações de infraestrutura",
+      "concessões rodoviárias",
+      "dividendos MOTV3",
+      "volatilidade MOTV3"
+    ]
+  },
+  "summary": "MOTV3 é a ação ordinária da Motiva Infraestrutura de Mobilidade S.A., companhia brasileira que opera concessões de rodovias, sistemas de trilhos e aeroportos. Listada no Novo Mercado da B3 desde 2002, a empresa atua em 13 estados com 37 concessões. Em 28/10/2026, a ação valia R$ 14,45, com dividend yield de 6,45% nos últimos 12 meses.",
+  "profile": {
+    "name": "Motiva",
+    "legalName": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Bens Industriais",
+    "segment": "Exploração de Rodovias",
+    "founded": "23/09/1998",
+    "listedSince": "01/02/2002",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.ccr.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.846.056/0001-97",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Bens Industriais / Exploração de Rodovias",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "23/09/1998",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "01/02/2002",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "MOTV3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 14,45",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "43,85% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,57",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,45%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MOTV3",
+    "list": "br-stocks",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Motiva Infraestrutura de Mobilidade S.A.",
+    "currency": "BRL",
+    "price": 14.45,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.028,
+      "3y": 0.3424,
+      "5y": 0.4686,
+      "10y": 0.2008
+    },
+    "volatility1y": 0.4385,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2994,
+      "from": "2022-08-12",
+      "to": "2023-01-03"
+    },
+    "beta1y": {
+      "value": 1.57,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.9314,
+      "payments12Months": 3,
+      "yield12Months": 0.0645,
+      "lastPayment": {
+        "date": "2026-09-08",
+        "amount": 0.723315
+      }
+    },
+    "avgDailyTradedValue3m": 267880960
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da MOTV3 nos 12 meses até 28/10/2026 foi de 43,85%, nível classificado como muito alta. O beta de 1,57 contra o Ibovespa indica que a ação tende a oscilar 1,57 vezes mais que o índice. A maior queda nos últimos 5 anos foi de -29,94%, do pico em 12/08/2022 ao ponto mais baixo em 03/01/2023. Para ativos de infraestrutura, essa volatilidade reflete a sensibilidade a mudanças regulatórias e contratuais. Utilize os [alertas de preço no StockBar](/recursos/alertas-de-preco) para acompanhar movimentos de preço."
+  },
+  "history": {
+    "overview": "A Motiva Infraestrutura de Mobilidade S.A. tem origem na constituição da CCR em 23 de setembro de 1998, reunindo participações de grupos empresariais em concessionárias de transporte rodoviário como a Ponte S/A, a NovaDutra e a ViaLagos. Em 2000, a empresa obteve registro de companhia aberta na CVM e, em 2002, iniciou a cotação de suas ações na B3, aderindo ao segmento Novo Mercado. Ao longo das décadas seguintes, a companhia expandiu sua atuação para concessões rodoviárias federais e estaduais, mobilidade urbana e aeroportos, incorporando ativos como a ViaOeste, a ViaQuatro e o BH Airport. Em 2019, no âmbito da Operação Integração, a RodoNorte, controlada pela empresa, firmou acordo de leniência com o Ministério Público Federal, resultando em pagamentos a usuários de rodovias. Em 2025, a empresa anunciou a adoção da marca Motiva, substituindo o Grupo CCR, e iniciou a venda de sua plataforma de aeroportos para focar em rodovias e trilhos no Brasil.",
+    "timeline": [
+      {
+        "date": "1998-09-23",
+        "event": "Constituição da companhia com o nome CCR",
+        "source": 2
+      },
+      {
+        "date": "2000-12-19",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2002-02-01",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-06-25",
+        "event": "Intenção de alienação de participação acionária do Grupo Mover para o Bradesco",
+        "source": 12
+      },
+      {
+        "date": "2026-07-01",
+        "event": "Divulgação de aditivo do contrato da Renovias",
+        "source": 11
+      },
+      {
+        "date": "2026-07-22",
+        "event": "Alteração no Conselho de Administração com eleições e renúncias",
+        "source": 10
+      },
+      {
+        "date": "2026-07-28",
+        "event": "Alienação de participação do Grupo Mover",
+        "source": 9
+      },
+      {
+        "date": "2026-08-03",
+        "event": "Intenção de renovação do Acordo de Acionistas",
+        "source": 8
+      },
+      {
+        "date": "2026-08-26",
+        "event": "Alteração na Diretoria Executiva",
+        "source": 7
+      },
+      {
+        "date": "2026-09-01",
+        "event": "Conclusão da transação da plataforma de aeroportos",
+        "source": 6
+      },
+      {
+        "date": "2026-09-29",
+        "event": "Acordo de investimento para exploração comercial de mídia Out-of-Home em rodovias",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Motiva ganha dinheiro",
+      "body": "A Motiva Infraestrutura de Mobilidade S.A. atua na prestação de serviços públicos por meio de concessões rodoviárias, metroviárias e aeroportuárias, além de serviços de meio de pagamento. A empresa organiza suas atividades em plataformas de negócios voltadas a rodovias, trilhos e aeroportos. Em 2026, a companhia atuava em 13 estados brasileiros com 37 concessões. A plataforma de rodovias inclui ativos como AutoBAn, Pantanal, Paraná, ViaSul e BR-101. A plataforma de trilhos abrange a Linha 4-Amarela do Metrô de São Paulo, o VLT Carioca e o Metrô Bahia. Em 2025, a empresa anunciou a venda de sua plataforma de aeroportos para focar em rodovias e trilhos no Brasil."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Motiva",
+      "body": "A Motiva é listada no segmento Novo Mercado da B3, que exige regras adicionais de governança corporativa. O código de negociação é MOTV3, referente à ação ordinária. Ações ordinárias dão direito a voto em assembleias e participação nos lucros, enquanto ações preferenciais têm preferência no recebimento de dividendos, mas geralmente não votam. Em março de 2026, a estrutura acionária era composta por 49,66% de ações em circulação, 14,86% do Grupo Mover, 14,37% do Grupo Soares Penido, 10,33% da Itaúsa e 10,33% da Votorantim. O controle acionário é classificado como privado pela CVM."
+    },
+    {
+      "id": "proventos",
+      "heading": "MOTV3 paga dividendos?",
+      "body": "Nos 12 meses até 28/10/2026, a MOTV3 distribuiu R$ 0,9314 por ação em 3 pagamentos, resultando em dividend yield de 6,45%. O último pagamento foi de R$ 0,7233 em 08/09/2026. A companhia remunera seus acionistas por meio de dividendos, conforme os comunicados da B3. Para acompanhar os dividendos e JCP da MOTV3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da MOTV3",
+      "body": "A rentabilidade total com proventos da MOTV3 nos 12 meses até 28/10/2026 foi de -2,80%. Nos 3 anos, a rentabilidade foi de 34,24%, e nos 5 anos, de 46,86%. Nos 10 anos, a rentabilidade foi de 20,08%. Para comparar a rentabilidade da MOTV3 com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da MOTV3",
+      "body": "A volatilidade anualizada da MOTV3 nos 12 meses até 28/10/2026 foi de 43,85%, classificada como muito alta. O beta de 1,57 indica que a ação tende a oscilar mais que o Ibovespa. A maior queda nos últimos 5 anos foi de -29,94%, do pico em 12/08/2022 ao ponto mais baixo em 03/01/2023. Riscos setoriais incluem mudanças regulatórias, contratos de concessão e eventos como a Operação Integração, que impactou a RodoNorte em 2019. Para monitorar movimentos de preço, utilize os [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MOTV3 paga dividendos?",
+      "answer": "Sim, a MOTV3 distribui dividendos. Nos 12 meses até 28/10/2026, foram pagos R$ 0,9314 por ação em 3 pagamentos, com dividend yield de 6,45%. O último pagamento foi de R$ 0,7233 em 08/09/2026. Acompanhe os pagamentos no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre MOTV3 e ações preferenciais?",
+      "answer": "MOTV3 é a ação ordinária da Motiva, que dá direito a voto em assembleias e participação nos lucros. Ações preferenciais, quando existem, têm preferência no recebimento de dividendos, mas geralmente não votam. A Motiva é listada no Novo Mercado, que exige regras de governança adicionais."
+    },
+    {
+      "question": "O que a Motiva faz?",
+      "answer": "A Motiva Infraestrutura de Mobilidade S.A. opera concessões de rodovias, sistemas de trilhos e aeroportos no Brasil. Em 2026, a empresa atuava em 13 estados com 37 concessões, incluindo rodovias como a BR-101 e sistemas como a Linha 4-Amarela do Metrô de São Paulo."
+    },
+    {
+      "question": "Qual a rentabilidade da MOTV3?",
+      "answer": "A rentabilidade total com proventos da MOTV3 nos 12 meses até 28/10/2026 foi de -2,80%. Nos 3 anos, foi de 34,24%, e nos 5 anos, de 46,86%. Compare com o Ibovespa no recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "MOTV3 é volátil?",
+      "answer": "Sim, a volatilidade anualizada da MOTV3 nos 12 meses até 28/10/2026 foi de 43,85%, nível muito alto. O beta de 1,57 indica oscilação maior que o Ibovespa. A maior queda em 5 anos foi de -29,94%. Utilize os [alertas de preço no StockBar](/recursos/alertas-de-preco) para monitorar."
+    },
+    {
+      "question": "Quem controla a Motiva?",
+      "answer": "O controle acionário da Motiva é classificado como privado pela CVM. Em março de 2026, a estrutura acionária incluía 49,66% de ações em circulação, 14,86% do Grupo Mover, 14,37% do Grupo Soares Penido, 10,33% da Itaúsa e 10,33% da Votorantim."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da MOTV3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices no StockBar",
+        "context": "Compare a rentabilidade da MOTV3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço no StockBar",
+        "context": "Receba notificações quando a MOTV3 chegar ao preço que você escolheu, útil para monitorar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada no StockBar",
+        "context": "Veja a MOTV3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ITSA4",
+        "list": "br-stocks",
+        "reason": "Itaúsa é acionista da Motiva com 10,33% do capital."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Bradesco adquiriu participação do Grupo Mover na Motiva em 2026."
+      },
+      {
+        "ticker": "B3SA3",
+        "list": "br-stocks",
+        "reason": "B3 é a bolsa onde a MOTV3 é negociada."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "AXIA Energia atua em infraestrutura, setor relacionado à Motiva."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MOTV3",
+      "url": "https://finance.yahoo.com/quote/MOTV3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MOTIVA SA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18821/MOTV/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Motiva",
+      "url": "https://www.wikidata.org/wiki/Q1121225",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Motiva",
+      "url": "https://pt.wikipedia.org/wiki/Motiva",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/09/2026, “Acordo de Investimento para a exploração comercial de mídia Out-of-Home em rodovias”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1572277&numSequencia=1096983&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/09/2026, “Conclusão Transação da PLataforma de Aeroportos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1563650&numSequencia=1088356&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 26/08/2026, “Alteração na Diretoria Executiva”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1561713&numSequencia=1086419&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/08/2026, “Intenção de renovação do Acordo de Acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1551435&numSequencia=1076141&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/07/2026, “Alienação de participação - Grupo Mover”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548989&numSequencia=1073695&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/07/2026, “Alteração Conselho de Administração||Eleição Frederico de Souza Queiroz Pascowitch||Eleição João Zeferino Ferreira Velloso Filho||Renúncia Eduardo Bunker Gentil||Renúncia Mateus Gomes Ferreira||Renúncia Roberto Egydio Setubal”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547139&numSequencia=1071845&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/07/2026, “Aditivo Renovias”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1540247&numSequencia=1064953&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/06/2026, “Intenção de Alienação Participação Acionária - Grupo Mover - Bradesco”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538218&numSequencia=1062924&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

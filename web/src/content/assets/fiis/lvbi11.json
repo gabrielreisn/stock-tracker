@@ -1,0 +1,359 @@
+{
+  "ticker": "LVBI11",
+  "slug": "lvbi11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "LVBI11: FII de logística, rendimentos e patrimônio",
+    "description": "Conheça o LVBI11, FII de logística com patrimônio de R$ 1,94 bilhão e dividend yield de 9,49%. Veja rendimentos, estratégia e desempenho até 28/10/2026.",
+    "h1": "LVBI11: Fundo de Investimento Imobiliário VBI Logístico",
+    "canonicalPath": "/fiis/lvbi11",
+    "keywords": [
+      "LVBI11",
+      "FII logística",
+      "VBI Logístico",
+      "rendimentos LVBI11",
+      "patrimônio LVBI11",
+      "dividend yield LVBI11",
+      "FII tijolo logística",
+      "Patria VBI Asset Management"
+    ]
+  },
+  "summary": "LVBI11 é a cota do Fundo de Investimento Imobiliário VBI Logístico, um FII de tijolo focado em ativos logísticos e industriais. Administrado pela BTG Pactual e gerido pela Patria – VBI Asset Management, o fundo possui patrimônio líquido de R$ 1,94 bilhão e 125.693 cotistas em setembro de 2026. A cota patrimonial é de R$ 120,53, enquanto o preço de mercado em 28/10/2026 é de R$ 95,93, com dividend yield de 9,49% nos últimos 12 meses.",
+  "profile": {
+    "type": "FII de tijolo, logística",
+    "issuerOrManager": "Patria – VBI Asset Management Ltda",
+    "name": "Fundo de Investimento Imobiliário VBI Logístico",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VBI LOGÍSTICO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "09/11/2018",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VBI LOGÍSTICO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "30.629.603/0001-18",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "09/11/2018",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,94 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "125.693",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 120,53",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 95,93",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,50% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,27",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,49%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 4,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "LVBI11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo De Investimento Imobiliario - VBI Logistico - Cota Fund",
+    "currency": "BRL",
+    "price": 95.93,
+    "historyStarts": "2020-03-24",
+    "returns": {
+      "1y": -0.0305,
+      "3y": 0.0883,
+      "5y": 0.4831,
+      "10y": null
+    },
+    "volatility1y": 0.145,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2115,
+      "from": "2024-06-07",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.27,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 9.1,
+      "payments12Months": 12,
+      "yield12Months": 0.0949,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.8
+      }
+    },
+    "avgDailyTradedValue3m": 4521319
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada de 12 meses do LVBI11 é de 14,50%, considerada baixa para um FII de tijolo. O beta contra o Ibovespa é de 0,27, indicando menor sensibilidade às flutuações do índice. A maior queda nos últimos 5 anos foi de -21,15%, do pico em 07/06/2024 ao ponto mais baixo em 18/12/2024. Esse nível de volatilidade é consistente com o comportamento de FIIs de logística, que tendem a ter menor sensibilidade a ciclos de mercado em comparação com ações. O recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco) permite monitorar movimentos de preço e configurar notificações para níveis específicos."
+  },
+  "history": {
+    "overview": "O Fundo de Investimento Imobiliário VBI Logístico (LVBI11) iniciou suas atividades em 09/11/2018, com o objetivo de obter renda e ganho de capital por meio de investimentos em imóveis logísticos e industriais. A estratégia do fundo é ativa, com foco em ativos de alta qualidade e localização estratégica, conforme descrito no relatório gerencial de setembro de 2026. A gestora é a Patria – VBI Asset Management Ltda., enquanto a administração e escrituração são realizadas pela BTG Pactual Serviços Financeiros S.A. DTVM. O fundo já realizou cinco ofertas públicas de cotas desde sua fundação, ampliando seu patrimônio e base de cotistas ao longo dos anos. Em 2026, o fundo passou por uma reestruturação de portfólio, com a venda do ativo Itapevi por R$ 103,7 milhões, consolidando sua carteira exclusivamente em ativos Classe A. Essa movimentação reflete o compromisso do fundo em manter uma carteira de alta qualidade, mesmo em um cenário de mercado desafiador, com o IFIX recuando pelo quinto mês consecutivo em setembro de 2026. O fundo também está em processo de incorporação com o HGLG, o que pode impactar a distribuição de rendimentos e a composição do portfólio no futuro.",
+    "timeline": [
+      {
+        "date": "2018-11-06",
+        "event": "Início da primeira oferta pública de cotas do LVBI11",
+        "source": 2
+      },
+      {
+        "date": "2018-11-09",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2018-11-13",
+        "event": "Encerramento da primeira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2019-07-31",
+        "event": "Início da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2019-09-02",
+        "event": "Encerramento da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2020-08-26",
+        "event": "Início da terceira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2020-10-01",
+        "event": "Encerramento da terceira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2023-08-31",
+        "event": "Início da quarta oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2023-10-06",
+        "event": "Encerramento da quarta oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2024-02-29",
+        "event": "Início da quinta oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2024-04-15",
+        "event": "Encerramento da quinta oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-09-29",
+        "event": "Venda do ativo Itapevi por R$ 103,7 milhões",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do LVBI11",
+      "body": "O LVBI11 é um FII de tijolo com foco em imóveis logísticos e industriais, com gestão ativa. O objetivo do fundo é obter renda e ganho de capital, investindo no mínimo dois terços do patrimônio líquido em imóveis ou direitos reais do segmento logístico ou industrial, além de investimentos indiretos em SPEs, FIIs e FIPs. A gestora é a Patria – VBI Asset Management Ltda., e o administrador e escriturador é a BTG Pactual Serviços Financeiros S.A. DTVM. Em setembro de 2026, o portfólio era composto por 9 ativos e 29 locatários, com 482.938 m² de ABL e WALE de 3,7 anos. A vacância física era de 0,0% e a financeira de 0,4%. O fundo possui apenas a dívida do ativo Aratu, representando 0,5% do patrimônio líquido, com taxa de juros considerada saudável. A venda do ativo Itapevi em setembro de 2026 consolidou o portfólio exclusivamente em ativos Classe A, reforçando a estratégia de qualidade e localização estratégica."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do LVBI11",
+      "body": "Nos 12 meses até 28/10/2026, o LVBI11 distribuiu R$ 9,1000 por cota em 12 pagamentos, resultando em um dividend yield de 9,49%. O último rendimento foi de R$ 0,8000, pago em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o rendimento do mês foi de R$ 0,80/cota, pago em 07/10/2026, alinhado ao guidance de R$ 0,80/cota para o 2S26. A tributação dos rendimentos de FIIs não é mencionada no dossiê, mas o recurso de [proventos no StockBar](/recursos/proventos) permite acompanhar os pagamentos com data de competência e data de pagamento, multiplicados pela quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O LVBI11 realizou cinco ofertas públicas de cotas desde sua fundação, com a primeira iniciada em 06/11/2018 e a última encerrada em 15/04/2024. Em setembro de 2026, o patrimônio líquido do fundo era de R$ 1,94 bilhão, com 125.693 cotistas e 16.118.565 cotas emitidas. O valor patrimonial da cota era de R$ 120,53, enquanto o preço de mercado era de R$ 97,90, resultando em um P/VP de 0,81x. O volume médio diário negociado nos últimos três meses era de R$ 4,5 milhões."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do LVBI11",
+      "body": "Nos 12 meses até 28/10/2026, o LVBI11 apresentou rentabilidade total com proventos de -3,05%. Nos 3 anos, a rentabilidade foi de 8,83%, e nos 5 anos, de 48,31%. O fundo é comparado ao IFIX, que recuou 0,2% em setembro de 2026, enquanto o Ibovespa avançou 5%. O recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices) permite visualizar a rentabilidade do LVBI11 lado a lado com o IFIX, CDI, Ibovespa e outros índices, no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do LVBI11",
+      "body": "Os riscos do LVBI11 incluem vacância física e financeira, que eram de 0,0% e 0,4%, respectivamente, em setembro de 2026. O fundo também está em processo de incorporação com o HGLG, o que pode impactar a distribuição de rendimentos e a composição do portfólio. A volatilidade anualizada de 12 meses é de 14,50%, considerada baixa, e o beta contra o Ibovespa é de 0,27. A maior queda nos últimos 5 anos foi de -21,15%, do pico em 07/06/2024 ao ponto mais baixo em 18/12/2024. O recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco) permite configurar notificações quando a cota atinge níveis específicos, ajudando a monitorar a volatilidade."
+    }
+  ],
+  "faq": [
+    {
+      "question": "LVBI11 paga rendimentos?",
+      "answer": "Sim, o LVBI11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram distribuídos R$ 9,1000 por cota, com dividend yield de 9,49%. O último rendimento foi de R$ 0,8000, pago em 01/10/2026. O recurso de [proventos no StockBar](/recursos/proventos) permite acompanhar os pagamentos com data de competência e data de pagamento."
+    },
+    {
+      "question": "Qual a diferença entre LVBI11 e HGLG11?",
+      "answer": "O LVBI11 é um FII de logística gerido pela Patria – VBI Asset Management, enquanto o [HGLG11](/fiis/hglg11) é um FII de logística gerido pela CSHG. O LVBI11 está em processo de incorporação com o HGLG, o que pode impactar a composição do portfólio e a distribuição de rendimentos. Ambos são FIIs de tijolo focados em ativos logísticos, mas com estratégias e portfólios distintos."
+    },
+    {
+      "question": "LVBI11 é FII de papel ou de tijolo?",
+      "answer": "O LVBI11 é um FII de tijolo, com foco em imóveis logísticos e industriais. O fundo investe no mínimo dois terços do patrimônio líquido em imóveis ou direitos reais do segmento logístico ou industrial, além de investimentos indiretos em SPEs, FIIs e FIPs. A estratégia é ativa, com foco em ativos de alta qualidade e localização estratégica."
+    },
+    {
+      "question": "Qual a taxa de administração do LVBI11?",
+      "answer": "A taxa de administração do LVBI11 é de 0,070% do patrimônio líquido por mês, conforme informado pela CVM em setembro de 2026. A taxa efetiva total é de 0,8% ao ano, conforme o relatório gerencial do mesmo período."
+    },
+    {
+      "question": "Como acompanhar os rendimentos do LVBI11 no StockBar?",
+      "answer": "O recurso de [proventos no StockBar](/recursos/proventos) permite acompanhar os rendimentos do LVBI11 com data de competência e data de pagamento, multiplicados pela quantidade de cotas. O recurso também permite visualizar a evolução dos pagamentos ao longo do tempo, ajudando a monitorar a consistência da distribuição."
+    },
+    {
+      "question": "Qual a rentabilidade do LVBI11 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos do LVBI11 nos 12 meses até 28/10/2026 foi de -3,05%. O recurso de [desempenho e preço médio no StockBar](/recursos/desempenho-e-preco-medio) permite visualizar a evolução do preço e a rentabilidade da cota ao longo do tempo, com a possibilidade de medir períodos específicos."
+    },
+    {
+      "question": "Como comparar o LVBI11 com outros FIIs de logística?",
+      "answer": "O recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices) permite comparar a rentabilidade do LVBI11 com o IFIX, que é o índice de referência para FIIs. Além disso, o recurso de [carteira consolidada no StockBar](/recursos/carteira-consolidada) permite visualizar a alocação do LVBI11 junto a outros ativos, como [BTLG11](/fiis/btlg11), [XPLG11](/fiis/xplg11) e [GARE11](/fiis/gare11), outros FIIs de logística."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos no StockBar",
+        "context": "Veja os rendimentos do LVBI11 com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices no StockBar",
+        "context": "Compare a rentabilidade do LVBI11 com o IFIX, CDI, Ibovespa e outros índices, no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço no StockBar",
+        "context": "Configure notificações quando a cota do LVBI11 atinge níveis específicos, ajudando a monitorar a volatilidade e movimentos de preço."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada no StockBar",
+        "context": "Visualize a alocação do LVBI11 junto a outros ativos, como ações, renda fixa e outros FIIs, em uma única visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no StockBar",
+        "context": "Acompanhe a evolução do preço e a rentabilidade da cota do LVBI11 ao longo do tempo, com a possibilidade de medir períodos específicos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística em processo de incorporação com o LVBI11, com portfólio e estratégia semelhantes."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística administrado pela BTG Pactual, com foco em ativos logísticos de alta qualidade."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística com estratégia ativa, similar ao LVBI11, focado em imóveis logísticos e industriais."
+      },
+      {
+        "ticker": "GARE11",
+        "list": "fiis",
+        "reason": "FII de logística com portfólio diversificado em ativos logísticos, oferecendo comparação de desempenho e distribuição de rendimentos."
+      },
+      {
+        "ticker": "BPAC11",
+        "list": "br-stocks",
+        "reason": "Ação do Banco BTG Pactual, administradora do LVBI11, para acompanhar a performance da instituição que gerencia o fundo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de LVBI11",
+      "url": "https://finance.yahoo.com/quote/LVBI11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do VBI LOGISTICO FII RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo LVBI11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30629603000118",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do LVBI11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356177",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do LVBI11, 29/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1333584",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do LVBI11, 29/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1333574",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

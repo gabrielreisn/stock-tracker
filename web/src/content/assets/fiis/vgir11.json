@@ -1,0 +1,314 @@
+{
+  "ticker": "VGIR11",
+  "slug": "vgir11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "VGIR11: FII de papel, rendimentos e volatilidade",
+    "description": "VGIR11 é um FII de papel da Valora, com foco em CRIs. Veja rendimentos, patrimônio, volatilidade e como acompanhar no StockBar.",
+    "h1": "VGIR11: Valora Cri Cdi FII",
+    "canonicalPath": "/fiis/vgir11",
+    "keywords": [
+      "VGIR11",
+      "Valora Cri Cdi FII",
+      "FII de papel",
+      "CRIs",
+      "rendimentos de FIIs",
+      "volatilidade de FIIs",
+      "dividend yield VGIR11",
+      "patrimônio VGIR11"
+    ]
+  },
+  "summary": "VGIR11 é a cota do Valora Cri Cdi Fundo de Investimento Imobiliário, um FII de papel que investe preponderantemente em Certificados de Recebíveis Imobiliários (CRIs). Fundado em 27/07/2018, o fundo é administrado pela BTG Pactual e gerido pela Valora. Em 09/2026, possuía patrimônio líquido de R$ 1,42 bilhão e 288.799 cotistas. Nos 12 meses até 28/10/2026, a rentabilidade total com proventos foi de 13,98%, com dividend yield de 16,54%.",
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Valora Gestão de Investimentos (gestora) e BTG Pactual Serviços Financeiros S.A",
+    "name": "Valora Cri Cdi Fundo de Investimento Imobiliário - FII Responsabilidade Limitada",
+    "legalName": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "27/07/2018",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "29.852.732/0001-91",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "27/07/2018",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,42 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "288.799",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,70",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 9,13",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "9,07% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,09",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "16,54%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 4,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VGIR11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Valora Re III Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 9.13,
+    "historyStarts": "2018-07-31",
+    "returns": {
+      "1y": 0.1398,
+      "3y": 0.4709,
+      "5y": 0.8263,
+      "10y": null
+    },
+    "volatility1y": 0.0907,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.146,
+      "from": "2024-09-02",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.09,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.51,
+      "payments12Months": 12,
+      "yield12Months": 0.1654,
+      "lastPayment": {
+        "date": "2026-10-14",
+        "amount": 0.13
+      }
+    },
+    "avgDailyTradedValue3m": 4687872
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do VGIR11 nos 12 meses até 28/10/2026 foi de 9,07%, nível baixo. 0 O beta de 0,09 contra o Ibovespa indica que o fundo tem baixa sensibilidade às variações do índice. 0 A maior queda nos últimos 5 anos foi de -14,60%, do pico em 02/09/2024 ao ponto mais baixo em 18/12/2024. 0 Para um FII de papel, essa volatilidade é considerada baixa, refletindo a estabilidade dos CRIs na carteira. 3"
+  },
+  "history": {
+    "overview": "O Valora Cri Cdi FII (VGIR11) iniciou suas atividades em 27/07/2018, com a primeira oferta pública de cotas encerrada em 30/07/2018. [1, 2] Desde então, o fundo realizou nove ofertas públicas de cotas, com a mais recente iniciada em 10/10/2024. 2 A estratégia do fundo é focada em CRIs, com gestão ativa da Valora e administração da BTG Pactual. 3 O fundo tem prazo indeterminado e público-alvo de investidores em geral. 1 Em setembro de 2026, o patrimônio líquido era de R$ 1,42 bilhão, com 288.799 cotistas e valor patrimonial da cota de R$ 9,70. 1 O relatório gerencial de 30/09/2026 mostra que 98,1% do patrimônio estava alocado em CRIs, distribuídos em 57 operações, com destaque para a aquisição do CRI Casa Brooklin e novas participações nos CRIs Haus Moema e Pagano. 3",
+    "timeline": [
+      {
+        "date": "2018-05-27",
+        "event": "Início de oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2018-07-27",
+        "event": "Início das atividades do fundo.",
+        "source": 1
+      },
+      {
+        "date": "2018-07-30",
+        "event": "Encerramento de oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2019-01-11",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2019-03-01",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do VGIR11",
+      "body": "O VGIR11 é um FII de papel, com foco em Certificados de Recebíveis Imobiliários (CRIs). A gestora é a Valora Gestão de Investimentos e o administrador é a BTG Pactual Serviços Financeiros S.A. DTVM. 3 O objetivo do fundo é o investimento preponderante em CRIs, com gestão ativa. 3 Em 30/09/2026, 98,1% do patrimônio líquido estava alocado em CRIs, distribuídos em 57 operações, com investimento total de R$ 1,371,6 milhões. 3 O relatório destaca a aquisição do CRI Casa Brooklin e novas participações nos CRIs Haus Moema e Pagano. 3"
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do VGIR11",
+      "body": "Nos 12 meses até 28/10/2026, o VGIR11 distribuiu R$ 1,5100 por cota em 12 pagamentos, com dividend yield de 16,54%. 0 O último pagamento foi de R$ 0,1300 em 14/10/2026. 0 O relatório gerencial de 30/09/2026 mostra que a distribuição referente a setembro de 2026 foi de R$ 0,13 por cota, equivalente a uma rentabilidade líquida de CDI + 3,14% ao ano. 3 Os rendimentos de FIIs são isentos de imposto de renda para pessoa física, conforme a legislação vigente. 3 Acompanhe os proventos do VGIR11 no [StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O VGIR11 realizou nove ofertas públicas de cotas desde sua fundação, com a mais recente iniciada em 10/10/2024. 2 Em 09/2026, o patrimônio líquido era de R$ 1,42 bilhão, com 288.799 cotistas e valor patrimonial da cota de R$ 9,70. 1 O número de cotas emitidas era de 146.101.287. 1 A taxa de administração no mês de 09/2026 foi de 0,088% sobre o patrimônio. 1"
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VGIR11",
+      "body": "Nos 12 meses até 28/10/2026, a rentabilidade total com proventos do VGIR11 foi de 13,98%. 0 Nos 3 anos, a rentabilidade foi de 47,09%, e nos 5 anos, de 82,63%. 0 O fundo tem beta de 0,09 contra o Ibovespa, indicando baixa correlação com o índice. 0 Compare o desempenho do VGIR11 com o IFIX e o CDI no [StockBar](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VGIR11",
+      "body": "Os principais riscos do VGIR11 são de crédito, já que o fundo investe em CRIs, e de juros, pois a rentabilidade dos CRIs é atrelada ao CDI. 3 A volatilidade anualizada nos 12 meses até 28/10/2026 foi de 9,07%, nível baixo. 0 A maior queda nos últimos 5 anos foi de -14,60%, do pico em 02/09/2024 ao ponto mais baixo em 18/12/2024. 0 O relatório gerencial de 30/09/2026 afirma que todos os CRIs da carteira continuam adimplentes. 3 Acompanhe a volatilidade do VGIR11 com [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VGIR11 é FII de papel ou de tijolo?",
+      "answer": "VGIR11 é um FII de papel, com foco em Certificados de Recebíveis Imobiliários (CRIs). 3 O fundo não investe em imóveis físicos, mas em títulos de crédito imobiliário. 3"
+    },
+    {
+      "question": "VGIR11 paga dividendos?",
+      "answer": "Sim, VGIR11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, distribuiu R$ 1,5100 por cota, com dividend yield de 16,54%. 0 O último pagamento foi de R$ 0,1300 em 14/10/2026. 0"
+    },
+    {
+      "question": "Qual a gestora do VGIR11?",
+      "answer": "A gestora do VGIR11 é a Valora Gestão de Investimentos. 3 O administrador é a BTG Pactual Serviços Financeiros S.A. DTVM. 3"
+    },
+    {
+      "question": "Qual o patrimônio do VGIR11?",
+      "answer": "Em 09/2026, o patrimônio líquido do VGIR11 era de R$ 1,42 bilhão. 1 O fundo tinha 288.799 cotistas e valor patrimonial da cota de R$ 9,70. 1"
+    },
+    {
+      "question": "VGIR11 é isento de imposto de renda?",
+      "answer": "Sim, os rendimentos de FIIs são isentos de imposto de renda para pessoa física, conforme a legislação vigente. 3 O relatório gerencial de 30/09/2026 não menciona tributação, mas a isenção é uma característica dos FIIs. 3"
+    },
+    {
+      "question": "Qual a volatilidade do VGIR11?",
+      "answer": "A volatilidade anualizada do VGIR11 nos 12 meses até 28/10/2026 foi de 9,07%, nível baixo. 0 O beta de 0,09 contra o Ibovespa indica baixa correlação com o índice. 0"
+    },
+    {
+      "question": "Como acompanhar o VGIR11 no StockBar?",
+      "answer": "Você pode acompanhar os proventos do VGIR11 no [StockBar](/recursos/proventos), com data com e data de pagamento, multiplicados pela sua quantidade. 0 Também é possível comparar o desempenho do VGIR11 com o IFIX e o CDI no [StockBar](/recursos/comparacao-com-indices). 0"
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos do VGIR11",
+        "context": "Veja os rendimentos do VGIR11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX e CDI",
+        "context": "Compare a rentabilidade do VGIR11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o VGIR11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VGIR11 junto com seus outros ativos, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no VGIR11 e veja as respostas dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "Outro FII de papel, com foco em CRIs, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de papel da Kinea, com foco em CRIs, para comparação de gestão e rentabilidade."
+      },
+      {
+        "ticker": "RBRR11",
+        "list": "fiis",
+        "reason": "FII de papel da RBR, com foco em CRIs, para comparação de estratégia e dividend yield."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de tijolo da BTG Pactual, para comparação de estratégia entre papel e tijolo."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de tijolo de logística, para comparação de segmento e desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VGIR11",
+      "url": "https://finance.yahoo.com/quote/VGIR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do VALORA CRI CDI FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo VGIR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=29852732000191",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do VGIR11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1355284",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

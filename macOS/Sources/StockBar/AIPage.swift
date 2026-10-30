@@ -34,10 +34,9 @@ final class AIChat {
             case reading
             /// On-device: from the first word to the last.
             case writing
-            /// A cloud model's request, from sending it to its whole reply.
+            /// One request to a model's API (a cloud provider, or Ollama on this Mac), from sending it to its whole
+            /// reply. With Ollama, the first one also loads the model.
             case model
-            /// Loading the local model into memory, on the first question (and after ten idle minutes).
-            case loading
         }
         struct Phase: Equatable {
             var kind: Kind
@@ -95,9 +94,8 @@ final class AIChat {
     /// The assistant message being answered, for the tools' notes.
     @ObservationIgnored private var answering: Int?
     @ObservationIgnored private var clock = Clock()
+    /// The conversation with the API behind the cloud or local engine.
     @ObservationIgnored private var cloud: AICloudConversation?
-    /// The local model's conversation, in its own chat format.
-    @ObservationIgnored private var localConversation: [QwenChat.Message] = []
     @ObservationIgnored private var unloadWhenDone = false
     private let data: AIData
     let account: AIAccount
@@ -110,7 +108,7 @@ final class AIChat {
     }
 
     /// The engine that answers: the one chosen in Settings → AI, or Apple Intelligence until it's set up
-    /// (no key yet, model not downloaded).
+    /// (no key yet, Ollama not running or without the model).
     var activeEngine: AIEngine {
         switch account.engine {
         case .cloud where account.isConfigured: .cloud
@@ -123,7 +121,7 @@ final class AIChat {
     var engineLabel: String {
         switch activeEngine {
         case .cloud: "\(account.provider?.label ?? "") · \(account.model)"
-        case .local: "\(LocalModel.displayName) · " + String(localized: "on this Mac")
+        case .local: "\(local.model) · " + String(localized: "on this Mac")
         case .apple: String(localized: "Apple Intelligence · on this Mac")
         }
     }
@@ -165,10 +163,15 @@ final class AIChat {
             }
             switch activeEngine {
             case .cloud:
-                await askCloud(prompt + Self.languageHint(prompt), at: index)
+                guard let provider = account.provider, let key = account.key else {
+                    fail(index, String(localized: "StockBar couldn't read the API key from the Keychain. Enter it again in Settings → AI."))
+                    return
+                }
+                await ask(provider, model: account.model, key: key, prompt + Self.languageHint(prompt), at: index)
                 return
             case .local:
-                await askLocal(prompt + Self.languageHint(prompt), at: index)
+                await ask(.ollama, model: local.model, key: "", skipThinking: local.selected?.thinks ?? false, prompt + Self.languageHint(prompt), at: index)
+                if unloadWhenDone { unloadWhenDone = false; local.unload() }
                 return
             case .apple: break
             }
@@ -213,74 +216,12 @@ final class AIChat {
         }
     }
 
-    /// The local model's loop: it writes tool calls in its text, StockBar runs them and hands back the results,
-    /// until it answers (at most 6 rounds). Its answer streams in as it's written.
-    private func askLocal(_ prompt: String, at index: Int) async {
-        let runner = local.runner
-        defer {
-            if unloadWhenDone { unloadWhenDone = false; local.unload() } else { local.scheduleUnload() }
-        }
-        do {
-            if !(await runner.isLoaded) {
-                let started = Date.now
-                try await runner.load(LocalModel.file)
-                clock.add(.loading, Date.now.timeIntervalSince(started))
-            }
-            localConversation.append(.user(prompt))
-            for round in 0..<6 {
-                // Each question starts with a lookup, so the answer rests on StockBar's data (see QwenChat.prompt).
-                let forced = round == 0
-                let result: LlamaRunner.Result
-                do {
-                    result = try await runner.generate(QwenChat.prompt(system: AIRules.instructions, messages: localConversation, startWithToolCall: forced)) { partial in
-                        let visible = QwenChat.visible((forced ? QwenChat.toolCallStart : "") + partial)
-                        guard !visible.isEmpty else { return }
-                        Task { @MainActor in
-                            if self.messages.indices.contains(index), self.answering == index { self.messages[index].text = visible }
-                        }
-                    }
-                } catch LlamaRunner.Failure.contextFull where localConversation.count > 1 {
-                    // Earlier questions no longer fit: carry on with this one alone.
-                    localConversation = [.user(prompt)]
-                    continue
-                }
-                clock.add(.reading, result.reading)
-                clock.add(.writing, result.writing)
-                let written = (forced ? QwenChat.toolCallStart : "") + result.text
-                localConversation.append(.assistant(written))
-                let (calls, text) = QwenChat.calls(in: written)
-                guard !calls.isEmpty else {
-                    messages[index].text = text
-                    if text.isEmpty { fail(index, String(localized: "The model's answer was empty.")) }
-                    return
-                }
-                messages[index].text = ""
-                var outputs: [String] = []
-                for call in calls {
-                    let started = Date.now
-                    let (label, output) = await AIToolbox.run(call.name, arguments: call.arguments, data: data)
-                    noteLookup(Lookup(label: label, output: output), seconds: Date.now.timeIntervalSince(started), step: true)
-                    outputs.append(output)
-                }
-                localConversation.append(.toolResults(outputs))
-            }
-            fail(index, String(localized: "The model kept looking things up without answering. Try a more specific question."))
-        } catch is CancellationError {
-            localConversation = []
-        } catch {
-            localConversation = []
-            fail(index, error.localizedDescription, detail: String(describing: error))
-        }
-    }
-
-    private func askCloud(_ prompt: String, at index: Int) async {
-        guard let provider = account.provider, let key = account.key else {
-            fail(index, String(localized: "StockBar couldn't read the API key from the Keychain. Enter it again in Settings → AI."))
-            return
-        }
+    /// Asks a model behind an API (a cloud provider, or Ollama for the local engine), which runs StockBar's tools
+    /// and answers.
+    private func ask(_ provider: AIProvider, model: String, key: String, skipThinking: Bool = false, _ prompt: String, at index: Int) async {
         // A new conversation when the provider or model changed: each keeps its own format.
-        if cloud == nil || cloud?.provider != provider || cloud?.model != account.model {
-            cloud = AICloudConversation(provider: provider, model: account.model, key: key)
+        if cloud == nil || cloud?.provider != provider || cloud?.model != model {
+            cloud = AICloudConversation(provider: provider, model: model, key: key, skipThinking: skipThinking)
         }
         do {
             messages[index].text = try await cloud!.ask(prompt, system: AIRules.instructions, data: data,
@@ -289,6 +230,8 @@ final class AIChat {
             if messages[index].text.isEmpty { fail(index, String(localized: "The model's answer was empty.")) }
         } catch is CancellationError {
         } catch let error as URLError where error.code == .cancelled {
+        } catch let error as URLError where provider == .ollama && [.cannotConnectToHost, .networkConnectionLost].contains(error.code) {
+            fail(index, String(localized: "Ollama isn't running. Open it, then ask again."), detail: String(describing: error))
         } catch {
             fail(index, error.localizedDescription, detail: String(describing: error))
         }
@@ -351,7 +294,6 @@ final class AIChat {
         messages = []
         session = nil
         cloud = nil
-        localConversation = []
     }
 
     /// Shows `text` in the answer; dev builds add the raw error, to tell the cases apart.
@@ -397,6 +339,7 @@ struct AIPage: View {
         .toolbar { AIToolbar(chat: chat) { focused = true } }
         .onAppear { focused = true }
         // The local model holds about 1 GB while loaded; it reloads in about half a second.
+        .task { await chat.local.refresh() }
         .onDisappear { chat.releaseLocalModel() }
     }
 
@@ -423,7 +366,7 @@ struct AIPage: View {
             Text("Ask about your portfolio and expenses").font(.title3.weight(.semibold))
             Group {
                 if chat.activeEngine == .local {
-                    Text("Answers come from \(LocalModel.displayName), running on this Mac: free, and neither your questions nor your data leave it. Check the figures it looked up under each answer.")
+                    Text("Answers come from \(chat.local.model), running on this Mac: free, and neither your questions nor your data leave it. Check the figures it looked up under each answer.")
                 } else if chat.activeEngine == .cloud, let provider = chat.account.provider {
                     Text("Answers come from \(provider.label), with your API key. Your question and what StockBar looks up to answer it (amounts, places, positions) are sent to \(provider.label). Check the figures it looked up under each answer.")
                 } else {
@@ -490,12 +433,11 @@ struct AIPage: View {
             case .reading: String(localized: "reading \(seconds(phase.seconds))")
             case .writing: String(localized: "writing \(seconds(phase.seconds))")
             case .model: String(localized: "model \(seconds(phase.seconds))")
-            case .loading: String(localized: "loading \(seconds(phase.seconds))")
             }
         }
         return Label(seconds(t.total) + "  ·  " + parts.joined(separator: " · "), systemImage: "clock")
             .font(.caption.monospacedDigit()).foregroundStyle(.tertiary)
-            .help("Thinking: deciding what to look up. Lookup: StockBar's queries. Reading: the model reading what they returned. Writing: the answer itself. Model: one request to the cloud model.")
+            .help("Thinking: deciding what to look up. Lookup: StockBar's queries. Reading: the model reading what they returned. Writing: the answer itself. Model: one request to the model, in the cloud or in Ollama on this Mac.")
     }
     private func bubbleText(_ message: AIChat.Message) -> some View {
         HStack(alignment: .top) {

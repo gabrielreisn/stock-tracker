@@ -1,0 +1,364 @@
+{
+  "ticker": "BBAS3",
+  "slug": "bbas3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "BBAS3: história, dividendos e volatilidade",
+    "description": "Conheça a BBAS3, ação ordinária do Banco do Brasil: controle estatal, dividend yield de 3,98%, volatilidade de 47,47% e histórico desde 1808.",
+    "h1": "BBAS3: Banco do Brasil S.A.",
+    "canonicalPath": "/acoes/bbas3",
+    "keywords": [
+      "BBAS3",
+      "Banco do Brasil",
+      "ação ordinária",
+      "dividendos BBAS3",
+      "volatilidade BBAS3",
+      "Novo Mercado",
+      "banco estatal"
+    ]
+  },
+  "summary": "BBAS3 é a ação ordinária do Banco do Brasil S.A., instituição financeira estatal fundada em 1808 e controlada pelo Governo Federal. Listada no Novo Mercado da B3 desde 1977, a empresa opera como banco múltiplo. Até 29/10/2026, o ativo apresentou rentabilidade total de -20,22% em 12 meses, com dividend yield de 3,98% e volatilidade anualizada de 47,47%.",
+  "profile": {
+    "name": "Banco do Brasil",
+    "legalName": "BANCO DO BRASIL S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Financeiro",
+    "segment": "Bancos",
+    "founded": "30/12/1905",
+    "listedSince": "20/07/1977",
+    "headquarters": "Brasília (DF)",
+    "website": "https://www.bb.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "BANCO DO BRASIL S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "00.000.000/0001-91",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Bancos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estatal",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "30/12/1905",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Brasília (DF)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "20/07/1977",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "BBAS11, BBAS12, BBAS3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 16,46",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "47,47% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,66",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,98%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BBAS3",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Banco do Brasil S.A.",
+    "currency": "BRL",
+    "price": 16.46,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.2022,
+      "3y": -0.2054,
+      "5y": 0.669,
+      "10y": 1.0571
+    },
+    "volatility1y": 0.4747,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4205,
+      "from": "2025-05-14",
+      "to": "2026-10-29"
+    },
+    "beta1y": {
+      "value": 1.66,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.655,
+      "payments12Months": 6,
+      "yield12Months": 0.0398,
+      "lastPayment": {
+        "date": "2026-09-02",
+        "amount": 0.10527
+      }
+    },
+    "avgDailyTradedValue3m": 932845791
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 47,47% em 12 meses até 29/10/2026 é considerada muito alta, refletindo oscilações significativas no preço da BBAS3. A maior queda em 5 anos foi de -42,05%, entre 14/05/2025 e 29/10/2026, um movimento típico de ações de bancos em cenários de estresse. Para acompanhar a variação do dia e as posições em tempo real, o [widget na barra de menus](/recursos/widget-da-barra-de-menus) oferece o gráfico do dia com um clique."
+  },
+  "history": {
+    "overview": "O Banco do Brasil S.A. tem origem em 1808, quando foi criado o primeiro banco do país por Dom João VI, funcionando como emissor de papel-moeda. Após a liquidação do primeiro banco em 1829, uma nova instituição com o mesmo nome foi criada em 1851 por Irineu Evangelista de Sousa, o Barão de Mauá, com forte ligação ao mercado de capitais. A companhia atual foi constituída em 30/12/1905 e passou a ser aberta na CVM e cotada na B3 em 20/07/1977, adotando o segmento de listagem Novo Mercado. O controle acionário é estatal, com o Governo Federal do Brasil como proprietário. A instituição mantém presença em mais de 13 países e possui correspondentes em outros 90, com uma rede de mais de 10,6 mil agências e 85 milhões de clientes no Brasil.",
+    "timeline": [
+      {
+        "date": "1808",
+        "event": "Fundação do primeiro Banco do Brasil por Dom João VI.",
+        "source": 3
+      },
+      {
+        "date": "1905-12-30",
+        "event": "Constituição da companhia BANCO DO BRASIL S.A.",
+        "source": 2
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Início da cotação das ações na B3 e registro como companhia aberta na CVM.",
+        "source": 1
+      },
+      {
+        "date": "2026-02-11",
+        "event": "Publicação de fato relevante sobre Remuneração Complementar aos Acionistas 4T25 e Projeções 2026.",
+        "source": 11
+      },
+      {
+        "date": "2026-02-19",
+        "event": "Fato relevante sobre Remuneração aos Acionistas JCP Antecipação 1T26.",
+        "source": 10
+      },
+      {
+        "date": "2026-05-13",
+        "event": "Publicação de fato relevante sobre Remuneração Complementar aos Acionistas 1T26 e Projeções 1T26.",
+        "source": 8
+      },
+      {
+        "date": "2026-05-20",
+        "event": "Fato relevante sobre JCP Antecipação 2T26.",
+        "source": 7
+      },
+      {
+        "date": "2026-08-12",
+        "event": "Publicação de fato relevante sobre Remuneração Complementar aos Acionistas 2T26.",
+        "source": 6
+      },
+      {
+        "date": "2026-08-19",
+        "event": "Fato relevante sobre JCP antecipação 3T26.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Banco do Brasil ganha dinheiro",
+      "body": "O Banco do Brasil S.A. atua como banco múltiplo, segundo a classificação da B3 e da CVM. A instituição oferece serviços financeiros em todas as regiões do país, com mais de 10,6 mil agências e postos de atendimento, 53 mil caixas eletrônicos e 85 milhões de clientes. Além da operação doméstica, o banco está presente em mais de 13 países e possui correspondentes em outros 90 países. A receita provém das atividades bancárias tradicionais, incluindo crédito, investimentos e serviços de pagamento, embora as fontes não detalhem a composição percentual de cada linha de negócio."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Banco do Brasil",
+      "body": "O controle acionário do Banco do Brasil é estatal, com o Governo Federal do Brasil como proprietário, conforme o cadastro da CVM. A ação BBAS3 é do tipo ordinária (ON), o que confere direito a voto em assembleias gerais. A companhia está listada no segmento Novo Mercado da B3, que exige maior governança corporativa e transparência. Os códigos de negociação da empresa na bolsa são BBAS11, BBAS12 e BBAS3. A ação preferencial (PN) não possui direito a voto, mas tem preferência no recebimento de dividendos e no capital em caso de liquidação, diferentemente da ordinária."
+    },
+    {
+      "id": "proventos",
+      "heading": "BBAS3 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, a BBAS3 distribuiu R$ 0,6550 por ação em 6 pagamentos, resultando em dividend yield de 3,98%. O último pagamento registrado foi de R$ 0,1053 em 02/09/2026. A companhia tem histórico regular de remuneração aos acionistas, com fatos relevantes publicados em 2026 para os trimestres 1T26, 2T26 e 3T26, incluindo JCPs e remunerações complementares. Para acompanhar os dividendos e JCP com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da BBAS3",
+      "body": "Até 29/10/2026, a rentabilidade total com proventos da BBAS3 foi de -20,22% em 12 meses, -20,54% em 3 anos, 66,90% em 5 anos e 105,71% em 10 anos. Esses números mostram a variação do preço somada aos proventos recebidos no período. Para comparar a performance do ativo com o Ibovespa, CDI e outros índices no mesmo gráfico, acesse a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da BBAS3",
+      "body": "A volatilidade anualizada de 12 meses da BBAS3 é de 47,47%, classificada como muito alta. O beta de 1,66 indica que o ativo tende a oscilar 1,66 vezes mais que o Ibovespa. A maior queda nos últimos 5 anos foi de -42,05%, do pico em 14/05/2025 ao ponto mais baixo em 29/10/2026. Como ação de banco estatal, a BBAS3 está sujeita a riscos regulatórios, políticos e de crédito específicos do setor financeiro. O volume médio negociado por dia nos últimos 3 meses é de R$ 932,8 milhões, indicando alta liquidez. Para monitorar movimentos bruscos de preço, configure [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BBAS3 paga dividendos?",
+      "answer": "Sim, a BBAS3 distribui proventos regularmente. Nos 12 meses até 29/10/2026, foram pagos R$ 0,6550 por ação em 6 pagamentos, com dividend yield de 3,98%. O último pagamento foi de R$ 0,1053 em 02/09/2026. A companhia publica fatos relevantes trimestrais sobre remuneração aos acionistas, incluindo JCPs e remunerações complementares. Veja os detalhes no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre BBAS3 e BBAS11?",
+      "answer": "BBAS3 é a ação ordinária (ON) do Banco do Brasil, com direito a voto em assembleias. BBAS11 é uma unidade que representa uma ação ordinária e uma ação preferencial (PN) juntas. A ação preferencial não tem direito a voto, mas tem preferência no recebimento de dividendos. Ambas são negociadas na B3 sob o mesmo ticker de pregão BRASIL."
+    },
+    {
+      "question": "BBAS3 é ação de banco estatal?",
+      "answer": "Sim, o Banco do Brasil é uma instituição financeira com controle acionário estatal, sendo o Governo Federal do Brasil o proprietário. A companhia foi fundada em 1808 e é o banco tradicional mais antigo do país. O controle estatal influencia a governança e a estratégia da instituição, mas a ação é negociada livremente na B3."
+    },
+    {
+      "question": "Qual o risco da BBAS3?",
+      "answer": "A BBAS3 apresenta volatilidade anualizada de 47,47% em 12 meses até 29/10/2026, nível muito alto. O beta de 1,66 indica sensibilidade acima da média do Ibovespa. A maior queda em 5 anos foi de -42,05%, entre 14/05/2025 e 29/10/2026. Ações de bancos enfrentam riscos regulatórios, de crédito e políticos, além da volatilidade de mercado. Para monitorar o preço, use os [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "BBAS3 está no Novo Mercado?",
+      "answer": "Sim, a BBAS3 está listada no segmento Novo Mercado da B3, que exige padrões elevados de governança corporativa, transparência e igualdade de tratamento aos acionistas. A companhia é aberta na CVM desde 20/07/1977 e tem cotação na bolsa desde a mesma data."
+    },
+    {
+      "question": "Como acompanhar a BBAS3 no StockBar?",
+      "answer": "Você pode integrar a BBAS3 à sua [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e o desempenho junto com outros ativos. O [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a sua posição, com respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da BBAS3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da BBAS3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a BBAS3 chegar ao preço que você escolheu, útil para monitorar a volatilidade de 47,47%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a BBAS3 junto com outras ações, renda fixa e fundos em uma única visão de alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial do Itaú Unibanco, principal concorrente no setor bancário brasileiro."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial do Banco Bradesco, outro grande banco privado do setor."
+      },
+      {
+        "ticker": "BPAC11",
+        "list": "br-stocks",
+        "reason": "Unit do Banco BTG Pactual, banco privado com foco em crédito e investimentos."
+      },
+      {
+        "ticker": "B3SA3",
+        "list": "br-stocks",
+        "reason": "Ação da B3, a bolsa de valores onde a BBAS3 é negociada, conectando os dois ativos no ecossistema financeiro."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BBAS3",
+      "url": "https://finance.yahoo.com/quote/BBAS3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BRASIL, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/1023/BBAS/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, BANCO DO BRASIL S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Banco do Brasil",
+      "url": "https://www.wikidata.org/wiki/Q610817",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Banco do Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Banco_do_Brasil",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/08/2026, “JCP antecipação 3T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1559643&numSequencia=1084349&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/08/2026, “Remuneração Complementar aos Acionistas 2T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1556522&numSequencia=1081228&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/05/2026, “JCP Antecipação 2T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525224&numSequencia=1049930&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/05/2026, “Remuneração Complementar aos Acionistas 1T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1521597&numSequencia=1046303&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/05/2026, “Projeções 1T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1521599&numSequencia=1046305&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/02/2026, “Remuneração aos Acionistas JCP Antecipação 1T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1479548&numSequencia=1004254&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/02/2026, “Remuneração Complementar aos Acionistas 4T25”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1476520&numSequencia=1001226&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/02/2026, “Projeções 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1476522&numSequencia=1001228&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

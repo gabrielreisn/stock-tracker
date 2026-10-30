@@ -1,0 +1,272 @@
+{
+  "ticker": "SPY",
+  "slug": "spy",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "SPY: ETF do S&P 500, histórico e desempenho",
+    "description": "Conheça o SPY, o primeiro ETF dos EUA. Veja desempenho, dividendos, riscos e como investir no S&P 500 a partir do Brasil. Atualizado em 29/10/2026.",
+    "h1": "SPY: State Street SPDR S&P 500 ETF Trust",
+    "canonicalPath": "/etfs/spy",
+    "keywords": [
+      "SPY",
+      "ETF S&P 500",
+      "SPDR S&P 500",
+      "investir em ações americanas",
+      "ETF dos Estados Unidos",
+      "dividendos SPY",
+      "cotação SPY"
+    ]
+  },
+  "summary": "SPY é o State Street SPDR S&P 500 ETF Trust, o primeiro ETF lançado nos Estados Unidos, em 22/01/1993. O fundo busca replicar o desempenho do índice S&P 500, que reúne as 500 maiores empresas americanas por capitalização. Em 29/10/2026, a cota valia US$ 769,36, com rentabilidade total de 13,13% nos últimos 12 meses e dividend yield de 0,99%.",
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "State Street Global Advisors",
+    "trackedIndex": "S&P 500",
+    "expenseRatio": "0,0945%",
+    "name": "State Street SPDR S&P 500 ETF Trust",
+    "founded": "22/01/1993"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street SPDR S&P 500 ETF Trust",
+      "source": 0
+    },
+    {
+      "label": "Lançamento",
+      "value": "22/01/1993",
+      "source": 1
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 769,36",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "12,71% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,00",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,99%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 32,20 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SPY",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street SPDR S&P 500 ETF Trust",
+    "currency": "USD",
+    "price": 769.36,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1313,
+      "3y": 0.9196,
+      "5y": 0.7911,
+      "10y": 3.2385
+    },
+    "volatility1y": 0.1271,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.245,
+      "from": "2022-01-03",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 1,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 7.583,
+      "payments12Months": 4,
+      "yield12Months": 0.0099,
+      "lastPayment": {
+        "date": "2026-09-18",
+        "amount": 1.889
+      }
+    },
+    "avgDailyTradedValue3m": 32195428928
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do SPY nos últimos 12 meses é de 12,71%, um nível considerado baixo para um ETF de ações. O beta de 1,00 contra o S&P 500 confirma que o fundo acompanha de perto a variação do índice. A maior queda em 5 anos foi de -24,50%, entre 03/01/2022 e 12/10/2022, refletindo o período de alta de juros e correção no mercado de tecnologia. Para monitorar oscilações de preço, os [alertas de preço](/recursos/alertas-de-preco) do StockBar podem notificar o investidor quando a cota atinge níveis específicos."
+  },
+  "history": {
+    "overview": "O SPY nasceu de uma colaboração entre a American Stock Exchange (AMEX) e a State Street para criar um produto que acompanhasse o S&P 500. Nathan Most e Steven Bloom, da AMEX, lideraram o desenvolvimento junto a State Street Bank, Spear, Leeds & Kellogg e Orrick, Herrington & Sutcliffe. O fundo iniciou as operações em 22/01/1993 com 150.000 cotas, iniciando as negociações na AMEX em 29/01/1993. A estrutura do fundo é de unit investment trust (UIT), o que significa que não possui gestor de portfólio ou conselho de administração tradicional, sendo administrado pela State Street Global Advisors Trust Company. Em 2024, o SPY tornou-se o primeiro ETF a ultrapassar US$ 500 bilhões e, em seguida, US$ 600 bilhões em ativos sob gestão. Em fevereiro de 2025, o VOO da Vanguard superou o SPY em tamanho, mas o SPY mantém o maior volume diário de negociação entre os ETFs.",
+    "timeline": [
+      {
+        "date": "1993-01-22",
+        "event": "Fundação do SPDR S&P 500 ETF Trust, primeiro ETF dos Estados Unidos.",
+        "source": 1
+      },
+      {
+        "date": "1993-01-29",
+        "event": "Início das negociações das cotas na American Stock Exchange (AMEX).",
+        "source": 2
+      },
+      {
+        "date": "2010-01-27",
+        "event": "O fundo passa a ser conhecido como SPDR S&P 500 ETF Trust.",
+        "source": 2
+      },
+      {
+        "date": "2024-02",
+        "event": "SPY se torna o primeiro ETF a atingir US$ 500 bilhões em ativos sob gestão.",
+        "source": 2
+      },
+      {
+        "date": "2024-10",
+        "event": "O fundo ultrapassa a marca de US$ 600 bilhões em ativos sob gestão.",
+        "source": 2
+      },
+      {
+        "date": "2025-02",
+        "event": "VOO da Vanguard supera o SPY como o maior ETF do mundo por ativos.",
+        "source": 2
+      },
+      {
+        "date": "2026-01-26",
+        "event": "O nome do fundo é atualizado para State Street SPDR S&P 500 ETF Trust.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SPY funciona",
+      "body": "O SPY é um ETF que busca replicar, antes das despesas, o preço e o rendimento do índice S&P 500. Ele faz isso mantendo um portfólio de ações ordinárias das empresas que compõem o índice, com pesos que correspondem substancialmente aos do índice. O fundo foi lançado em 22/01/1993 e é administrado pela State Street Global Advisors. A taxa de administração bruta é de 0,0945%. Como é estruturado como um unit investment trust (UIT), ele não possui um gestor de portfólio ativo nem um conselho de administração, o que contribui para a baixa taxa de custo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SPY",
+      "body": "O SPY segue o índice S&P 500, que é composto pelas 500 maiores empresas americanas listadas em bolsa, selecionadas por capitalização de mercado. O portfólio do fundo reflete a composição do índice, com pesos proporcionais ao tamanho de cada empresa. O índice é amplamente utilizado como referência para o mercado de ações dos Estados Unidos e inclui empresas de diversos setores, como tecnologia, saúde e finanças."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SPY a partir do Brasil",
+      "body": "Investidores brasileiros podem adquirir o SPY por meio de uma conta em uma corretora de valores nos Estados Unidos ou em corretoras internacionais que operam com ativos americanos. Outra opção é investir em ETFs ou BDRs listados na B3 que replicam o desempenho do S&P 500. Ao investir em um ativo cotado em dólar, o investidor está exposto ao risco cambial: variações no câmbio entre o real e o dólar impactam o retorno em reais, independentemente do desempenho do índice S&P 500."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SPY",
+      "body": "Até 29/10/2026, a cota do SPY valia US$ 769,36. A rentabilidade total com proventos foi de 13,13% nos últimos 12 meses, 91,96% em 3 anos, 79,11% em 5 anos e 323,85% em 10 anos. O fundo distribuiu US$ 7,5830 por cota em 4 pagamentos no período de 12 meses, resultando em um dividend yield de 0,99%. O último pagamento foi de US$ 1,8890 em 18/09/2026. Para acompanhar a evolução do seu investimento, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que permite medir o desempenho do SPY ao lado do próprio S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SPY",
+      "body": "O principal risco do SPY é o risco de mercado, pois ele replica o desempenho do S&P 500, que pode sofrer quedas significativas. A maior queda nos últimos 5 anos foi de -24,50%, entre o pico em 03/01/2022 e o ponto mais baixo em 12/10/2022. A volatilidade anualizada nos últimos 12 meses é de 12,71%, considerada de nível baixo. O beta de 1,00 indica que o SPY se move em proporção semelhante ao índice S&P 500. Além disso, há o risco cambial para investidores brasileiros, já que o ativo é cotado em dólar. A estrutura de UIT também implica que o fundo tem uma data de expiração legal, embora seja extremamente remota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o SPY?",
+      "answer": "SPY é o State Street SPDR S&P 500 ETF Trust, o primeiro ETF lançado nos Estados Unidos, em 1993. Ele replica o desempenho do índice S&P 500, que reúne as 500 maiores empresas americanas por capitalização de mercado."
+    },
+    {
+      "question": "Qual a diferença entre SPY, VOO e IVV?",
+      "answer": "SPY, [VOO](/etfs/voo) e [IVV](/etfs/ivv) são ETFs que replicam o mesmo índice, o S&P 500. A principal diferença está na taxa de administração e no volume de negociação. O SPY tem a maior liquidez do mercado, enquanto VOO e IVV geralmente possuem taxas ligeiramente menores. Em fevereiro de 2025, o VOO superou o SPY em ativos sob gestão."
+    },
+    {
+      "question": "O SPY paga dividendos?",
+      "answer": "Sim, o SPY distribui dividendos aos cotistas. Nos 12 meses até 29/10/2026, foram distribuídos US$ 7,5830 por cota em 4 pagamentos, resultando em um dividend yield de 0,99%. O último pagamento foi de US$ 1,8890 em 18/09/2026. Você pode acompanhar os proventos na [carteira consolidada](/recursos/carteira-consolidada) do StockBar."
+    },
+    {
+      "question": "Como investir no SPY a partir do Brasil?",
+      "answer": "É possível investir no SPY abrindo conta em uma corretora internacional que opere com ativos dos Estados Unidos. Outra opção é comprar ETFs ou BDRs na B3 que replicam o S&P 500. O investidor deve considerar o risco cambial, pois o ativo é cotado em dólar."
+    },
+    {
+      "question": "Qual a taxa de administração do SPY?",
+      "answer": "A taxa de administração bruta do SPY é de 0,0945%, uma das menores do mercado para ETFs de ações americanas. Essa taxa é cobrada sobre o patrimônio do fundo e impacta o retorno líquido do investidor."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o SPY ao lado de outros ativos na sua carteira, com alocação por classe e valor total."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do SPY com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do SPY atingir o preço que você definiu."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do SPY e o preço médio da sua posição com gráficos interativos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF que replica o S&P 500, com taxa de administração potencialmente menor."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF da iShares que também segue o S&P 500, oferecendo uma alternativa ao SPY."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o Nasdaq 100, com maior peso em tecnologia, para comparação de setores."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o mercado brasileiro, útil para diversificação internacional."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SPY",
+      "url": "https://finance.yahoo.com/quote/SPY/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: SPDR S&P 500 Trust ETF",
+      "url": "https://www.wikidata.org/wiki/Q17082716",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR S&P 500 ETF Trust",
+      "url": "https://en.wikipedia.org/wiki/SPDR_S%26P_500_ETF_Trust",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

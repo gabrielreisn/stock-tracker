@@ -1,0 +1,373 @@
+{
+  "ticker": "RENT3",
+  "slug": "rent3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "RENT3: história, dividendos e volatilidade",
+    "description": "Conheça a Localiza Rent a Car S.A. (RENT3): história, dividendos, volatilidade e desempenho da ação na B3. Atualizado até 29/10/2026.",
+    "h1": "RENT3: Localiza Rent a Car S.A.",
+    "canonicalPath": "/acoes/rent3",
+    "keywords": [
+      "RENT3",
+      "Localiza",
+      "ação Localiza",
+      "dividendos RENT3",
+      "volatilidade RENT3",
+      "aluguel de carros B3"
+    ]
+  },
+  "summary": "RENT3 é a ação ordinária da Localiza Rent a Car S.A., empresa brasileira de aluguel de veículos e gestão de frotas. Fundada em 1973, a companhia opera cerca de 950 agências e possui uma frota superior a 669 mil veículos no Brasil e na América do Sul. Em 29/10/2026, a ação era cotada a R$ 29,03, com dividend yield de 7,33% nos últimos 12 meses e volatilidade anualizada de 67,34%.",
+  "profile": {
+    "name": "Localiza",
+    "legalName": "LOCALIZA RENT A CAR SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Aluguel de carros",
+    "founded": "14/09/1973",
+    "listedSince": "23/05/2005",
+    "headquarters": "Belo Horizonte (MG)",
+    "website": "https://www.localiza.com"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "LOCALIZA RENT A CAR SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "16.670.085/0001-55",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Aluguel de carros",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "14/09/1973",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Belo Horizonte (MG)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "23/05/2005",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "RENT3, RENT4, RENT99",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 29,03",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "67,34% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,40",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,33%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RENT3",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Localiza Rent a Car S.A.",
+    "currency": "BRL",
+    "price": 29.03,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.2321,
+      "3y": -0.3391,
+      "5y": -0.2293,
+      "10y": 2.0781
+    },
+    "volatility1y": 0.6734,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5953,
+      "from": "2022-11-04",
+      "to": "2025-02-27"
+    },
+    "beta1y": {
+      "value": 2.4,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 2.1293,
+      "payments12Months": 4,
+      "yield12Months": 0.0733,
+      "lastPayment": {
+        "date": "2026-09-28",
+        "amount": 0.55658
+      }
+    },
+    "avgDailyTradedValue3m": 561363643
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da RENT3 nos 12 meses até 29/10/2026 foi de 67,34%, nível classificado como 'muito alta'. O beta contra o Ibovespa foi de 2,40, indicando que a ação tende a se mover com maior amplitude que o índice. A maior queda nos últimos 5 anos foi de -59,53%, do pico em 04/11/2022 ao ponto mais baixo em 27/02/2025. Esse nível de volatilidade é consistente com a sensibilidade do setor de aluguel de carros a ciclos econômicos e custos operacionais. Para acompanhar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "A Localiza Rent a Car S.A. foi fundada em 1973, na época do primeiro choque do petróleo, com seis fuscas usados comprados a crédito. Em 1985, a empresa adotou a estratégia de franchising como resposta à crise da dívida externa de 1983, o que fortaleceu a marca e ampliou sua presença no mercado. A companhia também passou a vender seus carros seminovos diretamente ao consumidor final, reduzindo custos de depreciação e gerando receita para a renovação da frota de aluguel. Em 1997, a instituição norte-americana de investimentos DLJ Merchant Banking se tornou sócia da empresa. A Localiza abriu seu capital na Bovespa (atual B3) em 20 de maio de 2005, arrecadando cerca de 284 milhões de reais. Em 2016, a empresa se associou à Hertz, mas se desassociou em 2020 devido a dificuldades financeiras da empresa. Em 2020, a Localiza anunciou uma fusão com a Unidas S.A. (Companhia de Locação das Américas), que foi aprovada com restrições em dezembro de 2021 pelo CADE e oficializada em julho de 2022. Em 7 de dezembro de 2022, a Localiza anunciou seu rebranding para a Localiza&Co, holding que passa a englobar as marcas Localiza, Localiza Meoo, Localiza+, Localiza Seminovos, Localiza Empresas, Zarp Localiza e Eqip Localiza.",
+    "timeline": [
+      {
+        "date": "1973",
+        "event": "Fundação da Localiza Rent a Car S.A.",
+        "source": 3
+      },
+      {
+        "date": "1973-09-14",
+        "event": "Constituição da companhia",
+        "source": 2
+      },
+      {
+        "date": "2005-05-06",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2005-05-23",
+        "event": "Início da cotação das ações na bolsa",
+        "source": 1
+      },
+      {
+        "date": "2025-09-22",
+        "event": "Juros sobre o capital próprio",
+        "source": 13
+      },
+      {
+        "date": "2025-11-13",
+        "event": "Alienação de investimento na Voll",
+        "source": 12
+      },
+      {
+        "date": "2025-12-05",
+        "event": "Bonificação de Ações - PNs Resgatáveis",
+        "source": 11
+      },
+      {
+        "date": "2025-12-12",
+        "event": "Juros sobre o capital próprio e 17º programa de recompra de ações",
+        "source": 10
+      },
+      {
+        "date": "2025-12-29",
+        "event": "Aumento de capital e bonificação||Criação de ações preferenciais",
+        "source": 9
+      },
+      {
+        "date": "2026-03-24",
+        "event": "Juros sobre o Capital Próprio",
+        "source": 8
+      },
+      {
+        "date": "2026-06-23",
+        "event": "Declaração de juros sobre capital próprio",
+        "source": 7
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Localiza ganha dinheiro",
+      "body": "A Localiza Rent a Car S.A. atua no segmento de aluguel de carros e gestão de frotas, com presença nas principais cidades e aeroportos do Brasil e México, além de Argentina, Colômbia, Equador, Paraguai e Uruguai. A empresa opera cerca de 950 agências e pontos de vendas em 366 cidades brasileiras e em 5 países da América do Sul, contando com cerca de 22 mil funcionários e uma frota total superior a 669 mil veículos. A companhia também atua no negócio de leasing e gestão de frotas, além de conceder franquias para a venda de usados de sua frota para renovar o processo de ordem."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Localiza",
+      "body": "O controle acionário da Localiza é privado, conforme o cadastro da CVM. A empresa está listada no segmento Novo Mercado da B3, com os códigos de negociação RENT3, RENT4 e RENT99. A ação RENT3 é a ação ordinária (ON), que confere direito a voto em assembleias gerais. A ação preferencial (PN) geralmente tem preferência na distribuição de dividendos e JCP, mas pode ter restrição de voto. A diferença entre as duas classes não implica em maior rentabilidade ou menor risco para uma delas."
+    },
+    {
+      "id": "proventos",
+      "heading": "RENT3 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, a RENT3 distribuiu R$ 2,1293 por ação em 4 pagamentos, resultando em um dividend yield de 7,33%. O último pagamento foi de R$ 0,5566 em 28/09/2026. A empresa tem histórico de distribuição de juros sobre o capital próprio (JCP), com fatos relevantes registrados em 2025 e 2026. Para acompanhar os dividendos e JCP da RENT3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da RENT3",
+      "body": "A rentabilidade total da RENT3 com proventos nos 12 meses até 29/10/2026 foi de -23,21%. Nos 3 anos, a rentabilidade foi de -33,91%, e nos 5 anos, de -22,93%. Nos 10 anos, a rentabilidade foi de 207,81%. Para comparar a rentabilidade da RENT3 com índices como o Ibovespa e o CDI, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da RENT3",
+      "body": "A volatilidade anualizada da RENT3 nos 12 meses até 29/10/2026 foi de 67,34%, nível classificado como 'muito alta'. O beta contra o Ibovespa foi de 2,40, indicando maior sensibilidade ao mercado. A maior queda nos últimos 5 anos foi de -59,53%, do pico em 04/11/2022 ao ponto mais baixo em 27/02/2025. Riscos gerais do setor incluem sensibilidade a ciclos econômicos, custos de manutenção de frota e concorrência. Para acompanhar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RENT3 paga dividendos?",
+      "answer": "Sim, a RENT3 distribui juros sobre o capital próprio (JCP). Nos 12 meses até 29/10/2026, a ação distribuiu R$ 2,1293 por ação em 4 pagamentos, com dividend yield de 7,33%. O último pagamento foi de R$ 0,5566 em 28/09/2026. Para acompanhar os proventos, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre RENT3 e RENT4?",
+      "answer": "RENT3 é a ação ordinária (ON), que confere direito a voto em assembleias gerais. RENT4 é a ação preferencial (PN), que geralmente tem preferência na distribuição de dividendos e JCP, mas pode ter restrição de voto. A diferença entre as duas classes não implica em maior rentabilidade ou menor risco para uma delas."
+    },
+    {
+      "question": "Qual o setor da Localiza?",
+      "answer": "A Localiza atua no setor de Consumo Cíclico, segmento de Aluguel de carros, conforme a classificação da B3. A empresa também é classificada no setor de Serviços Transporte e Logística pela CVM."
+    },
+    {
+      "question": "Qual a volatilidade da RENT3?",
+      "answer": "A volatilidade anualizada da RENT3 nos 12 meses até 29/10/2026 foi de 67,34%, nível classificado como 'muito alta'. O beta contra o Ibovespa foi de 2,40. Para acompanhar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Qual a rentabilidade da RENT3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total da RENT3 com proventos nos 12 meses até 29/10/2026 foi de -23,21%. Para comparar com índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Onde a Localiza está sediada?",
+      "answer": "A sede da Localiza está em Belo Horizonte (MG). A empresa foi fundada em 1973 e abriu seu capital na B3 em 2005."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da RENT3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da RENT3 com Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a RENT3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a RENT3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Petrobras, outra grande empresa brasileira listada na B3."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária da Vale S.A., outra empresa de grande porte no setor de consumo cíclico."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial do Itaú Unibanco, outra empresa de grande porte listada na B3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RENT3",
+      "url": "https://finance.yahoo.com/quote/RENT3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: LOCALIZA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19739/RENT/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, LOCALIZA RENT A CAR SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Localiza",
+      "url": "https://www.wikidata.org/wiki/Q10319490",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Localiza",
+      "url": "https://pt.wikipedia.org/wiki/Localiza",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Localiza",
+      "url": "https://en.wikipedia.org/wiki/Localiza",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/09/2026, “Juros sobre o capital próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1570574&numSequencia=1095280&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/06/2026, “Declaração de juros sobre capital próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537686&numSequencia=1062392&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/03/2026, “Juros sobre o Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1494669&numSequencia=1019375&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/12/2025, “Aumento de capital e bonificação||Criação de ações preferenciais”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1462029&numSequencia=986735&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/12/2025, “Juros sobre o capital próprio e 17º programa de recompra de ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1456942&numSequencia=981654&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/12/2025, “Bonificação de Ações - PNs Resgatáveis”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1453722&numSequencia=978434&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/11/2025, “Alienação de investimento na Voll”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1444910&numSequencia=969622&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/09/2025, “Juros sobre o capital próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1425596&numSequencia=950308&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

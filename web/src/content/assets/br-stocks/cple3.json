@@ -1,0 +1,371 @@
+{
+  "ticker": "CPLE3",
+  "slug": "cple3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "CPLE3: história, dividendos e volatilidade",
+    "description": "Conheça a CPLE3, ação da Companhia Paranaense de Energia (COPEL). Veja história, privatização, dividendos, volatilidade e desempenho da ação de energia",
+    "h1": "CPLE3: Companhia Paranaense de Energia (COPEL)",
+    "canonicalPath": "/acoes/cple3",
+    "keywords": [
+      "CPLE3",
+      "COPEL",
+      "ação de energia",
+      "dividendos CPLE3",
+      "volatilidade CPLE3",
+      "privatização COPEL",
+      "ação ordinária COPEL",
+      "Novo Mercado COPEL"
+    ]
+  },
+  "summary": "CPLE3 é a ação ordinária da Companhia Paranaense de Energia (COPEL), empresa de utilidade pública que atua na geração, transmissão, comercialização e distribuição de energia elétrica no Paraná. Cotada na B3 desde 1994, a companhia migrou para o Novo Mercado em dezembro de 2025 após a privatização. Em 28/10/2026, a ação valia R$ 14,69, com dividend yield de 7,23% nos 12 meses anteriores.",
+  "profile": {
+    "name": "Companhia Paranaense de Energia",
+    "legalName": "COMPANHIA PARANAENSE DE ENERGIA COPEL",
+    "type": "Ação ordinária (ON)",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "26/10/1954",
+    "listedSince": "12/04/1994",
+    "headquarters": "Curitiba (PR)",
+    "website": "https://ri.copel.com"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "COMPANHIA PARANAENSE DE ENERGIA COPEL",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "76.483.817/0001-20",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estatal holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "26/10/1954",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Curitiba (PR)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "12/04/1994",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "CPLE3, CPLE99",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 14,69",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "29,52% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,97",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,23%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CPLE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Companhia Paranaense de Energia - COPEL",
+    "currency": "BRL",
+    "price": 14.69,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2437,
+      "3y": 1.1346,
+      "5y": 2.5796,
+      "10y": 10.7636
+    },
+    "volatility1y": 0.2952,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2313,
+      "from": "2022-11-21",
+      "to": "2023-03-23"
+    },
+    "beta1y": {
+      "value": 0.97,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.0626,
+      "payments12Months": 2,
+      "yield12Months": 0.0723,
+      "lastPayment": {
+        "date": "2026-04-30",
+        "amount": 0.237703
+      }
+    },
+    "avgDailyTradedValue3m": 335283488
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da CPLE3 nos últimos 12 meses é de 29,52%, um nível considerado alto para uma ação de utilidade pública, que tradicionalmente apresenta menor oscilação. O beta de 0,97 sugere que a ação acompanha de perto os movimentos do Ibovespa. A maior queda em 5 anos foi de -23,13%, ocorrida entre 21/11/2022 e 23/03/2023, período que coincide com o anúncio e a execução da privatização. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no StockBar, que enviam notificações quando a ação atinge um valor definido."
+  },
+  "history": {
+    "overview": "Fundada em 26 de outubro de 1954 pelo então governador Bento Munhoz da Rocha Neto, a Companhia Paranaense de Energia (COPEL) nasceu com o objetivo de construir o sistema elétrico do Paraná, que à época era praticamente inexistente. A empresa abriu seu capital na B3 (então Bovespa) em abril de 1994 e, em 1997, tornou-se a primeira empresa do setor elétrico brasileiro a ter ações negociadas na bolsa de Nova York (NYSE). Em 2002, passou a ser negociada também na Latibex, braço latino-americano da bolsa de Madri, do qual foi deslistada em setembro de 2026. Até 2023, o Governo do Paraná era o acionista majoritário. Em novembro de 2022, o estado anunciou a intenção de privatizar a companhia, aprovada pela Assembleia Legislativa em dezembro daquele ano. Em agosto de 2023, a oferta pública de ações movimentou R$ 5,1 bilhões, reduzindo a participação do estado e transformando a COPEL em uma corporação com capital pulverizado. Em dezembro de 2025, a empresa migrou para o Novo Mercado da B3, adotando padrões de governança corporativa mais rígidos.",
+    "timeline": [
+      {
+        "date": "1954-10-26",
+        "event": "Constituição e fundação da Companhia Paranaense de Energia (COPEL).",
+        "source": 2
+      },
+      {
+        "date": "1994-04-04",
+        "event": "Registro como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "1994-04-12",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-12-10",
+        "event": "Distribuição de dividendos no valor de R$ 1,35 bilhão.",
+        "source": 12
+      },
+      {
+        "date": "2025-12-22",
+        "event": "Migração para o Novo Mercado da B3.",
+        "source": 11
+      },
+      {
+        "date": "2026-03-18",
+        "event": "COPEL vence leilão de reserva de capacidade com duas usinas hidrelétricas.",
+        "source": 10
+      },
+      {
+        "date": "2026-05-21",
+        "event": "Aditamento e renovação do Programa de Recompra de Ações.",
+        "source": 9
+      },
+      {
+        "date": "2026-05-25",
+        "event": "Elejor repactua o Uso do Bem Público (UBP).",
+        "source": 8
+      },
+      {
+        "date": "2026-06-23",
+        "event": "Publicação do 6º Ciclo de Revisão Tarifária Periódica da Copel Distribuição.",
+        "source": 7
+      },
+      {
+        "date": "2026-07-15",
+        "event": "Atualização dos parâmetros que orientam a estrutura ótima de capital e a Política de Dividendos.",
+        "source": 6
+      },
+      {
+        "date": "2026-09-17",
+        "event": "Deslistagem das ações da Latibex.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Companhia Paranaense de Energia ganha dinheiro",
+      "body": "A Companhia Paranaense de Energia (COPEL) atua no setor de utilidade pública, especificamente no segmento de energia elétrica. A atividade principal da companhia abrange a geração, transmissão, comercialização e distribuição de energia elétrica em todo o território do estado do Paraná. A receita provém da operação desses ativos de infraestrutura e da prestação de serviços de energia. Em 2024, a empresa vendeu 13 pequenas usinas ao Grupo Electra por cerca de R$ 450 milhões, e em 2025, vendeu quatro usinas solares para a Thopen (Grupo RZK) por R$ 78 milhões, saindo do setor de geração distribuída para focar em ativos de maior porte. Em março de 2026, a COPEL venceu um leilão de reserva de capacidade com duas usinas hidrelétricas."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Companhia Paranaense de Energia",
+      "body": "A CPLE3 é a ação ordinária da Companhia Paranaense de Energia (COPEL), negociada na B3 sob o código CPLE3 e também sob CPLE99. A empresa está listada no segmento Novo Mercado, adotado em dezembro de 2025, o que implica práticas de governança corporativa avançadas, como voto por acionista e uma ação por voto. O controle acionário é de tipo estatal holding, mas após a privatização em 2023, o capital tornou-se pulverizado. A composição acionária inclui o BNDESPAR com 22,08%, o Governo do Estado do Paraná com 15,98%, a BlackRock com 4,07% e a LSV Asset Management com 2,83%. Ações ordinárias (ON) dão direito a voto nas assembleias gerais, enquanto ações preferenciais (PN) não têm direito a voto, mas possuem prioridade no recebimento de dividendos e no retorno do capital em caso de liquidação."
+    },
+    {
+      "id": "proventos",
+      "heading": "CPLE3 paga dividendos?",
+      "body": "A CPLE3 distribui proventos aos seus acionistas. Nos 12 meses até 28/10/2026, a empresa pagou R$ 1,0626 por ação em 2 pagamentos, resultando em um dividend yield de 7,23%. O último pagamento foi de R$ 0,2377, com data de pagamento em 30/04/2026. Em dezembro de 2025, a companhia distribuiu R$ 1,35 bilhão em dividendos. A política de dividendos e a estrutura de capital foram atualizadas em julho de 2026. É possível acompanhar o histórico de dividendos e JCP da CPLE3, com datas de competência e pagamento, no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da CPLE3",
+      "body": "A CPLE3 apresentou rentabilidade total com proventos de 24,37% nos 12 meses até 28/10/2026. Nos períodos mais longos, a ação rendeu 113,46% em 3 anos, 257,96% em 5 anos e 1.076,36% em 10 anos. O desempenho da CPLE3 pode ser analisado lado a lado com o Ibovespa, o CDI e outros índices no recurso de [comparação com índices](/recursos/comparacao-com-indices) do StockBar, que permite visualizar a rentabilidade da carteira em relação a esses benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da CPLE3",
+      "body": "A CPLE3 opera no setor de energia elétrica, sujeito a riscos regulatórios, como revisões tarifárias e mudanças na legislação de concessões. A volatilidade anualizada da ação nos últimos 12 meses foi de 29,52%, classificada como nível alto. O beta de 0,97 indica que a ação se move de forma semelhante ao Ibovespa. A maior queda em 5 anos foi de -23,13%, entre o pico em 21/11/2022 e o ponto mais baixo em 23/03/2023. A empresa também enfrenta riscos operacionais, como notificações sobre acidentes em usinas, e riscos de governança relacionados à transição do controle estatal para o capital pulverizado. O volume médio negociado por dia nos últimos 3 meses foi de R$ 335,3 milhões."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CPLE3 paga dividendos?",
+      "answer": "Sim, a CPLE3 distribui dividendos aos acionistas. Nos 12 meses até 28/10/2026, o pagamento total foi de R$ 1,0626 por ação, com um dividend yield de 7,23%. O último pagamento foi de R$ 0,2377 em 30/04/2026. A empresa também tem um programa de recompra de ações, renovado em maio de 2026."
+    },
+    {
+      "question": "Qual a diferença entre CPLE3 e CPLE99?",
+      "answer": "CPLE3 é a ação ordinária da Companhia Paranaense de Energia (COPEL), que dá direito a voto nas assembleias gerais. CPLE99 é o código de negociação da ação preferencial (PN), que não tem direito a voto, mas possui prioridade no recebimento de dividendos e no retorno do capital em caso de liquidação. Ambas são negociadas na B3."
+    },
+    {
+      "question": "A COPEL é estatal ou privada?",
+      "answer": "A COPEL foi privatizada em 2023. Antes, o Governo do Paraná era o acionista majoritário. Após a oferta pública de ações, o capital tornou-se pulverizado, com o BNDESPAR como maior acionista (22,08%) e o Governo do Paraná com 15,98%. A empresa migrou para o Novo Mercado da B3 em dezembro de 2025."
+    },
+    {
+      "question": "Qual o setor da CPLE3?",
+      "answer": "A CPLE3 está no setor de Utilidade Pública, segmento de Energia Elétrica. A Companhia Paranaense de Energia (COPEL) atua na geração, transmissão, comercialização e distribuição de energia elétrica no estado do Paraná."
+    },
+    {
+      "question": "Como acompanhar a CPLE3 no StockBar?",
+      "answer": "É possível acompanhar a CPLE3 no StockBar usando o [assistente de IA](/recursos/assistente-de-ia), que responde perguntas em português sobre a carteira e os gastos, com base nos seus próprios dados. Também é possível usar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e as maiores posições, e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para analisar a rentabilidade da posição."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da CPLE3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da CPLE3 com o Ibovespa, o CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a CPLE3 chegar ao preço que você escolheu, para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a CPLE3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de energia elétrica, Equatorial S.A."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de energia, AXIA Energia SA."
+      },
+      {
+        "ticker": "VBBR3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de energia, Vibra Energia S.A."
+      },
+      {
+        "ticker": "ENEV3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de energia, Eneva S.A."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CPLE3",
+      "url": "https://finance.yahoo.com/quote/CPLE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: COPEL, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/14311/CPLE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, COMPANHIA PARANAENSE DE ENERGIA COPEL",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Companhia Paranaense de Energia",
+      "url": "https://www.wikidata.org/wiki/Q1130970",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Companhia Paranaense de Energia",
+      "url": "https://pt.wikipedia.org/wiki/Companhia_Paranaense_de_Energia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/09/2026, “FR 06/26 - Deslistagem das Ações da Latibex”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569123&numSequencia=1093829&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/07/2026, “Atualização dos parâmetros que orientam a   estrutura ótima de capital e a Política de Dividendos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1545279&numSequencia=1069985&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/06/2026, “Fato Relevante 04/26 - 6º Ciclo de Revisão Tarifária Periódica da Copel Distribuição”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537693&numSequencia=1062399&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/05/2026, “Elejor repactua Uso do Bem Público (\"UBP\")”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1526605&numSequencia=1051311&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 21/05/2026, “FR 03/26 - Aditamento e Renovação do Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525729&numSequencia=1050435&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/03/2026, “FR 01/26 - Copel vence leilão de reserva de capacidade com duas usinas hidrelétricas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1491875&numSequencia=1016581&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/12/2025, “Migração para o Novo Mercado da B3”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1459986&numSequencia=984692&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/12/2025, “Distribuição de Dividendos de R$ 1,35 bilhão”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1455638&numSequencia=980350&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

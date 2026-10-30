@@ -1,0 +1,310 @@
+{
+  "ticker": "MXRF11",
+  "slug": "mxrf11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "MXRF11: FII de papel, dividendos e patrimônio",
+    "description": "Conheça o MXRF11: FII de papel com foco em CRIs e logística, dividend yield de 13,36%, patrimônio de R$ 5,30 bilhões e estratégia da XP Vista.",
+    "h1": "MXRF11: Maxi Renda FII – FII de papel com foco em CRIs e logística",
+    "canonicalPath": "/fiis/mxrf11",
+    "keywords": [
+      "MXRF11",
+      "Maxi Renda FII",
+      "FII de papel",
+      "CRI",
+      "dividend yield MXRF11",
+      "FII logística",
+      "XP Vista",
+      "BTG Pactual"
+    ]
+  },
+  "summary": "MXRF11 é a cota do Maxi Renda Fundo de Investimento Imobiliário, um FII de papel com foco em logística. O fundo investe principalmente em Certificados de Recebíveis Imobiliários (CRIs) e permutas financeiras, buscando renda e ganho de capital. Em 29/10/2026, a cota valia R$ 8,94, com dividend yield de 13,36% nos últimos 12 meses e patrimônio de R$ 5,30 bilhões em 09/2026.",
+  "profile": {
+    "type": "FII de papel (CRI) com foco em logística",
+    "issuerOrManager": "XP Vista Asset Management Ltda. (gestora)",
+    "name": "Maxi Renda Fundo de Investimento Imobiliário - FII",
+    "legalName": "MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "13/04/2012",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "97.521.225/0001-25",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "13/04/2012",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 5,30 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "1.570.595",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,35",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 8,94",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "8,82% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,15",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "13,36%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 21,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MXRF11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Maxi Renda Fundo De Investimento Imobiliaro - FII",
+    "currency": "BRL",
+    "price": 8.94,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0511,
+      "3y": 0.2027,
+      "5y": 0.5763,
+      "10y": 0.7943
+    },
+    "volatility1y": 0.0882,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1034,
+      "from": "2022-01-21",
+      "to": "2022-03-14"
+    },
+    "beta1y": {
+      "value": 0.15,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.1944,
+      "payments12Months": 12,
+      "yield12Months": 0.1336,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.1
+      }
+    },
+    "avgDailyTradedValue3m": 21061104
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do MXRF11 nos últimos 12 meses é de 8,82%, nível considerado baixo para um fundo imobiliário, especialmente um de papel com exposição a CRIs indexados ao CDI e à inflação. O beta de 0,15 contra o Ibovespa indica que o fundo tem baixa sensibilidade às oscilações do mercado de ações, o que é comum para FIIs de renda com foco em recebíveis. A maior queda em 5 anos foi de -10,34%, entre 21/01/2022 e 14/03/2022, período marcado por ajustes nos juros futuros e aversão a risco no mercado doméstico. Para acompanhar a variação do preço da cota e definir alertas personalizados, utilize os [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "Fundado em 13/04/2012, o Maxi Renda FII (MXRF11) é um dos primeiros fundos imobiliários de papel do mercado brasileiro. Inicialmente focado em imóveis de logística, o fundo ampliou sua estratégia ao longo dos anos para incluir uma carteira diversificada de ativos financeiros com lastro imobiliário, como CRIs, debêntures, LCI, Letras de Crédito Imobiliário e cotas de outros FIIs, além de permutas financeiras e projetos residenciais. Essa transição permitiu ao fundo manter uma geração de renda robusta, especialmente em cenários de juros elevados, onde os CRIs indexados ao CDI e à inflação se destacam. A gestão ativa é conduzida pela XP Vista Asset Management, com administração do BTG Pactual. O fundo realizou 9 ofertas públicas de cotas desde 2016, com a 12ª emissão encerrada em 08/2026, captando R$ 1,0 bilhão e ampliando sua base de cotistas para mais de 1,5 milhão de investidores.",
+    "timeline": [
+      {
+        "date": "2012-04-13",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2019-11-08",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2019-12-17",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2020-02-07",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2020-03-11",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do MXRF11",
+      "body": "O Maxi Renda FII (MXRF11) é um fundo de investimento imobiliário de gestão ativa, administrado pelo BTG Pactual e gerido pela XP Vista Asset Management. A estratégia busca alocar cerca de 80% do patrimônio líquido em Certificados de Recebíveis Imobiliários (CRIs), com foco em nomes de crédito de alta qualidade (“high grade”), carregos atrativos e potencial de ganho de capital no mercado secundário. Até 20% do patrimônio pode ser alocado em Permutas Financeiras, que apresentam retornos expressivos em torno de INCC + 13,00% a.a., além de operações estruturadas via FII com características de CRIs ou posições táticas no mercado secundário. O fundo também investe em ativos imobiliários, como imóveis comerciais e projetos residenciais, e em cotas de outros FIIs. Em agosto de 2026, a gestão alienou parcialmente diversos CRIs com ganho de capital, adquiriu dois CRIs no mercado primário e realizou novas aquisições no secundário, superando R$ 530 milhões, na esteira da captação da 12ª oferta de cotas."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do MXRF11",
+      "body": "Nos 12 meses até 29/10/2026, o MXRF11 distribuiu R$ 1,1944 por cota em 12 pagamentos, resultando em um dividend yield de 13,36%. O último provento foi de R$ 0,1000, pago em 01/10/2026. Segundo o relatório gerencial de agosto de 2026, pessoas físicas que detêm volume inferior a 10% do total do fundo, desde que o fundo possua no mínimo 100 cotistas e suas cotas sejam negociadas exclusivamente em Bolsa ou mercado de balcão organizado, são isentas de Imposto de Renda nos rendimentos distribuídos e tributadas em 20% sobre eventual ganho de capital na venda da cota, conforme a Lei 14.754/2023. Para acompanhar os proventos com data de pagamento e multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O MXRF11 realizou 9 ofertas públicas de cotas encerradas desde 02/06/2016, conforme o FNET da B3. A 12ª emissão foi concluída em 07/2026, com captação de R$ 1,0 bilhão, visando aumentar a diversificação, a liquidez das cotas no mercado secundário e a diluição de custos fixos. Em 09/2026, o patrimônio líquido do fundo era de R$ 5,30 bilhões, com 1.570.595 cotistas e valor patrimonial da cota de R$ 9,35. O número de cotas emitidas era de 567.206.273. A taxa de administração no mês de 09/2026 foi de 0,073% sobre o patrimônio, equivalente a 0,90% ao ano, conforme o relatório gerencial de 31/08/2026."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MXRF11",
+      "body": "A rentabilidade total com proventos do MXRF11 nos 12 meses até 29/10/2026 foi de 5,11%; em 3 anos, 20,27%; em 5 anos, 57,63%; e em 10 anos, 79,43%. Esses números refletem a combinação de renda distribuída e variação do valor patrimonial da cota. Para comparar esse desempenho com índices de referência como o IFIX, o CDI e o Ibovespa, utilize o recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices), que exibe a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MXRF11",
+      "body": "Como fundo de papel com foco em CRIs, o MXRF11 está exposto ao risco de crédito dos emissores dos títulos, à sensibilidade a juros (especialmente os indexados ao CDI) e à liquidez do mercado secundário. A volatilidade anualizada dos últimos 12 meses é de 8,82%, nível considerado baixo, e o beta contra o Ibovespa é de 0,15, indicando baixa correlação com o mercado de ações. A maior queda em 5 anos foi de -10,34%, do pico em 21/01/2022 ao ponto mais baixo em 14/03/2022. Para monitorar movimentos de preço e definir pontos de entrada ou saída, utilize os [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MXRF11 é FII de papel ou de tijolo?",
+      "answer": "O MXRF11 é um FII de papel, com foco em CRIs e permutas financeiras, além de uma pequena alocação em imóveis comerciais e projetos residenciais. A estratégia busca alocar cerca de 80% do patrimônio em CRIs de alta qualidade, com até 20% em permutas financeiras, conforme o relatório gerencial de 31/08/2026."
+    },
+    {
+      "question": "Qual o dividend yield do MXRF11?",
+      "answer": "O dividend yield do MXRF11 nos 12 meses até 29/10/2026 é de 13,36%, com R$ 1,1944 distribuídos por cota em 12 pagamentos. O último provento foi de R$ 0,1000, pago em 01/10/2026. Para ver os proventos com data de pagamento, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a taxa de administração do MXRF11?",
+      "answer": "A taxa de administração do MXRF11 é de 0,90% ao ano, conforme o relatório gerencial de 31/08/2026. Em 09/2026, a taxa mensal foi de 0,073% sobre o patrimônio líquido de R$ 5,30 bilhões."
+    },
+    {
+      "question": "O MXRF11 paga isento de IR?",
+      "answer": "Sim, para pessoas físicas que detêm menos de 10% do fundo, desde que ele tenha no mínimo 100 cotistas e as cotas sejam negociadas em Bolsa ou balcão organizado, os rendimentos distribuídos são isentos de IR, conforme a Lei 14.754/2023. O ganho de capital na venda da cota é tributado em 20%."
+    },
+    {
+      "question": "Quantas ofertas de cotas o MXRF11 já realizou?",
+      "answer": "O MXRF11 realizou 9 ofertas públicas de cotas encerradas desde 02/06/2016, conforme o FNET da B3. A 12ª emissão foi concluída em 07/2026, com captação de R$ 1,0 bilhão."
+    },
+    {
+      "question": "Qual a rentabilidade do MXRF11 em 5 anos?",
+      "answer": "A rentabilidade total com proventos do MXRF11 em 5 anos até 29/10/2026 é de 57,63%. Para comparar esse desempenho com o IFIX e o CDI, use o recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os proventos do MXRF11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices no StockBar",
+        "context": "Compare a rentabilidade do MXRF11 com o IFIX, o CDI e o Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do MXRF11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o MXRF11 junto com seus outros ativos, com alocação por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística administrado pelo BTG Pactual, com foco em imóveis de logística."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de papel da Kinea com foco em CRIs, similar à estratégia do MXRF11."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística da CSHG, com imóveis de galpões e centros de distribuição."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística da XP, com foco em ativos de logística e infraestrutura."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MXRF11",
+      "url": "https://finance.yahoo.com/quote/MXRF11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FII MAXI RENDA RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo MXRF11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=97521225000125",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do MXRF11, referência 31/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339341",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do MXRF11, 19/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1236643",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do MXRF11, 03/10/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1007568",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

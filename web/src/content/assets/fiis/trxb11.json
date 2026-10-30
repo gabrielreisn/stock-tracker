@@ -1,0 +1,325 @@
+{
+  "ticker": "TRXB11",
+  "slug": "trxb11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "TRXB11: FII de tijolo, dividendos e volatilidade",
+    "description": "TRXB11 é o FII de tijolo da TRX, com foco em varejo e logística. Veja dividend yield de 17,76%, patrimônio de R$ 397,0 milhões e volatilidade de 41,63% em",
+    "h1": "TRXB11: TRX Real Estate II FII",
+    "canonicalPath": "/fiis/trxb11",
+    "keywords": [
+      "TRXB11",
+      "TRX Real Estate II FII",
+      "FII de tijolo",
+      "dividend yield TRXB11",
+      "volatilidade TRXB11",
+      "TRX FII",
+      "FII varejo",
+      "FII logística"
+    ]
+  },
+  "summary": "TRXB11 é a cota do TRX Real Estate II Fundo de Investimento Imobiliário, um FII de tijolo com foco em imóveis de varejo, saúde e logística. Fundado em 2020, o fundo distribui renda mensal a partir de aluguéis de contratos de longo prazo com grandes empresas. Em 28/10/2026, a cota valia R$ 190,01, com dividend yield de 17,76% nos últimos 12 meses.",
+  "profile": {
+    "type": "FII de tijolo, varejo",
+    "issuerOrManager": "TRX Gestora de Recursos (gestora), BRL TRUST DTVM S.A",
+    "name": "TRX Real Estate II Fundo de Investimento Imobiliário",
+    "legalName": "TRX REAL ESTATE II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "16/03/2020",
+    "administrator": "BRL TRUST DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "TRX REAL ESTATE II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "36.368.925/0001-37",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Definida",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BRL TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "16/03/2020",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 397,0 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "898",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 97,63",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 190,01",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "41,63% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,15",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "17,76%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 7,9 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TRXB11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Trx Real Estate II Fundo De Investimento Imobiliario - Fii",
+    "currency": "BRL",
+    "price": 190.01,
+    "historyStarts": "2024-02-05",
+    "returns": {
+      "1y": 0.4816,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.4163,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3426,
+      "from": "2024-08-07",
+      "to": "2024-12-05"
+    },
+    "beta1y": {
+      "value": 0.15,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 33.7414,
+      "payments12Months": 12,
+      "yield12Months": 0.1776,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 3
+      }
+    },
+    "avgDailyTradedValue3m": 7911822
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do TRXB11 nos 12 meses até 28/10/2026 foi de 41,63%, classificada como muito alta. Isso indica que a cota tem oscilações significativas, o que é comum para FIIs de tijolo em períodos de estresse ou reprecificação de ativos. O beta contra o Ibovespa foi de 0,15, o que mostra baixa correlação com o índice acionário, o que é típico para FIIs, que são mais sensíveis a juros e ao mercado imobiliário do que às ações. A maior queda em 5 anos foi de -34,26%, do pico em 07/08/2024 ao ponto mais baixo em 05/12/2024, o que indica um drawdown significativo, possivelmente relacionado a reprecificação de ativos ou mudanças no cenário de juros. Para acompanhar a volatilidade e o preço da cota, use o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no StockBar, que mostra o gráfico de rentabilidade e a variação do dia e do ano."
+  },
+  "history": {
+    "overview": "O TRX Real Estate II FII (TRXB11) iniciou suas atividades em 16/03/2020, com o objetivo de distribuir renda aos cotistas por meio de uma gestão ativa de imóveis locados. Diferente do seu irmão mais velho, o [TRXF11](/fiis/trxf11), o TRXB11 é um fundo de prazo determinado e voltado exclusivamente ao investidor profissional, o que o torna menos acessível para o público geral. A estratégia do fundo é focada em imóveis de alto padrão, com contratos atípicos de longo prazo, buscando maximizar o retorno por meio da aquisição e desenvolvimento de ativos. O fundo tem uma história de captação constante, com 10 ofertas públicas encerradas até 2026, o que indica um crescimento de patrimônio e uma estratégia de expansão contínua. Em 2026, o fundo realizou a venda de 9 imóveis de varejo (incluindo Sam's Club e Assaí) por R$ 672 milhões, uma operação que reestruturou sua carteira e gerou liquidez para novas aquisições ou pagamentos de dívidas. A gestão é feita pela TRX Gestora de Recursos, com administração da BRL Trust DTVM S.A., e o fundo é classificado como multicategoria pela CVM, o que permite flexibilidade na alocação entre diferentes segmentos imobiliários.",
+    "timeline": [
+      {
+        "date": "2020-03-16",
+        "event": "Início das atividades do TRX Real Estate II FII",
+        "source": 1
+      },
+      {
+        "date": "2020-07-28",
+        "event": "Encerramento da primeira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2022-05-05",
+        "event": "Encerramento de nova oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2023-05-23",
+        "event": "Início de nova oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-08-21",
+        "event": "Início da 8ª emissão de cotas, com captação inicial de R$ 50 milhões",
+        "source": 4
+      },
+      {
+        "date": "2026-10-01",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do TRXB11",
+      "body": "O TRXB11 é um Fundo de Investimento Imobiliário (FII) de tijolo, com foco na distribuição de renda por meio de aluguéis de imóveis locados. A gestora é a TRX Gestora de Recursos, e o administrador e custodiante é a BRL TRUST DTVM S.A. O fundo é classificado pela CVM como multicategoria, o que permite flexibilidade na alocação entre diferentes segmentos, mas o portfólio é predominantemente de varejo, saúde e logística, com contratos de longo prazo e grandes inquilinos como Carrefour, Grupo Mateus e Assaí. O objetivo é maximizar o retorno por meio de aquisição, desenvolvimento e venda de imóveis, com uma gestão ativa. O fundo é de prazo determinado e voltado ao investidor profissional, o que o diferencia do TRXF11, que é de prazo indeterminado e aberto a todos os investidores."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do TRXB11",
+      "body": "Nos 12 meses até 28/10/2026, o TRXB11 distribuiu R$ 33,7414 por cota em 12 pagamentos, resultando em um dividend yield de 17,76%. O último pagamento foi de R$ 3,0000 em 01/10/2026. A tributação sobre rendimentos de FIIs não é detalhada nas fontes do dossiê, mas é importante lembrar que os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, enquanto a valorização da cota está sujeita à regra de 15% sobre o ganho de capital. Para acompanhar os pagamentos e o histórico de proventos, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos), que mostra as datas de competência e pagamento, multiplicadas pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O TRXB11 realizou 10 ofertas públicas de cotas encerradas até 2026, conforme o FNET da B3. A 8ª emissão, iniciada em 21/08/2026, tinha captação inicial de R$ 50 milhões, com preço de R$ 125,00 por cota, baseado no valor patrimonial de R$ 110,60 em 30/06/2026 acrescido de um prêmio de R$ 14,40. Em 09/2026, o patrimônio líquido do fundo era de R$ 397,0 milhões, com 898 cotistas e valor patrimonial da cota de R$ 97,63. O número de cotas emitidas era de 4.066.022. A taxa de administração no mês de 09/2026 foi de 0,017% sobre o patrimônio. O fundo tem uma estratégia de captação constante, o que indica crescimento de patrimônio e expansão da carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TRXB11",
+      "body": "Nos 12 meses até 28/10/2026, o TRXB11 teve rentabilidade total com proventos de 48,16%. A volatilidade anualizada no mesmo período foi de 41,63%, classificada como muito alta. O beta contra o Ibovespa foi de 0,15, o que indica baixa correlação com o índice acionário. A maior queda em 5 anos foi de -34,26%, do pico em 07/08/2024 ao ponto mais baixo em 05/12/2024. Para comparar o desempenho do TRXB11 com índices como o IFIX e o CDI, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que mostra a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TRXB11",
+      "body": "Os principais riscos do TRXB11 incluem a volatilidade do mercado imobiliário, a vacância física e financeira, e a exposição a grandes inquilinos. O fundo tem uma vacância física de 0,22% e financeira de 0,42% (dados do TRXF11, que é o fundo irmão, mas a estrutura é similar). A volatilidade anualizada de 41,63% é muito alta, o que indica oscilações significativas no preço da cota. A maior queda em 5 anos foi de -34,26%, o que mostra o risco de drawdown em períodos de estresse. O fundo também está exposto ao risco de crédito dos inquilinos e ao risco de juros, que afeta o valor de mercado dos imóveis e a atratividade dos rendimentos. Para monitorar oscilações de preço, use os [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TRXB11 é FII de papel ou de tijolo?",
+      "answer": "TRXB11 é um FII de tijolo, com foco em imóveis de varejo, saúde e logística. O fundo investe em imóveis locados, com contratos de longo prazo, e distribui renda por meio de aluguéis. A classificação multicategoria da CVM permite flexibilidade, mas o portfólio é predominantemente de ativos físicos."
+    },
+    {
+      "question": "Qual a diferença entre TRXB11 e TRXF11?",
+      "answer": "TRXB11 é um FII de prazo determinado e voltado ao investidor profissional, enquanto TRXF11 é de prazo indeterminado e aberto a todos os investidores. Ambos são geridos pela TRX, mas têm públicos-alvo e estruturas diferentes. TRXB11 tem menos cotistas (898 em 09/2026) e patrimônio menor (R$ 397,0 milhões) do que TRXF11, que tem mais de 200 mil cotistas e patrimônio de R$ 3,29 bilhões."
+    },
+    {
+      "question": "TRXB11 paga dividendos?",
+      "answer": "Sim, TRXB11 distribui renda mensal. Nos 12 meses até 28/10/2026, distribuiu R$ 33,7414 por cota, com dividend yield de 17,76%. O último pagamento foi de R$ 3,0000 em 01/10/2026. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas."
+    },
+    {
+      "question": "Qual o patrimônio do TRXB11?",
+      "answer": "Em 09/2026, o patrimônio líquido do TRXB11 era de R$ 397,0 milhões, com 898 cotistas e valor patrimonial da cota de R$ 97,63. O fundo tem 4.066.022 cotas emitidas. A taxa de administração no mês foi de 0,017% sobre o patrimônio."
+    },
+    {
+      "question": "TRXB11 é para investidor profissional?",
+      "answer": "Sim, o TRXB11 é voltado ao investidor profissional, conforme a CVM. Isso significa que o fundo tem regras de acesso mais restritas e pode ter maior risco e complexidade. O TRXF11, por outro lado, é aberto a todos os investidores."
+    },
+    {
+      "question": "Qual a volatilidade do TRXB11?",
+      "answer": "A volatilidade anualizada do TRXB11 nos 12 meses até 28/10/2026 foi de 41,63%, classificada como muito alta. A maior queda em 5 anos foi de -34,26%, do pico em 07/08/2024 ao ponto mais baixo em 05/12/2024. O beta contra o Ibovespa foi de 0,15, o que indica baixa correlação com o índice acionário."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os proventos do TRXB11 com data de competência e pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do TRXB11 com o IFIX, CDI e Ibovespa no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do TRXB11 chegar ao preço que você escolheu, para acompanhar oscilações de 41,63% de volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o TRXB11 junto com outras posições de FIIs, ações e renda fixa, com alocação por classe e valor total."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em TRXB11, como rentabilidade, proventos e alocação, e receba respostas dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "Fundo irmão, gerido pela mesma TRX, mas de prazo indeterminado e aberto a todos os investidores, com maior patrimônio e número de cotistas."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de varejo da Kinea, com foco em shoppings e centros comerciais, similar ao portfólio de varejo do TRXB11."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings da XP, com foco em ativos de varejo, para comparação de estratégia e desempenho no segmento."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística da BTG Pactual, para comparação com o segmento logístico do portfólio do TRXB11."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de papel da Maxi Renda, para comparação entre FIIs de tijolo e de papel, com diferentes perfis de risco e retorno."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TRXB11",
+      "url": "https://finance.yahoo.com/quote/TRXB11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do TRX REAL ESTATE II FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo TRXB11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36368925000137",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do TRXB11, referência 31/10/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1028874",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TRXB11, 21/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298556",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TRXB11, 01/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1209075",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

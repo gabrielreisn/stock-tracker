@@ -1,0 +1,324 @@
+{
+  "ticker": "TGAR11",
+  "slug": "tgar11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "TGAR11: história, dividendos e volatilidade",
+    "description": "Conheça o FII TG Ativo Real (TGAR11): patrimônio de R$ 2,54 bilhões, dividend yield de 23,39% e volatilidade de 37,52% em 12 meses.",
+    "h1": "TGAR11: FII TG Ativo Real – Multiestratégia, Dividendos e Riscos",
+    "canonicalPath": "/fiis/tgar11",
+    "keywords": [
+      "TGAR11",
+      "FII TG Ativo Real",
+      "FII multiestratégia",
+      "dividend yield TGAR11",
+      "volatilidade TGAR11",
+      "TG Core Asset",
+      "Vórtx DTVM",
+      "rendimentos FII"
+    ]
+  },
+  "summary": "TGAR11 é a cota do Fundo de Investimento Imobiliário TG Ativo Real, um FII multiestratégia com gestão ativa da TG Core Asset e administração da Vórtx DTVM. Inaugurado em 09/12/2016, o fundo investe em ativos imobiliários e financeiros imobiliários. Em 09/2026, o patrimônio líquido era de R$ 2,54 bilhões, com 123.842 cotistas e valor patrimonial da cota de R$ 107,80. A cota fechou a R$ 40,32 em 28/10/2026.",
+  "profile": {
+    "type": "FII multiestratégia (híbrido)",
+    "issuerOrManager": "TG Core Asset (gestora) / Vórtx (administradora e escrituradora/custodiante) [3]",
+    "name": "Fundo de Investimento Imobiliário Tg Ativo Real",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TG ATIVO REAL",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "09/12/2016",
+    "administrator": "VÓRTX DTVM LTDA",
+    "website": "https://www.vortx.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TG ATIVO REAL",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "25.032.881/0001-53",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Definida",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "VÓRTX DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "09/12/2016",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 2,54 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "123.842",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 107,80",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 40,32",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "37,52% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,64",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "23,39%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 4,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TGAR11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo Investimento Imobiliario TG Ativo Real",
+    "currency": "BRL",
+    "price": 40.32,
+    "historyStarts": "2017-08-24",
+    "returns": {
+      "1y": -0.4587,
+      "3y": -0.4939,
+      "5y": -0.3663,
+      "10y": null
+    },
+    "volatility1y": 0.3752,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5497,
+      "from": "2024-04-08",
+      "to": "2026-10-28"
+    },
+    "beta1y": {
+      "value": 0.64,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 9.43,
+      "payments12Months": 12,
+      "yield12Months": 0.2339,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.7
+      }
+    },
+    "avgDailyTradedValue3m": 4012965
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do TGAR11 nos 12 meses até 28/10/2026 foi de 37,52%, classificada como alta 0. O beta contra o Ibovespa foi de 0,64, indicando menor sensibilidade ao índice do que a média do mercado 0. A maior queda em 5 anos foi de -54,97%, entre 08/04/2024 e 28/10/2026 0. Para FIIs multiestratégia, essa volatilidade reflete a combinação de ativos de papel e tijolo, com exposição a crédito e juros. Use os [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos relevantes."
+  },
+  "history": {
+    "overview": "O FII TG Ativo Real iniciou suas atividades em 09/12/2016, com o objetivo de proporcionar valorização e rentabilidade por meio de investimentos em ativos imobiliários e financeiros imobiliários 3. A estratégia é multiestratégia, com gestão ativa, o que permite ao fundo alocar capital tanto em imóveis físicos (tijolo) quanto em papéis (papel), buscando gerar retorno via distribuição de rendimentos e valorização patrimonial 3. Desde o início, o fundo realizou 13 ofertas públicas de cotas, com as primeiras encerradas em 2017 e as mais recentes em 2024, ampliando sua base de investidores 2. Em 2026, o fundo passou por ajustes na estrutura de remuneração para evitar sobreposição de taxas de gestão ao investir em outros fundos da própria gestora, conforme fato relevante de 10/07/2026 4.",
+    "timeline": [
+      {
+        "date": "2016-12-09",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2017-04-14",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2017-07-05",
+        "event": "Início de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2017-09-18",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2019-02-19",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do TGAR11",
+      "body": "O FII TG Ativo Real é classificado pela ANBIMA como multiestratégia, com gestão ativa 3. O objetivo do fundo é proporcionar valorização e rentabilidade por meio de investimentos em ativos imobiliários e financeiros imobiliários, buscando gerar retorno por distribuição de rendimentos e valorização patrimonial 3. A gestora é a TG Core Asset, e o administrador, escriturador e custodiante é a Vórtx DTVM 3. O auditor independente é a KPMG 3. A taxa de administração é de 0,22% a.a. e a taxa de gestão é de 1,28% a.a., com taxa de performance de 30% do que exceder 100% do CDI 3. Em 10/07/2026, o fundo alterou seu regulamento para conceder desconto na taxa de gestão ao investir em outros fundos da TG Core Asset, mitigando a sobreposição de taxas 4."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do TGAR11",
+      "body": "Nos 12 meses até 28/10/2026, o TGAR11 distribuiu R$ 9,4300 por cota em 12 pagamentos, resultando em dividend yield de 23,39% 0. O último provento foi de R$ 0,7000 em 01/10/2026 0. O relatório gerencial de 09/2026 informa dividend yield mensal de 0,66% 1. A tributação dos rendimentos distribuídos pode ser isenta de Imposto de Renda para pessoas físicas com participação inferior a 10% do total de cotas, desde que o fundo possua no mínimo 100 cotistas e suas cotas sejam negociadas em bolsa, conforme a Lei nº 11.196/2005, alterada pela Lei nº 14.754/2023 3. Ganhos com alienação de cotas estão sujeitos à alíquota de 20% 3. Acompanhe os [dividendos e JCP no StockBar](/recursos/proventos) para ver os rendimentos multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O TGAR11 realizou 13 ofertas públicas de cotas desde 2017, com as mais recentes encerradas em 2024 2. Em 09/2026, o patrimônio líquido era de R$ 2,54 bilhões, com 123.842 cotistas e 23.567.968 cotas emitidas 1. O valor patrimonial da cota era de R$ 107,80 1. A taxa de administração no mês sobre o patrimônio era de 0,006% 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TGAR11",
+      "body": "A rentabilidade total com proventos do TGAR11 foi de -45,87% nos 12 meses até 28/10/2026, -49,39% em 3 anos e -36,63% em 5 anos 0. A cota fechou a R$ 40,32 em 28/10/2026 0. Compare a [rentabilidade com o IFIX e o CDI](/recursos/comparacao-com-indices) para entender o desempenho relativo do fundo."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TGAR11",
+      "body": "O TGAR11 é um FII multiestratégia, o que expõe o investidor a riscos de crédito (ativos financeiros imobiliários) e de vacância (imóveis físicos), além da sensibilidade a juros 3. A volatilidade anualizada nos 12 meses até 28/10/2026 foi de 37,52%, nível alto 0. O beta contra o Ibovespa foi de 0,64 0. A maior queda em 5 anos foi de -54,97%, do pico em 08/04/2024 ao ponto mais baixo em 28/10/2026 0. Configure [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TGAR11 é FII de papel ou de tijolo?",
+      "answer": "TGAR11 é um FII multiestratégia, ou seja, híbrido, que investe em ativos imobiliários e financeiros imobiliários 3. A classificação ANBIMA é multiestratégia, com gestão ativa 3. Isso significa que o fundo pode alocar em imóveis físicos (tijolo) e em papéis (papel), buscando diversificação e geração de rendimentos."
+    },
+    {
+      "question": "Qual o dividend yield do TGAR11?",
+      "answer": "O dividend yield dos 12 meses até 28/10/2026 foi de 23,39%, com R$ 9,4300 distribuídos por cota 0. O relatório gerencial de 09/2026 informa dividend yield mensal de 0,66% 1. Acompanhe os [proventos no StockBar](/recursos/proventos) para ver os pagamentos com data de pagamento."
+    },
+    {
+      "question": "Quem é a gestora do TGAR11?",
+      "answer": "A gestora do TGAR11 é a TG Core Asset, e o administrador, escriturador e custodiante é a Vórtx DTVM 3. O auditor independente é a KPMG 3. A taxa de administração é de 0,22% a.a. e a taxa de gestão é de 1,28% a.a. 3."
+    },
+    {
+      "question": "TGAR11 paga dividendos isentos de IR?",
+      "answer": "Sim, os rendimentos distribuídos podem ser isentos de Imposto de Renda para pessoas físicas com participação inferior a 10% do total de cotas, desde que o fundo tenha no mínimo 100 cotistas e as cotas sejam negociadas em bolsa, conforme a Lei nº 11.196/2005, alterada pela Lei nº 14.754/2023 3. Ganhos com venda de cotas têm alíquota de 20% 3."
+    },
+    {
+      "question": "Qual o patrimônio do TGAR11?",
+      "answer": "Em 09/2026, o patrimônio líquido do TGAR11 era de R$ 2,54 bilhões, com 123.842 cotistas e 23.567.968 cotas emitidas 1. O valor patrimonial da cota era de R$ 107,80 1. A cota fechou a R$ 40,32 em 28/10/2026 0."
+    },
+    {
+      "question": "Qual a rentabilidade do TGAR11 em 12 meses?",
+      "answer": "A rentabilidade total com proventos nos 12 meses até 28/10/2026 foi de -45,87% 0. Em 3 anos, foi de -49,39%, e em 5 anos, de -36,63% 0. Compare com o [IFIX e o CDI](/recursos/comparacao-com-indices) para avaliar o desempenho relativo."
+    },
+    {
+      "question": "O TGAR11 tem taxa de performance?",
+      "answer": "Sim, a taxa de performance é de 30% do que exceder 100% do CDI 3. A taxa de administração é de 0,22% a.a. e a taxa de gestão é de 1,28% a.a. 3. Em 10/07/2026, o fundo alterou o regulamento para conceder desconto na taxa de gestão ao investir em outros fundos da TG Core Asset 4."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os rendimentos do TGAR11 com data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do TGAR11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a cota do TGAR11 atingir o preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o TGAR11 junto com seus outros ativos, com alocação por classe e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre sua posição no TGAR11 e veja as respostas com base nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "Outro FII multiestratégia com gestão ativa, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda imobiliária, para comparar exposição a ativos de papel e tijolo."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings, para diversificação dentro do segmento de FIIs de tijolo."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística, para comparação de segmento dentro dos FIIs de tijolo."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de papel, para comparação de estratégia dentro dos FIIs de renda fixa imobiliária."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TGAR11",
+      "url": "https://finance.yahoo.com/quote/TGAR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FII TG ATIVO REAL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo TGAR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=25032881000153",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do TGAR11, referência 31/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1331516",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TGAR11, 10/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1244348",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TGAR11, 24/02/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1119841",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

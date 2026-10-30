@@ -1,0 +1,263 @@
+{
+  "ticker": "GLD",
+  "slug": "gld",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "GLD: história, desempenho e riscos",
+    "description": "GLD é o SPDR Gold Shares, ETF que replica o ouro físico. Veja história, desempenho em dólar, riscos e como investir do Brasil.",
+    "h1": "GLD: SPDR Gold Shares",
+    "canonicalPath": "/etfs/gld",
+    "keywords": [
+      "GLD",
+      "SPDR Gold Shares",
+      "ETF de ouro",
+      "ouro físico",
+      "investir em ouro",
+      "GLD Brasil",
+      "GLD dividendos",
+      "GLD vs GLDM"
+    ]
+  },
+  "summary": "GLD é o SPDR Gold Shares, um ETF que replica o preço do ouro físico, emitido pela State Street Global Advisors. Diferente de ETFs de ações, ele detém ouro em cofres e não paga dividendos. Em 29/10/2026, sua cotação era de US$ 368,57, com rentabilidade de 1,53% nos últimos 12 meses e 99,12% em 3 anos.",
+  "profile": {
+    "type": "ETF de ouro físico",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "Preço do ouro físico (1/10 de onça troy)",
+    "expenseRatio": "0,40% ao ano",
+    "name": "SPDR Gold Shares"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "SPDR Gold Shares",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 368,57",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "28,64% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,88",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 3,78 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GLD",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "SPDR Gold Shares",
+    "currency": "USD",
+    "price": 368.57,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0153,
+      "3y": 0.9912,
+      "5y": 1.2116,
+      "10y": 2.0226
+    },
+    "volatility1y": 0.2864,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.264,
+      "from": "2026-01-29",
+      "to": "2026-07-16"
+    },
+    "beta1y": {
+      "value": 0.88,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 3784832122
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do GLD nos últimos 12 meses foi de 28,64%, um nível alto para um ETF de commodity. O beta de 0,88 contra o S&P 500 indica que o GLD tende a se mover de forma moderada em relação ao mercado acionário americano, mas com maior oscilação em períodos de estresse. A maior queda em 5 anos foi de -26,40%, entre 29/01/2026 e 16/07/2026. Para quem busca controle de exposição, o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) ajuda a entender o custo da posição e a variação ao longo do tempo."
+  },
+  "history": {
+    "overview": "O SPDR Gold Shares foi lançado em novembro de 2004 na NYSE sob o nome streetTRACKS Gold Shares, com patrocínio do World Gold Council. Em 2007, migrou para a NYSE Arca e, em maio de 2008, adotou o nome atual. O fundo foi o segundo maior ETF do mundo por alguns anos e chegou a ser o maior, mantendo-se no top 10 global até abril de 2026. Em junho de 2018, a State Street lançou o GLDM, uma versão com cotação 1/100 do preço da onça e taxa de 0,18% ao ano, para facilitar o acesso de investidores com menos capital. A estrutura do GLD permite que a cotação se ajuste ao preço do ouro por meio de trocas de blocos de 100.000 cotas por 10.000 onças, mantendo a aderência ao ativo subjacente.",
+    "timeline": [
+      {
+        "date": "2004-11",
+        "event": "Lançamento do fundo na NYSE como streetTRACKS Gold Shares",
+        "source": 2
+      },
+      {
+        "date": "2007-12-13",
+        "event": "Migração das negociações para a NYSE Arca",
+        "source": 2
+      },
+      {
+        "date": "2008-05-20",
+        "event": "Mudança de nome para SPDR Gold Shares",
+        "source": 2
+      },
+      {
+        "date": "2018-06",
+        "event": "Lançamento do GLDM, versão com cotação 1/100 do preço da onça e taxa de 0,18%",
+        "source": 2
+      },
+      {
+        "date": "2019-03-31",
+        "event": "Fundo detinha 24.572.554,8 onças de ouro, avaliadas em US$ 31,69 bilhões",
+        "source": 2
+      },
+      {
+        "date": "2026-04",
+        "event": "Fundo permanece entre os 10 maiores ETFs do mundo",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o GLD funciona",
+      "body": "O GLD é um ETF que replica o preço do ouro físico, sem alavancagem ou inversão. Cada cota representa inicialmente 1/10 de onça troy de ouro. A State Street Global Advisors (SSGA) gerencia o fundo, que foi lançado em 2004. Para manter a cotação alinhada ao mercado, a gestora realiza trocas de blocos de 100.000 cotas por 10.000 onças de ouro quando há divergência de preço, embora pequenas diferenças possam ocorrer durante o pregão."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do GLD",
+      "body": "O GLD não segue um índice de ações, mas sim o preço do ouro físico. O ativo é armazenado em barras de 400 onças (London Good Delivery) em cofres em Londres ou por custodiados globais. Em 31/03/2019, o fundo detinha 24.572.554,8 onças de ouro, avaliadas em US$ 31,69 bilhões, sendo um dos maiores detentores de ouro do mundo."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no GLD a partir do Brasil",
+      "body": "Para investir no GLD a partir do Brasil, é necessário ter conta em uma corretora que opere no exterior, pois o ativo é negociado em dólar na NYSE Arca. O investidor assume o risco cambial: se o dólar valorizar frente ao real, o retorno em reais aumenta, e vice-versa. Alternativamente, é possível buscar ETFs ou BDRs na B3 que replicam o ouro ou o GLD, reduzindo a exposição direta à moeda americana."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do GLD",
+      "body": "Em 29/10/2026, o GLD estava cotado a US$ 368,57. A rentabilidade total com proventos foi de 1,53% nos últimos 12 meses, 99,12% em 3 anos, 121,16% em 5 anos e 202,26% em 10 anos. O fundo não distribui proventos. Para avaliar esse desempenho, use a [comparação com índices](/recursos/comparacao-com-indices) e veja o GLD lado a lado com o S&P 500, que é o índice de referência do mercado acionário americano."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do GLD",
+      "body": "O principal risco do GLD é a volatilidade do ouro. Nos últimos 12 meses, a volatilidade anualizada foi de 28,64%, nível considerado alto. A maior queda em 5 anos foi de -26,40%, entre 29/01/2026 e 16/07/2026. Como o ativo é em dólar, há risco cambial para o investidor brasileiro. A ausência de proventos significa que todo o retorno vem da valorização do ouro. Use [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações sem precisar ficar olhando a tela o dia todo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GLD paga dividendos?",
+      "answer": "Não. O GLD não distribui proventos nos últimos 12 meses. Todo o retorno vem da valorização do ouro físico que o fundo detém. Se você busca renda, o GLD não é o ativo indicado; para isso, veja [fundos de investimento](/recursos/fundos-de-investimento) que pagam rendas mensais."
+    },
+    {
+      "question": "Qual a diferença entre GLD e GLDM?",
+      "answer": "O GLDM é uma versão do GLD lançada em junho de 2018, com cotação 1/100 do preço da onça de ouro e taxa de administração de 0,18% ao ano, contra 0,40% do GLD. O GLDM foi criado para facilitar o acesso de investidores com menos capital, mas ambos replicam o mesmo ativo."
+    },
+    {
+      "question": "GLD é um ETF de ações?",
+      "answer": "Não. O GLD é um ETF de ouro físico. Ele não possui ações de empresas, mas detém ouro em cofres. A cotação reflete o preço do ouro, com ajustes por meio de trocas de blocos de cotas por ouro. Para comparar com ETFs de ações, veja [SPY](/etfs/spy) ou [VOO](/etfs/voo)."
+    },
+    {
+      "question": "Como investir em GLD do Brasil?",
+      "answer": "É necessário ter conta em uma corretora que opere no exterior, pois o GLD é negociado em dólar na NYSE Arca. O investidor assume o risco cambial. Alternativamente, é possível buscar ETFs ou BDRs na B3 que replicam o ouro. Para sincronizar posições de diferentes corretoras, use o [Open Finance](/recursos/open-finance)."
+    },
+    {
+      "question": "GLD é um bom ativo para diversificação?",
+      "answer": "O GLD pode ser usado para diversificação, pois o ouro tem correlação baixa com ações em muitos períodos. No entanto, a volatilidade de 28,64% nos últimos 12 meses mostra que ele não é isento de oscilações. Para ver como o GLD se comporta junto com outros ativos, use a [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual a taxa de administração do GLD?",
+      "answer": "A taxa de administração do GLD é de 0,40% ao ano. O GLDM, versão mais barata, tem taxa de 0,18% ao ano. A taxa é cobrada diariamente, reduzindo o patrimônio do fundo ao longo do tempo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do GLD lado a lado com o S&P 500, o índice de referência do mercado acionário americano, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o GLD chegar ao preço que você escolheu, útil para monitorar oscilações sem ficar olhando a tela o dia todo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o GLD junto com outras posições, com valor por classe e alocação, para entender a diversificação da sua carteira."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe o gráfico de rentabilidade do GLD e o preço médio da sua posição, com variação do dia e do ano."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e confere as posições do GLD com a sua carteira, garantindo que quantidades e preço médio estejam atualizados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF de ações que replica o S&P 500, o índice de referência do mercado acionário americano, para comparação com o GLD."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF de ações que replica o S&P 500, com taxa de administração mais baixa que o SPY, para comparação com o GLD."
+      },
+      {
+        "ticker": "GDX",
+        "list": "us-etfs",
+        "reason": "ETF de mineradoras de ouro, que se beneficia da valorização do ouro, mas com maior alavancagem e risco que o GLD."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF de ações brasileiras, para diversificação e comparação com o GLD, que é um ativo em dólar."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro americano, para comparação com o GLD, que é um ativo de commodity."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GLD",
+      "url": "https://finance.yahoo.com/quote/GLD/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: SPDR Gold Shares",
+      "url": "https://www.wikidata.org/wiki/Q2207539",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR Gold Shares",
+      "url": "https://en.wikipedia.org/wiki/SPDR_Gold_Shares",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

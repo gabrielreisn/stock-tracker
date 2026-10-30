@@ -1,0 +1,374 @@
+{
+  "ticker": "VALE3",
+  "slug": "vale3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "VALE3: história, dividendos e volatilidade",
+    "description": "VALE3 é a ação ordinária da Vale, maior produtora de minério de ferro do mundo. Veja dividendos, volatilidade e desempenho até 29/10/2026.",
+    "h1": "VALE3: Ação Ordinária da Vale S.A.",
+    "canonicalPath": "/acoes/vale3",
+    "keywords": [
+      "VALE3",
+      "Vale S.A.",
+      "ação ordinária Vale",
+      "dividendos VALE3",
+      "volatilidade VALE3",
+      "mineração Brasil",
+      "minério de ferro",
+      "Novo Mercado B3"
+    ]
+  },
+  "summary": "VALE3 é a ação ordinária da Vale S.A., a maior produtora mundial de minério de ferro e pelotas, além de níquel e cobre. Fundada em 1942 como estatal, a empresa opera em 14 estados brasileiros e nos cinco continentes, mantendo a liderança global no setor desde 1974. Em 29/10/2026, o ativo era cotado a R$ 60,05, com dividend yield de 9,35% nos últimos 12 meses.",
+  "profile": {
+    "name": "Vale",
+    "legalName": "VALE S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Materiais Básicos",
+    "segment": "Minerais Metálicos",
+    "founded": "01/06/1942",
+    "listedSince": "01/04/1968",
+    "headquarters": "Rio de Janeiro (RJ)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "VALE S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "33.592.510/0001-54",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Minerais Metálicos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "01/06/1942",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "01/04/1968",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "VALE3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 60,05",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "27,79% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,36",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,35%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VALE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vale S.A.",
+    "currency": "BRL",
+    "price": 60.05,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0258,
+      "3y": 0.1542,
+      "5y": 0.268,
+      "10y": 4.6551
+    },
+    "volatility1y": 0.2779,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3815,
+      "from": "2023-01-26",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": 0.36,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 5.6125,
+      "payments12Months": 2,
+      "yield12Months": 0.0935,
+      "lastPayment": {
+        "date": "2026-08-12",
+        "amount": 2.030722
+      }
+    },
+    "avgDailyTradedValue3m": 1772360016
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 12 meses da VALE3 é de 27,79%, nível classificado como 'alta'. Isso significa que o ativo apresenta oscilações de preço mais intensas que a média do mercado, comum em ações de commodities. O beta de 0,36 contra o Ibovespa indica que, historicamente, a ação tende a ser menos sensível às variações do índice, mas isso não elimina riscos setoriais. A maior queda nos últimos 5 anos foi de -38,15%, entre 26/01/2023 e 08/04/2025, refletindo a sensibilidade do setor a ciclos econômicos globais. Para acompanhar a performance e o preço médio da posição, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no StockBar."
+  },
+  "history": {
+    "overview": "A história da Vale começa em 1942, quando o governo de Getúlio Vargas encampou as reservas de ferro de Percival Farquhar para criar a Companhia Vale do Rio Doce (CVRD), com o objetivo de explorar as minas de Itabira, em Minas Gerais. Durante décadas, a empresa focou no fornecimento de matéria-prima para as siderúrgicas nacionais, como a CSN, com crescimento lento e demanda interna reduzida. A virada ocorreu na década de 1960, sob a gestão de Eliezer Batista, que inaugurou o Porto de Tubarão em 1966 e criou o conceito de 'distância econômica', permitindo exportar minério ao Japão a preços competitivos. Isso disparou a produção, que saltou de 10 milhões de toneladas em 1966 para 56 milhões em 1974, ano em que a Vale assumiu a liderança mundial em exportação de minério de ferro, posição que mantém até hoje. Em 2006, a incorporação da canadense Inco consolidou a Vale como a maior mineradora de níquel do mundo. A empresa passou por mudanças de controle, tornando-se privada e de capital aberto, e enfrentou desafios ambientais e de governança, como a premiação como pior empresa do mundo em direitos humanos e meio ambiente em 2012. Em 2026, a companhia passou por ajustes em seu conselho de administração e atualizações de projeções financeiras, refletindo a dinâmica de um setor cíclico e sensível a variáveis globais.",
+    "timeline": [
+      {
+        "date": "1942",
+        "event": "Fundação da Companhia Vale do Rio Doce (CVRD) pelo governo federal.",
+        "source": 3
+      },
+      {
+        "date": "1942-06-01",
+        "event": "Constituição formal da VALE S.A. na CVM.",
+        "source": 2
+      },
+      {
+        "date": "1968-04-01",
+        "event": "Início da cotação das ações na Bolsa de Valores de São Paulo (B3).",
+        "source": 1
+      },
+      {
+        "date": "1970-01-02",
+        "event": "Registro oficial como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2026-05-12",
+        "event": "Divulgação de fato relevante sobre modificação de projeções divulgadas.",
+        "source": 12
+      },
+      {
+        "date": "2026-06-09",
+        "event": "Nova modificação de projeções divulgadas pela companhia.",
+        "source": 11
+      },
+      {
+        "date": "2026-06-11",
+        "event": "Vale informa sobre correspondência recebida da acionista Previ.",
+        "source": 10
+      },
+      {
+        "date": "2026-07-06",
+        "event": "Renúncia do presidente do Conselho de Administração da Vale.",
+        "source": 9
+      },
+      {
+        "date": "2026-07-22",
+        "event": "Deliberação de convocação de AGE para destituição de membro do Conselho de Administração.",
+        "source": 8
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Atualização de projeções e anúncio de distribuição de remuneração aos acionistas.",
+        "source": 5
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Anúncio de aquisição de ações de emissão da própria companhia (programa de recompra).",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Vale ganha dinheiro",
+      "body": "A Vale S.A. atua primariamente na mineração, sendo a maior produtora mundial de minério de ferro, pelotas e níquel, além de produzir cobre, cobalto e outros metais. A empresa opera em 14 estados brasileiros e nos cinco continentes, mantendo cerca de 2.000 quilômetros de malha ferroviária e nove terminais portuários próprios. No setor de energia, a Vale opera nove usinas hidrelétricas no Brasil, Canadá e Indonésia, consumindo cerca de 5% de toda a energia produzida no país. A receita da companhia vem da venda desses minerais e serviços de logística, atividade em que é a maior do Brasil. A empresa também possui participação em consórcios de energia elétrica, ampliando sua atuação além da mineração tradicional."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Vale",
+      "body": "A Vale S.A. é uma empresa privada, de capital aberto, com sede no Rio de Janeiro (RJ). O controle acionário é classificado como privado pela CVM. As ações são negociadas na B3 sob o código VALE3, que representa a ação ordinária (ON). Ações ordinárias conferem direito a voto em assembleias e participação nos lucros, enquanto as preferenciais (como a VALE3, que é ON, mas a empresa também possui outras classes) priorizam o recebimento de dividendos. A empresa está listada no segmento de governança Novo Mercado, o que impõe regras mais rígidas de transparência e distribuição de ações. Além da B3, a Vale possui ações negociadas na Bolsa de Valores de Madrid (LATIBEX) e na Bolsa de Valores de Nova York (NYSE), integrando o Dow Jones Sector Titans Composite Index."
+    },
+    {
+      "id": "proventos",
+      "heading": "VALE3 paga dividendos?",
+      "body": "VALE3 distribui proventos aos acionistas. Nos 12 meses até 29/10/2026, a empresa pagou R$ 5,6125 por ação em 2 pagamentos, resultando em um dividend yield de 9,35%. O último pagamento foi de R$ 2,0307, com data de pagamento em 12/08/2026. Em 30/07/2026, a Vale anunciou a distribuição de remuneração aos acionistas e a aquisição de ações de emissão da própria companhia, indicando continuidade na política de retorno de capital. Para acompanhar os dividendos e JCP da VALE3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da VALE3",
+      "body": "A rentabilidade total com proventos da VALE3 nos 12 meses até 29/10/2026 foi de 2,58%. Nos 3 anos, o retorno foi de 15,42%, e nos 5 anos, de 26,80%. No período de 10 anos, a rentabilidade acumulada foi de 465,51%. Esses números refletem a performance do ativo em um setor cíclico, sensível a flutuações de preços de commodities e condições macroeconômicas globais. Para comparar a performance da VALE3 com índices como o Ibovespa e o CDI, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que permite visualizar a rentabilidade lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da VALE3",
+      "body": "A VALE3 está sujeita a riscos setoriais e operacionais. A volatilidade anualizada de 12 meses é de 27,79%, classificada como 'alta', indicando oscilações de preço mais intensas que a média do mercado. A maior queda nos últimos 5 anos foi de -38,15%, ocorrendo do pico em 26/01/2023 ao ponto mais baixo em 08/04/2025. O beta de 0,36 contra o Ibovespa sugere que a ação tende a ser menos volátil que o índice em períodos de mercado amplo, mas isso não elimina riscos específicos do setor de mineração, como flutuações de preços de minério de ferro, questões ambientais e regulatórias. A empresa também enfrenta riscos de governança, como evidenciado por mudanças no conselho de administração em 2026. Para monitorar oscilações de preço, utilize [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VALE3 paga dividendos?",
+      "answer": "Sim, VALE3 distribui proventos aos acionistas. Nos 12 meses até 29/10/2026, a empresa pagou R$ 5,6125 por ação em 2 pagamentos, com dividend yield de 9,35%. O último pagamento foi de R$ 2,0307 em 12/08/2026. A empresa também anunciou a aquisição de ações de emissão da própria companhia em 30/07/2026, indicando continuidade na política de retorno de capital."
+    },
+    {
+      "question": "Qual a diferença entre VALE3 e VALE4?",
+      "answer": "VALE3 é a ação ordinária (ON) da Vale, que confere direito a voto em assembleias e participação nos lucros. VALE4, quando existente, seria a ação preferencial (PN), que prioriza o recebimento de dividendos, mas não confere direito a voto. A Vale S.A. possui ações negociadas na B3 sob o código VALE3, e a empresa está listada no segmento Novo Mercado, o que impõe regras de transparência."
+    },
+    {
+      "question": "VALE3 é uma ação de alto risco?",
+      "answer": "A volatilidade anualizada de 12 meses da VALE3 é de 27,79%, classificada como 'alta', indicando oscilações de preço mais intensas que a média do mercado. A maior queda nos últimos 5 anos foi de -38,15%, entre 26/01/2023 e 08/04/2025. O beta de 0,36 contra o Ibovespa sugere menor sensibilidade ao índice, mas riscos setoriais de mineração, como flutuações de preços de commodities e questões ambientais, permanecem relevantes."
+    },
+    {
+      "question": "Onde a Vale opera?",
+      "answer": "A Vale opera em 14 estados brasileiros e nos cinco continentes. A empresa possui cerca de 2.000 quilômetros de malha ferroviária e nove terminais portuários próprios. No setor de energia, opera nove usinas hidrelétricas no Brasil, Canadá e Indonésia. A sede da empresa está no Rio de Janeiro (RJ)."
+    },
+    {
+      "question": "VALE3 está no Novo Mercado?",
+      "answer": "Sim, a Vale S.A. está listada no segmento de governança Novo Mercado da B3, o que impõe regras mais rígidas de transparência e distribuição de ações. A empresa é privada, de capital aberto, com controle acionário classificado como privado pela CVM."
+    },
+    {
+      "question": "Qual o setor da Vale?",
+      "answer": "A Vale atua no setor de Materiais Básicos, segmento de Minerais Metálicos, com foco em mineração. A empresa é a maior produtora mundial de minério de ferro, pelotas e níquel, além de produzir cobre, cobalto e outros metais. A atividade principal é a mineração, com serviços de logística como maior do país."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da VALE3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da VALE3 com o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a VALE3 atingir o preço que você escolheu, para acompanhar oscilações."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio da sua posição em VALE3, com variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Outra ação de grande capitalização do setor de energia e recursos naturais, com alta volatilidade e dividendos relevantes."
+      },
+      {
+        "ticker": "GGBR4",
+        "list": "br-stocks",
+        "reason": "Ação de siderurgia, setor correlacionado à demanda por minério de ferro, com exposição a ciclos industriais."
+      },
+      {
+        "ticker": "SUZB3",
+        "list": "br-stocks",
+        "reason": "Ação de celulose e papel, outro setor de commodities com exposição a preços globais e logística."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o índice MSCI Brazil, oferecendo exposição diversificada ao mercado brasileiro, incluindo a Vale."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VALE3",
+      "url": "https://finance.yahoo.com/quote/VALE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: VALE, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/4170/VALE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, VALE S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Vale",
+      "url": "https://www.wikidata.org/wiki/Q583268",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Vale S.A.",
+      "url": "https://pt.wikipedia.org/wiki/Vale_S.A.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/07/2026, “Atualização de projeções||Distribuição de remuneração aos acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1549981&numSequencia=1074687&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/07/2026, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1549982&numSequencia=1074688&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/07/2026, “Atualização de projeções”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1553067&numSequencia=1077773&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/07/2026, “Vale informa deliberação de convocação de AGE para destituição de membro do Conselho de Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547168&numSequencia=1071874&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/07/2026, “Vale informa sobre renúncia do presidente do Conselho de Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1542192&numSequencia=1066898&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/06/2026, “Vale informa sobre correspondência recebida da sua acionista Previ”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1533887&numSequencia=1058593&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/06/2026, “Modificação de Projeções Divulgadas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1532207&numSequencia=1056913&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/05/2026, “Modificação de Projeções Divulgadas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1520311&numSequencia=1045017&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

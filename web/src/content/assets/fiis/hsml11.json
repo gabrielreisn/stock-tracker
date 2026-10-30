@@ -1,0 +1,354 @@
+{
+  "ticker": "HSML11",
+  "slug": "hsml11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "HSML11: FII de shoppings, rendimentos e volatilidade",
+    "description": "HSML11 é um FII de tijolo focado em shoppings centers, com 8 shoppings em 5 estados.",
+    "h1": "HSML11: HSI Malls Fundo de Investimento Imobiliário",
+    "canonicalPath": "/fiis/hsml11",
+    "keywords": [
+      "HSML11",
+      "FII shoppings",
+      "HSI Malls FII",
+      "rendimentos HSML11",
+      "volatilidade HSML11",
+      "dividend yield HSML11",
+      "patrimônio HSML11",
+      "taxa administração HSML11"
+    ]
+  },
+  "summary": "HSML11 é a cota do HSI Malls Fundo de Investimento Imobiliário de Responsabilidade Limitada, um FII de tijolo focado em shoppings centers. O fundo possui 8 shoppings em 5 estados, com 97% de participação majoritária na área bruta locável (ABL). Em 09/2026, o patrimônio líquido era de R$ 2,11 bilhões e o valor patrimonial da cota de R$ 99,10. Nos 12 meses até 28/10/2026, distribuiu R$ 8,66 por cota, gerando um dividend yield de 11,06%.",
+  "profile": {
+    "type": "FII de tijolo, shoppings",
+    "issuerOrManager": "HSI Gestora de Fundos Imobiliários (gestora) / Santander Caceis Brasil DTVM S.A",
+    "name": "HSI Malls Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "HSI MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Shoppings",
+    "founded": "30/07/2019",
+    "administrator": "SANTANDER CACEIS BRASIL DTVM S.A.",
+    "website": "https://www.s3dtvm.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "HSI MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "32.892.018/0001-31",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Shoppings",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "SANTANDER CACEIS BRASIL DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "30/07/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 2,11 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "188.108",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 99,10",
+      "source": 1
+    },
+    {
+      "label": "Preço (28/10/2026)",
+      "value": "R$ 78,33",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "20,33% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,42",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,06%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 5,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HSML11",
+    "list": "fiis",
+    "asOf": "2026-10-28",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Hsi Malls Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 78.33,
+    "historyStarts": "2019-08-16",
+    "returns": {
+      "1y": 0.0071,
+      "3y": 0.1542,
+      "5y": 0.5887,
+      "10y": null
+    },
+    "volatility1y": 0.2033,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2503,
+      "from": "2024-07-30",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.42,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 8.66,
+      "payments12Months": 12,
+      "yield12Months": 0.1106,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.75
+      }
+    },
+    "avgDailyTradedValue3m": 5129786
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de 12 meses do HSML11 é de 20,33%, nível moderado, e o beta de 0,42 contra o Ibovespa indica que o fundo é menos sensível às variações do mercado acionário 0. A maior queda nos últimos 5 anos foi de -25,03%, do pico em 30/07/2024 ao ponto mais baixo em 19/12/2024 0. Esse nível de volatilidade é compatível com FIIs de tijolo, que tendem a ter menor volatilidade que ações, mas podem sofrer com ciclos econômicos e vacância. O [alertas de preço](/recursos/alertas-de-preco) pode ser usado para monitorar movimentos significativos no preço da cota."
+  },
+  "history": {
+    "overview": "O HSML11 iniciou suas atividades em 30/07/2019, com a primeira oferta pública de cotas encerrada em 31/07/2019 [1, 2]. Desde então, o fundo expandiu seu patrimônio por meio de seis ofertas públicas de cotas, a última encerrada em 20/08/2025 2. A estratégia do fundo é a aquisição de shoppings centers para locação, com gestão ativa da carteira pela HSI Gestora de Fundos Imobiliários 3. Em 2024, o fundo realizou a alienação de uma participação no Shopping Pátio Maceió, operação que foi concluída em 26/05/2026 com a transferência de 49% do ativo [4, 5]. Essa operação reflete a política de desinvestimento seletivo para otimizar o portfólio. O fundo é administrado pela Santander Caceis Brasil DTVM S.A. e possui prazo de duração indeterminado 1.",
+    "timeline": [
+      {
+        "date": "2019-07-29",
+        "event": "Início da primeira oferta pública de cotas do HSML11.",
+        "source": 2
+      },
+      {
+        "date": "2019-07-30",
+        "event": "Início das atividades do fundo.",
+        "source": 1
+      },
+      {
+        "date": "2019-07-31",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-10-21",
+        "event": "Início de nova oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-12-03",
+        "event": "Encerramento da oferta pública de cotas iniciada em outubro de 2019.",
+        "source": 2
+      },
+      {
+        "date": "2023-12-29",
+        "event": "Início e encerramento de oferta pública de cotas no mesmo dia.",
+        "source": 2
+      },
+      {
+        "date": "2024-02-06",
+        "event": "Encerramento de oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2024-07-02",
+        "event": "Encerramento da oferta pública de cotas iniciada em maio de 2024.",
+        "source": 2
+      },
+      {
+        "date": "2025-08-20",
+        "event": "Encerramento da oferta pública de cotas iniciada em julho de 2025.",
+        "source": 2
+      },
+      {
+        "date": "2026-04-30",
+        "event": "Assinatura de Memorando de Entendimentos para desinvestimento parcial de 49% do Shopping Pátio Maceió.",
+        "source": 5
+      },
+      {
+        "date": "2026-05-26",
+        "event": "Conclusão e liquidação da operação de desinvestimento parcial do Shopping Pátio Maceió.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do HSML11",
+      "body": "O HSML11 é um FII de tijolo com gestão ativa, focado no segmento de shoppings centers. O objetivo do fundo é a obtenção de renda e ganho de capital mediante investimento em imóveis ou direitos reais sobre imóveis prontos do segmento de Shopping Centers, através de aquisição para posterior locação, arrendamento, exploração do direito de superfície ou alienação 3. A gestora é a HSI – Gestora de Fundos Imobiliários, e o administrador é a S3 Caceis Brasil DTVM S.A. 3. Em 30/09/2026, o portfólio era composto por 8 shopping centers em 5 estados, com ABL Própria de 181,0 mil m² e valor de mercado de R$ 2.120.498.696 (R$ 99,41/cota) 3. O fundo possui posição majoritária em 97% de sua ABL total, com administração exclusiva da Alqia, empresa do Grupo HSI 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do HSML11",
+      "body": "Nos 12 meses até 28/10/2026, o HSML11 distribuiu R$ 8,66 por cota em 12 pagamentos, resultando em um dividend yield de 11,06% 0. O último pagamento foi de R$ 0,75 por cota em 01/10/2026 0. A tributação para pessoas físicas com menos de 10% das cotas e mais de 100 cotistas é de 0% sobre rendimentos e 20% sobre ganho de capital em eventual venda das cotas 3. Para pessoas jurídicas, a tributação é de 20% sobre rendimentos e 20% sobre ganho de capital 3. Investidores em regime de não-residência (INR) com menos de 10% das cotas e mais de 100 cotistas pagam 0% sobre rendimentos e 0% sobre ganho de capital; para INR pessoa jurídica, a alíquota é de 15% sobre rendimentos e 15% sobre ganho de capital 3."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O HSML11 realizou 6 ofertas públicas de cotas desde sua fundação, a primeira encerrada em 31/07/2019 e a última em 20/08/2025 2. Em 09/2026, o patrimônio líquido do fundo era de R$ 2,11 bilhões, com 188.108 cotistas e valor patrimonial da cota de R$ 99,10 1. O número de cotas emitidas era de 21.329.976 1. A taxa de administração no mês de 09/2026 foi de 0,076% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HSML11",
+      "body": "A rentabilidade total com proventos do HSML11 nos 12 meses até 28/10/2026 foi de 0,71%; nos 3 anos, 15,42%; e nos 5 anos, 58,87% 0. O volume médio negociado por dia nos últimos 3 meses foi de R$ 5,1 milhões 0. O desempenho do fundo pode ser comparado com o IFIX, índice de referência para FIIs, e com o CDI, que reflete a taxa de juros de curto prazo no Brasil."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HSML11",
+      "body": "Os riscos do HSML11 incluem a sensibilidade do setor de shoppings ao ciclo econômico, com desaceleração em setores mais sensíveis ao ciclo, apesar de estímulos fiscais e de crédito 3. A vacância e inadimplência podem impactar o desempenho, como observado no Pátio Maceió, que teve desempenho impactado por inadimplência mais elevada e menor volume de novas locações 3. A volatilidade anualizada de 12 meses do HSML11 é de 20,33%, nível moderado, e a maior queda nos últimos 5 anos foi de -25,03%, do pico em 30/07/2024 ao ponto mais baixo em 19/12/2024 0. O beta de 0,42 contra o Ibovespa indica menor sensibilidade ao mercado 0."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HSML11 paga dividendos?",
+      "answer": "Sim, o HSML11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram distribuídos R$ 8,66 por cota em 12 pagamentos, com dividend yield de 11,06% 0. O último pagamento foi de R$ 0,75 por cota em 01/10/2026 0. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas com menos de 10% das cotas e mais de 100 cotistas 3."
+    },
+    {
+      "question": "Qual a diferença entre HSML11 e outros FIIs de shoppings?",
+      "answer": "O HSML11 é um FII de tijolo com gestão ativa, focado em shoppings centers, com 8 shoppings em 5 estados e 97% de posição majoritária na ABL 3. Outros FIIs de shoppings, como [XPML11](/fiis/xpml11) e [VISC11](/fiis/visc11), também investem em shoppings, mas podem ter estratégias de gestão, portfólios e perfis de risco diferentes. A comparação entre FIIs pode ser feita no [comparador de fundos](/recursos/comparador-de-fundos)."
+    },
+    {
+      "question": "Qual a taxa de administração do HSML11?",
+      "answer": "A taxa de administração do HSML11 é de até 1,13% a.a. sobre o Valor de Mercado do Fundo, incluindo Taxa de Escrituração 3. A taxa de performance é de 20% do excedente ao Benchmark, que é 6,0% | IPCA (a.a.) 3. Em 09/2026, a taxa de administração no mês foi de 0,076% sobre o patrimônio 1."
+    },
+    {
+      "question": "O HSML11 é um FII de papel ou de tijolo?",
+      "answer": "O HSML11 é um FII de tijolo, focado em shoppings centers 3. O fundo investe em imóveis ou direitos reais sobre imóveis prontos do segmento de Shopping Centers, através de aquisição para posterior locação, arrendamento, exploração do direito de superfície ou alienação 3."
+    },
+    {
+      "question": "Qual o patrimônio do HSML11?",
+      "answer": "Em 09/2026, o patrimônio líquido do HSML11 era de R$ 2,11 bilhões, com 188.108 cotistas e valor patrimonial da cota de R$ 99,10 1. O número de cotas emitidas era de 21.329.976 1."
+    },
+    {
+      "question": "Como o HSML11 se comporta em relação ao Ibovespa?",
+      "answer": "O beta de 0,42 do HSML11 contra o Ibovespa indica que o fundo é menos sensível às variações do mercado acionário 0. A volatilidade anualizada de 12 meses é de 20,33%, nível moderado 0. A [comparação com índices](/recursos/comparacao-com-indices) permite visualizar o desempenho do HSML11 lado a lado com o Ibovespa, IFIX e CDI."
+    },
+    {
+      "question": "O HSML11 realizou ofertas públicas de cotas?",
+      "answer": "Sim, o HSML11 realizou 6 ofertas públicas de cotas desde sua fundação, a primeira encerrada em 31/07/2019 e a última em 20/08/2025 2. As ofertas públicas de cotas são uma forma de o fundo captar recursos e expandir seu patrimônio."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "rendimentos do HSML11 no StockBar",
+        "context": "Veja os rendimentos do HSML11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação do HSML11 com IFIX e CDI",
+        "context": "Compare a rentabilidade do HSML11 com o IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço do HSML11",
+        "context": "Receba uma notificação quando o HSML11 chegar ao preço que você escolheu, para monitorar movimentos significativos."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada com HSML11",
+        "context": "Veja o HSML11 junto com outras posições da sua carteira, com valor por classe, alocação e as maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA do StockBar",
+        "context": "Pergunte em português sobre a sua posição em HSML11 e os seus rendimentos; as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "Outro FII de shoppings, com estratégia de gestão ativa e foco em shoppings centers."
+      },
+      {
+        "ticker": "VISC11",
+        "list": "fiis",
+        "reason": "FII de shoppings, com portfólio de shoppings centers e gestão ativa."
+      },
+      {
+        "ticker": "HGBS11",
+        "list": "fiis",
+        "reason": "FII de shoppings, com foco em shoppings centers e gestão ativa."
+      },
+      {
+        "ticker": "PMLL11",
+        "list": "fiis",
+        "reason": "FII de shoppings, com portfólio de shoppings centers e gestão ativa."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda, com foco em renda imobiliária e gestão ativa."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HSML11",
+      "url": "https://finance.yahoo.com/quote/HSML11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do HSI - MALLS FII RESP. LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo HSML11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=32892018000131",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do HSML11, referência 09/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1345017",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HSML11, 26/05/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1204081",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HSML11, 30/04/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1177790",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 28/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

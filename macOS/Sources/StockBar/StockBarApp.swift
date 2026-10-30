@@ -34,7 +34,7 @@ struct StockBarApp: App {
         let chat = _chat.wrappedValue
         NotificationCenter.default.addObserver(forName: NSApplication.willTerminateNotification, object: nil, queue: .main) { _ in
             MainActor.assumeIsolated { chat.stop() }
-            local.shutdown()
+            MainActor.assumeIsolated { local.unload() }
         }
     }
 

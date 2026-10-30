@@ -1,0 +1,1012 @@
+{
+  "list": "fiis",
+  "title": "FIIs mais negociados",
+  "measure": "Average daily traded value (close × volume) over the last 3 months",
+  "currency": "BRL",
+  "source": "Yahoo Finance daily bars",
+  "generatedAt": "2026-10-30",
+  "candidates": 475,
+  "found": 231,
+  "assets": [
+    {
+      "rank": 1,
+      "ticker": "TRXF11",
+      "slug": "trxf11",
+      "name": "TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 37372859,
+      "lastPrice": 66.67
+    },
+    {
+      "rank": 2,
+      "ticker": "KNCR11",
+      "slug": "kncr11",
+      "name": "Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 25785582,
+      "lastPrice": 104.3
+    },
+    {
+      "rank": 3,
+      "ticker": "XPML11",
+      "slug": "xpml11",
+      "name": "Xp Malls Fundo Investimentos Imobiliarios",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 21961384,
+      "lastPrice": 95.98
+    },
+    {
+      "rank": 4,
+      "ticker": "BTLG11",
+      "slug": "btlg11",
+      "name": "BTG Pactual Logística Fundo de Investimento Imobiliário",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 21610381,
+      "lastPrice": 96.8
+    },
+    {
+      "rank": 5,
+      "ticker": "MXRF11",
+      "slug": "mxrf11",
+      "name": "Maxi Renda Fundo De Investimento Imobiliaro - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 21117909,
+      "lastPrice": 8.89
+    },
+    {
+      "rank": 6,
+      "ticker": "HGLG11",
+      "slug": "hglg11",
+      "name": "Cshg Logistica - Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 20530896,
+      "lastPrice": 147.04
+    },
+    {
+      "rank": 7,
+      "ticker": "GGRC11",
+      "slug": "ggrc11",
+      "name": "Ggr Covipe Renda Fundo Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 16640390,
+      "lastPrice": 8.41
+    },
+    {
+      "rank": 8,
+      "ticker": "KNIP11",
+      "slug": "knip11",
+      "name": "Kinea Indices Precos Fundo Investimento Imobiliario - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 10341187,
+      "lastPrice": 84.85
+    },
+    {
+      "rank": 9,
+      "ticker": "HGRU11",
+      "slug": "hgru11",
+      "name": "Patria Renda Urbana - Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 9081770,
+      "lastPrice": 112.75
+    },
+    {
+      "rank": 10,
+      "ticker": "TRXB11",
+      "slug": "trxb11",
+      "name": "Trx Real Estate II Fundo De Investimento Imobiliario - Fii",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 9049151,
+      "lastPrice": 192.16
+    },
+    {
+      "rank": 11,
+      "ticker": "XPLG11",
+      "slug": "xplg11",
+      "name": "Xp Log Fundo Investimento Imobiliario FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 8746119,
+      "lastPrice": 89.1
+    },
+    {
+      "rank": 12,
+      "ticker": "KNRI11",
+      "slug": "knri11",
+      "name": "Kinea Renda Imobiliária Fundo de Investimento Imobiliário",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 8024805,
+      "lastPrice": 149.17
+    },
+    {
+      "rank": 13,
+      "ticker": "BRCO11",
+      "slug": "brco11",
+      "name": "Bresco - Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 7838365,
+      "lastPrice": 103.33
+    },
+    {
+      "rank": 14,
+      "ticker": "VISC11",
+      "slug": "visc11",
+      "name": "Vinci Shopping Centers Fundo Investimento Imobiliario - Fii",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 7756688,
+      "lastPrice": 98.79
+    },
+    {
+      "rank": 15,
+      "ticker": "GARE11",
+      "slug": "gare11",
+      "name": "Guardian Logistica Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 7504826,
+      "lastPrice": 8.13
+    },
+    {
+      "rank": 16,
+      "ticker": "CPTS11",
+      "slug": "cpts11",
+      "name": "Capitania Securities II Fundo Investimento Imobiliario FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6930003,
+      "lastPrice": 6.89
+    },
+    {
+      "rank": 17,
+      "ticker": "SNEL11",
+      "slug": "snel11",
+      "name": "Fundo De Investimento Imobiliario Suno Energias Limpas",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6833038,
+      "lastPrice": 7.56
+    },
+    {
+      "rank": 18,
+      "ticker": "HGBS11",
+      "slug": "hgbs11",
+      "name": "HEDGE Brasil Shopping Fundo de Investimento Imobiliário",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6484608,
+      "lastPrice": 17.94
+    },
+    {
+      "rank": 19,
+      "ticker": "KNSC11",
+      "slug": "knsc11",
+      "name": "Kinea Securities Fundo De Investimento Imobiliario – Fii",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 5547469,
+      "lastPrice": 8.66
+    },
+    {
+      "rank": 20,
+      "ticker": "MCCI11",
+      "slug": "mcci11",
+      "name": "Fundo De Investimento Imobiliario Maua Capital Recebiveis Imobiliarios",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 5546704,
+      "lastPrice": 89.22
+    },
+    {
+      "rank": 21,
+      "ticker": "KNHF11",
+      "slug": "knhf11",
+      "name": "Kinea Hedge Fund Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 5356798,
+      "lastPrice": 89.3
+    },
+    {
+      "rank": 22,
+      "ticker": "KNUQ11",
+      "slug": "knuq11",
+      "name": "Kinea Unique Hy Cdi Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 5320557,
+      "lastPrice": 98.26
+    },
+    {
+      "rank": 23,
+      "ticker": "KNHY11",
+      "slug": "knhy11",
+      "name": "Kinea High Yield Cri Fundo Investimento Imobiliario FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 5219534,
+      "lastPrice": 92.5
+    },
+    {
+      "rank": 24,
+      "ticker": "HSML11",
+      "slug": "hsml11",
+      "name": "Hsi Malls Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 5188718,
+      "lastPrice": 77.57
+    },
+    {
+      "rank": 25,
+      "ticker": "PVBI11",
+      "slug": "pvbi11",
+      "name": "Fundo De Investimento ImobiliarRio Vbi Prime Properties",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4835370,
+      "lastPrice": 59.42
+    },
+    {
+      "rank": 26,
+      "ticker": "VGIR11",
+      "slug": "vgir11",
+      "name": "Valora Re III Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4754882,
+      "lastPrice": 8.81
+    },
+    {
+      "rank": 27,
+      "ticker": "LVBI11",
+      "slug": "lvbi11",
+      "name": "Fundo De Investimento Imobiliario - VBI Logistico - Cota Fund",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4520979,
+      "lastPrice": 94.85
+    },
+    {
+      "rank": 28,
+      "ticker": "RBRR11",
+      "slug": "rbrr11",
+      "name": "Fundo Investimento Imobiliario - FII RBR Rendimento High Grade",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4519484,
+      "lastPrice": 64.56
+    },
+    {
+      "rank": 29,
+      "ticker": "RBRY11",
+      "slug": "rbry11",
+      "name": "Fundo Investimeto Imobiliario Rbr Private Credito Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4292852,
+      "lastPrice": 79.3
+    },
+    {
+      "rank": 30,
+      "ticker": "BTHF11",
+      "slug": "bthf11",
+      "name": "Btg Pactual Real Estate Hedge Fund Fii Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4067142,
+      "lastPrice": 8.17
+    },
+    {
+      "rank": 31,
+      "ticker": "PMLL11",
+      "slug": "pmll11",
+      "name": "Patria Malls Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4021739,
+      "lastPrice": 99.19
+    },
+    {
+      "rank": 32,
+      "ticker": "TGAR11",
+      "slug": "tgar11",
+      "name": "Fundo Investimento Imobiliario TG Ativo Real",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4014726,
+      "lastPrice": 39.84
+    },
+    {
+      "rank": 33,
+      "ticker": "RZTR11",
+      "slug": "rztr11",
+      "name": "Fundo De Investimento Imobiliario Riza Terrax",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3902638,
+      "lastPrice": 72.56
+    },
+    {
+      "rank": 34,
+      "ticker": "JSRE11",
+      "slug": "jsre11",
+      "name": "JS Real Estate multigestão - FII fund",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3817552,
+      "lastPrice": 57.67
+    },
+    {
+      "rank": 35,
+      "ticker": "ALZR11",
+      "slug": "alzr11",
+      "name": "Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3678232,
+      "lastPrice": 9.56
+    },
+    {
+      "rank": 36,
+      "ticker": "ADSH11",
+      "slug": "adsh11",
+      "name": "Ad Shopping Fundo De Investimento Imobiliario Responsabilidade Limitada",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3640384,
+      "lastPrice": 10.4
+    },
+    {
+      "rank": 37,
+      "ticker": "MCRE11",
+      "slug": "mcre11",
+      "name": "Maua Capital Real Estate Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3585080,
+      "lastPrice": 7.21
+    },
+    {
+      "rank": 38,
+      "ticker": "RECR11",
+      "slug": "recr11",
+      "name": "Fundo Investimento Imobiliario Fii Ubs (Br) Recebveis Imobiliarios",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3475248,
+      "lastPrice": 69.73
+    },
+    {
+      "rank": 39,
+      "ticker": "BTRU11",
+      "slug": "btru11",
+      "name": "BTG Pactual Renda Urbana Fundo de Investimento Imobiliário",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3430466,
+      "lastPrice": 78.84
+    },
+    {
+      "rank": 40,
+      "ticker": "HGCR11",
+      "slug": "hgcr11",
+      "name": "CSHG Recebiveis Imobiliarios BC Fundo de Investimento Imobiliario - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3302867,
+      "lastPrice": 91.1
+    },
+    {
+      "rank": 41,
+      "ticker": "VCJR11",
+      "slug": "vcjr11",
+      "name": "Vectis Juros Real Fundo De Investimento Imobiliario - Fii",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3299358,
+      "lastPrice": 64.84
+    },
+    {
+      "rank": 42,
+      "ticker": "PCIP11",
+      "slug": "pcip11",
+      "name": "Fundo De Investimento Imobiliario VBI Credito",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3288413,
+      "lastPrice": 69.07
+    },
+    {
+      "rank": 43,
+      "ticker": "IRIM11",
+      "slug": "irim11",
+      "name": "Iridium Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3255992,
+      "lastPrice": 57.39
+    },
+    {
+      "rank": 44,
+      "ticker": "BTCI11",
+      "slug": "btci11",
+      "name": "Fundo Infestimento Imobiliario Btg Pactual Credito Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3177499,
+      "lastPrice": 8.25
+    },
+    {
+      "rank": 45,
+      "ticker": "VILG11",
+      "slug": "vilg11",
+      "name": "Vinci Logistica Fundo Investimento Imobiliario FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3120987,
+      "lastPrice": 86.56
+    },
+    {
+      "rank": 46,
+      "ticker": "CPSH11",
+      "slug": "cpsh11",
+      "name": "Capitania Shoppings Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2877963,
+      "lastPrice": 9.18
+    },
+    {
+      "rank": 47,
+      "ticker": "VGHF11",
+      "slug": "vghf11",
+      "name": "Valora Hedge Fund Fundo De Investimento Imobiliario - Fii",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2740837,
+      "lastPrice": 4.8
+    },
+    {
+      "rank": 48,
+      "ticker": "TEPP11",
+      "slug": "tepp11",
+      "name": "SDI Properties Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2633601,
+      "lastPrice": 6.97
+    },
+    {
+      "rank": 49,
+      "ticker": "HGRE11",
+      "slug": "hgre11",
+      "name": "CSHG Real Estate - Fundo de Investimento Imobiliario - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2479389,
+      "lastPrice": 113.1
+    },
+    {
+      "rank": 50,
+      "ticker": "RBRX11",
+      "slug": "rbrx11",
+      "name": "Rbr Alpha Plus Multiestrategia Real Estate Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2399625,
+      "lastPrice": 6.52
+    },
+    {
+      "rank": 51,
+      "ticker": "BRCR11",
+      "slug": "brcr11",
+      "name": "Fundo de Investimento Imobiliário - FII BTG Pactual Corporate Office Fund",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2280267,
+      "lastPrice": 39.35
+    },
+    {
+      "rank": 52,
+      "ticker": "KORE11",
+      "slug": "kore11",
+      "name": "Kinea Oportunidades Real Estate Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2162193,
+      "lastPrice": 62.46
+    },
+    {
+      "rank": 53,
+      "ticker": "PSEC11",
+      "slug": "psec11",
+      "name": "Patria Securities Fundo De Investimento Imobiliário - Responsabilidade Limitada",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2117663,
+      "lastPrice": 45.16
+    },
+    {
+      "rank": 54,
+      "ticker": "JSAF11",
+      "slug": "jsaf11",
+      "name": "Js Ativos Financeiros Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1979221,
+      "lastPrice": 6.63
+    },
+    {
+      "rank": 55,
+      "ticker": "RBVA11",
+      "slug": "rbva11",
+      "name": "Fundo Invest Imobiliario Agencias Caixa - FII Fund",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1904811,
+      "lastPrice": 8.07
+    },
+    {
+      "rank": 56,
+      "ticker": "VGIP11",
+      "slug": "vgip11",
+      "name": "Valora Cri Indice De Preco Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1875444,
+      "lastPrice": 67.96
+    },
+    {
+      "rank": 57,
+      "ticker": "HFOF11",
+      "slug": "hfof11",
+      "name": "Hedge Top Fofii 3 Fundo Investimento Imobilirio",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1782215,
+      "lastPrice": 6
+    },
+    {
+      "rank": 58,
+      "ticker": "FATN11",
+      "slug": "fatn11",
+      "name": "BRC Renda Corporativa FII - FII Athena I",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1765536,
+      "lastPrice": 78.2
+    },
+    {
+      "rank": 59,
+      "ticker": "VRTA11",
+      "slug": "vrta11",
+      "name": "Fator Veritá Fundo de Investimento Imobiliário - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1736359,
+      "lastPrice": 68.15
+    },
+    {
+      "rank": 60,
+      "ticker": "XPCI11",
+      "slug": "xpci11",
+      "name": "Xp Credito Imobiliario ae Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1690520,
+      "lastPrice": 75.15
+    },
+    {
+      "rank": 61,
+      "ticker": "CPUR11",
+      "slug": "cpur11",
+      "name": "Capitania HBC Renda Urbana Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1506825,
+      "lastPrice": 10.15
+    },
+    {
+      "rank": 62,
+      "ticker": "RBRP11",
+      "slug": "rbrp11",
+      "name": "Fundo Investimento Imobiliario Rbr Properties Fii",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1478322,
+      "lastPrice": 41.99
+    },
+    {
+      "rank": 63,
+      "ticker": "RZAK11",
+      "slug": "rzak11",
+      "name": "Riza Akin Fundo De Investimento Imobiliario – FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1359942,
+      "lastPrice": 73.77
+    },
+    {
+      "rank": 64,
+      "ticker": "HSLG11",
+      "slug": "hslg11",
+      "name": "Hsi Logistica Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1296096,
+      "lastPrice": 71.72
+    },
+    {
+      "rank": 65,
+      "ticker": "TVRI11",
+      "slug": "tvri11",
+      "name": "BB Progressivo II Fundo de Investimento Imobiliário - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1159872,
+      "lastPrice": 82.29
+    },
+    {
+      "rank": 66,
+      "ticker": "KFOF11",
+      "slug": "kfof11",
+      "name": "Kinea Fundo Fundos De Investimento Imobiliario FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1128795,
+      "lastPrice": 71.32
+    },
+    {
+      "rank": 67,
+      "ticker": "MANA11",
+      "slug": "mana11",
+      "name": "Manati Capital Hedge Fund Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1112119,
+      "lastPrice": 8.88
+    },
+    {
+      "rank": 68,
+      "ticker": "AIEC11",
+      "slug": "aiec11",
+      "name": "Autonomy Edifícios Corporativos Fundo de Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1101618,
+      "lastPrice": 65.4
+    },
+    {
+      "rank": 69,
+      "ticker": "ITRI11",
+      "slug": "itri11",
+      "name": "Itau Total Return Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1089512,
+      "lastPrice": 71.53
+    },
+    {
+      "rank": 70,
+      "ticker": "HABT11",
+      "slug": "habt11",
+      "name": "Habitat Ii - Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1063132,
+      "lastPrice": 62.01
+    },
+    {
+      "rank": 71,
+      "ticker": "RBRL11",
+      "slug": "rbrl11",
+      "name": "RBR Log FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1053731,
+      "lastPrice": 70.24
+    },
+    {
+      "rank": 72,
+      "ticker": "SHPP11",
+      "slug": "shpp11",
+      "name": "Shopping Patio Paulista Fundo De Investimento Imobiliario Responsabilidade Limitada",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1039678,
+      "lastPrice": 12.99
+    },
+    {
+      "rank": 73,
+      "ticker": "BBIG11",
+      "slug": "bbig11",
+      "name": "Bb Premium Malls Fundo De Investimento Imobiliário De Responsabilidade Limitada",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1024504,
+      "lastPrice": 4.93
+    },
+    {
+      "rank": 74,
+      "ticker": "GTWR11",
+      "slug": "gtwr11",
+      "name": "Fundo Investimento Imobiliario Green Towers",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 877994,
+      "lastPrice": 75.7
+    },
+    {
+      "rank": 75,
+      "ticker": "RCRB11",
+      "slug": "rcrb11",
+      "name": "Fundo de Investimento Imobiliário Rio Bravo Renda Corporativa",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 876754,
+      "lastPrice": 130.33
+    },
+    {
+      "rank": 76,
+      "ticker": "AFHI11",
+      "slug": "afhi11",
+      "name": "Af Invest Cri Fundo De Investimento Imobiliario - Recebiveis Imobiliarios",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 869001,
+      "lastPrice": 92.59
+    },
+    {
+      "rank": 77,
+      "ticker": "TRBL11",
+      "slug": "trbl11",
+      "name": "SDI Logística Rio - Fundo de Investimento Imobiliário - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 832838,
+      "lastPrice": 44.76
+    },
+    {
+      "rank": 78,
+      "ticker": "RPRI11",
+      "slug": "rpri11",
+      "name": "RBR Premium Recebiveis Imobiliarios Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 832090,
+      "lastPrice": 69.7
+    },
+    {
+      "rank": 79,
+      "ticker": "MCLO11",
+      "slug": "mclo11",
+      "name": "Maua Capital Logistica Fundo De Investimento Imobiliario Responsabilidade Limitada",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 826074,
+      "lastPrice": 10.45
+    },
+    {
+      "rank": 80,
+      "ticker": "MFII11",
+      "slug": "mfii11",
+      "name": "Mérito Desenvolvimento Imobiliário I FII - Fundo de Investimento Imobiliário",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 817639,
+      "lastPrice": 31.91
+    },
+    {
+      "rank": 81,
+      "ticker": "CLIN11",
+      "slug": "clin11",
+      "name": "Clave Indices De Precos Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 797900,
+      "lastPrice": 82.6
+    },
+    {
+      "rank": 82,
+      "ticker": "PORD11",
+      "slug": "pord11",
+      "name": "Polo Credito Imobiliario - Fundo de Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 715950,
+      "lastPrice": 8.25
+    },
+    {
+      "rank": 83,
+      "ticker": "CYCR11",
+      "slug": "cycr11",
+      "name": "Cyrela Credito - Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 683667,
+      "lastPrice": 8.33
+    },
+    {
+      "rank": 84,
+      "ticker": "XPSF11",
+      "slug": "xpsf11",
+      "name": "XP Selection Fundo De Fundos De Investimento Imobiliario - FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 659111,
+      "lastPrice": 6.07
+    },
+    {
+      "rank": 85,
+      "ticker": "ICRI11",
+      "slug": "icri11",
+      "name": "Itau Credito Imobiliario Ipca Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 652935,
+      "lastPrice": 84.81
+    },
+    {
+      "rank": 86,
+      "ticker": "TOPP11",
+      "slug": "topp11",
+      "name": "Rbr Top Offices Fundo De Investimento Imobiliario Responsabilidade Limitada",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 652344,
+      "lastPrice": 58.68
+    },
+    {
+      "rank": 87,
+      "ticker": "RZAT11",
+      "slug": "rzat11",
+      "name": "Riza Arctium Real Estate Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 650719,
+      "lastPrice": 77.89
+    },
+    {
+      "rank": 88,
+      "ticker": "IBBP11",
+      "slug": "ibbp11",
+      "name": "Invista Brazilian Business Park Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 639288,
+      "lastPrice": 8
+    },
+    {
+      "rank": 89,
+      "ticker": "TJKB11",
+      "slug": "tjkb11",
+      "name": "Tjk Renda Imobiliaria Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 633492,
+      "lastPrice": 247
+    },
+    {
+      "rank": 90,
+      "ticker": "BPML11",
+      "slug": "bpml11",
+      "name": "Fundo De Investimento Imobiliario BTG Pactual Shoppings",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 622576,
+      "lastPrice": 83.22
+    },
+    {
+      "rank": 91,
+      "ticker": "RINV11",
+      "slug": "rinv11",
+      "name": "Real Investor Fundo De Investimento Imobiliario Responsabilidade Limitada",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 593930,
+      "lastPrice": 101.1
+    },
+    {
+      "rank": 92,
+      "ticker": "OUJP11",
+      "slug": "oujp11",
+      "name": "Ourinvest Jpp Fundo Investimento Imobiliario - Fii",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 585519,
+      "lastPrice": 65.25
+    },
+    {
+      "rank": 93,
+      "ticker": "AZPL11",
+      "slug": "azpl11",
+      "name": "Az Quest Panorama Logistica Fundo De Investimento Imobiliario Renda",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 579136,
+      "lastPrice": 7.24
+    },
+    {
+      "rank": 94,
+      "ticker": "PQAG11",
+      "slug": "pqag11",
+      "name": "Rb Capital Anhanguera Fundo De Investimento Imobiliario",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 577610,
+      "lastPrice": 52.94
+    },
+    {
+      "rank": 95,
+      "ticker": "HCTR11",
+      "slug": "hctr11",
+      "name": "Fundo De Investimento Imobiliario Hectare Ce",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 574426,
+      "lastPrice": 11.59
+    },
+    {
+      "rank": 96,
+      "ticker": "BTAL11",
+      "slug": "btal11",
+      "name": "FII Btg Pactual Agro Logistica",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 573153,
+      "lastPrice": 79.1
+    },
+    {
+      "rank": 97,
+      "ticker": "LIFE11",
+      "slug": "life11",
+      "name": "Life Capital Partners Fundo De Investimentos Imobiliarios",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 516208,
+      "lastPrice": 6.95
+    },
+    {
+      "rank": 98,
+      "ticker": "GSFI11",
+      "slug": "gsfi11",
+      "name": "General Shopping E Outlets Do Brasil Fundo De Investimento Imobiliario FII",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 485697,
+      "lastPrice": 11.75
+    },
+    {
+      "rank": 99,
+      "ticker": "SPXS11",
+      "slug": "spxs11",
+      "name": "Fundo De Investimento Imobiliario - Spx Syn Multiestrategia",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 477998,
+      "lastPrice": 7.05
+    },
+    {
+      "rank": 100,
+      "ticker": "HSAF11",
+      "slug": "hsaf11",
+      "name": "Hsi Ativos Financeiros Fundos Investimentos Imoliarios",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 461637,
+      "lastPrice": 71.79
+    }
+  ]
+}

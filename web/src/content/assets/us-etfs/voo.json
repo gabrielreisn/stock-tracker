@@ -1,0 +1,259 @@
+{
+  "ticker": "VOO",
+  "slug": "voo",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "VOO: história, dividendos e volatilidade",
+    "description": "VOO é o Vanguard S&P 500 ETF. Veja a história, o desempenho, os dividendos e a volatilidade do maior ETF do mundo em ativos sob gestão.",
+    "h1": "VOO: Vanguard S&P 500 ETF",
+    "canonicalPath": "/etfs/voo",
+    "keywords": [
+      "VOO",
+      "Vanguard S&P 500 ETF",
+      "ETF S&P 500",
+      "VOO dividendos",
+      "VOO volatilidade",
+      "VOO rentabilidade"
+    ]
+  },
+  "summary": "VOO é o Vanguard S&P 500 ETF, um fundo de índice que busca replicar a performance do índice S&P 500. Em 29/10/2026, sua cota valia US$ 707,32, com rentabilidade total de 13,22% nos últimos 12 meses. O fundo distribui proventos e possui volatilidade anualizada de 12,65%, considerada baixa para o mercado acionário americano.",
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "S&P 500",
+    "name": "Vanguard S&P 500 ETF",
+    "founded": "22/01/1993"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard S&P 500 ETF",
+      "source": 0
+    },
+    {
+      "label": "Lançamento",
+      "value": "22/01/1993",
+      "source": 1
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 707,32",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "12,65% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,99",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,05%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 4,99 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VOO",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard S&P 500 ETF",
+    "currency": "USD",
+    "price": 707.32,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1322,
+      "3y": 0.9241,
+      "5y": 0.7972,
+      "10y": 3.2681
+    },
+    "volatility1y": 0.1265,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2452,
+      "from": "2022-01-03",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 0.99,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 7.428,
+      "payments12Months": 4,
+      "yield12Months": 0.0105,
+      "lastPayment": {
+        "date": "2026-09-28",
+        "amount": 1.823
+      }
+    },
+    "avgDailyTradedValue3m": 4994933036
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do VOO nos últimos 12 meses é de 12,65%, considerada baixa para o mercado acionário americano. O beta do VOO contra o S&P 500 é de 0,99, o que indica que o fundo se move de forma muito próxima ao índice. A maior queda nos últimos 5 anos foi de -24,52%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Para quem acompanha o VOO, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no StockBar para ser notificado quando a cota atingir um nível específico."
+  },
+  "history": {
+    "overview": "O mercado de ETFs nos Estados Unidos nasceu em 22 de janeiro de 1993, com a criação do SPDR S&P 500 ETF Trust ([SPY](/etfs/spy)), o primeiro ETF listado no país. A iniciativa foi uma colaboração entre a American Stock Exchange (AMEX) e a State Street para criar um ativo que rastreasse o S&P 500. A estrutura do SPY é de um fundo de investimento em cotas (unit investment trust), o que significa que não possui gestor de portfólio ou conselho de administração tradicional, mas sim um trustee e um sponsor. Em fevereiro de 2025, o VOO, da Vanguard, superou o SPY e se tornou o maior ETF do mundo em termos de ativos sob gestão. A trajetória do VOO reflete a consolidação do investimento passivo nos Estados Unidos, com o crescimento do mercado de ETFs de baixo custo.",
+    "timeline": [
+      {
+        "date": "1993-01-22",
+        "event": "Fundação do SPDR S&P 500 ETF Trust (SPY), o primeiro ETF dos Estados Unidos.",
+        "source": 1
+      },
+      {
+        "date": "2024-02",
+        "event": "SPY se torna o primeiro ETF a atingir US$ 500 bilhões em ativos sob gestão.",
+        "source": 2
+      },
+      {
+        "date": "2024-10",
+        "event": "SPY se torna o primeiro ETF a ultrapassar US$ 600 bilhões em ativos.",
+        "source": 2
+      },
+      {
+        "date": "2025-02",
+        "event": "VOO supera o SPY e se torna o maior ETF do mundo por ativos sob gestão.",
+        "source": 2
+      },
+      {
+        "date": "2026-01-26",
+        "event": "O SPY passa a ser chamado de State Street SPDR S&P 500 ETF Trust.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VOO funciona",
+      "body": "VOO é um ETF que busca replicar a performance do índice S&P 500, antes das despesas. A Vanguard é a gestora do fundo. O VOO não é um ETF alavancado ou inverso, portanto não há rebalanceamento diário para multiplicar ou inverter o retorno do índice. O fundo opera com a estrutura típica de um ETF, com cotas negociadas em bolsa."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VOO",
+      "body": "O VOO segue o índice S&P 500, que é composto por 500 das maiores empresas dos Estados Unidos em termos de capitalização de mercado. As fontes não detalham a composição exata do VOO, mas o índice S&P 500 é amplamente conhecido por incluir empresas de diversos setores, como tecnologia, saúde, finanças e consumo."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VOO a partir do Brasil",
+      "body": "Para investir no VOO a partir do Brasil, o investidor precisa abrir uma conta em uma corretora que opere no mercado americano. O VOO é cotado em dólar, portanto o investidor está exposto ao risco cambial, ou seja, variações no câmbio entre o real e o dólar afetam o retorno em reais. Alternativamente, é possível investir em ETFs ou BDRs listados na B3 que seguem o mesmo índice S&P 500, o que evita a exposição direta ao dólar, mas pode envolver custos adicionais."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VOO",
+      "body": "Em 29/10/2026, a cota do VOO valia US$ 707,32. A rentabilidade total com proventos foi de 13,22% nos 12 meses, 92,41% em 3 anos, 79,72% em 5 anos e 326,81% em 10 anos. O fundo distribuiu US$ 7,4280 por cota em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 1,05%. O último pagamento foi de US$ 1,8230 em 28/09/2026. A comparação com o S&P 500 pode ser feita no [comparação com índices](/recursos/comparacao-com-indices) do StockBar."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VOO",
+      "body": "O principal risco do VOO é o risco de mercado, ou seja, a volatilidade do índice S&P 500. A volatilidade anualizada do VOO nos últimos 12 meses é de 12,65%, considerada baixa. O beta do VOO contra o S&P 500 é de 0,99, o que indica que o fundo se move de forma muito próxima ao índice. A maior queda nos últimos 5 anos foi de -24,52%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. O risco cambial é outro fator para investidores brasileiros, pois o VOO é cotado em dólar."
+    },
+    {
+      "id": "acompanhe-no-stockbar",
+      "heading": "Como acompanhar VOO no StockBar",
+      "body": "O [StockBar](/download) é um app de Mac para acompanhar investimentos. Para quem tem VOO na carteira:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do VOO lado a lado com o S&P 500, no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure um alerta para ser notificado quando a cota do VOO atingir um nível específico.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o VOO junto com seus outros ativos, com valor por classe e alocação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VOO paga dividendos?",
+      "answer": "Sim, o VOO distribui proventos. Nos 12 meses até 29/10/2026, foram distribuídos US$ 7,4280 por cota em 4 pagamentos, com dividend yield de 1,05%. O último pagamento foi de US$ 1,8230 em 28/09/2026."
+    },
+    {
+      "question": "Qual a diferença entre VOO e SPY?",
+      "answer": "VOO e SPY são ambos ETFs que seguem o índice S&P 500. O SPY foi o primeiro ETF dos Estados Unidos, lançado em 1993, e é estruturado como um unit investment trust. O VOO, da Vanguard, superou o SPY em ativos sob gestão em fevereiro de 2025. Ambos buscam replicar a performance do S&P 500, mas podem ter diferenças em custos e estrutura."
+    },
+    {
+      "question": "VOO é um ETF alavancado?",
+      "answer": "Não, o VOO não é um ETF alavancado. Ele busca replicar a performance do índice S&P 500, sem multiplicar ou inverter o retorno do índice."
+    },
+    {
+      "question": "Qual a rentabilidade do VOO nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos do VOO nos 12 meses até 29/10/2026 foi de 13,22%."
+    },
+    {
+      "question": "Como investir no VOO a partir do Brasil?",
+      "answer": "Para investir no VOO a partir do Brasil, o investidor precisa abrir uma conta em uma corretora que opere no mercado americano. O VOO é cotado em dólar, portanto o investidor está exposto ao risco cambial. Alternativamente, é possível investir em ETFs ou BDRs listados na B3 que seguem o mesmo índice S&P 500."
+    },
+    {
+      "question": "Qual a volatilidade do VOO?",
+      "answer": "A volatilidade anualizada do VOO nos últimos 12 meses é de 12,65%, considerada baixa para o mercado acionário americano."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do VOO lado a lado com o S&P 500, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure um alerta para ser notificado quando a cota do VOO atingir um nível específico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VOO junto com seus outros ativos, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "SPY é o primeiro ETF dos Estados Unidos e também segue o índice S&P 500."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "IVV é outro ETF que segue o índice S&P 500, emitido pela iShares."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "QQQ é um ETF que segue o índice Nasdaq-100, com maior peso em tecnologia."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VOO",
+      "url": "https://finance.yahoo.com/quote/VOO/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: SPDR S&P 500 Trust ETF",
+      "url": "https://www.wikidata.org/wiki/Q17082716",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR S&P 500 ETF Trust",
+      "url": "https://en.wikipedia.org/wiki/SPDR_S%26P_500_ETF_Trust",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,341 @@
+{
+  "ticker": "PETR4",
+  "slug": "petr4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "seo": {
+    "title": "PETR4: história, dividendos e volatilidade",
+    "description": "Conheça a PETR4, ação preferencial da Petrobras, com dividend yield de 7,02% e volatilidade de 29,98%. Veja história, desempenho e riscos.",
+    "h1": "PETR4: Ação Preferencial da Petrobras",
+    "canonicalPath": "/acoes/petr4",
+    "keywords": [
+      "PETR4",
+      "Petrobras",
+      "dividendos",
+      "volatilidade",
+      "ação preferencial",
+      "petróleo",
+      "B3",
+      "estatal"
+    ]
+  },
+  "summary": "PETR4 é a ação preferencial da Petróleo Brasileiro S.A. (Petrobras), empresa estatal de economia mista com sede no Rio de Janeiro, que atua na exploração, produção, refino, comercialização e transporte de petróleo, gás natural e derivados. Listada na B3 desde 1977, a companhia opera em seis países e possui produção diária superior a 3 milhões de barris. Em 29/10/2026, o preço da ação era de R$ 52,20, com dividend yield de 7,02% nos últimos 12 meses.",
+  "profile": {
+    "name": "Petrobras",
+    "legalName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+    "type": "Ação preferencial (PN)",
+    "sector": "Petróleo, Gás e Biocombustíveis",
+    "segment": "Exploração, Refino e Distribuição",
+    "founded": "03/10/1953",
+    "listedSince": "20/07/1977",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://www.petrobras.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "33.000.167/0001-01",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Petróleo, Gás e Biocombustíveis / Exploração, Refino e Distribuição",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 2",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estatal holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "03/10/1953",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "20/07/1977",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "PETR3, PETR4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 52,20",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "29,98% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,53",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,02%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PETR4",
+    "list": "br-stocks",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Petróleo Brasileiro S.A. - Petrobras",
+    "currency": "BRL",
+    "price": 52.2,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.9077,
+      "3y": 1.2443,
+      "5y": 5.5014,
+      "10y": 10.7792
+    },
+    "volatility1y": 0.2998,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.391,
+      "from": "2022-10-21",
+      "to": "2022-12-14"
+    },
+    "beta1y": {
+      "value": 0.53,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 3.6643,
+      "payments12Months": 4,
+      "yield12Months": 0.0702,
+      "lastPayment": {
+        "date": "2026-08-24",
+        "amount": 1.348143
+      }
+    },
+    "avgDailyTradedValue3m": 2364539690
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de PETR4 nos últimos 12 meses é de 29,98%, classificada como alta. O beta de 0,53 indica que a ação é menos volátil que o Ibovespa, mas a maior queda em 5 anos foi de -39,10%, do pico em 21/10/2022 ao ponto mais baixo em 14/12/2022. Esses números mostram que, apesar de um beta menor, a ação ainda apresenta riscos significativos, típicos do setor de petróleo e gás."
+  },
+  "history": {
+    "overview": "A Petróleo Brasileiro S.A. (Petrobras) foi instituída em 3 de outubro de 1953, pela Lei nº 2.004, sancionada pelo presidente Getúlio Vargas, estabelecendo o monopólio estatal do petróleo no Brasil. A empresa iniciou suas operações com o patrimônio recebido do Conselho Nacional do Petróleo, incluindo a Refinaria de Mataripe e a Refinaria de Cubatão. Durante décadas, a Petrobras liderou a comercialização de derivados no país, expandindo sua infraestrutura com a construção de refinarias, oleodutos e gasodutos, especialmente durante o período da Ditadura Militar.\n\nEm 1977, a empresa passou a ser uma companhia aberta, com início da cotação das ações na B3 em 20 de julho. A Petrobras tornou-se uma das maiores empresas de energia do mundo, destacando-se pela tecnologia em águas profundas. Em 2010, realizou a maior capitalização em capital aberto da história, com 72,8 bilhões de dólares. No entanto, em 2014, a empresa registrou um prejuízo de 21,587 bilhões de reais, o maior desde 1986, impactado por questões de corrupção entre 2004 e 2012.\n\nAtualmente, a Petrobras opera em seis países e mantém uma visão de diversificação em negócios de baixo carbono, incluindo petroquímicos, fertilizantes e biocombustíveis. A empresa é controlada pelo Governo do Brasil, sendo uma estatal de economia mista, e continua a ser uma das maiores petrolíferas de capital aberto do mundo, com foco em sustentabilidade e geração de valor.",
+    "timeline": [
+      {
+        "date": "1953-10-03",
+        "event": "Constituição da companhia pela Lei nº 2.004",
+        "source": 2
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Início da cotação das ações na B3 e registro como companhia aberta na CVM",
+        "source": 1
+      },
+      {
+        "date": "2026-05-11",
+        "event": "Petrobras informa sobre remuneração aos acionistas",
+        "source": 12
+      },
+      {
+        "date": "2026-07-28",
+        "event": "Relatório de Produção e Vendas 2T26",
+        "source": 9
+      },
+      {
+        "date": "2026-10-13",
+        "event": "Petrobras assina acordos de equalizações referentes às Jazidas Compartilhadas de Berbigão e Sururu",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Petrobras ganha dinheiro",
+      "body": "A Petróleo Brasileiro S.A. (Petrobras) atua na pesquisa, lavra, refinação, processamento, comércio e transporte de petróleo, seus derivados, gás natural e outros hidrocarbonetos fluidos. A empresa opera em seis países e possui uma produção diária superior a 3 milhões de barris. A receita vem da exploração e produção de petróleo e gás, refino, comercialização de derivados e atividades vinculadas à energia. A Petrobras é líder mundial no desenvolvimento de tecnologia para exploração em águas profundas e ultraprofundas."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Petrobras",
+      "body": "A Petrobras é uma empresa estatal de economia mista, com controle acionário do Governo do Brasil (União). As ações são negociadas na B3 sob os códigos [PETR3](/acoes/petr3) (ordinárias) e PETR4 (preferenciais). As ações preferenciais têm prioridade no recebimento de dividendos, mas não têm direito a voto em assembleias, exceto em situações específicas. A empresa está listada no Nível 2 de governança corporativa da B3."
+    },
+    {
+      "id": "proventos",
+      "heading": "PETR4 paga dividendos?",
+      "body": "PETR4 pagou R$ 3,6643 por ação em 4 pagamentos nos 12 meses até 29/10/2026, resultando em um dividend yield de 7,02%. O último pagamento foi de R$ 1,3481 em 24/08/2026. A empresa informa sobre remuneração aos acionistas em fatos relevantes, como os de 11/05/2026 e 06/08/2026. No StockBar, é possível acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da PETR4",
+      "body": "A rentabilidade total de PETR4 com proventos foi de 90,77% em 12 meses, 124,43% em 3 anos, 550,14% em 5 anos e 1.077,92% em 10 anos, até 29/10/2026. Esses números refletem o desempenho histórico da ação, que pode ser comparado com índices como o Ibovespa e o CDI no recurso de [comparação com índices](/recursos/comparacao-com-indices) do StockBar."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da PETR4",
+      "body": "A volatilidade anualizada de PETR4 nos últimos 12 meses é de 29,98%, classificada como alta. A maior queda em 5 anos foi de -39,10%, do pico em 21/10/2022 ao ponto mais baixo em 14/12/2022. Riscos do setor incluem flutuações no preço do petróleo, mudanças regulatórias e questões ambientais. O beta de 0,53 indica menor sensibilidade ao Ibovespa, mas a volatilidade ainda é significativa. No StockBar, é possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos da ação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PETR4 paga dividendos?",
+      "answer": "Sim, PETR4 pagou R$ 3,6643 por ação em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 7,02%. O último pagamento foi de R$ 1,3481 em 24/08/2026. A empresa informa sobre remuneração aos acionistas em fatos relevantes."
+    },
+    {
+      "question": "Qual a diferença entre PETR3 e PETR4?",
+      "answer": "PETR3 é a ação ordinária, com direito a voto em assembleias, enquanto PETR4 é a ação preferencial, com prioridade no recebimento de dividendos, mas sem direito a voto, exceto em situações específicas. Ambas são negociadas na B3."
+    },
+    {
+      "question": "PETR4 é uma ação de empresa estatal?",
+      "answer": "Sim, a Petrobras é uma empresa estatal de economia mista, com controle acionário do Governo do Brasil (União). A empresa é listada na B3 e opera em seis países."
+    },
+    {
+      "question": "Qual o setor da Petrobras?",
+      "answer": "A Petrobras atua no setor de Petróleo, Gás e Biocombustíveis, com foco em exploração, refino e distribuição. A empresa opera em seis países e possui produção diária superior a 3 milhões de barris."
+    },
+    {
+      "question": "PETR4 tem alta volatilidade?",
+      "answer": "Sim, a volatilidade anualizada de PETR4 nos últimos 12 meses é de 29,98%, classificada como alta. A maior queda em 5 anos foi de -39,10%, do pico em 21/10/2022 ao ponto mais baixo em 14/12/2022."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no StockBar",
+        "context": "Veja os dividendos e JCP da PETR4 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da PETR4 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando a PETR4 atingir um preço específico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a PETR4 junto com outros ativos na sua carteira, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária da mesma empresa, com direito a voto."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Outra empresa estatal brasileira, atuante no setor de mineração."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF do setor de energia nos EUA, para comparação internacional."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF que acompanha o mercado brasileiro, incluindo a Petrobras."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PETR4",
+      "url": "https://finance.yahoo.com/quote/PETR4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: PETROBRAS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/9512/PETR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Petrobras",
+      "url": "https://www.wikidata.org/wiki/Q210047",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Petrobras",
+      "url": "https://pt.wikipedia.org/wiki/Petrobras",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/10/2026, “Petrobras assina acordos de equalizações referentes às Jazidas Compartilhadas de Berbigão e Sururu”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1576827&numSequencia=1101533&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/10/2026, “Petrobras informa sobre resultado de leilão da ANP”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1575304&numSequencia=1100010&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/09/2026, “Petrobras informa sobre adesão à nova subvenção econômica”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569745&numSequencia=1094451&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/08/2026, “Petrobras informa sobre remuneração aos acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1553780&numSequencia=1078486&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/07/2026, “Relatório de Produção e Vendas 2T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550775&numSequencia=1075481&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/06/2026, “Petrobras informa sobre adesão à nova subvenção econômica”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1529607&numSequencia=1054313&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/05/2026, “Petrobras informa sobre adesão à nova subvenção econômica”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525282&numSequencia=1049988&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/05/2026, “Petrobras informa sobre remuneração aos acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1520177&numSequencia=1044883&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}
