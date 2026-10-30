@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "RBRR11: FII Patria Rendimento High Grade, liquidação e",
     "description": "RBRR11 é FII de papel da Patria, com 14,92% de dividend yield em 12 meses. Saiba sobre a liquidação aprovada em 26/10/2026, patrimônio de R$ 1,52 bi e",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "RBRR11 é a cota do Fundo de Investimento Imobiliário - FII Patria Rendimento High Grade Responsabilidade Limitada, um fundo de papel com gestão ativa e estratégia multicategoria. O fundo investe em CRIs, letras de crédito imobiliário e outros ativos do setor. Em 09/2026, o patrimônio líquido era de R$ 1,52 bilhão, com 136.486 cotistas e valor patrimonial de R$ 93,24 por cota. Em 28/10/2026, a cota negociava a R$ 66,09, com dividend yield de 14,92% nos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário - FII Patria Rendimento High Grade Responsabilidade Limitada",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII PATRIA RENDIMENTO HIGH GRADE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RBRR11",
+    "isin": "BRRBRRCTF008",
+    "taxId": "29.467.977/0001-03",
+    "foundingDate": "2018-05-02",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=29467977000103"
+    ]
+  },
   "profile": {
     "type": "FII de papel (multicategoria, gestão ativa)",
     "issuerOrManager": "Patria Gestão de Recursos Ltda",
@@ -143,7 +160,7 @@
   },
   "volatility": {
     "level": "moderada",
-    "explanation": "A volatilidade anualizada de 12 meses do RBRR11 é de 17,27%, nível moderado. O beta de 0,31 contra o Ibovespa mostra que o fundo tende a oscilar menos que o índice. A maior queda em 5 anos foi de -20,21%, entre 27/02/2026 e 28/10/2026, período que coincide com a reorganização e a aprovação da venda dos ativos ao PCIP11. Para fundos de papel com gestão ativa, essa volatilidade é compatível com o perfil de crédito imobiliário indexado a índices de preços, mas o evento de consolidação adiciona risco de liquidez e de execução da operação. O [recurso de desempenho e preço médio](/recursos/desempenho-e-preco-medio) do StockBar permite visualizar a trajetória de preço e a rentabilidade em qualquer período."
+    "explanation": "A volatilidade anualizada de 12 meses do RBRR11 é de 17,27%, nível moderado. O beta de 0,31 contra o Ibovespa mostra que o fundo tende a oscilar menos que o índice. A maior queda em 5 anos foi de -20,21%, entre 27/02/2026 e 28/10/2026, período que coincide com a reorganização e a aprovação da venda dos ativos ao PCIP11. Para fundos de papel com gestão ativa, essa volatilidade é compatível com o perfil de crédito imobiliário indexado a índices de preços, mas o evento de consolidação adiciona risco de liquidez e de execução da operação. O [recurso de desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app permite visualizar a trajetória de preço e a rentabilidade em qualquer período."
   },
   "history": {
     "overview": "O RBRR11 iniciou suas atividades em 02/05/2018, com a primeira oferta pública encerrada no dia seguinte. A gestora Patria Real Estate e o administrador BTG Pactual estruturaram o fundo para operar de forma ativa no segmento multicategoria, buscando valorização e renda por meio de uma carteira diversificada de ativos de crédito imobiliário e participações em outros fundos. Desde a fundação, o RBRR11 realizou 8 ofertas públicas de cotas, a última encerrada em 07/11/2025, o que ajudou a expandir a base de investidores para 136.486 cotistas em 09/2026. O fundo sempre teve como foco a geração de proventos, com pagamentos regulares que resultaram em um dividend yield de 14,92% nos 12 meses até 28/10/2026. Em 21/08/2026, a gestora anunciou uma reorganização estratégica: a venda da totalidade dos ativos do RBRR11 para o PCIP11, seguida da liquidação do fundo e migração dos cotistas para o PCIP11. A proposta foi aprovada em 26/10/2026, e o bloqueio das cotas na B3 está previsto para o encerramento do pregão de 05/11/2026.",
@@ -229,7 +246,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do RBRR11",
-      "body": "Nos 12 meses até 28/10/2026, o RBRR11 distribuiu R$ 9,8600 por cota em 12 pagamentos, o que resulta em um dividend yield de 14,92%. O último provento foi de R$ 0,7300, pago em 13/10/2026. O informe mensal da CVM de 09/2026 indica dividend yield de 0,00% para aquele mês, o que pode refletir o período entre pagamentos ou a fase de reorganização. O [recurso de proventos](/recursos/proventos) do StockBar permite acompanhar a data de pagamento e a data com de cada distribuição, multiplicada pela quantidade de cotas na carteira."
+      "body": "Nos 12 meses até 28/10/2026, o RBRR11 distribuiu R$ 9,8600 por cota em 12 pagamentos, o que resulta em um dividend yield de 14,92%. O último provento foi de R$ 0,7300, pago em 13/10/2026. O informe mensal da CVM de 09/2026 indica dividend yield de 0,00% para aquele mês, o que pode refletir o período entre pagamentos ou a fase de reorganização. O [recurso de proventos](/recursos/proventos) do app permite acompanhar a data de pagamento e a data com de cada distribuição, multiplicada pela quantidade de cotas na carteira."
     },
     {
       "id": "emissoes",
@@ -239,7 +256,7 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do RBRR11",
-      "body": "A rentabilidade total com proventos do RBRR11 nos 12 meses até 28/10/2026 foi de -12,13%. Nos 3 anos, o retorno foi de 6,72%, e nos 5 anos, de 18,33%. Esses números incluem os proventos recebidos. Para comparar com o IFIX, o CDI ou outros índices, o [recurso de comparação com índices](/recursos/comparacao-com-indices) do StockBar mostra a rentabilidade do fundo lado a lado com os principais benchmarks no mesmo gráfico."
+      "body": "A rentabilidade total com proventos do RBRR11 nos 12 meses até 28/10/2026 foi de -12,13%. Nos 3 anos, o retorno foi de 6,72%, e nos 5 anos, de 18,33%. Esses números incluem os proventos recebidos. Para comparar com o IFIX, o CDI ou outros índices, o [recurso de comparação com índices](/recursos/comparacao-com-indices) do app mostra a rentabilidade do fundo lado a lado com os principais benchmarks no mesmo gráfico."
     },
     {
       "id": "riscos",
@@ -254,7 +271,7 @@
     },
     {
       "question": "Qual o dividend yield do RBRR11?",
-      "answer": "Nos 12 meses até 28/10/2026, o RBRR11 distribuiu R$ 9,8600 por cota, o que resulta em dividend yield de 14,92%. O último pagamento foi de R$ 0,7300 em 13/10/2026. O [recurso de proventos](/recursos/proventos) do StockBar mostra a data de pagamento e a data com de cada distribuição."
+      "answer": "Nos 12 meses até 28/10/2026, o RBRR11 distribuiu R$ 9,8600 por cota, o que resulta em dividend yield de 14,92%. O último pagamento foi de R$ 0,7300 em 13/10/2026. O [recurso de proventos](/recursos/proventos) do app mostra a data de pagamento e a data com de cada distribuição."
     },
     {
       "question": "O RBRR11 é fundo de papel ou de tijolo?",
@@ -277,7 +294,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "proventos do RBRR11 no StockBar",
+        "anchor": "proventos do RBRR11 no app",
         "context": "Veja os 12 pagamentos de R$ 9,8600 por cota nos 12 meses até 28/10/2026, com data de pagamento e data com, multiplicados pela sua quantidade de cotas."
       },
       {
@@ -297,7 +314,7 @@
       },
       {
         "feature": "assistente-de-ia",
-        "anchor": "assistente de IA do StockBar",
+        "anchor": "assistente de IA do app",
         "context": "Pergunte em português sobre a sua posição no RBRR11, a rentabilidade acumulada ou o impacto da liquidação na sua carteira, e o assistente responde com base nos seus próprios dados."
       }
     ],

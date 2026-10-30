@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "KNCR11: FII de papel, dividendos e volatilidade",
     "description": "KNCR11 é um FII de papel com 99% em CRI, dividend yield de 13,30% e patrimônio de R$ 11 bilhões.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "KNCR11 é a cota do Kinea Rendimentos Imobiliários, um fundo imobiliário de papel que investe predominantemente em Certificados de Recebíveis Imobiliários (CRI). Com patrimônio de R$ 10,98 bilhões em 09/2026, o fundo prioriza ativos pós-fixados e de baixo risco de crédito. Nos 12 meses até 28/10/2026, a rentabilidade total foi de 12,53%, com dividend yield de 13,30% e volatilidade anualizada de 7,07%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Kinea Rendimentos Imobiliários Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "KINEA RENDIMENTOS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF KNCR11",
+    "isin": "BRKNCRCTF000",
+    "taxId": "16.706.958/0001-32",
+    "foundingDate": "2012-10-15",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=16706958000132"
+    ]
+  },
   "profile": {
     "type": "FII de papel (CRI)",
     "issuerOrManager": "Kinea Investimentos Ltda",
@@ -143,7 +160,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada do KNCR11 nos 12 meses até 28/10/2026 foi de 7,07%, classificada como baixa 0. O beta de 0,05 contra o Ibovespa mostra que o fundo tem pouca sensibilidade às oscilações do mercado de ações 0. A maior queda em 5 anos foi de -7,02%, entre 27/09/2024 e 18/12/2024 0. Esse perfil é típico de FIIs de papel indexados ao CDI, que priorizam estabilidade de caixa. Use os [alertas de preço no StockBar](/recursos/alertas-de-preco) para ser notificado quando a cota atingir níveis de interesse, sem precisar monitorar o gráfico diariamente."
+    "explanation": "A volatilidade anualizada do KNCR11 nos 12 meses até 28/10/2026 foi de 7,07%, classificada como baixa 0. O beta de 0,05 contra o Ibovespa mostra que o fundo tem pouca sensibilidade às oscilações do mercado de ações 0. A maior queda em 5 anos foi de -7,02%, entre 27/09/2024 e 18/12/2024 0. Esse perfil é típico de FIIs de papel indexados ao CDI, que priorizam estabilidade de caixa. Use os [alertas de preço no app](/recursos/alertas-de-preco) para ser notificado quando a cota atingir níveis de interesse, sem precisar monitorar o gráfico diariamente."
   },
   "history": {
     "overview": "Diferente de fundos de tijolo, o KNCR11 é classificado como multicategoria, mas seu portfólio é dedicado a CRI, que são títulos de dívida lastreados em recebíveis do setor imobiliário 3. Desde 2016, o fundo realizou 10 ofertas públicas de cotas, ampliando sua base de investidores e patrimônio 2. Em 15/10/2026, o patrimônio líquido era de R$ 11,01 bilhões, com 593.709 cotistas 3. A estratégia de baixo risco de crédito e a forte exposição a CRI indexados ao CDI (99,0% da carteira) resultaram em uma volatilidade anualizada de 7,07% nos 12 meses até 28/10/2026, um nível baixo para o mercado de FIIs 0.",
@@ -189,7 +206,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do KNCR11",
-      "body": "Nos 12 meses até 28/10/2026, o KNCR11 distribuiu R$ 13,9124 por cota em 12 pagamentos, resultando em um dividend yield de 13,30% 0. O último pagamento foi de R$ 1,1294 em 01/10/2026 0. O relatório de 15/10/2026 indica que os dividendos de setembro, pagos em 14/10/2026, representaram 1,11% de rentabilidade, isentos de imposto de renda para pessoas físicas, considerando a cota média de ingresso de R$ 102,12 3. O fundo não possui taxa de performance, apenas taxa de administração de 1,00% a.a. 3. Acompanhe os [dividendos e JCP no StockBar](/recursos/proventos) para ver o histórico de pagamentos multiplicado pela sua quantidade de cotas."
+      "body": "Nos 12 meses até 28/10/2026, o KNCR11 distribuiu R$ 13,9124 por cota em 12 pagamentos, resultando em um dividend yield de 13,30% 0. O último pagamento foi de R$ 1,1294 em 01/10/2026 0. O relatório de 15/10/2026 indica que os dividendos de setembro, pagos em 14/10/2026, representaram 1,11% de rentabilidade, isentos de imposto de renda para pessoas físicas, considerando a cota média de ingresso de R$ 102,12 3. O fundo não possui taxa de performance, apenas taxa de administração de 1,00% a.a. 3. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para ver o histórico de pagamentos multiplicado pela sua quantidade de cotas."
     },
     {
       "id": "emissoes",
@@ -199,7 +216,7 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do KNCR11",
-      "body": "A rentabilidade total com proventos do KNCR11 foi de 12,53% nos 12 meses até 28/10/2026, 48,57% em 3 anos e 98,05% em 5 anos 0. O fundo tem histórico de longo prazo, com 63,54% de rentabilidade em 10 anos 0. Como o portfólio é majoritariamente indexado ao CDI, o desempenho do fundo acompanha de perto a curva de juros. Compare a [rentabilidade do KNCR11 com o CDI e o IFIX no StockBar](/recursos/comparacao-com-indices) para avaliar seu desempenho relativo."
+      "body": "A rentabilidade total com proventos do KNCR11 foi de 12,53% nos 12 meses até 28/10/2026, 48,57% em 3 anos e 98,05% em 5 anos 0. O fundo tem histórico de longo prazo, com 63,54% de rentabilidade em 10 anos 0. Como o portfólio é majoritariamente indexado ao CDI, o desempenho do fundo acompanha de perto a curva de juros. Compare a [rentabilidade do KNCR11 com o CDI e o IFIX no app](/recursos/comparacao-com-indices) para avaliar seu desempenho relativo."
     },
     {
       "id": "riscos",
@@ -230,14 +247,14 @@
     },
     {
       "question": "Como acompanhar a rentabilidade do KNCR11?",
-      "answer": "Você pode usar o [desempenho e preço médio no StockBar](/recursos/desempenho-e-preco-medio) para ver o gráfico de rentabilidade e o ganho da sua posição. O recurso mostra a quantidade, o preço médio e a variação do dia e do ano, ajudando a acompanhar o desempenho sem precisar calcular manualmente."
+      "answer": "Você pode usar o [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio) para ver o gráfico de rentabilidade e o ganho da sua posição. O recurso mostra a quantidade, o preço médio e a variação do dia e do ano, ajudando a acompanhar o desempenho sem precisar calcular manualmente."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os 12 pagamentos de R$ 13,9124 por cota nos últimos 12 meses, multiplicados pela sua quantidade de cotas."
       },
       {

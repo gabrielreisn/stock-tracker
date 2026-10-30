@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "RBRY11: FII de crédito, dividendos e gestão",
     "description": "Conheça o RBRY11, FII de crédito imobiliário indexado ao CDI com dividend yield de 16,03% em 12 meses.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "RBRY11 é a cota do Fundo de Investimento Imobiliário Patria Crédito Imobiliário Estruturado, um FII de papel que investe preponderantemente em CRIs indexados ao CDI. Com patrimônio de R$ 1,27 bilhão em setembro de 2026, distribuiu R$ 13,05 por cota nos últimos 12 meses, gerando um dividend yield de 16,03% até 28/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário Patria Crédito Imobiliário Estruturado Responsabilidade Limitada",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA CRÉDITO IMOBILIÁRIO ESTRUTURADO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RBRY11",
+    "isin": "BRRBRYCTF004",
+    "taxId": "30.166.700/0001-11",
+    "foundingDate": "2018-05-24",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30166700000111"
+    ]
+  },
   "profile": {
     "type": "FII de papel (CRI)",
     "issuerOrManager": "Patria Gestão de Recursos Ltda",
@@ -189,7 +206,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do RBRY11",
-      "body": "Nos 12 meses até 28/10/2026, o RBRY11 distribuiu R$ 13,0500 por cota em 12 pagamentos, resultando em um dividend yield de 16,03%. O último provento foi de R$ 1,0000, com data de pagamento em 13/10/2026. O relatório gerencial de setembro de 2026 informou um resultado distribuível de R$ 1,06 por cota no mês. A tributação dos rendimentos de FIIs não é detalhada nas fontes do dossiê. Acompanhe o histórico de pagamentos e a data de recebimento com o recurso de [proventos](/recursos/proventos) do StockBar."
+      "body": "Nos 12 meses até 28/10/2026, o RBRY11 distribuiu R$ 13,0500 por cota em 12 pagamentos, resultando em um dividend yield de 16,03%. O último provento foi de R$ 1,0000, com data de pagamento em 13/10/2026. O relatório gerencial de setembro de 2026 informou um resultado distribuível de R$ 1,06 por cota no mês. A tributação dos rendimentos de FIIs não é detalhada nas fontes do dossiê. Acompanhe o histórico de pagamentos e a data de recebimento com o recurso de [proventos](/recursos/proventos) do app."
     },
     {
       "id": "emissoes",
@@ -199,12 +216,12 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do RBRY11",
-      "body": "A rentabilidade total com proventos do RBRY11 foi de -1,60% nos 12 meses até 28/10/2026, 21,92% em 3 anos e 51,84% em 5 anos. O fundo é indexado ao CDI, mas sua performance deve ser avaliada em relação a outros FIIs de crédito e ao IFIX. Utilize a [comparação com índices](/recursos/comparacao-com-indices) do StockBar para medir a rentabilidade do RBRY11 lado a lado com o IFIX, o CDI e o Ibovespa no mesmo gráfico."
+      "body": "A rentabilidade total com proventos do RBRY11 foi de -1,60% nos 12 meses até 28/10/2026, 21,92% em 3 anos e 51,84% em 5 anos. O fundo é indexado ao CDI, mas sua performance deve ser avaliada em relação a outros FIIs de crédito e ao IFIX. Utilize a [comparação com índices](/recursos/comparacao-com-indices) do app para medir a rentabilidade do RBRY11 lado a lado com o IFIX, o CDI e o Ibovespa no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos do RBRY11",
-      "body": "Como FII de papel, o RBRY11 está exposto ao risco de crédito dos devedores dos CRIs e à sensibilidade a mudanças na taxa de juros, dado que a carteira é indexada ao CDI. A volatilidade anualizada nos últimos 12 meses foi de 15,40%, classificada como moderada. O beta de 0,30 contra o Ibovespa indica baixa correlação com o mercado de ações. A maior queda em 5 anos foi de -18,35%, do pico em 01/04/2026 ao ponto mais baixo em 20/08/2026. Para monitorar movimentos bruscos de preço, configure [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "Como FII de papel, o RBRY11 está exposto ao risco de crédito dos devedores dos CRIs e à sensibilidade a mudanças na taxa de juros, dado que a carteira é indexada ao CDI. A volatilidade anualizada nos últimos 12 meses foi de 15,40%, classificada como moderada. O beta de 0,30 contra o Ibovespa indica baixa correlação com o mercado de ações. A maior queda em 5 anos foi de -18,35%, do pico em 01/04/2026 ao ponto mais baixo em 20/08/2026. Para monitorar movimentos bruscos de preço, configure [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
@@ -237,7 +254,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "proventos de FIIs no StockBar",
+        "anchor": "proventos de FIIs no app",
         "context": "Veja os 12 pagamentos de R$ 1,0000 a R$ 1,06 por cota do RBRY11 com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
       },
       {

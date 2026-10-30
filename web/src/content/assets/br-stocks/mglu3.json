@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "MGLU3: história, dividendos e volatilidade",
     "description": "MGLU3 é a ação ordinária da Magazine Luiza, plataforma de varejo multicanal. Veja histórico, dividendos, volatilidade e desempenho até 28/10/2026.",
@@ -20,6 +21,27 @@
     ]
   },
   "summary": "MGLU3 é a ação ordinária da Magazine Luiza S.A., uma plataforma de varejo multicanal do setor de consumo cíclico, com sede em Franca (SP). Fundada em 1957, a empresa opera mais de 1.250 lojas e 22 centros de distribuição. Em 28/10/2026, a ação cotava a R$ 5,22, com rentabilidade total de -36,11% nos últimos 12 meses e volatilidade anualizada de 112,58%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Magazine Luiza",
+    "legalName": "MAGAZINE LUIZA SA",
+    "ticker": "BVMF MGLU3",
+    "isin": "BRMGLUACNOR2",
+    "taxId": "47.960.950/0001-21",
+    "foundingDate": "1957-10-30",
+    "address": {
+      "locality": "Franca",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.magazineluiza.com.br",
+    "wikidata": "Q6729763",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q6729763",
+      "https://pt.wikipedia.org/wiki/Magazine_Luiza",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22470/MGLU/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Magazine Luiza",
     "legalName": "MAGAZINE LUIZA SA",
@@ -193,23 +215,23 @@
     {
       "id": "proventos",
       "heading": "MGLU3 paga dividendos?",
-      "body": "Nos 12 meses até 28/10/2026, a MGLU3 distribuiu R$ 0,0813 por ação em 1 pagamento, resultando em um dividend yield de 1,56%. O último pagamento foi de R$ 0,0813, com data de pagamento em 27/04/2026. A empresa também anunciou um Novo Programa de Recompra de Ações em 27/05/2025 e uma Bonificação de Ações em 22/12/2025, conforme fatos relevantes na CVM. Para acompanhar os dividendos e JCP da MGLU3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 28/10/2026, a MGLU3 distribuiu R$ 0,0813 por ação em 1 pagamento, resultando em um dividend yield de 1,56%. O último pagamento foi de R$ 0,0813, com data de pagamento em 27/04/2026. A empresa também anunciou um Novo Programa de Recompra de Ações em 27/05/2025 e uma Bonificação de Ações em 22/12/2025, conforme fatos relevantes na CVM. Para acompanhar os dividendos e JCP da MGLU3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da MGLU3",
-      "body": "A rentabilidade total da MGLU3 com proventos foi de -36,11% nos 12 meses até 28/10/2026, -55,53% em 3 anos e -94,54% em 5 anos. No período de 10 anos, a rentabilidade foi de 72,92%. Esses números refletem a volatilidade do setor de varejo e os desafios enfrentados pela empresa em 2021, quando as ações caíram 71% no valor de mercado. Para comparar a MGLU3 com o Ibovespa, CDI e outros índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+      "body": "A rentabilidade total da MGLU3 com proventos foi de -36,11% nos 12 meses até 28/10/2026, -55,53% em 3 anos e -94,54% em 5 anos. No período de 10 anos, a rentabilidade foi de 72,92%. Esses números refletem a volatilidade do setor de varejo e os desafios enfrentados pela empresa em 2021, quando as ações caíram 71% no valor de mercado. Para comparar a MGLU3 com o Ibovespa, CDI e outros índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app."
     },
     {
       "id": "riscos",
       "heading": "Riscos da MGLU3",
-      "body": "A MGLU3 apresenta volatilidade anualizada de 112,58% nos últimos 12 meses, classificada como muito alta. O beta de 3,59 indica que a ação é significativamente mais volátil que o Ibovespa. A maior queda nos últimos 5 anos foi de -96,68%, do pico em 11/11/2021 ao ponto mais baixo em 20/08/2026. Os riscos incluem a sensibilidade do setor de consumo cíclico a ciclos econômicos, a concorrência no varejo e a execução da estratégia digital. A empresa também enfrentou desafios regulatórios, como o fechamento de lojas em Joinville em 2014 por falta de alvará. Para monitorar movimentos bruscos de preço, configure [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "A MGLU3 apresenta volatilidade anualizada de 112,58% nos últimos 12 meses, classificada como muito alta. O beta de 3,59 indica que a ação é significativamente mais volátil que o Ibovespa. A maior queda nos últimos 5 anos foi de -96,68%, do pico em 11/11/2021 ao ponto mais baixo em 20/08/2026. Os riscos incluem a sensibilidade do setor de consumo cíclico a ciclos econômicos, a concorrência no varejo e a execução da estratégia digital. A empresa também enfrentou desafios regulatórios, como o fechamento de lojas em Joinville em 2014 por falta de alvará. Para monitorar movimentos bruscos de preço, configure [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
     {
       "question": "MGLU3 paga dividendos?",
-      "answer": "Sim, a MGLU3 pagou R$ 0,0813 por ação em 27/04/2026, resultando em um dividend yield de 1,56% nos 12 meses até 28/10/2026. A empresa também anunciou um programa de recompra de ações em 2025 e uma bonificação de ações em dezembro de 2025. Para ver o histórico de proventos, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, a MGLU3 pagou R$ 0,0813 por ação em 27/04/2026, resultando em um dividend yield de 1,56% nos 12 meses até 28/10/2026. A empresa também anunciou um programa de recompra de ações em 2025 e uma bonificação de ações em dezembro de 2025. Para ver o histórico de proventos, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre MGLU3 e ações preferenciais?",
@@ -225,7 +247,7 @@
     },
     {
       "question": "Como a Magazine Luiza se compara ao Ibovespa?",
-      "answer": "A MGLU3 tem beta de 3,59 contra o Ibovespa, o que significa que tende a ser mais volátil que o índice. Nos últimos 12 meses, a rentabilidade da MGLU3 foi de -36,11%, enquanto o Ibovespa teve desempenho diferente. Para comparar diretamente, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+      "answer": "A MGLU3 tem beta de 3,59 contra o Ibovespa, o que significa que tende a ser mais volátil que o índice. Nos últimos 12 meses, a rentabilidade da MGLU3 foi de -36,11%, enquanto o Ibovespa teve desempenho diferente. Para comparar diretamente, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app."
     },
     {
       "question": "A Magazine Luiza tem ações preferenciais?",
@@ -236,7 +258,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da MGLU3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

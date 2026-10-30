@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "HSML11: FII de shoppings, rendimentos e volatilidade",
     "description": "HSML11 é um FII de tijolo focado em shoppings centers, com 8 shoppings em 5 estados.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "HSML11 é a cota do HSI Malls Fundo de Investimento Imobiliário de Responsabilidade Limitada, um FII de tijolo focado em shoppings centers. O fundo possui 8 shoppings em 5 estados, com 97% de participação majoritária na área bruta locável (ABL). Em 09/2026, o patrimônio líquido era de R$ 2,11 bilhões e o valor patrimonial da cota de R$ 99,10. Nos 12 meses até 28/10/2026, distribuiu R$ 8,66 por cota, gerando um dividend yield de 11,06%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "HSI Malls Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "HSI MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF HSML11",
+    "isin": "BRHSMLCTF007",
+    "taxId": "32.892.018/0001-31",
+    "foundingDate": "2019-07-30",
+    "provider": {
+      "name": "SANTANDER CACEIS BRASIL DTVM S.A.",
+      "url": "https://www.s3dtvm.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=32892018000131"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, shoppings",
     "issuerOrManager": "HSI Gestora de Fundos Imobiliários (gestora) / Santander Caceis Brasil DTVM S.A",
@@ -266,7 +283,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "rendimentos do HSML11 no StockBar",
+        "anchor": "rendimentos do HSML11 no app",
         "context": "Veja os rendimentos do HSML11 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {
@@ -286,7 +303,7 @@
       },
       {
         "feature": "assistente-de-ia",
-        "anchor": "assistente de IA do StockBar",
+        "anchor": "assistente de IA do app",
         "context": "Pergunte em português sobre a sua posição em HSML11 e os seus rendimentos; as respostas vêm dos seus próprios dados."
       }
     ],

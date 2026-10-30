@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "AXIA3: história, dividendos e volatilidade",
     "description": "Conheça a Axia Energia (AXIA3): história, privatização, dividendos, volatilidade de 42,72% e desempenho.",
@@ -20,6 +21,27 @@
     ]
   },
   "summary": "AXIA3 é a ação ordinária da Axia Energia S.A., holding de geração e transmissão de energia elétrica com sede no Rio de Janeiro. A empresa, privatizada em 2022, possui 43.872,3 MW de capacidade instalada e 74 mil quilômetros de linhas de transmissão. Em 29/10/2026, a ação cotava a R$ 47,68, com rentabilidade total de -10,51% nos últimos 12 meses e dividend yield de 3,96%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Axia Energia",
+    "legalName": "AXIA ENERGIA S.A.",
+    "ticker": "BVMF AXIA3",
+    "isin": "BRAXIAACNOR0",
+    "taxId": "00.001.180/0001-26",
+    "foundingDate": "1961-04-25",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.eletrobras.com",
+    "wikidata": "Q1328252",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1328252",
+      "https://pt.wikipedia.org/wiki/Axia_Energia",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/2437/AXIA/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Axia Energia",
     "legalName": "AXIA ENERGIA S.A.",
@@ -223,12 +245,12 @@
     {
       "id": "proventos",
       "heading": "AXIA3 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a AXIA3 distribuiu R$ 1,8895 por ação em 1 pagamento, resultando em dividend yield de 3,96%. O último pagamento ocorreu em 17/11/2025. A companhia tem realizado operações de resgate ou conversão de ações PNC, o que pode impactar a estrutura de capital e a distribuição de proventos. Acompanhe os [dividendos e JCP no StockBar](/recursos/proventos) para monitorar as datas de competência e pagamento."
+      "body": "Nos 12 meses até 29/10/2026, a AXIA3 distribuiu R$ 1,8895 por ação em 1 pagamento, resultando em dividend yield de 3,96%. O último pagamento ocorreu em 17/11/2025. A companhia tem realizado operações de resgate ou conversão de ações PNC, o que pode impactar a estrutura de capital e a distribuição de proventos. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para monitorar as datas de competência e pagamento."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da AXIA3",
-      "body": "A rentabilidade total da AXIA3 com proventos foi de -10,51% nos 12 meses até 29/10/2026, 57,68% em 3 anos, 64,32% em 5 anos e 170,27% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de R$ 900,7 milhões. Compare o desempenho da ação com o Ibovespa e o CDI na [comparação com índices](/recursos/comparacao-com-indices) do StockBar."
+      "body": "A rentabilidade total da AXIA3 com proventos foi de -10,51% nos 12 meses até 29/10/2026, 57,68% em 3 anos, 64,32% em 5 anos e 170,27% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de R$ 900,7 milhões. Compare o desempenho da ação com o Ibovespa e o CDI na [comparação com índices](/recursos/comparacao-com-indices) do app."
     },
     {
       "id": "riscos",
@@ -239,7 +261,7 @@
   "faq": [
     {
       "question": "AXIA3 paga dividendos?",
-      "answer": "Sim, a AXIA3 distribuiu R$ 1,8895 por ação em 17/11/2025, com dividend yield de 3,96% nos 12 meses até 29/10/2026. A frequência e o valor dos proventos dependem da política de distribuição da companhia e da aprovação em assembleias. Veja os [dividendos e JCP no StockBar](/recursos/proventos) para acompanhar as datas de pagamento."
+      "answer": "Sim, a AXIA3 distribuiu R$ 1,8895 por ação em 17/11/2025, com dividend yield de 3,96% nos 12 meses até 29/10/2026. A frequência e o valor dos proventos dependem da política de distribuição da companhia e da aprovação em assembleias. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar as datas de pagamento."
     },
     {
       "question": "Qual a diferença entre AXIA3 e AXIA7?",
@@ -266,7 +288,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da AXIA3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
       },
       {

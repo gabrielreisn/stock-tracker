@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "KNSC11: FII de papel, dividendos e volatilidade",
     "description": "KNSC11 é um FII de papel da Kinea, com dividend yield de 12,92% e volatilidade de 8,96%.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "KNSC11 é a cota do Kinea Securities Fundo de Investimento Imobiliário Responsabilidade Limitada, um FII de papel focado em Certificados de Recebíveis Imobiliários (CRI) e cotas de outros FIIs. Fundado em 28/10/2020, o fundo tinha patrimônio líquido de R$ 2,09 bilhões e 271.384 cotistas em 09/2026. Com dividend yield de 12,92% nos 12 meses até 28/10/2026 e volatilidade anualizada de 8,96%, o ativo destina-se a investidores que buscam renda mensal isenta de IR.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Kinea Securities Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "KINEA SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF KNSC11",
+    "isin": "BRKNSCCTF008",
+    "taxId": "35.864.448/0001-38",
+    "foundingDate": "2020-10-28",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35864448000138"
+    ]
+  },
   "profile": {
     "type": "FII de papel (CRI)",
     "issuerOrManager": "Kinea Investimentos Ltda",
@@ -214,7 +231,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do KNSC11",
-      "body": "Nos 12 meses até 28/10/2026, o KNSC11 distribuiu R$ 1,1283 por cota em 12 pagamentos, resultando em dividend yield de 12,92% 0. O último provento foi de R$ 0,0800, pago em 01/10/2026 0. Segundo o relatório gerencial de setembro de 2026, os dividendos de R$ 0,08 por cota, distribuídos em 14/10/2026, representam rentabilidade isenta do imposto de renda para pessoas físicas 3. A deflação de agosto de 2026, influenciada pelo Bônus de Itaipu, reduziu os rendimentos do mês 3. Acompanhe os [dividendos e JCP no StockBar](/recursos/proventos) para ver os pagamentos com data de competência e pagamento."
+      "body": "Nos 12 meses até 28/10/2026, o KNSC11 distribuiu R$ 1,1283 por cota em 12 pagamentos, resultando em dividend yield de 12,92% 0. O último provento foi de R$ 0,0800, pago em 01/10/2026 0. Segundo o relatório gerencial de setembro de 2026, os dividendos de R$ 0,08 por cota, distribuídos em 14/10/2026, representam rentabilidade isenta do imposto de renda para pessoas físicas 3. A deflação de agosto de 2026, influenciada pelo Bônus de Itaipu, reduziu os rendimentos do mês 3. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para ver os pagamentos com data de competência e pagamento."
     },
     {
       "id": "emissoes",
@@ -224,18 +241,18 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do KNSC11",
-      "body": "A rentabilidade total com proventos do KNSC11 foi de 12,71% nos 12 meses até 28/10/2026 e de 42,52% nos últimos 3 anos 0. A cota de mercado em 30/09/2026 era de R$ 9,07, enquanto a cota patrimonial era de R$ 8,85 3. Compare a [rentabilidade com o IFIX e o CDI no StockBar](/recursos/comparacao-com-indices) para avaliar o desempenho do fundo em relação a índices de referência."
+      "body": "A rentabilidade total com proventos do KNSC11 foi de 12,71% nos 12 meses até 28/10/2026 e de 42,52% nos últimos 3 anos 0. A cota de mercado em 30/09/2026 era de R$ 9,07, enquanto a cota patrimonial era de R$ 8,85 3. Compare a [rentabilidade com o IFIX e o CDI no app](/recursos/comparacao-com-indices) para avaliar o desempenho do fundo em relação a índices de referência."
     },
     {
       "id": "riscos",
       "heading": "Riscos do KNSC11",
-      "body": "Como FII de papel, o KNSC11 está exposto ao risco de crédito dos devedores dos CRIs e à variação das taxas de juros 3. A carteira tem 57,9% em CRI IPCA e 31,8% em CRI CDI, o que a torna sensível a mudanças na inflação e no CDI 3. A volatilidade anualizada de 12 meses é de 8,96%, nível baixo, e a maior queda em 5 anos foi de -13,26%, entre 03/10/2024 e 11/12/2024 0. O beta de 0,13 contra o Ibovespa indica baixa correlação com o mercado acionário 0. Use [alertas de preço no StockBar](/recursos/alertas-de-preco) para monitorar oscilações da cota."
+      "body": "Como FII de papel, o KNSC11 está exposto ao risco de crédito dos devedores dos CRIs e à variação das taxas de juros 3. A carteira tem 57,9% em CRI IPCA e 31,8% em CRI CDI, o que a torna sensível a mudanças na inflação e no CDI 3. A volatilidade anualizada de 12 meses é de 8,96%, nível baixo, e a maior queda em 5 anos foi de -13,26%, entre 03/10/2024 e 11/12/2024 0. O beta de 0,13 contra o Ibovespa indica baixa correlação com o mercado acionário 0. Use [alertas de preço no app](/recursos/alertas-de-preco) para monitorar oscilações da cota."
     }
   ],
   "faq": [
     {
       "question": "KNSC11 paga dividendos?",
-      "answer": "Sim, o KNSC11 distribui proventos mensais. Nos 12 meses até 28/10/2026, foram 12 pagamentos somando R$ 1,1283 por cota, com dividend yield de 12,92% 0. O último pagamento foi de R$ 0,0800 em 01/10/2026 0. Veja os [dividendos e JCP no StockBar](/recursos/proventos) com data de competência e pagamento."
+      "answer": "Sim, o KNSC11 distribui proventos mensais. Nos 12 meses até 28/10/2026, foram 12 pagamentos somando R$ 1,1283 por cota, com dividend yield de 12,92% 0. O último pagamento foi de R$ 0,0800 em 01/10/2026 0. Veja os [dividendos e JCP no app](/recursos/proventos) com data de competência e pagamento."
     },
     {
       "question": "KNSC11 é FII de papel ou de tijolo?",
@@ -262,22 +279,22 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os proventos do KNSC11 com data de competência e pagamento, multiplicados pela sua quantidade."
       },
       {
         "feature": "comparacao-com-indices",
-        "anchor": "rentabilidade com o IFIX e o CDI no StockBar",
+        "anchor": "rentabilidade com o IFIX e o CDI no app",
         "context": "Compare a rentabilidade do KNSC11 com o IFIX e o CDI no mesmo gráfico, para avaliar o desempenho do fundo."
       },
       {
         "feature": "alertas-de-preco",
-        "anchor": "alertas de preço no StockBar",
+        "anchor": "alertas de preço no app",
         "context": "Receba uma notificação quando a cota do KNSC11 atingir o preço que você escolheu, para monitorar oscilações."
       },
       {
         "feature": "carteira-consolidada",
-        "anchor": "carteira consolidada no StockBar",
+        "anchor": "carteira consolidada no app",
         "context": "Veja o KNSC11 ao lado de outros ativos, com valor por classe e alocação, em uma só visão."
       }
     ],

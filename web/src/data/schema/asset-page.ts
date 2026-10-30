@@ -35,12 +35,34 @@ export const assetStatsSchema = z.object({
   avgDailyTradedValue3m: z.number().nullable(),
 });
 
+/**
+ * What the page is about, as structured data for JSON-LD: a company (stocks) or a fund (FIIs, ETFs). Collected from
+ * the records by scripts/asset-sources.mjs, never written by the model.
+ */
+export const assetEntitySchema = z.strictObject({
+  kind: z.enum(["Corporation", "InvestmentFund"]),
+  name: z.string(),
+  legalName: z.string().optional(),
+  ticker: z.string().regex(/^([A-Z]{4} )?[A-Z0-9.]+$/).describe("Exchange MIC, a space, the ticker: BVMF PETR4, ARCX SPY (just the ticker when the exchange is unknown)"),
+  isin: z.string().regex(/^[A-Z]{2}[A-Z0-9]{9}\d$/).optional(),
+  taxId: z.string().optional().describe("CNPJ"),
+  foundingDate: z.string().regex(/^\d{4}(-\d{2}(-\d{2})?)?$/).optional(),
+  address: z.strictObject({ locality: z.string(), region: z.string().optional(), country: z.string().length(2) }).optional(),
+  website: https.optional().describe("The company's or fund's own site"),
+  provider: z.strictObject({ name: z.string(), url: https.optional(), sameAs: z.array(https).optional() }).optional()
+    .describe("FIIs: the administrator (CVM). ETFs: the issuer."),
+  wikidata: z.string().regex(/^Q\d+$/).optional(),
+  sameAs: z.array(https).describe("Pages about the same company or fund: Wikidata, Wikipedia, B3, FNET"),
+});
+
 export const assetPageSchema = z.strictObject({
   ticker: z.string().regex(/^[A-Z0-9.]{2,12}$/),
   slug: z.string().regex(/^[a-z0-9-]+$/),
   list: z.enum(assetLists),
   locale: z.literal("pt-BR"),
   updatedAt: isoDate,
+  /** The first time the page was written; kept when it's regenerated. */
+  datePublished: isoDate.optional(),
 
   seo: z.strictObject({
     title: z.string().min(20).max(60).describe("Starts with the ticker. No clickbait."),
@@ -52,6 +74,8 @@ export const assetPageSchema = z.strictObject({
 
   summary: z.string().min(200).max(600)
     .describe("Answer-first paragraph (40–90 words) that an AI answer engine can quote as is: what the asset is, its sector or strategy, and one figure with its date."),
+
+  entity: assetEntitySchema.optional(),
 
   profile: z.strictObject({
     name: z.string(),
@@ -123,6 +147,7 @@ export const assetPageSchema = z.strictObject({
 export type AssetList = (typeof assetLists)[number];
 export type AssetStats = z.infer<typeof assetStatsSchema>;
 export type AssetPage = z.infer<typeof assetPageSchema>;
+export type AssetEntity = z.infer<typeof assetEntitySchema>;
 
 /** Zod's issues as "path message" lines, for the scripts' reports and the model's retry. */
 export const describeIssues = (error: z.ZodError) =>

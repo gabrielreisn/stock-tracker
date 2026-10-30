@@ -104,7 +104,7 @@ function dossierText(asset, d, sourceTexts) {
   for (const section of planFor(asset, d.profile.name)) out.push(`- ${section.id}, "${section.heading}": ${section.guide}`);
   out.push("", "# Eventos confirmados (datas exatas, use na linha do tempo com a fonte)");
   for (const e of d.events) out.push(`- ${e.date}: ${e.event} [${e.source}]`);
-  out.push("", "# Recursos do StockBar (links permitidos)");
+  out.push("", "# Recursos do app (links permitidos)");
   for (const f of catalog.features.filter((f) => f.relevantFor.includes(asset.list))) {
     out.push(`- ${f.path} (${f.slug}): ${f.name}. ${f.summary} Quando linkar: ${f.linkWhen}`);
   }
@@ -289,16 +289,16 @@ function assemble(asset, d, draft, dossier) {
   volatility.explanation = linkedTexts.shift();
   for (const f of faq) f.answer = linkedTexts.shift();
 
-  // The pages exist to show StockBar where it helps: when the model linked fewer than three features in the text,
+  // The pages exist to show the app where it helps: when the model linked fewer than three features in the text,
   // close with a short section built from the links it chose.
   const featurePath = (slug) => catalog.features.find((f) => f.slug === slug).path;
   const linked = new Set([volatility.explanation, overview, ...sections.map((s) => s.body), ...faq.map((f) => f.answer)]
     .flatMap((t) => [...t.matchAll(/\]\((\/recursos\/[^)]+)\)/g)].map((m) => m[1])));
   if (linked.size < 3) {
     sections.push({
-      id: "acompanhe-no-stockbar",
-      heading: `Como acompanhar ${asset.ticker} no StockBar`,
-      body: [`O [StockBar](${catalog.site.download}) é um app de Mac para acompanhar investimentos. Para quem tem ${asset.ticker} na carteira:`, "",
+      id: "acompanhe-no-app",
+      heading: `Como acompanhar ${asset.ticker} no app`,
+      body: [`Para quem tem ${asset.ticker} na carteira, o [app de Mac para acompanhar investimentos](${catalog.site.download}) oferece:`, "",
         ...features.map((f) => `- [${f.anchor}](${featurePath(f.feature)}): ${f.context}`)].join("\n"),
     });
   }
@@ -316,9 +316,11 @@ function assemble(asset, d, draft, dossier) {
     list: asset.list,
     locale: "pt-BR",
     updatedAt: today,
+    datePublished: today,
     seo: { title, description, h1: fit(draft.seo.h1, 80), canonicalPath: self, keywords: [...new Set(draft.seo.keywords.map((k) => k.trim()))].slice(0, 12) },
     summary: fit(grounded(draft.summary.replace(/\[([^\]]+)\]\([^)]*\)/g, "$1"), dossier, report), 600),
     // The model's profile fields are names, not prose: keep their first sentence.
+    ...(d.entity ? { entity: d.entity } : {}),
     profile: Object.fromEntries(Object.entries({ ...Object.fromEntries(Object.entries(draft.profile ?? {}).map(([k, v]) => [k, v.split(/\.\s/)[0].trim()])), ...d.profile })
       .filter(([k, v]) => v?.trim() && !(k === "website" && !v.startsWith("https://")))),
     characteristics: d.characteristics,
@@ -488,6 +490,9 @@ async function generate(asset, systemPrompt) {
     return false;
   }
   const file = new URL(pagePath(asset), root);
+  // A regenerated page keeps the date it was first published.
+  const previous = await readFile(file, "utf8").then(JSON.parse, () => null);
+  if (previous) page.datePublished = previous.datePublished ?? previous.updatedAt;
   await mkdir(new URL(".", file), { recursive: true });
   await writeFile(file, JSON.stringify(page, null, 2) + "\n");
   console.log(`  ✓ ${pagePath(asset)} in ${seconds(started)}`);

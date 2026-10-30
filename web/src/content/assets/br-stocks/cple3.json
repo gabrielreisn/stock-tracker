@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "CPLE3: história, dividendos e volatilidade",
     "description": "Conheça a CPLE3, ação da Companhia Paranaense de Energia (COPEL). Veja história, privatização, dividendos, volatilidade e desempenho da ação de energia",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "CPLE3 é a ação ordinária da Companhia Paranaense de Energia (COPEL), empresa de utilidade pública que atua na geração, transmissão, comercialização e distribuição de energia elétrica no Paraná. Cotada na B3 desde 1994, a companhia migrou para o Novo Mercado em dezembro de 2025 após a privatização. Em 28/10/2026, a ação valia R$ 14,69, com dividend yield de 7,23% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Companhia Paranaense de Energia",
+    "legalName": "COMPANHIA PARANAENSE DE ENERGIA COPEL",
+    "ticker": "BVMF CPLE3",
+    "isin": "BRCPLEACNOR8",
+    "taxId": "76.483.817/0001-20",
+    "foundingDate": "1954-10-26",
+    "address": {
+      "locality": "Curitiba",
+      "region": "PR",
+      "country": "BR"
+    },
+    "website": "https://ri.copel.com",
+    "wikidata": "Q1130970",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1130970",
+      "https://pt.wikipedia.org/wiki/Companhia_Paranaense_de_Energia",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/14311/CPLE/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Companhia Paranaense de Energia",
     "legalName": "COMPANHIA PARANAENSE DE ENERGIA COPEL",
@@ -143,7 +165,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A volatilidade anualizada da CPLE3 nos últimos 12 meses é de 29,52%, um nível considerado alto para uma ação de utilidade pública, que tradicionalmente apresenta menor oscilação. O beta de 0,97 sugere que a ação acompanha de perto os movimentos do Ibovespa. A maior queda em 5 anos foi de -23,13%, ocorrida entre 21/11/2022 e 23/03/2023, período que coincide com o anúncio e a execução da privatização. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no StockBar, que enviam notificações quando a ação atinge um valor definido."
+    "explanation": "A volatilidade anualizada da CPLE3 nos últimos 12 meses é de 29,52%, um nível considerado alto para uma ação de utilidade pública, que tradicionalmente apresenta menor oscilação. O beta de 0,97 sugere que a ação acompanha de perto os movimentos do Ibovespa. A maior queda em 5 anos foi de -23,13%, ocorrida entre 21/11/2022 e 23/03/2023, período que coincide com o anúncio e a execução da privatização. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificações quando a ação atinge um valor definido."
   },
   "history": {
     "overview": "Fundada em 26 de outubro de 1954 pelo então governador Bento Munhoz da Rocha Neto, a Companhia Paranaense de Energia (COPEL) nasceu com o objetivo de construir o sistema elétrico do Paraná, que à época era praticamente inexistente. A empresa abriu seu capital na B3 (então Bovespa) em abril de 1994 e, em 1997, tornou-se a primeira empresa do setor elétrico brasileiro a ter ações negociadas na bolsa de Nova York (NYSE). Em 2002, passou a ser negociada também na Latibex, braço latino-americano da bolsa de Madri, do qual foi deslistada em setembro de 2026. Até 2023, o Governo do Paraná era o acionista majoritário. Em novembro de 2022, o estado anunciou a intenção de privatizar a companhia, aprovada pela Assembleia Legislativa em dezembro daquele ano. Em agosto de 2023, a oferta pública de ações movimentou R$ 5,1 bilhões, reduzindo a participação do estado e transformando a COPEL em uma corporação com capital pulverizado. Em dezembro de 2025, a empresa migrou para o Novo Mercado da B3, adotando padrões de governança corporativa mais rígidos.",
@@ -219,12 +241,12 @@
     {
       "id": "proventos",
       "heading": "CPLE3 paga dividendos?",
-      "body": "A CPLE3 distribui proventos aos seus acionistas. Nos 12 meses até 28/10/2026, a empresa pagou R$ 1,0626 por ação em 2 pagamentos, resultando em um dividend yield de 7,23%. O último pagamento foi de R$ 0,2377, com data de pagamento em 30/04/2026. Em dezembro de 2025, a companhia distribuiu R$ 1,35 bilhão em dividendos. A política de dividendos e a estrutura de capital foram atualizadas em julho de 2026. É possível acompanhar o histórico de dividendos e JCP da CPLE3, com datas de competência e pagamento, no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "A CPLE3 distribui proventos aos seus acionistas. Nos 12 meses até 28/10/2026, a empresa pagou R$ 1,0626 por ação em 2 pagamentos, resultando em um dividend yield de 7,23%. O último pagamento foi de R$ 0,2377, com data de pagamento em 30/04/2026. Em dezembro de 2025, a companhia distribuiu R$ 1,35 bilhão em dividendos. A política de dividendos e a estrutura de capital foram atualizadas em julho de 2026. É possível acompanhar o histórico de dividendos e JCP da CPLE3, com datas de competência e pagamento, no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da CPLE3",
-      "body": "A CPLE3 apresentou rentabilidade total com proventos de 24,37% nos 12 meses até 28/10/2026. Nos períodos mais longos, a ação rendeu 113,46% em 3 anos, 257,96% em 5 anos e 1.076,36% em 10 anos. O desempenho da CPLE3 pode ser analisado lado a lado com o Ibovespa, o CDI e outros índices no recurso de [comparação com índices](/recursos/comparacao-com-indices) do StockBar, que permite visualizar a rentabilidade da carteira em relação a esses benchmarks."
+      "body": "A CPLE3 apresentou rentabilidade total com proventos de 24,37% nos 12 meses até 28/10/2026. Nos períodos mais longos, a ação rendeu 113,46% em 3 anos, 257,96% em 5 anos e 1.076,36% em 10 anos. O desempenho da CPLE3 pode ser analisado lado a lado com o Ibovespa, o CDI e outros índices no recurso de [comparação com índices](/recursos/comparacao-com-indices) do app, que permite visualizar a rentabilidade da carteira em relação a esses benchmarks."
     },
     {
       "id": "riscos",
@@ -250,15 +272,15 @@
       "answer": "A CPLE3 está no setor de Utilidade Pública, segmento de Energia Elétrica. A Companhia Paranaense de Energia (COPEL) atua na geração, transmissão, comercialização e distribuição de energia elétrica no estado do Paraná."
     },
     {
-      "question": "Como acompanhar a CPLE3 no StockBar?",
-      "answer": "É possível acompanhar a CPLE3 no StockBar usando o [assistente de IA](/recursos/assistente-de-ia), que responde perguntas em português sobre a carteira e os gastos, com base nos seus próprios dados. Também é possível usar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e as maiores posições, e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para analisar a rentabilidade da posição."
+      "question": "Como acompanhar a CPLE3 no app?",
+      "answer": "É possível acompanhar a CPLE3 no app usando o [assistente de IA](/recursos/assistente-de-ia), que responde perguntas em português sobre a carteira e os gastos, com base nos seus próprios dados. Também é possível usar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e as maiores posições, e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para analisar a rentabilidade da posição."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da CPLE3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
       },
       {

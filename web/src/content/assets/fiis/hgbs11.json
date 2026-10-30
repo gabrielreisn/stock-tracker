@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "HGBS11: história, dividendos e volatilidade",
     "description": "Conheça o Hedge Brasil Shopping FII (HGBS11): FII de tijolo focado em shoppings, com dividend yield de 10,85% e patrimônio de R$ 3,03 bilhões.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "HGBS11 é a cota do Hedge Brasil Shopping Fundo de Investimento Imobiliário, um fundo de tijolo que investe em participações em shoppings centers de grande porte no Brasil. Administrado pela Hedge Investments, o fundo possui patrimônio líquido de R$ 3,03 bilhões e 205.484 cotistas em setembro de 2026, com cota patrimonial de R$ 20,96. Distribui rendimentos mensais com dividend yield de 10,85% nos 12 meses até 28/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Hedge Brasil Shopping Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "HEDGE BRASIL SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF HGBS11",
+    "isin": "BRHGBSCTF000",
+    "taxId": "08.431.747/0001-06",
+    "foundingDate": "2006-12-28",
+    "provider": {
+      "name": "HEDGE INVESTMENTS DTVM LTDA",
+      "url": "https://www.hedgeinvest.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=08431747000106"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, shoppings",
     "issuerOrManager": "Hedge Investments Real Estate Gestão de Recursos Ltda",
@@ -143,7 +160,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada de 12 meses do HGBS11 é de 10,16%, classificada como baixa, e o beta contra o Ibovespa é de 0,20, indicando que o fundo tem baixa sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -18,36%, do pico em 05/03/2024 ao ponto mais baixo em 28/01/2025. Para um FII de tijolo do segmento de shoppings, essa volatilidade é compatível com a estabilidade de renda de aluguéis, mas o fundo ainda está sujeito a riscos setoriais e de liquidez. O [recurso de desempenho e preço médio do StockBar](/recursos/desempenho-e-preco-medio) permite visualizar a rentabilidade e a variação do HGBS11 ao longo do tempo."
+    "explanation": "A volatilidade anualizada de 12 meses do HGBS11 é de 10,16%, classificada como baixa, e o beta contra o Ibovespa é de 0,20, indicando que o fundo tem baixa sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -18,36%, do pico em 05/03/2024 ao ponto mais baixo em 28/01/2025. Para um FII de tijolo do segmento de shoppings, essa volatilidade é compatível com a estabilidade de renda de aluguéis, mas o fundo ainda está sujeito a riscos setoriais e de liquidez. O [recurso de desempenho e preço médio do app](/recursos/desempenho-e-preco-medio) permite visualizar a rentabilidade e a variação do HGBS11 ao longo do tempo."
   },
   "history": {
     "overview": "Fundado em 28 de dezembro de 2006, o Hedge Brasil Shopping FII (HGBS11) foi criado para investir em participações em shopping centers construídos e em operação, com foco em ativos de grande porte localizados em regiões com alto poder de consumo. A estratégia de gestão ativa permitiu ao fundo construir uma carteira diversificada ao longo de duas décadas, passando por diferentes ciclos do varejo brasileiro. O fundo realizou doze emissões de cotas até 2026, ampliando sua base de investidores e seu patrimônio. Em 2026, o fundo executou operações estratégicas de reestruturação de portfólio, como a alienação de 19% do Shopping Jardim Sul e a aquisição de 75% do Shopping Jaraguá Araraquara, buscando otimizar a alocação de capital e a geração de renda. A carteira inclui ativos próprios e participações em outros fundos imobiliários, como HPDP11, PQDP11, WPLZ11, FLRP11, ABCP11 e FVPQ11, o que confere ao HGBS11 características de um fundo de fundos no que tange a esses ativos específicos. A gestão é feita pela Hedge Investments Real Estate, com a Hedge Investments DTVM atuando como administradora, e o fundo possui rating brAA+ da S&P Global Ratings Brasil.",
@@ -189,27 +206,27 @@
     {
       "id": "estrategia",
       "heading": "Estratégia e portfólio do HGBS11",
-      "body": "O Hedge Brasil Shopping FII (HGBS11) é um fundo de investimento imobiliário de tijolo, com gestão ativa, focado na aquisição e exploração comercial de participações em shopping centers. O objetivo do fundo é investir em shoppings com pelo menos 15.000 m² de área bruta locável (ABL), localizados em regiões com área de influência de no mínimo 500 mil habitantes e administrados por empresas especializadas. A carteira, com referência em 30/09/2026, inclui 20 shoppings, entre eles Shopping Jardim Sul, Shopping Penha, Boulevard Shopping Bauru, ParkShopping São Caetano, Capim Dourado Shopping, Mooca Plaza Shopping, Shopping West Plaza, Tivoli Shopping Center, São Bernardo Plaza Shopping, Shopping Villalobos, Shopping Praça da Moça, Shopping Jaraguá Araraquara, Partage Santana Shopping, Goiabeiras Shopping Center, Franca Shopping, Shopping Parque D. Pedro, Floripa Shopping, Grand Plaza Shopping e Via Parque Shopping. A ABL própria totaliza 268,0 mil m². A gestora é a Hedge Investments Real Estate Gestão de Recursos Ltda. e a administradora é a Hedge Investments DTVM Ltda. O fundo possui rating brAA+ da S&P Global Ratings Brasil. Para quem busca diversificação em ativos de renda fixa, o [StockBar permite comparar o HGBS11 com outros fundos de investimento](/recursos/fundos-de-investimento), analisando rentabilidade e alocação por objetivo."
+      "body": "O Hedge Brasil Shopping FII (HGBS11) é um fundo de investimento imobiliário de tijolo, com gestão ativa, focado na aquisição e exploração comercial de participações em shopping centers. O objetivo do fundo é investir em shoppings com pelo menos 15.000 m² de área bruta locável (ABL), localizados em regiões com área de influência de no mínimo 500 mil habitantes e administrados por empresas especializadas. A carteira, com referência em 30/09/2026, inclui 20 shoppings, entre eles Shopping Jardim Sul, Shopping Penha, Boulevard Shopping Bauru, ParkShopping São Caetano, Capim Dourado Shopping, Mooca Plaza Shopping, Shopping West Plaza, Tivoli Shopping Center, São Bernardo Plaza Shopping, Shopping Villalobos, Shopping Praça da Moça, Shopping Jaraguá Araraquara, Partage Santana Shopping, Goiabeiras Shopping Center, Franca Shopping, Shopping Parque D. Pedro, Floripa Shopping, Grand Plaza Shopping e Via Parque Shopping. A ABL própria totaliza 268,0 mil m². A gestora é a Hedge Investments Real Estate Gestão de Recursos Ltda. e a administradora é a Hedge Investments DTVM Ltda. O fundo possui rating brAA+ da S&P Global Ratings Brasil. Para quem busca diversificação em ativos de renda fixa, o [app permite comparar o HGBS11 com outros fundos de investimento](/recursos/fundos-de-investimento), analisando rentabilidade e alocação por objetivo."
     },
     {
       "id": "rendimentos",
       "heading": "Rendimentos do HGBS11",
-      "body": "Nos 12 meses até 28/10/2026, o HGBS11 distribuiu R$ 1,9700 por cota em 12 pagamentos, resultando em um dividend yield de 10,85%. O último pagamento foi de R$ 0,1700 em 01/10/2026. O relatório gerencial de setembro de 2026 informa um dividend yield do mês de 0,84%. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. O [recurso de proventos do StockBar](/recursos/proventos) permite acompanhar os dividendos e JCP do HGBS11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      "body": "Nos 12 meses até 28/10/2026, o HGBS11 distribuiu R$ 1,9700 por cota em 12 pagamentos, resultando em um dividend yield de 10,85%. O último pagamento foi de R$ 0,1700 em 01/10/2026. O relatório gerencial de setembro de 2026 informa um dividend yield do mês de 0,84%. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. O [recurso de proventos do app](/recursos/proventos) permite acompanhar os dividendos e JCP do HGBS11 com data com e data de pagamento, multiplicados pela sua quantidade."
     },
     {
       "id": "emissoes",
       "heading": "Emissões de cotas, patrimônio e cotistas",
-      "body": "O HGBS11 realizou doze emissões de cotas até 2026, com a 12ª encerrada em 02/10/2026, arrecadando R$ 214.578.795,20 com a subscrição de 10.570.384 cotas ao preço de R$ 20,30. Em setembro de 2026, o patrimônio líquido do fundo era de R$ 3,03 bilhões, com 205.484 cotistas e 144.355.726 cotas emitidas. O valor patrimonial da cota era de R$ 20,96. A taxa de administração é de 0,60% ao ano sobre o valor de mercado das cotas, e não há taxa de performance. O [recurso de carteira consolidada do StockBar](/recursos/carteira-consolidada) permite visualizar o HGBS11 junto a outros ativos, com valor por classe e alocação."
+      "body": "O HGBS11 realizou doze emissões de cotas até 2026, com a 12ª encerrada em 02/10/2026, arrecadando R$ 214.578.795,20 com a subscrição de 10.570.384 cotas ao preço de R$ 20,30. Em setembro de 2026, o patrimônio líquido do fundo era de R$ 3,03 bilhões, com 205.484 cotistas e 144.355.726 cotas emitidas. O valor patrimonial da cota era de R$ 20,96. A taxa de administração é de 0,60% ao ano sobre o valor de mercado das cotas, e não há taxa de performance. O [recurso de carteira consolidada do app](/recursos/carteira-consolidada) permite visualizar o HGBS11 junto a outros ativos, com valor por classe e alocação."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho do HGBS11",
-      "body": "A rentabilidade total do HGBS11, com proventos, foi de 0,20% em 12 meses, 6,70% em 3 anos, 49,37% em 5 anos e 38,54% em 10 anos, até 28/10/2026. O [recurso de comparação com índices do StockBar](/recursos/comparacao-com-indices) permite analisar a rentabilidade do HGBS11 lado a lado com o IFIX, CDI, IPCA, Ibovespa e S&P 500, no mesmo gráfico."
+      "body": "A rentabilidade total do HGBS11, com proventos, foi de 0,20% em 12 meses, 6,70% em 3 anos, 49,37% em 5 anos e 38,54% em 10 anos, até 28/10/2026. O [recurso de comparação com índices do app](/recursos/comparacao-com-indices) permite analisar a rentabilidade do HGBS11 lado a lado com o IFIX, CDI, IPCA, Ibovespa e S&P 500, no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos do HGBS11",
-      "body": "Os riscos do HGBS11 incluem a sensibilidade do setor de shoppings a ciclos econômicos, a vacância de áreas locáveis e a concorrência com o comércio eletrônico. A volatilidade anualizada de 12 meses é de 10,16%, classificada como baixa, e o beta contra o Ibovespa é de 0,20, indicando baixa correlação com o índice. A maior queda nos últimos 5 anos foi de -18,36%, do pico em 05/03/2024 ao ponto mais baixo em 28/01/2025. O [recurso de alertas de preço do StockBar](/recursos/alertas-de-preco) permite configurar notificações quando o HGBS11 atinge um preço definido, útil para monitorar a volatilidade."
+      "body": "Os riscos do HGBS11 incluem a sensibilidade do setor de shoppings a ciclos econômicos, a vacância de áreas locáveis e a concorrência com o comércio eletrônico. A volatilidade anualizada de 12 meses é de 10,16%, classificada como baixa, e o beta contra o Ibovespa é de 0,20, indicando baixa correlação com o índice. A maior queda nos últimos 5 anos foi de -18,36%, do pico em 05/03/2024 ao ponto mais baixo em 28/01/2025. O [recurso de alertas de preço do app](/recursos/alertas-de-preco) permite configurar notificações quando o HGBS11 atinge um preço definido, útil para monitorar a volatilidade."
     }
   ],
   "faq": [
@@ -219,7 +236,7 @@
     },
     {
       "question": "Qual a diferença entre HGBS11 e outros FIIs de shoppings?",
-      "answer": "O HGBS11 é um FII de tijolo focado em shoppings de grande porte, com gestão ativa e carteira diversificada de 20 ativos. Diferencia-se de outros FIIs de shoppings pela estratégia de gestão ativa e pela inclusão de participações em outros fundos, como HPDP11 e PQDP11. O [comparador de fundos do StockBar](/recursos/comparador-de-fundos) permite comparar o HGBS11 com outros FIIs, analisando rentabilidade e alocação."
+      "answer": "O HGBS11 é um FII de tijolo focado em shoppings de grande porte, com gestão ativa e carteira diversificada de 20 ativos. Diferencia-se de outros FIIs de shoppings pela estratégia de gestão ativa e pela inclusão de participações em outros fundos, como HPDP11 e PQDP11. O [comparador de fundos do app](/recursos/comparador-de-fundos) permite comparar o HGBS11 com outros FIIs, analisando rentabilidade e alocação."
     },
     {
       "question": "HGBS11 é um FII de papel ou de tijolo?",
@@ -234,8 +251,8 @@
       "answer": "Em setembro de 2026, o HGBS11 tinha 205.484 cotistas e 144.355.726 cotas emitidas, com patrimônio líquido de R$ 3,03 bilhões. O valor patrimonial da cota era de R$ 20,96."
     },
     {
-      "question": "Como acompanhar o HGBS11 no StockBar?",
-      "answer": "O [assistente de IA do StockBar](/recursos/assistente-de-ia) permite perguntar em português sobre a sua carteira e os seus gastos, com respostas baseadas nos seus próprios dados. O [recurso de open finance](/recursos/open-finance) conecta bancos e corretoras para conferir as posições do HGBS11 com a sua carteira."
+      "question": "Como acompanhar o HGBS11 no app?",
+      "answer": "O [assistente de IA do app](/recursos/assistente-de-ia) permite perguntar em português sobre a sua carteira e os seus gastos, com respostas baseadas nos seus próprios dados. O [recurso de open finance](/recursos/open-finance) conecta bancos e corretoras para conferir as posições do HGBS11 com a sua carteira."
     }
   ],
   "internalLinks": {

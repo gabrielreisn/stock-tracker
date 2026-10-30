@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "PVBI11: história, rendimentos e volatilidade",
     "description": "Conheça o PVBI11, FII de escritórios com patrimônio de R$ 2,84 bilhões em 09/2026. Veja rendimentos, volatilidade e riscos do fundo de tijolo da Patria.",
@@ -19,6 +20,22 @@
     ]
   },
   "summary": "PVBI11 é a cota do Fundo de Investimento Imobiliário VBI Prime Properties, um FII de tijolo com foco em imóveis de escritórios corporativos e comerciais. Administrado pela BTG Pactual e gerido pela Patria, o fundo possui patrimônio líquido de R$ 2,84 bilhões em 09/2026. Nos 12 meses até 28/10/2026, a cota teve rentabilidade total de -10,43%, com dividend yield de 8,04%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário VBI Prime Properties",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VBI PRIME PROPERTIES",
+    "ticker": "BVMF PVBI11",
+    "isin": "BRPVBICTF003",
+    "taxId": "35.652.102/0001-76",
+    "foundingDate": "2020-07-22",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35652102000176"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, escritórios",
     "issuerOrManager": "Patria – VBI Asset Management Ltda",
@@ -141,7 +158,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A volatilidade anualizada do PVBI11 nos 12 meses até 28/10/2026 foi de 28,09%, classificada como alta. O beta contra o Ibovespa foi de 0,57, indicando que o fundo tende a ser menos volátil que o índice. A maior queda em 5 anos foi de -29,69%, do pico em 27/02/2024 ao ponto mais baixo em 19/12/2024. Para um FII de escritórios, essa volatilidade é consistente com o risco de vacância e a sensibilidade a mudanças na taxa de juros. É possível acompanhar a [volatilidade e o desempenho do PVBI11 no StockBar](/recursos/desempenho-e-preco-medio)."
+    "explanation": "A volatilidade anualizada do PVBI11 nos 12 meses até 28/10/2026 foi de 28,09%, classificada como alta. O beta contra o Ibovespa foi de 0,57, indicando que o fundo tende a ser menos volátil que o índice. A maior queda em 5 anos foi de -29,69%, do pico em 27/02/2024 ao ponto mais baixo em 19/12/2024. Para um FII de escritórios, essa volatilidade é consistente com o risco de vacância e a sensibilidade a mudanças na taxa de juros. É possível acompanhar a [volatilidade e o desempenho do PVBI11 no app](/recursos/desempenho-e-preco-medio)."
   },
   "history": {
     "overview": "O Fundo de Investimento Imobiliário VBI Prime Properties (PVBI11) iniciou suas atividades em 22 de julho de 2020, com o objetivo de obter renda e ganho de capital por meio do investimento em imóveis do segmento corporativo e comercial. A estratégia do fundo é ativa, com a gestora Patria – VBI Asset Management Ltda. e a administração da BTG Pactual Serviços Financeiros S.A. DTVM. Desde a sua criação, o fundo realizou cinco ofertas públicas de cotas, as mais recentes encerradas em 2024, o que resultou em 27.130.067 cotas emitidas até 09/2026. O patrimônio líquido do fundo atingiu R$ 2,84 bilhões no mesmo mês, com 179.158 cotistas.",
@@ -197,7 +214,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do PVBI11",
-      "body": "Nos 12 meses até 28/10/2026, o PVBI11 distribuiu R$ 4,99 por cota em 12 pagamentos, resultando em um dividend yield de 8,04%. O último rendimento pago foi de R$ 0,37 por cota em 01/10/2026. Em 09/2026, o fundo distribuiu R$ 0,37 por cota, com data de pagamento em 07/10/2026, e a gestão prevê a manutenção desse patamar para o semestre corrente, com o rendimento recorrente estimado em R$ 0,47 por cota após o encerramento das carências e descontos. O dividend yield patrimonial em 09/2026 era de 4,2%, enquanto o de mercado era de 6,7%. É possível acompanhar os [dividendos e rendimentos do PVBI11 no StockBar](/recursos/proventos), com data de competência e pagamento."
+      "body": "Nos 12 meses até 28/10/2026, o PVBI11 distribuiu R$ 4,99 por cota em 12 pagamentos, resultando em um dividend yield de 8,04%. O último rendimento pago foi de R$ 0,37 por cota em 01/10/2026. Em 09/2026, o fundo distribuiu R$ 0,37 por cota, com data de pagamento em 07/10/2026, e a gestão prevê a manutenção desse patamar para o semestre corrente, com o rendimento recorrente estimado em R$ 0,47 por cota após o encerramento das carências e descontos. O dividend yield patrimonial em 09/2026 era de 4,2%, enquanto o de mercado era de 6,7%. É possível acompanhar os [dividendos e rendimentos do PVBI11 no app](/recursos/proventos), com data de competência e pagamento."
     },
     {
       "id": "emissoes",
@@ -207,18 +224,18 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do PVBI11",
-      "body": "A rentabilidade total do PVBI11 nos 12 meses até 28/10/2026 foi de -10,43%, com o preço da cota em R$ 62,10. O fundo apresentou volatilidade anualizada de 28,09% no mesmo período, classificada como alta. O beta contra o Ibovespa foi de 0,57, indicando menor sensibilidade ao índice. A maior queda em 5 anos foi de -29,69%, do pico em 27/02/2024 ao ponto mais baixo em 19/12/2024. É possível comparar a [rentabilidade do PVBI11 com o IFIX e o CDI no StockBar](/recursos/comparacao-com-indices)."
+      "body": "A rentabilidade total do PVBI11 nos 12 meses até 28/10/2026 foi de -10,43%, com o preço da cota em R$ 62,10. O fundo apresentou volatilidade anualizada de 28,09% no mesmo período, classificada como alta. O beta contra o Ibovespa foi de 0,57, indicando menor sensibilidade ao índice. A maior queda em 5 anos foi de -29,69%, do pico em 27/02/2024 ao ponto mais baixo em 19/12/2024. É possível comparar a [rentabilidade do PVBI11 com o IFIX e o CDI no app](/recursos/comparacao-com-indices)."
     },
     {
       "id": "riscos",
       "heading": "Riscos do PVBI11",
-      "body": "A gestão concedeu carências e descontos para alugar 7.653 m², o que reduziu temporariamente a distribuição. O fundo também está exposto ao risco de juros, que afeta a atratividade dos FIIs frente à renda fixa, e à volatilidade do mercado, com uma queda máxima de -29,69% entre 27/02/2024 e 19/12/2024. A [volatilidade do PVBI11 pode ser monitorada com alertas de preço no StockBar](/recursos/alertas-de-preco)."
+      "body": "A gestão concedeu carências e descontos para alugar 7.653 m², o que reduziu temporariamente a distribuição. O fundo também está exposto ao risco de juros, que afeta a atratividade dos FIIs frente à renda fixa, e à volatilidade do mercado, com uma queda máxima de -29,69% entre 27/02/2024 e 19/12/2024. A [volatilidade do PVBI11 pode ser monitorada com alertas de preço no app](/recursos/alertas-de-preco)."
     }
   ],
   "faq": [
     {
       "question": "PVBI11 paga dividendos?",
-      "answer": "Sim, o PVBI11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram distribuídos R$ 4,99 por cota, com dividend yield de 8,04%. O último pagamento foi de R$ 0,37 por cota em 01/10/2026. É possível acompanhar os [rendimentos do PVBI11 no StockBar](/recursos/proventos)."
+      "answer": "Sim, o PVBI11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram distribuídos R$ 4,99 por cota, com dividend yield de 8,04%. O último pagamento foi de R$ 0,37 por cota em 01/10/2026. É possível acompanhar os [rendimentos do PVBI11 no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre PVBI11 e outros FIIs de escritórios?",
@@ -234,33 +251,33 @@
     },
     {
       "question": "Qual o risco do PVBI11?",
-      "answer": "O fundo também tem volatilidade alta, com 28,09% nos 12 meses até 28/10/2026, e uma queda máxima de -29,69% entre 27/02/2024 e 19/12/2024. É possível monitorar a [volatilidade com alertas de preço no StockBar](/recursos/alertas-de-preco)."
+      "answer": "O fundo também tem volatilidade alta, com 28,09% nos 12 meses até 28/10/2026, e uma queda máxima de -29,69% entre 27/02/2024 e 19/12/2024. É possível monitorar a [volatilidade com alertas de preço no app](/recursos/alertas-de-preco)."
     },
     {
       "question": "Como o PVBI11 se compara com o IFIX?",
-      "answer": "O PVBI11 é um FII de escritórios, enquanto o IFIX é o índice que mede o desempenho dos FIIs. Em 09/2026, o IFIX recuou 0,2%, enquanto o segmento de escritórios teve alta de 1,4%. É possível comparar a [rentabilidade do PVBI11 com o IFIX no StockBar](/recursos/comparacao-com-indices)."
+      "answer": "O PVBI11 é um FII de escritórios, enquanto o IFIX é o índice que mede o desempenho dos FIIs. Em 09/2026, o IFIX recuou 0,2%, enquanto o segmento de escritórios teve alta de 1,4%. É possível comparar a [rentabilidade do PVBI11 com o IFIX no app](/recursos/comparacao-com-indices)."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e rendimentos do PVBI11 no StockBar",
+        "anchor": "dividendos e rendimentos do PVBI11 no app",
         "context": "Veja os rendimentos do PVBI11 com data de competência e pagamento, multiplicados pela sua quantidade."
       },
       {
         "feature": "comparacao-com-indices",
-        "anchor": "rentabilidade do PVBI11 com o IFIX e o CDI no StockBar",
+        "anchor": "rentabilidade do PVBI11 com o IFIX e o CDI no app",
         "context": "Compare a rentabilidade do PVBI11 com o IFIX, o CDI e outros índices no mesmo gráfico."
       },
       {
         "feature": "alertas-de-preco",
-        "anchor": "volatilidade do PVBI11 com alertas de preço no StockBar",
+        "anchor": "volatilidade do PVBI11 com alertas de preço no app",
         "context": "Receba uma notificação quando o PVBI11 chegar ao preço que você escolheu, para acompanhar a volatilidade."
       },
       {
         "feature": "carteira-consolidada",
-        "anchor": "carteira consolidada no StockBar",
+        "anchor": "carteira consolidada no app",
         "context": "Veja o PVBI11 junto com seus outros ativos, com valor por classe e alocação."
       }
     ],

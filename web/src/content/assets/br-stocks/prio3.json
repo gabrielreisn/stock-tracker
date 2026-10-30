@@ -4,9 +4,10 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "PRIO3: história, dividendos e volatilidade",
-    "description": "Conheça a PRIO3, ação da petroleira independente PRIO S.A. Veja desempenho, riscos, proventos e como acompanhar no StockBar.",
+    "description": "Conheça a PRIO3, ação da petroleira independente PRIO S.A. Veja desempenho, riscos, proventos e como acompanhar no app.",
     "h1": "PRIO3: Ação Ordinária da PRIO S.A.",
     "canonicalPath": "/acoes/prio3",
     "keywords": [
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "PRIO3 é a ação ordinária da PRIO S.A., empresa brasileira do setor de petróleo e gás, focada na produção e recuperação de ativos maduros. Fundada em 2008 e listada na B3 desde 2010, a companhia opera campos como Polvo, Frade e Wahoo. Em 29/10/2026, a ação cotava a R$ 70,47, com alta volatilidade anualizada de 36,33% e beta de 0,19 em relação ao Ibovespa.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "PRIO",
+    "legalName": "PRIO S.A.",
+    "ticker": "BVMF PRIO3",
+    "isin": "BRPRIOACNOR1",
+    "taxId": "10.629.105/0001-68",
+    "foundingDate": "2008-10-13",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.petroriosa.com.br",
+    "wikidata": "Q19709597",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q19709597",
+      "https://pt.wikipedia.org/wiki/PRIO",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22187/PRIO/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "PRIO",
     "legalName": "PRIO S.A.",
@@ -143,7 +165,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A volatilidade anualizada da PRIO3 é de 36,33%, considerada alta para ações de petróleo, refletindo a sensibilidade ao preço do barril e a execução de projetos. O beta de 0,19 indica que a ação tende a variar menos que o Ibovespa, o que pode ser atribuído à sua estratégia de ativos maduros e à diversificação de campos. A maior queda em 5 anos, de -35,33% entre 12/04/2024 e 10/04/2025, mostra o potencial de correções em períodos de estresse no setor. Para acompanhar movimentos bruscos, o recurso de [alertas de preço](/recursos/alertas-de-preco) no StockBar permite definir notificações personalizadas."
+    "explanation": "A volatilidade anualizada da PRIO3 é de 36,33%, considerada alta para ações de petróleo, refletindo a sensibilidade ao preço do barril e a execução de projetos. O beta de 0,19 indica que a ação tende a variar menos que o Ibovespa, o que pode ser atribuído à sua estratégia de ativos maduros e à diversificação de campos. A maior queda em 5 anos, de -35,33% entre 12/04/2024 e 10/04/2025, mostra o potencial de correções em períodos de estresse no setor. Para acompanhar movimentos bruscos, o recurso de [alertas de preço](/recursos/alertas-de-preco) no app permite definir notificações personalizadas."
   },
   "history": {
     "overview": "A PRIO S.A. (antiga PetroRio) foi fundada em 13 de outubro de 2008 no Rio de Janeiro, inicialmente como BN 16 Participações. Em 2009, passou a se chamar HRT Participações em Petróleo e, em 2010, abriu capital na B3. Em 2015, adotou o nome PetroRio e, em maio de 2022, atualizou a marca para PRIO, consolidando-se como a principal petroleira independente de origem brasileira e uma das dez maiores produtoras do país. A estratégia da empresa baseia-se na aquisição de ativos em produção e na recuperação de campos maduros, com destaque para a interligação (tieback) entre os campos de Polvo e Tubarão Martelo, concluída em 2021, que reduziu custos operacionais. Em 2022, a companhia concluiu a incorporação da Dommo Energia (antiga OGX), garantindo 100% do campo de Tubarão Martelo. Em 2026, a PRIO iniciou a produção do campo de Wahoo, marcando sua entrada no pré-sal, e obteve licença de perfuração no campo de Frade.",
@@ -234,23 +256,23 @@
     {
       "id": "proventos",
       "heading": "PRIO3 paga dividendos?",
-      "body": "Nos últimos 12 meses até 29/10/2026, a PRIO3 não distribuiu proventos, como dividendos ou JCP. A ausência de pagamentos recentes não indica necessariamente uma política de retenção de lucros, mas reflete o momento da empresa, que tem investido em expansões e aquisições, como a entrada no pré-sal com o campo de Wahoo. Para acompanhar a distribuição de proventos quando ocorrer, é possível utilizar o recurso de [dividendos e JCP no StockBar](/recursos/proventos), que lista as datas de comunicação e pagamento."
+      "body": "Nos últimos 12 meses até 29/10/2026, a PRIO3 não distribuiu proventos, como dividendos ou JCP. A ausência de pagamentos recentes não indica necessariamente uma política de retenção de lucros, mas reflete o momento da empresa, que tem investido em expansões e aquisições, como a entrada no pré-sal com o campo de Wahoo. Para acompanhar a distribuição de proventos quando ocorrer, é possível utilizar o recurso de [dividendos e JCP no app](/recursos/proventos), que lista as datas de comunicação e pagamento."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da PRIO3",
-      "body": "Até 29/10/2026, a PRIO3 apresentou rentabilidade total de 95,75% em 12 meses, 52,25% em 3 anos e 200,74% em 5 anos. Em 10 anos, o retorno foi de 21.957,25%. Esses números refletem o crescimento da empresa e a valorização do setor de petróleo. Para comparar esse desempenho com o Ibovespa, o CDI e outros índices, o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar permite visualizar a rentabilidade lado a lado, ajudando a entender o contexto de mercado."
+      "body": "Até 29/10/2026, a PRIO3 apresentou rentabilidade total de 95,75% em 12 meses, 52,25% em 3 anos e 200,74% em 5 anos. Em 10 anos, o retorno foi de 21.957,25%. Esses números refletem o crescimento da empresa e a valorização do setor de petróleo. Para comparar esse desempenho com o Ibovespa, o CDI e outros índices, o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app permite visualizar a rentabilidade lado a lado, ajudando a entender o contexto de mercado."
     },
     {
       "id": "riscos",
       "heading": "Riscos da PRIO3",
-      "body": "A PRIO3 apresenta volatilidade anualizada de 36,33% nos últimos 12 meses, classificada como alta, e beta de 0,19 em relação ao Ibovespa, indicando menor sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -35,33%, entre 12/04/2024 e 10/04/2025. Riscos setoriais incluem a dependência do preço do petróleo, mudanças regulatórias e a execução de projetos de expansão, como a produção no campo de Wahoo. A volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "A PRIO3 apresenta volatilidade anualizada de 36,33% nos últimos 12 meses, classificada como alta, e beta de 0,19 em relação ao Ibovespa, indicando menor sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -35,33%, entre 12/04/2024 e 10/04/2025. Riscos setoriais incluem a dependência do preço do petróleo, mudanças regulatórias e a execução de projetos de expansão, como a produção no campo de Wahoo. A volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
     {
       "question": "PRIO3 paga dividendos?",
-      "answer": "Nos últimos 12 meses até 29/10/2026, a PRIO3 não distribuiu proventos. A empresa tem investido em expansões, como a entrada no pré-sal, o que pode adiar a distribuição de dividendos. Para acompanhar futuros pagamentos, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Nos últimos 12 meses até 29/10/2026, a PRIO3 não distribuiu proventos. A empresa tem investido em expansões, como a entrada no pré-sal, o que pode adiar a distribuição de dividendos. Para acompanhar futuros pagamentos, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre PRIO3 e ações preferenciais da PRIO?",
@@ -262,22 +284,22 @@
     },
     {
       "question": "Qual o risco da PRIO3?",
-      "answer": "A PRIO3 tem volatilidade anualizada de 36,33% e beta de 0,19, indicando alta volatilidade, mas menor sensibilidade ao Ibovespa. Riscos incluem o preço do petróleo e a execução de projetos. Para monitorar, use [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "answer": "A PRIO3 tem volatilidade anualizada de 36,33% e beta de 0,19, indicando alta volatilidade, mas menor sensibilidade ao Ibovespa. Riscos incluem o preço do petróleo e a execução de projetos. Para monitorar, use [alertas de preço](/recursos/alertas-de-preco) no app."
     },
     {
       "question": "PRIO3 é boa para longo prazo?",
-      "answer": "A PRIO3 teve alta de 200,74% em 5 anos e 21.957,25% em 10 anos, mas rentabilidade passada não garante futuro. A empresa está em fase de expansão, com projetos como Wahoo. Para avaliar, compare com índices no [StockBar](/recursos/comparacao-com-indices)."
+      "answer": "A PRIO3 teve alta de 200,74% em 5 anos e 21.957,25% em 10 anos, mas rentabilidade passada não garante futuro. A empresa está em fase de expansão, com projetos como Wahoo. Para avaliar, compare com índices no [app](/recursos/comparacao-com-indices)."
     },
     {
       "question": "Como acompanhar a PRIO3 no dia a dia?",
-      "answer": "O StockBar oferece o [widget na barra de menus](/recursos/widget-da-barra-de-menus) para ver o gráfico do dia e posições rapidamente. Para dúvidas sobre a carteira, o [assistente de IA](/recursos/assistente-de-ia) responde em português, usando seus próprios dados."
+      "answer": "O app oferece o [widget na barra de menus](/recursos/widget-da-barra-de-menus) para ver o gráfico do dia e posições rapidamente. Para dúvidas sobre a carteira, o [assistente de IA](/recursos/assistente-de-ia) responde em português, usando seus próprios dados."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da PRIO3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

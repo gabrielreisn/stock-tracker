@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "TRXF11: história, dividendos e volatilidade",
     "description": "TRXF11 é FII de tijolo multicategoria com dividend yield de 16,60% e patrimônio de R$ 6,04 bilhões. Veja estratégia, rendimentos e desempenho.",
@@ -20,6 +21,22 @@
     ]
   },
   "summary": "TRXF11 é o TRX Real Estate Fundo de Investimento Imobiliário, um FII de gestão ativa e multicategoria que combina imóveis físicos (logística, varejo, shoppings, saúde) com alocações indiretas. Fundado em 15/10/2019, o fundo tinha patrimônio de R$ 6,04 bilhões e 354.483 cotistas em 09/2026. A cota fechou a R$ 65,50 em 28/10/2026, com dividend yield de 16,60% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "TRX Real Estate Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF TRXF11",
+    "isin": "BRTRXFCTF003",
+    "taxId": "28.548.288/0001-52",
+    "foundingDate": "2019-10-15",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28548288000152"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, multicategoria",
     "issuerOrManager": "TRX Gestora de Recursos (Administrador: BRL Trust DTVM S.A.) [3, 1, 5, 4, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",
@@ -183,7 +200,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do TRXF11",
-      "body": "Nos 12 meses até 28/10/2026, o TRXF11 distribuiu R$ 10,87 por cota em 11 pagamentos, resultando em dividend yield de 16,60% 0. O último pagamento foi de R$ 0,93 em 01/10/2026 0. Em 30/09/2026, o rendimento mensal foi de R$ 0,93, com dividend yield anualizado de 15,55% 3. A previsão para os próximos 12 meses é de distribuição entre R$ 0,90 e R$ 0,93 por cota 3. O fundo não possui tributação específica mencionada nas fontes, mas os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas 3. Veja os [dividendos e JCP no StockBar](/recursos/proventos) para acompanhar os pagamentos."
+      "body": "Nos 12 meses até 28/10/2026, o TRXF11 distribuiu R$ 10,87 por cota em 11 pagamentos, resultando em dividend yield de 16,60% 0. O último pagamento foi de R$ 0,93 em 01/10/2026 0. Em 30/09/2026, o rendimento mensal foi de R$ 0,93, com dividend yield anualizado de 15,55% 3. A previsão para os próximos 12 meses é de distribuição entre R$ 0,90 e R$ 0,93 por cota 3. O fundo não possui tributação específica mencionada nas fontes, mas os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas 3. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos."
     },
     {
       "id": "emissoes",
@@ -235,7 +252,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os rendimentos do TRXF11 com data de pagamento, multiplicados pela sua quantidade."
       },
       {

@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "MOTV3: história, dividendos e volatilidade",
     "description": "MOTV3 é a ação ordinária da Motiva, que opera concessões de rodovias e trilhos. Veja dividendos, rentabilidade e riscos da ação na B3.",
@@ -19,6 +20,27 @@
     ]
   },
   "summary": "MOTV3 é a ação ordinária da Motiva Infraestrutura de Mobilidade S.A., companhia brasileira que opera concessões de rodovias, sistemas de trilhos e aeroportos. Listada no Novo Mercado da B3 desde 2002, a empresa atua em 13 estados com 37 concessões. Em 28/10/2026, a ação valia R$ 14,45, com dividend yield de 6,45% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Motiva",
+    "legalName": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
+    "ticker": "BVMF MOTV3",
+    "isin": "BRMOTVACNOR7",
+    "taxId": "02.846.056/0001-97",
+    "foundingDate": "1998-09-23",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.ccr.com.br",
+    "wikidata": "Q1121225",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1121225",
+      "https://pt.wikipedia.org/wiki/Motiva",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18821/MOTV/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Motiva",
     "legalName": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
@@ -141,7 +163,7 @@
   },
   "volatility": {
     "level": "muito alta",
-    "explanation": "A volatilidade anualizada da MOTV3 nos 12 meses até 28/10/2026 foi de 43,85%, nível classificado como muito alta. O beta de 1,57 contra o Ibovespa indica que a ação tende a oscilar 1,57 vezes mais que o índice. A maior queda nos últimos 5 anos foi de -29,94%, do pico em 12/08/2022 ao ponto mais baixo em 03/01/2023. Para ativos de infraestrutura, essa volatilidade reflete a sensibilidade a mudanças regulatórias e contratuais. Utilize os [alertas de preço no StockBar](/recursos/alertas-de-preco) para acompanhar movimentos de preço."
+    "explanation": "A volatilidade anualizada da MOTV3 nos 12 meses até 28/10/2026 foi de 43,85%, nível classificado como muito alta. O beta de 1,57 contra o Ibovespa indica que a ação tende a oscilar 1,57 vezes mais que o índice. A maior queda nos últimos 5 anos foi de -29,94%, do pico em 12/08/2022 ao ponto mais baixo em 03/01/2023. Para ativos de infraestrutura, essa volatilidade reflete a sensibilidade a mudanças regulatórias e contratuais. Utilize os [alertas de preço no app](/recursos/alertas-de-preco) para acompanhar movimentos de preço."
   },
   "history": {
     "overview": "A Motiva Infraestrutura de Mobilidade S.A. tem origem na constituição da CCR em 23 de setembro de 1998, reunindo participações de grupos empresariais em concessionárias de transporte rodoviário como a Ponte S/A, a NovaDutra e a ViaLagos. Em 2000, a empresa obteve registro de companhia aberta na CVM e, em 2002, iniciou a cotação de suas ações na B3, aderindo ao segmento Novo Mercado. Ao longo das décadas seguintes, a companhia expandiu sua atuação para concessões rodoviárias federais e estaduais, mobilidade urbana e aeroportos, incorporando ativos como a ViaOeste, a ViaQuatro e o BH Airport. Em 2019, no âmbito da Operação Integração, a RodoNorte, controlada pela empresa, firmou acordo de leniência com o Ministério Público Federal, resultando em pagamentos a usuários de rodovias. Em 2025, a empresa anunciou a adoção da marca Motiva, substituindo o Grupo CCR, e iniciou a venda de sua plataforma de aeroportos para focar em rodovias e trilhos no Brasil.",
@@ -217,23 +239,23 @@
     {
       "id": "proventos",
       "heading": "MOTV3 paga dividendos?",
-      "body": "Nos 12 meses até 28/10/2026, a MOTV3 distribuiu R$ 0,9314 por ação em 3 pagamentos, resultando em dividend yield de 6,45%. O último pagamento foi de R$ 0,7233 em 08/09/2026. A companhia remunera seus acionistas por meio de dividendos, conforme os comunicados da B3. Para acompanhar os dividendos e JCP da MOTV3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 28/10/2026, a MOTV3 distribuiu R$ 0,9314 por ação em 3 pagamentos, resultando em dividend yield de 6,45%. O último pagamento foi de R$ 0,7233 em 08/09/2026. A companhia remunera seus acionistas por meio de dividendos, conforme os comunicados da B3. Para acompanhar os dividendos e JCP da MOTV3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da MOTV3",
-      "body": "A rentabilidade total com proventos da MOTV3 nos 12 meses até 28/10/2026 foi de -2,80%. Nos 3 anos, a rentabilidade foi de 34,24%, e nos 5 anos, de 46,86%. Nos 10 anos, a rentabilidade foi de 20,08%. Para comparar a rentabilidade da MOTV3 com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+      "body": "A rentabilidade total com proventos da MOTV3 nos 12 meses até 28/10/2026 foi de -2,80%. Nos 3 anos, a rentabilidade foi de 34,24%, e nos 5 anos, de 46,86%. Nos 10 anos, a rentabilidade foi de 20,08%. Para comparar a rentabilidade da MOTV3 com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices no app](/recursos/comparacao-com-indices)."
     },
     {
       "id": "riscos",
       "heading": "Riscos da MOTV3",
-      "body": "A volatilidade anualizada da MOTV3 nos 12 meses até 28/10/2026 foi de 43,85%, classificada como muito alta. O beta de 1,57 indica que a ação tende a oscilar mais que o Ibovespa. A maior queda nos últimos 5 anos foi de -29,94%, do pico em 12/08/2022 ao ponto mais baixo em 03/01/2023. Riscos setoriais incluem mudanças regulatórias, contratos de concessão e eventos como a Operação Integração, que impactou a RodoNorte em 2019. Para monitorar movimentos de preço, utilize os [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+      "body": "A volatilidade anualizada da MOTV3 nos 12 meses até 28/10/2026 foi de 43,85%, classificada como muito alta. O beta de 1,57 indica que a ação tende a oscilar mais que o Ibovespa. A maior queda nos últimos 5 anos foi de -29,94%, do pico em 12/08/2022 ao ponto mais baixo em 03/01/2023. Riscos setoriais incluem mudanças regulatórias, contratos de concessão e eventos como a Operação Integração, que impactou a RodoNorte em 2019. Para monitorar movimentos de preço, utilize os [alertas de preço no app](/recursos/alertas-de-preco)."
     }
   ],
   "faq": [
     {
       "question": "MOTV3 paga dividendos?",
-      "answer": "Sim, a MOTV3 distribui dividendos. Nos 12 meses até 28/10/2026, foram pagos R$ 0,9314 por ação em 3 pagamentos, com dividend yield de 6,45%. O último pagamento foi de R$ 0,7233 em 08/09/2026. Acompanhe os pagamentos no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, a MOTV3 distribui dividendos. Nos 12 meses até 28/10/2026, foram pagos R$ 0,9314 por ação em 3 pagamentos, com dividend yield de 6,45%. O último pagamento foi de R$ 0,7233 em 08/09/2026. Acompanhe os pagamentos no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre MOTV3 e ações preferenciais?",
@@ -245,11 +267,11 @@
     },
     {
       "question": "Qual a rentabilidade da MOTV3?",
-      "answer": "A rentabilidade total com proventos da MOTV3 nos 12 meses até 28/10/2026 foi de -2,80%. Nos 3 anos, foi de 34,24%, e nos 5 anos, de 46,86%. Compare com o Ibovespa no recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+      "answer": "A rentabilidade total com proventos da MOTV3 nos 12 meses até 28/10/2026 foi de -2,80%. Nos 3 anos, foi de 34,24%, e nos 5 anos, de 46,86%. Compare com o Ibovespa no recurso de [comparação com índices no app](/recursos/comparacao-com-indices)."
     },
     {
       "question": "MOTV3 é volátil?",
-      "answer": "Sim, a volatilidade anualizada da MOTV3 nos 12 meses até 28/10/2026 foi de 43,85%, nível muito alto. O beta de 1,57 indica oscilação maior que o Ibovespa. A maior queda em 5 anos foi de -29,94%. Utilize os [alertas de preço no StockBar](/recursos/alertas-de-preco) para monitorar."
+      "answer": "Sim, a volatilidade anualizada da MOTV3 nos 12 meses até 28/10/2026 foi de 43,85%, nível muito alto. O beta de 1,57 indica oscilação maior que o Ibovespa. A maior queda em 5 anos foi de -29,94%. Utilize os [alertas de preço no app](/recursos/alertas-de-preco) para monitorar."
     },
     {
       "question": "Quem controla a Motiva?",
@@ -260,22 +282,22 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da MOTV3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {
         "feature": "comparacao-com-indices",
-        "anchor": "comparação com índices no StockBar",
+        "anchor": "comparação com índices no app",
         "context": "Compare a rentabilidade da MOTV3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
       },
       {
         "feature": "alertas-de-preco",
-        "anchor": "alertas de preço no StockBar",
+        "anchor": "alertas de preço no app",
         "context": "Receba notificações quando a MOTV3 chegar ao preço que você escolheu, útil para monitorar a volatilidade."
       },
       {
         "feature": "carteira-consolidada",
-        "anchor": "carteira consolidada no StockBar",
+        "anchor": "carteira consolidada no app",
         "context": "Veja a MOTV3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação por classe."
       }
     ],

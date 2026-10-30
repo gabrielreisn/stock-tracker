@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "RENT3: história, dividendos e volatilidade",
     "description": "Conheça a Localiza Rent a Car S.A. (RENT3): história, dividendos, volatilidade e desempenho da ação na B3. Atualizado até 29/10/2026.",
@@ -19,6 +20,28 @@
     ]
   },
   "summary": "RENT3 é a ação ordinária da Localiza Rent a Car S.A., empresa brasileira de aluguel de veículos e gestão de frotas. Fundada em 1973, a companhia opera cerca de 950 agências e possui uma frota superior a 669 mil veículos no Brasil e na América do Sul. Em 29/10/2026, a ação era cotada a R$ 29,03, com dividend yield de 7,33% nos últimos 12 meses e volatilidade anualizada de 67,34%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Localiza",
+    "legalName": "LOCALIZA RENT A CAR SA",
+    "ticker": "BVMF RENT3",
+    "isin": "BRRENTACNOR4",
+    "taxId": "16.670.085/0001-55",
+    "foundingDate": "1973-09-14",
+    "address": {
+      "locality": "Belo Horizonte",
+      "region": "MG",
+      "country": "BR"
+    },
+    "website": "https://www.localiza.com",
+    "wikidata": "Q10319490",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q10319490",
+      "https://pt.wikipedia.org/wiki/Localiza",
+      "https://en.wikipedia.org/wiki/Localiza",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19739/RENT/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Localiza",
     "legalName": "LOCALIZA RENT A CAR SA",
@@ -217,7 +240,7 @@
     {
       "id": "proventos",
       "heading": "RENT3 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a RENT3 distribuiu R$ 2,1293 por ação em 4 pagamentos, resultando em um dividend yield de 7,33%. O último pagamento foi de R$ 0,5566 em 28/09/2026. A empresa tem histórico de distribuição de juros sobre o capital próprio (JCP), com fatos relevantes registrados em 2025 e 2026. Para acompanhar os dividendos e JCP da RENT3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 29/10/2026, a RENT3 distribuiu R$ 2,1293 por ação em 4 pagamentos, resultando em um dividend yield de 7,33%. O último pagamento foi de R$ 0,5566 em 28/09/2026. A empresa tem histórico de distribuição de juros sobre o capital próprio (JCP), com fatos relevantes registrados em 2025 e 2026. Para acompanhar os dividendos e JCP da RENT3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
@@ -233,7 +256,7 @@
   "faq": [
     {
       "question": "RENT3 paga dividendos?",
-      "answer": "Sim, a RENT3 distribui juros sobre o capital próprio (JCP). Nos 12 meses até 29/10/2026, a ação distribuiu R$ 2,1293 por ação em 4 pagamentos, com dividend yield de 7,33%. O último pagamento foi de R$ 0,5566 em 28/09/2026. Para acompanhar os proventos, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, a RENT3 distribui juros sobre o capital próprio (JCP). Nos 12 meses até 29/10/2026, a ação distribuiu R$ 2,1293 por ação em 4 pagamentos, com dividend yield de 7,33%. O último pagamento foi de R$ 0,5566 em 28/09/2026. Para acompanhar os proventos, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre RENT3 e RENT4?",
@@ -260,7 +283,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da RENT3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

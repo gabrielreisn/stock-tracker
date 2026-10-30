@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "UGPA3: história, dividendos e volatilidade",
     "description": "Conheça a Ultrapar (UGPA3): holding da Ipiranga, Ultragaz e Ultracargo. Veja rentabilidade, dividendos, volatilidade e riscos da ação da B3.",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "UGPA3 é a ação ordinária da Ultrapar Participações S.A., holding brasileira do Grupo Ultra com atuação em mobilidade, energia e infraestrutura logística. A companhia controla a Ipiranga, Ultragaz, Ultracargo e Hidrovias do Brasil. Em 29/10/2026, a ação estava cotada a R$ 32,01, com rentabilidade total de 66,45% nos últimos 12 meses e dividend yield de 6,25%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Ultrapar",
+    "legalName": "ULTRAPAR PARTICIPAÇÕES SA",
+    "ticker": "BVMF UGPA3",
+    "isin": "BRUGPAACNOR8",
+    "taxId": "33.256.439/0001-39",
+    "foundingDate": "1953-12-11",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.ultra.com.br",
+    "wikidata": "Q1579222",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1579222",
+      "https://pt.wikipedia.org/wiki/Grupo_Ultra",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18465/UGPA/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Ultrapar",
     "legalName": "ULTRAPAR PARTICIPAÇÕES SA",
@@ -229,7 +251,7 @@
     {
       "id": "proventos",
       "heading": "UGPA3 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a UGPA3 distribuiu R$ 2,0000 por ação em 2 pagamentos, resultando em dividend yield de 6,25%. O último pagamento foi de R$ 1,0000 em 25/08/2026. A companhia tem histórico de remuneração aos acionistas, com proventos regulares. No StockBar, é possível acompanhar os dividendos e JCP da UGPA3 com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 29/10/2026, a UGPA3 distribuiu R$ 2,0000 por ação em 2 pagamentos, resultando em dividend yield de 6,25%. O último pagamento foi de R$ 1,0000 em 25/08/2026. A companhia tem histórico de remuneração aos acionistas, com proventos regulares. No app, é possível acompanhar os dividendos e JCP da UGPA3 com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
@@ -245,7 +267,7 @@
   "faq": [
     {
       "question": "UGPA3 paga dividendos?",
-      "answer": "Sim, a UGPA3 distribui proventos regularmente. Nos 12 meses até 29/10/2026, foram pagos R$ 2,0000 por ação em 2 pagamentos, com dividend yield de 6,25%. O último pagamento foi de R$ 1,0000 em 25/08/2026. No StockBar, você pode acompanhar o histórico de dividendos e JCP com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, a UGPA3 distribui proventos regularmente. Nos 12 meses até 29/10/2026, foram pagos R$ 2,0000 por ação em 2 pagamentos, com dividend yield de 6,25%. O último pagamento foi de R$ 1,0000 em 25/08/2026. No app, você pode acompanhar o histórico de dividendos e JCP com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre UGPA3 e UGPA4?",
@@ -257,7 +279,7 @@
     },
     {
       "question": "Qual a rentabilidade da UGPA3 nos últimos 12 meses?",
-      "answer": "A rentabilidade total com proventos da UGPA3 nos 12 meses até 29/10/2026 foi de 66,45%. Para comparar esse resultado com o Ibovespa, CDI e outros índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que mostra a rentabilidade da carteira lado a lado com os benchmarks."
+      "answer": "A rentabilidade total com proventos da UGPA3 nos 12 meses até 29/10/2026 foi de 66,45%. Para comparar esse resultado com o Ibovespa, CDI e outros índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade da carteira lado a lado com os benchmarks."
     },
     {
       "question": "A UGPA3 é uma ação do Novo Mercado?",
@@ -276,7 +298,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da UGPA3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

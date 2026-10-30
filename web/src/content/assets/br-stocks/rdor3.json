@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "RDOR3: história, dividendos e volatilidade",
     "description": "RDOR3 é a ação da Rede D'Or São Luiz, maior grupo hospitalar privado do Brasil. Veja dividendos, volatilidade e desempenho em 28/10/2026.",
@@ -19,6 +20,24 @@
     ]
   },
   "summary": "RDOR3 é a ação ordinária da Rede D'Or São Luiz S.A., o maior grupo hospitalar privado do Brasil, com 76 hospitais próprios e três administrados. A empresa opera no setor de saúde, segmento de serviços médicos, hospitalares, análises e diagnósticos. Em 28/10/2026, a ação estava cotada a R$ 33,69 na B3, com dividend yield de 12,49% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Rede D'Or São Luiz S.A.",
+    "legalName": "REDE D'OR SÃO LUIZ S.A.",
+    "ticker": "BVMF RDOR3",
+    "isin": "BRRDORACNOR8",
+    "taxId": "06.047.087/0001-39",
+    "foundingDate": "2011-10-31",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/Rede_D'Or_S%C3%A3o_Luiz",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24821/RDOR/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Rede D'Or São Luiz S.A.",
     "legalName": "REDE D'OR SÃO LUIZ S.A.",
@@ -140,7 +159,7 @@
   },
   "volatility": {
     "level": "muito alta",
-    "explanation": "A RDOR3 tem volatilidade anualizada de 40,88% nos 12 meses até 28/10/2026, nível muito alto para uma ação brasileira. A maior queda em 5 anos foi de -67,37%, entre 03/11/2021 e 28/03/2023. Esse nível de volatilidade é superior ao comum para ações de saúde, refletindo a sensibilidade a fatores regulatórios e de mercado. No StockBar, [alertas de preço](/recursos/alertas-de-preco) permitem definir limites de acompanhamento."
+    "explanation": "A RDOR3 tem volatilidade anualizada de 40,88% nos 12 meses até 28/10/2026, nível muito alto para uma ação brasileira. A maior queda em 5 anos foi de -67,37%, entre 03/11/2021 e 28/03/2023. Esse nível de volatilidade é superior ao comum para ações de saúde, refletindo a sensibilidade a fatores regulatórios e de mercado. No app, [alertas de preço](/recursos/alertas-de-preco) permitem definir limites de acompanhamento."
   },
   "history": {
     "overview": "A Rede D'Or São Luiz S.A. tem origem em 1977, quando o cardiologista Jorge Moll Filho fundou a Cardiolab, uma clínica de diagnósticos por imagem no Rio de Janeiro. Nos anos 1980 e 1990, a empresa expandiu-se e transformou-se no Grupo Labs. Em 1998, após a aquisição de um hotel em Copacabana, inaugurou o Hospital Copa d'Or, seguido pelo Hospital Barra D'Or, o primeiro da rede, e o Hospital Quinta D'Or. Em 2010, a rede de diagnósticos foi vendida ao Grupo Fleury, e a empresa passou a focar em hospitais de alta complexidade, adquirindo a rede São Luiz em 2011. A constituição formal da Rede D'Or São Luiz S.A. ocorreu em 31/10/2011, com registro na CVM em 21/10/2019 e início de cotação na B3 em 10/12/2020. A expansão geográfica incluiu unidades em Brasília, Campo Grande, Sergipe, Bahia e Maranhão, além da linha de luxo Star, iniciada em 2016. Em 2022, a empresa firmou acordo de associação com a SulAmérica e tornou-se acionista da Qualicorp. Em 2025, alienou a GSH Corp Participações e firmou o Acordo Atlântica D'Or Glória, enquanto em 2026 anunciou novos programas de recompra de ações e acordos de acionistas da família Moll.",
@@ -226,23 +245,23 @@
     {
       "id": "proventos",
       "heading": "RDOR3 paga dividendos?",
-      "body": "Nos 12 meses até 28/10/2026, a RDOR3 distribuiu R$ 4,2077 por ação em 4 pagamentos, resultando em dividend yield de 12,49%. O último pagamento foi de R$ 0,1841 em 25/09/2026. A empresa anunciou a distribuição de Juros sobre Capital Próprio, Dividendos Intermediários e Dividendos Intercalares em 12/12/2025. No StockBar, é possível acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) com data de pagamento e multiplicados pela quantidade de ações na carteira."
+      "body": "Nos 12 meses até 28/10/2026, a RDOR3 distribuiu R$ 4,2077 por ação em 4 pagamentos, resultando em dividend yield de 12,49%. O último pagamento foi de R$ 0,1841 em 25/09/2026. A empresa anunciou a distribuição de Juros sobre Capital Próprio, Dividendos Intermediários e Dividendos Intercalares em 12/12/2025. No app, é possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data de pagamento e multiplicados pela quantidade de ações na carteira."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da RDOR3",
-      "body": "Em 28/10/2026, a RDOR3 estava cotada a R$ 33,69. A rentabilidade total com proventos foi de -12,71% em 12 meses, 79,13% em 3 anos e -32,86% em 5 anos. No StockBar, a [comparação com índices](/recursos/comparacao-com-indices) permite ver a performance da RDOR3 lado a lado com o Ibovespa, CDI e outros benchmarks no mesmo gráfico."
+      "body": "Em 28/10/2026, a RDOR3 estava cotada a R$ 33,69. A rentabilidade total com proventos foi de -12,71% em 12 meses, 79,13% em 3 anos e -32,86% em 5 anos. No app, a [comparação com índices](/recursos/comparacao-com-indices) permite ver a performance da RDOR3 lado a lado com o Ibovespa, CDI e outros benchmarks no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos da RDOR3",
-      "body": "A RDOR3 apresenta volatilidade anualizada de 40,88% nos últimos 12 meses, nível classificado como muito alta. O beta contra o Ibovespa é de 1,31, indicando maior sensibilidade às oscilações do mercado. A maior queda em 5 anos foi de -67,37%, do pico em 03/11/2021 ao ponto mais baixo em 28/03/2023. Riscos setoriais incluem regulação do SUS, mudanças em políticas de saúde e concorrência. No StockBar, [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar oscilações sem sugerir operações."
+      "body": "A RDOR3 apresenta volatilidade anualizada de 40,88% nos últimos 12 meses, nível classificado como muito alta. O beta contra o Ibovespa é de 1,31, indicando maior sensibilidade às oscilações do mercado. A maior queda em 5 anos foi de -67,37%, do pico em 03/11/2021 ao ponto mais baixo em 28/03/2023. Riscos setoriais incluem regulação do SUS, mudanças em políticas de saúde e concorrência. No app, [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar oscilações sem sugerir operações."
     }
   ],
   "faq": [
     {
       "question": "RDOR3 paga dividendos?",
-      "answer": "Sim, a RDOR3 distribui dividendos e JCP. Nos 12 meses até 28/10/2026, foram R$ 4,2077 por ação em 4 pagamentos, com dividend yield de 12,49%. O último pagamento foi de R$ 0,1841 em 25/09/2026. No StockBar, os [dividendos e JCP no StockBar](/recursos/proventos) mostram a data de pagamento e o valor multiplicado pela quantidade de ações."
+      "answer": "Sim, a RDOR3 distribui dividendos e JCP. Nos 12 meses até 28/10/2026, foram R$ 4,2077 por ação em 4 pagamentos, com dividend yield de 12,49%. O último pagamento foi de R$ 0,1841 em 25/09/2026. No app, os [dividendos e JCP no app](/recursos/proventos) mostram a data de pagamento e o valor multiplicado pela quantidade de ações."
     },
     {
       "question": "Qual a diferença entre RDOR3 e ações preferenciais?",
@@ -254,22 +273,22 @@
     },
     {
       "question": "Qual a volatilidade da RDOR3?",
-      "answer": "A RDOR3 tem volatilidade anualizada de 40,88% nos 12 meses até 28/10/2026, nível muito alto. O beta contra o Ibovespa é de 1,31, indicando maior sensibilidade às oscilações do mercado. No StockBar, [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar oscilações."
+      "answer": "A RDOR3 tem volatilidade anualizada de 40,88% nos 12 meses até 28/10/2026, nível muito alto. O beta contra o Ibovespa é de 1,31, indicando maior sensibilidade às oscilações do mercado. No app, [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar oscilações."
     },
     {
       "question": "RDOR3 tem recompra de ações?",
       "answer": "Sim, a Rede D'Or São Luiz S.A. anunciou programas de recompra de ações em 15/12/2025 e 10/06/2026. Esses programas permitem que a empresa recompre suas próprias ações no mercado, o que pode impactar a oferta e a demanda das ações."
     },
     {
-      "question": "Como acompanhar a RDOR3 no StockBar?",
-      "answer": "No StockBar, é possível acompanhar a RDOR3 com [carteira consolidada](/recursos/carteira-consolidada), que mostra a posição junto a outros ativos, e com o [assistente de IA](/recursos/assistente-de-ia), que responde perguntas em português sobre a carteira."
+      "question": "Como acompanhar a RDOR3 no app?",
+      "answer": "No app, é possível acompanhar a RDOR3 com [carteira consolidada](/recursos/carteira-consolidada), que mostra a posição junto a outros ativos, e com o [assistente de IA](/recursos/assistente-de-ia), que responde perguntas em português sobre a carteira."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da RDOR3 com data de pagamento, multiplicados pela sua quantidade de ações."
       },
       {

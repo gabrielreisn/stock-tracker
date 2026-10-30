@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "GGBR4: história, dividendos e volatilidade",
     "description": "GGBR4 é a ação preferencial da Gerdau S.A., maior produtora de aço do Brasil. Veja dividendos, volatilidade e desempenho até 28/10/2026.",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "GGBR4 é a ação preferencial da Gerdau S.A., a maior produtora de aço do Brasil e uma das principais fornecedoras de aços longos nas Américas. A empresa opera no setor de Materiais Básicos, com foco em siderurgia e reciclagem, utilizando sucata como matéria-prima principal. Em 28/10/2026, a ação estava cotada a R$ 24,09 na B3, com dividend yield de 3,28% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Gerdau",
+    "legalName": "GERDAU S.A.",
+    "ticker": "BVMF GGBR4",
+    "isin": "BRGGBRACNPR8",
+    "taxId": "33.611.500/0001-19",
+    "foundingDate": "1961-11-20",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.gerdau.com",
+    "wikidata": "Q1511043",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1511043",
+      "https://pt.wikipedia.org/wiki/Gerdau",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/3980/GGBR/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Gerdau S.A.",
     "legalName": "GERDAU S.A.",
@@ -143,7 +165,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A volatilidade anualizada da GGBR4 é de 30,05% nos últimos 12 meses, nível classificado como 'alta'. O beta de 0,45 contra o Ibovespa indica que a ação tende a ser menos volátil que o índice. A maior queda nos últimos 5 anos foi de -41,12%, do pico em 19/01/2023 ao ponto mais baixo em 08/04/2025. Para acompanhar a variação de preço e definir pontos de entrada ou saída, use os [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+    "explanation": "A volatilidade anualizada da GGBR4 é de 30,05% nos últimos 12 meses, nível classificado como 'alta'. O beta de 0,45 contra o Ibovespa indica que a ação tende a ser menos volátil que o índice. A maior queda nos últimos 5 anos foi de -41,12%, do pico em 19/01/2023 ao ponto mais baixo em 08/04/2025. Para acompanhar a variação de preço e definir pontos de entrada ou saída, use os [alertas de preço](/recursos/alertas-de-preco) no app."
   },
   "history": {
     "overview": "A Gerdau S.A. tem origem na fábrica de pregos Pontas de Paris, comprada por João Gerdau em 1901 em Porto Alegre. A companhia foi constituída formalmente em 20/11/1961 e registrou-se como companhia aberta na CVM em 03/09/1980, iniciando a cotação na B3 em 01/02/2001. Hoje, a Gerdau é a maior recicladora da América Latina, com 73% do aço produzido a partir de sucata, e possui operações em 10 países, com mais de 30 mil colaboradores. A estrutura acionária é controlada pela Metalúrgica Gerdau, holding familiar, e a empresa mantém um programa ativo de recompra e cancelamento de ações, com múltiplos eventos registrados entre 2025 e 2026.",
@@ -204,12 +226,12 @@
     {
       "id": "proventos",
       "heading": "GGBR4 paga dividendos?",
-      "body": "Nos 12 meses até 28/10/2026, a GGBR4 distribuiu R$ 0,7900 por ação em 4 pagamentos, resultando em dividend yield de 3,28%. O último pagamento foi de R$ 0,2300 em 20/08/2026. A empresa mantém um programa ativo de recompra e cancelamento de ações, com múltiplos eventos registrados entre 2025 e 2026, o que pode impactar a oferta de ações no mercado. Veja os [dividendos e JCP no StockBar](/recursos/proventos) para acompanhar as datas de pagamento e a quantidade de ações que você possui."
+      "body": "Nos 12 meses até 28/10/2026, a GGBR4 distribuiu R$ 0,7900 por ação em 4 pagamentos, resultando em dividend yield de 3,28%. O último pagamento foi de R$ 0,2300 em 20/08/2026. A empresa mantém um programa ativo de recompra e cancelamento de ações, com múltiplos eventos registrados entre 2025 e 2026, o que pode impactar a oferta de ações no mercado. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar as datas de pagamento e a quantidade de ações que você possui."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da GGBR4",
-      "body": "A GGBR4 teve rentabilidade total com proventos de 35,53% nos 12 meses até 28/10/2026, 48,88% em 3 anos e 59,22% em 5 anos. Em 10 anos, a rentabilidade foi de 343,08%. O volume médio negociado por dia nos últimos 3 meses foi de R$ 268,9 milhões. Para comparar com o Ibovespa e o CDI, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+      "body": "A GGBR4 teve rentabilidade total com proventos de 35,53% nos 12 meses até 28/10/2026, 48,88% em 3 anos e 59,22% em 5 anos. Em 10 anos, a rentabilidade foi de 343,08%. O volume médio negociado por dia nos últimos 3 meses foi de R$ 268,9 milhões. Para comparar com o Ibovespa e o CDI, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
     },
     {
       "id": "riscos",
@@ -220,7 +242,7 @@
   "faq": [
     {
       "question": "GGBR4 paga dividendos?",
-      "answer": "Sim, a GGBR4 distribui dividendos. Nos 12 meses até 28/10/2026, foram R$ 0,7900 por ação em 4 pagamentos, com dividend yield de 3,28%. O último pagamento foi de R$ 0,2300 em 20/08/2026. Veja os [dividendos e JCP no StockBar](/recursos/proventos) para acompanhar as datas de pagamento."
+      "answer": "Sim, a GGBR4 distribui dividendos. Nos 12 meses até 28/10/2026, foram R$ 0,7900 por ação em 4 pagamentos, com dividend yield de 3,28%. O último pagamento foi de R$ 0,2300 em 20/08/2026. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar as datas de pagamento."
     },
     {
       "question": "Qual a diferença entre GGBR3 e GGBR4?",
@@ -247,7 +269,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da GGBR4 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

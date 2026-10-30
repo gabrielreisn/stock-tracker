@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { AssetPageView } from "@/components/asset-page";
 import { assetPage, assetSlugs, type AssetList } from "@/lib/assets";
+import { siteName } from "@/lib/site";
 
 // What /acoes/[slug], /etfs/[slug] and /fiis/[slug] share: the pages written for their list, prerendered at build time.
 // Any other slug is a 404 (with Cache Components, `dynamicParams = false` isn't available: the page calls notFound()).
@@ -20,7 +21,15 @@ export async function assetMetadata(list: AssetList, params: Params): Promise<Me
     description: page.seo.description,
     keywords: page.seo.keywords,
     alternates: { canonical: page.seo.canonicalPath },
-    openGraph: { title: page.seo.title, description: page.seo.description, type: "article", locale: "pt_BR" },
+    openGraph: {
+      title: page.seo.title,
+      description: page.seo.description,
+      url: page.seo.canonicalPath,
+      type: "article",
+      locale: "pt_BR",
+      siteName,
+      modifiedTime: page.updatedAt,
+    },
   };
 }
 

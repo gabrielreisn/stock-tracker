@@ -3,27 +3,19 @@ import { Markdown } from "@/components/markdown";
 import { PriceChart } from "@/components/price-chart";
 import { assetPaths, listNames, type AssetPage } from "@/lib/assets";
 import { date, decimal, percent } from "@/lib/format";
+import { assetJsonLd } from "@/lib/json-ld";
 import features from "@/data/app-features.json";
 
 const featurePath = (slug: string) => features.features.find((f) => f.slug === slug)?.path ?? "/download";
 
-/** Structured data for search engines and AI answer engines: the FAQ and the breadcrumb. */
-function jsonLd(page: AssetPage) {
-  const graph = [
-    {
-      "@type": "FAQPage",
-      mainEntity: page.faq.map((f) => ({ "@type": "Question", name: f.question, acceptedAnswer: { "@type": "Answer", text: f.answer.replace(/\[([^\]]+)\]\([^)]*\)/g, "$1") } })),
-    },
-    {
-      "@type": "BreadcrumbList",
-      itemListElement: [
-        { "@type": "ListItem", position: 1, name: listNames[page.list], item: assetPaths[page.list] },
-        { "@type": "ListItem", position: 2, name: page.ticker, item: page.seo.canonicalPath },
-      ],
-    },
-  ];
-  // "<" escaped so the JSON can't close the script tag.
-  return JSON.stringify({ "@context": "https://schema.org", "@graph": graph }).replace(/</g, "\\u003c");
+/** What a reference page is, from its address: the links in "Links oficiais". */
+function linkLabel(url: string): string {
+  const host = new URL(url).hostname;
+  if (host === "www.wikidata.org") return "Wikidata";
+  if (host.endsWith("wikipedia.org")) return `Wikipédia (${host.split(".")[0]})`;
+  if (host.includes("b3.com.br")) return "Página na B3";
+  if (host.startsWith("fnet.")) return "Documentos do fundo no FNET (B3)";
+  return host.replace(/^www\./, "");
 }
 
 function SourceRef({ index }: { index?: number }) {
@@ -63,7 +55,7 @@ export function AssetPageView({ page }: { page: AssetPage }) {
 
   return (
     <main className="mx-auto w-full max-w-3xl px-4 py-10 text-[1.0625rem] leading-7 text-zinc-800 sm:px-6 dark:text-zinc-200">
-      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd(page) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: assetJsonLd(page) }} />
 
       <nav className="mb-6 text-sm text-zinc-500">
         <Link href={assetPaths[page.list]} className="hover:text-zinc-800 dark:hover:text-zinc-200">{listNames[page.list]}</Link>
@@ -105,6 +97,21 @@ export function AssetPageView({ page }: { page: AssetPage }) {
               </div>
             ))}
           </dl>
+          {page.entity && (page.entity.website || page.entity.sameAs.length > 0 || page.entity.provider?.url) && (
+            <p className="mt-4 text-[0.95rem]">
+              <span className="text-zinc-500">Links oficiais: </span>
+              {[
+                page.entity.website && { url: page.entity.website, label: `Site ${page.list === "br-stocks" ? "da empresa" : "do fundo"} (${linkLabel(page.entity.website)})` },
+                page.entity.provider?.url && { url: page.entity.provider.url, label: `${page.list === "fiis" ? "Administrador" : "Emissora"}: ${page.entity.provider.name}` },
+                ...page.entity.sameAs.map((url) => ({ url, label: linkLabel(url) })),
+              ].filter((l): l is { url: string; label: string } => Boolean(l)).map((l, i) => (
+                <span key={l.url}>
+                  {i > 0 && <span className="text-zinc-400"> · </span>}
+                  <a href={l.url} rel="noopener" target="_blank" className="font-medium text-emerald-700 underline decoration-emerald-700/30 underline-offset-2 hover:decoration-emerald-700 dark:text-emerald-400">{l.label}</a>
+                </span>
+              ))}
+            </p>
+          )}
         </Section>
 
         <Section id="historia" title={page.list === "br-stocks" ? `História da ${page.profile.name}` : `História ${of} ${page.ticker}`}>
@@ -150,7 +157,7 @@ export function AssetPageView({ page }: { page: AssetPage }) {
         </Section>
 
         <section className="rounded-2xl bg-zinc-100 p-6 dark:bg-zinc-900">
-          <h2 className="text-xl font-semibold">Acompanhe {the} {page.ticker} no StockBar</h2>
+          <h2 className="text-xl font-semibold">Acompanhe {the} {page.ticker} no app</h2>
           <p className="mt-1 text-zinc-600 dark:text-zinc-400">O app de Mac para acompanhar ações, FIIs, ETFs, renda fixa e gastos.</p>
           <ul className="mt-4 space-y-3">
             {page.internalLinks.features.map((f) => (
@@ -160,7 +167,7 @@ export function AssetPageView({ page }: { page: AssetPage }) {
               </li>
             ))}
           </ul>
-          <Link href="/download" className="mt-5 inline-block rounded-lg bg-zinc-900 px-4 py-2 text-sm font-semibold text-white hover:bg-zinc-700 dark:bg-white dark:text-zinc-900 dark:hover:bg-zinc-200">Baixar o StockBar</Link>
+          <Link href="/download" className="mt-5 inline-block rounded-lg bg-zinc-900 px-4 py-2 text-sm font-semibold text-white hover:bg-zinc-700 dark:bg-white dark:text-zinc-900 dark:hover:bg-zinc-200">Baixar o app</Link>
         </section>
 
         <Section id="relacionados" title="Ativos relacionados">

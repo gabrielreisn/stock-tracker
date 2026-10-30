@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "RZTR11: FII de agronegócio, dividendos e desempenho",
     "description": "Conheça o RZTR11, FII de agronegócio da Riza Asset Management, com dividend yield de 15,52% e patrimônio de R$ 3,69 bilhões.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "RZTR11 é a cota do Fundo de Investimento Imobiliário Riza Terrax, um FII de agronegócio focado em arrendamento, compra e venda de terras agrícolas no Brasil. Com patrimônio de R$ 3,69 bilhões em setembro de 2026, o fundo opera em três estratégias: Sale & Leaseback, Buy to Lease e Land Equity. A cota fechou em R$ 74,10 em 28/10/2026, com dividend yield de 15,52% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário Riza Terrax Responsabilidade Limitada",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO RIZA TERRAX RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RZTR11",
+    "isin": "BRRZTRCTF003",
+    "taxId": "36.501.128/0001-86",
+    "foundingDate": "2020-10-02",
+    "provider": {
+      "name": "BANCO GENIAL S.A.",
+      "url": "https://www.genialinvestimentos.com.br/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36501128000186"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, agronegócio",
     "issuerOrManager": "Riza Asset Management (gestora), Banco Genial S.A",
@@ -143,7 +160,7 @@
   },
   "volatility": {
     "level": "moderada",
-    "explanation": "A volatilidade anualizada do RZTR11 nos 12 meses até 28/10/2026 é de 16,64%, nível moderado, com beta de 0,23 contra o Ibovespa, o que indica que o fundo tende a oscilar menos que o índice de ações. A maior queda em 5 anos foi de -17,98%, entre 27/02/2026 e 28/10/2026. Para um FII de agronegócio, essa volatilidade é compatível com a exposição a ativos reais e a riscos climáticos e de crédito dos arrendatários. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no StockBar permite visualizar a trajetória da cota e medir a rentabilidade em períodos específicos."
+    "explanation": "A volatilidade anualizada do RZTR11 nos 12 meses até 28/10/2026 é de 16,64%, nível moderado, com beta de 0,23 contra o Ibovespa, o que indica que o fundo tende a oscilar menos que o índice de ações. A maior queda em 5 anos foi de -17,98%, entre 27/02/2026 e 28/10/2026. Para um FII de agronegócio, essa volatilidade é compatível com a exposição a ativos reais e a riscos climáticos e de crédito dos arrendatários. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite visualizar a trajetória da cota e medir a rentabilidade em períodos específicos."
   },
   "history": {
     "overview": "O RZTR11 iniciou suas atividades em 02/10/2020, com o objetivo de gerar retornos no longo prazo por meio de propriedades agrícolas. A gestora Riza Asset Management adota uma abordagem ativa, dividindo o portfólio em três estratégias: Sale & Leaseback (venda de terra com arrendamento de volta), Buy to Lease (compra e arrendamento a terceiros) e Land Equity (participação societária ou compra de terras com potencial de valorização). O fundo atua em regiões consolidadas de produção de grãos e fibras no território nacional, como o médio-norte de Mato Grosso, Tocantins, Paraná, Goiás e Maranhão. Em 2024, o fundo adquiriu a Fazenda San Francisco em Canarana (MT) por R$ 297 milhões, na estratégia de Land Equity, e em 2026 alienou a Fazenda Vale do Rio Celeste por R$ 109 milhões. Em 01/10/2026, o administrador fiduciário foi substituído do Banco Genial S.A. para a Genial Investimentos Corretora de Valores Mobiliários S.A., uma mudança organizacional que não alterou a equipe de gestão nem a política de investimentos.",
@@ -184,7 +201,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do RZTR11",
-      "body": "Nos 12 meses até 28/10/2026, o RZTR11 distribuiu R$ 11,50 por cota em 12 pagamentos, resultando em um dividend yield de 15,52%. O último rendimento pago foi de R$ 0,85 em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o fundo distribuiu R$ 0,85 por cota naquele mês, equivalente a um dividend yield de 1,01%. A data ex-rendimentos é o 1º dia útil do mês subsequente e o pagamento ocorre no 10º dia útil do mês subsequente. Rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Acompanhe os [dividendos e JCP no StockBar](/recursos/proventos) para monitorar os pagamentos recebidos."
+      "body": "Nos 12 meses até 28/10/2026, o RZTR11 distribuiu R$ 11,50 por cota em 12 pagamentos, resultando em um dividend yield de 15,52%. O último rendimento pago foi de R$ 0,85 em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o fundo distribuiu R$ 0,85 por cota naquele mês, equivalente a um dividend yield de 1,01%. A data ex-rendimentos é o 1º dia útil do mês subsequente e o pagamento ocorre no 10º dia útil do mês subsequente. Rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para monitorar os pagamentos recebidos."
     },
     {
       "id": "emissoes",
@@ -194,18 +211,18 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do RZTR11",
-      "body": "A rentabilidade total com proventos do RZTR11 nos 12 meses até 28/10/2026 foi de -9,46%. O desempenho do fundo pode ser comparado com índices no [StockBar](/recursos/comparacao-com-indices), que exibe a rentabilidade lado a lado com CDI, IPCA, Ibovespa, IFIX e S&P 500."
+      "body": "A rentabilidade total com proventos do RZTR11 nos 12 meses até 28/10/2026 foi de -9,46%. O desempenho do fundo pode ser comparado com índices no [app](/recursos/comparacao-com-indices), que exibe a rentabilidade lado a lado com CDI, IPCA, Ibovespa, IFIX e S&P 500."
     },
     {
       "id": "riscos",
       "heading": "Riscos do RZTR11",
-      "body": "O RZTR11 apresenta volatilidade anualizada de 16,64% nos 12 meses até 28/10/2026, classificada como moderada, e beta de 0,23 contra o Ibovespa, indicando baixa sensibilidade ao índice. A maior queda nos últimos 5 anos foi de -17,98%, do pico em 27/02/2026 ao ponto mais baixo em 28/10/2026. Riscos específicos incluem a exposição a condições climáticas que afetam a safra, processos judiciais como a reintegração de posse da Fazenda Bom Jardim, e a concentração em ativos de agronegócio. O volume médio negociado por dia nos últimos 3 meses é de R$ 3,9 milhões, o que pode limitar a liquidez para grandes posições. Use [alertas de preço](/recursos/alertas-de-preco) no StockBar para monitorar movimentos de cota."
+      "body": "O RZTR11 apresenta volatilidade anualizada de 16,64% nos 12 meses até 28/10/2026, classificada como moderada, e beta de 0,23 contra o Ibovespa, indicando baixa sensibilidade ao índice. A maior queda nos últimos 5 anos foi de -17,98%, do pico em 27/02/2026 ao ponto mais baixo em 28/10/2026. Riscos específicos incluem a exposição a condições climáticas que afetam a safra, processos judiciais como a reintegração de posse da Fazenda Bom Jardim, e a concentração em ativos de agronegócio. O volume médio negociado por dia nos últimos 3 meses é de R$ 3,9 milhões, o que pode limitar a liquidez para grandes posições. Use [alertas de preço](/recursos/alertas-de-preco) no app para monitorar movimentos de cota."
     }
   ],
   "faq": [
     {
       "question": "RZTR11 paga dividendos?",
-      "answer": "Sim, o RZTR11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram pagos R$ 11,50 por cota, com dividend yield de 15,52%. O último pagamento foi de R$ 0,85 em 01/10/2026. Rendimentos de FIIs são isentos de imposto de renda para pessoas físicas. Veja os [dividendos e JCP no StockBar](/recursos/proventos) para acompanhar os pagamentos."
+      "answer": "Sim, o RZTR11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram pagos R$ 11,50 por cota, com dividend yield de 15,52%. O último pagamento foi de R$ 0,85 em 01/10/2026. Rendimentos de FIIs são isentos de imposto de renda para pessoas físicas. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos."
     },
     {
       "question": "RZTR11 é FII de papel ou de tijolo?",
@@ -221,7 +238,7 @@
     },
     {
       "question": "RZTR11 é bom para diversificação?",
-      "answer": "O RZTR11 tem beta de 0,23 contra o Ibovespa, o que indica baixa correlação com ações. Isso pode ajudar na diversificação de uma carteira que inclui ações como [PETR4](/acoes/petr4) ou [VALE3](/acoes/vale3). Use a [carteira consolidada](/recursos/carteira-consolidada) no StockBar para ver a alocação por classe e as maiores posições."
+      "answer": "O RZTR11 tem beta de 0,23 contra o Ibovespa, o que indica baixa correlação com ações. Isso pode ajudar na diversificação de uma carteira que inclui ações como [PETR4](/acoes/petr4) ou [VALE3](/acoes/vale3). Use a [carteira consolidada](/recursos/carteira-consolidada) no app para ver a alocação por classe e as maiores posições."
     },
     {
       "question": "O que aconteceu com o administrador do RZTR11?",
@@ -232,7 +249,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os rendimentos do RZTR11 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

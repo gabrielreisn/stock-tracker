@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "ABEV3: história, dividendos e volatilidade",
     "description": "Conheça a ABEV3, ação da AmBev: maior cervejaria do mundo, dividend yield de 5,82%, volatilidade de 27,21% e histórico de recompra. Dados até 29/10/2026.",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "ABEV3 é a ação ordinária da AmBev S.A., a maior fabricante de cervejas do mundo e controladora de cerca de 69% do mercado brasileiro de cervejas. A empresa, pertencente ao grupo AB InBev, atua no setor de consumo não cíclico, produzindo também refrigerantes, energéticos e águas. Em 29/10/2026, a ação era cotada a R$ 14,55 na B3, com dividend yield de 5,82% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "AmBev",
+    "legalName": "AMBEV S.A.",
+    "ticker": "BVMF ABEV3",
+    "isin": "BRABEVACNOR1",
+    "taxId": "07.526.557/0001-00",
+    "foundingDate": "2005-07-08",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://ri.ambev.com.br",
+    "wikidata": "Q2142669",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2142669",
+      "https://pt.wikipedia.org/wiki/Ambev",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/23264/ABEV/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "AmBev",
     "legalName": "AMBEV S.A.",
@@ -204,7 +226,7 @@
     {
       "id": "proventos",
       "heading": "ABEV3 paga dividendos?",
-      "body": "Sim, a ABEV3 paga dividendos. Nos 12 meses até 29/10/2026, a empresa distribuiu R$ 0,8464 por ação em 3 pagamentos, resultando em um dividend yield de 5,82%. O último pagamento registrado foi de R$ 0,0713 em 22/09/2026. A política de remuneração da AmBev é influenciada pela sua estrutura de controle estrangeiro e pela estratégia global do grupo AB InBev, que inclui a distribuição de dividendos e, recentemente, a recompra de ações. Investidores podem acompanhar o histórico completo de dividendos e JCP da ABEV3, com datas de competência e pagamento, no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Sim, a ABEV3 paga dividendos. Nos 12 meses até 29/10/2026, a empresa distribuiu R$ 0,8464 por ação em 3 pagamentos, resultando em um dividend yield de 5,82%. O último pagamento registrado foi de R$ 0,0713 em 22/09/2026. A política de remuneração da AmBev é influenciada pela sua estrutura de controle estrangeiro e pela estratégia global do grupo AB InBev, que inclui a distribuição de dividendos e, recentemente, a recompra de ações. Investidores podem acompanhar o histórico completo de dividendos e JCP da ABEV3, com datas de competência e pagamento, no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
@@ -214,7 +236,7 @@
     {
       "id": "riscos",
       "heading": "Riscos da ABEV3",
-      "body": "A ABEV3 apresenta volatilidade anualizada de 27,21% nos últimos 12 meses, classificada como nível alto. O beta de 0,62 indica que a ação tende a ser menos volátil que o Ibovespa. A maior queda nos últimos 5 anos foi de -28,69%, entre o pico em 05/11/2021 e o ponto mais baixo em 13/06/2024. Riscos setoriais incluem a sensibilidade a mudanças no consumo de bebidas, variações no custo de matérias-primas e a regulação de impostos e publicidade. A empresa também enfrenta riscos operacionais e reputacionais, como denúncias de irregularidades em programas de fidelidade e questões trabalhistas. A volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "A ABEV3 apresenta volatilidade anualizada de 27,21% nos últimos 12 meses, classificada como nível alto. O beta de 0,62 indica que a ação tende a ser menos volátil que o Ibovespa. A maior queda nos últimos 5 anos foi de -28,69%, entre o pico em 05/11/2021 e o ponto mais baixo em 13/06/2024. Riscos setoriais incluem a sensibilidade a mudanças no consumo de bebidas, variações no custo de matérias-primas e a regulação de impostos e publicidade. A empresa também enfrenta riscos operacionais e reputacionais, como denúncias de irregularidades em programas de fidelidade e questões trabalhistas. A volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
@@ -247,7 +269,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da ABEV3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
       },
       {

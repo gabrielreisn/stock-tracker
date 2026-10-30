@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "SBSP3: história, dividendos e volatilidade",
     "description": "Conheça a Sabesp (SBSP3): ação ordinária do setor de saneamento, com dividend yield de 2,76% e volatilidade de 38,28% em 2026.",
@@ -20,6 +21,27 @@
     ]
   },
   "summary": "SBSP3 é a ação ordinária da Companhia de Saneamento Básico do Estado de São Paulo (Sabesp), empresa do setor de utilidade pública que atua em 375 municípios paulistas. Em 2024, o controle acionário foi transferido ao setor privado, com a Equatorial Energia como acionista de referência. Em 29/10/2026, a ação cotava a R$ 25,14, com dividend yield de 2,76% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Sabesp",
+    "legalName": "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO",
+    "ticker": "BVMF SBSP3",
+    "isin": "BRSBSPACNOR5",
+    "taxId": "43.776.517/0001-80",
+    "foundingDate": "1973-09-06",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.sabesp.com.br",
+    "wikidata": "Q183184",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q183184",
+      "https://pt.wikipedia.org/wiki/Sabesp",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/14443/SBSP/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Sabesp",
     "legalName": "CIA SANEAMENTO BÁSICO ESTADO SÃO PAULO",
@@ -142,7 +164,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A volatilidade anualizada da SBSP3 nos últimos 12 meses é de 38,28%, nível 'alta', com beta de 1,30 contra o Ibovespa, indicando maior sensibilidade ao mercado. A maior queda em 5 anos foi de -33,79%, entre 20/04/2026 e 20/08/2026. Esse nível de volatilidade é compatível com ações de utilidade pública em transição regulatória e societária, mas acima da média de setores mais estáveis. Para acompanhar oscilações e definir pontos de entrada, utilize o [recurso de alertas de preço](/recursos/alertas-de-preco) do StockBar."
+    "explanation": "A volatilidade anualizada da SBSP3 nos últimos 12 meses é de 38,28%, nível 'alta', com beta de 1,30 contra o Ibovespa, indicando maior sensibilidade ao mercado. A maior queda em 5 anos foi de -33,79%, entre 20/04/2026 e 20/08/2026. Esse nível de volatilidade é compatível com ações de utilidade pública em transição regulatória e societária, mas acima da média de setores mais estáveis. Para acompanhar oscilações e definir pontos de entrada, utilize o [recurso de alertas de preço](/recursos/alertas-de-preco) do app."
   },
   "history": {
     "overview": "A Sabesp foi constituída em 06/09/1973 no contexto do Plano Nacional de Saneamento (Planasa), com o objetivo de reorganizar e incorporar entidades do setor de saneamento no estado de São Paulo. A companhia iniciou a operação da Estação de Tratamento de Água (ETA) Guaraú, do Sistema Cantareira, em 1974, e inaugurou o emissário submarino de Santos em 1978. Na década de 1990, a empresa registrou-se como companhia aberta na CVM em 1994 e começou a ser negociada na B3 em 04/06/1997. Em 2002, a Sabesp aderiu ao Novo Mercado e obteve registro na SEC, com negociação de ADRs na NYSE. Em 2004, uma oferta pública secundária reduziu a participação do Estado no capital social para 50,3%.",
@@ -223,23 +245,23 @@
     {
       "id": "proventos",
       "heading": "SBSP3 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a SBSP3 distribuiu R$ 0,6946 por ação em 2 pagamentos, resultando em dividend yield de 2,76%. O último pagamento foi de R$ 0,1667 em 20/03/2026. A companhia não detalha política de dividendos fixa nas fontes, mas a remuneração aos acionistas ocorre por meio de proventos periódicos. Para acompanhar os dividendos e JCP da SBSP3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o [recurso de proventos](/recursos/proventos) do StockBar."
+      "body": "Nos 12 meses até 29/10/2026, a SBSP3 distribuiu R$ 0,6946 por ação em 2 pagamentos, resultando em dividend yield de 2,76%. O último pagamento foi de R$ 0,1667 em 20/03/2026. A companhia não detalha política de dividendos fixa nas fontes, mas a remuneração aos acionistas ocorre por meio de proventos periódicos. Para acompanhar os dividendos e JCP da SBSP3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o [recurso de proventos](/recursos/proventos) do app."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da SBSP3",
-      "body": "Até 29/10/2026, a SBSP3 apresentou rentabilidade total com proventos de 1,27% em 12 meses, 138,63% em 3 anos, 316,98% em 5 anos e 397,96% em 10 anos. Esses números refletem o desempenho histórico da ação, que pode variar conforme o mercado. Para comparar a rentabilidade da SBSP3 com o Ibovespa, CDI e outros índices, utilize o [recurso de comparação com índices](/recursos/comparacao-com-indices) do StockBar, que exibe a rentabilidade da carteira lado a lado com CDI, IPCA, IPCA+6%, S&P 500, IFIX e Ibovespa, no mesmo gráfico."
+      "body": "Até 29/10/2026, a SBSP3 apresentou rentabilidade total com proventos de 1,27% em 12 meses, 138,63% em 3 anos, 316,98% em 5 anos e 397,96% em 10 anos. Esses números refletem o desempenho histórico da ação, que pode variar conforme o mercado. Para comparar a rentabilidade da SBSP3 com o Ibovespa, CDI e outros índices, utilize o [recurso de comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade da carteira lado a lado com CDI, IPCA, IPCA+6%, S&P 500, IFIX e Ibovespa, no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos da SBSP3",
-      "body": "A volatilidade anualizada da SBSP3 nos últimos 12 meses é de 38,28%, classificada como nível 'alta'. O beta de 1,30 contra o Ibovespa indica que a ação tende a oscilar mais que o índice. A maior queda nos últimos 5 anos foi de -33,79%, do pico em 20/04/2026 ao ponto mais baixo em 20/08/2026. Riscos setoriais incluem mudanças regulatórias no saneamento, dependência de políticas públicas e a execução de projetos de universalização até 2033, conforme a Lei federal nº 14.026/2020. A desestatização e a incorporação da EMAE também trazem riscos operacionais e de integração. Para monitorar oscilações de preço, utilize o [recurso de alertas de preço](/recursos/alertas-de-preco) do StockBar."
+      "body": "A volatilidade anualizada da SBSP3 nos últimos 12 meses é de 38,28%, classificada como nível 'alta'. O beta de 1,30 contra o Ibovespa indica que a ação tende a oscilar mais que o índice. A maior queda nos últimos 5 anos foi de -33,79%, do pico em 20/04/2026 ao ponto mais baixo em 20/08/2026. Riscos setoriais incluem mudanças regulatórias no saneamento, dependência de políticas públicas e a execução de projetos de universalização até 2033, conforme a Lei federal nº 14.026/2020. A desestatização e a incorporação da EMAE também trazem riscos operacionais e de integração. Para monitorar oscilações de preço, utilize o [recurso de alertas de preço](/recursos/alertas-de-preco) do app."
     }
   ],
   "faq": [
     {
       "question": "SBSP3 paga dividendos?",
-      "answer": "Sim, a SBSP3 distribui proventos aos acionistas. Nos 12 meses até 29/10/2026, foram pagos R$ 0,6946 por ação em 2 pagamentos, com dividend yield de 2,76%. O último pagamento foi de R$ 0,1667 em 20/03/2026. Para acompanhar os dividendos e JCP com data com e data de pagamento, utilize o [recurso de proventos](/recursos/proventos) do StockBar."
+      "answer": "Sim, a SBSP3 distribui proventos aos acionistas. Nos 12 meses até 29/10/2026, foram pagos R$ 0,6946 por ação em 2 pagamentos, com dividend yield de 2,76%. O último pagamento foi de R$ 0,1667 em 20/03/2026. Para acompanhar os dividendos e JCP com data com e data de pagamento, utilize o [recurso de proventos](/recursos/proventos) do app."
     },
     {
       "question": "Qual a diferença entre SBSP3 e SBSP4?",
@@ -259,14 +281,14 @@
     },
     {
       "question": "Qual a rentabilidade da SBSP3 nos últimos 5 anos?",
-      "answer": "Até 29/10/2026, a SBSP3 apresentou rentabilidade total com proventos de 316,98% em 5 anos. Esse número reflete o desempenho histórico da ação, que pode variar conforme o mercado. Para comparar com o Ibovespa e outros índices, utilize o [recurso de comparação com índices](/recursos/comparacao-com-indices) do StockBar."
+      "answer": "Até 29/10/2026, a SBSP3 apresentou rentabilidade total com proventos de 316,98% em 5 anos. Esse número reflete o desempenho histórico da ação, que pode variar conforme o mercado. Para comparar com o Ibovespa e outros índices, utilize o [recurso de comparação com índices](/recursos/comparacao-com-indices) do app."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da SBSP3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

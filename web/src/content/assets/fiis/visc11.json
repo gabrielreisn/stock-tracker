@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "VISC11: história, rendimentos e volatilidade",
     "description": "VISC11 é o FII de shoppings da Vinci Real Estate. Veja rendimentos de 10,01% em 12 meses, patrimônio de R$ 3,34 bilhões e a venda de 7 shoppings em 2026.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "VISC11 é a cota do Vinci Shopping Centers Fundo de Investimento Imobiliário, um FII de tijolo com foco em shoppings, administrado pela BRL Trust e gerido pela Vinci Real Estate. Em setembro de 2026, o patrimônio líquido era de R$ 3,34 bilhões, com 346.772 cotistas e valor patrimonial da cota de R$ 115,79. A cota negociava a R$ 99,85 em 28/10/2026, distribuindo rendimentos mensais que resultaram em dividend yield de 10,01% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vinci Shopping Centers Fundo de Investimento Imobiliário",
+    "legalName": "VINCI SHOPPING CENTERS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF VISC11",
+    "isin": "BRVISCCTF005",
+    "taxId": "17.554.274/0001-25",
+    "foundingDate": "2013-08-07",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=17554274000125"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, shoppings",
     "issuerOrManager": "Vinci Real Estate Gestora de Recursos Ltda",
@@ -143,7 +160,7 @@
   },
   "volatility": {
     "level": "moderada",
-    "explanation": "A volatilidade anualizada do VISC11 nos últimos 12 meses é de 15,12%, nível moderado para um FII de tijolo. O beta de 0,28 contra o Ibovespa indica que o fundo tende a oscilar menos que o mercado acionário, mas a maior queda em 5 anos foi de -25,34%, do pico em 20/05/2024 ao ponto mais baixo em 10/12/2024. Esse movimento reflete a sensibilidade do segmento de shoppings a mudanças no consumo e no cenário macroeconômico. Para acompanhar a evolução do preço e a rentabilidade da posição, use o recurso de [desempenho e preço médio no StockBar](/recursos/desempenho-e-preco-medio), que mostra o gráfico de rentabilidade e a variação do dia e do ano."
+    "explanation": "A volatilidade anualizada do VISC11 nos últimos 12 meses é de 15,12%, nível moderado para um FII de tijolo. O beta de 0,28 contra o Ibovespa indica que o fundo tende a oscilar menos que o mercado acionário, mas a maior queda em 5 anos foi de -25,34%, do pico em 20/05/2024 ao ponto mais baixo em 10/12/2024. Esse movimento reflete a sensibilidade do segmento de shoppings a mudanças no consumo e no cenário macroeconômico. Para acompanhar a evolução do preço e a rentabilidade da posição, use o recurso de [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio), que mostra o gráfico de rentabilidade e a variação do dia e do ano."
   },
   "history": {
     "overview": "O Vinci Shopping Centers FII iniciou suas atividades em 07/08/2013, com foco exclusivo no segmento de shoppings centers. A gestora é a Vinci Real Estate Gestora de Recursos Ltda., enquanto a BRL Trust DTVM S.A. atua como administradora e escrituradora. O fundo opera com gestão ativa, o que permite à gestora realizar ajustes na carteira, como a venda de participações em ativos para recompor caixa e melhorar a alocação de capital. Em 2026, o fundo passou por uma reestruturação significativa de portfólio, iniciada com um memorando de entendimentos em julho e concluída com a venda de participações em 7 shoppings em outubro, gerando caixa para distribuições futuras e recomposição de caixa. Até setembro de 2026, o fundo mantinha 28.828.640 cotas emitidas e 346.772 cotistas, com patrimônio líquido de R$ 3,34 bilhões. A estratégia de gestão ativa e a diversificação geográfica dos ativos são características centrais da operação do VISC11, que busca gerar renda a partir de aluguéis de shoppings em diferentes regiões do Brasil.",
@@ -184,7 +201,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do VISC11",
-      "body": "Nos 12 meses até 28/10/2026, o VISC11 distribuiu R$ 9,99 por cota em 12 pagamentos, resultando em dividend yield de 10,01%. O último pagamento foi de R$ 0,84 em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o fundo obteve resultado total de R$ 0,99 por cota no mês, distribuindo R$ 0,84, com resultado acumulado não distribuído de R$ 1,30 por cota para distribuições futuras. A tributação dos rendimentos de FIIs segue as regras da Receita Federal, mas o dossiê não detalha as alíquotas específicas. Para acompanhar os pagamentos, use o recurso de [proventos no StockBar](/recursos/proventos), que lista as datas de competência e pagamento multiplicadas pela sua quantidade de cotas."
+      "body": "Nos 12 meses até 28/10/2026, o VISC11 distribuiu R$ 9,99 por cota em 12 pagamentos, resultando em dividend yield de 10,01%. O último pagamento foi de R$ 0,84 em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o fundo obteve resultado total de R$ 0,99 por cota no mês, distribuindo R$ 0,84, com resultado acumulado não distribuído de R$ 1,30 por cota para distribuições futuras. A tributação dos rendimentos de FIIs segue as regras da Receita Federal, mas o dossiê não detalha as alíquotas específicas. Para acompanhar os pagamentos, use o recurso de [proventos no app](/recursos/proventos), que lista as datas de competência e pagamento multiplicadas pela sua quantidade de cotas."
     },
     {
       "id": "emissoes",
@@ -194,22 +211,22 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do VISC11",
-      "body": "A rentabilidade total com proventos do VISC11 foi de 2,13% nos 12 meses até 28/10/2026, 13,35% em 3 anos e 50,59% em 5 anos. O fundo apresenta volatilidade anualizada de 15,12% nos últimos 12 meses, nível moderado, e beta de 0,28 contra o Ibovespa. Para comparar o desempenho com índices de referência, use o recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices), que mostra a rentabilidade do VISC11 lado a lado com o IFIX, CDI, Ibovespa e outros índices no mesmo gráfico."
+      "body": "A rentabilidade total com proventos do VISC11 foi de 2,13% nos 12 meses até 28/10/2026, 13,35% em 3 anos e 50,59% em 5 anos. O fundo apresenta volatilidade anualizada de 15,12% nos últimos 12 meses, nível moderado, e beta de 0,28 contra o Ibovespa. Para comparar o desempenho com índices de referência, use o recurso de [comparação com índices no app](/recursos/comparacao-com-indices), que mostra a rentabilidade do VISC11 lado a lado com o IFIX, CDI, Ibovespa e outros índices no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos do VISC11",
-      "body": "Os principais riscos do VISC11 incluem a exposição ao segmento de shoppings, que depende do consumo e da ocupação dos centros comerciais. A volatilidade anualizada de 15,12% nos últimos 12 meses indica oscilações moderadas, mas a maior queda em 5 anos foi de -25,34%, do pico em 20/05/2024 ao ponto mais baixo em 10/12/2024. O beta de 0,28 contra o Ibovespa sugere menor sensibilidade ao mercado acionário, mas o fundo ainda está exposto a riscos de vacância, inadimplência e mudanças no cenário macroeconômico. A gestão ativa permite ajustes na carteira, mas não elimina esses riscos. Para monitorar oscilações de preço, use os [alertas de preço no StockBar](/recursos/alertas-de-preco), que notificam quando a cota atinge níveis definidos."
+      "body": "Os principais riscos do VISC11 incluem a exposição ao segmento de shoppings, que depende do consumo e da ocupação dos centros comerciais. A volatilidade anualizada de 15,12% nos últimos 12 meses indica oscilações moderadas, mas a maior queda em 5 anos foi de -25,34%, do pico em 20/05/2024 ao ponto mais baixo em 10/12/2024. O beta de 0,28 contra o Ibovespa sugere menor sensibilidade ao mercado acionário, mas o fundo ainda está exposto a riscos de vacância, inadimplência e mudanças no cenário macroeconômico. A gestão ativa permite ajustes na carteira, mas não elimina esses riscos. Para monitorar oscilações de preço, use os [alertas de preço no app](/recursos/alertas-de-preco), que notificam quando a cota atinge níveis definidos."
     }
   ],
   "faq": [
     {
       "question": "VISC11 paga dividendos?",
-      "answer": "Sim, o VISC11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram R$ 9,99 por cota em 12 pagamentos, com dividend yield de 10,01%. O último pagamento foi de R$ 0,84 em 01/10/2026. O relatório gerencial de setembro de 2026 indica resultado acumulado não distribuído de R$ 1,30 por cota para distribuições futuras. Para acompanhar os pagamentos, use o recurso de [proventos no StockBar](/recursos/proventos)."
+      "answer": "Sim, o VISC11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram R$ 9,99 por cota em 12 pagamentos, com dividend yield de 10,01%. O último pagamento foi de R$ 0,84 em 01/10/2026. O relatório gerencial de setembro de 2026 indica resultado acumulado não distribuído de R$ 1,30 por cota para distribuições futuras. Para acompanhar os pagamentos, use o recurso de [proventos no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre VISC11 e outros FIIs de shoppings?",
-      "answer": "O VISC11 é um FII de tijolo com foco exclusivo em shoppings, gerido pela Vinci Real Estate e administrado pela BRL Trust. Outros FIIs de shoppings, como [XPML11](/fiis/xpml11) e [HSML11](/fiis/hsml11), também focam no segmento, mas com gestoras e estratégias diferentes. O VISC11 opera com gestão ativa, o que permite ajustes na carteira, como a venda de participações em ativos. A comparação entre FIIs pode ser feita pelo [comparador de fundos no StockBar](/recursos/comparador-de-fundos), que permite buscar por nome, CNPJ ou gestora."
+      "answer": "O VISC11 é um FII de tijolo com foco exclusivo em shoppings, gerido pela Vinci Real Estate e administrado pela BRL Trust. Outros FIIs de shoppings, como [XPML11](/fiis/xpml11) e [HSML11](/fiis/hsml11), também focam no segmento, mas com gestoras e estratégias diferentes. O VISC11 opera com gestão ativa, o que permite ajustes na carteira, como a venda de participações em ativos. A comparação entre FIIs pode ser feita pelo [comparador de fundos no app](/recursos/comparador-de-fundos), que permite buscar por nome, CNPJ ou gestora."
     },
     {
       "question": "VISC11 é FII de papel ou de tijolo?",
@@ -217,42 +234,42 @@
     },
     {
       "question": "Qual a taxa de administração do VISC11?",
-      "answer": "A taxa de administração do VISC11 em setembro de 2026 era de 0,089% sobre o patrimônio, com estrutura escalonada: 1,35% a.a. até R$ 1 bilhão, 1,20% a.a. sobre o excedente até R$ 2 bilhões e 1,05% a.a. sobre o excedente a R$ 2 bilhões. A taxa inclui remuneração da gestora, administradora e escrituradora. Não há taxa de performance. Para comparar com outros fundos, use o [comparador de fundos no StockBar](/recursos/comparador-de-fundos)."
+      "answer": "A taxa de administração do VISC11 em setembro de 2026 era de 0,089% sobre o patrimônio, com estrutura escalonada: 1,35% a.a. até R$ 1 bilhão, 1,20% a.a. sobre o excedente até R$ 2 bilhões e 1,05% a.a. sobre o excedente a R$ 2 bilhões. A taxa inclui remuneração da gestora, administradora e escrituradora. Não há taxa de performance. Para comparar com outros fundos, use o [comparador de fundos no app](/recursos/comparador-de-fundos)."
     },
     {
       "question": "VISC11 tem risco de vacância?",
-      "answer": "Sim, como FII de tijolo focado em shoppings, o VISC11 está exposto a riscos de vacância e inadimplência. O relatório gerencial de setembro de 2026 menciona indicadores de ocupação e inadimplência líquida, mas não detalha os valores. A gestão ativa permite ajustes na carteira, como a venda de participações em ativos, para mitigar riscos. Para monitorar oscilações de preço, use os [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+      "answer": "Sim, como FII de tijolo focado em shoppings, o VISC11 está exposto a riscos de vacância e inadimplência. O relatório gerencial de setembro de 2026 menciona indicadores de ocupação e inadimplência líquida, mas não detalha os valores. A gestão ativa permite ajustes na carteira, como a venda de participações em ativos, para mitigar riscos. Para monitorar oscilações de preço, use os [alertas de preço no app](/recursos/alertas-de-preco)."
     },
     {
-      "question": "Como acompanhar o VISC11 no StockBar?",
-      "answer": "O VISC11 pode ser acompanhado no StockBar por meio de vários recursos. O [widget na barra de menus](/recursos/widget-da-barra-de-menus) mostra o gráfico do dia e as posições num clique. A [carteira consolidada](/recursos/carteira-consolidada) integra o VISC11 com outras posições, mostrando alocação por classe. O [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a carteira, com respostas baseadas nos seus próprios dados."
+      "question": "Como acompanhar o VISC11 no app?",
+      "answer": "O VISC11 pode ser acompanhado no app por meio de vários recursos. O [widget na barra de menus](/recursos/widget-da-barra-de-menus) mostra o gráfico do dia e as posições num clique. A [carteira consolidada](/recursos/carteira-consolidada) integra o VISC11 com outras posições, mostrando alocação por classe. O [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a carteira, com respostas baseadas nos seus próprios dados."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "proventos no StockBar",
+        "anchor": "proventos no app",
         "context": "Veja os rendimentos do VISC11 com data de competência e pagamento, multiplicados pela sua quantidade de cotas."
       },
       {
         "feature": "comparacao-com-indices",
-        "anchor": "comparação com índices no StockBar",
+        "anchor": "comparação com índices no app",
         "context": "Compare a rentabilidade do VISC11 com o IFIX, CDI, Ibovespa e outros índices no mesmo gráfico."
       },
       {
         "feature": "alertas-de-preco",
-        "anchor": "alertas de preço no StockBar",
+        "anchor": "alertas de preço no app",
         "context": "Receba notificação quando a cota do VISC11 atinge o preço que você escolheu, para acompanhar oscilações."
       },
       {
         "feature": "desempenho-e-preco-medio",
-        "anchor": "desempenho e preço médio no StockBar",
+        "anchor": "desempenho e preço médio no app",
         "context": "Veja o gráfico de rentabilidade da carteira e a variação do dia e do ano do VISC11."
       },
       {
         "feature": "carteira-consolidada",
-        "anchor": "carteira consolidada no StockBar",
+        "anchor": "carteira consolidada no app",
         "context": "Integre o VISC11 com outras posições, mostrando alocação por classe e as maiores posições."
       }
     ],

@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "ITUB4: história, dividendos e volatilidade",
     "description": "ITUB4 é a ação preferencial da Itaú Unibanco, maior banco privado do Brasil. Veja dividend yield de 7,84%, volatilidade de 30,89% e histórico desde 1943.",
@@ -20,6 +21,27 @@
     ]
   },
   "summary": "ITUB4 é a ação preferencial da Itaú Unibanco Holding S.A., o maior conglomerado financeiro privado do Brasil, com sede em São Paulo. O banco opera em 21 países e possui cerca de 5 mil agências. Em 29/10/2026, a ação estava cotada a R$ 39,54, com dividend yield de 7,84% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Itaú Unibanco",
+    "legalName": "ITAÚ UNIBANCO HOLDING S.A.",
+    "ticker": "BVMF ITUB4",
+    "isin": "BRITUBACNPR1",
+    "taxId": "60.872.504/0001-23",
+    "foundingDate": "1943-01-01",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.itau-unibanco.com.br/relacoes-com-investidores",
+    "wikidata": "Q1424293",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1424293",
+      "https://pt.wikipedia.org/wiki/Ita%C3%BA_Unibanco",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19348/ITUB/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Itaú Unibanco",
     "legalName": "ITAÚ UNIBANCO HOLDING S.A.",
@@ -142,7 +164,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A volatilidade anualizada da ITUB4 nos últimos 12 meses é de 30,89%, nível considerado 'alta'. O beta contra o Ibovespa é de 1,12, o que significa que a ação tende a oscilar 1,12 vezes mais que o índice de referência. A maior queda nos últimos 5 anos foi de -23,76%, ocorrida entre 21/10/2022 e 13/12/2022. Para ações de bancos, essa volatilidade é compatível com o setor, que tende a ter oscilações maiores que a média do mercado devido à exposição a crédito e ciclos econômicos. No StockBar, você pode acompanhar a [volatilidade e desempenho no gráfico](/recursos/desempenho-e-preco-medio) e configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos extremos."
+    "explanation": "A volatilidade anualizada da ITUB4 nos últimos 12 meses é de 30,89%, nível considerado 'alta'. O beta contra o Ibovespa é de 1,12, o que significa que a ação tende a oscilar 1,12 vezes mais que o índice de referência. A maior queda nos últimos 5 anos foi de -23,76%, ocorrida entre 21/10/2022 e 13/12/2022. Para ações de bancos, essa volatilidade é compatível com o setor, que tende a ter oscilações maiores que a média do mercado devido à exposição a crédito e ciclos econômicos. No app, você pode acompanhar a [volatilidade e desempenho no gráfico](/recursos/desempenho-e-preco-medio) e configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos extremos."
   },
   "history": {
     "overview": "A história do Itaú Unibanco começa em 1943, com a constituição do Banco Central de Crédito por Alfredo Egydio de Souza Aranha. Em 1944, José Balbino Siqueira fundou o Banco Itaú em Minas Gerais. Em 1973, o banco adotou o nome atual e o logotipo que mantém até hoje. O marco mais recente ocorreu em 4 de novembro de 2008, quando o Banco Itaú e o Unibanco se fundiram, criando a maior instituição financeira privada do país, com R$ 575 bilhões em ativos na época. A integração foi concluída em outubro de 2010, com custo superior a R$ 1 bilhão, e a marca Unibanco foi gradativamente extinta. Desde então, o banco expandiu sua presença internacional e diversificou seus negócios, incluindo a aquisição da Credicard em 2013 e a compra de participação na XP Investimentos em 2017, da qual se desfez em 2024.",
@@ -218,23 +240,23 @@
     {
       "id": "proventos",
       "heading": "ITUB4 paga dividendos?",
-      "body": "ITUB4 pagou R$ 3,0996 por ação em 15 pagamentos nos 12 meses até 29/10/2026, resultando em dividend yield de 7,84%. O último pagamento foi de R$ 0,0182 em 01/10/2026. A empresa tem histórico de pagamentos regulares de Juros sobre Capital Próprio (JCP), com fatos relevantes registrados em 26/02/2026 e 28/05/2026. Em 27/11/2025, houve cancelamento de ações mantidas em tesouraria e pagamento de dividendos/JCP. Em 18/12/2025, foi realizada bonificação em ações. No StockBar, você pode acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade."
+      "body": "ITUB4 pagou R$ 3,0996 por ação em 15 pagamentos nos 12 meses até 29/10/2026, resultando em dividend yield de 7,84%. O último pagamento foi de R$ 0,0182 em 01/10/2026. A empresa tem histórico de pagamentos regulares de Juros sobre Capital Próprio (JCP), com fatos relevantes registrados em 26/02/2026 e 28/05/2026. Em 27/11/2025, houve cancelamento de ações mantidas em tesouraria e pagamento de dividendos/JCP. Em 18/12/2025, foi realizada bonificação em ações. No app, você pode acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da ITUB4",
-      "body": "Em 29/10/2026, a ITUB4 estava cotada a R$ 39,54. A rentabilidade total com proventos foi de 11,92% nos 12 meses, 107,80% em 3 anos, 164,26% em 5 anos e 211,61% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de R$ 1,39 bilhão. Para comparar esse desempenho com índices de referência, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que mostra a rentabilidade da carteira lado a lado com Ibovespa, CDI e outros benchmarks."
+      "body": "Em 29/10/2026, a ITUB4 estava cotada a R$ 39,54. A rentabilidade total com proventos foi de 11,92% nos 12 meses, 107,80% em 3 anos, 164,26% em 5 anos e 211,61% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de R$ 1,39 bilhão. Para comparar esse desempenho com índices de referência, use a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade da carteira lado a lado com Ibovespa, CDI e outros benchmarks."
     },
     {
       "id": "riscos",
       "heading": "Riscos da ITUB4",
-      "body": "A volatilidade anualizada da ITUB4 nos últimos 12 meses é de 30,89%, classificada como 'alta'. O beta contra o Ibovespa é de 1,12, indicando que a ação tende a se mover 1,12 vezes mais que o índice. A maior queda nos últimos 5 anos foi de -23,76%, do pico em 21/10/2022 ao ponto mais baixo em 13/12/2022. Riscos do setor financeiro incluem exposição a crédito, liquidez e regulação. No StockBar, você pode configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a ação atingir níveis que você considerar relevantes."
+      "body": "A volatilidade anualizada da ITUB4 nos últimos 12 meses é de 30,89%, classificada como 'alta'. O beta contra o Ibovespa é de 1,12, indicando que a ação tende a se mover 1,12 vezes mais que o índice. A maior queda nos últimos 5 anos foi de -23,76%, do pico em 21/10/2022 ao ponto mais baixo em 13/12/2022. Riscos do setor financeiro incluem exposição a crédito, liquidez e regulação. No app, você pode configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a ação atingir níveis que você considerar relevantes."
     }
   ],
   "faq": [
     {
       "question": "ITUB4 paga dividendos?",
-      "answer": "Sim, ITUB4 paga dividendos e Juros sobre Capital Próprio (JCP) regularmente. Nos 12 meses até 29/10/2026, foram pagos R$ 3,0996 por ação em 15 pagamentos, com dividend yield de 7,84%. O último pagamento foi de R$ 0,0182 em 01/10/2026. No StockBar, você pode ver o histórico completo de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, ITUB4 paga dividendos e Juros sobre Capital Próprio (JCP) regularmente. Nos 12 meses até 29/10/2026, foram pagos R$ 3,0996 por ação em 15 pagamentos, com dividend yield de 7,84%. O último pagamento foi de R$ 0,0182 em 01/10/2026. No app, você pode ver o histórico completo de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre ITUB3 e ITUB4?",
@@ -246,7 +268,7 @@
     },
     {
       "question": "Qual a volatilidade da ITUB4?",
-      "answer": "A volatilidade anualizada da ITUB4 nos últimos 12 meses é de 30,89%, classificada como 'alta'. O beta contra o Ibovespa é de 1,12, indicando que a ação tende a se mover 1,12 vezes mais que o índice. A maior queda nos últimos 5 anos foi de -23,76%, entre 21/10/2022 e 13/12/2022. No StockBar, você pode configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos extremos."
+      "answer": "A volatilidade anualizada da ITUB4 nos últimos 12 meses é de 30,89%, classificada como 'alta'. O beta contra o Ibovespa é de 1,12, indicando que a ação tende a se mover 1,12 vezes mais que o índice. A maior queda nos últimos 5 anos foi de -23,76%, entre 21/10/2022 e 13/12/2022. No app, você pode configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos extremos."
     },
     {
       "question": "Quem controla a Itaú Unibanco?",
@@ -254,14 +276,14 @@
     },
     {
       "question": "ITUB4 é boa para renda passiva?",
-      "answer": "ITUB4 tem dividend yield de 7,84% nos 12 meses até 29/10/2026, com 15 pagamentos no período. A empresa tem histórico de pagamentos regulares de JCP e dividendos. No entanto, não é possível afirmar se é 'boa' para renda passiva, pois isso depende do perfil do investidor. No StockBar, você pode acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) e usar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação total."
+      "answer": "ITUB4 tem dividend yield de 7,84% nos 12 meses até 29/10/2026, com 15 pagamentos no período. A empresa tem histórico de pagamentos regulares de JCP e dividendos. No entanto, não é possível afirmar se é 'boa' para renda passiva, pois isso depende do perfil do investidor. No app, você pode acompanhar os [dividendos e JCP no app](/recursos/proventos) e usar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação total."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da ITUB4 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

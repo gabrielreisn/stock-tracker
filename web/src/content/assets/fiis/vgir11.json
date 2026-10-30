@@ -4,9 +4,10 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "VGIR11: FII de papel, rendimentos e volatilidade",
-    "description": "VGIR11 é um FII de papel da Valora, com foco em CRIs. Veja rendimentos, patrimônio, volatilidade e como acompanhar no StockBar.",
+    "description": "VGIR11 é um FII de papel da Valora, com foco em CRIs. Veja rendimentos, patrimônio, volatilidade e como acompanhar no app.",
     "h1": "VGIR11: Valora Cri Cdi FII",
     "canonicalPath": "/fiis/vgir11",
     "keywords": [
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "VGIR11 é a cota do Valora Cri Cdi Fundo de Investimento Imobiliário, um FII de papel que investe preponderantemente em Certificados de Recebíveis Imobiliários (CRIs). Fundado em 27/07/2018, o fundo é administrado pela BTG Pactual e gerido pela Valora. Em 09/2026, possuía patrimônio líquido de R$ 1,42 bilhão e 288.799 cotistas. Nos 12 meses até 28/10/2026, a rentabilidade total com proventos foi de 13,98%, com dividend yield de 16,54%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Valora Cri Cdi Fundo de Investimento Imobiliário - FII Responsabilidade Limitada",
+    "legalName": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF VGIR11",
+    "isin": "BRVGIRCTF008",
+    "taxId": "29.852.732/0001-91",
+    "foundingDate": "2018-07-27",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=29852732000191"
+    ]
+  },
   "profile": {
     "type": "FII de papel (CRI)",
     "issuerOrManager": "Valora Gestão de Investimentos (gestora) e BTG Pactual Serviços Financeiros S.A",
@@ -184,7 +201,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do VGIR11",
-      "body": "Nos 12 meses até 28/10/2026, o VGIR11 distribuiu R$ 1,5100 por cota em 12 pagamentos, com dividend yield de 16,54%. 0 O último pagamento foi de R$ 0,1300 em 14/10/2026. 0 O relatório gerencial de 30/09/2026 mostra que a distribuição referente a setembro de 2026 foi de R$ 0,13 por cota, equivalente a uma rentabilidade líquida de CDI + 3,14% ao ano. 3 Os rendimentos de FIIs são isentos de imposto de renda para pessoa física, conforme a legislação vigente. 3 Acompanhe os proventos do VGIR11 no [StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 28/10/2026, o VGIR11 distribuiu R$ 1,5100 por cota em 12 pagamentos, com dividend yield de 16,54%. 0 O último pagamento foi de R$ 0,1300 em 14/10/2026. 0 O relatório gerencial de 30/09/2026 mostra que a distribuição referente a setembro de 2026 foi de R$ 0,13 por cota, equivalente a uma rentabilidade líquida de CDI + 3,14% ao ano. 3 Os rendimentos de FIIs são isentos de imposto de renda para pessoa física, conforme a legislação vigente. 3 Acompanhe os proventos do VGIR11 no [app](/recursos/proventos)."
     },
     {
       "id": "emissoes",
@@ -194,12 +211,12 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do VGIR11",
-      "body": "Nos 12 meses até 28/10/2026, a rentabilidade total com proventos do VGIR11 foi de 13,98%. 0 Nos 3 anos, a rentabilidade foi de 47,09%, e nos 5 anos, de 82,63%. 0 O fundo tem beta de 0,09 contra o Ibovespa, indicando baixa correlação com o índice. 0 Compare o desempenho do VGIR11 com o IFIX e o CDI no [StockBar](/recursos/comparacao-com-indices)."
+      "body": "Nos 12 meses até 28/10/2026, a rentabilidade total com proventos do VGIR11 foi de 13,98%. 0 Nos 3 anos, a rentabilidade foi de 47,09%, e nos 5 anos, de 82,63%. 0 O fundo tem beta de 0,09 contra o Ibovespa, indicando baixa correlação com o índice. 0 Compare o desempenho do VGIR11 com o IFIX e o CDI no [app](/recursos/comparacao-com-indices)."
     },
     {
       "id": "riscos",
       "heading": "Riscos do VGIR11",
-      "body": "Os principais riscos do VGIR11 são de crédito, já que o fundo investe em CRIs, e de juros, pois a rentabilidade dos CRIs é atrelada ao CDI. 3 A volatilidade anualizada nos 12 meses até 28/10/2026 foi de 9,07%, nível baixo. 0 A maior queda nos últimos 5 anos foi de -14,60%, do pico em 02/09/2024 ao ponto mais baixo em 18/12/2024. 0 O relatório gerencial de 30/09/2026 afirma que todos os CRIs da carteira continuam adimplentes. 3 Acompanhe a volatilidade do VGIR11 com [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "Os principais riscos do VGIR11 são de crédito, já que o fundo investe em CRIs, e de juros, pois a rentabilidade dos CRIs é atrelada ao CDI. 3 A volatilidade anualizada nos 12 meses até 28/10/2026 foi de 9,07%, nível baixo. 0 A maior queda nos últimos 5 anos foi de -14,60%, do pico em 02/09/2024 ao ponto mais baixo em 18/12/2024. 0 O relatório gerencial de 30/09/2026 afirma que todos os CRIs da carteira continuam adimplentes. 3 Acompanhe a volatilidade do VGIR11 com [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
@@ -228,8 +245,8 @@
       "answer": "A volatilidade anualizada do VGIR11 nos 12 meses até 28/10/2026 foi de 9,07%, nível baixo. 0 O beta de 0,09 contra o Ibovespa indica baixa correlação com o índice. 0"
     },
     {
-      "question": "Como acompanhar o VGIR11 no StockBar?",
-      "answer": "Você pode acompanhar os proventos do VGIR11 no [StockBar](/recursos/proventos), com data com e data de pagamento, multiplicados pela sua quantidade. 0 Também é possível comparar o desempenho do VGIR11 com o IFIX e o CDI no [StockBar](/recursos/comparacao-com-indices). 0"
+      "question": "Como acompanhar o VGIR11 no app?",
+      "answer": "Você pode acompanhar os proventos do VGIR11 no [app](/recursos/proventos), com data com e data de pagamento, multiplicados pela sua quantidade. 0 Também é possível comparar o desempenho do VGIR11 com o IFIX e o CDI no [app](/recursos/comparacao-com-indices). 0"
     }
   ],
   "internalLinks": {

@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "PETR4: história, dividendos e volatilidade",
     "description": "Conheça a PETR4, ação preferencial da Petrobras, com dividend yield de 7,02% e volatilidade de 29,98%. Veja história, desempenho e riscos.",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "PETR4 é a ação preferencial da Petróleo Brasileiro S.A. (Petrobras), empresa estatal de economia mista com sede no Rio de Janeiro, que atua na exploração, produção, refino, comercialização e transporte de petróleo, gás natural e derivados. Listada na B3 desde 1977, a companhia opera em seis países e possui produção diária superior a 3 milhões de barris. Em 29/10/2026, o preço da ação era de R$ 52,20, com dividend yield de 7,02% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Petrobras",
+    "legalName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
+    "ticker": "BVMF PETR4",
+    "isin": "BRPETRACNPR6",
+    "taxId": "33.000.167/0001-01",
+    "foundingDate": "1953-10-03",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.petrobras.com.br",
+    "wikidata": "Q210047",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q210047",
+      "https://pt.wikipedia.org/wiki/Petrobras",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/9512/PETR/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Petrobras",
     "legalName": "PETRÓLEO BRASILEIRO S.A. - PETROBRAS",
@@ -189,17 +211,17 @@
     {
       "id": "proventos",
       "heading": "PETR4 paga dividendos?",
-      "body": "PETR4 pagou R$ 3,6643 por ação em 4 pagamentos nos 12 meses até 29/10/2026, resultando em um dividend yield de 7,02%. O último pagamento foi de R$ 1,3481 em 24/08/2026. A empresa informa sobre remuneração aos acionistas em fatos relevantes, como os de 11/05/2026 e 06/08/2026. No StockBar, é possível acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade."
+      "body": "PETR4 pagou R$ 3,6643 por ação em 4 pagamentos nos 12 meses até 29/10/2026, resultando em um dividend yield de 7,02%. O último pagamento foi de R$ 1,3481 em 24/08/2026. A empresa informa sobre remuneração aos acionistas em fatos relevantes, como os de 11/05/2026 e 06/08/2026. No app, é possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da PETR4",
-      "body": "A rentabilidade total de PETR4 com proventos foi de 90,77% em 12 meses, 124,43% em 3 anos, 550,14% em 5 anos e 1.077,92% em 10 anos, até 29/10/2026. Esses números refletem o desempenho histórico da ação, que pode ser comparado com índices como o Ibovespa e o CDI no recurso de [comparação com índices](/recursos/comparacao-com-indices) do StockBar."
+      "body": "A rentabilidade total de PETR4 com proventos foi de 90,77% em 12 meses, 124,43% em 3 anos, 550,14% em 5 anos e 1.077,92% em 10 anos, até 29/10/2026. Esses números refletem o desempenho histórico da ação, que pode ser comparado com índices como o Ibovespa e o CDI no recurso de [comparação com índices](/recursos/comparacao-com-indices) do app."
     },
     {
       "id": "riscos",
       "heading": "Riscos da PETR4",
-      "body": "A volatilidade anualizada de PETR4 nos últimos 12 meses é de 29,98%, classificada como alta. A maior queda em 5 anos foi de -39,10%, do pico em 21/10/2022 ao ponto mais baixo em 14/12/2022. Riscos do setor incluem flutuações no preço do petróleo, mudanças regulatórias e questões ambientais. O beta de 0,53 indica menor sensibilidade ao Ibovespa, mas a volatilidade ainda é significativa. No StockBar, é possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos da ação."
+      "body": "A volatilidade anualizada de PETR4 nos últimos 12 meses é de 29,98%, classificada como alta. A maior queda em 5 anos foi de -39,10%, do pico em 21/10/2022 ao ponto mais baixo em 14/12/2022. Riscos do setor incluem flutuações no preço do petróleo, mudanças regulatórias e questões ambientais. O beta de 0,53 indica menor sensibilidade ao Ibovespa, mas a volatilidade ainda é significativa. No app, é possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos da ação."
     }
   ],
   "faq": [
@@ -228,7 +250,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da PETR4 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

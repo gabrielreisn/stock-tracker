@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "XPLG11: FII de logística, dividendos e patrimônio",
     "description": "XPLG11 é um FII de logística com patrimônio de R$ 5,37 bilhões e dividend yield de 10,85%. Veja a história, os rendimentos e a volatilidade do fundo.",
@@ -19,6 +20,22 @@
     ]
   },
   "summary": "XPLG11 é a cota do XP Log Fundo de Investimento Imobiliário, um FII de gestão ativa focado em imóveis logísticos e industriais. Em setembro de 2026, o fundo possuía patrimônio de R$ 5,37 bilhões e 364.309 cotistas. A cota fechou em R$ 90,67 em 28/10/2026, com dividend yield de 10,85% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "XP Log Fundo de Investimento Imobiliário Responsabilidade Limitada - FII",
+    "legalName": "XP LOG FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA - FII",
+    "ticker": "BVMF XPLG11",
+    "isin": "BRXPLGCTF002",
+    "taxId": "26.502.794/0001-85",
+    "foundingDate": "2018-06-01",
+    "provider": {
+      "name": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+      "url": "https://www.xpi.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=26502794000185"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, logística",
     "issuerOrManager": "XP Vista Asset Management Ltda",
@@ -141,7 +158,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada do XPLG11 nos últimos 12 meses é de 13,53%, um nível considerado baixo para um FII de tijolo 0. O beta de 0,26 contra o Ibovespa indica que o fundo tende a se mover com menor amplitude que o índice 0. A maior queda em 5 anos foi de -16,22%, ocorrida entre 15/09/2023 e 19/12/2024 0. Esse perfil de volatilidade é compatível com a estratégia de gestão ativa e a exposição a imóveis logísticos, que geralmente apresentam menor sensibilidade a ciclos de mercado em comparação com outros segmentos. Acompanhe a [volatilidade e o desempenho no StockBar](/recursos/desempenho-e-preco-medio) para entender como o ativo se comporta em relação à sua carteira."
+    "explanation": "A volatilidade anualizada do XPLG11 nos últimos 12 meses é de 13,53%, um nível considerado baixo para um FII de tijolo 0. O beta de 0,26 contra o Ibovespa indica que o fundo tende a se mover com menor amplitude que o índice 0. A maior queda em 5 anos foi de -16,22%, ocorrida entre 15/09/2023 e 19/12/2024 0. Esse perfil de volatilidade é compatível com a estratégia de gestão ativa e a exposição a imóveis logísticos, que geralmente apresentam menor sensibilidade a ciclos de mercado em comparação com outros segmentos. Acompanhe a [volatilidade e o desempenho no app](/recursos/desempenho-e-preco-medio) para entender como o ativo se comporta em relação à sua carteira."
   },
   "history": {
     "overview": "O XP Log FII iniciou suas atividades em 01/06/2018 com o objetivo de auferir ganhos pela aquisição e exploração comercial de empreendimentos preponderantemente na área logística e industrial [1, 3]. A gestão é ativa, conduzida pela XP Vista Asset Management Ltda., com a XP Investimentos atuando como administradora 3. Desde o início, o fundo realizou 11 ofertas públicas de cotas encerradas, o que indica um processo contínuo de captação de recursos e expansão da carteira 2. A estratégia de distribuição de rendimentos visa uniformizar os pagamentos em consonância com o fluxo de caixa do semestre, distribuindo no mínimo 95% do resultado financeiro apurado em base caixa 3. Em 2026, o fundo celebrou novos contratos de locação com empresas dos segmentos de e-commerce e logístico, reduzindo a vacância física e ampliando a receita de locação [4, 5].",
@@ -187,7 +204,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do XPLG11",
-      "body": "Nos 12 meses até 28/10/2026, o XPLG11 distribuiu R$ 9,8400 por cota em 12 pagamentos, resultando em um dividend yield de 10,85% 0. O último rendimento foi de R$ 0,8200 por cota, com pagamento em 01/10/2026 0. O relatório gerencial de setembro de 2026 confirma a distribuição de R$ 0,82 por cota, correspondendo a um dividend yield anualizado de 10,64% em relação ao valor de mercado da cota no fechamento do mês (R$ 92,51) 3. A tributação para pessoas físicas com participação inferior a 10% do total do fundo, desde que este possua no mínimo 100 cotistas e as cotas sejam negociadas em bolsa, é isenta de Imposto de Renda nos rendimentos distribuídos, com tributação de 20% sobre eventual ganho de capital na venda da cota 3. Acompanhe os [dividendos e JCP no StockBar](/recursos/proventos) para visualizar a data de pagamento e o valor multiplicado pela sua quantidade de cotas."
+      "body": "Nos 12 meses até 28/10/2026, o XPLG11 distribuiu R$ 9,8400 por cota em 12 pagamentos, resultando em um dividend yield de 10,85% 0. O último rendimento foi de R$ 0,8200 por cota, com pagamento em 01/10/2026 0. O relatório gerencial de setembro de 2026 confirma a distribuição de R$ 0,82 por cota, correspondendo a um dividend yield anualizado de 10,64% em relação ao valor de mercado da cota no fechamento do mês (R$ 92,51) 3. A tributação para pessoas físicas com participação inferior a 10% do total do fundo, desde que este possua no mínimo 100 cotistas e as cotas sejam negociadas em bolsa, é isenta de Imposto de Renda nos rendimentos distribuídos, com tributação de 20% sobre eventual ganho de capital na venda da cota 3. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para visualizar a data de pagamento e o valor multiplicado pela sua quantidade de cotas."
     },
     {
       "id": "emissoes",
@@ -197,12 +214,12 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do XPLG11",
-      "body": "A rentabilidade total do XPLG11, com proventos, foi de -1,13% nos 12 meses até 28/10/2026, 9,98% em 3 anos e 39,48% em 5 anos 0. O fundo tem um beta de 0,26 contra o Ibovespa, indicando menor sensibilidade às variações do índice 0. Para comparar o desempenho do XPLG11 com o IFIX, o CDI e outros índices, utilize a [comparação com índices no StockBar](/recursos/comparacao-com-indices), que exibe a rentabilidade lado a lado no mesmo gráfico."
+      "body": "A rentabilidade total do XPLG11, com proventos, foi de -1,13% nos 12 meses até 28/10/2026, 9,98% em 3 anos e 39,48% em 5 anos 0. O fundo tem um beta de 0,26 contra o Ibovespa, indicando menor sensibilidade às variações do índice 0. Para comparar o desempenho do XPLG11 com o IFIX, o CDI e outros índices, utilize a [comparação com índices no app](/recursos/comparacao-com-indices), que exibe a rentabilidade lado a lado no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos do XPLG11",
-      "body": "Os riscos do XPLG11 incluem a vacância física dos imóveis, que fechou em 3,8% em setembro de 2026, e a inadimplência, que representou 2,6% da receita de locação mensal 3. O fundo também está exposto a riscos de crédito, uma vez que investe em CRIs e LCI, além de riscos de mercado e juros 3. A volatilidade anualizada de 12 meses é de 13,53%, classificada como baixa, e a maior queda nos últimos 5 anos foi de -16,22%, do pico em 15/09/2023 ao ponto mais baixo em 19/12/2024 0. Para monitorar oscilações de preço, configure [alertas de preço no StockBar](/recursos/alertas-de-preco) para ser notificado quando a cota atingir um valor específico."
+      "body": "Os riscos do XPLG11 incluem a vacância física dos imóveis, que fechou em 3,8% em setembro de 2026, e a inadimplência, que representou 2,6% da receita de locação mensal 3. O fundo também está exposto a riscos de crédito, uma vez que investe em CRIs e LCI, além de riscos de mercado e juros 3. A volatilidade anualizada de 12 meses é de 13,53%, classificada como baixa, e a maior queda nos últimos 5 anos foi de -16,22%, do pico em 15/09/2023 ao ponto mais baixo em 19/12/2024 0. Para monitorar oscilações de preço, configure [alertas de preço no app](/recursos/alertas-de-preco) para ser notificado quando a cota atingir um valor específico."
     }
   ],
   "faq": [
@@ -227,30 +244,30 @@
       "answer": "Em setembro de 2026, o patrimônio líquido do XPLG11 era de R$ 5,37 bilhões, com 364.309 cotistas e 51.390.098 cotas emitidas 1. O valor patrimonial da cota era de R$ 104,43 1."
     },
     {
-      "question": "Como acompanhar o XPLG11 no StockBar?",
-      "answer": "Você pode acompanhar o XPLG11 no StockBar com [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a cota atingir um valor específico, e com o [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua posição no fundo."
+      "question": "Como acompanhar o XPLG11 no app?",
+      "answer": "Você pode acompanhar o XPLG11 no app com [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a cota atingir um valor específico, e com o [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua posição no fundo."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os rendimentos do XPLG11 com data de pagamento, multiplicados pela sua quantidade de cotas."
       },
       {
         "feature": "comparacao-com-indices",
-        "anchor": "comparação com índices no StockBar",
+        "anchor": "comparação com índices no app",
         "context": "Compare a rentabilidade do XPLG11 com o IFIX, o CDI e outros índices no mesmo gráfico."
       },
       {
         "feature": "alertas-de-preco",
-        "anchor": "alertas de preço no StockBar",
+        "anchor": "alertas de preço no app",
         "context": "Configure alertas para ser notificado quando a cota do XPLG11 atingir um valor específico."
       },
       {
         "feature": "desempenho-e-preco-medio",
-        "anchor": "volatilidade e o desempenho no StockBar",
+        "anchor": "volatilidade e o desempenho no app",
         "context": "Acompanhe a volatilidade e o desempenho do XPLG11 em relação à sua carteira."
       },
       {

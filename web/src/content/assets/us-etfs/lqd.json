@@ -4,6 +4,7 @@
   "list": "us-etfs",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "LQD: história, dividendos e volatilidade",
     "description": "LQD é o ETF de títulos corporativos de grau de investimento nos EUA. Veja desempenho, dividendos, riscos e como investir do Brasil.",
@@ -20,6 +21,19 @@
     ]
   },
   "summary": "LQD é o iShares iBoxx $ Investment Grade Corporate Bond ETF, lançado em julho de 2002 pela iShares (BlackRock). O fundo replica o índice de títulos corporativos de alta qualidade (investment grade) nos Estados Unidos. Em 29/10/2026, a cota valia US$ 104,22, com dividend yield de 4,84% nos últimos 12 meses e volume médio diário de US$ 3,30 bilhões.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF",
+    "ticker": "ARCX LQD",
+    "foundingDate": "2002-07-30",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
   "profile": {
     "type": "ETF de renda fixa corporativa (investment grade)",
     "issuerOrManager": "iShares (BlackRock)",
@@ -158,7 +172,7 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do LQD",
-      "body": "Até 29/10/2026, o LQD apresentou rentabilidade total com proventos de -2,76% em 12 meses, 20,12% em 3 anos, -4,41% em 5 anos e 23,10% em 10 anos. O desempenho de 12 meses reflete o impacto da alta de juros no período, que pressiona o preço de títulos de renda fixa. A rentabilidade de 3 anos e 10 anos é positiva, indicando recuperação após o ciclo de alta. O dividend yield de 4,84% nos últimos 12 meses, com US$ 5,0490 distribuídos em 12 pagamentos, contribui para o retorno total. Para comparar o LQD com o S&P 500, o [comparação com índices](/recursos/comparacao-com-indices) do StockBar permite visualizar a rentabilidade lado a lado. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) também ajuda a acompanhar a evolução da posição."
+      "body": "Até 29/10/2026, o LQD apresentou rentabilidade total com proventos de -2,76% em 12 meses, 20,12% em 3 anos, -4,41% em 5 anos e 23,10% em 10 anos. O desempenho de 12 meses reflete o impacto da alta de juros no período, que pressiona o preço de títulos de renda fixa. A rentabilidade de 3 anos e 10 anos é positiva, indicando recuperação após o ciclo de alta. O dividend yield de 4,84% nos últimos 12 meses, com US$ 5,0490 distribuídos em 12 pagamentos, contribui para o retorno total. Para comparar o LQD com o S&P 500, o [comparação com índices](/recursos/comparacao-com-indices) do app permite visualizar a rentabilidade lado a lado. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) também ajuda a acompanhar a evolução da posição."
     },
     {
       "id": "riscos",
@@ -169,7 +183,7 @@
   "faq": [
     {
       "question": "LQD paga dividendos?",
-      "answer": "Sim, o LQD distribui proventos mensais. Nos 12 meses até 29/10/2026, foram pagos US$ 5,0490 por cota em 12 pagamentos, com o último de US$ 0,4390 em 01/10/2026, resultando em dividend yield de 4,84%. Os proventos vêm dos juros pagos pelos títulos corporativos da carteira. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do StockBar permite acompanhar a evolução do preço e o impacto dos proventos no retorno total."
+      "answer": "Sim, o LQD distribui proventos mensais. Nos 12 meses até 29/10/2026, foram pagos US$ 5,0490 por cota em 12 pagamentos, com o último de US$ 0,4390 em 01/10/2026, resultando em dividend yield de 4,84%. Os proventos vêm dos juros pagos pelos títulos corporativos da carteira. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app permite acompanhar a evolução do preço e o impacto dos proventos no retorno total."
     },
     {
       "question": "Qual a diferença entre LQD e HYG?",
@@ -181,7 +195,7 @@
     },
     {
       "question": "Como investir no LQD do Brasil?",
-      "answer": "É possível investir no LQD abrindo conta em uma corretora que ofereça acesso a mercados internacionais, comprando a cota em dólar. O risco cambial é um fator importante, pois a cotação em reais depende do câmbio. Alternativamente, pode-se buscar BDRs ou ETFs na B3 que replicam o mesmo índice, se disponíveis. O [open finance](/recursos/open-finance) do StockBar ajuda a conciliar posições em diferentes corretoras."
+      "answer": "É possível investir no LQD abrindo conta em uma corretora que ofereça acesso a mercados internacionais, comprando a cota em dólar. O risco cambial é um fator importante, pois a cotação em reais depende do câmbio. Alternativamente, pode-se buscar BDRs ou ETFs na B3 que replicam o mesmo índice, se disponíveis. O [open finance](/recursos/open-finance) do app ajuda a conciliar posições em diferentes corretoras."
     },
     {
       "question": "Qual o risco de crédito do LQD?",
@@ -189,7 +203,7 @@
     },
     {
       "question": "LQD é melhor que o S&P 500?",
-      "answer": "Não há uma resposta única, pois o LQD e o [SPY](/etfs/spy) (ou [VOO](/etfs/voo)) têm perfis de risco e retorno diferentes. O LQD é um ETF de renda fixa, com menor volatilidade e menor retorno esperado que o S&P 500, que é um ETF de ações. A escolha depende do objetivo do investidor: o LQD é mais adequado para quem busca renda e menor oscilação, enquanto o S&P 500 é voltado para crescimento. O [comparação com índices](/recursos/comparacao-com-indices) do StockBar permite visualizar a rentabilidade lado a lado."
+      "answer": "Não há uma resposta única, pois o LQD e o [SPY](/etfs/spy) (ou [VOO](/etfs/voo)) têm perfis de risco e retorno diferentes. O LQD é um ETF de renda fixa, com menor volatilidade e menor retorno esperado que o S&P 500, que é um ETF de ações. A escolha depende do objetivo do investidor: o LQD é mais adequado para quem busca renda e menor oscilação, enquanto o S&P 500 é voltado para crescimento. O [comparação com índices](/recursos/comparacao-com-indices) do app permite visualizar a rentabilidade lado a lado."
     }
   ],
   "internalLinks": {

@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "BBAS3: história, dividendos e volatilidade",
     "description": "Conheça a BBAS3, ação ordinária do Banco do Brasil: controle estatal, dividend yield de 3,98%, volatilidade de 47,47% e histórico desde 1808.",
@@ -20,6 +21,27 @@
     ]
   },
   "summary": "BBAS3 é a ação ordinária do Banco do Brasil S.A., instituição financeira estatal fundada em 1808 e controlada pelo Governo Federal. Listada no Novo Mercado da B3 desde 1977, a empresa opera como banco múltiplo. Até 29/10/2026, o ativo apresentou rentabilidade total de -20,22% em 12 meses, com dividend yield de 3,98% e volatilidade anualizada de 47,47%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Banco do Brasil",
+    "legalName": "BANCO DO BRASIL S.A.",
+    "ticker": "BVMF BBAS3",
+    "isin": "BRBBASACNOR3",
+    "taxId": "00.000.000/0001-91",
+    "foundingDate": "1905-12-30",
+    "address": {
+      "locality": "Brasília",
+      "region": "DF",
+      "country": "BR"
+    },
+    "website": "https://www.bb.com.br",
+    "wikidata": "Q610817",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q610817",
+      "https://pt.wikipedia.org/wiki/Banco_do_Brasil",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/1023/BBAS/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Banco do Brasil",
     "legalName": "BANCO DO BRASIL S.A.",
@@ -208,7 +230,7 @@
     {
       "id": "proventos",
       "heading": "BBAS3 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a BBAS3 distribuiu R$ 0,6550 por ação em 6 pagamentos, resultando em dividend yield de 3,98%. O último pagamento registrado foi de R$ 0,1053 em 02/09/2026. A companhia tem histórico regular de remuneração aos acionistas, com fatos relevantes publicados em 2026 para os trimestres 1T26, 2T26 e 3T26, incluindo JCPs e remunerações complementares. Para acompanhar os dividendos e JCP com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 29/10/2026, a BBAS3 distribuiu R$ 0,6550 por ação em 6 pagamentos, resultando em dividend yield de 3,98%. O último pagamento registrado foi de R$ 0,1053 em 02/09/2026. A companhia tem histórico regular de remuneração aos acionistas, com fatos relevantes publicados em 2026 para os trimestres 1T26, 2T26 e 3T26, incluindo JCPs e remunerações complementares. Para acompanhar os dividendos e JCP com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
@@ -224,7 +246,7 @@
   "faq": [
     {
       "question": "BBAS3 paga dividendos?",
-      "answer": "Sim, a BBAS3 distribui proventos regularmente. Nos 12 meses até 29/10/2026, foram pagos R$ 0,6550 por ação em 6 pagamentos, com dividend yield de 3,98%. O último pagamento foi de R$ 0,1053 em 02/09/2026. A companhia publica fatos relevantes trimestrais sobre remuneração aos acionistas, incluindo JCPs e remunerações complementares. Veja os detalhes no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, a BBAS3 distribui proventos regularmente. Nos 12 meses até 29/10/2026, foram pagos R$ 0,6550 por ação em 6 pagamentos, com dividend yield de 3,98%. O último pagamento foi de R$ 0,1053 em 02/09/2026. A companhia publica fatos relevantes trimestrais sobre remuneração aos acionistas, incluindo JCPs e remunerações complementares. Veja os detalhes no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre BBAS3 e BBAS11?",
@@ -243,7 +265,7 @@
       "answer": "Sim, a BBAS3 está listada no segmento Novo Mercado da B3, que exige padrões elevados de governança corporativa, transparência e igualdade de tratamento aos acionistas. A companhia é aberta na CVM desde 20/07/1977 e tem cotação na bolsa desde a mesma data."
     },
     {
-      "question": "Como acompanhar a BBAS3 no StockBar?",
+      "question": "Como acompanhar a BBAS3 no app?",
       "answer": "Você pode integrar a BBAS3 à sua [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e o desempenho junto com outros ativos. O [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a sua posição, com respostas baseadas nos seus próprios dados."
     }
   ],
@@ -251,7 +273,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da BBAS3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "KNIP11: FII de papel, CRI e dividendos",
     "description": "KNIP11 é FII de papel da Kinea, com 93,3% em CRI indexados ao IPCA. Patrimônio de R$ 7,62 bi, dividend yield de 11,63% e proventos mensais isentos de IR.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "KNIP11 é o Kinea Índices de Preços Fundo de Investimento Imobiliário, um FII de papel voltado a investidores qualificados que investe predominantemente em Certificados de Recebíveis Imobiliários (CRI) indexados à inflação. Com patrimônio de R$ 7,62 bilhões em 09/2026, a carteira possui taxa média de IPCA + 9,79% a.a. e distribui proventos mensais isentos de imposto de renda para pessoas físicas.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Kinea Índices de Preços Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "KINEA ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF KNIP11",
+    "isin": "BRKNIPCTF001",
+    "taxId": "24.960.430/0001-13",
+    "foundingDate": "2016-09-16",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=24960430000113"
+    ]
+  },
   "profile": {
     "type": "FII de papel (CRI)",
     "issuerOrManager": "Kinea Investimentos Ltda",
@@ -204,7 +221,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do KNIP11",
-      "body": "Nos 12 meses até 28/10/2026, o KNIP11 distribuiu R$ 10,1100 por cota em 12 pagamentos, resultando em dividend yield de 11,63%. O último provento foi de R$ 0,6000, pago em 01/10/2026. Os rendimentos do fundo são isentos de imposto de renda para pessoas físicas, conforme informado no relatório gerencial de setembro de 2026. A distribuição de setembro de 2026, no valor de R$ 0,60 por cota, representa 0,58% de rentabilidade com base na cota média de ingresso de R$ 102,96, correspondendo a 54% da taxa DI do período. É possível acompanhar os proventos do KNIP11 com data de competência e pagamento no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 28/10/2026, o KNIP11 distribuiu R$ 10,1100 por cota em 12 pagamentos, resultando em dividend yield de 11,63%. O último provento foi de R$ 0,6000, pago em 01/10/2026. Os rendimentos do fundo são isentos de imposto de renda para pessoas físicas, conforme informado no relatório gerencial de setembro de 2026. A distribuição de setembro de 2026, no valor de R$ 0,60 por cota, representa 0,58% de rentabilidade com base na cota média de ingresso de R$ 102,96, correspondendo a 54% da taxa DI do período. É possível acompanhar os proventos do KNIP11 com data de competência e pagamento no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "emissoes",
@@ -214,12 +231,12 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do KNIP11",
-      "body": "A rentabilidade total do KNIP11, com proventos, foi de 10,96% nos 12 meses até 28/10/2026, 32,20% em 3 anos e 43,46% em 5 anos. O fundo é indexado ao IPCA, e sua carteira tem taxa média de IPCA + 9,79% a.a. A comparação com índices como o IFIX e o CDI pode ser feita no recurso de [comparação com índices](/recursos/comparacao-com-indices) do StockBar, que exibe a rentabilidade do fundo lado a lado com esses benchmarks."
+      "body": "A rentabilidade total do KNIP11, com proventos, foi de 10,96% nos 12 meses até 28/10/2026, 32,20% em 3 anos e 43,46% em 5 anos. O fundo é indexado ao IPCA, e sua carteira tem taxa média de IPCA + 9,79% a.a. A comparação com índices como o IFIX e o CDI pode ser feita no recurso de [comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade do fundo lado a lado com esses benchmarks."
     },
     {
       "id": "riscos",
       "heading": "Riscos do KNIP11",
-      "body": "Como FII de papel, o KNIP11 está exposto ao risco de crédito dos devedores dos CRI, embora o fundo priorize ativos de baixo risco. A volatilidade anualizada de 12 meses é de 13,53%, classificada como baixa. O beta de 0,24 contra o Ibovespa indica baixa correlação com o mercado de ações. A maior queda nos últimos 5 anos foi de -9,61%, entre 22/06/2022 e 19/12/2022. O fundo também está exposto ao risco de liquidez, com volume médio diário de R$ 10,4 milhões nos últimos 3 meses. A deflação pontual em agosto de 2026, causada pelo Bônus de Itaipu, reduziu os rendimentos do fundo naquele mês [0, 3]. Alertas de preço podem ser configurados no StockBar para acompanhar variações da cota: [alertas de preço](/recursos/alertas-de-preco)."
+      "body": "Como FII de papel, o KNIP11 está exposto ao risco de crédito dos devedores dos CRI, embora o fundo priorize ativos de baixo risco. A volatilidade anualizada de 12 meses é de 13,53%, classificada como baixa. O beta de 0,24 contra o Ibovespa indica baixa correlação com o mercado de ações. A maior queda nos últimos 5 anos foi de -9,61%, entre 22/06/2022 e 19/12/2022. O fundo também está exposto ao risco de liquidez, com volume médio diário de R$ 10,4 milhões nos últimos 3 meses. A deflação pontual em agosto de 2026, causada pelo Bônus de Itaipu, reduziu os rendimentos do fundo naquele mês [0, 3]. Alertas de preço podem ser configurados no app para acompanhar variações da cota: [alertas de preço](/recursos/alertas-de-preco)."
     }
   ],
   "faq": [
@@ -256,7 +273,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os proventos do KNIP11 com data de competência e pagamento, multiplicados pela sua quantidade de cotas."
       },
       {

@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "ITSA4: história, dividendos e volatilidade",
     "description": "ITSA4 é a ação preferencial da Itaúsa, holding diversificada com dividend yield de 8,78% e rentabilidade de 24,11% em 12 meses.",
@@ -20,6 +21,28 @@
     ]
   },
   "summary": "ITSA4 é a ação preferencial da Itaúsa S.A., uma holding diversificada brasileira com sede em São Paulo, fundada em 1966. A empresa controla participações em companhias como Itaú Unibanco, Alpargatas, Dexco, Copa Energia, Motiva, Aegea e NTS. Em 29/10/2026, a ação era cotada a R$ 12,85, com dividend yield de 8,78% nos últimos 12 meses e rentabilidade total de 24,11% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Itaúsa",
+    "legalName": "ITAUSA S.A.",
+    "ticker": "BVMF ITSA4",
+    "isin": "BRITSAACNPR7",
+    "taxId": "61.532.644/0001-15",
+    "foundingDate": "1966-05-06",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.itausa.com.br",
+    "wikidata": "Q1579151",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1579151",
+      "https://pt.wikipedia.org/wiki/Ita%C3%BAsa",
+      "https://en.wikipedia.org/wiki/Ita%C3%BAsa",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/7617/ITSA/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Itaúsa",
     "legalName": "ITAUSA S.A.",
@@ -142,7 +165,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A ITSA4 apresenta volatilidade anualizada de 30,83% nos últimos 12 meses, nível considerado alto para uma ação de holding diversificada. A maior queda em 5 anos foi de -25,16%, entre 29/03/2022 e 14/07/2022, período que reflete a sensibilidade da empresa a mudanças no cenário macroeconômico e nos setores em que está exposta. Para investidores que desejam monitorar movimentos bruscos de preço, os [alertas de preço](/recursos/alertas-de-preco) do StockBar notificam quando a ação atinge níveis pré-definidos."
+    "explanation": "A ITSA4 apresenta volatilidade anualizada de 30,83% nos últimos 12 meses, nível considerado alto para uma ação de holding diversificada. A maior queda em 5 anos foi de -25,16%, entre 29/03/2022 e 14/07/2022, período que reflete a sensibilidade da empresa a mudanças no cenário macroeconômico e nos setores em que está exposta. Para investidores que desejam monitorar movimentos bruscos de preço, os [alertas de preço](/recursos/alertas-de-preco) do app notificam quando a ação atinge níveis pré-definidos."
   },
   "history": {
     "overview": "A Itaúsa S.A. foi constituída em 06/05/1966, originalmente como Banco Itaú de Investimento. Ao longo das décadas, a empresa passou por diversas mudanças de nome, incluindo Banco Itaú Português de Investimentos (1973) e Investimentos Itaú (1974), até adotar a denominação atual em 30/04/1991. A companhia registrou-se como aberta na CVM em 20/07/1977 e iniciou a cotação de suas ações na B3 em 30/06/1978, tornando-se uma das bases acionárias mais amplas da bolsa brasileira, com cerca de 900 mil investidores pessoas físicas.",
@@ -228,17 +251,17 @@
     {
       "id": "proventos",
       "heading": "ITSA4 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a ITSA4 distribuiu R$ 1,1278 por ação em 7 pagamentos, resultando em um dividend yield de 8,78%. O último pagamento registrado foi de R$ 0,0242 em 01/09/2026. A Itaúsa tem histórico de remuneração aos acionistas por meio de dividendos e juros sobre capital próprio (JCP), com declarações e pagamentos registrados em 2026. É possível acompanhar o histórico completo de [dividendos e JCP no StockBar](/recursos/proventos), que mostra as datas de competência e pagamento, multiplicadas pela quantidade de ações na carteira."
+      "body": "Nos 12 meses até 29/10/2026, a ITSA4 distribuiu R$ 1,1278 por ação em 7 pagamentos, resultando em um dividend yield de 8,78%. O último pagamento registrado foi de R$ 0,0242 em 01/09/2026. A Itaúsa tem histórico de remuneração aos acionistas por meio de dividendos e juros sobre capital próprio (JCP), com declarações e pagamentos registrados em 2026. É possível acompanhar o histórico completo de [dividendos e JCP no app](/recursos/proventos), que mostra as datas de competência e pagamento, multiplicadas pela quantidade de ações na carteira."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da ITSA4",
-      "body": "Até 29/10/2026, a ITSA4 apresentou rentabilidade total com proventos de 24,11% em 12 meses, 118,46% em 3 anos, 145,87% em 5 anos e 307,41% em 10 anos. O preço da ação era de R$ 12,85 nessa data. Para avaliar esses resultados no contexto do mercado, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que coloca a rentabilidade da carteira lado a lado com o Ibovespa, CDI e outros benchmarks no mesmo gráfico."
+      "body": "Até 29/10/2026, a ITSA4 apresentou rentabilidade total com proventos de 24,11% em 12 meses, 118,46% em 3 anos, 145,87% em 5 anos e 307,41% em 10 anos. O preço da ação era de R$ 12,85 nessa data. Para avaliar esses resultados no contexto do mercado, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade da carteira lado a lado com o Ibovespa, CDI e outros benchmarks no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos da ITSA4",
-      "body": "A ITSA4 possui volatilidade anualizada de 30,83% nos últimos 12 meses, classificada como nível alto, e beta de 1,12 contra o Ibovespa, indicando maior sensibilidade às oscilações do mercado. A maior queda em 5 anos foi de -25,16%, do pico em 29/03/2022 ao ponto mais baixo em 14/07/2022. Como holding diversificada, a Itaúsa está exposta aos riscos setoriais de seus investimentos, incluindo financeiro, energia, logística e saneamento. A exposição a múltiplos setores pode mitigar riscos específicos, mas a empresa permanece sujeita a ciclos econômicos e regulatórios. O [alertas de preço](/recursos/alertas-de-preco) do StockBar permite monitorar oscilações sem necessidade de acompanhamento constante."
+      "body": "A ITSA4 possui volatilidade anualizada de 30,83% nos últimos 12 meses, classificada como nível alto, e beta de 1,12 contra o Ibovespa, indicando maior sensibilidade às oscilações do mercado. A maior queda em 5 anos foi de -25,16%, do pico em 29/03/2022 ao ponto mais baixo em 14/07/2022. Como holding diversificada, a Itaúsa está exposta aos riscos setoriais de seus investimentos, incluindo financeiro, energia, logística e saneamento. A exposição a múltiplos setores pode mitigar riscos específicos, mas a empresa permanece sujeita a ciclos econômicos e regulatórios. O [alertas de preço](/recursos/alertas-de-preco) do app permite monitorar oscilações sem necessidade de acompanhamento constante."
     }
   ],
   "faq": [
@@ -256,7 +279,7 @@
     },
     {
       "question": "Qual o dividend yield da ITSA4?",
-      "answer": "O dividend yield da ITSA4 nos 12 meses até 29/10/2026 foi de 8,78%, com base em R$ 1,1278 distribuídos por ação em 7 pagamentos. O último pagamento registrado foi de R$ 0,0242 em 01/09/2026. O [recurso de proventos](/recursos/proventos) do StockBar permite acompanhar a evolução dos pagamentos ao longo do tempo."
+      "answer": "O dividend yield da ITSA4 nos 12 meses até 29/10/2026 foi de 8,78%, com base em R$ 1,1278 distribuídos por ação em 7 pagamentos. O último pagamento registrado foi de R$ 0,0242 em 01/09/2026. O [recurso de proventos](/recursos/proventos) do app permite acompanhar a evolução dos pagamentos ao longo do tempo."
     },
     {
       "question": "Quem controla a Itaúsa?",
@@ -271,7 +294,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da ITSA4 com data de competência e data de pagamento, multiplicados pela sua quantidade de ações."
       },
       {

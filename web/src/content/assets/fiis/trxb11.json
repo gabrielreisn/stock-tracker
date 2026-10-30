@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "TRXB11: FII de tijolo, dividendos e volatilidade",
     "description": "TRXB11 é o FII de tijolo da TRX, com foco em varejo e logística. Veja dividend yield de 17,76%, patrimônio de R$ 397,0 milhões e volatilidade de 41,63% em",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "TRXB11 é a cota do TRX Real Estate II Fundo de Investimento Imobiliário, um FII de tijolo com foco em imóveis de varejo, saúde e logística. Fundado em 2020, o fundo distribui renda mensal a partir de aluguéis de contratos de longo prazo com grandes empresas. Em 28/10/2026, a cota valia R$ 190,01, com dividend yield de 17,76% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "TRX Real Estate II Fundo de Investimento Imobiliário",
+    "legalName": "TRX REAL ESTATE II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF TRXB11",
+    "isin": "BRTRXBCTF002",
+    "taxId": "36.368.925/0001-37",
+    "foundingDate": "2020-03-16",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36368925000137"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, varejo",
     "issuerOrManager": "TRX Gestora de Recursos (gestora), BRL TRUST DTVM S.A",
@@ -143,7 +160,7 @@
   },
   "volatility": {
     "level": "muito alta",
-    "explanation": "A volatilidade anualizada do TRXB11 nos 12 meses até 28/10/2026 foi de 41,63%, classificada como muito alta. Isso indica que a cota tem oscilações significativas, o que é comum para FIIs de tijolo em períodos de estresse ou reprecificação de ativos. O beta contra o Ibovespa foi de 0,15, o que mostra baixa correlação com o índice acionário, o que é típico para FIIs, que são mais sensíveis a juros e ao mercado imobiliário do que às ações. A maior queda em 5 anos foi de -34,26%, do pico em 07/08/2024 ao ponto mais baixo em 05/12/2024, o que indica um drawdown significativo, possivelmente relacionado a reprecificação de ativos ou mudanças no cenário de juros. Para acompanhar a volatilidade e o preço da cota, use o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no StockBar, que mostra o gráfico de rentabilidade e a variação do dia e do ano."
+    "explanation": "A volatilidade anualizada do TRXB11 nos 12 meses até 28/10/2026 foi de 41,63%, classificada como muito alta. Isso indica que a cota tem oscilações significativas, o que é comum para FIIs de tijolo em períodos de estresse ou reprecificação de ativos. O beta contra o Ibovespa foi de 0,15, o que mostra baixa correlação com o índice acionário, o que é típico para FIIs, que são mais sensíveis a juros e ao mercado imobiliário do que às ações. A maior queda em 5 anos foi de -34,26%, do pico em 07/08/2024 ao ponto mais baixo em 05/12/2024, o que indica um drawdown significativo, possivelmente relacionado a reprecificação de ativos ou mudanças no cenário de juros. Para acompanhar a volatilidade e o preço da cota, use o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app, que mostra o gráfico de rentabilidade e a variação do dia e do ano."
   },
   "history": {
     "overview": "O TRX Real Estate II FII (TRXB11) iniciou suas atividades em 16/03/2020, com o objetivo de distribuir renda aos cotistas por meio de uma gestão ativa de imóveis locados. Diferente do seu irmão mais velho, o [TRXF11](/fiis/trxf11), o TRXB11 é um fundo de prazo determinado e voltado exclusivamente ao investidor profissional, o que o torna menos acessível para o público geral. A estratégia do fundo é focada em imóveis de alto padrão, com contratos atípicos de longo prazo, buscando maximizar o retorno por meio da aquisição e desenvolvimento de ativos. O fundo tem uma história de captação constante, com 10 ofertas públicas encerradas até 2026, o que indica um crescimento de patrimônio e uma estratégia de expansão contínua. Em 2026, o fundo realizou a venda de 9 imóveis de varejo (incluindo Sam's Club e Assaí) por R$ 672 milhões, uma operação que reestruturou sua carteira e gerou liquidez para novas aquisições ou pagamentos de dívidas. A gestão é feita pela TRX Gestora de Recursos, com administração da BRL Trust DTVM S.A., e o fundo é classificado como multicategoria pela CVM, o que permite flexibilidade na alocação entre diferentes segmentos imobiliários.",
@@ -189,7 +206,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do TRXB11",
-      "body": "Nos 12 meses até 28/10/2026, o TRXB11 distribuiu R$ 33,7414 por cota em 12 pagamentos, resultando em um dividend yield de 17,76%. O último pagamento foi de R$ 3,0000 em 01/10/2026. A tributação sobre rendimentos de FIIs não é detalhada nas fontes do dossiê, mas é importante lembrar que os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, enquanto a valorização da cota está sujeita à regra de 15% sobre o ganho de capital. Para acompanhar os pagamentos e o histórico de proventos, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos), que mostra as datas de competência e pagamento, multiplicadas pela sua quantidade de cotas."
+      "body": "Nos 12 meses até 28/10/2026, o TRXB11 distribuiu R$ 33,7414 por cota em 12 pagamentos, resultando em um dividend yield de 17,76%. O último pagamento foi de R$ 3,0000 em 01/10/2026. A tributação sobre rendimentos de FIIs não é detalhada nas fontes do dossiê, mas é importante lembrar que os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, enquanto a valorização da cota está sujeita à regra de 15% sobre o ganho de capital. Para acompanhar os pagamentos e o histórico de proventos, use o recurso de [dividendos e JCP no app](/recursos/proventos), que mostra as datas de competência e pagamento, multiplicadas pela sua quantidade de cotas."
     },
     {
       "id": "emissoes",
@@ -199,12 +216,12 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do TRXB11",
-      "body": "Nos 12 meses até 28/10/2026, o TRXB11 teve rentabilidade total com proventos de 48,16%. A volatilidade anualizada no mesmo período foi de 41,63%, classificada como muito alta. O beta contra o Ibovespa foi de 0,15, o que indica baixa correlação com o índice acionário. A maior queda em 5 anos foi de -34,26%, do pico em 07/08/2024 ao ponto mais baixo em 05/12/2024. Para comparar o desempenho do TRXB11 com índices como o IFIX e o CDI, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que mostra a rentabilidade lado a lado no mesmo gráfico."
+      "body": "Nos 12 meses até 28/10/2026, o TRXB11 teve rentabilidade total com proventos de 48,16%. A volatilidade anualizada no mesmo período foi de 41,63%, classificada como muito alta. O beta contra o Ibovespa foi de 0,15, o que indica baixa correlação com o índice acionário. A maior queda em 5 anos foi de -34,26%, do pico em 07/08/2024 ao ponto mais baixo em 05/12/2024. Para comparar o desempenho do TRXB11 com índices como o IFIX e o CDI, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos do TRXB11",
-      "body": "Os principais riscos do TRXB11 incluem a volatilidade do mercado imobiliário, a vacância física e financeira, e a exposição a grandes inquilinos. O fundo tem uma vacância física de 0,22% e financeira de 0,42% (dados do TRXF11, que é o fundo irmão, mas a estrutura é similar). A volatilidade anualizada de 41,63% é muito alta, o que indica oscilações significativas no preço da cota. A maior queda em 5 anos foi de -34,26%, o que mostra o risco de drawdown em períodos de estresse. O fundo também está exposto ao risco de crédito dos inquilinos e ao risco de juros, que afeta o valor de mercado dos imóveis e a atratividade dos rendimentos. Para monitorar oscilações de preço, use os [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "Os principais riscos do TRXB11 incluem a volatilidade do mercado imobiliário, a vacância física e financeira, e a exposição a grandes inquilinos. O fundo tem uma vacância física de 0,22% e financeira de 0,42% (dados do TRXF11, que é o fundo irmão, mas a estrutura é similar). A volatilidade anualizada de 41,63% é muito alta, o que indica oscilações significativas no preço da cota. A maior queda em 5 anos foi de -34,26%, o que mostra o risco de drawdown em períodos de estresse. O fundo também está exposto ao risco de crédito dos inquilinos e ao risco de juros, que afeta o valor de mercado dos imóveis e a atratividade dos rendimentos. Para monitorar oscilações de preço, use os [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
@@ -237,7 +254,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os proventos do TRXB11 com data de competência e pagamento, multiplicados pela sua quantidade de cotas."
       },
       {

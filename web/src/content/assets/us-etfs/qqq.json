@@ -4,6 +4,7 @@
   "list": "us-etfs",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "QQQ: história, desempenho e riscos",
     "description": "Conheça o Invesco QQQ Trust, ETF que replica o Nasdaq-100. Veja desempenho, volatilidade, maior queda e como investir a partir do Brasil.",
@@ -19,6 +20,24 @@
     ]
   },
   "summary": "QQQ é o ticker do Invesco QQQ Trust, um ETF que replica o índice Nasdaq-100, composto por 100 das maiores empresas de tecnologia e crescimento listadas na Nasdaq. Lançado em 1999, o fundo é o mais negociado que segue esse índice. Em julho de 2026, o QQQ administrava aproximadamente US$ 500 bilhões em ativos. Em 29/10/2026, a cota era negociada a US$ 715,34.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Invesco QQQ Trust",
+    "ticker": "XNAS QQQ",
+    "foundingDate": "1999",
+    "website": "https://www.invesco.com/qqq-etf/en/home.html",
+    "provider": {
+      "name": "Invesco",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Invesco"
+      ]
+    },
+    "wikidata": "Q122166676",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q122166676",
+      "https://en.wikipedia.org/wiki/Invesco_QQQ"
+    ]
+  },
   "profile": {
     "type": "ETF de índice",
     "issuerOrManager": "Invesco",
@@ -164,7 +183,7 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do QQQ",
-      "body": "Até 29/10/2026, o QQQ apresentou rentabilidade total com proventos de 13,04% nos últimos 12 meses, 108,34% em 3 anos, 90,89% em 5 anos e 554,31% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 25,50 bilhões. Para comparar o desempenho do QQQ com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) também permite visualizar a rentabilidade da carteira ao longo do tempo."
+      "body": "Até 29/10/2026, o QQQ apresentou rentabilidade total com proventos de 13,04% nos últimos 12 meses, 108,34% em 3 anos, 90,89% em 5 anos e 554,31% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 25,50 bilhões. Para comparar o desempenho do QQQ com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) também permite visualizar a rentabilidade da carteira ao longo do tempo."
     },
     {
       "id": "riscos",

@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "ENEV3: história, dividendos e volatilidade",
     "description": "ENEV3 é a ação ordinária da Eneva, empresa integrada de energia com 7,2 GWh de capacidade.",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "ENEV3 é a ação ordinária da Eneva S.A., empresa brasileira integrada de energia que atua na geração, exploração e produção de petróleo e gás natural. Listada no Novo Mercado da B3 desde 2007, a companhia possui capacidade instalada de 7,2 GWh ao final de 2025. Em 28/10/2026, a ação cotava a R$ 26,38, com rentabilidade total de 48,20% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Eneva",
+    "legalName": "ENEVA S.A.",
+    "ticker": "BVMF ENEV3",
+    "isin": "BRENEVACNOR8",
+    "taxId": "04.423.567/0001-21",
+    "foundingDate": "2001-04-25",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.eneva.com.br",
+    "wikidata": "Q3273148",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q3273148",
+      "https://pt.wikipedia.org/wiki/Eneva",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21237/ENEV/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Eneva",
     "legalName": "ENEVA S.A.",
@@ -135,7 +157,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A ENEV3 apresenta volatilidade anualizada de 38,82% nos últimos 12 meses, nível considerado 'alta' para ações de utilidade pública, que tradicionalmente têm menor oscilação. O beta de 1,07 indica que a ação tende a se mover 7% mais que o Ibovespa em movimentos de mercado. A maior queda em 5 anos foi de -40,72%, entre 12/09/2022 e 02/01/2025, refletindo ajustes no setor de energia e reestruturação de ativos. Para acompanhar oscilações e definir pontos de entrada ou saída, o recurso de [alertas de preço](/recursos/alertas-de-preco) no StockBar envia notificações quando a ação atinge o preço escolhido."
+    "explanation": "A ENEV3 apresenta volatilidade anualizada de 38,82% nos últimos 12 meses, nível considerado 'alta' para ações de utilidade pública, que tradicionalmente têm menor oscilação. O beta de 1,07 indica que a ação tende a se mover 7% mais que o Ibovespa em movimentos de mercado. A maior queda em 5 anos foi de -40,72%, entre 12/09/2022 e 02/01/2025, refletindo ajustes no setor de energia e reestruturação de ativos. Para acompanhar oscilações e definir pontos de entrada ou saída, o recurso de [alertas de preço](/recursos/alertas-de-preco) no app envia notificações quando a ação atinge o preço escolhido."
   },
   "history": {
     "overview": "A Eneva tem origem na MPX Energia, criada em 2001 para construir a Usina Termelétrica Termoceará durante a crise do apagão. Em 2005, a Petrobras adquiriu a usina, e a MPX abriu capital na B3 em dezembro de 2007. A empresa passou por uma cisão em 2012, criando a CCX para mineração de carvão na Colômbia. Em 2014, o controle da MPX foi vendido ao grupo alemão E.ON, que renomeou a empresa para Eneva. No mesmo ano, a OGX Maranhão, que operava o gás natural, foi assumida pelo Fundo Cambuhy e renomeada para Parnaíba Gás Natural. Em 2016, as duas empresas se fundiram, mantendo o nome Eneva e criando um modelo integrado de extração de gás natural para alimentar usinas termelétricas, reduzindo a dependência de gasodutos em regiões remotas. Em 2022, a empresa expandiu-se para energia solar com a aquisição da Focus Energia e inaugurou a UTE Jaguatirica II. Em 2026, a Eneva iniciou a operação comercial da UTE Azulão I e concluiu a venda da UTE Pecém II e da UTE Itaqui, reestruturando seu portfólio de geração.",
@@ -226,23 +248,23 @@
     {
       "id": "proventos",
       "heading": "ENEV3 paga dividendos?",
-      "body": "Nos últimos 12 meses até 28/10/2026, a ENEV3 não distribuiu dividendos ou JCP, conforme os números calculados. A empresa não possui histórico recente de proventos no período analisado. Para acompanhar a distribuição de dividendos e JCP de empresas da B3, com data com e data de pagamento, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos), que consolida as informações a partir dos comunicados da B3."
+      "body": "Nos últimos 12 meses até 28/10/2026, a ENEV3 não distribuiu dividendos ou JCP, conforme os números calculados. A empresa não possui histórico recente de proventos no período analisado. Para acompanhar a distribuição de dividendos e JCP de empresas da B3, com data com e data de pagamento, utilize o recurso de [dividendos e JCP no app](/recursos/proventos), que consolida as informações a partir dos comunicados da B3."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da ENEV3",
-      "body": "A ENEV3 apresentou rentabilidade total com proventos de 48,20% nos 12 meses, 143,58% em 3 anos, 83,58% em 5 anos e 625,22% em 10 anos, até 28/10/2026. O preço da ação era de R$ 26,38 nessa data. Para comparar a rentabilidade da ENEV3 com índices de referência como o Ibovespa, CDI e IPCA, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que exibe a performance lado a lado no mesmo gráfico."
+      "body": "A ENEV3 apresentou rentabilidade total com proventos de 48,20% nos 12 meses, 143,58% em 3 anos, 83,58% em 5 anos e 625,22% em 10 anos, até 28/10/2026. O preço da ação era de R$ 26,38 nessa data. Para comparar a rentabilidade da ENEV3 com índices de referência como o Ibovespa, CDI e IPCA, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a performance lado a lado no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos da ENEV3",
-      "body": "A ENEV3 apresenta volatilidade anualizada de 38,82% nos últimos 12 meses, classificada como nível 'alta', e beta de 1,07 contra o Ibovespa, indicando sensibilidade ligeiramente superior ao índice. A maior queda em 5 anos foi de -40,72%, do pico em 12/09/2022 ao ponto mais baixo em 02/01/2025. Os riscos incluem a dependência de preços de gás natural, regulação do setor de energia, e a reestruturação de ativos, como a venda de UTEs em 2026. A volatilidade elevada exige monitoramento de preços; o recurso de [alertas de preço](/recursos/alertas-de-preco) no StockBar permite notificações quando a ação atinge níveis definidos."
+      "body": "A ENEV3 apresenta volatilidade anualizada de 38,82% nos últimos 12 meses, classificada como nível 'alta', e beta de 1,07 contra o Ibovespa, indicando sensibilidade ligeiramente superior ao índice. A maior queda em 5 anos foi de -40,72%, do pico em 12/09/2022 ao ponto mais baixo em 02/01/2025. Os riscos incluem a dependência de preços de gás natural, regulação do setor de energia, e a reestruturação de ativos, como a venda de UTEs em 2026. A volatilidade elevada exige monitoramento de preços; o recurso de [alertas de preço](/recursos/alertas-de-preco) no app permite notificações quando a ação atinge níveis definidos."
     }
   ],
   "faq": [
     {
       "question": "ENEV3 paga dividendos?",
-      "answer": "Nos últimos 12 meses até 28/10/2026, a ENEV3 não distribuiu dividendos ou JCP. A empresa não possui histórico recente de proventos no período analisado. Para acompanhar distribuições futuras, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Nos últimos 12 meses até 28/10/2026, a ENEV3 não distribuiu dividendos ou JCP. A empresa não possui histórico recente de proventos no período analisado. Para acompanhar distribuições futuras, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre ENEV3 e ações preferenciais?",
@@ -254,7 +276,7 @@
     },
     {
       "question": "Qual a rentabilidade da ENEV3 nos últimos 12 meses?",
-      "answer": "A rentabilidade total com proventos da ENEV3 foi de 48,20% nos 12 meses até 28/10/2026. Para comparar com o Ibovespa e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+      "answer": "A rentabilidade total com proventos da ENEV3 foi de 48,20% nos 12 meses até 28/10/2026. Para comparar com o Ibovespa e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
     },
     {
       "question": "ENEV3 é uma empresa de energia renovável?",
@@ -269,7 +291,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da ENEV3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

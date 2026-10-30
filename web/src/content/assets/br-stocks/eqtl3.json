@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "EQTL3: história, dividendos e volatilidade",
     "description": "EQTL3 é a ação ordinária da Equatorial Energia, holding de energia e saneamento.",
@@ -20,6 +21,27 @@
     ]
   },
   "summary": "EQTL3 é a ação ordinária da Equatorial Energia, holding brasileira do setor de energia elétrica e saneamento com sede em São Luís. A empresa atua na distribuição de energia em estados como Maranhão, Pará, Piauí, Alagoas, Rio Grande do Sul e Amapá. Em 29/10/2026, a ação cotava a R$ 32,90, com dividend yield de 4,81% nos últimos 12 meses e volatilidade anualizada de 45,16%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Equatorial Energia",
+    "legalName": "EQUATORIAL S.A.",
+    "ticker": "BVMF EQTL3",
+    "isin": "BREQTLACNOR0",
+    "taxId": "03.220.438/0001-73",
+    "foundingDate": "1999-06-16",
+    "address": {
+      "locality": "São Luís",
+      "region": "MA",
+      "country": "BR"
+    },
+    "website": "https://www.equatorialenergia.com.br",
+    "wikidata": "Q18474582",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q18474582",
+      "https://pt.wikipedia.org/wiki/Equatorial_Energia",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20010/EQTL/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Equatorial Energia",
     "legalName": "EQUATORIAL S.A.",
@@ -218,12 +240,12 @@
     {
       "id": "proventos",
       "heading": "EQTL3 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a EQTL3 pagou R$ 1,5833 por ação em 2 pagamentos, resultando em dividend yield de 4,81%. O último pagamento foi de R$ 0,1333 em 30/12/2025. Em 25/03/2026, a empresa anunciou a redução dos dividendos obrigatórios. Para acompanhar os pagamentos com data de competência e data de pagamento, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 29/10/2026, a EQTL3 pagou R$ 1,5833 por ação em 2 pagamentos, resultando em dividend yield de 4,81%. O último pagamento foi de R$ 0,1333 em 30/12/2025. Em 25/03/2026, a empresa anunciou a redução dos dividendos obrigatórios. Para acompanhar os pagamentos com data de competência e data de pagamento, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da EQTL3",
-      "body": "Até 29/10/2026, a EQTL3 tinha rentabilidade total de -6,53% em 12 meses, 13,96% em 3 anos, 61,91% em 5 anos e 254,66% em 10 anos. O preço era de R$ 32,90. Para comparar esses números com o Ibovespa, CDI ou IPCA, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+      "body": "Até 29/10/2026, a EQTL3 tinha rentabilidade total de -6,53% em 12 meses, 13,96% em 3 anos, 61,91% em 5 anos e 254,66% em 10 anos. O preço era de R$ 32,90. Para comparar esses números com o Ibovespa, CDI ou IPCA, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
     },
     {
       "id": "riscos",
@@ -234,7 +256,7 @@
   "faq": [
     {
       "question": "EQTL3 paga dividendos?",
-      "answer": "Sim. Nos 12 meses até 29/10/2026, a EQTL3 pagou R$ 1,5833 por ação em 2 pagamentos, com dividend yield de 4,81%. O último pagamento foi de R$ 0,1333 em 30/12/2025. Em 25/03/2026, a empresa anunciou redução dos dividendos obrigatórios. Veja os detalhes no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim. Nos 12 meses até 29/10/2026, a EQTL3 pagou R$ 1,5833 por ação em 2 pagamentos, com dividend yield de 4,81%. O último pagamento foi de R$ 0,1333 em 30/12/2025. Em 25/03/2026, a empresa anunciou redução dos dividendos obrigatórios. Veja os detalhes no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre EQTL3 e ações preferenciais da Equatorial?",
@@ -246,7 +268,7 @@
     },
     {
       "question": "Qual a rentabilidade da EQTL3 nos últimos 5 anos?",
-      "answer": "Até 29/10/2026, a EQTL3 rendeu 61,91% em 5 anos, 13,96% em 3 anos e -6,53% em 12 meses. Para comparar com o Ibovespa ou CDI, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+      "answer": "Até 29/10/2026, a EQTL3 rendeu 61,91% em 5 anos, 13,96% em 3 anos e -6,53% em 12 meses. Para comparar com o Ibovespa ou CDI, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
     },
     {
       "question": "A EQTL3 tem alta volatilidade?",
@@ -261,7 +283,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos da EQTL3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
       },
       {

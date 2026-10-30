@@ -4,9 +4,10 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "LREN3: história, dividendos e volatilidade",
-    "description": "LREN3 é a ação ordinária da Lojas Renner, maior varejista de moda do Brasil. Veja a história, dividendos, volatilidade e desempenho da ação no StockBar.",
+    "description": "LREN3 é a ação ordinária da Lojas Renner, maior varejista de moda do Brasil. Veja a história, dividendos, volatilidade e desempenho da ação no app.",
     "h1": "LREN3: Lojas Renner S.A.",
     "canonicalPath": "/acoes/lren3",
     "keywords": [
@@ -20,6 +21,27 @@
     ]
   },
   "summary": "LREN3 é a ação ordinária da Lojas Renner S.A., maior varejista de moda do Brasil, listada no Novo Mercado da B3. A empresa opera as marcas Renner, Camicado, Youcom e Ashua, além da Realize CFI. Em 28/10/2026, a ação cotava a R$ 9,59, com rentabilidade total de -29,62% nos últimos 12 meses e dividend yield de 9,60%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Lojas Renner",
+    "legalName": "LOJAS RENNER SA",
+    "ticker": "BVMF LREN3",
+    "isin": "BRLRENACNOR1",
+    "taxId": "92.754.738/0001-62",
+    "foundingDate": "1965-06-10",
+    "address": {
+      "locality": "Porto Alegre",
+      "region": "RS",
+      "country": "BR"
+    },
+    "website": "https://www.lojasrenner.com.br",
+    "wikidata": "Q3064071",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q3064071",
+      "https://pt.wikipedia.org/wiki/Lojas_Renner",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/8133/LREN/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Lojas Renner",
     "legalName": "LOJAS RENNER SA",
@@ -142,7 +164,7 @@
   },
   "volatility": {
     "level": "muito alta",
-    "explanation": "A volatilidade anualizada da LREN3 nos 12 meses até 28/10/2026 foi de 59,90%, nível 'muito alta'. O beta da ação contra o Ibovespa foi de 1,98, indicando maior sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -62,40%, do pico em 11/11/2021 ao ponto mais baixo em 30/10/2023. Para ações do setor de consumo cíclico, a volatilidade pode ser influenciada por variações no consumo e mudanças nas preferências dos consumidores. Para monitorar a volatilidade e definir alertas de preço, use o recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+    "explanation": "A volatilidade anualizada da LREN3 nos 12 meses até 28/10/2026 foi de 59,90%, nível 'muito alta'. O beta da ação contra o Ibovespa foi de 1,98, indicando maior sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -62,40%, do pico em 11/11/2021 ao ponto mais baixo em 30/10/2023. Para ações do setor de consumo cíclico, a volatilidade pode ser influenciada por variações no consumo e mudanças nas preferências dos consumidores. Para monitorar a volatilidade e definir alertas de preço, use o recurso de [alertas de preço no app](/recursos/alertas-de-preco)."
   },
   "history": {
     "overview": "A história da Lojas Renner começa em 1922, quando Antônio Jacob Renner abriu o primeiro posto de venda da fábrica em Porto Alegre. A empresa evoluiu para o formato de loja de departamentos e, em 1965, desvinculou-se do Grupo A.J. Renner, consolidando sua atuação no varejo de moda. Em 1977, obteve registro como companhia aberta na CVM, e em 1988, suas ações passaram a ser negociadas na B3. Na década de 1990, a empresa reestruturou-se, adotando o formato de loja de departamentos especializada em moda e expandindo-se para outros estados do Brasil. Em 1998, a J.C. Penney Brazil adquiriu o controle acionário, o que intensificou a expansão e a adoção de conceitos de lifestyle nas coleções. Em 2005, a JCPenney vendeu o controle, e a Lojas Renner tornou-se a primeira corporation brasileira, com capital amplamente pulverizado e integração ao Novo Mercado da B3. A empresa adotou a 'cultura do encantamento' como estratégia de atendimento ao cliente, focando na centralidade do cliente e na superação de expectativas. Atualmente, a Lojas Renner opera um ecossistema de marcas próprias, com foco em diferentes perfis de consumidores e ocasiões de uso, e atua no mercado de comércio eletrônico desde 2010, com presença internacional no Uruguai e na Argentina.",
@@ -208,23 +230,23 @@
     {
       "id": "proventos",
       "heading": "LREN3 paga dividendos?",
-      "body": "Nos 12 meses até 28/10/2026, a LREN3 distribuiu R$ 0,9204 por ação em 4 pagamentos, resultando em um dividend yield de 9,60%. O último pagamento foi de R$ 0,2407 em 23/09/2026. A empresa tem realizado aquisições de ações de emissão da própria companhia, o que pode impactar a remuneração aos acionistas. Para acompanhar os dividendos e JCP da LREN3 com data com e data de pagamento, multiplicados pela sua quantidade, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 28/10/2026, a LREN3 distribuiu R$ 0,9204 por ação em 4 pagamentos, resultando em um dividend yield de 9,60%. O último pagamento foi de R$ 0,2407 em 23/09/2026. A empresa tem realizado aquisições de ações de emissão da própria companhia, o que pode impactar a remuneração aos acionistas. Para acompanhar os dividendos e JCP da LREN3 com data com e data de pagamento, multiplicados pela sua quantidade, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da LREN3",
-      "body": "A rentabilidade total com proventos da LREN3 nos 12 meses até 28/10/2026 foi de -29,62%. Nos 3 anos, a rentabilidade foi de 3,90%, e nos 5 anos, de -54,93%. Nos 10 anos, a rentabilidade foi de -30,09%. Para comparar a rentabilidade da LREN3 com índices como o Ibovespa e o CDI, use o recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+      "body": "A rentabilidade total com proventos da LREN3 nos 12 meses até 28/10/2026 foi de -29,62%. Nos 3 anos, a rentabilidade foi de 3,90%, e nos 5 anos, de -54,93%. Nos 10 anos, a rentabilidade foi de -30,09%. Para comparar a rentabilidade da LREN3 com índices como o Ibovespa e o CDI, use o recurso de [comparação com índices no app](/recursos/comparacao-com-indices)."
     },
     {
       "id": "riscos",
       "heading": "Riscos da LREN3",
-      "body": "A volatilidade anualizada da LREN3 nos 12 meses até 28/10/2026 foi de 59,90%, nível 'muito alta'. O beta da ação contra o Ibovespa foi de 1,98, indicando maior sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -62,40%, do pico em 11/11/2021 ao ponto mais baixo em 30/10/2023. Riscos gerais do setor incluem variações no consumo, mudanças nas preferências dos consumidores e concorrência. Para monitorar a volatilidade e definir alertas de preço, use o recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+      "body": "A volatilidade anualizada da LREN3 nos 12 meses até 28/10/2026 foi de 59,90%, nível 'muito alta'. O beta da ação contra o Ibovespa foi de 1,98, indicando maior sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -62,40%, do pico em 11/11/2021 ao ponto mais baixo em 30/10/2023. Riscos gerais do setor incluem variações no consumo, mudanças nas preferências dos consumidores e concorrência. Para monitorar a volatilidade e definir alertas de preço, use o recurso de [alertas de preço no app](/recursos/alertas-de-preco)."
     }
   ],
   "faq": [
     {
       "question": "LREN3 paga dividendos?",
-      "answer": "Sim, a LREN3 distribui dividendos. Nos 12 meses até 28/10/2026, a ação distribuiu R$ 0,9204 por ação em 4 pagamentos, resultando em um dividend yield de 9,60%. O último pagamento foi de R$ 0,2407 em 23/09/2026. Para acompanhar os dividendos e JCP da LREN3 com data com e data de pagamento, multiplicados pela sua quantidade, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, a LREN3 distribui dividendos. Nos 12 meses até 28/10/2026, a ação distribuiu R$ 0,9204 por ação em 4 pagamentos, resultando em um dividend yield de 9,60%. O último pagamento foi de R$ 0,2407 em 23/09/2026. Para acompanhar os dividendos e JCP da LREN3 com data com e data de pagamento, multiplicados pela sua quantidade, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre LREN3 e LREN4?",
@@ -232,7 +254,7 @@
     },
     {
       "question": "LREN3 é uma boa ação para investir?",
-      "answer": "Não é possível afirmar se a LREN3 é uma boa ação para investir, pois isso depende dos objetivos e do perfil de risco do investidor. A rentabilidade total com proventos nos 12 meses até 28/10/2026 foi de -29,62%, e a volatilidade anualizada foi de 59,90%, nível 'muito alta'. Para acompanhar a rentabilidade e a volatilidade da LREN3, use o recurso de [desempenho e preço médio no StockBar](/recursos/desempenho-e-preco-medio)."
+      "answer": "Não é possível afirmar se a LREN3 é uma boa ação para investir, pois isso depende dos objetivos e do perfil de risco do investidor. A rentabilidade total com proventos nos 12 meses até 28/10/2026 foi de -29,62%, e a volatilidade anualizada foi de 59,90%, nível 'muito alta'. Para acompanhar a rentabilidade e a volatilidade da LREN3, use o recurso de [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio)."
     },
     {
       "question": "Qual o setor da Lojas Renner?",
@@ -243,25 +265,25 @@
       "answer": "Sim, a LREN3 está listada no Novo Mercado da B3, segmento destinado a empresas com padrões diferenciados de governança corporativa. O controle acionário da Lojas Renner é privado, conforme o cadastro da CVM."
     },
     {
-      "question": "Como acompanhar a LREN3 no StockBar?",
-      "answer": "Para acompanhar a LREN3 no StockBar, use o recurso de [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e as maiores posições, e o recurso de [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua carteira e os seus gastos."
+      "question": "Como acompanhar a LREN3 no app?",
+      "answer": "Para acompanhar a LREN3 no app, use o recurso de [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e as maiores posições, e o recurso de [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua carteira e os seus gastos."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da LREN3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {
         "feature": "comparacao-com-indices",
-        "anchor": "comparação com índices no StockBar",
+        "anchor": "comparação com índices no app",
         "context": "Compare a rentabilidade da LREN3 com índices como o Ibovespa e o CDI, no mesmo gráfico."
       },
       {
         "feature": "alertas-de-preco",
-        "anchor": "alertas de preço no StockBar",
+        "anchor": "alertas de preço no app",
         "context": "Defina alertas de preço para a LREN3 e receba uma notificação quando o ativo chegar ao preço que você escolheu."
       },
       {

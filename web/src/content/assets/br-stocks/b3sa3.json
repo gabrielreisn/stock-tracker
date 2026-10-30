@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "B3SA3: história, dividendos e volatilidade",
     "description": "B3SA3 é a ação da bolsa de valores brasileira. Veja dividendos, volatilidade de 61,68%, histórico desde 1890 e desempenho até 29/10/2026.",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "B3SA3 é a ação ordinária da B3 S.A. - Brasil, Bolsa, Balcão, empresa que administra os mercados organizados de títulos e valores mobiliários no Brasil. Listada no Novo Mercado desde 2008, a companhia opera sob a supervisão da CVM. Em 29/10/2026, a ação cotava a R$ 14,20, com dividend yield de 6,36% nos últimos 12 meses e volatilidade anualizada de 61,68%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "B3",
+    "legalName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
+    "ticker": "BVMF B3SA3",
+    "isin": "BRB3SAACNOR6",
+    "taxId": "09.346.601/0001-25",
+    "foundingDate": "2007-12-14",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://WWW.B3.COM.BR",
+    "wikidata": "Q796297",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q796297",
+      "https://pt.wikipedia.org/wiki/B3_(bolsa_de_valores)",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21610/B3SA/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "B3",
     "legalName": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
@@ -224,7 +246,7 @@
     {
       "id": "proventos",
       "heading": "B3SA3 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a B3SA3 distribuiu R$ 0,9026 por ação em 4 pagamentos, resultando em dividend yield de 6,36%. O último pagamento foi de R$ 0,2266 em 23/09/2026. A companhia anunciou em 12/12/2025 um Programa de Recompra e Equity Swap, e em 26/02/2026 comunicou o descumprimento da projeção de distribuição do lucro líquido para 2025. Para acompanhar os dividendos e JCP da B3SA3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 29/10/2026, a B3SA3 distribuiu R$ 0,9026 por ação em 4 pagamentos, resultando em dividend yield de 6,36%. O último pagamento foi de R$ 0,2266 em 23/09/2026. A companhia anunciou em 12/12/2025 um Programa de Recompra e Equity Swap, e em 26/02/2026 comunicou o descumprimento da projeção de distribuição do lucro líquido para 2025. Para acompanhar os dividendos e JCP da B3SA3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
@@ -240,7 +262,7 @@
   "faq": [
     {
       "question": "B3SA3 paga dividendos?",
-      "answer": "Sim, a B3SA3 distribuiu R$ 0,9026 por ação em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 6,36%. O último pagamento foi de R$ 0,2266 em 23/09/2026. A companhia também anunciou um Programa de Recompra e Equity Swap em 12/12/2025. Para ver os detalhes dos pagamentos, acesse o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, a B3SA3 distribuiu R$ 0,9026 por ação em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 6,36%. O último pagamento foi de R$ 0,2266 em 23/09/2026. A companhia também anunciou um Programa de Recompra e Equity Swap em 12/12/2025. Para ver os detalhes dos pagamentos, acesse o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre B3SA3 e B3SA4?",
@@ -267,7 +289,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da B3SA3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

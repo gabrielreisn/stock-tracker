@@ -4,6 +4,7 @@
   "list": "us-etfs",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "VTI: história, dividendos e volatilidade",
     "description": "VTI é o Vanguard Total Stock Market ETF, lançado em 2001 pela The Vanguard Group.",
@@ -19,6 +20,19 @@
     ]
   },
   "summary": "VTI é o Vanguard Total Stock Market ETF, lançado em 2001 pela The Vanguard Group. O fundo replica o mercado acionário total dos Estados Unidos, incluindo todas as empresas públicas listadas. Em 29/10/2026, a cota valia US$ 378,24, com rentabilidade de 13,28% nos últimos 12 meses e dividend yield de 1,04%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Morningstar Total Stock Market ETF",
+    "ticker": "ARCX VTI",
+    "foundingDate": "2001-06-15",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
   "profile": {
     "type": "ETF de índice (ações)",
     "issuerOrManager": "Vanguard",
@@ -106,7 +120,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada do VTI nos últimos 12 meses é de 12,91%, considerada de nível baixo. O beta de 1,01 contra o S&P 500 indica que o VTI se move de forma similar ao índice de referência, sem amplificar ou atenuar as variações do mercado. A maior queda nos últimos 5 anos foi de -25,36%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Para monitorar a volatilidade e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+    "explanation": "A volatilidade anualizada do VTI nos últimos 12 meses é de 12,91%, considerada de nível baixo. O beta de 1,01 contra o S&P 500 indica que o VTI se move de forma similar ao índice de referência, sem amplificar ou atenuar as variações do mercado. A maior queda nos últimos 5 anos foi de -25,36%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Para monitorar a volatilidade e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
   },
   "history": {
     "overview": "O mercado de Exchange-Traded Funds (ETFs) nos Estados Unidos teve início em 1993 com o lançamento dos SPDRs ([SPY](/etfs/spy)), que replicavam o S&P 500. A The Vanguard Group, reconhecida como defensora dos fundos de índice de baixo custo, entrou nesse mercado em 2001 com o lançamento do Vanguard Total Stock Market ETF (VTI). Diferente dos primeiros ETFs que focavam em índices específicos como o S&P 500 ou o Nasdaq-100, o VTI foi projetado para oferecer exposição a todo o mercado acionário americano, incluindo pequenas, médias e grandes capitalizações. A estratégia de gestão passiva do VTI visa replicar o desempenho do índice de referência com a menor taxa de administração possível, o que o tornou um dos principais veículos para investidores que buscam diversificação ampla e custos reduzidos. Com o crescimento da indústria de ETFs, que atingiu US$ 5,5 trilhões em ativos sob gestão em janeiro de 2021, o VTI consolidou-se como uma ferramenta central para a alocação em ações dos EUA, oferecendo liquidez e transparência superior às de fundos mútuos tradicionais.",
@@ -157,7 +171,7 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do VTI",
-      "body": "Em 29/10/2026, a cota do VTI valia US$ 378,24. A rentabilidade total com proventos foi de 13,28% nos últimos 12 meses, 91,28% em 3 anos, 71,14% em 5 anos e 307,29% em 10 anos. O dividend yield é de 1,04%, com US$ 3,9490 pagos por cota em 4 pagamentos nos 12 meses até 29/10/2026. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,13 bilhão. Para comparar o desempenho do VTI com outros índices, como o S&P 500, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+      "body": "Em 29/10/2026, a cota do VTI valia US$ 378,24. A rentabilidade total com proventos foi de 13,28% nos últimos 12 meses, 91,28% em 3 anos, 71,14% em 5 anos e 307,29% em 10 anos. O dividend yield é de 1,04%, com US$ 3,9490 pagos por cota em 4 pagamentos nos 12 meses até 29/10/2026. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,13 bilhão. Para comparar o desempenho do VTI com outros índices, como o S&P 500, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
     },
     {
       "id": "riscos",
@@ -176,7 +190,7 @@
     },
     {
       "question": "O VTI paga dividendos?",
-      "answer": "Sim, o VTI paga dividendos. Nos 12 meses até 29/10/2026, foram pagos US$ 3,9490 por cota em 4 pagamentos, resultando em um dividend yield de 1,04%. O último pagamento foi de US$ 0,9560 em 28/09/2026. Veja os [dividendos e JCP no StockBar](/recursos/desempenho-e-preco-medio) para acompanhar os proventos."
+      "answer": "Sim, o VTI paga dividendos. Nos 12 meses até 29/10/2026, foram pagos US$ 3,9490 por cota em 4 pagamentos, resultando em um dividend yield de 1,04%. O último pagamento foi de US$ 0,9560 em 28/09/2026. Veja os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para acompanhar os proventos."
     },
     {
       "question": "Como investir no VTI a partir do Brasil?",
@@ -206,7 +220,7 @@
       },
       {
         "feature": "desempenho-e-preco-medio",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos do VTI com data de pagamento e a rentabilidade da sua posição, com preço médio e ganho."
       }
     ],

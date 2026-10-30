@@ -4,6 +4,7 @@
   "list": "us-etfs",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "GLD: história, desempenho e riscos",
     "description": "GLD é o SPDR Gold Shares, ETF que replica o ouro físico. Veja história, desempenho em dólar, riscos e como investir do Brasil.",
@@ -21,6 +22,17 @@
     ]
   },
   "summary": "GLD é o SPDR Gold Shares, um ETF que replica o preço do ouro físico, emitido pela State Street Global Advisors. Diferente de ETFs de ações, ele detém ouro em cofres e não paga dividendos. Em 29/10/2026, sua cotação era de US$ 368,57, com rentabilidade de 1,53% nos últimos 12 meses e 99,12% em 3 anos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "SPDR Gold Shares",
+    "ticker": "ARCX GLD",
+    "foundingDate": "2004-11-18",
+    "wikidata": "Q2207539",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2207539",
+      "https://en.wikipedia.org/wiki/SPDR_Gold_Shares"
+    ]
+  },
   "profile": {
     "type": "ETF de ouro físico",
     "issuerOrManager": "State Street Global Advisors (SSGA)",

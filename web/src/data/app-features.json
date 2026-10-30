@@ -58,7 +58,7 @@
       "slug": "assistente-de-ia",
       "path": "/recursos/assistente-de-ia",
       "name": "Assistente de IA",
-      "summary": "Pergunte em português sobre a sua carteira e os seus gastos; as respostas vêm dos seus próprios dados, mostrando o que foi consultado. Roda no Mac (grátis e privado) ou com a sua chave de API.",
+      "summary": "Pergunte em português sobre a sua carteira e os seus gastos; as respostas vêm dos seus próprios dados, mostrando o que foi consultado. Roda no Mac, com privacidade, ou com a sua chave de API.",
       "relevantFor": ["br-stocks", "us-etfs", "fiis"],
       "linkWhen": "A FAQ or closing section invites the reader to ask about their own position."
     },

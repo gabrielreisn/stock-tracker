@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "VALE3: história, dividendos e volatilidade",
     "description": "VALE3 é a ação ordinária da Vale, maior produtora de minério de ferro do mundo. Veja dividendos, volatilidade e desempenho até 29/10/2026.",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "VALE3 é a ação ordinária da Vale S.A., a maior produtora mundial de minério de ferro e pelotas, além de níquel e cobre. Fundada em 1942 como estatal, a empresa opera em 14 estados brasileiros e nos cinco continentes, mantendo a liderança global no setor desde 1974. Em 29/10/2026, o ativo era cotado a R$ 60,05, com dividend yield de 9,35% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Vale",
+    "legalName": "VALE S.A.",
+    "ticker": "BVMF VALE3",
+    "isin": "BRVALEACNOR0",
+    "taxId": "33.592.510/0001-54",
+    "foundingDate": "1942-06-01",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.vale.com",
+    "wikidata": "Q583268",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q583268",
+      "https://pt.wikipedia.org/wiki/Vale_S.A.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/4170/VALE/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Vale",
     "legalName": "VALE S.A.",
@@ -142,7 +164,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A volatilidade anualizada de 12 meses da VALE3 é de 27,79%, nível classificado como 'alta'. Isso significa que o ativo apresenta oscilações de preço mais intensas que a média do mercado, comum em ações de commodities. O beta de 0,36 contra o Ibovespa indica que, historicamente, a ação tende a ser menos sensível às variações do índice, mas isso não elimina riscos setoriais. A maior queda nos últimos 5 anos foi de -38,15%, entre 26/01/2023 e 08/04/2025, refletindo a sensibilidade do setor a ciclos econômicos globais. Para acompanhar a performance e o preço médio da posição, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no StockBar."
+    "explanation": "A volatilidade anualizada de 12 meses da VALE3 é de 27,79%, nível classificado como 'alta'. Isso significa que o ativo apresenta oscilações de preço mais intensas que a média do mercado, comum em ações de commodities. O beta de 0,36 contra o Ibovespa indica que, historicamente, a ação tende a ser menos sensível às variações do índice, mas isso não elimina riscos setoriais. A maior queda nos últimos 5 anos foi de -38,15%, entre 26/01/2023 e 08/04/2025, refletindo a sensibilidade do setor a ciclos econômicos globais. Para acompanhar a performance e o preço médio da posição, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app."
   },
   "history": {
     "overview": "A história da Vale começa em 1942, quando o governo de Getúlio Vargas encampou as reservas de ferro de Percival Farquhar para criar a Companhia Vale do Rio Doce (CVRD), com o objetivo de explorar as minas de Itabira, em Minas Gerais. Durante décadas, a empresa focou no fornecimento de matéria-prima para as siderúrgicas nacionais, como a CSN, com crescimento lento e demanda interna reduzida. A virada ocorreu na década de 1960, sob a gestão de Eliezer Batista, que inaugurou o Porto de Tubarão em 1966 e criou o conceito de 'distância econômica', permitindo exportar minério ao Japão a preços competitivos. Isso disparou a produção, que saltou de 10 milhões de toneladas em 1966 para 56 milhões em 1974, ano em que a Vale assumiu a liderança mundial em exportação de minério de ferro, posição que mantém até hoje. Em 2006, a incorporação da canadense Inco consolidou a Vale como a maior mineradora de níquel do mundo. A empresa passou por mudanças de controle, tornando-se privada e de capital aberto, e enfrentou desafios ambientais e de governança, como a premiação como pior empresa do mundo em direitos humanos e meio ambiente em 2012. Em 2026, a companhia passou por ajustes em seu conselho de administração e atualizações de projeções financeiras, refletindo a dinâmica de um setor cíclico e sensível a variáveis globais.",
@@ -218,17 +240,17 @@
     {
       "id": "proventos",
       "heading": "VALE3 paga dividendos?",
-      "body": "VALE3 distribui proventos aos acionistas. Nos 12 meses até 29/10/2026, a empresa pagou R$ 5,6125 por ação em 2 pagamentos, resultando em um dividend yield de 9,35%. O último pagamento foi de R$ 2,0307, com data de pagamento em 12/08/2026. Em 30/07/2026, a Vale anunciou a distribuição de remuneração aos acionistas e a aquisição de ações de emissão da própria companhia, indicando continuidade na política de retorno de capital. Para acompanhar os dividendos e JCP da VALE3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "VALE3 distribui proventos aos acionistas. Nos 12 meses até 29/10/2026, a empresa pagou R$ 5,6125 por ação em 2 pagamentos, resultando em um dividend yield de 9,35%. O último pagamento foi de R$ 2,0307, com data de pagamento em 12/08/2026. Em 30/07/2026, a Vale anunciou a distribuição de remuneração aos acionistas e a aquisição de ações de emissão da própria companhia, indicando continuidade na política de retorno de capital. Para acompanhar os dividendos e JCP da VALE3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da VALE3",
-      "body": "A rentabilidade total com proventos da VALE3 nos 12 meses até 29/10/2026 foi de 2,58%. Nos 3 anos, o retorno foi de 15,42%, e nos 5 anos, de 26,80%. No período de 10 anos, a rentabilidade acumulada foi de 465,51%. Esses números refletem a performance do ativo em um setor cíclico, sensível a flutuações de preços de commodities e condições macroeconômicas globais. Para comparar a performance da VALE3 com índices como o Ibovespa e o CDI, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que permite visualizar a rentabilidade lado a lado."
+      "body": "A rentabilidade total com proventos da VALE3 nos 12 meses até 29/10/2026 foi de 2,58%. Nos 3 anos, o retorno foi de 15,42%, e nos 5 anos, de 26,80%. No período de 10 anos, a rentabilidade acumulada foi de 465,51%. Esses números refletem a performance do ativo em um setor cíclico, sensível a flutuações de preços de commodities e condições macroeconômicas globais. Para comparar a performance da VALE3 com índices como o Ibovespa e o CDI, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app, que permite visualizar a rentabilidade lado a lado."
     },
     {
       "id": "riscos",
       "heading": "Riscos da VALE3",
-      "body": "A VALE3 está sujeita a riscos setoriais e operacionais. A volatilidade anualizada de 12 meses é de 27,79%, classificada como 'alta', indicando oscilações de preço mais intensas que a média do mercado. A maior queda nos últimos 5 anos foi de -38,15%, ocorrendo do pico em 26/01/2023 ao ponto mais baixo em 08/04/2025. O beta de 0,36 contra o Ibovespa sugere que a ação tende a ser menos volátil que o índice em períodos de mercado amplo, mas isso não elimina riscos específicos do setor de mineração, como flutuações de preços de minério de ferro, questões ambientais e regulatórias. A empresa também enfrenta riscos de governança, como evidenciado por mudanças no conselho de administração em 2026. Para monitorar oscilações de preço, utilize [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "A VALE3 está sujeita a riscos setoriais e operacionais. A volatilidade anualizada de 12 meses é de 27,79%, classificada como 'alta', indicando oscilações de preço mais intensas que a média do mercado. A maior queda nos últimos 5 anos foi de -38,15%, ocorrendo do pico em 26/01/2023 ao ponto mais baixo em 08/04/2025. O beta de 0,36 contra o Ibovespa sugere que a ação tende a ser menos volátil que o índice em períodos de mercado amplo, mas isso não elimina riscos específicos do setor de mineração, como flutuações de preços de minério de ferro, questões ambientais e regulatórias. A empresa também enfrenta riscos de governança, como evidenciado por mudanças no conselho de administração em 2026. Para monitorar oscilações de preço, utilize [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
@@ -261,7 +283,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da VALE3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

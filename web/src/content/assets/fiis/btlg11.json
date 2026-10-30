@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "BTLG11: FII de logística, proventos e patrimônio",
     "description": "BTLG11 é um FII de tijolo focado em logística, com 35 imóveis e R$ 7,54 bilhões em patrimônio.",
@@ -20,6 +21,22 @@
     ]
   },
   "summary": "BTLG11 é a cota do BTG Pactual Logística Fundo de Investimento Imobiliário, um fundo de tijolo focado em ativos logísticos no Brasil. Em 09/2026, o fundo possuía patrimônio líquido de R$ 7,54 bilhões e 537.579 cotistas. Nos 12 meses até 28/10/2026, a cota rendeu 3,75% com proventos, distribuindo R$ 9,6288 por cota, o que representa um dividend yield de 9,89%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "BTG Pactual Logística Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF BTLG11",
+    "isin": "BRBTLGCTF000",
+    "taxId": "11.839.593/0001-09",
+    "foundingDate": "2010-08-06",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=11839593000109"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, logística",
     "issuerOrManager": "BTG Pactual Serviços Financeiros S.A",
@@ -142,7 +159,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada do BTLG11 nos últimos 12 meses foi de 8,89%, classificada como baixa, e o beta contra o Ibovespa foi de 0,15, indicando baixa correlação com o índice. A maior queda nos últimos 5 anos foi de -14,24%, do pico em 05/04/2024 ao ponto mais baixo em 05/12/2024. Para FIIs de tijolo logístico, essa volatilidade é compatível com a natureza do segmento, que tende a apresentar menor sensibilidade a movimentos de mercado em comparação com ações. O beta de 0,15 sugere que o fundo reage de forma atenuada às variações do Ibovespa, o que pode ser relevante para investidores que buscam diversificação. Para acompanhar a evolução do preço e definir alertas, utilize o recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+    "explanation": "A volatilidade anualizada do BTLG11 nos últimos 12 meses foi de 8,89%, classificada como baixa, e o beta contra o Ibovespa foi de 0,15, indicando baixa correlação com o índice. A maior queda nos últimos 5 anos foi de -14,24%, do pico em 05/04/2024 ao ponto mais baixo em 05/12/2024. Para FIIs de tijolo logístico, essa volatilidade é compatível com a natureza do segmento, que tende a apresentar menor sensibilidade a movimentos de mercado em comparação com ações. O beta de 0,15 sugere que o fundo reage de forma atenuada às variações do Ibovespa, o que pode ser relevante para investidores que buscam diversificação. Para acompanhar a evolução do preço e definir alertas, utilize o recurso de [alertas de preço no app](/recursos/alertas-de-preco)."
   },
   "history": {
     "overview": "Fundado em 06/08/2010, o BTLG11 é um dos fundos imobiliários mais antigos do mercado brasileiro, com foco exclusivo no segmento de logística. A estratégia do fundo é obter renda e ganho de capital por meio da exploração de empreendimentos imobiliários logísticos, com forte concentração no estado de São Paulo, principal mercado do país. O fundo opera com gestão ativa e prazo de duração indeterminado, buscando ativos de padrão AAA e locações de longo prazo com grandes empresas de e-commerce e transporte. Desde 2020, o BTLG11 realizou múltiplas emissões de cotas para ampliar seu portfólio e patrimônio, consolidando-se como uma das principais referências no setor logístico. Em 2026, o fundo celebrou memorando para a aquisição de três ativos de padrão AAA locados para Amazon e Mercado Livre, além de quitar integralmente as aquisições dos imóveis BTLG Mauá II e BTLG Osasco, reforçando a solidez de seu portfólio.",
@@ -183,7 +200,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do BTLG11",
-      "body": "Nos 12 meses até 28/10/2026, o BTLG11 distribuiu R$ 9,6288 por cota em 12 pagamentos, resultando em um dividend yield de 9,89%. O último provento foi de R$ 0,8100, com data de pagamento em 16/10/2026. Em setembro de 2026, o fundo distribuiu R$ 0,81 por cota, o que representava um dividend yield anualizado de 10,3% com base no preço de fechamento. A tributação de proventos de FIIs segue as regras da CVM e da Receita Federal, mas as fontes do dossiê não detalham as alíquotas específicas. Para acompanhar os proventos do BTLG11 com data de competência e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 28/10/2026, o BTLG11 distribuiu R$ 9,6288 por cota em 12 pagamentos, resultando em um dividend yield de 9,89%. O último provento foi de R$ 0,8100, com data de pagamento em 16/10/2026. Em setembro de 2026, o fundo distribuiu R$ 0,81 por cota, o que representava um dividend yield anualizado de 10,3% com base no preço de fechamento. A tributação de proventos de FIIs segue as regras da CVM e da Receita Federal, mas as fontes do dossiê não detalham as alíquotas específicas. Para acompanhar os proventos do BTLG11 com data de competência e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "emissoes",
@@ -193,12 +210,12 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do BTLG11",
-      "body": "Nos 12 meses até 28/10/2026, a cota do BTLG11 rendeu 3,75% com proventos. Nos 3 anos, a rentabilidade foi de 29,52%, e nos 5 anos, de 42,02%. Nos 10 anos, o retorno acumulado foi de 186,31%. Em 2026, o retorno do BTLG11 foi de 3,0%, enquanto o IFIX teve variação de -0,3%. Para comparar a rentabilidade do BTLG11 com o IFIX, CDI e outros índices, utilize o recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices)."
+      "body": "Nos 12 meses até 28/10/2026, a cota do BTLG11 rendeu 3,75% com proventos. Nos 3 anos, a rentabilidade foi de 29,52%, e nos 5 anos, de 42,02%. Nos 10 anos, o retorno acumulado foi de 186,31%. Em 2026, o retorno do BTLG11 foi de 3,0%, enquanto o IFIX teve variação de -0,3%. Para comparar a rentabilidade do BTLG11 com o IFIX, CDI e outros índices, utilize o recurso de [comparação com índices no app](/recursos/comparacao-com-indices)."
     },
     {
       "id": "riscos",
       "heading": "Riscos do BTLG11",
-      "body": "Os principais riscos do BTLG11 incluem a vacância de seus ativos logísticos, a concentração geográfica no estado de São Paulo (92% do portfólio) e a exposição a grandes locatários como Amazon e Mercado Livre. A volatilidade anualizada do fundo nos últimos 12 meses foi de 8,89%, classificada como baixa, e o beta contra o Ibovespa foi de 0,15. A maior queda nos últimos 5 anos foi de -14,24%, do pico em 05/04/2024 ao ponto mais baixo em 05/12/2024. O fundo também enfrenta riscos de crédito nos ativos em desenvolvimento (Built-to-Suit), embora a estrutura da operação preveja remuneração de IPCA + 11,0% ao ano durante a execução das obras. Para acompanhar movimentos de preço e definir alertas, utilize o recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco)."
+      "body": "Os principais riscos do BTLG11 incluem a vacância de seus ativos logísticos, a concentração geográfica no estado de São Paulo (92% do portfólio) e a exposição a grandes locatários como Amazon e Mercado Livre. A volatilidade anualizada do fundo nos últimos 12 meses foi de 8,89%, classificada como baixa, e o beta contra o Ibovespa foi de 0,15. A maior queda nos últimos 5 anos foi de -14,24%, do pico em 05/04/2024 ao ponto mais baixo em 05/12/2024. O fundo também enfrenta riscos de crédito nos ativos em desenvolvimento (Built-to-Suit), embora a estrutura da operação preveja remuneração de IPCA + 11,0% ao ano durante a execução das obras. Para acompanhar movimentos de preço e definir alertas, utilize o recurso de [alertas de preço no app](/recursos/alertas-de-preco)."
     }
   ],
   "faq": [
@@ -224,19 +241,19 @@
     },
     {
       "question": "Como acompanhar os proventos do BTLG11?",
-      "answer": "Para acompanhar os proventos do BTLG11 com data de competência e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no StockBar](/recursos/proventos). O recurso exibe os rendimentos de FIIs a partir dos comunicados da B3, permitindo que o investidor veja o impacto dos proventos na sua carteira."
+      "answer": "Para acompanhar os proventos do BTLG11 com data de competência e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos). O recurso exibe os rendimentos de FIIs a partir dos comunicados da B3, permitindo que o investidor veja o impacto dos proventos na sua carteira."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os proventos do BTLG11 com data de competência e data de pagamento, multiplicados pela sua quantidade, a partir dos comunicados da B3."
       },
       {
         "feature": "comparacao-com-indices",
-        "anchor": "comparação com índices no StockBar",
+        "anchor": "comparação com índices no app",
         "context": "Compare a rentabilidade do BTLG11 com o IFIX, CDI e outros índices no mesmo gráfico, para entender o desempenho do fundo em relação ao mercado de FIIs."
       },
       {

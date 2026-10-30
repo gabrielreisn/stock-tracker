@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "CSMG3: história, privatização e dividendos",
     "description": "Conheça a CSMG3, ação da Copasa privatizada em 2026. Veja dividendos de 3,99%, rentabilidade de 37,51% em 12 meses e riscos da ação de saneamento.",
@@ -20,6 +21,27 @@
     ]
   },
   "summary": "CSMG3 é a ação ordinária da Companhia de Saneamento de Minas Gerais (COPASA), empresa de utilidade pública que atua no abastecimento de água e esgotamento sanitário em Minas Gerais. Privatizada em junho de 2026, a companhia passou a ter o Grupo Equatorial como maior acionista. Até 28/10/2026, a ação valia R$ 50,00, com rentabilidade total de 37,51% em 12 meses e dividend yield de 3,99%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Companhia de Saneamento de Minas Gerais",
+    "legalName": "COMPANHIA DE SANEAMENTO DE MINAS GERAIS",
+    "ticker": "BVMF CSMG3",
+    "isin": "BRCSMGACNOR5",
+    "taxId": "17.281.106/0001-03",
+    "foundingDate": "1963-07-05",
+    "address": {
+      "locality": "Belo Horizonte",
+      "region": "MG",
+      "country": "BR"
+    },
+    "website": "https://www.copasa.com.br",
+    "wikidata": "Q9831814",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q9831814",
+      "https://pt.wikipedia.org/wiki/Companhia_de_Saneamento_de_Minas_Gerais",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19445/CSMG/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Companhia de Saneamento de Minas Gerais",
     "legalName": "COMPANHIA DE SANEAMENTO DE MINAS GERAIS",
@@ -218,17 +240,17 @@
     {
       "id": "proventos",
       "heading": "CSMG3 paga dividendos?",
-      "body": "A CSMG3 distribui proventos aos seus acionistas. Nos 12 meses até 28/10/2026, a empresa realizou 6 pagamentos, totalizando R$ 1,9932 por ação, o que representa um dividend yield de 3,99%. O último pagamento registrado foi de R$ 0,2556 em 22/09/2026. O histórico de distribuição de lucros pode ser acompanhado com precisão no recurso de [dividendos e JCP no StockBar](/recursos/proventos), que exibe as datas de competência e pagamento, multiplicadas pela quantidade de ações na carteira."
+      "body": "A CSMG3 distribui proventos aos seus acionistas. Nos 12 meses até 28/10/2026, a empresa realizou 6 pagamentos, totalizando R$ 1,9932 por ação, o que representa um dividend yield de 3,99%. O último pagamento registrado foi de R$ 0,2556 em 22/09/2026. O histórico de distribuição de lucros pode ser acompanhado com precisão no recurso de [dividendos e JCP no app](/recursos/proventos), que exibe as datas de competência e pagamento, multiplicadas pela quantidade de ações na carteira."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da CSMG3",
-      "body": "Até 28/10/2026, a CSMG3 apresentava rentabilidade total com proventos de 37,51% em 12 meses, 316,79% em 3 anos, 450,10% em 5 anos e 948,61% em 10 anos. Esses números refletem o desempenho do ativo no período, sem indicar expectativa futura. Para contextualizar esses resultados, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) do StockBar, que coloca a rentabilidade da carteira lado a lado com o Ibovespa, CDI e IPCA no mesmo gráfico, facilitando a análise de desempenho relativo."
+      "body": "Até 28/10/2026, a CSMG3 apresentava rentabilidade total com proventos de 37,51% em 12 meses, 316,79% em 3 anos, 450,10% em 5 anos e 948,61% em 10 anos. Esses números refletem o desempenho do ativo no período, sem indicar expectativa futura. Para contextualizar esses resultados, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a rentabilidade da carteira lado a lado com o Ibovespa, CDI e IPCA no mesmo gráfico, facilitando a análise de desempenho relativo."
     },
     {
       "id": "riscos",
       "heading": "Riscos da CSMG3",
-      "body": "A CSMG3 apresenta volatilidade anualizada de 42,92% nos últimos 12 meses, classificada como nível muito alto. A maior queda nos últimos 5 anos foi de -26,65%, ocorrida entre o pico em 10/07/2026 e o ponto mais baixo em 26/10/2026. Riscos setoriais incluem a regulação de tarifas, a necessidade de investimentos em infraestrutura e a execução das metas de universalização do saneamento. A recente privatização e a rescisão do acordo de acionistas em setembro de 2026 podem introduzir incertezas sobre a governança e a estratégia de capital. Investidores podem monitorar esses movimentos com [alertas de preço](/recursos/alertas-de-preco) no StockBar, recebendo notificações quando o ativo atinge níveis específicos."
+      "body": "A CSMG3 apresenta volatilidade anualizada de 42,92% nos últimos 12 meses, classificada como nível muito alto. A maior queda nos últimos 5 anos foi de -26,65%, ocorrida entre o pico em 10/07/2026 e o ponto mais baixo em 26/10/2026. Riscos setoriais incluem a regulação de tarifas, a necessidade de investimentos em infraestrutura e a execução das metas de universalização do saneamento. A recente privatização e a rescisão do acordo de acionistas em setembro de 2026 podem introduzir incertezas sobre a governança e a estratégia de capital. Investidores podem monitorar esses movimentos com [alertas de preço](/recursos/alertas-de-preco) no app, recebendo notificações quando o ativo atinge níveis específicos."
     }
   ],
   "faq": [
@@ -257,7 +279,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os 6 pagamentos de R$ 1,9932 por ação da CSMG3 nos últimos 12 meses, com datas de competência e pagamento, multiplicados pela sua quantidade."
       },
       {

@@ -4,9 +4,10 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "WEGE3: história, dividendos e volatilidade",
-    "description": "Conheça a WEGE3, ação ordinária da WEG S.A., multinacional de equipamentos elétricos. Veja dividendos, desempenho, riscos e como acompanhar no StockBar.",
+    "description": "Conheça a WEGE3, ação ordinária da WEG S.A., multinacional de equipamentos elétricos. Veja dividendos, desempenho, riscos e como acompanhar no app.",
     "h1": "WEGE3: WEG Indústrias",
     "canonicalPath": "/acoes/wege3",
     "keywords": [
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "WEGE3 é a ação ordinária da WEG S.A., multinacional brasileira de equipamentos elétricos fundada em 1961. A empresa, sediada em Jaraguá do Sul (SC), produz motores, geradores e sistemas de automação, com receita operacional superior a R$ 40 bilhões em 2025. Em 29/10/2026, a ação estava cotada a R$ 49,28, com dividend yield de 4,07% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "WEG Indústrias",
+    "legalName": "WEG SA",
+    "ticker": "BVMF WEGE3",
+    "isin": "BRWEGEACNOR0",
+    "taxId": "84.429.695/0001-11",
+    "foundingDate": "1961-06-30",
+    "address": {
+      "locality": "Jaraguá do Sul",
+      "region": "SC",
+      "country": "BR"
+    },
+    "website": "https://www.weg.net/br",
+    "wikidata": "Q634794",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q634794",
+      "https://pt.wikipedia.org/wiki/WEG_S.A.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/5410/WEGE/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "WEG Indústrias",
     "legalName": "WEG SA",
@@ -143,7 +165,7 @@
   },
   "volatility": {
     "level": "alta",
-    "explanation": "A WEGE3 apresenta volatilidade anualizada de 30,51% nos últimos 12 meses, nível considerado alto. O beta de 0,27 contra o Ibovespa indica que a ação tende a ser menos volátil que o índice de referência. A maior queda em 5 anos foi de -38,93%, entre 04/11/2021 e 17/06/2022. Para ações de bens industriais, essa volatilidade é compatível com o perfil de empresas com forte exposição a ciclos econômicos e mercados externos. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no StockBar permite visualizar a trajetória histórica e a variação diária da posição."
+    "explanation": "A WEGE3 apresenta volatilidade anualizada de 30,51% nos últimos 12 meses, nível considerado alto. O beta de 0,27 contra o Ibovespa indica que a ação tende a ser menos volátil que o índice de referência. A maior queda em 5 anos foi de -38,93%, entre 04/11/2021 e 17/06/2022. Para ações de bens industriais, essa volatilidade é compatível com o perfil de empresas com forte exposição a ciclos econômicos e mercados externos. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite visualizar a trajetória histórica e a variação diária da posição."
   },
   "history": {
     "overview": "A WEG S.A. nasceu em 1961 em Jaraguá do Sul, Santa Catarina, com o nome de Eletromotores Jaraguá, fundada por Werner Ricardo Voigt, Eggon João da Silva e Geraldo Werninghaus. A sigla WEG é a junção das iniciais dos prenomes dos três sócios. A empresa iniciou as exportações em 1970 e abriu o capital na Bolsa de Valores de São Paulo em 1971, mas só começou a ser negociada sob o código WEGE3 na B3 em 02/08/2004. Nos anos 1980, diversificou a produção para incluir transformadores, automação industrial e tintas. A partir dos anos 1990, iniciou a internacionalização, abrindo filiais nos Estados Unidos, Europa e Ásia, e passando a expandir-se por aquisições. Em 2025, a WEG superou a marca de R$ 40 bilhões em receita operacional líquida, com 60% vindos do exterior, e tornou-se a terceira maior empresa de valor de mercado da B3.",
@@ -204,12 +226,12 @@
     {
       "id": "proventos",
       "heading": "WEGE3 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a WEGE3 distribuiu R$ 2,0032 por ação em 5 pagamentos, resultando em um dividend yield de 4,07%. O último pagamento foi de R$ 0,1072 em 21/09/2026. A empresa tem histórico de distribuição de proventos aos acionistas, conforme comunicado em fato relevante de 28/11/2025. É possível acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) para monitorar a data com e a data de pagamento de cada provento."
+      "body": "Nos 12 meses até 29/10/2026, a WEGE3 distribuiu R$ 2,0032 por ação em 5 pagamentos, resultando em um dividend yield de 4,07%. O último pagamento foi de R$ 0,1072 em 21/09/2026. A empresa tem histórico de distribuição de proventos aos acionistas, conforme comunicado em fato relevante de 28/11/2025. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos) para monitorar a data com e a data de pagamento de cada provento."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da WEGE3",
-      "body": "A WEGE3 apresentou rentabilidade total com proventos de 22,21% nos 12 meses até 29/10/2026, 65,22% em 3 anos, 49,03% em 5 anos e 778,97% em 10 anos. O preço em 29/10/2026 era de R$ 49,28. Para comparar esse desempenho com o Ibovespa ou o CDI, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que mostra a rentabilidade lado a lado com os principais benchmarks."
+      "body": "A WEGE3 apresentou rentabilidade total com proventos de 22,21% nos 12 meses até 29/10/2026, 65,22% em 3 anos, 49,03% em 5 anos e 778,97% em 10 anos. O preço em 29/10/2026 era de R$ 49,28. Para comparar esse desempenho com o Ibovespa ou o CDI, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado com os principais benchmarks."
     },
     {
       "id": "riscos",
@@ -220,7 +242,7 @@
   "faq": [
     {
       "question": "WEGE3 paga dividendos?",
-      "answer": "Sim, a WEGE3 distribui dividendos e juros sobre capital próprio. Nos 12 meses até 29/10/2026, foram pagos R$ 2,0032 por ação em 5 pagamentos, com dividend yield de 4,07%. O último pagamento foi de R$ 0,1072 em 21/09/2026. Você pode acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) com data com e data de pagamento."
+      "answer": "Sim, a WEGE3 distribui dividendos e juros sobre capital próprio. Nos 12 meses até 29/10/2026, foram pagos R$ 2,0032 por ação em 5 pagamentos, com dividend yield de 4,07%. O último pagamento foi de R$ 0,1072 em 21/09/2026. Você pode acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento."
     },
     {
       "question": "Qual a diferença entre WEGE3 e outras ações da WEG?",
@@ -239,15 +261,15 @@
       "answer": "Os principais riscos incluem a exposição a ciclos econômicos, a dependência de exportações para os Estados Unidos (que passou a ser um risco destacado a partir de 2025 por causa de tarifas) e a volatilidade do câmbio. A ação tem volatilidade anualizada de 30,51% e beta de 0,27 contra o Ibovespa. É possível monitorar movimentos bruscos com [alertas de preço](/recursos/alertas-de-preco)."
     },
     {
-      "question": "Como acompanhar a WEGE3 no StockBar?",
-      "answer": "Você pode usar o [assistente de IA](/recursos/assistente-de-ia) do StockBar para perguntar em português sobre a sua posição em WEGE3, com base nos seus próprios dados. O [widget na barra de menus](/recursos/widget-da-barra-de-menus) permite acompanhar o gráfico do dia e as posições com um clique."
+      "question": "Como acompanhar a WEGE3 no app?",
+      "answer": "Você pode usar o [assistente de IA](/recursos/assistente-de-ia) do app para perguntar em português sobre a sua posição em WEGE3, com base nos seus próprios dados. O [widget na barra de menus](/recursos/widget-da-barra-de-menus) permite acompanhar o gráfico do dia e as posições com um clique."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da WEGE3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

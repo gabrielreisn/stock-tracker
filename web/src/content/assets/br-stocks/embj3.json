@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "EMBJ3: história, dividendos e volatilidade",
     "description": "EMBJ3 é a ação ordinária da Embraer S.A., fabricante de aeronaves. Veja histórico, dividendos, volatilidade e desempenho da EMBJ3 na B3.",
@@ -20,6 +21,25 @@
     ]
   },
   "summary": "EMBJ3 é a ação ordinária da Embraer S.A., empresa brasileira de bens industriais que projeta, fabrica e comercializa aeronaves comerciais, executivas, agrícolas e militares. Listada no Novo Mercado da B3 desde 2006, a companhia possui sede em São José dos Campos (SP) e opera globalmente. Em 29/10/2026, a ação estava cotada a R$ 102,40, com rentabilidade total de 18,00% nos últimos 12 meses e dividend yield de 1,20% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Embraer S.A.",
+    "legalName": "EMBRAER S.A.",
+    "ticker": "BVMF EMBJ3",
+    "isin": "BREMBJACNOR1",
+    "taxId": "07.689.002/0001-89",
+    "foundingDate": "2005-09-02",
+    "address": {
+      "locality": "São José dos Campos",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.embraer.com.br",
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/Embraer",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20087/EMBJ/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Embraer S.A.",
     "legalName": "EMBRAER S.A.",
@@ -261,7 +281,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da EMBJ3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

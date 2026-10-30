@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "GARE11: história, proventos e volatilidade",
     "description": "GARE11 é um FII híbrido com patrimônio de R$ 2,60 bilhões e dividend yield de 11,19%.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "GARE11 é a cota do Guardian Real Estate Fundo de Investimento Imobiliário, um FII híbrido que investe em imóveis logísticos e urbanos e em outros fundos imobiliários. Com patrimônio de R$ 2,60 bilhões em setembro de 2026 e 563.912 cotistas, o fundo distribui proventos mensais, com dividend yield de 11,19% nos 12 meses até 28/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Guardian Real Estate Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "GUARDIAN REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF GARE11",
+    "isin": "BRGARECTF001",
+    "taxId": "37.295.919/0001-60",
+    "foundingDate": "2024-02-26",
+    "provider": {
+      "name": ".BANCO DAYCOVAL S/A",
+      "url": "https://www.daycoval.com.br/investimentos/servicos-fiduciarios"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=37295919000160"
+    ]
+  },
   "profile": {
     "type": "FII híbrido (tijolo e fundos)",
     "issuerOrManager": "Guardian Gestora (gestora) e Banco Daycoval S/A (administrador/fiduciário)",
@@ -143,7 +160,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada do GARE11 nos 12 meses até 28/10/2026 é de 9,75%, classificada como baixa, e o beta de 0,15 contra o Ibovespa indica que o fundo tem baixa sensibilidade ao mercado acionário. A maior queda nos últimos 5 anos foi de -12,38%, do pico em 18/11/2024 ao ponto mais baixo em 19/12/2024. Para um FII híbrido com exposição a imóveis logísticos e urbanos e a outros fundos, essa volatilidade é compatível com a natureza do ativo, que busca renda estável e previsibilidade de resultados. Para acompanhar a rentabilidade e o preço médio do GARE11 ao longo do tempo, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no StockBar."
+    "explanation": "A volatilidade anualizada do GARE11 nos 12 meses até 28/10/2026 é de 9,75%, classificada como baixa, e o beta de 0,15 contra o Ibovespa indica que o fundo tem baixa sensibilidade ao mercado acionário. A maior queda nos últimos 5 anos foi de -12,38%, do pico em 18/11/2024 ao ponto mais baixo em 19/12/2024. Para um FII híbrido com exposição a imóveis logísticos e urbanos e a outros fundos, essa volatilidade é compatível com a natureza do ativo, que busca renda estável e previsibilidade de resultados. Para acompanhar a rentabilidade e o preço médio do GARE11 ao longo do tempo, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app."
   },
   "history": {
     "overview": "O GARE11 nasceu em 2020 como FII Guardian Logística (ticker GALG11), com foco exclusivo em imóveis logísticos e patrimônio inicial de cerca de R$ 500 milhões. A tese de investimento original buscava renda estável por meio de contratos atípicos de locação com inquilinos de alta capacidade de crédito, buscando também ganhos de capital com a reciclagem de ativos. Ao longo dos anos, o fundo ampliou seu escopo, tornando-se um veículo híbrido que passou a operar com verticais bem definidas de logística e renda urbana, além de participações em outros fundos de varejo alimentício. Em 2024, o fundo registrou o início de suas atividades sob o novo nome e CNPJ atual, consolidando sua estrutura de ecossistema com obrigações financeiras distribuídas entre o próprio GARE11 e fundos controlados como o FII Prime Log e o FII Artemis 22. A base de investidores cresceu de cerca de 3 mil para mais de 540 mil cotistas, e o patrimônio multiplicou-se por quase 5 vezes desde a criação.",
@@ -184,7 +201,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do GARE11",
-      "body": "Nos 12 meses até 28/10/2026, o GARE11 distribuiu R$ 0,9130 por cota em 11 pagamentos, resultando em um dividend yield de 11,19%. O último provento foi de R$ 0,0830, com data de pagamento em 01/10/2026. O relatório gerencial de 09/2026 informa um dividend yield mensal de 0,91%. Os rendimentos de FIIs são tributados de acordo com a legislação vigente, mas o dossiê não detalha as regras específicas de tributação para este ativo. Para acompanhar os proventos do GARE11 com data de pagamento e multiplicados pela sua quantidade, utilize o recurso de [proventos](/recursos/proventos) no StockBar."
+      "body": "Nos 12 meses até 28/10/2026, o GARE11 distribuiu R$ 0,9130 por cota em 11 pagamentos, resultando em um dividend yield de 11,19%. O último provento foi de R$ 0,0830, com data de pagamento em 01/10/2026. O relatório gerencial de 09/2026 informa um dividend yield mensal de 0,91%. Os rendimentos de FIIs são tributados de acordo com a legislação vigente, mas o dossiê não detalha as regras específicas de tributação para este ativo. Para acompanhar os proventos do GARE11 com data de pagamento e multiplicados pela sua quantidade, utilize o recurso de [proventos](/recursos/proventos) no app."
     },
     {
       "id": "emissoes",
@@ -194,18 +211,18 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do GARE11",
-      "body": "Nos 12 meses até 28/10/2026, o GARE11 teve rentabilidade total com proventos de 1,73%. O fundo tem volatilidade anualizada de 9,75%, classificada como baixa, e beta de 0,15 contra o Ibovespa, indicando baixa sensibilidade ao mercado acionário. A maior queda nos últimos 5 anos foi de -12,38%, do pico em 18/11/2024 ao ponto mais baixo em 19/12/2024. Para comparar o desempenho do GARE11 com o IFIX, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+      "body": "Nos 12 meses até 28/10/2026, o GARE11 teve rentabilidade total com proventos de 1,73%. O fundo tem volatilidade anualizada de 9,75%, classificada como baixa, e beta de 0,15 contra o Ibovespa, indicando baixa sensibilidade ao mercado acionário. A maior queda nos últimos 5 anos foi de -12,38%, do pico em 18/11/2024 ao ponto mais baixo em 19/12/2024. Para comparar o desempenho do GARE11 com o IFIX, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app."
     },
     {
       "id": "riscos",
       "heading": "Riscos do GARE11",
-      "body": "Como FII híbrido, o GARE11 está exposto a riscos de crédito (em caso de inadimplência de inquilinos ou de fundos controlados), vacância (em imóveis logísticos e urbanos) e variação de juros (que impacta o custo de alavancagem e a atratividade de FIIs frente à renda fixa). O fundo possui obrigações financeiras distribuídas entre o próprio GARE11, o FII A22 e o FII A59, com cronogramas de amortização distintos, o que exige gestão de caixa e manutenção de liquidez adequada. A volatilidade anualizada de 9,75% é baixa para um FII, e a maior queda de -12,38% entre 18/11/2024 e 19/12/2024 reflete a sensibilidade a eventos de mercado. Para monitorar movimentos de preço e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "Como FII híbrido, o GARE11 está exposto a riscos de crédito (em caso de inadimplência de inquilinos ou de fundos controlados), vacância (em imóveis logísticos e urbanos) e variação de juros (que impacta o custo de alavancagem e a atratividade de FIIs frente à renda fixa). O fundo possui obrigações financeiras distribuídas entre o próprio GARE11, o FII A22 e o FII A59, com cronogramas de amortização distintos, o que exige gestão de caixa e manutenção de liquidez adequada. A volatilidade anualizada de 9,75% é baixa para um FII, e a maior queda de -12,38% entre 18/11/2024 e 19/12/2024 reflete a sensibilidade a eventos de mercado. Para monitorar movimentos de preço e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
     {
       "question": "GARE11 paga dividendos?",
-      "answer": "Sim, o GARE11 distribui proventos mensais. Nos 12 meses até 28/10/2026, o fundo pagou R$ 0,9130 por cota em 11 pagamentos, com dividend yield de 11,19%. O último provento foi de R$ 0,0830, com data de pagamento em 01/10/2026. Para acompanhar os proventos com data de pagamento, utilize o recurso de [proventos](/recursos/proventos) no StockBar."
+      "answer": "Sim, o GARE11 distribui proventos mensais. Nos 12 meses até 28/10/2026, o fundo pagou R$ 0,9130 por cota em 11 pagamentos, com dividend yield de 11,19%. O último provento foi de R$ 0,0830, com data de pagamento em 01/10/2026. Para acompanhar os proventos com data de pagamento, utilize o recurso de [proventos](/recursos/proventos) no app."
     },
     {
       "question": "GARE11 é FII de papel ou de tijolo?",
@@ -224,8 +241,8 @@
       "answer": "Sim, o GARE11 possui obrigações financeiras distribuídas entre o próprio fundo, o FII A22 e o FII A59, com cronogramas de amortização distintos. A gestão de caixa e a manutenção de liquidez adequada são parte central da estratégia financeira do fundo, conforme o relatório gerencial de 31/08/2026."
     },
     {
-      "question": "Como acompanhar o GARE11 no StockBar?",
-      "answer": "Você pode usar o [assistente de IA](/recursos/assistente-de-ia) do StockBar para perguntar em português sobre a sua posição no GARE11, com respostas baseadas nos seus próprios dados. O recurso roda no Mac, é gratuito e privado, e mostra o que foi consultado."
+      "question": "Como acompanhar o GARE11 no app?",
+      "answer": "Você pode usar o [assistente de IA](/recursos/assistente-de-ia) do app para perguntar em português sobre a sua posição no GARE11, com respostas baseadas nos seus próprios dados. O recurso roda no Mac, com privacidade, e mostra o que foi consultado."
     }
   ],
   "internalLinks": {
@@ -252,7 +269,7 @@
       },
       {
         "feature": "assistente-de-ia",
-        "anchor": "assistente de IA do StockBar",
+        "anchor": "assistente de IA do app",
         "context": "Pergunte em português sobre a sua posição no GARE11, com respostas baseadas nos seus próprios dados, rodando no Mac."
       }
     ],

@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "KNHF11: história, dividendos e volatilidade",
     "description": "KNHF11 é FII multiestratégia da Kinea. Veja patrimônio de R$ 1,96 bi, dividend yield de 13,37%, volatilidade de 10,69% e a história do fundo desde 2023.",
@@ -20,6 +21,22 @@
     ]
   },
   "summary": "KNHF11 é a cota do Kinea Hedge Fund, um fundo imobiliário multiestratégia gerido pela Kinea e administrado pela Intrag. Fundado em 07/02/2023, o ativo busca retorno absoluto investindo em CRI, cotas de outros FIIs, imóveis físicos, ações e caixa. Em 28/10/2026, a cota valia R$ 89,72, com patrimônio líquido de R$ 1,96 bilhão em 09/2026 e dividend yield de 13,37% nos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Kinea Hedge Fund Fundo de Investimento Imobiliário",
+    "legalName": "KINEA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF KNHF11",
+    "isin": "BRKNHFCTF004",
+    "taxId": "42.754.342/0001-47",
+    "foundingDate": "2023-02-07",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=42754342000147"
+    ]
+  },
   "profile": {
     "type": "FII multiestratégia (híbrido)",
     "issuerOrManager": "Kinea Investimentos Ltda",
@@ -142,7 +159,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada de 12 meses do KNHF11 é de 10,69%, classificada como baixa. O beta de 0,20 contra o Ibovespa indica que o fundo é menos sensível às variações do índice do que a média do mercado. A maior queda em 5 anos foi de -20,94%, entre 05/04/2024 e 19/12/2024, o que é consistente com a exposição a CRI e FIIs, que tendem a ter volatilidade menor que ações puras. Para acompanhar a evolução do preço e a rentabilidade da posição, o [recurso de desempenho e preço médio](/recursos/desempenho-e-preco-medio) do StockBar oferece um gráfico interativo com a variação do dia e do ano."
+    "explanation": "A volatilidade anualizada de 12 meses do KNHF11 é de 10,69%, classificada como baixa. O beta de 0,20 contra o Ibovespa indica que o fundo é menos sensível às variações do índice do que a média do mercado. A maior queda em 5 anos foi de -20,94%, entre 05/04/2024 e 19/12/2024, o que é consistente com a exposição a CRI e FIIs, que tendem a ter volatilidade menor que ações puras. Para acompanhar a evolução do preço e a rentabilidade da posição, o [recurso de desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app oferece um gráfico interativo com a variação do dia e do ano."
   },
   "history": {
     "overview": "O Kinea Hedge Fund FII (KNHF11) iniciou suas atividades em 07/02/2023, com a primeira oferta pública de cotas iniciada em 02/02/2023 e encerrada em 02/08/2023. A estrutura foi desenhada para atuar de forma ativa e multidisciplinar, buscando retorno absoluto em um mercado imobiliário diversificado. Em 07/11/2023, o fundo iniciou uma nova oferta pública, que se estendeu até 02/04/2024, consolidando sua base de investidores. O relatório gerencial de 30/09/2026 aponta que a carteira é composta por 56,8% em Certificados de Recebíveis Imobiliários (CRI), 30,3% em imóveis físicos, 11,8% em cotas de outros FIIs, 1,1% em ações e 6,8% em caixa. A gestão é feita por diferentes equipes da Kinea, o que permite alocar capital em subsegmentos como galpões logísticos, geração distribuída, escritórios e residências, buscando complementaridade entre os ativos.",
@@ -188,7 +205,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do KNHF11",
-      "body": "Nos 12 meses até 28/10/2026, o KNHF11 distribuiu R$ 12,0000 por cota em 12 pagamentos, resultando em um dividend yield de 13,37%. O último pagamento foi de R$ 1,0000 em 01/10/2026. O relatório gerencial de 30/09/2026 indica que os dividendos são pagos mensalmente, com o próximo pagamento previsto para 13/10/2026. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. É possível acompanhar os proventos e o histórico de pagamentos no [recurso de proventos](/recursos/proventos) do StockBar, que multiplica os valores pela quantidade de cotas na carteira."
+      "body": "Nos 12 meses até 28/10/2026, o KNHF11 distribuiu R$ 12,0000 por cota em 12 pagamentos, resultando em um dividend yield de 13,37%. O último pagamento foi de R$ 1,0000 em 01/10/2026. O relatório gerencial de 30/09/2026 indica que os dividendos são pagos mensalmente, com o próximo pagamento previsto para 13/10/2026. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. É possível acompanhar os proventos e o histórico de pagamentos no [recurso de proventos](/recursos/proventos) do app, que multiplica os valores pela quantidade de cotas na carteira."
     },
     {
       "id": "emissoes",
@@ -198,12 +215,12 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do KNHF11",
-      "body": "A rentabilidade total com proventos do KNHF11 foi de 9,02% nos 12 meses até 28/10/2026 e de 24,14% nos últimos 3 anos. Em setembro de 2026, o retorno ponderado das posições em FIIs do fundo foi de 1,27%, superior ao IFIX, que teve queda de 0,20%. No acumulado de 2026, o retorno das posições em FIIs foi de 2,29%, frente a -0,63% do IFIX. O desempenho do fundo pode ser comparado com o IFIX e o CDI no [recurso de comparação com índices](/recursos/comparacao-com-indices) do StockBar, que exibe a rentabilidade lado a lado no mesmo gráfico."
+      "body": "A rentabilidade total com proventos do KNHF11 foi de 9,02% nos 12 meses até 28/10/2026 e de 24,14% nos últimos 3 anos. Em setembro de 2026, o retorno ponderado das posições em FIIs do fundo foi de 1,27%, superior ao IFIX, que teve queda de 0,20%. No acumulado de 2026, o retorno das posições em FIIs foi de 2,29%, frente a -0,63% do IFIX. O desempenho do fundo pode ser comparado com o IFIX e o CDI no [recurso de comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade lado a lado no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos do KNHF11",
-      "body": "Como fundo multiestratégia, o KNHF11 está exposto a riscos de crédito (nos CRI), vacância (nos imóveis físicos e cotas de FIIs de tijolo) e variação de juros. A volatilidade anualizada de 12 meses é de 10,69%, nível baixo, e o beta contra o Ibovespa é de 0,20. A maior queda em 5 anos foi de -20,94%, do pico em 05/04/2024 ao ponto mais baixo em 19/12/2024. O relatório gerencial de 30/09/2026 menciona riscos macroeconômicos, como a guerra entre EUA, Israel e Irã, ataques houthis, inflação persistente e juros elevados, que impactam o mercado imobiliário e a renda real dos investidores. A volatilidade e os movimentos de preço podem ser monitorados com [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "Como fundo multiestratégia, o KNHF11 está exposto a riscos de crédito (nos CRI), vacância (nos imóveis físicos e cotas de FIIs de tijolo) e variação de juros. A volatilidade anualizada de 12 meses é de 10,69%, nível baixo, e o beta contra o Ibovespa é de 0,20. A maior queda em 5 anos foi de -20,94%, do pico em 05/04/2024 ao ponto mais baixo em 19/12/2024. O relatório gerencial de 30/09/2026 menciona riscos macroeconômicos, como a guerra entre EUA, Israel e Irã, ataques houthis, inflação persistente e juros elevados, que impactam o mercado imobiliário e a renda real dos investidores. A volatilidade e os movimentos de preço podem ser monitorados com [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
@@ -213,11 +230,11 @@
     },
     {
       "question": "KNHF11 paga dividendos?",
-      "answer": "Sim, o KNHF11 paga dividendos mensais. Nos 12 meses até 28/10/2026, distribuiu R$ 12,0000 por cota, com dividend yield de 13,37%. O último pagamento foi de R$ 1,0000 em 01/10/2026. O [recurso de proventos](/recursos/proventos) do StockBar mostra o histórico completo multiplicado pela sua quantidade de cotas."
+      "answer": "Sim, o KNHF11 paga dividendos mensais. Nos 12 meses até 28/10/2026, distribuiu R$ 12,0000 por cota, com dividend yield de 13,37%. O último pagamento foi de R$ 1,0000 em 01/10/2026. O [recurso de proventos](/recursos/proventos) do app mostra o histórico completo multiplicado pela sua quantidade de cotas."
     },
     {
       "question": "Qual a diferença entre KNHF11 e outros FIIs da Kinea?",
-      "answer": "KNHF11 é multiestratégia, com gestão ativa em CRI, FIIs, imóveis, ações e caixa. Outros FIIs da Kinea, como [KNCR11](/fiis/kncr11) e [KNIP11](/fiis/knip11), têm estratégias mais específicas. O [comparador de fundos](/recursos/comparador-de-fundos) do StockBar permite comparar até seis fundos contra o CDI."
+      "answer": "KNHF11 é multiestratégia, com gestão ativa em CRI, FIIs, imóveis, ações e caixa. Outros FIIs da Kinea, como [KNCR11](/fiis/kncr11) e [KNIP11](/fiis/knip11), têm estratégias mais específicas. O [comparador de fundos](/recursos/comparador-de-fundos) do app permite comparar até seis fundos contra o CDI."
     },
     {
       "question": "Qual o patrimônio do KNHF11?",
@@ -228,7 +245,7 @@
       "answer": "Não, o KNHF11 não possui taxa de performance. A taxa de administração é de 1,20% a.a., conforme o relatório gerencial de 30/09/2026. Em 09/2026, a taxa mensal foi de 0,092% sobre o patrimônio."
     },
     {
-      "question": "Como acompanhar o KNHF11 no StockBar?",
+      "question": "Como acompanhar o KNHF11 no app?",
       "answer": "Você pode usar a [carteira consolidada](/recursos/carteira-consolidada) para ver o KNHF11 junto com outros ativos, o [recurso de proventos](/recursos/proventos) para acompanhar os dividendos, e o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a sua posição em português."
     }
   ],
@@ -236,7 +253,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos do KNHF11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
       },
       {

@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "BRCO11: FII de logística, dividendos e patrimônio",
     "description": "BRCO11 é um FII de tijolo focado em logística, com 14 propriedades e dividend yield de 10,51%.",
@@ -20,6 +21,22 @@
     ]
   },
   "summary": "BRCO11 é a cota do Bresco Logística Fundo de Investimento Imobiliário, um FII de tijolo focado no segmento logístico. Fundado em 2016, o fundo possui 14 propriedades com 591 mil m² de Área Bruta Locável (ABL), com 71% da receita vinda de ativos last mile. Em 09/2026, o patrimônio líquido era de R$ 2,07 bilhões e a cota valia R$ 114,70, com dividend yield de 9,8% anualizado.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Bresco Logística Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "BRESCO LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF BRCO11",
+    "isin": "BRBRCOCTF007",
+    "taxId": "20.748.515/0001-81",
+    "foundingDate": "2016-07-13",
+    "provider": {
+      "name": "OLIVEIRA TRUST DTVM S.A.",
+      "url": "https://www.oliveiratrust.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=20748515000181"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, logística",
     "issuerOrManager": "Oliveira Trust DTVM S.A",
@@ -183,7 +200,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do BRCO11",
-      "body": "Nos 12 meses até 28/10/2026, o BRCO11 distribuiu R$ 11,0000 por cota em 12 pagamentos, resultando em dividend yield de 10,51%. O último provento foi de R$ 0,9100 em 01/10/2026. O relatório gerencial de 30/09/2026 indica dividend yield anualizado de 9,8% com base na cota de fechamento do mês. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, mas a tributação pode mudar; consulte as regras vigentes. Acompanhe os proventos do BRCO11 com [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 28/10/2026, o BRCO11 distribuiu R$ 11,0000 por cota em 12 pagamentos, resultando em dividend yield de 10,51%. O último provento foi de R$ 0,9100 em 01/10/2026. O relatório gerencial de 30/09/2026 indica dividend yield anualizado de 9,8% com base na cota de fechamento do mês. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, mas a tributação pode mudar; consulte as regras vigentes. Acompanhe os proventos do BRCO11 com [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "emissoes",
@@ -204,7 +221,7 @@
   "faq": [
     {
       "question": "BRCO11 paga dividendos?",
-      "answer": "Sim, o BRCO11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram R$ 11,0000 por cota, com dividend yield de 10,51%. O último provento foi de R$ 0,9100 em 01/10/2026. Acompanhe os pagamentos com [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, o BRCO11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram R$ 11,0000 por cota, com dividend yield de 10,51%. O último provento foi de R$ 0,9100 em 01/10/2026. Acompanhe os pagamentos com [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual o segmento do BRCO11?",
@@ -227,7 +244,7 @@
       "answer": "Os inquilinos do BRCO11 incluem Mercado Livre, M. Dias Branco, Nubank, Bunzl Lanlimp, V4 Company, BNRV, Expresso 3300 e Terranox, segundo o relatório gerencial de 30/09/2026. Mais de 76% dos inquilinos possuem rating de grau de investimento."
     },
     {
-      "question": "Como acompanhar o BRCO11 no StockBar?",
+      "question": "Como acompanhar o BRCO11 no app?",
       "answer": "Use o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre sua posição no BRCO11, com respostas baseadas nos seus próprios dados. Você também pode ver o fundo na [carteira consolidada](/recursos/carteira-consolidada) e comparar com outros FIIs no [comparador de fundos](/recursos/comparador-de-fundos)."
     }
   ],
@@ -235,7 +252,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os rendimentos do BRCO11 com data de pagamento, multiplicados pela sua quantidade."
       },
       {

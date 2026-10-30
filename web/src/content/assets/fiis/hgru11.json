@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "HGRU11: história, rendimentos e volatilidade",
     "description": "Conheça o HGRU11, FII de tijolo da Patria com foco em educação e varejo. Veja rendimentos, patrimônio, emissões e desempenho até 28/10/2026.",
@@ -20,6 +21,22 @@
     ]
   },
   "summary": "HGRU11 é a cota do Pátria Renda Urbana - Fundo de Investimento Imobiliário, um FII de tijolo focado em imóveis urbanos de uso institucional e comercial, com ênfase em educação e varejo. Em 09/2026, o fundo contava com 233.809 cotistas e patrimônio líquido de R$ 3,18 bilhões. Nos 12 meses até 28/10/2026, a cota registrou rentabilidade total de -1,77% e distribuiu proventos que resultaram em dividend yield de 9,60%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Pátria Renda Urbana - Fundo de Investimento Imobiliário",
+    "legalName": "PÁTRIA RENDA URBANA - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF HGRU11",
+    "isin": "BRHGRUCTF002",
+    "taxId": "29.641.226/0001-53",
+    "foundingDate": "2018-04-27",
+    "provider": {
+      "name": "GENIAL INVESTIMENTOS CORRETORA DE MOBILIARIOS S.A.",
+      "url": "https://www.genialinvestimentos.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=29641226000153"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, renda urbana (comércio e educação)",
     "issuerOrManager": "Patria Investimentos Ltda",

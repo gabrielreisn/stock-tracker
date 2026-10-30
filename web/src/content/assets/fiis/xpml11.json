@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "XPML11: história, dividendos e volatilidade",
     "description": "XPML11 é um FII de tijolo com foco em shoppings. Veja a história, dividendos, patrimônio e volatilidade do XP Malls FII até 28/10/2026.",
@@ -19,6 +20,22 @@
     ]
   },
   "summary": "XPML11 é a cota do XP Malls Fundo de Investimento Imobiliário, um FII de tijolo com foco em shopping centers e gestão ativa. Fundado em 22/12/2017, o fundo possui patrimônio líquido de R$ 6,90 bilhões e 795.394 cotistas em setembro de 2026. A cota fechou a R$ 98,01 em 28/10/2026, com dividend yield de 11,29% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "XP Malls Fundo de Investimento Imobiliário FII",
+    "legalName": "XP MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+    "ticker": "BVMF XPML11",
+    "isin": "BRXPMLCTF000",
+    "taxId": "28.757.546/0001-00",
+    "foundingDate": "2017-12-22",
+    "provider": {
+      "name": "XP INVESTIMENTOS CCTVM S.A.",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28757546000100"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, shoppings",
     "issuerOrManager": "XP Vista Asset Management Ltda",
@@ -141,7 +158,7 @@
   },
   "volatility": {
     "level": "muito alta",
-    "explanation": "A volatilidade anualizada do XPML11 foi de 817,35% nos últimos 12 meses, nível muito alta 0. O beta do fundo contra o Ibovespa foi de -1,28, indicando correlação negativa com o índice 0. A maior queda em 5 anos foi de -99,03%, do pico em 13/01/2026 ao ponto mais baixo em 16/01/2026 0. Essa volatilidade é atípica para um FII de tijolo, que geralmente tem volatilidade mais baixa. Use os [alertas de preço](/recursos/alertas-de-preco) no StockBar para monitorar movimentos bruscos no preço do XPML11."
+    "explanation": "A volatilidade anualizada do XPML11 foi de 817,35% nos últimos 12 meses, nível muito alta 0. O beta do fundo contra o Ibovespa foi de -1,28, indicando correlação negativa com o índice 0. A maior queda em 5 anos foi de -99,03%, do pico em 13/01/2026 ao ponto mais baixo em 16/01/2026 0. Essa volatilidade é atípica para um FII de tijolo, que geralmente tem volatilidade mais baixa. Use os [alertas de preço](/recursos/alertas-de-preco) no app para monitorar movimentos bruscos no preço do XPML11."
   },
   "history": {
     "overview": "O XP Malls FII iniciou suas atividades em 22/12/2017, com a primeira oferta pública de cotas encerrada em 27/12/2017 12. Desde então, o fundo realizou 15 ofertas públicas de cotas, com a mais recente encerrada em 26/10/2026 2. A estratégia do fundo é a obtenção de renda por meio da exploração imobiliária de shopping centers, bem como o ganho de capital, mediante a compra e venda de shopping centers 3. Em 2026, o fundo adquiriu participações no São Bernardo Plaza Shopping e no Shopping Metrô Boulevard Tatuapé, ampliando seu portfólio 45. O patrimônio líquido do fundo era de R$ 6,90 bilhões em setembro de 2026, com 795.394 cotistas 1.",
@@ -182,7 +199,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do XPML11",
-      "body": "Nos 12 meses até 28/10/2026, o XPML11 distribuiu R$ 11,0695 por cota em 12 pagamentos, com dividend yield de 11,29% 0. O último pagamento foi de R$ 0,9200 em 19/10/2026 0. O fundo distribui no semestre um montante igual ou superior a 95% dos lucros apurados segundo o regime de caixa 3. Veja os [dividendos e JCP no StockBar](/recursos/proventos) para acompanhar os pagamentos do XPML11."
+      "body": "Nos 12 meses até 28/10/2026, o XPML11 distribuiu R$ 11,0695 por cota em 12 pagamentos, com dividend yield de 11,29% 0. O último pagamento foi de R$ 0,9200 em 19/10/2026 0. O fundo distribui no semestre um montante igual ou superior a 95% dos lucros apurados segundo o regime de caixa 3. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos do XPML11."
     },
     {
       "id": "emissoes",
@@ -192,18 +209,18 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do XPML11",
-      "body": "A rentabilidade total com proventos do XPML11 foi de 658,59% em 12 meses, 801,74% em 3 anos e 1.065,66% em 5 anos, até 28/10/2026 0. O fundo tem benchmark de IPCA + 6,0% a.a. 3. Use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar para ver o desempenho do XPML11 ao lado do IFIX e do CDI."
+      "body": "A rentabilidade total com proventos do XPML11 foi de 658,59% em 12 meses, 801,74% em 3 anos e 1.065,66% em 5 anos, até 28/10/2026 0. O fundo tem benchmark de IPCA + 6,0% a.a. 3. Use a [comparação com índices](/recursos/comparacao-com-indices) no app para ver o desempenho do XPML11 ao lado do IFIX e do CDI."
     },
     {
       "id": "riscos",
       "heading": "Riscos do XPML11",
-      "body": "O XPML11 é um FII de tijolo, sujeito a riscos de vacância e inadimplência. Em agosto de 2026, a vacância e a inadimplência líquida encerraram o período em 5,1% e 1,2%, respectivamente 3. O fundo também está exposto ao ambiente econômico, com o consumo das famílias brasileiras sob pressão e o varejo enfraquecido 3. A volatilidade anualizada do XPML11 foi de 817,35% nos últimos 12 meses, nível muito alta 0. A maior queda em 5 anos foi de -99,03%, do pico em 13/01/2026 ao ponto mais baixo em 16/01/2026 0. Configure [alertas de preço](/recursos/alertas-de-preco) no StockBar para monitorar a volatilidade do XPML11."
+      "body": "O XPML11 é um FII de tijolo, sujeito a riscos de vacância e inadimplência. Em agosto de 2026, a vacância e a inadimplência líquida encerraram o período em 5,1% e 1,2%, respectivamente 3. O fundo também está exposto ao ambiente econômico, com o consumo das famílias brasileiras sob pressão e o varejo enfraquecido 3. A volatilidade anualizada do XPML11 foi de 817,35% nos últimos 12 meses, nível muito alta 0. A maior queda em 5 anos foi de -99,03%, do pico em 13/01/2026 ao ponto mais baixo em 16/01/2026 0. Configure [alertas de preço](/recursos/alertas-de-preco) no app para monitorar a volatilidade do XPML11."
     }
   ],
   "faq": [
     {
       "question": "XPML11 paga dividendos?",
-      "answer": "Sim, o XPML11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, o fundo distribuiu R$ 11,0695 por cota em 12 pagamentos, com dividend yield de 11,29% 0. O último pagamento foi de R$ 0,9200 em 19/10/2026 0. Veja os [dividendos e JCP no StockBar](/recursos/proventos) para acompanhar os pagamentos do XPML11."
+      "answer": "Sim, o XPML11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, o fundo distribuiu R$ 11,0695 por cota em 12 pagamentos, com dividend yield de 11,29% 0. O último pagamento foi de R$ 0,9200 em 19/10/2026 0. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos do XPML11."
     },
     {
       "question": "XPML11 é FII de papel ou de tijolo?",
@@ -219,18 +236,18 @@
     },
     {
       "question": "XPML11 tem boa liquidez?",
-      "answer": "O volume médio negociado por dia do XPML11 nos últimos 3 meses foi de R$ 21,8 milhões 0. Isso indica boa liquidez para um FII de tijolo. Use a [carteira consolidada](/recursos/carteira-consolidada) no StockBar para acompanhar a posição do XPML11 ao lado de outros ativos."
+      "answer": "O volume médio negociado por dia do XPML11 nos últimos 3 meses foi de R$ 21,8 milhões 0. Isso indica boa liquidez para um FII de tijolo. Use a [carteira consolidada](/recursos/carteira-consolidada) no app para acompanhar a posição do XPML11 ao lado de outros ativos."
     },
     {
       "question": "Qual o benchmark do XPML11?",
-      "answer": "O benchmark do XPML11 é IPCA + 6,0% a.a. 3. A taxa de performance é de 20% do que exceder o benchmark 3. Use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar para ver o desempenho do XPML11 ao lado do IFIX e do CDI."
+      "answer": "O benchmark do XPML11 é IPCA + 6,0% a.a. 3. A taxa de performance é de 20% do que exceder o benchmark 3. Use a [comparação com índices](/recursos/comparacao-com-indices) no app para ver o desempenho do XPML11 ao lado do IFIX e do CDI."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP do XPML11 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

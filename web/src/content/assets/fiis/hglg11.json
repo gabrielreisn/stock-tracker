@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "HGLG11: história, rendimentos e volatilidade",
     "description": "HGLG11 é um FII de tijolo focado em logística. Veja patrimônio de R$ 7,55 bilhões, dividend yield de 9,09% e rentabilidade de 2,08% em 12 meses até",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "HGLG11 é a cota do Pátria Log - Fundo de Investimento Imobiliário, um FII de tijolo focado em ativos logísticos e industriais. Com patrimônio líquido de R$ 7,55 bilhões em setembro de 2026, o fundo distribuiu R$ 13,41 por cota em 12 meses, gerando um dividend yield de 9,09%. A cota fechou a R$ 147,58 em 28/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Pátria Log - Fundo de Investimento Imobiliário",
+    "legalName": "PÁTRIA LOG - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF HGLG11",
+    "isin": "BRHGLGCTF004",
+    "taxId": "11.728.688/0001-47",
+    "foundingDate": "2010-05-03",
+    "provider": {
+      "name": "GENIAL INVESTIMENTOS CORRETORA DE MOBILIARIOS S.A.",
+      "url": "https://www.bancogenial.com/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=11728688000147"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, logística",
     "issuerOrManager": "Patria Investimentos Ltda",
@@ -143,7 +160,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada do HGLG11 nos 12 meses até 28/10/2026 foi de 9,43%, classificada como baixa. O beta de 0,18 contra o Ibovespa indica que o fundo tem baixa sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -10,96%, do pico em 08/03/2024 ao ponto mais baixo em 04/12/2024. Para monitorar oscilações de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) no StockBar permite configurar notificações quando a cota atinge um valor específico."
+    "explanation": "A volatilidade anualizada do HGLG11 nos 12 meses até 28/10/2026 foi de 9,43%, classificada como baixa. O beta de 0,18 contra o Ibovespa indica que o fundo tem baixa sensibilidade às variações do índice. A maior queda nos últimos 5 anos foi de -10,96%, do pico em 08/03/2024 ao ponto mais baixo em 04/12/2024. Para monitorar oscilações de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) no app permite configurar notificações quando a cota atinge um valor específico."
   },
   "history": {
     "overview": "Fundado em 03/05/2010, o Pátria Log FII (HGLG11) foi criado para investir primordialmente em empreendimentos imobiliários logísticos e industriais. A estratégia do fundo é a aquisição de terrenos para construção ou de imóveis prontos, visando a locação ou arrendamento, além de outros imóveis com potencial de geração de renda. A gestão é ativa, conduzida pela Patria Investimentos Ltda., com administração e escrituração do Banco Genial S.A. (antiga Genial Investimentos Corretora de Mobiliários S.A.). Desde 2018, o fundo realizou 10 ofertas públicas de cotas encerradas, ampliando sua base de investidores e patrimônio. Em 2026, o fundo iniciou sua 12ª emissão de cotas, com montante total de R$ 1,5 bilhão, e celebrou a aquisição do Pátio GRU, um ativo de estacionamento de carretas dentro do Parque Logístico Guarulhos, por R$ 9,97 milhões.",
@@ -199,7 +216,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do HGLG11",
-      "body": "Nos 12 meses até 28/10/2026, o HGLG11 distribuiu R$ 13,4100 por cota em 12 pagamentos, resultando em um dividend yield de 9,09%. O último pagamento foi de R$ 1,1700, com data de pagamento em 01/10/2026. O relatório gerencial de setembro de 2026 indicou que a distribuição de rendimentos do mês foi de R$ 1,17/cota, a ser paga em 15 de outubro de 2026, alinhado ao guidance de R$ 1,17/cota para o 2S26. O dividend yield informado pelo fundo no informe mensal de setembro de 2026 foi de 0,71% no mês. Para acompanhar os rendimentos do HGLG11, é possível usar o recurso de [proventos](/recursos/proventos) no StockBar, que lista os pagamentos com data de competência e data de pagamento, multiplicados pela quantidade de cotas na carteira."
+      "body": "Nos 12 meses até 28/10/2026, o HGLG11 distribuiu R$ 13,4100 por cota em 12 pagamentos, resultando em um dividend yield de 9,09%. O último pagamento foi de R$ 1,1700, com data de pagamento em 01/10/2026. O relatório gerencial de setembro de 2026 indicou que a distribuição de rendimentos do mês foi de R$ 1,17/cota, a ser paga em 15 de outubro de 2026, alinhado ao guidance de R$ 1,17/cota para o 2S26. O dividend yield informado pelo fundo no informe mensal de setembro de 2026 foi de 0,71% no mês. Para acompanhar os rendimentos do HGLG11, é possível usar o recurso de [proventos](/recursos/proventos) no app, que lista os pagamentos com data de competência e data de pagamento, multiplicados pela quantidade de cotas na carteira."
     },
     {
       "id": "emissoes",
@@ -209,7 +226,7 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do HGLG11",
-      "body": "A rentabilidade total com proventos do HGLG11 nos 12 meses até 28/10/2026 foi de 2,08%. Nos 3 anos, a rentabilidade foi de 20,38%, e nos 5 anos, de 36,11%. Nos 10 anos, a rentabilidade acumulada foi de 99,16%. Para comparar o desempenho do HGLG11 com índices de referência como o IFIX e o CDI, o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar exibe a rentabilidade da carteira lado a lado com esses índices no mesmo gráfico."
+      "body": "A rentabilidade total com proventos do HGLG11 nos 12 meses até 28/10/2026 foi de 2,08%. Nos 3 anos, a rentabilidade foi de 20,38%, e nos 5 anos, de 36,11%. Nos 10 anos, a rentabilidade acumulada foi de 99,16%. Para comparar o desempenho do HGLG11 com índices de referência como o IFIX e o CDI, o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app exibe a rentabilidade da carteira lado a lado com esses índices no mesmo gráfico."
     },
     {
       "id": "riscos",
@@ -224,7 +241,7 @@
     },
     {
       "question": "Qual a diferença entre HGLG11 e outros FIIs de logística?",
-      "answer": "O HGLG11 é um FII de tijolo focado em ativos logísticos e industriais, com gestão ativa da Patria Investimentos. Outros FIIs de logística, como [BTLG11](/fiis/btlg11) e [XPLG11](/fiis/xplg11), também investem nesse segmento, mas podem ter estratégias, portfólios e gestores diferentes. A comparação entre eles pode ser feita pelo recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que exibe a rentabilidade de cada um lado a lado com o IFIX."
+      "answer": "O HGLG11 é um FII de tijolo focado em ativos logísticos e industriais, com gestão ativa da Patria Investimentos. Outros FIIs de logística, como [BTLG11](/fiis/btlg11) e [XPLG11](/fiis/xplg11), também investem nesse segmento, mas podem ter estratégias, portfólios e gestores diferentes. A comparação entre eles pode ser feita pelo recurso de [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade de cada um lado a lado com o IFIX."
     },
     {
       "question": "HGLG11 é FII de papel ou de tijolo?",
@@ -247,12 +264,12 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "proventos do HGLG11 no StockBar",
+        "anchor": "proventos do HGLG11 no app",
         "context": "Veja os rendimentos do HGLG11 com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
       },
       {
         "feature": "comparacao-com-indices",
-        "anchor": "comparação do HGLG11 com o IFIX no StockBar",
+        "anchor": "comparação do HGLG11 com o IFIX no app",
         "context": "Compare a rentabilidade do HGLG11 com o IFIX, CDI e outros índices no mesmo gráfico."
       },
       {
@@ -262,7 +279,7 @@
       },
       {
         "feature": "carteira-consolidada",
-        "anchor": "carteira consolidada no StockBar",
+        "anchor": "carteira consolidada no app",
         "context": "Veja o HGLG11 junto com outros ativos da sua carteira, com valor por classe e alocação."
       }
     ],

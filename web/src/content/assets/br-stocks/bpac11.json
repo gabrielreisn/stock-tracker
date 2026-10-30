@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "BPAC11: história, dividendos e volatilidade",
     "description": "Conheça a BPAC11, unit do Banco BTG Pactual: rentabilidade de 12% em 12 meses, dividend yield de 2,63% e volatilidade de 49,27%.",
@@ -19,6 +20,27 @@
     ]
   },
   "summary": "BPAC11 é a unit do Banco BTG Pactual S/A, instituição financeira brasileira focada em investment banking, wealth management e gestão de ativos. Fundada em 1983 e listada na B3 desde 2012, a empresa opera em múltiplos países e possui controle acionário privado. Em 29/10/2026, a unit cotava a R$ 54,04, com rentabilidade total de 12,00% nos últimos 12 meses e dividend yield de 2,63%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "BTG Pactual",
+    "legalName": "BANCO BTG PACTUAL S/A",
+    "ticker": "BVMF BPAC11",
+    "isin": "BRBPACUNT006",
+    "taxId": "30.306.294/0001-45",
+    "foundingDate": "1979-01-18",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.btgpactual.com",
+    "wikidata": "Q2877503",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2877503",
+      "https://pt.wikipedia.org/wiki/BTG_Pactual",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22616/BPAC/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "BTG Pactual",
     "legalName": "BANCO BTG PACTUAL S/A",
@@ -207,23 +229,23 @@
     {
       "id": "proventos",
       "heading": "BPAC11 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a BPAC11 distribuiu R$ 1,4201 por ação em 3 pagamentos, resultando em um dividend yield de 2,63%. O último pagamento registrado foi de R$ 0,7767, com data de pagamento em 11/08/2026. A política de remuneração aos acionistas é uma característica importante do setor financeiro, refletindo a geração de caixa e a saúde do balanço. No StockBar, é possível acompanhar [dividendos e JCP no StockBar](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade de units."
+      "body": "Nos 12 meses até 29/10/2026, a BPAC11 distribuiu R$ 1,4201 por ação em 3 pagamentos, resultando em um dividend yield de 2,63%. O último pagamento registrado foi de R$ 0,7767, com data de pagamento em 11/08/2026. A política de remuneração aos acionistas é uma característica importante do setor financeiro, refletindo a geração de caixa e a saúde do balanço. No app, é possível acompanhar [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade de units."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da BPAC11",
-      "body": "A rentabilidade total da BPAC11, incluindo proventos, foi de 12,00% nos 12 meses até 29/10/2026, 98,30% em 3 anos e 172,68% em 5 anos. Esses números refletem a performance do ativo em um período de alta volatilidade. Para contextualizar esses resultados, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que posiciona a rentabilidade da carteira ao lado do Ibovespa, CDI e IPCA no mesmo gráfico."
+      "body": "A rentabilidade total da BPAC11, incluindo proventos, foi de 12,00% nos 12 meses até 29/10/2026, 98,30% em 3 anos e 172,68% em 5 anos. Esses números refletem a performance do ativo em um período de alta volatilidade. Para contextualizar esses resultados, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que posiciona a rentabilidade da carteira ao lado do Ibovespa, CDI e IPCA no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos da BPAC11",
-      "body": "A volatilidade anualizada da BPAC11 nos últimos 12 meses foi de 49,27%, classificada como muito alta. O beta de 1,82 indica que a ação tende a oscilar mais que o Ibovespa. A maior queda nos últimos 5 anos foi de -36,80%, ocorrida entre 04/11/2022 e 23/03/2023. Riscos setoriais incluem a sensibilidade a mudanças na taxa de juros, a qualidade da carteira de crédito e a regulação do setor financeiro. A alta volatilidade exige monitoramento constante, que pode ser facilitado por [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "body": "A volatilidade anualizada da BPAC11 nos últimos 12 meses foi de 49,27%, classificada como muito alta. O beta de 1,82 indica que a ação tende a oscilar mais que o Ibovespa. A maior queda nos últimos 5 anos foi de -36,80%, ocorrida entre 04/11/2022 e 23/03/2023. Riscos setoriais incluem a sensibilidade a mudanças na taxa de juros, a qualidade da carteira de crédito e a regulação do setor financeiro. A alta volatilidade exige monitoramento constante, que pode ser facilitado por [alertas de preço](/recursos/alertas-de-preco) no app."
     }
   ],
   "faq": [
     {
       "question": "BPAC11 paga dividendos?",
-      "answer": "Sim, a BPAC11 distribui proventos aos acionistas. Nos 12 meses até 29/10/2026, foram pagos R$ 1,4201 por ação em 3 ocasiões, com dividend yield de 2,63%. O último pagamento foi de R$ 0,7767 em 11/08/2026. Você pode acompanhar o histórico completo de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, a BPAC11 distribui proventos aos acionistas. Nos 12 meses até 29/10/2026, foram pagos R$ 1,4201 por ação em 3 ocasiões, com dividend yield de 2,63%. O último pagamento foi de R$ 0,7767 em 11/08/2026. Você pode acompanhar o histórico completo de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre BPAC3, BPAC5 e BPAC11?",
@@ -235,11 +257,11 @@
     },
     {
       "question": "Qual a volatilidade da BPAC11?",
-      "answer": "A volatilidade anualizada da BPAC11 nos últimos 12 meses é de 49,27%, nível classificado como muito alta. O beta de 1,82 indica que a ação oscila mais que o Ibovespa. Para monitorar movimentos bruscos, use os [alertas de preço](/recursos/alertas-de-preco) do StockBar."
+      "answer": "A volatilidade anualizada da BPAC11 nos últimos 12 meses é de 49,27%, nível classificado como muito alta. O beta de 1,82 indica que a ação oscila mais que o Ibovespa. Para monitorar movimentos bruscos, use os [alertas de preço](/recursos/alertas-de-preco) do app."
     },
     {
       "question": "Como acompanhar a rentabilidade da BPAC11?",
-      "answer": "A rentabilidade total da BPAC11 nos 12 meses até 29/10/2026 foi de 12,00%. Para comparar esse desempenho com outros ativos, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que mostra a performance ao lado do Ibovespa, CDI e IPCA."
+      "answer": "A rentabilidade total da BPAC11 nos 12 meses até 29/10/2026 foi de 12,00%. Para comparar esse desempenho com outros ativos, use a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a performance ao lado do Ibovespa, CDI e IPCA."
     },
     {
       "question": "O BTG Pactual tem exposição internacional?",
@@ -250,7 +272,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da BPAC11 com data com e data de pagamento, multiplicados pela sua quantidade de units."
       },
       {

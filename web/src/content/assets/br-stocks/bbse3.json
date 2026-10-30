@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "BBSE3: história, dividendos e volatilidade",
     "description": "Conheça a BB Seguridade (BBSE3): ação ordinária do Banco do Brasil, dividend yield de 11,10%, rentabilidade de 42,83% em 12 meses e histórico de IPO em",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "BBSE3 é a ação ordinária da BB Seguridade Participações S.A., controlada pelo Banco do Brasil e listada no Novo Mercado da B3. A empresa atua na distribuição de seguros, previdência aberta, capitalização e corretagem, utilizando a rede do Banco do Brasil como principal canal de vendas. Em 28/10/2026, a ação era cotada a R$ 41,35, com dividend yield de 11,10% nos últimos 12 meses e rentabilidade total de 42,83% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "BB Seguridade",
+    "legalName": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
+    "ticker": "BVMF BBSE3",
+    "isin": "BRBBSEACNOR5",
+    "taxId": "17.344.597/0001-94",
+    "foundingDate": "2012-12-20",
+    "address": {
+      "locality": "Brasília",
+      "region": "DF",
+      "country": "BR"
+    },
+    "website": "https://www.bbseguridaderi.com.br",
+    "wikidata": "Q18499520",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q18499520",
+      "https://pt.wikipedia.org/wiki/BB_Seguridade",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/23159/BBSE/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "BB Seguridade",
     "legalName": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
@@ -214,12 +236,12 @@
     {
       "id": "proventos",
       "heading": "BBSE3 paga dividendos?",
-      "body": "Nos 12 meses até 28/10/2026, a BBSE3 distribuiu R$ 4,5901 por ação em 2 pagamentos, resultando em um dividend yield de 11,10%. O último pagamento registrado foi de R$ 1,9833 em 07/08/2026. A companhia tem histórico de distribuição de proventos em dinheiro, conforme fatos relevantes da CVM em 2025 e 2026. É possível acompanhar o histórico de dividendos e JCP da BBSE3, com data de competência e data de pagamento, no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 28/10/2026, a BBSE3 distribuiu R$ 4,5901 por ação em 2 pagamentos, resultando em um dividend yield de 11,10%. O último pagamento registrado foi de R$ 1,9833 em 07/08/2026. A companhia tem histórico de distribuição de proventos em dinheiro, conforme fatos relevantes da CVM em 2025 e 2026. É possível acompanhar o histórico de dividendos e JCP da BBSE3, com data de competência e data de pagamento, no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da BBSE3",
-      "body": "A rentabilidade total com proventos da BBSE3 foi de 42,83% nos 12 meses até 28/10/2026, 85,09% em 3 anos e 204,50% em 5 anos. Em 10 anos, a rentabilidade acumulada foi de 208,22%. O desempenho da ação pode ser comparado com índices de referência como o Ibovespa e o CDI através do recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que exibe a rentabilidade lado a lado no mesmo gráfico."
+      "body": "A rentabilidade total com proventos da BBSE3 foi de 42,83% nos 12 meses até 28/10/2026, 85,09% em 3 anos e 204,50% em 5 anos. Em 10 anos, a rentabilidade acumulada foi de 208,22%. O desempenho da ação pode ser comparado com índices de referência como o Ibovespa e o CDI através do recurso de [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado no mesmo gráfico."
     },
     {
       "id": "riscos",
@@ -230,7 +252,7 @@
   "faq": [
     {
       "question": "BBSE3 paga dividendos?",
-      "answer": "Sim, a BBSE3 distribui proventos em dinheiro. Nos 12 meses até 28/10/2026, foram pagos R$ 4,5901 por ação em 2 pagamentos, com dividend yield de 11,10%. O último pagamento foi de R$ 1,9833 em 07/08/2026. Veja o histórico completo no recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim, a BBSE3 distribui proventos em dinheiro. Nos 12 meses até 28/10/2026, foram pagos R$ 4,5901 por ação em 2 pagamentos, com dividend yield de 11,10%. O último pagamento foi de R$ 1,9833 em 07/08/2026. Veja o histórico completo no recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre BBSE3 e ações preferenciais?",
@@ -246,7 +268,7 @@
     },
     {
       "question": "Qual a rentabilidade da BBSE3 nos últimos 12 meses?",
-      "answer": "A rentabilidade total com proventos da BBSE3 foi de 42,83% nos 12 meses até 28/10/2026. Para comparar com o Ibovespa e o CDI, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no StockBar."
+      "answer": "A rentabilidade total com proventos da BBSE3 foi de 42,83% nos 12 meses até 28/10/2026. Para comparar com o Ibovespa e o CDI, use o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app."
     },
     {
       "question": "BBSE3 é uma ação de Novo Mercado?",
@@ -257,7 +279,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da BBSE3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
       },
       {

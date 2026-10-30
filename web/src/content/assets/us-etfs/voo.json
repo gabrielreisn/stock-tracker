@@ -4,6 +4,7 @@
   "list": "us-etfs",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "VOO: história, dividendos e volatilidade",
     "description": "VOO é o Vanguard S&P 500 ETF. Veja a história, o desempenho, os dividendos e a volatilidade do maior ETF do mundo em ativos sob gestão.",
@@ -19,6 +20,19 @@
     ]
   },
   "summary": "VOO é o Vanguard S&P 500 ETF, um fundo de índice que busca replicar a performance do índice S&P 500. Em 29/10/2026, sua cota valia US$ 707,32, com rentabilidade total de 13,22% nos últimos 12 meses. O fundo distribui proventos e possui volatilidade anualizada de 12,65%, considerada baixa para o mercado acionário americano.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard S&P 500 ETF",
+    "ticker": "ARCX VOO",
+    "foundingDate": "2010-09-09",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
   "profile": {
     "type": "ETF de índice",
     "issuerOrManager": "Vanguard",
@@ -112,7 +126,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada do VOO nos últimos 12 meses é de 12,65%, considerada baixa para o mercado acionário americano. O beta do VOO contra o S&P 500 é de 0,99, o que indica que o fundo se move de forma muito próxima ao índice. A maior queda nos últimos 5 anos foi de -24,52%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Para quem acompanha o VOO, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no StockBar para ser notificado quando a cota atingir um nível específico."
+    "explanation": "A volatilidade anualizada do VOO nos últimos 12 meses é de 12,65%, considerada baixa para o mercado acionário americano. O beta do VOO contra o S&P 500 é de 0,99, o que indica que o fundo se move de forma muito próxima ao índice. A maior queda nos últimos 5 anos foi de -24,52%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Para quem acompanha o VOO, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app para ser notificado quando a cota atingir um nível específico."
   },
   "history": {
     "overview": "O mercado de ETFs nos Estados Unidos nasceu em 22 de janeiro de 1993, com a criação do SPDR S&P 500 ETF Trust ([SPY](/etfs/spy)), o primeiro ETF listado no país. A iniciativa foi uma colaboração entre a American Stock Exchange (AMEX) e a State Street para criar um ativo que rastreasse o S&P 500. A estrutura do SPY é de um fundo de investimento em cotas (unit investment trust), o que significa que não possui gestor de portfólio ou conselho de administração tradicional, mas sim um trustee e um sponsor. Em fevereiro de 2025, o VOO, da Vanguard, superou o SPY e se tornou o maior ETF do mundo em termos de ativos sob gestão. A trajetória do VOO reflete a consolidação do investimento passivo nos Estados Unidos, com o crescimento do mercado de ETFs de baixo custo.",
@@ -163,7 +177,7 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do VOO",
-      "body": "Em 29/10/2026, a cota do VOO valia US$ 707,32. A rentabilidade total com proventos foi de 13,22% nos 12 meses, 92,41% em 3 anos, 79,72% em 5 anos e 326,81% em 10 anos. O fundo distribuiu US$ 7,4280 por cota em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 1,05%. O último pagamento foi de US$ 1,8230 em 28/09/2026. A comparação com o S&P 500 pode ser feita no [comparação com índices](/recursos/comparacao-com-indices) do StockBar."
+      "body": "Em 29/10/2026, a cota do VOO valia US$ 707,32. A rentabilidade total com proventos foi de 13,22% nos 12 meses, 92,41% em 3 anos, 79,72% em 5 anos e 326,81% em 10 anos. O fundo distribuiu US$ 7,4280 por cota em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 1,05%. O último pagamento foi de US$ 1,8230 em 28/09/2026. A comparação com o S&P 500 pode ser feita no [comparação com índices](/recursos/comparacao-com-indices) do app."
     },
     {
       "id": "riscos",
@@ -171,9 +185,9 @@
       "body": "O principal risco do VOO é o risco de mercado, ou seja, a volatilidade do índice S&P 500. A volatilidade anualizada do VOO nos últimos 12 meses é de 12,65%, considerada baixa. O beta do VOO contra o S&P 500 é de 0,99, o que indica que o fundo se move de forma muito próxima ao índice. A maior queda nos últimos 5 anos foi de -24,52%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. O risco cambial é outro fator para investidores brasileiros, pois o VOO é cotado em dólar."
     },
     {
-      "id": "acompanhe-no-stockbar",
-      "heading": "Como acompanhar VOO no StockBar",
-      "body": "O [StockBar](/download) é um app de Mac para acompanhar investimentos. Para quem tem VOO na carteira:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do VOO lado a lado com o S&P 500, no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure um alerta para ser notificado quando a cota do VOO atingir um nível específico.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o VOO junto com seus outros ativos, com valor por classe e alocação."
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar VOO no app",
+      "body": "Para quem tem VOO na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do VOO lado a lado com o S&P 500, no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure um alerta para ser notificado quando a cota do VOO atingir um nível específico.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o VOO junto com seus outros ativos, com valor por classe e alocação."
     }
   ],
   "faq": [

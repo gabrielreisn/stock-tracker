@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "LVBI11: FII de logística, rendimentos e patrimônio",
     "description": "Conheça o LVBI11, FII de logística com patrimônio de R$ 1,94 bilhão e dividend yield de 9,49%. Veja rendimentos, estratégia e desempenho até 28/10/2026.",
@@ -21,6 +22,22 @@
     ]
   },
   "summary": "LVBI11 é a cota do Fundo de Investimento Imobiliário VBI Logístico, um FII de tijolo focado em ativos logísticos e industriais. Administrado pela BTG Pactual e gerido pela Patria – VBI Asset Management, o fundo possui patrimônio líquido de R$ 1,94 bilhão e 125.693 cotistas em setembro de 2026. A cota patrimonial é de R$ 120,53, enquanto o preço de mercado em 28/10/2026 é de R$ 95,93, com dividend yield de 9,49% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário VBI Logístico",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO VBI LOGÍSTICO",
+    "ticker": "BVMF LVBI11",
+    "isin": "BRLVBICTF002",
+    "taxId": "30.629.603/0001-18",
+    "foundingDate": "2018-11-09",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30629603000118"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, logística",
     "issuerOrManager": "Patria – VBI Asset Management Ltda",
@@ -143,7 +160,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada de 12 meses do LVBI11 é de 14,50%, considerada baixa para um FII de tijolo. O beta contra o Ibovespa é de 0,27, indicando menor sensibilidade às flutuações do índice. A maior queda nos últimos 5 anos foi de -21,15%, do pico em 07/06/2024 ao ponto mais baixo em 18/12/2024. Esse nível de volatilidade é consistente com o comportamento de FIIs de logística, que tendem a ter menor sensibilidade a ciclos de mercado em comparação com ações. O recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco) permite monitorar movimentos de preço e configurar notificações para níveis específicos."
+    "explanation": "A volatilidade anualizada de 12 meses do LVBI11 é de 14,50%, considerada baixa para um FII de tijolo. O beta contra o Ibovespa é de 0,27, indicando menor sensibilidade às flutuações do índice. A maior queda nos últimos 5 anos foi de -21,15%, do pico em 07/06/2024 ao ponto mais baixo em 18/12/2024. Esse nível de volatilidade é consistente com o comportamento de FIIs de logística, que tendem a ter menor sensibilidade a ciclos de mercado em comparação com ações. O recurso de [alertas de preço no app](/recursos/alertas-de-preco) permite monitorar movimentos de preço e configurar notificações para níveis específicos."
   },
   "history": {
     "overview": "O Fundo de Investimento Imobiliário VBI Logístico (LVBI11) iniciou suas atividades em 09/11/2018, com o objetivo de obter renda e ganho de capital por meio de investimentos em imóveis logísticos e industriais. A estratégia do fundo é ativa, com foco em ativos de alta qualidade e localização estratégica, conforme descrito no relatório gerencial de setembro de 2026. A gestora é a Patria – VBI Asset Management Ltda., enquanto a administração e escrituração são realizadas pela BTG Pactual Serviços Financeiros S.A. DTVM. O fundo já realizou cinco ofertas públicas de cotas desde sua fundação, ampliando seu patrimônio e base de cotistas ao longo dos anos. Em 2026, o fundo passou por uma reestruturação de portfólio, com a venda do ativo Itapevi por R$ 103,7 milhões, consolidando sua carteira exclusivamente em ativos Classe A. Essa movimentação reflete o compromisso do fundo em manter uma carteira de alta qualidade, mesmo em um cenário de mercado desafiador, com o IFIX recuando pelo quinto mês consecutivo em setembro de 2026. O fundo também está em processo de incorporação com o HGLG, o que pode impactar a distribuição de rendimentos e a composição do portfólio no futuro.",
@@ -219,7 +236,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do LVBI11",
-      "body": "Nos 12 meses até 28/10/2026, o LVBI11 distribuiu R$ 9,1000 por cota em 12 pagamentos, resultando em um dividend yield de 9,49%. O último rendimento foi de R$ 0,8000, pago em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o rendimento do mês foi de R$ 0,80/cota, pago em 07/10/2026, alinhado ao guidance de R$ 0,80/cota para o 2S26. A tributação dos rendimentos de FIIs não é mencionada no dossiê, mas o recurso de [proventos no StockBar](/recursos/proventos) permite acompanhar os pagamentos com data de competência e data de pagamento, multiplicados pela quantidade de cotas."
+      "body": "Nos 12 meses até 28/10/2026, o LVBI11 distribuiu R$ 9,1000 por cota em 12 pagamentos, resultando em um dividend yield de 9,49%. O último rendimento foi de R$ 0,8000, pago em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o rendimento do mês foi de R$ 0,80/cota, pago em 07/10/2026, alinhado ao guidance de R$ 0,80/cota para o 2S26. A tributação dos rendimentos de FIIs não é mencionada no dossiê, mas o recurso de [proventos no app](/recursos/proventos) permite acompanhar os pagamentos com data de competência e data de pagamento, multiplicados pela quantidade de cotas."
     },
     {
       "id": "emissoes",
@@ -229,18 +246,18 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do LVBI11",
-      "body": "Nos 12 meses até 28/10/2026, o LVBI11 apresentou rentabilidade total com proventos de -3,05%. Nos 3 anos, a rentabilidade foi de 8,83%, e nos 5 anos, de 48,31%. O fundo é comparado ao IFIX, que recuou 0,2% em setembro de 2026, enquanto o Ibovespa avançou 5%. O recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices) permite visualizar a rentabilidade do LVBI11 lado a lado com o IFIX, CDI, Ibovespa e outros índices, no mesmo gráfico."
+      "body": "Nos 12 meses até 28/10/2026, o LVBI11 apresentou rentabilidade total com proventos de -3,05%. Nos 3 anos, a rentabilidade foi de 8,83%, e nos 5 anos, de 48,31%. O fundo é comparado ao IFIX, que recuou 0,2% em setembro de 2026, enquanto o Ibovespa avançou 5%. O recurso de [comparação com índices no app](/recursos/comparacao-com-indices) permite visualizar a rentabilidade do LVBI11 lado a lado com o IFIX, CDI, Ibovespa e outros índices, no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos do LVBI11",
-      "body": "Os riscos do LVBI11 incluem vacância física e financeira, que eram de 0,0% e 0,4%, respectivamente, em setembro de 2026. O fundo também está em processo de incorporação com o HGLG, o que pode impactar a distribuição de rendimentos e a composição do portfólio. A volatilidade anualizada de 12 meses é de 14,50%, considerada baixa, e o beta contra o Ibovespa é de 0,27. A maior queda nos últimos 5 anos foi de -21,15%, do pico em 07/06/2024 ao ponto mais baixo em 18/12/2024. O recurso de [alertas de preço no StockBar](/recursos/alertas-de-preco) permite configurar notificações quando a cota atinge níveis específicos, ajudando a monitorar a volatilidade."
+      "body": "Os riscos do LVBI11 incluem vacância física e financeira, que eram de 0,0% e 0,4%, respectivamente, em setembro de 2026. O fundo também está em processo de incorporação com o HGLG, o que pode impactar a distribuição de rendimentos e a composição do portfólio. A volatilidade anualizada de 12 meses é de 14,50%, considerada baixa, e o beta contra o Ibovespa é de 0,27. A maior queda nos últimos 5 anos foi de -21,15%, do pico em 07/06/2024 ao ponto mais baixo em 18/12/2024. O recurso de [alertas de preço no app](/recursos/alertas-de-preco) permite configurar notificações quando a cota atinge níveis específicos, ajudando a monitorar a volatilidade."
     }
   ],
   "faq": [
     {
       "question": "LVBI11 paga rendimentos?",
-      "answer": "Sim, o LVBI11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram distribuídos R$ 9,1000 por cota, com dividend yield de 9,49%. O último rendimento foi de R$ 0,8000, pago em 01/10/2026. O recurso de [proventos no StockBar](/recursos/proventos) permite acompanhar os pagamentos com data de competência e data de pagamento."
+      "answer": "Sim, o LVBI11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram distribuídos R$ 9,1000 por cota, com dividend yield de 9,49%. O último rendimento foi de R$ 0,8000, pago em 01/10/2026. O recurso de [proventos no app](/recursos/proventos) permite acompanhar os pagamentos com data de competência e data de pagamento."
     },
     {
       "question": "Qual a diferença entre LVBI11 e HGLG11?",
@@ -255,43 +272,43 @@
       "answer": "A taxa de administração do LVBI11 é de 0,070% do patrimônio líquido por mês, conforme informado pela CVM em setembro de 2026. A taxa efetiva total é de 0,8% ao ano, conforme o relatório gerencial do mesmo período."
     },
     {
-      "question": "Como acompanhar os rendimentos do LVBI11 no StockBar?",
-      "answer": "O recurso de [proventos no StockBar](/recursos/proventos) permite acompanhar os rendimentos do LVBI11 com data de competência e data de pagamento, multiplicados pela quantidade de cotas. O recurso também permite visualizar a evolução dos pagamentos ao longo do tempo, ajudando a monitorar a consistência da distribuição."
+      "question": "Como acompanhar os rendimentos do LVBI11 no app?",
+      "answer": "O recurso de [proventos no app](/recursos/proventos) permite acompanhar os rendimentos do LVBI11 com data de competência e data de pagamento, multiplicados pela quantidade de cotas. O recurso também permite visualizar a evolução dos pagamentos ao longo do tempo, ajudando a monitorar a consistência da distribuição."
     },
     {
       "question": "Qual a rentabilidade do LVBI11 nos últimos 12 meses?",
-      "answer": "A rentabilidade total com proventos do LVBI11 nos 12 meses até 28/10/2026 foi de -3,05%. O recurso de [desempenho e preço médio no StockBar](/recursos/desempenho-e-preco-medio) permite visualizar a evolução do preço e a rentabilidade da cota ao longo do tempo, com a possibilidade de medir períodos específicos."
+      "answer": "A rentabilidade total com proventos do LVBI11 nos 12 meses até 28/10/2026 foi de -3,05%. O recurso de [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio) permite visualizar a evolução do preço e a rentabilidade da cota ao longo do tempo, com a possibilidade de medir períodos específicos."
     },
     {
       "question": "Como comparar o LVBI11 com outros FIIs de logística?",
-      "answer": "O recurso de [comparação com índices no StockBar](/recursos/comparacao-com-indices) permite comparar a rentabilidade do LVBI11 com o IFIX, que é o índice de referência para FIIs. Além disso, o recurso de [carteira consolidada no StockBar](/recursos/carteira-consolidada) permite visualizar a alocação do LVBI11 junto a outros ativos, como [BTLG11](/fiis/btlg11), [XPLG11](/fiis/xplg11) e [GARE11](/fiis/gare11), outros FIIs de logística."
+      "answer": "O recurso de [comparação com índices no app](/recursos/comparacao-com-indices) permite comparar a rentabilidade do LVBI11 com o IFIX, que é o índice de referência para FIIs. Além disso, o recurso de [carteira consolidada no app](/recursos/carteira-consolidada) permite visualizar a alocação do LVBI11 junto a outros ativos, como [BTLG11](/fiis/btlg11), [XPLG11](/fiis/xplg11) e [GARE11](/fiis/gare11), outros FIIs de logística."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "proventos no StockBar",
+        "anchor": "proventos no app",
         "context": "Veja os rendimentos do LVBI11 com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
       },
       {
         "feature": "comparacao-com-indices",
-        "anchor": "comparação com índices no StockBar",
+        "anchor": "comparação com índices no app",
         "context": "Compare a rentabilidade do LVBI11 com o IFIX, CDI, Ibovespa e outros índices, no mesmo gráfico, para avaliar o desempenho relativo."
       },
       {
         "feature": "alertas-de-preco",
-        "anchor": "alertas de preço no StockBar",
+        "anchor": "alertas de preço no app",
         "context": "Configure notificações quando a cota do LVBI11 atinge níveis específicos, ajudando a monitorar a volatilidade e movimentos de preço."
       },
       {
         "feature": "carteira-consolidada",
-        "anchor": "carteira consolidada no StockBar",
+        "anchor": "carteira consolidada no app",
         "context": "Visualize a alocação do LVBI11 junto a outros ativos, como ações, renda fixa e outros FIIs, em uma única visão."
       },
       {
         "feature": "desempenho-e-preco-medio",
-        "anchor": "desempenho e preço médio no StockBar",
+        "anchor": "desempenho e preço médio no app",
         "context": "Acompanhe a evolução do preço e a rentabilidade da cota do LVBI11 ao longo do tempo, com a possibilidade de medir períodos específicos."
       }
     ],

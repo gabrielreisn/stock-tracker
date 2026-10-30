@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "MCCI11: FII de papel, dividendos e histórico",
     "description": "MCCI11 é um FII de papel do BTG Pactual com dividend yield de 13,35%. Veja estratégia, rendimentos, patrimônio e desempenho até 28/10/2026.",
@@ -20,6 +21,22 @@
     ]
   },
   "summary": "MCCI11 é a cota do Fundo de Investimento Imobiliário Mauá Capital Recebíveis Imobiliários, um FII de papel focado em CRIs (Certificados de Recebíveis Imobiliários) e operações de crédito imobiliário. Fundado em 2019 e administrado pelo BTG Pactual, o fundo busca estabilidade na distribuição de rendimentos. Em 28/10/2026, a cota valia R$ 89,90, com dividend yield de 13,35% nos últimos 12 meses e patrimônio de R$ 1,61 bilhão.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário Mauá Capital Recebíveis Imobiliários - FII Responsabilidade Limita",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO MAUÁ CAPITAL RECEBÍVEIS IMOBILIÁRIOS - FII RESPONSABILIDADE LIMITA",
+    "ticker": "BVMF MCCI11",
+    "isin": "BRMCCICTF008",
+    "taxId": "23.648.935/0001-84",
+    "foundingDate": "2019-08-21",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=23648935000184"
+    ]
+  },
   "profile": {
     "type": "FII de papel (CRI)",
     "issuerOrManager": "Mauá Capital Real Estate (gestora) / BTG Pactual Serviços Financeiros S.A",
@@ -183,7 +200,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do MCCI11",
-      "body": "Nos 12 meses até 28/10/2026, o MCCI11 distribuiu R$ 12,0000 por cota em 12 pagamentos, resultando em um dividend yield de 13,35% 0. O último pagamento foi de R$ 1,0000 em 14/10/2026 0. O relatório gerencial de outubro/2026 indica que a distribuição referente a setembro/2026 foi de R$ 1,00 por cota, com dividend yield anualizado de 13,4% 3. A gestão projeta manter a distribuição entre R$ 0,90 e R$ 1,00 por cota ao mês pelo menos até dezembro/2026 3. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. No [proventos do StockBar](/recursos/proventos), é possível acompanhar a data de pagamento e o valor dos rendimentos multiplicados pela sua quantidade de cotas."
+      "body": "Nos 12 meses até 28/10/2026, o MCCI11 distribuiu R$ 12,0000 por cota em 12 pagamentos, resultando em um dividend yield de 13,35% 0. O último pagamento foi de R$ 1,0000 em 14/10/2026 0. O relatório gerencial de outubro/2026 indica que a distribuição referente a setembro/2026 foi de R$ 1,00 por cota, com dividend yield anualizado de 13,4% 3. A gestão projeta manter a distribuição entre R$ 0,90 e R$ 1,00 por cota ao mês pelo menos até dezembro/2026 3. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. No [proventos do app](/recursos/proventos), é possível acompanhar a data de pagamento e o valor dos rendimentos multiplicados pela sua quantidade de cotas."
     },
     {
       "id": "emissoes",
@@ -193,12 +210,12 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do MCCI11",
-      "body": "A rentabilidade total com proventos do MCCI11 foi de 13,66% nos 12 meses até 28/10/2026, 40,91% em 3 anos e 59,77% em 5 anos 0. O relatório gerencial de outubro/2026 mostra que a performance a mercado + dividendos foi de 99,3% no início de 2026, 13,7% em 12 meses, 18,5% em 6 meses e 7,5% em 3 meses 3. O IFIX rendeu -0,5% em 12 meses e o CDI líquido (15% de alíquota) rendeu 8,9% no mesmo período 3. No [comparação com índices do StockBar](/recursos/comparacao-com-indices), é possível ver a rentabilidade do MCCI11 lado a lado com o IFIX e o CDI."
+      "body": "A rentabilidade total com proventos do MCCI11 foi de 13,66% nos 12 meses até 28/10/2026, 40,91% em 3 anos e 59,77% em 5 anos 0. O relatório gerencial de outubro/2026 mostra que a performance a mercado + dividendos foi de 99,3% no início de 2026, 13,7% em 12 meses, 18,5% em 6 meses e 7,5% em 3 meses 3. O IFIX rendeu -0,5% em 12 meses e o CDI líquido (15% de alíquota) rendeu 8,9% no mesmo período 3. No [comparação com índices do app](/recursos/comparacao-com-indices), é possível ver a rentabilidade do MCCI11 lado a lado com o IFIX e o CDI."
     },
     {
       "id": "riscos",
       "heading": "Riscos do MCCI11",
-      "body": "O MCCI11 é um FII de papel, sujeito a risco de crédito dos emissores dos CRIs e risco de inadimplência 3. A volatilidade anualizada de 12 meses é de 11,62%, nível baixo, e o beta contra o Ibovespa é 0,10, indicando baixa sensibilidade ao mercado acionário 0. A maior queda nos últimos 5 anos foi de -18,47%, do pico em 29/07/2024 ao ponto mais baixo em 19/12/2024 0. O fundo também está exposto ao risco de juros, pois a valorização dos CRIs é sensível às variações das taxas de NTN-Bs 3. No [alertas de preço do StockBar](/recursos/alertas-de-preco), é possível configurar notificações para acompanhar as oscilações da cota."
+      "body": "O MCCI11 é um FII de papel, sujeito a risco de crédito dos emissores dos CRIs e risco de inadimplência 3. A volatilidade anualizada de 12 meses é de 11,62%, nível baixo, e o beta contra o Ibovespa é 0,10, indicando baixa sensibilidade ao mercado acionário 0. A maior queda nos últimos 5 anos foi de -18,47%, do pico em 29/07/2024 ao ponto mais baixo em 19/12/2024 0. O fundo também está exposto ao risco de juros, pois a valorização dos CRIs é sensível às variações das taxas de NTN-Bs 3. No [alertas de preço do app](/recursos/alertas-de-preco), é possível configurar notificações para acompanhar as oscilações da cota."
     }
   ],
   "faq": [
@@ -231,7 +248,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "rendimentos de FIIs no StockBar",
+        "anchor": "rendimentos de FIIs no app",
         "context": "Veja os rendimentos do MCCI11 com data de pagamento, multiplicados pela sua quantidade de cotas."
       },
       {

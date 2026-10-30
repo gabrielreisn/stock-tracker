@@ -4,6 +4,7 @@
   "list": "us-etfs",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "SPY: ETF do S&P 500, histórico e desempenho",
     "description": "Conheça o SPY, o primeiro ETF dos EUA. Veja desempenho, dividendos, riscos e como investir no S&P 500 a partir do Brasil. Atualizado em 29/10/2026.",
@@ -20,6 +21,23 @@
     ]
   },
   "summary": "SPY é o State Street SPDR S&P 500 ETF Trust, o primeiro ETF lançado nos Estados Unidos, em 22/01/1993. O fundo busca replicar o desempenho do índice S&P 500, que reúne as 500 maiores empresas americanas por capitalização. Em 29/10/2026, a cota valia US$ 769,36, com rentabilidade total de 13,13% nos últimos 12 meses e dividend yield de 0,99%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street SPDR S&P 500 ETF Trust",
+    "ticker": "ARCX SPY",
+    "foundingDate": "1993-01-22",
+    "provider": {
+      "name": "State Street Investment Management",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/State_Street_Investment_Management"
+      ]
+    },
+    "wikidata": "Q17082716",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q17082716",
+      "https://en.wikipedia.org/wiki/SPDR_S%26P_500_ETF_Trust"
+    ]
+  },
   "profile": {
     "type": "ETF de índice",
     "issuerOrManager": "State Street Global Advisors",
@@ -114,7 +132,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada do SPY nos últimos 12 meses é de 12,71%, um nível considerado baixo para um ETF de ações. O beta de 1,00 contra o S&P 500 confirma que o fundo acompanha de perto a variação do índice. A maior queda em 5 anos foi de -24,50%, entre 03/01/2022 e 12/10/2022, refletindo o período de alta de juros e correção no mercado de tecnologia. Para monitorar oscilações de preço, os [alertas de preço](/recursos/alertas-de-preco) do StockBar podem notificar o investidor quando a cota atinge níveis específicos."
+    "explanation": "A volatilidade anualizada do SPY nos últimos 12 meses é de 12,71%, um nível considerado baixo para um ETF de ações. O beta de 1,00 contra o S&P 500 confirma que o fundo acompanha de perto a variação do índice. A maior queda em 5 anos foi de -24,50%, entre 03/01/2022 e 12/10/2022, refletindo o período de alta de juros e correção no mercado de tecnologia. Para monitorar oscilações de preço, os [alertas de preço](/recursos/alertas-de-preco) do app podem notificar o investidor quando a cota atinge níveis específicos."
   },
   "history": {
     "overview": "O SPY nasceu de uma colaboração entre a American Stock Exchange (AMEX) e a State Street para criar um produto que acompanhasse o S&P 500. Nathan Most e Steven Bloom, da AMEX, lideraram o desenvolvimento junto a State Street Bank, Spear, Leeds & Kellogg e Orrick, Herrington & Sutcliffe. O fundo iniciou as operações em 22/01/1993 com 150.000 cotas, iniciando as negociações na AMEX em 29/01/1993. A estrutura do fundo é de unit investment trust (UIT), o que significa que não possui gestor de portfólio ou conselho de administração tradicional, sendo administrado pela State Street Global Advisors Trust Company. Em 2024, o SPY tornou-se o primeiro ETF a ultrapassar US$ 500 bilhões e, em seguida, US$ 600 bilhões em ativos sob gestão. Em fevereiro de 2025, o VOO da Vanguard superou o SPY em tamanho, mas o SPY mantém o maior volume diário de negociação entre os ETFs.",
@@ -175,7 +193,7 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do SPY",
-      "body": "Até 29/10/2026, a cota do SPY valia US$ 769,36. A rentabilidade total com proventos foi de 13,13% nos últimos 12 meses, 91,96% em 3 anos, 79,11% em 5 anos e 323,85% em 10 anos. O fundo distribuiu US$ 7,5830 por cota em 4 pagamentos no período de 12 meses, resultando em um dividend yield de 0,99%. O último pagamento foi de US$ 1,8890 em 18/09/2026. Para acompanhar a evolução do seu investimento, utilize a [comparação com índices](/recursos/comparacao-com-indices) no StockBar, que permite medir o desempenho do SPY ao lado do próprio S&P 500."
+      "body": "Até 29/10/2026, a cota do SPY valia US$ 769,36. A rentabilidade total com proventos foi de 13,13% nos últimos 12 meses, 91,96% em 3 anos, 79,11% em 5 anos e 323,85% em 10 anos. O fundo distribuiu US$ 7,5830 por cota em 4 pagamentos no período de 12 meses, resultando em um dividend yield de 0,99%. O último pagamento foi de US$ 1,8890 em 18/09/2026. Para acompanhar a evolução do seu investimento, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite medir o desempenho do SPY ao lado do próprio S&P 500."
     },
     {
       "id": "riscos",
@@ -194,7 +212,7 @@
     },
     {
       "question": "O SPY paga dividendos?",
-      "answer": "Sim, o SPY distribui dividendos aos cotistas. Nos 12 meses até 29/10/2026, foram distribuídos US$ 7,5830 por cota em 4 pagamentos, resultando em um dividend yield de 0,99%. O último pagamento foi de US$ 1,8890 em 18/09/2026. Você pode acompanhar os proventos na [carteira consolidada](/recursos/carteira-consolidada) do StockBar."
+      "answer": "Sim, o SPY distribui dividendos aos cotistas. Nos 12 meses até 29/10/2026, foram distribuídos US$ 7,5830 por cota em 4 pagamentos, resultando em um dividend yield de 0,99%. O último pagamento foi de US$ 1,8890 em 18/09/2026. Você pode acompanhar os proventos na [carteira consolidada](/recursos/carteira-consolidada) do app."
     },
     {
       "question": "Como investir no SPY a partir do Brasil?",

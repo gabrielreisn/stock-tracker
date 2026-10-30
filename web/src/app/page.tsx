@@ -1,69 +1,86 @@
-import Image from "next/image";
+import type { Metadata } from "next";
+import Link from "next/link";
+import catalog from "@/data/app-features.json";
+import brStocks from "@/data/assets/br-stocks.json";
+import fiis from "@/data/assets/fiis.json";
+import usETFs from "@/data/assets/us-etfs.json";
+import { assetPaths, assetSlugs, listNames, type AssetList } from "@/lib/assets";
+import { jsonLd, organization, softwareApplication, webPage, website } from "@/lib/json-ld";
+import { siteUrl } from "@/lib/site";
 
-export default function Home() {
+const title = "Sua carteira de investimentos no Mac";
+const description = "App de Mac para acompanhar ações da B3 e dos EUA, FIIs, ETFs, renda fixa e gastos, com Open Finance, alertas de preço e assistente de IA.";
+
+export const metadata: Metadata = {
+  title: { absolute: title },
+  description,
+  alternates: { canonical: "/" },
+  openGraph: { title, description, url: "/", type: "website" },
+};
+
+const rankings: Record<AssetList, typeof brStocks> = { "br-stocks": brStocks, fiis, "us-etfs": usETFs };
+
+export default async function Home() {
+  const lists = await Promise.all((["br-stocks", "fiis", "us-etfs"] as const).map(async (list) => {
+    const withPage = new Set(await assetSlugs(list));
+    return { list, assets: rankings[list].assets.filter((a) => withPage.has(a.slug)).slice(0, 10) };
+  }));
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <main className="mx-auto w-full max-w-5xl px-4 py-12 sm:px-6">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{
+        __html: jsonLd([organization, website, softwareApplication, webPage(`${siteUrl}/`, { name: title, description, about: { "@id": softwareApplication["@id"] } })]),
+      }} />
+
+      <section className="max-w-3xl">
+        <h1 className="text-5xl font-bold tracking-tight">Sua carteira inteira, no Mac</h1>
+        <p className="mt-5 text-xl leading-8 text-zinc-700 dark:text-zinc-300">
+          Um app que reúne ações da B3 e dos EUA, FIIs, ETFs, renda fixa, fundos e gastos numa janela só, e na barra
+          de menus.
+        </p>
+        <div className="mt-8 flex flex-wrap gap-3">
+          <Link href="/download" className="rounded-lg bg-zinc-900 px-5 py-3 font-semibold text-white hover:bg-zinc-700 dark:bg-white dark:text-zinc-900 dark:hover:bg-zinc-200">Baixar para Mac</Link>
+          <Link href="/recursos" className="rounded-lg border border-zinc-300 px-5 py-3 font-semibold hover:border-zinc-500 dark:border-zinc-700">Ver recursos</Link>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </section>
+
+      <section className="mt-16">
+        <h2 className="text-2xl font-semibold tracking-tight">O que o app faz</h2>
+        <ul className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {catalog.features.slice(0, 9).map((f) => (
+            <li key={f.slug}>
+              <Link href={f.path} className="block h-full rounded-xl border border-zinc-200 p-5 hover:border-zinc-400 dark:border-zinc-800 dark:hover:border-zinc-600">
+                <h3 className="font-semibold">{f.name}</h3>
+                <p className="mt-1 text-[0.95rem] text-zinc-600 dark:text-zinc-400">{f.summary}</p>
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="mt-16">
+        <h2 className="text-2xl font-semibold tracking-tight">Os ativos mais negociados</h2>
+        <p className="mt-2 max-w-3xl text-zinc-600 dark:text-zinc-400">
+          História, proventos, volatilidade e fontes oficiais de cada ativo. Veja como as páginas são feitas na{" "}
+          <Link href="/metodologia" className="underline underline-offset-2">metodologia</Link>.
+        </p>
+        <div className="mt-6 grid gap-8 sm:grid-cols-3">
+          {lists.map(({ list, assets }) => (
+            <div key={list}>
+              <h3 className="font-semibold"><Link href={assetPaths[list]} className="hover:underline">{listNames[list]}</Link></h3>
+              <ul className="mt-3 space-y-1.5 text-[0.95rem]">
+                {assets.map((a) => (
+                  <li key={a.ticker}>
+                    <Link href={`${assetPaths[list]}/${a.slug}`} className="font-medium text-emerald-700 hover:underline dark:text-emerald-400">{a.ticker}</Link>
+                    <span className="text-zinc-500"> {a.name}</span>
+                  </li>
+                ))}
+              </ul>
+              <Link href={assetPaths[list]} className="mt-3 inline-block text-sm underline underline-offset-2">{list === "br-stocks" ? "Todas as ações" : `Todos os ${listNames[list]}`}</Link>
+            </div>
+          ))}
         </div>
-      </main>
-    </div>
+      </section>
+    </main>
   );
 }

@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "TGAR11: história, dividendos e volatilidade",
     "description": "Conheça o FII TG Ativo Real (TGAR11): patrimônio de R$ 2,54 bilhões, dividend yield de 23,39% e volatilidade de 37,52% em 12 meses.",
@@ -21,6 +22,23 @@
     ]
   },
   "summary": "TGAR11 é a cota do Fundo de Investimento Imobiliário TG Ativo Real, um FII multiestratégia com gestão ativa da TG Core Asset e administração da Vórtx DTVM. Inaugurado em 09/12/2016, o fundo investe em ativos imobiliários e financeiros imobiliários. Em 09/2026, o patrimônio líquido era de R$ 2,54 bilhões, com 123.842 cotistas e valor patrimonial da cota de R$ 107,80. A cota fechou a R$ 40,32 em 28/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário Tg Ativo Real",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO TG ATIVO REAL",
+    "ticker": "BVMF TGAR11",
+    "isin": "BRTGARCTF009",
+    "taxId": "25.032.881/0001-53",
+    "foundingDate": "2016-12-09",
+    "website": "https://www.tgar11.com.br",
+    "provider": {
+      "name": "VÓRTX DTVM LTDA",
+      "url": "https://www.vortx.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=25032881000153"
+    ]
+  },
   "profile": {
     "type": "FII multiestratégia (híbrido)",
     "issuerOrManager": "TG Core Asset (gestora) / Vórtx (administradora e escrituradora/custodiante) [3]",
@@ -184,7 +202,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do TGAR11",
-      "body": "Nos 12 meses até 28/10/2026, o TGAR11 distribuiu R$ 9,4300 por cota em 12 pagamentos, resultando em dividend yield de 23,39% 0. O último provento foi de R$ 0,7000 em 01/10/2026 0. O relatório gerencial de 09/2026 informa dividend yield mensal de 0,66% 1. A tributação dos rendimentos distribuídos pode ser isenta de Imposto de Renda para pessoas físicas com participação inferior a 10% do total de cotas, desde que o fundo possua no mínimo 100 cotistas e suas cotas sejam negociadas em bolsa, conforme a Lei nº 11.196/2005, alterada pela Lei nº 14.754/2023 3. Ganhos com alienação de cotas estão sujeitos à alíquota de 20% 3. Acompanhe os [dividendos e JCP no StockBar](/recursos/proventos) para ver os rendimentos multiplicados pela sua quantidade."
+      "body": "Nos 12 meses até 28/10/2026, o TGAR11 distribuiu R$ 9,4300 por cota em 12 pagamentos, resultando em dividend yield de 23,39% 0. O último provento foi de R$ 0,7000 em 01/10/2026 0. O relatório gerencial de 09/2026 informa dividend yield mensal de 0,66% 1. A tributação dos rendimentos distribuídos pode ser isenta de Imposto de Renda para pessoas físicas com participação inferior a 10% do total de cotas, desde que o fundo possua no mínimo 100 cotistas e suas cotas sejam negociadas em bolsa, conforme a Lei nº 11.196/2005, alterada pela Lei nº 14.754/2023 3. Ganhos com alienação de cotas estão sujeitos à alíquota de 20% 3. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para ver os rendimentos multiplicados pela sua quantidade."
     },
     {
       "id": "emissoes",
@@ -209,7 +227,7 @@
     },
     {
       "question": "Qual o dividend yield do TGAR11?",
-      "answer": "O dividend yield dos 12 meses até 28/10/2026 foi de 23,39%, com R$ 9,4300 distribuídos por cota 0. O relatório gerencial de 09/2026 informa dividend yield mensal de 0,66% 1. Acompanhe os [proventos no StockBar](/recursos/proventos) para ver os pagamentos com data de pagamento."
+      "answer": "O dividend yield dos 12 meses até 28/10/2026 foi de 23,39%, com R$ 9,4300 distribuídos por cota 0. O relatório gerencial de 09/2026 informa dividend yield mensal de 0,66% 1. Acompanhe os [proventos no app](/recursos/proventos) para ver os pagamentos com data de pagamento."
     },
     {
       "question": "Quem é a gestora do TGAR11?",
@@ -236,7 +254,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os rendimentos do TGAR11 com data de pagamento, multiplicados pela sua quantidade."
       },
       {

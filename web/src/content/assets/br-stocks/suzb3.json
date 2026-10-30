@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "SUZB3: história, dividendos e volatilidade",
     "description": "SUZB3 é a ação ordinária da Suzano S.A., maior produtora mundial de celulose. Veja rentabilidade, dividendos, volatilidade e a história da empresa desde",
@@ -21,6 +22,25 @@
     ]
   },
   "summary": "SUZB3 é a ação ordinária da Suzano S.A., a maior produtora mundial de celulose de mercado, com sede em Salvador (BA). A empresa opera no segmento de Papel e Celulose, sendo resultado da fusão com a Fibria em 2019. Em 29/10/2026, a ação estava cotada a R$ 49,72, com rentabilidade total de 3,47% nos últimos 12 meses e dividend yield de 2,25%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Suzano S.A.",
+    "legalName": "SUZANO S.A.",
+    "ticker": "BVMF SUZB3",
+    "isin": "BRSUZBACNOR0",
+    "taxId": "16.404.287/0001-55",
+    "foundingDate": "1987-12-08",
+    "address": {
+      "locality": "Salvador",
+      "region": "BA",
+      "country": "BR"
+    },
+    "website": "https://www.suzano.com.br/ri",
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/Suzano_Papel_e_Celulose",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/13986/SUZB/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Suzano S.A.",
     "legalName": "SUZANO S.A.",
@@ -229,23 +249,23 @@
     {
       "id": "proventos",
       "heading": "SUZB3 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a SUZB3 distribuiu R$ 1,1211 por ação em 2 pagamentos, resultando em dividend yield de 2,25% 0. O último pagamento foi de R$ 0,0046 em 30/04/2026. Em dezembro de 2025, a empresa divulgou projeção de Distribuição de Lucros (DTO) 10, e em fevereiro de 2026 anunciou um Novo Programa de Recompra de ações 7. Os proventos podem ser acompanhados com o recurso de [dividendos e JCP no StockBar](/recursos/proventos), que lista as datas de competência e pagamento, multiplicadas pela quantidade de ações na carteira."
+      "body": "Nos 12 meses até 29/10/2026, a SUZB3 distribuiu R$ 1,1211 por ação em 2 pagamentos, resultando em dividend yield de 2,25% 0. O último pagamento foi de R$ 0,0046 em 30/04/2026. Em dezembro de 2025, a empresa divulgou projeção de Distribuição de Lucros (DTO) 10, e em fevereiro de 2026 anunciou um Novo Programa de Recompra de ações 7. Os proventos podem ser acompanhados com o recurso de [dividendos e JCP no app](/recursos/proventos), que lista as datas de competência e pagamento, multiplicadas pela quantidade de ações na carteira."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da SUZB3",
-      "body": "Até 29/10/2026, a SUZB3 apresentava rentabilidade total com proventos de 3,47% em 12 meses, 3,94% em 3 anos, 15,66% em 5 anos e 192,01% em 10 anos 0. O volume médio negociado por dia nos últimos 3 meses foi de R$ 348,7 milhões. A rentabilidade pode ser comparada com índices como o Ibovespa e o CDI pelo recurso de [comparação com índices](/recursos/comparacao-com-indices) do StockBar, que mostra a performance da carteira lado a lado com esses benchmarks no mesmo gráfico."
+      "body": "Até 29/10/2026, a SUZB3 apresentava rentabilidade total com proventos de 3,47% em 12 meses, 3,94% em 3 anos, 15,66% em 5 anos e 192,01% em 10 anos 0. O volume médio negociado por dia nos últimos 3 meses foi de R$ 348,7 milhões. A rentabilidade pode ser comparada com índices como o Ibovespa e o CDI pelo recurso de [comparação com índices](/recursos/comparacao-com-indices) do app, que mostra a performance da carteira lado a lado com esses benchmarks no mesmo gráfico."
     },
     {
       "id": "riscos",
       "heading": "Riscos da SUZB3",
-      "body": "A volatilidade anualizada da SUZB3 nos últimos 12 meses foi de 30,37%, classificada como nível alto 0. O beta contra o Ibovespa no mesmo período foi de -0,09, indicando correlação negativa com o índice. A maior queda nos últimos 5 anos foi de -38,01%, do pico em 18/03/2022 ao ponto mais baixo em 27/04/2023. A empresa opera no setor de Materiais Básicos, segmento Papel e Celulose, que é cíclico e sensível a flutuações de preços globais de celulose e papel. Há também controvérsias socioambientais, incluindo conflitos de terra com comunidades quilombolas, indígenas e pequenos agricultores na Bahia, Espírito Santo e Maranhão 3. A volatilidade e os movimentos de preço podem ser monitorados com [alertas de preço](/recursos/alertas-de-preco) no StockBar, que notificam quando o ativo atinge um valor definido."
+      "body": "A volatilidade anualizada da SUZB3 nos últimos 12 meses foi de 30,37%, classificada como nível alto 0. O beta contra o Ibovespa no mesmo período foi de -0,09, indicando correlação negativa com o índice. A maior queda nos últimos 5 anos foi de -38,01%, do pico em 18/03/2022 ao ponto mais baixo em 27/04/2023. A empresa opera no setor de Materiais Básicos, segmento Papel e Celulose, que é cíclico e sensível a flutuações de preços globais de celulose e papel. Há também controvérsias socioambientais, incluindo conflitos de terra com comunidades quilombolas, indígenas e pequenos agricultores na Bahia, Espírito Santo e Maranhão 3. A volatilidade e os movimentos de preço podem ser monitorados com [alertas de preço](/recursos/alertas-de-preco) no app, que notificam quando o ativo atinge um valor definido."
     }
   ],
   "faq": [
     {
       "question": "SUZB3 paga dividendos?",
-      "answer": "Sim. Nos 12 meses até 29/10/2026, a SUZB3 distribuiu R$ 1,1211 por ação em 2 pagamentos, com dividend yield de 2,25% 0. O último pagamento foi de R$ 0,0046 em 30/04/2026. A empresa também anunciou um Novo Programa de Recompra em fevereiro de 2026 7. Os pagamentos podem ser acompanhados pelo recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim. Nos 12 meses até 29/10/2026, a SUZB3 distribuiu R$ 1,1211 por ação em 2 pagamentos, com dividend yield de 2,25% 0. O último pagamento foi de R$ 0,0046 em 30/04/2026. A empresa também anunciou um Novo Programa de Recompra em fevereiro de 2026 7. Os pagamentos podem ser acompanhados pelo recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre SUZB3 e ações preferenciais?",
@@ -261,7 +281,7 @@
     },
     {
       "question": "Qual a rentabilidade da SUZB3 nos últimos 10 anos?",
-      "answer": "A rentabilidade total com proventos da SUZB3 em 10 anos até 29/10/2026 foi de 192,01% 0. Em 5 anos, foi de 15,66%; em 3 anos, 3,94%; e em 12 meses, 3,47%. A performance pode ser comparada com o Ibovespa e o CDI pelo recurso de [comparação com índices](/recursos/comparacao-com-indices) do StockBar."
+      "answer": "A rentabilidade total com proventos da SUZB3 em 10 anos até 29/10/2026 foi de 192,01% 0. Em 5 anos, foi de 15,66%; em 3 anos, 3,94%; e em 12 meses, 3,47%. A performance pode ser comparada com o Ibovespa e o CDI pelo recurso de [comparação com índices](/recursos/comparacao-com-indices) do app."
     },
     {
       "question": "A Suzano tem ações nos Estados Unidos?",
@@ -272,7 +292,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da SUZB3 com data de competência e data de pagamento, multiplicados pela sua quantidade de ações."
       },
       {

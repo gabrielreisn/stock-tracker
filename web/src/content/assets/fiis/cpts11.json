@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "CPTS11: FII híbrido, dividendos e patrimônio",
     "description": "CPTS11 é um FII híbrido com CRIs e FIIs, patrimônio de R$ 3,04 bilhões e dividend yield de 15,43%.",
@@ -20,6 +21,22 @@
     ]
   },
   "summary": "CPTS11 é o Capitânia Securities II Fundo de Investimento Imobiliário Responsabilidade Limitada, um FII híbrido que investe em Certificados de Recebíveis Imobiliários (CRIs) e em outros fundos imobiliários. Fundado em 07/08/2014, possui patrimônio líquido de R$ 3,04 bilhões e 397.804 cotistas em 09/2026. A cota fechou a R$ 7,00 em 28/10/2026, com dividend yield de 15,43% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Capitânia Securities II Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF CPTS11",
+    "isin": "BRCPTSCTF004",
+    "taxId": "18.979.895/0001-13",
+    "foundingDate": "2014-08-07",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=18979895000113"
+    ]
+  },
   "profile": {
     "type": "FII híbrido (CRI e FIIs)",
     "issuerOrManager": "Capitânia Investimentos (gestora), BTG Pactual Serviços Financeiros S.A",
@@ -142,7 +159,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada de 12 meses do CPTS11 é de 12,50%, classificada como nível baixo 0. O beta de 12 meses contra o Ibovespa é de 0,24, indicando sensibilidade reduzida ao índice 0. A maior queda em 5 anos foi de -38,17%, do pico em 13/08/2024 ao ponto mais baixo em 18/12/2024 0. Para um FII híbrido com exposição a CRIs e FIIs, essa volatilidade é compatível com a sensibilidade a juros e à valorização de ativos. No StockBar, os [alertas de preço](/recursos/alertas-de-preco) permitem configurar notificações quando a cota atinge níveis específicos."
+    "explanation": "A volatilidade anualizada de 12 meses do CPTS11 é de 12,50%, classificada como nível baixo 0. O beta de 12 meses contra o Ibovespa é de 0,24, indicando sensibilidade reduzida ao índice 0. A maior queda em 5 anos foi de -38,17%, do pico em 13/08/2024 ao ponto mais baixo em 18/12/2024 0. Para um FII híbrido com exposição a CRIs e FIIs, essa volatilidade é compatível com a sensibilidade a juros e à valorização de ativos. No app, os [alertas de preço](/recursos/alertas-de-preco) permitem configurar notificações quando a cota atinge níveis específicos."
   },
   "history": {
     "overview": "O Capitânia Securities II FII (CPTS11) iniciou suas atividades em 07/08/2014, com o objetivo de atuar no mercado de fundos imobiliários com gestão ativa. O fundo é administrado pela BTG Pactual Serviços Financeiros S.A. e gerido pela Capitânia Investimentos [1, 3]. Ao longo de sua história, o CPTS11 realizou múltiplas ofertas públicas de distribuição de cotas para captar recursos e expandir sua carteira. O FNET registra 761 documentos publicados desde 10/06/2016 e 6 ofertas públicas encerradas, com início de novas emissões em 2018, 2020, 2025 e 2026 2. Em 13/01/2026, a gestora aprovou a 15ª emissão de cotas, com montante inicial de R$ 300.000.001,28 e preço de emissão de R$ 8,96 por cota [4, 5]. O perfil do fundo é classificado pela ANBIMA como Papel Híbrido Gestão Ativa, refletindo sua estratégia de diversificação entre renda fixa imobiliária e fundos de tijolo e papel 3.",
@@ -183,7 +200,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do CPTS11",
-      "body": "Nos 12 meses até 28/10/2026, o CPTS11 distribuiu R$ 1,0800 por cota em 12 pagamentos, resultando em dividend yield de 15,43% 0. O último pagamento foi de R$ 0,0900 em 16/10/2026 0. O relatório gerencial de 31/08/2026 indica que o dividendo mensal foi de R$ 0,090 por cota, com dividend yield de 15,46% nos últimos 12 meses 3. O relatório menciona que a taxa líquida de IPCA + 11,10% a.a. é isenta de imposto de renda nos dividendos 3. No StockBar, é possível acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) com data de pagamento e multiplicados pela quantidade de cotas."
+      "body": "Nos 12 meses até 28/10/2026, o CPTS11 distribuiu R$ 1,0800 por cota em 12 pagamentos, resultando em dividend yield de 15,43% 0. O último pagamento foi de R$ 0,0900 em 16/10/2026 0. O relatório gerencial de 31/08/2026 indica que o dividendo mensal foi de R$ 0,090 por cota, com dividend yield de 15,46% nos últimos 12 meses 3. O relatório menciona que a taxa líquida de IPCA + 11,10% a.a. é isenta de imposto de renda nos dividendos 3. No app, é possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data de pagamento e multiplicados pela quantidade de cotas."
     },
     {
       "id": "emissoes",
@@ -193,12 +210,12 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do CPTS11",
-      "body": "A rentabilidade total com proventos do CPTS11 foi de 6,00% em 12 meses, -1,58% em 3 anos e 14,37% em 5 anos, até 28/10/2026 0. O relatório gerencial de 31/08/2026 mostra que o retorno acumulado do CPTS a mercado foi de 235,1% (10,6% a.a.), enquanto o IFIX foi de 169,2% (8,6% a.a.) e o CDI de 215,7% (10,0% a.a.) 3. A TIR da carteira de CRIs desde o início é de 12,2% a.a., versus 7,6% do IMA-B, e a TIR da carteira de FIIs é de 11,0% a.a., versus 7,1% do IFIX 3. No StockBar, a [comparação com índices](/recursos/comparacao-com-indices) permite ver a rentabilidade do CPTS11 lado a lado com o IFIX, CDI e IPCA."
+      "body": "A rentabilidade total com proventos do CPTS11 foi de 6,00% em 12 meses, -1,58% em 3 anos e 14,37% em 5 anos, até 28/10/2026 0. O relatório gerencial de 31/08/2026 mostra que o retorno acumulado do CPTS a mercado foi de 235,1% (10,6% a.a.), enquanto o IFIX foi de 169,2% (8,6% a.a.) e o CDI de 215,7% (10,0% a.a.) 3. A TIR da carteira de CRIs desde o início é de 12,2% a.a., versus 7,6% do IMA-B, e a TIR da carteira de FIIs é de 11,0% a.a., versus 7,1% do IFIX 3. No app, a [comparação com índices](/recursos/comparacao-com-indices) permite ver a rentabilidade do CPTS11 lado a lado com o IFIX, CDI e IPCA."
     },
     {
       "id": "riscos",
       "heading": "Riscos do CPTS11",
-      "body": "Os riscos do CPTS11 incluem risco de crédito, já que a carteira de CRIs é 100% adimplente e de perfil high grade, mas sujeita a inadimplência 3. O risco de juros é relevante, pois a marcação a mercado da carteira de CRIs é sensível à curva de títulos públicos, com MTM IPCA + 8,79% em 31/08/2026 3. O risco de vacância e de valorização de ativos afeta a carteira de FIIs, que representa 69,6% dos ativos 3. A volatilidade anualizada de 12 meses é de 12,50%, nível baixo, e o beta contra o Ibovespa é de 0,24 0. A maior queda em 5 anos foi de -38,17%, do pico em 13/08/2024 ao ponto mais baixo em 18/12/2024 0. No StockBar, os [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar movimentos de cotação."
+      "body": "Os riscos do CPTS11 incluem risco de crédito, já que a carteira de CRIs é 100% adimplente e de perfil high grade, mas sujeita a inadimplência 3. O risco de juros é relevante, pois a marcação a mercado da carteira de CRIs é sensível à curva de títulos públicos, com MTM IPCA + 8,79% em 31/08/2026 3. O risco de vacância e de valorização de ativos afeta a carteira de FIIs, que representa 69,6% dos ativos 3. A volatilidade anualizada de 12 meses é de 12,50%, nível baixo, e o beta contra o Ibovespa é de 0,24 0. A maior queda em 5 anos foi de -38,17%, do pico em 13/08/2024 ao ponto mais baixo em 18/12/2024 0. No app, os [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar movimentos de cotação."
     }
   ],
   "faq": [
@@ -208,7 +225,7 @@
     },
     {
       "question": "CPTS11 paga dividendos?",
-      "answer": "Sim, CPTS11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram R$ 1,0800 por cota em 12 pagamentos, com dividend yield de 15,43% 0. O último pagamento foi de R$ 0,0900 em 16/10/2026 0. No StockBar, os [dividendos e JCP no StockBar](/recursos/proventos) mostram a data de pagamento e o valor multiplicado pela quantidade de cotas."
+      "answer": "Sim, CPTS11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram R$ 1,0800 por cota em 12 pagamentos, com dividend yield de 15,43% 0. O último pagamento foi de R$ 0,0900 em 16/10/2026 0. No app, os [dividendos e JCP no app](/recursos/proventos) mostram a data de pagamento e o valor multiplicado pela quantidade de cotas."
     },
     {
       "question": "Qual a taxa de administração do CPTS11?",
@@ -223,15 +240,15 @@
       "answer": "Sim, mas o perfil de crédito do fundo é high grade e a carteira de CRIs é 100% adimplente, sem operações estressadas em 31/08/2026 3. O risco de crédito é inerente a fundos de papel, mas o CPTS11 mantém devedores listados em 88% dos CRIs 3."
     },
     {
-      "question": "Como acompanhar o CPTS11 no StockBar?",
-      "answer": "No StockBar, é possível usar a [carteira consolidada](/recursos/carteira-consolidada) para ver o CPTS11 junto a outros ativos, o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para acompanhar a rentabilidade, e o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a posição em português."
+      "question": "Como acompanhar o CPTS11 no app?",
+      "answer": "No app, é possível usar a [carteira consolidada](/recursos/carteira-consolidada) para ver o CPTS11 junto a outros ativos, o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para acompanhar a rentabilidade, e o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a posição em português."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos do CPTS11 com data de pagamento, multiplicados pela sua quantidade de cotas."
       },
       {

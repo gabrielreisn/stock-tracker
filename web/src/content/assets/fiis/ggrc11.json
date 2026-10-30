@@ -4,6 +4,7 @@
   "list": "fiis",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "GGRC11: história, dividendos e volatilidade",
     "description": "GGRC11 é FII de tijolo multicategoria com R$ 3,78 bilhões em patrimônio. Veja dividendos, desempenho e riscos do Zagros Renda Imobiliário.",
@@ -20,6 +21,22 @@
     ]
   },
   "summary": "GGRC11 é a cota do Zagros Renda Imobiliário FII, um fundo de investimento imobiliário de gestão ativa e segmento multicategoria, administrado pela Vórtx DTVM. Com patrimônio de R$ 3,78 bilhões em 09/2026, o fundo investe prioritariamente em imóveis comerciais prontos ou em construção, com foco em logística e locação atípica. No período de 12 meses até 28/10/2026, a cota registrou rentabilidade total de -3,77%, com dividend yield de 14,10%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Zagros Renda Imobiliária Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "ZAGROS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF GGRC11",
+    "isin": "BRGGRCCTF002",
+    "taxId": "26.614.291/0001-00",
+    "foundingDate": "2017-04-28",
+    "provider": {
+      "name": "VÓRTX DTVM LTDA",
+      "url": "https://www.vortx.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=26614291000100"
+    ]
+  },
   "profile": {
     "type": "FII de tijolo, multicategoria",
     "issuerOrManager": "Vórtx DTVM Ltda (administrador) / Vórtx Investimentos (gestora, conforme site institucional citado no dossiê, embora o C",
@@ -142,7 +159,7 @@
   },
   "volatility": {
     "level": "baixa",
-    "explanation": "A volatilidade anualizada do GGRC11 nos 12 meses até 28/10/2026 é de 10,82%, classificada como baixa. O beta contra o Ibovespa é 0,24, indicando baixa correlação com o índice acionário. A maior queda em 5 anos foi de -17,89%, entre 21/10/2022 e 19/01/2023, período que coincide com a alta de juros no Brasil. Para FIIs de tijolo, essa volatilidade é considerada moderada, refletindo a exposição a imóveis logísticos e comerciais. O [alertas de preço](/recursos/alertas-de-preco) do StockBar permite definir níveis de compra ou venda para acompanhar esses movimentos."
+    "explanation": "A volatilidade anualizada do GGRC11 nos 12 meses até 28/10/2026 é de 10,82%, classificada como baixa. O beta contra o Ibovespa é 0,24, indicando baixa correlação com o índice acionário. A maior queda em 5 anos foi de -17,89%, entre 21/10/2022 e 19/01/2023, período que coincide com a alta de juros no Brasil. Para FIIs de tijolo, essa volatilidade é considerada moderada, refletindo a exposição a imóveis logísticos e comerciais. O [alertas de preço](/recursos/alertas-de-preco) do app permite definir níveis de compra ou venda para acompanhar esses movimentos."
   },
   "history": {
     "overview": "O Zagros Renda Imobiliário FII (GGRC11) iniciou suas atividades em 28/04/2017, com a primeira oferta pública de cotas encerrada em 02/05/2017. Desde então, o fundo consolidou-se como um dos maiores do mercado em termos de patrimônio, atingindo R$ 3,78 bilhões em 09/2026, com mais de 423 mil cotistas. A estratégia do fundo é de gestão ativa, focada em imóveis comerciais, com ênfase em empreendimentos logísticos de padrão Triple A e contratos de locação atípica (built to suit, retrofit ou sale and leaseback). A carteira possui 1 milhão de m² de área bruta locável e 49 inquilinos, com WAULT de 4,47 anos, conforme relatório gerencial de 30/09/2026. Em 2026, o fundo realizou aquisições relevantes, como o Condomínio Raposo/Sanca em São Paulo e um galpão logístico em Camaçari/BA, ambos integrados à 11ª emissão de cotas. O fundo já realizou 16 ofertas públicas de cotas encerradas, demonstrando capacidade de captação contínua.",
@@ -208,7 +225,7 @@
     {
       "id": "rendimentos",
       "heading": "Rendimentos do GGRC11",
-      "body": "Nos 12 meses até 28/10/2026, o GGRC11 distribuiu R$ 1,2000 por cota em 12 pagamentos, resultando em dividend yield de 14,10%. O último pagamento foi de R$ 0,1000 em 02/10/2026. O informe mensal da CVM de 09/2026 indica dividend yield de 0,90% para o mês. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Acompanhe os proventos do GGRC11 com [dividendos e JCP no StockBar](/recursos/proventos), que mostra as datas de pagamento e o valor total recebido."
+      "body": "Nos 12 meses até 28/10/2026, o GGRC11 distribuiu R$ 1,2000 por cota em 12 pagamentos, resultando em dividend yield de 14,10%. O último pagamento foi de R$ 0,1000 em 02/10/2026. O informe mensal da CVM de 09/2026 indica dividend yield de 0,90% para o mês. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Acompanhe os proventos do GGRC11 com [dividendos e JCP no app](/recursos/proventos), que mostra as datas de pagamento e o valor total recebido."
     },
     {
       "id": "emissoes",
@@ -218,7 +235,7 @@
     {
       "id": "desempenho",
       "heading": "Desempenho do GGRC11",
-      "body": "A rentabilidade total do GGRC11, com proventos, foi de -3,77% em 12 meses, 5,03% em 3 anos e 25,03% em 5 anos, até 28/10/2026. A volatilidade anualizada de 12 meses é de 10,82%, nível baixo, e o beta contra o Ibovespa é 0,24. Compare o desempenho do GGRC11 com o IFIX e o CDI no [comparação com índices](/recursos/comparacao-com-indices) do StockBar, que mostra a rentabilidade lado a lado com os principais benchmarks."
+      "body": "A rentabilidade total do GGRC11, com proventos, foi de -3,77% em 12 meses, 5,03% em 3 anos e 25,03% em 5 anos, até 28/10/2026. A volatilidade anualizada de 12 meses é de 10,82%, nível baixo, e o beta contra o Ibovespa é 0,24. Compare o desempenho do GGRC11 com o IFIX e o CDI no [comparação com índices](/recursos/comparacao-com-indices) do app, que mostra a rentabilidade lado a lado com os principais benchmarks."
     },
     {
       "id": "riscos",
@@ -229,7 +246,7 @@
   "faq": [
     {
       "question": "GGRC11 paga dividendos?",
-      "answer": "Sim, o GGRC11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram R$ 1,2000 por cota, com dividend yield de 14,10%. O último pagamento foi de R$ 0,1000 em 02/10/2026. Veja os detalhes no [proventos](/recursos/proventos) do StockBar."
+      "answer": "Sim, o GGRC11 distribui rendimentos mensais. Nos 12 meses até 28/10/2026, foram R$ 1,2000 por cota, com dividend yield de 14,10%. O último pagamento foi de R$ 0,1000 em 02/10/2026. Veja os detalhes no [proventos](/recursos/proventos) do app."
     },
     {
       "question": "Qual a diferença entre GGRC11 e outros FIIs de logística?",
@@ -249,14 +266,14 @@
     },
     {
       "question": "Como acompanhar o desempenho do GGRC11?",
-      "answer": "Use o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do StockBar para ver a rentabilidade da cota e o preço médio da sua posição. O [comparação com índices](/recursos/comparacao-com-indices) mostra o GGRC11 lado a lado com o IFIX e o CDI."
+      "answer": "Use o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app para ver a rentabilidade da cota e o preço médio da sua posição. O [comparação com índices](/recursos/comparacao-com-indices) mostra o GGRC11 lado a lado com o IFIX e o CDI."
     }
   ],
   "internalLinks": {
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os proventos do GGRC11 com data de pagamento e valor total, multiplicado pela sua quantidade de cotas."
       },
       {

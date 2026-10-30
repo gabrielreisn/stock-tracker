@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "CYRE3: história, dividendos e volatilidade",
     "description": "Conheça a Cyrela Brazil Realty, a maior incorporadora do Brasil. Veja dividendos, volatilidade de 78,93% e rentabilidade de 172,74% em 10 anos até",
@@ -21,6 +22,28 @@
     ]
   },
   "summary": "CYRE3 é a ação ordinária da Cyrela Brazil Realty S.A., a maior incorporadora e construtora de imóveis residenciais do Brasil por receita e valor de mercado. A empresa opera em 16 estados e 66 cidades, além da Argentina e Uruguai, com foco no segmento de médio e alto padrão. Em 28/10/2026, a ação era cotada a R$ 17,78, apresentando volatilidade anualizada de 78,93% e beta de 2,61 em relação ao Ibovespa.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Cyrela",
+    "legalName": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+    "ticker": "BVMF CYRE3",
+    "isin": "BRCYREACNOR7",
+    "taxId": "73.178.600/0001-18",
+    "foundingDate": "1973-01-01",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.cyrela.com.br",
+    "wikidata": "Q3008939",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q3008939",
+      "https://pt.wikipedia.org/wiki/Cyrela",
+      "https://en.wikipedia.org/wiki/Cyrela_Brazil_Realty",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/14460/CYRE/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Cyrela",
     "legalName": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
@@ -143,7 +166,7 @@
   },
   "volatility": {
     "level": "muito alta",
-    "explanation": "A CYRE3 apresenta volatilidade anualizada de 78,93% nos últimos 12 meses, nível considerado muito alto, e beta de 2,61 contra o Ibovespa, o que significa que a ação tende a oscilar mais que o índice de referência. A maior queda em 5 anos foi de -50,01%, entre 23/10/2026 e 28/10/2026, refletindo a sensibilidade do setor de incorporações a mudanças no cenário econômico e de crédito. Para acompanhar a variação do preço e definir pontos de entrada ou saída, o StockBar oferece [alertas de preço](/recursos/alertas-de-preco) e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) da posição."
+    "explanation": "A CYRE3 apresenta volatilidade anualizada de 78,93% nos últimos 12 meses, nível considerado muito alto, e beta de 2,61 contra o Ibovespa, o que significa que a ação tende a oscilar mais que o índice de referência. A maior queda em 5 anos foi de -50,01%, entre 23/10/2026 e 28/10/2026, refletindo a sensibilidade do setor de incorporações a mudanças no cenário econômico e de crédito. Para acompanhar a variação do preço e definir pontos de entrada ou saída, o app oferece [alertas de preço](/recursos/alertas-de-preco) e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) da posição."
   },
   "history": {
     "overview": "Fundada em 1958 por Elie Horn, a Cyrela consolidou-se como a principal incorporadora do Brasil, com a constituição formal da companhia em 1973. A empresa iniciou sua cotação na B3 em 18 de julho de 1994, após registro na CVM em 7 de julho do mesmo ano. Ao longo das décadas, a Cyrela expandiu sua atuação para 16 estados e 66 cidades, incluindo mercados na Argentina e Uruguai, e desenvolveu marcas próprias como Living, Vivaz e Lavvi. A companhia é reconhecida por empreendimentos de destaque, como o Faria Lima Financial Center e o Le Parc Residential Resort em Salvador. Em 2010, a marca foi avaliada em R$ 545 milhões, ocupando a 14ª posição no ranking Interbrand das marcas brasileiras mais valiosas. No primeiro trimestre de 2013, a empresa registrou lucro líquido de R$ 179 milhões. Recentemente, a Cyrela aprovou a capitalização de reservas com bonificação em ações preferenciais resgatáveis em dezembro de 2025, além de realizar cancelamento de ações em tesouraria em junho de 2026.",
@@ -224,23 +247,23 @@
     {
       "id": "proventos",
       "heading": "CYRE3 paga dividendos?",
-      "body": "Nos 12 meses até 28/10/2026, a CYRE3 distribuiu R$ 2,7299 por ação em 1 pagamento, resultando em dividend yield de 15,35%. O último pagamento foi realizado em 10/12/2025. A empresa também aprovou a capitalização de reservas com bonificação em ações preferenciais resgatáveis em dezembro de 2025, o que representa uma forma de remuneração aos acionistas por meio de distribuição de ativos. No StockBar, é possível acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade de ações."
+      "body": "Nos 12 meses até 28/10/2026, a CYRE3 distribuiu R$ 2,7299 por ação em 1 pagamento, resultando em dividend yield de 15,35%. O último pagamento foi realizado em 10/12/2025. A empresa também aprovou a capitalização de reservas com bonificação em ações preferenciais resgatáveis em dezembro de 2025, o que representa uma forma de remuneração aos acionistas por meio de distribuição de ativos. No app, é possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade de ações."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da CYRE3",
-      "body": "A CYRE3 apresentou rentabilidade total com proventos de -36,00% nos 12 meses até 28/10/2026, 17,86% em 3 anos, 57,04% em 5 anos e 172,74% em 10 anos. O desempenho recente reflete a volatilidade do setor de incorporações e a sensibilidade a mudanças no cenário econômico. Para comparar a rentabilidade da CYRE3 com índices de referência, o StockBar oferece a [comparação com índices](/recursos/comparacao-com-indices), permitindo visualizar a performance lado a lado com o Ibovespa, CDI e outros benchmarks."
+      "body": "A CYRE3 apresentou rentabilidade total com proventos de -36,00% nos 12 meses até 28/10/2026, 17,86% em 3 anos, 57,04% em 5 anos e 172,74% em 10 anos. O desempenho recente reflete a volatilidade do setor de incorporações e a sensibilidade a mudanças no cenário econômico. Para comparar a rentabilidade da CYRE3 com índices de referência, o app oferece a [comparação com índices](/recursos/comparacao-com-indices), permitindo visualizar a performance lado a lado com o Ibovespa, CDI e outros benchmarks."
     },
     {
       "id": "riscos",
       "heading": "Riscos da CYRE3",
-      "body": "A CYRE3 apresenta volatilidade anualizada de 78,93% nos últimos 12 meses, classificada como muito alta, e beta de 2,61 em relação ao Ibovespa, indicando maior sensibilidade às variações do mercado. A maior queda nos últimos 5 anos foi de -50,01%, ocorrida entre 23/10/2026 e 28/10/2026. O setor de incorporações está sujeito a riscos cíclicos, como variações na demanda por imóveis, mudanças em políticas de crédito e flutuações nos custos de construção. A empresa também enfrenta riscos operacionais relacionados à alienação de ativos, como o distrato de MoU TRX em agosto de 2026. O StockBar permite configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos da ação."
+      "body": "A CYRE3 apresenta volatilidade anualizada de 78,93% nos últimos 12 meses, classificada como muito alta, e beta de 2,61 em relação ao Ibovespa, indicando maior sensibilidade às variações do mercado. A maior queda nos últimos 5 anos foi de -50,01%, ocorrida entre 23/10/2026 e 28/10/2026. O setor de incorporações está sujeito a riscos cíclicos, como variações na demanda por imóveis, mudanças em políticas de crédito e flutuações nos custos de construção. A empresa também enfrenta riscos operacionais relacionados à alienação de ativos, como o distrato de MoU TRX em agosto de 2026. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos da ação."
     }
   ],
   "faq": [
     {
       "question": "CYRE3 paga dividendos?",
-      "answer": "Sim, a CYRE3 distribuiu R$ 2,7299 por ação em 1 pagamento nos 12 meses até 28/10/2026, com dividend yield de 15,35%. O último pagamento foi em 10/12/2025. A empresa também aprovou a capitalização de reservas com bonificação em ações preferenciais resgatáveis em dezembro de 2025. No StockBar, é possível acompanhar os [dividendos e JCP no StockBar](/recursos/proventos) com data com e data de pagamento."
+      "answer": "Sim, a CYRE3 distribuiu R$ 2,7299 por ação em 1 pagamento nos 12 meses até 28/10/2026, com dividend yield de 15,35%. O último pagamento foi em 10/12/2025. A empresa também aprovou a capitalização de reservas com bonificação em ações preferenciais resgatáveis em dezembro de 2025. No app, é possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento."
     },
     {
       "question": "Qual a diferença entre CYRE3 e CYRE4?",
@@ -252,11 +275,11 @@
     },
     {
       "question": "Qual a volatilidade da CYRE3?",
-      "answer": "A CYRE3 apresenta volatilidade anualizada de 78,93% nos últimos 12 meses, nível considerado muito alta, e beta de 2,61 contra o Ibovespa. A maior queda em 5 anos foi de -50,01%, entre 23/10/2026 e 28/10/2026. O StockBar permite configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos da ação."
+      "answer": "A CYRE3 apresenta volatilidade anualizada de 78,93% nos últimos 12 meses, nível considerado muito alta, e beta de 2,61 contra o Ibovespa. A maior queda em 5 anos foi de -50,01%, entre 23/10/2026 e 28/10/2026. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos da ação."
     },
     {
       "question": "Qual a rentabilidade da CYRE3 nos últimos 5 anos?",
-      "answer": "A CYRE3 apresentou rentabilidade total com proventos de 57,04% em 5 anos até 28/10/2026, e 172,74% em 10 anos. O desempenho recente reflete a volatilidade do setor de incorporações. Para comparar a rentabilidade da CYRE3 com índices de referência, o StockBar oferece a [comparação com índices](/recursos/comparacao-com-indices)."
+      "answer": "A CYRE3 apresentou rentabilidade total com proventos de 57,04% em 5 anos até 28/10/2026, e 172,74% em 10 anos. O desempenho recente reflete a volatilidade do setor de incorporações. Para comparar a rentabilidade da CYRE3 com índices de referência, o app oferece a [comparação com índices](/recursos/comparacao-com-indices)."
     },
     {
       "question": "A Cyrela é uma empresa de Novo Mercado?",
@@ -267,7 +290,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os dividendos e JCP da CYRE3 com data com e data de pagamento, multiplicados pela sua quantidade."
       },
       {

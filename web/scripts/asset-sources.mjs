@@ -32,7 +32,7 @@ export function findAsset(ticker) {
 
 const today = new Date().toISOString().slice(0, 10);
 const thisYear = new Date().getFullYear();
-const userAgent = "StockBar-web/0.1 (asset page research)";
+const userAgent = "asset-pages/0.1 (research for an investing website)";
 const browser = { "User-Agent": "Mozilla/5.0" };
 
 // Wikimedia rate-limits clients that ask too fast (HTTP 429): space requests to its sites, and wait and retry when
@@ -296,16 +296,23 @@ async function fnetSources(cnpj, fundName) {
   })];
 
   const report = documents.find((d) => type(d) === "Relatório Gerencial");
+  let website = null;
   if (report) {
-    sources.push(source(`Relatório gerencial do ${fundName}, referência ${report.dataReferencia}`, `${fnet}/exibirDocumento?id=${report.id}`,
-      { text: await fnetText(report.id, 7000).catch(() => "") }));
+    const text = await fnetText(report.id, 7000).catch(() => "");
+    sources.push(source(`Relatório gerencial do ${fundName}, referência ${report.dataReferencia}`, `${fnet}/exibirDocumento?id=${report.id}`, { text }));
+    // The fund's own site, as the report prints it: a domain with the ticker's letters (mxrf.xpasset.com.br).
+    const root = fundName.slice(0, 4).toLowerCase();
+    const domain = text.match(/\b(?:https?:\/\/)?((?:[a-z0-9-]+\.)+(?:com\.br|com|br|net))(?:\/[^\s]*)?/gi)
+      ?.map((m) => m.replace(/^https?:\/\//i, "").split("/")[0].toLowerCase())
+      .find((d) => d.includes(root));
+    website = domain ? `https://${domain}` : null;
   }
   const since = new Date(Date.now() - 18 * 30.4 * 86_400_000).toISOString().slice(0, 10);
   for (const fact of documents.filter((d) => d.categoriaDocumento === "Fato Relevante" && when(d) >= since).slice(0, 2)) {
     sources.push(source(`Fato relevante do ${fundName}, ${date(when(fact))}`, `${fnet}/exibirDocumento?id=${fact.id}`,
       { text: await fnetText(fact.id, 1800, { skipPreamble: true }).catch(() => "") }));
   }
-  return { registeredName, sources: sources.filter((s) => s.text || s.facts.length || s.events.length) };
+  return { registeredName, website, sources: sources.filter((s) => s.text || s.facts.length || s.events.length) };
 }
 
 // MARK: - Wikidata and Wikipedia
@@ -351,8 +358,11 @@ async function wikidata(id) {
   const inception = claims("P571")[0]?.mainsnak.datavalue.value;
   const employees = current("P1128").at(-1);
   const name = entity.labels.pt?.value ?? entity.labels.en?.value;
+  const website = current("P856").map((c) => c.mainsnak.datavalue.value).find((u) => /^https?:\/\//.test(u));
   return {
+    id,
     name,
+    website: website && https(website),
     articles: { pt: entity.sitelinks.ptwiki?.title, en: entity.sitelinks.enwiki?.title },
     inception: inception && wikidataTime(inception),
     source: source(`Wikidata: ${name}`, `https://www.wikidata.org/wiki/${id}`, {
@@ -397,7 +407,7 @@ async function wikipedia(lang, title, { lead = 2500, body = 7000, prefer } = {})
 
 async function searchWikipedia(lang, query) {
   const j = await get(`https://${lang}.wikipedia.org/w/api.php?action=query&list=search&srlimit=3&format=json&srsearch=${encodeURIComponent(query)}`);
-  return j.query.search.map((r) => r.title);
+  return (j.query?.search ?? []).map((r) => r.title);
 }
 
 const plain = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
@@ -444,12 +454,25 @@ export function leverage(name) {
   return `${sign}${times}x o desempenho diário ${underlying} (${sign}${times * 100}%), com rebalanceamento diário`;
 }
 
-/** The day an ETF's shares first traded, from Yahoo Finance. Not used for stocks: Yahoo's B3 history starts in 2000. */
-async function yahooFirstTrade(symbol) {
+// Yahoo's exchange codes as ISO 10383 MICs, the codes Schema.org's tickerSymbol asks for.
+const mics = { PCX: "ARCX", NGM: "XNAS", NMS: "XNAS", NCM: "XNAS", NAS: "XNAS", NYQ: "XNYS", ASE: "XASE", BTS: "BATS" };
+
+/**
+ * Where an ETF trades and the day its shares first traded, from Yahoo Finance. The first trade isn't used for stocks:
+ * Yahoo's B3 history starts in 2000.
+ */
+async function yahooListing(symbol) {
   const j = await get(`https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=1d&interval=1d`, { headers: browser });
-  const first = j.chart?.result?.[0]?.meta?.firstTradeDate;
-  return first ? new Date(first * 1000).toISOString().slice(0, 10) : null;
+  const meta = j.chart?.result?.[0]?.meta ?? {};
+  return {
+    firstTrade: meta.firstTradeDate ? new Date(meta.firstTradeDate * 1000).toISOString().slice(0, 10) : null,
+    mic: mics[meta.exchangeName] ?? null,
+  };
 }
+
+// Wikipedia titles of issuers, as the issuer is called.
+const issuerNames = { IShares: "iShares (BlackRock)", SPDR: "SPDR (State Street)" };
+const unique = (urls) => [...new Set(urls.filter(Boolean))];
 
 const etfSources = await readJSON("src/data/assets/etf-sources.json");
 const roleBudgets = { etf: { lead: 3500, body: 6000 }, index: { lead: 2500, body: 3500 }, issuer: { lead: 1500, body: 2000 }, context: { lead: 1500, body: 2000 } };
@@ -492,6 +515,7 @@ export async function collectSources(asset) {
 
   const yahoo = add(source(`Yahoo Finance: cotações históricas de ${ticker}`, `https://finance.yahoo.com/quote/${symbol}/history/`));
   const profile = { name: asset.name };
+  let entity = null;
 
   if (list === "br-stocks") {
     const company = await attempt("B3", () => b3Company(ticker));
@@ -505,7 +529,8 @@ export async function collectSources(asset) {
     const ptTitle = wd?.articles.pt ?? await attempt("Wikipedia", () => findCompanyArticle([registry?.row.DENOM_COMERC, asset.name]));
     const pt = ptTitle && await attempt("Wikipedia pt", () => wikipedia("pt", ptTitle));
     add(pt?.source);
-    if (wd?.articles.en && (pt?.text.length ?? 0) < 4000) add((await attempt("Wikipedia en", () => wikipedia("en", wd.articles.en, { body: 5000 })))?.source);
+    const en = wd?.articles.en && (pt?.text.length ?? 0) < 4000 ? await attempt("Wikipedia en", () => wikipedia("en", wd.articles.en, { body: 5000 })) : null;
+    add(en?.source);
     for (const fact of cnpj ? (await attempt("CVM fatos relevantes", () => cvmMaterialFacts(cnpj))) ?? [] : []) add(fact);
 
     Object.assign(profile, {
@@ -530,6 +555,19 @@ export async function collectSources(asset) {
     characteristic("Códigos de negociação", company?.codes.join(", "), b3At);
     characteristic("Auditor independente", registry?.row.AUDITOR, cvmAt);
     if (!registry?.row.DT_CONST) characteristic("Fundação", wd && date(wd.inception), wdAt);
+    entity = {
+      kind: "Corporation",
+      name: profile.name,
+      legalName: registry?.row.DENOM_SOCIAL,
+      ticker: `BVMF ${ticker}`,
+      isin: company?.detail.otherCodes.find((c) => c.code === ticker)?.isin || undefined,
+      taxId: cnpj || undefined,
+      foundingDate: registry?.row.DT_CONST || wd?.inception || undefined,
+      address: registry?.row.MUN ? { locality: titleCase(registry.row.MUN), region: registry.row.UF, country: "BR" } : undefined,
+      website: https(company?.detail.website) ?? wd?.website ?? undefined,
+      wikidata: wd?.id,
+      sameAs: unique([wd && `https://www.wikidata.org/wiki/${wd.id}`, pt?.source.url, en?.source.url, company?.source.url]),
+    };
   }
 
   if (list === "fiis") {
@@ -557,6 +595,18 @@ export async function collectSources(asset) {
     characteristic(`Patrimônio líquido (${fund?.month})`, bigMoney(fund?.netAssets), cvmAt);
     characteristic(`Cotistas (${fund?.month})`, fund?.shareholders && integer(fund.shareholders), cvmAt);
     characteristic(`Valor patrimonial da cota (${fund?.month})`, money(fund?.bookValue), cvmAt);
+    entity = {
+      kind: "InvestmentFund",
+      name: profile.name,
+      legalName: profile.legalName,
+      ticker: `BVMF ${ticker}`,
+      isin: g?.Codigo_ISIN || undefined,
+      taxId: g?.CNPJ_Fundo_Classe || undefined,
+      foundingDate: g?.Data_Funcionamento || undefined,
+      website: filings?.website ?? undefined,
+      provider: g?.Nome_Administrador ? { name: g.Nome_Administrador, url: https(g.Site) ?? undefined } : undefined,
+      sameAs: unique([filings?.sources[0]?.url]),
+    };
   }
 
   if (list === "us-etfs") {
@@ -569,7 +619,8 @@ export async function collectSources(asset) {
     add(en?.source);
     for (const article of curated.filter((a) => a !== en)) add(article.source);
     if (wd?.articles.pt) add((await attempt("Wikipedia pt", () => wikipedia("pt", wd.articles.pt, { body: 3000 })))?.source);
-    const firstTrade = await attempt("Yahoo primeiro pregão", () => yahooFirstTrade(symbol));
+    const listing = (await attempt("Yahoo bolsa e primeiro pregão", () => yahooListing(symbol))) ?? {};
+    const firstTrade = listing.firstTrade;
     if (firstTrade) {
       sources[yahoo].facts.push({ label: "Primeiro pregão das cotas", value: date(firstTrade) });
       sources[yahoo].events.push({ date: firstTrade, event: "Primeiro pregão das cotas do ETF na bolsa" });
@@ -582,6 +633,17 @@ export async function collectSources(asset) {
     if (target) characteristic("Objetivo diário", target, yahoo);
     characteristic("Bolsa", asset.exchange, yahoo);
     characteristic("Moeda", currency === "USD" ? "Dólar americano (US$)" : currency, yahoo);
+    const issuer = curated.find((a) => a.role === "issuer");
+    entity = {
+      kind: "InvestmentFund",
+      name: asset.name,
+      ticker: listing.mic ? `${listing.mic} ${ticker}` : ticker,
+      foundingDate: wd?.inception ?? firstTrade ?? undefined,
+      website: wd?.website,
+      provider: issuer ? { name: issuerNames[issuer.title] ?? issuer.title, sameAs: [issuer.source.url] } : undefined,
+      wikidata: wd?.id,
+      sameAs: unique([wd && `https://www.wikidata.org/wiki/${wd.id}`, en?.source.url]),
+    };
   }
 
   // Market figures, all from the computed stats.
@@ -597,7 +659,7 @@ export async function collectSources(asset) {
     .sort((a, b) => a.date.localeCompare(b.date));
 
   return {
-    ticker, list, slug: asset.slug, path: asset.path, name: profile.name, collectedAt: today,
+    ticker, list, slug: asset.slug, path: asset.path, name: profile.name, collectedAt: today, entity,
     profile: Object.fromEntries(Object.entries(profile).filter(([, v]) => v)),
     characteristics: characteristics.slice(0, 14),
     stats, sources, events, missing,

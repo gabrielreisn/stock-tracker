@@ -4,6 +4,7 @@
   "list": "br-stocks",
   "locale": "pt-BR",
   "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
   "seo": {
     "title": "BBDC4: história, dividendos e volatilidade",
     "description": "BBDC4 é a ação preferencial do Banco Bradesco. Veja dividend yield de 11,39%, volatilidade de 39,50% e a história do banco desde 1943.",
@@ -21,6 +22,27 @@
     ]
   },
   "summary": "BBDC4 é a ação preferencial do Banco Bradesco S.A., o segundo maior banco privado do Brasil por patrimônio líquido em 2017. A instituição, fundada em 1943, atua em operações bancárias gerais e câmbio. Em 29/10/2026, a ação valia R$ 14,16, com dividend yield de 11,39% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Bradesco",
+    "legalName": "BANCO BRADESCO S.A.",
+    "ticker": "BVMF BBDC4",
+    "isin": "BRBBDCACNPR8",
+    "taxId": "60.746.948/0001-12",
+    "foundingDate": "1943-03-02",
+    "address": {
+      "locality": "Osasco",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.bradesco.com.br",
+    "wikidata": "Q806181",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q806181",
+      "https://pt.wikipedia.org/wiki/Bradesco",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/906/BBDC/overview?language=pt-br"
+    ]
+  },
   "profile": {
     "name": "Bradesco",
     "legalName": "BANCO BRADESCO S.A.",
@@ -224,23 +246,23 @@
     {
       "id": "proventos",
       "heading": "BBDC4 paga dividendos?",
-      "body": "Nos 12 meses até 29/10/2026, a BBDC4 distribuiu R$ 1,6124 por ação em 16 pagamentos, resultando em um dividend yield de 11,39%. O último pagamento foi de R$ 0,3562 em 14/10/2026. Em 2026, o banco realizou múltiplos pagamentos de Juros sobre o Capital Próprio (JCP), com datas de 25/03, 30/09 e 14/10, além de aprovar antecipações e novos ciclos de distribuição. O volume de proventos reflete a política de remuneração de capital do banco. Para acompanhar cada pagamento com data de competência e data de pagamento, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "body": "Nos 12 meses até 29/10/2026, a BBDC4 distribuiu R$ 1,6124 por ação em 16 pagamentos, resultando em um dividend yield de 11,39%. O último pagamento foi de R$ 0,3562 em 14/10/2026. Em 2026, o banco realizou múltiplos pagamentos de Juros sobre o Capital Próprio (JCP), com datas de 25/03, 30/09 e 14/10, além de aprovar antecipações e novos ciclos de distribuição. O volume de proventos reflete a política de remuneração de capital do banco. Para acompanhar cada pagamento com data de competência e data de pagamento, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "id": "desempenho",
       "heading": "Desempenho da BBDC4",
-      "body": "Até 29/10/2026, a BBDC4 teve rentabilidade total com proventos de -18,17% em 12 meses, 32,09% em 3 anos, 14,61% em 5 anos e 44,88% em 10 anos. O preço da ação nesse dia era de R$ 14,16. O volume médio negociado por dia nos últimos 3 meses foi de R$ 1,02 bilhão. Para comparar esses números com o Ibovespa, o CDI e o IPCA, use a [comparação com índices](/recursos/comparacao-com-indices) no StockBar. Veja também o desempenho de [PETR4](/acoes/petr4) e [VALE3](/acoes/vale3), outros ativos de grande capitalização."
+      "body": "Até 29/10/2026, a BBDC4 teve rentabilidade total com proventos de -18,17% em 12 meses, 32,09% em 3 anos, 14,61% em 5 anos e 44,88% em 10 anos. O preço da ação nesse dia era de R$ 14,16. O volume médio negociado por dia nos últimos 3 meses foi de R$ 1,02 bilhão. Para comparar esses números com o Ibovespa, o CDI e o IPCA, use a [comparação com índices](/recursos/comparacao-com-indices) no app. Veja também o desempenho de [PETR4](/acoes/petr4) e [VALE3](/acoes/vale3), outros ativos de grande capitalização."
     },
     {
       "id": "riscos",
       "heading": "Riscos da BBDC4",
-      "body": "A volatilidade anualizada da BBDC4 nos 12 meses até 29/10/2026 foi de 39,50%, classificada como alta. O beta de 1,43 indica que a ação oscila mais que o Ibovespa. A maior queda em 5 anos foi de -38,54%, entre o pico em 05/10/2022 e o fundo em 23/03/2023. Riscos setoriais incluem mudanças na taxa de juros, inadimplência e regulação do setor bancário. Para monitorar movimentos bruscos de preço, configure [alertas de preço](/recursos/alertas-de-preco) no StockBar. O [Monitor do FGC](/recursos/monitor-do-fgc) também é útil para quem tem depósitos em bancos, já que a BBDC4 é uma das instituições que compõem o sistema financeiro nacional."
+      "body": "A volatilidade anualizada da BBDC4 nos 12 meses até 29/10/2026 foi de 39,50%, classificada como alta. O beta de 1,43 indica que a ação oscila mais que o Ibovespa. A maior queda em 5 anos foi de -38,54%, entre o pico em 05/10/2022 e o fundo em 23/03/2023. Riscos setoriais incluem mudanças na taxa de juros, inadimplência e regulação do setor bancário. Para monitorar movimentos bruscos de preço, configure [alertas de preço](/recursos/alertas-de-preco) no app. O [Monitor do FGC](/recursos/monitor-do-fgc) também é útil para quem tem depósitos em bancos, já que a BBDC4 é uma das instituições que compõem o sistema financeiro nacional."
     }
   ],
   "faq": [
     {
       "question": "BBDC4 paga dividendos?",
-      "answer": "Sim. Nos 12 meses até 29/10/2026, a BBDC4 distribuiu R$ 1,6124 por ação em 16 pagamentos, com dividend yield de 11,39%. O último pagamento foi de R$ 0,3562 em 14/10/2026. O banco também paga Juros sobre o Capital Próprio (JCP) em ciclos intermediários, como os realizados em 25/03, 30/09 e 14/10 de 2026. Para ver a data de cada pagamento, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "Sim. Nos 12 meses até 29/10/2026, a BBDC4 distribuiu R$ 1,6124 por ação em 16 pagamentos, com dividend yield de 11,39%. O último pagamento foi de R$ 0,3562 em 14/10/2026. O banco também paga Juros sobre o Capital Próprio (JCP) em ciclos intermediários, como os realizados em 25/03, 30/09 e 14/10 de 2026. Para ver a data de cada pagamento, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "Qual a diferença entre BBDC3 e BBDC4?",
@@ -248,7 +270,7 @@
     },
     {
       "question": "Qual o dividend yield da BBDC4?",
-      "answer": "O dividend yield da BBDC4 nos 12 meses até 29/10/2026 foi de 11,39%, com R$ 1,6124 distribuídos por ação em 16 pagamentos. O último pagamento foi de R$ 0,3562 em 14/10/2026. O valor reflete a política de remuneração de capital do banco, que inclui dividendos e JCP. Para acompanhar os pagamentos, use o recurso de [dividendos e JCP no StockBar](/recursos/proventos)."
+      "answer": "O dividend yield da BBDC4 nos 12 meses até 29/10/2026 foi de 11,39%, com R$ 1,6124 distribuídos por ação em 16 pagamentos. O último pagamento foi de R$ 0,3562 em 14/10/2026. O valor reflete a política de remuneração de capital do banco, que inclui dividendos e JCP. Para acompanhar os pagamentos, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
     },
     {
       "question": "BBDC4 é ação de banco?",
@@ -256,14 +278,14 @@
     },
     {
       "question": "Qual a volatilidade da BBDC4?",
-      "answer": "A volatilidade anualizada da BBDC4 nos 12 meses até 29/10/2026 foi de 39,50%, nível alto. O beta de 1,43 indica que a ação oscila mais que o Ibovespa. A maior queda em 5 anos foi de -38,54%, entre 05/10/2022 e 23/03/2023. Para monitorar movimentos bruscos, configure [alertas de preço](/recursos/alertas-de-preco) no StockBar."
+      "answer": "A volatilidade anualizada da BBDC4 nos 12 meses até 29/10/2026 foi de 39,50%, nível alto. O beta de 1,43 indica que a ação oscila mais que o Ibovespa. A maior queda em 5 anos foi de -38,54%, entre 05/10/2022 e 23/03/2023. Para monitorar movimentos bruscos, configure [alertas de preço](/recursos/alertas-de-preco) no app."
     },
     {
       "question": "O Bradesco é o maior banco do Brasil?",
       "answer": "Em 2017, o Bradesco foi considerado o segundo maior banco privado do país por patrimônio líquido. Em 2010, foi o único banco privado com presença em todos os municípios do Brasil. O banco tem 2,6 trilhões de reais em recursos captados e administrados e 36,3 milhões de clientes correntistas, segundo o relatório de 2021. Para comparar com outros bancos, veja [ITUB4](/acoes/itub4) e [BBAS3](/acoes/bbas3)."
     },
     {
-      "question": "Como acompanhar a BBDC4 no StockBar?",
+      "question": "Como acompanhar a BBDC4 no app?",
       "answer": "Você pode acompanhar a BBDC4 com o [widget na barra de menus](/recursos/widget-da-barra-de-menus), que mostra o gráfico do dia e as posições. Use a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação da ação junto com outros ativos. O [assistente de IA](/recursos/assistente-de-ia) responde perguntas em português sobre a sua carteira, com base nos seus próprios dados."
     }
   ],
@@ -271,7 +293,7 @@
     "features": [
       {
         "feature": "proventos",
-        "anchor": "dividendos e JCP no StockBar",
+        "anchor": "dividendos e JCP no app",
         "context": "Veja os 16 pagamentos de R$ 1,6124 por ação nos 12 meses até 29/10/2026, com data de competência e data de pagamento, multiplicados pela sua quantidade."
       },
       {
