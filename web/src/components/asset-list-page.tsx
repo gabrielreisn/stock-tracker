@@ -1,17 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import brStocks from "@/data/assets/br-stocks.json";
-import fiis from "@/data/assets/fiis.json";
-import usETFs from "@/data/assets/us-etfs.json";
 import { assetPaths, assetSlugs, listNames, type AssetList } from "@/lib/assets";
 import { date } from "@/lib/format";
 import { breadcrumb, itemList, jsonLd, organization, webPage, website } from "@/lib/json-ld";
+import { rankings } from "@/lib/rankings";
 import { absoluteUrl } from "@/lib/site";
 
-// The list pages (/acoes, /fiis, /etfs): the 100 most traded assets of each kind, ranked as in
+// The list pages (/acoes, /fiis, /etfs, /bdrs): the 100 most traded assets of each kind, ranked as in
 // src/data/assets/<list>.json, linking the ones that have a page.
-
-const rankings = { "br-stocks": brStocks, fiis, "us-etfs": usETFs } as const;
 
 const copy: Record<AssetList, { title: string; h1: string; description: string; intro: string }> = {
   "br-stocks": {
@@ -25,6 +21,12 @@ const copy: Record<AssetList, { title: string; h1: string; description: string; 
     h1: "Fundos imobiliários mais negociados",
     description: "Os 100 FIIs mais negociados da B3, com estratégia, rendimentos, emissões de cotas e dados oficiais da CVM e do FNET.",
     intro: "Os 100 fundos imobiliários com maior volume financeiro médio diário na B3 nos últimos três meses. Cada página resume a estratégia do fundo a partir do relatório gerencial, os rendimentos, as emissões de cotas e os dados do informe mensal entregue à CVM.",
+  },
+  bdrs: {
+    title: "BDRs mais negociados na B3: empresas estrangeiras em reais",
+    h1: "BDRs mais negociados",
+    description: "Os 100 BDRs mais negociados da B3: a empresa por trás de cada um, a ação original, a rentabilidade em reais, a volatilidade e os riscos.",
+    intro: "Os 100 BDRs com maior volume financeiro médio diário na B3 nos últimos três meses. Um BDR é um recibo negociado em reais que representa ações de uma empresa listada no exterior. Cada página conta a história da empresa, mostra a ação original e como o BDR se comportou em reais, com o efeito do câmbio.",
   },
   "us-etfs": {
     title: "ETFs americanos mais negociados: índice, custos e riscos",

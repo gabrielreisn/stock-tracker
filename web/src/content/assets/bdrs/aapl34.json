@@ -1,0 +1,318 @@
+{
+  "ticker": "AAPL34",
+  "slug": "aapl34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AAPL34: BDR da Apple, dividendos e volatilidade",
+    "description": "Conheça o BDR AAPL34 da Apple Inc.: como funciona, dividendos, rentabilidade de 29,74% em 12 meses e riscos cambiais. Atualizado até 30/10/2026.",
+    "h1": "AAPL34: BDR da Apple Inc. na B3",
+    "canonicalPath": "/bdrs/aapl34",
+    "keywords": [
+      "AAPL34",
+      "BDR Apple",
+      "ação Apple Brasil",
+      "dividendos AAPL34",
+      "volatilidade AAPL34",
+      "BDR nível I",
+      "Apple Inc. B3"
+    ]
+  },
+  "summary": "AAPL34 é o BDR nível I da Apple Inc., empresa de tecnologia sediada em Cupertino, que representa ações da companhia negociadas na NASDAQ. O investimento acompanha o desempenho da ação original em dólar e a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Apple Inc.",
+    "legalName": "APPLE INC.",
+    "ticker": "BVMF AAPL34",
+    "foundingDate": "1976-04-01",
+    "website": "https://apple.com/",
+    "wikidata": "Q312",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q312",
+      "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "https://pt.wikipedia.org/wiki/Apple",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50024/AAPL/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Apple Inc.",
+    "legalName": "APPLE INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "01/04/1976",
+    "listedSince": "20/08/2010",
+    "headquarters": "Cupertino, Apple Park",
+    "website": "https://apple.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "APPLE INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: AAPL",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Cupertino, Apple Park",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "01/04/1976",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "20/08/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 94,20",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "28,09% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original AAPL em dólares)",
+      "value": "0,59",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,20%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 30,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AAPL34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Apple Inc.",
+    "currency": "BRL",
+    "price": 94.2,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2974,
+      "3y": 1.2193,
+      "5y": 1.275,
+      "10y": 21.5362
+    },
+    "volatility1y": 0.2809,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3576,
+      "from": "2022-01-03",
+      "to": "2022-12-28"
+    },
+    "beta1y": {
+      "value": 0.59,
+      "against": "S&P 500, ação original AAPL em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.193,
+      "payments12Months": 4,
+      "yield12Months": 0.002,
+      "lastPayment": {
+        "date": "2026-08-07",
+        "amount": 0.049357
+      }
+    },
+    "avgDailyTradedValue3m": 30442171
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do AAPL34 nos últimos 12 meses é de 28,09%, o que é considerado um nível alto para um BDR de uma empresa de tecnologia. O beta da ação original AAPL contra o S&P 500 é de 0,59, o que significa que, em termos de movimento relativo ao índice, a ação tende a oscilar menos que o mercado americano. No entanto, o BDR em reais adiciona o risco cambial, o que pode amplificar a volatilidade para o investidor brasileiro. A maior queda em 5 anos foi de -35,76%, entre janeiro e dezembro de 2022. Para monitorar esses movimentos, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Apple Inc. foi fundada em 1 de abril de 1976 por Steve Jobs, Steve Wozniak e Ronald Wayne, com o objetivo de comercializar o computador Apple I. Em 1977, a empresa foi incorporada e lançou o Apple II, que se tornou um dos primeiros microcomputadores pessoais de sucesso em massa. A década de 1980 marcou a introdução do Macintosh, que popularizou a interface gráfica com mouse, mas conflitos internos levaram à saída de Jobs em 1985. Após uma década de dificuldades e perda de mercado frente aos PCs com Windows, a Apple adquiriu a NeXT em 1997, trazendo de volta Jobs, o que impulsionou o retorno à lucratividade com produtos como iMac, iPod, iPhone e iPad. Em 2007, a empresa mudou o nome para Apple Inc., refletindo a expansão para eletrônicos de consumo. Desde 2011, a companhia tem sido frequentemente a maior do mundo em capitalização de mercado. O BDR AAPL34 foi listado na B3 em 20 de agosto de 2010, permitindo a investidores brasileiros acompanhar a Apple em reais.",
+    "timeline": [
+      {
+        "date": "1976-04-01",
+        "event": "Fundação da Apple Computer Company por Steve Jobs, Steve Wozniak e Ronald Wayne.",
+        "source": 2
+      },
+      {
+        "date": "1977-01-03",
+        "event": "Incorporação da empresa como Apple Computer, Inc. em Cupertino, com aporte de Mike Markkula.",
+        "source": 3
+      },
+      {
+        "date": "1980-12-12",
+        "event": "Oferta pública inicial (IPO) da Apple na NASDAQ, com venda de 4,6 milhões de ações.",
+        "source": 3
+      },
+      {
+        "date": "1984-01-24",
+        "event": "Lançamento do Macintosh, popularizando a interface gráfica de usuário com mouse.",
+        "source": 3
+      },
+      {
+        "date": "1985-09",
+        "event": "Steve Jobs deixa a Apple e funda a NeXT após conflito com a diretoria.",
+        "source": 3
+      },
+      {
+        "date": "1997",
+        "event": "Apple adquire a NeXT, retornando Steve Jobs à liderança da empresa.",
+        "source": 3
+      },
+      {
+        "date": "2007-01-09",
+        "event": "Empresa muda o nome de Apple Computer para Apple Inc. para refletir a expansão em eletrônicos.",
+        "source": 4
+      },
+      {
+        "date": "2010-08-20",
+        "event": "Listagem do BDR AAPL34 na B3, permitindo negociação em reais.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Apple Inc. ganha dinheiro",
+      "body": "A Apple Inc. é uma multinacional de tecnologia focada em eletrônicos de consumo, software e serviços online. A empresa projeta e comercializa produtos como iPhone, iPad, Mac, Apple Watch e AirPods, além de sistemas operacionais próprios como iOS, iPadOS e macOS. A receita também vem de serviços, incluindo Apple Pay, iCloud e plataformas de streaming como Apple Music e Apple TV. Em 2022, a companhia contava com 164.000 funcionários e é considerada uma das maiores empresas de manufatura por receita e a maior vendedora de tablets e celulares do mundo."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR AAPL34",
+      "body": "O AAPL34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Apple Inc. negociadas na NASDAQ sob o ticker AAPL. O BDR foi listado na B3 em 20 de agosto de 2010. O preço do BDR acompanha a variação da ação original em dólar e a taxa de câmbio entre o dólar e o real. Como é um BDR não patrocinado, a empresa não participa diretamente da emissão, que é feita por uma instituição depositária."
+    },
+    {
+      "id": "proventos",
+      "heading": "AAPL34 paga dividendos?",
+      "body": "A Apple Inc. paga dividendos, que chegam aos detentores do AAPL34 em reais. Nos 12 meses até 30/10/2026, foram distribuídos R$ 0,1930 por BDR em 4 pagamentos, resultando em um dividend yield de 0,20%. O último pagamento registrado foi de R$ 0,0494 em 07/08/2026. É importante notar que a empresa paga na moeda de sua sede (dólar) e o valor é convertido para reais na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do AAPL34",
+      "body": "Até 30/10/2026, o AAPL34 apresentava rentabilidade total de 29,74% em 12 meses, 121,93% em 3 anos e 127,50% em 5 anos. Em 10 anos, o retorno acumulado foi de 2.153,62%. Esses números incluem a variação do câmbio, pois o BDR é cotado em reais. Para avaliar o desempenho em comparação com o mercado americano, é possível usar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que mostra a rentabilidade lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do AAPL34",
+      "body": "O principal risco do AAPL34 é o cambial, pois o valor do BDR depende da cotação do dólar em relação ao real. A volatilidade anualizada do ativo nos últimos 12 meses foi de 28,09%, considerada alta. A maior queda nos últimos 5 anos foi de -35,76%, entre o pico em 03/01/2022 e o fundo em 28/12/2022. O beta da ação original AAPL contra o S&P 500 é de 0,59, indicando que, historicamente, a ação tende a ter movimentos menores que o índice, mas o BDR em reais ainda sofre o efeito do câmbio. A liquidez do BDR na B3 é moderada, com volume médio de R$ 30,4 milhões por dia nos últimos 3 meses."
+    }
+  ],
+  "faq": [
+    {
+      "question": "AAPL34 paga dividendos?",
+      "answer": "Sim, a Apple Inc. paga dividendos. Nos últimos 12 meses até 30/10/2026, foram distribuídos R$ 0,1930 por BDR em 4 pagamentos, com um dividend yield de 0,20%. O último pagamento foi de R$ 0,0494 em 07/08/2026. Os valores são pagos em reais, mas a origem é em dólar."
+    },
+    {
+      "question": "Qual a diferença entre AAPL34 e a ação AAPL?",
+      "answer": "A ação AAPL é negociada na NASDAQ em dólar, enquanto o AAPL34 é um BDR negociado na B3 em reais. O BDR representa a ação original, mas seu preço é afetado pela variação do câmbio entre dólar e real. O AAPL34 é um BDR não patrocinado nível I, listado na B3 desde 2010."
+    },
+    {
+      "question": "O AAPL34 é um BDR patrocinado?",
+      "answer": "Não, o AAPL34 é um BDR não patrocinado de nível I. Isso significa que a Apple Inc. não participa diretamente da emissão do recibo, que é feito por uma instituição depositária. O BDR é negociado na B3 desde 20 de agosto de 2010."
+    },
+    {
+      "question": "Qual a rentabilidade do AAPL34 em 12 meses?",
+      "answer": "A rentabilidade total do AAPL34 nos 12 meses até 30/10/2026 foi de 29,74%, incluindo proventos. Esse número reflete a variação do preço do BDR em reais, que inclui o efeito do câmbio. Para ver o desempenho em relação a outros índices, use a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Qual o risco cambial do AAPL34?",
+      "answer": "O AAPL34 tem risco cambial porque é cotado em reais, mas representa uma ação em dólar. Se o dólar subir em relação ao real, o BDR tende a valorizar, e se o dólar cair, o BDR tende a desvalorizar, independentemente do desempenho da Apple. A volatilidade anualizada do BDR é de 28,09%, considerada alta."
+    },
+    {
+      "question": "Como acompanhar o AAPL34 no app?",
+      "answer": "Você pode usar o [assistente de IA](/recursos/assistente-de-ia) do app para perguntar sobre a sua posição em AAPL34, a rentabilidade e os proventos. O assistente responde com base nos seus próprios dados, mostrando o que foi consultado. Também é possível ver o desempenho e o preço médio na seção de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do AAPL34 lado a lado com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o AAPL34 chegar ao preço que você escolheu, útil para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o AAPL34 junto com outras ações e BDRs na sua carteira, com alocação por classe e maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade do AAPL34 e o seu preço médio, com variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com exposição ao setor de semicondutores."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de uma grande empresa de tecnologia, comparável à Apple em capitalização e setor."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "BDR de uma das maiores empresas de tecnologia do mundo, com exposição ao setor de serviços online."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta da ação original AAPL."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AAPL34",
+      "url": "https://finance.yahoo.com/quote/AAPL34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: APPLE, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50024/AAPL/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Apple Inc.",
+      "url": "https://www.wikidata.org/wiki/Q312",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Apple Inc.",
+      "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Apple",
+      "url": "https://pt.wikipedia.org/wiki/Apple",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

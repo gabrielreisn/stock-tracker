@@ -35,8 +35,9 @@ export default function MethodologyPage() {
       <h1 className="text-4xl font-bold tracking-tight">{title}</h1>
       <p className="mt-5 text-lg leading-8">
         As páginas de <Link href="/acoes" className="underline underline-offset-2">ações</Link>,{" "}
-        <Link href="/fiis" className="underline underline-offset-2">FIIs</Link> e{" "}
-        <Link href="/etfs" className="underline underline-offset-2">ETFs</Link> deste site são informativas: contam a
+        <Link href="/fiis" className="underline underline-offset-2">FIIs</Link>,{" "}
+        <Link href="/etfs" className="underline underline-offset-2">ETFs</Link> e{" "}
+        <Link href="/bdrs" className="underline underline-offset-2">BDRs</Link> deste site são informativas: contam a
         história de cada ativo, mostram seus números e citam de onde cada dado veio. Não são recomendação de investimento.
       </p>
 
@@ -44,7 +45,8 @@ export default function MethodologyPage() {
         <p>
           Os 100 ativos de cada tipo com maior volume financeiro médio diário (preço de fechamento × volume) nos últimos
           três meses, a partir das cotações diárias da Yahoo Finance. Os candidatos vêm dos índices da B3 (IBrA para
-          ações, IFIX para FIIs), da lista de FIIs negociados em bolsa da CVM e dos ETFs mais ativos nos EUA.
+          ações, IFIX para FIIs, BDRX para BDRs), das listas de FIIs da CVM e de BDRs da B3, e dos ETFs mais ativos nos EUA.
+          BDRs de ETFs ficam de fora: os ETFs têm a sua própria lista.
         </p>
       </Section>
 
@@ -53,7 +55,7 @@ export default function MethodologyPage() {
           <li><strong>B3:</strong> cadastro da companhia listada, setor, segmento de listagem e códigos de negociação.</li>
           <li><strong>CVM:</strong> cadastro de companhias abertas, fatos relevantes e o informe mensal dos FIIs (patrimônio, cotistas, administrador).</li>
           <li><strong>FNET (B3):</strong> relatórios gerenciais, fatos relevantes e ofertas de cotas dos FIIs.</li>
-          <li><strong>Wikidata e Wikipedia:</strong> história, fundação e contexto; para ETFs, também o índice e a emissora.</li>
+          <li><strong>Wikidata e Wikipedia:</strong> história, fundação e contexto; para ETFs, também o índice e a emissora; para BDRs, a empresa e a ação original.</li>
           <li><strong>Yahoo Finance:</strong> cotações diárias, proventos e o gráfico de preço.</li>
         </ul>
         <p>Cada página lista as suas fontes, com link e data de consulta, e os dados da tabela de características indicam a fonte de cada valor.</p>
@@ -63,7 +65,7 @@ export default function MethodologyPage() {
         <ul className="list-disc space-y-1.5 pl-5">
           <li><strong>Rentabilidade total</strong> (12 meses, 3, 5 e 10 anos): com cotações ajustadas por proventos e desdobramentos.</li>
           <li><strong>Volatilidade anualizada:</strong> desvio padrão dos retornos logarítmicos diários dos últimos 12 meses × √252. Abaixo de 15% é baixa; até 25%, moderada; até 40%, alta; acima, muito alta.</li>
-          <li><strong>Beta:</strong> sensibilidade aos movimentos do Ibovespa (ações e FIIs) ou do S&P 500 (ETFs), nos últimos 12 meses.</li>
+          <li><strong>Beta:</strong> sensibilidade aos movimentos do Ibovespa (ações e FIIs) ou do S&P 500 (ETFs e BDRs), nos últimos 12 meses. A rentabilidade dos BDRs é em reais e inclui a variação do câmbio.</li>
           <li><strong>Maior queda:</strong> a maior perda do pico ao vale nos últimos 5 anos, com as datas.</li>
           <li><strong>Proventos e dividend yield:</strong> soma dos proventos pagos nos últimos 12 meses, dividida pelo preço atual.</li>
         </ul>

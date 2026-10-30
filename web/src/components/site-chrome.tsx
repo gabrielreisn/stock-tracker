@@ -8,6 +8,7 @@ const sections = [
   { href: "/acoes", label: "Ações" },
   { href: "/fiis", label: "FIIs" },
   { href: "/etfs", label: "ETFs" },
+  { href: "/bdrs", label: "BDRs" },
   { href: "/recursos", label: "Recursos" },
 ];
 

@@ -1,8 +1,7 @@
 import { cacheLife } from "next/cache";
 import { NextResponse, type NextRequest } from "next/server";
-import brStocks from "@/data/assets/br-stocks.json";
-import fiis from "@/data/assets/fiis.json";
-import usETFs from "@/data/assets/us-etfs.json";
+import { assetLists } from "@/data/schema/asset-page";
+import { rankings, yahooSymbol } from "@/lib/rankings";
 
 // Prices for the chart on each asset page, from Yahoo Finance (which the browser can't call: no CORS). Only tickers
 // that have a page, so this isn't an open proxy. B3 quotes on Yahoo are delayed by about 15 minutes.
@@ -26,11 +25,9 @@ export type ChartData = {
 
 const intervals: Record<ChartRange, string> = { "1d": "2m", "5d": "15m", "1mo": "60m", "6mo": "1d", "1y": "1d", "5y": "1wk" };
 
-const symbols = new Map<string, string>([
-  ...brStocks.assets.map((a) => [a.ticker, `${a.ticker}.SA`] as const),
-  ...fiis.assets.map((a) => [a.ticker, `${a.ticker}.SA`] as const),
-  ...usETFs.assets.map((a) => [a.ticker, a.ticker] as const),
-]);
+const symbols = new Map<string, string>(
+  assetLists.flatMap((list) => rankings[list].assets.map((a) => [a.ticker, yahooSymbol(list, a.ticker)] as const)),
+);
 
 async function chart(ticker: string, symbol: string, range: ChartRange): Promise<ChartData | null> {
   "use cache";

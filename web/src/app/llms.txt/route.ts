@@ -28,6 +28,7 @@ async function llmsText() {
     ...section("Ações brasileiras", "br-stocks"),
     ...section("Fundos imobiliários (FIIs)", "fiis"),
     ...section("ETFs americanos", "us-etfs"),
+    ...section("BDRs (empresas estrangeiras na B3)", "bdrs"),
   ].join("\n");
 }
 

@@ -1,11 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import catalog from "@/data/app-features.json";
-import brStocks from "@/data/assets/br-stocks.json";
-import fiis from "@/data/assets/fiis.json";
-import usETFs from "@/data/assets/us-etfs.json";
 import { assetPaths, assetSlugs, listNames, type AssetList } from "@/lib/assets";
 import { jsonLd, organization, softwareApplication, webPage, website } from "@/lib/json-ld";
+import { rankings } from "@/lib/rankings";
 import { siteUrl } from "@/lib/site";
 
 const title = "Sua carteira de investimentos no Mac";
@@ -18,10 +16,9 @@ export const metadata: Metadata = {
   openGraph: { title, description, url: "/", type: "website" },
 };
 
-const rankings: Record<AssetList, typeof brStocks> = { "br-stocks": brStocks, fiis, "us-etfs": usETFs };
 
 export default async function Home() {
-  const lists = await Promise.all((["br-stocks", "fiis", "us-etfs"] as const).map(async (list) => {
+  const lists = await Promise.all((["br-stocks", "fiis", "us-etfs", "bdrs"] as AssetList[]).map(async (list) => {
     const withPage = new Set(await assetSlugs(list));
     return { list, assets: rankings[list].assets.filter((a) => withPage.has(a.slug)).slice(0, 10) };
   }));
@@ -64,7 +61,7 @@ export default async function Home() {
           História, proventos, volatilidade e fontes oficiais de cada ativo. Veja como as páginas são feitas na{" "}
           <Link href="/metodologia" className="underline underline-offset-2">metodologia</Link>.
         </p>
-        <div className="mt-6 grid gap-8 sm:grid-cols-3">
+        <div className="mt-6 grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
           {lists.map(({ list, assets }) => (
             <div key={list}>
               <h3 className="font-semibold"><Link href={assetPaths[list]} className="hover:underline">{listNames[list]}</Link></h3>

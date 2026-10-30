@@ -11,14 +11,15 @@ import { execFileSync } from "node:child_process";
 import { mkdir, readFile, stat, writeFile } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import { extractText, getDocumentProxy } from "unpdf";
-import { assetStats } from "./asset-stats.mjs";
+import { assetLists } from "../src/data/schema/asset-page.ts";
+import { assetStats, oneYearBeta } from "./asset-stats.mjs";
 import { bigMoney, date, integer, isoDate, money, percent, sentenceCase, titleCase } from "./pt-br.mjs";
 
 export const root = new URL("../", import.meta.url);
 const readJSON = async (path) => JSON.parse(await readFile(new URL(path, root), "utf8"));
 export const catalog = await readJSON("src/data/app-features.json");
 export const lists = Object.fromEntries(await Promise.all(
-  ["br-stocks", "us-etfs", "fiis"].map(async (l) => [l, (await readJSON(`src/data/assets/${l}.json`)).assets]),
+  assetLists.map(async (l) => [l, (await readJSON(`src/data/assets/${l}.json`)).assets]),
 ));
 
 /** The listed asset for a ticker, with its list and page path, or null. */
@@ -133,6 +134,47 @@ async function b3Company(ticker) {
         ],
         events: [{ date: quotedSince, event: "Início da cotação das ações na bolsa" }],
       }),
+  };
+}
+
+// MARK: - B3: BDRs
+
+let bdrList = null;
+/** Every BDR listed on B3 (about 1.100), fetched once per run. */
+async function b3BDRs() {
+  if (!bdrList) {
+    bdrList = [];
+    for (let page = 1; ; page++) {
+      const { results, page: info } = await get(`${b3}/GetCompaniesBDR/${base64({ language: "pt-br", pageNumber: page, pageSize: 120 })}`);
+      bdrList.push(...results);
+      if (page >= info.totalPages) break;
+    }
+  }
+  return bdrList;
+}
+
+const bdrPrograms = { DRN: "BDR não patrocinado (nível I)", DR1: "BDR patrocinado nível I", DR2: "BDR patrocinado nível II", DR3: "BDR patrocinado nível III" };
+const classified = (s) => (s && !/não classificad/i.test(s) ? s : null);
+
+/** B3's record of a BDR: the foreign company, the program and when it was listed. */
+async function b3BDR(ticker) {
+  const issuer = ticker.slice(0, 4);
+  const r = (await b3BDRs()).find((x) => x.issuingCompany === issuer && x.typeBDR !== "DRE");
+  if (!r) return null;
+  const listedSince = isoDate(r.dateListing) ?? isoDate(r.dateQuotation);
+  const sector = [classified(r.sector), classified(r.subSector), classified(r.segment)].filter(Boolean);
+  return {
+    record: r, listedSince, program: bdrPrograms[r.typeBDR] ?? `BDR (${r.typeBDR})`, sector: sector[0], segment: sector.at(-1),
+    source: source(`B3: ${r.tradingName}, BDR listado`, `https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/${r.codeCVM}/${issuer}/overview?language=pt-br`, {
+      facts: [
+        { label: "Empresa", value: r.companyName },
+        { label: "Nome de pregão", value: r.tradingName },
+        { label: "Tipo de programa", value: bdrPrograms[r.typeBDR] },
+        { label: "Setor (classificação B3)", value: sector.join(" / ") },
+        { label: "Listado na B3 desde", value: date(listedSince) },
+      ],
+      events: [{ date: listedSince, event: "Listagem do BDR na B3" }],
+    }),
   };
 }
 
@@ -350,7 +392,10 @@ async function wikidata(id) {
   const current = (p) => claims(p).filter((c) => !c.qualifiers?.P582);
   const items = (p) => current(p).map((c) => c.mainsnak.datavalue.value.id);
   const wanted = { P159: "Sede", P112: "Fundadores", P169: "Presidente (CEO)", P127: "Controladores ou proprietários", P749: "Empresa controladora" };
-  const ids = [...new Set(Object.keys(wanted).flatMap(items))].slice(0, 50);
+  // Where the company's shares trade: stock exchange (P414) with its ticker (qualifier P249), e.g. NASDAQ: AAPL.
+  const listingClaims = current("P414").map((c) => ({ exchange: c.mainsnak.datavalue.value.id, ticker: c.qualifiers?.P249?.[0]?.datavalue?.value }))
+    .filter((l) => l.ticker);
+  const ids = [...new Set([...Object.keys(wanted).flatMap(items), ...listingClaims.map((l) => l.exchange)])].slice(0, 50);
   const labels = ids.length
     ? (await get(`https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${ids.join("|")}&props=labels&languages=pt|en&format=json`)).entities
     : {};
@@ -358,10 +403,14 @@ async function wikidata(id) {
   const inception = claims("P571")[0]?.mainsnak.datavalue.value;
   const employees = current("P1128").at(-1);
   const name = entity.labels.pt?.value ?? entity.labels.en?.value;
-  const website = current("P856").map((c) => c.mainsnak.datavalue.value).find((u) => /^https?:\/\//.test(u));
+  // Companies list several official sites (one per country): the preferred one, or else the shortest.
+  const website = current("P856")
+    .sort((a, b) => (b.rank === "preferred") - (a.rank === "preferred") || a.mainsnak.datavalue.value.length - b.mainsnak.datavalue.value.length)
+    .map((c) => c.mainsnak.datavalue.value).find((u) => /^https?:\/\//.test(u));
   return {
     id,
     name,
+    listings: listingClaims.map((l) => `${label(l.exchange) ?? l.exchange}: ${l.ticker}`),
     website: website && https(website),
     articles: { pt: entity.sitelinks.ptwiki?.title, en: entity.sitelinks.enwiki?.title },
     inception: inception && wikidataTime(inception),
@@ -411,13 +460,14 @@ async function searchWikipedia(lang, query) {
 }
 
 const plain = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-const generic = new Set(["banco", "sa", "s.a.", "s/a", "cia", "companhia", "holding", "participacoes", "de", "do", "da", "e", "-", "brasil", "brasileiro", "brasileira"]);
+const generic = new Set(["banco", "sa", "s.a.", "s/a", "cia", "companhia", "holding", "participacoes", "de", "do", "da", "e", "-", "brasil", "brasileiro", "brasileira",
+  "inc", "inc.", "corp", "corp.", "corporation", "company", "co.", "ltd", "ltd.", "limited", "plc", "n.v.", "group", "holdings", "the", "and"]);
 
 /** A Wikipedia article for a company that Wikidata couldn't match by CNPJ: the top search result sharing a name word. */
-async function findCompanyArticle(names) {
+async function findCompanyArticle(names, lang = "pt") {
   for (const name of names.filter(Boolean)) {
-    const words = plain(name).split(/[\s.,]+/).filter((w) => w.length > 2 && !generic.has(w));
-    for (const title of await searchWikipedia("pt", name)) {
+    const words = plain(name).split(/[\s.,]+/).filter((w) => w.length >= 2 && !generic.has(w));
+    for (const title of await searchWikipedia(lang, name)) {
       if (words.some((w) => plain(title).includes(w))) return title;
     }
   }
@@ -606,6 +656,57 @@ export async function collectSources(asset) {
       website: filings?.website ?? undefined,
       provider: g?.Nome_Administrador ? { name: g.Nome_Administrador, url: https(g.Site) ?? undefined } : undefined,
       sameAs: unique([filings?.sources[0]?.url]),
+    };
+  }
+
+  if (list === "bdrs") {
+    const bdr = await attempt("B3 BDR", () => b3BDR(ticker));
+    const b3At = add(bdr?.source);
+    const names = [stats.name, asset.name, bdr?.record.companyName];
+    const enTitle = await attempt("Wikipedia en", () => findCompanyArticle(names, "en"));
+    const id = enTitle && await attempt("Wikidata", () => wikidataIdByArticle("en", enTitle));
+    const wd = id && await attempt("Wikidata", () => wikidata(id));
+    const wdAt = add(wd?.source);
+    const en = enTitle && await attempt("Wikipedia en", () => wikipedia("en", enTitle, { body: 6000 }));
+    add(en?.source);
+    const pt = wd?.articles.pt && await attempt("Wikipedia pt", () => wikipedia("pt", wd.articles.pt, { body: 4000 }));
+    add(pt?.source);
+    const fact = (label) => wd?.source.facts.find((f) => f.label === label)?.value;
+    const original = wd?.listings.join(", ");
+    if (original) wd.source.facts.push({ label: "Ação original", value: original });
+    // The beta that means something for a BDR is the original share's, in its own market (see asset-stats.mjs).
+    const usListing = wd?.listings.find((l) => /nasdaq|new york stock exchange|nyse/i.test(l));
+    const usTicker = usListing?.split(": ")[1]?.replace(".", "-");
+    const beta = usTicker && await attempt("Yahoo beta da ação original", () => oneYearBeta(usTicker));
+    stats.beta1y = beta != null ? { value: beta, against: `S&P 500, ação original ${usTicker} em dólares` } : { value: null, against: "S&P 500" };
+
+    Object.assign(profile, {
+      name: wd?.name ?? stats.name ?? asset.name,
+      legalName: bdr?.record.companyName,
+      type: bdr?.program ?? "BDR",
+      sector: bdr?.sector,
+      segment: bdr?.segment,
+      founded: wd?.inception && date(wd.inception),
+      listedSince: date(bdr?.listedSince),
+      headquarters: fact("Sede"),
+      website: wd?.website,
+    });
+    characteristic("Empresa", bdr?.record.companyName ?? stats.name, b3At ?? yahoo);
+    characteristic("Tipo de BDR", bdr?.program, b3At);
+    characteristic("Ação original", original, wdAt);
+    characteristic("Setor (classificação B3)", bdr && [bdr.sector, bdr.segment].filter(Boolean).filter((v, i, a) => a.indexOf(v) === i).join(" / "), b3At);
+    characteristic("Sede", fact("Sede"), wdAt);
+    characteristic("Fundação", wd?.inception && date(wd.inception), wdAt);
+    characteristic("Listado na B3 desde", date(bdr?.listedSince), b3At);
+    entity = {
+      kind: "Corporation",
+      name: profile.name,
+      legalName: bdr?.record.companyName,
+      ticker: `BVMF ${ticker}`,
+      foundingDate: wd?.inception ?? undefined,
+      website: wd?.website,
+      wikidata: wd?.id,
+      sameAs: unique([wd && `https://www.wikidata.org/wiki/${wd.id}`, en?.source.url, pt?.source.url, bdr?.source.url]),
     };
   }
 

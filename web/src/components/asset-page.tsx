@@ -101,7 +101,7 @@ export function AssetPageView({ page }: { page: AssetPage }) {
             <p className="mt-4 text-[0.95rem]">
               <span className="text-zinc-500">Links oficiais: </span>
               {[
-                page.entity.website && { url: page.entity.website, label: `Site ${page.list === "br-stocks" ? "da empresa" : "do fundo"} (${linkLabel(page.entity.website)})` },
+                page.entity.website && { url: page.entity.website, label: `Site ${page.list === "br-stocks" || page.list === "bdrs" ? "da empresa" : "do fundo"} (${linkLabel(page.entity.website)})` },
                 page.entity.provider?.url && { url: page.entity.provider.url, label: `${page.list === "fiis" ? "Administrador" : "Emissora"}: ${page.entity.provider.name}` },
                 ...page.entity.sameAs.map((url) => ({ url, label: linkLabel(url) })),
               ].filter((l): l is { url: string; label: string } => Boolean(l)).map((l, i) => (
@@ -114,7 +114,7 @@ export function AssetPageView({ page }: { page: AssetPage }) {
           )}
         </Section>
 
-        <Section id="historia" title={page.list === "br-stocks" ? `História da ${page.profile.name}` : `História ${of} ${page.ticker}`}>
+        <Section id="historia" title={page.list === "br-stocks" || page.list === "bdrs" ? `História da ${page.profile.name}` : `História ${of} ${page.ticker}`}>
           <Markdown text={page.history.overview} />
           <ol className="mt-8 space-y-4 border-l-2 border-zinc-200 pl-6 dark:border-zinc-800">
             {page.history.timeline.map((t) => (

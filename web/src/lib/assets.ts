@@ -1,7 +1,7 @@
 import { readdir, readFile } from "node:fs/promises";
 import path from "node:path";
 
-import { assetPageSchema, type AssetList, type AssetPage } from "@/data/schema/asset-page";
+import { assetLists, assetPageSchema, type AssetList, type AssetPage } from "@/data/schema/asset-page";
 
 // The asset pages' data, written by scripts/generate-asset-page.mjs (shape: src/data/schema/asset-page.ts).
 
@@ -24,14 +24,14 @@ export async function assetPage(list: AssetList, slug: string): Promise<AssetPag
   return file ? assetPageSchema.parse(JSON.parse(file)) : null;
 }
 
-export const assetPaths: Record<AssetList, string> = { "br-stocks": "/acoes", "us-etfs": "/etfs", fiis: "/fiis" };
-export const listNames: Record<AssetList, string> = { "br-stocks": "Ações", "us-etfs": "ETFs", fiis: "FIIs" };
+export const assetPaths: Record<AssetList, string> = { "br-stocks": "/acoes", "us-etfs": "/etfs", fiis: "/fiis", bdrs: "/bdrs" };
+export const listNames: Record<AssetList, string> = { "br-stocks": "Ações", "us-etfs": "ETFs", fiis: "FIIs", bdrs: "BDRs" };
 
 /** Every asset page, briefly: for the feature pages, the home page, llms.txt and the sitemap. */
 export async function allAssetPages() {
   "use cache";
   const pages = [];
-  for (const list of ["br-stocks", "fiis", "us-etfs"] as const) {
+  for (const list of assetLists) {
     for (const slug of await assetSlugs(list)) {
       const page = await assetPage(list, slug);
       if (page) pages.push({

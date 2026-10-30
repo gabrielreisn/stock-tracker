@@ -7,8 +7,8 @@
 //
 // The candidates are a generous pool, not the answer: anything liquid enough to make the top 100 should be in it.
 // Each pool joins a fixed list with a live one: the members of B3's IBrA (Índice Brasil Amplo: the most traded stocks,
-// one share class each) and IFIX (the most traded FIIs), every FII the CVM lists as traded on B3, and the 500 ETFs Yahoo
-// lists as most active by shares traded.
+// one share class each) and IFIX (the most traded FIIs), every FII the CVM lists as traded on B3, every company BDR B3
+// lists (with BDRX, its BDR index), and the 500 ETFs Yahoo lists as most active by shares traded.
 // The fixed lists add what those miss: other share classes (PETR3) and high-priced ETFs that trade fewer shares (VOO).
 import { execFileSync } from "node:child_process";
 import { mkdir, stat, writeFile } from "node:fs/promises";
@@ -39,6 +39,14 @@ const lists = {
       VTV IWF IWD IJR VB TSLZ NVDX MSTX ETHE GBTC IJH VO VXUS VCIT VCSH MUB TIP VNQ IAU SCHX SCHB SCHG ITOT SPYG SPYV
       MTUM QUAL USMV IWB IWV IVW IVE OEF VIG VYM DGRO XLG RSPT SPMO SMH COWZ AVUV DFAC BSV BIV BLV VGIT VGSH VGLT GOVT
       MBB EMB BKLN SRLN JNK USHY SPSB SPIB IGIB IGSB FLOT USFR TFLO SHV SPTL SPTS SCHO SCHR`,
+  },
+  bdrs: {
+    title: "BDRs mais negociados",
+    suffix: ".SA",
+    currency: "BRL",
+    exchange: "B3",
+    // Company BDRs only: ETF BDRs (…39) repeat the US ETF list.
+    candidates: `AAPL34 MSFT34 NVDC34 AMZO34 GOGL34 GOGL35 M1TA34 TSLA34 BERK34 NFLX34 AMD34 JPMC34 VISA34 MELI34 COCA34`,
   },
   fiis: {
     title: "FIIs mais negociados",
@@ -106,7 +114,27 @@ async function cvmListedFIIs() {
   return [];
 }
 
+/**
+ * Every company BDR listed on B3, as tickers. B3 gives the issuer code (AAPL), not the ticker: the number depends on
+ * the program: unsponsored BDRs trade as …34 (and …35 for a second share class, like GOGL35), sponsored ones as
+ * …31, …32 or …33 by level. Codes that don't exist simply don't trade on Yahoo and drop out.
+ */
+async function b3CompanyBDRs() {
+  const suffixes = { DRN: ["34", "35"], DR1: ["31"], DR2: ["32"], DR3: ["33"] };
+  const tickers = [];
+  for (let page = 1; ; page++) {
+    const query = Buffer.from(JSON.stringify({ language: "pt-br", pageNumber: page, pageSize: 120 })).toString("base64");
+    const response = await fetch(`https://sistemaswebb3-listados.b3.com.br/listedCompaniesProxy/CompanyCall/GetCompaniesBDR/${query}`);
+    if (!response.ok) throw new Error(`B3 BDRs: HTTP ${response.status}`);
+    const { results, page: info } = await response.json();
+    for (const r of results) for (const n of suffixes[r.typeBDR] ?? []) if (r.hasQuotation === "S") tickers.push(`${r.issuingCompany}${n}`);
+    if (page >= info.totalPages) break;
+  }
+  return tickers;
+}
+
 const livePools = {
+  bdrs: async () => [...await b3Index("BDRX"), ...await b3CompanyBDRs()],
   "br-stocks": () => b3Index("IBRA"),
   fiis: async () => [...await b3Index("IFIX"), ...await cvmListedFIIs()],
   "us-etfs": () => yahooMostActiveETFs(),

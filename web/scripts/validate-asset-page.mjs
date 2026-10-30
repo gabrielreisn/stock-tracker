@@ -6,12 +6,12 @@
 //   node scripts/validate-asset-page.mjs            every page
 import { readFile, readdir } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
-import { assetPageSchema, describeIssues } from "../src/data/schema/asset-page.ts";
+import { assetLists, assetPageSchema, describeIssues } from "../src/data/schema/asset-page.ts";
 
 const root = new URL("../", import.meta.url);
 const read = async (path) => JSON.parse(await readFile(new URL(path, root), "utf8"));
 const { features, site } = await read("src/data/app-features.json");
-const lists = Object.fromEntries(await Promise.all(["br-stocks", "us-etfs", "fiis"].map(async (l) => [l, (await read(`src/data/assets/${l}.json`)).assets])));
+const lists = Object.fromEntries(await Promise.all(assetLists.map(async (l) => [l, (await read(`src/data/assets/${l}.json`)).assets])));
 
 const featurePaths = new Map(features.map((f) => [f.path, f]));
 const assetPaths = new Set(Object.entries(lists).flatMap(([list, assets]) => assets.map((a) => site.assetPaths[list].replace("{slug}", a.slug))));

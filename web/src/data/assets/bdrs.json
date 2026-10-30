@@ -1,0 +1,1012 @@
+{
+  "list": "bdrs",
+  "title": "BDRs mais negociados",
+  "measure": "Average daily traded value (close × volume) over the last 3 months",
+  "currency": "BRL",
+  "source": "Yahoo Finance daily bars",
+  "generatedAt": "2026-10-30",
+  "candidates": 1620,
+  "found": 360,
+  "assets": [
+    {
+      "rank": 1,
+      "ticker": "XPBR31",
+      "slug": "xpbr31",
+      "name": "XP Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 150672159,
+      "lastPrice": 78.52
+    },
+    {
+      "rank": 2,
+      "ticker": "ROXO34",
+      "slug": "roxo34",
+      "name": "Nu Holdings Ltd.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 142603463,
+      "lastPrice": 10.52
+    },
+    {
+      "rank": 3,
+      "ticker": "AURA33",
+      "slug": "aura33",
+      "name": "Aura Minerals Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 122339728,
+      "lastPrice": 124.51
+    },
+    {
+      "rank": 4,
+      "ticker": "NVDC34",
+      "slug": "nvdc34",
+      "name": "NVIDIA Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 113197004,
+      "lastPrice": 23.03
+    },
+    {
+      "rank": 5,
+      "ticker": "MELI34",
+      "slug": "meli34",
+      "name": "MercadoLibre, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 110094797,
+      "lastPrice": 73.85
+    },
+    {
+      "rank": 6,
+      "ticker": "JBSS32",
+      "slug": "jbss32",
+      "name": "JBS N.V.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 108695790,
+      "lastPrice": 67.98
+    },
+    {
+      "rank": 7,
+      "ticker": "MUTC34",
+      "slug": "mutc34",
+      "name": "Micron Technology, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 106981791,
+      "lastPrice": 794.14
+    },
+    {
+      "rank": 8,
+      "ticker": "INBR34",
+      "slug": "inbr34",
+      "name": "Inter & Co, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 104767225,
+      "lastPrice": 21.99
+    },
+    {
+      "rank": 9,
+      "ticker": "TSLA34",
+      "slug": "tsla34",
+      "name": "Tesla, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 79128528,
+      "lastPrice": 67.63
+    },
+    {
+      "rank": 10,
+      "ticker": "SPCX34",
+      "slug": "spcx34",
+      "name": "Space Exploration Technologies Corp.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 78019295,
+      "lastPrice": 49.71
+    },
+    {
+      "rank": 11,
+      "ticker": "AMZO34",
+      "slug": "amzo34",
+      "name": "Amazon.com, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 53168493,
+      "lastPrice": 64.77
+    },
+    {
+      "rank": 12,
+      "ticker": "GOGL34",
+      "slug": "gogl34",
+      "name": "Alphabet Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 48521853,
+      "lastPrice": 126.52
+    },
+    {
+      "rank": 13,
+      "ticker": "M1TA34",
+      "slug": "m1ta34",
+      "name": "Meta Platforms, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 45982389,
+      "lastPrice": 120.7
+    },
+    {
+      "rank": 14,
+      "ticker": "MSFT34",
+      "slug": "msft34",
+      "name": "Microsoft Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 45363870,
+      "lastPrice": 118.07
+    },
+    {
+      "rank": 15,
+      "ticker": "ITLC34",
+      "slug": "itlc34",
+      "name": "Intel Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 37354779,
+      "lastPrice": 58.5
+    },
+    {
+      "rank": 16,
+      "ticker": "TSMC34",
+      "slug": "tsmc34",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 34798521,
+      "lastPrice": 274.92
+    },
+    {
+      "rank": 17,
+      "ticker": "AAPL34",
+      "slug": "aapl34",
+      "name": "Apple Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 30425135,
+      "lastPrice": 94.16
+    },
+    {
+      "rank": 18,
+      "ticker": "M2ST34",
+      "slug": "m2st34",
+      "name": "Strategy Inc",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 29228807,
+      "lastPrice": 10.1
+    },
+    {
+      "rank": 19,
+      "ticker": "A1MD34",
+      "slug": "a1md34",
+      "name": "Advanced Micro Devices, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 26047787,
+      "lastPrice": 339.18
+    },
+    {
+      "rank": 20,
+      "ticker": "ORCL34",
+      "slug": "orcl34",
+      "name": "Oracle Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 19301995,
+      "lastPrice": 118.66
+    },
+    {
+      "rank": 21,
+      "ticker": "STOC34",
+      "slug": "stoc34",
+      "name": "StoneCo Ltd.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 14012549,
+      "lastPrice": 42.96
+    },
+    {
+      "rank": 22,
+      "ticker": "P2LT34",
+      "slug": "p2lt34",
+      "name": "Palantir Technologies Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 10173042,
+      "lastPrice": 335.9
+    },
+    {
+      "rank": 23,
+      "ticker": "LILY34",
+      "slug": "lily34",
+      "name": "Eli Lilly and Company",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 9991691,
+      "lastPrice": 258
+    },
+    {
+      "rank": 24,
+      "ticker": "AVGO34",
+      "slug": "avgo34",
+      "name": "Broadcom Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 8428792,
+      "lastPrice": 25.09
+    },
+    {
+      "rank": 25,
+      "ticker": "BABA34",
+      "slug": "baba34",
+      "name": "Alibaba Group Holding Limited",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 7824541,
+      "lastPrice": 19.11
+    },
+    {
+      "rank": 26,
+      "ticker": "NFLX34",
+      "slug": "nflx34",
+      "name": "Netflix, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 7121471,
+      "lastPrice": 6.77
+    },
+    {
+      "rank": 27,
+      "ticker": "BERK34",
+      "slug": "berk34",
+      "name": "Berkshire Hathaway Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6806790,
+      "lastPrice": 148.36
+    },
+    {
+      "rank": 28,
+      "ticker": "ASML34",
+      "slug": "asml34",
+      "name": "ASML Holding N.V.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6629321,
+      "lastPrice": 153.81
+    },
+    {
+      "rank": 29,
+      "ticker": "C2RW34",
+      "slug": "c2rw34",
+      "name": "CrowdStrike Holdings, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6357523,
+      "lastPrice": 60.78
+    },
+    {
+      "rank": 30,
+      "ticker": "M2RV34",
+      "slug": "m2rv34",
+      "name": "Marvell Technology, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6231453,
+      "lastPrice": 105.3
+    },
+    {
+      "rank": 31,
+      "ticker": "JPMC34",
+      "slug": "jpmc34",
+      "name": "JPMorgan Chase & Co.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6215434,
+      "lastPrice": 183.96
+    },
+    {
+      "rank": 32,
+      "ticker": "M1RN34",
+      "slug": "m1rn34",
+      "name": "Moderna, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6206505,
+      "lastPrice": 60.48
+    },
+    {
+      "rank": 33,
+      "ticker": "C2OI34",
+      "slug": "c2oi34",
+      "name": "Coinbase Global, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 6108871,
+      "lastPrice": 30.34
+    },
+    {
+      "rank": 34,
+      "ticker": "P2AN34",
+      "slug": "p2an34",
+      "name": "Palo Alto Networks, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4852341,
+      "lastPrice": 33.52
+    },
+    {
+      "rank": 35,
+      "ticker": "D1EL34",
+      "slug": "d1el34",
+      "name": "Dell Technologies Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4407547,
+      "lastPrice": 90.75
+    },
+    {
+      "rank": 36,
+      "ticker": "W1DC34",
+      "slug": "w1dc34",
+      "name": "Western Digital Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 4066323,
+      "lastPrice": 1976.22
+    },
+    {
+      "rank": 37,
+      "ticker": "N2ET34",
+      "slug": "n2et34",
+      "name": "Cloudflare, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3697668,
+      "lastPrice": 82.13
+    },
+    {
+      "rank": 38,
+      "ticker": "PAGS34",
+      "slug": "pags34",
+      "name": "PagSeguro Digital Ltd.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3322234,
+      "lastPrice": 8.69
+    },
+    {
+      "rank": 39,
+      "ticker": "COCA34",
+      "slug": "coca34",
+      "name": "The Coca-Cola Company",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 3026236,
+      "lastPrice": 85.44
+    },
+    {
+      "rank": 40,
+      "ticker": "BOAC34",
+      "slug": "boac34",
+      "name": "Bank of America Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2852521,
+      "lastPrice": 67.97
+    },
+    {
+      "rank": 41,
+      "ticker": "SKHY34",
+      "slug": "skhy34",
+      "name": "SK hynix Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2819546,
+      "lastPrice": 50.15
+    },
+    {
+      "rank": 42,
+      "ticker": "D1DG34",
+      "slug": "d1dg34",
+      "name": "Datadog, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2719791,
+      "lastPrice": 124.83
+    },
+    {
+      "rank": 43,
+      "ticker": "S1TX34",
+      "slug": "s1tx34",
+      "name": "Seagate Technology Holdings plc",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2519741,
+      "lastPrice": 63
+    },
+    {
+      "rank": 44,
+      "ticker": "VISA34",
+      "slug": "visa34",
+      "name": "Visa Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2490570,
+      "lastPrice": 113.15
+    },
+    {
+      "rank": 45,
+      "ticker": "GSGI34",
+      "slug": "gsgi34",
+      "name": "The Goldman Sachs Group, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2481224,
+      "lastPrice": 160.25
+    },
+    {
+      "rank": 46,
+      "ticker": "U1BE34",
+      "slug": "u1be34",
+      "name": "Uber Technologies, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2396921,
+      "lastPrice": 88.09
+    },
+    {
+      "rank": 47,
+      "ticker": "FCXO34",
+      "slug": "fcxo34",
+      "name": "Freeport-McMoRan Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2317631,
+      "lastPrice": 113.6
+    },
+    {
+      "rank": 48,
+      "ticker": "F1TN34",
+      "slug": "f1tn34",
+      "name": "Fortinet, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2274197,
+      "lastPrice": 61.25
+    },
+    {
+      "rank": 49,
+      "ticker": "A1MT34",
+      "slug": "a1mt34",
+      "name": "Applied Materials, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2229327,
+      "lastPrice": 210.32
+    },
+    {
+      "rank": 50,
+      "ticker": "S2NW34",
+      "slug": "s2nw34",
+      "name": "Snowflake Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2227697,
+      "lastPrice": 40.71
+    },
+    {
+      "rank": 51,
+      "ticker": "MSCD34",
+      "slug": "mscd34",
+      "name": "Mastercard Incorporated",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2199486,
+      "lastPrice": 112.16
+    },
+    {
+      "rank": 52,
+      "ticker": "QCOM34",
+      "slug": "qcom34",
+      "name": "QUALCOMM Incorporated",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 2042536,
+      "lastPrice": 74.07
+    },
+    {
+      "rank": 53,
+      "ticker": "CTGP34",
+      "slug": "ctgp34",
+      "name": "Citigroup Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1946469,
+      "lastPrice": 110.22
+    },
+    {
+      "rank": 54,
+      "ticker": "NIKE34",
+      "slug": "nike34",
+      "name": "NIKE, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1861501,
+      "lastPrice": 105.72
+    },
+    {
+      "rank": 55,
+      "ticker": "DISB34",
+      "slug": "disb34",
+      "name": "The Walt Disney Company",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1809232,
+      "lastPrice": 40.35
+    },
+    {
+      "rank": 56,
+      "ticker": "EXXO34",
+      "slug": "exxo34",
+      "name": "ExxonMobil Holdings Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1587109,
+      "lastPrice": 127.48
+    },
+    {
+      "rank": 57,
+      "ticker": "A1KA34",
+      "slug": "a1ka34",
+      "name": "Akamai Technologies, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1505607,
+      "lastPrice": 42.2
+    },
+    {
+      "rank": 58,
+      "ticker": "O1KT34",
+      "slug": "o1kt34",
+      "name": "Okta, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1409674,
+      "lastPrice": 56.16
+    },
+    {
+      "rank": 59,
+      "ticker": "L1RC34",
+      "slug": "l1rc34",
+      "name": "Lam Research Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1377599,
+      "lastPrice": 29.25
+    },
+    {
+      "rank": 60,
+      "ticker": "G1LW34",
+      "slug": "g1lw34",
+      "name": "Corning Incorporated",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1352897,
+      "lastPrice": 166.67
+    },
+    {
+      "rank": 61,
+      "ticker": "CATP34",
+      "slug": "catp34",
+      "name": "Caterpillar Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1321878,
+      "lastPrice": 213.16
+    },
+    {
+      "rank": 62,
+      "ticker": "WALM34",
+      "slug": "walm34",
+      "name": "Walmart Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1308115,
+      "lastPrice": 42.15
+    },
+    {
+      "rank": 63,
+      "ticker": "BKNG34",
+      "slug": "bkng34",
+      "name": "Booking Holdings Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1296559,
+      "lastPrice": 4.59
+    },
+    {
+      "rank": 64,
+      "ticker": "Z2SC34",
+      "slug": "z2sc34",
+      "name": "Zscaler, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1267686,
+      "lastPrice": 42.45
+    },
+    {
+      "rank": 65,
+      "ticker": "N1TA34",
+      "slug": "n1ta34",
+      "name": "NetApp, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1220534,
+      "lastPrice": 84.24
+    },
+    {
+      "rank": 66,
+      "ticker": "MCDC34",
+      "slug": "mcdc34",
+      "name": "McDonald's Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1177786,
+      "lastPrice": 70.48
+    },
+    {
+      "rank": 67,
+      "ticker": "VERZ34",
+      "slug": "verz34",
+      "name": "Verizon Communications Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1160784,
+      "lastPrice": 40.95
+    },
+    {
+      "rank": 68,
+      "ticker": "A1NE34",
+      "slug": "a1ne34",
+      "name": "Arista Networks, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1122227,
+      "lastPrice": 228.99
+    },
+    {
+      "rank": 69,
+      "ticker": "S1NP34",
+      "slug": "s1np34",
+      "name": "Synopsys, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1116415,
+      "lastPrice": 63.71
+    },
+    {
+      "rank": 70,
+      "ticker": "SSFO34",
+      "slug": "ssfo34",
+      "name": "Salesforce, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1100323,
+      "lastPrice": 57.1
+    },
+    {
+      "rank": 71,
+      "ticker": "N1OW34",
+      "slug": "n1ow34",
+      "name": "ServiceNow, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1079593,
+      "lastPrice": 11.33
+    },
+    {
+      "rank": 72,
+      "ticker": "CHVX34",
+      "slug": "chvx34",
+      "name": "Chevron Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 1045451,
+      "lastPrice": 128
+    },
+    {
+      "rank": 73,
+      "ticker": "S1YM34",
+      "slug": "s1ym34",
+      "name": "Gen Digital Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 984096,
+      "lastPrice": 129.49
+    },
+    {
+      "rank": 74,
+      "ticker": "S2GM34",
+      "slug": "s2gm34",
+      "name": "Sigma Lithium Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 979189,
+      "lastPrice": 12.79
+    },
+    {
+      "rank": 75,
+      "ticker": "N1EM34",
+      "slug": "n1em34",
+      "name": "Newmont Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 948821,
+      "lastPrice": 576.2
+    },
+    {
+      "rank": 76,
+      "ticker": "K1LA34",
+      "slug": "k1la34",
+      "name": "KLA Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 901709,
+      "lastPrice": 43.16
+    },
+    {
+      "rank": 77,
+      "ticker": "N1VO34",
+      "slug": "n1vo34",
+      "name": "Novo Nordisk A/S",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 839004,
+      "lastPrice": 27.09
+    },
+    {
+      "rank": 78,
+      "ticker": "T1TW34",
+      "slug": "t1tw34",
+      "name": "Take-Two Interactive Software, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 828173,
+      "lastPrice": 261.37
+    },
+    {
+      "rank": 79,
+      "ticker": "JNJB34",
+      "slug": "jnjb34",
+      "name": "Johnson & Johnson",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 826309,
+      "lastPrice": 100.16
+    },
+    {
+      "rank": 80,
+      "ticker": "ADBE34",
+      "slug": "adbe34",
+      "name": "Adobe Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 816441,
+      "lastPrice": 27.31
+    },
+    {
+      "rank": 81,
+      "ticker": "RIOT34",
+      "slug": "riot34",
+      "name": "Rio Tinto Group",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 810197,
+      "lastPrice": 444.43
+    },
+    {
+      "rank": 82,
+      "ticker": "C1DN34",
+      "slug": "c1dn34",
+      "name": "Cadence Design Systems, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 777329,
+      "lastPrice": 53.97
+    },
+    {
+      "rank": 83,
+      "ticker": "V1ST34",
+      "slug": "v1st34",
+      "name": "Vistra Corp.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 715758,
+      "lastPrice": 53.3
+    },
+    {
+      "rank": 84,
+      "ticker": "C1HK34",
+      "slug": "c1hk34",
+      "name": "Check Point Software Technologies Ltd.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 689351,
+      "lastPrice": 69.78
+    },
+    {
+      "rank": 85,
+      "ticker": "WFCO34",
+      "slug": "wfco34",
+      "name": "Wells Fargo & Company",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 647480,
+      "lastPrice": 113.77
+    },
+    {
+      "rank": 86,
+      "ticker": "TXSA34",
+      "slug": "txsa34",
+      "name": "Ternium S.A.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 643974,
+      "lastPrice": 288.55
+    },
+    {
+      "rank": 87,
+      "ticker": "RGTI34",
+      "slug": "rgti34",
+      "name": "Rigetti Computing, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 638650,
+      "lastPrice": 59.46
+    },
+    {
+      "rank": 88,
+      "ticker": "V1RT34",
+      "slug": "v1rt34",
+      "name": "Vertiv Holdings Co",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 557439,
+      "lastPrice": 125.75
+    },
+    {
+      "rank": 89,
+      "ticker": "MRCK34",
+      "slug": "mrck34",
+      "name": "Merck & Co., Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 511338,
+      "lastPrice": 101.98
+    },
+    {
+      "rank": 90,
+      "ticker": "PYPL34",
+      "slug": "pypl34",
+      "name": "PayPal Holdings, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 508196,
+      "lastPrice": 15.58
+    },
+    {
+      "rank": 91,
+      "ticker": "AIRB34",
+      "slug": "airb34",
+      "name": "Airbnb, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 481395,
+      "lastPrice": 44.99
+    },
+    {
+      "rank": 92,
+      "ticker": "M1NS34",
+      "slug": "m1ns34",
+      "name": "Monster Beverage Corporation",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 472457,
+      "lastPrice": 32.12
+    },
+    {
+      "rank": 93,
+      "ticker": "M1MC34",
+      "slug": "m1mc34",
+      "name": "Marsh & McLennan Companies, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 444010,
+      "lastPrice": 68.11
+    },
+    {
+      "rank": 94,
+      "ticker": "UNHH34",
+      "slug": "unhh34",
+      "name": "UnitedHealth Group Incorporated",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 440409,
+      "lastPrice": 31.51
+    },
+    {
+      "rank": 95,
+      "ticker": "TMOS34",
+      "slug": "tmos34",
+      "name": "Thermo Fisher Scientific Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 415896,
+      "lastPrice": 78.6
+    },
+    {
+      "rank": 96,
+      "ticker": "GOGL35",
+      "slug": "gogl35",
+      "name": "Alphabet Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 414747,
+      "lastPrice": 125.81
+    },
+    {
+      "rank": 97,
+      "ticker": "HONB34",
+      "slug": "honb34",
+      "name": "Honeywell International Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 409883,
+      "lastPrice": 1200.59
+    },
+    {
+      "rank": 98,
+      "ticker": "S1BS34",
+      "slug": "s1bs34",
+      "name": "Sibanye Stillwater Limited",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 389418,
+      "lastPrice": 23.4
+    },
+    {
+      "rank": 99,
+      "ticker": "PEPB34",
+      "slug": "pepb34",
+      "name": "PepsiCo, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 380298,
+      "lastPrice": 50.25
+    },
+    {
+      "rank": 100,
+      "ticker": "U1AL34",
+      "slug": "u1al34",
+      "name": "United Airlines Holdings, Inc.",
+      "exchange": "B3",
+      "currency": "BRL",
+      "avgDailyValue": 364606,
+      "lastPrice": 285.6
+    }
+  ]
+}

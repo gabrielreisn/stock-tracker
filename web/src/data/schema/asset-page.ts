@@ -5,7 +5,7 @@ import { z } from "zod";
 // pages (scripts/generate-asset-page.mjs, scripts/validate-asset-page.mjs), which import this file directly: Node runs
 // it by stripping the types, so it only uses syntax that can be erased.
 
-export const assetLists = ["br-stocks", "us-etfs", "fiis"] as const;
+export const assetLists = ["br-stocks", "us-etfs", "fiis", "bdrs"] as const;
 export const volatilityLevels = ["baixa", "moderada", "alta", "muito alta"] as const;
 
 const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/);
@@ -68,7 +68,7 @@ export const assetPageSchema = z.strictObject({
     title: z.string().min(20).max(60).describe("Starts with the ticker. No clickbait."),
     description: z.string().min(80).max(155),
     h1: z.string().max(80),
-    canonicalPath: z.string().regex(/^\/(acoes|etfs|fiis)\/[a-z0-9-]+$/),
+    canonicalPath: z.string().regex(/^\/(acoes|etfs|fiis|bdrs)\/[a-z0-9-]+$/),
     keywords: z.array(z.string()).max(12).optional(),
   }),
 

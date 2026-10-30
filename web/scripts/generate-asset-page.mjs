@@ -22,8 +22,8 @@ const contextSize = 32_768;
 // Good answers take 3.000 to 4.500 tokens; past this the model is rambling or stuck.
 const maxAnswerTokens = 7_000;
 const attempts = 2;
-const kinds = { "br-stocks": "ação brasileira (B3)", fiis: "fundo imobiliário, FII (B3)", "us-etfs": "ETF americano" };
-const listNames = { "br-stocks": "Ações brasileiras", fiis: "FIIs", "us-etfs": "ETFs americanos" };
+const kinds = { "br-stocks": "ação brasileira (B3)", fiis: "fundo imobiliário, FII (B3)", "us-etfs": "ETF americano", bdrs: "BDR: recibo negociado na B3, em reais, que representa ações de uma empresa listada no exterior" };
+const listNames = { "br-stocks": "Ações brasileiras", fiis: "FIIs", "us-etfs": "ETFs americanos", bdrs: "BDRs" };
 const today = new Date().toISOString().slice(0, 10);
 
 // The sections of each kind of page: the same headings across pages, and a model writes better one subject at a time.
@@ -41,6 +41,13 @@ const sectionPlans = {
     { id: "emissoes", heading: "Emissões de cotas, patrimônio e cotistas", guide: "As ofertas de cotas (eventos confirmados do FNET), o patrimônio líquido, o número de cotistas e o valor patrimonial da cota da CVM, com as datas." },
     { id: "desempenho", heading: "Desempenho do {ticker}", guide: "As rentabilidades dos números calculados, sempre com o período e a data. Link para a comparação com índices (IFIX, CDI)." },
     { id: "riscos", heading: "Riscos do {ticker}", guide: "Os riscos que as fontes mencionam e os riscos gerais do tipo de fundo (crédito para fundos de papel, vacância para fundos de tijolo, juros), a volatilidade e a maior queda." },
+  ],
+  bdrs: [
+    { id: "negocio", heading: "Como a {name} ganha dinheiro", guide: "A atividade da empresa e de onde vem a receita, só com o que as fontes dizem." },
+    { id: "como-funciona-o-bdr", heading: "Como funciona o BDR {ticker}", guide: "Em termos gerais: o BDR é um recibo negociado na B3, em reais, lastreado em ações da empresa no exterior e emitido por uma instituição depositária; o preço acompanha a ação original e o câmbio. Diga o tipo de programa e a ação original (bolsa e ticker) segundo as fontes, e a data de listagem na B3. Não fale de tributação nem de corretoras." },
+    { id: "proventos", heading: "{ticker} paga dividendos?", guide: "Os proventos dos números calculados (valor, quantidade de pagamentos, dividend yield, último pagamento), lembrando que a empresa paga na moeda dela e o valor chega em reais. Se não houve proventos, diga isso." },
+    { id: "desempenho", heading: "Desempenho do {ticker}", guide: "As rentabilidades dos números calculados, em reais, sempre com o período e a data; explique que elas incluem a variação do câmbio. Link para a comparação com índices (S&P 500, CDI)." },
+    { id: "riscos", heading: "Riscos do {ticker}", guide: "Os riscos que as fontes mencionam sobre a empresa, o risco cambial, a liquidez do BDR na B3, a volatilidade e a maior queda." },
   ],
   "us-etfs": [
     { id: "como-funciona", heading: "Como o {ticker} funciona", guide: "O que o ETF replica, a emissora e o lançamento, segundo as fontes. Se for alavancado ou inverso, explique logo no começo o rebalanceamento diário e por que, em períodos longos, o resultado se afasta do múltiplo do índice." },
@@ -68,7 +75,7 @@ const allowedPaths = new Set([
 /** The dossier as the model reads it: the asset, computed figures, numbered sources, dated events and link targets. */
 function dossierText(asset, d, sourceTexts) {
   const s = d.stats, currency = s.currency, asOf = date(s.asOf);
-  const per = asset.list === "br-stocks" ? "por ação" : "por cota";
+  const per = asset.list === "br-stocks" ? "por ação" : asset.list === "bdrs" ? "por BDR" : "por cota";
   const returns = Object.entries({ "1y": "12 meses", "3y": "3 anos", "5y": "5 anos", "10y": "10 anos" })
     .filter(([k]) => s.returns[k] != null).map(([k, label]) => `${label} ${percent(s.returns[k])}`);
   const dividends = s.dividends?.payments12Months
@@ -88,7 +95,11 @@ function dossierText(asset, d, sourceTexts) {
     `- Preço em ${asOf}: ${money(s.price, currency)}`,
     `- Rentabilidade total com proventos: ${returns.join("; ")}`,
     `- Volatilidade anualizada (12 meses): ${percent(s.volatility1y)}, nível "${s.volatilityLevel}"`,
-    `- Beta (12 meses) contra o ${s.beta1y.against}: ${s.beta1y.value?.toLocaleString("pt-BR", { minimumFractionDigits: 2 })}`,
+    s.beta1y.value == null
+      ? "- Beta: não disponível"
+      : asset.list === "bdrs"
+        ? `- Beta da ação original (não do BDR) nos últimos 12 meses, contra o ${s.beta1y.against}: ${s.beta1y.value.toLocaleString("pt-BR", { minimumFractionDigits: 2 })}. É o beta da ação no exterior, em dólares; o BDR em reais também sofre o efeito do câmbio.`
+        : `- Beta (12 meses) contra o ${s.beta1y.against}: ${s.beta1y.value.toLocaleString("pt-BR", { minimumFractionDigits: 2 })}`,
     `- Maior queda nos últimos 5 anos: ${drawdown}`,
     `- Proventos: ${dividends}`,
     s.avgDailyTradedValue3m ? `- Volume médio negociado por dia (3 meses): ${bigMoney(s.avgDailyTradedValue3m, currency)}` : null,

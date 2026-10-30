@@ -11,6 +11,9 @@ const markets = {
   "br-stocks": { suffix: ".SA", benchmark: "^BVSP", benchmarkName: "Ibovespa" },
   fiis: { suffix: ".SA", benchmark: "^BVSP", benchmarkName: "Ibovespa" },
   "us-etfs": { suffix: "", benchmark: "^GSPC", benchmarkName: "S&P 500" },
+  // A BDR's own beta is misleading: its price in reais mixes the share, the exchange rate and the BDR's own trading, and
+  // against the S&P 500 it comes out near zero. asset-sources.mjs replaces it with the original share's beta.
+  bdrs: { suffix: ".SA", benchmark: "^GSPC", benchmarkName: "S&P 500" },
 };
 async function history(symbol, range = "10y") {
   const url = `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(symbol)}?range=${range}&interval=1d&events=div,split`;
@@ -103,10 +106,24 @@ export async function assetStats(ticker, list) {
   };
 }
 
+/** One year's beta of a Yahoo symbol against a benchmark, both in their own currency (for a BDR's original share). */
+export async function oneYearBeta(symbol, benchmark = "^GSPC") {
+  const [asset, index] = await Promise.all([history(symbol, "2y"), history(benchmark, "2y")]);
+  const oneYearAgo = dateYearsAgo(asset.days.at(-1).date, 1);
+  const returns = (days) => logReturns(days.filter((d) => d.date >= oneYearAgo));
+  const indexByDate = new Map(returns(index.days).map((x) => [x.date, x.r]));
+  const paired = returns(asset.days).filter((x) => indexByDate.has(x.date)).map((x) => [x.r, indexByDate.get(x.date)]);
+  if (paired.length < 100) return null;
+  const meanA = paired.reduce((s, [a]) => s + a, 0) / paired.length, meanB = paired.reduce((s, [, b]) => s + b, 0) / paired.length;
+  const covariance = paired.reduce((s, [a, b]) => s + (a - meanA) * (b - meanB), 0) / (paired.length - 1);
+  const variance = paired.reduce((s, [, b]) => s + (b - meanB) ** 2, 0) / (paired.length - 1);
+  return round(covariance / variance, 2);
+}
+
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   const [ticker, list] = process.argv.slice(2);
   if (!ticker || !markets[list]) {
-    console.error("usage: node scripts/asset-stats.mjs <TICKER> <br-stocks|us-etfs|fiis>");
+    console.error("usage: node scripts/asset-stats.mjs <TICKER> <br-stocks|us-etfs|fiis|bdrs>");
     process.exit(1);
   }
   console.log(JSON.stringify(await assetStats(ticker, list), null, 2));
