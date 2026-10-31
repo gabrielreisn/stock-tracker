@@ -35,7 +35,8 @@ if (dryRun) {
     headers: { "Content-Type": "application/json; charset=utf-8" },
     body: JSON.stringify({ host: new URL(siteUrl).host, key, keyLocation: `${siteUrl}/${key}.txt`, urlList: urls }),
   });
-  // 200: accepted. 202: accepted, key not checked yet. 403: the key file isn't reachable. 422: a URL isn't on the host.
+  // 200: accepted. 202: accepted, key not checked yet. 403: the key isn't valid (yet: the very first submission for a
+  // host got a 403 and the retry a 200). 422: a URL isn't on the host.
   console.log(`IndexNow: HTTP ${result.status} ${result.statusText}`);
   if (!result.ok) process.exitCode = 1;
 }
