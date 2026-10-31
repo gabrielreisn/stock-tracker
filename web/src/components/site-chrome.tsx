@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { siteName } from "@/lib/site";
 
@@ -16,7 +17,10 @@ export function SiteHeader() {
   return (
     <header className="border-b border-zinc-200 dark:border-zinc-800">
       <div className="mx-auto flex w-full max-w-5xl flex-wrap items-center justify-between gap-3 px-4 py-3 sm:px-6">
-        <Link href="/" className="text-lg font-bold tracking-tight">{siteName}</Link>
+        <Link href="/" className="flex items-center gap-2 text-lg font-bold tracking-tight">
+          {siteName}
+          <Image src="/icon.svg" alt="" width={28} height={28} unoptimized priority />
+        </Link>
         <nav aria-label="Seções" className="flex flex-wrap items-center gap-x-5 gap-y-1 text-sm">
           {sections.map((s) => (
             <Link key={s.href} href={s.href} className="text-zinc-600 hover:text-zinc-950 dark:text-zinc-400 dark:hover:text-white">{s.label}</Link>
