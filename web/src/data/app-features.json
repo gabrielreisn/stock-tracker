@@ -1,5 +1,5 @@
 {
-  "about": "StockBar's features, for internal links from asset pages. Every summary describes only what the macOS app does today; keep it that way when the app changes.",
+  "about": "Cymba's features, for internal links from asset pages. Every summary describes only what the macOS app does today; keep it that way when the app changes.",
   "site": {
     "assetPaths": {
       "br-stocks": "/acoes/{slug}",

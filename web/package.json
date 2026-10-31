@@ -16,7 +16,8 @@
     "assets:validate": "node scripts/validate-asset-page.mjs",
     "assets:generate": "node scripts/generate-asset-page.mjs",
     "assets:generate:all": "node scripts/generate-asset-page.mjs --all",
-    "assets:enrich": "node scripts/enrich-asset-pages.mjs"
+    "assets:enrich": "node scripts/enrich-asset-pages.mjs",
+    "indexnow": "node scripts/indexnow.mjs"
   },
   "dependencies": {
     "lightweight-charts": "5.2.1",

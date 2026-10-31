@@ -8,7 +8,7 @@ import { absoluteUrl, siteName, siteUrl } from "@/lib/site";
 
 type Node = Record<string, unknown>;
 
-// Releases are published on GitHub; the site links the latest one without naming the repository.
+// Releases are published on GitHub; the site links the latest one.
 export const downloadUrl = "https://github.com/gabrielreisn/stock-tracker/releases/latest";
 
 const ids = { org: `${siteUrl}/#org`, website: `${siteUrl}/#website`, app: `${siteUrl}/#app` };

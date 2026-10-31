@@ -6,7 +6,7 @@
 //   node scripts/generate-asset-page.mjs PETR4 [MXRF11 …]     one or more pages (overwrites)
 //   node scripts/generate-asset-page.mjs --all                 every listed asset without a page yet
 //   node scripts/generate-asset-page.mjs --all --list fiis --force
-//   STOCKBAR_MODEL=gemma3:27b node scripts/generate-asset-page.mjs SPY     another Ollama model
+//   CYMBA_MODEL=gemma3:27b node scripts/generate-asset-page.mjs SPY     another Ollama model
 //
 // Needs Ollama running (`ollama serve`, or `brew services start ollama`) and the model pulled (`ollama pull qwen3.8:27b`).
 import { mkdir, readFile, stat, writeFile } from "node:fs/promises";
@@ -16,7 +16,7 @@ import { date, isoDate, percent, money, bigMoney } from "./pt-br.mjs";
 import { advice, checkPage } from "./validate-asset-page.mjs";
 import { describeIssues } from "../src/data/schema/asset-page.ts";
 
-const modelName = process.env.STOCKBAR_MODEL ?? "qwen3.8:27b";
+const modelName = process.env.CYMBA_MODEL ?? "qwen3.8:27b";
 const ollama = process.env.OLLAMA_HOST ?? "http://127.0.0.1:11434";
 const contextSize = 32_768;
 // Good answers take 3.000 to 4.500 tokens; past this the model is rambling or stuck.

@@ -4,9 +4,9 @@ import catalog from "@/data/app-features.json";
 import { assetPaths, assetSlugs, listNames, type AssetList } from "@/lib/assets";
 import { jsonLd, organization, softwareApplication, webPage, website } from "@/lib/json-ld";
 import { rankings } from "@/lib/rankings";
-import { siteUrl } from "@/lib/site";
+import { siteName, siteUrl } from "@/lib/site";
 
-const title = "Sua carteira de investimentos no Mac";
+const title = `${siteName}: sua carteira de investimentos no Mac`;
 const description = "App de Mac para acompanhar ações da B3 e dos EUA, FIIs, ETFs, renda fixa e gastos, com Open Finance, alertas de preço e assistente de IA.";
 
 export const metadata: Metadata = {

@@ -2,17 +2,17 @@
 // robots.txt and JSON-LD. Never the address a page happens to be served from, so preview deployments and localhost
 // don't end up as canonical URLs.
 //
-//   NEXT_PUBLIC_SITE_URL           set it once the domain is chosen (e.g. https://example.com)
-//   VERCEL_PROJECT_PRODUCTION_URL  Vercel sets it on every deployment, previews included: the production domain
+//   NEXT_PUBLIC_SITE_URL  overrides it (set on Vercel to https://www.cymba.app)
+//   VERCEL                set on every Vercel deployment, previews included: they all point at the public address
+//
+// www.cymba.app is the primary domain; cymba.app redirects to it (308). Not VERCEL_PROJECT_PRODUCTION_URL: Vercel
+// picks the shortest domain for it, cymba.app, which would make every canonical URL a redirect.
 
-const vercelProduction = process.env.VERCEL_PROJECT_PRODUCTION_URL;
-
-export const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? (vercelProduction ? `https://${vercelProduction}` : "http://localhost:3000"))
+export const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? (process.env.VERCEL ? "https://www.cymba.app" : "http://localhost:3000"))
   .replace(/\/+$/, "");
 
-// The product's name isn't public yet: a neutral label until it is. Set NEXT_PUBLIC_SITE_NAME to change it everywhere
-// (header, Open Graph, JSON-LD, llms.txt).
-export const siteName = process.env.NEXT_PUBLIC_SITE_NAME ?? "Investimentos no Mac";
+// Header, titles, Open Graph, JSON-LD and llms.txt. NEXT_PUBLIC_SITE_NAME overrides it.
+export const siteName = process.env.NEXT_PUBLIC_SITE_NAME ?? "Cymba";
 
 /** Whether this build is the one people and crawlers should see. Previews and local builds aren't indexed. */
 export const isProduction = process.env.VERCEL_ENV ? process.env.VERCEL_ENV === "production" : process.env.NODE_ENV === "production";

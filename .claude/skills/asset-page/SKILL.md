@@ -1,6 +1,6 @@
 ---
 name: asset-page
-description: Generates the data for one asset page of StockBar's website (a Brazilian stock, a US ETF or a FII) from a ticker — characteristics, computed volatility and returns, a sourced history, FAQ, and internal links that promote StockBar's features. Use when asked to write, generate, research or update an asset page, e.g. "gera a página da PETR4", "asset page for SPY", "/asset-page MXRF11".
+description: Generates the data for one asset page of Cymba's website (a Brazilian stock, a US ETF or a FII) from a ticker — characteristics, computed volatility and returns, a sourced history, FAQ, and internal links that promote Cymba's features. Use when asked to write, generate, research or update an asset page, e.g. "gera a página da PETR4", "asset page for SPY", "/asset-page MXRF11".
 ---
 
 # Asset page
@@ -12,7 +12,7 @@ the Brazilian investor searching for the ticker on Google or asking an AI assist
 Every page has three jobs, in this order:
 1. **Be the most useful, accurate page about the asset**, with facts a reader or an AI engine can trust and cite.
 2. **Rank and get cited** (SEO and GEO): direct answers, specific facts with dates, named entities, sources.
-3. **Lead to StockBar**: internal links that show, in context, how the app helps someone who holds this asset.
+3. **Lead to Cymba**: internal links that show, in context, how the app helps someone who holds this asset.
 
 ## Inputs
 
@@ -110,7 +110,7 @@ Work from `web/`.
   conditions, as the law and the fund's own documents state them, without promising it applies to the reader.
 - The IFIX as its reference index.
 
-## Internal links to StockBar
+## Internal links to Cymba
 
 The feature catalog is `web/src/data/app-features.json`. It lists each feature's path, what it does, which asset
 lists it's relevant for, and when to link it. Describe a feature **only** as its `summary` does: never promise

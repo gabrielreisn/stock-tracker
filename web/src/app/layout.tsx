@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   // Relative canonical and Open Graph URLs resolve against the public address, not the host serving the page.
   metadataBase: new URL(siteUrl),
-  // Titles stand on their own: no brand suffix while the name isn't public.
-  title: { default: siteName, template: "%s" },
+  // The brand goes last, so the page's own subject leads the title in search results.
+  title: { default: siteName, template: `%s | ${siteName}` },
   description: "App de Mac para acompanhar ações, FIIs, ETFs, renda fixa e gastos.",
   openGraph: { siteName, locale: "pt_BR" },
 };
