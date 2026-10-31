@@ -1,0 +1,265 @@
+{
+  "ticker": "VCSH",
+  "slug": "vcsh",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VCSH: história, dividendos e volatilidade",
+    "description": "VCSH é o ETF da Vanguard de títulos corporativos de curto prazo. Veja rentabilidade, dividendos, volatilidade e como investir a partir do Brasil.",
+    "h1": "VCSH: Vanguard Short-Term Corporate Bond Index Fund ETF Shares",
+    "canonicalPath": "/etfs/vcsh",
+    "keywords": [
+      "VCSH",
+      "Vanguard Short-Term Corporate Bond ETF",
+      "ETF de renda fixa",
+      "títulos corporativos de curto prazo",
+      "investir em ETFs americanos",
+      "dividendos VCSH",
+      "volatilidade VCSH"
+    ]
+  },
+  "summary": "VCSH é a cota do Vanguard Short-Term Corporate Bond Index Fund ETF Shares, um ETF que replica a performance de títulos de dívida corporativa de curto prazo nos Estados Unidos. Lançado em 23/11/2009, o fundo é administrado pela Vanguard. Em 29/10/2026, a cota era negociada a US$ 77,77, com um dividend yield de 4,53% nos 12 meses anteriores, refletindo o perfil de menor volatilidade e foco em liquidez desse tipo de ativo de renda fixa.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Short-Term Corporate Bond Index Fund ETF Shares",
+    "ticker": "XNAS VCSH",
+    "foundingDate": "2009-11-23",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa (títulos corporativos de curto prazo)",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "Bloomberg U.S",
+    "name": "Vanguard Short-Term Corporate Bond Index Fund ETF Shares",
+    "founded": "23/11/2009"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Short-Term Corporate Bond Index Fund ETF Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "23/11/2009",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 77,77",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "2,05% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,07",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,53%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 445,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VCSH",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Short-Term Corporate Bond Index Fund ETF Shares",
+    "currency": "USD",
+    "price": 77.77,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0171,
+      "3y": 0.1781,
+      "5y": 0.1305,
+      "10y": 0.2972
+    },
+    "volatility1y": 0.0205,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.0901,
+      "from": "2021-11-05",
+      "to": "2022-10-20"
+    },
+    "beta1y": {
+      "value": 0.07,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.526,
+      "payments12Months": 12,
+      "yield12Months": 0.0453,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.295
+      }
+    },
+    "avgDailyTradedValue3m": 445082308
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do VCSH nos últimos 12 meses, até 29/10/2026, foi de 2,05%, um nível considerado baixo, típico de ETFs de renda fixa de curto prazo. O beta de 0,07 contra o S&P 500 indica que o ativo tende a se mover em direção oposta ou de forma muito mais suave que o índice acionário, o que o torna uma opção para reduzir a oscilação de uma carteira. A maior queda em 5 anos foi de -9,01%, entre 05/11/2021 e 20/10/2022, período de forte alta de juros nos EUA. Para acompanhar a volatilidade e definir pontos de atenção, os [alertas de preço](/recursos/alertas-de-preco) podem ser úteis."
+  },
+  "history": {
+    "overview": "O Vanguard Short-Term Corporate Bond Index Fund ETF Shares (VCSH) teve seu primeiro pregão em 23/11/2009. O fundo é emitido pela The Vanguard Group, Inc., uma das maiores gestoras de fundos do mundo, com sede em Malvern, Pennsylvania. A Vanguard foi fundada em 1975 por John C. Bogle, reconhecido por popularizar os fundos de índice de baixo custo para investidores individuais. A empresa é propriedade dos próprios fundos que gerencia, o que significa que é, em última instância, propriedade de seus clientes. Essa estrutura visa alinhar os interesses da gestora com os dos investidores, focando em taxas administrativas reduzidas. O VCSH faz parte da estratégia da Vanguard de oferecer exposição a diferentes classes de ativos, incluindo renda fixa corporativa, de forma passiva e acessível.",
+    "timeline": [
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group, Inc., por John C. Bogle.",
+        "source": 1
+      },
+      {
+        "date": "2009-11-23",
+        "event": "Primeiro pregão das cotas do ETF VCSH na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2025",
+        "event": "A Vanguard gerencia aproximadamente US$ 13,3 trilhões em ativos globais, sendo a segunda maior gestora de ETFs do mundo.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VCSH funciona",
+      "body": "O VCSH é um ETF (Exchange-Traded Fund) que busca replicar a performance de um índice de títulos de dívida corporativa de curto prazo nos Estados Unidos. A emissora é a Vanguard, uma das maiores gestoras de fundos do mundo, conhecida por sua estratégia de investimento passivo e baixo custo. O fundo foi lançado em 23/11/2009. Ao comprar uma cota do VCSH, o investidor adquire uma fração de uma carteira diversificada de títulos de empresas, com maturidades curtas, o que reduz a sensibilidade a mudanças nas taxas de juros em comparação com títulos de longo prazo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VCSH",
+      "body": "O VCSH segue um índice de títulos corporativos de curto prazo. Títulos corporativos são dívidas emitidas por empresas para financiar operações, aquisições ou expansões. Esses títulos são classificados por agências de crédito; os de grau de investimento (high grade) possuem maior segurança, enquanto os de alto rendimento (high yield) oferecem maior risco e retorno potencial. A composição exata do índice e a lista de títulos não são detalhadas nas fontes fornecidas, mas o foco é em emissões corporativas com maturidade curta."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VCSH a partir do Brasil",
+      "body": "Para investir no VCSH a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. A compra é feita em dólar, o que introduz risco cambial: variações no câmbio entre o real e o dólar impactam o retorno em reais. Alternativamente, é possível buscar ETFs ou BDRs negociados na B3 que tenham exposição a títulos de renda fixa corporativa americana, embora a disponibilidade e a liquidez dessas alternativas possam variar. O uso de uma conta no exterior permite a compra direta do VCSH, mas exige atenção à cotação do dólar e às regras de repatriação de recursos."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VCSH",
+      "body": "Até 29/10/2026, o VCSH apresentou rentabilidade total com proventos de 1,71% nos últimos 12 meses, 17,81% em 3 anos, 13,05% em 5 anos e 29,72% em 10 anos. O fundo distribuiu US$ 3,5260 por cota em 12 pagamentos no período de 12 meses, resultando em um dividend yield de 4,53%. O último provento foi de US$ 0,2950 em 01/10/2026. Esses números são em dólar e não consideram o efeito do câmbio. Para comparar com o desempenho do mercado acionário americano, é possível usar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VCSH",
+      "body": "Os principais riscos do VCSH incluem o risco de crédito (inadimplência das empresas emissoras dos títulos), o risco de taxa de juros (a valorização dos títulos cai quando as taxas sobem, embora seja menor em títulos de curto prazo) e o risco cambial para investidores brasileiros. A volatilidade anualizada do VCSH nos últimos 12 meses foi de 2,05%, considerada baixa. A maior queda em 5 anos foi de -9,01%, entre 05/11/2021 e 20/10/2022. O beta de 0,07 contra o S&P 500 indica que o ativo tem baixa correlação com o mercado acionário. Mesmo assim, é importante monitorar o preço com [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos relevantes."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VCSH paga dividendos?",
+      "answer": "Sim, o VCSH distribui proventos regularmente. Nos 12 meses até 29/10/2026, foram distribuídos US$ 3,5260 por cota em 12 pagamentos, com um dividend yield de 4,53%. O último pagamento foi de US$ 0,2950 em 01/10/2026. É possível acompanhar a história de proventos e a data de pagamento no app."
+    },
+    {
+      "question": "Qual a diferença entre VCSH e VCIT?",
+      "answer": "VCSH é um ETF de títulos corporativos de curto prazo, enquanto [VCIT](/etfs/vcit) é de prazo intermediário. Isso significa que VCSH tem menor sensibilidade a mudanças nas taxas de juros e, geralmente, menor volatilidade e retorno potencial em cenários de queda de juros. Ambos são da Vanguard e seguem índices de renda fixa corporativa."
+    },
+    {
+      "question": "Como investir no VCSH a partir do Brasil?",
+      "answer": "É necessário abrir conta em uma corretora que ofereça acesso a mercados internacionais, como os EUA. A compra é feita em dólar, o que introduz risco cambial. Alternativamente, é possível buscar ETFs ou BDRs na B3 com exposição a renda fixa corporativa americana. O [open finance](/recursos/open-finance) do app ajuda a sincronizar as posições de diferentes corretoras."
+    },
+    {
+      "question": "Qual a volatilidade do VCSH?",
+      "answer": "A volatilidade anualizada do VCSH nos últimos 12 meses, até 29/10/2026, foi de 2,05%, um nível baixo. A maior queda em 5 anos foi de -9,01%, entre 05/11/2021 e 20/10/2022. O beta contra o S&P 500 é de 0,07, indicando baixa correlação com o mercado acionário."
+    },
+    {
+      "question": "VCSH é um ETF de renda fixa ou variável?",
+      "answer": "VCSH é um ETF de renda fixa, pois investe em títulos de dívida corporativa de curto prazo. Embora seja negociado na bolsa como uma ação (renda variável), seu risco e retorno são mais próximos de um investimento em renda fixa, com menor volatilidade que ações."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do VCSH lado a lado com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o VCSH atingir um preço que você escolheu, para acompanhar movimentos relevantes."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Conecte sua corretora e confira as posições do VCSH com a sua carteira, garantindo que tudo esteja sincronizado."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em VCSH e veja as respostas com base nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VCIT",
+        "list": "us-etfs",
+        "reason": "Outro ETF da Vanguard de renda fixa corporativa, mas de prazo intermediário, para comparação de maturidade."
+      },
+      {
+        "ticker": "LQD",
+        "list": "us-etfs",
+        "reason": "ETF de títulos corporativos de grau de investimento, para comparação de risco de crédito e maturidade."
+      },
+      {
+        "ticker": "HYG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos corporativos de alto rendimento, para comparação de risco e retorno."
+      },
+      {
+        "ticker": "BIL",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do tesouro de curto prazo, para comparação de risco soberano versus corporativo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VCSH",
+      "url": "https://finance.yahoo.com/quote/VCSH/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Corporate bond (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Corporate_bond",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

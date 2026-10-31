@@ -1,0 +1,327 @@
+{
+  "ticker": "LIFE11",
+  "slug": "life11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "LIFE11: FII residencial, rendimentos e volatilidade",
+    "description": "LIFE11 é um FII de papel e tijolo residencial, com dividend yield de 20,56% em 12 meses até 29/10/2026.",
+    "h1": "LIFE11: Life Capital Partners FII",
+    "canonicalPath": "/fiis/life11",
+    "keywords": [
+      "LIFE11",
+      "Life Capital Partners FII",
+      "FII residencial",
+      "FII de papel",
+      "CRI",
+      "dividend yield FII",
+      "rendimentos imobiliários",
+      "VÓRTX DTVM"
+    ]
+  },
+  "summary": "LIFE11 é o Life Capital Partners Fundo de Investimentos Imobiliários, um FII de gestão ativa com foco no segmento residencial. O fundo investe em Certificados de Recebíveis Imobiliários (CRIs) e ativos reais, buscando geração de renda mensal. Em 09/2026, o patrimônio líquido era de R$ 386,7 milhões, com 20.861 cotistas. Nos 12 meses até 29/10/2026, a rentabilidade total com proventos foi de 1,55%, com dividend yield de 20,56%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Life Capital Partners Fundo de Investimentos Imobiliários",
+    "legalName": "LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTOS IMOBILIÁRIOS",
+    "ticker": "BVMF LIFE11",
+    "isin": "BRLIFECTF017",
+    "taxId": "39.753.295/0001-02",
+    "foundingDate": "2022-03-04",
+    "provider": {
+      "name": "VÓRTX DTVM LTDA",
+      "url": "https://www.vortx.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=39753295000102"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI) e tijolo, residencial",
+    "issuerOrManager": "LCP Gestora de Recursos LTDA (gestora) e VÓRTX DTVM LTDA (administradora e coordenadora de ofertas)",
+    "name": "Life Capital Partners Fundo de Investimentos Imobiliários",
+    "legalName": "LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTOS IMOBILIÁRIOS",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Residencial",
+    "founded": "04/03/2022",
+    "administrator": "VÓRTX DTVM LTDA",
+    "website": "https://www.vortx.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "LIFE CAPITAL PARTNERS FUNDO DE INVESTIMENTOS IMOBILIÁRIOS",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "39.753.295/0001-02",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Residencial",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "VÓRTX DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "04/03/2022",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 386,7 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "20.861",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,73",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 6,93",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "19,33% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,27",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "20,56%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 519.124,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "LIFE11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Life Capital Partners Fundo De Investimentos Imobiliarios",
+    "currency": "BRL",
+    "price": 6.93,
+    "historyStarts": "2022-10-24",
+    "returns": {
+      "1y": 0.0155,
+      "3y": 0.1082,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1933,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2206,
+      "from": "2024-09-20",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.27,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.425,
+      "payments12Months": 12,
+      "yield12Months": 0.2056,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.115
+      }
+    },
+    "avgDailyTradedValue3m": 519124
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do LIFE11 nos 12 meses até 29/10/2026 foi de 19,33%, nível moderado. O beta contra o Ibovespa era de 0,27, o que significa que o fundo tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção. A maior queda nos últimos 5 anos foi de -22,06%, do pico em 20/09/2024 ao ponto mais baixo em 19/12/2024. Para FIIs de papel, a volatilidade pode ser influenciada por eventos de crédito, como a variação de 281% na cota de um FIDC investido em 29/05/2026, que impactou 9,79% do patrimônio líquido. Para acompanhar oscilações de preço e definir pontos de entrada ou saída, use [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "O Life Capital Partners FII (LIFE11) iniciou suas atividades em 04/03/2022, com o objetivo de gerar renda mensal por meio de ativos financeiros e reais de natureza imobiliária, com foco no segmento residencial. A gestão é ativa, conduzida pela LCP Gestora de Recursos LTDA, e a administração é da VÓRTX DTVM LTDA, que também coordena as ofertas públicas de cotas. Desde a fundação, o fundo realizou cinco ofertas públicas de cotas encerradas, conforme registros do FNET, ampliando sua base de investidores e patrimônio. Em 09/2026, o patrimônio líquido era de R$ 386,7 milhões, com 20.861 cotistas e valor patrimonial da cota de R$ 9,73. A carteira inclui CRIs de empreendimentos residenciais, como CRI Vectra, CRI Vanvera, CRI QSJRN e CRI Abecker II, além de um FIDC voltado ao setor residencial. Em 29/05/2026, o fundo informou uma variação positiva de 281% na cota do FIDC investido, com impacto estimado de 9,79% sobre o patrimônio líquido. A estratégia busca preservar valor no longo prazo, com acompanhamento contínuo dos ativos da carteira.",
+    "timeline": [
+      {
+        "date": "2022-03-04",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2023-04-17",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2023-07-02",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do LIFE11",
+      "body": "O LIFE11 é um FII de gestão ativa com foco no segmento residencial, administrado pela VÓRTX DTVM LTDA e gerido pela LCP Gestora de Recursos LTDA. O objetivo é buscar geração de renda mensal por meio de ativos financeiros e reais de natureza imobiliária, com prazo indeterminado. A carteira inclui Certificados de Recebíveis Imobiliários (CRIs) de empreendimentos residenciais, como CRI Vectra, CRI Vanvera, CRI QSJRN e CRI Abecker II, além de cotas de um FIDC voltado ao setor residencial, que representava 5,29% do patrimônio líquido em 03/06/2026. Em agosto de 2026, os empreendimentos do CRI Vectra registraram cinco vendas e três distratos, com valor médio do metro quadrado das vendas de R$ 940,31/m². O CRI Vanvera não registrou vendas nem distratos no mês, com a obra em fase de finalização. O CRI QSJRN teve uma venda no empreendimento Dona Francisca, a R$ 556,76/m², e uma no Boulevard, a R$ 506,33/m². O CRI Abecker II avançou em instalações hidráulicas, elétricas e acabamentos internos. A duração média da carteira era de 5,54 anos em 31/08/2026."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do LIFE11",
+      "body": "Nos 12 meses até 29/10/2026, o LIFE11 distribuiu R$ 1,4250 por cota em 12 pagamentos, resultando em dividend yield de 20,56%. O último pagamento foi de R$ 0,1150 em 01/10/2026. Em agosto de 2026, o dividend yield mensal foi de 1,17%, equivalente a 15,04% ao ano, e o acumulado em 12 meses era de 15,75%. O fundo distribui rendimentos mensais, com valor por cota que pode variar conforme a performance dos ativos. A tributação dos rendimentos de FIIs segue as regras vigentes, mas o dossiê não detalha a alíquota aplicável. Para acompanhar os pagamentos com data com e data de pagamento, multiplicados pela sua quantidade, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O LIFE11 realizou cinco ofertas públicas de cotas encerradas, conforme registros do FNET, desde 23/02/2022. As ofertas foram coordenadas pela VÓRTX DTVM LTDA, que também é a administradora do fundo. Em 09/2026, o patrimônio líquido era de R$ 386,7 milhões, com 20.861 cotistas e 39.761.584 cotas emitidas. O valor patrimonial da cota era de R$ 9,73. A taxa de administração no mês era de 0,012% sobre o patrimônio, equivalente a 1,38% ao ano. A taxa de performance é de 20% sobre o que exceder 100% do CDI. Em 29/05/2025, foi aprovada a 8ª emissão de cotas, destinada a investidores profissionais, com até 12.060.302 cotas."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do LIFE11",
+      "body": "Nos 12 meses até 29/10/2026, a rentabilidade total com proventos do LIFE11 foi de 1,55%. Em 3 anos, a rentabilidade foi de 10,82%. Em agosto de 2026, o fundo entregou retorno equivalente a 107,43% do CDI bruto, ou 126,39% do CDI líquido, assumindo investidor pessoa física. O retorno desde o início era de 93,79%, equivalente a 160,96% do CDI líquido, em 31/08/2026. Para comparar a rentabilidade do LIFE11 com o IFIX, CDI e outros índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do LIFE11",
+      "body": "O LIFE11 é um FII de papel e tijolo, com exposição a CRIs e ativos reais residenciais. Os riscos incluem crédito (inadimplência dos devedores dos CRIs), vacância (unidades não vendidas ou distratadas) e juros (variação da taxa Selic impacta a atratividade dos rendimentos). A volatilidade anualizada nos 12 meses até 29/10/2026 foi de 19,33%, nível moderado. O beta contra o Ibovespa era de 0,27, indicando que o fundo tende a acompanhar movimentos do índice com amplitude menor. A maior queda nos últimos 5 anos foi de -22,06%, do pico em 20/09/2024 ao ponto mais baixo em 19/12/2024. Em 29/05/2026, o fundo informou uma variação positiva de 281% na cota de um FIDC investido, com impacto de 9,79% sobre o patrimônio líquido, o que pode indicar volatilidade em ativos de crédito. Para acompanhar oscilações de preço, use [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "LIFE11 paga dividendos?",
+      "answer": "Sim, o LIFE11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram R$ 1,4250 por cota em 12 pagamentos, com dividend yield de 20,56%. O último pagamento foi de R$ 0,1150 em 01/10/2026. Em agosto de 2026, o dividend yield mensal era de 1,17%, equivalente a 15,04% ao ano. Para acompanhar os pagamentos com data com e data de pagamento, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "LIFE11 é FII de papel ou de tijolo?",
+      "answer": "O LIFE11 é um FII híbrido, com exposição a ativos de papel (CRIs e FIDC) e ativos reais (empreendimentos residenciais). A carteira inclui CRIs de empreendimentos como CRI Vectra, CRI Vanvera, CRI QSJRN e CRI Abecker II, além de cotas de um FIDC voltado ao setor residencial, que representava 5,29% do patrimônio líquido em 03/06/2026. O foco é o segmento residencial, com geração de renda mensal."
+    },
+    {
+      "question": "Qual a taxa de administração do LIFE11?",
+      "answer": "A taxa de administração do LIFE11 é de 1,38% ao ano sobre o patrimônio líquido, conforme o relatório gerencial de 31/08/2026. Em 09/2026, a taxa mensal era de 0,012% sobre o patrimônio. A taxa de performance é de 20% sobre o que exceder 100% do CDI."
+    },
+    {
+      "question": "Qual o patrimônio do LIFE11?",
+      "answer": "Em 09/2026, o patrimônio líquido do LIFE11 era de R$ 386,7 milhões, com 20.861 cotistas e 39.761.584 cotas emitidas. O valor patrimonial da cota era de R$ 9,73."
+    },
+    {
+      "question": "LIFE11 tem risco de crédito?",
+      "answer": "Sim, o LIFE11 tem exposição a CRIs e um FIDC, o que implica risco de crédito (inadimplência dos devedores). Em 29/05/2026, o fundo informou uma variação positiva de 281% na cota de um FIDC investido, com impacto de 9,79% sobre o patrimônio líquido. Os CRIs da carteira têm razão de garantia sobre saldo devedor (RGSD) acima de 120% a 200%, conforme o relatório de 31/08/2026. Para acompanhar oscilações de preço, use [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Como acompanhar a rentabilidade do LIFE11?",
+      "answer": "A rentabilidade total com proventos do LIFE11 nos 12 meses até 29/10/2026 foi de 1,55%, e em 3 anos foi de 10,82%. Em agosto de 2026, o retorno foi de 107,43% do CDI bruto. Para comparar a rentabilidade do LIFE11 com o IFIX, CDI e outros índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices). Para ver o gráfico de rentabilidade da sua carteira, use [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do LIFE11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do LIFE11 com o IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do LIFE11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o LIFE11 junto com seus outros ativos, com alocação por classe e as maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no LIFE11 e veja as respostas dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de papel (CRI) do segmento de crédito imobiliário, similar ao LIFE11."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de papel (CRI) com foco em renda, comparável ao LIFE11."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII de papel (CRI) do segmento de crédito imobiliário, similar ao LIFE11."
+      },
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "FII de tijolo urbano, com foco em renda, comparável ao LIFE11."
+      },
+      {
+        "ticker": "BTRU11",
+        "list": "fiis",
+        "reason": "FII de tijolo urbano, com foco em renda, comparável ao LIFE11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de LIFE11",
+      "url": "https://finance.yahoo.com/quote/LIFE11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FII LIFE CAPITAL PARTNERS (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo LIFE11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=39753295000102",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do LIFE11, referência 31/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339309",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do LIFE11, 03/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1212203",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do LIFE11, 29/05/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=914171",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

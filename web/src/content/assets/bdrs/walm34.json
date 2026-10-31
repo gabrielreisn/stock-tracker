@@ -1,0 +1,333 @@
+{
+  "ticker": "WALM34",
+  "slug": "walm34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "WALM34: BDR da Walmart, dividendos e desempenho",
+    "description": "Conheça o WALM34, BDR da Walmart Inc. na B3. Veja dividendos, rentabilidade em reais, riscos cambiais e como acompanhar o ativo no app.",
+    "h1": "WALM34: BDR da Walmart Inc.",
+    "canonicalPath": "/bdrs/walm34",
+    "keywords": [
+      "WALM34",
+      "BDR Walmart",
+      "Walmart B3",
+      "dividendos WALM34",
+      "rentabilidade WALM34",
+      "risco cambial BDR",
+      "WMT BDR"
+    ]
+  },
+  "summary": "WALM34 é o BDR não patrocinado nível I da Walmart Inc., maior varejista dos Estados Unidos, negociado na B3 em reais. A empresa opera hypermarkets, lojas de departamento e Sam's Club em 20 países. Em 30/10/2026, o BDR cotava a R$ 42,02, com rentabilidade total de 23,49% nos últimos 12 meses, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Walmart Inc.",
+    "legalName": "WALMART INC.",
+    "ticker": "BVMF WALM34",
+    "foundingDate": "1962-07-02",
+    "website": "https://www.walmart.com/",
+    "wikidata": "Q483551",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q483551",
+      "https://en.wikipedia.org/wiki/Walmart",
+      "https://pt.wikipedia.org/wiki/Walmart",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50067/WALM/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Walmart Inc.",
+    "legalName": "WALMART INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "02/07/1962",
+    "listedSince": "20/08/2010",
+    "headquarters": "Bentonville",
+    "website": "https://www.walmart.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "WALMART INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: WMT",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Bentonville",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "02/07/1962",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "20/08/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 42,02",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "32,75% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original WMT em dólares)",
+      "value": "-0,11",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,53%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,3 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "WALM34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Walmart Inc.",
+    "currency": "BRL",
+    "price": 42.02,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2349,
+      "3y": 1.5162,
+      "5y": 1.496,
+      "10y": 9.6118
+    },
+    "volatility1y": 0.3275,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3141,
+      "from": "2021-11-01",
+      "to": "2022-05-20"
+    },
+    "beta1y": {
+      "value": -0.11,
+      "against": "S&P 500, ação original WMT em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.2212,
+      "payments12Months": 4,
+      "yield12Months": 0.0053,
+      "lastPayment": {
+        "date": "2026-08-20",
+        "amount": 0.055194
+      }
+    },
+    "avgDailyTradedValue3m": 1321134
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do WALM34 nos últimos 12 meses é de 32,75%, um nível considerado alto. O beta da ação original WMT contra o S&P 500 é de -0,11, o que indica que, nos últimos 12 meses, a ação tendeu a se mover na direção oposta ao índice, com movimentos de menor magnitude. Esse beta é da ação em dólares; o BDR em reais também sofre o efeito do câmbio. A maior queda em 5 anos foi de -31,41%, entre 01/11/2021 e 20/05/2022. Para monitorar esses movimentos, o app oferece alertas de preço e a comparação com índices como o S&P 500."
+  },
+  "history": {
+    "overview": "A história da Walmart Inc. começa em 1962, quando Sam Walton inaugurou a primeira loja Wal-Mart Discount City em Rogers, Arkansas. A empresa foi incorporada em 1969 e abriu capital na New York Stock Exchange em 1972. Nos anos 1980 e 1990, a Walmart expandiu-se para todo o território dos EUA e internacionalizou-se, entrando no México em 1991, no Canadá em 1994 e na América do Sul (Argentina e Brasil) em 1995. Em 1999, a aquisição da Asda no Reino Unido marcou sua entrada na Europa. Em 2010, o BDR WALM34 foi listado na B3, permitindo a investidores brasileiros acompanhar a empresa sem operar no mercado americano. Em fevereiro de 2026, a Walmart tornou-se a primeira varejista tradicional avaliada em mais de US$ 1 trilhão, consolidando sua posição como a segunda maior empresa do mundo por receita.",
+    "timeline": [
+      {
+        "date": "1962-07-02",
+        "event": "Fundação da empresa com a abertura da primeira loja em Rogers, Arkansas",
+        "source": 2
+      },
+      {
+        "date": "1969-10-31",
+        "event": "Incorporação da empresa como Wal-Mart, Inc. sob a lei de Delaware",
+        "source": 3
+      },
+      {
+        "date": "1972",
+        "event": "Listagem das ações na New York Stock Exchange",
+        "source": 4
+      },
+      {
+        "date": "1991",
+        "event": "Expansão internacional com abertura de lojas no México",
+        "source": 3
+      },
+      {
+        "date": "1995",
+        "event": "Entrada na América do Sul com lojas na Argentina e no Brasil",
+        "source": 3
+      },
+      {
+        "date": "1999-07",
+        "event": "Aquisição da rede Asda no Reino Unido por US$ 10 bilhões",
+        "source": 3
+      },
+      {
+        "date": "2010-08-20",
+        "event": "Listagem do BDR WALM34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-12",
+        "event": "Mudança de listagem da New York Stock Exchange para a Nasdaq",
+        "source": 3
+      },
+      {
+        "date": "2026-02",
+        "event": "Walmart torna-se a primeira varejista tradicional avaliada em mais de US$ 1 trilhão",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Walmart Inc. ganha dinheiro",
+      "body": "A Walmart Inc. é uma corporação de varejo omnichannel que opera uma rede de hypermarkets (supercenters), lojas de departamento de desconto, mercearias, farmácias e postos de gasolina nos Estados Unidos e em 19 outros países. A empresa também detém e opera os armazéns de atacado Sam's Club. Em 2026, a Walmart é a segunda maior empresa do mundo por receita e o maior empregador privado, com 2,1 milhões de funcionários. A receita vem da venda de uma vasta gama de produtos, desde alimentos e itens de mercearia até eletrônicos, roupas e produtos de uso doméstico, com foco em preços baixos e alto volume de vendas."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR WALM34",
+      "body": "O WALM34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Walmart Inc. no exterior. O preço do BDR acompanha a cotação da ação original, listada na Nasdaq sob o ticker WMT, e a variação do câmbio entre o dólar e o real. O programa é não patrocinado, o que significa que a própria empresa não administra a emissão, que é feita por uma instituição depositária. O BDR WALM34 está listado na B3 desde 20/08/2010."
+    },
+    {
+      "id": "proventos",
+      "heading": "WALM34 paga dividendos?",
+      "body": "A Walmart Inc. paga dividendos, que são repassados aos detentores do BDR WALM34 em reais. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 0,2212 por unidade em 4 pagamentos, resultando em um dividend yield de 0,53%. O último pagamento foi de R$ 0,0552 em 20/08/2026. Como a empresa é americana, os dividendos são pagos em dólares e convertidos para reais na data do pagamento, o que faz com que o valor recebido varie com o câmbio. É possível acompanhar o histórico de proventos e as datas de pagamento no app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do WALM34",
+      "body": "Em 30/10/2026, o WALM34 cotava a R$ 42,02. A rentabilidade total com proventos foi de 23,49% nos últimos 12 meses, 151,62% em 3 anos, 149,60% em 5 anos e 961,18% em 10 anos. Esses números estão em reais e incluem a variação do câmbio entre o dólar e o real, além da performance da ação original WMT. Para entender como esse desempenho se compara a outros benchmarks, é possível usar a ferramenta de comparação com índices, que coloca a rentabilidade lado a lado com o S&P 500, o CDI e outros índices."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do WALM34",
+      "body": "O principal risco do WALM34 é o risco cambial, pois o preço do BDR em reais depende da cotação do dólar. Além disso, a empresa está sujeita a riscos operacionais e de mercado do setor de varejo global. A volatilidade anualizada do BDR nos últimos 12 meses foi de 32,75%, classificada como alta. A maior queda nos últimos 5 anos foi de -31,41%, entre o pico em 01/11/2021 e o ponto mais baixo em 20/05/2022. A liquidez do BDR na B3 é moderada, com volume médio de R$ 1,3 milhão por dia nos últimos 3 meses, o que pode afetar a execução de ordens em grandes volumes. É possível configurar alertas de preço para acompanhar a volatilidade do ativo."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar WALM34 no app",
+      "body": "Para quem tem WALM34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o WALM34 junto com outros ativos da sua carteira, com valor por classe e alocação.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade do WALM34 e o preço médio da sua posição no gráfico do app.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do WALM34 com o S&P 500 e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o WALM34 chegar ao preço que você escolheu.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a sua posição em WALM34 e veja as respostas com base nos seus dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "WALM34 paga dividendos?",
+      "answer": "Sim, o WALM34 repassa os dividendos da Walmart Inc. em reais. Nos 12 meses até 30/10/2026, foram pagos R$ 0,2212 por BDR em 4 parcelas, com um dividend yield de 0,53%. O último pagamento foi de R$ 0,0552 em 20/08/2026. O valor em reais varia com o câmbio na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre WALM34 e a ação WMT?",
+      "answer": "O WALM34 é um BDR negociado na B3 em reais, enquanto a WMT é a ação original da Walmart Inc. negociada na Nasdaq em dólares. O preço do WALM34 acompanha a WMT e a variação do câmbio. O BDR permite que investidores brasileiros acompanhem a empresa sem operar no mercado americano."
+    },
+    {
+      "question": "WALM34 é um BDR patrocinado?",
+      "answer": "Não, o WALM34 é um BDR não patrocinado de nível I. Isso significa que a própria Walmart Inc. não administra a emissão do recibo, que é feito por uma instituição depositária. O BDR está listado na B3 desde 20/08/2010."
+    },
+    {
+      "question": "Qual a rentabilidade do WALM34 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos do WALM34 nos 12 meses até 30/10/2026 foi de 23,49%. Esse número está em reais e inclui a variação do câmbio e os proventos recebidos. É possível acompanhar essa performance no app, que mostra o desempenho de cada ativo na carteira."
+    },
+    {
+      "question": "Qual o risco cambial do WALM34?",
+      "answer": "O WALM34 tem risco cambial porque é cotado em reais, mas lastreado em uma ação americana. Se o dólar se valorizar em relação ao real, o preço do BDR tende a subir, e vice-versa. Esse risco é adicional ao risco da ação WMT e do setor de varejo."
+    },
+    {
+      "question": "WALM34 é líquido na B3?",
+      "answer": "O volume médio negociado do WALM34 nos últimos 3 meses é de R$ 1,3 milhão por dia. Isso indica uma liquidez moderada, o que pode afetar a execução de ordens de grande volume. Para acompanhar o preço em tempo real, o app oferece um widget na barra de menus do Mac."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o WALM34 junto com outros ativos da sua carteira, com valor por classe e alocação."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do WALM34 e o preço médio da sua posição no gráfico do app."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do WALM34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o WALM34 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em WALM34 e veja as respostas com base nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, índice de referência para o beta da ação WMT."
+      },
+      {
+        "ticker": "AMZO34",
+        "list": "bdrs",
+        "reason": "Outro BDR de varejo americano, com exposição semelhante ao câmbio e ao mercado de consumo dos EUA."
+      },
+      {
+        "ticker": "COCA34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa americana de consumo, com perfil de dividendos e exposição cambial similar."
+      },
+      {
+        "ticker": "MCDC34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de varejo alimentar americana, com operação global e exposição ao câmbio."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de WALM34",
+      "url": "https://finance.yahoo.com/quote/WALM34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: WAL MART, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50067/WALM/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: undefined",
+      "url": "https://www.wikidata.org/wiki/Q483551",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Walmart",
+      "url": "https://en.wikipedia.org/wiki/Walmart",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Walmart",
+      "url": "https://pt.wikipedia.org/wiki/Walmart",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

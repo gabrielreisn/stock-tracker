@@ -1,0 +1,283 @@
+{
+  "ticker": "EXXO34",
+  "slug": "exxo34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "EXXO34: BDR da ExxonMobil, dividendos e riscos",
+    "description": "EXXO34 é o BDR da ExxonMobil na B3. Veja dividendos, volatilidade, riscos cambiais e como a empresa opera globalmente. Atualizado até 29/10/2026.",
+    "h1": "EXXO34: BDR da ExxonMobil na B3",
+    "canonicalPath": "/bdrs/exxo34",
+    "keywords": [
+      "EXXO34",
+      "ExxonMobil BDR",
+      "BDR petróleo",
+      "dividendos EXXO34",
+      "risco cambial BDR",
+      "XOM B3"
+    ]
+  },
+  "summary": "EXXO34 é o BDR não patrocinado (nível I) da ExxonMobil Holdings Corporation, negociado na B3 em reais. A empresa é uma multinacional americana de petróleo e gás, verticalmente integrada, que produz cerca de 3% do petróleo mundial. Em 29/10/2026, o BDR valia R$ 122,81, com rentabilidade total de 59,17% nos últimos 12 meses, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "ExxonMobil",
+    "legalName": "EXXONMOBIL HOLDINGS CORPORATION",
+    "ticker": "BVMF EXXO34",
+    "foundingDate": "1882-08-05",
+    "website": "https://corporate.exxonmobil.com/",
+    "wikidata": "Q156238",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q156238",
+      "https://en.wikipedia.org/wiki/ExxonMobil",
+      "https://pt.wikipedia.org/wiki/ExxonMobil",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50032/EXXO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "ExxonMobil",
+    "legalName": "EXXONMOBIL HOLDINGS CORPORATION",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "05/08/1882",
+    "listedSince": "20/08/2010",
+    "headquarters": "Spring",
+    "website": "https://corporate.exxonmobil.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "EXXONMOBIL HOLDINGS CORPORATION",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: XOM",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Spring",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "05/08/1882",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "20/08/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 122,81",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "32,81% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,53%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,6 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EXXO34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ExxonMobil Holdings Corporation",
+    "currency": "BRL",
+    "price": 122.81,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.5917,
+      "3y": 0.983,
+      "5y": 2.1016,
+      "10y": 4.2713
+    },
+    "volatility1y": 0.3281,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2616,
+      "from": "2022-11-25",
+      "to": "2024-01-19"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.8764,
+      "payments12Months": 4,
+      "yield12Months": 0.0153,
+      "lastPayment": {
+        "date": "2026-08-14",
+        "amount": 0.458844
+      }
+    },
+    "avgDailyTradedValue3m": 1580711
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do EXXO34 foi de 32,81% nos 12 meses até 29/10/2026, o que é considerado alto para um BDR de uma empresa de energia. A maior queda em 5 anos foi de -26,16%, entre 25/11/2022 e 19/01/2024. Como o beta não está disponível, não é possível medir a sensibilidade do BDR em relação ao Ibovespa. A volatilidade reflete a exposição ao preço do petróleo e ao câmbio. Para monitorar oscilações, você pode configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificações quando o ativo atinge um valor definido."
+  },
+  "history": {
+    "overview": "A ExxonMobil tem suas raízes na Vacuum Oil Company, fundada em 1866, que foi adquirida pela Standard Oil em 1879. Após a quebra da Standard Oil em 1911, a empresa se reorganizou e, em 1931, a Vacuum Oil se fundiu com a Standard Oil Company of New York (Socony), formando a Mobil. Em 1972, a subsidiária em Nova Jersey adotou o nome Exxon para unificar as marcas Esso, Enco e Humble Oil. Em 1998, Exxon e Mobil anunciaram a fusão, que foi concluída em 30 de novembro de 1999, criando a ExxonMobil como a maior empresa de petróleo e gás dos Estados Unidos. O BDR EXXO34 começou a ser negociado na B3 em 20 de agosto de 2010, permitindo a investidores brasileiros acompanhar a empresa em reais. A empresa opera globalmente, com foco em exploração e produção (upstream), que representa cerca de 70% da receita, além de refino, químicos e soluções de baixo carbono. Em 2024, a ExxonMobil encerrou suas operações no Iraque e descobriu petróleo no bloco Stabroek, na Guiana.",
+    "timeline": [
+      {
+        "date": "1882-08-05",
+        "event": "Fundação da ExxonMobil (data registrada no Wikidata)",
+        "source": 2
+      },
+      {
+        "date": "1999-11-30",
+        "event": "Fechamento da fusão entre Exxon e Mobil, formando a ExxonMobil",
+        "source": 3
+      },
+      {
+        "date": "2010-08-20",
+        "event": "Listagem do BDR EXXO34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2024-01",
+        "event": "Encerramento das operações no Iraque, transferindo a participação no campo West Qurna 1 para PetroChina e Pertamina",
+        "source": 3
+      },
+      {
+        "date": "2024-03",
+        "event": "Descoberta de petróleo no bloco Stabroek, na costa da Guiana",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a ExxonMobil ganha dinheiro",
+      "body": "A ExxonMobil é uma empresa verticalmente integrada no setor de energia, com operações em três grandes divisões: upstream (exploração e produção de petróleo e gás), product solutions (refino, químicos e logística) e low carbon solutions (energias renováveis e captura de carbono). A divisão upstream é a principal fonte de receita, representando cerca de 70% do faturamento total. A empresa produz aproximadamente 3% do petróleo mundial e 2% da energia global, com ativos em mais de 50 países. No Brasil, a ExxonMobil possui sede no Rio de Janeiro e um centro de suporte em Curitiba, focado em serviços de informática e controladoria."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR EXXO34",
+      "body": "O EXXO34 é um BDR não patrocinado (nível I) da ExxonMobil, negociado na B3 em reais. Ele representa ações da empresa original, listada na Bolsa de Valores de Nova Iorque (NYSE) sob o ticker XOM. O preço do BDR acompanha a cotação da ação americana e a variação do câmbio (dólar/real). A listagem na B3 ocorreu em 20 de agosto de 2010. Por ser não patrocinado, a empresa não participa ativamente da emissão, que é feita por uma instituição depositária."
+    },
+    {
+      "id": "proventos",
+      "heading": "EXXO34 paga dividendos?",
+      "body": "A ExxonMobil paga dividendos em dólares, que são convertidos em reais e distribuídos aos detentores do BDR. Nos 12 meses até 29/10/2026, o EXXO34 distribuiu R$ 1,8764 por BDR em 4 pagamentos, resultando em um dividend yield de 1,53%. O último pagamento foi de R$ 0,4588, em 14/08/2026. É importante considerar que a conversão cambial e a tributação brasileira podem afetar o valor final recebido."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do EXXO34",
+      "body": "Até 29/10/2026, o EXXO34 apresentou rentabilidade total de 59,17% em 12 meses, 98,30% em 3 anos, 210,16% em 5 anos e 427,13% em 10 anos. Esses números incluem a variação do preço da ação e a oscilação do câmbio. Para entender como esse desempenho se compara a outros investimentos, você pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado com o S&P 500, CDI e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do EXXO34",
+      "body": "O principal risco do EXXO34 é a volatilidade do preço do petróleo, que impacta diretamente a receita da empresa. A ExxonMobil também enfrenta riscos regulatórios e ambientais, incluindo processos por incidentes como o vazamento do Exxon Valdez em 1989 e críticas por negacionismo climático. O risco cambial é outro fator relevante, pois a variação do dólar/real afeta o retorno em reais. A volatilidade anualizada do BDR foi de 32,81% nos últimos 12 meses, considerada alta. A maior queda em 5 anos foi de -26,16%, entre 25/11/2022 e 19/01/2024. A liquidez do BDR na B3 é moderada, com volume médio de R$ 1,6 milhão por dia nos últimos 3 meses."
+    }
+  ],
+  "faq": [
+    {
+      "question": "EXXO34 paga dividendos?",
+      "answer": "Sim, a ExxonMobil paga dividendos em dólares, que são convertidos em reais para os detentores do BDR. Nos últimos 12 meses, foram distribuídos R$ 1,8764 por BDR, com um dividend yield de 1,53%. O último pagamento foi em 14/08/2026. Você pode acompanhar os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para ver o histórico e o impacto na sua carteira."
+    },
+    {
+      "question": "Qual a diferença entre EXXO34 e a ação XOM?",
+      "answer": "O EXXO34 é um BDR negociado na B3 em reais, enquanto a XOM é a ação original listada na NYSE em dólares. O preço do BDR acompanha a ação americana e a variação do câmbio. O BDR permite que investidores brasileiros comprem a ExxonMobil sem precisar de uma conta no exterior, mas está sujeito ao risco cambial."
+    },
+    {
+      "question": "Qual o risco cambial do EXXO34?",
+      "answer": "O EXXO34 é lastreado em uma ação americana, então o retorno em reais depende da variação do dólar/real. Se o dólar subir, o BDR tende a valorizar em reais, mesmo que a ação caia em dólares. O risco cambial é um dos principais fatores a considerar ao investir em BDRs."
+    },
+    {
+      "question": "A ExxonMobil opera no Brasil?",
+      "answer": "Sim, a ExxonMobil possui sede no Rio de Janeiro e um centro de suporte em Curitiba, focado em serviços de informática e controladoria. A empresa também tem operações de exploração e produção no pré-sal e em outras bacias brasileiras, embora não sejam detalhadas nas fontes."
+    },
+    {
+      "question": "Como o EXXO34 se compara a outros BDRs de energia?",
+      "answer": "O EXXO34 é um dos principais BDRs de energia na B3, ao lado de [CHVX34](/bdrs/chvx34) (Chevron) e [PETR4](/acoes/petr4) (Petrobras, ação brasileira). A ExxonMobil é a maior empresa de petróleo e gás dos Estados Unidos, enquanto a Chevron é a segunda maior. A Petrobras é a maior do Brasil. Cada uma tem sua própria exposição a mercados e riscos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos do EXXO34 com data de pagamento e o impacto na sua carteira."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando o EXXO34 atingir um preço que você definiu."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do EXXO34 com o S&P 500, CDI e outros índices no mesmo gráfico."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CHVX34",
+        "list": "bdrs",
+        "reason": "Outro BDR de energia, da Chevron, para comparação de desempenho e exposição ao setor."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação brasileira da Petrobras, a maior empresa de petróleo e gás do Brasil, para diversificação regional."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF de energia dos EUA, que oferece exposição ao setor sem concentrar em uma única empresa."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EXXO34",
+      "url": "https://finance.yahoo.com/quote/EXXO34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: EXXON MOBIL, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50032/EXXO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: ExxonMobil",
+      "url": "https://www.wikidata.org/wiki/Q156238",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): ExxonMobil",
+      "url": "https://en.wikipedia.org/wiki/ExxonMobil",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): ExxonMobil",
+      "url": "https://pt.wikipedia.org/wiki/ExxonMobil",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

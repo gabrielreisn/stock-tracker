@@ -1,0 +1,402 @@
+{
+  "ticker": "KLBN11",
+  "slug": "klbn11",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "KLBN11: história, dividendos e volatilidade",
+    "description": "KLBN11 é a unit da Klabin, maior produtora de papel do Brasil. Veja dividendos, volatilidade, beta e desempenho da KLBN11 até 30/10/2026.",
+    "h1": "KLBN11: Klabin S.A. - Unit de Papel e Celulose",
+    "canonicalPath": "/acoes/klbn11",
+    "keywords": [
+      "KLBN11",
+      "Klabin",
+      "dividendos Klabin",
+      "volatilidade KLBN11",
+      "papel e celulose",
+      "KLBN3",
+      "KLBN4",
+      "unit Klabin"
+    ]
+  },
+  "summary": "KLBN11 é a unit da Klabin S.A., empresa brasileira de base florestal e maior produtora e exportadora de papéis do país. Atua no setor de Materiais Básicos, com foco em celulose, papéis para embalagens e sacos industriais. Em 30/10/2026, a unit estava cotada a R$ 17,04, com dividend yield de 6,81% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Klabin",
+    "legalName": "KLABIN S.A.",
+    "ticker": "BVMF KLBN11",
+    "isin": "BRKLBNCDAM18",
+    "taxId": "89.637.490/0001-45",
+    "foundingDate": "1978-11-08",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.klabin.com.br",
+    "wikidata": "Q1474718",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1474718",
+      "https://pt.wikipedia.org/wiki/Klabin",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/12653/KLBN/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Klabin",
+    "legalName": "KLABIN S.A.",
+    "type": "Unit",
+    "sector": "Materiais Básicos",
+    "segment": "Papel e Celulose",
+    "founded": "08/11/1978",
+    "listedSince": "02/01/2002",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.klabin.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "KLABIN S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "89.637.490/0001-45",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Papel e Celulose",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 2",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "08/11/1978",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "02/01/2002",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "KLBN3, KLBN4, KLBN11",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 17,04",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "22,01% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,25",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,81%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KLBN11",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Klabin S.A.",
+    "currency": "BRL",
+    "price": 17.04,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0195,
+      "3y": 0.0337,
+      "5y": 0.1411,
+      "10y": 0.807
+    },
+    "volatility1y": 0.2201,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3086,
+      "from": "2022-03-24",
+      "to": "2022-09-29"
+    },
+    "beta1y": {
+      "value": 0.25,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.1611,
+      "payments12Months": 2,
+      "yield12Months": 0.0681,
+      "lastPayment": {
+        "date": "2025-12-16",
+        "amount": 0.902914
+      }
+    },
+    "avgDailyTradedValue3m": 117103207
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada da KLBN11 é de 22,01% nos últimos 12 meses, nível considerado moderado. O beta de 0,25 contra o Ibovespa indica que a unit tende a acompanhar os movimentos do índice com menor amplitude, na mesma direção. A maior queda em 5 anos foi de -30,86%, entre 24/03/2022 e 29/09/2022. Para acompanhar a evolução do preço e a rentabilidade da posição, o investidor pode utilizar o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio), que oferece um gráfico interativo para medir a variação em períodos específicos."
+  },
+  "history": {
+    "overview": "A história da Klabin começa em 1899, com a fundação da Kablin Irmãos & Cia. (KIC) por imigrantes lituanos em São Paulo. Ao longo do século XX, o grupo expandiu suas operações no setor papeleiro, inaugurando a fábrica de celulose em Tibagi (PR) em 1946 e a unidade de Lages (SC) em 1969, pioneira no branqueamento de celulose por dióxido de cloro no Brasil. Em 1979, a empresa adotou a profissionalização administrativa e preparou-se para a abertura de capital, culminando no registro na CVM em 1997 e na cotação na B3 em 2002. A Klabin é controlada pela Klabin Irmãos & Cia e NIBLAK Participações S/A, que detêm 52,23% do capital votante. Recentemente, a companhia tem ampliado seu portfólio de captação, com a emissão de Cédulas de Produto Rural com Liquidação Financeira (CPR-F) em 2025 e 2026, além de um programa de recompra de ações anunciado em junho de 2026.",
+    "timeline": [
+      {
+        "date": "1899",
+        "event": "Fundação da Kablin Irmãos & Cia. (KIC) em São Paulo",
+        "source": 3
+      },
+      {
+        "date": "1978-11-08",
+        "event": "Constituição da KLABIN S.A.",
+        "source": 2
+      },
+      {
+        "date": "1997-08-06",
+        "event": "Registro de companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2002-01-02",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-07-23",
+        "event": "1ª Emissão de Cédulas de Produto Rural com Liquidação Financeira (CPR-F)",
+        "source": 12
+      },
+      {
+        "date": "2025-08-22",
+        "event": "Encerramento da oferta da 1ª emissão de CPR-F",
+        "source": 11
+      },
+      {
+        "date": "2025-12-08",
+        "event": "Anúncio de dividendos intercalares e bonificação de ações",
+        "source": 10
+      },
+      {
+        "date": "2025-12-09",
+        "event": "Publicação de projeções da companhia",
+        "source": 9
+      },
+      {
+        "date": "2026-02-26",
+        "event": "Incorporação da Klabin Amazônia",
+        "source": 8
+      },
+      {
+        "date": "2026-03-27",
+        "event": "Emissão de Cédulas de Produto Rural com Liquidação Financeira (CPR-F)",
+        "source": 7
+      },
+      {
+        "date": "2026-04-29",
+        "event": "Encerramento da oferta da 2ª emissão de CPR-F",
+        "source": 6
+      },
+      {
+        "date": "2026-06-24",
+        "event": "Anúncio do Programa de Recompra de Ações",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Klabin ganha dinheiro",
+      "body": "A Klabin S.A. é uma empresa brasileira de base florestal, classificada pela B3 no setor de Materiais Básicos, segmento Papel e Celulose. A companhia é a maior produtora e exportadora de papéis do país, com foco na produção de celulose, papéis e cartões para embalagens, embalagens de papelão ondulado e sacos industriais. Além disso, atua como recicladora e produtora de toras para serrarias. A estrutura da empresa é organizada em quatro unidades de negócios certificadas pelo Forest Stewardship Council (FSC): Florestal, Celulose, Papéis e Conversão. A Klabin possui 24 unidades industriais, sendo 23 no Brasil, distribuídas por dez estados, e uma na Argentina, além de manter florestas em três estados: Paraná, Santa Catarina e São Paulo."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Klabin",
+      "body": "O controle acionário da Klabin é privado, detido conjuntamente pela Klabin Irmãos & Cia e NIBLAK Participações S/A, que possuem 52,23% do capital votante. A companhia está listada no Nível 2 do segmento de listagem da B3, o que exige maior transparência e governança corporativa. As ações da Klabin são negociadas sob três códigos: KLBN3 (ação ordinária), KLBN4 (ação preferencial) e KLBN11 (unit). A unit é composta por uma ação ordinária e uma preferencial, oferecendo ao investidor o direito a voto em assembleias (via ação ordinária) e a preferência no recebimento de proventos (via ação preferencial)."
+    },
+    {
+      "id": "proventos",
+      "heading": "KLBN11 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a KLBN11 distribuiu R$ 1,1611 por ação em 2 pagamentos, resultando em um dividend yield de 6,81%. O último pagamento registrado foi de R$ 0,9029 em 16/12/2025. Em 08/12/2025, a companhia anunciou dividendos intercalares e bonificação de ações. Os investidores podem acompanhar o histórico de proventos, datas de corte e de pagamento, multiplicados pela quantidade de unidades na carteira, através do recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da KLBN11",
+      "body": "A rentabilidade total da KLBN11, incluindo proventos, foi de 1,95% nos 12 meses, 3,37% em 3 anos, 14,11% em 5 anos e 80,70% em 10 anos, até 30/10/2026. O volume médio negociado por dia nos últimos 3 meses foi de R$ 117,1 milhões. Para avaliar o desempenho da KLBN11 em relação a outros ativos, o investidor pode utilizar a [comparação com índices](/recursos/comparacao-com-indices), que exibe a rentabilidade lado a lado com o Ibovespa, CDI, IPCA e S&P 500 no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da KLBN11",
+      "body": "A volatilidade anualizada da KLBN11 nos últimos 12 meses é de 22,01%, classificada como moderada. O beta contra o Ibovespa é de 0,25, indicando que os movimentos da unit costumam ser menores que os do índice, na mesma direção. A maior queda em 5 anos foi de -30,86%, ocorrida entre o pico em 24/03/2022 e o ponto mais baixo em 29/09/2022. O setor de papel e celulose está sujeito a riscos cíclicos, variação de preços de commodities e flutuações cambiais. A volatilidade e a sensibilidade a movimentos de mercado podem ser monitoradas através dos [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge patamares definidos pelo investidor."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KLBN11 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a KLBN11 distribuiu R$ 1,1611 por ação em 2 pagamentos, com dividend yield de 6,81%. O último pagamento foi de R$ 0,9029 em 16/12/2025. O histórico completo de proventos pode ser consultado no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre KLBN3, KLBN4 e KLBN11?",
+      "answer": "KLBN3 é a ação ordinária, que dá direito a voto em assembleias. KLBN4 é a ação preferencial, que tem preferência no recebimento de proventos. KLBN11 é a unit, composta por uma ação ordinária e uma preferencial, oferecendo ambos os direitos. A Klabin é listada no Nível 2 da B3, com controle privado detido pela Klabin Irmãos & Cia e NIBLAK Participações S/A."
+    },
+    {
+      "question": "O que a Klabin produz?",
+      "answer": "A Klabin é a maior produtora e exportadora de papéis do Brasil, com foco em celulose, papéis e cartões para embalagens, embalagens de papelão ondulado e sacos industriais. A empresa também atua como recicladora e produtora de toras para serrarias, com 24 unidades industriais no Brasil e na Argentina."
+    },
+    {
+      "question": "Qual o setor da Klabin na B3?",
+      "answer": "A Klabin está classificada no setor de Materiais Básicos, segmento Papel e Celulose, na B3. A empresa é de base florestal e possui florestas em três estados: Paraná, Santa Catarina e São Paulo."
+    },
+    {
+      "question": "A KLBN11 é uma boa ação para diversificar?",
+      "answer": "A KLBN11 tem beta de 0,25 contra o Ibovespa, o que indica menor sensibilidade aos movimentos do índice. A volatilidade anualizada é de 22,01%, nível moderado. Para avaliar a alocação da KLBN11 na carteira, o investidor pode usar a [carteira consolidada](/recursos/carteira-consolidada), que mostra a distribuição por classe e as maiores posições."
+    },
+    {
+      "question": "A Klabin emitiu CPR-F recentemente?",
+      "answer": "Sim. A Klabin realizou a 1ª emissão de Cédulas de Produto Rural com Liquidação Financeira (CPR-F) em 23/07/2025, encerrada em 22/08/2025, e a 2ª emissão em 27/03/2026, encerrada em 29/04/2026. Essas emissões são parte da estratégia de captação da companhia."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da KLBN11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da KLBN11 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a KLBN11 atingir o preço que você escolheu, para acompanhar a volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação da KLBN11 na sua carteira, junto com outros ativos, em uma visão única."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SUZB3",
+        "list": "br-stocks",
+        "reason": "Suzano S.A. é a principal concorrente da Klabin no setor de papel e celulose no Brasil."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petróleo Brasileiro S.A. (Petrobras) é outra empresa do setor de Materiais Básicos, com exposição a commodities."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Vale S.A. é uma empresa do setor de Materiais Básicos, com exposição a mineração e commodities."
+      },
+      {
+        "ticker": "GGBR4",
+        "list": "br-stocks",
+        "reason": "Gerdau S.A. é uma empresa do setor de Materiais Básicos, com exposição ao aço e siderurgia."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KLBN11",
+      "url": "https://finance.yahoo.com/quote/KLBN11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: KLABIN S/A, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/12653/KLBN/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, KLABIN S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Klabin",
+      "url": "https://www.wikidata.org/wiki/Q1474718",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Klabin",
+      "url": "https://pt.wikipedia.org/wiki/Klabin",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/06/2026, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537981&numSequencia=1062687&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/04/2026, “Encerramento da Oferta 2a Emissão de CPR-F”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1511591&numSequencia=1036297&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/03/2026, “Emissão de Cédulas de Produto Rural com Liquidação Financeira (CPR-F)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1497548&numSequencia=1022254&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 26/02/2026, “Incorporação Klabin Amazônia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1482857&numSequencia=1007563&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/12/2025, “Projeções”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1454398&numSequencia=979110&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/12/2025, “Dividendos intercalares + bonificação de ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1454103&numSequencia=978815&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/08/2025, “Encerramento Oferta CPR-F”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1416505&numSequencia=941217&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/07/2025, “1ª Emissão de Cédulas de Produto Rural com Liquidação Financeira (CPR-F)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1403469&numSequencia=928181&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

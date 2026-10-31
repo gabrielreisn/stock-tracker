@@ -1,0 +1,321 @@
+{
+  "ticker": "SPXS11",
+  "slug": "spxs11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SPXS11: FII multiestratégia, dividendos e volatilidade",
+    "description": "Conheça o SPXS11: FII multiestratégia da SPX Real Estate, com carteira de CRIs, ações e imóveis.",
+    "h1": "SPXS11: Spx Real Estate Multiestratégia FII",
+    "canonicalPath": "/fiis/spxs11",
+    "keywords": [
+      "SPXS11",
+      "FII multiestratégia",
+      "SPX Real Estate",
+      "dividend yield SPXS11",
+      "volatilidade SPXS11",
+      "FII BTG Pactual",
+      "CRIs e FIIs",
+      "rendimentos imobiliários"
+    ]
+  },
+  "summary": "SPXS11 é o Spx Real Estate Multiestratégia Fundo de Investimento Imobiliário, um FII de gestão ativa e segmento multicategoria lançado em 03/08/2022. O fundo investe em uma carteira diversificada que inclui CRIs, ações imobiliárias, outros FIIs e bens imóveis, buscando rendimento e ganho de capital. Em 09/2026, o patrimônio líquido era de R$ 189,1 milhões, com 19.094 cotistas e valor patrimonial da cota de R$ 9,37.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Spx Real Estate Multiestratégia Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "SPX REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF SPXS11",
+    "isin": "BRSPXSCTF002",
+    "taxId": "43.010.543/0001-00",
+    "foundingDate": "2022-08-03",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=43010543000100"
+    ]
+  },
+  "profile": {
+    "type": "FII multiestratégia (híbrido)",
+    "issuerOrManager": "SPX Real Estate Gestão de Recursos Ltda",
+    "name": "Spx Real Estate Multiestratégia Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "SPX REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "03/08/2022",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "SPX REAL ESTATE MULTIESTRATÉGIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "43.010.543/0001-00",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "03/08/2022",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 189,1 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "19.094",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,37",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 7,20",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,30% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,27",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "16,57%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 495.159,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SPXS11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo De Investimento Imobiliario - Spx Syn Multiestrategia",
+    "currency": "BRL",
+    "price": 7.2,
+    "historyStarts": "2022-08-09",
+    "returns": {
+      "1y": -0.0123,
+      "3y": 0.1662,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.153,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2302,
+      "from": "2024-06-17",
+      "to": "2024-12-20"
+    },
+    "beta1y": {
+      "value": 0.27,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.193,
+      "payments12Months": 12,
+      "yield12Months": 0.1657,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.101
+      }
+    },
+    "avgDailyTradedValue3m": 495159
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do SPXS11 nos 12 meses até 29/10/2026 foi de 15,30%, nível considerado moderado. A maior queda em 5 anos foi de -23,02%, ocorrida entre o pico em 17/06/2024 e o ponto mais baixo em 20/12/2024. Para um FII multiestratégia com exposição a CRIs e ações, essa volatilidade é compatível com a diversificação de ativos, mas o beta baixo indica menor sensibilidade ao mercado acionário. A gestão do fundo, no relatório de setembro de 2026, atribuiu a dinâmica recente de negociação a um evento de liquidez específico, decorrente da redução gradual da posição de um investidor relevante, considerado um fator técnico e temporário."
+  },
+  "history": {
+    "overview": "O SPXS11 iniciou suas atividades em 03/08/2022, após uma oferta pública de cotas que teve início em 28/07/2022 e encerramento em 04/08/2022. A estrutura do fundo é de gestão ativa, com o objetivo de auferir rendimentos e/ou ganho de capital por meio de uma carteira diversificada de ativos imobiliários, incluindo CRIs, ações, outros FIIs e imóveis físicos. Em 2023, o fundo realizou uma nova oferta pública, iniciada em 14/07/2023 e encerrada em 21/09/2023, ampliando sua base de investidores. A gestão é conduzida pela SPX Real Estate Gestão de Recursos Ltda., com administração e distribuição pela BTG Pactual. Em setembro de 2026, a carteira apresentava 88% de alocação do patrimônio líquido, com destaque para a carteira de CRIs, que passou por amortizações extraordinárias de ativos como CashMe, MRV, Franco Ribeiro e Pinheiro de Sá, além de um haircut de 10% no CRI Doppio devido a riscos de obra.",
+    "timeline": [
+      {
+        "date": "2022-07-28",
+        "event": "Início da primeira oferta pública de cotas do fundo.",
+        "source": 2
+      },
+      {
+        "date": "2022-08-03",
+        "event": "Início das atividades do SPXS11.",
+        "source": 1
+      },
+      {
+        "date": "2022-08-04",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-07-14",
+        "event": "Início da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-09-21",
+        "event": "Encerramento da segunda oferta pública de cotas.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do SPXS11",
+      "body": "O SPXS11 é um Fundo de Investimento Imobiliário (FII) de gestão ativa e segmento multicategoria, o que significa que sua carteira é híbrida, combinando ativos de papel (como CRIs, debêntures e letras de crédito imobiliário) e de tijolo (imóveis físicos e cotas de outros FIIs). A gestora é a SPX Real Estate Gestão de Recursos Ltda., com administração e distribuição pela BTG Pactual S.A. DTVM. Segundo o relatório gerencial de referência 30/09/2026, o objetivo do fundo é auferir rendimentos e/ou ganho de capital investindo em 13 modalidades de ativos, incluindo CRIs, ações imobiliárias, cotas de FIIs, bens imóveis, debêntures imobiliárias, participações em SPEs, cotas de FIAs, CEPACs, cotas de FIDCs, letras hipotecárias, letras de crédito imobiliário, letras imobiliárias garantidas e outros títulos. Ao final de setembro de 2026, a alocação do fundo estava em 88% do patrimônio líquido."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do SPXS11",
+      "body": "Nos 12 meses até 29/10/2026, o SPXS11 distribuiu R$ 1,1930 por cota em 12 pagamentos, o que resulta em um dividend yield de 16,57%. O último pagamento foi de R$ 0,1010 por cota, com data de pagamento em 08/10/2026. A periodicidade de distribuição é mensal, com data-base no 5º dia útil e pagamento no 10º dia útil. O relatório gerencial de setembro de 2026 destacou a distribuição de R$ 0,101 por cota, com dividend yield de 1,4% ao mês ou 16,4% ao ano. É possível acompanhar o histórico de proventos e calcular o rendimento da sua posição no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O SPXS11 realizou duas ofertas públicas de cotas encerradas, conforme documentos publicados no FNET (B3). A primeira ocorreu entre 28/07/2022 e 04/08/2022, e a segunda entre 14/07/2023 e 21/09/2023. Em 09/2026, o patrimônio líquido do fundo era de R$ 189,1 milhões, com 19.094 cotistas e valor patrimonial da cota de R$ 9,37. O número de cotas emitidas era de 20.189.040. A taxa de administração no mês de setembro de 2026 foi de 0,056% sobre o patrimônio, correspondendo a 0,80% ao ano, conforme o relatório gerencial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SPXS11",
+      "body": "A rentabilidade total do SPXS11, incluindo proventos, foi de -1,23% nos 12 meses até 29/10/2026 e de 16,62% nos últimos 3 anos. Em setembro de 2026, a carteira de ações do fundo valorizou 0,4%, enquanto o índice IMOB subiu 4,6%. A carteira de FIIs do fundo desvalorizou 0,4%, enquanto o IFIX recuou 0,2%. O dividend yield anualizado da carteira de FIIs atingiu 12,1% no mês. Para comparar o desempenho do SPXS11 com índices de referência como o IFIX e o CDI, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SPXS11",
+      "body": "Como FII multiestratégia, o SPXS11 está exposto a riscos de crédito (em ativos de papel como CRIs e debêntures), vacância (em ativos de tijolo) e variação de juros. Em setembro de 2026, a gestão aplicou um haircut de 10% na marcação do CRI Doppio devido à revisão do orçamento da obra e aumento do risco da operação, com reestruturação em andamento. A volatilidade anualizada do SPXS11 nos 12 meses até 29/10/2026 foi de 15,30%, classificada como moderada. A maior queda em 5 anos foi de -23,02%, do pico em 17/06/2024 ao ponto mais baixo em 20/12/2024. O beta do fundo contra o Ibovespa foi de 0,27, indicando que seus movimentos tendem a ser menores que os do índice na mesma direção. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SPXS11 é FII de papel ou de tijolo?",
+      "answer": "O SPXS11 é um FII multiestratégia, ou seja, híbrido, com carteira que inclui ativos de papel (CRIs, debêntures, letras de crédito imobiliário) e de tijolo (imóveis físicos, cotas de outros FIIs, ações imobiliárias). O segmento é multicategoria, com gestão ativa. A carteira é diversificada em 13 modalidades de ativos, conforme o relatório gerencial de 30/09/2026."
+    },
+    {
+      "question": "SPXS11 paga dividendos?",
+      "answer": "Sim, o SPXS11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 1,1930 por cota em 12 pagamentos, com dividend yield de 16,57%. O último pagamento foi de R$ 0,1010 por cota, com data de pagamento em 08/10/2026. A data-base é o 5º dia útil e o pagamento ocorre no 10º dia útil. Acompanhe os pagamentos no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a taxa de administração do SPXS11?",
+      "answer": "A taxa de administração do SPXS11 é de 0,80% ao ano, conforme o relatório gerencial de referência 30/09/2026. Em setembro de 2026, a taxa mensal foi de 0,056% sobre o patrimônio. Há também uma taxa de performance de 20% do que exceder IPCA + Yield IMA-B."
+    },
+    {
+      "question": "Qual o patrimônio do SPXS11?",
+      "answer": "Em 09/2026, o patrimônio líquido do SPXS11 era de R$ 189,1 milhões, com 19.094 cotistas e valor patrimonial da cota de R$ 9,37. O número de cotas emitidas era de 20.189.040. A alocação do fundo estava em 88% do patrimônio líquido ao final de setembro de 2026."
+    },
+    {
+      "question": "Qual a diferença entre SPXS11 e outros FIIs da BTG Pactual?",
+      "answer": "O SPXS11 é um FII multiestratégia com gestão ativa e carteira diversificada em 13 modalidades de ativos, incluindo CRIs, ações, outros FIIs e imóveis. Outros FIIs da BTG Pactual, como o [BTLG11](/fiis/btlg11) (logística) ou o [BTRU11](/fiis/btru11) (renda urbana), têm estratégias mais focadas em um segmento específico. O SPXS11 busca diversificação entre papel e tijolo, enquanto os outros podem ter exposição concentrada em um tipo de ativo."
+    },
+    {
+      "question": "O SPXS11 tem risco de crédito?",
+      "answer": "Sim, como FII multiestratégia com exposição a CRIs, debêntures e letras de crédito imobiliário, o SPXS11 tem risco de crédito. Em setembro de 2026, a gestão aplicou um haircut de 10% no CRI Doppio devido à revisão do orçamento da obra e aumento do risco da operação. A reestruturação do ativo está em andamento, com previsão de constituição de garantias adicionais. O risco de crédito é um dos principais riscos de fundos de papel."
+    },
+    {
+      "question": "Como acompanhar o desempenho do SPXS11?",
+      "answer": "O desempenho do SPXS11 pode ser acompanhado pelo recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio), que mostra o gráfico de rentabilidade e a variação do ativo. Para comparar com índices como o IFIX e o CDI, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices). O volume médio diário de negociação do SPXS11 em 2026 foi de cerca de R$ 513 mil, conforme o relatório gerencial de setembro de 2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do SPXS11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do SPXS11 com o IFIX, o CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o SPXS11 chegar ao preço que você escolheu, útil para monitorar oscilações de um ativo com volatilidade moderada."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o SPXS11 junto com seus outros ativos, com valor por classe e alocação em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII da BTG Pactual com foco em logística, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "BTRU11",
+        "list": "fiis",
+        "reason": "FII da BTG Pactual com foco em renda urbana, para comparação de segmento e diversificação."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de CRIs high yield da Kinea, para comparação de exposição a crédito imobiliário."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de renda fixa imobiliária, para comparação de estratégia de papel e dividend yield."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SPXS11",
+      "url": "https://finance.yahoo.com/quote/SPXS11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do SPX REAL ESTATE FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo SPXS11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=43010543000100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do SPXS11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1353897",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

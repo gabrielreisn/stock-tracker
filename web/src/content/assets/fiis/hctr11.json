@@ -1,0 +1,316 @@
+{
+  "ticker": "HCTR11",
+  "slug": "hctr11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HCTR11: história, dividendos e volatilidade",
+    "description": "HCTR11 é um FII de crédito high yield com dividend yield de 27,33% em 12 meses. Veja patrimônio, estratégia e riscos do Hectare CE FII.",
+    "h1": "HCTR11: Hectare CE Fundo de Investimento Imobiliário",
+    "canonicalPath": "/fiis/hctr11",
+    "keywords": [
+      "HCTR11",
+      "Hectare CE FII",
+      "FII high yield",
+      "CRI",
+      "dividend yield HCTR11",
+      "volatilidade HCTR11",
+      "patrimônio HCTR11"
+    ]
+  },
+  "summary": "HCTR11 é a cota do Hectare CE Fundo de Investimento Imobiliário, um fundo de crédito high yield que investe preponderantemente em Certificados de Recebíveis Imobiliários (CRIs). Com patrimônio de R$ 2,30 bilhões em 09/2026, o ativo distribui rendimentos com base em caixa, apresentando dividend yield de 27,33% nos 12 meses até 29/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Hectare Ce Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "HECTARE CE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF HCTR11",
+    "isin": "BRHCTRCTF003",
+    "taxId": "30.248.180/0001-96",
+    "foundingDate": "2018-10-02",
+    "provider": {
+      "name": "VÓRTX DTVM LTDA",
+      "url": "https://www.vortx.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30248180000196"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI) e híbrido",
+    "issuerOrManager": "Hectare Capital Gestora de Recursos Ltda",
+    "name": "Hectare Ce Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "HECTARE CE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "02/10/2018",
+    "administrator": "VÓRTX DTVM LTDA",
+    "website": "https://www.vortx.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "HECTARE CE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "30.248.180/0001-96",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "VÓRTX DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "02/10/2018",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 2,30 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "116.362",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 104,17",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 11,78",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "25,96% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,29",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "27,33%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 579.293,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HCTR11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo De Investimento Imobiliario Hectare Ce",
+    "currency": "BRL",
+    "price": 11.78,
+    "historyStarts": "2019-07-11",
+    "returns": {
+      "1y": -0.3611,
+      "3y": -0.4932,
+      "5y": -0.809,
+      "10y": null
+    },
+    "volatility1y": 0.2596,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8161,
+      "from": "2022-01-04",
+      "to": "2024-12-20"
+    },
+    "beta1y": {
+      "value": 0.29,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 3.22,
+      "payments12Months": 12,
+      "yield12Months": 0.2733,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.21
+      }
+    },
+    "avgDailyTradedValue3m": 579293
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do HCTR11 nos 12 meses até 29/10/2026 foi de 25,96%, nível classificado como alta. O beta de 0,29 contra o Ibovespa indica que o ativo tende a acompanhar os movimentos do índice com menor intensidade, na mesma direção. A maior queda nos últimos 5 anos foi de -81,61%, entre 04/01/2022 e 20/12/2024, refletindo a exposição a ativos de crédito high yield e a complexidade das operações. Essa volatilidade é compatível com a estratégia do fundo, que busca retornos superiores à média em detrimento de maior risco e menor previsibilidade de distribuições no curto prazo."
+  },
+  "history": {
+    "overview": "O Hectare CE FII iniciou suas atividades em 02/10/2018, com o objetivo de proporcionar valorização e rentabilidade no longo prazo por meio de ativos imobiliários. O fundo se posiciona como um dos pioneiros no mercado brasileiro de FIIs high yield, adotando uma estratégia que busca retornos superiores à média por meio da exposição a segmentos menos óbvios e operações com estruturas financeiras de maior complexidade. Essa abordagem implica em menor previsibilidade quanto à periodicidade e ao volume das distribuições de resultado no curto prazo, caracterizando um produto de maior volatilidade voltado a investidores de perfil arrojado. Em 2026, o fundo passou por eventos de reestruturação de carteira, incluindo a liquidação do Fundo HCHG11, cujas cotas foram transferidas para o VVCR11 e, subsequentemente, integraram a carteira do HCTR11, impactando a composição de ativos e o fluxo de caixa.",
+    "timeline": [
+      {
+        "date": "2018-10-02",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2019-10-25",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2020-02-13",
+        "event": "Início de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-02-20",
+        "event": "Remarcação de ativos resultou em variação negativa de 6,54% no valor do patrimônio líquido",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do HCTR11",
+      "body": "O Hectare CE FII é um fundo de crédito high yield do tipo híbrido de desenvolvimento, com gestão ativa. A gestora é a Hectare Capital Gestora de Recursos Ltda. e o administrador é a Vórtx DTVM Ltda. O objetivo do fundo é proporcionar valorização e rentabilidade no longo prazo, investindo preponderantemente em Certificados de Recebíveis Imobiliários (CRIs). A estratégia busca retornos superiores à média do mercado por meio da exposição a segmentos menos óbvios e operações de maior complexidade, o que implica em menor previsibilidade de distribuições no curto prazo e maior volatilidade, voltado a investidores de perfil arrojado. Em 31/08/2026, a carteira incluía cotas do VVCR11, adquiridas após a liquidação do HCHG11."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do HCTR11",
+      "body": "Nos 12 meses até 29/10/2026, o HCTR11 distribuiu R$ 3,2200 por cota em 12 pagamentos, resultando em dividend yield de 27,33%. O último provento foi de R$ 0,2100, pago em 08/10/2026. De acordo com o relatório gerencial de 31/08/2026, para pessoas físicas, os rendimentos distribuídos são isentos de Imposto de Renda, enquanto os ganhos de capital em negociações são tributados à alíquota de 20%. Para pessoas jurídicas, rendimentos e ganhos de capital são tributados com alíquota de 20%. É possível acompanhar o histórico de proventos e calcular o rendimento total na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O HCTR11 realizou 4 ofertas públicas de cotas encerradas, conforme documentos publicados no FNET. Em 09/2026, o patrimônio líquido do fundo era de R$ 2,30 bilhões, com 116.362 cotistas e valor patrimonial da cota de R$ 104,17. O número de cotas emitidas era de 22.084.203. A taxa de administração no mês de 09/2026 foi de 0,001% sobre o patrimônio, enquanto a taxa de gestão é de 0,99% a.a. e a taxa de performance é de 10% sobre o que exceder a variação de 100% do CDI."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HCTR11",
+      "body": "A rentabilidade total com proventos do HCTR11 foi de -36,11% nos 12 meses, -49,32% em 3 anos e -80,90% em 5 anos, até 29/10/2026. Esses números refletem a estratégia high yield e a exposição a ativos de maior complexidade. Para comparar o desempenho do fundo com índices de referência como o IFIX e o CDI, utilize a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HCTR11",
+      "body": "O HCTR11 é um fundo de crédito high yield, o que implica exposição a riscos de crédito e inadimplência, além de maior volatilidade. A volatilidade anualizada nos 12 meses até 29/10/2026 foi de 25,96%, classificada como alta. A maior queda nos últimos 5 anos foi de -81,61%, do pico em 04/01/2022 ao ponto mais baixo em 20/12/2024. O fundo também está sujeito a riscos de liquidez e a variações no valor de mercado dos CRIs. Em 20/02/2026, uma remarcação de ativos resultou em variação negativa de 6,54% no patrimônio líquido. A alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HCTR11 é FII de papel ou de tijolo?",
+      "answer": "HCTR11 é um FII de papel, mais especificamente um fundo de crédito high yield que investe preponderantemente em Certificados de Recebíveis Imobiliários (CRIs). O relatório gerencial de 31/08/2026 confirma essa composição, que inclui também cotas de outros fundos, como o VVCR11, após a liquidação do HCHG11."
+    },
+    {
+      "question": "HCTR11 paga dividendos?",
+      "answer": "Sim, o HCTR11 distribui rendimentos com base em caixa. Nos 12 meses até 29/10/2026, foram distribuídos R$ 3,2200 por cota em 12 pagamentos, com dividend yield de 27,33%. O último provento foi de R$ 0,2100, pago em 08/10/2026. A periodicidade e o volume das distribuições podem variar, conforme a estratégia high yield do fundo."
+    },
+    {
+      "question": "Qual a tributação do HCTR11?",
+      "answer": "Para pessoas físicas, os rendimentos distribuídos são isentos de Imposto de Renda, e os ganhos de capital em negociações são tributados à alíquota de 20%. Para pessoas jurídicas, rendimentos e ganhos de capital são tributados com alíquota de 20%, conforme o relatório gerencial de 31/08/2026."
+    },
+    {
+      "question": "Qual o patrimônio do HCTR11?",
+      "answer": "Em 09/2026, o patrimônio líquido do HCTR11 era de R$ 2,30 bilhões, com 116.362 cotistas e valor patrimonial da cota de R$ 104,17. O número de cotas emitidas era de 22.084.203."
+    },
+    {
+      "question": "Quem é a gestora do HCTR11?",
+      "answer": "A gestora do HCTR11 é a Hectare Capital Gestora de Recursos Ltda., e o administrador é a Vórtx DTVM Ltda. O fundo é do tipo condomínio fechado, com prazo de duração indeterminado."
+    },
+    {
+      "question": "Qual a diferença entre HCTR11 e outros FIIs high yield?",
+      "answer": "O HCTR11 é um dos pioneiros no mercado brasileiro de FIIs high yield, com estratégia que busca retornos superiores à média por meio da exposição a segmentos menos óbvios e operações de maior complexidade. Outros FIIs high yield, como [KNHY11](/fiis/knhy11) e [RBRY11](/fiis/rbry11), também investem em CRIs, mas podem ter diferenças na composição da carteira e na estratégia de gestão."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do HCTR11 com data de pagamento e rendimento total, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do HCTR11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o HCTR11 atingir o preço que você escolheu, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o HCTR11 junto com outros ativos na sua carteira, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de crédito high yield, com estratégia similar em CRIs."
+      },
+      {
+        "ticker": "RBRY11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário, com foco em operações de maior complexidade."
+      },
+      {
+        "ticker": "HYG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos high yield globais, para comparação com a estratégia do HCTR11."
+      },
+      {
+        "ticker": "LQD",
+        "list": "us-etfs",
+        "reason": "ETF de títulos investment grade, para contraste com a estratégia high yield do HCTR11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HCTR11",
+      "url": "https://finance.yahoo.com/quote/HCTR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FII HECTARE CE (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo HCTR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30248180000196",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do HCTR11, referência 31/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1353792",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HCTR11, 29/04/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1173338",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

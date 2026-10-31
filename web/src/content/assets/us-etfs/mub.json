@@ -1,0 +1,284 @@
+{
+  "ticker": "MUB",
+  "slug": "mub",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MUB: ETF de bônus municipais, dividendos e risco",
+    "description": "MUB é o iShares National Muni Bond ETF, que investe em títulos de dívida municipal dos EUA.",
+    "h1": "MUB: iShares National Muni Bond ETF",
+    "canonicalPath": "/etfs/mub",
+    "keywords": [
+      "MUB",
+      "iShares National Muni Bond ETF",
+      "ETF de bônus municipais",
+      "renda fixa americana",
+      "dividendos MUB",
+      "volatilidade MUB",
+      "beta MUB",
+      "títulos municipais EUA"
+    ]
+  },
+  "summary": "MUB é o iShares National Muni Bond ETF, um fundo de índice que investe em títulos de dívida de governos estaduais e locais dos Estados Unidos. Lançado em 10/09/2007 e gerido pela iShares, o ativo tem como característica principal a isenção de impostos federais sobre os rendimentos dos bônus municipais. Em 30/10/2026, a cota valia US$ 104,18, com dividend yield de 3,28% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares National Muni Bond ETF",
+    "ticker": "ARCX MUB",
+    "foundingDate": "2007-09-10",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa (títulos municipais)",
+    "issuerOrManager": "iShares (BlackRock)",
+    "name": "iShares National Muni Bond ETF",
+    "founded": "10/09/2007"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares National Muni Bond ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "10/09/2007",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 104,18",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "3,71% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,10",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,28%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,15 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MUB",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares National Muni Bond ETF",
+    "currency": "USD",
+    "price": 104.18,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.002,
+      "3y": 0.1323,
+      "5y": 0.0324,
+      "10y": 0.2005
+    },
+    "volatility1y": 0.0371,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1156,
+      "from": "2021-12-22",
+      "to": "2022-10-31"
+    },
+    "beta1y": {
+      "value": 0.1,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.414,
+      "payments12Months": 12,
+      "yield12Months": 0.0328,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.279
+      }
+    },
+    "avgDailyTradedValue3m": 1152808273
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do MUB nos últimos 12 meses é de 3,71%, um nível considerado baixo, o que é consistente com a natureza de um fundo de renda fixa. O beta de 0,10 contra o S&P 500 indica que, em média, o MUB se move em uma amplitude muito menor que a do índice acionário, na mesma direção. A maior queda em 5 anos foi de -11,56%, entre 22/12/2021 e 31/10/2022, período marcado por forte alta dos juros nos EUA. Para um ativo de renda fixa, essa queda é significativa, mas o beta baixo mostra que o MUB não acompanha a volatilidade do mercado de ações. É possível acompanhar a evolução do preço e a volatilidade no [gráfico de desempenho](/recursos/desempenho-e-preco-medio) do app."
+  },
+  "history": {
+    "overview": "O MUB foi lançado em 10 de setembro de 2007, oferecendo exposição ao mercado de títulos municipais dos Estados Unidos por meio de uma estrutura de ETF. A emissora, a marca iShares, foi criada em 2000 pela Barclays Global Investors e adquirida pela BlackRock em 2009, consolidando-se como a maior gestora de ETFs do mundo. A história da dívida municipal americana remonta ao início do século XIX, com o primeiro registro oficial sendo um bônus emitido pela cidade de Nova York em 1812 para a construção de um canal. Diferente do mercado corporativo, que possui cerca de US$ 15 trilhões em dívida, o mercado municipal é menor, com cerca de US$ 4 trilhões em 2021, mas possui um número muito maior de emissores, representando governos estaduais e locais. A principal característica que define a estratégia do MUB é a tributação: os rendimentos desses títulos são frequentemente isentos de impostos federais e estaduais, o que os torna atrativos para investidores em faixas de renda mais altas nos EUA.",
+    "timeline": [
+      {
+        "date": "1812",
+        "event": "Emissão do primeiro bônus municipal registrado oficialmente, pela cidade de Nova York para a construção de um canal.",
+        "source": 2
+      },
+      {
+        "date": "2000",
+        "event": "A Barclays lança a marca iShares, iniciando a expansão do mercado de ETFs.",
+        "source": 1
+      },
+      {
+        "date": "2007-09-10",
+        "event": "Primeiro pregão das cotas do MUB na bolsa de valores.",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "A BlackRock adquire a marca e o negócio de ETFs da Barclays, assumindo a gestão do MUB.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o MUB funciona",
+      "body": "O MUB é um Exchange-Traded Fund (ETF) que opera na bolsa de valores, permitindo a compra e venda de cotas durante o pregão diário. O fundo é gerido pela iShares, marca de fundos de índice da BlackRock, que adquiriu o negócio da Barclays em 2009. O MUB foi lançado em 10 de setembro de 2007 e busca replicar o desempenho de um índice de títulos de dívida municipal dos Estados Unidos. Não se trata de um ETF alavancado ou inverso, portanto, não há rebalanceamento diário de múltiplos de alavancagem. O ativo funciona como uma forma de diversificação para quem busca renda fixa americana com características tributárias específicas, sem a necessidade de comprar títulos individuais."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do MUB",
+      "body": "O MUB investe em títulos de dívida emitidos por governos estaduais, locais e entidades por eles criadas, como autoridades e distritos especiais. Segundo o contexto do mercado de bônus municipais, a dívida municipal americana totalizava cerca de US$ 4 trilhões no primeiro trimestre de 2021, um valor menor que o mercado corporativo, mas com um número de emissores muito superior. As fontes disponíveis não detalham a alocação exata por prazo, classificação de risco ou estado de cada título dentro do portfólio do MUB, mas o foco é a isenção de impostos federais e estaduais sobre os rendimentos."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no MUB a partir do Brasil",
+      "body": "Para investir no MUB a partir do Brasil, o investidor precisa abrir conta em uma corretora de valores que opere no mercado americano. A cotação do MUB é em dólar, o que introduz o risco cambial: variações no câmbio entre o real e o dólar impactam diretamente o retorno final em moeda local. É possível acompanhar o desempenho e a volatilidade do ativo em dólar e avaliar o impacto do câmbio na [carteira consolidada](/recursos/carteira-consolidada), que permite visualizar a alocação entre ativos domésticos e internacionais em uma única visão."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MUB",
+      "body": "Até 30/10/2026, o MUB apresentou rentabilidade total de 0,20% em 12 meses, 13,23% em 3 anos, 3,24% em 5 anos e 20,05% em 10 anos. O ativo paga proventos mensais, com um total de US$ 3,4140 por cota nos últimos 12 meses, resultando em um dividend yield de 3,28%. O último pagamento foi de US$ 0,2790 em 01/10/2026. Para entender como esses retornos se comportam em relação a outros mercados, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca o desempenho do MUB lado a lado com o S&P 500 e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MUB",
+      "body": "O principal risco do MUB é a sensibilidade a mudanças nas taxas de juros dos Estados Unidos: quando os juros sobem, o preço dos títulos de dívida tende a cair. A maior queda em 5 anos foi de -11,56%, ocorrida entre o pico em 22/12/2021 e o fundo em 31/10/2022, período de forte alta dos juros. A volatilidade anualizada nos últimos 12 meses é de 3,71%, considerada baixa, e o beta contra o S&P 500 é de 0,10, indicando que o ativo tende a ter movimentos muito menores que o mercado acionário. O risco cambial também é relevante para o investidor brasileiro, pois o MUB é cotado em dólar. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações da cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O MUB é um ETF de renda fixa ou de ações?",
+      "answer": "O MUB é um ETF de renda fixa. Ele investe em títulos de dívida de governos estaduais e locais dos Estados Unidos, conhecidos como bônus municipais. O ativo não possui exposição direta a ações, mas o seu preço é sensível às taxas de juros americanas."
+    },
+    {
+      "question": "MUB paga dividendos?",
+      "answer": "Sim, o MUB distribui proventos mensais. Nos 12 meses até 30/10/2026, o total distribuído foi de US$ 3,4140 por cota, o que representa um dividend yield de 3,28%. O último pagamento registrado foi de US$ 0,2790 em 01/10/2026."
+    },
+    {
+      "question": "Qual a diferença entre MUB e títulos de dívida corporativa?",
+      "answer": "O MUB investe em bônus municipais, emitidos por governos estaduais e locais, enquanto títulos corporativos são emitidos por empresas. A principal diferença é tributária: os rendimentos dos bônus municipais nos EUA são frequentemente isentos de impostos federais e estaduais, o que pode torná-los mais atrativos para investidores em faixas de renda mais altas."
+    },
+    {
+      "question": "Como o MUB se comporta em relação ao S&P 500?",
+      "answer": "O MUB tem um beta de 0,10 contra o S&P 500, o que significa que, em média, ele se move em uma amplitude muito menor que o índice acionário. A volatilidade do MUB é de 3,71%, muito inferior à de um índice de ações. É possível comparar o desempenho do MUB com o S&P 500 na [comparação com índices](/recursos/comparacao-com-indices) do app."
+    },
+    {
+      "question": "Qual o risco cambial de investir no MUB?",
+      "answer": "O MUB é cotado em dólar, portanto, o investidor brasileiro está exposto ao risco cambial. Se o dólar se valorizar em relação ao real, o retorno em reais aumenta; se o dólar se desvalorizar, o retorno em reais diminui. É possível acompanhar o impacto do câmbio na [carteira consolidada](/recursos/carteira-consolidada), que mostra a alocação entre ativos em moeda local e estrangeira."
+    },
+    {
+      "question": "Como acompanhar o MUB no dia a dia?",
+      "answer": "É possível usar o [widget na barra de menus](/recursos/widget-da-barra-de-menus) do app para acompanhar o gráfico do dia e as posições do MUB com um clique. O [assistente de IA](/recursos/assistente-de-ia) também permite perguntar em português sobre a carteira e os proventos recebidos, com base nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do MUB junto com outros ativos, como ações e renda fixa, em uma única visão, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do MUB com o S&P 500, CDI e outros índices no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do MUB atingir o preço que você escolheu, para monitorar oscilações sem precisar ficar de olho no gráfico."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe o gráfico de rentabilidade do MUB, o preço médio da sua posição e a variação do dia e do ano em um só lugar."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre os proventos recebidos do MUB e o impacto do câmbio na sua carteira, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "Outro ETF de renda fixa americana, mas focado em títulos do Tesouro com prazo longo, para comparação de sensibilidade a juros."
+      },
+      {
+        "ticker": "AGG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos de dívida agregados dos EUA, incluindo corporativos e governamentais, para comparação de diversificação."
+      },
+      {
+        "ticker": "HYG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos de dívida corporativa de alto rendimento, para comparação de risco e retorno com o MUB."
+      },
+      {
+        "ticker": "LQD",
+        "list": "us-etfs",
+        "reason": "ETF de títulos de dívida corporativa de investimento, para comparação de isenção tributária e perfil de risco."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de volatilidade e beta entre renda fixa e renda variável americana."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MUB",
+      "url": "https://finance.yahoo.com/quote/MUB/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Municipal bond (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Municipal_bond",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

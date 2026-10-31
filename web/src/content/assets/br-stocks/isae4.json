@@ -1,0 +1,380 @@
+{
+  "ticker": "ISAE4",
+  "slug": "isae4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ISAE4: história, dividendos e volatilidade",
+    "description": "Conheça a ISA Energía Brasil S.A. (ISAE4): setor de transmissão de energia, dividend yield de 8,31%, volatilidade de 27,05% e eventos societários de 2026.",
+    "h1": "ISAE4: ISA Energía Brasil S.A. - Ação preferencial de transmissão de energia",
+    "canonicalPath": "/acoes/isae4",
+    "keywords": [
+      "ISAE4",
+      "ISA Energía Brasil",
+      "ação preferencial energia",
+      "dividendos ISAE4",
+      "volatilidade ISAE4",
+      "transmissão de energia elétrica",
+      "B3 energia elétrica"
+    ]
+  },
+  "summary": "ISAE4 é a ação preferencial da ISA Energía Brasil S.A., empresa do setor de utilidade pública que atua na transmissão de energia elétrica no Brasil. Cotada na B3 desde 1999, a companhia registrou rentabilidade total de 3,74% nos 12 meses até 30/10/2026, com dividend yield de 8,31% no mesmo período. A empresa possui controle acionário privado e é auditada pela Ernst & Young.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "ISA Energía Brasil S.A.",
+    "legalName": "ISA ENERGIA BRASIL S.A.",
+    "ticker": "BVMF ISAE4",
+    "isin": "BRISAEACNPR9",
+    "taxId": "02.998.611/0001-04",
+    "foundingDate": "1999-02-04",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.isaenergiabrasil.com.br/",
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/CPFL_Energia",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18376/ISAE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "ISA Energía Brasil S.A.",
+    "legalName": "ISA ENERGIA BRASIL S.A.",
+    "type": "Ação preferencial (PN)",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "04/02/1999",
+    "listedSince": "26/07/1999",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.isaenergiabrasil.com.br/"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "ISA ENERGIA BRASIL S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.998.611/0001-04",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "04/02/1999",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "26/07/1999",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "ISAE3, ISAE4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 24,53",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "27,05% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,78",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "8,31%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ISAE4",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ISA Energía Brasil S.A.",
+    "currency": "BRL",
+    "price": 24.53,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0374,
+      "3y": 0.4723,
+      "5y": 0.4266,
+      "10y": 2.2379
+    },
+    "volatility1y": 0.2705,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2194,
+      "from": "2026-04-15",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 0.78,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 2.0395,
+      "payments12Months": 10,
+      "yield12Months": 0.0831,
+      "lastPayment": {
+        "date": "2026-10-09",
+        "amount": 0.188959
+      }
+    },
+    "avgDailyTradedValue3m": 114868103
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da ISAE4 nos 12 meses até 30/10/2026 foi de 27,05%, nível alto. O beta de 0,78 contra o Ibovespa indica que a ação tende a se mover 0,78 vezes o índice, o que sugere menor sensibilidade aos movimentos do Ibovespa, mas não menor volatilidade. A maior queda em 5 anos foi de -21,94%, do pico em 15/04/2026 ao ponto mais baixo em 30/10/2026. Para acompanhar a volatilidade e definir pontos de entrada, é possível usar os [alertas de preço](/recursos/alertas-de-preco) do app, que notificam quando o ativo atinge um preço definido."
+  },
+  "history": {
+    "overview": "A ISA Energía Brasil S.A. foi constituída em 04/02/1999 e teve seu registro como companhia aberta na CVM em 14/07/1999, iniciando a cotação de suas ações na B3 em 26/07/1999. A empresa atua no segmento de energia elétrica, com foco específico na transmissão de energia, uma atividade regulada que envolve a operação e a manutenção de linhas de transmissão e subestações. Em 2026, a companhia passou por eventos societários relevantes, incluindo o descruzamento de participações na IE Madeira e IE Garanhuns, concluído em 31/07/2026, e a realização de uma oferta pública primária de ações, com o lançamento em 15/07/2026 e a definição do preço por ação em 23/07/2026. Esses eventos indicam uma reestruturação de ativos e captação de recursos no período.",
+    "timeline": [
+      {
+        "date": "1999-02-04",
+        "event": "Constituição da ISA Energía Brasil S.A.",
+        "source": 2
+      },
+      {
+        "date": "1999-07-14",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "1999-07-26",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-03-19",
+        "event": "Fato relevante sobre descruzamento de participações na IE Madeira e IE Garanhuns",
+        "source": 11
+      },
+      {
+        "date": "2026-04-07",
+        "event": "Conversão de ações",
+        "source": 10
+      },
+      {
+        "date": "2026-05-27",
+        "event": "Julgamento do TRF1 sobre o RBSE",
+        "source": 9
+      },
+      {
+        "date": "2026-07-03",
+        "event": "Fato relevante sobre potencial oferta pública",
+        "source": 8
+      },
+      {
+        "date": "2026-07-15",
+        "event": "Lançamento de oferta pública primária",
+        "source": 6
+      },
+      {
+        "date": "2026-07-23",
+        "event": "Definição do preço por ação na oferta pública",
+        "source": 5
+      },
+      {
+        "date": "2026-07-31",
+        "event": "Conclusão do descruzamento de participações na IE Madeira e IE Garanhuns",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a ISA Energía Brasil S.A. ganha dinheiro",
+      "body": "A ISA Energía Brasil S.A. atua no segmento de energia elétrica, com atividade classificada pela B3 como transmissão de energia elétrica. A empresa opera no setor de utilidade pública, onde a receita é gerada pela prestação de serviços de transmissão de energia, uma atividade regulada pela ANEEL. As fontes não detalham a composição da receita por tipo de ativo ou região, mas a classificação setorial indica que a empresa depende de contratos de concessão e regulação para sua operação. A companhia possui controle acionário privado, o que pode influenciar a estratégia de longo prazo e a distribuição de proventos."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da ISA Energía Brasil S.A.",
+      "body": "A ISA Energía Brasil S.A. possui controle acionário privado, conforme cadastro na CVM. A empresa é listada no Nível 1 da B3, o que indica um padrão de governança corporativa. As ações negociadas são ISAE3 (ordinárias) e ISAE4 (preferenciais). A ação preferencial (ISAE4) tem prioridade no recebimento de dividendos e JCP, mas não possui direito a voto em assembleias, enquanto a ação ordinária (ISAE3) tem direito a voto, mas fica em segundo lugar na distribuição de proventos. A diferença entre as classes não implica em maior ou menor risco, apenas em direitos distintos."
+    },
+    {
+      "id": "proventos",
+      "heading": "ISAE4 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a ISAE4 distribuiu R$ 2,0395 por ação em 10 pagamentos, resultando em um dividend yield de 8,31%. O último pagamento foi de R$ 0,1890 em 09/10/2026. A regularidade dos pagamentos e o nível do yield são indicadores importantes para investidores que buscam renda. É possível acompanhar os dividendos e JCP da ISAE4 com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [proventos](/recursos/proventos) do app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da ISAE4",
+      "body": "A ISAE4 registrou rentabilidade total com proventos de 3,74% nos 12 meses até 30/10/2026, 47,23% em 3 anos e 42,66% em 5 anos. Em 10 anos, a rentabilidade foi de 223,79%. Esses números refletem o desempenho do ativo no período, incluindo a variação de preço e os proventos recebidos. Para comparar com outros ativos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que mostra a rentabilidade lado a lado com o Ibovespa, CDI e outros índices."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da ISAE4",
+      "body": "A volatilidade anualizada da ISAE4 nos 12 meses até 30/10/2026 foi de 27,05%, classificada como nível alto. A maior queda em 5 anos foi de -21,94%, do pico em 15/04/2026 ao ponto mais baixo em 30/10/2026. O beta de 0,78 indica que a ação tende a se mover 0,78 vezes o Ibovespa, o que sugere menor sensibilidade aos movimentos do índice, mas não menor volatilidade. Riscos setoriais incluem mudanças regulatórias, variação de custos de operação e eventos climáticos que afetam a transmissão de energia. A empresa também passou por eventos societários em 2026, como ofertas públicas e descruzamentos, que podem impactar a estrutura acionária."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ISAE4 paga dividendos?",
+      "answer": "Sim, a ISAE4 distribuiu R$ 2,0395 por ação em 10 pagamentos nos 12 meses até 30/10/2026, com dividend yield de 8,31%. O último pagamento foi de R$ 0,1890 em 09/10/2026. É possível acompanhar os proventos no app."
+    },
+    {
+      "question": "Qual a diferença entre ISAE3 e ISAE4?",
+      "answer": "ISAE3 é a ação ordinária, com direito a voto em assembleias, mas sem prioridade em proventos. ISAE4 é a ação preferencial, com prioridade no recebimento de dividendos e JCP, mas sem direito a voto. A diferença não implica em maior ou menor risco, apenas em direitos distintos."
+    },
+    {
+      "question": "Qual o setor da ISA Energía Brasil S.A.?",
+      "answer": "A ISA Energía Brasil S.A. atua no setor de utilidade pública, segmento de energia elétrica, com foco na transmissão de energia. A atividade é regulada pela ANEEL e depende de contratos de concessão."
+    },
+    {
+      "question": "Qual a volatilidade da ISAE4?",
+      "answer": "A volatilidade anualizada da ISAE4 nos 12 meses até 30/10/2026 foi de 27,05%, nível alto. A maior queda em 5 anos foi de -21,94%, do pico em 15/04/2026 ao ponto mais baixo em 30/10/2026."
+    },
+    {
+      "question": "Qual o controle acionário da ISA Energía Brasil S.A.?",
+      "answer": "A ISA Energía Brasil S.A. possui controle acionário privado, conforme cadastro na CVM. A empresa é listada no Nível 1 da B3, o que indica um padrão de governança corporativa."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da ISAE4 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da ISAE4 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a ISAE4 atingir um preço que você definiu, para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a ISAE4 junto com outros ativos da sua carteira, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CPFE3",
+        "list": "br-stocks",
+        "reason": "Outra empresa do setor de energia elétrica, com foco em distribuição e geração."
+      },
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de energia elétrica, com foco em distribuição e geração."
+      },
+      {
+        "ticker": "TAEE11",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de transmissão de energia elétrica, similar à ISA Energía."
+      },
+      {
+        "ticker": "EGIE3",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de energia elétrica, com foco em geração e distribuição."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ISAE4",
+      "url": "https://finance.yahoo.com/quote/ISAE4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ISA ENERGIA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18376/ISAE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, ISA ENERGIA BRASIL S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): CPFL Energia",
+      "url": "https://pt.wikipedia.org/wiki/CPFL_Energia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/07/2026, “Conclusão do descruzamento de participações na IE Madeira e IE Garanhuns”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550490&numSequencia=1075196&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/07/2026, “Oferta Pública de Ações - Definição do Preço por Ação”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547623&numSequencia=1072329&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/07/2026, “Lançamento de Oferta Pública Primária”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1544922&numSequencia=1069628&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/07/2026, “POTENCIAL OFERTA PÚBLICA”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1541896&numSequencia=1066602&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/07/2026, “Potencial Oferta Pública”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1541609&numSequencia=1066315&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/05/2026, “JULGAMENTO DO TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO (TRF1) SOBRE O RBSE”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1527167&numSequencia=1051873&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/04/2026, “Conversão de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1502158&numSequencia=1026864&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/03/2026, “DESCRUZAMENTO DE PARTICIPAÇÕES NA IE MADEIRA E IE GARANHUNS”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492844&numSequencia=1017550&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

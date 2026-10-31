@@ -1,0 +1,339 @@
+{
+  "ticker": "DISB34",
+  "slug": "disb34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "DISB34: BDR da Disney, dividendos e volatilidade",
+    "description": "DISB34 é o BDR da The Walt Disney Company na B3. Veja dividendos, rentabilidade, volatilidade de 32,02% e como o BDR acompanha a ação DIS e o câmbio.",
+    "h1": "DISB34: BDR da The Walt Disney Company",
+    "canonicalPath": "/bdrs/disb34",
+    "keywords": [
+      "DISB34",
+      "BDR Disney",
+      "The Walt Disney Company B3",
+      "DISB34 dividendos",
+      "BDR nível I",
+      "DISB34 volatilidade",
+      "DISB34 rentabilidade",
+      "BDR Disney dividend yield"
+    ]
+  },
+  "summary": "DISB34 é o BDR nível I da The Walt Disney Company, conglomerado de mídia e entretenimento sediado em Burbank, Califórnia. Listado na B3 desde 30/08/2011, o recibo representa ações da empresa negociadas na Bolsa de Valores de Nova Iorque (ticker DIS). Em 29/10/2026, o BDR era cotado a R$ 40,00, com rentabilidade total de 2,64% nos últimos 12 meses e dividend yield de 0,91%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "The Walt Disney Company",
+    "legalName": "THE WALT DISNEY COMPANY",
+    "ticker": "BVMF DISB34",
+    "foundingDate": "1923-10-16",
+    "website": "https://www.disney.com/",
+    "wikidata": "Q7414",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q7414",
+      "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+      "https://pt.wikipedia.org/wiki/The_Walt_Disney_Company",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50393/DISB/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "The Walt Disney Company",
+    "legalName": "THE WALT DISNEY COMPANY",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "16/10/1923",
+    "listedSince": "30/08/2011",
+    "headquarters": "Burbank",
+    "website": "https://www.disney.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "THE WALT DISNEY COMPANY",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: DIS",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Burbank",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "16/10/1923",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "30/08/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 40,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "32,02% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,91%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,9 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "DISB34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "The Walt Disney Company",
+    "currency": "BRL",
+    "price": 40,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0264,
+      "3y": 0.5043,
+      "5y": -0.3533,
+      "10y": 1.1748
+    },
+    "volatility1y": 0.3202,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5942,
+      "from": "2021-11-08",
+      "to": "2023-10-27"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.3656,
+      "payments12Months": 2,
+      "yield12Months": 0.0091,
+      "lastPayment": {
+        "date": "2026-06-30",
+        "amount": 0.177226
+      }
+    },
+    "avgDailyTradedValue3m": 1904685
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do DISB34 nos 12 meses até 29/10/2026 foi de 32,02%, um nível considerado alto. A maior queda em 5 anos foi de -59,42%, ocorrida entre 08/11/2021 e 27/10/2023. O beta não está disponível para este ativo. A volatilidade reflete a sensibilidade da ação original (DIS) a movimentos de mercado e a exposição cambial do BDR. Para monitorar a posição e entender o impacto na carteira, o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) permite visualizar a variação histórica e o custo de aquisição."
+  },
+  "history": {
+    "overview": "A The Walt Disney Company foi fundada em 16/10/1923 por Walt Disney e Roy O. Disney como Disney Brothers Cartoon Studio, após a falência da Laugh-O-Gram Studio. A empresa consolidou-se na indústria de animação com o lançamento de Steamboat Willie em 1928, que popularizou o Mickey Mouse através do uso pioneiro de som sincronizado. Após a morte de Walt Disney em 1966, a companhia enfrentou declínio, até que Michael Eisner assumiu a presidência em 1984 e liderou a expansão internacional de parques temáticos e o renascimento da animação entre 1989 e 1999. Bob Iger, que assumiu o cargo em 2005, transformou a Disney em um conglomerado global por meio de aquisições estratégicas: Pixar (2006), Marvel Entertainment (2009), Lucasfilm (2012) e 21st Century Fox (2017). Em 2020, Bob Chapek substituiu Iger, mas foi demitido em 2022, levando ao retorno de Iger até março de 2026, quando Josh D'Amaro assumiu a liderança. A empresa opera estúdios de cinema e televisão, redes de TV (ABC, ESPN, Disney Channel), serviços de streaming (Disney+, Hulu) e parques temáticos e cruzeiros em todo o mundo.",
+    "timeline": [
+      {
+        "date": "1923-10-16",
+        "event": "Fundação da Disney Brothers Cartoon Studio por Walt Disney e Roy O. Disney",
+        "source": 2
+      },
+      {
+        "date": "1928-11",
+        "event": "Estreia de Steamboat Willie, primeiro desenho animado com som sincronizado, popularizando o Mickey Mouse",
+        "source": 4
+      },
+      {
+        "date": "1986",
+        "event": "A empresa adota o nome atual, The Walt Disney Company, expandindo produções para teatro, rádio e música",
+        "source": 4
+      },
+      {
+        "date": "1991-05-06",
+        "event": "Ação da Disney passa a fazer parte do índice Dow Jones Industrial Average",
+        "source": 4
+      },
+      {
+        "date": "2006",
+        "event": "Aquisição da Pixar por 7 bilhões de dólares",
+        "source": 4
+      },
+      {
+        "date": "2009",
+        "event": "Aquisição da Marvel Entertainment por 4 bilhões de dólares",
+        "source": 4
+      },
+      {
+        "date": "2011-08-30",
+        "event": "Listagem do BDR DISB34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2012",
+        "event": "Aquisição da Lucasfilm por 4 bilhões de dólares",
+        "source": 4
+      },
+      {
+        "date": "2017-12",
+        "event": "Aquisição da 21st Century Fox por 71 bilhões de dólares, tornando a Disney o maior conglomerado de mídia por receita",
+        "source": 4
+      },
+      {
+        "date": "2022",
+        "event": "Demissão de Bob Chapek e retorno de Bob Iger como CEO",
+        "source": 3
+      },
+      {
+        "date": "2026-03",
+        "event": "Josh D'Amaro assume a presidência e o cargo de CEO da empresa",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a The Walt Disney Company ganha dinheiro",
+      "body": "A The Walt Disney Company atua como um conglomerado de mídia e entretenimento, com receita proveniente de estúdios de cinema e televisão (Walt Disney Studios, Pixar, Marvel Studios, Lucasfilm, 20th Century Studios), redes de televisão (ABC, ESPN, Disney Channel, FX, National Geographic), serviços de streaming diretos ao consumidor (Disney+, Hulu, ESPN) e operações de experiências (parques temáticos, hotéis e linhas de cruzeiros). A empresa também possui divisões de publicidade, merchandising, música e produções teatrais. Segundo as fontes, a companhia é uma das maiores e mais reconhecidas do setor global de entretenimento."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR DISB34",
+      "body": "O DISB34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da The Walt Disney Company negociadas na Bolsa de Valores de Nova Iorque sob o ticker DIS. O BDR foi listado na B3 em 30/08/2011. O preço do BDR acompanha a cotação da ação original no exterior e a variação do câmbio entre o dólar e o real. Em BDRs não patrocinados, a emissão é feita por uma instituição depositária, sem a participação direta da empresa emissora na estruturação do programa."
+    },
+    {
+      "id": "proventos",
+      "heading": "DISB34 paga dividendos?",
+      "body": "A The Walt Disney Company paga dividendos, que são repassados aos detentores do BDR DISB34 em reais. Nos 12 meses até 29/10/2026, o BDR distribuiu R$ 0,3656 por unidade em 2 pagamentos, resultando em um dividend yield de 0,91%. O último pagamento registrado foi de R$ 0,1772 em 30/06/2026. É importante lembrar que a empresa paga os dividendos na moeda do seu país (dólar), e o valor convertido para o BDR depende do câmbio na data de pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do DISB34",
+      "body": "Em 29/10/2026, o DISB34 era cotado a R$ 40,00. A rentabilidade total com proventos foi de 2,64% nos últimos 12 meses, 50,43% em 3 anos, -35,33% em 5 anos e 117,48% em 10 anos. Esses retornos incluem a variação do câmbio entre o dólar e o real, além da performance da ação original. Para avaliar como o BDR se comporta em relação a outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do DISB34",
+      "body": "O principal risco do DISB34 é o cambial, pois o valor do BDR em reais depende da cotação do dólar em relação ao real. Além disso, a empresa opera em um setor cíclico e sensível a mudanças de consumo e tecnologia, o que pode impactar a receita de streaming e parques. A liquidez do BDR na B3 é moderada, com volume médio de R$ 1,9 milhão por dia nos últimos 3 meses. A volatilidade anualizada nos 12 meses até 29/10/2026 foi de 32,02%, classificada como alta. A maior queda em 5 anos foi de -59,42%, do pico em 08/11/2021 ao fundo em 27/10/2023. Para acompanhar oscilações, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "DISB34 paga dividendos?",
+      "answer": "Sim, a The Walt Disney Company paga dividendos, que são repassados aos detentores do BDR em reais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,3656 por BDR em 2 pagamentos, com um dividend yield de 0,91%. O último pagamento foi de R$ 0,1772 em 30/06/2026. O valor final em reais depende do câmbio na data de pagamento."
+    },
+    {
+      "question": "O que é o BDR DISB34?",
+      "answer": "DISB34 é um BDR não patrocinado de nível I que representa ações da The Walt Disney Company, negociadas na Bolsa de Valores de Nova Iorque (ticker DIS). O recibo é negociado na B3 em reais desde 30/08/2011, e seu preço acompanha a cotação da ação original e a variação do câmbio."
+    },
+    {
+      "question": "Qual o risco cambial do DISB34?",
+      "answer": "O DISB34 tem risco cambial porque o valor do BDR em reais depende da cotação do dólar em relação ao real. Se o dólar valorizar, o BDR tende a subir em reais, mesmo que a ação original não mude. Se o dólar desvalorizar, o BDR pode cair em reais. Esse risco é inerente a todos os BDRs e ativos lastreados em moeda estrangeira."
+    },
+    {
+      "question": "Qual a liquidez do DISB34 na B3?",
+      "answer": "O volume médio negociado por dia do DISB34 nos últimos 3 meses até 29/10/2026 foi de R$ 1,9 milhão. Essa liquidez é moderada, o que pode significar que grandes ordens de compra ou venda podem impactar o preço do BDR. Para acompanhar a cotação em tempo real, o [widget na barra de menus](/recursos/widget-da-barra-de-menus) do app mostra o gráfico do dia e as posições com um clique."
+    },
+    {
+      "question": "Como o DISB34 se compara ao S&P 500?",
+      "answer": "O DISB34 é um BDR de uma empresa que faz parte do S&P 500, mas seu desempenho em reais inclui a variação do câmbio, o que pode fazer com que o retorno difira do índice. Para comparar a rentabilidade do BDR com o S&P 500 e outros índices, use a [comparação com índices](/recursos/comparacao-com-indices) do app, que mostra os resultados lado a lado no mesmo gráfico."
+    },
+    {
+      "question": "Quem é o CEO da The Walt Disney Company?",
+      "answer": "Josh D'Amaro assumiu a presidência e o cargo de CEO da The Walt Disney Company em março de 2026, substituindo Bob Iger, que retornou ao cargo em 2022 após a demissão de Bob Chapek. A empresa é controlada por The Vanguard Group e BlackRock, segundo dados de 28/09/2019."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do DISB34 lado a lado com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o BDR chegar ao preço que você escolheu, útil para acompanhar a volatilidade de 32,02%."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Visualize o gráfico de rentabilidade do DISB34 e o preço médio da sua posição, com variação do dia e do ano."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o DISB34 junto com outras ações, BDRs e fundos em uma visão única, com alocação por classe."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em DISB34 e veja as respostas com base nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de tecnologia e mídia, com exposição similar ao câmbio e ao mercado americano."
+      },
+      {
+        "ticker": "NFLX34",
+        "list": "bdrs",
+        "reason": "Concorrente direta no setor de streaming e entretenimento, também negociada como BDR na B3."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar a performance do DISB34 com o mercado americano."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de tecnologia e consumo, com liquidez e volatilidade diferentes para diversificação."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de tecnologia, com exposição ao câmbio e ao mercado de ações dos EUA."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de DISB34",
+      "url": "https://finance.yahoo.com/quote/DISB34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: WALT DISNEY, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50393/DISB/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: The Walt Disney Company",
+      "url": "https://www.wikidata.org/wiki/Q7414",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Walt Disney Company",
+      "url": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): The Walt Disney Company",
+      "url": "https://pt.wikipedia.org/wiki/The_Walt_Disney_Company",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

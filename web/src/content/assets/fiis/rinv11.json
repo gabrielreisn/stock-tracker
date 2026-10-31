@@ -1,0 +1,320 @@
+{
+  "ticker": "RINV11",
+  "slug": "rinv11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RINV11: FII multicategoria, dividendos e desempenho",
+    "description": "RINV11 é um FII de gestão ativa com 13,28% de dividend yield. Veja patrimônio, estratégia, proventos e comparação com o IFIX até 29/10/2026.",
+    "h1": "RINV11: Real Investor FII – estratégia, proventos e desempenho",
+    "canonicalPath": "/fiis/rinv11",
+    "keywords": [
+      "RINV11",
+      "Real Investor FII",
+      "FII multicategoria",
+      "dividend yield RINV11",
+      "RINV11 patrimônio",
+      "RINV11 proventos"
+    ]
+  },
+  "summary": "RINV11 é a cota do Real Investor Fundo de Investimento Imobiliário, um FII de gestão ativa e multicategoria administrado pela BTG Pactual. O fundo investe em uma carteira diversificada de Fundos Imobiliários (FIIs), Certificados de Recebíveis Imobiliários (CRIs) e ações, com foco em geração de renda e valorização. Em 09/2026, o patrimônio líquido era de R$ 508,0 milhões, com valor patrimonial da cota de R$ 100,96. Nos 12 meses até 29/10/2026, a rentabilidade total com proventos foi de 11,81%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Real Investor Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RINV11",
+    "isin": "BRRINVCTF004",
+    "taxId": "44.625.612/0001-45",
+    "foundingDate": "2021-10-28",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=44625612000145"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel e tijolo (multicategoria)",
+    "issuerOrManager": "Real Investor (gestora), BTG Pactual Serviços Financeiros S.A",
+    "name": "Real Investor Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "28/10/2021",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "REAL INVESTOR FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "44.625.612/0001-45",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "28/10/2021",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 508,0 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "4.967",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 100,96",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 101,40",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "10,84% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,18",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "13,28%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 609.443,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RINV11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Real Investor Fundo De Investimento Imobiliario Responsabilidade Limitada",
+    "currency": "BRL",
+    "price": 101.4,
+    "historyStarts": "2023-03-07",
+    "returns": {
+      "1y": 0.1181,
+      "3y": 0.3501,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1084,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1317,
+      "from": "2024-07-17",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.18,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 13.4699,
+      "payments12Months": 12,
+      "yield12Months": 0.1328,
+      "lastPayment": {
+        "date": "2026-10-15",
+        "amount": 1.05
+      }
+    },
+    "avgDailyTradedValue3m": 609443
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do RINV11 nos 12 meses até 29/10/2026 foi de 10,84%, nível considerado baixo. O beta contra o Ibovespa foi de 0,18, o que significa que o ativo tende a se mover em menor proporção que o índice, na mesma direção. A maior queda em 5 anos foi de -13,17%, entre 17/07/2024 e 19/12/2024. Para um FII multicategoria com exposição a CRIs e FIIs de recebíveis, essa volatilidade é compatível com a natureza dos ativos de papel, que são sensíveis a mudanças na taxa de juros e no cenário de crédito. É possível configurar alertas de preço no app para acompanhar oscilações."
+  },
+  "history": {
+    "overview": "O Real Investor FII (RINV11) iniciou suas atividades em 28/10/2021, com o objetivo de atuar como um fundo de fundos e de crédito imobiliário de gestão ativa. A estratégia busca diversificação entre ativos de papel (CRIs) e tijolo (FIIs), além de uma parcela em ações, para gerar renda e valorização patrimonial. O fundo realizou cinco ofertas públicas de cotas até 2026, ampliando sua base de investidores e patrimônio. Em setembro de 2026, a carteira estava distribuída entre FIIs (74%), CRIs (11%), ações (10%) e caixa (4%), com os FIIs de recebíveis representando a maior fatia da alocação em fundos (53,6% do PL total). O relatório gerencial de setembro de 2026 destaca a venda integral da posição no XP Selection FII ([XPSF11](/fiis/xpsf11)) e a realização de ganhos de capital com a venda de CRIs do FGR Jardins Berlim e Grupo Mateus, aproveitando a compressão de taxas em um momento de estresse no mercado de crédito.",
+    "timeline": [
+      {
+        "date": "2021-10-28",
+        "event": "Início das atividades do Real Investor FII (RINV11).",
+        "source": 1
+      },
+      {
+        "date": "2023-08-24",
+        "event": "Início de oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2023-10-20",
+        "event": "Encerramento de oferta pública de cotas (nova emissão).",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RINV11",
+      "body": "O RINV11 é um FII de gestão ativa e multicategoria, administrado pela BTG Pactual Serviços Financeiros S.A. e gerido pela Real Investor. O fundo não se concentra em um único segmento, mas sim em uma carteira diversificada de Fundos Imobiliários (FIIs), Certificados de Recebíveis Imobiliários (CRIs) e ações. Segundo o relatório gerencial de 30/09/2026, a carteira estava distribuída entre FIIs (74% do patrimônio líquido), CRIs (11%), ações (10%) e caixa (4%). Dentro da classe de FIIs, a maior alocação era em fundos de recebíveis, que representavam 53,6% do PL total do RINV11. A estratégia busca gerar renda por meio de distribuições mensais e valorização patrimonial, com a gestora realizando ajustes ativos na carteira, como a venda de posições em FIIs de fundos (XPSF11) e a realização de ganhos com CRIs."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RINV11",
+      "body": "Nos 12 meses até 29/10/2026, o RINV11 distribuiu R$ 13,4699 por cota em 12 pagamentos, resultando em um dividend yield de 13,28%. O último provento foi de R$ 1,0500, pago em 15/10/2026. O relatório gerencial de setembro de 2026 indica que o resultado do mês foi de R$ 1,11 por cota, com distribuição de R$ 1,05 por cota, representando um dividend yield de 1,04% sobre a cota patrimonial de fechamento do mês (R$ 100,96). O fundo acumula R$ 1,15 por cota em reservas após a distribuição. A tributação de rendimentos de FIIs é isenta de imposto de renda para pessoas físicas, mas a fonte não detalha regras específicas para este ativo. É possível acompanhar os proventos com data de pagamento no app."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RINV11 realizou cinco ofertas públicas de cotas encerradas até 2026, conforme documentos publicados no FNET (B3). A mais recente foi encerrada em 15/06/2026. Em 09/2026, o patrimônio líquido do fundo era de R$ 508,0 milhões, com 4.967 cotistas e 5.031.676 cotas emitidas. O valor patrimonial da cota era de R$ 100,96. A taxa de administração no mês de 09/2026 foi de 0,087% sobre o patrimônio. O fundo tem prazo de duração indeterminado e é destinado a investidores em geral."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RINV11",
+      "body": "Nos 12 meses até 29/10/2026, a rentabilidade total com proventos do RINV11 foi de 11,81%. Nos 3 anos, o retorno acumulado foi de 35,01%. O relatório gerencial de setembro de 2026 destaca que, desde o início (nov/22), o fundo acumula um retorno de +65,8% com reinvestimento dos dividendos, contra +28,0% do IFIX no mesmo período. Em setembro de 2026, o RINV11 teve retorno patrimonial de +2,1%, enquanto o IFIX recuou -0,2%. É possível comparar o desempenho do RINV11 com o IFIX e outros índices no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RINV11",
+      "body": "O RINV11, por ser um FII multicategoria, está exposto a riscos de crédito (nos CRIs), vacância (nos FIIs de tijolo) e volatilidade do mercado de ações. A volatilidade anualizada nos 12 meses até 29/10/2026 foi de 10,84%, classificada como baixa. O beta contra o Ibovespa foi de 0,18, indicando que o ativo tende a acompanhar os movimentos do índice com menor intensidade. A maior queda nos últimos 5 anos foi de -13,17%, do pico em 17/07/2024 ao ponto mais baixo em 19/12/2024. O relatório gerencial de setembro de 2026 menciona o estresse no mercado de crédito como um fator que afetou a taxa do CRI Grupo Mateus, mas a gestora conseguiu realizar a posição com lucro."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar RINV11 no app",
+      "body": "Para quem tem RINV11 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [dividendos e proventos no app](/recursos/proventos): Veja os 12 pagamentos de R$ 13,4699 por cota nos últimos 12 meses, com data de pagamento e multiplicados pela sua quantidade.\n- [comparação com IFIX](/recursos/comparacao-com-indices): Compare a rentabilidade de 11,81% do RINV11 nos 12 meses com o IFIX e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure uma notificação para quando a cota atingir um valor que você deseja, considerando a volatilidade de 10,84%.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o RINV11 ao lado de outros FIIs, ações e renda fixa, com alocação por classe e as maiores posições."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RINV11 é FII de papel ou de tijolo?",
+      "answer": "RINV11 é um FII multicategoria, com exposição a ambos. Em 09/2026, a carteira tinha 74% em FIIs (muitos deles de recebíveis, que são de papel), 11% em CRIs (papel) e 10% em ações. O fundo não se enquadra exclusivamente em uma das categorias."
+    },
+    {
+      "question": "Qual o dividend yield do RINV11?",
+      "answer": "O dividend yield nos 12 meses até 29/10/2026 foi de 13,28%, com R$ 13,4699 distribuídos por cota. Em setembro de 2026, o yield do mês foi de 1,04% sobre a cota patrimonial de R$ 100,96."
+    },
+    {
+      "question": "Quem administra o RINV11?",
+      "answer": "O administrador e distribuidor é a BTG Pactual Serviços Financeiros S.A. A gestora é a Real Investor, que realiza a gestão ativa da carteira."
+    },
+    {
+      "question": "RINV11 paga proventos mensais?",
+      "answer": "Sim. Nos 12 meses até 29/10/2026, houve 12 pagamentos. O último foi de R$ 1,0500 em 15/10/2026. É possível ver a data com e de pagamento no app."
+    },
+    {
+      "question": "Qual o patrimônio do RINV11?",
+      "answer": "Em 09/2026, o patrimônio líquido era de R$ 508,0 milhões, com 4.967 cotistas e valor patrimonial da cota de R$ 100,96."
+    },
+    {
+      "question": "RINV11 tem risco de crédito?",
+      "answer": "Sim, pois tem 11% do patrimônio em CRIs e 74% em FIIs, muitos dos quais de recebíveis. O relatório de setembro de 2026 menciona o estresse no mercado de crédito como um fator que afetou a taxa de um CRI, mas a gestora realizou a posição com lucro."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e proventos no app",
+        "context": "Veja os 12 pagamentos de R$ 13,4699 por cota nos últimos 12 meses, com data de pagamento e multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX",
+        "context": "Compare a rentabilidade de 11,81% do RINV11 nos 12 meses com o IFIX e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação para quando a cota atingir um valor que você deseja, considerando a volatilidade de 10,84%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RINV11 ao lado de outros FIIs, ações e renda fixa, com alocação por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XPSF11",
+        "list": "fiis",
+        "reason": "Fundo de fundos que o RINV11 vendeu integralmente em setembro de 2026, conforme o relatório gerencial."
+      },
+      {
+        "ticker": "HSAF11",
+        "list": "fiis",
+        "reason": "FII de recebíveis que foi destaque positivo na carteira do RINV11 em setembro de 2026, com +3,1% no mês."
+      },
+      {
+        "ticker": "VCJR11",
+        "list": "fiis",
+        "reason": "FII de juros real, similar à estratégia de CRIs do RINV11, que busca renda atrelada a índices de inflação."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de high yield de CRIs, comparável à exposição do RINV11 a recebíveis imobiliários de maior risco."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RINV11",
+      "url": "https://finance.yahoo.com/quote/RINV11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do RINV FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RINV11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=44625612000145",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RINV11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356832",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RINV11, 15/04/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1164610",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RINV11, 17/10/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1016537",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

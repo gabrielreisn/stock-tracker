@@ -1,0 +1,342 @@
+{
+  "ticker": "BBIG11",
+  "slug": "bbig11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BBIG11: FII de shoppings, dividendos e patrimônio",
+    "description": "Conheça o BBIG11, FII de shoppings centers da BB Asset com parceria da Iguatemi.",
+    "h1": "BBIG11: Bb Premium Malls FII",
+    "canonicalPath": "/fiis/bbig11",
+    "keywords": [
+      "BBIG11",
+      "BB Premium Malls FII",
+      "FII de shoppings",
+      "BB Asset",
+      "Iguatemi",
+      "dividend yield BBIG11",
+      "patrimônio BBIG11",
+      "volatilidade BBIG11"
+    ]
+  },
+  "summary": "BBIG11 é o Bb Premium Malls Fundo de Investimento Imobiliário, um FII de tijolo focado em shoppings centers de alto padrão, com ativos como o Shopping Rio Sul e os Pátios Paulista e Higienópolis. Gerido pela BB Asset em parceria com a Iguatemi, o fundo busca renda com aluguéis e ganho de capital. Em 09/2026, o patrimônio líquido era de R$ 964,4 milhões, com valor patrimonial da cota de R$ 9,73. Nos 12 meses até 29/10/2026, distribuiu R$ 0,72 por cota, o que representa um dividend yield de 14,37%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Bb Premium Malls Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "BB PREMIUM MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF BBIG11",
+    "isin": "BRBBIGCTF004",
+    "taxId": "54.375.187/0001-37",
+    "foundingDate": "2024-04-24",
+    "provider": {
+      "name": "BB GESTAO DE RECURSOS DTVM S.A.",
+      "url": "https://www.bb.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=54375187000137"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, shoppings",
+    "issuerOrManager": "BB Gestão de Recursos DTVM S.A",
+    "name": "Bb Premium Malls Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "BB PREMIUM MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Shoppings",
+    "founded": "24/04/2024",
+    "administrator": "BB GESTAO DE RECURSOS DTVM S.A.",
+    "website": "https://www.bb.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "BB PREMIUM MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "54.375.187/0001-37",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Shoppings",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BB GESTAO DE RECURSOS DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "24/04/2024",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 964,4 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "36.803",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,73",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 5,01",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "23,34% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,48",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,37%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BBIG11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Bb Premium Malls Fundo De Investimento Imobiliário De Responsabilidade Limitada",
+    "currency": "BRL",
+    "price": 5.01,
+    "historyStarts": "2024-05-06",
+    "returns": {
+      "1y": -0.2018,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.2334,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.4004,
+      "from": "2024-10-28",
+      "to": "2026-08-19"
+    },
+    "beta1y": {
+      "value": 0.48,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.72,
+      "payments12Months": 12,
+      "yield12Months": 0.1437,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.03
+      }
+    },
+    "avgDailyTradedValue3m": 1057390
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do BBIG11 nos 12 meses até 29/10/2026 foi de 23,34%, classificada como moderada. O beta do fundo contra o Ibovespa foi de 0,48, o que significa que os movimentos do BBIG11 costumam ser menores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -40,04%, do pico em 28/10/2024 ao ponto mais baixo em 19/08/2026. Para um FII de tijolo com alavancagem e exposição a shoppings centers, essa volatilidade reflete a sensibilidade do fundo a variações na taxa de juros e no consumo. O beta abaixo de 1 indica que o fundo tende a acompanhar os movimentos do Ibovespa com menor intensidade, mas não significa que o ativo é menos volátil em termos absolutos. Use os [alertas de preço](/recursos/alertas-de-preco) no app para monitorar os movimentos do BBIG11."
+  },
+  "history": {
+    "overview": "O BB Premium Malls FII (BBIG11) iniciou suas atividades em 24 de abril de 2024, após uma oferta pública de cotas encerrada em 29 de abril do mesmo ano. O fundo foi estruturado com o objetivo de capturar a geração de receitas de shoppings de elevado padrão, focando nos públicos das classes A e B em localidades com maior concentração de renda, além de buscar ganho de capital com a alienação de ativos. A gestão é ativa, conduzida pela BB Asset, com parceria estratégica da Iguatemi, uma das maiores empresas do mercado de shoppings centers no Brasil, que investe conjuntamente com o fundo em cada empreendimento do portfólio. Em 2026, o fundo passou por um processo de otimização de sua estrutura de capital. Em setembro de 2026, foi quitada a terceira parcela da aquisição do Shopping Rio Sul, no valor de R$ 150,6 milhões, utilizando recursos da venda de cotas do [XPML11](/fiis/xpml11) e da antecipação de recebíveis dos Pátios. Essa operação reduziu a alavancagem do fundo e permitiu o reconhecimento integral de ganhos de capital de vendas parciais dos Pátios realizadas no primeiro semestre. Em 2 de outubro de 2026, o BBIG11 assinou um memorando de entendimentos não vinculante com o [BPML11](/fiis/bpml11) (Fundo de Investimento Imobiliário BTG Pactual Shoppings) para aprofundar estudos sobre sinergias e ganhos de escala, o que pode envolver a combinação dos fundos ou de seus ativos e passivos. A base de cotistas do BBIG11 é de 36.803 investidores em setembro de 2026, refletindo a retenção da base de investidores.",
+    "timeline": [
+      {
+        "date": "2024-04-16",
+        "event": "Início da oferta pública de cotas do BBIG11.",
+        "source": 2
+      },
+      {
+        "date": "2024-04-24",
+        "event": "Início das atividades do fundo.",
+        "source": 1
+      },
+      {
+        "date": "2024-04-29",
+        "event": "Encerramento da oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2026-06-30",
+        "event": "Reavaliação dos imóveis a mercado, com impacto positivo de R$ 23,8 milhões nos valores dos ativos.",
+        "source": 5
+      },
+      {
+        "date": "2026-09",
+        "event": "Quitação da terceira parcela da aquisição do Shopping Rio Sul, no valor de R$ 150,6 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2026-10-02",
+        "event": "Assinatura de memorando de entendimentos não vinculante com o BPML11 para estudos de sinergias e possível combinação de fundos.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do BBIG11",
+      "body": "O BBIG11 é um FII de tijolo com foco no segmento de shoppings centers de elevado padrão, voltado aos públicos das classes A e B em localidades com maior concentração de renda. A gestão é ativa, conduzida pela BB Asset (BB Gestão de Recursos DTVM S.A.), que atua como administradora e gestora do fundo. O objetivo do fundo é a obtenção de renda por meio da exploração imobiliária de shoppings centers, além de ganho de capital com a compra e venda desses empreendimentos. O portfólio inclui o Shopping Rio Sul, o Pátio Paulista e o Pátio Higienópolis, com a Iguatemi como parceira em cada ativo. Em setembro de 2026, a margem NOI acumulada no ano superou 93% e a ocupação ficou próxima de 99%, com destaque para o Rio Sul, que cresceu 9,8% no NOI e 6,1% nas vendas na comparação anual. O fundo também possui uma parcela de renda fixa e outras receitas, que somaram R$ 0,8 milhão em setembro de 2026."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do BBIG11",
+      "body": "Nos 12 meses até 29/10/2026, o BBIG11 distribuiu R$ 0,7200 por cota em 12 pagamentos, o que representa um dividend yield de 14,37%. O último pagamento foi de R$ 0,0300 em 01/10/2026. Em setembro de 2026, a distribuição foi de R$ 0,03 por cota, sustentada pela geração recorrente dos shoppings do portfólio. As receitas imobiliárias somaram R$ 6,9 milhões no mês, com o Rio Sul contribuindo com cerca de R$ 5,0 milhões, o Pátio Paulista com R$ 1,0 milhão e o Pátio Higienópolis com R$ 0,9 milhão. As despesas financeiras totalizaram R$ 3,6 milhões, sendo R$ 2,8 milhões de juros do CRI e R$ 0,8 milhão do custo da operação de antecipação de recebíveis. O resultado líquido do mês foi de R$ 3,75 milhões, com ganho de capital de R$ 2,24 milhões referente às vendas parciais dos Pátios. A tributação dos rendimentos de FIIs não é detalhada nas fontes do dossiê. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para ver os rendimentos do BBIG11 multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O BBIG11 realizou uma oferta pública de cotas, iniciada em 16 de abril de 2024 e encerrada em 29 de abril de 2024. Em 09/2026, o patrimônio líquido do fundo era de R$ 964,4 milhões, com 99.120.994 cotas emitidas e valor patrimonial da cota de R$ 9,73. O número de cotistas era de 36.803, segundo o informe mensal da CVM. A taxa de administração no mês de setembro de 2026 foi de 0,033% sobre o patrimônio. O fundo possui prazo de duração indeterminado e público-alvo de investidores em geral."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BBIG11",
+      "body": "A rentabilidade total com proventos do BBIG11 nos 12 meses até 29/10/2026 foi de -20,18%. A volatilidade anualizada no mesmo período foi de 23,34%, classificada como moderada. O beta do fundo contra o Ibovespa foi de 0,48, indicando que os movimentos do BBIG11 costumam ser menores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -40,04%, do pico em 28/10/2024 ao ponto mais baixo em 19/08/2026. O volume médio negociado por dia nos últimos 3 meses foi de R$ 1,1 milhão. Para comparar o desempenho do BBIG11 com o IFIX e o CDI, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BBIG11",
+      "body": "Os riscos do BBIG11 incluem a exposição ao segmento de shoppings centers, que pode ser afetado por mudanças no consumo e na economia. O fundo possui alavancagem, com despesas financeiras de R$ 3,6 milhões em setembro de 2026, sendo R$ 2,8 milhões de juros do CRI, o que o expõe a variações na taxa de juros. A volatilidade anualizada de 23,34% e a maior queda de -40,04% nos últimos 5 anos refletem a sensibilidade do fundo a esses fatores. O processo de otimização da estrutura de capital, com a quitação de parcelas do Rio Sul e a antecipação de recebíveis, visa reduzir a alavancagem e fortalecer a estrutura financeira. Além disso, o memorando de entendimentos com o BPML11 em outubro de 2026 introduz a possibilidade de uma combinação de fundos, o que pode afetar a estrutura do portfólio. Acompanhe a [volatilidade e os alertas de preço](/recursos/alertas-de-preco) no app para monitorar os movimentos do BBIG11."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BBIG11 paga dividendos?",
+      "answer": "Sim, o BBIG11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,7200 por cota em 12 pagamentos, com dividend yield de 14,37%. O último pagamento foi de R$ 0,0300 em 01/10/2026. Em setembro de 2026, a distribuição foi de R$ 0,03 por cota, sustentada pela geração recorrente dos shoppings do portfólio. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para ver os rendimentos do BBIG11 multiplicados pela sua quantidade."
+    },
+    {
+      "question": "Qual a diferença entre BBIG11 e XPML11?",
+      "answer": "O BBIG11 é um FII de shoppings centers gerido pela BB Asset, com parceria da Iguatemi, enquanto o XPML11 é o Xp Malls Fundo de Investimentos Imobiliários. Em setembro de 2026, o BBIG11 utilizou recursos da venda de cotas do XPML11 para quitar a terceira parcela da aquisição do Shopping Rio Sul. Ambos são FIIs do segmento de shoppings, mas com gestoras e estruturas diferentes. Compare os dois no [comparador de fundos](/recursos/comparador-de-fundos) do app."
+    },
+    {
+      "question": "BBIG11 é FII de papel ou de tijolo?",
+      "answer": "O BBIG11 é um FII de tijolo, com foco em shoppings centers de elevado padrão. O portfólio inclui o Shopping Rio Sul, o Pátio Paulista e o Pátio Higienópolis, com a Iguatemi como parceira em cada ativo. O fundo também possui uma parcela de renda fixa e outras receitas, mas a estratégia principal é a exploração imobiliária de shoppings centers."
+    },
+    {
+      "question": "Qual o patrimônio do BBIG11?",
+      "answer": "Em 09/2026, o patrimônio líquido do BBIG11 era de R$ 964,4 milhões, com 99.120.994 cotas emitidas e valor patrimonial da cota de R$ 9,73. O número de cotistas era de 36.803, segundo o informe mensal da CVM."
+    },
+    {
+      "question": "O BBIG11 tem alavancagem?",
+      "answer": "Sim, o BBIG11 possui alavancagem. Em setembro de 2026, as despesas financeiras totalizaram R$ 3,6 milhões, sendo R$ 2,8 milhões de juros do CRI e R$ 0,8 milhão do custo da operação de antecipação de recebíveis. O fundo está em processo de otimização da estrutura de capital, com a quitação de parcelas do Rio Sul e a antecipação de recebíveis dos Pátios, para reduzir a alavancagem."
+    },
+    {
+      "question": "O que é o memorando de entendimentos do BBIG11 com o BPML11?",
+      "answer": "Em 2 de outubro de 2026, o BBIG11 assinou um memorando de entendimentos não vinculante com o BPML11 (Fundo de Investimento Imobiliário BTG Pactual Shoppings) para aprofundar estudos sobre sinergias e ganhos de escala. A transação pode envolver a combinação dos fundos ou de seus ativos e passivos, no exclusivo benefício e interesse dos cotistas. A BB Asset manterá os cotistas informados sobre os desdobramentos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do BBIG11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do BBIG11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o BBIG11 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o BBIG11 junto com seus outros ativos, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no BBIG11 e as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings centers, com relação direta com o BBIG11 pela venda de cotas para quitar o Rio Sul."
+      },
+      {
+        "ticker": "BPML11",
+        "list": "fiis",
+        "reason": "Fundo de shoppings centers do BTG Pactual, com memorando de entendimentos com o BBIG11 para estudos de sinergias."
+      },
+      {
+        "ticker": "VISC11",
+        "list": "fiis",
+        "reason": "Outro FII do segmento de shoppings centers, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "SHPP11",
+        "list": "fiis",
+        "reason": "Fundo do Pátio Paulista, ativo que também está no portfólio do BBIG11."
+      },
+      {
+        "ticker": "HSML11",
+        "list": "fiis",
+        "reason": "FII de shoppings centers, para comparação de estratégia e desempenho no mesmo segmento."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BBIG11",
+      "url": "https://finance.yahoo.com/quote/BBIG11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do BB PREMIUM MALLS FII DE RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo BBIG11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=54375187000137",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do BBIG11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1355381",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BBIG11, 02/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339155",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BBIG11, 30/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1238343",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,331 @@
+{
+  "ticker": "CPUR11",
+  "slug": "cpur11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CPUR11: história, rendimentos e volatilidade",
+    "description": "CPUR11 é um FII híbrido da Capitânia HBC, com R$ 671,0 milhões em patrimônio. Veja rendimentos, dividend yield de 10,90% e volatilidade de 15,07% no app.",
+    "h1": "CPUR11: Capitânia HBC Renda Urbana FII",
+    "canonicalPath": "/fiis/cpur11",
+    "keywords": [
+      "CPUR11",
+      "Capitânia HBC Renda Urbana FII",
+      "FII híbrido",
+      "dividend yield CPUR11",
+      "volatilidade CPUR11",
+      "BTG Pactual FII",
+      "rendimentos CPUR11"
+    ]
+  },
+  "summary": "CPUR11 é a cota do Capitânia HBC Renda Urbana Fundo de Investimento Imobiliário, um FII híbrido com gestão ativa e prazo indeterminado, administrado pela BTG Pactual. Fundado em 26/09/2019, o fundo investe em imóveis, cotas de outros fundos e Certificados de Recebíveis Imobiliários (CRI). Em 09/2026, o patrimônio líquido era de R$ 671,0 milhões, com 2.039 cotistas e valor patrimonial da cota de R$ 9,89. A rentabilidade total com proventos nos 12 meses até 29/10/2026 foi de 10,20%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Capitânia Hbc Renda Urbana Fundo de Investimento Imobiliário Responsabilidade  Limitada",
+    "legalName": "CAPITÂNIA HBC RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA",
+    "ticker": "BVMF CPUR11",
+    "isin": "BRCPURCTF004",
+    "taxId": "34.691.520/0001-00",
+    "foundingDate": "2019-09-26",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=34691520000100"
+    ]
+  },
+  "profile": {
+    "type": "FII híbrido (imóveis e CRI)",
+    "issuerOrManager": "Capitânia HBC (gestora), BTG Pactual (administrador/distribuidor)",
+    "name": "Capitânia Hbc Renda Urbana Fundo de Investimento Imobiliário Responsabilidade  Limitada",
+    "legalName": "CAPITÂNIA HBC RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "26/09/2019",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "CAPITÂNIA HBC RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "34.691.520/0001-00",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "26/09/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 671,0 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "2.039",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,89",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 10,48",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,07% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "-0,03",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "10,90%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,5 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CPUR11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Capitania HBC Renda Urbana Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 10.48,
+    "historyStarts": "2024-02-05",
+    "returns": {
+      "1y": 0.102,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1507,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.1505,
+      "from": "2024-06-28",
+      "to": "2024-10-15"
+    },
+    "beta1y": {
+      "value": -0.03,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.1419,
+      "payments12Months": 12,
+      "yield12Months": 0.109,
+      "lastPayment": {
+        "date": "2026-10-16",
+        "amount": 0.1
+      }
+    },
+    "avgDailyTradedValue3m": 1506940
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do CPUR11 nos 12 meses até 29/10/2026 foi de 15,07%, nível moderado. A maior queda nos últimos 5 anos foi de -15,05%, do pico em 28/06/2024 ao ponto mais baixo em 15/10/2024. O beta do CPUR11 contra o Ibovespa nos 12 meses até 29/10/2026 foi de -0,03, o que indica que o ativo não costuma acompanhar os movimentos do índice na mesma direção; um beta negativo sugere que, em média, quando o Ibovespa sobe, o CPUR11 tende a cair, e vice-versa. Isso não significa que o ativo é menos volátil, mas que sua correlação com o índice é inversa. É possível acompanhar a variação da cota e configurar [alertas de preço](/recursos/alertas-de-preco) no app para ser notificado quando a cota atingir um nível específico."
+  },
+  "history": {
+    "overview": "O Capitânia HBC Renda Urbana FII (CPUR11) iniciou suas atividades em 26/09/2019, com a primeira negociação em janeiro de 2020. O fundo é administrado pela BTG Pactual Serviços Financeiros S.A. e gerido pela Capitânia HBC, com foco em uma estratégia de gestão ativa e diversificada. A classificação da ANBIMA é FII Renda Gestão Ativa – Híbrido, o que permite a alocação em imóveis físicos, sociedades alvo, cotas de outros fundos de investimento imobiliário e Certificados de Recebíveis Imobiliários (CRI). Desde a sua criação, o fundo realizou múltiplas ofertas públicas de distribuição de cotas, com 10 encerradas até o momento e a 13ª em andamento em setembro de 2026. A carteira de imóveis é composta por 15 ativos, com destaque para o segmento de atacarejo, onde a Assaí (Sendas Distribuidora S.A.) é locatária de seis unidades.",
+    "timeline": [
+      {
+        "date": "2019-09-26",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2020-01-23",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-06-23",
+        "event": "Celebração de memorando de entendimentos para alienação de três imóveis locados à Assaí por R$ 258,7 milhões",
+        "source": 5
+      },
+      {
+        "date": "2026-09-24",
+        "event": "Início da 13ª emissão de cotas, com valor de até R$ 300 milhões",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do CPUR11",
+      "body": "O CPUR11 é um Fundo de Investimento Imobiliário (FII) híbrido, com gestão ativa e prazo indeterminado, classificado pela ANBIMA como FII Renda Gestão Ativa – Híbrido. A gestora é a Capitânia HBC e o administrador e distribuidor é a BTG Pactual Serviços Financeiros S.A. O objetivo do fundo é proporcionar valorização e rentabilidade por meio de investimentos em imóveis, sociedades alvo, cotas de outros FIIs, cotas de fundos de participações, Certificados de Recebíveis Imobiliários (CRI) e demais ativos previstos na Resolução CVM 175. Segundo o relatório gerencial de referência 30/09/2026, o portfólio é composto por 15 imóveis, com destaque para o segmento de atacarejo, onde a Assaí (Sendas Distribuidora S.A.) é locatária de seis unidades (Araçatuba, Bauru, Dourados, Ipatinga, Macaé e Porto Velho). O fundo também possui o Barra Medical Center, no Rio de Janeiro, com locatários como Dasa, FUSVE, Vida e Amil. A carteira de CRI soma R$ 247,9 milhões, equivalente a 37,0% do patrimônio líquido. A ocupação física é de 99,8%, com WAULT de 12,9 anos e 68,1% da receita em contratos atípicos."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do CPUR11",
+      "body": "Nos 12 meses até 29/10/2026, o CPUR11 distribuiu R$ 1,1419 por cota em 12 pagamentos, resultando em um dividend yield de 10,90%. O último rendimento foi de R$ 0,1000 por cota, com pagamento em 16/10/2026. O relatório gerencial de setembro de 2026 indica que, considerando a cota de fechamento de 30/09/2026, o dividend yield anualizado era de 12,06%. A distribuição de rendimentos ocorre no 15º dia útil do mês seguinte à apuração. É possível acompanhar os proventos e a data de pagamento de cada distribuição no app, multiplicados pela sua quantidade de cotas, em [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O CPUR11 realizou 10 ofertas públicas de cotas encerradas, com a 13ª em andamento em setembro de 2026. A 13ª emissão, iniciada em 24/09/2026, tem valor de até R$ 300.000.006,33, correspondente a até 30.211.481 novas cotas, com preço de emissão de R$ 9,93 por cota. Em 09/2026, o patrimônio líquido do fundo era de R$ 671,0 milhões, com 2.039 cotistas e valor patrimonial da cota de R$ 9,89. O número de cotas emitidas era de 67.825.745. A taxa de administração no mês de 09/2026 foi de 0,088% sobre o patrimônio, equivalente a 1,00% ao ano. O fundo também possui taxa de performance de 10% do que exceder IPCA + 6%."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do CPUR11",
+      "body": "A rentabilidade total com proventos do CPUR11 nos 12 meses até 29/10/2026 foi de 10,20%. O preço da cota em 29/10/2026 era de R$ 10,48, enquanto o valor patrimonial da cota em 09/2026 era de R$ 9,89, resultando em um Price to Book de 1,06. O volume médio negociado por dia nos últimos 3 meses era de R$ 1,5 milhão. Para comparar a rentabilidade do CPUR11 com índices como o IFIX, CDI e Ibovespa, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do CPUR11",
+      "body": "O CPUR11, por ser um FII híbrido, está exposto a riscos de crédito (dos CRI), de vacância (dos imóveis) e de juros. A carteira de CRI representa 37,0% do patrimônio líquido, o que expõe o fundo a riscos de inadimplência dos devedores dos CRI. A carteira de imóveis tem 68,1% da receita em contratos atípicos, o que pode implicar em riscos de renegociação e de vacância. A volatilidade anualizada do CPUR11 nos 12 meses até 29/10/2026 foi de 15,07%, nível moderado. A maior queda nos últimos 5 anos foi de -15,05%, do pico em 28/06/2024 ao ponto mais baixo em 15/10/2024. O beta do CPUR11 contra o Ibovespa nos 12 meses até 29/10/2026 foi de -0,03, indicando que o ativo não costuma acompanhar os movimentos do índice na mesma direção. É possível configurar [alertas de preço](/recursos/alertas-de-preco) no app para ser notificado quando a cota atingir um nível específico."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CPUR11 é FII de papel ou de tijolo?",
+      "answer": "O CPUR11 é um FII híbrido, com alocação em imóveis (tijolo) e Certificados de Recebíveis Imobiliários (CRI, papel). A carteira de CRI representa 37,0% do patrimônio líquido, enquanto os imóveis representam a maior parte da carteira. A classificação da ANBIMA é FII Renda Gestão Ativa – Híbrido."
+    },
+    {
+      "question": "Qual o dividend yield do CPUR11?",
+      "answer": "O dividend yield do CPUR11 nos 12 meses até 29/10/2026 foi de 10,90%, com R$ 1,1419 distribuídos por cota. O relatório gerencial de setembro de 2026 indica um dividend yield anualizado de 12,06%, considerando a cota de fechamento de 30/09/2026. É possível acompanhar os proventos e a data de pagamento de cada distribuição no app, em [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Quem é a gestora do CPUR11?",
+      "answer": "A gestora do CPUR11 é a Capitânia HBC, e o administrador e distribuidor é a BTG Pactual Serviços Financeiros S.A. O fundo é classificado pela ANBIMA como FII Renda Gestão Ativa – Híbrido, com prazo indeterminado de duração."
+    },
+    {
+      "question": "Qual o patrimônio do CPUR11?",
+      "answer": "Em 09/2026, o patrimônio líquido do CPUR11 era de R$ 671,0 milhões, com 2.039 cotistas e valor patrimonial da cota de R$ 9,89. O número de cotas emitidas era de 67.825.745. A taxa de administração no mês foi de 0,088% sobre o patrimônio, equivalente a 1,00% ao ano."
+    },
+    {
+      "question": "CPUR11 paga rendimentos mensais?",
+      "answer": "Sim, o CPUR11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram 12 pagamentos, totalizando R$ 1,1419 por cota. O último rendimento foi de R$ 0,1000 por cota, com pagamento em 16/10/2026. A distribuição ocorre no 15º dia útil do mês seguinte à apuração. É possível acompanhar os proventos e a data de pagamento de cada distribuição no app, em [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre CPUR11 e CPTS11?",
+      "answer": "CPUR11 e [CPTS11](/fiis/cpts11) são ambos FIIs da gestora Capitânia HBC, mas com estratégias diferentes. O CPUR11 é um FII híbrido, com alocação em imóveis e CRI, enquanto o CPTS11 é um FII de crédito imobiliário, com foco em CRI. É possível comparar os dois no app, em [fundos de investimento](/recursos/fundos-de-investimento), que exibe a rentabilidade e a alocação por objetivo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do CPUR11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do CPUR11 com IFIX, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação para quando a cota do CPUR11 atingir um nível específico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o CPUR11 junto com seus outros ativos, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em CPUR11 e veja as respostas com base nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CPTS11",
+        "list": "fiis",
+        "reason": "Outro FII da gestora Capitânia HBC, com foco em crédito imobiliário."
+      },
+      {
+        "ticker": "BTRU11",
+        "list": "fiis",
+        "reason": "FII de renda urbana da BTG Pactual, com estratégia similar de gestão ativa."
+      },
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "FII de renda urbana da Patria, com foco em imóveis comerciais."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de rendimentos imobiliários da Kinea, com estratégia de gestão ativa."
+      },
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "FII de real estate da TRX, com foco em imóveis comerciais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CPUR11",
+      "url": "https://finance.yahoo.com/quote/CPUR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do CAPITANIA HBC II FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo CPUR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=34691520000100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do CPUR11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1360877",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do CPUR11, 24/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1333545",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do CPUR11, 10/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1244296",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

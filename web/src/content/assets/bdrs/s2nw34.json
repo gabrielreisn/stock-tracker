@@ -1,0 +1,281 @@
+{
+  "ticker": "S2NW34",
+  "slug": "s2nw34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "S2NW34: BDR da Snowflake, história e desempenho",
+    "description": "Conheça o S2NW34, BDR da Snowflake Inc. na B3. Veja a história da empresa, o desempenho em reais, a volatilidade e como o BDR acompanha a ação SNOW nos",
+    "h1": "S2NW34: BDR da Snowflake Inc. na B3",
+    "canonicalPath": "/bdrs/s2nw34",
+    "keywords": [
+      "S2NW34",
+      "Snowflake BDR",
+      "BDR Snowflake",
+      "SNOW B3",
+      "Snowflake Inc Brasil",
+      "BDR não patrocinado",
+      "Snowflake dividendos",
+      "volatilidade S2NW34"
+    ]
+  },
+  "summary": "S2NW34 é o BDR não patrocinado (nível I) da Snowflake Inc., empresa americana de plataforma de dados em nuvem. Negociado na B3 em reais desde 16/03/2021, o ativo acompanha a ação original SNOW, listada na Bolsa de Valores de Nova Iorque. Em 29/10/2026, a cotação era de R$ 43,89, com rentabilidade total de 21,38% nos últimos 12 meses, refletindo a variação do câmbio e o desempenho da ação nos Estados Unidos.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Snowflake Inc.",
+    "legalName": "SNOWFLAKE INC",
+    "ticker": "BVMF S2NW34",
+    "foundingDate": "2012",
+    "website": "https://www.snowflake.com",
+    "wikidata": "Q22078063",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q22078063",
+      "https://en.wikipedia.org/wiki/Snowflake_Inc.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57312/S2NW/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Snowflake Inc.",
+    "legalName": "SNOWFLAKE INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2012",
+    "listedSince": "16/03/2021",
+    "headquarters": "San Mateo",
+    "website": "https://www.snowflake.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "SNOWFLAKE INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: SNOW",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "San Mateo",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2012",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "16/03/2021",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 43,89",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "70,13% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "S2NW34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Snowflake Inc.",
+    "currency": "BRL",
+    "price": 43.89,
+    "historyStarts": "2021-04-06",
+    "returns": {
+      "1y": 0.2138,
+      "3y": 1.4115,
+      "5y": -0.1257,
+      "10y": null
+    },
+    "volatility1y": 0.7013,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7421,
+      "from": "2021-11-18",
+      "to": "2022-06-14"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 2263877
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do S2NW34 nos últimos 12 meses foi de 70,13%, nível classificado como muito alta. A maior queda nos últimos 5 anos foi de -74,21%, do pico em 18/11/2021 ao ponto mais baixo em 14/06/2022. Esse nível de volatilidade é comum para BDRs de empresas de tecnologia em crescimento, mas é significativamente maior que o de ações brasileiras de grande porte. O beta do ativo não está disponível, o que impede uma comparação direta com a sensibilidade ao índice de referência. Para acompanhar os movimentos de preço e definir alertas, é possível usar os [alertas de preço](/recursos/alertas-de-preco) no app, que notificam quando o ativo atinge um valor escolhido."
+  },
+  "history": {
+    "overview": "A Snowflake Inc. foi fundada em 23 de julho de 2012 em San Mateo, Califórnia, por Benoît Dageville, Thierry Cruanes e Marcin Żukowski. A empresa desenvolve uma plataforma de dados baseada em nuvem que permite a análise simultânea de conjuntos de dados com baixa latência, operando sobre a infraestrutura da Amazon Web Services, Microsoft Azure e Google Cloud Platform. Em 2015, lançou seu primeiro produto, o data warehouse em nuvem, e em 2019, Frank Slootman, ex-CEO da ServiceNow, assumiu a liderança da empresa. Em maio de 2021, a Snowflake tornou-se uma empresa distribuída, com sede executiva em Bozeman, Montana, mas em 2025 retornou à Califórnia, em Menlo Park. O BDR S2NW34 foi listado na B3 em 16 de março de 2021, permitindo que investidores brasileiros acompanhem a empresa sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "2012-07-23",
+        "event": "Fundação da Snowflake Inc. em San Mateo, Califórnia",
+        "source": 3
+      },
+      {
+        "date": "2015-06",
+        "event": "Lançamento do primeiro produto da empresa, o data warehouse em nuvem",
+        "source": 3
+      },
+      {
+        "date": "2019-05",
+        "event": "Frank Slootman assume o cargo de CEO da Snowflake",
+        "source": 3
+      },
+      {
+        "date": "2021-03-16",
+        "event": "Listagem do BDR S2NW34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2023-05",
+        "event": "Snowflake anuncia a aquisição da Neeva por US$ 185 milhões",
+        "source": 3
+      },
+      {
+        "date": "2024-02-28",
+        "event": "Frank Slootman se aposenta como CEO e é substituído por Sridhar Ramaswamy",
+        "source": 3
+      },
+      {
+        "date": "2025-06",
+        "event": "Snowflake anuncia a aquisição da Crunchy Data por cerca de US$ 250 milhões e lança o Snowflake Openflow",
+        "source": 3
+      },
+      {
+        "date": "2026-02",
+        "event": "Snowflake reporta receita de produto de US$ 1,23 bilhão no quarto trimestre fiscal, alta de 30% em relação ao ano anterior",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Snowflake Inc. ganha dinheiro",
+      "body": "A Snowflake Inc. desenvolve e comercializa uma plataforma de dados em nuvem conhecida como Data Cloud, que permite a organizações unificar data warehousing, data lakes, engenharia de dados e compartilhamento de dados em um único serviço. A plataforma opera sobre infraestrutura de nuvem pública, como Amazon Web Services, Microsoft Azure e Google Cloud Platform, separando computação de armazenamento para análises escaláveis sob demanda. Em fevereiro de 2026, a empresa reportou receita de produto de US$ 1,23 bilhão no quarto trimestre fiscal, alta de 30% em relação ao ano anterior, com receita anual total de US$ 4,72 bilhões. A Snowflake também oferece serviços como Snowpipe para ingestão contínua de dados e o Snowflake Marketplace, onde organizações podem acessar e compartilhar conjuntos de dados prontos para consulta."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR S2NW34",
+      "body": "O S2NW34 é um BDR não patrocinado (nível I) da Snowflake Inc., negociado na B3 em reais. O BDR é um recibo que representa ações da empresa no exterior, emitido por uma instituição depositária. O preço do BDR acompanha a ação original, que é a SNOW, listada na Bolsa de Valores de Nova Iorque, e a variação do câmbio entre o dólar e o real. O S2NW34 está listado na B3 desde 16/03/2021, permitindo que investidores brasileiros acompanhem a Snowflake sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "id": "proventos",
+      "heading": "S2NW34 paga dividendos?",
+      "body": "Não houve proventos pagos pelo S2NW34 nos últimos 12 meses até 29/10/2026. A Snowflake Inc. não distribui dividendos, e o BDR reflete essa política. Investidores que buscam renda com o ativo devem considerar que o retorno vem apenas da valorização do preço, que inclui a variação do câmbio entre o dólar e o real."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do S2NW34",
+      "body": "A rentabilidade total do S2NW34 com proventos foi de 21,38% nos 12 meses até 29/10/2026, 141,15% em 3 anos e -12,57% em 5 anos. Esses números incluem a variação do câmbio entre o dólar e o real, o que significa que a rentabilidade reflete tanto o desempenho da ação SNOW nos Estados Unidos quanto a oscilação da moeda. Para comparar o desempenho do S2NW34 com índices de referência, como o S&P 500 ou o CDI, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do S2NW34",
+      "body": "O S2NW34 apresenta riscos específicos de um BDR não patrocinado, incluindo o risco cambial, já que o preço acompanha a variação do dólar em relação ao real. A volatilidade anualizada do ativo nos últimos 12 meses foi de 70,13%, classificada como muito alta, e a maior queda nos últimos 5 anos foi de -74,21%, do pico em 18/11/2021 ao ponto mais baixo em 14/06/2022. A liquidez do BDR na B3 é limitada, com volume médio negociado por dia de R$ 2,3 milhões nos últimos 3 meses. Além disso, a Snowflake Inc. enfrenta riscos operacionais, como a dependência de infraestrutura de nuvem de terceiros e a concorrência no mercado de plataformas de dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "S2NW34 paga dividendos?",
+      "answer": "Não, o S2NW34 não pagou proventos nos últimos 12 meses até 29/10/2026. A Snowflake Inc. não distribui dividendos, e o BDR reflete essa política. O retorno para o investidor vem apenas da valorização do preço, que inclui a variação do câmbio entre o dólar e o real."
+    },
+    {
+      "question": "Qual a diferença entre S2NW34 e SNOW?",
+      "answer": "O S2NW34 é o BDR da Snowflake Inc. negociado na B3 em reais, enquanto a SNOW é a ação original listada na Bolsa de Valores de Nova Iorque, negociada em dólares. O preço do S2NW34 acompanha a SNOW e a variação do câmbio entre o dólar e o real, o que significa que a rentabilidade do BDR reflete tanto o desempenho da ação nos Estados Unidos quanto a oscilação da moeda."
+    },
+    {
+      "question": "S2NW34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O S2NW34 é um BDR não patrocinado (nível I). Isso significa que a Snowflake Inc. não participa diretamente da emissão ou do suporte do BDR, que é emitido por uma instituição depositária. O ativo é negociado na B3 em reais e acompanha a ação original SNOW, listada na Bolsa de Valores de Nova Iorque."
+    },
+    {
+      "question": "Qual a volatilidade do S2NW34?",
+      "answer": "A volatilidade anualizada do S2NW34 nos últimos 12 meses foi de 70,13%, nível classificado como muito alta. A maior queda nos últimos 5 anos foi de -74,21%, do pico em 18/11/2021 ao ponto mais baixo em 14/06/2022. Esse nível de volatilidade é comum para BDRs de empresas de tecnologia em crescimento, mas é significativamente maior que o de ações brasileiras de grande porte."
+    },
+    {
+      "question": "Como acompanhar o S2NW34 no app?",
+      "answer": "É possível acompanhar o S2NW34 no app usando o [desempenho e preço médio](/recursos/desempenho-e-preco-medio), que exibe o gráfico de rentabilidade e a variação do dia e do ano. Para comparar o desempenho com índices de referência, como o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices). Além disso, o [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a carteira, com respostas baseadas nos próprios dados do investidor."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do S2NW34 lado a lado com o S&P 500 e o CDI no mesmo gráfico, para entender como o BDR se comporta em relação a índices de referência."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina um preço-alvo para o S2NW34 e receba uma notificação quando o ativo atingir esse valor, útil para acompanhar os movimentos de um ativo com alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o S2NW34 junto com outras posições da carteira, como ações brasileiras e ETFs, para entender a alocação e a diversificação dos investimentos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de tecnologia americana, com exposição semelhante ao setor de semicondutores e inteligência artificial."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR da Microsoft, uma das plataformas de nuvem em que a Snowflake opera, o que cria uma relação de infraestrutura e dependência."
+      },
+      {
+        "ticker": "ORCL34",
+        "list": "bdrs",
+        "reason": "BDR da Oracle, empresa de software e infraestrutura de dados, que é uma concorrente direta da Snowflake no mercado de plataformas de dados em nuvem."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de S2NW34",
+      "url": "https://finance.yahoo.com/quote/S2NW34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SNOWFLAKE, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57312/S2NW/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Snowflake Inc.",
+      "url": "https://www.wikidata.org/wiki/Q22078063",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Snowflake Inc.",
+      "url": "https://en.wikipedia.org/wiki/Snowflake_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

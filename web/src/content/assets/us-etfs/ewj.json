@@ -1,0 +1,274 @@
+{
+  "ticker": "EWJ",
+  "slug": "ewj",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "EWJ: iShares MSCI Japan ETF, histórico e desempenho",
+    "description": "Conheça o EWJ, o ETF que replica o mercado japonês. Veja rentabilidade, dividendos, volatilidade e como investir no iShares MSCI Japan a partir do Brasil.",
+    "h1": "EWJ: iShares MSCI Japan ETF",
+    "canonicalPath": "/etfs/ewj",
+    "keywords": [
+      "EWJ",
+      "iShares MSCI Japan ETF",
+      "ETF Japão",
+      "investir no Japão",
+      "EWJ dividendos",
+      "EWJ volatilidade",
+      "mercado acionário japonês"
+    ]
+  },
+  "summary": "EWJ é o iShares MSCI Japan ETF, um fundo de índice que replica o desempenho do mercado acionário japonês. Lançado em 18/03/1996 e gerido pela iShares (BlackRock), o ativo oferece exposição a empresas listadas no Japão. Em 30/10/2026, a cota valia US$ 92,91, com dividend yield de 3,83% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares MSCI Japan ETF",
+    "ticker": "ARCX EWJ",
+    "foundingDate": "1996-03-18",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice internacional",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "MSCI Japan",
+    "name": "iShares MSCI Japan ETF",
+    "founded": "18/03/1996"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares MSCI Japan ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "18/03/1996",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 92,91",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "20,83% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,19",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,83%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 364,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EWJ",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares MSCI Japan ETF",
+    "currency": "USD",
+    "price": 92.91,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1646,
+      "3y": 0.74,
+      "5y": 0.5071,
+      "10y": 1.244
+    },
+    "volatility1y": 0.2083,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2957,
+      "from": "2021-11-05",
+      "to": "2022-10-20"
+    },
+    "beta1y": {
+      "value": 1.19,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.562,
+      "payments12Months": 2,
+      "yield12Months": 0.0383,
+      "lastPayment": {
+        "date": "2026-06-15",
+        "amount": 0.501
+      }
+    },
+    "avgDailyTradedValue3m": 364130886
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do EWJ nos últimos 12 meses é de 20,83%, um nível considerado moderado para um ETF de ações internacionais. O beta de 1,19 em relação ao S&P 500 indica que, historicamente, o EWJ tende a ter movimentos maiores que os do índice americano, na mesma direção. A maior queda registrada nos últimos 5 anos foi de -29,57%, entre 05/11/2021 e 20/10/2022. Para monitorar esses movimentos, os [alertas de preço](/recursos/alertas-de-preco) permitem configurar notificações quando a cota atinge níveis específicos."
+  },
+  "history": {
+    "overview": "O iShares MSCI Japan ETF (EWJ) começou a ser negociado em 18/03/1996, sendo um dos primeiros produtos da linha iShares a chegar ao mercado. A marca iShares, atualmente sob a gestão da BlackRock, foi adquirida da Barclays em 2009. Antes disso, os primeiros ETFs da linha eram conhecidos como World Equity Benchmark Shares (WEBS), criados em resposta ao lançamento do [SPY](/etfs/spy) em 1993. A estratégia de crescimento da Barclays na virada do século incluiu o lançamento de mais de 40 novos fundos com a marca iShares, consolidando a posição da empresa no mercado global de ETFs. O EWJ permite que investidores acessem a economia japonesa, que é a quarta maior do mundo em PIB nominal, sem a necessidade de abrir conta diretamente na bolsa de Tóquio.",
+    "timeline": [
+      {
+        "date": "1996-03-18",
+        "event": "Primeiro pregão das cotas do iShares MSCI Japan ETF (EWJ) na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2000",
+        "event": "Barclays lança mais de 40 novos fundos sob a marca iShares, renomeando os antigos WEBS.",
+        "source": 1
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio iShares da Barclays.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o EWJ funciona",
+      "body": "O EWJ é um ETF passivo que busca replicar o desempenho do índice MSCI Japan. A emissora é a iShares, uma marca da BlackRock, que adquiriu o negócio da Barclays em 2009. O primeiro pregão das cotas ocorreu em 18/03/1996. Diferente de ETFs alavancados ou inversos, o EWJ não realiza rebalanceamento diário de múltiplos de exposição; ele simplesmente acompanha a variação do índice subjacente, distribuindo proventos conforme a política das empresas que compõem a carteira."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do EWJ",
+      "body": "O fundo segue o índice MSCI Japan, que reflete o desempenho das ações de capitalização total do mercado acionário do Japão. A MSCI Inc. é a provedora global de índices que licencia essa carteira para o ETF. O Japão é a quarta maior economia do mundo em PIB nominal e possui o quarto maior mercado consumidor global, com o consumo representando cerca de 53% do PIB. As fontes não detalham a composição setorial exata ou o número de empresas no portfólio do EWJ."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no EWJ a partir do Brasil",
+      "body": "Para investir no EWJ a partir do Brasil, o investidor geralmente utiliza uma conta em uma corretora de valores no exterior, onde o ativo é negociado em dólar. Alternativamente, é possível buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice MSCI Japan, se disponíveis. Como o EWJ é um ativo cotado em dólar, o investidor brasileiro está exposto ao risco cambial: variações no câmbio entre o real e o dólar impactam diretamente o retorno final em reais, independentemente do desempenho das ações japonesas."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do EWJ",
+      "body": "Até 30/10/2026, o EWJ apresentou rentabilidade total de 16,46% em 12 meses, 74,00% em 3 anos e 124,40% em 10 anos. O preço da cota era de US$ 92,91 nessa data. Para avaliar esse desempenho no contexto de outros mercados, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite visualizar a rentabilidade do EWJ lado a lado com o S&P 500 e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do EWJ",
+      "body": "O principal risco do EWJ é a volatilidade do mercado acionário japonês. A volatilidade anualizada do ativo nos últimos 12 meses foi de 20,83%, classificada como moderada. A maior queda nos últimos 5 anos foi de -29,57%, ocorrendo entre o pico de 05/11/2021 e o ponto mais baixo de 20/10/2022. Além do risco de mercado, há o risco cambial (dólar/real) e o risco específico da economia japonesa, que passou por décadas de baixo crescimento e deflação nos anos 1990, 2000 e 2010."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o EWJ?",
+      "answer": "O EWJ é o iShares MSCI Japan ETF, um fundo de índice que replica o desempenho do mercado acionário do Japão. Ele é gerido pela iShares (BlackRock) e permite exposição a empresas japonesas por meio de uma única cota negociada em bolsa."
+    },
+    {
+      "question": "EWJ paga dividendos?",
+      "answer": "Sim, o EWJ distribui proventos. Nos 12 meses até 30/10/2026, foram distribuídos US$ 3,5620 por cota em 2 pagamentos, resultando em um dividend yield de 3,83%. O último pagamento registrado foi de US$ 0,5010 em 15/06/2026."
+    },
+    {
+      "question": "Qual a diferença entre EWJ e EEM?",
+      "answer": "O EWJ foca especificamente no mercado japonês, enquanto o [EEM](/etfs/eem) (iShares MSCI Emerging Markets ETF) cobre mercados emergentes globais, como China, Índia e Brasil. O Japão é considerado um mercado desenvolvido, por isso não está no EEM. Ambos são ETFs da iShares, mas com exposições geográficas distintas."
+    },
+    {
+      "question": "Como o EWJ se comporta em relação ao S&P 500?",
+      "answer": "Em 12 meses até 30/10/2026, a rentabilidade do EWJ foi de 16,46%. A [comparação com índices](/recursos/comparacao-com-indices) no app ajuda a visualizar essa relação."
+    },
+    {
+      "question": "Posso investir no EWJ pelo app?",
+      "answer": "O app permite acompanhar o EWJ se ele estiver na sua carteira. Você pode usar o [open finance](/recursos/open-finance) para importar posições de corretoras que oferecem o ativo e monitorar a rentabilidade e o preço médio em tempo real."
+    },
+    {
+      "question": "Qual o risco cambial do EWJ para brasileiros?",
+      "answer": "Como o EWJ é cotado em dólar, o investidor brasileiro sofre ou se beneficia com a variação do câmbio. Se o dólar subir em relação ao real, o retorno em reais aumenta, mesmo que o ETF tenha performance neutra em dólar. O risco cambial é um componente essencial da estratégia de investimento internacional."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Visualize a rentabilidade do EWJ ao lado do S&P 500 e outros benchmarks no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando a cota do EWJ atingir valores específicos, útil para monitorar a volatilidade de 20,83%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja como o EWJ se encaixa na sua alocação global, ao lado de ações da B3 e outros ETFs."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Importe suas posições do EWJ de corretoras internacionais e mantenha os dados atualizados no app."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "Outro ETF de mercados internacionais da iShares, focado em mercados emergentes, para comparação de exposição geográfica."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF da iShares focado no Brasil, útil para quem busca diversificação entre mercados desenvolvidos e emergentes."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "O principal ETF do S&P 500, usado como benchmark para comparar o desempenho e a volatilidade do EWJ."
+      },
+      {
+        "ticker": "EWY",
+        "list": "us-etfs",
+        "reason": "iShares MSCI South Korea ETF, outro ETF de mercado asiático desenvolvido, para comparação regional."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EWJ",
+      "url": "https://finance.yahoo.com/quote/EWJ/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/MSCI",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Economy of Japan (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Japan",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

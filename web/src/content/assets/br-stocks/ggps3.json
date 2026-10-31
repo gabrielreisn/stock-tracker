@@ -1,0 +1,391 @@
+{
+  "ticker": "GGPS3",
+  "slug": "ggps3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "GGPS3: história, dividendos e volatilidade",
+    "description": "GGPS3 é a ação ordinária da GPS Participações e Empreendimentos S.A., holding no Novo Mercado.",
+    "h1": "GGPS3: GPS Participações e Empreendimentos S.A.",
+    "canonicalPath": "/acoes/ggps3",
+    "keywords": [
+      "GGPS3",
+      "GPS Participações",
+      "ação GGPS3",
+      "dividendos GGPS3",
+      "volatilidade GGPS3",
+      "GGPS3 Novo Mercado",
+      "rentabilidade GGPS3"
+    ]
+  },
+  "summary": "GGPS3 é a ação ordinária da GPS Participações e Empreendimentos S.A., holding de controle privado com sede em São Paulo e listagem no Novo Mercado. A empresa atua na administração patrimonial e na participação em empreendimentos comerciais e industriais, com aquisições recentes em segurança e hotelaria. Em 30/10/2026, a ação valia R$ 10,52, com rentabilidade total de -36,39% nos 12 meses e dividend yield de 3,09%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "GPS Participações e Empreendimentos S.A.",
+    "legalName": "GPS PARTICIPAÇÕES E EMPREENDIMENTOS S/A",
+    "ticker": "BVMF GGPS3",
+    "isin": "BRGGPSACNOR9",
+    "taxId": "09.229.201/0001-30",
+    "foundingDate": "2011-12-07",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "sameAs": [
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25712/GGPS/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "GPS Participações e Empreendimentos S.A.",
+    "legalName": "GPS PARTICIPAÇÕES E EMPREENDIMENTOS S/A",
+    "type": "Ação ordinária (ON)",
+    "sector": "Bens Industriais",
+    "segment": "Serviços Diversos",
+    "founded": "07/12/2011",
+    "listedSince": "26/04/2021",
+    "headquarters": "São Paulo (SP)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "GPS PARTICIPAÇÕES E EMPREENDIMENTOS S/A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "09.229.201/0001-30",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Bens Industriais / Serviços Diversos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "07/12/2011",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "26/04/2021",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "GGPS3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 10,52",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "50,23% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,61",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,09%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GGPS3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "GPS Participações e Empreendimentos S.A.",
+    "currency": "BRL",
+    "price": 10.52,
+    "historyStarts": "2021-04-28",
+    "returns": {
+      "1y": -0.3639,
+      "3y": -0.2271,
+      "5y": -0.1923,
+      "10y": null
+    },
+    "volatility1y": 0.5023,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4624,
+      "from": "2026-02-20",
+      "to": "2026-10-29"
+    },
+    "beta1y": {
+      "value": 1.61,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.3248,
+      "payments12Months": 1,
+      "yield12Months": 0.0309,
+      "lastPayment": {
+        "date": "2025-12-17",
+        "amount": 0.324828
+      }
+    },
+    "avgDailyTradedValue3m": 80929613
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da GGPS3 nos 12 meses até 30/10/2026 foi de 50,23%, nível muito alta. O beta contra o Ibovespa foi de 1,61, o que significa que a ação tende a se mover 1,61 vezes mais que o índice, na mesma direção. A maior queda em 5 anos foi de -46,24%, do pico em 20/02/2026 ao ponto mais baixo em 29/10/2026. Esses números indicam sensibilidade a movimentos de mercado e eventos corporativos, como as aquisições realizadas em 2026. Para acompanhar a volatilidade e definir pontos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) e a [comparação com índices](/recursos/comparacao-com-indices) no app."
+  },
+  "history": {
+    "overview": "A GPS Participações e Empreendimentos S.A. foi constituída em 07/12/2011 e obteve registro como companhia aberta na CVM em 20/04/2021, iniciando a cotação de suas ações na B3 em 26/04/2021. A empresa opera no segmento Novo Mercado e tem como atividade principal a administração patrimonial de bens próprios e de suas subsidiárias, além de participação em empreendimentos comerciais e industriais. A auditoria independente é realizada pela Ernst & Young Auditores Independentes S/S Ltda., e o controle acionário é privado. Em 11/12/2025, a companhia distribuiu dividendos intermediários e realizou aumento de capital com bonificação de ações. Em 2026, a GPS intensificou sua estratégia de aquisições por meio de suas controladas, com destaque para a Graber Segurança Ltda., que comprou participações no Grupo SEI e no Grupo Aster, e a Marfood, que adquiriu a Unidade Catering Ltda. (Uniflex). Em 08/10/2026, a empresa anunciou a aquisição de ações de sua própria emissão.",
+    "timeline": [
+      {
+        "date": "2011-12-07",
+        "event": "Constituição da GPS Participações e Empreendimentos S.A.",
+        "source": 2
+      },
+      {
+        "date": "2021-04-20",
+        "event": "Registro da companhia como aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2021-04-26",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-12-11",
+        "event": "Distribuição de Dividendos Intermediários e Aumento de capital com Bonificação de Ações",
+        "source": 10
+      },
+      {
+        "date": "2026-05-07",
+        "event": "Renúncia do Diretor Guilherme Nascimento Robortella e eleição do Sr. Anderson Nunes da Silva ao cargo de Diretor",
+        "source": 9
+      },
+      {
+        "date": "2026-05-29",
+        "event": "Aquisição, pela Graber Segurança Ltda., de 55% das quotas das sociedades do Grupo SEI",
+        "source": 8
+      },
+      {
+        "date": "2026-06-25",
+        "event": "Aquisição de 100% das quotas de emissão da sociedade Unidade Catering Ltda. (Uniflex)",
+        "source": 7
+      },
+      {
+        "date": "2026-07-01",
+        "event": "Aquisição de 65% das empresas do Grupo Aster pela Graber Segurança Ltda.",
+        "source": 6
+      },
+      {
+        "date": "2026-09-02",
+        "event": "Conclusão da aquisição de 65% das quotas das sociedades do Grupo Aster pela Graber Segurança",
+        "source": 5
+      },
+      {
+        "date": "2026-09-04",
+        "event": "Aquisição de 100% das quotas de emissão da Uniflex pela Marfood Comércio e Serviços de Hotelaria Ltda.",
+        "source": 4
+      },
+      {
+        "date": "2026-10-08",
+        "event": "Aquisição de Ações de Emissão da Própria Companhia",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a GPS Participações e Empreendimentos S.A. ganha dinheiro",
+      "body": "A GPS Participações e Empreendimentos S.A. tem como atividade a administração patrimonial de bens e interesses próprios e de suas subsidiárias e coligadas, além de participação em empreendimentos comerciais e industriais e como acionista ou sócia de sociedade. A empresa é classificada pela B3 no setor de Bens Industriais, segmento de Serviços Diversos, e pela CVM no setor de Empresas de Administração de Participações, sem setor principal. Em 2026, a companhia realizou aquisições por meio de suas controladas, como a Graber Segurança Ltda. e a Marfood Comércio e Serviços de Hotelaria Ltda., expandindo sua presença em áreas como segurança e hotelaria."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da GPS Participações e Empreendimentos S.A.",
+      "body": "GGPS3 é a ação ordinária da GPS Participações e Empreendimentos S.A., negociada na B3 sob o código GGPS3. A empresa está listada no segmento Novo Mercado, que exige práticas de governança corporativa específicas. O controle acionário é privado, conforme cadastro da CVM. Ações ordinárias (ON) dão direito a voto em assembleias gerais, enquanto ações preferenciais (PN) têm prioridade no recebimento de dividendos e JCP, mas geralmente não têm direito a voto. A GPS possui apenas a classe ON em negociação."
+    },
+    {
+      "id": "proventos",
+      "heading": "GGPS3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a GGPS3 distribuiu R$ 0,3248 por ação em 1 pagamento, resultando em dividend yield de 3,09%. O último pagamento foi de R$ 0,3248 em 17/12/2025. Em 11/12/2025, a companhia distribuiu dividendos intermediários e realizou aumento de capital com bonificação de ações. Para acompanhar os dividendos e JCP com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da GGPS3",
+      "body": "A rentabilidade total da GGPS3 com proventos foi de -36,39% nos 12 meses até 30/10/2026, -22,71% em 3 anos e -19,23% em 5 anos. O preço em 30/10/2026 era de R$ 10,52. Para comparar o desempenho da GGPS3 com índices como o Ibovespa e o CDI, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da GGPS3",
+      "body": "A volatilidade anualizada da GGPS3 nos 12 meses até 30/10/2026 foi de 50,23%, classificada como muito alta. O beta contra o Ibovespa foi de 1,61, indicando que a ação tende a acompanhar os movimentos do índice com maior amplitude. A maior queda nos últimos 5 anos foi de -46,24%, do pico em 20/02/2026 ao ponto mais baixo em 29/10/2026. Riscos incluem a concentração em aquisições recentes, a dependência de controladas e a volatilidade do setor de serviços diversos. Para monitorar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GGPS3 paga dividendos?",
+      "answer": "Sim, a GGPS3 distribuiu R$ 0,3248 por ação em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 3,09%. O último pagamento foi em 17/12/2025. Em 11/12/2025, a empresa também realizou aumento de capital com bonificação de ações. Veja os detalhes no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre ação ON e PN?",
+      "answer": "Ação ordinária (ON) dá direito a voto em assembleias gerais, enquanto ação preferencial (PN) tem prioridade no recebimento de dividendos e JCP, mas geralmente não tem direito a voto. A GGPS3 possui apenas a classe ON em negociação, sob o código GGPS3."
+    },
+    {
+      "question": "GGPS3 é uma holding?",
+      "answer": "Sim, a GPS Participações e Empreendimentos S.A. é uma holding com atividade de administração patrimonial de bens próprios e de suas subsidiárias, além de participação em empreendimentos comerciais e industriais. A empresa realizou aquisições em 2026 por meio de suas controladas, como a Graber Segurança e a Marfood."
+    },
+    {
+      "question": "Qual o setor da GGPS3?",
+      "answer": "A GGPS3 é classificada pela B3 no setor de Bens Industriais, segmento de Serviços Diversos, e pela CVM no setor de Empresas de Administração de Participações, sem setor principal. A empresa atua em serviços diversos e participações em empreendimentos."
+    },
+    {
+      "question": "GGPS3 está no Novo Mercado?",
+      "answer": "Sim, a GGPS3 está listada no segmento Novo Mercado da B3, que exige práticas de governança corporativa específicas, como a negociação de todas as ações em bolsa e a adoção de boas práticas de transparência."
+    },
+    {
+      "question": "Qual a rentabilidade da GGPS3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total da GGPS3 com proventos foi de -36,39% nos 12 meses até 30/10/2026. O preço em 30/10/2026 era de R$ 10,52. Para comparar com o Ibovespa e o CDI, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da GGPS3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da GGPS3 com o Ibovespa e o CDI no mesmo gráfico, com períodos ajustáveis."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a GGPS3 chegar ao preço que você escolheu, para acompanhar movimentos de volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a GGPS3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em GGPS3 e as respostas vêm dos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "UGPA3",
+        "list": "br-stocks",
+        "reason": "Outra holding de participações listada na B3, com estratégia de aquisições e diversificação em diferentes setores."
+      },
+      {
+        "ticker": "BRAP4",
+        "list": "br-stocks",
+        "reason": "Holding de participações com presença em múltiplos setores, similar à estratégia de diversificação da GPS."
+      },
+      {
+        "ticker": "VIVA3",
+        "list": "br-stocks",
+        "reason": "Holding de participações com foco em serviços e diversificação, comparável ao modelo de negócios da GPS."
+      },
+      {
+        "ticker": "PSSA3",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de seguros e serviços, com exposição a riscos de mercado e volatilidade, similar ao perfil da GGPS3."
+      },
+      {
+        "ticker": "IRBR3",
+        "list": "br-stocks",
+        "reason": "Empresa de resseguros com exposição a riscos de mercado e volatilidade, comparável ao perfil de risco da GGPS3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GGPS3",
+      "url": "https://finance.yahoo.com/quote/GGPS3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: GPS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25712/GGPS/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, GPS PARTICIPAÇÕES E EMPREENDIMENTOS S/A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/10/2026, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1575662&numSequencia=1100368&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/09/2026, “Aquisição de 100% (cem por cento) das quotas de emissão da Unidade Catering Ltda. (\"Uniflex\") pela Marfood Comércio e Serviços de Hotelaria Ltda., subsidiária da Companhia.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1565309&numSequencia=1090015&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/09/2026, “Conclusão da aquisição de 65% (sessenta e cinco por cento) das quotas das sociedades do Grupo Aster, pela Graber Segurança, subsidiária da Companhia.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1564290&numSequencia=1088996&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/07/2026, “Aquisição de 65% (sessenta e cinco por cento) das empresas do Grupo Aster, pela Graber Segurança Ltda., controlada da Companhia.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1540724&numSequencia=1065430&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/06/2026, “Aquisição - 100% (cem por cento) das quotas de emissão da sociedade Unidade Catering Ltda (\"Uniflex\")”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538612&numSequencia=1063318&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/05/2026, “Aquisição, pela Graber Segurança Ltda, controlada da Companhia, de 55% das quotas das sociedades do Grupo SEI”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528846&numSequencia=1053552&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/05/2026, “Renúncia do Diretor Guilherme Nascimento Robortella e eleição do Sr. Anderson Nunes da Silva, ao cargo de Diretor da Companhia.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1518287&numSequencia=1042993&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/12/2025, “Distribuição de Dividendos Intermediários e Aumento de capital com Bonificação de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1456445&numSequencia=981157&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

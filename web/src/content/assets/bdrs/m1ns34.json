@@ -1,0 +1,309 @@
+{
+  "ticker": "M1NS34",
+  "slug": "m1ns34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "M1NS34: BDR da Monster Beverage na B3",
+    "description": "M1NS34 é o BDR da Monster Beverage, empresa de bebidas energéticas. Veja desempenho, riscos, proventos e como funciona o BDR na B3.",
+    "h1": "M1NS34: BDR da Monster Beverage na B3",
+    "canonicalPath": "/bdrs/m1ns34",
+    "keywords": [
+      "M1NS34",
+      "Monster Beverage BDR",
+      "BDR Monster",
+      "MNST B3",
+      "BDR nível I",
+      "Monster Energy BDR",
+      "BDR não patrocinado"
+    ]
+  },
+  "summary": "M1NS34 é o BDR nível I não patrocinado da Monster Beverage Corp, empresa americana de bebidas energéticas com sede em Minnesota. Negociado na B3 desde 29/11/2019, o ativo acompanha a ação original MNST na NASDAQ e o câmbio dólar/real. Em 30/10/2026, o preço era de R$ 32,20, com rentabilidade total de 43,46% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Monster Beverage",
+    "legalName": "MONSTER BEVERAGE CORP",
+    "ticker": "BVMF M1NS34",
+    "foundingDate": "1935",
+    "website": "https://www.monsterbevcorp.com/",
+    "wikidata": "Q1945295",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1945295",
+      "https://en.wikipedia.org/wiki/Monster_Beverage",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54089/M1NS/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Monster Beverage",
+    "legalName": "MONSTER BEVERAGE CORP",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1935",
+    "listedSince": "29/11/2019",
+    "headquarters": "Minnesota",
+    "website": "https://www.monsterbevcorp.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "MONSTER BEVERAGE CORP",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: MNST",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Minnesota",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1935",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "29/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 32,20",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "35,11% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original MNST em dólares)",
+      "value": "0,25",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 473.519,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "M1NS34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Monster Beverage Corporation",
+    "currency": "BRL",
+    "price": 32.2,
+    "historyStarts": "2020-03-06",
+    "returns": {
+      "1y": 0.4346,
+      "3y": 1.022,
+      "5y": 1.1328,
+      "10y": null
+    },
+    "volatility1y": 0.3511,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3414,
+      "from": "2022-01-04",
+      "to": "2022-03-08"
+    },
+    "beta1y": {
+      "value": 0.25,
+      "against": "S&P 500, ação original MNST em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 473519
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do M1NS34 nos últimos 12 meses é de 35,11%, considerada alta para um BDR. O beta da ação original MNST contra o S&P 500 é de 0,25, o que significa que a ação tende a acompanhar os movimentos do índice com menor amplitude, mas o BDR em reais também sofre a influência do câmbio. A maior queda em 5 anos foi de -34,14%, entre 04/01/2022 e 08/03/2022. Para acompanhar oscilações e definir pontos de atenção, é possível usar os [alertas de preço](/recursos/alertas-de-preco) no app, que notificam quando o ativo atinge um valor escolhido."
+  },
+  "history": {
+    "overview": "A empresa que hoje é a Monster Beverage Corporation tem origem em 1935, quando Hubert Hansen e seus filhos começaram a vender sucos para estúdios de cinema e varejistas no sul da Califórnia sob a marca Hansen's. Ao longo das décadas, a empresa passou por mudanças de nome, incluindo Hansen's Juices e The Fresh Juice Company of California, e enfrentou uma falência em 1988, sendo adquirida e renomeada como Hansen Natural Company. A virada estratégica ocorreu em 1997, com o lançamento do primeiro energético da marca, Hansen's Energy. Em 5 de janeiro de 2012, após os energéticos se tornarem a maior fonte de receita, os acionistas aprovaram a mudança do nome para Monster Beverage Corporation e a alteração do ticker para MNST na NASDAQ. Em 2015, a The Coca-Cola Company comprou uma participação de 16,7% na empresa por US$ 2,15 bilhões, e esse percentual chegou a 19,3% em 2018 devido a recompras de ações. Em 2022, a Monster adquiriu a CANarchy Craft Brewery Collective por US$ 330 milhões, e em 2023 fechou acordo para adquirir a Vital Pharmaceuticals, dona da marca Bang Energy. O BDR M1NS34 foi listado na B3 em 29/11/2019, permitindo a negociação da empresa em reais.",
+    "timeline": [
+      {
+        "date": "1935",
+        "event": "Fundação da empresa, inicialmente como Hansen's, vendendo sucos no sul da Califórnia.",
+        "source": 2
+      },
+      {
+        "date": "1990",
+        "event": "A Hansen's (ticker HANS) realiza sua oferta pública inicial de ações (IPO).",
+        "source": 3
+      },
+      {
+        "date": "1997",
+        "event": "Lançamento do primeiro energético da empresa, chamado Hansen's Energy.",
+        "source": 3
+      },
+      {
+        "date": "2012-01-05",
+        "event": "Mudança do nome da empresa para Monster Beverage Corporation e do ticker para MNST na NASDAQ.",
+        "source": 3
+      },
+      {
+        "date": "2015",
+        "event": "A The Coca-Cola Company adquire uma participação de 16,7% na Monster Beverage por US$ 2,15 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2019-11-29",
+        "event": "Listagem do BDR M1NS34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2022-01",
+        "event": "Aquisição da CANarchy Craft Brewery Collective por US$ 330 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2023-06",
+        "event": "Acordo para aquisição da Vital Pharmaceuticals, proprietária da marca Bang Energy.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Monster Beverage ganha dinheiro",
+      "body": "A Monster Beverage Corporation é uma empresa americana de bebidas, com sede em Minnesota, que fabrica e distribui bebidas energéticas. Seus principais produtos incluem as marcas Monster Energy, Relentless, Reign e Burn, além de outras linhas como NOS e Bang Energy. A empresa detinha 39% do mercado global de bebidas energéticas, avaliado em US$ 86 bilhões, em 2020, sendo a segunda maior participação do mercado, atrás apenas da Red Bull. A receita da empresa vem da venda dessas bebidas, com foco em energéticos, que se tornaram a principal fonte de faturamento a partir de 2012."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR M1NS34",
+      "body": "O M1NS34 é um BDR (Brazilian Depositary Receipt) não patrocinado de nível I, negociado na B3 em reais. Ele é um recibo que representa a ação original da Monster Beverage Corporation, listada na NASDAQ sob o ticker MNST. O preço do BDR acompanha a cotação da ação original em dólares e a variação do câmbio entre o dólar e o real. O BDR M1NS34 está listado na B3 desde 29/11/2019, permitindo que investidores brasileiros tenham exposição à empresa sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "id": "proventos",
+      "heading": "M1NS34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, o M1NS34 não distribuiu proventos, como dividendos ou juros sobre capital próprio. A empresa paga dividendos na moeda de sua jurisdição (dólar), e o valor, quando distribuído, chega ao investidor brasileiro convertido em reais. A ausência de proventos recentes indica que a empresa pode estar priorizando o reinvestimento em seu crescimento, como aquisições e expansão de mercado."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do M1NS34",
+      "body": "Até 30/10/2026, o M1NS34 apresentava rentabilidade total com proventos de 43,46% nos últimos 12 meses, 102,20% nos últimos 3 anos e 113,28% nos últimos 5 anos. Esses retornos são expressos em reais e incluem a variação do câmbio dólar/real, o que significa que a performance reflete tanto o movimento da ação original MNST na NASDAQ quanto a oscilação da moeda. Para comparar esse desempenho com outros ativos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite analisar a rentabilidade ao lado do S&P 500, CDI e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do M1NS34",
+      "body": "O M1NS34 está sujeito a riscos cambiais, pois seu preço em reais depende da cotação do dólar e do movimento da ação original MNST na NASDAQ. A volatilidade anualizada do BDR nos últimos 12 meses é de 35,11%, classificada como alta, e a maior queda em 5 anos foi de -34,14%, entre 04/01/2022 e 08/03/2022. A liquidez do BDR na B3 é moderada, com volume médio diário de R$ 473.519,00 nos últimos 3 meses. Riscos setoriais incluem mudanças no consumo de bebidas energéticas e concorrência de outras marcas. O beta da ação original MNST contra o S&P 500 é de 0,25, indicando que a ação tende a ter movimentos menores que o índice, mas o BDR em reais ainda é afetado pelo câmbio. Para monitorar oscilações, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "M1NS34 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, o M1NS34 não distribuiu proventos. A empresa paga dividendos em dólar, e o valor, quando houver, é convertido para reais. A ausência de proventos recentes pode indicar foco em reinvestimento e crescimento."
+    },
+    {
+      "question": "O que é o BDR M1NS34?",
+      "answer": "O M1NS34 é um BDR nível I não patrocinado da Monster Beverage Corp, negociado na B3 em reais. Ele representa a ação original MNST, listada na NASDAQ, e seu preço acompanha a cotação da ação e o câmbio dólar/real. O BDR está listado na B3 desde 29/11/2019."
+    },
+    {
+      "question": "Qual a diferença entre M1NS34 e MNST?",
+      "answer": "O M1NS34 é o BDR negociado na B3 em reais, enquanto MNST é a ação original da Monster Beverage na NASDAQ, em dólares. O preço do M1NS34 reflete o valor de MNST e a variação do câmbio. O BDR permite exposição à empresa sem a necessidade de conta no exterior."
+    },
+    {
+      "question": "Qual a rentabilidade do M1NS34?",
+      "answer": "Até 30/10/2026, a rentabilidade total do M1NS34 foi de 43,46% em 12 meses, 102,20% em 3 anos e 113,28% em 5 anos. Esses retornos incluem a variação do câmbio dólar/real. Para comparar com outros ativos, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "question": "O M1NS34 é líquido na B3?",
+      "answer": "O volume médio diário do M1NS34 nos últimos 3 meses é de R$ 473.519,00, o que indica liquidez moderada. Para acompanhar o ativo durante o pregão, é possível usar o [widget na barra de menus](/recursos/widget-da-barra-de-menus) do app, que mostra o gráfico do dia e as posições."
+    },
+    {
+      "question": "Quais são os riscos do M1NS34?",
+      "answer": "Os principais riscos incluem a exposição cambial, a volatilidade alta (35,11% nos últimos 12 meses) e a maior queda em 5 anos de -34,14%. Riscos setoriais incluem mudanças no consumo de bebidas energéticas. Para monitorar oscilações, configure [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do M1NS34 lado a lado com o S&P 500, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o M1NS34 atingir um preço que você escolher, útil para acompanhar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do M1NS34 junto com outros ativos, como ações e ETFs, em uma única visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade do M1NS34 e o preço médio da sua posição, com variação do dia e do ano."
+      },
+      {
+        "feature": "widget-da-barra-de-menus",
+        "anchor": "widget na barra de menus",
+        "context": "Acompanhe o M1NS34 durante o pregão com o gráfico do dia e as posições num clique na barra de menus do Mac."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "COCA34",
+        "list": "bdrs",
+        "reason": "A The Coca-Cola Company é acionista da Monster Beverage, e o COCA34 é o BDR da Coca-Cola na B3."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "O SPY é um ETF do S&P 500, índice de referência para o beta da ação original MNST."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa americana listado na B3, útil para comparação de exposição a mercados internacionais."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR de outra empresa de tecnologia e consumo americano, para diversificação de carteira."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de tecnologia, para comparação de desempenho e volatilidade com outros ativos internacionais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de M1NS34",
+      "url": "https://finance.yahoo.com/quote/M1NS34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MONSTER BEVE, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54089/M1NS/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Monster Beverage",
+      "url": "https://www.wikidata.org/wiki/Q1945295",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Monster Beverage",
+      "url": "https://en.wikipedia.org/wiki/Monster_Beverage",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

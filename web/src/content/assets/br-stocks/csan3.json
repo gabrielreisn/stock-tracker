@@ -1,0 +1,407 @@
+{
+  "ticker": "CSAN3",
+  "slug": "csan3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CSAN3: história, dividendos e volatilidade",
+    "description": "CSAN3 é a ação ordinária da Cosan S.A., conglomerado em açúcar, etanol, energia e logística. Veja desempenho, proventos e riscos da ação na B3.",
+    "h1": "CSAN3: Cosan S.A. - Ação Ordinária",
+    "canonicalPath": "/acoes/csan3",
+    "keywords": [
+      "CSAN3",
+      "Cosan",
+      "ação Cosan",
+      "CSAN3 dividendos",
+      "CSAN3 volatilidade",
+      "Cosan B3",
+      "ação ordinária Cosan",
+      "CSAN3 preço"
+    ]
+  },
+  "summary": "CSAN3 é a ação ordinária da Cosan S.A., conglomerado brasileiro com negócios em açúcar, etanol, energia, lubrificantes e logística. A empresa opera por meio de subsidiárias como a Raízen, a Compass Gás & Energia e a Rumo Logística. Em 30/10/2026, a ação cotava a R$ 2,33 na B3, com volume médio diário de R$ 160,0 milhões nos últimos três meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Cosan",
+    "legalName": "COSAN S.A.",
+    "ticker": "BVMF CSAN3",
+    "isin": "BRCSANACNOR6",
+    "taxId": "50.746.577/0001-15",
+    "foundingDate": "2000-02-01",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.cosan.com.br/ri",
+    "wikidata": "Q2998228",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2998228",
+      "https://pt.wikipedia.org/wiki/Cosan",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19836/CSAN/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Cosan",
+    "legalName": "COSAN S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Petróleo, Gás e Biocombustíveis",
+    "segment": "Exploração, Refino e Distribuição",
+    "founded": "01/02/2000",
+    "listedSince": "18/11/2005",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.cosan.com.br/ri"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "COSAN S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "50.746.577/0001-15",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Petróleo, Gás e Biocombustíveis / Exploração, Refino e Distribuição",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "01/02/2000",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "18/11/2005",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "CSAN3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 2,33",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "82,96% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,81",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 160,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CSAN3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Cosan S.A.",
+    "currency": "BRL",
+    "price": 2.33,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.6161,
+      "3y": -0.8459,
+      "5y": -0.8723,
+      "10y": -0.7271
+    },
+    "volatility1y": 0.8296,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9004,
+      "from": "2022-03-28",
+      "to": "2026-10-29"
+    },
+    "beta1y": {
+      "value": 2.81,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2024-06-06",
+        "amount": 0.451477
+      }
+    },
+    "avgDailyTradedValue3m": 160012353
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da CSAN3 nos últimos 12 meses até 30/10/2026 foi de 82,96%, nível muito alto. O beta de 2,81 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com amplitude quase três vezes maior, na mesma direção. A maior queda nos últimos 5 anos foi de -90,04%, do pico em 28/03/2022 ao ponto mais baixo em 29/10/2026. Esse nível de volatilidade é elevado para uma ação brasileira, refletindo a exposição a ciclos de commodities e a reestruturação recente do grupo. Para acompanhar a evolução do preço e a rentabilidade da posição, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A origem da Cosan remonta a 1936, quando os irmãos Pedro e João Ometto, junto com Mário Dedini, compraram a usina Costa Pinto em Piracicaba. Em 1949, foi fundada a usina da Barra, a maior do grupo. Em 1989, o grupo Ometto era o maior produtor de açúcar e álcool do mundo, com 22 empresas e moagem de 10,5 milhões de toneladas de cana-de-açúcar. Após conflitos sucessórios e reorganizações acionárias, a Cosan foi oficialmente constituída em fevereiro de 2000, consolidando o controle do antigo grupo Pedro Ometto com a compra da usina da Barra em 2002. A empresa abriu seu capital no Novo Mercado da Bovespa em 2005 e realizou sua primeira oferta pública na bolsa de Nova York em 2007. A partir de 2008, a Cosan expandiu seu portfólio com a aquisição dos ativos brasileiros da Esso (ExxonMobil), a compra da rede Petrosul e a criação da Rumo Logística, que em 2015 se fundiu com a América Latina Logística (ALL). Em 2011, criou a Raízen em joint venture com a Shell, e em 2012 adquiriu a Comgás. Em 2022, a Compass comprou a Gaspetro e a Sulgás. Em 2025, a Cosan vendeu toda a sua participação na Vale, que correspondia a aproximadamente 4,05% do capital social da mineradora.",
+    "timeline": [
+      {
+        "date": "1936",
+        "event": "Fundação do grupo com a compra da usina Costa Pinto",
+        "source": 3
+      },
+      {
+        "date": "2000-02-01",
+        "event": "Constituição oficial da Cosan S.A.",
+        "source": 2
+      },
+      {
+        "date": "2005-10-26",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2005-11-18",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-05-07",
+        "event": "Pricing do IPO da Compass Gás & Energia",
+        "source": 12
+      },
+      {
+        "date": "2026-06-17",
+        "event": "Alienação de propriedades do portfólio da Radar",
+        "source": 11
+      },
+      {
+        "date": "2026-07-09",
+        "event": "Atualização sobre alienação de propriedades do grupo Radar",
+        "source": 10
+      },
+      {
+        "date": "2026-08-13",
+        "event": "Alienação do Terminal de Uso Privado Porto São Luís",
+        "source": 9
+      },
+      {
+        "date": "2026-08-14",
+        "event": "Alterações na Diretoria Executiva, convocação de AGE e deslistagem do ADS",
+        "source": 8
+      },
+      {
+        "date": "2026-08-18",
+        "event": "Deslistagem das ADSs na NYSE",
+        "source": 7
+      },
+      {
+        "date": "2026-08-20",
+        "event": "Divulgação de notícias na imprensa",
+        "source": 6
+      },
+      {
+        "date": "2026-10-20",
+        "event": "Atualização sobre transação envolvendo participação da Rumo",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Cosan ganha dinheiro",
+      "body": "A Cosan S.A. atua em um conglomerado diversificado com negócios em açúcar, álcool, energia, lubrificantes e logística. A empresa produz e exporta etanol e açúcar, gerando energia a partir do bagaço da cana-de-açúcar. A Compass Gás & Energia atua na distribuição de gás natural canalizado, infraestrutura, comercialização e geração térmica, controlando distribuidoras como Comgás, Compagás, Sulgás, Commit Gás e GasBrasiliano. A Moove produz e distribui óleos lubrificantes e especialidades, exportando para mais de 40 países. A Rumo oferece serviços de transporte multimodal, armazenagem e embarque, com terminais em cidades como Santos, Sumaré e Rondonópolis. A Radar gerencia aproximadamente 175,5 mil hectares de terras para o plantio de cana-de-açúcar, soja, algodão e milho. A Raízen, joint-venture com a Shell, possui 61 terminais de distribuição, produzindo mais de 1,9 bilhões de litros de etanol e 4,2 milhões de toneladas de açúcar por ano, com uma rede de 4.700 postos de combustível."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Cosan",
+      "body": "A Cosan S.A. tem controle acionário privado, segundo o cadastro da CVM. A empresa está listada no segmento de governança Novo Mercado da B3, o que exige padrões elevados de transparência e igualdade de tratamento aos acionistas. O código de negociação da ação ordinária é CSAN3. Ações ordinárias (ON) dão direito a voto em assembleias gerais, enquanto ações preferenciais (PN) não dão direito a voto, mas têm preferência no recebimento de dividendos e no patrimônio líquido em caso de liquidação. A Cosan possui ações ordinárias e preferenciais, sendo a CSAN3 a classe ordinária."
+    },
+    {
+      "id": "proventos",
+      "heading": "CSAN3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a CSAN3 não distribuiu proventos, como dividendos ou juros sobre capital próprio (JCP). A ausência de pagamentos recentes não indica necessariamente uma política de não remuneração, mas sim a decisão da administração sobre a distribuição de lucros no período. Para acompanhar os dividendos e JCP de outras empresas da B3, com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da CSAN3",
+      "body": "A rentabilidade total da CSAN3 com proventos nos 12 meses até 30/10/2026 foi de -61,61%. Nos 3 anos, a rentabilidade foi de -84,59%, e nos 5 anos, de -87,23%. Nos 10 anos, a rentabilidade foi de -72,71%. Esses números refletem o desempenho passado e não indicam resultados futuros. Para comparar a rentabilidade da CSAN3 com índices como o Ibovespa e o CDI, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da CSAN3",
+      "body": "A volatilidade anualizada da CSAN3 nos últimos 12 meses foi de 82,96%, classificada como muito alta. O beta de 2,81 contra o Ibovespa indica que a ação tende a se mover com amplitude maior que a do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -90,04%, do pico em 28/03/2022 ao ponto mais baixo em 29/10/2026. Riscos setoriais incluem a exposição a ciclos de commodities (açúcar, etanol, petróleo), variações cambiais e regulatórias no setor de gás natural. A deslistagem das ADSs na NYSE em 2026 e a alienação de ativos do grupo Radar em 2026 podem impactar a estrutura de capital e a liquidez da empresa. Para monitorar movimentos de preço, utilize [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CSAN3 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, a CSAN3 não distribuiu proventos. A ausência de pagamentos recentes não indica uma política de não remuneração, mas a decisão da administração sobre a distribuição de lucros no período. Para acompanhar os dividendos e JCP de outras empresas, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre CSAN3 e CSAN4?",
+      "answer": "CSAN3 é a ação ordinária da Cosan, com direito a voto em assembleias. CSAN4 é a ação preferencial, sem direito a voto, mas com preferência no recebimento de dividendos e no patrimônio líquido em caso de liquidação. Ambas representam participação na mesma empresa, mas com direitos diferentes."
+    },
+    {
+      "question": "O que a Cosan faz?",
+      "answer": "A Cosan é um conglomerado com negócios em açúcar, etanol, energia, lubrificantes e logística. A empresa opera por meio de subsidiárias como a Raízen (joint-venture com a Shell), a Compass Gás & Energia (distribuição de gás natural) e a Rumo Logística (transporte ferroviário e multimodal). A Cosan produz e exporta etanol e açúcar, gera energia a partir do bagaço da cana e distribui gás natural canalizado no Brasil."
+    },
+    {
+      "question": "CSAN3 é uma ação de alto risco?",
+      "answer": "A volatilidade anualizada da CSAN3 nos últimos 12 meses foi de 82,96%, nível muito alto. O beta de 2,81 contra o Ibovespa indica que a ação tende a se mover com amplitude maior que a do índice. A maior queda nos últimos 5 anos foi de -90,04%. Esses números refletem o desempenho passado e não indicam resultados futuros. Para monitorar movimentos de preço, utilize [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Qual o setor da Cosan na B3?",
+      "answer": "A Cosan está classificada no setor de Petróleo, Gás e Biocombustíveis, no segmento de Exploração, Refino e Distribuição, segundo a B3. A CVM classifica a empresa no setor de Agricultura (Açúcar, Álcool e Cana). A empresa atua em múltiplos segmentos, incluindo energia, logística e lubrificantes."
+    },
+    {
+      "question": "A Cosan tem ações na bolsa de Nova York?",
+      "answer": "A Cosan deslistou suas ADSs na NYSE em 18/08/2026, segundo fato relevante da CVM. A empresa mantém cotação na B3 sob o código CSAN3. Para acompanhar a cotação e o desempenho da ação, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da CSAN3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da CSAN3 com o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a CSAN3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a evolução do preço e a rentabilidade da sua posição em CSAN3 com o gráfico de rentabilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a CSAN3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RAIL3",
+        "list": "br-stocks",
+        "reason": "Rumo S.A. é uma subsidiária da Cosan, com negócios em logística ferroviária e multimodal."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petróleo Brasileiro S.A. (Petrobras) atua no setor de petróleo e gás, com exposição a commodities similares à da Cosan."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Vale S.A. é uma mineradora brasileira, setor que a Cosan deixou em 2025 ao vender sua participação de 4,05%."
+      },
+      {
+        "ticker": "CSNA3",
+        "list": "br-stocks",
+        "reason": "Companhia Siderúrgica Nacional (CSN) atua no setor de siderurgia, com exposição a commodities e logística similar à da Cosan."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CSAN3",
+      "url": "https://finance.yahoo.com/quote/CSAN3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: COSAN, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19836/CSAN/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, COSAN S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Cosan",
+      "url": "https://www.wikidata.org/wiki/Q2998228",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Cosan",
+      "url": "https://pt.wikipedia.org/wiki/Cosan",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/10/2026, “Atualização sobre transação envolvendo participação da Rumo”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1578838&numSequencia=1103544&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/08/2026, “Notícias divulgadas na imprensa”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1559723&numSequencia=1084429&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/08/2026, “Deslistagem das ADSs na NYSE”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1559109&numSequencia=1083815&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/08/2026, “Alterações na composição de sua Diretoria Executiva||Convocação de AGE||Deslistagem do ADS||Guidance”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1558263&numSequencia=1082969&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/08/2026, “Alienação do Terminal de Uso Privado Porto São Luís”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1557382&numSequencia=1082088&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/07/2026, “Atualização sobre Alienação de Propriedades do grupo Radar”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1543318&numSequencia=1068024&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/06/2026, “Alienação de propriedades do portfólio da Radar”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1535405&numSequencia=1060111&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/05/2026, “Pricing IPO Compass”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1518348&numSequencia=1043054&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

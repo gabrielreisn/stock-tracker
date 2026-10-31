@@ -1,0 +1,295 @@
+{
+  "ticker": "GDXJ",
+  "slug": "gdxj",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "GDXJ: ETF de mineradoras de ouro",
+    "description": "Conheça o GDXJ, o VanEck Junior Gold Miners ETF: o que é, como funciona, desempenho, riscos e como investir a partir do Brasil.",
+    "h1": "GDXJ: VanEck Junior Gold Miners ETF",
+    "canonicalPath": "/etfs/gdxj",
+    "keywords": [
+      "GDXJ",
+      "VanEck Junior Gold Miners ETF",
+      "ETF de mineradoras de ouro",
+      "investir em ouro",
+      "ETF americano",
+      "volatilidade GDXJ",
+      "dividendos GDXJ",
+      "como investir no GDXJ"
+    ]
+  },
+  "summary": "GDXJ é o VanEck Junior Gold Miners ETF, um fundo de índice que investe em ações de pequenas e médias mineradoras de ouro. Lançado em 11/11/2009, o ativo busca acompanhar o desempenho de empresas do setor com menor capitalização. Até 29/10/2026, a cota valia US$ 100,94, com rentabilidade total de 11,34% nos últimos 12 meses e volatilidade anualizada de 56,02%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "VanEck Junior Gold Miners ETF",
+    "ticker": "ARCX GDXJ",
+    "foundingDate": "2009-11-11",
+    "provider": {
+      "name": "VanEck",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/VanEck"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de ações de mineradoras de ouro",
+    "issuerOrManager": "VanEck",
+    "name": "VanEck Junior Gold Miners ETF",
+    "founded": "11/11/2009"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "VanEck Junior Gold Miners ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "11/11/2009",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 100,94",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "56,02% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,44",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,62%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 508,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GDXJ",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "VanEck Junior Gold Miners ETF",
+    "currency": "USD",
+    "price": 100.94,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1134,
+      "3y": 2.1227,
+      "5y": 1.5253,
+      "10y": 1.9015
+    },
+    "volatility1y": 0.5602,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4879,
+      "from": "2022-04-14",
+      "to": "2022-09-26"
+    },
+    "beta1y": {
+      "value": 2.44,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.649,
+      "payments12Months": 1,
+      "yield12Months": 0.0262,
+      "lastPayment": {
+        "date": "2025-12-22",
+        "amount": 2.649
+      }
+    },
+    "avgDailyTradedValue3m": 508231174
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do GDXJ nos últimos 12 meses é de 56,02%, um nível muito alto, típico de ativos que investem em pequenas mineradoras de ouro, que são mais sensíveis a mudanças no preço do metal e a condições de mercado. O beta de 2,44 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice com amplitude 2,44 vezes maior, o que significa que em mercados de alta, o GDXJ tende a subir mais que o S&P 500, e em mercados de baixa, tende a cair mais. A maior queda nos últimos 5 anos foi de -48,79%, do pico em 14/04/2022 ao ponto mais baixo em 26/09/2022, o que ilustra o risco de perdas significativas em períodos de estresse de mercado. Para monitorar o preço do GDXJ e receber notificações quando ele atingir níveis específicos, o investidor pode usar os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A gestora do GDXJ, a VanEck, tem raízes profundas no investimento em commodities. John van Eck fundou a Van Eck Global em 1955, capitalizando-se sobre o mercado de ações internacionais. Em 1968, a empresa lançou um dos primeiros fundos de ouro dos Estados Unidos, o International Investors Gold Fund, que se concentrou em ações de mineradoras. O fundo teve grande sucesso na década de 1970, mas viu seu patrimônio cair de mais de US$ 1 bilhão para US$ 250 milhões até 1998, refletindo a estagnação do mercado de ouro no período. A VanEck tentou diversificar para mercados emergentes na Ásia nos anos 1990, mas a crise financeira asiática de 1997 impactou negativamente seus produtos, como o Van Eck Asia Dynasty Fund. Diante desse cenário, a empresa decidiu entrar no mercado de ETFs em 2006, lançando o Market Vectors Gold Miners ETF, que permitia aos investidores apostarem no ouro por meio de ações de mineradoras. O GDXJ, focado em mineradoras de menor porte, teve seu primeiro pregão em 11/11/2009, consolidando a estratégia da VanEck de oferecer exposição segmentada ao setor de mineração de ouro.",
+    "timeline": [
+      {
+        "date": "1955",
+        "event": "Fundação da Van Eck Global por John van Eck.",
+        "source": 1
+      },
+      {
+        "date": "1968",
+        "event": "Lançamento do International Investors Gold Fund, um dos primeiros fundos de ouro dos EUA.",
+        "source": 1
+      },
+      {
+        "date": "1996",
+        "event": "Van Eck Global firma joint venture com Shenyin & Wanguo para atuar no mercado de fundos da China continental.",
+        "source": 1
+      },
+      {
+        "date": "1997",
+        "event": "Crise financeira asiática reduz o patrimônio do Van Eck Asia Dynasty Fund de US$ 46,3 milhões para US$ 11,2 milhões.",
+        "source": 1
+      },
+      {
+        "date": "2006",
+        "event": "Lançamento do primeiro ETF da VanEck, o Market Vectors Gold Miners ETF.",
+        "source": 1
+      },
+      {
+        "date": "2009-11-11",
+        "event": "Primeiro pregão das cotas do GDXJ na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2024",
+        "event": "A Securities and Exchange Commission (SEC) dos EUA multa a VanEck em US$ 1,75 milhão por falta de divulgação adequada.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o GDXJ funciona",
+      "body": "O GDXJ é um ETF (Exchange-Traded Fund) que investe em ações de pequenas e médias mineradoras de ouro, conhecidas como 'junior gold miners'. A emissora é a VanEck, uma gestora de investimentos sediada em Nova York, que possui histórico de atuação no setor de ouro desde 1968, quando lançou um dos primeiros fundos de ouro dos Estados Unidos. O GDXJ teve seu primeiro pregão em 11/11/2009. Diferente de ETFs alavancados ou inversos, o GDXJ não utiliza alavancagem para multiplicar o retorno diário do índice, o que significa que ele não sofre de 'decay' (decaimento) em períodos de alta volatilidade, mas também não amplifica os ganhos em mercados de alta. O ativo funciona como uma cesta de ações, permitindo exposição ao setor de mineração de ouro por meio de um único instrumento negociado em bolsa."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do GDXJ",
+      "body": "As fontes disponíveis não detalham o índice específico replicado pelo GDXJ nem a composição exata de suas cotas. Sabe-se que o ETF se concentra em pequenas e médias mineradoras de ouro, um segmento que historicamente apresenta maior volatilidade e risco que as grandes mineradoras, mas também potencial de crescimento mais elevado. A VanEck, como gestora, é responsável pela seleção e gestão do portfólio. Para informações detalhadas sobre os ativos que compõem o fundo, é necessário consultar o relatório oficial da VanEck ou a documentação do ETF na bolsa de valores."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no GDXJ a partir do Brasil",
+      "body": "Para investir no GDXJ a partir do Brasil, o investidor precisa ter uma conta em uma corretora de valores que ofereça acesso ao mercado americano. O ativo é cotado em dólares, o que significa que o investidor está exposto ao risco cambial: variações no câmbio entre o dólar e o real impactam o retorno em reais. Outra opção é buscar BDRs (Brazilian Depositary Receipts) ou ETFs da B3 que replicam o mesmo índice ou setor, o que permite investir em reais, mas com possíveis diferenças de liquidez e custo. É importante considerar que o GDXJ é um ativo de alto risco, com alta volatilidade, e que a diversificação é fundamental para gerenciar esse risco."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do GDXJ",
+      "body": "Até 29/10/2026, a cota do GDXJ valia US$ 100,94. A rentabilidade total com proventos foi de 11,34% nos últimos 12 meses, 212,27% em 3 anos, 152,53% em 5 anos e 190,15% em 10 anos. Esses números refletem o desempenho do ativo em dólar, sem considerar o efeito do câmbio. O GDXJ paga dividendos, com US$ 2,6490 por cota em 1 pagamento nos 12 meses até 29/10/2026, resultando em um dividend yield de 2,62%. O último pagamento foi de US$ 2,6490 em 22/12/2025. Para comparar o desempenho do GDXJ com outros índices, como o S&P 500, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do GDXJ",
+      "body": "O GDXJ é um ativo de alto risco, com volatilidade anualizada de 56,02% nos últimos 12 meses, nível classificado como 'muito alta'. O beta de 2,44 contra o S&P 500 indica que o ativo tende a se mover com amplitude 2,44 vezes maior que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -48,79%, do pico em 14/04/2022 ao ponto mais baixo em 26/09/2022. Os riscos incluem a volatilidade do preço do ouro, a sensibilidade de pequenas mineradoras a mudanças no mercado, o risco cambial para investidores brasileiros e o risco de liquidez, embora o volume médio negociado por dia (3 meses) seja de US$ 508,2 milhões, indicando boa liquidez. O investidor deve estar preparado para oscilações significativas no valor do ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O GDXJ é um ETF alavancado?",
+      "answer": "Não, o GDXJ não é um ETF alavancado. Ele investe em ações de pequenas e médias mineradoras de ouro, sem usar alavancagem para multiplicar o retorno diário do índice. Isso significa que ele não sofre de 'decay' (decaimento) em períodos de alta volatilidade, mas também não amplifica os ganhos em mercados de alta."
+    },
+    {
+      "question": "Qual a diferença entre GDXJ e GDX?",
+      "answer": "O GDXJ investe em pequenas e médias mineradoras de ouro (junior gold miners), enquanto o [GDX](/etfs/gdx) investe em grandes mineradoras de ouro. O GDXJ tende a ter maior volatilidade e potencial de crescimento, mas também maior risco, enquanto o GDX é mais estável, mas com menor potencial de alavancagem."
+    },
+    {
+      "question": "GDXJ paga dividendos?",
+      "answer": "Sim, o GDXJ paga dividendos. Nos 12 meses até 29/10/2026, o ativo distribuiu US$ 2,6490 por cota em 1 pagamento, resultando em um dividend yield de 2,62%. O último pagamento foi de US$ 2,6490 em 22/12/2025. Os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) mostram a data de pagamento e a multiplicação pela quantidade de cotas."
+    },
+    {
+      "question": "Como investir no GDXJ a partir do Brasil?",
+      "answer": "Para investir no GDXJ a partir do Brasil, o investidor precisa ter uma conta em uma corretora de valores que ofereça acesso ao mercado americano. O ativo é cotado em dólares, o que significa que o investidor está exposto ao risco cambial. Outra opção é buscar BDRs ou ETFs da B3 que replicam o mesmo índice ou setor, o que permite investir em reais. O [Open Finance](/recursos/open-finance) no app ajuda a sincronizar as posições de diferentes corretoras."
+    },
+    {
+      "question": "Qual a volatilidade do GDXJ?",
+      "answer": "A volatilidade anualizada do GDXJ nos últimos 12 meses é de 56,02%, um nível muito alto. O beta de 2,44 contra o S&P 500 indica que o ativo tende a se mover com amplitude 2,44 vezes maior que o índice. A maior queda nos últimos 5 anos foi de -48,79%, do pico em 14/04/2022 ao ponto mais baixo em 26/09/2022."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do GDXJ lado a lado com o S&P 500, Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o GDXJ atingir o preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o GDXJ junto com suas outras posições, com valor por classe e alocação em uma só visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do GDXJ e o preço médio da sua posição, com ganho e variação do dia e do ano."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e confira as posições de GDXJ, com quantidades e preço médio, em sincronia com a sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GDX",
+        "list": "us-etfs",
+        "reason": "ETF de grandes mineradoras de ouro, da mesma gestora, para comparação de risco e retorno."
+      },
+      {
+        "ticker": "GLD",
+        "list": "us-etfs",
+        "reason": "ETF que investe em ouro físico, para comparação com a exposição a mineradoras."
+      },
+      {
+        "ticker": "SLV",
+        "list": "us-etfs",
+        "reason": "ETF que investe em prata física, outro metal precioso com correlação com o ouro."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho e volatilidade com o mercado americano."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF do setor de energia, para comparação com outros setores cíclicos e sensíveis a commodities."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GDXJ",
+      "url": "https://finance.yahoo.com/quote/GDXJ/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): VanEck (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/VanEck",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Gold mining (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Gold_mining",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

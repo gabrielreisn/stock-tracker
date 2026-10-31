@@ -1,0 +1,304 @@
+{
+  "ticker": "BERK34",
+  "slug": "berk34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BERK34: BDR da Berkshire Hathaway, história e desempenho",
+    "description": "Conheça o BERK34, BDR da Berkshire Hathaway na B3. Veja desempenho em reais, riscos cambiais, ausência de dividendos e a transição de liderança em 2026.",
+    "h1": "BERK34: BDR da Berkshire Hathaway",
+    "canonicalPath": "/bdrs/berk34",
+    "keywords": [
+      "BERK34",
+      "Berkshire Hathaway BDR",
+      "BDR nível I",
+      "Warren Buffett",
+      "BDR sem dividendos",
+      "Berkshire Hathaway B3"
+    ]
+  },
+  "summary": "BERK34 é o BDR nível I da Berkshire Hathaway Inc., conglomerado americano sediado em Omaha que opera desde 1955. Listado na B3 em 27/09/2013, o recibo acompanha as ações BRK.A e BRK.B da NYSE. Em 29/10/2026, o preço era de R$ 146,63, com rentabilidade de 15,63% nos últimos 12 meses. A empresa não paga dividendos, focando no reinvestimento de lucros.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Berkshire Hathaway",
+    "legalName": "BERKSHIRE HATHAWAY INC.",
+    "ticker": "BVMF BERK34",
+    "foundingDate": "1955",
+    "website": "https://www.berkshirehathaway.com/",
+    "wikidata": "Q217583",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q217583",
+      "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+      "https://pt.wikipedia.org/wiki/Berkshire_Hathaway",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50717/BERK/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Berkshire Hathaway",
+    "legalName": "BERKSHIRE HATHAWAY INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1955",
+    "listedSince": "27/09/2013",
+    "headquarters": "Omaha",
+    "website": "https://www.berkshirehathaway.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "BERKSHIRE HATHAWAY INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: BRK.A, Bolsa de Valores de Nova Iorque: BRK.B",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Omaha",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1955",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "27/09/2013",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 146,63",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "20,47% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 6,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BERK34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Berkshire Hathaway Inc.",
+    "currency": "BRL",
+    "price": 146.63,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1563,
+      "3y": 0.7271,
+      "5y": 0.8002,
+      "10y": 5.386
+    },
+    "volatility1y": 0.2047,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2626,
+      "from": "2025-04-14",
+      "to": "2026-05-05"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 6769142
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do BERK34 nos últimos 12 meses foi de 20,47%, um nível considerado moderado para um ativo que acompanha o mercado americano. A maior queda em 5 anos foi de -26,26%, ocorrendo entre 14/04/2025 e 05/05/2026. Como o beta não está disponível, não é possível medir a sensibilidade específica do BDR em relação ao índice de referência. Para acompanhar oscilações e definir pontos de atenção, os [alertas de preço](/recursos/alertas-de-preco) permitem notificações quando o ativo atinge valores específicos."
+  },
+  "history": {
+    "overview": "A Berkshire Hathaway nasceu em 1955 da fusão entre a Hathaway Manufacturing Company e a Berkshire Fine Spinning Associates, iniciando como uma fabricante de têxteis em New Bedford, Massachusetts. Em 1962, Warren Buffett começou a comprar ações da empresa, assumindo o controle em 1965 após um desentendimento com a gestão anterior. Sob a liderança de Buffett e do vice-presidente Charlie Munger, a empresa encerrou as operações têxteis em 1985 e transformou-se em um conglomerado diversificado, utilizando o caixa de seguros para adquirir empresas inteiras e investir em ações. Em agosto de 2024, a Berkshire tornou-se a oitava maior empresa pública dos EUA e a primeira não tecnológica a valer mais de US$ 1 trilhão. Em janeiro de 2026, Greg Abel assumiu a presidência e a função de CEO, sucedendo Buffett, que permanece como principal acionista com 38,4% das ações classe A.",
+    "timeline": [
+      {
+        "date": "1955",
+        "event": "Fundação da Berkshire Hathaway pela fusão de empresas têxteis.",
+        "source": 2
+      },
+      {
+        "date": "1965",
+        "event": "Warren Buffett assume o controle da empresa após adquirir participação majoritária.",
+        "source": 3
+      },
+      {
+        "date": "1967",
+        "event": "Aquisição da National Indemnity Company, marcando a entrada no setor de seguros.",
+        "source": 3
+      },
+      {
+        "date": "1972",
+        "event": "Compra da See's Candies por US$ 25 milhões.",
+        "source": 3
+      },
+      {
+        "date": "1976",
+        "event": "Primeiro investimento na GEICO, que se tornaria o núcleo das operações de seguro.",
+        "source": 3
+      },
+      {
+        "date": "1985",
+        "event": "Encerramento das últimas operações têxteis da empresa.",
+        "source": 3
+      },
+      {
+        "date": "2013-09-27",
+        "event": "Listagem do BDR BERK34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2024-08",
+        "event": "Empresa se torna a primeira não tecnológica a valer mais de US$ 1 trilhão.",
+        "source": 3
+      },
+      {
+        "date": "2026",
+        "event": "Greg Abel assume a presidência e a função de CEO da Berkshire Hathaway.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Berkshire Hathaway ganha dinheiro",
+      "body": "A Berkshire Hathaway Inc. é um conglomerado multinacional que gere um conjunto de empresas subsidiárias em diversos setores. A empresa utiliza a amplitude de rendas gerada pelas operações de seguros, especialmente a GEICO, para financiar investimentos em outras companhias. O portfólio inclui ferrovias, empresas de produção de doces, varejo, jornais, serviços públicos de gás e energia elétrica, além de participações em grandes empresas de tecnologia e finanças. A estratégia de longo prazo foca no reinvestimento de lucros, sem o pagamento de dividendos, para maximizar o retorno aos acionistas ao longo do tempo."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR BERK34",
+      "body": "O BERK34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele funciona como um recibo que representa as ações da Berkshire Hathaway Inc. na Bolsa de Valores de Nova Iorque (NYSE), sob os tickers BRK.A e BRK.B. O preço do BDR acompanha a variação da ação original nos Estados Unidos e a taxa de câmbio do dólar. A listagem na B3 ocorreu em 27/09/2013. Por ser um BDR não patrocinado, a empresa não participa da sua emissão ou manutenção, que é feita por uma instituição depositária."
+    },
+    {
+      "id": "proventos",
+      "heading": "BERK34 paga dividendos?",
+      "body": "A Berkshire Hathaway não paga dividendos. Desde que Warren Buffett assumiu o controle da empresa, a política é reter 100% dos lucros para reinvestimento. Nos últimos 12 meses até 29/10/2026, não houve registro de proventos para o BDR BERK34. O retorno ao investidor vem exclusivamente da valorização do patrimônio e do preço da ação."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BERK34",
+      "body": "Em 29/10/2026, o BDR BERK34 estava cotado a R$ 146,63. A rentabilidade total com proventos foi de 15,63% nos últimos 12 meses, 72,71% em 3 anos e 80,02% em 5 anos. Em 10 anos, o retorno acumulado foi de 538,60%. Esses números em reais incluem a variação do câmbio entre o dólar e o real. Para comparar esse desempenho com outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade lado a lado com o S&P 500, Ibovespa e CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BERK34",
+      "body": "O principal risco do BERK34 é o cambial, pois o preço em reais depende da cotação do dólar. A volatilidade anualizada dos últimos 12 meses foi de 20,47%, classificada como moderada. A maior queda nos últimos 5 anos foi de -26,26%, entre 14/04/2025 e 05/05/2026. A liquidez do BDR na B3 é menor que a da ação original nos EUA, com volume médio de R$ 6,8 milhões por dia nos últimos 3 meses. A concentração em um único conglomerado e a mudança na liderança com a saída de Warren Buffett como CEO em 2026 são fatores a serem monitorados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BERK34 paga dividendos?",
+      "answer": "Não, o BERK34 não paga dividendos. A Berkshire Hathaway adota a política de reter 100% dos lucros para reinvestimento, sem distribuir proventos aos acionistas. Nos últimos 12 meses até 29/10/2026, não houve pagamentos registrados."
+    },
+    {
+      "question": "Qual a diferença entre BERK34 e BRK.A?",
+      "answer": "O BERK34 é o BDR negociado na B3 em reais, enquanto BRK.A é a ação classe A negociada na NYSE em dólares. O BDR acompanha o preço da ação original e a variação do câmbio, oferecendo exposição à empresa sem a necessidade de abrir conta nos EUA."
+    },
+    {
+      "question": "Quem é o CEO da Berkshire Hathaway?",
+      "answer": "Greg Abel assumiu a presidência e a função de CEO da Berkshire Hathaway no início de 2026, sucedendo Warren Buffett, que permanece como principal acionista e chairman."
+    },
+    {
+      "question": "Qual o risco cambial do BERK34?",
+      "answer": "O BERK34 tem risco cambial direto, pois é lastreado em ações americanas. Qualquer variação do dólar em relação ao real impacta o preço do BDR na B3, além da variação da própria ação da Berkshire Hathaway."
+    },
+    {
+      "question": "Como acompanhar a rentabilidade do BERK34?",
+      "answer": "A rentabilidade em reais inclui a variação do câmbio. Para visualizar o desempenho histórico e comparar com outros índices, use a ferramenta de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app, que mostra gráficos e a variação por período."
+    },
+    {
+      "question": "O BERK34 é um BDR patrocinado?",
+      "answer": "Não, o BERK34 é um BDR não patrocinado de nível I. Isso significa que a Berkshire Hathaway não participa da emissão ou manutenção do recibo, que é feito por uma instituição depositária."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do BERK34 lado a lado com o S&P 500 e o Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o BDR atingir valores que você definiu, útil para monitorar a volatilidade de 20,47%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do BERK34 junto com outros ativos da sua carteira em uma única visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Visualize a rentabilidade de 15,63% nos últimos 12 meses e o preço médio da sua posição."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para comparação de desempenho."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa americana de grande capitalização, com exposição similar ao mercado dos EUA."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de tecnologia, setor em que a Berkshire Hathaway possui participações relevantes."
+      },
+      {
+        "ticker": "JPMC34",
+        "list": "bdrs",
+        "reason": "BDR do setor financeiro, área de atuação da Berkshire Hathaway."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BERK34",
+      "url": "https://finance.yahoo.com/quote/BERK34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BERKSHIRE, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50717/BERK/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Berkshire Hathaway",
+      "url": "https://www.wikidata.org/wiki/Q217583",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Berkshire Hathaway",
+      "url": "https://en.wikipedia.org/wiki/Berkshire_Hathaway",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Berkshire Hathaway",
+      "url": "https://pt.wikipedia.org/wiki/Berkshire_Hathaway",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

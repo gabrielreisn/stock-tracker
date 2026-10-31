@@ -1,0 +1,300 @@
+{
+  "ticker": "IWM",
+  "slug": "iwm",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IWM: história, dividendos e volatilidade",
+    "description": "IWM é o iShares Russell 2000 ETF, que replica 2.000 small caps americanas. Veja desempenho, dividendos, volatilidade e como investir a partir do Brasil.",
+    "h1": "IWM: iShares Russell 2000 ETF",
+    "canonicalPath": "/etfs/iwm",
+    "keywords": [
+      "IWM",
+      "iShares Russell 2000 ETF",
+      "ETF Russell 2000",
+      "small caps americanas",
+      "ETF de índice",
+      "investir em IWM",
+      "dividendos IWM",
+      "volatilidade IWM"
+    ]
+  },
+  "summary": "IWM é o iShares Russell 2000 ETF, um fundo de índice que replica o desempenho do índice Russell 2000, composto por 2.000 empresas de menor capitalização de mercado nos Estados Unidos. Lançado em 26/05/2000 pela iShares, braço de ETFs da BlackRock, o ativo oferece exposição passiva a small caps americanas. Em 30/10/2026, a cota valia US$ 279,33, com volume médio diário de US$ 6,22 bilhões nos últimos três meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Russell 2000 ETF",
+    "ticker": "ARCX IWM",
+    "foundingDate": "2000-05-26",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "Russell 2000",
+    "name": "iShares Russell 2000 ETF",
+    "founded": "26/05/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Russell 2000 ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "26/05/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 279,33",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,15% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,17",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,98%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 6,22 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IWM",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Russell 2000 ETF",
+    "currency": "USD",
+    "price": 279.33,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1524,
+      "3y": 0.7705,
+      "5y": 0.2701,
+      "10y": 1.6715
+    },
+    "volatility1y": 0.1815,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3191,
+      "from": "2021-11-08",
+      "to": "2022-06-16"
+    },
+    "beta1y": {
+      "value": 1.17,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.729,
+      "payments12Months": 4,
+      "yield12Months": 0.0098,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.75
+      }
+    },
+    "avgDailyTradedValue3m": 6217856939
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do IWM nos últimos 12 meses foi de 18,15%, nível considerado moderado. A maior queda nos últimos 5 anos foi de -31,91%, entre 08/11/2021 e 16/06/2022. Para quem acompanha o ativo, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app para ser notificado quando a cota atingir níveis específicos, ajudando a gerenciar a exposição a essas oscilações."
+  },
+  "history": {
+    "overview": "O IWM nasceu em 26 de maio de 2000, no auge da euforia das dot-com, como parte da expansão da marca iShares pela Barclays Global Investors. A iShares, que hoje pertence à BlackRock desde 2009, foi pioneira na popularização dos ETFs nos Estados Unidos, tendo lançado mais de 40 novos fundos sob essa marca no ano 2000. O objetivo do IWM foi sempre simples: replicar o índice Russell 2000, que acompanha 2.000 empresas de menor capitalização de mercado nos EUA, representando cerca de 5% do total do mercado de capitais americano. A manutenção do índice é feita pela FTSE Russell, com reequilíbrio anual no final de junho, o único momento em que novas empresas entram ou saem da carteira. Ao longo dos anos, o IWM consolidou-se como o principal veículo para investidores que buscam exposição a small caps americanas sem a necessidade de montar uma carteira individualizada.",
+    "timeline": [
+      {
+        "date": "2000-05-26",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2006-11-07",
+        "event": "iShares anuncia a aquisição da unidade de ETFs da HypoVereinsbank por €240 milhões, consolidando posição na Europa",
+        "source": 2
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma plano de venda da iShares para a CVC Capital Partners por mais de US$ 4 bilhões",
+        "source": 2
+      },
+      {
+        "date": "2013-05-20",
+        "event": "Índice Russell 2000 ultrapassa a marca de 1.000 pontos pela primeira vez",
+        "source": 1
+      },
+      {
+        "date": "2020-12-23",
+        "event": "Índice Russell 2000 ultrapassa a marca de 2.000 pontos",
+        "source": 1
+      },
+      {
+        "date": "2026-06-22",
+        "event": "Índice Russell 2000 ultrapassa a marca de 3.000 pontos",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IWM funciona",
+      "body": "O IWM é um ETF passivo que busca replicar o desempenho do índice Russell 2000, antes de taxas e despesas, mantendo as mesmas empresas do índice nas mesmas proporções de capitalização de mercado. A emissora é a iShares, marca de ETFs da BlackRock, que adquiriu o negócio da Barclays em 2009. O primeiro pregão das cotas ocorreu em 26/05/2000. Como não é um ativo alavancado ou inverso, não há rebalanceamento diário nem desvio estrutural do múltiplo do índice em períodos longos; o objetivo é minimizar o erro de rastreamento (tracking error) e os custos de investimento."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IWM",
+      "body": "O IWM replica o índice Russell 2000, mantido pela FTSE Russell, que acompanha 2.000 empresas de menor capitalização de mercado nos Estados Unidos. O índice é ponderado por capitalização de mercado e inclui aproximadamente 5% do total do mercado de capitais das empresas públicas americanas, com capitalização agregada de cerca de US$ 3,5 trilhões em 30/06/2026. A capitalização mediana das componentes é de US$ 1,1 bilhão, com valores variando de US$ 146 milhões a US$ 2,7 bilhões. O reequilíbrio anual ocorre no final de junho, sendo o único momento em que novas empresas são adicionadas ao índice."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IWM a partir do Brasil",
+      "body": "Para investir no IWM a partir do Brasil, o investidor pode abrir conta em uma corretora de valores que ofereça acesso a mercados internacionais, permitindo a compra direta das cotas em dólar. Outra opção é buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice Russell 2000, o que elimina a necessidade de conversão cambial direta, mas introduz o risco de tracking error adicional. Em ambos os casos, há exposição ao risco cambial: variações no câmbio entre o real e o dólar impactam diretamente o retorno em reais, podendo amplificar ou reduzir os ganhos obtidos no mercado americano."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IWM",
+      "body": "Até 30/10/2026, o IWM apresentou rentabilidade total com proventos de 15,24% nos últimos 12 meses, 77,05% em 3 anos, 27,01% em 5 anos e 167,15% em 10 anos. O ativo pagou US$ 2,7290 por cota em 4 distribuições nos 12 meses até 30/10/2026, resultando em dividend yield de 0,98%, com o último pagamento de US$ 0,7500 em 15/09/2026. Para comparar esse desempenho com o do S&P 500, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade do IWM lado a lado com o índice de referência."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IWM",
+      "body": "O IWM expõe o investidor à volatilidade das small caps americanas, que historicamente apresentam maior oscilação que as large caps. A volatilidade anualizada dos últimos 12 meses foi de 18,15%, classificada como moderada. A maior queda nos últimos 5 anos foi de -31,91%, do pico em 08/11/2021 ao ponto mais baixo em 16/06/2022. Além do risco de mercado, há o risco cambial para investidores brasileiros, já que o ativo é cotado em dólar. A concentração em empresas de menor capitalização também implica maior sensibilidade a condições de crédito e liquidez mais limitada em momentos de estresse."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o IWM?",
+      "answer": "IWM é o iShares Russell 2000 ETF, um fundo de índice que replica o desempenho do índice Russell 2000, composto por 2.000 empresas de menor capitalização de mercado nos Estados Unidos. O ativo é emitido pela iShares, braço de ETFs da BlackRock, e teve seu primeiro pregão em 26/05/2000."
+    },
+    {
+      "question": "O IWM paga dividendos?",
+      "answer": "Sim, o IWM distribui proventos. Nos 12 meses até 30/10/2026, foram pagos US$ 2,7290 por cota em 4 pagamentos, resultando em dividend yield de 0,98%. O último pagamento foi de US$ 0,7500 em 15/09/2026. É possível acompanhar os dividendos e JCP no app, com data de competência e data de pagamento."
+    },
+    {
+      "question": "Qual a diferença entre IWM e SPY?",
+      "answer": "O IWM replica o índice Russell 2000, focado em small caps americanas, enquanto o [SPY](/etfs/spy) replica o S&P 500, composto por 500 large caps. O IWM tende a ter maior volatilidade e beta acima de 1 em relação ao S&P 500, o que significa movimentos mais amplos em ambos os sentidos. A escolha entre os dois depende da exposição desejada a empresas de menor capitalização."
+    },
+    {
+      "question": "Como investir no IWM a partir do Brasil?",
+      "answer": "O investidor brasileiro pode comprar o IWM diretamente em uma corretora com acesso a mercados internacionais, pagando em dólar, ou buscar ETFs ou BDRs na B3 que sigam o Russell 2000. Em ambos os casos, há exposição ao risco cambial, que impacta o retorno em reais. O app permite [conectar corretoras pelo Open Finance](/recursos/open-finance) para sincronizar as posições e acompanhar o desempenho."
+    },
+    {
+      "question": "Qual a volatilidade do IWM?",
+      "answer": "A volatilidade anualizada do IWM nos últimos 12 meses foi de 18,15%, nível moderado. A maior queda em 5 anos foi de -31,91%, entre 08/11/2021 e 16/06/2022. É possível acompanhar a variação do dia e do ano no [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app."
+    },
+    {
+      "question": "O IWM é um ETF alavancado?",
+      "answer": "Não, o IWM é um ETF passivo que replica o índice Russell 2000 sem alavancagem. Não há rebalanceamento diário nem desvio estrutural do índice em períodos longos. O objetivo é minimizar o erro de rastreamento e os custos de investimento, diferentemente de ETFs alavancados como [TQQQ](/etfs/tqqq) ou [SQQQ](/etfs/sqqq)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do IWM lado a lado com o S&P 500, Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para ser avisado quando a cota do IWM atingir um preço que você escolheu, útil para gerenciar a exposição a oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o IWM junto com outras posições em ações, ETFs e renda fixa, com alocação por classe e maiores posições em uma só visão."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e confira as quantidades e o preço médio do IWM, identificando o que falta importar para a carteira."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no IWM e receba respostas baseadas nos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, o principal índice de large caps americanas, para comparação de exposição a grandes empresas."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF do S&P 500, alternativa de baixo custo para quem busca exposição a large caps americanas."
+      },
+      {
+        "ticker": "IJR",
+        "list": "us-etfs",
+        "reason": "iShares Core S&P Small-Cap ETF, outro veículo de small caps americanas para comparação de estratégia."
+      },
+      {
+        "ticker": "RWM",
+        "list": "us-etfs",
+        "reason": "ProShares Short Russell2000, ETF inverso do Russell 2000, para quem busca exposição negativa ao índice."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "iShares MSCI Brazil ETF, para diversificação com exposição ao mercado brasileiro em dólar."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IWM",
+      "url": "https://finance.yahoo.com/quote/IWM/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Russell 2000 Index (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Russell_2000_Index",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Index fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Index_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,279 @@
+{
+  "ticker": "XLF",
+  "slug": "xlf",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLF: ETF do setor financeiro do S&P 500",
+    "description": "XLF replica o setor financeiro do S&P 500. Veja desempenho, dividendos, volatilidade e como investir no XLF a partir do Brasil.",
+    "h1": "XLF: State Street Financial Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xlf",
+    "keywords": [
+      "XLF",
+      "ETF financeiro",
+      "S&P 500 Financials",
+      "State Street SPDR",
+      "investir em ETF americano",
+      "XLF dividendos",
+      "XLF volatilidade"
+    ]
+  },
+  "summary": "XLF é a cota do State Street Financial Select Sector SPDR ETF, lançado em 22/12/1998. O ativo replica o desempenho do setor financeiro do S&P 500, composto por empresas de bancos, seguros e serviços de pagamento. Em 30/10/2026, a cota valia US$ 56,51, com rentabilidade total de 9,90% nos últimos 12 meses e dividend yield de 1,46%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Financial Select Sector SPDR ETF",
+    "ticker": "ARCX XLF",
+    "foundingDate": "1998-12-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P 500 Financials",
+    "name": "State Street Financial Select Sector SPDR ETF",
+    "founded": "22/12/1998"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Financial Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/12/1998",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 56,51",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,49% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,58",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,46%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,83 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLF",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Financial Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 56.51,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.099,
+      "3y": 0.8494,
+      "5y": 0.5288,
+      "10y": 2.4405
+    },
+    "volatility1y": 0.1449,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2581,
+      "from": "2022-01-12",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 0.58,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.826,
+      "payments12Months": 4,
+      "yield12Months": 0.0146,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.197
+      }
+    },
+    "avgDailyTradedValue3m": 1830974431
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do XLF nos últimos 12 meses é de 14,49%, um nível considerado baixo para um ETF setorial. A maior queda em 5 anos foi de -25,81%, ocorrida entre 12/01/2022 e 12/10/2022, período de alta das taxas de juros nos EUA. Para monitorar oscilações de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) no app permite definir notificações quando a cota atinge um valor específico."
+  },
+  "history": {
+    "overview": "O XLF faz parte da família de ETFs SPDR, geridos pela State Street Global Advisors (SSGA). A estrutura de ETFs setoriais, conhecida como Sector Spiders, foi introduzida em 1998 pela SSGA em cooperação com a Merrill Lynch para acompanhar os setores da classificação GICS do S&P 500. O primeiro pregão das cotas do XLF ocorreu em 22/12/1998, marcando o início de sua negociação no mercado americano. A SSGA é a terceira maior gestora de ETFs do mundo, atrás de iShares e Vanguard, e a marca SPDR abrange diversos fundos que operam nos Estados Unidos, Europa, México e Ásia-Pacífico. O setor financeiro, que o XLF acompanha, é um dos pilares do S&P 500, englobando instituições que fornecem serviços de crédito, investimentos e gestão de ativos para empresas e consumidores.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "Lançamento dos Sector Spiders pela SSGA e Merrill Lynch",
+        "source": 1
+      },
+      {
+        "date": "1998-12-22",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA unifica seus ETFs nos EUA sob a marca SPDR",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLF funciona",
+      "body": "O XLF é um ETF que replica o desempenho do setor financeiro do índice S&P 500. A emissora é a State Street Global Advisors (SSGA), que gerencia a família de fundos SPDR. O ativo foi lançado em 22/12/1998, no mesmo ano em que a SSGA e a Merrill Lynch introduziram os chamados Sector Spiders, uma série de dez fundos que acompanham os setores da classificação GICS. Diferente de ETFs alavancados ou inversos, o XLF não possui rebalanceamento diário de múltiplos, o que significa que seu resultado acompanha o índice de referência sem distorções matemáticas em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLF",
+      "body": "O XLF segue o índice S&P 500 Financials, que agrupa as empresas do setor financeiro do S&P 500. A classificação GICS, desenvolvida em 1999 por MSCI e S&P, organiza as empresas em 11 setores, sendo o financeiro um dos principais. As fontes não detalham as empresas específicas que compõem o índice no momento atual, mas indicam que o setor abrange bancos comerciais, instituições de investimento e serviços de gestão de ativos. O S&P 500 inclui aproximadamente 83% da capitalização de mercado das empresas públicas dos EUA."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLF a partir do Brasil",
+      "body": "Para investir no XLF a partir do Brasil, o investidor precisa abrir conta em uma corretora de valores que opere no mercado americano ou em uma corretora brasileira que ofereça acesso a ativos internacionais. O investimento é feito em dólar, o que expõe o investidor ao risco cambial: variações no câmbio entre o real e o dólar afetam o retorno em reais. Além disso, existem ETFs e BDRs na B3 que podem seguir índices similares, mas o XLF é negociado diretamente nos Estados Unidos. A liquidez do XLF é alta, com volume médio de US$ 1,83 bilhão por dia nos últimos 3 meses."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLF",
+      "body": "Em 30/10/2026, a cota do XLF valia US$ 56,51. A rentabilidade total com proventos foi de 9,90% nos últimos 12 meses, 84,94% em 3 anos, 52,88% em 5 anos e 244,05% em 10 anos. O dividend yield é de 1,46%, com US$ 0,8260 por cota distribuídos em 4 pagamentos no período de 12 meses até 30/10/2026. Para comparar esse desempenho com o do mercado americano, é possível usar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade do XLF lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLF",
+      "body": "O XLF está exposto ao risco setorial do setor financeiro, que é sensível a mudanças nas taxas de juros, à qualidade da carteira de crédito e à regulação. A volatilidade anualizada do XLF nos últimos 12 meses é de 14,49%, considerada de nível baixo. O beta de 0,58 indica que o ativo tende a ter movimentos menores que os do S&P 500, na mesma direção. A maior queda em 5 anos foi de -25,81%, entre 12/01/2022 e 12/10/2022. O risco cambial também é relevante para investidores brasileiros, pois o ativo é cotado em dólar. A [carteira consolidada](/recursos/carteira-consolidada) no app ajuda a visualizar a alocação do XLF junto a outros ativos, mitigando riscos de concentração."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o XLF?",
+      "answer": "XLF é o ticker do State Street Financial Select Sector SPDR ETF, um fundo que replica o setor financeiro do S&P 500. Ele é gerido pela State Street Global Advisors e foi lançado em 22/12/1998. O ativo investe em ações de bancos, seguradoras e outras instituições financeiras listadas no S&P 500."
+    },
+    {
+      "question": "XLF paga dividendos?",
+      "answer": "Sim, o XLF distribui proventos. Nos 12 meses até 30/10/2026, foram pagos US$ 0,8260 por cota em 4 pagamentos, resultando em um dividend yield de 1,46%. O último pagamento foi de US$ 0,1970 em 21/09/2026. É possível acompanhar a data de pagamento e a quantidade de cotas na sua carteira usando o recurso de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "Qual a diferença entre XLF e SPY?",
+      "answer": "O XLF foca apenas no setor financeiro do S&P 500, enquanto o [SPY](/etfs/spy) replica o índice S&P 500 completo, que inclui todos os 11 setores da classificação GICS. O XLF é mais concentrado e exposto a riscos específicos do setor financeiro, como mudanças nas taxas de juros e qualidade de crédito, enquanto o SPY oferece diversificação setorial mais ampla."
+    },
+    {
+      "question": "Como investir no XLF do Brasil?",
+      "answer": "O investidor brasileiro pode comprar XLF por meio de uma corretora que ofereça acesso ao mercado americano ou de uma corretora brasileira com oferta de ativos internacionais. O investimento é em dólar, o que expõe o investidor ao risco cambial. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam índices similares, mas o XLF é negociado diretamente nos EUA."
+    },
+    {
+      "question": "XLF é um ETF alavancado?",
+      "answer": "Não, o XLF não é um ETF alavancado ou inverso. Ele replica o desempenho do setor financeiro do S&P 500 sem multiplicadores de retorno diário. Diferente de ativos como [SOXL](/etfs/soxl) ou [TQQQ](/etfs/tqqq), o XLF não sofre distorções matemáticas em períodos longos, o que o torna mais adequado para investimentos de médio e longo prazo."
+    },
+    {
+      "question": "Qual o risco do XLF?",
+      "answer": "O XLF está exposto ao risco setorial do setor financeiro, que é sensível a mudanças nas taxas de juros, à qualidade da carteira de crédito e à regulação. A volatilidade anualizada é de 14,49% (nível baixo), e a maior queda em 5 anos foi de -25,81% entre 12/01/2022 e 12/10/2022. O beta de 0,58 indica menor sensibilidade ao S&P 500. O risco cambial também é relevante para investidores brasileiros."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do XLF lado a lado com o S&P 500 no mesmo gráfico, para entender como o setor financeiro se comportou em relação ao mercado americano."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina notificações quando a cota do XLF atinge um valor específico, útil para monitorar oscilações de um ativo com volatilidade de 14,49%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a alocação do XLF junto a outros ativos da sua carteira, como SPY ou XLK, para avaliar a diversificação setorial."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do XLF e o preço médio de compra, com gráfico de variação ao longo do tempo, para entender o custo da sua posição."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500 completo, útil para comparar a performance do setor financeiro (XLF) com o mercado americano como um todo."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF do setor de tecnologia do S&P 500, um dos setores mais voláteis, para contrastar com a estabilidade do setor financeiro."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF do setor de energia do S&P 500, outro setor cíclico, para avaliar exposição a diferentes ciclos econômicos."
+      },
+      {
+        "ticker": "XLV",
+        "list": "us-etfs",
+        "reason": "ETF do setor de saúde do S&P 500, conhecido por menor volatilidade, para comparar com o perfil do XLF."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLF",
+      "url": "https://finance.yahoo.com/quote/XLF/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Financial services (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Financial_services",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

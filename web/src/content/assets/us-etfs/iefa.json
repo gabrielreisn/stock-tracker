@@ -1,0 +1,270 @@
+{
+  "ticker": "IEFA",
+  "slug": "iefa",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IEFA: história, dividendos e volatilidade",
+    "description": "Conheça o IEFA, o iShares Core MSCI EAFE ETF. Veja desempenho, dividendos, riscos e como investir no índice de ações internacionais desenvolvido fora dos",
+    "h1": "IEFA: iShares Core MSCI EAFE ETF",
+    "canonicalPath": "/etfs/iefa",
+    "keywords": [
+      "IEFA",
+      "iShares Core MSCI EAFE ETF",
+      "ETF internacional",
+      "MSCI EAFE",
+      "ações desenvolvidas",
+      "dividend yield IEFA",
+      "volatilidade IEFA"
+    ]
+  },
+  "summary": "IEFA é o iShares Core MSCI EAFE ETF, um fundo de índice que replica o MSCI EAFE, medindo o desempenho de mercados desenvolvidos fora dos EUA e do Canadá. Lançado em 24/10/2012, o ativo reúne cerca de 700 empresas de 21 países. Em 30/10/2026, a cota valia US$ 96,31, com rentabilidade total de 12,99% nos últimos 12 meses e dividend yield de 3,42%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Core MSCI EAFE ETF",
+    "ticker": "BATS IEFA",
+    "foundingDate": "2012-10-24",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice internacional",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "MSCI EAFE",
+    "name": "iShares Core MSCI EAFE ETF",
+    "founded": "24/10/2012"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Core MSCI EAFE ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "24/10/2012",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 96,31",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,79% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,98",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,42%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 844,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IEFA",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Core MSCI EAFE ETF",
+    "currency": "USD",
+    "price": 96.31,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1299,
+      "3y": 0.714,
+      "5y": 0.4689,
+      "10y": 1.4184
+    },
+    "volatility1y": 0.1579,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3002,
+      "from": "2021-11-08",
+      "to": "2022-09-27"
+    },
+    "beta1y": {
+      "value": 0.98,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.289,
+      "payments12Months": 2,
+      "yield12Months": 0.0342,
+      "lastPayment": {
+        "date": "2026-06-15",
+        "amount": 1.578
+      }
+    },
+    "avgDailyTradedValue3m": 844167361
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do IEFA nos últimos 12 meses foi de 15,79%, um nível considerado moderado para um ETF de ações internacionais. O beta de 0,98 contra o S&P 500 mostra que, historicamente, o ativo tem se movido em sincronia com o mercado americano, com oscilações de magnitude semelhante. A maior queda registrada nos últimos 5 anos foi de -30,02%, ocorrida entre 08/11/2021 e 27/09/2022. Para acompanhar a variação diária e identificar pontos de entrada ou saída, o investidor pode usar os [alertas de preço](/recursos/alertas-de-preco) do app."
+  },
+  "history": {
+    "overview": "O IEFA faz parte da linha iShares, uma marca de ETFs gerida pela BlackRock. A história da marca remonta a 2000, quando o Barclays Global Investors lançou os primeiros fundos sob o nome iShares, antes de serem adquiridos pela BlackRock em 2009. O próprio índice que o IEFA replica, o MSCI EAFE, tem origem em 31 de dezembro de 1969, sendo considerado o mais antigo índice de ações verdadeiramente internacional. O ETF em si iniciou seu pregão em 24 de outubro de 2012, oferecendo exposição a mercados desenvolvidos como Europa, Austrália e Leste Asiático, excluindo os Estados Unidos e o Canadá. Diferente de outros ETFs da mesma família que focam apenas em grandes empresas, o IEFA utiliza a versão IMI (Investable Market Index) do MSCI EAFE, o que significa que sua carteira abrange quase toda a capitalização de mercado investível de cada país, incluindo empresas de médio e pequeno porte.",
+    "timeline": [
+      {
+        "date": "1969-12-31",
+        "event": "Cálculo inicial do índice MSCI EAFE, o mais antigo índice internacional de ações.",
+        "source": 1
+      },
+      {
+        "date": "2000",
+        "event": "Lançamento dos primeiros fundos da marca iShares pelo Barclays Global Investors.",
+        "source": 2
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma a venda da marca iShares para a CVC Capital Partners.",
+        "source": 2
+      },
+      {
+        "date": "2012-10-24",
+        "event": "Primeiro pregão das cotas do iShares Core MSCI EAFE ETF na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IEFA funciona",
+      "body": "O IEFA é um ETF passivo que replica o índice MSCI EAFE. A gestão é feita pela iShares, braço de ETFs da BlackRock. O fundo não é alavancado nem inverso, o que significa que ele busca acompanhar a variação do índice sem multiplicadores. O lançamento ocorreu em 24/10/2012. Diferente do [EFA](/etfs/efa), que cobre apenas as 85 maiores empresas de cada mercado, o IEFA utiliza a versão IMI do índice, representando quase toda a capitalização de mercado investível dos países incluídos, o que amplia a exposição para empresas de médio e pequeno porte."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IEFA",
+      "body": "O índice MSCI EAFE inclui ações de aproximadamente 700 empresas de 21 mercados desenvolvidos, excluindo os Estados Unidos e o Canadá. A sigla EAFE refere-se a Europa, Austrália e Leste Asiático. A carteira é ponderada por capitalização de mercado. O índice não inclui a África ou a América do Sul. A Grécia foi excluída em 2013 por ser rebaixada a mercado emergente, enquanto Israel entrou em 2010. O IEFA segue a versão IMI do índice, que abrange desde as maiores até as menores empresas de cada país, diferentemente de outros produtos que focam apenas em large caps."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IEFA a partir do Brasil",
+      "body": "Para investir no IEFA a partir do Brasil, o investidor precisa de uma conta em uma corretora que opere no mercado americano, pois o ativo é negociado em dólar. A principal característica de risco cambial é que a rentabilidade em reais dependerá tanto do desempenho do índice MSCI EAFE quanto da variação do câmbio entre o dólar e o real. Alternativas incluem BDRs ou ETFs listados na B3 que sigam o mesmo índice, embora a liquidez e a taxa de administração possam variar. É possível acompanhar a posição e a variação cambial usando a [carteira consolidada](/recursos/carteira-consolidada) do app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IEFA",
+      "body": "Até 30/10/2026, o IEFA apresentou rentabilidade total de 12,99% nos últimos 12 meses, 71,40% em 3 anos, 46,89% em 5 anos e 141,84% em 10 anos. O ativo distribuiu US$ 3,2890 por cota em 12 meses, resultando em um dividend yield de 3,42%. Para comparar esses resultados com o mercado americano, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) do app, que posiciona o desempenho do IEFA ao lado do S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IEFA",
+      "body": "O principal risco do IEFA é a exposição a mercados internacionais desenvolvidos, sujeitos a crises regionais, mudanças regulatórias e flutuações cambiais. A volatilidade anualizada do ativo nos últimos 12 meses foi de 15,79%, classificada como moderada. O beta de 0,98 em relação ao S&P 500 indica que o IEFA tende a acompanhar os movimentos do mercado americano com intensidade similar. A maior queda nos últimos 5 anos foi de -30,02%, entre 08/11/2021 e 27/09/2022. Para monitorar movimentos bruscos, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o IEFA?",
+      "answer": "O IEFA é o iShares Core MSCI EAFE ETF, um fundo que replica o índice MSCI EAFE. Ele investe em ações de mercados desenvolvidos fora dos EUA e do Canadá, incluindo Europa, Austrália e Leste Asiático. O fundo foi lançado em 24/10/2012 e é gerido pela BlackRock."
+    },
+    {
+      "question": "Qual a diferença entre IEFA e EFA?",
+      "answer": "A principal diferença está na cobertura do índice. Enquanto o EFA cobre as 85 maiores empresas de cada mercado (large caps), o IEFA utiliza a versão IMI do MSCI EAFE, que inclui quase toda a capitalização de mercado investível, abrangendo também empresas de médio e pequeno porte."
+    },
+    {
+      "question": "O IEFA paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, o IEFA distribuiu US$ 3,2890 por cota, o que representa um dividend yield de 3,42%. O último pagamento registrado foi de US$ 1,5780 em 15/06/2026. É possível acompanhar esses proventos na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Como o IEFA se comporta em relação ao S&P 500?",
+      "answer": "O beta do IEFA em relação ao S&P 500 é de 0,98, o que indica que o ativo tende a acompanhar os movimentos do índice americano com intensidade similar. A volatilidade anualizada de 15,79% reflete a exposição a mercados internacionais. A [comparação com índices](/recursos/comparacao-com-indices) permite visualizar essa relação no app."
+    },
+    {
+      "question": "Quais os principais riscos do IEFA?",
+      "answer": "Os riscos incluem a exposição a mercados desenvolvidos fora dos EUA, flutuações cambiais (já que o ativo é em dólar) e a volatilidade do mercado acionário internacional. A maior queda em 5 anos foi de -30,02%. O investidor pode usar o [assistente de IA](/recursos/assistente-de-ia) para entender como o ativo impacta sua carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do IEFA junto com outros ativos internacionais e a variação cambial na sua carteira."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IEFA com o S&P 500 e outros benchmarks no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do IEFA atingir um valor específico que você definir."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade da sua posição em IEFA e o preço médio de compra ao longo do tempo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EFA",
+        "list": "us-etfs",
+        "reason": "ETF similar da mesma gestora, mas focado apenas em large caps do MSCI EAFE."
+      },
+      {
+        "ticker": "VEA",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard que segue o FTSE Developed Markets, um índice similar ao MSCI EAFE."
+      },
+      {
+        "ticker": "VXUS",
+        "list": "us-etfs",
+        "reason": "ETF global que inclui mercados desenvolvidos e emergentes, oferecendo diversificação mais ampla."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, usado como benchmark para comparar a exposição internacional do IEFA."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IEFA",
+      "url": "https://finance.yahoo.com/quote/IEFA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI EAFE (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/MSCI_EAFE",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

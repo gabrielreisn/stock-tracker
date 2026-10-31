@@ -1,0 +1,329 @@
+{
+  "ticker": "VERZ34",
+  "slug": "verz34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VERZ34: BDR da Verizon, dividendos e volatilidade",
+    "description": "VERZ34 é o BDR da Verizon Communications, empresa de telecomunicações dos EUA. Veja dividendos, rentabilidade, riscos e como o câmbio afeta o BDR na B3.",
+    "h1": "VERZ34: BDR da Verizon Communications na B3",
+    "canonicalPath": "/bdrs/verz34",
+    "keywords": [
+      "VERZ34",
+      "BDR Verizon",
+      "Verizon B3",
+      "dividendos VERZ34",
+      "rentabilidade VERZ34",
+      "volatilidade VERZ34",
+      "BDR telecomunicações",
+      "VZ BDR"
+    ]
+  },
+  "summary": "VERZ34 é o BDR não patrocinado (nível I) da Verizon Communications Inc., empresa norte-americana de telecomunicações com sede em Nova Iorque. Negociado na B3 desde 31/10/2011, o recibo representa ações da Verizon, listada na NASDAQ sob o ticker VZ. Com 146,8 milhões de assinantes móveis em 31/03/2026, a Verizon é a segunda maior operadora de telecomunicações do mundo por receita. O BDR rendeu 21,89% nos 12 meses até 30/10/2026, com dividend yield de 4,12%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Verizon Communications",
+    "legalName": "VERIZON COMMUNICATIONS INC.",
+    "ticker": "BVMF VERZ34",
+    "foundingDate": "1983-10-07",
+    "website": "https://www.verizon.net",
+    "wikidata": "Q467752",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q467752",
+      "https://en.wikipedia.org/wiki/Verizon",
+      "https://pt.wikipedia.org/wiki/Verizon_Communications",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50423/VERZ/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Verizon Communications",
+    "legalName": "VERIZON COMMUNICATIONS INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "07/10/1983",
+    "listedSince": "31/10/2011",
+    "headquarters": "Nova Iorque",
+    "website": "https://www.verizon.net"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "VERIZON COMMUNICATIONS INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: VZ, Bolsa de Valores de Nova Iorque: VZ",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Nova Iorque",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "07/10/1983",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "31/10/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 40,64",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "35,83% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original VZ em dólares)",
+      "value": "-0,46",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,12%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,2 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VERZ34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Verizon Communications Inc.",
+    "currency": "BRL",
+    "price": 40.64,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2189,
+      "3y": 0.6051,
+      "5y": 0.0446,
+      "10y": 1.5502
+    },
+    "volatility1y": 0.3583,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4608,
+      "from": "2022-01-05",
+      "to": "2023-07-17"
+    },
+    "beta1y": {
+      "value": -0.46,
+      "against": "S&P 500, ação original VZ em dólares"
+    },
+    "dividends": {
+      "last12Months": 1.6724,
+      "payments12Months": 4,
+      "yield12Months": 0.0412,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.420789
+      }
+    },
+    "avgDailyTradedValue3m": 1172166
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do VERZ34 nos últimos 12 meses é de 35,83%, classificada como alta, o que indica oscilações significativas no preço do BDR. A maior queda em 5 anos foi de -46,08%, do pico em 05/01/2022 ao ponto mais baixo em 17/07/2023, refletindo a sensibilidade do ativo a mudanças no mercado de telecomunicações e no câmbio. O beta da ação original VZ contra o S&P 500 é de -0,46, o que significa que a ação tende a se mover na direção oposta ao índice, com movimentos menores que os do S&P 500. Esse beta é da ação original em dólares, e o BDR em reais também sofre o efeito do câmbio, o que pode amplificar ou reduzir os movimentos. Para acompanhar a volatilidade e configurar alertas de preço, é possível usar os alertas de preço no app, que notificam quando o ativo atinge um valor definido."
+  },
+  "history": {
+    "overview": "A Verizon Communications Inc. tem origem na Bell Atlantic Corporation, criada em 1983 após o desmembramento do Sistema Bell nos Estados Unidos. Inicialmente sediada na Filadélfia, a empresa expandiu sua operação para Nova Iorque e os estados da Nova Inglaterra ao se fundir com a NYNEX em 1997. Em 30 de junho de 2000, a Bell Atlantic passou a se chamar Verizon Communications após a fusão com a GTE, consolidando-se como a maior companhia telefônica local dos EUA na época, com 63 milhões de linhas em 40 estados e 25 milhões de clientes móveis. A empresa também formou a Verizon Wireless em 2000, em joint venture com a britânica Vodafone, criando uma operadora móvel com 23 milhões de clientes e cobertura nacional. Entre 2003 e 2010, a Verizon focou no crescimento das áreas móvel, internet e TV, vendendo ativos de telefonia fixa e internacional, e lançou o serviço de internet por fibra óptica Fios em 2004. Em 2026, a Verizon é uma das três empresas remanescentes com origem nas antigas Baby Bells, ao lado da AT&T e da Lumen Technologies. O BDR VERZ34 foi listado na B3 em 31/10/2011, permitindo a investidores brasileiros acompanhar a empresa em reais.",
+    "timeline": [
+      {
+        "date": "1983-10-07",
+        "event": "Fundação da Bell Atlantic Corporation, após o desmembramento do Sistema Bell nos Estados Unidos.",
+        "source": 2
+      },
+      {
+        "date": "1997",
+        "event": "Fusão da Bell Atlantic com a NYNEX, transferindo a sede para Nova Iorque e consolidando operações sob o nome Bell Atlantic.",
+        "source": 3
+      },
+      {
+        "date": "2000-06-30",
+        "event": "A Bell Atlantic passa a se chamar Verizon Communications após a fusão com a GTE, aprovada pela FCC.",
+        "source": 4
+      },
+      {
+        "date": "2004",
+        "event": "Lançamento do serviço de internet por fibra óptica Fios em Keller, Texas, e inclusão da Verizon no índice Dow Jones Industrial Average.",
+        "source": 3
+      },
+      {
+        "date": "2011-10-31",
+        "event": "Listagem do BDR VERZ34 na B3, permitindo a negociação da ação da Verizon em reais no Brasil.",
+        "source": 1
+      },
+      {
+        "date": "2015",
+        "event": "Aquisição da AOL pela Verizon, expandindo a presença da empresa no setor de conteúdo digital.",
+        "source": 3
+      },
+      {
+        "date": "2019-01",
+        "event": "A divisão Oath Inc. é renomeada para Verizon Media, reunindo os ativos de conteúdo digital da empresa.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Verizon Communications ganha dinheiro",
+      "body": "A Verizon Communications Inc. é uma empresa norte-americana de telecomunicações com sede em Nova Iorque, sendo a segunda maior do mundo por receita. Sua rede móvel é a maior operadora sem fio dos Estados Unidos, com 146,8 milhões de assinantes em 31/03/2026. A empresa atua em serviços de telefonia móvel, internet por fibra óptica (Fios) e TV, além de ter passado por aquisições no setor de conteúdo digital, como a AOL e a Yahoo!, que foram posteriormente vendidas. A Verizon é uma das três empresas remanescentes com origem nas antigas Baby Bells, ao lado da AT&T e da Lumen Technologies."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR VERZ34",
+      "body": "O VERZ34 é um BDR não patrocinado (nível I) da Verizon Communications Inc., negociado na B3 em reais. O BDR é um recibo lastreado em ações da empresa no exterior, emitido por uma instituição depositária, e seu preço acompanha a ação original e a variação do câmbio. A ação original da Verizon é listada na NASDAQ e na Bolsa de Valores de Nova Iorque sob o ticker VZ. O BDR foi listado na B3 em 31/10/2011, permitindo que investidores brasileiros acompanhem a empresa sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "id": "proventos",
+      "heading": "VERZ34 paga dividendos?",
+      "body": "A Verizon paga dividendos regularmente, e o BDR VERZ34 reflete esses proventos em reais. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 1,6724 por unidade em 4 pagamentos, com dividend yield de 4,12%. O último pagamento foi de R$ 0,4208 em 08/10/2026. Os dividendos são pagos pela empresa em dólares, e o valor em reais depende da cotação do câmbio na data do pagamento. É possível acompanhar os dividendos e JCP no app, com datas de pagamento e valores multiplicados pela quantidade de BDRs na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VERZ34",
+      "body": "O VERZ34 rendeu 21,89% nos 12 meses até 30/10/2026, 60,51% em 3 anos, 4,46% em 5 anos e 155,02% em 10 anos, sempre em reais e com proventos. Essas rentabilidades incluem a variação do câmbio entre o dólar e o real, o que impacta o retorno do BDR. Para comparar o desempenho do VERZ34 com índices como o S&P 500 e o CDI, é possível usar a comparação com índices no app, que mostra a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VERZ34",
+      "body": "O VERZ34 está sujeito a riscos cambiais, pois o preço do BDR em reais depende da cotação do dólar e da variação da ação original VZ em dólares. A volatilidade anualizada do BDR nos últimos 12 meses é de 35,83%, classificada como alta, e a maior queda em 5 anos foi de -46,08%, do pico em 05/01/2022 ao ponto mais baixo em 17/07/2023. O beta da ação original VZ contra o S&P 500 é de -0,46, indicando que a ação tende a se mover na direção oposta ao índice, com movimentos menores. A liquidez do BDR na B3 é moderada, com volume médio de R$ 1,2 milhão por dia nos últimos 3 meses, o que pode afetar a execução de ordens em grandes volumes. É possível configurar alertas de preço no app para acompanhar movimentos significativos do BDR."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar VERZ34 no app",
+      "body": "Para quem tem VERZ34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o VERZ34 junto com outros ativos da carteira, com valor por classe e alocação, para entender a diversificação da exposição a BDRs e ações americanas.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade do VERZ34 e o preço médio da posição, com gráficos que permitem medir períodos e ver a variação do dia e do ano.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do VERZ34 com o S&P 500 e o CDI, no mesmo gráfico, para entender o desempenho do BDR em relação a benchmarks relevantes.\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações para quando o VERZ34 atingir um preço definido, ajudando a acompanhar movimentos significativos do BDR sem precisar monitorar o mercado o tempo todo.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a posição em VERZ34 na carteira, e o assistente responde com base nos seus próprios dados, mostrando o que foi consultado."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VERZ34 paga dividendos?",
+      "answer": "Sim, o VERZ34 paga dividendos. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 1,6724 por unidade em 4 pagamentos, com dividend yield de 4,12%. O último pagamento foi de R$ 0,4208 em 08/10/2026. Os dividendos são pagos pela Verizon em dólares, e o valor em reais depende da cotação do câmbio na data do pagamento. É possível acompanhar os dividendos e JCP no app, com datas de pagamento e valores multiplicados pela quantidade de BDRs na carteira."
+    },
+    {
+      "question": "O que é o BDR VERZ34?",
+      "answer": "O VERZ34 é um BDR não patrocinado (nível I) da Verizon Communications Inc., negociado na B3 em reais. O BDR é um recibo lastreado em ações da empresa no exterior, emitido por uma instituição depositária, e seu preço acompanha a ação original e a variação do câmbio. A ação original da Verizon é listada na NASDAQ e na Bolsa de Valores de Nova Iorque sob o ticker VZ. O BDR foi listado na B3 em 31/10/2011, permitindo que investidores brasileiros acompanhem a empresa sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "question": "Qual a diferença entre VERZ34 e a ação VZ?",
+      "answer": "O VERZ34 é o BDR da Verizon Communications Inc., negociado na B3 em reais, enquanto a ação VZ é a ação original da empresa, listada na NASDAQ e na Bolsa de Valores de Nova Iorque em dólares. O preço do VERZ34 acompanha a ação VZ e a variação do câmbio entre o dólar e o real. O BDR permite que investidores brasileiros acompanhem a Verizon sem a necessidade de abrir conta no exterior, mas está sujeito a riscos cambiais."
+    },
+    {
+      "question": "Qual a rentabilidade do VERZ34 nos últimos 12 meses?",
+      "answer": "O VERZ34 rendeu 21,89% nos 12 meses até 30/10/2026, em reais e com proventos. Essa rentabilidade inclui a variação do câmbio entre o dólar e o real, o que impacta o retorno do BDR. Para comparar o desempenho do VERZ34 com índices como o S&P 500 e o CDI, é possível usar a comparação com índices no app, que mostra a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "question": "O VERZ34 é volátil?",
+      "answer": "Sim, a volatilidade anualizada do VERZ34 nos últimos 12 meses é de 35,83%, classificada como alta. A maior queda em 5 anos foi de -46,08%, do pico em 05/01/2022 ao ponto mais baixo em 17/07/2023. O beta da ação original VZ contra o S&P 500 é de -0,46, indicando que a ação tende a se mover na direção oposta ao índice, com movimentos menores. É possível configurar alertas de preço no app para acompanhar movimentos significativos do BDR."
+    },
+    {
+      "question": "Como o câmbio afeta o VERZ34?",
+      "answer": "O preço do VERZ34 em reais depende da cotação do dólar e da variação da ação original VZ em dólares. Quando o dólar se valoriza em relação ao real, o BDR tende a subir, e quando o dólar se desvaloriza, o BDR tende a cair. Essa exposição cambial é um dos principais riscos do BDR, além dos riscos relacionados ao desempenho da Verizon e ao mercado de telecomunicações. É possível acompanhar a variação do câmbio e seu impacto no BDR usando a comparação com índices no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VERZ34 junto com outros ativos da carteira, com valor por classe e alocação, para entender a diversificação da exposição a BDRs e ações americanas."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do VERZ34 e o preço médio da posição, com gráficos que permitem medir períodos e ver a variação do dia e do ano."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do VERZ34 com o S&P 500 e o CDI, no mesmo gráfico, para entender o desempenho do BDR em relação a benchmarks relevantes."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o VERZ34 atingir um preço definido, ajudando a acompanhar movimentos significativos do BDR sem precisar monitorar o mercado o tempo todo."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a posição em VERZ34 na carteira, e o assistente responde com base nos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa americana de tecnologia, com exposição ao câmbio e ao mercado de tecnologia nos EUA."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de empresa americana de tecnologia, com perfil de investimento semelhante ao VERZ34, sujeito a riscos cambiais e de mercado."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar o desempenho do VERZ34 com o mercado americano de forma mais ampla."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR de empresa americana de tecnologia, com exposição ao câmbio e ao mercado de tecnologia nos EUA, semelhante ao VERZ34."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR de empresa americana de tecnologia, com perfil de investimento semelhante ao VERZ34, sujeito a riscos cambiais e de mercado."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VERZ34",
+      "url": "https://finance.yahoo.com/quote/VERZ34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: VERIZON, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50423/VERZ/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Verizon Communications",
+      "url": "https://www.wikidata.org/wiki/Q467752",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Verizon",
+      "url": "https://en.wikipedia.org/wiki/Verizon",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Verizon Communications",
+      "url": "https://pt.wikipedia.org/wiki/Verizon_Communications",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

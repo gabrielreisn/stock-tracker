@@ -1,0 +1,341 @@
+{
+  "ticker": "JSAF11",
+  "slug": "jsaf11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "JSAF11: história, rendimentos e volatilidade",
+    "description": "JSAF11 é FII multicategoria do Banco J. Safra, com patrimônio de R$ 691,2 milhões em 09/2026. Veja rendimentos, estratégia e desempenho do fundo.",
+    "h1": "JSAF11: JS Ativos Financeiros FII",
+    "canonicalPath": "/fiis/jsaf11",
+    "keywords": [
+      "JSAF11",
+      "JS Ativos Financeiros FII",
+      "FII Safra",
+      "JSAF11 dividend yield",
+      "JSAF11 patrimônio",
+      "FII multicategoria",
+      "JSAF11 vs IFIX",
+      "JSAF11 volatilidade"
+    ]
+  },
+  "summary": "JSAF11 é a cota do JS Ativos Financeiros Fundo de Investimento Imobiliário, administrado pelo Banco J. Safra S.A. e gerido pela Safra Asset. O fundo opera no segmento multicategoria com gestão ativa, investindo em cotas de outros FIIs, CRIs e ativos de liquidez. Em 09/2026, o patrimônio líquido era de R$ 691,2 milhões, com valor patrimonial da cota de R$ 8,92. Nos 12 meses até 29/10/2026, a rentabilidade total com proventos foi de 5,91%, com dividend yield de 14,23%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Js Ativos Financeiros Fundo de Investimento Imobiliário",
+    "legalName": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF JSAF11",
+    "isin": "BRJSAFCTF000",
+    "taxId": "42.085.661/0001-07",
+    "foundingDate": "2021-10-27",
+    "provider": {
+      "name": "BANCO J SAFRA S.A",
+      "url": "https://www.safra.com.br/safra-asset/fundo-imobiliario/jsaf11.htm"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=42085661000107"
+    ]
+  },
+  "profile": {
+    "type": "FII de renda fixa e fundos (híbrido)",
+    "issuerOrManager": "Safra Asset (Administrador: Banco J",
+    "name": "Js Ativos Financeiros Fundo de Investimento Imobiliário",
+    "legalName": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "27/10/2021",
+    "administrator": "BANCO J SAFRA S.A",
+    "website": "https://www.safra.com.br/safra-asset/fundo-imobiliario/jsaf11.htm"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "42.085.661/0001-07",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BANCO J SAFRA S.A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "27/10/2021",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 691,2 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "25.767",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 8,92",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 6,78",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "19,03% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,48",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,23%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,0 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "JSAF11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Js Ativos Financeiros Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 6.78,
+    "historyStarts": "2022-02-14",
+    "returns": {
+      "1y": 0.0591,
+      "3y": 0.0048,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1903,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3538,
+      "from": "2024-05-29",
+      "to": "2025-01-24"
+    },
+    "beta1y": {
+      "value": 0.48,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.965,
+      "payments12Months": 12,
+      "yield12Months": 0.1423,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.08
+      }
+    },
+    "avgDailyTradedValue3m": 1989446
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do JSAF11 nos 12 meses até 29/10/2026 foi de 19,03%, classificada como moderada 0. O beta contra o Ibovespa foi de 0,48, o que significa que, em média, o ativo acompanha os movimentos do índice com amplitude menor, na mesma direção 0. A maior queda em 5 anos foi de -35,38%, entre 29/05/2024 e 24/01/2025 0. Para FIIs de renda fixa e fundos, essa volatilidade é compatível com a exposição a CRIs e cotas de outros FIIs, que podem ter maior sensibilidade a juros e crédito. Use [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações e definir pontos de acompanhamento."
+  },
+  "history": {
+    "overview": "O JS Ativos Financeiros Fundo de Investimento Imobiliário (JSAF11) iniciou suas atividades em 27/10/2021, com a primeira oferta pública de cotas encerrada em 29/10/2021 [1, 2]. A estratégia do fundo é de gestão ativa no segmento multicategoria, buscando retornos superiores ao benchmark IPCA + IMA-B 3. Em 2023 e 2024, o fundo realizou novas ofertas públicas de cotas para ampliar seu patrimônio 2. A carteira é diversificada entre cotas de outros FIIs (como logística e lajes corporativas), CRIs e ativos de liquidez, com a gestão realizando ajustes táticos, como a saída parcial de posições em fundos de high yield para capturar valorização 3. Em 09/2026, o fundo contava com 25.767 cotistas e patrimônio líquido de R$ 691,2 milhões 1.",
+    "timeline": [
+      {
+        "date": "2021-10-21",
+        "event": "Início da primeira oferta pública de cotas do JSAF11",
+        "source": 2
+      },
+      {
+        "date": "2021-10-27",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2021-10-29",
+        "event": "Encerramento da primeira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2023-10-20",
+        "event": "Início da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2023-12-11",
+        "event": "Encerramento da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2024-03-19",
+        "event": "Início da terceira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2024-05-15",
+        "event": "Encerramento da terceira oferta pública de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do JSAF11",
+      "body": "O JSAF11 é um Fundo de Investimento Imobiliário (FII) de segmento multicategoria, com gestão ativa, administrado pelo Banco J. Safra S.A. e gerido pela Safra Asset [1, 3]. O objetivo do fundo é superar o benchmark IPCA + IMA-B, com taxa de gestão de 1% a.a. sobre o valor de mercado e taxa de performance de 20% sobre o excedente 3. Em 30/09/2026, a carteira estava alocada em 73% em cotas de outros FIIs, 21% em ativos de liquidez, 4% em CRIs e 2% em outros ativos 3. A gestão mantém posições em fundos de logística, lajes corporativas e renda urbana, além de realizar ajustes táticos, como a saída parcial de posições em fundos de high yield ([KNHY11](/fiis/knhy11)) para capturar valorização 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do JSAF11",
+      "body": "Nos 12 meses até 29/10/2026, o JSAF11 distribuiu R$ 0,9650 por cota em 12 pagamentos, resultando em dividend yield de 14,23% 0. O último pagamento foi de R$ 0,0800 em 01/10/2026 0. O relatório gerencial de setembro/2026 indica que os rendimentos são isentos de Imposto de Renda para pessoas físicas qualificadas 3. O fundo projeta distribuições mensais de R$ 0,080 a R$ 0,10 por cota nos meses seguintes, com base em premissas da gestão 3. Acompanhe os pagamentos e datas de recebimento no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O JSAF11 realizou três ofertas públicas de cotas desde sua criação, encerradas em 29/10/2021, 11/12/2023 e 15/05/2024 2. Em 09/2026, o fundo tinha 77.523.290 cotas emitidas, patrimônio líquido de R$ 691,2 milhões e valor patrimonial da cota de R$ 8,92 1. O número de cotistas era de 25.767 1. A taxa de administração no mês de 09/2026 foi de 0,129% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do JSAF11",
+      "body": "Nos 12 meses até 29/10/2026, a rentabilidade total com proventos do JSAF11 foi de 5,91% 0. No acumulado de 3 anos, o retorno foi de 0,48% 0. Em setembro/2026, o fundo teve retorno de +1,70% (valor de mercado + rendimentos), superando o IFIX, que recuou -0,20% no mês 3. No acumulado do ano, o retorno patrimonial foi de 4,13%, contra -0,53% do IFIX 3. Compare a performance do JSAF11 com o IFIX, CDI e outros índices no recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do JSAF11",
+      "body": "O JSAF11 é um FII de segmento multicategoria, com exposição a riscos de crédito (CRIs), vacância (lajes corporativas, shoppings) e juros (ativos de liquidez e CRIs indexados) 3. A volatilidade anualizada nos 12 meses até 29/10/2026 foi de 19,03%, nível moderado 0. O beta contra o Ibovespa foi de 0,48, indicando que o ativo costuma acompanhar os movimentos do índice com amplitude menor 0. A maior queda em 5 anos foi de -35,38%, do pico em 29/05/2024 ao ponto mais baixo em 24/01/2025 0. A gestão tática de posições, como a saída de fundos de high yield, pode gerar ganhos de capital, mas também expõe o fundo a riscos de mercado 3."
+    }
+  ],
+  "faq": [
+    {
+      "question": "JSAF11 paga dividendos?",
+      "answer": "Sim, o JSAF11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram R$ 0,9650 por cota, com dividend yield de 14,23% 0. O último pagamento foi de R$ 0,0800 em 01/10/2026 0. Os rendimentos são isentos de Imposto de Renda para pessoas físicas qualificadas, conforme o relatório gerencial de setembro/2026 3."
+    },
+    {
+      "question": "JSAF11 é FII de papel ou de tijolo?",
+      "answer": "O JSAF11 é um FII de segmento multicategoria, com carteira diversificada entre cotas de outros FIIs (73%), ativos de liquidez (21%), CRIs (4%) e outros ativos (2%) em 30/09/2026 3. Ele não é exclusivamente de papel ou de tijolo, mas combina estratégias de renda fixa (CRIs) e renda variável (cotas de FIIs de logística, lajes, shoppings) 3."
+    },
+    {
+      "question": "Qual a taxa de administração do JSAF11?",
+      "answer": "A taxa de gestão do JSAF11 é de 1% a.a. sobre o valor de mercado, com taxa de performance de 20% sobre o excedente ao benchmark IPCA + IMA-B 3. Em 09/2026, a taxa de administração mensal foi de 0,129% sobre o patrimônio 1."
+    },
+    {
+      "question": "Qual o patrimônio do JSAF11?",
+      "answer": "Em 09/2026, o patrimônio líquido do JSAF11 era de R$ 691,2 milhões, com 77.523.290 cotas emitidas e valor patrimonial da cota de R$ 8,92 1. O número de cotistas era de 25.767 1."
+    },
+    {
+      "question": "JSAF11 supera o IFIX?",
+      "answer": "Em setembro/2026, o JSAF11 teve retorno de +1,70% (valor de mercado + rendimentos), superando o IFIX, que recuou -0,20% 3. No acumulado do ano, o retorno patrimonial foi de 4,13%, contra -0,53% do IFIX 3. Nos 12 meses até 29/10/2026, a rentabilidade total com proventos foi de 5,91% 0."
+    },
+    {
+      "question": "JSAF11 tem risco de crédito?",
+      "answer": "Sim, o JSAF11 tem exposição a CRIs (4% da carteira em 30/09/2026), que envolvem risco de crédito 3. A carteira também inclui cotas de FIIs de logística, lajes corporativas e shoppings, que podem ter riscos de vacância e juros 3. A gestão realiza ajustes táticos, como a saída de posições em fundos de high yield, para gerenciar riscos 3."
+    },
+    {
+      "question": "Como acompanhar o JSAF11 no app?",
+      "answer": "Você pode usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre sua posição em JSAF11, com respostas baseadas nos seus próprios dados. O recurso de [carteira consolidada](/recursos/carteira-consolidada) mostra a alocação do JSAF11 junto com outros ativos, e o recurso de [proventos](/recursos/proventos) lista os pagamentos de rendimentos com datas de pagamento."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do JSAF11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do JSAF11 com o IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do JSAF11 chegar a um preço que você escolher."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do JSAF11 junto com outras posições de FIIs, ações e renda fixa."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre sua posição em JSAF11, com respostas baseadas nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Fundo de high yield CRI, posição que o JSAF11 reduziu em setembro/2026 [3]."
+      },
+      {
+        "ticker": "RCRB11",
+        "list": "fiis",
+        "reason": "FII de renda corporativa, similar ao segmento de lajes corporativas na carteira do JSAF11 [3]."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística, segmento que o JSAF11 tem na carteira [3]."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings, segmento que o JSAF11 tem na carteira [3]."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de renda fixa, similar à estratégia de CRIs do JSAF11 [3]."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de JSAF11",
+      "url": "https://finance.yahoo.com/quote/JSAF11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do JS ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo JSAF11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=42085661000107",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do JSAF11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1355750",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

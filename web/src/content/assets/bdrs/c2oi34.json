@@ -1,0 +1,284 @@
+{
+  "ticker": "C2OI34",
+  "slug": "c2oi34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "C2OI34: BDR da Coinbase, desempenho e riscos",
+    "description": "Conheça o BDR C2OI34 da Coinbase Global Inc., com desempenho, volatilidade e riscos. Veja como acompanhar o ativo no app.",
+    "h1": "C2OI34: BDR da Coinbase Global Inc.",
+    "canonicalPath": "/bdrs/c2oi34",
+    "keywords": [
+      "C2OI34",
+      "Coinbase BDR",
+      "BDR criptomoedas",
+      "COIN B3",
+      "investir em criptomoedas"
+    ]
+  },
+  "summary": "C2OI34 é o BDR não patrocinado de nível I da Coinbase Global Inc., empresa americana que opera a maior corretora de criptomoedas dos Estados Unidos. Negociado na B3 desde 23/07/2021, o ativo reflete a cotação da ação original COIN na NASDAQ e a variação do câmbio. Em 29/10/2026, o preço era de R$ 34,13, com rentabilidade de -54,70% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Coinbase",
+    "legalName": "COINBASE GLOBAL INC",
+    "ticker": "BVMF C2OI34",
+    "foundingDate": "2012-06-20",
+    "website": "https://www.coinbase.com",
+    "wikidata": "Q16972754",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q16972754",
+      "https://en.wikipedia.org/wiki/Coinbase",
+      "https://pt.wikipedia.org/wiki/Coinbase",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57444/C2OI/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Coinbase",
+    "legalName": "COINBASE GLOBAL INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "20/06/2012",
+    "listedSince": "23/07/2021",
+    "headquarters": "São Francisco",
+    "website": "https://www.coinbase.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "COINBASE GLOBAL INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: COIN",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Francisco",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "20/06/2012",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "23/07/2021",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 34,13",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "69,43% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original COIN em dólares)",
+      "value": "3,01",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 6,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "C2OI34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Coinbase Global, Inc.",
+    "currency": "BRL",
+    "price": 34.13,
+    "historyStarts": "2021-08-24",
+    "returns": {
+      "1y": -0.547,
+      "3y": 1.3108,
+      "5y": -0.526,
+      "10y": null
+    },
+    "volatility1y": 0.6943,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9122,
+      "from": "2021-11-08",
+      "to": "2022-12-27"
+    },
+    "beta1y": {
+      "value": 3.01,
+      "against": "S&P 500, ação original COIN em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 6200498
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do C2OI34 nos últimos 12 meses foi de 69,43%, um nível muito alto, típico de ativos ligados a criptomoedas. O beta da ação original COIN contra o S&P 500 é de 3,01, indicando que a ação tende a oscilar três vezes mais que o índice de referência. A maior queda em 5 anos foi de -91,22%, entre 08/11/2021 e 27/12/2022. Esses números mostram que o ativo é sensível a movimentos de mercado e a eventos específicos do setor de criptomoedas. Para monitorar oscilações, os [alertas de preço](/recursos/alertas-de-preco) podem ser úteis."
+  },
+  "history": {
+    "overview": "A Coinbase Global Inc. foi fundada em 20/06/2012 por Brian Armstrong e Fred Ehrsam em São Francisco. A empresa iniciou suas operações em outubro de 2012, oferecendo serviços para compra e venda de Bitcoin via transferências bancárias. Ao longo dos anos, expandiu sua oferta para incluir outras criptomoedas como Ethereum e Litecoin, além de serviços institucionais e de custódia. Em 2021, a empresa realizou sua abertura de capital na NASDAQ, tornando-se uma das primeiras empresas focadas em criptomoedas a listar ações publicamente. O BDR C2OI34 passou a ser negociado na B3 em 23/07/2021, permitindo que investidores brasileiros acompanhem o desempenho da empresa sem a necessidade de abrir conta no exterior. A trajetória da empresa reflete a volatilidade do mercado de criptomoedas, com períodos de forte crescimento seguidos de correções acentuadas.",
+    "timeline": [
+      {
+        "date": "2012-06-20",
+        "event": "Fundação da Coinbase por Brian Armstrong e Fred Ehrsam.",
+        "source": 2
+      },
+      {
+        "date": "2013",
+        "event": "Recebimento de investimento de US$ 25 milhões de Andreessen Horowitz, Union Square Ventures e Ribbit Capital.",
+        "source": 3
+      },
+      {
+        "date": "2013-05",
+        "event": "Recebimento de investimento de US$ 5 milhões na Série A liderado pela Union Square Ventures.",
+        "source": 3
+      },
+      {
+        "date": "2014-01",
+        "event": "Incorporação da Coinbase Global, Inc. em Delaware como holding para a Coinbase e suas subsidiárias.",
+        "source": 3
+      },
+      {
+        "date": "2015-01",
+        "event": "Recebimento de investimento de US$ 75 milhões liderado por Draper Fisher Jurvetson e NYSE.",
+        "source": 3
+      },
+      {
+        "date": "2017",
+        "event": "Obtenção da BitLicense do Departamento de Serviços Financeiros do estado de Nova York.",
+        "source": 3
+      },
+      {
+        "date": "2021-07-23",
+        "event": "Listagem do BDR C2OI34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Coinbase ganha dinheiro",
+      "body": "A Coinbase Global Inc. é uma corretora de criptomoedas que intermedia a troca de ativos digitais como Bitcoin, Ethereum e Litecoin por moedas fiduciárias. A empresa opera em mais de 100 países e detém cerca de US$ 516 bilhões em ativos, incluindo uma parcela significativa do Bitcoin e do Ether em circulação, segundo dados de 2024. A receita da empresa provém das taxas de transação cobradas dos usuários, serviços de custódia e produtos voltados a clientes institucionais. A empresa atua como a maior corretora de criptomoedas baseada nos Estados Unidos e o maior custodiante de Bitcoin do mundo, conforme informações de 2024."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR C2OI34",
+      "body": "O C2OI34 é um BDR não patrocinado de nível I, o que significa que é um recibo negociado na B3, em reais, lastreado em ações da Coinbase Global Inc. negociadas na NASDAQ sob o ticker COIN. O preço do BDR acompanha a cotação da ação original em dólares e a variação do câmbio entre o dólar e o real. A listagem na B3 ocorreu em 23/07/2021. Por ser não patrocinado, a empresa não participa diretamente da emissão ou gestão do programa, que é administrado por uma instituição depositária."
+    },
+    {
+      "id": "proventos",
+      "heading": "C2OI34 paga dividendos?",
+      "body": "Não houve pagamento de dividendos ou juros sobre capital próprio (JCP) pelo BDR C2OI34 nos últimos 12 meses até 29/10/2026. A Coinbase Global Inc. não distribui proventos em sua ação original, o que reflete na ausência de rendimentos para os detentores do BDR. O valor investido depende exclusivamente da variação do preço da ação e do câmbio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do C2OI34",
+      "body": "A rentabilidade total do C2OI34, incluindo a variação do câmbio, foi de -54,70% nos 12 meses até 29/10/2026. No período de 3 anos, o ativo rendeu 131,08%, e nos últimos 5 anos, a rentabilidade foi de -52,60%. Esses números refletem a alta volatilidade do mercado de criptomoedas e a oscilação do dólar frente ao real. Para comparar esse desempenho com outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do C2OI34",
+      "body": "O principal risco do C2OI34 é a volatilidade extrema do mercado de criptomoedas, com uma queda máxima de -91,22% entre 08/11/2021 e 27/12/2022. A volatilidade anualizada nos últimos 12 meses foi de 69,43%, classificada como muito alta. Além disso, o BDR está exposto ao risco cambial, pois o preço em reais depende da cotação do dólar. A liquidez do BDR na B3 é moderada, com volume médio de R$ 6,2 milhões por dia nos últimos 3 meses. Investidores devem considerar esses fatores ao avaliar a posição na [carteira consolidada](/recursos/carteira-consolidada)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "C2OI34 paga dividendos?",
+      "answer": "Não, o C2OI34 não pagou dividendos ou JCP nos últimos 12 meses. A Coinbase Global Inc. não distribui proventos, o que significa que o retorno do investimento depende apenas da variação do preço da ação e do câmbio."
+    },
+    {
+      "question": "Qual a diferença entre C2OI34 e a ação COIN?",
+      "answer": "O C2OI34 é um BDR negociado na B3, em reais, que representa a ação COIN da Coinbase Global Inc. negociada na NASDAQ, em dólares. O preço do BDR reflete a cotação da ação original e a variação do câmbio entre o dólar e o real."
+    },
+    {
+      "question": "O C2OI34 é um BDR patrocinado?",
+      "answer": "Não, o C2OI34 é um BDR não patrocinado de nível I. Isso significa que a empresa não participa diretamente da emissão ou gestão do programa, que é administrado por uma instituição depositária."
+    },
+    {
+      "question": "Qual a volatilidade do C2OI34?",
+      "answer": "A volatilidade anualizada do C2OI34 nos últimos 12 meses foi de 69,43%, um nível muito alto. Esse número reflete a sensibilidade do ativo a movimentos do mercado de criptomoedas e a oscilação do câmbio."
+    },
+    {
+      "question": "Como acompanhar o desempenho do C2OI34?",
+      "answer": "O desempenho do C2OI34 pode ser acompanhado no app, que mostra a rentabilidade em reais, incluindo a variação do câmbio. A [comparação com índices](/recursos/comparacao-com-indices) permite ver o desempenho lado a lado com o S&P 500 e o CDI."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do C2OI34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o C2OI34 chegar ao preço que você escolheu, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do C2OI34 junto com outros ativos na sua carteira, com valor por classe e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IBIT",
+        "list": "us-etfs",
+        "reason": "ETF de Bitcoin, relacionado ao setor de criptomoedas."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR de tecnologia, com perfil de alta volatilidade."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "BDR de tecnologia, com exposição a ativos de crescimento."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de C2OI34",
+      "url": "https://finance.yahoo.com/quote/C2OI34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: COINBASEGLOB, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57444/C2OI/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Coinbase",
+      "url": "https://www.wikidata.org/wiki/Q16972754",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Coinbase",
+      "url": "https://en.wikipedia.org/wiki/Coinbase",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Coinbase",
+      "url": "https://pt.wikipedia.org/wiki/Coinbase",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

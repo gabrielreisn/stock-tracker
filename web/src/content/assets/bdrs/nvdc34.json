@@ -1,0 +1,324 @@
+{
+  "ticker": "NVDC34",
+  "slug": "nvdc34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "NVDC34: BDR da Nvidia, história e desempenho",
+    "description": "Conheça o NVDC34, BDR da Nvidia na B3. Veja como funciona, proventos, volatilidade, riscos e desempenho em reais até 29/10/2026.",
+    "h1": "NVDC34: BDR da Nvidia na B3",
+    "canonicalPath": "/bdrs/nvdc34",
+    "keywords": [
+      "NVDC34",
+      "BDR Nvidia",
+      "Nvidia B3",
+      "NVDA BDR",
+      "BDR não patrocinado",
+      "Nvidia dividendos",
+      "volatilidade NVDC34",
+      "BDR tecnologia"
+    ]
+  },
+  "summary": "NVDC34 é o BDR não patrocinado (nível I) da NVIDIA Corporation, empresa americana de tecnologia sediada em Santa Clara, Califórnia, que projeta unidades de processamento gráfico (GPUs) e sistemas para inteligência artificial. Listado na B3 desde 10/04/2019, o ativo negociado em reais acompanha a ação original NVDA na NASDAQ e a variação do câmbio. Em 29/10/2026, a cotação era de R$ 23,80, com rentabilidade total de 12 meses de 2,98% e patrimônio de mercado que superou US$ 5 trilhões em 2025.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Nvidia",
+    "legalName": "NVIDIA CORP",
+    "ticker": "BVMF NVDC34",
+    "foundingDate": "1993-04-05",
+    "website": "https://www.nvidia.com/",
+    "wikidata": "Q182477",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q182477",
+      "https://en.wikipedia.org/wiki/Nvidia",
+      "https://pt.wikipedia.org/wiki/Nvidia",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52019/NVDC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Nvidia",
+    "legalName": "NVIDIA CORP",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "05/04/1993",
+    "listedSince": "10/04/2019",
+    "headquarters": "Santa Clara",
+    "website": "https://www.nvidia.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "NVIDIA CORP",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: NVDA",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Santa Clara",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "05/04/1993",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "10/04/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 23,80",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "35,79% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original NVDA em dólares)",
+      "value": "1,94",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,17%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 114,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "NVDC34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "NVIDIA Corporation",
+    "currency": "BRL",
+    "price": 23.8,
+    "historyStarts": "2019-05-13",
+    "returns": {
+      "1y": 0.0298,
+      "3y": 4.5247,
+      "5y": 6.9905,
+      "10y": null
+    },
+    "volatility1y": 0.3579,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6825,
+      "from": "2021-11-25",
+      "to": "2022-10-14"
+    },
+    "beta1y": {
+      "value": 1.94,
+      "against": "S&P 500, ação original NVDA em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.0395,
+      "payments12Months": 4,
+      "yield12Months": 0.0017,
+      "lastPayment": {
+        "date": "2026-09-09",
+        "amount": 0.019043
+      }
+    },
+    "avgDailyTradedValue3m": 114143665
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do NVDC34 nos últimos 12 meses é de 35,79%, nível considerado alto. O beta da ação original NVDA contra o S&P 500 é de 1,94, o que significa que, historicamente, a ação tende a ter movimentos de amplitude quase o dobro do índice, na mesma direção. A maior queda em 5 anos foi de -68,25%, entre 25/11/2021 e 14/10/2022. Para um BDR de tecnologia, essa volatilidade é compatível com o setor, mas o efeito do câmbio adiciona uma camada de risco específica para o investidor brasileiro. É possível configurar alertas de preço no app para monitorar oscilações sem precisar acompanhar a cotação o dia todo."
+  },
+  "history": {
+    "overview": "A NVIDIA Corporation foi fundada em 05/04/1993 por Jensen Huang, Chris Malachowsky e Curtis Priem, com foco inicial em aceleradores gráficos para jogos eletrônicos. A empresa abriu capital na NASDAQ em 22/01/1999 e, ao longo dos anos, expandiu sua atuação para data centers, computação de alto desempenho e inteligência artificial. Em 2020, concluiu a aquisição da Mellanox, reforçando sua posição em infraestrutura de HPC. Em 2022, encerrou a tentativa de aquisição da Arm após obstáculos regulatórios, mas lançou a arquitetura Hopper e a GPU H100. Em 2025, a Nvidia tornou-se a primeira empresa a ultrapassar US$ 4 trilhões e US$ 5 trilhões em capitalização de mercado, impulsionada pela demanda por hardware de IA para data centers. O BDR NVDC34 passou a ser negociado na B3 em 10/04/2019, permitindo a exposição de investidores brasileiros à ação original NVDA em reais.",
+    "timeline": [
+      {
+        "date": "1993-04-05",
+        "event": "Fundação da NVIDIA Corporation por Jensen Huang, Chris Malachowsky e Curtis Priem.",
+        "source": 2
+      },
+      {
+        "date": "1999-01-22",
+        "event": "Abertura de capital da Nvidia na bolsa NASDAQ.",
+        "source": 3
+      },
+      {
+        "date": "2002-04",
+        "event": "Finalização da aquisição dos ativos intelectuais da 3dfx, pioneira em gráficos 3D.",
+        "source": 3
+      },
+      {
+        "date": "2006",
+        "event": "Divulgação da arquitetura CUDA, plataforma de software para processamento paralelo em GPUs.",
+        "source": 4
+      },
+      {
+        "date": "2019-04-10",
+        "event": "Listagem do BDR NVDC34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2020",
+        "event": "Conclusão da aquisição da Mellanox, líder em interconexão de alto desempenho para HPC.",
+        "source": 4
+      },
+      {
+        "date": "2022",
+        "event": "Encerramento da tentativa de aquisição da Arm e lançamento da arquitetura Hopper e GPU H100.",
+        "source": 4
+      },
+      {
+        "date": "2025",
+        "event": "Nvidia torna-se a primeira empresa a ultrapassar US$ 4 trilhões e US$ 5 trilhões em capitalização de mercado.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Nvidia ganha dinheiro",
+      "body": "A NVIDIA Corporation projeta unidades de processamento gráfico (GPUs), sistemas em chip (SoCs) e interfaces de programação de aplicações (APIs) para mercados de jogos eletrônicos, visualização profissional, data centers, computação móvel e automotiva. A linha principal de produtos, a GeForce, concorre diretamente com a Radeon da AMD. Desde 2014, a empresa atua como plataforma focada em cinco mercados, com forte concentração em inteligência artificial. Em 2025, a Nvidia controlava mais de 80% do mercado de GPUs para treinamento e implantação de modelos de IA e fornecia chips para mais de 75% dos supercomputadores do TOP500 mundial. A receita de US$ 130,5 bilhões em 2025 foi impulsionada pela demanda por hardware de data centers para IA generativa."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR NVDC34",
+      "body": "O NVDC34 é um BDR não patrocinado (nível I) da NVIDIA Corporation, negociado na B3 em reais. Ele é um recibo emitido por uma instituição depositária que representa a ação original NVDA, listada na NASDAQ nos Estados Unidos. O preço do BDR acompanha a cotação da ação original em dólares e a variação do câmbio (dólar/real). O programa foi listado na B3 em 10/04/2019. Por ser não patrocinado, a empresa não participa da emissão ou manutenção do certificado, e a liquidez depende da atividade da instituição depositária e do mercado brasileiro."
+    },
+    {
+      "id": "proventos",
+      "heading": "NVDC34 paga dividendos?",
+      "body": "A Nvidia paga dividendos, que chegam ao investidor do BDR em reais após a conversão cambial. Nos 12 meses até 29/10/2026, o NVDC34 distribuiu R$ 0,0395 por BDR em 4 pagamentos, resultando em um dividend yield de 0,17%. O último pagamento registrado foi de R$ 0,0190 em 09/09/2026. O valor em reais depende da cotação do dólar na data do pagamento e da taxa de câmbio aplicada pela instituição depositária. É possível acompanhar a data com e a data de pagamento dos proventos no app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do NVDC34",
+      "body": "Em 29/10/2026, o NVDC34 estava cotado a R$ 23,80. A rentabilidade total com proventos foi de 2,98% nos 12 meses, 452,47% em 3 anos e 699,05% em 5 anos. Esses retornos em reais incluem a variação do câmbio, pois o BDR lastreia a ação NVDA em dólares. A alta performance de longo prazo reflete o crescimento da capitalização da Nvidia, que superou US$ 5 trilhões em 2025. Para comparar esses resultados com o mercado americano, é possível usar a ferramenta de comparação com índices do app, que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do NVDC34",
+      "body": "O principal risco do NVDC34 é o cambial, já que o ativo acompanha a ação NVDA em dólares e a variação do real. A volatilidade anualizada nos últimos 12 meses foi de 35,79%, classificada como alta. A maior queda nos últimos 5 anos foi de -68,25%, do pico em 25/11/2021 ao fundo em 14/10/2022. O beta da ação original NVDA contra o S&P 500 é de 1,94, indicando que a ação tende a oscilar mais que o índice. A liquidez do BDR na B3 é menor que a da ação original, com volume médio de R$ 114,1 milhões por dia nos últimos 3 meses. Riscos setoriais incluem a dependência do ciclo de inovação em IA e a concorrência com AMD e outras fabricantes de semicondutores."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar NVDC34 no app",
+      "body": "Para quem tem NVDC34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio): Veja a rentabilidade do NVDC34 ao lado do seu preço médio de compra, com gráfico de ganho e variação do dia e do ano.\n- [comparação com S&P 500 no app](/recursos/comparacao-com-indices): Compare a rentabilidade do NVDC34 com o S&P 500, CDI e outros índices no mesmo gráfico, para entender o desempenho relativo.\n- [alertas de preço no app](/recursos/alertas-de-preco): Receba uma notificação quando o NVDC34 chegar ao preço que você definiu, útil para monitorar a alta volatilidade do ativo.\n- [carteira consolidada no app](/recursos/carteira-consolidada): Veja o NVDC34 junto com suas outras posições em BDRs, ações e renda fixa, com alocação por classe e maiores posições."
+    }
+  ],
+  "faq": [
+    {
+      "question": "NVDC34 paga dividendos?",
+      "answer": "Sim, a Nvidia paga dividendos, que são convertidos para reais no BDR. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,0395 por BDR em 4 pagamentos, com dividend yield de 0,17%. O último pagamento foi de R$ 0,0190 em 09/09/2026. O valor em reais varia conforme o câmbio na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre NVDC34 e NVDA?",
+      "answer": "NVDC34 é o BDR negociado na B3 em reais, enquanto NVDA é a ação original listada na NASDAQ em dólares. O BDR é um recibo que representa a ação, e seu preço reflete a cotação da NVDA e a variação do câmbio. O NVDC34 é não patrocinado (nível I), o que significa que a Nvidia não participa da emissão do certificado."
+    },
+    {
+      "question": "NVDC34 é BDR patrocinado ou não patrocinado?",
+      "answer": "O NVDC34 é um BDR não patrocinado (nível I). Isso significa que a NVIDIA Corporation não é a emissora do certificado, mas sim uma instituição depositária. A empresa não garante a liquidez nem a manutenção do programa, e o investidor depende da atividade da instituição depositária na B3."
+    },
+    {
+      "question": "Qual o risco cambial do NVDC34?",
+      "answer": "O NVDC34 tem risco cambial porque acompanha a ação NVDA em dólares. Se o dólar valorizar em relação ao real, o BDR tende a subir, mesmo que a ação original fique estável. Se o dólar desvalorizar, o BDR tende a cair. Esse efeito é adicional à volatilidade da própria ação, que tem beta de 1,94 contra o S&P 500."
+    },
+    {
+      "question": "Como o NVDC34 se compara com o S&P 500?",
+      "answer": "O beta da ação original NVDA contra o S&P 500 é de 1,94, indicando que a ação tende a oscilar mais que o índice. A rentabilidade do NVDC34 em reais também reflete o câmbio. Para comparar a performance com o S&P 500, é possível usar a ferramenta de comparação com índices do app, que mostra a rentabilidade lado a lado."
+    },
+    {
+      "question": "Qual a liquidez do NVDC34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 114,1 milhões. Essa liquidez é menor que a da ação original na NASDAQ, o que pode afetar a execução de ordens grandes. Para acompanhar a cotação em tempo real, é possível usar o widget na barra de menus do app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Veja a rentabilidade do NVDC34 ao lado do seu preço médio de compra, com gráfico de ganho e variação do dia e do ano."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com S&P 500 no app",
+        "context": "Compare a rentabilidade do NVDC34 com o S&P 500, CDI e outros índices no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço no app",
+        "context": "Receba uma notificação quando o NVDC34 chegar ao preço que você definiu, útil para monitorar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada no app",
+        "context": "Veja o NVDC34 junto com suas outras posições em BDRs, ações e renda fixa, com alocação por classe e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "A1MD34",
+        "list": "bdrs",
+        "reason": "Outro BDR de semicondutor, concorrente direto da Nvidia em GPUs e chips para IA."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores, que inclui a Nvidia e outras empresas do setor, para diversificação."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho com o índice de referência da ação original."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia com alta volatilidade, para comparação de risco e retorno."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de NVDC34",
+      "url": "https://finance.yahoo.com/quote/NVDC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: NVIDIA CORP, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52019/NVDC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Nvidia",
+      "url": "https://www.wikidata.org/wiki/Q182477",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nvidia",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Nvidia",
+      "url": "https://pt.wikipedia.org/wiki/Nvidia",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

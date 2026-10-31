@@ -1,0 +1,323 @@
+{
+  "ticker": "PSEC11",
+  "slug": "psec11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "PSEC11: FII de papel, proventos e consolidação",
+    "description": "PSEC11 é um FII de papel com gestão ativa que investe em outros FIIs. Veja proventos, patrimônio, volatilidade e a consolidação no RBRX11 aprovada em",
+    "h1": "PSEC11: Patria Securities FII - história, proventos e consolidação",
+    "canonicalPath": "/fiis/psec11",
+    "keywords": [
+      "PSEC11",
+      "Patria Securities FII",
+      "FII de papel",
+      "consolidação PSEC11 RBRX11",
+      "dividend yield PSEC11",
+      "volatilidade PSEC11",
+      "patrimônio PSEC11",
+      "gestora Pátria VBI"
+    ]
+  },
+  "summary": "PSEC11 é o Patria Securities Fundo de Investimento Imobiliário, um FII de papel com gestão ativa que investe primordialmente em cotas de outros fundos imobiliários e, complementarmente, em recebíveis e letras imobiliárias. Em 09/2026, o fundo possuía patrimônio líquido de R$ 1,29 bilhão e 79.431 cotistas, com valor patrimonial da cota de R$ 70,26. Em 22/10/2026, os cotistas aprovaram a consolidação de todo o patrimônio do PSEC11 no RBRX11, com a consequente liquidação do fundo.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Patria Securities Fundo de Investimento Imobiliário - Responsabilidade  Limitada",
+    "legalName": "PATRIA SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA",
+    "ticker": "BVMF PSEC11",
+    "isin": "BRRVBICTF009",
+    "taxId": "35.507.457/0001-71",
+    "foundingDate": "2022-02-04",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35507457000171"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (fundo de fundos)",
+    "issuerOrManager": "Pátria - VBI Securities Ltda",
+    "name": "Patria Securities Fundo de Investimento Imobiliário - Responsabilidade  Limitada",
+    "legalName": "PATRIA SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "04/02/2022",
+    "administrator": "BRL TRUST DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "PATRIA SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE  LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "35.507.457/0001-71",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BRL TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "04/02/2022",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,29 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "79.431",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 70,26",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 46,02",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "16,76% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,34",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "8,91%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PSEC11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Patria Securities Fundo De Investimento Imobiliário - Responsabilidade Limitada",
+    "currency": "BRL",
+    "price": 46.02,
+    "historyStarts": "2020-02-10",
+    "returns": {
+      "1y": -0.1735,
+      "3y": -0.2148,
+      "5y": -0.0882,
+      "10y": null
+    },
+    "volatility1y": 0.1676,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3087,
+      "from": "2024-03-05",
+      "to": "2026-10-28"
+    },
+    "beta1y": {
+      "value": 0.34,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 4.1,
+      "payments12Months": 7,
+      "yield12Months": 0.0891,
+      "lastPayment": {
+        "date": "2026-10-09",
+        "amount": 0.6
+      }
+    },
+    "avgDailyTradedValue3m": 2126154
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do PSEC11 nos últimos 12 meses foi de 16,76%, nível moderado, com a maior queda em 5 anos de -30,87%, entre 05/03/2024 e 28/10/2026. O beta de 0,34 contra o Ibovespa indica que o fundo tende a se mover na mesma direção do índice, mas com amplitude menor. Para fundos de papel, a volatilidade pode ser influenciada pela qualidade do crédito e pela liquidez dos ativos subjacentes. O beta não mede a volatilidade em si, mas a sensibilidade aos movimentos do índice. Para acompanhar a cotação em tempo real, use o [widget na barra de menus](/recursos/widget-da-barra-de-menus)."
+  },
+  "history": {
+    "overview": "O Patria Securities FII (PSEC11) iniciou as atividades em 04/02/2022, segundo a CVM, embora o relatório gerencial de 30/09/2026 cite fevereiro de 2020 como início das atividades. O fundo opera com gestão ativa e tem como objetivo aplicar, primordialmente, em cotas de outros fundos de investimento imobiliário, funcionando como um fundo de fundos. Complementarmente, sua carteira inclui ações ou cotas de sociedades, fundos de participações, certificados de recebíveis imobiliários (CRI), letras hipotecárias, letras de crédito imobiliário e letras imobiliárias garantidas, desde que esses veículos tenham propósito único de atividades permitidas a FIIs. O PSEC11 realizou cinco ofertas públicas de cotas desde 2019, com a última encerrada em 01/10/2025. Em 30/09/2026, o gestor propôs a reorganização do fundo, visando consolidar a carteira do PSEC11 no Patria Plus Multiestratégia Real Estate FII ([RBRX11](/fiis/rbrx11)), buscando ampliar a liquidez das cotas no mercado secundário e a diversificação do portfólio. Em 22/10/2026, a Assembleia Geral Extraordinária aprovou a consolidação e a subsequente liquidação do PSEC11, com a alienação da totalidade dos ativos ao RBRX11 e a migração dos cotistas.",
+    "timeline": [
+      {
+        "date": "2020-01-23",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2020-02-05",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2022-02-04",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2026-09-30",
+        "event": "Gestor propõe reorganização para consolidar ativos do PSEC11 no RBRX11",
+        "source": 5
+      },
+      {
+        "date": "2026-10-22",
+        "event": "AGE aprova consolidação do patrimônio do PSEC11 no RBRX11 e liquidação do fundo",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do PSEC11",
+      "body": "O PSEC11 é classificado como um FII de papel com gestão ativa, cujo objetivo principal é aplicar em cotas de outros fundos de investimento imobiliário. De forma complementar, a carteira pode incluir ações ou cotas de sociedades, fundos de participações, certificados de recebíveis imobiliários, letras hipotecárias, letras de crédito imobiliário e letras imobiliárias garantidas, desde que os veículos tenham propósito único de atividades permitidas a FIIs, conforme o relatório gerencial de 30/09/2026. A gestora é a Pátria - VBI Securities Ltda., enquanto o administrador e escriturador é a Apex Group Distribuidora de Títulos e Valores Mobiliários S.A., segundo o mesmo relatório. A CVM, no informe de 09/2026, registra a BRL TRUST DTVM S.A. como administradora. O fundo tem prazo indeterminado e público-alvo de investidores em geral."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do PSEC11",
+      "body": "Nos 12 meses até 29/10/2026, o PSEC11 distribuiu R$ 4,1000 por cota em 7 pagamentos, resultando em um dividend yield de 8,91%. O último provento foi de R$ 0,6000 em 09/10/2026. O informe da CVM de 09/2026 indica um dividend yield mensal de 0,85%. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, mas a tributação pode variar conforme a natureza dos ativos na carteira. Para acompanhar os proventos com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O PSEC11 realizou 5 ofertas públicas de cotas encerradas, conforme o FNET, com a primeira iniciada em 27/11/2019 e a última encerrada em 01/10/2025. Em 09/2026, o fundo possuía 18.399.378 cotas emitidas, patrimônio líquido de R$ 1,29 bilhão e 79.431 cotistas, com valor patrimonial da cota de R$ 70,26. A taxa de administração no mês de 09/2026 foi de 0,057% sobre o patrimônio, enquanto o relatório gerencial de 30/09/2026 indica uma taxa total de 0,925% a.a. sobre o valor de mercado do fundo, além de uma taxa de performance de 20% sobre os rendimentos que superarem a variação positiva do IFIX."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do PSEC11",
+      "body": "A rentabilidade total com proventos do PSEC11 foi de -17,35% nos 12 meses, -21,48% em 3 anos e -8,82% em 5 anos, até 29/10/2026. O volume médio negociado por dia nos últimos 3 meses foi de R$ 2,1 milhões. Para comparar o desempenho do PSEC11 com o IFIX, CDI e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do PSEC11",
+      "body": "Como fundo de papel, o PSEC11 está exposto ao risco de crédito dos ativos na carteira, especialmente certificados de recebíveis imobiliários e letras de crédito. A volatilidade anualizada de 12 meses foi de 16,76%, classificada como moderada, e a maior queda em 5 anos foi de -30,87%, do pico em 05/03/2024 ao ponto mais baixo em 28/10/2026. O beta de 0,34 contra o Ibovespa indica que o ativo tende a acompanhar os movimentos do índice com menor amplitude. Riscos de liquidez e de concentração em outros FIIs também são relevantes. Para monitorar oscilações de preço, configure [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PSEC11 é FII de papel ou de tijolo?",
+      "answer": "PSEC11 é um FII de papel, pois aplica primordialmente em cotas de outros fundos de investimento imobiliário e, complementarmente, em recebíveis e letras imobiliárias. O relatório gerencial de 30/09/2026 confirma essa classificação, com gestão ativa e prazo indeterminado."
+    },
+    {
+      "question": "PSEC11 paga dividendos?",
+      "answer": "Sim, PSEC11 distribuiu R$ 4,1000 por cota em 7 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 8,91%. O último provento foi de R$ 0,6000 em 09/10/2026. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas."
+    },
+    {
+      "question": "Qual a diferença entre PSEC11 e RBRX11?",
+      "answer": "PSEC11 e RBRX11 são ambos FIIs de multiestratégia geridos pelo Grupo Pátria, com estratégias semelhantes. Em 22/10/2026, os cotistas aprovaram a consolidação do PSEC11 no RBRX11, com a liquidação do PSEC11 e a migração dos cotistas para o RBRX11, visando ampliar a liquidez e a diversificação."
+    },
+    {
+      "question": "O PSEC11 vai ser liquidado?",
+      "answer": "Sim, em 22/10/2026, a Assembleia Geral Extraordinária aprovou a consolidação do patrimônio do PSEC11 no RBRX11 e a subsequente liquidação do fundo. A alienação da totalidade dos ativos ao RBRX11 será feita pelo valor patrimonial, com amortização em dinheiro e/ou em cotas do RBRX11."
+    },
+    {
+      "question": "Qual a taxa de administração do PSEC11?",
+      "answer": "A taxa de administração no mês de 09/2026 foi de 0,057% sobre o patrimônio, segundo a CVM. O relatório gerencial de 30/09/2026 indica uma taxa total de 0,925% a.a. sobre o valor de mercado do fundo, além de uma taxa de performance de 20% sobre os rendimentos que superarem a variação positiva do IFIX."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do PSEC11 com data com e data de pagamento, multiplicados pela sua quantidade, para acompanhar a renda mensal."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do PSEC11 com o IFIX, CDI e Ibovespa no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando a cota do PSEC11 atingir o preço que você escolheu, útil para monitorar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o PSEC11 junto com outros ativos na sua carteira, com alocação por classe e as maiores posições, para entender a diversificação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RBRX11",
+        "list": "fiis",
+        "reason": "Fundo de multiestratégia que receberá os ativos do PSEC11 na consolidação aprovada em 22/10/2026."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de papel com gestão ativa, similar ao PSEC11, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de renda com foco em recebíveis, para comparar a exposição a crédito imobiliário."
+      },
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "FII de renda urbana do Grupo Pátria, para ver outros fundos da mesma gestora."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PSEC11",
+      "url": "https://finance.yahoo.com/quote/PSEC11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do PATRIA SECURITIES FII - RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo PSEC11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35507457000171",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do PSEC11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356066",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do PSEC11, 22/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356978",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do PSEC11, 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1336537",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

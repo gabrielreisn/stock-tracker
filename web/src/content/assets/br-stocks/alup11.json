@@ -1,0 +1,382 @@
+{
+  "ticker": "ALUP11",
+  "slug": "alup11",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ALUP11: história, dividendos e volatilidade",
+    "description": "ALUP11 é a unit da Alupar, holding de energia elétrica. Veja rentabilidade, dividendos, volatilidade e a história da empresa no Brasil, Colômbia e Peru.",
+    "h1": "ALUP11: Alupar Investimento S.A.",
+    "canonicalPath": "/acoes/alup11",
+    "keywords": [
+      "ALUP11",
+      "Alupar",
+      "ações de energia",
+      "dividendos ALUP11",
+      "volatilidade ALUP11",
+      "holding de energia elétrica",
+      "transmissão de energia"
+    ]
+  },
+  "summary": "ALUP11 é a unit da Alupar Investimento S.A., holding de energia elétrica com ativos de geração e transmissão no Brasil, Colômbia e Peru. A empresa, de controle privado, possui 30 sistemas de transmissão e diversas usinas. Em 30/10/2026, a unit cotava a R$ 31,40, com rentabilidade total de -1,05% nos últimos 12 meses e dividend yield de 3,44%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Alupar",
+    "legalName": "ALUPAR INVESTIMENTO S/A",
+    "ticker": "BVMF ALUP11",
+    "isin": "BRALUPCDAM15",
+    "taxId": "08.364.948/0001-38",
+    "foundingDate": "2006-09-27",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.alupar.com.br",
+    "wikidata": "Q20706301",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q20706301",
+      "https://pt.wikipedia.org/wiki/Alupar",
+      "https://en.wikipedia.org/wiki/Alupar",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21490/ALUP/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Alupar",
+    "legalName": "ALUPAR INVESTIMENTO S/A",
+    "type": "Unit",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "27/09/2006",
+    "listedSince": "24/04/2013",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.alupar.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "ALUPAR INVESTIMENTO S/A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "08.364.948/0001-38",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 2",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "27/09/2006",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "24/04/2013",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "ALUP3, ALUP4, ALUP11",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 31,40",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "30,47% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,00",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,44%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ALUP11",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Alupar Investimento S.A.",
+    "currency": "BRL",
+    "price": 31.4,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0105,
+      "3y": 0.3471,
+      "5y": 0.8091,
+      "10y": 1.7367
+    },
+    "volatility1y": 0.3047,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2122,
+      "from": "2026-10-09",
+      "to": "2026-10-29"
+    },
+    "beta1y": {
+      "value": 1,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.08,
+      "payments12Months": 5,
+      "yield12Months": 0.0344,
+      "lastPayment": {
+        "date": "2026-08-14",
+        "amount": 0.21
+      }
+    },
+    "avgDailyTradedValue3m": 48147798
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A ALUP11 apresenta uma volatilidade anualizada de 30,47% nos últimos 12 meses, o que é considerado um nível alto para o mercado brasileiro. O beta de 1,00 contra o Ibovespa sugere que a ação tende a se mover na mesma proporção do índice, sem amplificar ou atenuar os movimentos do mercado. A maior queda registrada nos últimos 5 anos foi de -21,22%, em um período de apenas 20 dias (de 09/10/2026 a 29/10/2026), indicando uma sensibilidade a eventos de curto prazo. Para acompanhar a trajetória de preço e a volatilidade da posição, o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) oferece gráficos detalhados."
+  },
+  "history": {
+    "overview": "A história da Alupar começa em 2000, quando a empresa controladora iniciou operações no segmento de transmissão de energia elétrica. Em 2005, o grupo expandiu-se para a geração de energia, focando inicialmente em hidrelétricas. A reorganização desses ativos resultou na constituição da Alupar Investimento S.A. em 27/09/2006, consolidando-se como uma holding de energia. Em 2013, a companhia realizou sua oferta pública inicial (IPO), captando R$ 740 milhões para novos empreendimentos e iniciando a cotação na B3 em 24/04/2013. Nos anos seguintes, a Alupar diversificou sua matriz energética, investindo em parques eólicos e solares, além de expandir sua presença internacional para Colômbia e Peru. Em 2021, a empresa reportou um lucro líquido IFRS de R$ 1.115,4 milhões, consolidando-se como a maior companhia de energia de controle nacional privado em termos de Receita Anual Permitida (RAP). Recentemente, a Alupar tem buscado crescimento por meio de aquisições e leilões, como a conclusão da compra da Rialma IV em 2025 e a vitória em leilões de transmissão no Brasil e no Peru.",
+    "timeline": [
+      {
+        "date": "2006-09-27",
+        "event": "Constituição da Alupar Investimento S.A.",
+        "source": 2
+      },
+      {
+        "date": "2008-06-18",
+        "event": "Registro de companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2013-04-24",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-01-31",
+        "event": "Aquisição de ações de emissão da RIALMA IV",
+        "source": 11
+      },
+      {
+        "date": "2025-04-16",
+        "event": "Bonificação de Ações",
+        "source": 10
+      },
+      {
+        "date": "2025-08-01",
+        "event": "Conclusão da aquisição de Rialma IV",
+        "source": 9
+      },
+      {
+        "date": "2025-09-22",
+        "event": "Entrada em Operação da TNE",
+        "source": 7
+      },
+      {
+        "date": "2025-09-22",
+        "event": "Vitória do Grupo 03 em leilão realizado no Peru",
+        "source": 8
+      },
+      {
+        "date": "2026-07-03",
+        "event": "Vitória do Lote 7 do Leilão de Transmissão Aneel 01/26 (2ª Etapa)",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Alupar ganha dinheiro",
+      "body": "A Alupar Investimento S.A. atua como holding nos segmentos de geração e transmissão de energia elétrica, com operações no Brasil, Colômbia e Peru. A receita provém da operação de 30 sistemas de transmissão, totalizando 7.929 quilômetros de linhas, e de uma matriz de geração diversificada que inclui usinas hidrelétricas (UHEs), pequenas centrais hidrelétricas (PCHs), parques eólicos e uma usina solar. A empresa é classificada pela B3 no setor de Utilidade Pública, segmento Energia Elétrica. Segundo a Wikipedia, a Alupar é uma das maiores companhias do setor em termos de Receita Anual Permitida (RAP) e a maior de controle nacional privado, com um lucro líquido IFRS de R$ 1.115,4 milhões em 2021."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Alupar",
+      "body": "O controle acionário da Alupar é privado, com a Guarupart detendo 52% das ações e 48% do capital pulverizado no mercado. A companhia está listada no Nível 2 do segmento de governança corporativa da B3. As ações são negociadas sob os códigos ALUP3 (ordinárias), ALUP4 (preferenciais) e ALUP11 (units). A unit (ALUP11) representa um conjunto de ações ordinárias e preferenciais na proporção em que foram emitidas. As ações ordinárias (ALUP3) conferem direito a voto em assembleias, enquanto as preferenciais (ALUP4) têm prioridade no recebimento de dividendos, mas geralmente não possuem direito a voto."
+    },
+    {
+      "id": "proventos",
+      "heading": "ALUP11 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a ALUP11 distribuiu R$ 1,0800 por ação em 5 pagamentos, resultando em um dividend yield de 3,44%. O último pagamento registrado foi de R$ 0,2100 em 14/08/2026. A empresa também realizou uma bonificação de ações em 16/04/2025. Investidores podem acompanhar a data com e a data de pagamento de cada provento através do recurso de [dividendos e JCP no app](/recursos/proventos), que consolida as informações da B3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da ALUP11",
+      "body": "A rentabilidade total da ALUP11, incluindo proventos, foi de -1,05% nos 12 meses até 30/10/2026. Em horizontes mais longos, o ativo acumulou 34,71% em 3 anos, 80,91% em 5 anos e 173,67% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de R$ 48,1 milhões. Para avaliar esses resultados em contexto, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que posiciona a rentabilidade da carteira ao lado do Ibovespa, CDI e IPCA."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da ALUP11",
+      "body": "A volatilidade anualizada da ALUP11 nos últimos 12 meses é de 30,47%, classificada como nível 'alta'. O beta de 1,00 indica que o ativo tende a acompanhar os movimentos do Ibovespa de forma proporcional. A maior queda nos últimos 5 anos foi de -21,22%, ocorrendo entre o pico de 09/10/2026 e o ponto mais baixo de 29/10/2026. Riscos setoriais incluem a dependência de leilões regulados pela ANEEL, a exposição a moedas estrangeiras (dada a operação na Colômbia e Peru) e a sensibilidade a mudanças na política energética. A volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ALUP11 paga dividendos?",
+      "answer": "Sim, a ALUP11 distribui proventos. Nos 12 meses até 30/10/2026, foram pagos R$ 1,0800 por ação em 5 ocasiões, com um dividend yield de 3,44%. O último pagamento foi de R$ 0,2100 em 14/08/2026. É possível acompanhar o histórico completo de pagamentos no app."
+    },
+    {
+      "question": "Qual a diferença entre ALUP3, ALUP4 e ALUP11?",
+      "answer": "ALUP3 são ações ordinárias, com direito a voto em assembleias. ALUP4 são ações preferenciais, com prioridade no recebimento de dividendos, mas sem direito a voto. ALUP11 é a unit, que agrupa uma ação ordinária e uma preferencial na proporção de emissão, oferecendo exposição a ambos os direitos em um único ativo."
+    },
+    {
+      "question": "Onde a Alupar opera?",
+      "answer": "A Alupar atua no Brasil, Colômbia e Peru. No Brasil, possui 30 sistemas de transmissão e diversas usinas de geração (hidrelétricas, eólicas e solar). No exterior, possui ativos de transmissão e geração, como a TCE na Colômbia e projetos no Peru."
+    },
+    {
+      "question": "Qual o setor da Alupar?",
+      "answer": "A Alupar é classificada pela B3 no setor de Utilidade Pública, no segmento de Energia Elétrica. A empresa atua na geração e transmissão de energia, sendo uma das maiores companhias de energia de controle privado no Brasil em termos de Receita Anual Permitida."
+    },
+    {
+      "question": "Quem controla a Alupar?",
+      "answer": "O controle da Alupar é privado, com a Guarupart detendo 52% do capital. Os outros 48% são pulverizados no mercado. A companhia está listada no Nível 2 de governança corporativa da B3."
+    },
+    {
+      "question": "A ALUP11 é volátil?",
+      "answer": "A volatilidade anualizada da ALUP11 nos últimos 12 meses é de 30,47%, considerada alta. O beta de 1,00 indica que a ação acompanha o Ibovespa de forma proporcional. A maior queda em 5 anos foi de -21,22% em outubro de 2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da ALUP11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da ALUP11 com o Ibovespa, CDI e IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a ALUP11 atingir o preço que você escolheu, útil para monitorar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a ALUP11 junto com suas outras ações e fundos, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TAEE11",
+        "list": "br-stocks",
+        "reason": "Outra transmissora de energia elétrica listada na B3, no mesmo setor de Utilidade Pública."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Empresa de energia elétrica que atua na geração e transmissão, similar ao modelo de negócio da Alupar."
+      },
+      {
+        "ticker": "ENEV3",
+        "list": "br-stocks",
+        "reason": "Geradora de energia elétrica, permitindo comparação com o segmento de geração da Alupar."
+      },
+      {
+        "ticker": "CPLE3",
+        "list": "br-stocks",
+        "reason": "Companhia de energia (COPEL) que atua em distribuição, geração e transmissão, no mesmo setor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ALUP11",
+      "url": "https://finance.yahoo.com/quote/ALUP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ALUPAR, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21490/ALUP/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, ALUPAR INVESTIMENTO S/A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Alupar",
+      "url": "https://www.wikidata.org/wiki/Q20706301",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Alupar",
+      "url": "https://pt.wikipedia.org/wiki/Alupar",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Alupar",
+      "url": "https://en.wikipedia.org/wiki/Alupar",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/07/2026, “Vitoria do Lote 7 do Leilão de Transmissão Aneel 01/26 (2ªEtapa)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1541817&numSequencia=1066523&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/09/2025, “Entrada em Operação da TNE”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1425517&numSequencia=950229&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/09/2025, “Vitoria do Grupo 03 em leilão realizado no Peru”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1425603&numSequencia=950315&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/08/2025, “Conclusão da aquisição de Rialma IV”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1406425&numSequencia=931137&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/04/2025, “Bonificação de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1362112&numSequencia=886838&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/01/2025, “Aquisição de ações de emissão da RIALMA IV”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1329076&numSequencia=853802&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

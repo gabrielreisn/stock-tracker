@@ -1,0 +1,276 @@
+{
+  "ticker": "VUG",
+  "slug": "vug",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VUG: ETF de crescimento, histórico e desempenho",
+    "description": "Conheça o VUG, ETF da Vanguard que replica o índice Morningstar US Large-Cap Growth.",
+    "h1": "VUG: Vanguard Morningstar Growth ETF",
+    "canonicalPath": "/etfs/vug",
+    "keywords": [
+      "VUG",
+      "Vanguard Morningstar Growth ETF",
+      "ETF de crescimento",
+      "Morningstar US Large-Cap Growth",
+      "VUG dividendos",
+      "VUG rentabilidade",
+      "VUG volatilidade",
+      "ETF americano"
+    ]
+  },
+  "summary": "VUG é a cota do Vanguard Morningstar Growth ETF, lançado em 30/01/2004 pela The Vanguard Group. O fundo replica o índice Morningstar US Large-Cap Growth, focado em empresas americanas de grande capitalização com perfil de crescimento. Em 29/10/2026, a cota valia US$ 87,69, com rentabilidade total de 4,78% nos últimos 12 meses e dividend yield de 0,39%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Morningstar Growth ETF",
+    "ticker": "ARCX VUG",
+    "foundingDate": "2004-01-30",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice (ações de crescimento)",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "Morningstar US Large-Cap Growth Index",
+    "name": "Vanguard Morningstar Growth ETF",
+    "founded": "30/01/2004"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Morningstar Growth ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "30/01/2004",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 87,69",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,95% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,34",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,39%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 496,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VUG",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Morningstar Growth ETF",
+    "currency": "USD",
+    "price": 87.69,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0478,
+      "3y": 1.0069,
+      "5y": 0.7211,
+      "10y": 4.2063
+    },
+    "volatility1y": 0.1795,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3561,
+      "from": "2021-11-19",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": 1.34,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.3458,
+      "payments12Months": 4,
+      "yield12Months": 0.0039,
+      "lastPayment": {
+        "date": "2026-09-28",
+        "amount": 0.091
+      }
+    },
+    "avgDailyTradedValue3m": 496731953
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do VUG nos últimos 12 meses é de 17,95%, classificada como moderada. A maior queda em 5 anos foi de -35,61%, ocorrida entre 19/11/2021 e 03/11/2022. Para um ETF de ações de crescimento, essa volatilidade é compatível com o perfil de risco, que tende a ser superior ao de índices amplos como o S&P 500 devido à maior sensibilidade a fatores de crescimento e taxas de juros."
+  },
+  "history": {
+    "overview": "O Vanguard Morningstar Growth ETF (VUG) teve seu primeiro pregão em 30/01/2004, oferecendo exposição a ações de crescimento dos Estados Unidos através de uma estrutura de ETF. A emissora, The Vanguard Group, foi fundada em 1975 por John C. Bogle, pioneiro dos fundos indexados de baixo custo. A estratégia do fundo utiliza a classificação de crescimento da Morningstar, empresa de pesquisa financeira fundada em 1984, que seleciona empresas com base em critérios de retorno sobre o patrimônio e crescimento de lucros acima da média do setor. A parceria entre a gestão passiva da Vanguard e a metodologia da Morningstar define a composição do portfólio, que prioriza reinvestimento de lucros em vez de dividendos elevados.",
+    "timeline": [
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group por John C. Bogle.",
+        "source": 1
+      },
+      {
+        "date": "1984",
+        "event": "Fundação da Morningstar, Inc. por Joe Mansueto em Chicago.",
+        "source": 3
+      },
+      {
+        "date": "2004-01-30",
+        "event": "Primeiro pregão das cotas do ETF VUG na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VUG funciona",
+      "body": "O VUG é um ETF (Exchange-Traded Fund) emitido pela The Vanguard Group, que opera de forma passiva replicando o índice Morningstar US Large-Cap Growth. O fundo não possui alavancagem nem é inverso; ele busca acompanhar a performance do índice subjacente. A Morningstar, empresa de pesquisa financeira fundada em 1984, é responsável pela metodologia de seleção das ações, classificando-as com base em critérios de crescimento. A Vanguard, fundada em 1975, é a gestora e a segunda maior provedora de ETFs do mundo. O ETF começou a ser negociado em 30/01/2004."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VUG",
+      "body": "O VUG segue o índice Morningstar US Large-Cap Growth, que é composto por empresas americanas de grande capitalização com perfil de crescimento. De acordo com a definição de ações de crescimento, essas empresas geralmente apresentam fluxo de caixa positivo e lucros esperados para crescer mais rápido que a média do setor, frequentemente reinvestindo lucros em projetos de capital em vez de distribuir dividendos. As fontes não detalham a lista exata das ações ou os pesos individuais no portfólio do VUG, mas indicam que a seleção é baseada na metodologia da Morningstar."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VUG a partir do Brasil",
+      "body": "Investidores brasileiros podem adquirir o VUG através de contas em corretoras internacionais ou, alternativamente, por meio de BDRs ou ETFs listados na B3 que replicam o mesmo índice ou estratégias similares. Como o VUG é cotado em dólares, o investidor está exposto ao risco cambial: variações na taxa de câmbio do dólar em relação ao real impactam diretamente o retorno em moeda nacional. A aquisição de ativos no exterior exige a manutenção de uma conta em uma corretora que opere no mercado americano."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VUG",
+      "body": "Até 29/10/2026, o VUG apresentou rentabilidade total de 4,78% em 12 meses, 100,69% em 3 anos, 72,11% em 5 anos e 420,63% em 10 anos. A cota estava a US$ 87,69 nessa data. O fundo distribuiu US$ 0,3458 por cota em 4 pagamentos nos últimos 12 meses, resultando em um dividend yield de 0,39%. É possível acompanhar a evolução do preço e comparar o desempenho do VUG com o S&P 500 na [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VUG",
+      "body": "O VUG está exposto à volatilidade do mercado de ações de crescimento dos EUA. A volatilidade anualizada nos últimos 12 meses foi de 17,95%, considerada moderada. O beta de 1,34 indica que o fundo tende a ter movimentos maiores que o S&P 500. A maior queda em 5 anos foi de -35,61%, entre 19/11/2021 e 03/11/2022. Riscos incluem a sensibilidade a mudanças nas taxas de juros, que afetam o valor de fluxos de caixa futuros, e a concentração em setores de tecnologia e inovação. O risco cambial também é relevante para investidores brasileiros. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar essas oscilações."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar VUG no app",
+      "body": "Para quem tem VUG na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do VUG lado a lado com o S&P 500 no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando a cota do VUG atingir o valor que você definiu.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do VUG junto com outros ativos da sua carteira em uma só visão.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Consulte o gráfico de rentabilidade e o preço médio da sua posição em VUG."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VUG paga dividendos?",
+      "answer": "Sim, o VUG distribui dividendos, mas em montantes baixos. Nos 12 meses até 29/10/2026, foram distribuídos US$ 0,3458 por cota em 4 pagamentos, resultando em um dividend yield de 0,39%. O último pagamento foi de US$ 0,0910 em 28/09/2026. Ações de crescimento geralmente reinvestem lucros, o que reduz a distribuição de proventos."
+    },
+    {
+      "question": "Qual a diferença entre VUG e VOO?",
+      "answer": "O VUG foca em ações de crescimento (growth) de grande capitalização, enquanto o [VOO](/etfs/voo) replica o S&P 500, um índice amplo. O VUG tende a ter maior volatilidade e beta (1,34 contra o S&P 500), refletindo a exposição a empresas que priorizam crescimento de lucros em vez de dividendos. O VOO oferece diversificação por todo o mercado, incluindo setores de valor e estabilidade."
+    },
+    {
+      "question": "VUG é um ETF alavancado?",
+      "answer": "Não, o VUG não é alavancado nem inverso. Ele é um ETF passivo que busca replicar o desempenho do índice Morningstar US Large-Cap Growth. Não há rebalanceamento diário de alavancagem, o que significa que o resultado do fundo acompanha o índice subjacente sem o efeito de decaimento de alavancagem em períodos longos."
+    },
+    {
+      "question": "Qual a rentabilidade do VUG nos últimos 10 anos?",
+      "answer": "A rentabilidade total do VUG nos últimos 10 anos, até 29/10/2026, foi de 420,63%. Esse desempenho reflete o período de forte crescimento das ações de tecnologia e inovação nos EUA. É importante considerar que rentabilidade passada não garante resultados futuros."
+    },
+    {
+      "question": "Como investir em VUG a partir do Brasil?",
+      "answer": "É possível investir no VUG abrindo conta em uma corretora internacional que negocie ações americanas. Alternativamente, há BDRs ou ETFs na B3 que podem seguir o mesmo índice ou estratégia. O investidor deve considerar o risco cambial, pois o VUG é cotado em dólares, e a necessidade de manter uma conta no exterior para a compra direta."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do VUG lado a lado com o S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do VUG atingir o valor que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do VUG junto com outros ativos da sua carteira em uma só visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Consulte o gráfico de rentabilidade e o preço médio da sua posição em VUG."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard que replica o S&P 500, útil para comparação de desempenho e volatilidade."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq 100, com forte exposição a tecnologia, similar ao perfil de crescimento do VUG."
+      },
+      {
+        "ticker": "VTI",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard do mercado total de ações dos EUA, para diversificação além do crescimento."
+      },
+      {
+        "ticker": "VGT",
+        "list": "us-etfs",
+        "reason": "ETF de tecnologia da Vanguard, setor que costuma ter peso elevado no VUG."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VUG",
+      "url": "https://finance.yahoo.com/quote/VUG/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Growth stock (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Growth_stock",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Morningstar, Inc. (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Morningstar%2C_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

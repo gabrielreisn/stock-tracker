@@ -1,0 +1,284 @@
+{
+  "ticker": "CTGP34",
+  "slug": "ctgp34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CTGP34: BDR da Citigroup, dividendos e volatilidade",
+    "description": "CTGP34 é o BDR da Citigroup na B3. Veja dividendos, rentabilidade, volatilidade e como o ativo acompanha a ação C nos EUA. Dados até 29/10/2026.",
+    "h1": "CTGP34: BDR da Citigroup Inc.",
+    "canonicalPath": "/bdrs/ctgp34",
+    "keywords": [
+      "CTGP34",
+      "Citigroup BDR",
+      "BDR nível I",
+      "dividendos CTGP34",
+      "volatilidade CTGP34",
+      "BDR Citigroup",
+      "ações americanas na B3"
+    ]
+  },
+  "summary": "CTGP34 é o BDR não patrocinado de nível I da Citigroup Inc., empresa americana de serviços financeiros sediada em Nova Iorque. Negociado na B3 desde 09/11/2010, o ativo acompanha a ação original C na Bolsa de Valores de Nova Iorque. Em 29/10/2026, a cotação era de R$ 112,49, com rentabilidade total de 26,74% nos últimos 12 meses, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Citigroup",
+    "legalName": "CITIGROUP INC.",
+    "ticker": "BVMF CTGP34",
+    "foundingDate": "1812-06-16",
+    "website": "https://www.citigroup.com/",
+    "wikidata": "Q219508",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q219508",
+      "https://en.wikipedia.org/wiki/Citigroup",
+      "https://pt.wikipedia.org/wiki/Citigroup",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50105/CTGP/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Citigroup",
+    "legalName": "CITIGROUP INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "16/06/1812",
+    "listedSince": "09/11/2010",
+    "headquarters": "388 Greenwich Street, Citigroup Center, Nova Iorque",
+    "website": "https://www.citigroup.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "CITIGROUP INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: C",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "388 Greenwich Street, Citigroup Center, Nova Iorque",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "16/06/1812",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "09/11/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 112,49",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "32,90% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,68%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,9 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CTGP34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Citigroup Inc.",
+    "currency": "BRL",
+    "price": 112.49,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2674,
+      "3y": 2.691,
+      "5y": 0.976,
+      "10y": 4.6848
+    },
+    "volatility1y": 0.329,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4807,
+      "from": "2021-11-01",
+      "to": "2023-10-27"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.8856,
+      "payments12Months": 5,
+      "yield12Months": 0.0168,
+      "lastPayment": {
+        "date": "2026-10-29",
+        "amount": 0.391928
+      }
+    },
+    "avgDailyTradedValue3m": 1850980
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do CTGP34 nos últimos 12 meses é de 32,90%, o que é considerado um nível alto. A maior queda registrada nos últimos 5 anos foi de -48,07%, entre 01/11/2021 e 27/10/2023. Para monitorar esses movimentos e definir pontos de atenção, os [alertas de preço](/recursos/alertas-de-preco) permitem receber notificações quando o ativo atinge um valor específico. A [carteira consolidada](/recursos/carteira-consolidada) ajuda a entender como essa volatilidade impacta a alocação total do investidor."
+  },
+  "history": {
+    "overview": "A história da Citigroup começa em 16/06/1812, quando o City Bank of New York foi fundado em Nova Iorque. Ao longo do século XIX, a instituição expandiu suas operações e, em 1865, adotou o nome The National City Bank of New York após converter seu charter estadual em federal. No início do século XX, tornou-se o primeiro contribuinte do Federal Reserve Bank of New York em 1913 e inaugurou sua primeira filial internacional em Buenos Aires no ano seguinte. Em 1967, a empresa foi reorganizada como First National City Corporation, conhecida popularmente como Citicorp, e lançou o cartão de crédito que se tornaria a MasterCard. A fase moderna da empresa começou em 1998, com a fusão entre o Citicorp e o Travelers Group, formando a Citigroup Inc., que na época era a maior organização de serviços financeiros do mundo. Em 2002, a divisão de seguros do Travelers foi desinvestida. A empresa consolidou-se como uma das quatro maiores instituições bancárias dos Estados Unidos, com presença global e atuação em diversos segmentos do setor financeiro.",
+    "timeline": [
+      {
+        "date": "1812-06-16",
+        "event": "Fundação do City Bank of New York, precursora da Citigroup.",
+        "source": 2
+      },
+      {
+        "date": "1998-10-08",
+        "event": "Formação da Citigroup Inc. a partir da fusão entre Citicorp e Travelers Group.",
+        "source": 3
+      },
+      {
+        "date": "2010-11-09",
+        "event": "Listagem do BDR CTGP34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Citigroup ganha dinheiro",
+      "body": "A Citigroup Inc. opera em cinco áreas de negócio principais. A divisão Banking & International oferece serviços de banco de investimento, banco corporativo e comercial. A área de Markets atua com vendas e negociação de ativos. O segmento de Services, anteriormente conhecido como Treasury and Trade Solutions, fornece gestão de caixa, pagamentos, financiamento de comércio, gestão de liquidez, serviços de títulos e custódia para corporações, instituições financeiras e clientes do setor público. A área de Wealth abrange a gestão de patrimônio e o banco de varejo, incluindo o Citibank. Por fim, a divisão U.S. Consumer Cards é a terceira maior emissora de cartões de crédito nos Estados Unidos. A empresa possui ativos sob gestão de aproximadamente US$ 2,8 trilhões."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR CTGP34",
+      "body": "O CTGP34 é um BDR não patrocinado de nível I, que funciona como um recibo negociado na B3, em reais, lastreado em ações da Citigroup Inc. A ação original é a C, listada na Bolsa de Valores de Nova Iorque. O preço do BDR acompanha a variação da ação original e a taxa de câmbio entre o dólar e o real. O ativo está listado na B3 desde 09/11/2010. Como é um BDR não patrocinado, a empresa não participa ativamente da emissão ou manutenção do programa."
+    },
+    {
+      "id": "proventos",
+      "heading": "CTGP34 paga dividendos?",
+      "body": "A Citigroup paga dividendos, que chegam aos detentores do CTGP34 em reais. Nos 12 meses até 29/10/2026, foram realizados 5 pagamentos, totalizando R$ 1,8856 por BDR, o que representa um dividend yield de 1,68%. O último pagamento registrado foi de R$ 0,3919 em 29/10/2026. É importante notar que a empresa paga na moeda local (dólar) e o valor é convertido para reais no momento do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do CTGP34",
+      "body": "Até 29/10/2026, a rentabilidade total do CTGP34, incluindo proventos, foi de 26,74% em 12 meses, 269,10% em 3 anos, 97,60% em 5 anos e 468,48% em 10 anos. Esses números refletem a variação do preço da ação original e a oscilação do câmbio entre o dólar e o real. Para avaliar o desempenho em relação a outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade ao lado do S&P 500, CDI e outros referenciais."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do CTGP34",
+      "body": "Os riscos do CTGP34 incluem a exposição ao risco cambial, já que o valor do BDR depende da taxa de câmbio entre o dólar e o real. A volatilidade anualizada do ativo nos últimos 12 meses foi de 32,90%, classificada como alta. A maior queda nos últimos 5 anos foi de -48,07%, ocorrendo do pico em 01/11/2021 ao ponto mais baixo em 27/10/2023. A liquidez do BDR na B3 é moderada, com volume médio diário de R$ 1,9 milhão nos últimos 3 meses. Além disso, a empresa é considerada sistêmica, o que pode implicar em maior regulação e riscos de mercado amplificados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CTGP34 paga dividendos?",
+      "answer": "Sim, a Citigroup paga dividendos que são repassados aos detentores do BDR em reais. Nos 12 meses até 29/10/2026, houve 5 pagamentos, totalizando R$ 1,8856 por BDR, com um dividend yield de 1,68%. O último pagamento foi de R$ 0,3919 em 29/10/2026."
+    },
+    {
+      "question": "O que é o BDR CTGP34?",
+      "answer": "CTGP34 é um BDR não patrocinado de nível I que representa ações da Citigroup Inc., empresa americana de serviços financeiros. Negociado na B3 desde 09/11/2010, o ativo acompanha a ação C na Bolsa de Valores de Nova Iorque e a variação do câmbio."
+    },
+    {
+      "question": "Qual a diferença entre CTGP34 e a ação C nos EUA?",
+      "answer": "O CTGP34 é um recibo negociado na B3 em reais, enquanto a ação C é negociada na Bolsa de Valores de Nova Iorque em dólares. O preço do BDR reflete o valor da ação original e a taxa de câmbio. O CTGP34 permite investir na Citigroup sem a necessidade de conta no exterior."
+    },
+    {
+      "question": "Qual a rentabilidade do CTGP34 nos últimos 12 meses?",
+      "answer": "A rentabilidade total do CTGP34 nos 12 meses até 29/10/2026 foi de 26,74%, incluindo a variação do preço da ação e o câmbio. Esse desempenho pode ser comparado com outros índices na [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Como acompanhar o CTGP34 no app?",
+      "answer": "É possível monitorar o CTGP34 usando os [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando o ativo atinge um valor desejado. A [carteira consolidada](/recursos/carteira-consolidada) permite visualizar a posição do BDR junto com outros ativos, e o [assistente de IA](/recursos/assistente-de-ia) responde perguntas sobre a carteira em português."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o CTGP34 atinge um valor específico, útil para acompanhar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do CTGP34 com o S&P 500 e o CDI para entender seu desempenho relativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a posição do CTGP34 junto com outros ativos, incluindo ações e BDRs, em uma única visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em CTGP34 e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "JPMC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de banco americano, com exposição similar ao setor financeiro dos EUA."
+      },
+      {
+        "ticker": "BOAC34",
+        "list": "bdrs",
+        "reason": "BDR de Bank of America, concorrente direto da Citigroup no mercado bancário americano."
+      },
+      {
+        "ticker": "WFCO34",
+        "list": "bdrs",
+        "reason": "BDR de Wells Fargo, outra das quatro maiores instituições bancárias dos EUA."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar o desempenho do CTGP34 com o mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CTGP34",
+      "url": "https://finance.yahoo.com/quote/CTGP34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CITIGROUP, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50105/CTGP/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Citigroup",
+      "url": "https://www.wikidata.org/wiki/Q219508",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Citigroup",
+      "url": "https://en.wikipedia.org/wiki/Citigroup",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Citigroup",
+      "url": "https://pt.wikipedia.org/wiki/Citigroup",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

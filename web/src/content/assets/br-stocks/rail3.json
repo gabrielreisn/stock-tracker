@@ -1,0 +1,414 @@
+{
+  "ticker": "RAIL3",
+  "slug": "rail3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RAIL3: história, dividendos e volatilidade",
+    "description": "RAIL3 é a ação ordinária da Rumo Logística, maior operadora privada de ferrovias de carga do Brasil.",
+    "h1": "RAIL3: Rumo Logística (RUMO S.A.)",
+    "canonicalPath": "/acoes/rail3",
+    "keywords": [
+      "RAIL3",
+      "Rumo Logística",
+      "RUMO S.A.",
+      "ação ferroviária",
+      "dividendos RAIL3",
+      "volatilidade RAIL3",
+      "Cosan",
+      "transporte ferroviário"
+    ]
+  },
+  "summary": "RAIL3 é a ação ordinária da Rumo Logística (RUMO S.A.), a maior operadora privada de ferrovias de carga do Brasil, com cerca de 14 mil quilômetros de malhas nos estados de Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, São Paulo, Santa Catarina, Rio Grande do Sul e Tocantins. A companhia, controlada pela Cosan, transporta grãos, minérios e contêineres. Em 30/10/2026, a ação cotava a R$ 13,71, com rentabilidade total de -13,66% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Rumo Logística",
+    "legalName": "RUMO S.A.",
+    "ticker": "BVMF RAIL3",
+    "isin": "BRRAILACNOR9",
+    "taxId": "02.387.241/0001-60",
+    "foundingDate": "1997-09-30",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.rumolog.com",
+    "wikidata": "Q26234621",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q26234621",
+      "https://pt.wikipedia.org/wiki/Rumo_Log%C3%ADstica",
+      "https://en.wikipedia.org/wiki/Rumo_Log%C3%ADstica",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/17450/RAIL/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Rumo Logística",
+    "legalName": "RUMO S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Bens Industriais",
+    "segment": "Transporte Ferroviário",
+    "founded": "30/09/1997",
+    "listedSince": "15/03/2004",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.rumolog.com"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "RUMO S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.387.241/0001-60",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Bens Industriais / Transporte Ferroviário",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "30/09/1997",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "15/03/2004",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "RAIL3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 13,71",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "41,07% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,20",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,79%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RAIL3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Rumo S.A.",
+    "currency": "BRL",
+    "price": 13.71,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.1366,
+      "3y": -0.3428,
+      "5y": -0.1222,
+      "10y": 1.036
+    },
+    "volatility1y": 0.4107,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4597,
+      "from": "2023-07-25",
+      "to": "2026-06-18"
+    },
+    "beta1y": {
+      "value": 1.2,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.1084,
+      "payments12Months": 1,
+      "yield12Months": 0.0079,
+      "lastPayment": {
+        "date": "2026-04-29",
+        "amount": 0.108402
+      }
+    },
+    "avgDailyTradedValue3m": 229247272
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da RAIL3 nos 12 meses até 30/10/2026 foi de 41,07%, um nível considerado muito alto. O beta de 1,20 contra o Ibovespa indica que a ação tende a se mover com maior amplitude que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -45,97%, entre 25/07/2023 e 18/06/2026. Ações de infraestrutura e logística costumam apresentar volatilidade moderada, mas a RAIL3 apresenta oscilações mais acentuadas, possivelmente ligadas a eventos específicos do setor e à sensibilidade a mudanças no volume de cargas. Para acompanhar a variação de preço e definir alertas, utilize os [alertas de preço](/recursos/alertas-de-preco) e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A história da Rumo Logística tem origem na Ferrovia Sul Atlântico, fundada em 1997, que passou por um processo de privatização e iniciou operações no Paraná, Santa Catarina e Rio Grande do Sul. Em 1998, a empresa começou a operar em São Paulo e, em 2001, adquiriu a Delara Ltda., expandindo suas atividades para a Argentina, Chile e Uruguai. Em 2006, as operações foram estendidas para Mato Grosso e Mato Grosso do Sul. A empresa antecessora, a América Latina Logística (ALL), perdeu as concessões na Argentina em 2013 por violações contratuais, o que a levou a focar no mercado brasileiro. Em 2014, a ALL se fundiu com a Rumo, do conglomerado Cosan, formando a empresa atual, avaliada em R$ 11 bilhões na época. A companhia detém cinco contratos de concessão com o Governo Federal, administrados pela Agência Nacional de Transportes Terrestres, e em 2022 iniciou a construção da Ferrovia Estadual de Mato Grosso, com 743 km de extensão. Em 2025, a Rumo aprovou a incorporação de ações da Rumo Malha Norte e anunciou a reorganização societária da subsidiária, além de rescindir o acordo do Terminal T39. Em 2026, houve alteração no cargo de Diretor Presidente e o 5º Aditivo ao Contrato de Concessão da Malha Oeste.",
+    "timeline": [
+      {
+        "date": "1997-09-30",
+        "event": "Constituição da companhia RUMO S.A.",
+        "source": 2
+      },
+      {
+        "date": "1998-07-02",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2004-03-15",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2013-06-04",
+        "event": "Cancelamento das concessões da ALL na Argentina pelo governo argentino",
+        "source": 4
+      },
+      {
+        "date": "2014",
+        "event": "Fusão da ALL com a Rumo (Cosan) para formar a empresa atual",
+        "source": 4
+      },
+      {
+        "date": "2022",
+        "event": "Início da construção da Ferrovia Estadual de Mato Grosso",
+        "source": 4
+      },
+      {
+        "date": "2024-05-06",
+        "event": "Interrupção parcial de atividades devido a chuvas e inundações no Rio Grande do Sul",
+        "source": 4
+      },
+      {
+        "date": "2025-02-19",
+        "event": "Reorganização Societária da Rumo Malha Norte",
+        "source": 13
+      },
+      {
+        "date": "2025-02-20",
+        "event": "Publicação do Guidance 2025",
+        "source": 12
+      },
+      {
+        "date": "2025-06-02",
+        "event": "Anúncio de potencial incorporação de ações da Malha Norte pela Rumo",
+        "source": 11
+      },
+      {
+        "date": "2025-06-04",
+        "event": "Aprovação em reunião do CA os atos relativos à incorporação de ações",
+        "source": 10
+      },
+      {
+        "date": "2025-06-05",
+        "event": "Rescisão de Acordo - Terminal T39",
+        "source": 9
+      },
+      {
+        "date": "2025-11-14",
+        "event": "Alterações na composição do conselho de administração e comitês de assessoramento",
+        "source": 8
+      },
+      {
+        "date": "2026-06-22",
+        "event": "Alteração de Diretor Presidente",
+        "source": 7
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Rumo Logística ganha dinheiro",
+      "body": "A Rumo Logística (RUMO S.A.) atua na prestação de serviços de transporte de cargas através dos modais ferroviário e rodoviário, de forma intermodal ou multimodal. A companhia é a maior operadora privada de ferrovias de carga do país, com cerca de 14 mil quilômetros de malhas em nove estados brasileiros. A base de ativos é formada por 1.400 locomotivas e 35 mil vagões, além de 10 terminais de transbordo e 5 terminais nos principais portos. A empresa transporta grãos, biocombustíveis, açúcar, minérios, celulose, contêineres e bens de consumo, conectando regiões produtoras aos portos. A receita vem de cinco contratos de concessão com o Governo Federal, administrados pela Agência Nacional de Transportes Terrestres, que abrangem as malhas Sul, Norte, Central, Paulista e Oeste."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Rumo Logística",
+      "body": "O controle acionário da RUMO S.A. é privado, mantido por uma holding, sendo a Cosan a controladora. A empresa está listada no segmento Novo Mercado da B3, o que exige o cumprimento de regras de governança corporativa mais rígidas. O código de negociação da ação ordinária é RAIL3. Ações ordinárias (ON) dão direito a voto em assembleias gerais e não têm preferência no recebimento de proventos em relação a outras classes, diferentemente das ações preferenciais (PN), que priorizam o recebimento de dividendos e JCP, mas geralmente não têm direito a voto."
+    },
+    {
+      "id": "proventos",
+      "heading": "RAIL3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a RAIL3 distribuiu R$ 0,1084 por ação em 1 pagamento, resultando em um dividend yield de 0,79%. O último pagamento foi de R$ 0,1084 em 29/04/2026. A companhia não detalha uma política de distribuição de lucros fixa nas fontes disponíveis, mas a remuneração aos acionistas ocorre por meio de dividendos. Para acompanhar os dividendos e JCP da RAIL3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da RAIL3",
+      "body": "A rentabilidade total com proventos da RAIL3 nos 12 meses até 30/10/2026 foi de -13,66%. Nos 3 anos, a variação foi de -34,28%, e nos 5 anos, de -12,22%. No período de 10 anos, a rentabilidade acumulada foi de 103,60%. O volume médio negociado por dia nos últimos 3 meses foi de R$ 229,2 milhões. Para comparar a rentabilidade da RAIL3 com o Ibovespa, CDI e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da RAIL3",
+      "body": "A volatilidade anualizada da RAIL3 nos 12 meses até 30/10/2026 foi de 41,07%, classificada como nível 'muito alta'. O beta de 1,20 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com maior intensidade. A maior queda nos últimos 5 anos foi de -45,97%, do pico em 25/07/2023 ao ponto mais baixo em 18/06/2026. Riscos setoriais incluem a dependência de contratos de concessão, a exposição a eventos climáticos (como as inundações no Rio Grande do Sul em 2024) e a volatilidade do volume de cargas transportadas. Para monitorar a volatilidade e definir pontos de atenção, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RAIL3 paga dividendos?",
+      "answer": "Sim, a RAIL3 distribuiu R$ 0,1084 por ação em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 0,79%. O último pagamento foi em 29/04/2026. Para acompanhar os proventos, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre RAIL3 e RAIL4?",
+      "answer": "RAIL3 é a ação ordinária (ON) da Rumo Logística, que dá direito a voto em assembleias. RAIL4 é a ação preferencial (PN), que prioriza o recebimento de dividendos e JCP, mas geralmente não tem direito a voto. As duas ações representam participação no capital da mesma empresa, mas com direitos distintos."
+    },
+    {
+      "question": "Quem controla a Rumo Logística?",
+      "answer": "O controle acionário da RUMO S.A. é privado, mantido por uma holding. A Cosan é a controladora da empresa. A companhia está listada no segmento Novo Mercado da B3."
+    },
+    {
+      "question": "Qual o setor da RAIL3?",
+      "answer": "A RAIL3 pertence ao setor de Bens Industriais, segmento de Transporte Ferroviário, segundo a classificação da B3. A empresa atua no transporte de cargas por ferrovias e rodovias, com foco em grãos, minérios e contêineres."
+    },
+    {
+      "question": "RAIL3 é volátil?",
+      "answer": "Sim, a volatilidade anualizada da RAIL3 nos 12 meses até 30/10/2026 foi de 41,07%, nível muito alto. A maior queda nos últimos 5 anos foi de -45,97%. Para monitorar a variação de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da RAIL3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da RAIL3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a RAIL3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a RAIL3 junto com suas outras ações, renda fixa e fundos em uma só visão, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CSAN3",
+        "list": "br-stocks",
+        "reason": "Cosan S.A. é a controladora da Rumo Logística, e a RAIL3 é uma das principais participações do grupo."
+      },
+      {
+        "ticker": "ECOR3",
+        "list": "br-stocks",
+        "reason": "EcoRodovias atua no setor de infraestrutura e logística, com concessões rodoviárias, similar ao modelo de concessões da Rumo."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Vale S.A. é uma das maiores transportadoras de minério de ferro, carga que a Rumo transporta em sua malha Oeste."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petrobras é uma das maiores transportadoras de combustíveis, carga que a Rumo transporta em sua malha Paulista."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RAIL3",
+      "url": "https://finance.yahoo.com/quote/RAIL3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: RUMO S.A., dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/17450/RAIL/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, RUMO S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Rumo Logística",
+      "url": "https://www.wikidata.org/wiki/Q26234621",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Rumo Logística",
+      "url": "https://pt.wikipedia.org/wiki/Rumo_Log%C3%ADstica",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Rumo Logística",
+      "url": "https://en.wikipedia.org/wiki/Rumo_Log%C3%ADstica",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/07/2026, “5o Aditivo ao Contrato de Concessão da Malha Oeste”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1540608&numSequencia=1065314&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/06/2026, “Alteração de Diretor Presidente”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536674&numSequencia=1061380&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/11/2025, “Alterações composição conselho de administração e comitês de assessoramento”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1445834&numSequencia=970546&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/06/2025, “Rescisão de Acordo - Terminal T39”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1387396&numSequencia=912108&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/06/2025, “Aprovação em reunião do CA os atos relativos à incorporação de ações pretendida pelas Companhias”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1391024&numSequencia=915736&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/06/2025, “Potencial incorporação de ações da Malha Norte pela Rumo”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1385948&numSequencia=910660&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/02/2025, “Guidance 2025”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1337484&numSequencia=862210&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/02/2025, “Reorganização Societária da Rumo Malha Norte”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1337547&numSequencia=862273&numVersao=2",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

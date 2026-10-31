@@ -1,0 +1,392 @@
+{
+  "ticker": "CMIG4",
+  "slug": "cmig4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CMIG4: história, dividendos e volatilidade",
+    "description": "Conheça a CMIG4, ação preferencial da CEMIG, com dividend yield de 11,34% e atuação em energia elétrica. Veja história, desempenho e riscos.",
+    "h1": "CMIG4: Companhia Energética de Minas Gerais",
+    "canonicalPath": "/acoes/cmig4",
+    "keywords": [
+      "CMIG4",
+      "CEMIG",
+      "ação preferencial",
+      "energia elétrica",
+      "dividendos",
+      "volatilidade",
+      "B3"
+    ]
+  },
+  "summary": "CMIG4 é a ação preferencial da Companhia Energética de Minas Gerais (CEMIG), uma das principais concessionárias de energia elétrica do Brasil, com sede em Belo Horizonte. A empresa atua na geração, transmissão, distribuição e comercialização de energia, além de possuir participações em gás natural. Em 30/10/2026, o ativo era cotado a R$ 10,05, com dividend yield de 11,34% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Companhia Energética de Minas Gerais",
+    "legalName": "CIA ENERG MINAS GERAIS - CEMIG",
+    "ticker": "BVMF CMIG4",
+    "isin": "BRCMIGACNPR3",
+    "taxId": "17.155.730/0001-64",
+    "foundingDate": "1952-05-22",
+    "address": {
+      "locality": "Belo Horizonte",
+      "region": "MG",
+      "country": "BR"
+    },
+    "website": "https://www.cemig.com.br",
+    "wikidata": "Q1121202",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1121202",
+      "https://pt.wikipedia.org/wiki/Companhia_Energ%C3%A9tica_de_Minas_Gerais",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/2453/CMIG/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Companhia Energética de Minas Gerais",
+    "legalName": "CIA ENERG MINAS GERAIS - CEMIG",
+    "type": "Ação preferencial (PN)",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "22/05/1952",
+    "listedSince": "14/01/1972",
+    "headquarters": "Belo Horizonte (MG)",
+    "website": "https://www.cemig.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "CIA ENERG MINAS GERAIS - CEMIG",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "17.155.730/0001-64",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estatal",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "22/05/1952",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Belo Horizonte (MG)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "14/01/1972",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "CMIG3, CMIG4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 10,05",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "27,13% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,87",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,34%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CMIG4",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Companhia Energética de Minas Gerais - CEMIG",
+    "currency": "BRL",
+    "price": 10.05,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0137,
+      "3y": 0.6454,
+      "5y": 1.5474,
+      "10y": 4.357
+    },
+    "volatility1y": 0.2713,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2506,
+      "from": "2026-04-10",
+      "to": "2026-08-20"
+    },
+    "beta1y": {
+      "value": 0.87,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.1394,
+      "payments12Months": 6,
+      "yield12Months": 0.1134,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.069913
+      }
+    },
+    "avgDailyTradedValue3m": 194588183
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de CMIG4 nos 12 meses até 30/10/2026 foi de 27,13%, nível classificado como alto. A maior queda nos últimos 5 anos foi de -25,06%, entre 10/04/2026 e 20/08/2026. O beta de 0,87 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com menor intensidade, mas na mesma direção. Isso significa que, em períodos de alta do Ibovespa, CMIG4 tende a subir menos, e em períodos de baixa, tende a cair menos. [Veja o desempenho e o preço médio](/recursos/desempenho-e-preco-medio) para entender como a volatilidade impacta a rentabilidade da sua posição."
+  },
+  "history": {
+    "overview": "A Companhia Energética de Minas Gerais (CEMIG) foi fundada em 22 de maio de 1952 pelo então governador de Minas Gerais, Juscelino Kubitschek de Oliveira. A empresa consolidou-se como uma das maiores concessionárias de energia elétrica da América do Sul, com atuação em 24 estados e no Distrito Federal. Em 1971, obteve registro de companhia aberta na CVM, e em 14 de janeiro de 1972, suas ações começaram a ser negociadas na B3. A CEMIG opera de forma integrada, com forte presença na geração de energia renovável (100% de sua matriz é renovável, totalizando 5,9 GW), sendo a terceira maior geradora do país, e na distribuição, onde atende quase 9 milhões de consumidores, respondendo por 96% do abastecimento em Minas Gerais. A empresa também atua na transmissão, com mais de 10.000 km de rede, e na comercialização de energia para clientes livres. Além da energia elétrica, a CEMIG possui 99,6% da Gasmig, distribuidora de gás natural no estado. Recentemente, a companhia anunciou planos de privatização, integrando-se ao Plano de Recuperação Econômica da União. Em 2026, a empresa passou por mudanças na diretoria e no conselho de administração, além de lidar com um incidente de segurança cibernética e a prorrogação da concessão da UHE Sá Carvalho.",
+    "timeline": [
+      {
+        "date": "1952-05-22",
+        "event": "Constituição da Companhia Energética de Minas Gerais (CEMIG) por Juscelino Kubitschek de Oliveira.",
+        "source": 2
+      },
+      {
+        "date": "1971-06-30",
+        "event": "Registro da CEMIG como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "1972-01-14",
+        "event": "Início da cotação das ações da CEMIG na B3.",
+        "source": 1
+      },
+      {
+        "date": "2026-05-07",
+        "event": "Fato relevante sobre a eleição de novo Presidente da CEMIG.",
+        "source": 12
+      },
+      {
+        "date": "2026-05-14",
+        "event": "Fato relevante sobre incidente de segurança cibernética com exposição de dados pessoais.",
+        "source": 11
+      },
+      {
+        "date": "2026-05-27",
+        "event": "Julgamento do Tribunal Regional Federal da 1ª Região (TRF1) sobre a RBSE.",
+        "source": 10
+      },
+      {
+        "date": "2026-06-12",
+        "event": "Fato relevante sobre a nova composição da Diretoria Executiva.",
+        "source": 9
+      },
+      {
+        "date": "2026-08-28",
+        "event": "Prorrogação da Concessão da UHE Sá Carvalho.",
+        "source": 7
+      },
+      {
+        "date": "2026-08-28",
+        "event": "Indicações pelo Acionista Controlador para o Conselho de Administração e Presidência da CEMIG.",
+        "source": 8
+      },
+      {
+        "date": "2026-08-31",
+        "event": "Fato relevante sobre a Prorrogação da Concessão da UHE Sá Carvalho.",
+        "source": 6
+      },
+      {
+        "date": "2026-09-11",
+        "event": "Fato relevante sobre a Eleição de Presidente e de Presidente do Conselho de Administração.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Companhia Energética de Minas Gerais ganha dinheiro",
+      "body": "A Companhia Energética de Minas Gerais (CEMIG) atua de forma integrada no setor de energia elétrica, com atividades em geração, transmissão, distribuição e comercialização. A empresa possui participações em 89 empreendimentos de geração, totalizando 5,9 GW de potência, sendo 100% proveniente de fontes renováveis (76 usinas hidrelétricas, 6 parques eólicos e 1 usina fotovoltaica). Na distribuição, a CEMIG atende quase 9 milhões de consumidores, sendo a maior distribuidora do Brasil em extensão de rede, com mais de 415 subestações, e é responsável por 96% do abastecimento em Minas Gerais. A companhia também opera uma rede de transmissão de mais de 10.000 km e é a maior comercializadora de energia para clientes livres no país. Além da energia elétrica, a CEMIG possui 99,6% da Gasmig, distribuidora de gás natural em Minas Gerais, e atua em geração distribuída por meio da Cemig SIM, com foco em energia solar e eficiência energética."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Companhia Energética de Minas Gerais",
+      "body": "A CEMIG é uma companhia de capital aberto controlada pelo Governo do Estado de Minas Gerais, com controle acionário estatal. As ações são negociadas na B3 sob os códigos CMIG3 (ações ordinárias) e CMIG4 (ações preferenciais). Ações preferenciais (PN) não dão direito a voto em assembleias, mas têm preferência no recebimento de dividendos e no retorno do capital em caso de liquidação. A empresa está listada no Nível 1 da B3, o que exige um padrão mínimo de governança corporativa. A CEMIG possui 200 mil acionistas em 39 países, e suas ações também são negociadas na Bolsa de Valores de Nova York e na Bolsa de Madri."
+    },
+    {
+      "id": "proventos",
+      "heading": "CMIG4 paga dividendos?",
+      "body": "CMIG4 paga dividendos com regularidade. Nos 12 meses até 30/10/2026, a empresa distribuiu R$ 1,1394 por ação em 6 pagamentos, resultando em um dividend yield de 11,34%. O último pagamento foi de R$ 0,0699 em 23/09/2026. A empresa é conhecida por sua política de remuneração aos acionistas, que reflete a geração de caixa de seus negócios de energia. [Veja os dividendos e JCP no app](/recursos/proventos) para acompanhar as datas de pagamento e o valor total recebido."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da CMIG4",
+      "body": "A rentabilidade total de CMIG4 com proventos nos 12 meses até 30/10/2026 foi de -1,37%. Nos 3 anos, o retorno foi de 64,54%, e nos 5 anos, de 154,74%. Nos 10 anos, a rentabilidade acumulada foi de 435,70%. Esses números mostram a variação do preço da ação e os proventos recebidos ao longo dos períodos. [Compare a CMIG4 com o Ibovespa e o CDI](/recursos/comparacao-com-indices) para entender como ela se comportou em relação a outros investimentos."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da CMIG4",
+      "body": "A CEMIG opera em um setor regulado, o que traz riscos relacionados a mudanças na regulação do setor elétrico, como a prorrogação de concessões e decisões de tribunais. Em 2026, a empresa enfrentou um incidente de segurança cibernética com exposição de dados pessoais e um julgamento do TRF1 sobre a RBSE. A volatilidade anualizada de CMIG4 nos 12 meses até 30/10/2026 foi de 27,13%, classificada como alta. A maior queda nos últimos 5 anos foi de -25,06%, entre 10/04/2026 e 20/08/2026. O beta de 0,87 indica que a ação tende a acompanhar os movimentos do Ibovespa com menor intensidade. [Use alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações e [acompanhe a carteira consolidada](/recursos/carteira-consolidada) para avaliar a diversificação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CMIG4 paga dividendos?",
+      "answer": "Sim, CMIG4 paga dividendos com regularidade. Nos 12 meses até 30/10/2026, a empresa distribuiu R$ 1,1394 por ação em 6 pagamentos, com dividend yield de 11,34%. O último pagamento foi de R$ 0,0699 em 23/09/2026. [Veja os dividendos e JCP no app](/recursos/proventos) para acompanhar as datas de pagamento."
+    },
+    {
+      "question": "Qual a diferença entre CMIG3 e CMIG4?",
+      "answer": "CMIG3 é a ação ordinária da CEMIG, que dá direito a voto em assembleias, mas não tem preferência no recebimento de dividendos. CMIG4 é a ação preferencial, que não dá direito a voto, mas tem preferência no recebimento de dividendos e no retorno do capital em caso de liquidação. Ambas são negociadas na B3."
+    },
+    {
+      "question": "CMIG4 é uma empresa estatal?",
+      "answer": "Sim, a CEMIG é controlada pelo Governo do Estado de Minas Gerais, com controle acionário estatal. A empresa é uma das principais concessionárias de energia elétrica do Brasil, com atuação em 24 estados e no Distrito Federal."
+    },
+    {
+      "question": "Qual o setor da CMIG4?",
+      "answer": "CMIG4 está no setor de Utilidade Pública, segmento de Energia Elétrica. A empresa atua na geração, transmissão, distribuição e comercialização de energia elétrica, além de possuir participações em gás natural."
+    },
+    {
+      "question": "Qual a rentabilidade de CMIG4 nos últimos 5 anos?",
+      "answer": "A rentabilidade total de CMIG4 com proventos nos 5 anos até 30/10/2026 foi de 154,74%. Nos 12 meses, o retorno foi de -1,37%, e nos 3 anos, de 64,54%. [Compare a CMIG4 com o Ibovespa e o CDI](/recursos/comparacao-com-indices) para entender como ela se comportou em relação a outros investimentos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da CMIG4 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da CMIG4 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a CMIG4 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a CMIG4 junto com seus outros investimentos, com valor por classe, alocação e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CMIN3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de energia elétrica, com foco em mineração e energia."
+      },
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Outra concessionária de energia elétrica, com atuação em geração e distribuição."
+      },
+      {
+        "ticker": "CPFE3",
+        "list": "br-stocks",
+        "reason": "Outra empresa do setor de energia elétrica, com foco em geração e distribuição."
+      },
+      {
+        "ticker": "TAEE11",
+        "list": "br-stocks",
+        "reason": "Transmissora de energia elétrica, com participação da CEMIG."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CMIG4",
+      "url": "https://finance.yahoo.com/quote/CMIG4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CEMIG, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/2453/CMIG/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, CIA ENERG MINAS GERAIS - CEMIG",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Companhia Energética de Minas Gerais",
+      "url": "https://www.wikidata.org/wiki/Q1121202",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Companhia Energética de Minas Gerais",
+      "url": "https://pt.wikipedia.org/wiki/Companhia_Energ%C3%A9tica_de_Minas_Gerais",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/09/2026, “Fato Relevante - Eleição de Presidente e de Presidente do Conselho de Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1567618&numSequencia=1092324&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/08/2026, “Fato Relevante - Prorrogação da Concessão da UHE Sá Carvalho”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1563284&numSequencia=1087990&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/08/2026, “Prorrogação da Concessão da UHE Sá Carvalho”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1562249&numSequencia=1086955&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/08/2026, “Indicações pelo Acionista Controlador para o Conselho de Administração e Presidência da CEMIG”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1562820&numSequencia=1087526&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/06/2026, “Fato Relevante - Nova Composição da Diretoria Executiva”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1533939&numSequencia=1058645&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/05/2026, “Julgamento do Tribunal Regional Federal da 1ª Região (TRF1) sobre a RBSE”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1527534&numSequencia=1052240&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/05/2026, “Fato Relevante - Incidente de segurança cibernética com exposição de dados pessoais”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1522269&numSequencia=1046975&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/05/2026, “Fato Relevante - Eleição de novo Presidente”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1518290&numSequencia=1042996&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

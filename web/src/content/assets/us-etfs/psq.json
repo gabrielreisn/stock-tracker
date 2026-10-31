@@ -1,0 +1,275 @@
+{
+  "ticker": "PSQ",
+  "slug": "psq",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "PSQ: ETF inverso do Nasdaq-100, desempenho e riscos",
+    "description": "Conheça o PSQ, o ProShares Short QQQ: ETF que busca o desempenho diário inverso do Nasdaq-100.",
+    "h1": "PSQ: ProShares Short QQQ",
+    "canonicalPath": "/etfs/psq",
+    "keywords": [
+      "PSQ",
+      "ProShares Short QQQ",
+      "ETF inverso Nasdaq-100",
+      "ETF inverso",
+      "Nasdaq-100 inverso",
+      "investir em ETFs americanos",
+      "ETF de mercado baixista"
+    ]
+  },
+  "summary": "PSQ é o ProShares Short QQQ, um ETF que busca o desempenho diário inverso do índice Nasdaq-100. Emitido pela ProShares, o ativo opera com a premissa de valorizar quando o índice de tecnologia e empresas não financeiras cai. Em 30/10/2026, a cota estava em US$ 26,63, com rentabilidade negativa de -7,42% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "ProShares Short QQQ",
+    "ticker": "ARCX PSQ",
+    "foundingDate": "2006-06-21",
+    "provider": {
+      "name": "ProShares",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/ProShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF inverso",
+    "issuerOrManager": "ProShares",
+    "trackedIndex": "Nasdaq-100 (inverso)",
+    "name": "ProShares Short QQQ",
+    "founded": "21/06/2006"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ProShares Short QQQ",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "21/06/2006",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "-1x o desempenho diário do índice (-100%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 26,63",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "20,26% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-1,46",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,91%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 379,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PSQ",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ProShares Short QQQ",
+    "currency": "USD",
+    "price": 26.63,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0742,
+      "3y": -0.4454,
+      "5y": -0.4245,
+      "10y": -0.8622
+    },
+    "volatility1y": 0.2026,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.6152,
+      "from": "2022-10-14",
+      "to": "2026-10-06"
+    },
+    "beta1y": {
+      "value": -1.46,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.04,
+      "payments12Months": 4,
+      "yield12Months": 0.0391,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.257
+      }
+    },
+    "avgDailyTradedValue3m": 379090694
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do PSQ nos 12 meses até 30/10/2026 foi de 20,26%, nível considerado moderado. O beta de -1,46 contra o S&P 500 no mesmo período indica que, em média, o PSQ se move em direção oposta ao índice, com amplitude 1,46 vezes maior que a do S&P 500. A maior queda em 5 anos foi de -61,52%, entre 14/10/2022 e 06/10/2026. Para ativos inversos, essa volatilidade é esperada, pois o rebalanceamento diário amplifica os movimentos em mercados oscilantes. O [alerta de preço](/recursos/alertas-de-preco) no app pode ser usado para monitorar movimentos bruscos da cota."
+  },
+  "history": {
+    "overview": "O ProShares Short [QQQ](/etfs/qqq) (PSQ) nasceu em 2006, no mesmo ano em que a ProShares lançou seu primeiro ETF inverso. A emissora, ProShares, foi fundada em 1997 como ProFunds Group por Louis Mayberg e Michael Sapir, com foco inicial em fundos de mercado baixista. O PSQ estreou na bolsa em 21/06/2006, oferecendo exposição ao movimento oposto do Nasdaq-100. O índice Nasdaq-100, que o PSQ replica de forma inversa, foi criado em 1985 e passou por reestruturações metodológicas em 1998, 2011 e 2023 para atender a requisitos de diversificação e controle de concentração. A estrutura do PSQ, baseada em contratos futuros e vendas a descoberto, exige rebalanceamento diário, o que impacta diretamente a performance em horizontes longos.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fundação da ProFunds Group, precursora da ProShares, por Louis Mayberg e Michael Sapir.",
+        "source": 2
+      },
+      {
+        "date": "2006-06-21",
+        "event": "Primeiro pregão das cotas do ProShares Short QQQ (PSQ) na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2021-10",
+        "event": "ProShares lança um ETF que investe em contratos futuros de Bitcoin nos EUA.",
+        "source": 2
+      },
+      {
+        "date": "2023-07",
+        "event": "Nasdaq executa o terceiro rebalanceamento especial do Nasdaq-100 devido ao aumento da concentração do índice.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o PSQ funciona",
+      "body": "O PSQ é um ETF inverso que busca o desempenho diário oposto ao do índice Nasdaq-100. Isso significa que, se o índice cair 1% em um dia, o PSQ tende a subir 1%, e vice-versa. Para alcançar esse resultado, o fundo utiliza vendas a descoberto e contratos futuros, exigindo rebalanceamento diário da exposição. Esse mecanismo de rebalanceamento diário faz com que, em períodos longos, o retorno do PSQ se afaste do múltiplo inverso do índice, especialmente em mercados voláteis ou em tendência de alta, devido à perda por volatilidade. A emissora é a ProShares, que lançou o PSQ em 21/06/2006, no mesmo ano de sua fundação como emissora de ETFs inversos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do PSQ",
+      "body": "O PSQ replica de forma inversa o índice Nasdaq-100, que é composto por 100 das maiores empresas não financeiras listadas na bolsa Nasdaq. O índice é ponderado por capitalização de mercado ajustada pelo free float, com um limite máximo de 24% para o maior componente. As empresas do índice atuam em setores como tecnologia, varejo, telecomunicações, biotecnologia, saúde, transporte e serviços. A composição é recalculada anualmente, após o fechamento do terceiro dia útil de dezembro, e o free float é atualizado trimestralmente. O PSQ não possui ações diretas, mas usa derivativos para obter a exposição inversa."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no PSQ a partir do Brasil",
+      "body": "Investidores brasileiros podem acessar o PSQ por meio de uma conta em uma corretora de valores no exterior, que permite a negociação de ativos listados em bolsas americanas. Outra alternativa é buscar ETFs ou BDRs negociados na B3 que tenham exposição ao mesmo índice ou estratégia, embora a oferta de ETFs inversos do Nasdaq-100 na B3 seja limitada. Como o PSQ é cotado em dólar, o investidor brasileiro está exposto ao risco cambial: variações no câmbio entre o real e o dólar impactam diretamente o retorno em reais, independentemente do desempenho do próprio ativo nos Estados Unidos."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do PSQ",
+      "body": "Até 30/10/2026, o PSQ apresentava rentabilidade total com proventos de -7,42% nos últimos 12 meses, -44,54% em 3 anos, -42,45% em 5 anos e -86,22% em 10 anos. Esses números refletem a natureza do ativo, que tende a perder valor em mercados de alta ou estagnados. A volatilidade anualizada nos 12 meses até a data foi de 20,26%, classificada como moderada. Para avaliar o desempenho do PSQ em relação a outros ativos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade lado a lado com o S&P 500, Ibovespa e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do PSQ",
+      "body": "O principal risco do PSQ é a perda por volatilidade em horizontes longos, pois o rebalanceamento diário da exposição inversa tende a eroder o valor do fundo em mercados que não caem de forma linear. A maior queda nos últimos 5 anos foi de -61,52%, do pico em 14/10/2022 ao ponto mais baixo em 06/10/2026. Além disso, o ativo está exposto ao risco cambial para investidores brasileiros e ao risco de crédito das contrapartes dos contratos futuros. A volatilidade anualizada de 20,26% (12 meses até 30/10/2026) é moderada, mas o beta de -1,46 contra o S&P 500 indica que o PSQ tende a se mover em direção oposta ao índice, com amplitude maior que a do índice em mercados de alta."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar PSQ no app",
+      "body": "Para quem tem PSQ na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do PSQ lado a lado com o S&P 500, Ibovespa e outros benchmarks no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando a cota do PSQ chegar ao preço que você escolheu, útil para monitorar movimentos bruscos.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do PSQ junto com outros ativos da sua carteira, com valor por classe e as maiores posições."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o PSQ?",
+      "answer": "O PSQ é o ProShares Short QQQ, um ETF que busca o desempenho diário inverso do índice Nasdaq-100. Ele valoriza quando o índice cai e desvaloriza quando o índice sobe, usando vendas a descoberto e contratos futuros."
+    },
+    {
+      "question": "Por que o PSQ tem retorno negativo em 10 anos?",
+      "answer": "O PSQ teve retorno de -86,22% em 10 anos até 30/10/2026 porque é um ativo inverso. Em mercados de alta ou estagnados, o rebalanceamento diário da exposição inversa causa perda por volatilidade, erodindo o valor do fundo ao longo do tempo."
+    },
+    {
+      "question": "Qual a diferença entre PSQ e QQQ?",
+      "answer": "O QQQ busca o desempenho do Nasdaq-100, enquanto o PSQ busca o desempenho diário inverso do mesmo índice. Se o QQQ sobe 1%, o PSQ tende a cair 1%, e vice-versa. O PSQ é um ativo de estratégia de mercado baixista, não de longo prazo."
+    },
+    {
+      "question": "O PSQ paga dividendos?",
+      "answer": "Sim, o PSQ pagou US$ 1,0400 por cota em 4 pagamentos nos 12 meses até 30/10/2026, com dividend yield de 3,91%. O último pagamento foi de US$ 0,2570 em 23/09/2026. Esses proventos vêm dos rendimentos dos contratos futuros e não são dividendos de ações."
+    },
+    {
+      "question": "Como investir no PSQ a partir do Brasil?",
+      "answer": "É possível investir no PSQ por meio de uma corretora no exterior que negocie ativos americanos. Outra opção é buscar ETFs ou BDRs na B3 com exposição ao mesmo índice, embora a oferta de ETFs inversos do Nasdaq-100 na B3 seja limitada. O investidor está exposto ao risco cambial."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do PSQ lado a lado com o S&P 500, Ibovespa e outros benchmarks no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do PSQ chegar ao preço que você escolheu, útil para monitorar movimentos bruscos."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do PSQ junto com outros ativos da sua carteira, com valor por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "O QQQ é o ETF que busca o desempenho do Nasdaq-100, o índice que o PSQ replica de forma inversa."
+      },
+      {
+        "ticker": "SQQQ",
+        "list": "us-etfs",
+        "reason": "O SQQQ é outro ETF inverso do Nasdaq-100, com alavancagem de 3x, emitido pela ProShares."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "O SPY é o ETF do S&P 500, usado como referência de mercado amplo para comparar o desempenho do PSQ."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PSQ",
+      "url": "https://finance.yahoo.com/quote/PSQ/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nasdaq-100 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Nasdaq-100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): ProShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/ProShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Inverse exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Inverse_exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

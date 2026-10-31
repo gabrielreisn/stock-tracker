@@ -1,0 +1,397 @@
+{
+  "ticker": "BRSR6",
+  "slug": "brsr6",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BRSR6: história, dividendos e volatilidade",
+    "description": "BRSR6 é a ação preferencial do Banrisul, banco estatal do RS. Veja dividend yield de 12,44%, rentabilidade em 5 anos e volatilidade de 40,32% em",
+    "h1": "BRSR6: Banco do Estado do Rio Grande do Sul (Banrisul)",
+    "canonicalPath": "/acoes/brsr6",
+    "keywords": [
+      "BRSR6",
+      "Banrisul",
+      "ação preferencial Banrisul",
+      "dividendos BRSR6",
+      "BRSR6 dividend yield",
+      "banco estatal RS",
+      "BRSR6 volatilidade",
+      "BRSR6 rentabilidade"
+    ]
+  },
+  "summary": "BRSR6 é a ação preferencial classe B do Banco do Estado do Rio Grande do Sul (Banrisul), instituição financeira estatal com foco no Rio Grande do Sul e presença em outros estados. O banco atua em crédito, financiamento e investimentos. Em 30/10/2026, a ação cotava a R$ 12,36, com dividend yield de 12,44% nos últimos 12 meses e rentabilidade total de -0,33% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Banco do Estado do Rio Grande do Sul",
+    "legalName": "BANCO DO ESTADO DO RIO GRANDE DO SUL SA",
+    "ticker": "BVMF BRSR6",
+    "isin": "BRBRSRACNPB4",
+    "taxId": "92.702.067/0001-96",
+    "foundingDate": "1928-09-12",
+    "address": {
+      "locality": "Porto Alegre",
+      "region": "RS",
+      "country": "BR"
+    },
+    "website": "https://www.banrisul.com.br/ri",
+    "wikidata": "Q4857098",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q4857098",
+      "https://pt.wikipedia.org/wiki/Banrisul",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/1210/BRSR/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Banco do Estado do Rio Grande do Sul",
+    "legalName": "BANCO DO ESTADO DO RIO GRANDE DO SUL SA",
+    "type": "Ação preferencial classe B (PNB)",
+    "sector": "Financeiro",
+    "segment": "Bancos",
+    "founded": "12/09/1928",
+    "listedSince": "16/09/1931",
+    "headquarters": "Porto Alegre (RS)",
+    "website": "https://www.banrisul.com.br/ri"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "BANCO DO ESTADO DO RIO GRANDE DO SUL SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "92.702.067/0001-96",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Bancos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estatal",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "12/09/1928",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Porto Alegre (RS)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "16/09/1931",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "BRSR3, BRSR5, BRSR6",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 12,36",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "40,32% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,25",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "12,44%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BRSR6",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Banco do Estado do Rio Grande do Sul S.A.",
+    "currency": "BRL",
+    "price": 12.36,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0033,
+      "3y": 0.4625,
+      "5y": 0.6844,
+      "10y": 0.8736
+    },
+    "volatility1y": 0.4032,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.345,
+      "from": "2026-10-09",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.25,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.5379,
+      "payments12Months": 6,
+      "yield12Months": 0.1244,
+      "lastPayment": {
+        "date": "2026-09-14",
+        "amount": 0.220063
+      }
+    },
+    "avgDailyTradedValue3m": 36067571
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A BRSR6 apresentou volatilidade anualizada de 40,32% nos últimos 12 meses, um nível considerado muito alto. O beta de 1,25 contra o Ibovespa indica que a ação tende a oscilar 25% mais que o índice em movimentos de mercado. A maior queda em 5 anos foi de -34,50%, entre 09/10/2026 e 30/10/2026. Para ativos do setor financeiro, especialmente bancos regionais e estatais, essa volatilidade pode ser influenciada por fatores específicos da instituição e pelo cenário macroeconômico. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos significativos sem precisar monitorar a cotação continuamente."
+  },
+  "history": {
+    "overview": "O Banco do Estado do Rio Grande do Sul (Banrisul) foi fundado em 12 de setembro de 1928, por iniciativa do então presidente Getúlio Vargas, com o objetivo inicial de oferecer empréstimos de longo prazo a pecuaristas e produtores de arroz. As letras hipotecárias do banco tinham garantia do Estado, o que facilitava sua colocação no mercado. Em 1931, as ações começaram a ser negociadas na bolsa de valores. A instituição passou por expansões significativas, incorporando o Banco Popular e o Banco Pelotense na década de 1930 e, posteriormente, o Banco do Sul do Brasil e o Banco Regional de Pernambuco nas décadas de 1960 e 1970. Em 1971, a sigla BERGS foi substituída por BANRISUL para uma imagem mais popular. Em 1998, o banco incorporou a Caixa Econômica Estadual do Rio Grande do Sul. Hoje, é uma sociedade de economia mista controlada pelo Governo do Estado do Rio Grande do Sul, que detém 49,39% do capital total e 98,13% do capital votante, com foco no desenvolvimento econômico e social da região.",
+    "timeline": [
+      {
+        "date": "1928-09-12",
+        "event": "Constituição da companhia e fundação do banco",
+        "source": 2
+      },
+      {
+        "date": "1931-09-16",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2026-03-10",
+        "event": "Pagamento de Juros Sobre Capital Próprio Complementar 1T26",
+        "source": 12
+      },
+      {
+        "date": "2026-04-28",
+        "event": "Pagamento de Dividendo",
+        "source": 11
+      },
+      {
+        "date": "2026-05-08",
+        "event": "Renegociação do Contrato de Cessão Onerosa",
+        "source": 10
+      },
+      {
+        "date": "2026-06-09",
+        "event": "Pagamento de Juros Sobre Capital Próprio referente ao 2º trimestre de 2026",
+        "source": 9
+      },
+      {
+        "date": "2026-06-18",
+        "event": "Renegociação do Contrato FOPAG Estado RS 2026",
+        "source": 8
+      },
+      {
+        "date": "2026-07-02",
+        "event": "Formalização do Contrato - FOPAG RS",
+        "source": 7
+      },
+      {
+        "date": "2026-08-13",
+        "event": "Publicação de Guidance",
+        "source": 6
+      },
+      {
+        "date": "2026-09-08",
+        "event": "JSCP 3T26",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Banco do Estado do Rio Grande do Sul ganha dinheiro",
+      "body": "O Banco do Estado do Rio Grande do Sul (Banrisul) é um banco múltiplo que atua nas carteiras comercial, de crédito, de financiamento e de investimento, além de crédito imobiliário, de desenvolvimento, arrendamento mercantil e operações de câmbio. A instituição tem foco de negócios na Região Sul do Brasil, com presença também no Distrito Federal, Paraná, Rio de Janeiro, Santa Catarina e São Paulo. A missão do banco é promover o desenvolvimento econômico e social do Rio Grande do Sul, atendendo pessoas físicas, micro, pequenas e médias empresas, agronegócio e setor público. O grupo Banrisul é constituído pelo banco, pela Banrisul Administradora de Consórcios, pela Banrisul Corretora de Valores Mobiliários e Câmbio, pela Banrisul Armazéns Gerais e pela Banrisul Cartões S.A."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Banco do Estado do Rio Grande do Sul",
+      "body": "O Banrisul é uma sociedade de economia mista com controle acionário estatal. O Governo do Estado do Rio Grande do Sul é o maior acionista individual, com 49,39% de participação no capital total e 98,13% no capital votante. As ações são negociadas na B3 sob os códigos BRSR3 (ação ordinária), BRSR5 e BRSR6 (ações preferenciais). A ação BRSR6 é da classe B (PNB). Em termos gerais, ações preferenciais têm prioridade no recebimento de dividendos e no retorno do capital em caso de liquidação, mas não conferem direito a voto em assembleias, ao contrário das ações ordinárias. O banco está listado no Nível 1 de governança corporativa da B3."
+    },
+    {
+      "id": "proventos",
+      "heading": "BRSR6 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a BRSR6 distribuiu R$ 1,5379 por ação em 6 pagamentos, resultando em um dividend yield de 12,44%. O último pagamento registrado foi de R$ 0,2201 em 14/09/2026. A companhia tem realizado pagamentos regulares de dividendos e juros sobre capital próprio (JCP), como evidenciado pelos fatos relevantes de 2026, incluindo pagamentos em março, abril e junho. É possível acompanhar o histórico de [dividendos e JCP no app](/recursos/proventos), que lista as datas de competência e pagamento multiplicadas pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da BRSR6",
+      "body": "A rentabilidade total da BRSR6 com proventos foi de -0,33% nos 12 meses até 30/10/2026. Nos 3 anos, o retorno foi de 46,25%, e nos 5 anos, de 68,44%. Em 10 anos, a rentabilidade acumulada foi de 87,36%. O desempenho do ativo pode ser avaliado em comparação com índices de referência, como o Ibovespa e o CDI, através da ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da BRSR6",
+      "body": "A volatilidade anualizada da BRSR6 nos últimos 12 meses foi de 40,32%, classificada como muito alta. O beta do ativo contra o Ibovespa é de 1,25, o que indica que, historicamente, os movimentos da ação tendem a ser maiores que os do índice, na mesma direção. A maior queda em 5 anos foi de -34,50%, ocorrida entre o pico em 09/10/2026 e o ponto mais baixo em 30/10/2026. Como banco estatal, a BRSR6 está sujeita a riscos regulatórios, mudanças na política pública e a riscos específicos do setor financeiro, como crédito e liquidez. A alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BRSR6 paga dividendos?",
+      "answer": "Sim, a BRSR6 paga dividendos e juros sobre capital próprio (JCP). Nos 12 meses até 30/10/2026, foram distribuídos R$ 1,5379 por ação em 6 pagamentos, com dividend yield de 12,44%. O último pagamento foi de R$ 0,2201 em 14/09/2026. O histórico completo pode ser visto na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre BRSR3 e BRSR6?",
+      "answer": "BRSR3 é a ação ordinária do Banrisul, que confere direito a voto em assembleias. BRSR6 é a ação preferencial classe B, que tem prioridade no recebimento de dividendos e no retorno do capital em caso de liquidação, mas não dá direito a voto. Ambas são negociadas na B3, mas com características de governança e prioridade de proventos diferentes."
+    },
+    {
+      "question": "Quem controla o Banrisul?",
+      "answer": "O Banrisul é controlado pelo Governo do Estado do Rio Grande do Sul, que detém 49,39% do capital total e 98,13% do capital votante. É uma sociedade de economia mista, com controle acionário estatal."
+    },
+    {
+      "question": "BRSR6 é um banco estatal?",
+      "answer": "Sim, o Banco do Estado do Rio Grande do Sul (Banrisul) é um banco estatal, constituído na forma de sociedade de economia mista, com o Governo do Estado do Rio Grande do Sul como maior acionista. A instituição tem foco no desenvolvimento econômico e social do Rio Grande do Sul."
+    },
+    {
+      "question": "Qual a rentabilidade da BRSR6 nos últimos 5 anos?",
+      "answer": "A rentabilidade total da BRSR6 com proventos nos 5 anos até 30/10/2026 foi de 68,44%. Nos 3 anos, o retorno foi de 46,25%, e nos 12 meses, de -0,33%. Esses números podem ser comparados com o Ibovespa e o CDI na ferramenta de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Onde o Banrisul tem agências?",
+      "answer": "O Banrisul tem presença no Rio Grande do Sul, Distrito Federal, Paraná, Rio de Janeiro, Santa Catarina e São Paulo. A rede conta com 514 agências, 181 postos e 422 pontos de autoatendimento, além de 10.216 funcionários, segundo dados de março de 2020."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da BRSR6 com data de competência e data de pagamento, multiplicados pela sua quantidade de ações."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da BRSR6 com o Ibovespa, CDI e outros índices no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a BRSR6 chegar ao preço que você escolheu, útil para acompanhar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a BRSR6 junto com seus outros ativos, com valor por classe, alocação e as maiores posições em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor financeiro, para comparação entre bancos listados na B3."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial de outro grande banco brasileiro, útil para diversificação no setor."
+      },
+      {
+        "ticker": "BBAS3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária do Banco do Brasil, outro banco estatal, para comparação de governança e proventos."
+      },
+      {
+        "ticker": "SANB11",
+        "list": "br-stocks",
+        "reason": "Ação do Banco Santander (Brasil), para análise de pares no setor bancário."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BRSR6",
+      "url": "https://finance.yahoo.com/quote/BRSR6.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BANRISUL, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/1210/BRSR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, BANCO DO ESTADO DO RIO GRANDE DO SUL SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Banco do Estado do Rio Grande do Sul",
+      "url": "https://www.wikidata.org/wiki/Q4857098",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Banrisul",
+      "url": "https://pt.wikipedia.org/wiki/Banrisul",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/09/2026, “JSCP 3T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1565743&numSequencia=1090449&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/08/2026, “Guidance”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1556797&numSequencia=1081503&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/07/2026, “Formalização do Contrato - FOPAG RS”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1541255&numSequencia=1065961&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/06/2026, “Renegociação do Contrato FOPAG Estado RS 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536202&numSequencia=1060908&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/06/2026, “PAGAMENTO DE JUROS SOBRE CAPITAL PRÓPRIO REFERENTE AO 2º TRIMESTRE DE 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1532540&numSequencia=1057246&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/05/2026, “Renegociação do Contrato de Cessão Onerosa”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1518437&numSequencia=1043143&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/04/2026, “Pagamento de Dividendo”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1510024&numSequencia=1034730&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/03/2026, “Pagamento de Juros Sobre Capital Próprio Complementar 1T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1488356&numSequencia=1013062&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

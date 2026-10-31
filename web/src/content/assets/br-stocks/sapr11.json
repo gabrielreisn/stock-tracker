@@ -1,0 +1,408 @@
+{
+  "ticker": "SAPR11",
+  "slug": "sapr11",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SAPR11: história, dividendos e volatilidade",
+    "description": "Conheça a SAPR11, unit da Sanepar, estatal de saneamento do Paraná. Veja rentabilidade, dividendos, volatilidade e riscos do ativo em 2026.",
+    "h1": "SAPR11: Companhia de Saneamento do Paraná (Sanepar)",
+    "canonicalPath": "/acoes/sapr11",
+    "keywords": [
+      "SAPR11",
+      "Sanepar",
+      "ação saneamento",
+      "dividendos Sanepar",
+      "volatilidade SAPR11",
+      "unit Sanepar",
+      "SAPR3",
+      "SAPR4"
+    ]
+  },
+  "summary": "SAPR11 é a unit da Companhia de Saneamento do Paraná (Sanepar), estatal de economia mista que detém a concessão dos serviços públicos de saneamento básico em cidades do Paraná e em Porto União (SC). Com sede em Curitiba, a empresa abastecia 100% da população urbana com água tratada e quase 80% com coleta e tratamento de esgoto até 2023. Em 30/10/2026, a unit era negociada a R$ 30,57 na B3, com dividend yield de 1,81% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Companhia de Saneamento do Paraná",
+    "legalName": "CIA. DE SANEAMENTO DO PARANÁ - SANEPAR",
+    "ticker": "BVMF SAPR11",
+    "isin": "BRSAPRCDAM13",
+    "taxId": "76.484.013/0001-45",
+    "foundingDate": "1963-01-23",
+    "address": {
+      "locality": "Curitiba",
+      "region": "PR",
+      "country": "BR"
+    },
+    "website": "https://www.sanepar.com.br",
+    "wikidata": "Q9831851",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q9831851",
+      "https://pt.wikipedia.org/wiki/Companhia_de_Saneamento_do_Paran%C3%A1",
+      "https://en.wikipedia.org/wiki/Sanepar",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18627/SAPR/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Companhia de Saneamento do Paraná",
+    "legalName": "CIA. DE SANEAMENTO DO PARANÁ - SANEPAR",
+    "type": "Unit",
+    "sector": "Utilidade Pública",
+    "segment": "Água e Saneamento",
+    "founded": "23/01/1963",
+    "listedSince": "03/05/2002",
+    "headquarters": "Curitiba (PR)",
+    "website": "https://www.sanepar.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "CIA. DE SANEAMENTO DO PARANÁ - SANEPAR",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "76.484.013/0001-45",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Água e Saneamento",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 2",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estatal",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "23/01/1963",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Curitiba (PR)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "03/05/2002",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "SAPR3, SAPR4, SAPR11",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "GRANT THORNTON AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 30,57",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "40,87% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,17",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,81%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SAPR11",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Companhia de Saneamento do Paraná - SANEPAR",
+    "currency": "BRL",
+    "price": 30.57,
+    "historyStarts": "2017-12-26",
+    "returns": {
+      "1y": -0.0886,
+      "3y": 0.5522,
+      "5y": 1.1793,
+      "10y": null
+    },
+    "volatility1y": 0.4087,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3618,
+      "from": "2026-01-27",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.17,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.5524,
+      "payments12Months": 1,
+      "yield12Months": 0.0181,
+      "lastPayment": {
+        "date": "2026-01-02",
+        "amount": 0.552413
+      }
+    },
+    "avgDailyTradedValue3m": 68743179
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da SAPR11 foi de 40,87% nos 12 meses até 30/10/2026, classificada como muito alta. O beta contra o Ibovespa foi de 1,17, indicando que os movimentos da SAPR11 costumam ser maiores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -36,18%, do pico em 27/01/2026 ao ponto mais baixo em 30/10/2026. Para um ativo de saneamento, que geralmente é considerado de menor volatilidade, esse nível é elevado, possivelmente influenciado por fatores regulatórios e de governança específicos da empresa. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar a volatilidade do ativo."
+  },
+  "history": {
+    "overview": "A Companhia de Saneamento do Paraná (Sanepar) tem origem na Lei nº 4.684, sancionada em 23 de janeiro de 1963 pelo governador Ney Amintas de Barros Braga, que autorizou a constituição da Companhia de Água e Esgotos do Paraná (AGEPAR). A escritura pública de constituição foi lavrada em 30 de dezembro de 1963, data considerada judicialmente como de fundação da empresa. Em 19 de junho de 1964, a denominação foi alterada para Companhia de Saneamento do Paraná, e o primeiro sistema assumido foi o da capital, Curitiba. Em 1972, a Sanepar aderiu ao Plano Nacional de Saneamento (Planasa), ampliando sua base de operação para todo o estado. Em 2000, a companhia realizou sua oferta pública inicial (IPO) e, em 3 de maio de 2002, começou a cotar suas ações na B3. Até 2023, a empresa prestava serviços a 345 cidades paranaenses e a Porto União, em Santa Catarina, abastecendo 100% da população urbana com água tratada e quase 80% com coleta e tratamento de esgoto. Em 2023 e 2024, a Sanepar realizou leilões de Parcerias Público-Privadas (PPPs) para a expansão da coleta e tratamento de esgoto, com investimentos de R$ 1,2 bilhão e R$ 2,9 bilhões, respectivamente, visando atingir a meta de 90% de esgotamento sanitário até 2033. Em 2026, a companhia passou por um processo regulatório sobre o tratamento de precatórios, com a Agepar indeferindo o recurso da Sanepar e deferindo a prorrogação da implementação de um desconto tarifário, além de deliberar pela não distribuição de Juros sobre o Capital Próprio (JCP) no primeiro semestre de 2026.",
+    "timeline": [
+      {
+        "date": "1963-01-23",
+        "event": "Constituição da Companhia de Água e Esgotos do Paraná (AGEPAR) por lei estadual.",
+        "source": 2
+      },
+      {
+        "date": "1964-06-19",
+        "event": "Alteração da denominação social para Companhia de Saneamento do Paraná (SANEPAR).",
+        "source": 4
+      },
+      {
+        "date": "1972",
+        "event": "Adesão ao Plano Nacional de Saneamento (Planasa), ampliando a base de operação no estado.",
+        "source": 4
+      },
+      {
+        "date": "2000-03-10",
+        "event": "Registro da companhia como aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2002-05-03",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2023-07",
+        "event": "Leilão de PPP em consórcio com Aegea, Perfin e Kinea para R$ 1,2 bilhão em esgoto na região metropolitana de Curitiba.",
+        "source": 4
+      },
+      {
+        "date": "2024-09",
+        "event": "Licitação de 3 lotes de PPPs para R$ 2,9 bilhões em esgoto no Centro-Leste e Oeste do Paraná.",
+        "source": 4
+      },
+      {
+        "date": "2025-12-11",
+        "event": "Aprovação do Plano Plurianual de Investimentos 2026 a 2030 pelo Conselho de Administração.",
+        "source": 13
+      },
+      {
+        "date": "2026-03-23",
+        "event": "Abertura de consulta e audiência pública sobre a Nota Técnica nº 01/2026 - GTI da Agepar.",
+        "source": 12
+      },
+      {
+        "date": "2026-04-13",
+        "event": "Decisão da Agepar sobre a aplicação do Índice de Reajuste Tarifário 2026.",
+        "source": 11
+      },
+      {
+        "date": "2026-06-24",
+        "event": "Deliberação sobre a não distribuição de Juros sobre o Capital Próprio (JCP) no 1º semestre de 2026.",
+        "source": 7
+      },
+      {
+        "date": "2026-08-19",
+        "event": "Indeferimento pela Agepar do recurso da Sanepar contra a NT 02/2026 e prorrogação do desconto tarifário.",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Companhia de Saneamento do Paraná ganha dinheiro",
+      "body": "A Companhia de Saneamento do Paraná (Sanepar) atua na exploração de serviços públicos e de sistemas privados de abastecimento de água, de coleta, remoção e destinação final de efluentes e resíduos sólidos domésticos e industriais e seus subprodutos. A empresa detém a concessão dos serviços públicos de saneamento básico em cidades do Estado do Paraná e em Porto União, em Santa Catarina. Até 2023, a companhia prestava serviços a 345 cidades paranaenses e a Porto União, abastecendo 100% da população urbana com água tratada e quase 80% da população com acesso ao serviço de coleta e tratamento de esgoto. A Sanepar também opera aterros sanitários em Apucarana, Cornélio Procópio e Cianorte e possui 40% de participação na CS Bioenergia S.A., empresa voltada à geração de energia a partir de biodigestão de esgoto. Em 2023 e 2024, a empresa realizou leilões de Parcerias Público-Privadas (PPPs) para a expansão da coleta e tratamento de esgoto, com investimentos de R$ 1,2 bilhão e R$ 2,9 bilhões, respectivamente, com a meta de atingir 90% de esgotamento sanitário até 2033."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Companhia de Saneamento do Paraná",
+      "body": "O maior acionista da Companhia de Saneamento do Paraná (Sanepar) é o governo do Paraná, que detém 60% das ações. O principal acionista minoritário é o Consórcio Dominó, formado por capitais nacionais e franceses. A companhia possui mais de 380 mil acionistas do tipo pessoa física, segundo informações da B3. As ações da Sanepar são negociadas na B3 sob os códigos SAPR3, SAPR4 e SAPR11, sendo a SAPR11 uma unit. A empresa está listada no Nível 2 de governança corporativa da B3. A SAPR3 é a ação ordinária, que confere direito a voto em assembleias, enquanto a SAPR4 é a ação preferencial, que tem preferência na distribuição de proventos. A unit SAPR11 é um conjunto de ações que são negociadas de forma conjunta, geralmente combinando ações ordinárias e preferenciais na proporção definida pela emissora."
+    },
+    {
+      "id": "proventos",
+      "heading": "SAPR11 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a SAPR11 distribuiu R$ 0,5524 por ação em 1 pagamento, resultando em um dividend yield de 1,81%. O último pagamento foi de R$ 0,5524 em 02/01/2026. Em 24 de junho de 2026, a Sanepar deliberou pela não distribuição de Juros sobre o Capital Próprio (JCP) no primeiro semestre de 2026. O app permite acompanhar os [dividendos e JCP no app](/recursos/proventos), com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da SAPR11",
+      "body": "A rentabilidade total com proventos da SAPR11 foi de -8,86% nos 12 meses até 30/10/2026, 55,22% em 3 anos e 117,93% em 5 anos. A volatilidade anualizada nos 12 meses foi de 40,87%, classificada como muito alta. O beta contra o Ibovespa foi de 1,17. A maior queda nos últimos 5 anos foi de -36,18%, do pico em 27/01/2026 ao ponto mais baixo em 30/10/2026. O app oferece a [comparação com índices](/recursos/comparacao-com-indices), como o Ibovespa e o CDI, para avaliar o desempenho da carteira."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da SAPR11",
+      "body": "A Sanepar é uma estatal de economia mista, o que a expõe a riscos regulatórios e de governança associados ao controle estatal. Em 2026, a companhia enfrentou um processo regulatório sobre o tratamento de precatórios, com a Agepar indeferindo o recurso da Sanepar e deferindo a prorrogação da implementação de um desconto tarifário. A volatilidade anualizada da SAPR11 foi de 40,87% nos 12 meses até 30/10/2026, classificada como muito alta. A maior queda nos últimos 5 anos foi de -36,18%, do pico em 27/01/2026 ao ponto mais baixo em 30/10/2026. O beta contra o Ibovespa foi de 1,17, indicando que os movimentos da SAPR11 costumam ser maiores que os do índice, na mesma direção. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar a volatilidade do ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SAPR11 paga dividendos?",
+      "answer": "Sim, a SAPR11 distribuiu R$ 0,5524 por ação em 1 pagamento nos 12 meses até 30/10/2026, resultando em um dividend yield de 1,81%. O último pagamento foi de R$ 0,5524 em 02/01/2026. Em 24 de junho de 2026, a Sanepar deliberou pela não distribuição de Juros sobre o Capital Próprio (JCP) no primeiro semestre de 2026. O app permite acompanhar os [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre SAPR3, SAPR4 e SAPR11?",
+      "answer": "A SAPR3 é a ação ordinária da Sanepar, que confere direito a voto em assembleias. A SAPR4 é a ação preferencial, que tem preferência na distribuição de proventos. A SAPR11 é uma unit, que é um conjunto de ações negociadas de forma conjunta, geralmente combinando ações ordinárias e preferenciais na proporção definida pela emissora."
+    },
+    {
+      "question": "Quem controla a Sanepar?",
+      "answer": "O maior acionista da Companhia de Saneamento do Paraná (Sanepar) é o governo do Paraná, que detém 60% das ações. O principal acionista minoritário é o Consórcio Dominó, formado por capitais nacionais e franceses. A companhia possui mais de 380 mil acionistas do tipo pessoa física, segundo informações da B3."
+    },
+    {
+      "question": "Qual o setor da Sanepar?",
+      "answer": "A Sanepar atua no setor de Utilidade Pública, no segmento de Água e Saneamento. A empresa detém a concessão dos serviços públicos de saneamento básico em cidades do Estado do Paraná e em Porto União, em Santa Catarina."
+    },
+    {
+      "question": "A Sanepar é uma empresa estatal?",
+      "answer": "Sim, a Companhia de Saneamento do Paraná (Sanepar) é uma estatal de economia mista. O maior acionista é o governo do Paraná, que detém 60% das ações."
+    },
+    {
+      "question": "Qual a rentabilidade da SAPR11 nos últimos 5 anos?",
+      "answer": "A rentabilidade total com proventos da SAPR11 foi de 117,93% em 5 anos até 30/10/2026. A volatilidade anualizada nos 12 meses foi de 40,87%, classificada como muito alta. O app oferece a [comparação com índices](/recursos/comparacao-com-indices), como o Ibovespa e o CDI, para avaliar o desempenho da carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da SAPR11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da SAPR11 com o Ibovespa, CDI, IPCA, IFIX e S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para a SAPR11 e receba uma notificação quando o ativo chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a SAPR11 junto com outras ações, renda fixa e fundos em uma só visão, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SBSP3",
+        "list": "br-stocks",
+        "reason": "Outra empresa de saneamento básico, a Companhia de Saneamento Básico do Estado de São Paulo (SABESP), para comparação setorial."
+      },
+      {
+        "ticker": "CSMG3",
+        "list": "br-stocks",
+        "reason": "Companhia de Saneamento de Minas Gerais, outra empresa do setor de saneamento, para comparação setorial."
+      },
+      {
+        "ticker": "CPLE3",
+        "list": "br-stocks",
+        "reason": "Companhia Paranaense de Energia (COPEL), outra empresa do Paraná, para comparação regional."
+      },
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Equatorial S.A., empresa de energia, para comparação com outras utilidades públicas."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SAPR11",
+      "url": "https://finance.yahoo.com/quote/SAPR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SANEPAR, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18627/SAPR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, CIA. DE SANEAMENTO DO PARANÁ - SANEPAR",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Companhia de Saneamento do Paraná",
+      "url": "https://www.wikidata.org/wiki/Q9831851",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Companhia de Saneamento do Paraná",
+      "url": "https://pt.wikipedia.org/wiki/Companhia_de_Saneamento_do_Paran%C3%A1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Sanepar",
+      "url": "https://en.wikipedia.org/wiki/Sanepar",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/08/2026, “Indeferimento, pela AGEPAR, do recurso administrativo interposto pela Sanepar contra a NT 02/2026 e deferimento da prorrogação da implementação do desconto tarifário”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1559273&numSequencia=1083979&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/06/2026, “Deliberação sobre a não distribuição de Juros sobre o Capital Próprio (JCP) no 1º semestre de 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538169&numSequencia=1062875&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/06/2026, “Tratamento Regulatório do Precatório - Deliberação da Agepar sobre a Nota Técnica nº 02-2026-GTI”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537722&numSequencia=1062428&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/06/2026, “Eleição e Recondução da Diretoria Executiva”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536287&numSequencia=1060993&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/04/2026, “Impetração de Mandado de Segurança contra atos da AGEPAR relativos ao Precatório”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1506340&numSequencia=1031046&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/04/2026, “Decisão, pela Agepar, da aplicação do Índice de Reajuste Tarifário 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504447&numSequencia=1029153&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/03/2026, “Nota Técnica nº 01/2026 - GTI - Agepar - Proposta de Tratamento Regulatório Sobre os Precatórios e Abertura de Consulta e Audiência Pública”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1494047&numSequencia=1018753&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/12/2025, “Aprovação, pelo Conselho de Administração, do Plano Plurianual de Investimentos 2026 a 2030”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1456377&numSequencia=981089&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

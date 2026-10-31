@@ -1,0 +1,307 @@
+{
+  "ticker": "GSGI34",
+  "slug": "gsgi34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "GSGI34: BDR da Goldman Sachs, dividendos e volatilidade",
+    "description": "GSGI34 é o BDR da Goldman Sachs na B3. Veja dividendos, rentabilidade de 10 anos, volatilidade e riscos do BDR nível I em reais.",
+    "h1": "GSGI34: BDR da Goldman Sachs Group Inc.",
+    "canonicalPath": "/bdrs/gsgi34",
+    "keywords": [
+      "GSGI34",
+      "Goldman Sachs BDR",
+      "BDR nível I",
+      "dividendos GSGI34",
+      "volatilidade GSGI34",
+      "B3 Goldman Sachs"
+    ]
+  },
+  "summary": "GSGI34 é o BDR nível I da Goldman Sachs Group Inc., banco de investimento americano fundado em 1869. Negociado na B3 desde 2010, o ativo acompanha a ação GS na Bolsa de Nova Iorque e a variação do câmbio. Em 29/10/2026, cotava a R$ 166,18, com rentabilidade total de 17,35% nos últimos 12 meses e dividend yield de 1,32%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Goldman Sachs",
+    "legalName": "GOLDMAN SACHS GROUP INC.",
+    "ticker": "BVMF GSGI34",
+    "foundingDate": "1869",
+    "website": "https://www.goldmansachs.com/",
+    "wikidata": "Q193326",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q193326",
+      "https://en.wikipedia.org/wiki/Goldman_Sachs",
+      "https://pt.wikipedia.org/wiki/Goldman_Sachs",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50091/GSGI/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Goldman Sachs",
+    "legalName": "GOLDMAN SACHS GROUP INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1869",
+    "listedSince": "20/08/2010",
+    "headquarters": "200 West Street, Nova Iorque",
+    "website": "https://www.goldmansachs.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "GOLDMAN SACHS GROUP INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: GS",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "200 West Street, Nova Iorque",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1869",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "20/08/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 166,18",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "38,89% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,32%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GSGI34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "The Goldman Sachs Group, Inc.",
+    "currency": "BRL",
+    "price": 166.18,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1735,
+      "3y": 2.421,
+      "5y": 1.3605,
+      "10y": 9.5158
+    },
+    "volatility1y": 0.3889,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3832,
+      "from": "2021-11-01",
+      "to": "2022-06-10"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.1909,
+      "payments12Months": 4,
+      "yield12Months": 0.0132,
+      "lastPayment": {
+        "date": "2026-08-31",
+        "amount": 0.59199
+      }
+    },
+    "avgDailyTradedValue3m": 2632918
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do GSGI34 nos últimos 12 meses até 29/10/2026 foi de 38,89%, um nível considerado alto para o mercado. A maior queda em 5 anos foi de -38,32%, ocorrida entre o pico em 01/11/2021 e o ponto mais baixo em 10/06/2022. Como o BDR acompanha a ação GS na Bolsa de Nova Iorque, ele está sujeito à volatilidade do mercado americano e ao risco cambial. O beta não está disponível no dossiê, mas a alta volatilidade sugere movimentos amplos em relação a índices de referência. Para monitorar esses movimentos, o app oferece [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "A Goldman Sachs Group Inc. foi fundada em 1869 por Marcus Goldman em Nova Iorque. Em 1885, com a entrada de Samuel Sachs, a firma adotou o nome Goldman Sachs & Co. A empresa ingressou na Bolsa de Valores de Nova Iorque em 1896 e, em 1906, coordenou a oferta pública inicial da Sears, pioneira no uso do índice preço/lucro para avaliar empresas. Durante a Grande Depressão, em 1930, Sidney Weinberg assumiu a liderança e desviou o foco da empresa para o banco de investimento, recuperando a reputação da instituição após a crise de 1929. Em 1970, a falência da Penn Central Transportation Company gerou uma crise para a Goldman Sachs, resultando em investigações da SEC e no estabelecimento de agências de classificação de crédito para o papel comercial. A empresa consolidou sua posição global abrindo escritórios internacionais e diversificando suas operações, tornando-se uma das maiores instituições financeiras do mundo. O BDR GSGI34 foi listado na B3 em 20/08/2010, permitindo que investidores brasileiros acompanhassem a performance da empresa em reais.",
+    "timeline": [
+      {
+        "date": "1869",
+        "event": "Fundação da Goldman Sachs por Marcus Goldman em Nova Iorque.",
+        "source": 2
+      },
+      {
+        "date": "1885",
+        "event": "A firma adota o nome Goldman Sachs & Co. após a entrada de Samuel Sachs.",
+        "source": 3
+      },
+      {
+        "date": "1896",
+        "event": "A empresa ingressa na Bolsa de Valores de Nova Iorque (NYSE).",
+        "source": 4
+      },
+      {
+        "date": "1906",
+        "event": "Goldman Sachs coordena a oferta pública inicial da Sears.",
+        "source": 3
+      },
+      {
+        "date": "1930",
+        "event": "Sidney Weinberg assume a liderança e muda o foco da empresa para o banco de investimento.",
+        "source": 3
+      },
+      {
+        "date": "1970",
+        "event": "A falência da Penn Central Transportation Company gera crise e investigações para a Goldman Sachs.",
+        "source": 3
+      },
+      {
+        "date": "2010-08-20",
+        "event": "Listagem do BDR GSGI34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Goldman Sachs ganha dinheiro",
+      "body": "A Goldman Sachs Group Inc. é um banco de investimento multinacional dos Estados Unidos, sediado em Nova Iorque. A empresa atua em diversas áreas dos serviços financeiros, incluindo banco de investimento, assessoria em fusões e aquisições, subscrição de valores mobiliários, corretagem, gestão de ativos e gestão patrimonial. De acordo com a fonte 3, em 2025, a receita da empresa vinha de formador de mercado (31%), renda de juros líquidos (23%), gestão de ativos e patrimônio (20%), banco de investimento (16%), comissões e taxas de compensação (7%) e negociação própria (3%). A instituição é considerada sistemicamente importante pelo Financial Stability Board."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR GSGI34",
+      "body": "O GSGI34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Goldman Sachs Group Inc., que são listadas na Bolsa de Valores de Nova Iorque sob o ticker GS. O BDR foi listado na B3 em 20/08/2010. O preço do BDR acompanha a cotação da ação original em dólar e a variação do câmbio (dólar para real). Como é um BDR não patrocinado, a empresa não emite o certificado diretamente, mas uma instituição depositária o faz."
+    },
+    {
+      "id": "proventos",
+      "heading": "GSGI34 paga dividendos?",
+      "body": "A Goldman Sachs paga dividendos, que chegam ao investidor do BDR em reais, convertidos do dólar. Nos 12 meses até 29/10/2026, o GSGI34 distribuiu R$ 2,1909 por BDR em 4 pagamentos, resultando em um dividend yield de 1,32%. O último pagamento registrado foi de R$ 0,5920 em 31/08/2026. É possível acompanhar a data de pagamento e o valor de cada provento na seção de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do GSGI34",
+      "body": "Até 29/10/2026, o GSGI34 apresentava rentabilidade total de 17,35% em 12 meses, 242,10% em 3 anos, 136,05% em 5 anos e 951,58% em 10 anos. Esses retornos em reais incluem a variação do câmbio entre o dólar e o real. Para comparar essa performance com o mercado americano, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que exibe a rentabilidade do S&P 500 no mesmo período."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do GSGI34",
+      "body": "O principal risco do GSGI34 é o risco cambial, pois o valor em reais depende da cotação do dólar. A volatilidade anualizada do BDR nos últimos 12 meses foi de 38,89%, classificada como alta. A maior queda em 5 anos foi de -38,32%, entre 01/11/2021 e 10/06/2022. A liquidez é moderada, com volume médio de R$ 2,6 milhões por dia nos últimos 3 meses. Investidores podem configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GSGI34 paga dividendos?",
+      "answer": "Sim, o GSGI34 distribui proventos. Nos 12 meses até 29/10/2026, foram pagos R$ 2,1909 por BDR em 4 ocasiões, com dividend yield de 1,32%. O último pagamento foi de R$ 0,5920 em 31/08/2026. Os valores são convertidos do dólar para reais."
+    },
+    {
+      "question": "Qual a diferença entre GSGI34 e a ação GS?",
+      "answer": "O GSGI34 é o BDR da Goldman Sachs negociado na B3 em reais, enquanto a ação GS é a ação original negociada na Bolsa de Nova Iorque em dólar. O preço do GSGI34 reflete a cotação da GS e a variação do câmbio. O BDR permite que investidores brasileiros acessem a empresa sem abrir conta no exterior."
+    },
+    {
+      "question": "GSGI34 é BDR patrocinado ou não patrocinado?",
+      "answer": "O GSGI34 é um BDR não patrocinado de nível I. Isso significa que a Goldman Sachs não emite o certificado diretamente, mas uma instituição depositária o faz. O nível I é o mais simples e não exige que a empresa cumpra regras de divulgação da CVM."
+    },
+    {
+      "question": "Qual a rentabilidade do GSGI34 em 10 anos?",
+      "answer": "A rentabilidade total do GSGI34 em 10 anos até 29/10/2026 foi de 951,58%. Esse retorno em reais inclui a variação do câmbio entre o dólar e o real. É possível comparar esse desempenho com o S&P 500 na [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Quais os riscos de investir em GSGI34?",
+      "answer": "Os principais riscos são o risco cambial, a volatilidade e a liquidez. O BDR é sensível à variação do dólar, e a volatilidade anualizada de 38,89% indica movimentos amplos. A maior queda em 5 anos foi de -38,32%. O volume médio de R$ 2,6 milhões por dia pode limitar a liquidez em grandes volumes."
+    },
+    {
+      "question": "Como acompanhar o GSGI34 no app?",
+      "answer": "É possível usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a posição do GSGI34 na sua carteira, como a rentabilidade e o preço médio. O app também permite configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando o BDR atingir um valor específico."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o GSGI34 ao lado de outras posições, com alocação e valor por classe, na carteira consolidada."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do GSGI34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando o GSGI34 atingir um preço que você escolheu."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Acompanhe os dividendos do GSGI34 com data de pagamento e valor, multiplicados pela sua quantidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "JPMC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de banco de investimento americano, JPMorgan Chase, com perfil similar de risco e liquidez."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho com o mercado americano."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de tecnologia, para diversificação em outro setor do mercado americano."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR de tecnologia, para comparação com outras grandes empresas americanas."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GSGI34",
+      "url": "https://finance.yahoo.com/quote/GSGI34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: GOLDMANSACHS, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50091/GSGI/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Goldman Sachs",
+      "url": "https://www.wikidata.org/wiki/Q193326",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Goldman Sachs",
+      "url": "https://en.wikipedia.org/wiki/Goldman_Sachs",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Goldman Sachs",
+      "url": "https://pt.wikipedia.org/wiki/Goldman_Sachs",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

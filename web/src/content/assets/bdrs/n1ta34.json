@@ -1,0 +1,308 @@
+{
+  "ticker": "N1TA34",
+  "slug": "n1ta34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "N1TA34: BDR da NetApp, dividendos e volatilidade",
+    "description": "N1TA34 é o BDR da NetApp, empresa de infraestrutura de dados. Veja dividendos, desempenho, riscos e como acompanhar o ativo na B3.",
+    "h1": "N1TA34: BDR da NetApp Inc.",
+    "canonicalPath": "/bdrs/n1ta34",
+    "keywords": [
+      "N1TA34",
+      "NetApp BDR",
+      "BDR NetApp",
+      "N1TA34 dividendos",
+      "N1TA34 volatilidade",
+      "BDR nível I",
+      "NTAP B3"
+    ]
+  },
+  "summary": "N1TA34 é o BDR não patrocinado (nível I) da NetApp Inc., empresa americana de infraestrutura de dados e armazenamento em nuvem. Negociado na B3 desde 12/11/2019, o ativo acompanha a ação original NTAP na NASDAQ e o câmbio. Em 30/10/2026, cotava a R$ 77,06, com rentabilidade total de 74,60% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "NetApp",
+    "legalName": "NETAPP INC",
+    "ticker": "BVMF N1TA34",
+    "foundingDate": "1992",
+    "website": "https://www.netapp.com/",
+    "wikidata": "Q727883",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q727883",
+      "https://en.wikipedia.org/wiki/NetApp",
+      "https://pt.wikipedia.org/wiki/NetApp",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53228/N1TA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "NetApp",
+    "legalName": "NETAPP INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1992",
+    "listedSince": "12/11/2019",
+    "headquarters": "Sunnyvale",
+    "website": "https://www.netapp.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "NETAPP INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: NTAP",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Sunnyvale",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1992",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 77,06",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "49,00% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original NTAP em dólares)",
+      "value": "1,47",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,69%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,2 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "N1TA34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "NetApp, Inc.",
+    "currency": "BRL",
+    "price": 77.06,
+    "historyStarts": "2020-02-12",
+    "returns": {
+      "1y": 0.746,
+      "3y": 2.2071,
+      "5y": 1.3734,
+      "10y": null
+    },
+    "volatility1y": 0.49,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4096,
+      "from": "2024-12-04",
+      "to": "2025-04-07"
+    },
+    "beta1y": {
+      "value": 1.47,
+      "against": "S&P 500, ação original NTAP em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.5321,
+      "payments12Months": 4,
+      "yield12Months": 0.0069,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.13331
+      }
+    },
+    "avgDailyTradedValue3m": 1219028
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do N1TA34 nos últimos 12 meses é de 49,00%, um nível considerado muito alto. O beta da ação original NTAP, contra o S&P 500, é de 1,47, o que significa que a ação tende a ter movimentos maiores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -40,96%, entre 04/12/2024 e 07/04/2025. Para acompanhar esses movimentos e definir pontos de atenção, os [alertas de preço](/recursos/alertas-de-preco) podem ser úteis."
+  },
+  "history": {
+    "overview": "A NetApp foi fundada em 1992 por David Hitz, James Lau e Michael Malcolm, inicialmente com o nome Network Appliance, Inc. A empresa recebeu financiamento de capital de risco da Sequoia Capital em 1994 e realizou sua oferta pública inicial em 1995. Nos anos da bolha da internet, a receita anual cresceu para US$ 1 bilhão, mas caiu para US$ 800 milhões no ano fiscal de 2002 após o estouro da bolha. Em 2008, a empresa mudou oficialmente seu nome para NetApp, Inc., refletindo o apelido já conhecido no mercado. A gestão passou por mudanças significativas, com Tom Georgens assumindo a presidência em 2015, cargo que hoje é ocupado por George Kurian. Em 2019, o BDR N1TA34 foi listado na B3, permitindo que investidores brasileiros acompanhassem a empresa sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "1992",
+        "event": "Fundação da empresa, originalmente chamada de Network Appliance, Inc.",
+        "source": 2
+      },
+      {
+        "date": "1994",
+        "event": "Recebimento de financiamento de capital de risco da Sequoia Capital",
+        "source": 3
+      },
+      {
+        "date": "1995",
+        "event": "Oferta pública inicial (IPO) na bolsa de valores",
+        "source": 3
+      },
+      {
+        "date": "2008",
+        "event": "Mudança oficial do nome da empresa para NetApp, Inc.",
+        "source": 3
+      },
+      {
+        "date": "2015-06-01",
+        "event": "Tom Georgens deixa o cargo de CEO e é substituído por George Kurian",
+        "source": 3
+      },
+      {
+        "date": "2019-11-12",
+        "event": "Listagem do BDR N1TA34 na B3",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a NetApp ganha dinheiro",
+      "body": "A NetApp Inc. é uma empresa americana de infraestrutura de dados que fornece soluções de armazenamento de dados unificado, serviços de dados integrados e operações em nuvem (CloudOps) para clientes corporativos. A empresa, sediada em Sunnyvale, Califórnia, é membro do índice NASDAQ-100 e possui cerca de 12.000 funcionários. A receita da empresa vem da venda de hardware de armazenamento, software de gerenciamento de dados e serviços de nuvem, competindo com empresas como Dell EMC, Seagate e Western Digital no setor de armazenamento de dados."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR N1TA34",
+      "body": "O N1TA34 é um BDR não patrocinado (nível I) que representa a ação original da NetApp Inc., negociada na NASDAQ sob o ticker NTAP. O BDR é um recibo negociado na B3, em reais, lastreado em ações da empresa no exterior e emitido por uma instituição depositária. O preço do N1TA34 acompanha a variação da ação original em dólares e o câmbio do dólar em relação ao real. O ativo está listado na B3 desde 12/11/2019."
+    },
+    {
+      "id": "proventos",
+      "heading": "N1TA34 paga dividendos?",
+      "body": "Sim, o N1TA34 paga proventos. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 0,5321 por unidade em 4 pagamentos, resultando em um dividend yield de 0,69%. O último pagamento foi de R$ 0,1333 em 08/10/2026. É importante lembrar que a empresa paga dividendos em sua moeda local (dólar) e o valor é convertido para reais na hora do pagamento, o que significa que o investidor brasileiro também está exposto à variação cambial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do N1TA34",
+      "body": "A rentabilidade total do N1TA34, incluindo proventos, foi de 74,60% nos 12 meses até 30/10/2026, 220,71% em 3 anos e 137,34% em 5 anos. Esses retornos estão em reais e incluem a variação do câmbio do dólar em relação ao real, além da performance da ação original NTAP. Para entender melhor como esse desempenho se compara com outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado com o S&P 500, CDI e outros indicadores."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do N1TA34",
+      "body": "Os principais riscos do N1TA34 incluem a exposição ao câmbio, já que o BDR acompanha a ação original em dólares e o valor em reais varia com a taxa de câmbio. A volatilidade anualizada do ativo é de 49,00%, classificada como muito alta, e a maior queda nos últimos 5 anos foi de -40,96%, entre 04/12/2024 e 07/04/2025. A liquidez do BDR na B3 é menor que a da ação original, com volume médio de R$ 1,2 milhão por dia nos últimos 3 meses. Além disso, a empresa opera em um setor competitivo e está sujeita a riscos regulatórios e de mercado, como a disputa legal com a Sun Microsystems em 2007 e a investigação sobre o uso de seus produtos na Síria em 2011."
+    }
+  ],
+  "faq": [
+    {
+      "question": "N1TA34 paga dividendos?",
+      "answer": "Sim, o N1TA34 paga proventos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 0,5321 por BDR em 4 pagamentos, com um dividend yield de 0,69%. O último pagamento foi de R$ 0,1333 em 08/10/2026. É importante lembrar que a empresa paga em dólar e o valor é convertido para reais, o que inclui a variação cambial."
+    },
+    {
+      "question": "Qual a diferença entre N1TA34 e NTAP?",
+      "answer": "O N1TA34 é o BDR da NetApp negociado na B3, em reais, enquanto o NTAP é a ação original negociada na NASDAQ, em dólares. O N1TA34 acompanha a variação do NTAP e o câmbio do dólar em relação ao real. O BDR permite que investidores brasileiros acompanhem a empresa sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "question": "N1TA34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O N1TA34 é um BDR não patrocinado (nível I). Isso significa que a própria empresa não emite o BDR, mas sim uma instituição depositária. O BDR é negociado na B3 e acompanha a ação original NTAP na NASDAQ."
+    },
+    {
+      "question": "Qual o risco cambial do N1TA34?",
+      "answer": "O N1TA34 tem risco cambial porque acompanha a ação original NTAP, que é negociada em dólares. Quando o dólar se valoriza em relação ao real, o BDR tende a subir, e quando o dólar se desvaloriza, o BDR tende a cair. Esse risco é adicional ao risco da própria empresa."
+    },
+    {
+      "question": "Qual a liquidez do N1TA34 na B3?",
+      "answer": "A liquidez do N1TA34 na B3 é menor que a da ação original NTAP na NASDAQ. O volume médio negociado por dia nos últimos 3 meses é de R$ 1,2 milhão, o que pode afetar a facilidade de compra e venda do ativo."
+    },
+    {
+      "question": "Como acompanhar o desempenho do N1TA34?",
+      "answer": "O desempenho do N1TA34 pode ser acompanhado no app, que mostra a rentabilidade total, a volatilidade e a comparação com índices como o S&P 500 e o CDI. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) permite visualizar a evolução do ativo ao longo do tempo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do N1TA34 lado a lado com o S&P 500, CDI e outros indicadores no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o N1TA34 chegar ao preço que você escolheu, útil para acompanhar a volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o N1TA34 junto com seus outros investimentos, com valor por classe e alocação em uma só visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do N1TA34 e o preço médio da sua posição ao longo do tempo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com exposição similar ao setor de infraestrutura de dados."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de uma grande empresa de tecnologia, com presença no S&P 500."
+      },
+      {
+        "ticker": "ORCL34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de software e serviços em nuvem, competindo indiretamente com a NetApp."
+      },
+      {
+        "ticker": "S1TX34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de armazenamento de dados, competindo diretamente com a NetApp."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de N1TA34",
+      "url": "https://finance.yahoo.com/quote/N1TA34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: NETAPP INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53228/N1TA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: NetApp",
+      "url": "https://www.wikidata.org/wiki/Q727883",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): NetApp",
+      "url": "https://en.wikipedia.org/wiki/NetApp",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): NetApp",
+      "url": "https://pt.wikipedia.org/wiki/NetApp",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

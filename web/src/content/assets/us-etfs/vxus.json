@@ -1,0 +1,288 @@
+{
+  "ticker": "VXUS",
+  "slug": "vxus",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VXUS: ETF internacional, dividendos e volatilidade",
+    "description": "VXUS é o ETF da Vanguard que replica ações de mercados desenvolvidos e emergentes, excluindo os EUA.",
+    "h1": "VXUS: Vanguard Total International Stock Index Fund ETF Shares",
+    "canonicalPath": "/etfs/vxus",
+    "keywords": [
+      "VXUS",
+      "ETF internacional",
+      "Vanguard Total International Stock Index Fund",
+      "dividendos VXUS",
+      "volatilidade VXUS",
+      "como investir em VXUS do Brasil",
+      "FTSE All-World ex-US Index"
+    ]
+  },
+  "summary": "VXUS é a cota do Vanguard Total International Stock Index Fund ETF Shares, um ETF que replica o desempenho de ações de mercados desenvolvidos e emergentes, excluindo os Estados Unidos. Emitido pela Vanguard, com primeiro pregão em 28/01/2011, o ativo rendeu 13,99% nos 12 meses até 29/10/2026, com dividend yield de 2,37% e volatilidade anualizada de 17,16%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Total International Stock Index Fund ETF Shares",
+    "ticker": "XNAS VXUS",
+    "foundingDate": "2011-01-28",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice internacional",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "FTSE All-World ex-US Index",
+    "name": "Vanguard Total International Stock Index Fund ETF Shares",
+    "founded": "28/01/2011"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Total International Stock Index Fund ETF Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "28/01/2011",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 83,65",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,16% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,13",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,37%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 448,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VXUS",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Total International Stock Index Fund ETF Shares",
+    "currency": "USD",
+    "price": 83.65,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1399,
+      "3y": 0.768,
+      "5y": 0.4978,
+      "10y": 1.4169
+    },
+    "volatility1y": 0.1716,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2886,
+      "from": "2021-11-08",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 1.13,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.985,
+      "payments12Months": 4,
+      "yield12Months": 0.0237,
+      "lastPayment": {
+        "date": "2026-09-18",
+        "amount": 0.156
+      }
+    },
+    "avgDailyTradedValue3m": 448711952
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do VXUS é de 17,16%, classificada como moderada, o que indica oscilações de preço de magnitude intermediária. A maior queda nos últimos 5 anos foi de -28,86%, do pico em 08/11/2021 ao ponto mais baixo em 12/10/2022, refletindo a sensibilidade do ativo a correções de mercado. Em comparação com outros ETFs de índice, o VXUS apresenta volatilidade compatível com a exposição a mercados internacionais, que podem ser mais voláteis que o mercado doméstico dos Estados Unidos. O [alertas de preço](/recursos/alertas-de-preco) do app permite monitorar variações de preço e definir limites de compra ou venda, sem sugerir operações."
+  },
+  "history": {
+    "overview": "O Vanguard Total International Stock Index Fund ETF Shares (VXUS) foi lançado em 28/01/2011 pela The Vanguard Group, uma das maiores gestoras de fundos do mundo, com sede em Malvern, Pensilvânia. A Vanguard, fundada em 1975 por John C. Bogle, é reconhecida por popularizar os fundos de índice de baixo custo, sendo a maior provedora de fundos mútuos e a segunda maior de ETFs globalmente. O VXUS foi criado para oferecer exposição passiva ao mercado acionário global, com a exceção dos Estados Unidos, permitindo que investidores diversifiquem suas carteiras além do mercado doméstico americano. A estratégia de replicação de índices busca minimizar erros de rastreamento e custos, alinhando-se com a filosofia de investimento passivo da gestora. Desde seu lançamento, o ETF tem sido uma ferramenta amplamente utilizada por investidores que buscam exposição a mercados internacionais, tanto desenvolvidos quanto emergentes, sem a necessidade de selecionar individualmente as ações de cada país.",
+    "timeline": [
+      {
+        "date": "1951",
+        "event": "John C. Bogle conclui estudo na Princeton University sobre fundos mútuos e índices de mercado",
+        "source": 1
+      },
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group por John C. Bogle",
+        "source": 1
+      },
+      {
+        "date": "2011-01-28",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VXUS funciona",
+      "body": "O VXUS é um ETF que replica o desempenho do FTSE All-World ex-US Index, um índice que mede o retorno de ações de mercados desenvolvidos e emergentes, excluindo os Estados Unidos. A emissora é a The Vanguard Group, uma das maiores gestoras de fundos do mundo, com sede em Malvern, Pensilvânia. O ETF foi lançado em 28/01/2011 e opera com gestão passiva, buscando minimizar o erro de rastreamento em relação ao índice de referência. A estratégia de replicação de índices é uma das principais características da Vanguard, que é reconhecida por popularizar o investimento passivo de baixo custo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VXUS",
+      "body": "O VXUS segue o FTSE All-World ex-US Index, que inclui ações de mercados desenvolvidos e emergentes, excluindo os Estados Unidos. A composição do índice é baseada no valor de mercado das ações, com ponderação por capitalização. A Vanguard, como gestora, busca replicar a composição do índice, mantendo as mesmas proporções de ações. A diversificação geográfica e setorial do índice permite exposição a uma ampla gama de mercados e setores, reduzindo o risco específico de um único país ou setor."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VXUS a partir do Brasil",
+      "body": "Para investir no VXUS a partir do Brasil, é necessário abrir conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. O investimento é feito em dólar, o que implica risco cambial: variações no câmbio podem impactar o retorno do investimento. Alternativamente, é possível buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice ou mercados similares, como o [EEM](/etfs/eem) para mercados emergentes ou o [EFA](/etfs/efa) para mercados desenvolvidos. A [carteira consolidada](/recursos/carteira-consolidada) do app permite acompanhar a alocação e o desempenho de ativos internacionais junto com os demais investimentos."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VXUS",
+      "body": "O VXUS rendeu 13,99% nos 12 meses até 29/10/2026, 76,80% em 3 anos, 49,78% em 5 anos e 141,69% em 10 anos, considerando a rentabilidade total com proventos. O dividend yield é de 2,37%, com US$ 1,9850 por cota em 4 pagamentos nos 12 meses até 29/10/2026. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app permite acompanhar a evolução da rentabilidade e o custo médio da posição. A [comparação com índices](/recursos/comparacao-com-indices) permite avaliar o desempenho do VXUS em relação ao S&P 500, entre outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VXUS",
+      "body": "Os riscos do VXUS incluem a volatilidade dos mercados internacionais, que pode ser influenciada por fatores econômicos, políticos e cambiais. A volatilidade anualizada do ETF é de 17,16%, classificada como moderada, e a maior queda nos últimos 5 anos foi de -28,86%, do pico em 08/11/2021 ao ponto mais baixo em 12/10/2022. O beta de 1,13 contra o S&P 500 indica que o ETF tende a ter movimentos maiores que o índice, na mesma direção. O [alertas de preço](/recursos/alertas-de-preco) do app pode ajudar a monitorar variações de preço e definir pontos de entrada ou saída, sem sugerir operações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o VXUS?",
+      "answer": "VXUS é a cota do Vanguard Total International Stock Index Fund ETF Shares, um ETF que replica o desempenho de ações de mercados desenvolvidos e emergentes, excluindo os Estados Unidos. Emitido pela Vanguard, com primeiro pregão em 28/01/2011, o ativo rendeu 13,99% nos 12 meses até 29/10/2026, com dividend yield de 2,37% e volatilidade anualizada de 17,16%."
+    },
+    {
+      "question": "VXUS paga dividendos?",
+      "answer": "Sim, o VXUS paga dividendos. Nos 12 meses até 29/10/2026, distribuiu US$ 1,9850 por cota em 4 pagamentos, com dividend yield de 2,37%. O último pagamento foi de US$ 0,1560 em 18/09/2026. O app permite acompanhar os [dividendos e JCP](/recursos/desempenho-e-preco-medio) com data de pagamento e multiplicação pela quantidade de cotas."
+    },
+    {
+      "question": "Qual a diferença entre VXUS e EEM?",
+      "answer": "VXUS replica o FTSE All-World ex-US Index, que inclui mercados desenvolvidos e emergentes, excluindo os Estados Unidos. EEM, por sua vez, replica o MSCI Emerging Markets Index, focado apenas em mercados emergentes. A [comparação com índices](/recursos/comparacao-com-indices) do app permite avaliar o desempenho de ambos em relação a outros benchmarks."
+    },
+    {
+      "question": "Como investir no VXUS a partir do Brasil?",
+      "answer": "Para investir no VXUS, é necessário abrir conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. O investimento é feito em dólar, o que implica risco cambial. Alternativamente, é possível buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice ou mercados similares. A [carteira consolidada](/recursos/carteira-consolidada) do app permite acompanhar a alocação e o desempenho de ativos internacionais junto com os demais investimentos."
+    },
+    {
+      "question": "Qual a volatilidade do VXUS?",
+      "answer": "A volatilidade anualizada do VXUS é de 17,16%, classificada como moderada. A maior queda nos últimos 5 anos foi de -28,86%, do pico em 08/11/2021 ao ponto mais baixo em 12/10/2022. O [alertas de preço](/recursos/alertas-de-preco) do app permite monitorar variações de preço e definir limites de compra ou venda, sem sugerir operações."
+    },
+    {
+      "question": "VXUS é um ETF alavancado?",
+      "answer": "Não, o VXUS não é um ETF alavancado. Ele replica o desempenho do FTSE All-World ex-US Index sem alavancagem, buscando minimizar o erro de rastreamento. A estratégia de replicação de índices é uma das principais características da Vanguard, que é reconhecida por popularizar o investimento passivo de baixo custo."
+    },
+    {
+      "question": "Como acompanhar o desempenho do VXUS no app?",
+      "answer": "O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app permite acompanhar a evolução da rentabilidade e o custo médio da posição. A [comparação com índices](/recursos/comparacao-com-indices) permite avaliar o desempenho do VXUS em relação ao S&P 500, entre outros benchmarks. O [assistente de IA](/recursos/assistente-de-ia) do app permite perguntar em português sobre a carteira e os gastos, com respostas baseadas nos próprios dados do investidor."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação e o desempenho de ativos internacionais junto com os demais investimentos."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a evolução da rentabilidade e o custo médio da posição."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Avalie o desempenho do VXUS em relação ao S&P 500, entre outros benchmarks."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Monitore variações de preço e defina limites de compra ou venda, sem sugerir operações."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a carteira e os gastos, com respostas baseadas nos próprios dados do investidor."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "ETF de mercados emergentes, complementar ao VXUS para exposição a mercados em desenvolvimento."
+      },
+      {
+        "ticker": "EFA",
+        "list": "us-etfs",
+        "reason": "ETF de mercados desenvolvidos, complementar ao VXUS para exposição a mercados maduros."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho com o mercado doméstico dos Estados Unidos."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500 da Vanguard, para comparação de desempenho com o mercado doméstico dos Estados Unidos."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500 da iShares, para comparação de desempenho com o mercado doméstico dos Estados Unidos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VXUS",
+      "url": "https://finance.yahoo.com/quote/VXUS/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): FTSE Russell (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/FTSE_Russell",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Index fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Index_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

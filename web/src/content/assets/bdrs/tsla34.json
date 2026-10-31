@@ -1,0 +1,314 @@
+{
+  "ticker": "TSLA34",
+  "slug": "tsla34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TSLA34: BDR da Tesla, história e volatilidade",
+    "description": "Conheça o TSLA34, BDR da Tesla na B3. Veja desempenho, riscos, proventos e como o ativo reflete a ação TSLA e o câmbio. Atualizado até 29/10/2026.",
+    "h1": "TSLA34: BDR da Tesla, Inc.",
+    "canonicalPath": "/bdrs/tsla34",
+    "keywords": [
+      "TSLA34",
+      "BDR Tesla",
+      "ação Tesla Brasil",
+      "volatilidade TSLA34",
+      "dividendos TSLA34",
+      "B3 Tesla"
+    ]
+  },
+  "summary": "TSLA34 é o BDR nível I da Tesla, Inc., empresa norte-americana de veículos elétricos e energia limpa sediada em Austin. Listado na B3 desde 24/05/2016, o ativo reflete a cotação da ação TSLA na NASDAQ e a variação do dólar. Em 29/10/2026, a cotação era de R$ 67,41, com rentabilidade de -12,53% nos últimos 12 meses e volatilidade anualizada de 47,13%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Tesla",
+    "legalName": "TESLA. INC",
+    "ticker": "BVMF TSLA34",
+    "foundingDate": "2003-07-01",
+    "website": "https://www.tesla.com/",
+    "wikidata": "Q478214",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q478214",
+      "https://en.wikipedia.org/wiki/Tesla%2C_Inc.",
+      "https://pt.wikipedia.org/wiki/Tesla%2C_Inc.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51403/TSLA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Tesla",
+    "legalName": "TESLA. INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "01/07/2003",
+    "listedSince": "24/05/2016",
+    "headquarters": "Austin",
+    "website": "https://www.tesla.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "TESLA. INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: TSLA, Bolsa de Valores de Frankfurt: TL0, Xetra: TL0, Bolsa de Valores de Londres: 0R0X",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Austin",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "01/07/2003",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "24/05/2016",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 67,41",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "47,13% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original TSLA em dólares)",
+      "value": "2,17",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 79,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TSLA34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Tesla, Inc.",
+    "currency": "BRL",
+    "price": 67.41,
+    "historyStarts": "2017-01-19",
+    "returns": {
+      "1y": -0.1253,
+      "3y": 1.1675,
+      "5y": 0.0307,
+      "10y": null
+    },
+    "volatility1y": 0.4713,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7482,
+      "from": "2021-11-04",
+      "to": "2022-12-27"
+    },
+    "beta1y": {
+      "value": 2.17,
+      "against": "S&P 500, ação original TSLA em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 79340459
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do TSLA34 nos últimos 12 meses é de 47,13%, um nível muito alto para um BDR. O beta da ação original TSLA contra o S&P 500 é 2,17, o que significa que a ação tende a se mover com amplitude mais que o dobro do índice, na mesma direção. A maior queda em 5 anos foi de -74,82%, entre 04/11/2021 e 27/12/2022. Para monitorar movimentos bruscos de preço, o app oferece [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge um valor definido."
+  },
+  "history": {
+    "overview": "A Tesla, Inc. foi fundada em 01/07/2003 por Martin Eberhard e Marc Tarpenning em San Carlos, Califórnia, com o objetivo de produzir veículos elétricos de alto desempenho. Em 2004, Elon Musk liderou a primeira rodada de financiamento e assumiu a presidência do conselho, tornando-se CEO em 2008. A empresa iniciou a produção do Roadster em 2008 e, após a abertura de capital em 2010, expandiu sua linha com o Model S (2012), Model X (2015), Model 3 (2017) e Model Y (2020). Em 2016, a aquisição da SolarCity diversificou o negócio para armazenamento de energia e painéis solares, levando à mudança do nome para Tesla, Inc. em 2017. A empresa consolidou-se como a montadora mais valiosa do mundo a partir de 2020, atingindo a marca de US$ 1 trilhão em 2021 e novamente em 2024 e 2025. O BDR TSLA34 foi listado na B3 em 24/05/2016, permitindo que investidores brasileiros acompanhem a empresa sem a necessidade de conta no exterior.",
+    "timeline": [
+      {
+        "date": "2003-07-01",
+        "event": "Fundação da Tesla Motors por Martin Eberhard e Marc Tarpenning.",
+        "source": 2
+      },
+      {
+        "date": "2008-01",
+        "event": "Início da produção do Tesla Roadster, o primeiro carro esportivo elétrico da empresa.",
+        "source": 3
+      },
+      {
+        "date": "2010-06-29",
+        "event": "Abertura de capital (IPO) na NASDAQ, tornando-se a primeira montadora americana a listar ações desde 1956.",
+        "source": 3
+      },
+      {
+        "date": "2012-06",
+        "event": "Início da produção do Model S, sedã de luxo elétrico.",
+        "source": 3
+      },
+      {
+        "date": "2016-05-24",
+        "event": "Listagem do BDR TSLA34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2016-11",
+        "event": "Aquisição da SolarCity por US$ 2,6 bilhões, expandindo o negócio para energia solar e armazenamento.",
+        "source": 3
+      },
+      {
+        "date": "2017-02",
+        "event": "Mudança do nome de Tesla Motors para Tesla, Inc. para refletir a diversificação do negócio.",
+        "source": 3
+      },
+      {
+        "date": "2020-01",
+        "event": "Tesla supera US$ 100 bilhões em valor de mercado, ultrapassando a soma de Ford e General Motors.",
+        "source": 4
+      },
+      {
+        "date": "2021-10",
+        "event": "Tesla atinge a marca de US$ 1 trilhão em capitalização de mercado.",
+        "source": 3
+      },
+      {
+        "date": "2023",
+        "event": "Início da produção da Cybertruck, caminhonete elétrica da empresa.",
+        "source": 3
+      },
+      {
+        "date": "2025-11",
+        "event": "Aprovação de pacote de remuneração de US$ 1 trilhão para Elon Musk, condicionado a metas de longo prazo.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Tesla ganha dinheiro",
+      "body": "A Tesla, Inc. é uma empresa multinacional de automotivos e energia limpa que projeta, fabrica e vende veículos elétricos de bateria (BEVs), dispositivos de armazenamento de energia estacionária (do residencial ao escala de rede), painéis solares e telhas solares, além de produtos e serviços relacionados. A empresa opera fábricas conhecidas como Gigafactories em Buffalo, Nevada, Austin, Berlim e Xangai. Em 2024, a Tesla liderou o mercado de veículos elétricos de bateria com 17,6% de participação, segundo a fonte 3. A receita provém da venda de veículos, créditos de emissão de carbono e serviços de energia, embora as fontes não detalhem a proporção exata de cada fonte de receita."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR TSLA34",
+      "body": "O TSLA34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Tesla, Inc. cotadas no exterior. O preço do BDR acompanha a cotação da ação original TSLA na NASDAQ e a variação do câmbio entre o dólar e o real. A listagem na B3 ocorreu em 24/05/2016. Por ser não patrocinado, a empresa não participa da emissão, mas a cotação reflete a demanda e a oferta do mercado brasileiro."
+    },
+    {
+      "id": "proventos",
+      "heading": "TSLA34 paga dividendos?",
+      "body": "Não houve pagamento de proventos (dividendos ou juros sobre capital próprio) do TSLA34 nos últimos 12 meses até 29/10/2026. A Tesla, Inc. não distribui dividendos regularmente, focando o capital em expansão e pesquisa. Caso a empresa decida pagar dividendos no futuro, o valor seria convertido para reais e distribuído aos detentores dos BDRs, sujeito à tributação vigente no Brasil e nos EUA."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TSLA34",
+      "body": "Até 29/10/2026, o TSLA34 apresentou rentabilidade total de -12,53% nos últimos 12 meses, 116,75% em 3 anos e 3,07% em 5 anos. Esses números incluem a variação do câmbio, pois o BDR é cotado em reais. Para comparar esse desempenho com índices de referência, como o S&P 500 ou o CDI, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TSLA34",
+      "body": "Os riscos do TSLA34 incluem a volatilidade da ação original, que apresentou uma queda máxima de -74,82% entre 04/11/2021 e 27/12/2022. A volatilidade anualizada de 12 meses é de 47,13%, classificada como muito alta. Há também o risco cambial, pois o BDR é sensível à variação do dólar. A liquidez do BDR na B3 é alta, com volume médio de R$ 79,3 milhões por dia nos últimos 3 meses. Riscos operacionais incluem disputas trabalhistas, recalls de segurança e a dependência de Elon Musk, que é CEO e principal acionista."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar TSLA34 no app",
+      "body": "Para quem tem TSLA34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do TSLA34 lado a lado com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho em relação a benchmarks.\n- [alertas de preço](/recursos/alertas-de-preco): Receba notificações quando o TSLA34 atingir um preço definido, útil para monitorar a alta volatilidade do ativo.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do TSLA34 junto com outros ativos, como ações brasileiras e ETFs, em uma visão única da sua carteira."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TSLA34 paga dividendos?",
+      "answer": "Não, o TSLA34 não pagou dividendos nos últimos 12 meses até 29/10/2026. A Tesla, Inc. não tem histórico de distribuição regular de proventos, priorizando o reinvestimento em expansão e tecnologia."
+    },
+    {
+      "question": "Qual a diferença entre TSLA34 e TSLA?",
+      "answer": "TSLA34 é o BDR negociado na B3 em reais, enquanto TSLA é a ação original negociada na NASDAQ em dólares. O TSLA34 reflete o preço do TSLA e a cotação do dólar, sendo uma forma de investir na Tesla sem conta no exterior."
+    },
+    {
+      "question": "TSLA34 é BDR patrocinado ou não patrocinado?",
+      "answer": "É um BDR não patrocinado de nível I. Isso significa que a Tesla, Inc. não participa da emissão do recibo, mas a cotação na B3 reflete a ação original e o câmbio."
+    },
+    {
+      "question": "Qual a volatilidade do TSLA34?",
+      "answer": "A volatilidade anualizada de 12 meses é de 47,13%, considerada muito alta. A ação original tem beta de 2,17 contra o S&P 500, indicando movimentos amplificados em relação ao índice."
+    },
+    {
+      "question": "O que a Tesla faz?",
+      "answer": "A Tesla projeta, fabrica e vende veículos elétricos, sistemas de armazenamento de energia e painéis solares. A empresa é uma das mais valiosas do mundo em capitalização de mercado, com foco em tecnologia e sustentabilidade."
+    },
+    {
+      "question": "Quando o TSLA34 foi listado na B3?",
+      "answer": "O TSLA34 foi listado na B3 em 24/05/2016, permitindo que investidores brasileiros acompanhem a Tesla por meio de um recibo em reais."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do TSLA34 lado a lado com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho em relação a benchmarks."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o TSLA34 atingir um preço definido, útil para monitorar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do TSLA34 junto com outros ativos, como ações brasileiras e ETFs, em uma visão única da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia com alta volatilidade e exposição a empresas de inovação nos EUA."
+      },
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia e comércio eletrônico, com perfil de crescimento e exposição ao mercado americano."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar o desempenho do TSLA34 com o mercado americano como um todo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TSLA34",
+      "url": "https://finance.yahoo.com/quote/TSLA34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: TESLA INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51403/TSLA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Tesla",
+      "url": "https://www.wikidata.org/wiki/Q478214",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Tesla, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Tesla%2C_Inc.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Tesla, Inc.",
+      "url": "https://pt.wikipedia.org/wiki/Tesla%2C_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

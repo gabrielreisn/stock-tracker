@@ -1,0 +1,307 @@
+{
+  "ticker": "XPSF11",
+  "slug": "xpsf11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XPSF11: história, dividendos e volatilidade",
+    "description": "XPSF11 é um FII de fundos com gestão ativa, patrimônio de R$ 325,1 milhões em 09/2026 e dividend yield de 13,64% nos últimos 12 meses.",
+    "h1": "XPSF11: XP Selection Fundo de Fundos de Investimento Imobiliário",
+    "canonicalPath": "/fiis/xpsf11",
+    "keywords": [
+      "XPSF11",
+      "XP Selection FOF",
+      "FII de fundos",
+      "dividend yield XPSF11",
+      "volatilidade XPSF11",
+      "gestora XP Vista",
+      "patrimônio XPSF11"
+    ]
+  },
+  "summary": "XPSF11 é a cota do XP Selection Fundo de Fundos de Investimento Imobiliário, um FoF com gestão ativa que investe preponderantemente em outros FIIs, além de CRIs e LCIs. Em 09/2026, o patrimônio líquido era de R$ 325,1 milhões, com 52.589 cotistas. A cota fechou a R$ 6,12 em 29/10/2026, distribuindo R$ 0,8350 em proventos nos últimos 12 meses, o que representa um dividend yield de 13,64%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "XP Selection Fundo de Fundos de Investimento Imobiliário - FII",
+    "legalName": "XP SELECTION FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO - FII",
+    "ticker": "BVMF XPSF11",
+    "isin": "BRXPSFCTF009",
+    "taxId": "30.983.020/0001-90",
+    "foundingDate": "2019-07-02",
+    "website": "https://xpsf.xpasset.com.br",
+    "provider": {
+      "name": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+      "url": "https://www.xpi.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30983020000190"
+    ]
+  },
+  "profile": {
+    "type": "FII de fundos (FoF)",
+    "issuerOrManager": "XP Vista Asset Management Ltda",
+    "name": "XP Selection Fundo de Fundos de Investimento Imobiliário - FII",
+    "legalName": "XP SELECTION FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO - FII",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "02/07/2019",
+    "administrator": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+    "website": "https://www.xpi.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "XP SELECTION FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO - FII",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "30.983.020/0001-90",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "02/07/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 325,1 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "52.589",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 7,51",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 6,12",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,64% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,21",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "13,64%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 660.034,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XPSF11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "XP Selection Fundo De Fundos De Investimento Imobiliario - FII",
+    "currency": "BRL",
+    "price": 6.12,
+    "historyStarts": "2020-02-17",
+    "returns": {
+      "1y": 0.1154,
+      "3y": 0.1005,
+      "5y": -0.8679,
+      "10y": null
+    },
+    "volatility1y": 0.1464,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.915,
+      "from": "2021-12-30",
+      "to": "2022-05-10"
+    },
+    "beta1y": {
+      "value": 0.21,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.835,
+      "payments12Months": 12,
+      "yield12Months": 0.1364,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.07
+      }
+    },
+    "avgDailyTradedValue3m": 660034
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada de 12 meses do XPSF11 é de 14,64%, nível considerado baixo. O beta contra o Ibovespa é de 0,21, o que significa que o ativo tende a ter movimentos menores que o índice, na mesma direção. A maior queda em 5 anos foi de -91,50%, do pico em 30/12/2021 ao ponto mais baixo em 10/05/2022. Para acompanhar a variação do preço e definir pontos de entrada ou saída, use os [alertas de preço](/recursos/alertas-de-preco) do app."
+  },
+  "history": {
+    "overview": "O XP Selection FOF iniciou as atividades em 02/07/2019, com o objetivo de diversificar a exposição ao mercado imobiliário por meio da aquisição de cotas de outros fundos. A estratégia é ativa, permitindo que a gestora XP Vista Asset Management selecione os ativos-alvo conforme o cenário de mercado. Em 2020, o fundo realizou ofertas públicas de cotas, encerrando a primeira em 03/02/2020 e a segunda em 30/11/2020, o que ajudou a ampliar a base de cotistas e o patrimônio. Ao longo dos anos, a carteira passou por ajustes de tese, como a redução da exposição ao [TRXF11](/fiis/trxf11) em 2026, refletindo mudanças na estratégia de alocação de ativos de renda urbana.",
+    "timeline": [
+      {
+        "date": "2019-07-02",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2020-01-28",
+        "event": "Início de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2020-02-03",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do XPSF11",
+      "body": "O XPSF11 é um Fundo de Fundos (FoF) de investimento imobiliário, com gestão ativa e prazo indeterminado. A gestora é a XP Vista Asset Management Ltda. e a administradora é a XP Investimentos. Segundo o relatório gerencial de 31/08/2026, o objetivo do fundo é realizar investimentos imobiliários preponderantemente por meio da aquisição de cotas de outros FIIs, podendo também investir em LCIs, CRIs e outros títulos do mercado imobiliário. A categoria Anbima é FII TVM Gestão Ativa – TVM."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do XPSF11",
+      "body": "Nos 12 meses até 29/10/2026, o XPSF11 distribuiu R$ 0,8350 por cota em 12 pagamentos, resultando em um dividend yield de 13,64%. O último provento foi de R$ 0,0700, com pagamento em 01/10/2026. Segundo o relatório gerencial de 31/08/2026, pessoas físicas com menos de 10% do total do fundo são isentas de Imposto de Renda nos rendimentos distribuídos, mas pagam 20% de IR sobre eventual ganho de capital na venda da cota. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para ver o histórico completo multiplicado pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O FNET registra 3 ofertas públicas de cotas encerradas, com a primeira iniciada em 28/01/2020 e encerrada em 03/02/2020, e a segunda encerrada em 30/11/2020. Em 09/2026, o patrimônio líquido era de R$ 325,1 milhões, com 52.589 cotistas e 43.302.140 cotas emitidas. O valor patrimonial da cota era de R$ 7,51. A taxa de administração no mês era de 0,071% sobre o patrimônio, equivalente a 1,00% ao ano, com mínimo de R$ 25 mil mensais, e a taxa de performance é de 20% sobre o IFIX."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XPSF11",
+      "body": "A rentabilidade total com proventos do XPSF11 foi de 11,54% nos 12 meses até 29/10/2026, 10,05% em 3 anos e -86,79% em 5 anos. A volatilidade anualizada de 12 meses é de 14,64%, classificada como baixa. O beta contra o Ibovespa é de 0,21, indicando que o ativo tende a ter movimentos menores que o índice na mesma direção. Compare o desempenho do XPSF11 com o IFIX e o CDI na [comparação com índices](/recursos/comparacao-com-indices) do app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XPSF11",
+      "body": "Os riscos do XPSF11 incluem a volatilidade do mercado de FIIs, a sensibilidade a juros futuros e a aversão a risco, conforme mencionado no relatório gerencial de 31/08/2026. A maior queda em 5 anos foi de -91,50%, do pico em 30/12/2021 ao ponto mais baixo em 10/05/2022. A volatilidade anualizada de 14,64% é considerada baixa, mas o beta de 0,21 contra o Ibovespa mostra que o ativo acompanha os movimentos do índice de forma atenuada. Para monitorar oscilações, use os [alertas de preço](/recursos/alertas-de-preco) do app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "XPSF11 é FII de papel ou de tijolo?",
+      "answer": "XPSF11 é um Fundo de Fundos (FoF), que investe preponderantemente em outros FIIs, além de CRIs e LCIs. Isso o torna um ativo híbrido, com exposição tanto a fundos de papel quanto a fundos de tijolo, dependendo da composição da carteira."
+    },
+    {
+      "question": "XPSF11 paga dividendos?",
+      "answer": "Sim, XPSF11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,8350 por cota, o que representa um dividend yield de 13,64%. O último provento foi de R$ 0,0700, com pagamento em 01/10/2026."
+    },
+    {
+      "question": "Qual a taxa de administração do XPSF11?",
+      "answer": "A taxa de administração do XPSF11 é de 1,00% ao ano, com mínimo de R$ 25 mil mensais, e a taxa de performance é de 20% sobre o IFIX. Em 09/2026, a taxa mensal foi de 0,071% sobre o patrimônio."
+    },
+    {
+      "question": "Quem é a gestora do XPSF11?",
+      "answer": "A gestora do XPSF11 é a XP Vista Asset Management Ltda., e a administradora é a XP Investimentos. O fundo tem gestão ativa, o que permite que a gestora selecione os ativos-alvo conforme o cenário de mercado."
+    },
+    {
+      "question": "XPSF11 é isento de IR?",
+      "answer": "Pessoas físicas com menos de 10% do total do fundo são isentas de Imposto de Renda nos rendimentos distribuídos, mas pagam 20% de IR sobre eventual ganho de capital na venda da cota, conforme o relatório gerencial de 31/08/2026."
+    },
+    {
+      "question": "Qual o patrimônio do XPSF11?",
+      "answer": "Em 09/2026, o patrimônio líquido do XPSF11 era de R$ 325,1 milhões, com 52.589 cotistas e 43.302.140 cotas emitidas. O valor patrimonial da cota era de R$ 7,51."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do XPSF11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do XPSF11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o XPSF11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o XPSF11 junto com outras posições de FIIs, ações e renda fixa em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "TRXF11 é um dos FIIs em que o XPSF11 teve exposição relevante, conforme mencionado no relatório gerencial de 31/08/2026."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "KNCR11 é um FII de papel, similar à estratégia do XPSF11, que investe em CRIs e outros títulos do mercado imobiliário."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "XPML11 é outro FII da XP, o que permite comparar a estratégia de gestão ativa entre os dois fundos."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "BTLG11 é um FII de tijolo, logística, que pode ser um dos ativos em que o XPSF11 investe, dada a diversificação da carteira."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XPSF11",
+      "url": "https://finance.yahoo.com/quote/XPSF11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do XP SELECTION FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo XPSF11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30983020000190",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do XPSF11, referência 31/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1332073",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

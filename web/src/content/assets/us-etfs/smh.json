@@ -1,0 +1,292 @@
+{
+  "ticker": "SMH",
+  "slug": "smh",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SMH: VanEck Semiconductor ETF, desempenho e riscos",
+    "description": "SMH é o ETF de semicondutores da VanEck. Veja rentabilidade de 44,09% em 12 meses, volatilidade de 40,90% e como investir no SMH do Brasil.",
+    "h1": "SMH: VanEck Semiconductor ETF",
+    "canonicalPath": "/etfs/smh",
+    "keywords": [
+      "SMH",
+      "VanEck Semiconductor ETF",
+      "ETF semicondutores",
+      "SMH Brasil",
+      "SMH dividendos",
+      "SMH volatilidade"
+    ]
+  },
+  "summary": "SMH é a cota do VanEck Semiconductor ETF, lançado em 05/06/2000 pela gestora VanEck. O fundo replica o desempenho do setor de semicondutores, que abrange a fabricação de transistores e circuitos integrados. Com alta volatilidade e forte exposição a ciclos de tecnologia, o ativo registrou rentabilidade total de 44,09% nos 12 meses até 30/10/2026, refletindo a dinâmica intensa do mercado global de chips.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "VanEck Semiconductor ETF",
+    "ticker": "XNAS SMH",
+    "foundingDate": "2000-06-05",
+    "provider": {
+      "name": "VanEck",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/VanEck"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "VanEck",
+    "name": "VanEck Semiconductor ETF",
+    "founded": "05/06/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "VanEck Semiconductor ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "05/06/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 522,49",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "40,90% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,46",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,21%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 4,36 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SMH",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "VanEck Semiconductor ETF",
+    "currency": "USD",
+    "price": 522.49,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.4409,
+      "3y": 2.8389,
+      "5y": 2.8912,
+      "10y": 15.8023
+    },
+    "volatility1y": 0.409,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.453,
+      "from": "2021-12-27",
+      "to": "2022-10-14"
+    },
+    "beta1y": {
+      "value": 2.46,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.105,
+      "payments12Months": 1,
+      "yield12Months": 0.0021,
+      "lastPayment": {
+        "date": "2025-12-22",
+        "amount": 1.105
+      }
+    },
+    "avgDailyTradedValue3m": 4359220969
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do SMH nos últimos 12 meses foi de 40,90%, um nível considerado muito alto. O beta do ativo contra o S&P 500 é de 2,46, indicando que os movimentos do SMH costumam ser 2,46 vezes mais amplos que os do índice de referência, na mesma direção. A maior queda em 5 anos foi de -45,30%, entre 27/12/2021 e 14/10/2022. Esse perfil de alta volatilidade e beta elevado é consistente com a natureza cíclica e de alta flutuação do setor de semicondutores, que, segundo as fontes, tem alta volatilidade de mercado no curto prazo. Para monitorar oscilações de preço, os [alertas de preço](/recursos/alertas-de-preco) podem ser úteis."
+  },
+  "history": {
+    "overview": "A VanEck, atual gestora do SMH, tem raízes na Van Eck Global, fundada em 1955 por John van Eck para investir em ações de mercados internacionais. A empresa pioneira em fundos de ouro e mercados emergentes, a VanEck Global enfrentou quedas de patrimônio sob gestão (AUM) na década de 1990, passando de US$ 1,82 bilhão em 1994 para US$ 1,44 bilhão em 1998, devido ao fim do boom do ouro e à crise asiática de 1997. Em 2006, a empresa decidiu entrar no mercado de ETFs, lançando o Market Vectors Gold Miners ETF, que permitia apostar no ouro via ações de mineradoras. Em 2024, a VanEck foi multada em US$ 1,75 milhão pela SEC dos EUA por pagar Dave Portnoy para inflar artificialmente o valor de um de seus ETFs sem as devidas divulgações. O primeiro pregão das cotas do SMH ocorreu em 05/06/2000.",
+    "timeline": [
+      {
+        "date": "1955",
+        "event": "Fundação da Van Eck Global por John van Eck.",
+        "source": 1
+      },
+      {
+        "date": "1968",
+        "event": "Lançamento do International Investors Gold Fund, um dos primeiros fundos de ouro dos EUA.",
+        "source": 1
+      },
+      {
+        "date": "1997",
+        "event": "Crise financeira asiática reduz drasticamente o patrimônio do Van Eck Asia Dynasty Fund.",
+        "source": 1
+      },
+      {
+        "date": "2000-06-05",
+        "event": "Primeiro pregão das cotas do SMH na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2006",
+        "event": "VanEck Global lança seu primeiro ETF, o Market Vectors Gold Miners ETF.",
+        "source": 1
+      },
+      {
+        "date": "2024",
+        "event": "SEC multa a VanEck em US$ 1,75 milhão por práticas de divulgação em um ETF.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SMH funciona",
+      "body": "O SMH é um Exchange-Traded Fund (ETF) emitido pela VanEck, uma gestora global sediada em Nova York que atua principalmente na emissão de ETFs, fundos mútuos e contas geridas para investidores institucionais. O primeiro pregão das cotas do SMH ocorreu em 05/06/2000. Como a maioria dos ETFs de ações, o SMH utiliza gestão passiva para replicar o desempenho de um índice de mercado, no caso, o setor de semicondutores. Os ETFs são comprados e vendidos em bolsas de valores, oferecendo mais diversificação do que a compra de uma ação individual e mais liquidez do que a compra de um título de renda fixa individual."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SMH",
+      "body": "O SMH replica o desempenho do setor de semicondutores, que é o conjunto de empresas envolvidas no design e na fabricação de semicondutores e dispositivos, como transistores e circuitos integrados. A indústria de semicondutores é dominada por empresas dos Estados Unidos, Taiwan, Coreia do Sul, Japão e Holanda, com presença significativa de Israel e Alemanha. As fontes não detalham a composição exata das cotas do SMH, mas o setor é caracterizado por um crescimento contínuo, porém em padrão cíclico, com alta flutuação de mercado no curto prazo. A receita anual de vendas da indústria de semicondutores cresceu para mais de US$ 481 bilhões em 2018."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SMH a partir do Brasil",
+      "body": "Para investir no SMH a partir do Brasil, o investidor pode adquirir as cotas diretamente em uma corretora de valores no exterior, utilizando uma conta em dólar. Outra opção é buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice ou tenham exposição ao setor de semicondutores. Como o SMH é um ativo em dólar, o investidor brasileiro está exposto ao risco cambial: variações no câmbio entre o real e o dólar impactam o retorno total do investimento, independentemente do desempenho do próprio ETF."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SMH",
+      "body": "A rentabilidade total do SMH, com proventos, foi de 44,09% nos 12 meses até 30/10/2026. Nos últimos 3 anos, o retorno foi de 283,89%, e nos últimos 5 anos, de 289,12%. Em 10 anos, a rentabilidade total acumulada foi de 1.580,23%. O preço da cota em 30/10/2026 era de US$ 522,49. O volume médio negociado por dia nos últimos 3 meses foi de US$ 4,36 bilhões. Para comparar esse desempenho com o do S&P 500, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SMH",
+      "body": "O setor de semicondutores apresenta alta volatilidade e ciclos de mercado intensos. A volatilidade anualizada do SMH nos últimos 12 meses foi de 40,90%, classificada como muito alta. O beta do SMH contra o S&P 500 é de 2,46, o que significa que o ativo tende a acompanhar os movimentos do índice com amplitude 2,46 vezes maior. A maior queda nos últimos 5 anos foi de -45,30%, do pico em 27/12/2021 ao ponto mais baixo em 14/10/2022. A exposição a um setor cíclico e a flutuações cambiais (para investidores brasileiros) são riscos adicionais. Utilize os [alertas de preço](/recursos/alertas-de-preco) no app para monitorar oscilações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o SMH?",
+      "answer": "SMH é a cota do VanEck Semiconductor ETF, um fundo de investimento que replica o desempenho do setor de semicondutores. O ETF é emitido pela VanEck e teve seu primeiro pregão em 05/06/2000. Ele oferece exposição a empresas de design e fabricação de chips, um setor cíclico e de alta volatilidade."
+    },
+    {
+      "question": "Qual a volatilidade do SMH?",
+      "answer": "A volatilidade anualizada do SMH nos últimos 12 meses foi de 40,90%, classificada como muito alta. O beta do ativo contra o S&P 500 é de 2,46, o que significa que ele tende a se mover com amplitude 2,46 vezes maior que o índice. A maior queda em 5 anos foi de -45,30%, entre 27/12/2021 e 14/10/2022. Para acompanhar oscilações, use os [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "SMH paga dividendos?",
+      "answer": "Sim, o SMH distribui proventos. Nos 12 meses até 30/10/2026, foram distribuídos US$ 1,1050 por cota em 1 pagamento, resultando em um dividend yield de 0,21%. O último pagamento foi de US$ 1,1050 em 22/12/2025. Veja os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para acompanhar a distribuição."
+    },
+    {
+      "question": "Como investir no SMH do Brasil?",
+      "answer": "O investidor brasileiro pode comprar o SMH por meio de uma corretora no exterior, com conta em dólar, ou buscar ETFs ou BDRs na B3 que tenham exposição ao setor de semicondutores. Como o ativo é cotado em dólar, há exposição ao risco cambial. Para sincronizar posições de diferentes corretoras, use o [Open Finance](/recursos/open-finance)."
+    },
+    {
+      "question": "Qual a diferença entre SMH e SOXX?",
+      "answer": "SMH e [SOXX](/etfs/soxx) são ambos ETFs de semicondutores, mas são emitidos por gestoras diferentes: SMH pela VanEck e SOXX pela iShares. As fontes não detalham as diferenças exatas de composição ou taxa de administração entre os dois. Para comparar o desempenho de diferentes ETFs, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "question": "Qual o risco do SMH?",
+      "answer": "O principal risco do SMH é a alta volatilidade do setor de semicondutores, que é cíclico e tem alta flutuação de mercado no curto prazo. A volatilidade anualizada de 40,90% e o beta de 2,46 contra o S&P 500 refletem esse risco. A maior queda em 5 anos foi de -45,30%. Para investidores brasileiros, há também o risco cambial. Acompanhe a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação total."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do SMH lado a lado com o S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o SMH chegar ao preço que você escolheu, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do SMH junto com outros ativos da sua carteira, com valor por classe e maiores posições."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e confira as quantidades e o preço médio do SMH na sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SOXX",
+        "list": "us-etfs",
+        "reason": "Outro ETF de semicondutores, emitido pela iShares, para comparação de exposição ao setor."
+      },
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 3x de semicondutores, para quem busca maior exposição ao setor."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta do SMH."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR da NVIDIA, uma das maiores empresas de semicondutores do mundo."
+      },
+      {
+        "ticker": "TSMC34",
+        "list": "bdrs",
+        "reason": "BDR da TSMC, principal fabricante de semicondutores do mundo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SMH",
+      "url": "https://finance.yahoo.com/quote/SMH/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): VanEck (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/VanEck",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Semiconductor industry (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor_industry",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

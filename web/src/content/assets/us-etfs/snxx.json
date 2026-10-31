@@ -1,0 +1,251 @@
+{
+  "ticker": "SNXX",
+  "slug": "snxx",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SNXX: ETF alavancado 2x da Sandisk",
+    "description": "Conheça o SNXX, o Tradr 2X Long Sndk Daily ETF. Entenda como funciona a alavancagem diária, veja a volatilidade de 216% e os riscos do ativo.",
+    "h1": "SNXX: Tradr 2X Long Sndk Daily ETF",
+    "canonicalPath": "/etfs/snxx",
+    "keywords": [
+      "SNXX",
+      "ETF alavancado",
+      "Sandisk",
+      "SNDK",
+      "ETF 2x",
+      "semicondutores",
+      "volatilidade alta"
+    ]
+  },
+  "summary": "SNXX é o Tradr 2X Long Sndk Daily ETF, um ETF alavancado que busca multiplicar por 2 os retornos diários da ação da Sandisk Corporation (SNDK). A empresa é uma multinacional de semicondutores focada em memória flash. O ativo iniciou as negociações em 27/01/2026 e, até 30/10/2026, apresentava volatilidade anualizada de 216,37%, refletindo a alta sensibilidade ao setor de tecnologia.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Tradr 2X Long Sndk Daily ETF",
+    "ticker": "BATS SNXX",
+    "foundingDate": "2026-01-27",
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado 2x diário",
+    "issuerOrManager": "Tradr",
+    "trackedIndex": "Ação ordinária da Sandisk Corporation (SNDK)",
+    "name": "Tradr 2X Long Sndk Daily ETF",
+    "founded": "27/01/2026"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Tradr 2X Long Sndk Daily ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "27/01/2026",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "2x o desempenho diário da ação de referência (200%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 6,78",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "216,37% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "7,47",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 966,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SNXX",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Tradr 2X Long Sndk Daily ETF",
+    "currency": "USD",
+    "price": 6.78,
+    "historyStarts": "2026-01-27",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 2.1637,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8535,
+      "from": "2026-06-22",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 7.47,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 965987415
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 216,37% do SNXX é extremamente elevada, típica de ETFs alavancados diários. O beta de 7,47 contra o S&P 500 indica que o ativo tende a se mover com muito mais intensidade que o mercado amplo. A maior queda de -85,35% entre 22/06/2026 e 30/10/2026 ilustra o risco de drawdown acentuado em períodos de volatilidade. Esse perfil é adequado apenas para quem compreende a mecânica de rebalanceamento diário e monitora a posição de perto, possivelmente usando o [widget na barra de menus](/recursos/widget-da-barra-de-menus) para acompanhar as oscilações intradiárias."
+  },
+  "history": {
+    "overview": "O SNXX foi lançado em 27/01/2026, com o objetivo de oferecer exposição alavancada à Sandisk Corporation. A Sandisk, fundada em 1988 como SunDisk, é uma empresa histórica no setor de armazenamento de dados, tendo produzido o primeiro SSD baseado em flash em 1991 e mudado seu nome em 1995 para evitar confusão com a Sun Microsystems. A empresa é conhecida por produtos como cartões de memória e unidades de estado sólido (SSDs). O ETF SNXX não possui histórico de proventos distribuídos nos últimos 12 meses, focando inteiramente na variação de preço da cota.",
+    "timeline": [
+      {
+        "date": "1988",
+        "event": "Fundação da SunDisk, precursora da Sandisk Corporation.",
+        "source": 1
+      },
+      {
+        "date": "1991",
+        "event": "Produção do primeiro SSD baseado em flash pela SunDisk.",
+        "source": 1
+      },
+      {
+        "date": "1995-11-08",
+        "event": "Mudança de nome para SanDisk e abertura de capital na Nasdaq.",
+        "source": 1
+      },
+      {
+        "date": "2026-01-27",
+        "event": "Primeiro pregão das cotas do ETF SNXX na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SNXX funciona",
+      "body": "O SNXX é um ETF alavancado 2x diário que busca entregar o dobro do desempenho diário da ação da Sandisk Corporation (SNDK). Diferente de ETFs tradicionais, este produto utiliza alavancagem para amplificar os movimentos do ativo subjacente em um único dia. É fundamental entender que o rebalanceamento diário faz com que, em períodos de mercado lateral ou volátil, o retorno acumulado do ETF se afaste do múltiplo de 2x do índice de referência. A emissora é a Tradr, e o ativo começou a ser negociado em 27/01/2026."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SNXX",
+      "body": "O SNXX segue a performance da ação ordinária da Sandisk Corporation, identificada pelo ticker SNDK. A Sandisk é uma empresa de semicondutores que projeta e fabrica produtos de memória flash, incluindo cartões de memória, pendrives e SSDs. As fontes não detalham a composição exata da carteira em termos de contratos futuros ou derivativos, mas o foco é exclusivamente a exposição alavancada a essa única empresa."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SNXX a partir do Brasil",
+      "body": "Para investir no SNXX a partir do Brasil, é necessário possuir uma conta em uma corretora que ofereça acesso ao mercado americano. O investimento é feito em dólar, o que expõe o investidor ao risco cambial: variações no câmbio entre o real e o dólar impactam o retorno final em reais. Não há menção em fontes oficiais a BDRs ou ETFs locais na B3 que replicuem especificamente o SNXX, mas existem outros ativos de tecnologia disponíveis no mercado brasileiro."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SNXX",
+      "body": "Até 30/10/2026, o SNXX cotava a US$ 6,78. A volatilidade anualizada nos últimos 12 meses foi de 216,37%, um nível considerado muito alto. A maior queda registrada nos últimos 5 anos foi de -85,35%, ocorrendo entre o pico de 22/06/2026 e o ponto mais baixo de 30/10/2026. O ativo não distribuiu proventos no período. Para avaliar esse desempenho, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a rentabilidade lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SNXX",
+      "body": "O principal risco do SNXX é a alavancagem de 2x, que amplifica tanto as altas quanto as baixas diárias. A volatilidade de 216,37% e a queda de -85,35% demonstram a capacidade de perda rápida do ativo. Além disso, há o risco de mercado da Sandisk, setor de semicondutores, e o risco cambial para investidores brasileiros. A volatilidade extrema pode ser monitorada através de [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o SNXX?",
+      "answer": "SNXX é o Tradr 2X Long Sndk Daily ETF, um fundo que busca multiplicar por 2 os retornos diários da ação da Sandisk Corporation. É um ativo alavancado de alto risco, lançado em 2026."
+    },
+    {
+      "question": "SNXX paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 30/10/2026, o SNXX não distribuiu proventos. O foco do ativo é a valorização da cota através da alavancagem diária."
+    },
+    {
+      "question": "Qual a diferença entre SNXX e SNDQ?",
+      "answer": "Enquanto o SNXX busca 2x do retorno diário da Sandisk (long), o [SNDQ](/etfs/sndq) busca 2x do retorno negativo (short). Eles são opostos em termos de exposição ao mercado."
+    },
+    {
+      "question": "Como a alavancagem afeta o SNXX?",
+      "answer": "A alavancagem de 2x diário faz com que o ETF se reajuste todos os dias. Em mercados voláteis, o resultado acumulado pode divergir significativamente de 2x do retorno total do período, um fenômeno conhecido como 'decay'."
+    },
+    {
+      "question": "Quais são os riscos de investir no SNXX?",
+      "answer": "Os riscos incluem a alta volatilidade (216,37%), a exposição a uma única empresa (Sandisk), o risco cambial e a perda acelerada em quedas do setor de semicondutores. A queda de -85,35% em 2026 é um exemplo desse risco."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para acompanhar as oscilações bruscas do SNXX, dado seu alto nível de volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja como a rentabilidade do SNXX se compara ao S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do SNXX junto com seus outros ativos de tecnologia e renda variável em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SNDQ",
+        "list": "us-etfs",
+        "reason": "É o ETF inverso (short) correspondente ao SNXX, útil para estratégias de hedge ou aposta na queda da Sandisk."
+      },
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "Outro ETF alavancado 3x no setor de semicondutores, oferecendo exposição mais ampla ao setor que a Sandisk."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF do setor de semicondutores sem alavancagem, para comparação de desempenho do setor como um todo."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, usado como referência de mercado amplo para avaliar o beta e a volatilidade do SNXX."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SNXX",
+      "url": "https://finance.yahoo.com/quote/SNXX/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Sandisk (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,400 @@
+{
+  "ticker": "ALOS3",
+  "slug": "alos3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ALOS3: história, dividendos e volatilidade",
+    "description": "ALOS3 é a ação da Allos, maior administradora de shoppings do Brasil. Veja dividendos de 14,84%, volatilidade de 41,51% e a história da fusão com a",
+    "h1": "ALOS3: Allos S.A. - Ação Ordinária",
+    "canonicalPath": "/acoes/alos3",
+    "keywords": [
+      "ALOS3",
+      "Allos S.A.",
+      "ação de shopping",
+      "dividendos ALOS3",
+      "volatilidade ALOS3",
+      "maior administradora de shoppings Brasil",
+      "ALOS3 história",
+      "ALOS3 fusão brMalls"
+    ]
+  },
+  "summary": "ALOS3 é a ação ordinária da Allos S.A., a maior administradora de shopping centers do Brasil, resultante da fusão entre Aliansce Sonae e brMalls em 2023. A empresa atua no setor de exploração de imóveis e possui um portfólio de 53 shoppings próprios. Em 30/10/2026, a ação estava cotada a R$ 23,64, com uma rentabilidade total de 7,91% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Allos S.A.",
+    "legalName": "ALLOS S.A.",
+    "ticker": "BVMF ALOS3",
+    "isin": "BRALOSACNOR5",
+    "taxId": "05.878.397/0001-32",
+    "foundingDate": "2003-07-17",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.allos.com.br",
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/ALLOS",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22357/ALOS/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Allos S.A.",
+    "legalName": "ALLOS S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Financeiro",
+    "segment": "Exploração de Imóveis",
+    "founded": "17/07/2003",
+    "listedSince": "03/02/2011",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://www.allos.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "ALLOS S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "05.878.397/0001-32",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Exploração de Imóveis",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "17/07/2003",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "03/02/2011",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "ALOS3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 23,64",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "41,51% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,49",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,84%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ALOS3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Allos S.A.",
+    "currency": "BRL",
+    "price": 23.64,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0791,
+      "3y": 0.3382,
+      "5y": 0.6121,
+      "10y": 0.78
+    },
+    "volatility1y": 0.4151,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3372,
+      "from": "2026-10-09",
+      "to": "2026-10-29"
+    },
+    "beta1y": {
+      "value": 1.49,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 3.5079,
+      "payments12Months": 12,
+      "yield12Months": 0.1484,
+      "lastPayment": {
+        "date": "2026-10-23",
+        "amount": 0.291919
+      }
+    },
+    "avgDailyTradedValue3m": 203511011
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da ALOS3 é de 41,51% nos últimos 12 meses, um nível considerado muito alto. O beta de 1,49 contra o Ibovespa indica que a ação tende a amplificar os movimentos do índice em 1,49 vezes. A maior queda em 5 anos foi de -33,72%, entre 09/10/2026 e 29/10/2026. Para ativos do setor imobiliário e de shoppings, essa volatilidade é influenciada pela sensibilidade a taxas de juros e ao consumo. O beta não mede a volatilidade em si, mas a correlação direcional com o Ibovespa. Quem acompanha a ALOS3 pode usar [alertas de preço](/recursos/alertas-de-preco) para se notificar em faixas de preço específicas, e a [carteira consolidada](/recursos/carteira-consolidada) para ver como essa volatilidade impacta a alocação total."
+  },
+  "history": {
+    "overview": "A história da Allos S.A. começa em 1975, quando Newton Rique fundou a Nacional Iguatemi, que inaugurou o Shopping da Bahia, o primeiro do Nordeste. Em 2004, a empresa se tornou a Aliansce Shopping Centers após uma joint venture com a General Growth Properties (GGP). Já a brMalls foi criada em 2006 a partir da aquisição de empresas de construção civil e shoppings pela GP Investimentos e Equity Internacional. Em 2019, a Aliansce se fundiu com a Sonae Sierra Brasil, somando 40 shoppings. A fusão definitiva entre Aliansce Sonae e brMalls ocorreu no início de 2023, consolidando a empresa como a maior do setor no país. A nova marca ALLOS foi apresentada em agosto de 2023, inspirada na palavra grega 'allelon'. Em 2024, a companhia registrou um pagamento recorde de R$ 612 milhões em dividendos, superando seus pares listados, e foi eleita 'Empresa do Ano' pela Revista Exame.",
+    "timeline": [
+      {
+        "date": "2003-07-17",
+        "event": "Constituição da companhia Allos S.A.",
+        "source": 2
+      },
+      {
+        "date": "2011-02-01",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2011-02-03",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-05-14",
+        "event": "Notícia vinculada à mídia",
+        "source": 11
+      },
+      {
+        "date": "2025-08-13",
+        "event": "Modificação de projeções divulgadas",
+        "source": 10
+      },
+      {
+        "date": "2025-11-12",
+        "event": "Aprovação de dividendos intercalares e projeções gerenciais",
+        "source": 9
+      },
+      {
+        "date": "2026-03-10",
+        "event": "Aprovação da 9ª emissão de debêntures simples",
+        "source": 7
+      },
+      {
+        "date": "2026-03-10",
+        "event": "Encerramento e nova projeção de modificações divulgadas",
+        "source": 8
+      },
+      {
+        "date": "2026-04-10",
+        "event": "Celebração de Memorando de Entendimento para constituição de Fundo de Investimento Imobiliário",
+        "source": 6
+      },
+      {
+        "date": "2026-08-06",
+        "event": "Esclarecimentos sobre a companhia",
+        "source": 5
+      },
+      {
+        "date": "2026-10-23",
+        "event": "Atualizações sobre o Kinea ALLOS Malls FII e a venda de participações em Shoppings da ALLOS",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Allos S.A. ganha dinheiro",
+      "body": "A Allos S.A. atua no planejamento, desenvolvimento, implantação e investimentos na área imobiliária, com foco em Shopping Centers, além de participar de outras sociedades e fundos de investimento imobiliário. A empresa administra um portfólio de mais de 50 shopping centers localizados em todas as regiões do Brasil, dos quais 53 são próprios. Esses shoppings movimentam aproximadamente R$ 48 bilhões ao ano e recebem cerca de 12 milhões de visitantes por mês. A companhia também possui um potencial construtivo de mais de 7 milhões de m² em desenvolvimento imobiliário, com projetos multiúso que incluem torres residenciais, comerciais, hotéis e hospitais. Em 2024, 49 torres estavam em construção ao redor de seus shoppings em seis estados brasileiros."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Allos S.A.",
+      "body": "O controle acionário da Allos S.A. é privado, sob a forma de holding, conforme o cadastro na CVM. A empresa está listada no segmento Novo Mercado da B3, o que impõe padrões elevados de governança corporativa e transparência. A ação negociada sob o ticker ALOS3 é do tipo ordinária (ON), o que confere ao acionista direito a voto nas assembleias da companhia. Em termos gerais, ações ordinárias têm prioridade na decisão política da empresa, enquanto as preferenciais (que não existem no caso da Allos, que só possui ON) costumam ter preferência no recebimento de dividendos e no capital em caso de liquidação, mas sem direito a voto."
+    },
+    {
+      "id": "proventos",
+      "heading": "ALOS3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a ALOS3 distribuiu R$ 3,5079 por ação em 12 pagamentos, o que resultou em um dividend yield de 14,84%. O último provento registrado foi de R$ 0,2919, pago em 23/10/2026. A companhia tem histórico de remuneração aos acionistas, tendo pago R$ 612 milhões em dividendos no início de 2024, valor recorde para a empresa e acima dos seus pares listados. Em 12/11/2025, a Allos aprovou dividendos intercalares. É possível acompanhar a data com e a data de pagamento de cada provento no recurso de [dividendos e JCP no app](/recursos/proventos), que multiplica os valores pela quantidade de ações na sua carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da ALOS3",
+      "body": "A rentabilidade total da ALOS3, incluindo proventos, foi de 7,91% nos 12 meses até 30/10/2026. No período de 3 anos, o retorno foi de 33,82%, e em 5 anos, de 61,21%. Em 10 anos, a rentabilidade acumulada foi de 78,00%. O preço da ação em 30/10/2026 era de R$ 23,64. Para entender como esse desempenho se compara com o mercado, o app oferece a [comparação com índices](/recursos/comparacao-com-indices), permitindo visualizar a rentabilidade da carteira lado a lado com o Ibovespa, CDI, IPCA e outros referências no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da ALOS3",
+      "body": "A ALOS3 apresenta uma volatilidade anualizada de 41,51% nos últimos 12 meses, classificada como 'muito alta'. O beta da ação contra o Ibovespa é de 1,49, o que indica que os movimentos do preço da ALOS3 costumam ser 1,49 vezes maiores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -33,72%, ocorrida entre o pico em 09/10/2026 e o ponto mais baixo em 29/10/2026. O setor de shoppings está exposto a riscos macroeconômicos, como inflação e juros, que afetam o consumo e a inadimplência dos inquilinos. A empresa também enfrenta riscos operacionais relacionados ao desenvolvimento de novos projetos e à venda de participações em shoppings, como a atualização sobre o Kinea ALLOS Malls FII em 23/10/2026. A alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco), que notificam quando a ação atinge um valor definido."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ALOS3 paga dividendos?",
+      "answer": "Sim, a ALOS3 distribui proventos regularmente. Nos 12 meses até 30/10/2026, foram 12 pagamentos que totalizaram R$ 3,5079 por ação, gerando um dividend yield de 14,84%. O último pagamento foi de R$ 0,2919 em 23/10/2026. A empresa aprovou dividendos intercalares em 12/11/2025 e pagou R$ 612 milhões em dividendos no início de 2024. Você pode ver o histórico completo no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre ALOS3 e ALOS4?",
+      "answer": "A Allos S.A. possui apenas ações ordinárias (ON), negociadas sob o ticker ALOS3. Não há ações preferenciais (PN) da empresa no mercado. Ações ordinárias dão direito a voto nas assembleias, enquanto preferenciais, quando existem, dão prioridade no recebimento de dividendos e no capital em liquidação, mas sem voto. Como a Allos só tem ON, não há ALOS4."
+    },
+    {
+      "question": "O que a Allos S.A. faz?",
+      "answer": "A Allos S.A. é a maior administradora de shopping centers do Brasil, com 53 shoppings próprios e um portfólio que movimenta R$ 48 bilhões por ano. A empresa atua no planejamento, desenvolvimento e investimento em shoppings, além de projetos multiúso como torres residenciais, comerciais, hotéis e hospitais. A fusão entre Aliansce Sonae e brMalls em 2023 consolidou a posição da empresa no setor."
+    },
+    {
+      "question": "Qual a volatilidade da ALOS3?",
+      "answer": "A volatilidade anualizada da ALOS3 é de 41,51% nos últimos 12 meses, classificada como muito alta. O beta contra o Ibovespa é de 1,49, indicando que a ação tende a se mover 1,49 vezes mais que o índice. A maior queda em 5 anos foi de -33,72%, entre 09/10/2026 e 29/10/2026. Para acompanhar oscilações, o app oferece [alertas de preço](/recursos/alertas-de-preco) que notificam quando a ação atinge um valor definido."
+    },
+    {
+      "question": "ALOS3 é do setor financeiro ou imobiliário?",
+      "answer": "A B3 classifica a ALOS3 no setor Financeiro, segmento Exploração de Imóveis. A CVM classifica a atividade como 'Emp. Adm. Part. - Comércio (Atacado e Varejo)'. Na prática, a empresa atua no desenvolvimento e administração de shopping centers, o que a coloca no setor imobiliário. A classificação da B3 reflete a natureza de exploração de imóveis como atividade financeira."
+    },
+    {
+      "question": "Como acompanhar a ALOS3 no app?",
+      "answer": "Você pode acompanhar a ALOS3 usando o [widget na barra de menus](/recursos/widget-da-barra-de-menus), que mostra o gráfico do dia e as posições com um clique. Para ver o desempenho e o preço médio, use o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio). Se quiser perguntar sobre a sua posição em ALOS3, o [assistente de IA](/recursos/assistente-de-ia) responde em português com base nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os 12 pagamentos de R$ 3,5079 por ação nos últimos 12 meses, com data com e data de pagamento, multiplicados pela sua quantidade de ALOS3."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade de 7,91% nos 12 meses da ALOS3 com o Ibovespa, CDI e IPCA no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a ALOS3, com volatilidade de 41,51%, atingir um preço que você definir, para acompanhar a ação sem precisar ficar olhando o gráfico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja como a ALOS3 se encaixa na sua alocação total, junto com outras ações, FIIs e renda fixa, em uma única visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em ALOS3, como 'quanto rendeu a ALOS3 no ano?' ou 'qual o meu preço médio em ALOS3?', e o assistente responde com base nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MULT3",
+        "list": "br-stocks",
+        "reason": "Multiplan é a principal concorrente da Allos no setor de shoppings, com portfólio de empreendimentos de alto padrão."
+      },
+      {
+        "ticker": "IGTI11",
+        "list": "br-stocks",
+        "reason": "Iguatemi S.A. é outra grande administradora de shoppings no Brasil, permitindo comparação de desempenho e dividendos no setor."
+      },
+      {
+        "ticker": "VISC11",
+        "list": "fiis",
+        "reason": "Vinci Shopping Centers FII é um fundo de investimento imobiliário focado em shoppings, útil para quem quer exposição ao setor sem comprar ações."
+      },
+      {
+        "ticker": "HGBS11",
+        "list": "fiis",
+        "reason": "HEDGE Brasil Shopping FII é outro FII do segmento de shoppings, com estratégia diferente da Allos, para diversificação."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "Xp Malls FII é um fundo de shoppings que pode ser comparado com a ALOS3 em termos de exposição ao setor e rendimentos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ALOS3",
+      "url": "https://finance.yahoo.com/quote/ALOS3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ALLOS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22357/ALOS/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, ALLOS S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): ALLOS",
+      "url": "https://pt.wikipedia.org/wiki/ALLOS",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/10/2026, “Atualizações sobre o Kinea ALLOS Malls FII e a venda de participações em Shoppings da ALLOS”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1579634&numSequencia=1104340&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/08/2026, “Esclarecimentos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1553345&numSequencia=1078051&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/04/2026, “Celebração de Memorando de Entendimento para constituição de Fundo de  Investimento Imobiliário”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1503340&numSequencia=1028046&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/03/2026, “Aprovação da 9ª emissão de debêntures simples”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1488290&numSequencia=1012996&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/03/2026, “Encerramento e nova projeção||Modificação de Projeções Divulgadas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1488384&numSequencia=1013090&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/11/2025, “Aprovação de dividendos intercalares e Projeções Gerenciais”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1444372&numSequencia=969084&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/08/2025, “Modificação de Projeções Divulgadas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1412789&numSequencia=937501&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/05/2025, “Noticia vinculada a midia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1377509&numSequencia=902221&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,330 @@
+{
+  "ticker": "HGRE11",
+  "slug": "hgre11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HGRE11: história, rendimentos e volatilidade",
+    "description": "HGRE11 é FII de tijolo de escritórios da Patria. Veja rendimentos, vacância, patrimônio e desempenho até 29/10/2026.",
+    "h1": "HGRE11: Patria Escritórios FII",
+    "canonicalPath": "/fiis/hgre11",
+    "keywords": [
+      "HGRE11",
+      "Patria Escritórios FII",
+      "FII de escritórios",
+      "rendimentos HGRE11",
+      "vacância HGRE11",
+      "patrimônio HGRE11"
+    ]
+  },
+  "summary": "HGRE11 é a cota do Patria Escritórios - Fundo de Investimento Imobiliário, um FII de tijolo com gestão ativa focado em lajes corporativas. Fundado em 17/04/2008, o fundo possui 13 edifícios e 43 locatários, com vacância financeira de 6,3% em 09/2026. O patrimônio líquido é de R$ 1,78 bilhão, com valor patrimonial da cota de R$ 150,69. Nos 12 meses até 29/10/2026, a rentabilidade total foi de 6,04%, com dividend yield de 10,18%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Patria Escritórios - Fundo de Investimento Imobiliário",
+    "legalName": "PATRIA ESCRITÓRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF HGRE11",
+    "isin": "BRHGRECTF006",
+    "taxId": "09.072.017/0001-29",
+    "foundingDate": "2008-04-17",
+    "provider": {
+      "name": "GENIAL INVESTIMENTOS CORRETORA DE MOBILIARIOS S.A.",
+      "url": "https://www.genialinvestimentos.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=09072017000129"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, escritórios",
+    "issuerOrManager": "Patria Investimentos Ltda",
+    "name": "Patria Escritórios - Fundo de Investimento Imobiliário",
+    "legalName": "PATRIA ESCRITÓRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Escritórios",
+    "founded": "17/04/2008",
+    "administrator": "GENIAL INVESTIMENTOS CORRETORA DE MOBILIARIOS S.A.",
+    "website": "https://www.genialinvestimentos.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "PATRIA ESCRITÓRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "09.072.017/0001-29",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Escritórios",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "GENIAL INVESTIMENTOS CORRETORA DE MOBILIARIOS S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "17/04/2008",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,78 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "142.235",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 150,69",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 113,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "19,94% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,40",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "10,18%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HGRE11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "CSHG Real Estate - Fundo de Investimento Imobiliario - FII",
+    "currency": "BRL",
+    "price": 113,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0604,
+      "3y": 0.2072,
+      "5y": 0.3409,
+      "10y": 0.2335
+    },
+    "volatility1y": 0.1994,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2713,
+      "from": "2023-08-09",
+      "to": "2024-12-05"
+    },
+    "beta1y": {
+      "value": 0.4,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 11.5,
+      "payments12Months": 12,
+      "yield12Months": 0.1018,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.85
+      }
+    },
+    "avgDailyTradedValue3m": 2507988
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do HGRE11 nos 12 meses até 29/10/2026 foi de 19,94%, classificada como moderada 0. O beta contra o Ibovespa foi de 0,40, o que significa que, historicamente, o ativo tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção 0. A maior queda em 5 anos foi de -27,13%, entre o pico em 09/08/2023 e o ponto mais baixo em 05/12/2024 0. Para FIIs de tijolo, essa volatilidade é compatível com a exposição a imóveis corporativos e a ciclos de vacância. Use os [alertas de preço](/recursos/alertas-de-preco) para acompanhar oscilações."
+  },
+  "history": {
+    "overview": "O Patria Escritórios FII (HGRE11) iniciou suas atividades em 17/04/2008, com o objetivo de adquirir e explorar comercialmente empreendimentos imobiliários, com foco predominante em lajes corporativas. A gestão é ativa, realizada pela Patria Investimentos Ltda., enquanto a administração fiduciária foi transferida para a Genial Investimentos Corretora de Valores Mobiliários S.A. a partir de 01/10/2026, em decorrência de reorganização societária do Grupo Genial, sem alteração na equipe ou políticas de investimento 4. O fundo realizou ofertas públicas de cotas em 2019 e 2020, e iniciou sua 10ª emissão em 28/08/2026, com montante de até R$ 700 milhões, encerrada em 15/10/2026 2. Em setembro de 2026, o fundo registrou vacância financeira de 6,3% e WALE de 4,6 anos, com alavancagem de 2,0% no portfólio 3.",
+    "timeline": [
+      {
+        "date": "2008-04-17",
+        "event": "Início das atividades do Patria Escritórios FII (HGRE11)",
+        "source": 1
+      },
+      {
+        "date": "2019-08-15",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2019-10-03",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2026-08-28",
+        "event": "Início da 10ª emissão de cotas, com montante de até R$ 700 milhões",
+        "source": 2
+      },
+      {
+        "date": "2026-10-01",
+        "event": "Substituição do administrador fiduciário para Genial Investimentos Corretora de Valores Mobiliários S.A.",
+        "source": 4
+      },
+      {
+        "date": "2026-10-15",
+        "event": "Encerramento da 10ª emissão de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do HGRE11",
+      "body": "O HGRE11 é um FII de tijolo com gestão ativa, classificado pela ANBIMA como 'Tijolo Renda Gestão Ativa', com foco em lajes corporativas 3. A gestora é a Patria Investimentos Ltda., e o administrador fiduciário é a Genial Investimentos Corretora de Valores Mobiliários S.A., desde 01/10/2026 4. Em 09/2026, o portfólio era composto por 13 edifícios e 43 locatários, com ABL de 143.387 m², vacância física de 5,9% e vacância financeira de 6,3% 3. O WALE (weighted average lease expiration) era de 4,6 anos, e a alavancagem do portfólio era de 2,0%, com 61% dos vencimentos no longo prazo (+12 meses) 3. O preço médio do portfólio era de R$ 7.622/m² e o aluguel médio de R$ 78,76/m² 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do HGRE11",
+      "body": "Nos 12 meses até 29/10/2026, o HGRE11 distribuiu R$ 11,5000 por cota em 12 pagamentos, resultando em dividend yield de 10,18% 0. O último rendimento foi de R$ 0,8500, pago em 01/10/2026 0. Em setembro de 2026, o rendimento anunciado foi de R$ 0,85/cota, a ser pago em 15 de outubro, sendo este o guidance para o segundo semestre de 2026 3. O dividend yield informado pelo fundo em 09/2026 era de 0,56% no mês, e 6,8% a.a. sobre o valor patrimonial 13. A tributação de rendimentos de FIIs não é detalhada nas fontes do dossiê. Para acompanhar os rendimentos, use os [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O HGRE11 realizou 3 ofertas públicas de cotas encerradas, conforme o FNET 2. A 10ª emissão, iniciada em 28/08/2026, tinha montante inicial de até R$ 699.999.970,80, equivalente a 4.773.595 novas cotas, e foi encerrada em 15/10/2026 25. Em 09/2026, o patrimônio líquido era de R$ 1,78 bilhão, com 142.235 cotistas e 11.817.767 cotas emitidas, valor patrimonial da cota de R$ 150,69 1. A taxa de administração no mês era de 0,064% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HGRE11",
+      "body": "A rentabilidade total com proventos do HGRE11 nos 12 meses até 29/10/2026 foi de 6,04%; em 3 anos, 20,72%; em 5 anos, 34,09%; e em 10 anos, 23,35% 0. O fundo é comparado ao IFIX, que em setembro de 2026 recuou 0,2%, enquanto o segmento de Office teve alta de 1,4% 3. Para comparar o desempenho com índices, use a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HGRE11",
+      "body": "Como FII de tijolo, o HGRE11 está exposto a riscos de vacância e inadimplência de locatários. Em 09/2026, a vacância financeira era de 6,3% 3. A alavancagem de 2,0% no portfólio introduz risco de crédito e de juros 3. A volatilidade anualizada dos 12 meses até 29/10/2026 foi de 19,94%, nível moderado, e a maior queda em 5 anos foi de -27,13%, do pico em 09/08/2023 ao ponto mais baixo em 05/12/2024 0. O beta contra o Ibovespa foi de 0,40, indicando movimentos menores que os do índice 0. Para monitorar oscilações, use os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HGRE11 paga rendimentos?",
+      "answer": "Sim. Nos 12 meses até 29/10/2026, o HGRE11 distribuiu R$ 11,5000 por cota em 12 pagamentos, com dividend yield de 10,18% 0. O último rendimento foi de R$ 0,8500, pago em 01/10/2026 0. Em setembro de 2026, o rendimento anunciado foi de R$ 0,85/cota, a ser pago em 15 de outubro 3."
+    },
+    {
+      "question": "HGRE11 é FII de papel ou de tijolo?",
+      "answer": "É FII de tijolo, com foco em lajes corporativas 3. A ANBIMA classifica o fundo como 'Tijolo Renda Gestão Ativa' 3. O portfólio é composto por 13 edifícios e 43 locatários, com ABL de 143.387 m² 3."
+    },
+    {
+      "question": "Qual a vacância do HGRE11?",
+      "answer": "Em 09/2026, a vacância física era de 5,9% e a vacância financeira de 6,3% 3. A vacância financeira reduziu de 6,9% para 6,3% devido ao término do período de carência de três locatários 3."
+    },
+    {
+      "question": "Quem administra o HGRE11?",
+      "answer": "A gestora é a Patria Investimentos Ltda. 3. O administrador fiduciário é a Genial Investimentos Corretora de Valores Mobiliários S.A., desde 01/10/2026, em decorrência de reorganização societária do Grupo Genial 4."
+    },
+    {
+      "question": "Qual o patrimônio do HGRE11?",
+      "answer": "Em 09/2026, o patrimônio líquido era de R$ 1,78 bilhão, com 142.235 cotistas e 11.817.767 cotas emitidas, valor patrimonial da cota de R$ 150,69 1."
+    },
+    {
+      "question": "HGRE11 tem alavancagem?",
+      "answer": "Sim. Em 09/2026, a alavancagem do portfólio era de 2,0%, com 61% dos vencimentos no longo prazo (+12 meses) 3. A estrutura foi feita para otimizar o retorno do fundo, sem comprometer a estrutura de capital 3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do HGRE11 com data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do HGRE11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a cota do HGRE11 atingir o preço que você escolher."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o HGRE11 junto com seus outros ativos, com alocação por classe e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "Outro FII da gestora Patria, focado em renda urbana."
+      },
+      {
+        "ticker": "BRCO11",
+        "list": "fiis",
+        "reason": "FII de escritórios do BTG Pactual, mesmo segmento de lajes corporativas."
+      },
+      {
+        "ticker": "TOPP11",
+        "list": "fiis",
+        "reason": "FII de escritórios premium, mesmo segmento de lajes corporativas."
+      },
+      {
+        "ticker": "IBBP11",
+        "list": "fiis",
+        "reason": "FII de business park, segmento relacionado a lajes corporativas."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HGRE11",
+      "url": "https://finance.yahoo.com/quote/HGRE11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do PÁTRIA ESCRITÓRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo HGRE11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=09072017000129",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do HGRE11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1348103",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HGRE11, 01/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338094",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HGRE11, 23/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1327264",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

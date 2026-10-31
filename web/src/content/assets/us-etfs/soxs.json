@@ -1,0 +1,288 @@
+{
+  "ticker": "SOXS",
+  "slug": "soxs",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SOXS: ETF inverso 3x semicondutores",
+    "description": "SOXS é um ETF alavancado inverso 3x do setor de semicondutores. Veja desempenho, riscos e como funciona o rebalanceamento diário.",
+    "h1": "SOXS: Direxion Daily Semiconductor Bear 3X Shares",
+    "canonicalPath": "/etfs/soxs",
+    "keywords": [
+      "SOXS",
+      "ETF inverso",
+      "semicondutores",
+      "alavancado 3x",
+      "Direxion",
+      "ETF americano"
+    ]
+  },
+  "summary": "SOXS é o Direxion Daily Semiconductor Bear 3X Shares, um ETF alavancado inverso que busca -3x da variação diária do setor de semicondutores. Emitido pela Direxion, teve seu primeiro pregão em 11/03/2010. Com alta volatilidade e rebalanceamento diário, o ativo acumula perdas expressivas em prazos longos, como -99,94% em 5 anos até 30/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Direxion Daily Semiconductor Bear 3X Shares",
+    "ticker": "ARCX SOXS",
+    "foundingDate": "2010-03-11",
+    "provider": {
+      "name": "Direxion",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Direxion"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado inverso 3x",
+    "issuerOrManager": "Direxion",
+    "trackedIndex": "Índice de semicondutores (não especificado na fonte)",
+    "name": "Direxion Daily Semiconductor Bear 3X Shares",
+    "founded": "11/03/2010"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Direxion Daily Semiconductor Bear 3X Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "11/03/2010",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "-3x o desempenho diário do índice (-300%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 52,08",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "142,31% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-8,16",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "22,82%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 2,80 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SOXS",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Direxion Daily Semiconductor Bear 3X Shares",
+    "currency": "USD",
+    "price": 52.08,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.9187,
+      "3y": -0.9979,
+      "5y": -0.9994,
+      "10y": -1
+    },
+    "volatility1y": 1.4231,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9998,
+      "from": "2022-10-14",
+      "to": "2026-10-05"
+    },
+    "beta1y": {
+      "value": -8.16,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 11.886,
+      "payments12Months": 4,
+      "yield12Months": 0.2282,
+      "lastPayment": {
+        "date": "2026-09-22",
+        "amount": 0.436
+      }
+    },
+    "avgDailyTradedValue3m": 2804600997
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do SOXS nos últimos 12 meses é de 142,31%, um nível muito alto, típico de ETFs alavancados. O beta de 12 meses contra o S&P 500 é de -8,16, o que significa que o ativo tende a se mover na direção oposta ao índice, com amplitude 8,16 vezes maior que a do S&P 500. A maior queda em 5 anos foi de -99,98%, entre 14/10/2022 e 05/10/2026. Esse comportamento é esperado para um ETF inverso alavancado, que amplifica os movimentos do mercado em sentido contrário e sofre com a perda por volatilidade em períodos de alta ou lateralização do mercado. Para acompanhar oscilações de preço, o app oferece [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "O SOXS foi lançado em 11/03/2010 pela Direxion, empresa americana especializada em produtos financeiros alavancados e inversos. A Direxion, fundada em 1997 como Potomac Funds, foi a primeira a oferecer ETFs com alavancagem de 3x em novembro de 2008, o que a posicionou como uma das gestoras mais rápidas a crescer no setor, apesar da regulação subsequente da SEC. O ETF de semicondutores inverso faz parte dessa estratégia de oferecer exposição oposta a movimentos de mercado específicos. A indústria de semicondutores, que o SOXS acompanha de forma inversa, é cíclica e volátil, o que, somado à alavancagem diária, torna o resultado do ETF muito diferente do múltiplo do índice em horizontes longos.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fundação da Potomac Funds, que mais tarde se tornaria a Direxion.",
+        "source": 1
+      },
+      {
+        "date": "2006",
+        "event": "A empresa começa a usar o nome Direxion e abre escritório em Boston.",
+        "source": 1
+      },
+      {
+        "date": "2008-11",
+        "event": "Direxion lança os primeiros ETFs com alavancagem de 3x nos EUA.",
+        "source": 1
+      },
+      {
+        "date": "2010-03-11",
+        "event": "Primeiro pregão das cotas do SOXS na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SOXS funciona",
+      "body": "Isso significa que, se o índice de referência cair 1% em um dia, o SOXS tende a subir 3%; se o índice subir 1%, o SOXS tende a cair 3%. A emissora é a Direxion, que lançou o produto em 11/03/2010. Por ser alavancado e inverso, o fundo precisa rebalancear sua posição diariamente para manter a alavancagem fixa. Esse rebalanceamento diário causa um efeito de perda por volatilidade: em mercados que oscilam ou sobem ao longo do tempo, o resultado do ETF se afasta do múltiplo do índice, resultando em perdas acumuladas mesmo se o setor de semicondutores não cair drasticamente no período."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SOXS",
+      "body": "O SOXS segue um índice de semicondutores, mas as fontes fornecidas não especificam o nome exato do índice nem a composição detalhada das empresas que o compõem. Sabe-se que a indústria de semicondutores inclui empresas de design e fabricação de chips, com forte presença de companhias dos EUA, Taiwan, Coreia do Sul, Japão e Holanda. O ETF usa derivativos e vendas a descoberto para obter a exposição inversa alavancada."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SOXS a partir do Brasil",
+      "body": "Para investir no SOXS a partir do Brasil, é necessário ter uma conta em uma corretora que negocie ativos no exterior, como os EUA, ou acessar o ativo por meio de BDRs ou ETFs locais que o replicuem, se disponíveis na B3. Como o SOXS é cotado em dólar, o investidor brasileiro está exposto ao risco cambial: variações no câmbio entre o real e o dólar impactam diretamente o retorno em reais. Além disso, o ativo possui alta volatilidade e risco de perda total do capital investido em prazos longos, o que exige atenção constante."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SOXS",
+      "body": "Até 30/10/2026, o SOXS apresentou rentabilidade total com proventos de -91,87% nos últimos 12 meses, -99,79% em 3 anos, -99,94% em 5 anos e -100,00% em 10 anos. Esses números refletem o efeito do rebalanceamento diário e a tendência de alta do mercado de ações nos EUA ao longo do tempo. Para comparar esse desempenho com o do mercado americano, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SOXS",
+      "body": "Os principais riscos do SOXS incluem a perda por volatilidade, a alavancagem de 3x e a natureza inversa do produto. A volatilidade anualizada de 12 meses é de 142,31%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -99,98%, do pico em 14/10/2022 ao ponto mais baixo em 05/10/2026. Além disso, o ativo é sensível a movimentos do setor de semicondutores, que é cíclico e volátil. O risco cambial também se aplica a investidores brasileiros. Por ser um produto de curto prazo, o uso em horizontes longos tende a resultar em perdas significativas, como evidenciado pelos números de desempenho."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar SOXS no app",
+      "body": "Para quem tem SOXS na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do SOXS lado a lado com o S&P 500 e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba notificações quando o SOXS atingir o preço que você definiu, útil para acompanhar oscilações de um ativo volátil.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do SOXS junto com outros ativos da sua carteira, como ações e ETFs, em uma única visão.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Veja o gráfico de rentabilidade do SOXS e o preço médio da sua posição, com variação do dia e do ano."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o SOXS?",
+      "answer": "Ele é emitido pela Direxion e foi lançado em 11/03/2010. O ativo é projetado para uso em curto prazo, pois o rebalanceamento diário causa perdas acumuladas em horizontes longos."
+    },
+    {
+      "question": "SOXS é bom para investir a longo prazo?",
+      "answer": "Não. O SOXS é um produto de curto prazo. Devido ao rebalanceamento diário e à alavancagem, o resultado em prazos longos se afasta do múltiplo do índice, resultando em perdas expressivas. Os números mostram -99,94% em 5 anos e -100,00% em 10 anos até 30/10/2026."
+    },
+    {
+      "question": "Qual a diferença entre SOXS e SOXL?",
+      "answer": "Ambos são produtos de curto prazo e sofrem com a perda por volatilidade em horizontes longos."
+    },
+    {
+      "question": "Como o SOXS funciona?",
+      "answer": "O SOXS usa derivativos e vendas a descoberto para obter exposição inversa alavancada de 3x ao setor de semicondutores. O fundo rebalanceia diariamente para manter a alavancagem, o que causa perda por volatilidade em mercados que não caem de forma constante."
+    },
+    {
+      "question": "Quais os riscos do SOXS?",
+      "answer": "Os riscos incluem a perda por volatilidade, a alavancagem de 3x, a natureza inversa do produto e a sensibilidade ao setor de semicondutores. A volatilidade anualizada é de 142,31%, e a maior queda em 5 anos foi de -99,98%. O risco cambial também se aplica a investidores brasileiros."
+    },
+    {
+      "question": "Como investir no SOXS a partir do Brasil?",
+      "answer": "É possível investir no SOXS por meio de uma corretora que negocie ativos no exterior ou por BDRs/ETFs locais que o replicuem, se disponíveis. O investidor está exposto ao risco cambial, e o ativo possui alta volatilidade e risco de perda total do capital em prazos longos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do SOXS lado a lado com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o SOXS atingir o preço que você definiu, útil para acompanhar oscilações de um ativo volátil."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do SOXS junto com outros ativos da sua carteira, como ações e ETFs, em uma única visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade do SOXS e o preço médio da sua posição, com variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 3x no sentido positivo do setor de semicondutores, oposto ao SOXS."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores sem alavancagem, para comparação com o setor."
+      },
+      {
+        "ticker": "SOXX",
+        "list": "us-etfs",
+        "reason": "Outro ETF de semicondutores, para comparação com o setor."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com o mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SOXS",
+      "url": "https://finance.yahoo.com/quote/SOXS/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Direxion (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Direxion",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Inverse exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Inverse_exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Semiconductor industry (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor_industry",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

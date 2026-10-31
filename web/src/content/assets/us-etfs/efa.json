@@ -1,0 +1,295 @@
+{
+  "ticker": "EFA",
+  "slug": "efa",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "EFA: história, dividendos e volatilidade",
+    "description": "EFA é o iShares MSCI EAFE ETF, que replica ações de mercados desenvolvidos fora dos EUA e Canadá. Veja desempenho, dividendos e riscos em 30/10/2026.",
+    "h1": "EFA: iShares MSCI EAFE ETF",
+    "canonicalPath": "/etfs/efa",
+    "keywords": [
+      "EFA",
+      "iShares MSCI EAFE ETF",
+      "ETF internacional",
+      "ações desenvolvidas",
+      "dividendos EFA",
+      "volatilidade EFA",
+      "MSCI EAFE"
+    ]
+  },
+  "summary": "EFA é a cota do iShares MSCI EAFE ETF, gerido pela BlackRock, que replica o índice MSCI EAFE. O índice mede o desempenho de ações de mercados desenvolvidos, excluindo os Estados Unidos e o Canadá. Em 30/10/2026, a cota valia US$ 103,37, com rentabilidade total de 12,89% nos últimos 12 meses e dividend yield de 3,25%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares MSCI EAFE ETF",
+    "ticker": "ARCX EFA",
+    "foundingDate": "2001-08-27",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice internacional",
+    "issuerOrManager": "BlackRock (iShares)",
+    "trackedIndex": "MSCI EAFE",
+    "name": "iShares MSCI EAFE ETF",
+    "founded": "27/08/2001"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares MSCI EAFE ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "27/08/2001",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 103,37",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,88% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,98",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,25%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,27 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EFA",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares MSCI EAFE ETF",
+    "currency": "USD",
+    "price": 103.37,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1289,
+      "3y": 0.7033,
+      "5y": 0.4889,
+      "10y": 1.4004
+    },
+    "volatility1y": 0.1588,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2927,
+      "from": "2021-11-05",
+      "to": "2022-09-27"
+    },
+    "beta1y": {
+      "value": 0.98,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.364,
+      "payments12Months": 2,
+      "yield12Months": 0.0325,
+      "lastPayment": {
+        "date": "2026-06-15",
+        "amount": 1.636
+      }
+    },
+    "avgDailyTradedValue3m": 1266783153
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do EFA nos 12 meses até 30/10/2026 é de 15,88%, nível moderado. O beta contra o S&P 500 é de 0,98, o que significa que o EFA costuma acompanhar os movimentos do índice com amplitude semelhante, na mesma direção. A maior queda nos últimos 5 anos foi de -29,27%, do pico em 05/11/2021 ao ponto mais baixo em 27/09/2022. Para um ETF de ações internacionais, essa volatilidade é compatível com o padrão do mercado, mas a exposição a múltiplas moedas e a ciclos econômicos de diferentes países pode amplificar os movimentos em períodos de estresse. O [alertas de preço](/recursos/alertas-de-preco) permite definir notificações para acompanhar essas oscilações."
+  },
+  "history": {
+    "overview": "O iShares MSCI EAFE ETF (EFA) começou a ser negociado em 27/08/2001. A marca iShares pertence à BlackRock, que adquiriu o negócio da Barclays em 2009. Antes disso, os produtos eram conhecidos como WEBS (World Equity Benchmark Shares), lançados pela Morgan Stanley e pela Barclays Global Investors em resposta ao primeiro ETF dos EUA, o [SPY](/etfs/spy), em 1993. Em 2000, a Barclays investiu no crescimento do mercado de ETFs, renomeando os WEBS para iShares. O EFA foi projetado para dar acesso a ações de mercados desenvolvidos fora da América do Norte, sendo um dos principais benchmarks para fundos internacionais nos EUA. A MSCI, que mantém o índice, é uma empresa americana que licencia seus índices para fundos de índice, com mais de US$ 16,5 trilhões em ativos baseados em seus índices em 2025.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Lançamento do SPY, o primeiro ETF dos Estados Unidos, pela State Street e American Stock Exchange.",
+        "source": 2
+      },
+      {
+        "date": "2000",
+        "event": "Barclays lança a marca iShares, renomeando os WEBS, com foco em educação e marketing.",
+        "source": 2
+      },
+      {
+        "date": "2001-08-27",
+        "event": "Primeiro pregão das cotas do EFA na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2006-11-07",
+        "event": "iShares anuncia a compra da unidade de ETFs da HypoVereinsbank por €240 milhões, consolidando posição na Europa.",
+        "source": 2
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio da iShares da Barclays.",
+        "source": 2
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma plano de venda da iShares para a CVC Capital Partners por mais de US$ 4 bilhões.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o EFA funciona",
+      "body": "O EFA é um ETF que replica o índice MSCI EAFE, medindo o desempenho de ações de mercados desenvolvidos, excluindo os Estados Unidos e o Canadá. A emissora é a iShares, marca da BlackRock, que adquiriu o negócio da Barclays em 2009. O ETF começou a ser negociado em 27/08/2001. Como não é alavancado ou inverso, não há rebalanceamento diário que afaste o resultado do índice em períodos longos. O EFA é o quarto maior ETF do mundo, segundo a Wikipedia."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do EFA",
+      "body": "O índice MSCI EAFE inclui ações de cerca de 700 empresas de 21 mercados desenvolvidos, excluindo os Estados Unidos e o Canadá. A África e a América do Sul não estão representadas. O índice é ponderado por capitalização de mercado, com as maiores 85% compondo o MSCI EAFE Standard, que é a versão replicada pelo EFA. A Grécia fez parte do índice de maio de 2001 a novembro de 2013, e Israel entrou em maio de 2010. A MSCI, que mantém o índice, licencia seus índices para fundos de índice, com mais de US$ 16,5 trilhões em ativos baseados em seus índices em 2025."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no EFA a partir do Brasil",
+      "body": "Para investir no EFA a partir do Brasil, é possível comprar o ETF por uma conta em uma corretora no exterior, ou adquirir ETFs e BDRs na B3 que seguem o mesmo índice. O risco cambial é um fator importante, pois o ativo é cotado em dólar, e a variação do câmbio afeta o retorno em reais. A diversificação internacional pode ser acompanhada na [carteira consolidada](/recursos/carteira-consolidada), que mostra a alocação por classe e as maiores posições."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do EFA",
+      "body": "Em 30/10/2026, a cota do EFA valia US$ 103,37. A rentabilidade total com proventos foi de 12,89% nos 12 meses, 70,33% em 3 anos, 48,89% em 5 anos e 140,04% em 10 anos. O dividend yield é de 3,25%, com US$ 3,3640 por cota em 2 pagamentos nos 12 meses até 30/10/2026. O volume médio negociado por dia nos últimos 3 meses é de US$ 1,27 bilhão. A [comparação com índices](/recursos/comparacao-com-indices) permite ver a rentabilidade do EFA lado a lado com o S&P 500, Ibovespa, CDI e outros."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do EFA",
+      "body": "Os riscos do EFA incluem a volatilidade do mercado internacional, a exposição a múltiplas moedas e a dependência do desempenho de mercados desenvolvidos fora da América do Norte. A volatilidade anualizada nos 12 meses até 30/10/2026 é de 15,88%, nível moderado. O beta contra o S&P 500 é de 0,98, indicando que o EFA costuma acompanhar os movimentos do índice com amplitude semelhante. A maior queda nos últimos 5 anos foi de -29,27%, do pico em 05/11/2021 ao ponto mais baixo em 27/09/2022. O [alertas de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos significativos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o EFA?",
+      "answer": "EFA é a cota do iShares MSCI EAFE ETF, que replica o índice MSCI EAFE, medindo o desempenho de ações de mercados desenvolvidos, excluindo os Estados Unidos e o Canadá. O ETF é gerido pela BlackRock e começou a ser negociado em 27/08/2001."
+    },
+    {
+      "question": "EFA paga dividendos?",
+      "answer": "Sim, o EFA paga dividendos. Nos 12 meses até 30/10/2026, distribuiu US$ 3,3640 por cota em 2 pagamentos, com dividend yield de 3,25%. O último pagamento foi de US$ 1,6360 em 15/06/2026. Os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) mostram o histórico e o impacto na rentabilidade."
+    },
+    {
+      "question": "Qual a diferença entre EFA e IEFA?",
+      "answer": "EFA replica o MSCI EAFE Standard, que cobre as maiores 85% das ações de cada país, excluindo a maioria das small caps. [IEFA](/etfs/iefa) replica o MSCI EAFE IMI, que cobre quase toda a capitalização de mercado de cada país, incluindo small caps. Ambos são da iShares, mas IEFA tem maior diversificação em pequenas empresas."
+    },
+    {
+      "question": "Como acompanhar o EFA no app?",
+      "answer": "O [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a sua carteira e os seus gastos, com respostas baseadas nos seus próprios dados. O [widget da barra de menus](/recursos/widget-da-barra-de-menus) mostra o gráfico do dia e as posições num clique, facilitando o acompanhamento durante o pregão."
+    },
+    {
+      "question": "Qual o risco cambial do EFA para o investidor brasileiro?",
+      "answer": "O EFA é cotado em dólar, então a variação do câmbio afeta o retorno em reais. A exposição a múltiplas moedas de mercados desenvolvidos também é um fator. O [open finance](/recursos/open-finance) conecta bancos e corretoras, conferindo as posições e o preço médio, ajudando a monitorar o impacto cambial na carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a diversificação internacional do EFA ao lado de outras posições, com valor por classe e alocação."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja o histórico de dividendos do EFA e o impacto na rentabilidade, com data de pagamento e multiplicação pela quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do EFA com o S&P 500, Ibovespa, CDI e outros, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o EFA chega ao preço que você escolheu, para acompanhar movimentos significativos."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua carteira e os seus gastos, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IEFA",
+        "list": "us-etfs",
+        "reason": "ETF da mesma gestora (iShares) que replica o MSCI EAFE IMI, com maior cobertura de small caps."
+      },
+      {
+        "ticker": "VEA",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard que replica o FTSE Developed Markets, similar ao MSCI EAFE, mas incluindo Coreia do Sul e Canadá."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar a exposição a mercados desenvolvidos dos EUA com a internacional do EFA."
+      },
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "ETF de mercados emergentes, para complementar a exposição a mercados desenvolvidos do EFA."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF do mercado brasileiro, para comparar a exposição internacional do EFA com a doméstica."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EFA",
+      "url": "https://finance.yahoo.com/quote/EFA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI EAFE (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/MSCI_EAFE",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/MSCI",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

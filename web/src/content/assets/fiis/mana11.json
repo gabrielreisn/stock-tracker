@@ -1,0 +1,317 @@
+{
+  "ticker": "MANA11",
+  "slug": "mana11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MANA11: história, dividendos e volatilidade",
+    "description": "MANA11 é o Manatí Capital Hedge Fund FII, um FII multiestratégia com dividend yield de 14,25% nos 12 meses até 29/10/2026.",
+    "h1": "MANA11: Manatí Capital Hedge Fund FII",
+    "canonicalPath": "/fiis/mana11",
+    "keywords": [
+      "MANA11",
+      "Manatí Capital Hedge Fund FII",
+      "FII hedge fund",
+      "FII multiestratégia",
+      "dividendos MANA11",
+      "volatilidade MANA11",
+      "patrimônio MANA11"
+    ]
+  },
+  "summary": "MANA11 é o Manatí Capital Hedge Fund FII, um fundo imobiliário de gestão ativa e multiestratégia lançado em 26/05/2022. A carteira investe em ativos de cunho imobiliário, como Certificados de Recebíveis Imobiliários (CRI), outros fundos imobiliários, ações do setor e imóveis. Em 09/2026, o patrimônio líquido era de R$ 346,2 milhões, com 37.966 cotistas. A cota fechou em R$ 8,88 em 29/10/2026, com dividend yield de 14,25% nos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Manatí Capital Hedge Fund Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "MANATÍ CAPITAL HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF MANA11",
+    "isin": "BRMANACTF006",
+    "taxId": "42.888.583/0001-89",
+    "foundingDate": "2022-05-26",
+    "website": "https://manaticm.com",
+    "provider": {
+      "name": ".BANCO DAYCOVAL S/A",
+      "url": "https://www.daycoval.com.br/investimentos/servicos-fiduciarios"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=42888583000189"
+    ]
+  },
+  "profile": {
+    "type": "FII de hedge fund (multiestratégia)",
+    "issuerOrManager": "Manatí Capital Management (gestora), Banco Daycoval S.A",
+    "name": "Manatí Capital Hedge Fund Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "MANATÍ CAPITAL HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "26/05/2022",
+    "administrator": ".BANCO DAYCOVAL S/A",
+    "website": "https://www.daycoval.com.br/investimentos/servicos-fiduciarios"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "MANATÍ CAPITAL HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "42.888.583/0001-89",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Definida",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": ".BANCO DAYCOVAL S/A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "26/05/2022",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 346,2 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "37.966",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,22",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 8,88",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "9,01% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,16",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,25%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MANA11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Manati Capital Hedge Fund Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 8.88,
+    "historyStarts": "2022-08-30",
+    "returns": {
+      "1y": 0.1448,
+      "3y": 0.4293,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.0901,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2341,
+      "from": "2024-06-13",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.16,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.265,
+      "payments12Months": 11,
+      "yield12Months": 0.1425,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.12
+      }
+    },
+    "avgDailyTradedValue3m": 1136321
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do MANA11 nos últimos 12 meses foi de 9,01%, nível considerado baixo para um fundo de hedge fund multiestratégia. O beta contra o Ibovespa foi de 0,16, indicando que o fundo tende a ter movimentos menores que os do índice na mesma direção. A maior queda nos últimos 5 anos foi de -23,41%, do pico em 13/06/2024 ao ponto mais baixo em 19/12/2024. Esse perfil de volatilidade e beta sugere que o fundo tem se mostrado resiliente em relação a movimentos de mercado mais amplos, mas ainda está sujeito a riscos específicos de seus ativos subjacentes."
+  },
+  "history": {
+    "overview": "O Manatí Capital Hedge Fund FII (MANA11) iniciou suas atividades em 26 de maio de 2022, com a Manatí Capital Management como gestora e o Banco Daycoval S.A. como administrador e custodiante. Diferente de fundos imobiliários tradicionais focados em um único segmento, o MANA11 adota uma estratégia de hedge fund multiestratégia, buscando alfa por meio de uma combinação de ativos de cunho imobiliário, como CRIs, outros FIIs, ações do setor, cotas de SPEs e imóveis físicos. O fundo já realizou cinco ofertas públicas de cotas desde o seu lançamento, ampliando sua base de investidores e seu patrimônio. Em 18 de maio de 2026, o fundo anunciou a conclusão do investimento no empreendimento residencial Grand Pulse Jundiaí, na estrutura de equity preferencial, com uma TIR realizada de 58,6% ao ano, equivalente a 453% do CDI no período, superando a TIR alvo de 22,5% ao ano. Esse resultado, somado à distribuição consistente de rendimentos, posicionou o MANA11 como um dos principais hedge funds imobiliários listados na B3, com destaque para a geração de alfa em relação a índices como o IFIX e o CDI, conforme destacado no relatório gerencial de setembro de 2026.",
+    "timeline": [
+      {
+        "date": "2022-05-26",
+        "event": "Início das atividades do fundo Manatí Capital Hedge Fund FII (MANA11).",
+        "source": 1
+      },
+      {
+        "date": "2023-06-06",
+        "event": "Início de oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2023-09-04",
+        "event": "Encerramento de oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2026-05-18",
+        "event": "Conclusão do investimento no empreendimento Grand Pulse Jundiaí, com TIR realizada de 58,6% ao ano.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do MANA11",
+      "body": "O MANA11 é um fundo de investimento imobiliário (FII) de gestão ativa e multiestratégia, classificado pela ANBIMA como FII TVM (Títulos e Valores Mobiliários) com gestão ativa. A gestora é a Manatí Capital Management e o administrador é o Banco Daycoval S.A. O objetivo do fundo, segundo o relatório gerencial de referência 30/09/2026, é auferir rendimentos mediante a aplicação de recursos em ativos de cunho imobiliário, como Certificados de Recebíveis Imobiliários (CRI), outros fundos imobiliários (FII), Fundos de Investimento em Direitos Creditórios Imobiliários (FIDC Imobiliário), ações do setor imobiliário, cotas de SPEs, imóveis e outros títulos imobiliários. A estratégia multiestratégia permite ao fundo buscar alfa em diferentes ciclos de mercado, combinando exposição a crédito imobiliário, renda fixa atrelada a imóveis e ativos físicos."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do MANA11",
+      "body": "Nos 12 meses até 29/10/2026, o MANA11 distribuiu R$ 1,2650 por cota em 11 pagamentos, resultando em um dividend yield de 14,25%. O último provento foi de R$ 0,1200 em 01/10/2026. O relatório gerencial de setembro de 2026 destaca que o dividend yield anualizado no mês foi de 16,8% a.a. (isento de imposto de renda para investidores pessoa física). Para investidores pessoa física, os rendimentos distribuídos são isentos de imposto de renda, ao passo que o ganho de capital é tributado conforme alíquota de 20%. No caso de investidores pessoa jurídica, tanto os rendimentos distribuídos como o ganho de capital são objeto de incidência de imposto de renda, conforme alíquota de 20%. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data de pagamento e multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O MANA11 realizou cinco ofertas públicas de cotas desde o seu lançamento em 2022, conforme documentos publicados no FNET (B3). O patrimônio líquido do fundo era de R$ 346,2 milhões em 09/2026, com 37.966 cotistas e 37.536.140 cotas emitidas. O valor patrimonial da cota era de R$ 9,22 em 09/2026, enquanto a cota de mercado fechou em R$ 8,88 em 29/10/2026. O volume médio negociado por dia nos últimos 3 meses era de R$ 1,1 milhão."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MANA11",
+      "body": "A rentabilidade total com proventos do MANA11 foi de 14,48% nos 12 meses até 29/10/2026 e de 42,93% em 3 anos. O relatório gerencial de setembro de 2026 destaca que a rentabilidade acumulada da cota patrimonial ajustada desde o início do fundo é de +79,2%, equivalente a 230% do IFIX e 138% do CDI líquido. É possível comparar esse desempenho com os principais índices de mercado, como IFIX e CDI, na [comparação com índices](/recursos/comparacao-com-indices) do app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MANA11",
+      "body": "Como fundo de hedge fund multiestratégia, o MANA11 está exposto a riscos de crédito (em CRIs e outros ativos de papel), riscos de vacância e valorização de imóveis (em ativos de tijolo), e riscos de mercado (em ações e outros FIIs). A volatilidade anualizada do fundo nos últimos 12 meses foi de 9,01%, nível considerado baixo. O beta contra o Ibovespa foi de 0,16, indicando que o fundo tende a ter movimentos menores que os do índice na mesma direção. A maior queda nos últimos 5 anos foi de -23,41%, do pico em 13/06/2024 ao ponto mais baixo em 19/12/2024. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar a volatilidade da cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MANA11 é FII de papel ou de tijolo?",
+      "answer": "O MANA11 é um FII de hedge fund multiestratégia, classificado pela ANBIMA como FII TVM (Títulos e Valores Mobiliários) com gestão ativa. A carteira investe em ativos de cunho imobiliário, como CRIs, outros FIIs, ações do setor, cotas de SPEs e imóveis físicos, combinando exposição a crédito imobiliário, renda fixa atrelada a imóveis e ativos físicos."
+    },
+    {
+      "question": "MANA11 paga dividendos?",
+      "answer": "Sim, o MANA11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, o fundo distribuiu R$ 1,2650 por cota em 11 pagamentos, resultando em um dividend yield de 14,25%. O último provento foi de R$ 0,1200 em 01/10/2026. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data de pagamento e multiplicados pela sua quantidade."
+    },
+    {
+      "question": "Qual a diferença entre MANA11 e outros FIIs?",
+      "answer": "O MANA11 é um FII de hedge fund multiestratégia, diferente de FIIs tradicionais focados em um único segmento (como logística, shoppings ou lajes corporativas). A estratégia multiestratégia permite ao fundo buscar alfa em diferentes ciclos de mercado, combinando exposição a crédito imobiliário, renda fixa atrelada a imóveis e ativos físicos. É possível comparar o MANA11 com outros FIIs no [comparador de fundos](/recursos/comparador-de-fundos) do app."
+    },
+    {
+      "question": "MANA11 é isento de imposto de renda?",
+      "answer": "Para investidores pessoa física, os rendimentos distribuídos pelo MANA11 são isentos de imposto de renda, ao passo que o ganho de capital é tributado conforme alíquota de 20%. No caso de investidores pessoa jurídica, tanto os rendimentos distribuídos como o ganho de capital são objeto de incidência de imposto de renda, conforme alíquota de 20%."
+    },
+    {
+      "question": "Qual o patrimônio do MANA11?",
+      "answer": "O patrimônio líquido do MANA11 era de R$ 346,2 milhões em 09/2026, com 37.966 cotistas e 37.536.140 cotas emitidas. O valor patrimonial da cota era de R$ 9,22 em 09/2026, enquanto a cota de mercado fechou em R$ 8,88 em 29/10/2026."
+    },
+    {
+      "question": "Como acompanhar o MANA11 no app?",
+      "answer": "É possível acompanhar o MANA11 no app de várias formas: veja os [dividendos e JCP no app](/recursos/proventos) com data de pagamento e multiplicados pela sua quantidade, compare o desempenho com os principais índices na [comparação com índices](/recursos/comparacao-com-indices), e configure [alertas de preço](/recursos/alertas-de-preco) para acompanhar a volatilidade da cota. Também é possível usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a sua posição no fundo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da MANA11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da MANA11 com IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para acompanhar a volatilidade da cota da MANA11 e receber notificações quando o preço atingir o valor que você escolheu."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição na MANA11 e receba respostas dos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHF11",
+        "list": "fiis",
+        "reason": "Outro FII de hedge fund multiestratégia, com estratégia semelhante ao MANA11."
+      },
+      {
+        "ticker": "BTHF11",
+        "list": "fiis",
+        "reason": "FII de hedge fund do BTG Pactual, com estratégia multiestratégia semelhante ao MANA11."
+      },
+      {
+        "ticker": "VGHF11",
+        "list": "fiis",
+        "reason": "FII de hedge fund da Valora, com estratégia multiestratégia semelhante ao MANA11."
+      },
+      {
+        "ticker": "SPXS11",
+        "list": "fiis",
+        "reason": "FII multiestratégia da Spx Syn, com abordagem semelhante ao MANA11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MANA11",
+      "url": "https://finance.yahoo.com/quote/MANA11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do MANATÍ CAPITAL HEDGE FUND FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo MANA11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=42888583000189",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do MANA11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1358150",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do MANA11, 18/05/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1198681",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

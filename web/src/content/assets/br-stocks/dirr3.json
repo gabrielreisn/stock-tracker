@@ -1,0 +1,384 @@
+{
+  "ticker": "DIRR3",
+  "slug": "dirr3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "DIRR3: história, dividendos e volatilidade",
+    "description": "DIRR3 é a ação ordinária da Direcional Engenharia, incorporadora listada no Novo Mercado.",
+    "h1": "DIRR3: Direcional Engenharia S.A.",
+    "canonicalPath": "/acoes/dirr3",
+    "keywords": [
+      "DIRR3",
+      "Direcional Engenharia",
+      "ação DIRR3",
+      "dividendos DIRR3",
+      "volatilidade DIRR3",
+      "incorporadora B3",
+      "Novo Mercado",
+      "rentabilidade DIRR3"
+    ]
+  },
+  "summary": "DIRR3 é a ação ordinária da Direcional Engenharia S.A., empresa de Belo Horizonte (MG) focada na incorporação, construção e comercialização de imóveis. Listada no Novo Mercado da B3 desde 2009, a companhia opera no setor de Consumo Cíclico. Em 30/10/2026, a ação estava cotada a R$ 8,13, com dividend yield de 19,07% nos últimos 12 meses e volatilidade anualizada de 52,57%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Direcional Engenharia S.A.",
+    "legalName": "DIRECIONAL ENGENHARIA SA",
+    "ticker": "BVMF DIRR3",
+    "isin": "BRDIRRACNOR0",
+    "taxId": "16.614.075/0001-00",
+    "foundingDate": "1981-01-01",
+    "address": {
+      "locality": "Belo Horizonte",
+      "region": "MG",
+      "country": "BR"
+    },
+    "website": "https://www.direcional.com.br/ri",
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/V%C3%A1lvula_de_controle_direcional_(hidr%C3%A1ulica_e_pneum%C3%A1tica)",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21350/DIRR/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Direcional Engenharia S.A.",
+    "legalName": "DIRECIONAL ENGENHARIA SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Incorporações",
+    "founded": "01/01/1981",
+    "listedSince": "19/11/2009",
+    "headquarters": "Belo Horizonte (MG)",
+    "website": "https://www.direcional.com.br/ri"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "DIRECIONAL ENGENHARIA SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "16.614.075/0001-00",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Incorporações",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "01/01/1981",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Belo Horizonte (MG)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "19/11/2009",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "DIRR3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 8,13",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "52,57% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,61",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "19,07%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "DIRR3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Direcional Engenharia S.A.",
+    "currency": "BRL",
+    "price": 8.13,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.4626,
+      "3y": 0.8775,
+      "5y": 2.5591,
+      "10y": 7.6012
+    },
+    "volatility1y": 0.5257,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5203,
+      "from": "2025-12-04",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.61,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.55,
+      "payments12Months": 1,
+      "yield12Months": 0.1907,
+      "lastPayment": {
+        "date": "2025-12-17",
+        "amount": 1.55
+      }
+    },
+    "avgDailyTradedValue3m": 132830724
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 52,57% da DIRR3 nos últimos 12 meses é considerada muito alta, refletindo a sensibilidade do setor de incorporações a mudanças no crédito e nos juros. O beta de 1,61 contra o Ibovespa mostra que a ação costuma acompanhar os movimentos do índice com amplitude maior, na mesma direção. A maior queda em 5 anos foi de -52,03%, entre 04/12/2025 e 30/10/2026. Para acompanhar oscilações e definir pontos de atenção, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que notificam quando a ação atinge um valor escolhido."
+  },
+  "history": {
+    "overview": "A Direcional Engenharia S.A. foi constituída em 01/01/1981 e registrou-se como companhia aberta na CVM em 29/02/2008. A empresa iniciou a cotação de suas ações na B3 em 19/11/2009, adotando o segmento de listagem Novo Mercado, o que confere aos acionistas direitos reforçados, como a participação em assembleias e a transparência na governança corporativa. A companhia atua na incorporação, construção e comercialização de imóveis próprios ou de terceiros, além da prestação de serviços de engenharia, com sede em Belo Horizonte (MG) e controle acionário privado por holding. Nos últimos anos, a empresa passou por reestruturações societárias significativas, incluindo a cisão da Filadélphia e a aprovação de acordos de acionistas em 2025, além de aumentos de capital em subsidiárias e a aprovação de um novo programa de recompra de ações em 2026.",
+    "timeline": [
+      {
+        "date": "1981-01-01",
+        "event": "Constituição da Direcional Engenharia S.A.",
+        "source": 2
+      },
+      {
+        "date": "2008-02-29",
+        "event": "Registro da companhia como aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2009-11-19",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-03-20",
+        "event": "Cisão da Filadélphia e aprovação de acordo de acionistas",
+        "source": 9
+      },
+      {
+        "date": "2025-05-13",
+        "event": "Aumento de capital em subsidiária e subscrição",
+        "source": 8
+      },
+      {
+        "date": "2025-06-02",
+        "event": "Novo aumento de capital em subsidiária e subscrição",
+        "source": 7
+      },
+      {
+        "date": "2025-06-16",
+        "event": "Desdobramento de ações e distribuição de dividendos",
+        "source": 6
+      },
+      {
+        "date": "2025-12-10",
+        "event": "Distribuição de dividendos",
+        "source": 5
+      },
+      {
+        "date": "2026-08-11",
+        "event": "Aprovação do novo Programa de Recompra de Ações",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Direcional Engenharia S.A. ganha dinheiro",
+      "body": "A Direcional Engenharia S.A. atua na incorporação, construção e comercialização de imóveis próprios ou de terceiros, além da prestação de serviços de engenharia. A empresa está classificada pela B3 no setor de Consumo Cíclico, segmento de Incorporações, e pela CVM no setor de Construção Civil, Materiais de Construção e Decoração. A receita da companhia provém da venda de unidades imobiliárias e da execução de projetos de engenharia, atividades que dependem diretamente das condições de crédito, juros e demanda por moradia no mercado brasileiro."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Direcional Engenharia S.A.",
+      "body": "O controle acionário da Direcional Engenharia S.A. é privado, mantido por uma holding. As ações são negociadas na B3 sob o código DIRR3, representando a classe ordinária (ON). A empresa está listada no segmento de governança Novo Mercado, que exige práticas de transparência e igualdade entre acionistas. As ações ordinárias conferem direito a voto em assembleias gerais e participação nos lucros, enquanto ações preferenciais (quando existem) priorizam o recebimento de dividendos, mas geralmente não têm direito a voto. A DIRR3 é a ação ordinária da companhia."
+    },
+    {
+      "id": "proventos",
+      "heading": "DIRR3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a DIRR3 distribuiu R$ 1,5500 por ação em 1 pagamento, resultando em um dividend yield de 19,07%. O último pagamento registrado foi de R$ 1,5500, com data de pagamento em 17/12/2025. A companhia tem histórico de distribuição de proventos, incluindo eventos de desdobramento de ações e dividendos em 2025. É possível acompanhar o histórico completo de dividendos e JCP da DIRR3, com datas de competência e pagamento, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da DIRR3",
+      "body": "A rentabilidade total da DIRR3 com proventos foi de -46,26% nos 12 meses até 30/10/2026, 87,75% em 3 anos e 255,91% em 5 anos. Em 10 anos, o retorno acumulado foi de 760,12%. Esses números refletem a alta volatilidade do setor de incorporações e os ciclos de crédito no Brasil. Para comparar a performance da DIRR3 com outros ativos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade lado a lado com o Ibovespa, CDI e IPCA."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da DIRR3",
+      "body": "A volatilidade anualizada da DIRR3 nos últimos 12 meses foi de 52,57%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -52,03%, entre o pico em 04/12/2025 e o ponto mais baixo em 30/10/2026. O setor de incorporações está sujeito a riscos de crédito, variação de juros, mudanças na demanda por imóveis e oscilações no custo de construção. A alta volatilidade exige atenção ao gerenciamento de risco na carteira."
+    }
+  ],
+  "faq": [
+    {
+      "question": "DIRR3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a DIRR3 distribuiu R$ 1,5500 por ação, com dividend yield de 19,07%. O último pagamento foi de R$ 1,5500 em 17/12/2025. A companhia tem histórico de distribuição de proventos, incluindo eventos em 2025. O recurso de [dividendos e JCP no app](/recursos/proventos) mostra o histórico completo com datas de competência e pagamento."
+    },
+    {
+      "question": "Qual a diferença entre DIRR3 e ações preferenciais?",
+      "answer": "A DIRR3 é a ação ordinária (ON) da Direcional Engenharia, o que significa que ela confere direito a voto em assembleias gerais. Ações preferenciais, quando existem, priorizam o recebimento de dividendos, mas geralmente não têm direito a voto. A DIRR3 é a classe negociada sob o código DIRR3 na B3."
+    },
+    {
+      "question": "Qual o setor da Direcional Engenharia?",
+      "answer": "A Direcional Engenharia S.A. está classificada pela B3 no setor de Consumo Cíclico, segmento de Incorporações. A CVM a classifica no setor de Construção Civil, Materiais de Construção e Decoração. A empresa atua na incorporação, construção e comercialização de imóveis, além de serviços de engenharia."
+    },
+    {
+      "question": "Qual a volatilidade da DIRR3?",
+      "answer": "A volatilidade anualizada da DIRR3 nos últimos 12 meses é de 52,57%, classificada como muito alta. O beta de 1,61 indica que a ação tende a se mover com amplitude maior que a do Ibovespa. A maior queda em 5 anos foi de -52,03%, entre 04/12/2025 e 30/10/2026. Para acompanhar oscilações, é possível usar [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Qual a rentabilidade da DIRR3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total da DIRR3 com proventos foi de -46,26% nos 12 meses até 30/10/2026. Em 3 anos, o retorno foi de 87,75%, e em 5 anos, de 255,91%. A [comparação com índices](/recursos/comparacao-com-indices) permite ver a performance da DIRR3 lado a lado com o Ibovespa, CDI e IPCA."
+    },
+    {
+      "question": "A Direcional Engenharia está no Novo Mercado?",
+      "answer": "Sim. A Direcional Engenharia S.A. está listada no segmento de governança Novo Mercado da B3, que exige práticas de transparência e igualdade entre acionistas. A empresa iniciou a cotação na B3 em 19/11/2009 e tem controle acionário privado por holding."
+    },
+    {
+      "question": "Como acompanhar a DIRR3 na carteira?",
+      "answer": "É possível acompanhar a DIRR3 na [carteira consolidada](/recursos/carteira-consolidada), que mostra o valor por classe, alocação e as maiores posições. O recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) exibe o gráfico de rentabilidade e o preço médio de cada ativo. O [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a posição na DIRR3, com respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da DIRR3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da DIRR3 com o Ibovespa, CDI e IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a DIRR3 chegar ao preço que você escolheu, para acompanhar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a DIRR3 junto com outras ações, renda fixa e fundos em uma só visão, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição na DIRR3; as respostas vêm dos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CYRE3",
+        "list": "br-stocks",
+        "reason": "Cyrela Brazil Realty, outra incorporadora listada na B3, no mesmo segmento de Incorporações."
+      },
+      {
+        "ticker": "MRVE3",
+        "list": "br-stocks",
+        "reason": "MRV Engenharia e Participações, empresa do setor de incorporações, com exposição ao mesmo ciclo de crédito e demanda por imóveis."
+      },
+      {
+        "ticker": "CURY3",
+        "list": "br-stocks",
+        "reason": "Cury Construtora e Incorporadora, outra incorporadora listada na B3, no segmento de Incorporações."
+      },
+      {
+        "ticker": "MULT3",
+        "list": "br-stocks",
+        "reason": "Multiplan Empreendimentos Imobiliários, empresa do setor imobiliário, com exposição ao mesmo ciclo de crédito e demanda por imóveis."
+      },
+      {
+        "ticker": "TEND3",
+        "list": "br-stocks",
+        "reason": "Construtora Tenda, outra incorporadora listada na B3, no segmento de Incorporações."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de DIRR3",
+      "url": "https://finance.yahoo.com/quote/DIRR3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: DIRECIONAL, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21350/DIRR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, DIRECIONAL ENGENHARIA SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Válvula de controle direcional (hidráulica e pneumática)",
+      "url": "https://pt.wikipedia.org/wiki/V%C3%A1lvula_de_controle_direcional_(hidr%C3%A1ulica_e_pneum%C3%A1tica)",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/08/2026, “Aprovação do novo Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1555912&numSequencia=1080618&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/12/2025, “Distribuição de Dividendos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1455659&numSequencia=980371&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/06/2025, “Desdobramento de Ações||Distribuição de Dividendos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1391146&numSequencia=915858&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/06/2025, “Aumento de capital em subsidiária e subscrição”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1385434&numSequencia=910146&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/05/2025, “Aumento de Capital em Subsidiária e Subscrição”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1376770&numSequencia=901482&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/03/2025, “Cisão Filadélphia e Acordo de Acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1349497&numSequencia=874223&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

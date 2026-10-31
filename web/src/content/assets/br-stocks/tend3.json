@@ -1,0 +1,416 @@
+{
+  "ticker": "TEND3",
+  "slug": "tend3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TEND3: história, dividendos e volatilidade",
+    "description": "TEND3 é a ação ordinária da Construtora Tenda, incorporadora listada na B3 desde 2017.",
+    "h1": "TEND3: Construtora Tenda - Ação Ordinária",
+    "canonicalPath": "/acoes/tend3",
+    "keywords": [
+      "TEND3",
+      "Construtora Tenda",
+      "ação TEND3",
+      "dividendos TEND3",
+      "volatilidade TEND3",
+      "incorporadora B3",
+      "ação habitação popular"
+    ]
+  },
+  "summary": "TEND3 é a ação ordinária da Construtora Tenda S/A, empresa do setor de incorporações imobiliárias com sede em São Paulo. Fundada em 1969 e listada na B3 desde 2017 no segmento Novo Mercado, a companhia opera no segmento de Consumo Cíclico. Em 30/10/2026, a ação estava cotada a R$ 20,14, com rentabilidade total de -7,72% nos últimos 12 meses e dividend yield de 7,26%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Construtora Tenda",
+    "legalName": "CONSTRUTORA TENDA S/A",
+    "ticker": "BVMF TEND3",
+    "isin": "BRTENDACNOR4",
+    "taxId": "71.476.527/0001-35",
+    "foundingDate": "1994-01-01",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://WWW.TENDA.COM",
+    "wikidata": "Q5164517",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q5164517",
+      "https://pt.wikipedia.org/wiki/Construtora",
+      "https://en.wikipedia.org/wiki/Construtora_Tenda",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21148/TEND/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Construtora Tenda",
+    "legalName": "CONSTRUTORA TENDA S/A",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Incorporações",
+    "founded": "01/01/1994",
+    "listedSince": "04/05/2017",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://WWW.TENDA.COM"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "CONSTRUTORA TENDA S/A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "71.476.527/0001-35",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Incorporações",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "01/01/1994",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "04/05/2017",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "TEND3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 20,14",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "60,78% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,62",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,26%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TEND3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Construtora Tenda S.A.",
+    "currency": "BRL",
+    "price": 20.14,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0772,
+      "3y": 0.9553,
+      "5y": 0.208,
+      "10y": 3.7049
+    },
+    "volatility1y": 0.6078,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8109,
+      "from": "2021-11-10",
+      "to": "2022-08-02"
+    },
+    "beta1y": {
+      "value": 1.62,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.4615,
+      "payments12Months": 2,
+      "yield12Months": 0.0726,
+      "lastPayment": {
+        "date": "2026-08-14",
+        "amount": 0.636329
+      }
+    },
+    "avgDailyTradedValue3m": 123488211
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da TEND3 é de 60,78% nos últimos 12 meses, nível classificado como muito alta. A maior queda em 5 anos foi de -81,09%, entre 10/11/2021 e 02/08/2022. Para ações de incorporadoras, a volatilidade tende a ser elevada devido à sensibilidade a juros, crédito e políticas habitacionais. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos específicos da TEND3."
+  },
+  "history": {
+    "overview": "A Construtora Tenda S/A tem origem em 1969, quando foi fundada em Minas Gerais, operando inicialmente como Tenda Engenharia S.A. A constituição formal da companhia ocorreu em 01/01/1994, e em 11/10/2007 a empresa obteve registro como companhia aberta na CVM. Em 2007, a Tenda realizou sua oferta pública inicial de ações, levantando R$ 603 milhões. Em 2008, a empresa foi adquirida pela Gafisa, mas foi desmembrada (spin-off) em 2017, quando retornou à bolsa de valores com cotação iniciada em 04/05/2017. A empresa atua no segmento de incorporações, focada no mercado de habitação popular, com sede em São Paulo e auditoria independente pela KPMG. Em 2026, a companhia passou por uma transição formal na posição de CEO, iniciada em maio e formalizada em setembro, além de aprovar a distribuição de dividendos intercalares e um novo plano de recompra de ações.",
+    "timeline": [
+      {
+        "date": "1969",
+        "event": "Fundação da empresa em Minas Gerais.",
+        "source": 3
+      },
+      {
+        "date": "1994-01-01",
+        "event": "Constituição formal da Construtora Tenda S/A.",
+        "source": 2
+      },
+      {
+        "date": "2007-10-11",
+        "event": "Registro como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2017-05-04",
+        "event": "Início da cotação das ações na B3 após o spin-off da Gafisa.",
+        "source": 1
+      },
+      {
+        "date": "2026-03-11",
+        "event": "Liquidação de SWAP e aquisição privada.",
+        "source": 13
+      },
+      {
+        "date": "2026-04-02",
+        "event": "Rolagem de contratos de Swap.",
+        "source": 12
+      },
+      {
+        "date": "2026-05-07",
+        "event": "Início do processo formal de transição do CEO.",
+        "source": 10
+      },
+      {
+        "date": "2026-08-04",
+        "event": "Revisão das projeções (Guidance) para 2026.",
+        "source": 9
+      },
+      {
+        "date": "2026-08-07",
+        "event": "Aprovação da distribuição de dividendos intercalares.",
+        "source": 8
+      },
+      {
+        "date": "2026-09-08",
+        "event": "Formalização da transição da posição de CEO.",
+        "source": 7
+      },
+      {
+        "date": "2026-09-30",
+        "event": "Novo plano de recompra de ações e celebração de contratos de derivativos.",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Construtora Tenda ganha dinheiro",
+      "body": "A Construtora Tenda S/A atua no segmento de incorporações imobiliárias, dentro do setor de Consumo Cíclico, conforme classificação da B3. A empresa é uma construtora que se dedica à construção civil, executando obras e edificações, além de desenvolver projetos e orçamentos. Sua atuação é focada no mercado de habitação popular, com participação em programas como o Minha Casa Minha Vida. A receita da companhia vem da venda de imóveis e da prestação de serviços de construção, com sede em São Paulo e auditoria independente realizada pela KPMG Auditores Independentes Ltda."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Construtora Tenda",
+      "body": "O controle acionário da Construtora Tenda é privado, conforme cadastro da CVM. As ações são negociadas na B3 sob o código TEND3, que representa a ação ordinária (ON). A empresa está listada no segmento Novo Mercado, que impõe padrões elevados de governança corporativa. A ação ordinária confere direito a voto em assembleias e participação nos lucros, enquanto a ação preferencial (quando existe) tem prioridade no recebimento de dividendos, mas geralmente sem direito a voto. A Tenda possui apenas a classe ON em negociação."
+    },
+    {
+      "id": "proventos",
+      "heading": "TEND3 paga dividendos?",
+      "body": "TEND3 pagou R$ 1,4615 por ação em 2 pagamentos nos 12 meses até 30/10/2026, resultando em dividend yield de 7,26%. O último pagamento foi de R$ 0,6363 em 14/08/2026. Em 07/08/2026, a companhia aprovou a distribuição de dividendos intercalares, o que indica uma política de remuneração aos acionistas que pode ocorrer fora do calendário anual tradicional. É possível acompanhar os dividendos e JCP da TEND3 com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [proventos](/recursos/proventos) do app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da TEND3",
+      "body": "A rentabilidade total com proventos da TEND3 foi de -7,72% nos 12 meses até 30/10/2026, 95,53% em 3 anos, 20,80% em 5 anos e 370,49% em 10 anos. O preço em 30/10/2026 era de R$ 20,14. Para comparar esses resultados com o Ibovespa, CDI e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) do app, que mostra a rentabilidade da carteira lado a lado com referências de mercado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da TEND3",
+      "body": "A TEND3 apresenta volatilidade anualizada de 60,78% nos últimos 12 meses, classificada como nível muito alta. A maior queda nos últimos 5 anos foi de -81,09%, do pico em 10/11/2021 ao ponto mais baixo em 02/08/2022. Riscos do setor incluem sensibilidade a mudanças na política habitacional, taxa de juros e crédito. A volatilidade e os movimentos de preço podem ser monitorados com [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TEND3 paga dividendos?",
+      "answer": "Sim, TEND3 pagou R$ 1,4615 por ação em 2 pagamentos nos 12 meses até 30/10/2026, com dividend yield de 7,26%. O último pagamento foi de R$ 0,6363 em 14/08/2026. A companhia aprovou dividendos intercalares em 07/08/2026. Veja os detalhes no recurso de [proventos](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre TEND3 e TEND4?",
+      "answer": "TEND3 é a ação ordinária (ON) da Construtora Tenda, que confere direito a voto em assembleias. A Tenda não possui ação preferencial (PN) em negociação, apenas a classe ON. A ação ordinária participa dos lucros e tem direito a voto, enquanto a preferencial, quando existe, tem prioridade em dividendos, mas geralmente sem voto."
+    },
+    {
+      "question": "TEND3 é ação de qual empresa?",
+      "answer": "TEND3 é a ação ordinária da Construtora Tenda S/A, empresa do setor de incorporações imobiliárias com sede em São Paulo. A empresa foi fundada em 1969 e está listada na B3 desde 04/05/2017 no segmento Novo Mercado."
+    },
+    {
+      "question": "Qual o setor da TEND3?",
+      "answer": "TEND3 está classificada no setor de Consumo Cíclico, segmento de Incorporações, conforme a B3. A empresa atua na construção civil, focada no mercado de habitação popular, com participação em programas como o Minha Casa Minha Vida."
+    },
+    {
+      "question": "TEND3 é volátil?",
+      "answer": "Sim, a TEND3 tem volatilidade anualizada de 60,78% nos últimos 12 meses, nível muito alta. A maior queda em 5 anos foi de -81,09%, entre 10/11/2021 e 02/08/2022. Configure [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos."
+    },
+    {
+      "question": "TEND3 tem ação preferencial?",
+      "answer": "Não, a Construtora Tenda possui apenas a ação ordinária (TEND3) em negociação na B3. Não há ação preferencial (TEND4) listada. A ação ordinária confere direito a voto e participação nos lucros."
+    },
+    {
+      "question": "Como acompanhar TEND3 na carteira?",
+      "answer": "É possível acompanhar a TEND3 na [carteira consolidada](/recursos/carteira-consolidada), que reúne ações da B3, dos EUA, renda fixa e fundos em uma só visão. O recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) mostra o gráfico de rentabilidade e a variação do dia e do ano para cada ativo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da TEND3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com Ibovespa e CDI",
+        "context": "Compare a rentabilidade da TEND3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a TEND3 chegar ao preço que você escolheu, útil para acompanhar a volatilidade de 60,78%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a TEND3 junto com outras ações, renda fixa e fundos, com alocação e maiores posições em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em TEND3 e receba respostas dos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CYRE3",
+        "list": "br-stocks",
+        "reason": "Cyrela Brazil Realty, outra incorporadora listada na B3, mesma classe de ativo e setor de construção civil."
+      },
+      {
+        "ticker": "CURY3",
+        "list": "br-stocks",
+        "reason": "Cury Construtora e Incorporadora, empresa do mesmo segmento de incorporações e mercado de habitação popular."
+      },
+      {
+        "ticker": "MRVE3",
+        "list": "br-stocks",
+        "reason": "MRV Engenharia e Participações, incorporadora com foco em habitação popular, mesma classe de ativo."
+      },
+      {
+        "ticker": "MULT3",
+        "list": "br-stocks",
+        "reason": "Multiplan Empreendimentos Imobiliários, empresa do setor imobiliário, mesma classe de ativo."
+      },
+      {
+        "ticker": "ALOS3",
+        "list": "br-stocks",
+        "reason": "Allos S.A., incorporadora listada na B3, mesma classe de ativo e setor de construção civil."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TEND3",
+      "url": "https://finance.yahoo.com/quote/TEND3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: TENDA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21148/TEND/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, CONSTRUTORA TENDA S/A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Construtora Tenda",
+      "url": "https://www.wikidata.org/wiki/Q5164517",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Construtora",
+      "url": "https://pt.wikipedia.org/wiki/Construtora",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Construtora Tenda",
+      "url": "https://en.wikipedia.org/wiki/Construtora_Tenda",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/09/2026, “Novo plano de recompra de ações da Companhia e celebração de contratos de derivativos referenciados em ações.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1572699&numSequencia=1097405&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/09/2026, “Formalização da transição da posição de CEO.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1565722&numSequencia=1090428&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/08/2026, “Aprovação da distribuição de dividendos intercalares”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1554340&numSequencia=1079046&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/08/2026, “Revisão das projeções (Guidance) 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1552035&numSequencia=1076741&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/05/2026, “Processo Formal de Transição CEO”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1517936&numSequencia=1042642&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/05/2026, “Processo Formal de Transição CEO - Versão Inglês”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1517951&numSequencia=1042657&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/04/2026, “Rolagem de contratos de Swap”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1500753&numSequencia=1025459&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/03/2026, “Liquidação SWAP + Aquisição Privada”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1489083&numSequencia=1013789&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

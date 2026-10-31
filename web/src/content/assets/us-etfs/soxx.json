@@ -1,0 +1,300 @@
+{
+  "ticker": "SOXX",
+  "slug": "soxx",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SOXX: história, desempenho e volatilidade",
+    "description": "SOXX é o iShares Semiconductor ETF, lançado em 2001. Veja rentabilidade de 54,88% em 12 meses, volatilidade de 47,55% e como investir a partir do Brasil.",
+    "h1": "SOXX: iShares Semiconductor ETF",
+    "canonicalPath": "/etfs/soxx",
+    "keywords": [
+      "SOXX",
+      "iShares Semiconductor ETF",
+      "ETF de semicondutores",
+      "investir em semicondutores",
+      "SOXX dividendos",
+      "SOXX volatilidade",
+      "ETF americano semicondutores"
+    ]
+  },
+  "summary": "SOXX é o iShares Semiconductor ETF, lançado em 13/07/2001 pela BlackRock (antiga Barclays Global Investors). O fundo replica a performance do setor de semicondutores, uma indústria cíclica e de alta volatilidade. Até 30/10/2026, a cota valia US$ 471,51, com rentabilidade total de 54,88% nos últimos 12 meses e 1.295,42% em 10 anos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Semiconductor ETF",
+    "ticker": "XNAS SOXX",
+    "foundingDate": "2001-07-13",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "BlackRock (iShares)",
+    "trackedIndex": "Indústria de semicondutores (não especificado nas fontes)",
+    "name": "iShares Semiconductor ETF",
+    "founded": "13/07/2001"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Semiconductor ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "13/07/2001",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 471,51",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "47,55% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,71",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,27%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 4,26 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SOXX",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Semiconductor ETF",
+    "currency": "USD",
+    "price": 471.51,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.5488,
+      "3y": 2.2822,
+      "5y": 2.046,
+      "10y": 12.9542
+    },
+    "volatility1y": 0.4755,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4575,
+      "from": "2021-12-27",
+      "to": "2022-10-14"
+    },
+    "beta1y": {
+      "value": 2.71,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.252,
+      "payments12Months": 4,
+      "yield12Months": 0.0027,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.325
+      }
+    },
+    "avgDailyTradedValue3m": 4261557928
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do SOXX de 47,55% nos 12 meses até 30/10/2026 é muito alta, refletindo a natureza cíclica e volátil da indústria de semicondutores. O beta de 2,71 contra o S&P 500 significa que, em média, o SOXX se move 2,71 vezes mais que o índice, na mesma direção. A maior queda em 5 anos, de -45,75% entre 27/12/2021 e 14/10/2022, ilustra o potencial de drawdowns acentuados. Para quem acompanha o ativo, o app permite configurar alertas de preço para monitorar movimentos bruscos."
+  },
+  "history": {
+    "overview": "O SOXX faz parte da marca iShares, que pertence à BlackRock desde 2009, quando a empresa adquiriu o negócio da Barclays. A origem dos produtos iShares remonta a 1996, quando a Barclays, em conjunto com a MSCI, lançou os World Equity Benchmark Shares (WEBS), que permitiam acesso fácil a mercados estrangeiros. Em 2000, a Barclays rebrandou os WEBS para iShares, iniciando uma expansão agressiva no mercado de ETFs. O SOXX estreou em 13/07/2001, oferecendo exposição ao setor de semicondutores, uma indústria que, segundo fontes, possui crescimento médio de longo prazo, mas com flutuações de curto prazo intensas e ciclos de vida de produtos curtos. A indústria de semicondutores, cujas raízes remontam à invenção do transistor em 1948, é dominada por empresas dos EUA, Taiwan, Coreia do Sul, Japão e Holanda, e é considerada um motor de inovação para toda a cadeia de eletrônicos.",
+    "timeline": [
+      {
+        "date": "1948",
+        "event": "Invenção do transistor por Shockley, Brattain e Bardeen no Bell Labs, marco inicial da indústria de semicondutores.",
+        "source": 2
+      },
+      {
+        "date": "1958",
+        "event": "Jack Kilby e Robert Noyce inventam independentemente o circuito integrado, impulsionando o crescimento exponencial da produção de semicondutores.",
+        "source": 2
+      },
+      {
+        "date": "1996",
+        "event": "Barclays e MSCI lançam os World Equity Benchmark Shares (WEBS), precursores dos ETFs iShares.",
+        "source": 3
+      },
+      {
+        "date": "2000",
+        "event": "Barclays rebranda os WEBS para iShares e lança mais de 40 novos fundos, liderados por Lee Kranefuss.",
+        "source": 1
+      },
+      {
+        "date": "2001-07-13",
+        "event": "Primeiro pregão das cotas do iShares Semiconductor ETF (SOXX) na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio iShares da Barclays, tornando-se a maior emissora de ETFs nos EUA e globalmente.",
+        "source": 1
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma a venda da marca iShares para a CVC Capital Partners por mais de US$ 4 bilhões.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SOXX funciona",
+      "body": "O SOXX é um ETF de índice gerido pela BlackRock (marca iShares), que estreou em 13/07/2001. Diferente de ETFs alavancados ou inversos, o SOXX não possui rebalanceamento diário de múltiplos; ele busca replicar a performance do seu índice subjacente de forma passiva. A BlackRock é a maior emissora de ETFs nos Estados Unidos e globalmente, tendo adquirido a marca iShares da Barclays em 2009. O fundo opera em bolsas americanas, permitindo que investidores comprem e vendam cotas em tempo real durante o pregão."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SOXX",
+      "body": "As fontes disponíveis não detalham o índice específico que o SOXX replica nem a lista de empresas que compõem sua carteira. Sabe-se apenas que o fundo tem foco no setor de semicondutores, uma indústria global dominada por empresas dos Estados Unidos, Taiwan, Coreia do Sul, Japão e Holanda, com presença significativa de Israel e Alemanha. A indústria é caracterizada por ciclos de alta e baixa intensos, com crescimento médio de longo prazo, mas volatilidade de curto prazo elevada."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SOXX a partir do Brasil",
+      "body": "Para investir no SOXX a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso ao mercado americano. A compra é feita em dólar, o que introduz risco cambial: variações na cotação do dólar frente ao real impactam diretamente o retorno em reais. Alternativamente, é possível buscar ETFs ou BDRs negociados na B3 que sigam o mesmo índice ou o setor de semicondutores, o que elimina a necessidade de conta no exterior, mas pode envolver custos adicionais de gestão e liquidez. O app permite acompanhar a performance de ativos em dólar e reais de forma consolidada."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SOXX",
+      "body": "Até 30/10/2026, o SOXX apresentava rentabilidade total com proventos de 54,88% nos últimos 12 meses, 228,22% em 3 anos, 204,60% em 5 anos e 1.295,42% em 10 anos. O preço da cota era de US$ 471,51. O fundo distribuiu US$ 1,2520 por cota em 4 pagamentos no período de 12 meses, resultando em dividend yield de 0,27%. Para comparar esse desempenho com o mercado americano, o app oferece a ferramenta de comparação com índices, incluindo o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SOXX",
+      "body": "O SOXX possui volatilidade anualizada de 47,55% nos últimos 12 meses, classificada como muito alta. O beta de 2,71 contra o S&P 500 indica que o ativo tende a oscilar com amplitude 2,71 vezes maior que o índice de referência. A maior queda em 5 anos foi de -45,75%, entre 27/12/2021 e 14/10/2022. Riscos setoriais incluem a natureza cíclica da indústria de semicondutores, com flutuações de curto prazo intensas e ciclos de vida de produtos curtos. O risco cambial também se aplica para investidores brasileiros, dada a exposição ao dólar."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar SOXX no app",
+      "body": "Para quem tem SOXX na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja a alocação do SOXX junto com outros ativos, com valor por classe e as maiores posições.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do SOXX com o S&P 500 e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba notificações quando o SOXX atingir o preço que você escolheu, útil para monitorar a alta volatilidade.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a sua posição no SOXX e a performance da sua carteira."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SOXX é um ETF alavancado?",
+      "answer": "Não, o SOXX não é um ETF alavancado ou inverso. Ele replica a performance do setor de semicondutores de forma passiva, sem multiplicadores diários. ETFs alavancados, como o [SOXL](/etfs/soxl), têm rebalanceamento diário e podem divergir do múltiplo do índice em períodos longos."
+    },
+    {
+      "question": "Qual a diferença entre SOXX e SMH?",
+      "answer": "Ambos são ETFs de semicondutores, mas o SOXX é gerido pela BlackRock (iShares) e o [SMH](/etfs/smh) pela VanEck. As fontes não detalham as diferenças exatas de composição ou índice, mas ambos expõem o investidor ao mesmo setor. O app permite comparar a performance de ambos na carteira consolidada."
+    },
+    {
+      "question": "SOXX paga dividendos?",
+      "answer": "Sim, o SOXX distribui proventos. Nos 12 meses até 30/10/2026, pagou US$ 1,2520 por cota em 4 pagamentos, com dividend yield de 0,27%. O último pagamento foi de US$ 0,3250 em 15/09/2026. O app registra esses proventos na carteira."
+    },
+    {
+      "question": "Qual o risco cambial do SOXX para brasileiros?",
+      "answer": "O SOXX é cotado em dólar, então o investidor brasileiro está exposto à variação do câmbio. Uma valorização do dólar frente ao real aumenta o retorno em reais, e uma desvalorização o reduz. O app permite acompanhar a performance em reais e dólar na carteira consolidada."
+    },
+    {
+      "question": "Como acompanhar o SOXX no app?",
+      "answer": "O app permite acompanhar o SOXX com alertas de preço, gráficos de desempenho e comparação com índices como o S&P 500. A carteira consolidada mostra a alocação e a performance do ativo junto com outros investimentos. O assistente de IA responde perguntas sobre a sua posição no SOXX."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do SOXX junto com outros ativos, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do SOXX com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o SOXX atingir o preço que você escolheu, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no SOXX e a performance da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "Outro ETF de semicondutores, gerido pela VanEck, para comparação de performance e composição."
+      },
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 3x do setor de semicondutores, para quem busca exposição amplificada."
+      },
+      {
+        "ticker": "SOXS",
+        "list": "us-etfs",
+        "reason": "ETF inverso 3x do setor de semicondutores, para hedge ou aposta na queda do setor."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com o mercado americano e diversificação."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF do setor de tecnologia, para exposição mais ampla ao setor, incluindo semicondutores."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SOXX",
+      "url": "https://finance.yahoo.com/quote/SOXX/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Semiconductor industry (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor_industry",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

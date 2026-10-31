@@ -1,0 +1,317 @@
+{
+  "ticker": "UNHH34",
+  "slug": "unhh34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "UNHH34: BDR da UnitedHealth Group, dividendos e volatilidade",
+    "description": "UNHH34 é o BDR da UnitedHealth Group, maior empresa de saúde dos EUA. Veja dividendos, volatilidade de 37,46% e desempenho até 30/10/2026.",
+    "h1": "UNHH34: BDR da UnitedHealth Group",
+    "canonicalPath": "/bdrs/unhh34",
+    "keywords": [
+      "UNHH34",
+      "UnitedHealth Group",
+      "BDR saúde",
+      "dividendos UNHH34",
+      "volatilidade UNHH34",
+      "BDR não patrocinado"
+    ]
+  },
+  "summary": "UNHH34 é o BDR não patrocinado (nível I) da UnitedHealth Group Inc., a maior empresa de saúde dos Estados Unidos por receita, com capitalização superior a US$ 300 bilhões em 2025. Negociado na B3 desde 11/04/2019, o ativo representa ações da empresa listada na NYSE (UNH). Em 30/10/2026, o BDR valia R$ 31,50, com rentabilidade total de 21,54% nos últimos 12 meses, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "UnitedHealth Group",
+    "legalName": "UNITEDHEALTH GROUP INC",
+    "ticker": "BVMF UNHH34",
+    "foundingDate": "1977",
+    "website": "https://www.uhc.com/",
+    "wikidata": "Q2103926",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2103926",
+      "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "https://pt.wikipedia.org/wiki/UnitedHealth_Group",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52175/UNHH/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "UnitedHealth Group",
+    "legalName": "UNITEDHEALTH GROUP INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1977",
+    "listedSince": "11/04/2019",
+    "headquarters": "Minnetonka",
+    "website": "https://www.uhc.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "UNITEDHEALTH GROUP INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: UNH",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Minnetonka",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1977",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "11/04/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 31,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "37,46% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,51%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 441.178,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "UNHH34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "UnitedHealth Group Incorporated",
+    "currency": "BRL",
+    "price": 31.5,
+    "historyStarts": "2019-06-18",
+    "returns": {
+      "1y": 0.2154,
+      "3y": -0.1358,
+      "5y": -0.0839,
+      "10y": null
+    },
+    "volatility1y": 0.3746,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6423,
+      "from": "2024-12-04",
+      "to": "2025-08-01"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.477,
+      "payments12Months": 4,
+      "yield12Months": 0.0151,
+      "lastPayment": {
+        "date": "2026-09-11",
+        "amount": 0.119267
+      }
+    },
+    "avgDailyTradedValue3m": 441178
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do UNHH34 nos últimos 12 meses é de 37,46%, um nível considerado alto para um BDR de uma empresa de saúde. A maior queda em 5 anos foi de -64,23%, entre 04/12/2024 e 01/08/2025. O beta do ativo não está disponível no dossiê, mas a volatilidade alta sugere que o BDR pode ter movimentos mais amplos que o mercado. Para acompanhar a volatilidade e definir pontos de entrada ou saída, é possível configurar alertas de preço no app."
+  },
+  "history": {
+    "overview": "A UnitedHealth Group tem origem em 1974, quando a Charter Med Incorporated foi fundada por Richard Taylor Burke e um grupo de médicos para processar cobranças de médicos no Hennepin County Medical Society. Em 1977, a UnitedHealthcare Corporation foi criada para adquirir a Charter Med e criar um plano de saúde baseado em rede para idosos. A empresa se tornou pública em 1984 e mudou seu nome para UnitedHealth Group em 1998, reorganizando-se como holding para empresas independentes como UnitedHealthcare, Ovations, Uniprise, Specialized Care Services e Ingenix. Ao longo das décadas de 1990 e 2000, a empresa cresceu por meio de aquisições, incluindo Ramsey-HMO (1994), MetraHealth (1995), Oxford Health Plans (2004) e PacifiCare Health Systems (2005), que trouxe a Prescription Solutions, posteriormente renomeada para OptumRx. Em 2006, William W. McGuire deixou a presidência devido a um escândalo envolvendo opções de ações de funcionários, sendo substituído por Stephen Hemsley, que permanece como CEO. Em 2012, a UnitedHealth adquiriu a Amil, uma das maiores operadoras de saúde do Brasil, por cerca de R$ 10 bilhões. Em 2023, a empresa aprovou a venda da Amil por R$ 11 bilhões para José Seripieri Filho, fundador da Qualicorp e da QSaúde, encerrando sua operação direta no Brasil após mais de uma década.",
+    "timeline": [
+      {
+        "date": "1977",
+        "event": "Fundação da UnitedHealthcare Corporation para adquirir a Charter Med e criar um plano de saúde para idosos",
+        "source": 2
+      },
+      {
+        "date": "1984",
+        "event": "UnitedHealthcare se torna uma empresa pública",
+        "source": 3
+      },
+      {
+        "date": "1998",
+        "event": "Reorganização como holding e mudança de nome para UnitedHealth Group",
+        "source": 3
+      },
+      {
+        "date": "2005-12",
+        "event": "Aquisição da PacifiCare Health Systems, incluindo a Prescription Solutions (posteriormente OptumRx)",
+        "source": 3
+      },
+      {
+        "date": "2006-02",
+        "event": "William W. McGuire deixa a presidência após escândalo de opções de ações; Stephen Hemsley assume",
+        "source": 3
+      },
+      {
+        "date": "2012-10",
+        "event": "Fechamento da compra da Amil, operadora de saúde brasileira, por cerca de R$ 10 bilhões",
+        "source": 4
+      },
+      {
+        "date": "2019-04-11",
+        "event": "Listagem do BDR UNHH34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2023-12",
+        "event": "Aprovação da venda da Amil por R$ 11 bilhões para José Seripieri Filho",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a UnitedHealth Group ganha dinheiro",
+      "body": "A UnitedHealth Group é uma multinacional americana de cuidados de saúde, com sede em Minnetonka, Minnesota. A empresa opera por meio de duas unidades principais: UnitedHealthcare, que oferece produtos de seguro saúde, e Optum, que fornece serviços de saúde. A UnitedHealthcare é o maior segurador de saúde dos Estados Unidos, atendendo mais de 50 milhões de pessoas. A empresa é a nona maior do mundo em receita e a quarta na lista da Fortune Global 500 de 2026, com capitalização superior a US$ 300 bilhões no final de 2025. A empresa possui 58.000 funcionários e atende aproximadamente 70 milhões de pessoas nos Estados Unidos."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR UNHH34",
+      "body": "O UNHH34 é um BDR não patrocinado (nível I) que representa ações da UnitedHealth Group Inc., listada na Bolsa de Valores de Nova York sob o ticker UNH. O BDR é negociado na B3 em reais e seu preço acompanha a variação da ação original nos Estados Unidos e a taxa de câmbio entre o dólar e o real. A listagem na B3 ocorreu em 11/04/2019. Por ser um BDR não patrocinado, ele não é emitido pela própria empresa, mas por uma instituição depositária, e não confere direitos de voto ao investidor."
+    },
+    {
+      "id": "proventos",
+      "heading": "UNHH34 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, o UNHH34 distribuiu R$ 0,4770 por BDR em 4 pagamentos, resultando em um dividend yield de 1,51%. O último pagamento foi de R$ 0,1193 em 11/09/2026. Os dividendos são pagos pela UnitedHealth Group em dólares, e o valor em reais que chega ao investidor depende da cotação do câmbio na data do pagamento. É possível acompanhar os dividendos e JCP no app com data de pagamento e multiplicados pela quantidade de BDRs na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do UNHH34",
+      "body": "Até 30/10/2026, o UNHH34 apresentou rentabilidade total de 21,54% nos últimos 12 meses, -13,58% em 3 anos e -8,39% em 5 anos. Esses retornos incluem a variação do câmbio entre o dólar e o real. Para comparar o desempenho do BDR com índices como o S&P 500 ou o CDI, é possível usar a comparação com índices no app, que mostra a rentabilidade lado a lado com outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do UNHH34",
+      "body": "Os riscos do UNHH34 incluem a exposição ao câmbio, já que o BDR é lastreado em ações negociadas em dólares. A volatilidade anualizada do BDR nos últimos 12 meses é de 37,46%, classificada como alta. A maior queda nos últimos 5 anos foi de -64,23%, do pico em 04/12/2024 ao ponto mais baixo em 01/08/2025. A empresa também enfrenta riscos regulatórios e legais, incluindo investigações da SEC por backdating de opções de ações, superfaturamento no Medicare, práticas injustas de cobrança e comportamento anticompetitivo. A liquidez do BDR na B3 é moderada, com volume médio diário de R$ 441.178,00 nos últimos 3 meses. Alertas de preço podem ajudar a monitorar movimentos bruscos do ativo."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar UNHH34 no app",
+      "body": "Para quem tem UNHH34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas de preço para ser notificado quando o UNHH34 atingir um valor que você definiu, útil para monitorar a alta volatilidade do BDR.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do UNHH34 com o S&P 500 e o CDI no mesmo gráfico, para entender como o BDR se comporta em relação a outros mercados.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o UNHH34 junto com outros ativos na carteira consolidada, com alocação por classe e as maiores posições, para avaliar a diversificação da carteira.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade do UNHH34 e o preço médio da posição no app, com gráfico de desempenho e variação do dia e do ano."
+    }
+  ],
+  "faq": [
+    {
+      "question": "UNHH34 paga dividendos?",
+      "answer": "Sim, o UNHH34 distribui dividendos. Nos 12 meses até 30/10/2026, foram R$ 0,4770 por BDR em 4 pagamentos, com dividend yield de 1,51%. O último pagamento foi de R$ 0,1193 em 11/09/2026. Os valores são pagos em reais, mas dependem da cotação do câmbio na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre UNHH34 e UNH?",
+      "answer": "UNHH34 é o BDR negociado na B3 em reais, enquanto UNH é a ação original da UnitedHealth Group listada na Bolsa de Valores de Nova York. O preço do BDR acompanha a ação original e a taxa de câmbio. O BDR não confere direitos de voto ao investidor."
+    },
+    {
+      "question": "UNHH34 é BDR patrocinado ou não patrocinado?",
+      "answer": "UNHH34 é um BDR não patrocinado (nível I). Isso significa que ele não é emitido pela própria UnitedHealth Group, mas por uma instituição depositária, e não confere direitos de voto ao investidor."
+    },
+    {
+      "question": "Qual o risco cambial do UNHH34?",
+      "answer": "O UNHH34 é exposto ao risco cambial, pois seu preço depende da cotação do dólar em relação ao real. Se o dólar se valorizar, o BDR tende a subir em reais, e se o dólar se desvalorizar, o BDR tende a cair, independentemente do desempenho da ação original nos Estados Unidos."
+    },
+    {
+      "question": "Qual a volatilidade do UNHH34?",
+      "answer": "A volatilidade anualizada do UNHH34 nos últimos 12 meses é de 37,46%, classificada como alta. A maior queda em 5 anos foi de -64,23%, entre 04/12/2024 e 01/08/2025. Para monitorar movimentos bruscos, é possível configurar alertas de preço no app."
+    },
+    {
+      "question": "Como acompanhar o desempenho do UNHH34?",
+      "answer": "É possível acompanhar o desempenho do UNHH34 no app, que mostra a rentabilidade da carteira e a comparação com índices como o S&P 500 e o CDI. O app também permite configurar alertas de preço e visualizar a carteira consolidada, incluindo BDRs, ações e outros ativos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para ser notificado quando o UNHH34 atingir um valor que você definiu, útil para monitorar a alta volatilidade do BDR."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do UNHH34 com o S&P 500 e o CDI no mesmo gráfico, para entender como o BDR se comporta em relação a outros mercados."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o UNHH34 junto com outros ativos na carteira consolidada, com alocação por classe e as maiores posições, para avaliar a diversificação da carteira."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do UNHH34 e o preço médio da posição no app, com gráfico de desempenho e variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LILY34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de saúde, Eli Lilly and Company, para comparar desempenho e volatilidade no setor."
+      },
+      {
+        "ticker": "JNJB34",
+        "list": "bdrs",
+        "reason": "BDR da Johnson & Johnson, outra grande empresa de saúde, para análise de pares no setor."
+      },
+      {
+        "ticker": "MRCK34",
+        "list": "bdrs",
+        "reason": "BDR da Merck & Co., Inc., para comparação com outras empresas do setor de saúde nos Estados Unidos."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar o desempenho do UNHH34 com o mercado americano como um todo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de UNHH34",
+      "url": "https://finance.yahoo.com/quote/UNHH34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: UNITEDHEALTH, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52175/UNHH/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: UnitedHealth Group",
+      "url": "https://www.wikidata.org/wiki/Q2103926",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): UnitedHealth Group",
+      "url": "https://en.wikipedia.org/wiki/UnitedHealth_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): UnitedHealth Group",
+      "url": "https://pt.wikipedia.org/wiki/UnitedHealth_Group",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

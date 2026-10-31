@@ -1,0 +1,275 @@
+{
+  "ticker": "XLB",
+  "slug": "xlb",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLB: ETF de materiais do S&P 500",
+    "description": "XLB é o ETF do setor de materiais do S&P 500, lançado em 1998. Veja desempenho, dividendos, volatilidade e como investir a partir do Brasil.",
+    "h1": "XLB: State Street Materials Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xlb",
+    "keywords": [
+      "XLB",
+      "ETF materiais",
+      "S&P 500 materiais",
+      "SPDR materials",
+      "ETF setorial",
+      "investir em ETF americano",
+      "dividendos XLB",
+      "volatilidade XLB"
+    ]
+  },
+  "summary": "XLB é o State Street Materials Select Sector SPDR ETF, lançado em 22/12/1998. O ativo replica o desempenho do setor de materiais do S&P 500, incluindo empresas de mineração, químicos e construção. Em 29/10/2026, a cota valia US$ 52,53, com rentabilidade total de 22,46% nos últimos 12 meses e dividend yield de 1,64%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Materials Select Sector SPDR ETF",
+    "ticker": "ARCX XLB",
+    "foundingDate": "1998-12-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P 500 Materials Select Sector Index",
+    "name": "State Street Materials Select Sector SPDR ETF",
+    "founded": "22/12/1998"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Materials Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/12/1998",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 52,53",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,66% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,72",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,64%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 576,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLB",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Materials Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 52.53,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2246,
+      "3y": 0.4695,
+      "5y": 0.3631,
+      "10y": 1.7425
+    },
+    "volatility1y": 0.1766,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2472,
+      "from": "2022-04-20",
+      "to": "2022-09-26"
+    },
+    "beta1y": {
+      "value": 0.72,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.863,
+      "payments12Months": 4,
+      "yield12Months": 0.0164,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.229
+      }
+    },
+    "avgDailyTradedValue3m": 576653424
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do XLB nos últimos 12 meses é de 17,66%, nível moderado. O beta do ETF contra o S&P 500 é 0,72, o que significa que, em média, o XLB tem movimentos menores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -24,72%, do pico em 20/04/2022 ao ponto mais baixo em 26/09/2022. Para monitorar oscilações de preço, use os [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificação quando o ativo atinge um valor definido."
+  },
+  "history": {
+    "overview": "O XLB faz parte da família de ETFs SPDR, geridos pela State Street Global Advisors (SSGA). A SSGA é a terceira maior provedora de ETFs do mundo, atrás de iShares e Vanguard, e também administra o SPDR S&P 500 Trust, o maior ETF do mundo em ativos sob gestão. Em 2007, a SSGA unificou seus ETFs dos Estados Unidos sob a marca SPDR, incluindo a antiga família StreetTRACKS e os DOW DIAMONDS, que seguem o Dow Jones Industrial Average. Em 1998, a SSGA e a Merrill Lynch introduziram os Sector Spiders, uma série de dez fundos que seguem os onze setores do S&P 500 segundo a classificação GICS. O XLB, focado no setor de materiais, teve seu primeiro pregão em 22/12/1998. A estrutura desses fundos é de unit investment trusts, o que significa que eles não têm gestão ativa, mas sim replicam passivamente o índice de referência.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "SSGA e Merrill Lynch introduzem os Sector Spiders, que seguem os setores do S&P 500.",
+        "source": 1
+      },
+      {
+        "date": "1998-12-22",
+        "event": "Primeiro pregão das cotas do XLB na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA renomeia seus ETFs dos EUA como SPDR, unificando a marca.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLB funciona",
+      "body": "O XLB é um ETF que replica passivamente o índice S&P 500 Materials Select Sector Index. Ele é gerido pela State Street Global Advisors (SSGA) e faz parte da família SPDR, a terceira maior provedora de ETFs do mundo. O fundo foi lançado em 22/12/1998, quando a SSGA e a Merrill Lynch introduziram os Sector Spiders para acompanhar os setores do S&P 500. A estrutura do XLB é de unit investment trust, o que significa que ele não possui gestor ativo, mas sim segue a composição do índice de referência. O ETF não é alavancado nem inverso, então não há rebalanceamento diário que afaste o resultado do índice em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLB",
+      "body": "O XLB segue o índice S&P 500 Materials Select Sector Index, que agrupa as empresas do setor de materiais do S&P 500. Esse setor inclui empresas de mineração, produção de químicos, construção e materiais de embalagem. A classificação segue o padrão GICS, desenvolvido em 1999 por MSCI e Standard & Poor's, que organiza as empresas em 11 setores. O S&P 500 é um índice que acompanha 500 empresas de grande capitalização nos Estados Unidos, representando cerca de 83% da capitalização total das empresas públicas americanas. As fontes não detalham as empresas específicas que compõem o XLB, mas o setor de materiais é conhecido por incluir grandes mineradoras e produtores de químicos."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLB a partir do Brasil",
+      "body": "Para investir no XLB a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso ao mercado americano. A compra é feita em dólar, o que expõe o investidor ao risco cambial: se o dólar se valorizar frente ao real, o retorno em reais aumenta, e vice-versa. Outra opção é buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice ou o setor de materiais, mas as fontes não citam esses ativos. O investidor deve considerar a liquidez do ativo e as taxas de corretagem e custódia."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLB",
+      "body": "Até 29/10/2026, o XLB teve rentabilidade total de 22,46% nos últimos 12 meses, 46,95% em 3 anos, 36,31% em 5 anos e 174,25% em 10 anos. O preço da cota era de US$ 52,53. O volume médio negociado por dia nos últimos 3 meses foi de US$ 576,7 milhões. O ETF pagou US$ 0,8630 por cota em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 1,64%. O último pagamento foi de US$ 0,2290 em 21/09/2026. Para comparar o desempenho do XLB com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLB",
+      "body": "O XLB é um ETF setorial, o que significa que ele concentra risco em um único setor da economia. O setor de materiais é cíclico e sensível a mudanças na demanda global, especialmente de commodities como minério de ferro, aço e químicos. A volatilidade anualizada do XLB nos últimos 12 meses foi de 17,66%, considerada moderada. O beta do ETF contra o S&P 500 é 0,72, o que indica que, em média, o XLB tem movimentos menores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -24,72%, do pico em 20/04/2022 ao ponto mais baixo em 26/09/2022. O investidor deve considerar o risco cambial, já que o ativo é cotado em dólar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o XLB?",
+      "answer": "XLB é o State Street Materials Select Sector SPDR ETF, um ETF que replica o setor de materiais do S&P 500. Ele inclui empresas de mineração, químicos e construção. O fundo foi lançado em 22/12/1998 e é gerido pela State Street Global Advisors."
+    },
+    {
+      "question": "O XLB paga dividendos?",
+      "answer": "Sim, o XLB paga dividendos. Nos 12 meses até 29/10/2026, o ETF distribuiu US$ 0,8630 por cota em 4 pagamentos, com dividend yield de 1,64%. O último pagamento foi de US$ 0,2290 em 21/09/2026. Veja os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para acompanhar a distribuição."
+    },
+    {
+      "question": "Qual a diferença entre XLB e SPY?",
+      "answer": "O XLB é um ETF setorial que foca no setor de materiais do S&P 500, enquanto o [SPY](/etfs/spy) replica todo o S&P 500, com empresas de todos os setores. O XLB tem maior concentração de risco, pois depende do desempenho de um único setor, enquanto o SPY tem diversificação ampla."
+    },
+    {
+      "question": "Como investir no XLB a partir do Brasil?",
+      "answer": "Para investir no XLB, o investidor precisa abrir conta em uma corretora que ofereça acesso ao mercado americano. A compra é feita em dólar, o que expõe o investidor ao risco cambial. Outra opção é buscar ETFs ou BDRs na B3 que sigam o mesmo índice, mas as fontes não citam esses ativos. Use o [Open Finance](/recursos/open-finance) para sincronizar suas posições."
+    },
+    {
+      "question": "O XLB é um ETF alavancado?",
+      "answer": "Não, o XLB não é um ETF alavancado nem inverso. Ele replica passivamente o índice S&P 500 Materials Select Sector Index, sem multiplicar o retorno diário. Isso significa que, em períodos longos, o resultado do ETF acompanha o índice, sem o efeito de rebalanceamento diário que afasta o retorno do múltiplo do índice."
+    },
+    {
+      "question": "Qual a volatilidade do XLB?",
+      "answer": "A volatilidade anualizada do XLB nos últimos 12 meses é de 17,66%, nível moderado. O beta do ETF contra o S&P 500 é 0,72, indicando movimentos menores que os do índice. A maior queda nos últimos 5 anos foi de -24,72%, de 20/04/2022 a 26/09/2022. Use os [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do XLB com o S&P 500 no mesmo gráfico, com CDI, IPCA, Ibovespa e IFIX."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando o XLB atingir um preço definido, útil para monitorar oscilações de um ativo volátil."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Sincronize suas posições do XLB com a corretora pelo Open Finance, conferindo quantidades e preço médio."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o XLB junto com outras ações e ETFs na carteira consolidada, com alocação por classe e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "SPY replica o S&P 500, o índice de referência do XLB, com diversificação ampla."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "XLE é o ETF do setor de energia do S&P 500, outro setor cíclico sensível a commodities."
+      },
+      {
+        "ticker": "XLI",
+        "list": "us-etfs",
+        "reason": "XLI é o ETF do setor industrial do S&P 500, que também inclui empresas de materiais e construção."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "EWZ é o ETF do mercado brasileiro, útil para comparar o desempenho do XLB com o Ibovespa."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLB",
+      "url": "https://finance.yahoo.com/quote/XLB/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

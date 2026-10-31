@@ -1,0 +1,283 @@
+{
+  "ticker": "EWT",
+  "slug": "ewt",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "EWT: iShares MSCI Taiwan ETF, desempenho e riscos",
+    "description": "EWT é o ETF da iShares que replica o índice MSCI Taiwan. Veja rentabilidade de 65,14% em 12 meses, volatilidade de 32,17% e como investir a partir do",
+    "h1": "EWT: iShares MSCI Taiwan ETF",
+    "canonicalPath": "/etfs/ewt",
+    "keywords": [
+      "EWT",
+      "iShares MSCI Taiwan ETF",
+      "ETF Taiwan",
+      "MSCI Taiwan",
+      "investir em Taiwan",
+      "ETF estrangeiro"
+    ]
+  },
+  "summary": "EWT é a cota do iShares MSCI Taiwan ETF, lançado em 23/06/2000 pela gestora iShares (BlackRock). O ativo replica o desempenho do índice MSCI Taiwan, que acompanha as ações de grandes e médias empresas listadas na bolsa de Taiwan. Em 29/10/2026, a cota estava a US$ 105,99, com rentabilidade total de 65,14% nos últimos 12 meses e dividend yield de 2,66%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares MSCI Taiwan ETF",
+    "ticker": "ARCX EWT",
+    "foundingDate": "2000-06-23",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "MSCI Taiwan",
+    "name": "iShares MSCI Taiwan ETF",
+    "founded": "23/06/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares MSCI Taiwan ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "23/06/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 105,99",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "32,17% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,90",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,66%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 480,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EWT",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares MSCI Taiwan ETF",
+    "currency": "USD",
+    "price": 105.99,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.6514,
+      "3y": 1.94,
+      "5y": 1.476,
+      "10y": 4.6184
+    },
+    "volatility1y": 0.3217,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3888,
+      "from": "2022-01-04",
+      "to": "2022-10-24"
+    },
+    "beta1y": {
+      "value": 1.9,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.816,
+      "payments12Months": 1,
+      "yield12Months": 0.0266,
+      "lastPayment": {
+        "date": "2025-12-16",
+        "amount": 2.816
+      }
+    },
+    "avgDailyTradedValue3m": 480761397
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do EWT é de 32,17% nos 12 meses até 29/10/2026, um nível considerado alto. O beta de 1,90 contra o S&P 500 mostra que, historicamente, o ETF tende a acompanhar os movimentos do índice americano com uma amplitude 1,9 vezes maior. Isso significa que em mercados de alta, o EWT tende a subir mais que o S&P 500, e em mercados de baixa, tende a cair mais. A maior queda nos últimos 5 anos foi de -38,88%, ocorrendo do pico em 04/01/2022 ao ponto mais baixo em 24/10/2022. Para gerenciar essa volatilidade, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a cota atingir níveis específicos."
+  },
+  "history": {
+    "overview": "O EWT faz parte da linha de produtos iShares, marca de ETFs da BlackRock que foi adquirida da Barclays em 2009. A origem dessa estrutura de fundos de índice remonta a 1993, quando o primeiro ETF dos Estados Unidos foi lançado, seguido pela criação dos WEBS (World Equity Benchmark Shares) pela Morgan Stanley e Barclays para rastrear índices internacionais da MSCI. Em 2000, a Barclays investiu fortemente no mercado de ETFs, relançando os WEBS como iShares MSCI Series. O EWT teve seu primeiro pregão em 23/06/2000, consolidando a estratégia de investimento passivo em mercados estrangeiros específicos. O índice MSCI, por sua vez, foi criado em 1968 pela Capital International e adquirido pela Morgan Stanley em 1986, tornando-se o principal benchmark global para mercados não americanos. A economia de Taiwan, foco do índice, transformou-se de uma base agrícola para uma economia industrializada de alta renda entre as décadas de 1960 e 1990, o que sustentou o crescimento das empresas que compõem a carteira do ETF.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Lançamento do primeiro ETF nos Estados Unidos, o SPDR S&P 500, pela State Street.",
+        "source": 1
+      },
+      {
+        "date": "1993",
+        "event": "Morgan Stanley e Barclays lançam os WEBS para rastrear índices MSCI de mercados estrangeiros.",
+        "source": 1
+      },
+      {
+        "date": "2000",
+        "event": "Barclays relança os WEBS como iShares MSCI Series, impulsionando o mercado de ETFs.",
+        "source": 1
+      },
+      {
+        "date": "2000-06-23",
+        "event": "Primeiro pregão das cotas do iShares MSCI Taiwan ETF (EWT).",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio iShares da Barclays.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o EWT funciona",
+      "body": "O EWT é um Exchange Traded Fund (ETF) que replica o índice MSCI Taiwan. A emissora é a iShares, uma marca de fundos de índice gerida pela BlackRock, que adquiriu o negócio da Barclays em 2009. O ETF teve seu primeiro pregão em 23/06/2000. Diferente de ETFs alavancados ou inversos, o EWT não possui rebalanceamento diário de múltiplos; ele busca acompanhar a variação do índice subjacente de forma passiva, distribuindo dividendos aos cotistas conforme a política de distribuição do fundo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do EWT",
+      "body": "O EWT segue o índice MSCI Taiwan, que é mantido pela MSCI Inc. A MSCI é uma provedora global de índices de ações e é a principal referência para mercados não americanos. O índice reflete a economia de Taiwan, que é classificada como avançada pelo FMI e de alta renda pelo Banco Mundial. A composição do índice é baseada em ações de empresas listadas na bolsa de Taiwan, refletindo a transformação do país de uma economia agrícola para uma industrializada de alto padrão entre as décadas de 1960 e 1990. As fontes não detalham as empresas individuais que compõem a carteira, apenas a natureza do índice e a economia que ele representa."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no EWT a partir do Brasil",
+      "body": "Para investir no EWT a partir do Brasil, o investidor precisa abrir conta em uma corretora de valores que ofereça acesso ao mercado americano. A compra é feita em dólares, o que expõe o investidor ao risco cambial: se o dólar se valorizar frente ao real, o retorno em reais aumenta, e vice-versa. Além do EWT, é possível buscar exposição a mercados internacionais ou a Taiwan através de outros ETFs listados na B3 ou BDRs, mas o EWT é o veículo direto para o índice MSCI Taiwan. O uso de [Open Finance](/recursos/open-finance) ajuda a manter as posições da corretora estrangeira sincronizadas com a carteira local."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do EWT",
+      "body": "Em 29/10/2026, a cota do EWT estava a US$ 105,99. A rentabilidade total com proventos foi de 65,14% nos 12 meses, 194,00% em 3 anos, 147,60% em 5 anos e 461,84% em 10 anos. O dividend yield é de 2,66%, com um pagamento de US$ 2,8160 por cota em 16/12/2025. Para entender como esse desempenho se compara ao mercado americano, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) para ver a evolução do EWT lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do EWT",
+      "body": "O principal risco do EWT é a concentração geográfica em Taiwan, o que expõe o investidor a riscos políticos, econômicos e cambiais específicos do país. A volatilidade anualizada do EWT é de 32,17% nos últimos 12 meses, classificada como alta. O beta de 1,90 contra o S&P 500 indica que o ativo tende a oscilar 1,9 vezes mais que o índice americano em movimentos de mercado. A maior queda em 5 anos foi de -38,88%, entre 04/01/2022 e 24/10/2022. A alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos bruscos sem precisar ficar de olho na tela o dia todo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "EWT é um ETF alavancado?",
+      "answer": "Não, o EWT não é um ETF alavancado. Ele replica o índice MSCI Taiwan de forma passiva, sem o uso de alavancagem ou rebalanceamento diário de múltiplos. O beta de 1,90 reflete a sensibilidade natural do mercado de Taiwan em relação ao S&P 500, não uma alavancagem estrutural do produto."
+    },
+    {
+      "question": "Qual o índice que o EWT replica?",
+      "answer": "O EWT replica o índice MSCI Taiwan. Esse índice é mantido pela MSCI Inc. e acompanha o desempenho de ações de grandes e médias empresas listadas na bolsa de Taiwan, refletindo a economia do país, que é classificada como avançada pelo FMI."
+    },
+    {
+      "question": "O EWT paga dividendos?",
+      "answer": "Sim, o EWT distribui proventos. Nos 12 meses até 29/10/2026, houve 1 pagamento de US$ 2,8160 por cota, resultando em um dividend yield de 2,66%. O último pagamento registrado foi em 16/12/2025. É possível acompanhar esses proventos na [carteira consolidada](/recursos/carteira-consolidada) do app."
+    },
+    {
+      "question": "Qual a diferença entre EWT e outros ETFs de mercados emergentes?",
+      "answer": "O EWT tem exposição exclusiva a Taiwan, enquanto ETFs como [EEM](/etfs/eem) (iShares MSCI Emerging Markets) ou [EWZ](/etfs/ewz) (iShares MSCI Brazil) têm exposição a vários países ou a outros mercados específicos. O EWT é mais concentrado geograficamente, o que aumenta tanto o potencial de retorno quanto o risco específico do país."
+    },
+    {
+      "question": "Como o EWT se comportou nos últimos 5 anos?",
+      "answer": "Nos 5 anos até 29/10/2026, o EWT teve rentabilidade total de 147,60%. No entanto, o período incluiu uma queda de -38,88% entre 04/01/2022 e 24/10/2022. A volatilidade anualizada é de 32,17%, indicando oscilações significativas. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite visualizar essa trajetória com mais detalhes."
+    },
+    {
+      "question": "Posso investir no EWT a partir do Brasil?",
+      "answer": "Sim, mas é necessário ter conta em uma corretora que ofereça acesso ao mercado americano. A compra é feita em dólares, o que expõe o investidor ao risco cambial. O app pode ajudar a sincronizar essa posição com a carteira local através do [Open Finance](/recursos/open-finance)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o EWT ao lado de outros ativos da sua carteira, com alocação por classe e valor total em uma só visão."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do EWT com o S&P 500 e outros índices no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do EWT atingir um preço que você escolheu, útil para acompanhar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora estrangeira e confere as posições do EWT com a sua carteira, garantindo que quantidades e preço médio estejam corretos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "ETF de mercados emergentes, para comparação de exposição geográfica mais ampla."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF de outro mercado específico (Brasil), para comparação de concentração geográfica."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, o índice de referência para o beta do EWT."
+      },
+      {
+        "ticker": "TSMC34",
+        "list": "bdrs",
+        "reason": "BDR da Taiwan Semiconductor, uma das maiores empresas de Taiwan, para exposição direta a uma empresa do mesmo mercado."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EWT",
+      "url": "https://finance.yahoo.com/quote/EWT/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/MSCI",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Economy of Taiwan (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_Taiwan",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

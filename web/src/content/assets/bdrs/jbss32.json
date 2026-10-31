@@ -1,0 +1,289 @@
+{
+  "ticker": "JBSS32",
+  "slug": "jbss32",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "JBSS32: BDR da JBS, dividendos e volatilidade",
+    "description": "Conheça o JBSS32, BDR da JBS N.V. listado na B3. Veja dividendos, volatilidade, histórico e desempenho do ativo em reais.",
+    "h1": "JBSS32: BDR da JBS N.V. na B3",
+    "canonicalPath": "/bdrs/jbss32",
+    "keywords": [
+      "JBSS32",
+      "BDR JBS",
+      "JBS N.V.",
+      "dividendos JBSS32",
+      "volatilidade JBSS32"
+    ]
+  },
+  "summary": "JBSS32 é o BDR patrocinado nível II da JBS N.V., empresa brasileira de processamento de carnes. Listado na B3 em 30/05/2025, o ativo representa ações da companhia no exterior. Em 29/10/2026, a cotação era de R$ 65,00, com dividend yield de 6,60% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "JBS",
+    "legalName": "JBS N.V.",
+    "ticker": "BVMF JBSS32",
+    "foundingDate": "1953",
+    "website": "https://www.jbs.com.br",
+    "wikidata": "Q1676554",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1676554",
+      "https://en.wikipedia.org/wiki/JBS_N.V.",
+      "https://pt.wikipedia.org/wiki/JBS",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/80233/JBSS/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "JBS",
+    "legalName": "JBS N.V.",
+    "type": "BDR patrocinado nível II",
+    "sector": "Consumo não Cíclico",
+    "segment": "Carnes e Derivados",
+    "founded": "1953",
+    "listedSince": "30/05/2025",
+    "headquarters": "São Paulo",
+    "website": "https://www.jbs.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "JBS N.V.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR patrocinado nível II",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "B3: JBSS3",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo não Cíclico / Carnes e Derivados",
+      "source": 1
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1953",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "30/05/2025",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 65,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "35,95% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,60%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 108,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "JBSS32",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "JBS N.V.",
+    "currency": "BRL",
+    "price": 65,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0055,
+      "3y": 3.0521,
+      "5y": 1.3968,
+      "10y": 9.6137
+    },
+    "volatility1y": 0.3595,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5578,
+      "from": "2022-04-27",
+      "to": "2023-05-12"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 4.2927,
+      "payments12Months": 1,
+      "yield12Months": 0.066,
+      "lastPayment": {
+        "date": "2026-05-19",
+        "amount": 4.29267
+      }
+    },
+    "avgDailyTradedValue3m": 107979337
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do JBSS32 nos últimos 12 meses foi de 35,95%, nível considerado alto. A maior queda em 5 anos foi de -55,78%, entre 27/04/2022 e 12/05/2023. O beta não está disponível. Para acompanhar a volatilidade e definir alertas de preço, o app oferece [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge um valor escolhido."
+  },
+  "history": {
+    "overview": "A JBS foi fundada em 1953 em Anápolis, Goiás, por José Batista Sobrinho, inicialmente como um pequeno negócio de abate de gado. A expansão acelerou com a construção de Brasília e, nas décadas seguintes, por meio de aquisições de frigoríficos no Brasil, consolidando marcas como Friboi e Seara. Em 2007, a empresa abriu capital na B3 e iniciou a internacionalização, adquirindo a Swift & Company nos Estados Unidos e, posteriormente, a Pilgrim's Pride, o que a levou a se tornar a maior processadora de carnes do mundo. Em 2016, a unidade internacional passou por um IPO nos EUA, e a estrutura corporativa foi reorganizada, resultando na JBS N.V. como entidade listada no exterior, cujas ações são representadas no Brasil pelo BDR JBSS32, listado na B3 em 30/05/2025. A empresa opera em mais de 20 países e enfrenta desafios regulatórios e ambientais, como investigações sobre práticas trabalhistas e ambientais no Brasil.",
+    "timeline": [
+      {
+        "date": "1953",
+        "event": "Fundação da empresa em Anápolis, Goiás, por José Batista Sobrinho.",
+        "source": 2
+      },
+      {
+        "date": "2007",
+        "event": "Abertura de capital na B3 e aquisição da Swift & Company nos Estados Unidos.",
+        "source": 3
+      },
+      {
+        "date": "2016",
+        "event": "Reorganização corporativa e IPO da unidade internacional nos Estados Unidos.",
+        "source": 3
+      },
+      {
+        "date": "2025-05-30",
+        "event": "Listagem do BDR JBSS32 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a JBS ganha dinheiro",
+      "body": "A JBS N.V. atua no processamento de carnes bovina, suína, ovina, de frango, de peixe e plant-based, além de produtos derivados como couros, colágeno e biodiesel. A empresa opera em mais de 20 países, com produtos que alcançam mais de 180 países em cinco continentes. Suas principais marcas incluem Seara, Swift e Friboi, e a companhia é descrita como a maior processadora de carnes do mundo, com mais de 250 unidades de produção."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR JBSS32",
+      "body": "O JBSS32 é um BDR patrocinado nível II, um recibo negociado na B3 em reais que representa ações da JBS N.V. listadas no exterior. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o real e a moeda de origem. A ação original é a JBSS3, negociada na B3. O BDR foi listado na B3 em 30/05/2025."
+    },
+    {
+      "id": "proventos",
+      "heading": "JBSS32 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, o JBSS32 distribuiu R$ 4,2927 por BDR em 1 pagamento, resultando em um dividend yield de 6,60%. O último pagamento foi de R$ 4,2927, com data em 19/05/2026. Os proventos são pagos pela empresa na moeda de origem e convertidos para reais no momento da distribuição."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do JBSS32",
+      "body": "A rentabilidade total do JBSS32, incluindo proventos, foi de -0,55% nos 12 meses até 29/10/2026, 305,21% em 3 anos, 139,68% em 5 anos e 961,37% em 10 anos. Esses retornos em reais incluem a variação do câmbio. Para comparar com outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a performance ao lado do S&P 500 e do CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do JBSS32",
+      "body": "Os riscos do JBSS32 incluem a exposição ao câmbio, já que o BDR acompanha a ação no exterior e a variação do real. A volatilidade anualizada nos últimos 12 meses foi de 35,95%, classificada como alta, e a maior queda em 5 anos foi de -55,78%, entre 27/04/2022 e 12/05/2023. A empresa também enfrenta riscos regulatórios e ambientais, como investigações sobre práticas trabalhistas e ambientais no Brasil. A liquidez do BDR na B3 é moderada, com volume médio diário de R$ 108,0 milhões nos últimos 3 meses."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar JBSS32 no app",
+      "body": "Para quem tem JBSS32 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Defina alertas de preço para o JBSS32 e receba notificações quando o ativo atingir um valor escolhido, útil para acompanhar a volatilidade.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do JBSS32 com o S&P 500 e o CDI no mesmo gráfico, para avaliar o desempenho em relação a outros investimentos.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o JBSS32 junto a outros ativos na carteira consolidada, com alocação por classe e as maiores posições."
+    }
+  ],
+  "faq": [
+    {
+      "question": "JBSS32 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 29/10/2026, o JBSS32 distribuiu R$ 4,2927 por BDR, com dividend yield de 6,60%. O último pagamento foi em 19/05/2026. Os valores são convertidos para reais no momento da distribuição."
+    },
+    {
+      "question": "Qual a diferença entre JBSS3 e JBSS32?",
+      "answer": "JBSS3 é a ação ordinária da JBS N.V. negociada na B3, enquanto JBSS32 é o BDR patrocinado nível II que representa ações da empresa no exterior. O BDR acompanha a cotação da ação original e a variação do câmbio."
+    },
+    {
+      "question": "O que é o BDR JBSS32?",
+      "answer": "O JBSS32 é um BDR patrocinado nível II, um recibo negociado na B3 em reais que representa ações da JBS N.V. listadas no exterior. O preço acompanha a ação original e o câmbio."
+    },
+    {
+      "question": "Qual o setor da JBS?",
+      "answer": "A JBS atua no setor de Consumo não Cíclico, segmento de Carnes e Derivados. A empresa processa carnes bovina, suína, ovina, de frango, de peixe e plant-based, além de produtos derivados."
+    },
+    {
+      "question": "Quando o JBSS32 foi listado na B3?",
+      "answer": "O JBSS32 foi listado na B3 em 30/05/2025, como BDR patrocinado nível II da JBS N.V."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina alertas de preço para o JBSS32 e receba notificações quando o ativo atingir um valor escolhido, útil para acompanhar a volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do JBSS32 com o S&P 500 e o CDI no mesmo gráfico, para avaliar o desempenho em relação a outros investimentos."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o JBSS32 junto a outros ativos na carteira consolidada, com alocação por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Petrobras, outra empresa brasileira com BDR no exterior, para comparação de desempenho e volatilidade."
+      },
+      {
+        "ticker": "ABEV3",
+        "list": "br-stocks",
+        "reason": "Ação da Ambev, empresa do setor de consumo não cíclico, para comparação de setor e desempenho."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho com o índice americano, relevante para BDRs."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de JBSS32",
+      "url": "https://finance.yahoo.com/quote/JBSS32.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: JBS N.V., BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/80233/JBSS/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: JBS",
+      "url": "https://www.wikidata.org/wiki/Q1676554",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): JBS N.V.",
+      "url": "https://en.wikipedia.org/wiki/JBS_N.V.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): JBS",
+      "url": "https://pt.wikipedia.org/wiki/JBS",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

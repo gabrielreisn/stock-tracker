@@ -1,0 +1,305 @@
+{
+  "ticker": "KORE11",
+  "slug": "kore11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "KORE11: história, dividendos e volatilidade",
+    "description": "KORE11 é FII de tijolo da Kinea, com patrimônio de R$ 1,03 bilhão e dividend yield de 14,41% em 12 meses. Veja proventos, vacância e desempenho.",
+    "h1": "KORE11: Kinea Oportunidades Real Estate FII",
+    "canonicalPath": "/fiis/kore11",
+    "keywords": [
+      "KORE11",
+      "Kinea Oportunidades Real Estate",
+      "FII tijolo corporativo",
+      "dividendos KORE11",
+      "volatilidade KORE11",
+      "vacância KORE11"
+    ]
+  },
+  "summary": "KORE11 é a cota do Kinea Oportunidades Real Estate Fundo de Investimento Imobiliário, um FII de tijolo focado em edifícios corporativos. Fundado em 01/12/2023, o fundo possui patrimônio líquido de R$ 1,03 bilhão e valor patrimonial de R$ 107,34 por cota em 09/2026 [1]. A cota negociava a R$ 63,50 em 29/10/2026, distribuindo R$ 0,60 por cota no mês de setembro/2026 [3].",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Kinea Oportunidades Real Estate Fundo de Investimento Imobiliário",
+    "legalName": "KINEA OPORTUNIDADES REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF KORE11",
+    "isin": "BRKORECTF012",
+    "taxId": "52.219.978/0001-42",
+    "foundingDate": "2023-12-01",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=52219978000142"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, edifícios corporativos",
+    "issuerOrManager": "Kinea Investimentos Ltda",
+    "name": "Kinea Oportunidades Real Estate Fundo de Investimento Imobiliário",
+    "legalName": "KINEA OPORTUNIDADES REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "01/12/2023",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "KINEA OPORTUNIDADES REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "52.219.978/0001-42",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "01/12/2023",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,03 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "29.926",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 107,34",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 63,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "23,63% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,47",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,41%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KORE11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Kinea Oportunidades Real Estate Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 63.5,
+    "historyStarts": "2023-12-08",
+    "returns": {
+      "1y": 0.028,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.2363,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2757,
+      "from": "2024-03-07",
+      "to": "2025-02-13"
+    },
+    "beta1y": {
+      "value": 0.47,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 9.15,
+      "payments12Months": 12,
+      "yield12Months": 0.1441,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.6
+      }
+    },
+    "avgDailyTradedValue3m": 2184490
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do KORE11 nos 12 meses até 29/10/2026 foi de 23,63%, nível moderado 0. O beta de 0,47 contra o Ibovespa indica que, em média, o fundo acompanha os movimentos do índice com menor amplitude, na mesma direção 0. A maior queda em 5 anos foi de -27,57%, entre o pico em 07/03/2024 e o ponto mais baixo em 13/02/2025 0. Para FIIs de tijolo, essa volatilidade reflete a exposição a vacância e a condições do mercado de aluguéis."
+  },
+  "history": {
+    "overview": "O Kinea Oportunidades Real Estate FII (KORE11) iniciou suas atividades em 01/12/2023, com a oferta pública de cotas encerrada em 04/12/2023 [1, 2]. O fundo tem como objetivo gerar renda de aluguel mensal por meio da locação de um portfólio de edifícios corporativos, com gestão ativa da Kinea Investimentos Ltda. e administração da Intrag DTVM Ltda. 3. Desde o início, a equipe de gestão concentrou esforços na modernização e manutenção dos imóveis para reduzir a vacância e atrair inquilinos 3. Em setembro de 2026, o fundo não registrou movimentações na carteira de locatários, mantendo a vacância física em 5,70% e a financeira em 4,18% 3.",
+    "timeline": [
+      {
+        "date": "2023-11-21",
+        "event": "Início da oferta pública de cotas do KORE11",
+        "source": 2
+      },
+      {
+        "date": "2023-12-01",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2023-12-04",
+        "event": "Encerramento da oferta pública de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do KORE11",
+      "body": "O KORE11 é um FII de tijolo com foco em imóveis corporativos, com gestão ativa e prazo indeterminado [1, 3]. O objetivo do fundo é gerar renda de aluguel mensal por meio da locação de edifícios corporativos 3. A carteira inclui o Centro Empresarial Botafogo, o Ed. Alameda Santos, o Ed. Morumbi Office Tower e o Ed. Corporate Plaza, com ativos localizados em São Paulo e Rio de Janeiro 3. A taxa de administração e gestão é de 1,06% ao ano sobre o valor de mercado das cotas, englobando administrador, gestor, banco escriturador e custodiante 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do KORE11",
+      "body": "Nos 12 meses até 29/10/2026, o KORE11 distribuiu R$ 9,1500 por cota em 12 pagamentos, resultando em dividend yield de 14,41% 0. O último provento foi de R$ 0,6000, com pagamento em 01/10/2026 0. O relatório gerencial de setembro de 2026 confirma a distribuição de R$ 0,60 por cota referente ao mês, com pagamento em 15/10/2026 3. O app permite acompanhar [dividendos e JCP no app](/recursos/proventos) com data de pagamento e multiplicados pela quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O KORE11 realizou uma oferta pública de cotas, iniciada em 21/11/2023 e encerrada em 04/12/2023 2. Em 09/2026, o fundo contava com 9.625.000 cotas emitidas, 29.926 cotistas e patrimônio líquido de R$ 1,03 bilhão 1. O valor patrimonial da cota era de R$ 107,34, enquanto a cota de mercado estava em R$ 67,27 em 30/09/2026 [1, 3]."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KORE11",
+      "body": "A rentabilidade total com proventos do KORE11 nos 12 meses até 29/10/2026 foi de 2,80% 0. A volatilidade anualizada no mesmo período foi de 23,63%, classificada como moderada 0. O app oferece a [comparação com índices](/recursos/comparacao-com-indices), permitindo avaliar o desempenho do fundo ao lado do IFIX, CDI e Ibovespa."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KORE11",
+      "body": "Como FII de tijolo, o KORE11 está exposto ao risco de vacância, que em setembro de 2026 era de 5,70% física e 4,18% financeira 3. A volatilidade anualizada de 23,63% e a maior queda de -27,57% (de 07/03/2024 a 13/02/2025) refletem a sensibilidade do ativo a mudanças no mercado de aluguéis e na economia 0. O beta de 0,47 contra o Ibovespa indica que o fundo tende a acompanhar os movimentos do índice com menor amplitude 0. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar oscilações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KORE11 é FII de papel ou de tijolo?",
+      "answer": "KORE11 é um FII de tijolo, focado em edifícios corporativos 3. O fundo gera renda de aluguel mensal por meio da locação de imóveis físicos, como o Centro Empresarial Botafogo e o Ed. Alameda Santos 3."
+    },
+    {
+      "question": "KORE11 paga dividendos?",
+      "answer": "Sim, o KORE11 distribui proventos mensais. Nos 12 meses até 29/10/2026, distribuiu R$ 9,1500 por cota, com dividend yield de 14,41% 0. O último pagamento foi de R$ 0,6000 em 01/10/2026 0."
+    },
+    {
+      "question": "Qual a taxa de administração do KORE11?",
+      "answer": "A taxa de administração e gestão do KORE11 é de 1,06% ao ano sobre o valor de mercado das cotas 3. Essa taxa engloba a remuneração do administrador, gestor, banco escriturador e custodiante 3."
+    },
+    {
+      "question": "Qual o patrimônio do KORE11?",
+      "answer": "Em 09/2026, o patrimônio líquido do KORE11 era de R$ 1,03 bilhão, com 9.625.000 cotas emitidas e 29.926 cotistas 1. O valor patrimonial da cota era de R$ 107,34 1."
+    },
+    {
+      "question": "KORE11 tem vacância?",
+      "answer": "Sim, em setembro de 2026, a vacância física do KORE11 era de 5,70% e a financeira de 4,18% 3. A equipe de gestão atua na comercialização das áreas vagas para reduzir esses indicadores 3."
+    },
+    {
+      "question": "Como acompanhar o KORE11 no app?",
+      "answer": "O app permite acompanhar [dividendos e JCP no app](/recursos/proventos), configurar [alertas de preço](/recursos/alertas-de-preco) e usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a sua posição no KORE11."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do KORE11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do KORE11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do KORE11 com o IFIX, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o KORE11 ao lado de outros ativos da sua carteira, com alocação por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FII da gestora Kinea, com foco em rendimentos imobiliários."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII da Kinea focado em índices de preços, para comparação de estratégia."
+      },
+      {
+        "ticker": "BTRU11",
+        "list": "fiis",
+        "reason": "FII de tijolo corporativo da BTG Pactual, para comparação de segmento."
+      },
+      {
+        "ticker": "AIEC11",
+        "list": "fiis",
+        "reason": "FII de edifícios corporativos, para comparação de segmento."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KORE11",
+      "url": "https://finance.yahoo.com/quote/KORE11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do KINEA OPORTUNIDADES REAL ESTATE FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo KORE11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=52219978000142",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do KORE11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339146",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,401 @@
+{
+  "ticker": "EGIE3",
+  "slug": "egie3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "EGIE3: história, dividendos e volatilidade",
+    "description": "Conheça a EGIE3, ação da ENGIE Brasil Energia: capacidade instalada de 9.008 MW, dividend yield de 4,24% e volatilidade de 29,34%.",
+    "h1": "EGIE3: ENGIE Brasil Energia S.A.",
+    "canonicalPath": "/acoes/egie3",
+    "keywords": [
+      "EGIE3",
+      "Engie Brasil Energia",
+      "ação de energia elétrica",
+      "dividendos EGIE3",
+      "volatilidade EGIE3",
+      "Novo Mercado",
+      "geração de energia limpa"
+    ]
+  },
+  "summary": "EGIE3 é a ação ordinária da ENGIE Brasil Energia S.A., companhia de capital aberto que atua na geração, transmissão e comercialização de energia elétrica no Brasil. Controlada pelo grupo franco-belga Engie, a empresa possui capacidade instalada própria de 9.008 MW, distribuídos entre 99 plantas, sendo 100% de fontes limpas e renováveis. Em 30/10/2026, a ação estava cotada a R$ 26,31, com dividend yield de 4,24% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "ENGIE Brasil Energia",
+    "legalName": "ENGIE BRASIL ENERGIA S.A.",
+    "ticker": "BVMF EGIE3",
+    "isin": "BREGIEACNOR9",
+    "taxId": "02.474.103/0001-19",
+    "foundingDate": "1998-01-29",
+    "address": {
+      "locality": "Florianópolis",
+      "region": "SC",
+      "country": "BR"
+    },
+    "website": "https://www.engie.com.br",
+    "wikidata": "Q634855",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q634855",
+      "https://pt.wikipedia.org/wiki/Engie_Brasil",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/17329/EGIE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "ENGIE Brasil Energia",
+    "legalName": "ENGIE BRASIL ENERGIA S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "29/01/1998",
+    "listedSince": "01/03/2002",
+    "headquarters": "Florianópolis (SC)",
+    "website": "https://www.engie.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "ENGIE BRASIL ENERGIA S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.474.103/0001-19",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "29/01/1998",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Florianópolis (SC)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "01/03/2002",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "EGIE3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 26,31",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "29,34% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,84",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,24%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EGIE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Engie Brasil Energia S.A.",
+    "currency": "BRL",
+    "price": 26.31,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0406,
+      "3y": 0.0825,
+      "5y": 0.2506,
+      "10y": 1.1972
+    },
+    "volatility1y": 0.2934,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2916,
+      "from": "2026-04-15",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 0.84,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.1156,
+      "payments12Months": 3,
+      "yield12Months": 0.0424,
+      "lastPayment": {
+        "date": "2026-08-21",
+        "amount": 0.544207
+      }
+    },
+    "avgDailyTradedValue3m": 115913968
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 29,34% da EGIE3 nos últimos 12 meses é considerada alta, refletindo a sensibilidade do setor elétrico a variáveis climáticas e regulatórias. O beta de 0,84 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com menor amplitude, mas na mesma direção. A maior queda em 5 anos de -29,16%, entre 15/04/2026 e 30/10/2026, ilustra o potencial de oscilação do ativo. Para monitorar movimentos de preço e definir pontos de interesse, os [alertas de preço](/recursos/alertas-de-preco) permitem configurar notificações personalizadas."
+  },
+  "history": {
+    "overview": "A ENGIE Brasil Energia S.A. tem origem na aquisição do parque gerador da Eletrosul pelo grupo franco-belga Tractebel em 1998. A empresa, então chamada de Centrais Geradoras do Sul do Brasil (Gerasul), foi comprada por 947 milhões de reais na Bolsa de Valores do Rio de Janeiro. Em 2002, a Gerasul passou a se chamar Tractebel Energia e, em 2016, adotou o nome Engie Brasil, alinhando-se à marca do grupo controlador. A companhia consolidou-se como a segunda maior geradora de energia do país, com 5,2% de participação no mercado e capacidade instalada própria de 9.008 MW, composta por 99 plantas (11 hidrelétricas, 3 de biomassa, 49 eólicas, 2 PCHs e 2 solares), todas de fontes limpas e renováveis. A estratégia de diversificação incluiu a expansão para o segmento de transmissão de energia e a venda da participação na Transportadora Associada de Gás (TAG) entre 2019 e 2020. Em 2026, a empresa aprovou a incorporação da Companhia Energética do Jari (CEJA) e realizou ofertas públicas de distribuição de ações e emissão de debêntures.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "Fundação da empresa, que iniciou atividades no Brasil obtendo a concessão para a construção e operação da Usina Hidrelétrica de Cana Brava (450 MW).",
+        "source": 3
+      },
+      {
+        "date": "1998-01-29",
+        "event": "Constituição da ENGIE BRASIL ENERGIA S.A.",
+        "source": 2
+      },
+      {
+        "date": "1998-05-28",
+        "event": "Registro de companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2002-03-01",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2026-03-27",
+        "event": "Participação no leilão de transmissão Aneel 01/26.",
+        "source": 12
+      },
+      {
+        "date": "2026-04-16",
+        "event": "Adesão ao mecanismo de repactuação de UBP (Uso do Bem Público).",
+        "source": 11
+      },
+      {
+        "date": "2026-04-27",
+        "event": "Contratação de assessoria financeira.",
+        "source": 10
+      },
+      {
+        "date": "2026-06-03",
+        "event": "Aprovação da proposta de incorporação da controlada integral Companhia Energética do Jari - CEJA.",
+        "source": 9
+      },
+      {
+        "date": "2026-06-10",
+        "event": "Oferta Pública de Distribuição de Ações.",
+        "source": 8
+      },
+      {
+        "date": "2026-07-06",
+        "event": "Oferta Pública de Distribuição Primária de Ações Ordinárias.",
+        "source": 6
+      },
+      {
+        "date": "2026-07-06",
+        "event": "Emissão de Debêntures (17ª Emissão).",
+        "source": 7
+      },
+      {
+        "date": "2026-07-14",
+        "event": "Precificação da Oferta de Ações.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a ENGIE Brasil Energia ganha dinheiro",
+      "body": "A ENGIE Brasil Energia S.A. atua na geração, transmissão e comercialização de energia elétrica, realizando estudos, projetos, construção e operação de usinas produtoras e sistemas de transmissão. A companhia possui capacidade instalada própria de 9.008 MW, distribuídos entre 99 plantas, sendo 11 hidrelétricas, 3 de biomassa, 49 eólicas, 2 pequenas centrais hidrelétricas (PCHs) e 2 solares, com 100% de fontes limpas e renováveis. A empresa detém concessão de dois sistemas de transmissão de energia em implantação: Gralha Azul (1.000 km) no Paraná e Novo Estado (1.800 km) entre Pará e Tocantins, totalizando 2.800 km de linhas. Além disso, a Engie Brasil detém 17,5% da Transportadora Associada de Gás S/A (TAG), que possui infraestrutura de 4.500 quilômetros de gasodutos de alta pressão, estendendo-se pelo litoral das regiões Sudeste e Nordeste e entre Urucu e Manaus, no Amazonas."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da ENGIE Brasil Energia",
+      "body": "A ENGIE Brasil Energia S.A. é controlada pelo grupo franco-belga Engie, que detém 68,7% do capital, com controle acionário classificado como privado pela CVM. A empresa está listada no segmento Novo Mercado da B3, que exige padrões elevados de governança corporativa, transparência e liquidez. O código de negociação da ação ordinária é EGIE3. Ações ordinárias (ON) conferem direito a voto em assembleias gerais e, em caso de liquidação, têm preferência sobre as preferenciais após a satisfação destas, mas não possuem prioridade no recebimento de dividendos e juros sobre o capital próprio em relação às ações preferenciais, quando estas existem."
+    },
+    {
+      "id": "proventos",
+      "heading": "EGIE3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a EGIE3 distribuiu R$ 1,1156 por ação em 3 pagamentos, resultando em dividend yield de 4,24%. O último provento registrado foi de R$ 0,5442 em 21/08/2026. A companhia é conhecida por sua política de remuneração aos acionistas, que inclui dividendos e juros sobre o capital próprio. É possível acompanhar o histórico completo de proventos, com datas de competência e pagamento, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da EGIE3",
+      "body": "A rentabilidade total da EGIE3 com proventos foi de -4,06% nos 12 meses até 30/10/2026, 8,25% em 3 anos, 25,06% em 5 anos e 119,72% em 10 anos. Esses números refletem o desempenho do ativo no período, incluindo a reinvestimento de proventos. Para comparar esse resultado com outros investimentos, utilize a [comparação com índices](/recursos/comparacao-com-indices), que exibe a rentabilidade lado a lado com o Ibovespa, CDI, IPCA e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da EGIE3",
+      "body": "A volatilidade anualizada da EGIE3 nos últimos 12 meses foi de 29,34%, classificada como nível alto. A maior queda em 5 anos foi de -29,16%, ocorrida do pico em 15/04/2026 ao ponto mais baixo em 30/10/2026. Riscos setoriais incluem a dependência de condições hídricas para as hidrelétricas, mudanças regulatórias no setor elétrico e a exposição a eventos climáticos extremos. A adesão ao mecanismo de repactuação de UBP em 2026 pode impactar a receita das usinas. O volume médio negociado por dia nos últimos 3 meses foi de R$ 115,9 milhões."
+    }
+  ],
+  "faq": [
+    {
+      "question": "EGIE3 paga dividendos?",
+      "answer": "Sim, a EGIE3 distribui proventos aos acionistas. Nos 12 meses até 30/10/2026, foram pagos R$ 1,1156 por ação em 3 pagamentos, com dividend yield de 4,24%. O último pagamento foi de R$ 0,5442 em 21/08/2026. O histórico completo está disponível no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre EGIE3 e ações preferenciais da Engie Brasil?",
+      "answer": "EGIE3 é a ação ordinária (ON) da ENGIE Brasil Energia, que confere direito a voto em assembleias. Ações preferenciais (PN), quando existem, têm prioridade no recebimento de dividendos e juros sobre o capital próprio, mas não conferem direito a voto. A EGIE3 está listada no Novo Mercado, que exige padrões elevados de governança."
+    },
+    {
+      "question": "O que a Engie Brasil faz?",
+      "answer": "A ENGIE Brasil Energia S.A. atua na geração, transmissão e comercialização de energia elétrica, com capacidade instalada própria de 9.008 MW distribuídos entre 99 plantas, sendo 100% de fontes limpas e renováveis. A empresa também possui participação na Transportadora Associada de Gás (TAG) e detém concessões de sistemas de transmissão de energia."
+    },
+    {
+      "question": "Quem controla a Engie Brasil?",
+      "answer": "A ENGIE Brasil Energia S.A. é controlada pelo grupo franco-belga Engie, que detém 68,7% do capital. O controle acionário é classificado como privado pela CVM. A empresa está listada no segmento Novo Mercado da B3."
+    },
+    {
+      "question": "Qual a rentabilidade da EGIE3 nos últimos 5 anos?",
+      "answer": "A rentabilidade total da EGIE3 com proventos foi de 25,06% nos 5 anos até 30/10/2026. Para comparar esse resultado com o Ibovespa e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "EGIE3 é um ativo volátil?",
+      "answer": "A volatilidade anualizada da EGIE3 nos últimos 12 meses foi de 29,34%, classificada como nível alto. A maior queda em 5 anos foi de -29,16%, entre 15/04/2026 e 30/10/2026. O beta de 0,84 indica que a ação tende a se mover com menor amplitude que o Ibovespa. Para monitorar oscilações, use os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos da EGIE3 com data de competência e pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da EGIE3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações quando a EGIE3 atingir o preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a EGIE3 junto com outros ativos da sua carteira, com alocação por classe e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de energia elétrica, com foco em geração e transmissão."
+      },
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de energia elétrica, com atuação em distribuição e geração."
+      },
+      {
+        "ticker": "CPLE3",
+        "list": "br-stocks",
+        "reason": "Companhia Paranaense de Energia, atuante na geração e distribuição de energia elétrica."
+      },
+      {
+        "ticker": "ENEV3",
+        "list": "br-stocks",
+        "reason": "Eneva S.A., empresa do setor de energia elétrica, com foco em geração térmica."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EGIE3",
+      "url": "https://finance.yahoo.com/quote/EGIE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ENGIE BRASIL, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/17329/EGIE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, ENGIE BRASIL ENERGIA S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: ENGIE Brasil Energia",
+      "url": "https://www.wikidata.org/wiki/Q634855",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Engie Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Engie_Brasil",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/07/2026, “Precificação da Oferta de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1544874&numSequencia=1069580&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/07/2026, “Oferta Pública de Distribuição Primária de Ações Ordinárias”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1541913&numSequencia=1066619&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/07/2026, “Emissão de Debêntures (17ª Emissão)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1542213&numSequencia=1066919&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/06/2026, “Oferta Pública de Distribuição de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1533325&numSequencia=1058031&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/06/2026, “Aprovação da proposta de incorporação da controlada integral Companhia Energética do Jari - CEJA.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1530509&numSequencia=1055215&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/04/2026, “Contratação assessoria financeira”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1509427&numSequencia=1034133&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/04/2026, “Adesão ao mecanismo de repactuação de UBP (Uso do Bem Público)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1505839&numSequencia=1030545&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/03/2026, “Participação no leilão de transmissão Aneel 01/26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1497183&numSequencia=1021889&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

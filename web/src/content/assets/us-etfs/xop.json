@@ -1,0 +1,285 @@
+{
+  "ticker": "XOP",
+  "slug": "xop",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XOP: ETF de petróleo, desempenho e riscos",
+    "description": "XOP é o ETF da State Street que replica o setor de exploração e produção de petróleo. Veja desempenho, volatilidade, dividendos e como investir do Brasil.",
+    "h1": "XOP: State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+    "canonicalPath": "/etfs/xop",
+    "keywords": [
+      "XOP",
+      "ETF de petróleo",
+      "State Street SPDR",
+      "S&P Oil & Gas",
+      "exploração e produção de petróleo",
+      "ETF de energia",
+      "XOP dividendos",
+      "XOP volatilidade"
+    ]
+  },
+  "summary": "XOP é o ticker do State Street SPDR S&P Oil & Gas Exploration & Production ETF, um fundo de índice negociado nos Estados Unidos que replica o desempenho do setor de exploração e produção de petróleo e gás. Lançado em 22 de junho de 2006, o ativo é administrado pela State Street Global Advisors. Em 29/10/2026, a cota valia US$ 199,52, com rentabilidade total de 61,11% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+    "ticker": "ARCX XOP",
+    "foundingDate": "2006-06-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P Oil & Gas Exploration & Production Select Industry Index",
+    "name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+    "founded": "22/06/2006"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/06/2006",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 199,52",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "28,72% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-0,50",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,57%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 542,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XOP",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street SPDR S&P Oil & Gas Exploration & Production ETF",
+    "currency": "USD",
+    "price": 199.52,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.6111,
+      "3y": 0.4917,
+      "5y": 1.115,
+      "10y": 0.7128
+    },
+    "volatility1y": 0.2872,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3498,
+      "from": "2024-04-05",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": -0.5,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.124,
+      "payments12Months": 4,
+      "yield12Months": 0.0157,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.757
+      }
+    },
+    "avgDailyTradedValue3m": 542219418
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do XOP é de 28,72%, considerada alta, o que reflete a sensibilidade do setor de petróleo a oscilações no preço do barril e a fatores geopolíticos. O beta de -0,50 contra o S&P 500 nos 12 meses até 29/10/2026 indica que, nesse período, o XOP se moveu na direção oposta ao índice, com movimentos de menor magnitude. A maior queda em 5 anos foi de -34,98%, entre 05/04/2024 e 08/04/2025. Para monitorar oscilações e definir pontos de entrada ou saída, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificações quando o ativo atinge o valor desejado."
+  },
+  "history": {
+    "overview": "O XOP faz parte da família de ETFs SPDR, gerida pela State Street Global Advisors (SSGA). A marca SPDR, que significa Standard & Poor's Depositary Receipts, foi criada para o primeiro fundo da linha, o SPDR S&P 500 Trust, o maior ETF do mundo por patrimônio. Em 2007, a SSGA unificou seus ETFs nos Estados Unidos sob a marca SPDR, incluindo a antiga família StreetTRACKS. O XOP, focado no setor de energia, iniciou suas operações em 22 de junho de 2006, permitindo que investidores acompanhem o setor de exploração e produção de petróleo e gás por meio de um único ativo. O setor de petróleo é dividido em upstream (exploração e produção), midstream (transporte e armazenamento) e downstream (refino e distribuição), sendo o XOP focado exclusivamente no segmento upstream, que historicamente apresenta maior atividade de fusões e aquisições.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "SSGA e Merrill Lynch introduzem os Sector Spiders, que seguem os setores do S&P 500",
+        "source": 1
+      },
+      {
+        "date": "2006-06-22",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA reorganiza seus ETFs nos EUA sob a marca SPDR, incluindo a família StreetTRACKS",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XOP funciona",
+      "body": "O XOP é um ETF (Exchange-Traded Fund) que replica o índice S&P Oil & Gas Exploration & Production Select Industry Index. Ele é administrado pela State Street Global Advisors (SSGA), a gestora da família SPDR, que é a terceira maior provedora de ETFs do mundo. O ETF foi lançado em 22 de junho de 2006 e não é alavancado nem inverso, o que significa que seu desempenho acompanha diretamente o do índice, sem multiplicadores diários. Os recursos do fundo são investidos em ações de empresas que atuam na exploração e produção de petróleo e gás natural."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XOP",
+      "body": "O XOP segue o S&P Oil & Gas Exploration & Production Select Industry Index, que agrupa empresas do setor de energia focadas no segmento upstream (exploração e produção). As fontes não detalham a lista exata das empresas ou os pesos de cada uma na carteira. O setor de petróleo é dividido em upstream, midstream e downstream, e o XOP está restrito ao primeiro, que envolve a busca por campos de petróleo e gás, perfuração de poços e operação das plataformas de extração."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XOP a partir do Brasil",
+      "body": "Para investir no XOP a partir do Brasil, o investidor precisa abrir conta em uma corretora de valores que opere no mercado americano, pois o ETF é negociado em dólar nos Estados Unidos. Outra opção é buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice ou o setor de energia, o que pode simplificar a tributação e a liquidez. O principal risco cambial é que a rentabilidade em reais depende da variação do dólar: se o dólar cair, a valorização do XOP em reais será menor, e se o dólar subir, a valorização será ampliada."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XOP",
+      "body": "Até 29/10/2026, o XOP apresentou rentabilidade total com proventos de 61,11% nos 12 meses, 49,17% em 3 anos, 111,50% em 5 anos e 71,28% em 10 anos. O ativo pagou US$ 3,1240 em proventos nos últimos 12 meses, com dividend yield de 1,57%. Para comparar esse desempenho com o mercado americano, é possível usar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a rentabilidade do XOP lado a lado com o S&P 500 e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XOP",
+      "body": "O XOP é um ativo de alta volatilidade, com volatilidade anualizada de 28,72% nos 12 meses até 29/10/2026. A maior queda em 5 anos foi de -34,98%, entre 05/04/2024 e 08/04/2025. O beta de -0,50 indica que, nesse período, o XOP se moveu na direção oposta ao S&P 500, com movimentos de menor magnitude. Os riscos incluem a sensibilidade do setor de petróleo a mudanças no preço do barril, regulamentações ambientais, transição energética e fatores geopolíticos. O setor upstream também é marcado por alta atividade de fusões e aquisições, o que pode afetar a composição do índice."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o XOP?",
+      "answer": "XOP é o ticker do State Street SPDR S&P Oil & Gas Exploration & Production ETF, um fundo de índice que replica o desempenho do setor de exploração e produção de petróleo e gás nos Estados Unidos. O ETF é administrado pela State Street Global Advisors e foi lançado em 22 de junho de 2006."
+    },
+    {
+      "question": "O XOP é alavancado?",
+      "answer": "Não, o XOP não é alavancado nem inverso. Ele replica diretamente o índice S&P Oil & Gas Exploration & Production Select Industry Index, sem multiplicadores diários, o que significa que seu desempenho acompanha o do índice de forma linear."
+    },
+    {
+      "question": "Qual o dividend yield do XOP?",
+      "answer": "O dividend yield do XOP é de 1,57%, com base nos proventos de US$ 3,1240 pagos nos 12 meses até 29/10/2026. O último pagamento foi de US$ 0,7570 em 21/09/2026."
+    },
+    {
+      "question": "Como investir no XOP do Brasil?",
+      "answer": "Para investir no XOP a partir do Brasil, é necessário abrir conta em uma corretora que opere no mercado americano, pois o ETF é negociado em dólar. Outra opção é buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou o setor de energia. O risco cambial é um fator importante, pois a rentabilidade em reais depende da variação do dólar."
+    },
+    {
+      "question": "Qual a volatilidade do XOP?",
+      "answer": "A volatilidade anualizada do XOP é de 28,72%, considerada alta, nos 12 meses até 29/10/2026. A maior queda em 5 anos foi de -34,98%, entre 05/04/2024 e 08/04/2025. O beta de -0,50 indica que, nesse período, o XOP se moveu na direção oposta ao S&P 500."
+    },
+    {
+      "question": "O XOP é bom para diversificar a carteira?",
+      "answer": "O XOP pode ser usado para diversificar a carteira, pois expõe o investidor ao setor de energia, que tem correlação diferente de outros setores. No entanto, a alta volatilidade e a sensibilidade ao preço do petróleo são fatores que devem ser considerados. É possível usar a [carteira consolidada](/recursos/carteira-consolidada) do app para visualizar a alocação e o impacto do XOP na carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do XOP lado a lado com o S&P 500 e outros benchmarks, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o XOP atingir o preço que você deseja, útil para monitorar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a alocação do XOP junto com outros ativos, como ações da B3 e ETFs, em uma só visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do XOP e o preço médio da sua posição, com gráfico de rentabilidade e variação do dia e do ano."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em XOP e veja as respostas com base nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "Outro ETF da State Street que segue o setor de energia, mas com foco no índice S&P Energy Select Sector, que inclui empresas de refino e distribuição."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "O maior ETF do mundo, que segue o S&P 500, útil para comparar o desempenho do XOP com o mercado americano."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Petrobras, a maior empresa de petróleo do Brasil, para quem quer exposição ao setor de energia no mercado local."
+      },
+      {
+        "ticker": "PRIO3",
+        "list": "br-stocks",
+        "reason": "Ação da Prio S.A., uma empresa brasileira de exploração e produção de petróleo, para quem busca exposição ao setor upstream no Brasil."
+      },
+      {
+        "ticker": "VBBR3",
+        "list": "br-stocks",
+        "reason": "Ação da Vibra Energia S.A., outra empresa brasileira do setor de energia, para diversificação dentro do segmento de petróleo e gás."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XOP",
+      "url": "https://finance.yahoo.com/quote/XOP/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Petroleum industry (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Petroleum_industry",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Upstream (petroleum industry) (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Upstream_(petroleum_industry)",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

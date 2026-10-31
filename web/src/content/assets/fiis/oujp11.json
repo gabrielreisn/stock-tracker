@@ -1,0 +1,337 @@
+{
+  "ticker": "OUJP11",
+  "slug": "oujp11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "OUJP11: FII de papel, dividendos e reorganização",
+    "description": "OUJP11 é um FII de papel com 21,72% de dividend yield e reorganização aprovada em 2026. Veja histórico, patrimônio e desempenho do Ourinvest JPP FII.",
+    "h1": "OUJP11: Ourinvest JPP FII – FII de papel com gestão ativa",
+    "canonicalPath": "/fiis/oujp11",
+    "keywords": [
+      "OUJP11",
+      "Ourinvest JPP FII",
+      "FII de papel",
+      "CRI",
+      "dividend yield FII",
+      "reorganização OUJP11",
+      "Rio Bravo Investimentos",
+      "JPP Capital"
+    ]
+  },
+  "summary": "OUJP11 é a cota do Ourinvest JPP Fundo de Investimento Imobiliário, um FII de papel que investe majoritariamente em Certificados de Recebíveis Imobiliários (CRI). Com gestão ativa e foco em renda fixa imobiliária, o fundo distribuiu R$ 14,18 por cota em 12 meses até 29/10/2026, gerando um dividend yield de 21,72%. Em 09/2026, o patrimônio líquido era de R$ 327,6 milhões, com valor patrimonial da cota em R$ 100,72.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Ourinvest Jpp Fundo de Investimento Imobiliário de  Responsabilidade Limitada",
+    "legalName": "OURINVEST JPP FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF OUJP11",
+    "isin": "BROUJPCTF006",
+    "taxId": "26.091.656/0001-50",
+    "foundingDate": "2016-11-30",
+    "provider": {
+      "name": "FINAXIS CORRETORA",
+      "url": "https://finaxis.com.br/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=26091656000150"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "JPP Capital Gestão de Recursos Ltda",
+    "name": "Ourinvest Jpp Fundo de Investimento Imobiliário de  Responsabilidade Limitada",
+    "legalName": "OURINVEST JPP FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "30/11/2016",
+    "administrator": "FINAXIS CORRETORA",
+    "website": "https://finaxis.com.br/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "OURINVEST JPP FUNDO DE INVESTIMENTO IMOBILIÁRIO DE  RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "26.091.656/0001-50",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "FINAXIS CORRETORA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "30/11/2016",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 327,6 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "22.554",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 100,72",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 65,30",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "19,87% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,23",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "21,72%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 591.800,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "OUJP11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Ourinvest Jpp Fundo Investimento Imobiliario - Fii",
+    "currency": "BRL",
+    "price": 65.3,
+    "historyStarts": "2017-10-09",
+    "returns": {
+      "1y": 0.0266,
+      "3y": 0.0921,
+      "5y": 0.4802,
+      "10y": null
+    },
+    "volatility1y": 0.1987,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2678,
+      "from": "2024-02-02",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.23,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 14.18,
+      "payments12Months": 12,
+      "yield12Months": 0.2172,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 1.2
+      }
+    },
+    "avgDailyTradedValue3m": 591800
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de 12 meses do OUJP11 é de 19,87%, um nível moderado para um FII de papel. O beta de 0,23 contra o Ibovespa mostra que o fundo costuma acompanhar os movimentos do índice acionário com intensidade muito menor, na mesma direção. A maior queda em 5 anos foi de -26,78%, do pico em 02/02/2024 ao fundo em 19/12/2024. Para quem busca renda com menor exposição ao risco de mercado acionário, o perfil de volatilidade é compatível com o segmento de FIIs de CRI, mas a queda recente e a reorganização estrutural exigem atenção. Acompanhe a variação do preço e a rentabilidade no [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "O Ourinvest JPP FII (OUJP11) iniciou suas atividades em 30 de novembro de 2016, com foco em investimentos em Certificados de Recebíveis Imobiliários (CRI). O fundo é classificado pela ANBIMA como um FII de papel híbrido com gestão ativa, tendo como benchmark o IMA-B 5 acrescido de 0,50% ao ano. Ao longo de sua história, o fundo realizou duas ofertas públicas de cotas, a primeira iniciada em janeiro de 2017 e a segunda em junho de 2019, ampliando sua base de investidores e patrimônio. Em outubro de 2026, o fundo passou por uma reorganização estrutural significativa, com a transferência da administração fiduciária da Finaxis Corretora para a Rio Bravo Investimentos, e a aprovação de uma reorganização que prevê a incorporação de ativos ao fundo RBIC11.",
+    "timeline": [
+      {
+        "date": "2016-11-30",
+        "event": "Início das atividades do Ourinvest JPP FII (OUJP11).",
+        "source": 1
+      },
+      {
+        "date": "2017-01-06",
+        "event": "Início da primeira oferta pública de cotas do fundo.",
+        "source": 2
+      },
+      {
+        "date": "2017-04-25",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-06-03",
+        "event": "Início da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-08-06",
+        "event": "Encerramento da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2026-10-21",
+        "event": "Publicação do fato relevante sobre a transferência da administração fiduciária para a Rio Bravo Investimentos.",
+        "source": 5
+      },
+      {
+        "date": "2026-10-22",
+        "event": "A Rio Bravo Investimentos assume a administração fiduciária do fundo.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do OUJP11",
+      "body": "O OUJP11 é um FII de papel híbrido com gestão ativa, classificado pela ANBIMA, que pode investir até 100% do patrimônio em CRI de classe única ou seniores e até 15% em CRI de classe subordinada. Segundo o relatório gerencial de setembro de 2026, a carteira estava 92% alocada em ativos imobiliários (92% em CRI e 0,4% em FII) e 8% em instrumentos de caixa. A carteira de CRI é majoritariamente indexada ao IPCA (58%), seguida pelo CDI (41%) e IGPM (1%). A gestão é compartilhada pela JPP Capital e pela Fator ORE, enquanto a administração fiduciária, a partir de outubro de 2026, passou a ser da Rio Bravo Investimentos, substituindo a Finaxis Corretora."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do OUJP11",
+      "body": "Nos 12 meses até 29/10/2026, o OUJP11 distribuiu R$ 14,18 por cota em 12 pagamentos, resultando em um dividend yield de 21,72% sobre o preço de mercado. O último provento foi de R$ 1,20 em 01/10/2026. O relatório gerencial de setembro de 2026 indica um resultado de R$ 1,27 por cota, com distribuição de R$ 1,20 e saldo retido de R$ 1,36 para calibrar o patamar de dividendos. A tributação dos rendimentos de FIIs segue as regras gerais de isenção para pessoas físicas, mas o investidor deve verificar as condições específicas da operação de reorganização aprovada em outubro de 2026. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para ver os pagamentos multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O OUJP11 realizou duas ofertas públicas de cotas: a primeira entre janeiro e abril de 2017, e a segunda entre junho e agosto de 2019. Em 09/2026, o patrimônio líquido era de R$ 327,6 milhões, com 22.554 cotistas e valor patrimonial da cota de R$ 100,72. O número de cotas emitidas era de 3.252.384. A taxa de administração no mês era de 0,060% sobre o patrimônio. Em outubro de 2026, foi aprovada a reorganização dos fundos, com a aquisição de 50% dos ativos do OUJP11 pelo RBIC11, o que pode impactar a estrutura de cotas e a liquidez do ativo."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do OUJP11",
+      "body": "A rentabilidade total com proventos do OUJP11 foi de 2,66% em 12 meses, 9,21% em 3 anos e 48,02% em 5 anos, até 29/10/2026. No mês de setembro de 2026, o retorno total foi de 6,14%, superando o CDI (1,08%) e o IMA-B 5 (2,01%). Nos últimos 12 meses, o retorno total foi de 17,06%. Compare a performance do fundo com os principais índices de renda fixa e imobiliária na [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do OUJP11",
+      "body": "Como FII de papel, o OUJP11 está exposto ao risco de crédito dos emissores de CRI, à variação das taxas de juros (especialmente CDI e IPCA, que indexam a maior parte da carteira) e à liquidez dos ativos. A volatilidade anualizada de 12 meses é de 19,87%, classificada como moderada. A maior queda em 5 anos foi de -26,78%, entre 02/02/2024 e 19/12/2024. O beta de 0,23 contra o Ibovespa indica que o fundo tende a ter movimentos menores que o índice acionário. A reorganização aprovada em outubro de 2026, com a incorporação ao RBIC11, adiciona risco de execução e incerteza sobre a continuidade do fundo como ativo independente. Use os [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos de cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "OUJP11 é FII de papel ou de tijolo?",
+      "answer": "OUJP11 é um FII de papel, classificado pela ANBIMA como híbrido, com 92% da carteira em CRI e 0,4% em FII, segundo o relatório de setembro de 2026. O fundo não possui imóveis físicos na carteira, investindo em recebíveis imobiliários."
+    },
+    {
+      "question": "Qual o dividend yield do OUJP11?",
+      "answer": "O dividend yield do OUJP11 é de 21,72% nos 12 meses até 29/10/2026, com base em R$ 14,18 distribuídos por cota. O relatório gerencial de setembro de 2026 indica um yield anualizado de 20,8% sobre a cota de mercado."
+    },
+    {
+      "question": "O que é a reorganização do OUJP11 aprovada em outubro de 2026?",
+      "answer": "A reorganização, aprovada em 05/10/2026, prevê a aquisição de 50% dos ativos do OUJP11 e 100% dos ativos do RBHG11 pelo RBIC11, com emissão de cotas do JPPA11. O processo inclui a liquidação do OUJP11 após a incorporação, com apuração tributária para os cotistas."
+    },
+    {
+      "question": "Quem administra o OUJP11?",
+      "answer": "A partir de 22/10/2026, a administração fiduciária do OUJP11 é da Rio Bravo Investimentos, que substituiu a Finaxis Corretora. A gestão ativa é compartilhada pela JPP Capital e pela Fator ORE Asset."
+    },
+    {
+      "question": "Qual o patrimônio do OUJP11?",
+      "answer": "Em 09/2026, o patrimônio líquido do OUJP11 era de R$ 327,6 milhões, com 22.554 cotistas e valor patrimonial da cota de R$ 100,72. O relatório gerencial de setembro de 2026 indica um patrimônio de R$ 331,5 milhões."
+    },
+    {
+      "question": "OUJP11 paga rendimentos mensais?",
+      "answer": "Sim, o OUJP11 distribuiu 12 pagamentos nos 12 meses até 29/10/2026, totalizando R$ 14,18 por cota. O último provento foi de R$ 1,20 em 01/10/2026. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os 12 pagamentos de R$ 14,18 por cota do OUJP11 nos últimos 12 meses, com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade de 17,06% do OUJP11 nos últimos 12 meses com o CDI, IPCA e IFIX no mesmo gráfico, para avaliar o desempenho do fundo de papel."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do OUJP11 atingir um valor que você definir, útil para monitorar a volatilidade de 19,87% e a queda de -26,78% em 2024."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o OUJP11 junto com outros FIIs de papel e ações na sua carteira, com alocação por classe e as maiores posições, para avaliar a diversificação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "Outro FII de papel (CRI) com foco em renda fixa imobiliária, útil para comparar estratégias de investimento em recebíveis."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de CRI high yield, com perfil de risco e retorno similar ao OUJP11, para diversificação no segmento de crédito imobiliário."
+      },
+      {
+        "ticker": "RBRR11",
+        "list": "fiis",
+        "reason": "FII de renda high grade, que pode ser comparado ao OUJP11 em termos de qualidade de crédito e distribuição de rendimentos."
+      },
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em CRI, para comparação de estratégias de investimento em recebíveis imobiliários."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de OUJP11",
+      "url": "https://finance.yahoo.com/quote/OUJP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do OURINVEST JPP FUNDO DE INVESTIMENTO IMOBILIÁRIO RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo OUJP11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=26091656000150",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do OUJP11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1359879",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do OUJP11, 22/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356931",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do OUJP11, 21/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356085",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,324 @@
+{
+  "ticker": "BKNG34",
+  "slug": "bkng34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BKNG34: BDR da Booking Holdings, história e desempenho",
+    "description": "Conheça o BKNG34, BDR da Booking Holdings na B3. Veja história, dividendos, volatilidade e desempenho em reais até 30/10/2026.",
+    "h1": "BKNG34: BDR da Booking Holdings Inc.",
+    "canonicalPath": "/bdrs/bkng34",
+    "keywords": [
+      "BKNG34",
+      "Booking Holdings",
+      "BDR",
+      "B3",
+      "BKNG",
+      "dividendos",
+      "volatilidade",
+      "desempenho"
+    ]
+  },
+  "summary": "BKNG34 é o BDR nível I da Booking Holdings Inc., empresa americana de tecnologia de viagens sediada em Norwalk, Connecticut. O recibo, cotado na B3 desde 08/04/2019, representa ações da empresa listadas na NASDAQ sob o ticker BKNG. Em 30/10/2026, o BDR valia R$ 4,63, com rentabilidade total de -25,69% nos últimos 12 meses, refletindo a variação do câmbio e o desempenho da ação original em dólares.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Booking Holdings",
+    "legalName": "BOOKING HOLDINGS INC",
+    "ticker": "BVMF BKNG34",
+    "foundingDate": "1997-07",
+    "website": "https://bookingholdings.com/",
+    "wikidata": "Q18674747",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q18674747",
+      "https://en.wikipedia.org/wiki/Booking_Holdings",
+      "https://pt.wikipedia.org/wiki/Booking_Holdings",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51578/BKNG/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Booking Holdings",
+    "legalName": "BOOKING HOLDINGS INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "07/1997",
+    "listedSince": "08/04/2019",
+    "headquarters": "Norwalk",
+    "website": "https://bookingholdings.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "BOOKING HOLDINGS INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: BKNG",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Norwalk",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "07/1997",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "08/04/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 4,63",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "46,74% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original BKNG em dólares)",
+      "value": "0,85",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,75%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,3 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BKNG34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Booking Holdings Inc.",
+    "currency": "BRL",
+    "price": 4.63,
+    "historyStarts": "2019-05-21",
+    "returns": {
+      "1y": -0.2569,
+      "3y": 0.4688,
+      "5y": 0.4708,
+      "10y": null
+    },
+    "volatility1y": 0.4674,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4144,
+      "from": "2021-11-08",
+      "to": "2022-10-11"
+    },
+    "beta1y": {
+      "value": 0.85,
+      "against": "S&P 500, ação original BKNG em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.0345,
+      "payments12Months": 4,
+      "yield12Months": 0.0075,
+      "lastPayment": {
+        "date": "2026-09-10",
+        "amount": 0.008748
+      }
+    },
+    "avgDailyTradedValue3m": 1299704
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do BKNG34 nos 12 meses até 30/10/2026 foi de 46,74%, classificada como 'muito alta'. O beta da ação original BKNG contra o S&P 500 é 0,85, o que significa que a ação tende a acompanhar os movimentos do índice com menor amplitude. A maior queda em 5 anos foi de -41,44%, entre 08/11/2021 e 11/10/2022. Para acompanhar a volatilidade e definir pontos de entrada, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A história da Booking Holdings começa em 1997, quando Jay S. Walker fundou a Priceline.com em Stamford, Connecticut, com o modelo de licitação 'Name Your Own Price'. Em 31/03/1999, a empresa foi para a bolsa com o ticker PCLN. Após experimentar e descontinuar a venda de outros produtos em 2000, a empresa focou em viagens, adquirindo o Booking.com em 2005 por US$ 133 milhões. Em 2014, o nome mudou para The Priceline Group, e em 21/02/2018, para Booking Holdings, com o ticker alterado para BKNG em 27/02/2018. A empresa opera plataformas como Booking.com, Priceline, Agoda, Kayak e OpenTable, atendendo a cerca de 40 idiomas e 200 países. O BDR não patrocinado nível I, que permite a investidores brasileiros acompanhar a empresa em reais, foi listado na B3 em 08/04/2019.",
+    "timeline": [
+      {
+        "date": "1997-07",
+        "event": "Fundação da empresa por Jay S. Walker",
+        "source": 2
+      },
+      {
+        "date": "1999-03-31",
+        "event": "Oferta pública inicial (IPO) da Priceline.com na bolsa",
+        "source": 3
+      },
+      {
+        "date": "2005-07",
+        "event": "Aquisição do Booking.com por US$ 133 milhões",
+        "source": 3
+      },
+      {
+        "date": "2014-04",
+        "event": "Mudança de nome para The Priceline Group Inc.",
+        "source": 3
+      },
+      {
+        "date": "2017-08",
+        "event": "Aquisição dos ativos da Mundi, empresa brasileira de metabusca, pela KAYAK",
+        "source": 3
+      },
+      {
+        "date": "2018-02-21",
+        "event": "Mudança de nome para Booking Holdings",
+        "source": 4
+      },
+      {
+        "date": "2018-02-27",
+        "event": "Alteração do símbolo de ação de PCLN para BKNG na NASDAQ",
+        "source": 4
+      },
+      {
+        "date": "2019-04-08",
+        "event": "Listagem do BDR BKNG34 na B3",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Booking Holdings ganha dinheiro",
+      "body": "A Booking Holdings Inc. é uma empresa americana de tecnologia de viagens, sediada em Norwalk, Connecticut, que opera agregadores de tarifas e mecanismos de metabusca, incluindo Booking.com, Priceline.com, Agoda, Kayak, Cheapflights, Rentalcars.com, Momondo e OpenTable. A empresa opera sites em cerca de 40 idiomas e 200 países. A receita é derivada principalmente de comissões, com uma pequena parte vinda de publicidade. Em 2023, consumidores reservaram 1,235 bilhão de diárias de acomodação, 88 milhões de dias de aluguel de carros e 68 milhões de passagens aéreas usando os sites da empresa."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR BKNG34",
+      "body": "O BKNG34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Booking Holdings Inc. A ação original é listada na NASDAQ sob o ticker BKNG. O BDR foi listado na B3 em 08/04/2019. O preço do BDR acompanha a cotação da ação original em dólares e a variação do câmbio (dólar para real)."
+    },
+    {
+      "id": "proventos",
+      "heading": "BKNG34 paga dividendos?",
+      "body": "A Booking Holdings paga dividendos. Nos 12 meses até 30/10/2026, o BKNG34 distribuiu R$ 0,0345 por BDR em 4 pagamentos, resultando em um dividend yield de 0,75%. O último pagamento foi de R$ 0,0087 em 10/09/2026. Como a empresa é americana, o valor é pago em dólares e convertido para reais no momento do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BKNG34",
+      "body": "Em 30/10/2026, o BKNG34 valia R$ 4,63. A rentabilidade total com proventos foi de -25,69% nos 12 meses, 46,88% em 3 anos e 47,08% em 5 anos. Esses números em reais incluem a variação do câmbio. Para comparar o desempenho do BDR com índices de referência, como o S&P 500, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BKNG34",
+      "body": "Os riscos do BKNG34 incluem a volatilidade da ação original, a exposição ao câmbio (dólar/real) e a liquidez do BDR na B3. A volatilidade anualizada nos 12 meses até 30/10/2026 foi de 46,74%, nível 'muito alta'. A maior queda em 5 anos foi de -41,44%, do pico em 08/11/2021 ao ponto mais baixo em 11/10/2022. O volume médio negociado por dia nos últimos 3 meses foi de R$ 1,3 milhão. O beta da ação original BKNG contra o S&P 500 é 0,85, indicando que a ação tende a se mover em menor amplitude que o índice, mas o BDR em reais também sofre o efeito do câmbio."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar BKNG34 no app",
+      "body": "Para quem tem BKNG34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do BKNG34 lado a lado com o S&P 500, CDI e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o BKNG34 chegar ao preço que você escolheu, útil para acompanhar a volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe o BKNG34 junto com outras posições em uma só visão, com alocação por classe e maiores posições.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Veja o gráfico de rentabilidade do BKNG34 e o preço médio da sua posição, com variação do dia e do ano."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BKNG34 paga dividendos?",
+      "answer": "Sim, a Booking Holdings paga dividendos. Nos 12 meses até 30/10/2026, o BKNG34 distribuiu R$ 0,0345 por BDR em 4 pagamentos, com dividend yield de 0,75%. O último pagamento foi de R$ 0,0087 em 10/09/2026. O valor é pago em dólares e convertido para reais."
+    },
+    {
+      "question": "O que é o BDR BKNG34?",
+      "answer": "O BKNG34 é um BDR não patrocinado nível I da Booking Holdings Inc., cotado na B3 em reais. Ele representa ações da empresa listadas na NASDAQ sob o ticker BKNG. O BDR foi listado na B3 em 08/04/2019."
+    },
+    {
+      "question": "Qual a diferença entre BKNG34 e a ação BKNG?",
+      "answer": "O BKNG34 é o BDR negociado na B3 em reais, enquanto a BKNG é a ação original negociada na NASDAQ em dólares. O preço do BDR acompanha a ação original e a variação do câmbio (dólar/real)."
+    },
+    {
+      "question": "Quais são os riscos do BKNG34?",
+      "answer": "Os riscos incluem a volatilidade da ação original, a exposição ao câmbio e a liquidez do BDR na B3. A volatilidade anualizada nos 12 meses até 30/10/2026 foi de 46,74%, e a maior queda em 5 anos foi de -41,44%."
+    },
+    {
+      "question": "Como a Booking Holdings ganha dinheiro?",
+      "answer": "A Booking Holdings ganha dinheiro principalmente com comissões de reservas de hospedagem, aluguel de carros e passagens aéreas, além de uma pequena parte de publicidade. A empresa opera plataformas como Booking.com, Priceline, Agoda, Kayak e OpenTable."
+    },
+    {
+      "question": "Qual o desempenho do BKNG34 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos do BKNG34 nos 12 meses até 30/10/2026 foi de -25,69%, em reais. Esse número inclui a variação do câmbio."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do BKNG34 lado a lado com o S&P 500, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o BKNG34 chegar ao preço que você escolheu, útil para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o BKNG34 junto com outras posições em uma só visão, com alocação por classe e maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade do BKNG34 e o preço médio da sua posição, com variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de tecnologia listada na NASDAQ, com exposição similar ao câmbio e ao mercado americano."
+      },
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de tecnologia e e-commerce, com exposição ao mercado americano e ao câmbio."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, índice de referência para comparação de desempenho de BDRs."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de tecnologia americana, com exposição similar ao câmbio e ao mercado de tecnologia."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BKNG34",
+      "url": "https://finance.yahoo.com/quote/BKNG34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BOOKING, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51578/BKNG/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Booking Holdings",
+      "url": "https://www.wikidata.org/wiki/Q18674747",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Booking Holdings",
+      "url": "https://en.wikipedia.org/wiki/Booking_Holdings",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Booking Holdings",
+      "url": "https://pt.wikipedia.org/wiki/Booking_Holdings",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

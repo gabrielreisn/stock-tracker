@@ -1,0 +1,298 @@
+{
+  "ticker": "M2ST34",
+  "slug": "m2st34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "M2ST34: BDR da Strategy Inc., bitcoin e volatilidade",
+    "description": "Conheça o M2ST34, BDR da Strategy Inc. (MSTR), maior detentora corporativa de bitcoin.",
+    "h1": "M2ST34: BDR da Strategy Inc. e exposição ao bitcoin",
+    "canonicalPath": "/bdrs/m2st34",
+    "keywords": [
+      "M2ST34",
+      "BDR Strategy Inc",
+      "MSTR B3",
+      "bitcoin BDR",
+      "volatilidade M2ST34",
+      "BDR não patrocinado"
+    ]
+  },
+  "summary": "M2ST34 é o BDR não patrocinado (nível I) da Strategy Inc., empresa americana de software de inteligência de negócios e maior detentora corporativa de bitcoin. Listado na B3 em 14/01/2022, o ativo reflete a ação MSTR na NASDAQ e o câmbio. Em 29/10/2026, cotava a R$ 10,92, com volatilidade anualizada de 82,24% e beta de 3,17 contra o S&P 500.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "MicroStrategy",
+    "legalName": "STRATEGY INC",
+    "ticker": "BVMF M2ST34",
+    "foundingDate": "1989",
+    "website": "https://www.microstrategy.com/",
+    "wikidata": "Q1192211",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1192211",
+      "https://en.wikipedia.org/wiki/MicroStrategy",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58491/M2ST/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "MicroStrategy",
+    "legalName": "STRATEGY INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1989",
+    "listedSince": "14/01/2022",
+    "headquarters": "Tysons Corner",
+    "website": "https://www.microstrategy.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "STRATEGY INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: MSTR",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Tysons Corner",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1989",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "14/01/2022",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 10,92",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "82,24% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original MSTR em dólares)",
+      "value": "3,17",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 29,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "M2ST34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Strategy Inc",
+    "currency": "BRL",
+    "price": 10.92,
+    "historyStarts": "2026-05-27",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.8224,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4632,
+      "from": "2026-05-29",
+      "to": "2026-06-26"
+    },
+    "beta1y": {
+      "value": 3.17,
+      "against": "S&P 500, ação original MSTR em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 29080531
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 12 meses do M2ST34 é de 82,24%, um nível muito alto. O beta da ação original MSTR contra o S&P 500 é de 3,17, o que significa que, historicamente, a ação tende a se mover com amplitude três vezes maior que a do índice, na mesma direção. A maior queda em 5 anos foi de -46,32%, ocorrida entre 29/05/2026 e 26/06/2026. Esses números refletem a forte correlação com o bitcoin e a alavancagem financeira da empresa. Para acompanhar oscilações, o [assistente de IA](/recursos/assistente-de-ia) pode ajudar a analisar a carteira."
+  },
+  "history": {
+    "overview": "Fundada em 1989 por Michael J. Saylor e Sanju Bansal, a MicroStrategy (atual Strategy Inc.) iniciou suas atividades com um contrato de consultoria da DuPont. A empresa desenvolveu software de análise de dados e inteligência de negócios, obtendo seu primeiro grande cliente, a McDonald's, em 1992. Em 1998, realizou sua oferta inicial de ações (IPO) na NASDAQ. No ano 2000, enfrentou uma crise contábil que resultou em multas da SEC e na queda de 62% de sua ação em um único dia, marcando o estouro da bolha dot-com. Em 2020, a empresa mudou sua estratégia financeira ao investir US$ 250 milhões em bitcoin como reserva de tesouraria, tornando-se, até 2025, a maior detentora corporativa do ativo. Em 2022, Saylor deixou a presidência executiva para focar na aquisição de criptomoedas, sendo sucedido por Phong Le. Em 2024, a empresa e Saylor fecharam um acordo de US$ 40 milhões com o Distrito de Columbia por questões tributárias.",
+    "timeline": [
+      {
+        "date": "1989",
+        "event": "Fundação da MicroStrategy por Michael J. Saylor e Sanju Bansal.",
+        "source": 2
+      },
+      {
+        "date": "1992",
+        "event": "Assinatura de um contrato de US$ 10 milhões com a McDonald's.",
+        "source": 3
+      },
+      {
+        "date": "1998-06-11",
+        "event": "Realização do IPO na NASDAQ, com venda de 36 milhões de ações a US$ 6 cada.",
+        "source": 3
+      },
+      {
+        "date": "2000-03-20",
+        "event": "Anúncio de revisão de resultados contábeis, resultando em queda de 62% da ação em um dia.",
+        "source": 3
+      },
+      {
+        "date": "2000-12",
+        "event": "Acordo com a SEC, com pagamento de multas e ressarcimento por executivos.",
+        "source": 3
+      },
+      {
+        "date": "2020-08",
+        "event": "Primeiro investimento de US$ 250 milhões em bitcoin como reserva de tesouraria.",
+        "source": 3
+      },
+      {
+        "date": "2022-01-14",
+        "event": "Listagem do BDR M2ST34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2022-08-08",
+        "event": "Michael Saylor deixa a presidência executiva, sendo sucedido por Phong Le.",
+        "source": 3
+      },
+      {
+        "date": "2024-06",
+        "event": "Acordo de US$ 40 milhões com o Distrito de Columbia por questões tributárias.",
+        "source": 3
+      },
+      {
+        "date": "2025-11-17",
+        "event": "Relatório indicando que a empresa detinha mais de 650.000 bitcoins.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a MicroStrategy ganha dinheiro",
+      "body": "A Strategy Inc. (anteriormente MicroStrategy) é uma empresa americana sediada em Tysons Corner, Virgínia, que desenvolve software de inteligência de negócios (BI) e aplicativos móveis para análise de dados. A empresa foi fundada em 1989 e possui 1.539 funcionários (dados de 31/12/2025). Desde 2020, a estratégia financeira da empresa se destaca pela aquisição de bitcoin como reserva de tesouraria. Em 17/11/2025, a empresa reportava a posse de mais de 650.000 bitcoins, avaliados em aproximadamente US$ 59,69 bilhões, sendo a maior detentora corporativa do ativo."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR M2ST34",
+      "body": "O M2ST34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele funciona como um recibo que representa ações da Strategy Inc. (ticker MSTR) listadas na NASDAQ. O BDR foi listado na B3 em 14/01/2022. O preço do M2ST34 acompanha a variação da ação original em dólares e a cotação do câmbio (dólar para real). Por ser não patrocinado, a emissão é feita por uma instituição depositária e não há envolvimento direto da empresa emissora na gestão do programa."
+    },
+    {
+      "id": "proventos",
+      "heading": "M2ST34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, o M2ST34 não distribuiu proventos (dividendos ou juros sobre capital próprio). A empresa não possui histórico recente de pagamentos a acionistas, focando seus recursos na aquisição de bitcoin. Caso a empresa distribua proventos no futuro, o valor será convertido para reais conforme a cotação do câmbio na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do M2ST34",
+      "body": "Em 29/10/2026, o M2ST34 estava cotado a R$ 10,92. A rentabilidade total com proventos não foi especificada nos dados disponíveis. O desempenho do BDR em reais reflete a variação da ação MSTR em dólares e a oscilação do câmbio. Para analisar o comportamento do ativo em relação a benchmarks, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade ao lado do S&P 500 e do CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do M2ST34",
+      "body": "O M2ST34 apresenta riscos elevados devido à exposição à volatilidade do bitcoin e à ação original MSTR. A volatilidade anualizada de 12 meses é de 82,24%, classificada como muito alta. O beta da ação original contra o S&P 500 é de 3,17, indicando movimentos amplificados em relação ao índice. A maior queda em 5 anos foi de -46,32%, entre 29/05/2026 e 26/06/2026. Há também risco cambial, pois o BDR é cotado em reais, e risco de liquidez, com volume médio diário de R$ 29,1 milhões nos últimos 3 meses. Investidores podem usar [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "M2ST34 paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 29/10/2026, o M2ST34 não distribuiu proventos. A empresa não possui histórico recente de pagamentos a acionistas, priorizando a aquisição de bitcoin."
+    },
+    {
+      "question": "Qual a diferença entre M2ST34 e MSTR?",
+      "answer": "M2ST34 é o BDR negociado na B3 em reais, enquanto MSTR é a ação original negociada na NASDAQ em dólares. O M2ST34 reflete o preço do MSTR e a cotação do câmbio."
+    },
+    {
+      "question": "M2ST34 é um BDR patrocinado?",
+      "answer": "Não. O M2ST34 é um BDR não patrocinado de nível I, o que significa que a emissão é feita por uma instituição depositária sem envolvimento direto da Strategy Inc."
+    },
+    {
+      "question": "Qual o risco cambial do M2ST34?",
+      "answer": "O M2ST34 é cotado em reais, mas lastreado em uma ação americana em dólares. Portanto, o investidor está exposto à variação do câmbio, além da volatilidade da ação MSTR."
+    },
+    {
+      "question": "Como acompanhar a volatilidade do M2ST34?",
+      "answer": "A volatilidade anualizada de 12 meses é de 82,24%. O [app](/recursos/alertas-de-preco) permite configurar alertas de preço para monitorar oscilações e movimentos de mercado."
+    },
+    {
+      "question": "O que a Strategy Inc. faz?",
+      "answer": "A Strategy Inc. desenvolve software de inteligência de negócios e, desde 2020, atua como maior detentora corporativa de bitcoin, com mais de 650.000 unidades em 17/11/2025."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Permite visualizar a rentabilidade do M2ST34 ao lado do S&P 500 e do CDI, ajudando a entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Notifica o investidor quando o M2ST34 atinge um preço específico, útil para monitorar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Permite perguntar em português sobre a posição em M2ST34, com respostas baseadas nos dados da própria carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IBIT",
+        "list": "us-etfs",
+        "reason": "ETF de bitcoin, para comparação com a exposição direta à criptomoeda."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia com alta volatilidade, para comparação de risco."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "BDR de empresa com forte exposição a riscos de mercado e volatilidade elevada."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de M2ST34",
+      "url": "https://finance.yahoo.com/quote/M2ST34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: STRATEGY INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58491/M2ST/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: MicroStrategy",
+      "url": "https://www.wikidata.org/wiki/Q1192211",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MicroStrategy",
+      "url": "https://en.wikipedia.org/wiki/MicroStrategy",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,292 @@
+{
+  "ticker": "PYPL34",
+  "slug": "pypl34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "PYPL34: BDR da PayPal, história e desempenho",
+    "description": "PYPL34 é o BDR da PayPal na B3. Veja a história da empresa, como funciona o BDR, proventos, riscos e desempenho em reais até 30/10/2026.",
+    "h1": "PYPL34: BDR da PayPal na B3",
+    "canonicalPath": "/bdrs/pypl34",
+    "keywords": [
+      "PYPL34",
+      "BDR PayPal",
+      "PayPal B3",
+      "PYPL34 dividendos",
+      "PYPL34 volatilidade",
+      "BDR não patrocinado",
+      "PayPal Holdings"
+    ]
+  },
+  "summary": "PYPL34 é o BDR não patrocinado nível I da PayPal Holdings Inc., empresa americana de tecnologia financeira que opera um sistema de pagamentos online. Negociado na B3 desde 10/04/2019, o recibo representa ações da empresa listada na Nasdaq sob o ticker PYPL. Em 30/10/2026, o BDR cotava a R$ 15,51, com rentabilidade total de -14,29% nos últimos 12 meses, incluindo a variação cambial.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "PayPal",
+    "legalName": "PAYPAL HOLDINGS INC",
+    "ticker": "BVMF PYPL34",
+    "foundingDate": "1998-12",
+    "website": "https://www.paypal.com/",
+    "wikidata": "Q483959",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q483959",
+      "https://en.wikipedia.org/wiki/PayPal",
+      "https://pt.wikipedia.org/wiki/PayPal",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52043/PYPL/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "PayPal",
+    "legalName": "PAYPAL HOLDINGS INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "12/1998",
+    "listedSince": "10/04/2019",
+    "website": "https://www.paypal.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "PAYPAL HOLDINGS INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Fundação",
+      "value": "12/1998",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "10/04/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 15,51",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "49,13% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,66%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 511.943,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PYPL34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "PayPal Holdings, Inc.",
+    "currency": "BRL",
+    "price": 15.51,
+    "historyStarts": "2019-06-17",
+    "returns": {
+      "1y": -0.1429,
+      "3y": 0.2185,
+      "5y": -0.7607,
+      "10y": null
+    },
+    "volatility1y": 0.4913,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8436,
+      "from": "2021-11-01",
+      "to": "2026-02-12"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.1031,
+      "payments12Months": 4,
+      "yield12Months": 0.0066,
+      "lastPayment": {
+        "date": "2026-09-03",
+        "amount": 0.025542
+      }
+    },
+    "avgDailyTradedValue3m": 511943
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do PYPL34 nos últimos 12 meses foi de 49,13%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -84,36%, do pico em 01/11/2021 ao ponto mais baixo em 12/02/2026. O beta do BDR não está disponível nos dados fornecidos, o que impede a comparação direta com a sensibilidade ao índice de referência. A volatilidade elevada reflete a exposição a ações de tecnologia financeira, que historicamente apresentam oscilações maiores que o mercado geral. O volume médio diário de R$ 511.943,00 indica liquidez moderada, o que pode impactar a execução de ordens em grandes volumes."
+  },
+  "history": {
+    "overview": "A PayPal Holdings Inc. tem origem em dezembro de 1998, quando Max Levchin, Peter Thiel, Luke Nosek e Ken Howery fundaram a Confinity, inicialmente focada em software de segurança para dispositivos móveis. Sem sucesso nesse modelo, a empresa direcionou esforços para uma carteira digital e lançou a primeira versão do sistema de pagamentos PayPal em 1999. Em março de 2000, a Confinity se fundiu com a X.com, fundada por Elon Musk, e a entidade resultante passou a se chamar PayPal em junho de 2001. A empresa realizou sua oferta pública inicial (IPO) na Nasdaq em 2002 a US$ 13 por ação, captando mais de US$ 61 milhões. Pouco depois, em outubro de 2002, o eBay adquiriu a PayPal por US$ 1,5 bilhão em ações, tornando-a subsidiária integral. Durante esse período, a PayPal expandiu seus serviços para além do eBay, incluindo aquisições como a VeriSign em 2005 e a Bill Me Later em 2008. Em 2015, o eBay desmembrou a PayPal, que voltou a ser uma empresa independente e foi relistada na Nasdaq em julho daquele ano. O BDR PYPL34 passou a ser negociado na B3 em 10/04/2019, permitindo a exposição de investidores brasileiros à ação original em reais.",
+    "timeline": [
+      {
+        "date": "1998-12",
+        "event": "Fundação da Confinity, predecessora da PayPal, por Max Levchin, Peter Thiel, Luke Nosek e Ken Howery.",
+        "source": 2
+      },
+      {
+        "date": "2000-03",
+        "event": "Fusão entre a Confinity e a X.com, resultando na formação da empresa que se tornaria a PayPal.",
+        "source": 3
+      },
+      {
+        "date": "2002-10-03",
+        "event": "O eBay adquire a PayPal por US$ 1,5 bilhão em ações, tornando-a subsidiária integral.",
+        "source": 3
+      },
+      {
+        "date": "2015-07-18",
+        "event": "Conclusão do desmembramento (spin-off) da PayPal pelo eBay, retornando ao status de empresa independente.",
+        "source": 3
+      },
+      {
+        "date": "2019-04-10",
+        "event": "Listagem do BDR PYPL34 na B3, permitindo a negociação do recibo em reais no mercado brasileiro.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a PayPal ganha dinheiro",
+      "body": "A PayPal Holdings Inc. é uma empresa multinacional americana de tecnologia financeira que opera um sistema de pagamentos online em diversos países que suportam transferências de dinheiro. A empresa atua como processadora de pagamentos para vendedores online, sites de leilões e outros usuários comerciais, cobrando uma taxa por transação. Ela oferece uma alternativa eletrônica a métodos tradicionais de papel, como cheques e ordens de pagamento. A empresa também possui serviços de transferência internacional, como o Xoom, adquirido em 2015, e plataformas de pagamento entre pessoas, como o PayPal.Me, lançado em 2015. Em 2020, a PayPal anunciou a permissão para compra, venda e custódia de criptomoedas em sua plataforma."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR PYPL34",
+      "body": "O PYPL34 é um BDR não patrocinado de nível I, o que significa que é um recibo negociado na B3, em reais, lastreado em ações da PayPal Holdings Inc. listadas na Nasdaq sob o ticker PYPL. O BDR é emitido por uma instituição depositária e não é patrocinado pela própria empresa. O preço do BDR acompanha a cotação da ação original nos Estados Unidos e a variação do câmbio entre o dólar e o real. O BDR PYPL34 está listado na B3 desde 10/04/2019, conforme dados da B3."
+    },
+    {
+      "id": "proventos",
+      "heading": "PYPL34 paga dividendos?",
+      "body": "A PayPal paga dividendos, que chegam ao investidor do BDR em reais após a conversão cambial. Nos 12 meses até 30/10/2026, o PYPL34 distribuiu R$ 0,1031 por BDR em 4 pagamentos, resultando em um dividend yield de 0,66%. O último pagamento registrado foi de R$ 0,0255 em 03/09/2026. Os valores são convertidos da moeda original da empresa (dólar) para reais, o que significa que a variação cambial impacta o valor recebido pelo investidor brasileiro."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do PYPL34",
+      "body": "Até 30/10/2026, o PYPL34 apresentou rentabilidade total com proventos de -14,29% nos últimos 12 meses, 21,85% em 3 anos e -76,07% em 5 anos. Esses números incluem a variação do câmbio entre o dólar e o real, além dos proventos recebidos. A comparação com índices como o S&P 500 ou o CDI pode ser feita no app, permitindo avaliar o desempenho do BDR em relação a outras referências de mercado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do PYPL34",
+      "body": "O principal risco do PYPL34 é o risco cambial, pois o BDR é lastreado em ações negociadas em dólares e cotado em reais. Qualquer variação no câmbio impacta diretamente o valor do BDR. A volatilidade anualizada do BDR nos últimos 12 meses foi de 49,13%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -84,36%, do pico em 01/11/2021 ao ponto mais baixo em 12/02/2026. A liquidez do BDR na B3 é limitada, com volume médio diário de R$ 511.943,00 nos últimos 3 meses, o que pode afetar a execução de ordens em grandes volumes. Além disso, a empresa opera em um setor competitivo, com concorrentes como Visa, Mastercard e outras plataformas de pagamento."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar PYPL34 no app",
+      "body": "Para quem tem PYPL34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio): Veja a rentabilidade do PYPL34 e o preço médio da sua posição, com gráficos que permitem medir períodos específicos.\n- [comparação com índices no app](/recursos/comparacao-com-indices): Compare a rentabilidade do PYPL34 com o S&P 500 e o CDI, no mesmo gráfico, para avaliar o desempenho em relação a outras referências.\n- [alertas de preço no app](/recursos/alertas-de-preco): Configure alertas de preço para o PYPL34 e receba notificações quando o ativo atingir o valor que você escolheu.\n- [carteira consolidada no app](/recursos/carteira-consolidada): Veja o PYPL34 junto com seus outros ativos, com alocação por classe e as maiores posições, em uma visão única."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PYPL34 paga dividendos?",
+      "answer": "Sim, a PayPal paga dividendos, que chegam ao investidor do BDR em reais após a conversão cambial. Nos 12 meses até 30/10/2026, o PYPL34 distribuiu R$ 0,1031 por BDR em 4 pagamentos, com dividend yield de 0,66%. O último pagamento foi de R$ 0,0255 em 03/09/2026."
+    },
+    {
+      "question": "Qual a diferença entre PYPL34 e a ação PYPL?",
+      "answer": "O PYPL34 é o BDR negociado na B3, em reais, que representa a ação PYPL da PayPal listada na Nasdaq. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o dólar e o real. O BDR permite a exposição à ação americana sem a necessidade de uma conta no exterior."
+    },
+    {
+      "question": "PYPL34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O PYPL34 é um BDR não patrocinado de nível I, o que significa que é emitido por uma instituição depositária e não é patrocinado pela própria PayPal. Isso pode implicar em menor transparência e liquidez em comparação com BDRs patrocinados."
+    },
+    {
+      "question": "Qual o risco cambial do PYPL34?",
+      "answer": "O risco cambial é um dos principais riscos do PYPL34, pois o BDR é lastreado em ações negociadas em dólares e cotado em reais. Qualquer variação no câmbio impacta diretamente o valor do BDR. A volatilidade anualizada de 49,13% nos últimos 12 meses reflete essa exposição."
+    },
+    {
+      "question": "Como a PayPal ganha dinheiro?",
+      "answer": "A PayPal ganha dinheiro cobrando taxas por transações de pagamento online para vendedores, sites de leilões e outros usuários comerciais. A empresa também oferece serviços de transferência internacional, como o Xoom, e plataformas de pagamento entre pessoas, como o PayPal.Me."
+    },
+    {
+      "question": "Qual a liquidez do PYPL34 na B3?",
+      "answer": "O volume médio diário do PYPL34 nos últimos 3 meses foi de R$ 511.943,00, o que indica liquidez moderada. Isso pode impactar a execução de ordens em grandes volumes, especialmente em momentos de alta volatilidade."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Veja a rentabilidade do PYPL34 e o preço médio da sua posição, com gráficos que permitem medir períodos específicos."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices no app",
+        "context": "Compare a rentabilidade do PYPL34 com o S&P 500 e o CDI, no mesmo gráfico, para avaliar o desempenho em relação a outras referências."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço no app",
+        "context": "Configure alertas de preço para o PYPL34 e receba notificações quando o ativo atingir o valor que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada no app",
+        "context": "Veja o PYPL34 junto com seus outros ativos, com alocação por classe e as maiores posições, em uma visão única."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VISA34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de pagamentos, com exposição semelhante ao setor de tecnologia financeira."
+      },
+      {
+        "ticker": "MSCD34",
+        "list": "bdrs",
+        "reason": "BDR da Mastercard, concorrente direta da PayPal no mercado de pagamentos."
+      },
+      {
+        "ticker": "PAGS34",
+        "list": "bdrs",
+        "reason": "BDR da PagSeguro, empresa brasileira de tecnologia financeira, com exposição ao setor de pagamentos no Brasil."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho com o índice americano, relevante para BDRs de empresas dos EUA."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PYPL34",
+      "url": "https://finance.yahoo.com/quote/PYPL34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: PAYPAL HOLD, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52043/PYPL/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: PayPal",
+      "url": "https://www.wikidata.org/wiki/Q483959",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): PayPal",
+      "url": "https://en.wikipedia.org/wiki/PayPal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): PayPal",
+      "url": "https://pt.wikipedia.org/wiki/PayPal",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,289 @@
+{
+  "ticker": "MTUM",
+  "slug": "mtum",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MTUM: história, desempenho e riscos",
+    "description": "Conheça o iShares MSCI USA Momentum Factor ETF (MTUM): estratégia de momentum, desempenho até 30/10/2026, volatilidade e como investir do Brasil.",
+    "h1": "MTUM: iShares MSCI USA Momentum Factor ETF",
+    "canonicalPath": "/etfs/mtum",
+    "keywords": [
+      "MTUM",
+      "iShares MSCI USA Momentum Factor ETF",
+      "ETF momentum",
+      "investir em MTUM",
+      "desempenho MTUM",
+      "volatilidade MTUM",
+      "estratégia de momentum"
+    ]
+  },
+  "summary": "MTUM é o iShares MSCI USA Momentum Factor ETF, lançado em 18/04/2013 e gerido pela iShares, marca da BlackRock. O fundo replica um índice de ações dos Estados Unidos selecionadas por desempenho recente, seguindo a estratégia de investimento em momentum. Até 30/10/2026, a cota valia US$ 284,10, com rentabilidade total de 12,80% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares MSCI USA Momentum Factor ETF",
+    "ticker": "BATS MTUM",
+    "foundingDate": "2013-04-18",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de fator (momentum)",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "MSCI USA Momentum Factor",
+    "name": "iShares MSCI USA Momentum Factor ETF",
+    "founded": "18/04/2013"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares MSCI USA Momentum Factor ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "18/04/2013",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 284,10",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "27,68% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,66",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,65%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 396,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MTUM",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares MSCI USA Momentum Factor ETF",
+    "currency": "USD",
+    "price": 284.1,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.128,
+      "3y": 1.1255,
+      "5y": 0.5612,
+      "10y": 3.1998
+    },
+    "volatility1y": 0.2768,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3228,
+      "from": "2021-11-03",
+      "to": "2022-06-17"
+    },
+    "beta1y": {
+      "value": 1.66,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.853,
+      "payments12Months": 4,
+      "yield12Months": 0.0065,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.603
+      }
+    },
+    "avgDailyTradedValue3m": 396483771
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do MTUM nos últimos 12 meses foi de 27,68%, um nível considerado alto para um ETF de ações. O beta de 1,66 contra o S&P 500 indica que, em média, o MTUM tende a se mover com 1,66 vezes a amplitude do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -32,28%, ocorrendo entre 03/11/2021 e 17/06/2022. Esses números refletem a natureza cíclica e de alta rotação da estratégia de momentum, que pode gerar retornos elevados em tendências fortes, mas também perdas acentuadas em reversões. Para monitorar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O MTUM faz parte da linha de produtos da iShares, uma marca de fundos de índice da BlackRock. A história da iShares remonta a 1993, quando a State Street lançou o primeiro ETF dos Estados Unidos, o SPDR S&P 500. Em resposta, a Morgan Stanley e a Barclays Global Investors criaram os WEBS (World Equity Benchmark Shares), que mais tarde foram renomeados para iShares MSCI Series. Em 2000, a Barclays investiu fortemente no crescimento do mercado de ETFs, lançando mais de 40 novos fundos sob a marca iShares. Em 2009, a BlackRock adquiriu a iShares da Barclays, consolidando sua posição como a maior emissora de ETFs nos Estados Unidos e globalmente. O MTUM, especificamente, começou a ser negociado em 18/04/2013, refletindo a maturidade do mercado de ETFs temáticos e de fatores nos Estados Unidos.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Lançamento do primeiro ETF dos Estados Unidos, o SPDR S&P 500, pela State Street.",
+        "source": 1
+      },
+      {
+        "date": "2000",
+        "event": "Barclays lança mais de 40 novos fundos sob a marca iShares, impulsionando o mercado de ETFs.",
+        "source": 1
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a iShares da Barclays, tornando-se a maior emissora de ETFs globalmente.",
+        "source": 1
+      },
+      {
+        "date": "2013-04-18",
+        "event": "Primeiro pregão das cotas do iShares MSCI USA Momentum Factor ETF (MTUM).",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o MTUM funciona",
+      "body": "O MTUM é um ETF que replica o índice MSCI USA Momentum Factor. A estratégia de momentum consiste em comprar ativos que tiveram alta performance nos últimos três a doze meses e vender aqueles que tiveram baixo desempenho no mesmo período. O fundo é gerido pela iShares, uma marca da BlackRock, e começou a ser negociado em 18/04/2013. Como não é um ETF alavancado ou inverso, não há rebalanceamento diário que cause desvio do múltiplo do índice em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do MTUM",
+      "body": "O MTUM segue o índice MSCI USA Momentum Factor, que seleciona ações dos Estados Unidos com base no seu desempenho recente. A MSCI Inc. é uma empresa americana sediada em Nova York que fornece índices de ações, renda fixa e outros ativos. O índice é licenciado para fundos de índice, como ETFs, que pagam uma taxa pelo uso do índice. A composição exata do índice não é detalhada nas fontes, mas reflete a estratégia de momentum aplicada ao mercado acionário dos Estados Unidos."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no MTUM a partir do Brasil",
+      "body": "Para investir no MTUM a partir do Brasil, é necessário ter uma conta em uma corretora que opere no mercado americano. O ativo é cotado em dólar, o que introduz risco cambial: variações no câmbio podem impactar a rentabilidade em reais. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou estratégias similares, embora a liquidez e a disponibilidade possam variar. O uso de [open-finance](/recursos/open-finance) pode ajudar a conciliar as posições entre corretoras e a carteira no app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MTUM",
+      "body": "Até 30/10/2026, o MTUM apresentou rentabilidade total de 12,80% nos últimos 12 meses, 112,55% em 3 anos e 56,12% em 5 anos. Em 10 anos, a rentabilidade foi de 319,98%. A cota valia US$ 284,10 nessa data. Para comparar esse desempenho com o do S&P 500, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite visualizar a rentabilidade lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MTUM",
+      "body": "O MTUM está sujeito a riscos de mercado, incluindo volatilidade e quedas acentuadas. A volatilidade anualizada nos últimos 12 meses foi de 27,68%, considerada alta. A maior queda nos últimos 5 anos foi de -32,28%, entre 03/11/2021 e 17/06/2022. Estratégias de momentum podem sofrer com reversões bruscas de tendência, o que pode resultar em perdas significativas. O beta de 1,66 contra o S&P 500 indica que o ativo tende a se mover com maior amplitude que o índice, na mesma direção."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o MTUM?",
+      "answer": "MTUM é o iShares MSCI USA Momentum Factor ETF, um fundo que replica um índice de ações dos Estados Unidos selecionadas por desempenho recente. Ele é gerido pela iShares, marca da BlackRock, e começou a ser negociado em 18/04/2013."
+    },
+    {
+      "question": "Qual a estratégia do MTUM?",
+      "answer": "O MTUM segue a estratégia de momentum, que consiste em comprar ativos com alta performance nos últimos três a doze meses e vender aqueles com baixo desempenho. Essa abordagem busca capturar tendências de mercado, mas pode sofrer com reversões bruscas."
+    },
+    {
+      "question": "MTUM é alavancado?",
+      "answer": "Não, o MTUM não é um ETF alavancado ou inverso. Ele replica o índice MSCI USA Momentum Factor sem alavancagem, o que significa que não há rebalanceamento diário que cause desvio do múltiplo do índice em períodos longos."
+    },
+    {
+      "question": "Qual a rentabilidade do MTUM?",
+      "answer": "Até 30/10/2026, o MTUM teve rentabilidade total de 12,80% nos últimos 12 meses, 112,55% em 3 anos e 56,12% em 5 anos. Em 10 anos, a rentabilidade foi de 319,98%. Esses números são em dólar e incluem proventos."
+    },
+    {
+      "question": "Como investir no MTUM do Brasil?",
+      "answer": "Para investir no MTUM, é necessário ter uma conta em uma corretora que opere no mercado americano. O ativo é cotado em dólar, o que introduz risco cambial. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam estratégias similares."
+    },
+    {
+      "question": "Quais os riscos do MTUM?",
+      "answer": "Os riscos incluem volatilidade alta (27,68% nos últimos 12 meses), quedas acentuadas (a maior foi de -32,28% entre 03/11/2021 e 17/06/2022) e a natureza cíclica da estratégia de momentum, que pode gerar perdas em reversões de tendência."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do MTUM junto com outros ativos em uma única visão, com valor por classe e maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do MTUM e o preço médio da sua posição com gráficos interativos."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do MTUM com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o MTUM atingir o preço que você definiu, para monitorar movimentos de volatilidade."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em MTUM e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, o índice de referência para comparação de desempenho do MTUM."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o NASDAQ 100, útil para comparar desempenho em mercados de tecnologia e crescimento."
+      },
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "ETF que replica o Russell 2000, representando pequenas empresas nos Estados Unidos, para comparação de fatores."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o MSCI Brazil, útil para diversificação e comparação com mercados emergentes."
+      },
+      {
+        "ticker": "SCHD",
+        "list": "us-etfs",
+        "reason": "ETF de dividendos dos Estados Unidos, para comparação de estratégias de renda e valor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MTUM",
+      "url": "https://finance.yahoo.com/quote/MTUM/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Momentum investing (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Momentum_investing",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/MSCI",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

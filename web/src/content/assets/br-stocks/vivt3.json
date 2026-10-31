@@ -1,0 +1,410 @@
+{
+  "ticker": "VIVT3",
+  "slug": "vivt3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VIVT3: história, dividendos e volatilidade",
+    "description": "VIVT3 é a ação ordinária da Telefônica Brasil, com dividend yield de 8,35% e volatilidade de 27,65%. Veja história, proventos e desempenho até 30/10/2026.",
+    "h1": "VIVT3: Telefônica Brasil S.A. - Ação Ordinária",
+    "canonicalPath": "/acoes/vivt3",
+    "keywords": [
+      "VIVT3",
+      "Telefônica Brasil",
+      "Vivo",
+      "ação telecomunicações",
+      "dividendos VIVT3",
+      "volatilidade VIVT3",
+      "história Telefônica Brasil"
+    ]
+  },
+  "summary": "VIVT3 é a ação ordinária da Telefônica Brasil S.A., subsidiária do Grupo Telefónica que opera serviços de telecomunicações no Brasil sob a marca Vivo. A companhia, fundada em 1998, atua na prestação de serviços de telefonia fixa e móvel, além de soluções integradas. Em 30/10/2026, a ação estava cotada a R$ 30,75, com dividend yield de 8,35% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Telefônica Brasil",
+    "legalName": "TELEFÔNICA BRASIL S.A.",
+    "ticker": "BVMF VIVT3",
+    "isin": "BRVIVTACNOR0",
+    "taxId": "02.558.157/0001-62",
+    "foundingDate": "1998-05-22",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.telefonica.com.br",
+    "wikidata": "Q20059505",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q20059505",
+      "https://pt.wikipedia.org/wiki/Telef%C3%B4nica_Brasil",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/17671/VIVT/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Telefônica Brasil",
+    "legalName": "TELEFÔNICA BRASIL S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Comunicações",
+    "segment": "Telecomunicações",
+    "founded": "22/05/1998",
+    "listedSince": "21/09/1998",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.telefonica.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "TELEFÔNICA BRASIL S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.558.157/0001-62",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Comunicações / Telecomunicações",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "BOLSA",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "22/05/1998",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "21/09/1998",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "VIVT3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 30,75",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "27,65% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,59",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "8,35%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VIVT3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Telefônica Brasil S.A.",
+    "currency": "BRL",
+    "price": 30.75,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0272,
+      "3y": 0.6537,
+      "5y": 0.8298,
+      "10y": 2.3151
+    },
+    "volatility1y": 0.2765,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3143,
+      "from": "2022-04-06",
+      "to": "2023-01-03"
+    },
+    "beta1y": {
+      "value": 0.59,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 2.5691,
+      "payments12Months": 12,
+      "yield12Months": 0.0835,
+      "lastPayment": {
+        "date": "2026-10-27",
+        "amount": 0.140818
+      }
+    },
+    "avgDailyTradedValue3m": 187425180
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da VIVT3 nos últimos 12 meses é de 27,65%, nível considerado alto para uma ação de telecomunicações. O beta de 0,59 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção. A maior queda em 5 anos foi de -31,43%, entre 06/04/2022 e 03/01/2023. Para acompanhar variações de preço e definir pontos de acompanhamento, os [alertas de preço](/recursos/alertas-de-preco) do app enviam notificações quando o ativo atinge o valor escolhido."
+  },
+  "history": {
+    "overview": "A Telefônica Brasil S.A. foi constituída em 22/05/1998, no contexto da privatização do Sistema Telebrás. O grupo espanhol Telefónica adquiriu a Telesp por R$ 5,78 bilhões, além de licenças de telefonia celular em estados como Rio de Janeiro, Espírito Santo, Bahia e Sergipe. A empresa iniciou cotação na B3 em 21/09/1998. Em 2003, a Telefónica uniu seus ativos de telefonia móvel com a Portugal Telecom para criar a marca Vivo, consolidando sua posição no mercado de telefonia celular. Em 2010, a companhia comprou a participação de 30% da Portugal Telecom na Vivo por US$ 9,75 bilhões, assumindo o controle total da operação móvel. Em 2011, a razão social foi alterada para Telefônica Brasil S/A e a marca Vivo passou a abrigar tanto os serviços fixos quanto os móveis. Em 2014, a aquisição da GVT, avaliada em R$ 22 bilhões, expandiu significativamente a base de clientes e a infraestrutura de banda larga da empresa. Em 2025, a Anatel aprovou a migração do regime de concessão de telefonia fixa para o regime de autorização, com a conclusão do processo em 11/04/2025, exigindo investimentos de R$ 4,5 bilhões em novas redes.",
+    "timeline": [
+      {
+        "date": "1998-05-22",
+        "event": "Constituição da Telefônica Brasil S.A.",
+        "source": 2
+      },
+      {
+        "date": "1998-08-19",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "1998-09-21",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2003",
+        "event": "Criação da marca Vivo a partir da joint-venture com a Portugal Telecom",
+        "source": 4
+      },
+      {
+        "date": "2010",
+        "event": "Aquisição da participação de 30% da Portugal Telecom na Vivo por US$ 9,75 bilhões",
+        "source": 4
+      },
+      {
+        "date": "2011",
+        "event": "Incorporação da subsidiária Vivo e mudança da razão social para Telefônica Brasil S/A",
+        "source": 4
+      },
+      {
+        "date": "2014",
+        "event": "Fechamento da compra da GVT por R$ 22 bilhões",
+        "source": 4
+      },
+      {
+        "date": "2025-12-09",
+        "event": "Fato relevante sobre Redução de Capital",
+        "source": 12
+      },
+      {
+        "date": "2026-02-23",
+        "event": "Criação do Novo Programa de Recompras e encerramento do programa anterior",
+        "source": 11
+      },
+      {
+        "date": "2026-03-12",
+        "event": "Aprovação da Redução de Capital em Assembleia Geral Extraordinária",
+        "source": 9
+      },
+      {
+        "date": "2026-06-16",
+        "event": "Fato relevante sobre Incorporação Fibrasil",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Telefônica Brasil ganha dinheiro",
+      "body": "A Telefônica Brasil S.A. atua na prestação de serviços de telecomunicações, exploração de serviços de valor adicionado e soluções integradas, conforme classificação da B3. A empresa opera no país desde 1998, quando adquiriu companhias regionais na esteira da privatização do Sistema Telebrás. A companhia oferece serviços de telefonia fixa e móvel, além de soluções de banda larga e serviços digitais, utilizando a marca Vivo para abrigar seus produtos fixos e móveis. Em 2025, a empresa concluiu a migração do regime de concessão de telefonia fixa para o regime de autorização, com compromisso de realizar investimentos de R$ 4,5 bilhões em novas redes de telecomunicações até 2028."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Telefônica Brasil",
+      "body": "A VIVT3 é a ação ordinária da Telefônica Brasil S.A., listada no segmento BOLSA da B3. O controle acionário é privado, pertencente ao Grupo Telefónica, de origem espanhola. As ações ordinárias (ON) conferem direito a voto nas assembleias gerais e participação nos lucros, enquanto as ações preferenciais (PN) têm prioridade no recebimento de dividendos e JCP, mas geralmente não possuem direito a voto. A VIVT3 é o código de negociação da ação ordinária da companhia na B3."
+    },
+    {
+      "id": "proventos",
+      "heading": "VIVT3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a VIVT3 distribuiu R$ 2,5691 por ação em 12 pagamentos, resultando em dividend yield de 8,35%. O último provento registrado foi de R$ 0,1408, pago em 27/10/2026. A companhia tem histórico de distribuição de proventos aos acionistas, com pagamentos regulares ao longo do período. No app, é possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade de ações."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da VIVT3",
+      "body": "A rentabilidade total da VIVT3 com proventos foi de -2,72% nos 12 meses até 30/10/2026, 65,37% em 3 anos e 82,98% em 5 anos. Em 10 anos, o retorno acumulado foi de 231,51%. O desempenho do ativo pode ser comparado com índices de referência como o Ibovespa e o CDI na [comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da VIVT3",
+      "body": "A volatilidade anualizada da VIVT3 nos últimos 12 meses foi de 27,65%, classificada como nível alto. A maior queda em 5 anos foi de -31,43%, do pico em 06/04/2022 ao ponto mais baixo em 03/01/2023. O beta de 0,59 contra o Ibovespa indica que os movimentos da ação tendem a ser menores que os do índice, na mesma direção. Riscos setoriais incluem mudanças regulatórias da Anatel, concorrência no mercado de telecomunicações e a necessidade de investimentos em infraestrutura. A [carteira consolidada](/recursos/carteira-consolidada) permite visualizar a alocação de VIVT3 junto a outros ativos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VIVT3 paga dividendos?",
+      "answer": "Sim, a VIVT3 distribui proventos regularmente. Nos 12 meses até 30/10/2026, foram pagos R$ 2,5691 por ação em 12 pagamentos, com dividend yield de 8,35%. O último pagamento foi de R$ 0,1408 em 27/10/2026. No app, é possível ver o histórico completo de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre VIVT3 e VIVT4?",
+      "answer": "VIVT3 é a ação ordinária (ON) da Telefônica Brasil, que confere direito a voto nas assembleias. VIVT4 é a ação preferencial (PN), que tem prioridade no recebimento de dividendos e JCP, mas geralmente não possui direito a voto. Ambas representam participação no capital da mesma empresa."
+    },
+    {
+      "question": "Qual o setor da VIVT3?",
+      "answer": "A VIVT3 está classificada no setor de Comunicações, segmento de Telecomunicações, conforme a B3. A empresa atua na prestação de serviços de telecomunicações, exploração de serviços de valor adicionado e soluções integradas, operando sob a marca Vivo."
+    },
+    {
+      "question": "Quem controla a Telefônica Brasil?",
+      "answer": "O controle acionário da Telefônica Brasil é privado, pertencente ao Grupo Telefónica, de origem espanhola. A empresa é uma subsidiária do grupo no Brasil, operando desde 1998."
+    },
+    {
+      "question": "Qual a rentabilidade da VIVT3 nos últimos 5 anos?",
+      "answer": "A rentabilidade total da VIVT3 com proventos foi de 82,98% em 5 anos até 30/10/2026. O desempenho pode ser comparado com o Ibovespa e outros índices na [comparação com índices](/recursos/comparacao-com-indices) do app."
+    },
+    {
+      "question": "A VIVT3 tem alta volatilidade?",
+      "answer": "Sim, a volatilidade anualizada de 27,65% nos últimos 12 meses é classificada como nível alto. A maior queda em 5 anos foi de -31,43%, entre 06/04/2022 e 03/01/2023. O beta de 0,59 indica movimentos menores que os do Ibovespa, na mesma direção."
+    },
+    {
+      "question": "Como acompanhar a VIVT3 no app?",
+      "answer": "O app permite acompanhar a VIVT3 com [alertas de preço](/recursos/alertas-de-preco) para notificações quando o ativo atinge valores escolhidos, e a [carteira consolidada](/recursos/carteira-consolidada) para visualizar a alocação junto a outros ativos. O [assistente de IA](/recursos/assistente-de-ia) também responde perguntas em português sobre a sua posição."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da VIVT3 com data com e data de pagamento, multiplicados pela sua quantidade de ações."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da VIVT3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a VIVT3 atinge o preço que você escolheu, útil para acompanhar a volatilidade de 27,65%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a alocação da VIVT3 junto a outras ações, fundos e renda fixa em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em VIVT3 e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TIMS3",
+        "list": "br-stocks",
+        "reason": "Concorrente direta no setor de telecomunicações, com ações listadas na B3."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial de outra grande empresa brasileira listada na B3, para comparação de setores."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial de um banco brasileiro, para diversificação de setores na carteira."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária de uma empresa de mineração, para comparação de setores e desempenho."
+      },
+      {
+        "ticker": "B3SA3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária da bolsa brasileira, para acompanhamento do mercado de capitais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VIVT3",
+      "url": "https://finance.yahoo.com/quote/VIVT3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: TELEF BRASIL, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/17671/VIVT/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, TELEFÔNICA BRASIL S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Telefônica Brasil",
+      "url": "https://www.wikidata.org/wiki/Q20059505",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Telefônica Brasil",
+      "url": "https://pt.wikipedia.org/wiki/Telef%C3%B4nica_Brasil",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/07/2026, “Incorporação Fibrasil”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550766&numSequencia=1075472&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/06/2026, “Incorporação Fibrasil”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1535336&numSequencia=1060042&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/05/2026, “Redução de Capital - fim do prazo de oposição de credores”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1522620&numSequencia=1047326&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/03/2026, “Eleição de CFO e DRI”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1496279&numSequencia=1020985&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/03/2026, “Aprovação da Redução de Capital em AGE”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1489826&numSequencia=1014532&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/03/2026, “Transição CFO e DRI”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1485153&numSequencia=1009859&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/02/2026, “Criação do Novo Programa de Recompras||Encerramento do programa de recompra anterior”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1480318&numSequencia=1005024&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/12/2025, “Redução de Capital”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1454978&numSequencia=979690&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

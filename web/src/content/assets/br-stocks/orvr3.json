@@ -1,0 +1,367 @@
+{
+  "ticker": "ORVR3",
+  "slug": "orvr3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ORVR3: história, dividendos e volatilidade",
+    "description": "ORVR3 é a ação ordinária da Orizon Valorização de Resíduos S.A., do setor de saneamento. Veja desempenho, proventos e volatilidade até 30/10/2026.",
+    "h1": "ORVR3: Orizon Valorização de Resíduos S.A.",
+    "canonicalPath": "/acoes/orvr3",
+    "keywords": [
+      "ORVR3",
+      "Orizon Valorização de Resíduos",
+      "ação de saneamento",
+      "ORVR3 dividendos",
+      "ORVR3 volatilidade",
+      "ORVR3 Novo Mercado"
+    ]
+  },
+  "summary": "ORVR3 é a ação ordinária da Orizon Valorização de Resíduos S.A., empresa do setor de utilidade pública focada na gestão de resíduos, biogás e créditos de carbono. Cotada na B3 desde 17/02/2021, a ação fechou a R$ 15,96 em 30/10/2026, com rentabilidade total de 15,32% nos últimos 12 meses e volatilidade anualizada de 42,84%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Orizon Valorização de Resíduos S.A.",
+    "legalName": "ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.",
+    "ticker": "BVMF ORVR3",
+    "isin": "BRORVRACNOR0",
+    "taxId": "11.421.994/0001-36",
+    "foundingDate": "2009-11-30",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "sameAs": [
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25550/ORVR/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Orizon Valorização de Resíduos S.A.",
+    "legalName": "ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Utilidade Pública",
+    "segment": "Água e Saneamento",
+    "founded": "30/11/2009",
+    "listedSince": "17/02/2021",
+    "headquarters": "São Paulo (SP)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "11.421.994/0001-36",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Água e Saneamento",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "30/11/2009",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "17/02/2021",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "ORVR3, ORVR11",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 15,96",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "42,84% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,40",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 63,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ORVR3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Orizon Valorização de Resíduos S.A.",
+    "currency": "BRL",
+    "price": 15.96,
+    "historyStarts": "2021-02-17",
+    "returns": {
+      "1y": 0.1532,
+      "3y": 0.8738,
+      "5y": 1.5408,
+      "10y": null
+    },
+    "volatility1y": 0.4284,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.352,
+      "from": "2022-11-04",
+      "to": "2023-01-03"
+    },
+    "beta1y": {
+      "value": 1.4,
+      "against": "Ibovespa"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 63438200
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da ORVR3 é de 42,84%, nível muito alto, o que indica oscilações significativas no preço. O beta de 1,40 contra o Ibovespa mostra que a ação tende a se mover com maior amplitude que o índice, tanto em alta quanto em baixa. A maior queda em 5 anos foi de -35,20%, entre 04/11/2022 e 03/01/2023. Para gerenciar a exposição a esses movimentos, é possível configurar [alertas de preço](/recursos/alertas-de-preco) e acompanhar a [carteira consolidada](/recursos/carteira-consolidada) para entender o impacto da ORVR3 na alocação total."
+  },
+  "history": {
+    "overview": "A Orizon Valorização de Resíduos S.A. foi constituída em 30/11/2009 e iniciou sua trajetória como companhia aberta em 11/02/2021, com o registro na CVM. As ações começaram a ser negociadas na B3 em 17/02/2021, adotando o segmento de listagem Novo Mercado. A empresa atua na cadeia de gestão de resíduos, incluindo tratamento, destinação final, exploração de biogás e créditos de carbono, além de serviços de engenharia ambiental. Nos últimos anos, a companhia passou por uma fase de expansão e reestruturação. Em 2025, realizou uma oferta pública de ações e celebrou contratos de compra e venda de biometano. O mesmo ano foi marcado por aquisições, como a da G4, e por reorganizações societárias envolvendo incorporação, cisão ou fusão. Em 2026, a Orizon continuou a consolidar sua presença com a aquisição de Rondonópolis e a compra de participação adicional na concessionária Ecourbis, além de um desdobramento de ações e recomposição do conselho de administração em julho.",
+    "timeline": [
+      {
+        "date": "2009-11-30",
+        "event": "Constituição da Orizon Valorização de Resíduos S.A.",
+        "source": 2
+      },
+      {
+        "date": "2021-02-11",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2021-02-17",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-05-09",
+        "event": "Início de Oferta Pública de Ações",
+        "source": 10
+      },
+      {
+        "date": "2025-06-01",
+        "event": "Celebração de Contratos de Compra e Venda de Biometano",
+        "source": 9
+      },
+      {
+        "date": "2025-10-01",
+        "event": "Aquisição G4",
+        "source": 8
+      },
+      {
+        "date": "2025-12-15",
+        "event": "Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia",
+        "source": 7
+      },
+      {
+        "date": "2026-07-10",
+        "event": "Desdobramento de Ações e Recomposição do Conselho de Administração",
+        "source": 5
+      },
+      {
+        "date": "2026-08-13",
+        "event": "Aquisição de Rondonópolis",
+        "source": 4
+      },
+      {
+        "date": "2026-08-18",
+        "event": "Aquisição de participação adicional na concessionária Ecourbis",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Orizon Valorização de Resíduos S.A. ganha dinheiro",
+      "body": "A Orizon Valorização de Resíduos S.A. atua na cadeia de gestão de resíduos, com foco em tratamento e destinação final. A empresa também explora biogás, energia e créditos de carbono, além de realizar o beneficiamento de resíduos e oferecer serviços de engenharia ambiental. A companhia está classificada no setor de Utilidade Pública, segmento de Água e Saneamento, na B3. Em 2025, a Orizon celebrou contratos de compra e venda de biometano, ampliando sua atuação nesse segmento. Aquisições recentes, como a da G4 em outubro de 2025, a de Rondonópolis em agosto de 2026 e a participação adicional na Ecourbis, também em agosto de 2026, indicam uma estratégia de crescimento por meio de aquisições."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Orizon Valorização de Resíduos S.A.",
+      "body": "O controle acionário da Orizon é privado, conforme o cadastro da CVM. A empresa é listada no segmento Novo Mercado da B3, que exige que todas as ações tenham direito a voto e que não haja ações com controle diferenciado. Os códigos de negociação são ORVR3 para a ação ordinária e ORVR11 para a unit. A ação ordinária (ON) confere direito a voto em assembleias, enquanto a unit (ORVR11) é um conjunto de ações que pode incluir ações ordinárias e preferenciais, com regras específicas de negociação e liquidez."
+    },
+    {
+      "id": "proventos",
+      "heading": "ORVR3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a ORVR3 não distribuiu proventos, como dividendos ou juros sobre capital próprio (JCP). A ausência de pagamentos recentes não impede que a empresa distribua proventos no futuro, mas o histórico recente não inclui essas remunerações. Para acompanhar eventuais pagamentos, é possível utilizar o recurso de [dividendos e JCP no app](/recursos/proventos), que lista as datas de competência e pagamento com base nos comunicados da B3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da ORVR3",
+      "body": "A ORVR3 apresentou rentabilidade total com proventos de 15,32% nos 12 meses até 30/10/2026, 87,38% em 3 anos e 154,08% em 5 anos. Esses números refletem a variação do preço e a reinvestimento de proventos, quando houver. Para comparar esse desempenho com outros ativos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade da carteira lado a lado com o Ibovespa, CDI e outros referências."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da ORVR3",
+      "body": "A ORVR3 apresenta volatilidade anualizada de 42,84% nos últimos 12 meses, classificada como muito alta. O beta de 1,40 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com maior intensidade. A maior queda nos últimos 5 anos foi de -35,20%, do pico em 04/11/2022 ao ponto mais baixo em 03/01/2023. Riscos setoriais incluem a dependência de contratos de concessão, mudanças regulatórias e a capacidade de execução de aquisições. A alta volatilidade pode ser acompanhada por meio de [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge níveis específicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ORVR3 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, a ORVR3 não distribuiu proventos. A empresa pode pagar dividendos ou JCP no futuro, mas o histórico recente não inclui esses pagamentos. Para acompanhar, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre ORVR3 e ORVR11?",
+      "answer": "ORVR3 é a ação ordinária, com direito a voto em assembleias. ORVR11 é a unit, que pode combinar ações ordinárias e preferenciais, com regras específicas de negociação. A ORVR3 é negociada individualmente, enquanto a unit é um pacote."
+    },
+    {
+      "question": "ORVR3 é ação de saneamento?",
+      "answer": "Sim, a Orizon está classificada no setor de Utilidade Pública, segmento de Água e Saneamento, na B3. A empresa atua na gestão de resíduos, biogás e créditos de carbono, além de serviços de engenharia ambiental."
+    },
+    {
+      "question": "Qual a volatilidade da ORVR3?",
+      "answer": "A volatilidade anualizada de 12 meses é de 42,84%, nível muito alto. O beta de 1,40 indica que a ação tende a acompanhar o Ibovespa com maior intensidade. A maior queda em 5 anos foi de -35,20%, entre 04/11/2022 e 03/01/2023."
+    },
+    {
+      "question": "ORVR3 é Novo Mercado?",
+      "answer": "Sim, a Orizon é listada no segmento Novo Mercado da B3, que exige que todas as ações tenham direito a voto e não haja controle diferenciado. Isso impacta a governança e a liquidez das ações."
+    },
+    {
+      "question": "Como acompanhar a ORVR3 no app?",
+      "answer": "É possível usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a posição da ORVR3 na carteira, a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para acompanhar a rentabilidade."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da ORVR3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a ORVR3 chegar ao preço que você escolheu, útil para acompanhar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a ORVR3 junto com outros ativos da sua carteira, com valor por classe e alocação."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da ORVR3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SBSP3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de saneamento, com foco em água e esgoto."
+      },
+      {
+        "ticker": "CSMG3",
+        "list": "br-stocks",
+        "reason": "Ação de saneamento em Minas Gerais, similar ao segmento da Orizon."
+      },
+      {
+        "ticker": "SAPR11",
+        "list": "br-stocks",
+        "reason": "Ação de saneamento no Paraná, com foco em água e esgoto."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Ação de energia, com foco em geração e transmissão, similar ao segmento de biogás da Orizon."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ORVR3",
+      "url": "https://finance.yahoo.com/quote/ORVR3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ORIZON, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25550/ORVR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, ORIZON VALORIZAÇÃO DE RESÍDUOS S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/08/2026, “Aquisição de participação adicional na concessionária Ecourbis”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1558836&numSequencia=1083542&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/08/2026, “Aquisição de Rondonópolis”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1556796&numSequencia=1081502&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/07/2026, “Desdobramento de Ações e Recomposição do Conselho de Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1544153&numSequencia=1068859&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/06/2026, “Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1533891&numSequencia=1058597&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/12/2025, “Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1458387&numSequencia=983099&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/10/2025, “Aquisição G4”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1428128&numSequencia=952840&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/06/2025, “Celebração de Contratos de Compra e Venda de Biometano”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1385363&numSequencia=910075&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/05/2025, “Início de Oferta Pública de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1375829&numSequencia=900541&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

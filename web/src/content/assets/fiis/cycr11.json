@@ -1,0 +1,317 @@
+{
+  "ticker": "CYCR11",
+  "slug": "cycr11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CYCR11: FII de crédito, dividendos e patrimônio",
+    "description": "CYCR11 é FII de papel da Cyrela, com 15,34% de dividend yield e patrimônio de R$ 349,1 mi. Veja história, proventos, volatilidade e riscos do fundo.",
+    "h1": "CYCR11: Cyrela Crédito FII - História, Rendimentos e Riscos",
+    "canonicalPath": "/fiis/cycr11",
+    "keywords": [
+      "CYCR11",
+      "Cyrela Crédito FII",
+      "FII de papel",
+      "CRI",
+      "dividend yield CYCR11",
+      "FII crédito imobiliário",
+      "CYCR11 dividendos",
+      "CYCR11 patrimônio"
+    ]
+  },
+  "summary": "CYCR11 é a cota do Cyrela Crédito - Fundo de Investimento Imobiliário, um FII de papel focado em recebíveis imobiliários como CRIs, debêntures e cotas de outros fundos. O fundo é administrado pelo Banco Genial e gerido pela CY.CAPITAL. Em 09/2026, o patrimônio líquido era de R$ 349,1 milhões, com 16.728 cotistas e valor patrimonial de R$ 9,55 por cota.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Cyrela Crédito - Fundo de Investimento Imobiliário",
+    "legalName": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF CYCR11",
+    "isin": "BRCYCRCTF004",
+    "taxId": "36.501.233/0001-15",
+    "foundingDate": "2019-12-11",
+    "provider": {
+      "name": "BANCO GENIAL S.A.",
+      "url": "https://www.genialinvestimentos.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36501233000115"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "CY.CAPITAL (gestor) e Banco Genial S.A",
+    "name": "Cyrela Crédito - Fundo de Investimento Imobiliário",
+    "legalName": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "11/12/2019",
+    "administrator": "BANCO GENIAL S.A.",
+    "website": "https://www.genialinvestimentos.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "36.501.233/0001-15",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BANCO GENIAL S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "11/12/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 349,1 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "16.728",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,55",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 8,29",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "11,67% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,18",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "15,34%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 700.939,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CYCR11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Cyrela Credito - Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 8.29,
+    "historyStarts": "2024-02-02",
+    "returns": {
+      "1y": 0.1313,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1167,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1906,
+      "from": "2024-08-30",
+      "to": "2025-01-29"
+    },
+    "beta1y": {
+      "value": 0.18,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.272,
+      "payments12Months": 12,
+      "yield12Months": 0.1534,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.106
+      }
+    },
+    "avgDailyTradedValue3m": 700939
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do CYCR11 nos 12 meses até 29/10/2026 foi de 11,67%, nível considerado baixo. O beta de 0,18 contra o Ibovespa mostra que o fundo tende a acompanhar os movimentos do índice em amplitude muito menor, na mesma direção. A maior queda em cinco anos foi de -19,06%, entre 30/08/2024 e 29/01/2025. Para FIIs de papel, essa volatilidade é compatível com a exposição a crédito imobiliário e à taxa de juros. Quem acompanha o ativo pode configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a cota atingir níveis específicos, sem precisar monitorar o gráfico manualmente."
+  },
+  "history": {
+    "overview": "O Cyrela Crédito - Fundo de Investimento Imobiliário (CYCR11) iniciou suas atividades em 11/12/2019, segundo a CVM. O fundo passou a negociar na B3 em novembro de 2021, período em que também realizou ofertas públicas de cotas. Desde então, o CYCR11 realizou cinco ofertas públicas encerradas, com a mais recente em 30/04/2024. A gestão é ativa, com foco em ativos financeiros com lastro imobiliário, como Certificados de Recebíveis Imobiliários (CRI), debêntures e Letras de Crédito Imobiliário (LCI). Em 01/10/2026, o administrador fiduciário foi substituído do Banco Genial S.A. para a Genial Investimentos Corretora de Valores Mobiliários S.A., mudança de caráter organizacional que não alterou a equipe, os sistemas ou a política de investimento do fundo.",
+    "timeline": [
+      {
+        "date": "2019-12-11",
+        "event": "Início das atividades do Cyrela Crédito - Fundo de Investimento Imobiliário",
+        "source": 1
+      },
+      {
+        "date": "2021-11-18",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2022-05-09",
+        "event": "Início de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-10-01",
+        "event": "Substituição do administrador fiduciário para a Genial Investimentos Corretora de Valores Mobiliários S.A.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do CYCR11",
+      "body": "O CYCR11 é um Fundo de Investimento Imobiliário (FII) de papel, com gestão ativa e prazo de duração indeterminado. O objetivo do fundo é auferir ganhos pela aplicação de recursos em ativos financeiros com lastro imobiliário, como Certificados de Recebíveis Imobiliários (CRI), debêntures, Letras de Crédito Imobiliário (LCI), Letras Hipotecárias (LH), cotas de outros FIIs e imóveis comerciais ou projetos residenciais. A gestão é realizada pela CY.CAPITAL, e a administração fiduciária era do Banco Genial S.A. até 01/10/2026, data em que passou para a Genial Investimentos Corretora de Valores Mobiliários S.A., sem alteração na equipe ou na política de investimento. Em 30/09/2026, o fundo tinha aproximadamente 91% do patrimônio líquido alocado, com maior parte das operações de originação própria e localizadas na região Sudeste."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do CYCR11",
+      "body": "Nos 12 meses até 29/10/2026, o CYCR11 distribuiu R$ 1,2720 por cota em 12 pagamentos, resultando em dividend yield de 15,34%. O último pagamento foi de R$ 0,1060 em 01/10/2026. O relatório gerencial de setembro de 2026 destaca uma distribuição de R$ 0,11 por cota naquele mês, com yield anualizado de 16,10%, fruto de uma carteira com taxa média de IPCA + 10,64% a.a. e CDI + 3,95% a.a. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. É possível acompanhar o histórico de proventos e a data de pagamento de cada distribuição na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O CYCR11 realizou cinco ofertas públicas de cotas encerradas, com a primeira em 11/2021 e a mais recente em 04/2024, segundo o FNET da B3. Em 09/2026, o fundo tinha 36.549.445 cotas emitidas, 16.728 cotistas e patrimônio líquido de R$ 349,1 milhões, com valor patrimonial da cota de R$ 9,55. A taxa de administração mensal era de 0,069% sobre o patrimônio, e a taxa de performance é de 20% do que exceder IPCA + média do IMA-B5 do semestre anterior + 1,00% a.a."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do CYCR11",
+      "body": "A rentabilidade total com proventos do CYCR11 nos 12 meses até 29/10/2026 foi de 13,13%. A cota fechou em R$ 8,29 nessa data. O volume médio negociado por dia nos últimos três meses foi de R$ 700.939,00. Para comparar esse desempenho com outros índices de referência, como o IFIX ou o CDI, utilize a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado em um único gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do CYCR11",
+      "body": "Como FII de papel, o CYCR11 está exposto ao risco de crédito dos emissores dos CRIs e debêntures que compõem a carteira, além da sensibilidade à taxa de juros, especialmente para os ativos indexados ao CDI. A volatilidade anualizada do fundo nos 12 meses até 29/10/2026 foi de 11,67%, classificada como baixa. O beta de 0,18 contra o Ibovespa indica que os movimentos do CYCR11 tendem a ser muito menores que os do índice. A maior queda em cinco anos foi de -19,06%, entre 30/08/2024 e 29/01/2025. O relatório gerencial de setembro de 2026 menciona o cenário macroeconômico desafiador, com pressões inflacionárias e juros elevados, que podem afetar a remuneração das carteiras indexadas ao CDI e as condições de financiamento para incorporadoras."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CYCR11 é FII de papel ou de tijolo?",
+      "answer": "CYCR11 é um FII de papel. O fundo investe em ativos financeiros com lastro imobiliário, como CRIs, debêntures, LCIs e cotas de outros FIIs, e não em imóveis físicos diretamente. A estratégia é de gestão ativa, com foco em recebíveis do setor imobiliário."
+    },
+    {
+      "question": "CYCR11 paga dividendos?",
+      "answer": "Sim, o CYCR11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram R$ 1,2720 por cota em 12 pagamentos, com dividend yield de 15,34%. O último pagamento foi de R$ 0,1060 em 01/10/2026. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas."
+    },
+    {
+      "question": "Qual a taxa de administração do CYCR11?",
+      "answer": "A taxa de administração do CYCR11 é de 0,069% ao mês sobre o patrimônio líquido, conforme o informe da CVM de 09/2026. O fundo também possui taxa de performance de 20% do que exceder IPCA + média do IMA-B5 do semestre anterior + 1,00% a.a."
+    },
+    {
+      "question": "Quem administra o CYCR11?",
+      "answer": "A gestão do CYCR11 é feita pela CY.CAPITAL. A administração fiduciária era do Banco Genial S.A. até 01/10/2026, data em que passou para a Genial Investimentos Corretora de Valores Mobiliários S.A., como parte de uma reorganização societária do Grupo Genial. A mudança não alterou a equipe, os sistemas ou a política de investimento."
+    },
+    {
+      "question": "Qual o patrimônio do CYCR11?",
+      "answer": "Em 09/2026, o patrimônio líquido do CYCR11 era de R$ 349,1 milhões, com 16.728 cotistas e 36.549.445 cotas emitidas. O valor patrimonial da cota era de R$ 9,55 nessa data."
+    },
+    {
+      "question": "CYCR11 é isento de imposto de renda?",
+      "answer": "Sim, os rendimentos distribuídos por FIIs, incluindo o CYCR11, são isentos de imposto de renda para pessoas físicas, conforme a legislação brasileira vigente. A isenção se aplica aos proventos distribuídos, não à valorização da cota na revenda."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os 12 pagamentos de R$ 1,2720 por cota nos últimos 12 meses, com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade de 13,13% do CYCR11 com o IFIX, o CDI e o Ibovespa no mesmo gráfico, para avaliar o desempenho relativo do fundo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação no Mac quando a cota do CYCR11 atingir o preço que você definir, útil para acompanhar a volatilidade de 11,67% sem ficar olhando o gráfico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o CYCR11 junto com suas ações, renda fixa e outros FIIs, com a alocação por classe e a maior posição, para entender o peso do fundo na sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de papel com foco em CRIs high yield, do mesmo segmento de crédito imobiliário."
+      },
+      {
+        "ticker": "XPCI11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário com estratégia similar, focado em recebíveis do setor."
+      },
+      {
+        "ticker": "BTCI11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário do BTG Pactual, para comparação de estratégia e desempenho no segmento de papel."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de rendimentos imobiliários com carteira diversificada, útil para comparar alocação e distribuição de proventos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CYCR11",
+      "url": "https://finance.yahoo.com/quote/CYCR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do CYRELA CRÉDITO - FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo CYCR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36501233000115",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do CYCR11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1352533",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do CYCR11, 01/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338017",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

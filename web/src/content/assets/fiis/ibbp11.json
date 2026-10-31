@@ -1,0 +1,335 @@
+{
+  "ticker": "IBBP11",
+  "slug": "ibbp11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IBBP11: FII de logística, patrimônio e rendimentos",
+    "description": "IBBP11 é um FII de tijolo focado em galpões industriais e logísticos. Patrimônio de R$ 997,8 milhões em 09/2026, dividend yield de 11,79% e 98,7% de",
+    "h1": "IBBP11: Invista Brazilian Business Park FII",
+    "canonicalPath": "/fiis/ibbp11",
+    "keywords": [
+      "IBBP11",
+      "Invista Brazilian Business Park FII",
+      "FII logística",
+      "FII indústria",
+      "IBBP11 dividendos",
+      "IBBP11 patrimônio",
+      "FII tijolo logística"
+    ]
+  },
+  "summary": "IBBP11 é a cota do Invista Brazilian Business Park Fundo de Investimento Imobiliário, um FII de tijolo focado em galpões industriais e logísticos de alto padrão. O fundo detém condomínios do Brazilian Business Park (BBP) em São Paulo e Minas Gerais, com 98,7% de ocupação em setembro de 2026. O patrimônio líquido era de R$ 997,8 milhões em 09/2026, e a cota fechou a R$ 8,02 em 29/10/2026, com dividend yield de 11,79% nos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Invista Brazilian Business Park Fundo de Investimento Imobiliário",
+    "legalName": "INVISTA BRAZILIAN BUSINESS PARK FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF IBBP11",
+    "isin": "BRIBBPCTF005",
+    "taxId": "52.551.605/0001-74",
+    "foundingDate": "2024-05-28",
+    "provider": {
+      "name": "VÓRTX DTVM LTDA",
+      "url": "https://www.vortx.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=52551605000174"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, logística e indústria",
+    "issuerOrManager": "inVista Real Estate (gestora), Vórtx DTVM (administradora) [1, 4, 5]",
+    "name": "Invista Brazilian Business Park Fundo de Investimento Imobiliário",
+    "legalName": "INVISTA BRAZILIAN BUSINESS PARK FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "28/05/2024",
+    "administrator": "VÓRTX DTVM LTDA",
+    "website": "https://www.vortx.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "INVISTA BRAZILIAN BUSINESS PARK FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "52.551.605/0001-74",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Definida",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "VÓRTX DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "28/05/2024",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 997,8 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "871",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,33",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 8,02",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "102,08% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,18",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,79%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 639.396,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IBBP11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Invista Brazilian Business Park Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 8.02,
+    "historyStarts": "2024-12-19",
+    "returns": {
+      "1y": 0.1393,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 1.0208,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4549,
+      "from": "2025-10-30",
+      "to": "2026-07-31"
+    },
+    "beta1y": {
+      "value": 0.18,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.9458,
+      "payments12Months": 12,
+      "yield12Months": 0.1179,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.0841
+      }
+    },
+    "avgDailyTradedValue3m": 639396
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do IBBP11 nos 12 meses até 29/10/2026 foi de 102,08%, nível classificado como muito alta 0. O beta de 0,18 contra o Ibovespa indica que o ativo costuma acompanhar os movimentos do índice com amplitude menor, na mesma direção 0. A maior queda nos últimos 5 anos foi de -45,49%, do pico em 30/10/2025 ao ponto mais baixo em 31/07/2026 0. Para FIIs de tijolo, a volatilidade pode ser elevada em períodos de estresse de mercado, mas o beta baixo sugere menor sensibilidade aos movimentos do Ibovespa. Para acompanhar a evolução do preço e definir pontos de atenção, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Invista Brazilian Business Park FII (IBBP11) iniciou suas atividades em 28 de maio de 2024, com o objetivo de construir e locar galpões industriais e logísticos desenvolvidos pelo Brazilian Business Park (BBP), uma das maiores incorporadoras de cidades industriais da América Latina, com mais de 30 anos de atuação 3. A estrutura do fundo é híbrida, com classes de cotas ordinárias e sênior, e seu público-alvo inicial foi o investidor qualificado, conforme registro na CVM 1. Desde a fundação, o IBBP11 realizou múltiplas ofertas públicas de distribuição de cotas para captar recursos e expandir seu portfólio, com 7 ofertas encerradas até 29/10/2026, conforme o FNET da B3 2. A 6ª emissão, aprovada em 06/08/2026, tinha valor nominal de R$ 9,42 por cota e montante aproximado de R$ 228 milhões 5. O portfólio concentra-se em ativos de alto padrão com contratos longos e inquilinos de alta qualidade de crédito, o que confere previsibilidade às receitas, segundo o relatório gerencial de setembro de 2026 3.",
+    "timeline": [
+      {
+        "date": "2023-11-09",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2024-05-15",
+        "event": "Encerramento e início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2024-05-28",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2024-10-24",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do IBBP11",
+      "body": "O IBBP11 é um Fundo de Investimento Imobiliário (FII) de tijolo, com foco no segmento de logística e indústria. A gestora é a inVista Real Estate Ltda e a administradora é a Vórtx Distribuidora de Títulos e Valores Mobiliários Ltda [1, 4, 5]. O objetivo do fundo é obter renda e ganho de capital mediante a construção de galpões industriais e logísticos desenvolvidos pelo Brazilian Business Park (BBP) para posterior locação e/ou venda 3. Em setembro de 2026, o portfólio detinha participação nos condomínios Barão de Mauá, Centro Empresarial Atibaia, Complexo Gaia e Extrema/MG, com 248 mil m² de área bruta locável (ABL) construída e 17 mil m² em construção, com previsão de entrega no 4º trimestre de 2026 3. A ocupação física era de 98,7% e a adimplência de 95,5%, com receita pulverizada em 31 inquilinos e vencimento médio dos contratos de 6,7 anos 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do IBBP11",
+      "body": "Nos 12 meses até 29/10/2026, o IBBP11 distribuiu R$ 0,9458 por cota em 12 pagamentos, resultando em dividend yield de 11,79% 0. O último provento foi de R$ 0,0841, pago em 08/10/2026 0. O relatório gerencial de setembro de 2026 informou dividend yield de 11,60% nos 12 meses e 12,41% anualizado para a classe ordinária no mês 3. A tributação de rendimentos de FIIs não é detalhada nas fontes do dossiê. Para acompanhar os pagamentos com data com e data de pagamento, multiplicados pela sua quantidade, utilize a ferramenta de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O IBBP11 realizou 7 ofertas públicas de cotas encerradas até 29/10/2026, conforme o FNET da B3 2. A 6ª emissão, aprovada em 06/08/2026, tinha valor nominal de R$ 9,42 por cota e montante aproximado de R$ 228 milhões 5. Em 09/2026, o patrimônio líquido do fundo era de R$ 997,8 milhões, com 75.370.655 cotas emitidas e valor patrimonial da cota de R$ 9,33 1. O número de cotistas era de 871, conforme o informe da CVM 1, mas o relatório gerencial de setembro de 2026 reportava 2.266 cotistas no total, com 2.262 na classe ordinária e 4 na classe sênior 3. A taxa de administração no mês de 09/2026 era de 0,008% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IBBP11",
+      "body": "A rentabilidade total com proventos do IBBP11 nos 12 meses até 29/10/2026 foi de 13,93% 0. O preço da cota fechou a R$ 8,02 nessa data, com P/VP de 0,87x em relação ao valor patrimonial de R$ 9,33 [0, 3]. Para comparar o desempenho do IBBP11 com o IFIX, CDI e outros índices, utilize a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IBBP11",
+      "body": "O IBBP11 é um FII de tijolo, sujeito a riscos de vacância e inadimplência dos inquilinos, além da sensibilidade à taxa de juros, que afeta o custo de capital e a atratividade de renda fixa 3. A volatilidade anualizada de 12 meses foi de 102,08%, nível classificado como muito alta 0. A maior queda nos últimos 5 anos foi de -45,49%, do pico em 30/10/2025 ao ponto mais baixo em 31/07/2026 0. O beta de 0,18 contra o Ibovespa indica que o ativo costuma acompanhar os movimentos do índice com amplitude menor, na mesma direção 0. Para monitorar oscilações de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "IBBP11 é FII de papel ou de tijolo?",
+      "answer": "IBBP11 é um FII de tijolo, focado em galpões industriais e logísticos de alto padrão 3. O fundo detém condomínios do Brazilian Business Park (BBP) em São Paulo e Minas Gerais, com 98,7% de ocupação em setembro de 2026 3."
+    },
+    {
+      "question": "IBBP11 paga dividendos?",
+      "answer": "Sim, IBBP11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram R$ 0,9458 por cota em 12 pagamentos, com dividend yield de 11,79% 0. O último provento foi de R$ 0,0841, pago em 08/10/2026 0. Para acompanhar os pagamentos, utilize a ferramenta de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual o patrimônio do IBBP11?",
+      "answer": "Em 09/2026, o patrimônio líquido do IBBP11 era de R$ 997,8 milhões, com 75.370.655 cotas emitidas e valor patrimonial da cota de R$ 9,33 1. O relatório gerencial de setembro de 2026 confirmou o mesmo valor de patrimônio 3."
+    },
+    {
+      "question": "Qual a taxa de administração do IBBP11?",
+      "answer": "A taxa de administração do IBBP11 em 09/2026 era de 0,008% sobre o patrimônio, conforme o informe da CVM 1."
+    },
+    {
+      "question": "IBBP11 tem classes de cotas?",
+      "answer": "Sim, o IBBP11 possui classes de cotas ordinárias e sênior 3. Em setembro de 2026, a classe ordinária tinha 703,2 milhões de patrimônio e 2.262 cotistas, enquanto a classe sênior tinha 294,5 milhões de patrimônio e 4 cotistas 3."
+    },
+    {
+      "question": "Qual o segmento do IBBP11?",
+      "answer": "IBBP11 atua no segmento de logística e indústria, com foco em galpões de alto padrão [1, 3]. O portfólio inclui condomínios em São Paulo e Minas Gerais, com inquilinos de alta qualidade de crédito e contratos longos 3."
+    },
+    {
+      "question": "Como acompanhar o IBBP11 no app?",
+      "answer": "Você pode acompanhar o IBBP11 no app com a [carteira consolidada](/recursos/carteira-consolidada), que reúne ações, renda fixa e fundos em uma só visão, e o [assistente de IA](/recursos/assistente-de-ia), que responde perguntas em português sobre a sua carteira, com base nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do IBBP11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IBBP11 com o IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o IBBP11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o IBBP11 junto com suas outras posições, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre o IBBP11 e sua carteira; as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "BTG Pactual Logística FII, outro FII de tijolo no segmento de logística."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "CSHG Logística FII, com foco em ativos logísticos de alto padrão."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "XP Log FII, outro fundo do segmento de logística e indústria."
+      },
+      {
+        "ticker": "VILG11",
+        "list": "fiis",
+        "reason": "Vinci Logística FII, com portfólio de galpões e centros de distribuição."
+      },
+      {
+        "ticker": "GARE11",
+        "list": "fiis",
+        "reason": "Guardian Logística FII, com foco em ativos logísticos e industriais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IBBP11",
+      "url": "https://finance.yahoo.com/quote/IBBP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do INVISTA DESENV VI FII RESP LTDA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo IBBP11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=52551605000174",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do IBBP11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1348113",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do IBBP11, 29/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1362941",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do IBBP11, 06/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1278947",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

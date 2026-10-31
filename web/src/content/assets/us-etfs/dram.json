@@ -1,0 +1,260 @@
+{
+  "ticker": "DRAM",
+  "slug": "dram",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "DRAM: Roundhill Memory ETF, volatilidade e riscos",
+    "description": "Conheça o DRAM, ETF de memória semicondutora da Roundhill, com volatilidade de 86,20% e beta de 4,18.",
+    "h1": "DRAM: Roundhill Memory ETF",
+    "canonicalPath": "/etfs/dram",
+    "keywords": [
+      "DRAM",
+      "Roundhill Memory ETF",
+      "ETF memória semicondutora",
+      "volatilidade DRAM",
+      "beta DRAM",
+      "investir em DRAM do Brasil",
+      "riscos de ETF de semicondutores"
+    ]
+  },
+  "summary": "DRAM é o ticker do Roundhill Memory ETF, lançado em 02/04/2026, que investe em empresas do setor de memória semicondutora. O ativo possui volatilidade anualizada de 86,20% e beta de 4,18 contra o S&P 500 nos 12 meses até 30/10/2026. Com preço de US$ 48,01 na mesma data, o ETF não distribuiu proventos no período e apresenta volume médio diário de US$ 2,06 bilhões.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Roundhill Memory ETF",
+    "ticker": "BATS DRAM",
+    "foundingDate": "2026-04-02",
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de ações de memória semicondutora",
+    "issuerOrManager": "Roundhill",
+    "name": "Roundhill Memory ETF",
+    "founded": "02/04/2026"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Roundhill Memory ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "02/04/2026",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 48,01",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "86,20% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "4,18",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 2,06 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "DRAM",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Roundhill Memory ETF",
+    "currency": "USD",
+    "price": 48.01,
+    "historyStarts": "2026-04-02",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.862,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4444,
+      "from": "2026-06-22",
+      "to": "2026-07-29"
+    },
+    "beta1y": {
+      "value": 4.18,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 2059840345
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do DRAM é de 86,20%, nível considerado muito alto, o que reflete a natureza cíclica e volátil da indústria de semicondutores. O beta de 4,18 contra o S&P 500 indica que, em média, o ativo se move com quatro vezes a amplitude do índice, na mesma direção. Isso não significa que o ativo seja mais volátil que o índice, mas que ele amplifica os movimentos dele. A maior queda em 5 anos foi de -44,44%, entre 22/06/2026 e 29/07/2026, um drawdown severo que exige tolerância a perdas significativas. Para monitorar esses movimentos, os alertas de preço podem ser úteis para acompanhar oscilações."
+  },
+  "history": {
+    "overview": "O Roundhill Memory ETF (DRAM) iniciou suas operações em 02/04/2026, focando no segmento de memória semicondutora, uma classe de dispositivos eletrônicos que armazena dados digitais. A indústria de semicondutores, cujas raízes remontam à invenção do transistor em 1948, é caracterizada por crescimento contínuo, porém cíclico, com alta volatilidade de curto prazo. O setor passou por mudanças estruturais, saindo de um modelo verticalmente integrado para uma cadeia de suprimentos complexa, onde a fabricação e o design são frequentemente terceirizados. A memória semicondutora, incluindo tipos como DRAM e SRAM, substituiu a memória de núcleo magnético na década de 1960 devido a melhor desempenho e menor custo. O lançamento recente do DRAM reflete a demanda por exposição direcionada a esse nicho específico dentro do amplo mercado de tecnologia.",
+    "timeline": [
+      {
+        "date": "1948",
+        "event": "Invenção do transistor por Shockley, Brattain e Bardeen no Bell Labs, marco inicial da indústria de semicondutores.",
+        "source": 2
+      },
+      {
+        "date": "1958",
+        "event": "Jack Kilby e Robert Noyce inventam independentemente o circuito integrado, impulsionando a produção de dispositivos semicondutores.",
+        "source": 2
+      },
+      {
+        "date": "1959",
+        "event": "Mohamed M. Atalla e Dawon Kahng inventam o transistor MOSFET no Bell Labs, viabilizando a memória MOS.",
+        "source": 1
+      },
+      {
+        "date": "1964",
+        "event": "John Schmidt desenvolve a memória MOS na Fairchild Semiconductor, substituindo gradualmente a memória de núcleo magnético.",
+        "source": 1
+      },
+      {
+        "date": "2026-04-02",
+        "event": "Primeiro pregão das cotas do Roundhill Memory ETF (DRAM) na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o DRAM funciona",
+      "body": "O DRAM é um ETF emitido pela Roundhill, com início de negociação em 02/04/2026. O fundo tem como foco o setor de memória semicondutora, que inclui dispositivos como DRAM e SRAM usados para armazenamento de dados digitais. Diferente de ETFs alavancados ou inversos, não há menção nas fontes disponíveis a rebalanceamento diário ou multiplicação de retornos, indicando que se trata de um fundo passivo ou ativo tradicional que busca acompanhar o desempenho de empresas de memória. A ausência de detalhes sobre a taxa de administração ou o índice específico replicado limita a análise de custos, mas a estrutura é a de um veículo de investimento em ações de tecnologia focado em um subsegmento específico."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do DRAM",
+      "body": "As fontes disponíveis não detalham a composição exata do portfólio do DRAM nem o índice específico que ele replica. O contexto indica que o fundo investe em empresas do setor de memória semicondutora, que abrange tecnologias como RAM dinâmica (DRAM), RAM estática (SRAM) e memória não volátil (flash). A indústria de semicondutores é dominada por empresas dos Estados Unidos, Taiwan, Coreia do Sul, Japão e Holanda, o que sugere que o ETF provavelmente tem exposição global a esses mercados, embora a alocação específica não seja confirmada pelo dossiê."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no DRAM a partir do Brasil",
+      "body": "Para investir no DRAM a partir do Brasil, o investidor precisa de uma conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. A compra é feita em dólar, o que introduz risco cambial: variações no câmbio entre o real e o dólar impactam o retorno final em reais. Alternativamente, é possível buscar exposição ao setor de semicondutores ou memória através de BDRs negociados na B3, como o [MUTC34](/bdrs/mutc34) (Micron Technology), que opera no mesmo segmento. A liquidez do DRAM é alta, com volume médio diário de US$ 2,06 bilhões nos últimos 3 meses, facilitando a execução de ordens."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do DRAM",
+      "body": "Até 30/10/2026, o DRAM estava cotado a US$ 48,01. A volatilidade anualizada de 12 meses foi de 86,20%, classificada como muito alta, e o beta contra o S&P 500 foi de 4,18, indicando que o ativo tende a se mover com amplitude quatro vezes maior que o índice de referência. A maior queda em 5 anos foi de -44,44%, ocorrendo entre 22/06/2026 e 29/07/2026. Não houve distribuição de proventos no período. Para comparar esse desempenho com o do mercado americano, utilize a ferramenta de comparação com índices no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do DRAM",
+      "body": "O principal risco do DRAM é a alta volatilidade, com 86,20% anualizada, típica de ativos de tecnologia cíclica. A indústria de semicondutores é conhecida por flutuações de mercado acentuadas no curto prazo, mesmo com crescimento de longo prazo. A queda de -44,44% em menos de um mês ilustra o risco de drawdown significativo. Além disso, o beta de 4,18 contra o S&P 500 significa que o ativo amplifica os movimentos do mercado, tanto para cima quanto para baixo. O risco cambial também se aplica a investidores brasileiros, pois o ativo é cotado em dólar. A concentração em um subsegmento específico (memória) aumenta o risco setorial em comparação com ETFs de tecnologia mais amplos."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar DRAM no app",
+      "body": "Para quem tem DRAM na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Com a volatilidade de 86,20% do DRAM, os alertas de preço ajudam a acompanhar oscilações e definir pontos de entrada ou saída sem precisar monitorar o gráfico o dia todo.\n- [comparação com o S&P 500](/recursos/comparacao-com-indices): Para entender o beta de 4,18 do DRAM, a comparação com o S&P 500 mostra como o ativo se comporta em relação ao mercado americano, destacando a amplificação dos movimentos.\n- [carteira consolidada](/recursos/carteira-consolidada): Ao ter o DRAM na carteira, a visão consolidada permite ver a alocação em ativos de alta volatilidade e como ele se encaixa no portfólio geral, ao lado de outras classes.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): O gráfico de rentabilidade do DRAM, com a possibilidade de medir períodos, ajuda a analisar a volatilidade e o custo médio da posição, especialmente em um ativo com quedas de -44,44%."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O DRAM é um ETF alavancado?",
+      "answer": "Não há informação nas fontes disponíveis que indique que o DRAM seja um ETF alavancado ou inverso. O beta de 4,18 contra o S&P 500 reflete a alta volatilidade do setor de memória semicondutora, não necessariamente alavancagem financeira. ETFs alavancados, como o [SOXL](/etfs/soxl), têm estruturas de rebalanceamento diário que afetam o desempenho em períodos longos, o que não é mencionado para o DRAM."
+    },
+    {
+      "question": "Qual a diferença entre DRAM e SOXL?",
+      "answer": "O DRAM é um ETF da Roundhill focado em memória semicondutora, lançado em 2026, enquanto o SOXL é um ETF alavancado 3x do setor de semicondutores em geral. O DRAM tem beta de 4,18 contra o S&P 500, mas não é alavancado, enquanto o SOXL usa alavancagem diária. A composição do DRAM é mais focada em memória, enquanto o SOXL cobre o setor inteiro de semicondutores."
+    },
+    {
+      "question": "DRAM paga dividendos?",
+      "answer": "Não, o DRAM não distribuiu proventos nos últimos 12 meses até 30/10/2026. A ausência de dividendos é comum em ETFs de crescimento, especialmente em setores de tecnologia onde as empresas reinvestem lucros em pesquisa e desenvolvimento. O investidor deve considerar a rentabilidade total, que inclui a valorização do preço, não apenas proventos."
+    },
+    {
+      "question": "Como investir no DRAM do Brasil?",
+      "answer": "É possível investir no DRAB através de uma corretora que ofereça acesso a mercados internacionais, comprando em dólar. Isso expõe o investidor ao risco cambial. Alternativamente, pode-se buscar exposição ao setor de semicondutores via BDRs na B3, como o MUTC34 (Micron Technology), que opera no mesmo segmento de memória. A liquidez do DRAM é alta, com volume médio diário de US$ 2,06 bilhões."
+    },
+    {
+      "question": "Qual o risco do DRAM?",
+      "answer": "O principal risco é a alta volatilidade, com 86,20% anualizada, e o beta de 4,18 contra o S&P 500, que amplifica os movimentos do mercado. A maior queda em 5 anos foi de -44,44%, entre 22/06/2026 e 29/07/2026. A concentração no setor de memória semicondutora, que é cíclico, aumenta o risco setorial. O risco cambial também se aplica a investidores brasileiros."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Com a volatilidade de 86,20% do DRAM, os alertas de preço ajudam a acompanhar oscilações e definir pontos de entrada ou saída sem precisar monitorar o gráfico o dia todo."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com o S&P 500",
+        "context": "Para entender o beta de 4,18 do DRAM, a comparação com o S&P 500 mostra como o ativo se comporta em relação ao mercado americano, destacando a amplificação dos movimentos."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Ao ter o DRAM na carteira, a visão consolidada permite ver a alocação em ativos de alta volatilidade e como ele se encaixa no portfólio geral, ao lado de outras classes."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "O gráfico de rentabilidade do DRAM, com a possibilidade de medir períodos, ajuda a analisar a volatilidade e o custo médio da posição, especialmente em um ativo com quedas de -44,44%."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 3x do setor de semicondutores, para comparação de estratégia e volatilidade."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores da VanEck, mais amplo que o DRAM, para comparação de exposição setorial."
+      },
+      {
+        "ticker": "MUTC34",
+        "list": "bdrs",
+        "reason": "BDR da Micron Technology, empresa de memória semicondutora, para exposição ao mesmo segmento via B3."
+      },
+      {
+        "ticker": "SOXS",
+        "list": "us-etfs",
+        "reason": "ETF inverso 3x do setor de semicondutores, para estratégias de hedge ou apostas em queda do setor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de DRAM",
+      "url": "https://finance.yahoo.com/quote/DRAM/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Semiconductor memory (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor_memory",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Semiconductor industry (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor_industry",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

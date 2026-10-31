@@ -1,0 +1,403 @@
+{
+  "ticker": "ALPA4",
+  "slug": "alpa4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ALPA4: história, dividendos e volatilidade",
+    "description": "ALPA4 é a ação preferencial da Alpargatas S.A., empresa de calçados controlada pela Itaúsa. Veja história, dividendos, volatilidade e desempenho da ação.",
+    "h1": "ALPA4: Alpargatas S.A. - Ação Preferencial",
+    "canonicalPath": "/acoes/alpa4",
+    "keywords": [
+      "ALPA4",
+      "Alpargatas",
+      "ação preferencial",
+      "dividendos ALPA4",
+      "volatilidade ALPA4",
+      "Havaianas",
+      "Rothy's",
+      "Itaúsa"
+    ]
+  },
+  "summary": "ALPA4 é a ação preferencial da Alpargatas S.A., empresa brasileira do setor de consumo cíclico e calçados, controlada pela Itaúsa. Fundada em 1907, a companhia é detentora da marca Havaianas e possui 48,8% da Rothy's, marca de calçados sustentáveis dos Estados Unidos. Em 30/10/2026, o papel cotava a R$ 12,38, com dividend yield de 14,50% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Alpargatas S.A.",
+    "legalName": "ALPARGATAS SA",
+    "ticker": "BVMF ALPA4",
+    "isin": "BRALPAACNPR7",
+    "taxId": "61.079.117/0001-05",
+    "foundingDate": "1907-04-03",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.alpargatas.com.br",
+    "wikidata": "Q3509859",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q3509859",
+      "https://pt.wikipedia.org/wiki/Alpargatas_S%2FA",
+      "https://en.wikipedia.org/wiki/Alpargatas_S.A.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/10456/ALPA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Alpargatas S.A.",
+    "legalName": "ALPARGATAS SA",
+    "type": "Ação preferencial (PN)",
+    "sector": "Consumo Cíclico",
+    "segment": "Calçados",
+    "founded": "03/04/1907",
+    "listedSince": "20/07/1977",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.alpargatas.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "ALPARGATAS SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "61.079.117/0001-05",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Calçados",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "03/04/1907",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "20/07/1977",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "ALPA3, ALPA4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 12,38",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "50,83% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,21",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,50%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ALPA4",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Alpargatas S.A.",
+    "currency": "BRL",
+    "price": 12.38,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.364,
+      "3y": 0.862,
+      "5y": -0.6165,
+      "10y": 0.8804
+    },
+    "volatility1y": 0.5083,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8599,
+      "from": "2021-11-19",
+      "to": "2024-12-06"
+    },
+    "beta1y": {
+      "value": 1.21,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.7949,
+      "payments12Months": 2,
+      "yield12Months": 0.145,
+      "lastPayment": {
+        "date": "2025-12-17",
+        "amount": 0.540968
+      }
+    },
+    "avgDailyTradedValue3m": 37151705
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da ALPA4 nos últimos 12 meses é de 50,83%, nível classificado como muito alta. O beta da ação contra o Ibovespa é de 1,21, o que significa que a ALPA4 tende a acompanhar os movimentos do índice com maior amplitude. A maior queda nos últimos 5 anos foi de -85,99%, do pico em 19/11/2021 ao ponto mais baixo em 06/12/2024. Para acompanhar as oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) e verificar o desempenho da posição no recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A Alpargatas S.A. tem origem em 1907, quando o escocês Robert Fraser fundou a Fábrica Brasileira de Alpargatas e Calçados no distrito da Mooca, em São Paulo. Na década de 1930, o controle acionário foi transferido para a empresa argentina Alpargatas Argentina. Em 1982, após um processo de nacionalização do capital iniciado em 1948, a companhia passou ao controle do Grupo Camargo Corrêa (atual Mover Participações). Em 1999, a Alpargatas adquiriu mais de 3% da sua antiga controladora argentina, e em 2013 comprou a totalidade das ações da subsidiária, consolidando sua posição no mercado sul-americano de calçados. Em 2015, a empresa vendeu as marcas Topper e Rainha e foi adquirida pelo conglomerado J&F Investimentos por R$ 2,67 bilhões. Em julho de 2017, a Itaúsa, junto com Cambuhy Investimentos e Brasil Warrant, comprou a Alpargatas por R$ 3,5 bilhões, assumindo o controle acionário.",
+    "timeline": [
+      {
+        "date": "1907",
+        "event": "Fundação da empresa com o nome de Fábrica Brasileira de Alpargatas e Calçados",
+        "source": 3
+      },
+      {
+        "date": "1907-04-03",
+        "event": "Constituição da companhia",
+        "source": 2
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Início da cotação das ações na B3 e registro como companhia aberta na CVM",
+        "source": 1
+      },
+      {
+        "date": "2025-06-13",
+        "event": "Mudança do Modelo de Negócios Havaianas Estados Unidos",
+        "source": 13
+      },
+      {
+        "date": "2025-08-07",
+        "event": "Redução de Capital",
+        "source": 12
+      },
+      {
+        "date": "2025-09-10",
+        "event": "Aprovação de Redução de Capital em AGE",
+        "source": 11
+      },
+      {
+        "date": "2025-11-06",
+        "event": "Não exercício de opção de compra",
+        "source": 10
+      },
+      {
+        "date": "2025-11-12",
+        "event": "Redução de Capital - Encerramento do Prazo de Oposição de Credores",
+        "source": 9
+      },
+      {
+        "date": "2025-12-10",
+        "event": "3ª (terceira) emissão de debêntures simples",
+        "source": 8
+      },
+      {
+        "date": "2026-01-28",
+        "event": "Alteração na composição do Conselho de Administração e celebração, alteração ou rescisão de acordo de acionistas",
+        "source": 7
+      },
+      {
+        "date": "2026-09-10",
+        "event": "4ª (quarta) emissão de debêntures simples",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Alpargatas S.A. ganha dinheiro",
+      "body": "A Alpargatas S.A. atua na indústria e no comércio de calçados, vestuário e acessórios, com foco no segmento de calçados. A empresa possui uma cadeia de suprimentos vertical, com quatro unidades fabris no Brasil, e conta com mais de dez mil empregados. Suas principais marcas incluem Havaianas, uma das maiores marcas brasileiras de chinelos de borracha desde 1962, e Rothy's, marca norte-americana de calçados sustentáveis presente apenas nos Estados Unidos, da qual a Alpargatas detém 48,8%."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Alpargatas S.A.",
+      "body": "O controle acionário da Alpargatas é privado, sendo a Itaúsa a controladora ou proprietária da empresa. A companhia está listada no Nível 1 do segmento de listagem da B3. As ações da empresa são negociadas sob os códigos ALPA3 (ação ordinária) e ALPA4 (ação preferencial). A ação ordinária (ALPA3) confere direito a voto nas assembleias gerais, enquanto a ação preferencial (ALPA4) possui preferência no recebimento de dividendos e na liquidação do capital em caso de encerramento da sociedade, mas não possui direito a voto."
+    },
+    {
+      "id": "proventos",
+      "heading": "ALPA4 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a ALPA4 distribuiu R$ 1,7949 por ação em 2 pagamentos, resultando em um dividend yield de 14,50%. O último pagamento registrado foi de R$ 0,5410 em 17/12/2025. É possível acompanhar os dividendos e JCP da ALPA4 com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da ALPA4",
+      "body": "A rentabilidade total com proventos da ALPA4 nos 12 meses até 30/10/2026 foi de 36,40%. No período de 3 anos, a rentabilidade foi de 86,20%, enquanto nos 5 anos foi de -61,65% e nos 10 anos, de 88,04%. Para comparar o desempenho da ALPA4 com índices como o Ibovespa e o CDI, é possível utilizar o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da ALPA4",
+      "body": "A volatilidade anualizada da ALPA4 nos últimos 12 meses é de 50,83%, classificada como muito alta. O beta da ação contra o Ibovespa é de 1,21, indicando que a ação tende a acompanhar os movimentos do índice com maior amplitude. A maior queda nos últimos 5 anos foi de -85,99%, do pico em 19/11/2021 ao ponto mais baixo em 06/12/2024. Riscos gerais do setor de consumo cíclico incluem sensibilidade a ciclos econômicos e variações no consumo de calçados. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar as oscilações da ALPA4."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ALPA4 paga dividendos?",
+      "answer": "Sim, a ALPA4 distribui dividendos. Nos 12 meses até 30/10/2026, a ação pagou R$ 1,7949 por ação em 2 pagamentos, com dividend yield de 14,50%. O último pagamento foi de R$ 0,5410 em 17/12/2025. É possível acompanhar os proventos no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre ALPA3 e ALPA4?",
+      "answer": "ALPA3 é a ação ordinária da Alpargatas, que confere direito a voto nas assembleias gerais. ALPA4 é a ação preferencial, que possui preferência no recebimento de dividendos e na liquidação do capital, mas não possui direito a voto. Ambas são negociadas na B3 sob os códigos ALPA3 e ALPA4."
+    },
+    {
+      "question": "Quem controla a Alpargatas?",
+      "answer": "A Alpargatas é controlada pela Itaúsa. O controle acionário é privado, e a empresa está listada no Nível 1 do segmento de listagem da B3."
+    },
+    {
+      "question": "Qual o setor da Alpargatas?",
+      "answer": "A Alpargatas atua no setor de Consumo Cíclico, segmento de Calçados, com foco na indústria e comércio de calçados, vestuário e acessórios. A empresa é detentora da marca Havaianas e possui 48,8% da Rothy's."
+    },
+    {
+      "question": "Qual a volatilidade da ALPA4?",
+      "answer": "A volatilidade anualizada da ALPA4 nos últimos 12 meses é de 50,83%, nível classificado como muito alta. O beta da ação contra o Ibovespa é de 1,21, indicando que a ação tende a acompanhar os movimentos do índice com maior amplitude. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar as oscilações."
+    },
+    {
+      "question": "Qual a rentabilidade da ALPA4 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos da ALPA4 nos 12 meses até 30/10/2026 foi de 36,40%. Para comparar o desempenho da ação com índices como o Ibovespa e o CDI, é possível utilizar o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da ALPA4 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da ALPA4 com o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para acompanhar as oscilações da ALPA4, que tem volatilidade anualizada de 50,83%."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade da carteira e o preço médio da sua posição em ALPA4."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ALUP11",
+        "list": "br-stocks",
+        "reason": "Alupar Investimento S.A. é uma empresa do setor de consumo cíclico, com foco em calçados e vestuário, similar à Alpargatas."
+      },
+      {
+        "ticker": "VULC3",
+        "list": "br-stocks",
+        "reason": "Vulcabras S.A. é uma empresa do setor de calçados, com foco em calçados de borracha, similar à Alpargatas."
+      },
+      {
+        "ticker": "ITSA4",
+        "list": "br-stocks",
+        "reason": "Itaúsa S.A. é a controladora da Alpargatas, com participação acionária na empresa."
+      },
+      {
+        "ticker": "CEAB3",
+        "list": "br-stocks",
+        "reason": "C&A Modas S.A. é uma empresa do setor de vestuário, com foco em moda, similar à Alpargatas."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ALPA4",
+      "url": "https://finance.yahoo.com/quote/ALPA4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ALPARGATAS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/10456/ALPA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, ALPARGATAS SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Alpargatas S.A.",
+      "url": "https://www.wikidata.org/wiki/Q3509859",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Alpargatas S/A",
+      "url": "https://pt.wikipedia.org/wiki/Alpargatas_S%2FA",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Alpargatas S.A.",
+      "url": "https://en.wikipedia.org/wiki/Alpargatas_S.A.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/09/2026, “4ª (quarta) emissão de debêntures simples”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1567159&numSequencia=1091865&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/01/2026, “Alteração na composição do Conselho de Administração||Celebração, Alteração ou Rescisão de Acordo de Acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1470891&numSequencia=995597&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/12/2025, “3ª (terceira) emissão de debêntures simples”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1455785&numSequencia=980497&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/11/2025, “Redução de Capital - Encerramento do Prazo de Oposição de Credores”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1443752&numSequencia=968464&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/11/2025, “NÃO EXERCÍCIO DE OPÇÃO DE COMPRA”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1441228&numSequencia=965940&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/09/2025, “Aprovação de Redução de Capital em AGE”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1422472&numSequencia=947184&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/08/2025, “REDUÇÃO DE CAPITAL”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1409924&numSequencia=934636&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/06/2025, “Mudança do Modelo de Negócios Havaianas Estados Unidos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1390340&numSequencia=915052&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,342 @@
+{
+  "ticker": "JSRE11",
+  "slug": "jsre11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "JSRE11: FII multicategoria, rendimentos e patrimônio",
+    "description": "JSRE11 é um FII multicategoria do Banco J. Safra, com R$ 2,11 bilhões em patrimônio e dividend yield de 9,99% em 12 meses.",
+    "h1": "JSRE11: JS Real Estate Multigestão FII",
+    "canonicalPath": "/fiis/jsre11",
+    "keywords": [
+      "JSRE11",
+      "JS Real Estate Multigestão FII",
+      "FII multicategoria",
+      "dividend yield JSRE11",
+      "patrimônio JSRE11",
+      "rendimentos JSRE11",
+      "Banco J. Safra FII",
+      "Safra Asset Management"
+    ]
+  },
+  "summary": "JSRE11 é a cota do JS Real Estate Multigestão Fundo de Investimento Imobiliário, um FII multicategoria administrado pelo Banco J. Safra S.A. e gerido pela Safra Asset Management. Com patrimônio líquido de R$ 2,11 bilhões em 09/2026, o fundo combina imóveis corporativos, cotas subordinadas de outros FIIs e títulos públicos. Pagou R$ 5,82 em rendimentos nos 12 meses até 30/10/2026, gerando um dividend yield de 9,99%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Js Real Estate Multigestão Fundo de Investimento Imobiliário",
+    "legalName": "JS REAL ESTATE MULTIGESTÃO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF JSRE11",
+    "isin": "BRJSRECTF007",
+    "taxId": "13.371.132/0001-71",
+    "foundingDate": "2011-06-06",
+    "provider": {
+      "name": "BANCO J SAFRA S.A",
+      "url": "https://www.safra.com.br/sobre/safra-asset/js-real-estate.htm"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=13371132000171"
+    ]
+  },
+  "profile": {
+    "type": "FII multicategoria (híbrido)",
+    "issuerOrManager": "Safra Asset Management (gestor), Banco J",
+    "name": "Js Real Estate Multigestão Fundo de Investimento Imobiliário",
+    "legalName": "JS REAL ESTATE MULTIGESTÃO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "06/06/2011",
+    "administrator": "BANCO J SAFRA S.A",
+    "website": "https://www.safra.com.br/sobre/safra-asset/js-real-estate.htm"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "JS REAL ESTATE MULTIGESTÃO FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "13.371.132/0001-71",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BANCO J SAFRA S.A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "06/06/2011",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 2,11 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "81.821",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 101,50",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 58,27",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "22,69% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,47",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,99%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "JSRE11",
+    "list": "fiis",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "JS Real Estate multigestão - FII fund",
+    "currency": "BRL",
+    "price": 58.27,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0143,
+      "3y": 0.0415,
+      "5y": 0.1917,
+      "10y": -0.1455
+    },
+    "volatility1y": 0.2269,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3047,
+      "from": "2022-10-03",
+      "to": "2025-02-11"
+    },
+    "beta1y": {
+      "value": 0.47,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 5.82,
+      "payments12Months": 12,
+      "yield12Months": 0.0999,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.5
+      }
+    },
+    "avgDailyTradedValue3m": 3847771
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do JSRE11 nos 12 meses até 30/10/2026 foi de 22,69%, classificada como moderada 0. O beta de 0,47 contra o Ibovespa indica que o fundo tende a acompanhar os movimentos do índice com menor intensidade, na mesma direção 0. A maior queda em 5 anos foi de -30,47%, do pico em 03/10/2022 ao ponto mais baixo em 11/02/2025 0. Esse nível de volatilidade é compatível com a exposição a ativos de tijolo e papel, mas a queda expressiva em 2022-2025 reflete o impacto de mudanças no cenário de juros e na demanda por espaços corporativos."
+  },
+  "history": {
+    "overview": "O JS Real Estate Multigestão FII iniciou suas atividades em 06/06/2011, com o objetivo de diversificar a carteira entre diferentes classes de ativos imobiliários e financeiros 1. A estratégia de gestão ativa permite ao fundo alocar recursos em imóveis de tijolo, cotas de outros fundos (fundo de fundos) e renda fixa, buscando equilíbrio entre geração de renda e valorização patrimonial. Em 2018 e 2019, o fundo realizou duas ofertas públicas de cotas para ampliar seu patrimônio e base de investidores 2. Em 2026, o fundo consolidou o investimento no Edifício WTorre Nações Unidas, reforçando sua exposição a ativos corporativos de primeira linha em São Paulo 4. Além disso, celebrou nova subscrição de cotas do JS Renda Imobiliário FII, utilizando frações do Tower Bridge como garantia 5. Essa abordagem híbrida reflete a busca por resiliência em diferentes cenários de mercado, com foco na manutenção da vacância em níveis baixos e na distribuição de rendimentos isentos de imposto de renda.",
+    "timeline": [
+      {
+        "date": "2011-06-06",
+        "event": "Início das atividades do JS Real Estate Multigestão FII.",
+        "source": 1
+      },
+      {
+        "date": "2018-05-03",
+        "event": "Início da primeira oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2018-06-14",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-08-09",
+        "event": "Início da segunda oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2019-09-16",
+        "event": "Encerramento da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2026-03-04",
+        "event": "Celebração de novo documento de subscrição de cotas Subclasse B do JS Renda Imobiliário FII, com transferência de fração do Tower Bridge.",
+        "source": 5
+      },
+      {
+        "date": "2026-07-13",
+        "event": "Consolidação do investimento no Edifício WTorre Nações Unidas, reforçando a estratégia de diversificação em ativos corporativos.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do JSRE11",
+      "body": "O JSRE11 é um FII multicategoria com gestão ativa, administrado pelo Banco J. Safra S.A. e gerido pela Safra Asset Management [1, 3]. A estratégia busca diversificação entre imóveis de tijolo, cotas subordinadas de outros FIIs e títulos públicos. Em 30/09/2026, a carteira era composta por 76,76% em imóveis (Ed. Tower Bridge, Torre Marble e Ebony, Ed. Paulista, Ed. WTNU III e Ed. Praia de Botafogo 440), 18,49% em cotas subordinadas do JS Renda Imobiliário FII, 4,07% em títulos públicos (LFT) e 0,62% em carteira de FIIs 3. O fundo também mantém uma pequena posição em caixa e contas a receber 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do JSRE11",
+      "body": "Nos 12 meses até 30/10/2026, o JSRE11 distribuiu R$ 5,82 por cota em 12 pagamentos, resultando em um dividend yield de 9,99% 0. O último pagamento foi de R$ 0,50 em 01/10/2026 0. O relatório gerencial de setembro/2026 destaca que os rendimentos são isentos de imposto de renda, com base no preço de fechamento da cota de R$ 61,05 3. A projeção do gestor para os meses seguintes mantém a distribuição em R$ 0,50 por cota 3."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O JSRE11 realizou duas ofertas públicas de cotas: a primeira entre 03/05/2018 e 14/06/2018, e a segunda entre 09/08/2019 e 16/09/2019 2. Em 09/2026, o patrimônio líquido era de R$ 2,11 bilhões, com 81.821 cotistas e valor patrimonial da cota de R$ 101,50 1. O número de cotas emitidas era de 20.767.328 1. A taxa de administração no mês era de 0,049% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do JSRE11",
+      "body": "A rentabilidade total do JSRE11 com proventos foi de 1,43% em 12 meses, 4,15% em 3 anos e 19,17% em 5 anos até 30/10/2026 0. No mesmo período, o fundo teve desempenho inferior ao CDI líquido (12,31% em 12 meses) e ao Ibovespa (27,42% em 12 meses), mas superior ao IFIX (4,62% em 12 meses) 3. O valor de mercado do fundo teve alta de 7,95% em 12 meses, enquanto o valor patrimonial teve alta de 5,25% 3."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do JSRE11",
+      "body": "Como FII multicategoria, o JSRE11 está exposto a riscos de vacância nos imóveis de tijolo, crédito nos ativos de papel e variação de juros nos títulos públicos 3. A vacância física do portfólio recuou de 3,9% em agosto para 2,9% em setembro/2026, o menor patamar de 2026 3. A volatilidade anualizada do fundo nos 12 meses até 30/10/2026 foi de 22,69%, nível moderado 0. A maior queda em 5 anos foi de -30,47%, do pico em 03/10/2022 ao ponto mais baixo em 11/02/2025 0. O beta de 0,47 contra o Ibovespa indica que o fundo tende a ter movimentos menores que o índice, na mesma direção 0."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar JSRE11 no app",
+      "body": "Para quem tem JSRE11 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [rendimentos de FIIs no app](/recursos/proventos): Veja os rendimentos do JSRE11 com data de pagamento, multiplicados pela sua quantidade.\n- [comparação com IFIX e CDI](/recursos/comparacao-com-indices): Compare a rentabilidade do JSRE11 com o IFIX, CDI e Ibovespa no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o JSRE11 chegar ao preço que você escolheu.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o JSRE11 junto com suas outras posições, com alocação por classe e valor total."
+    }
+  ],
+  "faq": [
+    {
+      "question": "JSRE11 paga rendimentos mensais?",
+      "answer": "Sim, o JSRE11 distribui rendimentos mensais. Nos 12 meses até 30/10/2026, foram 12 pagamentos, totalizando R$ 5,82 por cota 0. O último pagamento foi de R$ 0,50 em 01/10/2026 0. O relatório gerencial de setembro/2026 projeta a manutenção de R$ 0,50 por cota nos meses seguintes 3."
+    },
+    {
+      "question": "Qual o dividend yield do JSRE11?",
+      "answer": "O dividend yield do JSRE11 nos 12 meses até 30/10/2026 foi de 9,99% 0. O relatório gerencial de setembro/2026 informa um dividend yield de 10,28% ao ano, com base no preço de fechamento da cota de R$ 61,05 3."
+    },
+    {
+      "question": "JSRE11 é FII de papel ou de tijolo?",
+      "answer": "JSRE11 é um FII multicategoria, ou seja, híbrido. Em 30/09/2026, a carteira era composta por 76,76% em imóveis de tijolo, 18,49% em cotas subordinadas de outros FIIs, 4,07% em títulos públicos e 0,62% em carteira de FIIs 3."
+    },
+    {
+      "question": "Quem administra o JSRE11?",
+      "answer": "O JSRE11 é administrado pelo Banco J. Safra S.A. e gerido pela Safra Asset Management [1, 3]. O auditor é a Deloitte 3."
+    },
+    {
+      "question": "Qual o patrimônio do JSRE11?",
+      "answer": "Em 09/2026, o patrimônio líquido do JSRE11 era de R$ 2,11 bilhões, com 81.821 cotistas e valor patrimonial da cota de R$ 101,50 1."
+    },
+    {
+      "question": "JSRE11 é isento de imposto de renda?",
+      "answer": "Sim, os rendimentos distribuídos pelo JSRE11 são isentos de imposto de renda, conforme informado no relatório gerencial de setembro/2026 3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "rendimentos de FIIs no app",
+        "context": "Veja os rendimentos do JSRE11 com data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX e CDI",
+        "context": "Compare a rentabilidade do JSRE11 com o IFIX, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o JSRE11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o JSRE11 junto com suas outras posições, com alocação por classe e valor total."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "JSAF11",
+        "list": "fiis",
+        "reason": "Outro FII da mesma gestora (Safra Asset Management), com foco em ativos financeiros."
+      },
+      {
+        "ticker": "KNRI11",
+        "list": "fiis",
+        "reason": "FII de renda imobiliária, com estratégia similar de diversificação em ativos de tijolo."
+      },
+      {
+        "ticker": "BTRU11",
+        "list": "fiis",
+        "reason": "FII de renda urbana, com exposição a imóveis corporativos em São Paulo."
+      },
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "FII de renda urbana, com foco em ativos de tijolo em áreas centrais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de JSRE11",
+      "url": "https://finance.yahoo.com/quote/JSRE11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do JS REAL ESTATE MULTIGESTÃO FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo JSRE11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=13371132000171",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do JSRE11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1355753",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do JSRE11, 13/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1245997",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do JSRE11, 04/03/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1128137",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

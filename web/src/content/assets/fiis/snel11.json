@@ -1,0 +1,347 @@
+{
+  "ticker": "SNEL11",
+  "slug": "snel11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SNEL11: FII de energia solar, dividendos e patrimônio",
+    "description": "Conheça o SNEL11, FII de geração distribuída solar com 266,2 MWp, patrimônio de R$ 1,81 bi e dividend yield de 15,75%. Veja estratégia, proventos e riscos.",
+    "h1": "SNEL11: Suno Energias Limpas FII",
+    "canonicalPath": "/fiis/snel11",
+    "keywords": [
+      "SNEL11",
+      "Suno Energias Limpas",
+      "FII energia solar",
+      "FII geração distribuída",
+      "dividend yield SNEL11",
+      "patrimônio SNEL11",
+      "QI Tech FII",
+      "FII infraestrutura energia"
+    ]
+  },
+  "summary": "SNEL11 é o Suno Energias Limpas Fundo de Investimento Imobiliário, um FII focado em empreendimentos de geração distribuída de energia solar. O fundo possui 66 projetos com 266,2 MWp de capacidade instalada e patrimônio líquido de R$ 1,81 bilhão em setembro de 2026. Com 141.612 cotistas, o SNEL11 distribui rendimentos mensais, apresentando dividend yield de 15,75% nos 12 meses até 30/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Suno Energias Limpas Fundo de Investimento Imobiliário Is Responsabilidade Limitada",
+    "legalName": "SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILIÁRIO IS RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF SNEL11",
+    "isin": "BRSNELCTF010",
+    "taxId": "43.741.171/0001-84",
+    "foundingDate": "2022-12-23",
+    "provider": {
+      "name": "QI CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A",
+      "url": "https://qitech.com.br/dtvm/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=43741171000184"
+    ]
+  },
+  "profile": {
+    "type": "FII de infraestrutura (energia solar)",
+    "issuerOrManager": "Suno Gestora de Recursos Ltda",
+    "name": "Suno Energias Limpas Fundo de Investimento Imobiliário Is Responsabilidade Limitada",
+    "legalName": "SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILIÁRIO IS RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "23/12/2022",
+    "administrator": "QI CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A",
+    "website": "https://qitech.com.br/dtvm/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILIÁRIO IS RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "43.741.171/0001-84",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "QI CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "23/12/2022",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,81 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "141.612",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 7,99",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 7,62",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "8,84% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,05",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "15,75%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 6,9 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SNEL11",
+    "list": "fiis",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo De Investimento Imobiliario Suno Energias Limpas",
+    "currency": "BRL",
+    "price": 7.62,
+    "historyStarts": "2023-12-14",
+    "returns": {
+      "1y": 0.0452,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.0884,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1519,
+      "from": "2024-03-20",
+      "to": "2024-04-26"
+    },
+    "beta1y": {
+      "value": 0.05,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.2,
+      "payments12Months": 12,
+      "yield12Months": 0.1575,
+      "lastPayment": {
+        "date": "2026-10-16",
+        "amount": 0.1
+      }
+    },
+    "avgDailyTradedValue3m": 6897906
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do SNEL11 nos últimos 12 meses é de 8,84%, um nível considerado baixo para um ativo de renda variável. O beta de 0,05 contra o Ibovespa indica que o fundo tem uma sensibilidade muito baixa aos movimentos do índice de ações, o que é consistente com a natureza de um FII de infraestrutura com contratos de locação de longo prazo. A maior queda nos últimos 5 anos foi de -15,19%, ocorrida entre 20/03/2024 e 26/04/2024. Para monitorar oscilações de preço e definir pontos de entrada ou saída, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificações quando a cota atinge o valor escolhido."
+  },
+  "history": {
+    "overview": "O SNEL11 iniciou suas atividades em 23 de dezembro de 2022, com a primeira oferta pública de cotas encerrada em 26 de dezembro do mesmo ano. O fundo nasceu com o objetivo de investir em ativos de infraestrutura de energia limpa, especificamente em geração distribuída solar, buscando previsibilidade de receita através de contratos de locação de longo prazo. A estratégia de gestão ativa é conduzida pela Suno Gestora de Recursos Ltda., com a QI Corretora atuando como administradora. Desde a fundação, o fundo realizou nove ofertas públicas de cotas, ampliando sua base de investidores e seu patrimônio. Em setembro de 2026, o SNEL11 formalizou a aquisição de 29 novos empreendimentos solares, somando 116,7 MWp de potência por R$ 565 milhões, o que ampliou a capacidade de geração do portfólio e a diversificação geográfica para 10 estados brasileiros. Essa expansão reflete a tese de investimento do fundo em contribuir para a transição energética do país, mitigando riscos climáticos e operacionais por meio da diversificação entre diferentes concessionárias e regiões.",
+    "timeline": [
+      {
+        "date": "2022-12-14",
+        "event": "Início da primeira oferta pública de cotas do fundo",
+        "source": 2
+      },
+      {
+        "date": "2022-12-23",
+        "event": "Início das atividades do SNEL11",
+        "source": 1
+      },
+      {
+        "date": "2022-12-26",
+        "event": "Encerramento da primeira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2023-11-13",
+        "event": "Início de nova oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2024-03-25",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-06-16",
+        "event": "Início da 5ª emissão de cotas",
+        "source": 5
+      },
+      {
+        "date": "2026-09-17",
+        "event": "Formalização da aquisição de 29 empreendimentos solares por R$ 565 milhões",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do SNEL11",
+      "body": "O SNEL11 é um Fundo de Investimento Imobiliário (FII) com gestão ativa, focado em empreendimentos imobiliários atrelados à geração de energia limpa, especificamente geração distribuída solar. A gestora é a Suno Gestora de Recursos Ltda., e o administrador é a QI Corretora de Títulos e Valores Mobiliários S.A. (QI Tech). Segundo o relatório gerencial de setembro de 2026, a carteira do fundo é composta por 66 projetos (UFVs) com capacidade instalada total de 266,2 MWp. A tese de investimento baseia-se em contratos de locação de longo prazo, que proporcionam previsibilidade e estabilidade na geração de receitas, com projeção de retorno real de dois dígitos. O fundo também possui caixa e equivalentes no valor de R$ 594,4 milhões, representando 31% dos ativos totais, o que indica capacidade para novas aquisições."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do SNEL11",
+      "body": "Nos 12 meses até 30/10/2026, o SNEL11 distribuiu R$ 1,2000 por cota em 12 pagamentos, resultando em um dividend yield de 15,75%. O último provento distribuído foi de R$ 0,1000 em 16/10/2026. O relatório gerencial de setembro de 2026 indica um dividend yield anualizado de 15,99%. A estrutura de FII permite a possibilidade de isenção de imposto de renda na receita distribuída aos cotistas, conforme descrito na tese de investimentos do fundo. É possível acompanhar o histórico de proventos e a data de pagamento de cada distribuição através do recurso de [dividendos e JCP no app](/recursos/proventos), que multiplica os valores pela quantidade de cotas que você possui."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O SNEL11 realizou 9 ofertas públicas de cotas desde a sua fundação, conforme documentos publicados no FNET. A 5ª emissão teve início em 16 de junho de 2026, com capital autorizado máximo de R$ 10 bilhões. Em setembro de 2026, o fundo apresentava patrimônio líquido de R$ 1,81 bilhão, com 141.612 cotistas e 227.034.697 cotas emitidas. O valor patrimonial da cota era de R$ 7,99, enquanto o valor de mercado era de R$ 8,04, resultando em um P/VP de 1,01. A taxa de administração mensal é de 0,009% sobre o patrimônio, e a taxa de performance é de 20% do que exceder o IPCA + 7%."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SNEL11",
+      "body": "A rentabilidade total do SNEL11, incluindo proventos, foi de 4,52% nos 12 meses até 30/10/2026. O preço da cota em 30/10/2026 era de R$ 7,62. O volume médio negociado por dia nos últimos 3 meses foi de R$ 6,9 milhões. Para comparar esse desempenho com outros ativos de renda fixa e imobiliária, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade do fundo lado a lado com o IFIX, CDI e IPCA no mesmo gráfico, facilitando a análise de performance relativa."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SNEL11",
+      "body": "Os riscos do SNEL11 incluem a exposição a riscos climáticos e operacionais inerentes à geração de energia solar, embora a diversificação geográfica em 10 estados e entre diferentes concessionárias (como Equatorial Maranhão, Equatorial Piauí, Energisa Paraíba e Enel RJ) ajude a mitigar esses riscos. Há também o risco regulatório, especialmente com a abertura do Mercado Livre de Energia e as mudanças na Lei 14.300/2022, que podem impactar a demanda por geração distribuída. A volatilidade anualizada do fundo é de 8,84%, considerada baixa, e a maior queda nos últimos 5 anos foi de -15,19%, entre 20/03/2024 e 26/04/2024. O beta de 0,05 contra o Ibovespa indica que o fundo tem movimentos muito menores que o índice de ações, o que é esperado para um FII de infraestrutura com receitas contratuais."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SNEL11 paga dividendos?",
+      "answer": "Sim, o SNEL11 distribui rendimentos mensais. Nos 12 meses até 30/10/2026, foram distribuídos R$ 1,2000 por cota, resultando em um dividend yield de 15,75%. O último provento foi de R$ 0,1000 em 16/10/2026. A estrutura de FII permite a possibilidade de isenção de imposto de renda na receita distribuída."
+    },
+    {
+      "question": "O que é o SNEL11?",
+      "answer": "SNEL11 é o Suno Energias Limpas Fundo de Investimento Imobiliário, um FII focado em empreendimentos de geração distribuída de energia solar. O fundo possui 66 projetos com 266,2 MWp de capacidade instalada e patrimônio líquido de R$ 1,81 bilhão em setembro de 2026. A gestora é a Suno Gestora de Recursos Ltda., e o administrador é a QI Corretora."
+    },
+    {
+      "question": "Qual o patrimônio do SNEL11?",
+      "answer": "Em setembro de 2026, o patrimônio líquido do SNEL11 era de R$ 1,81 bilhão, com 141.612 cotistas e 227.034.697 cotas emitidas. O valor patrimonial da cota era de R$ 7,99, enquanto o valor de mercado era de R$ 8,04."
+    },
+    {
+      "question": "SNEL11 é um FII de papel ou de tijolo?",
+      "answer": "O SNEL11 é um FII de infraestrutura, focado em empreendimentos de geração distribuída de energia solar. Ele não é um FII de papel (recebíveis) nem de tijolo (imóveis tradicionais), mas sim um fundo que investe em ativos físicos de energia limpa, com contratos de locação de longo prazo."
+    },
+    {
+      "question": "Qual a taxa de administração do SNEL11?",
+      "answer": "A taxa de administração do SNEL11 é de 0,009% ao mês sobre o patrimônio, o que equivale a 0,12% ao ano. Além disso, há uma taxa de performance de 20% do que exceder o IPCA + 7%."
+    },
+    {
+      "question": "Quantas ofertas públicas o SNEL11 realizou?",
+      "answer": "O SNEL11 realizou 9 ofertas públicas de cotas desde a sua fundação em dezembro de 2022. A 5ª emissão teve início em 16 de junho de 2026, com capital autorizado máximo de R$ 10 bilhões."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do SNEL11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do SNEL11 com o IFIX, CDI e IPCA no mesmo gráfico para avaliar a performance relativa."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando a cota do SNEL11 atingir o preço que você escolheu, facilitando o monitoramento de oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do SNEL11 junto com seus outros investimentos em FIIs, ações e renda fixa em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no SNEL11 e receba respostas baseadas nos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Equatorial S.A. é uma das concessionárias de energia que compõem a carteira do SNEL11, com ativos em Maranhão e Piauí."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "AXIA Energia é uma empresa do setor de energia, relevante para quem investe em infraestrutura de energia limpa."
+      },
+      {
+        "ticker": "VBBR3",
+        "list": "br-stocks",
+        "reason": "Vibra Energia é outra empresa do setor de energia, útil para comparação de desempenho no setor."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "Kinea Indices Precos é um FII de papel, útil para comparação com outros FIIs de renda fixa e infraestrutura."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "Cshg Logistica é um FII de tijolo, útil para comparação com outros FIIs de infraestrutura e logística."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SNEL11",
+      "url": "https://finance.yahoo.com/quote/SNEL11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FUNDO DE INVESTIMENTO IMOBILIÁRIO SUNO ENERGIAS LIMPAS (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo SNEL11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=43741171000184",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do SNEL11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356990",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do SNEL11, 17/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1323415",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do SNEL11, 16/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1223118",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

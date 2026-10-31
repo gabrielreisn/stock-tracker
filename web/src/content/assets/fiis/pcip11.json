@@ -1,0 +1,357 @@
+{
+  "ticker": "PCIP11",
+  "slug": "pcip11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "PCIP11: FII de papel, dividendos e volatilidade",
+    "description": "PCIP11 é um FII de papel focado em CRIs, com dividend yield de 14,81% em 12 meses.",
+    "h1": "PCIP11: Fundo de Investimento Imobiliário VBI Crédito Alocação Estratégica",
+    "canonicalPath": "/fiis/pcip11",
+    "keywords": [
+      "PCIP11",
+      "FII de papel",
+      "VBI Crédito Alocação Estratégica",
+      "dividend yield PCIP11",
+      "volatilidade PCIP11",
+      "CRI",
+      "fundo imobiliário crédito",
+      "Pátria VBI"
+    ]
+  },
+  "summary": "PCIP11 é a cota do Fundo de Investimento Imobiliário VBI Crédito Alocação Estratégica, um FII de papel focado em Certificados de Recebíveis Imobiliários (CRIs) e operações estruturadas. Com gestão ativa e prazo determinado de 7 anos, o fundo busca rendimentos e ganho de capital. Em 09/2026, o patrimônio líquido era de R$ 289,4 milhões, com valor patrimonial da cota de R$ 9,58. A rentabilidade total nos 12 meses até 29/10/2026 foi de -3,65%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário - VBI Crédito Alocação Estratégica",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - VBI CRÉDITO ALOCAÇÃO ESTRATÉGICA",
+    "ticker": "BVMF PCIP11",
+    "isin": "BR0C9JCTF009",
+    "taxId": "45.338.646/0001-11",
+    "foundingDate": "2022-07-04",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=45338646000111"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Pátria - VBI Securities Ltda",
+    "name": "Fundo de Investimento Imobiliário - VBI Crédito Alocação Estratégica",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - VBI CRÉDITO ALOCAÇÃO ESTRATÉGICA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "04/07/2022",
+    "administrator": "BRL TRUST DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - VBI CRÉDITO ALOCAÇÃO ESTRATÉGICA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "45.338.646/0001-11",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BRL TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "04/07/2022",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 289,4 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "1.371",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,58",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 70,15",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,36% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,26",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,81%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PCIP11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo De Investimento Imobiliario VBI Credito",
+    "currency": "BRL",
+    "price": 70.15,
+    "historyStarts": "2019-09-26",
+    "returns": {
+      "1y": -0.0365,
+      "3y": 0.1239,
+      "5y": 0.2268,
+      "10y": null
+    },
+    "volatility1y": 0.1836,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.1951,
+      "from": "2024-09-06",
+      "to": "2024-12-13"
+    },
+    "beta1y": {
+      "value": 0.26,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.39,
+      "payments12Months": 12,
+      "yield12Months": 0.1481,
+      "lastPayment": {
+        "date": "2026-10-09",
+        "amount": 0.65
+      }
+    },
+    "avgDailyTradedValue3m": 3318543
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de PCIP11 nos 12 meses até 29/10/2026 foi de 18,36%, classificada como moderada. O beta de 0,26 contra o Ibovespa indica que o fundo tende a acompanhar os movimentos do índice com menor intensidade, na mesma direção. A maior queda em 5 anos foi de -19,51%, do pico em 06/09/2024 ao ponto mais baixo em 13/12/2024. Para FIIs de papel, essa volatilidade é considerada dentro do esperado, dada a sensibilidade a juros e crédito. É possível configurar alertas de preço no app para acompanhar movimentos significativos."
+  },
+  "history": {
+    "overview": "O Fundo de Investimento Imobiliário VBI Crédito Alocação Estratégica iniciou suas atividades em 04/07/2022, com a primeira oferta pública de cotas encerrada em 06/07/2022. O fundo opera com prazo determinado de 7 anos, contados de julho/2022, e possui gestão ativa. A estratégia é focada em ativos de crédito imobiliário, especificamente CRIs e operações estruturadas, com o objetivo de auferir rendimentos e ganho de capital para os cotistas. Em 2022, houve uma segunda oferta pública, iniciada em 14/10/2022 e encerrada em 22/11/2022. Em 2025, o fundo realizou sua terceira emissão, iniciada em 27/01/2025 e encerrada em 04/04/2025, com a emissão de 11.907.903 cotas ao preço de R$ 9,56. Em 13/05/2025, houve a unificação das cotas da 3ª Emissão, passando o fundo a ter somente a cota principal negociada na B3 a partir de 14/05/2025. O fundo é administrado pela BRL TRUST DTVM S.A. e gerido pela Pátria - VBI Securities Ltda., com distribuição exclusiva pela Apex Distribuidora de Títulos e Valores Mobiliários S.A.",
+    "timeline": [
+      {
+        "date": "2022-06-28",
+        "event": "Início da primeira oferta pública de cotas do fundo.",
+        "source": 2
+      },
+      {
+        "date": "2022-07-04",
+        "event": "Início das atividades do Fundo de Investimento Imobiliário VBI Crédito Alocação Estratégica.",
+        "source": 1
+      },
+      {
+        "date": "2022-07-06",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2022-10-14",
+        "event": "Início da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2022-11-22",
+        "event": "Encerramento da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2025-01-27",
+        "event": "Início da terceira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2025-04-04",
+        "event": "Encerramento da terceira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2025-05-13",
+        "event": "Unificação das cotas da 3ª Emissão, passando o fundo a ter somente a cota principal.",
+        "source": 4
+      },
+      {
+        "date": "2025-05-14",
+        "event": "Início da negociação da cota principal unificada no mercado secundário da B3.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do PCIP11",
+      "body": "PCIP11 é um FII de papel, classificado como híbrido com gestão ativa e multicategoria, focado em ativos de crédito imobiliário. O objetivo do fundo é auferir rendimentos e/ou ganho de capital por meio do investimento em Ativos Alvo (CRI e outros ativos de crédito com lastro no mercado imobiliário) e Ativos de Liquidez, conforme a Política de Investimentos. A carteira é gerida pela Pátria - VBI Securities Ltda., com administração e escrituração pela BRL TRUST DTVM S.A. e distribuição exclusiva pela Apex Distribuidora de Títulos e Valores Mobiliários S.A. Em setembro de 2026, a carteira era composta por 98,6% em CRI e Operações Estruturadas e 1,4% em Caixa. A rentabilidade média ponderada da carteira de CRI era de 19,7% (142% sobre a curva DI x PRÉ), com prazo médio de 2,4 anos e spread de 5,1% sobre a pré referenciada."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do PCIP11",
+      "body": "Nos 12 meses até 29/10/2026, PCIP11 distribuiu R$ 10,3900 por cota em 12 pagamentos, resultando em um dividend yield de 14,81%. O último pagamento foi de R$ 0,6500 em 09/10/2026. Em setembro de 2026, o fundo distribuiu R$ 0,1150 por cota, com data de pagamento em 09/10/2026, impactado por resultado não recorrente da redução de exposição no CRI Baroneza e Jardim Europa. O relatório gerencial não detalha a tributação específica dos rendimentos, mas FIIs de papel são sujeitos às regras gerais de tributação de rendimentos imobiliários. É possível acompanhar os dividendos e JCP no app com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O fundo realizou três ofertas públicas de cotas: a primeira entre 28/06/2022 e 06/07/2022, a segunda entre 14/10/2022 e 22/11/2022, e a terceira entre 27/01/2025 e 04/04/2025. A terceira emissão resultou em 11.907.903 cotas ao preço de R$ 9,56, totalizando R$ 113.839.552,68. Em 13/05/2025, houve a unificação das cotas da 3ª Emissão, com negociação da cota principal na B3 a partir de 14/05/2025. Em 09/2026, o patrimônio líquido era de R$ 289,4 milhões, com 1.371 cotistas e valor patrimonial da cota de R$ 9,58. O número de cotas emitidas era de 30.213.893."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do PCIP11",
+      "body": "A rentabilidade total com proventos de PCIP11 nos 12 meses até 29/10/2026 foi de -3,65%. Nos 3 anos, a rentabilidade foi de 12,39%, e nos 5 anos, de 22,68%. O fundo é um FII de papel, e seu desempenho é influenciado por fatores como a taxa de juros, a inflação e a qualidade de crédito dos ativos. A comparação com índices como o IFIX e o CDI pode ser feita no app, que permite visualizar a rentabilidade da carteira lado a lado com esses benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do PCIP11",
+      "body": "Os riscos de PCIP11 incluem risco de crédito, já que o fundo investe em CRIs e operações estruturadas, que dependem da capacidade de pagamento dos devedores. Há também risco de liquidez, especialmente em cenários de estresse de mercado, e risco de juros, pois a valorização dos CRIs é sensível às variações da taxa Selic. A volatilidade anualizada de PCIP11 nos 12 meses até 29/10/2026 foi de 18,36%, nível moderado. A maior queda em 5 anos foi de -19,51%, do pico em 06/09/2024 ao ponto mais baixo em 13/12/2024. O beta de 0,26 contra o Ibovespa indica que o fundo tende a ter movimentos menores que os do índice, na mesma direção."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar PCIP11 no app",
+      "body": "Para quem tem PCIP11 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [dividendos e JCP no app](/recursos/proventos): Veja os dividendos e JCP da PCIP11 com data com e data de pagamento, multiplicados pela sua quantidade.\n- [comparação com IFIX e CDI](/recursos/comparacao-com-indices): Compare a rentabilidade da PCIP11 com o IFIX e o CDI no mesmo gráfico, para entender o desempenho relativo.\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas de preço para PCIP11 e receba notificações quando o ativo atingir o valor que você escolheu.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja a PCIP11 junto com outros ativos na carteira consolidada, com valor por classe e alocação.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte ao assistente de IA sobre a sua posição em PCIP11 e receba respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PCIP11 é FII de papel ou de tijolo?",
+      "answer": "PCIP11 é um FII de papel, focado em CRIs e operações estruturadas. O fundo não possui imóveis físicos na carteira, mas sim títulos de crédito com lastro imobiliário. A carteira em setembro de 2026 era composta por 98,6% em CRI e Operações Estruturadas e 1,4% em Caixa."
+    },
+    {
+      "question": "Qual o dividend yield de PCIP11?",
+      "answer": "O dividend yield de PCIP11 nos 12 meses até 29/10/2026 foi de 14,81%, com R$ 10,3900 distribuídos por cota em 12 pagamentos. O último pagamento foi de R$ 0,6500 em 09/10/2026. É possível acompanhar os rendimentos no app, com data com e data de pagamento."
+    },
+    {
+      "question": "Qual a taxa de administração de PCIP11?",
+      "answer": "A taxa de administração total de PCIP11 é de até 1,10% a.a. sobre o patrimônio líquido, sendo 1,0% repassado ao gestor. Em 09/2026, a taxa mensal foi de 0,092% sobre o patrimônio. A taxa de performance é de 20% dos rendimentos que superarem 100% CDI."
+    },
+    {
+      "question": "Qual o patrimônio líquido de PCIP11?",
+      "answer": "Em 09/2026, o patrimônio líquido de PCIP11 era de R$ 289,4 milhões, com 1.371 cotistas e valor patrimonial da cota de R$ 9,58. O número de cotas emitidas era de 30.213.893."
+    },
+    {
+      "question": "Qual a estratégia de PCIP11?",
+      "answer": "PCIP11 é um FII de papel com gestão ativa, focado em CRIs e operações estruturadas. O objetivo é auferir rendimentos e ganho de capital, com carteira diversificada em ativos de crédito imobiliário. A rentabilidade média ponderada da carteira de CRI em setembro de 2026 era de 19,7%, com prazo médio de 2,4 anos."
+    },
+    {
+      "question": "Como acompanhar PCIP11 no app?",
+      "answer": "É possível acompanhar PCIP11 no app com recursos como a carteira consolidada, que mostra valor por classe e alocação, e a comparação com índices como IFIX e CDI. O assistente de IA também permite perguntas em português sobre a posição no fundo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da PCIP11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX e CDI",
+        "context": "Compare a rentabilidade da PCIP11 com o IFIX e o CDI no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para PCIP11 e receba notificações quando o ativo atingir o valor que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a PCIP11 junto com outros ativos na carteira consolidada, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte ao assistente de IA sobre a sua posição em PCIP11 e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RBRR11",
+        "list": "fiis",
+        "reason": "Outro FII de papel da mesma gestora, com foco em crédito imobiliário high grade."
+      },
+      {
+        "ticker": "VCJR11",
+        "list": "fiis",
+        "reason": "FII de papel da mesma gestora, com foco em juros reais, que PCIP11 planeja consolidar."
+      },
+      {
+        "ticker": "RPRI11",
+        "list": "fiis",
+        "reason": "FII de papel da mesma gestora, com foco em recebíveis imobiliários, que PCIP11 planeja consolidar."
+      },
+      {
+        "ticker": "HGCR11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em recebíveis imobiliários, similar à estratégia de PCIP11."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de papel high yield, para comparação de estratégia de crédito imobiliário."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PCIP11",
+      "url": "https://finance.yahoo.com/quote/PCIP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FII VBI CRÉDITO ALOCAÇÃO ESTRATÉGICA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo PCIP11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=45338646000111",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do PCIP11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356174",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do PCIP11, 13/05/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=900330",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

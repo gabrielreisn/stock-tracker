@@ -1,0 +1,289 @@
+{
+  "ticker": "Z2SC34",
+  "slug": "z2sc34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "Z2SC34: BDR da Zscaler, história e volatilidade",
+    "description": "Z2SC34 é o BDR da Zscaler, Inc., empresa de cibersegurança em nuvem. Veja a história, a volatilidade de 84,35% e como funciona o BDR na B3.",
+    "h1": "Z2SC34: BDR da Zscaler, Inc.",
+    "canonicalPath": "/bdrs/z2sc34",
+    "keywords": [
+      "Z2SC34",
+      "BDR Zscaler",
+      "Zscaler B3",
+      "BDR cibersegurança",
+      "ZS BDR"
+    ]
+  },
+  "summary": "Z2SC34 é o BDR não patrocinado de nível I da Zscaler, Inc., empresa americana de segurança cibernética em nuvem fundada em 2008. Negociado na B3 desde 14/01/2022, o recibo representa ações da ZS na NASDAQ e é cotado em reais. Em 30/10/2026, o preço era de R$ 42,57, com volatilidade anualizada de 84,35% e sem pagamento de proventos nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Zscaler",
+    "legalName": "ZSCALER INC",
+    "ticker": "BVMF Z2SC34",
+    "foundingDate": "2008",
+    "website": "https://www.zscaler.com/",
+    "wikidata": "Q8074786",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q8074786",
+      "https://en.wikipedia.org/wiki/Zscaler",
+      "https://pt.wikipedia.org/wiki/Zscaler",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58963/Z2SC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Zscaler",
+    "legalName": "ZSCALER INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2008",
+    "listedSince": "14/01/2022",
+    "headquarters": "São José",
+    "website": "https://www.zscaler.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "ZSCALER INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: ZS",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São José",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2008",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "14/01/2022",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 42,57",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "84,35% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original ZS em dólares)",
+      "value": "1,00",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,3 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "Z2SC34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Zscaler, Inc.",
+    "currency": "BRL",
+    "price": 42.57,
+    "historyStarts": "2026-04-06",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.8435,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3331,
+      "from": "2026-05-26",
+      "to": "2026-06-22"
+    },
+    "beta1y": {
+      "value": 1,
+      "against": "S&P 500, ação original ZS em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 1267701
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 12 meses do Z2SC34 até 30/10/2026 foi de 84,35%, nível muito alto. O beta da ação original ZS contra o S&P 500 nos últimos 12 meses foi de 1,00, indicando que a ação tende a acompanhar os movimentos do índice, mas o BDR em reais também sofre o efeito do câmbio. A maior queda nos últimos 5 anos foi de -33,31%, do pico em 26/05/2026 ao ponto mais baixo em 22/06/2026. Para acompanhar a volatilidade, use [alertas de preço](/recursos/alertas-de-preco) e a [comparação com índices](/recursos/comparacao-com-indices)."
+  },
+  "history": {
+    "overview": "A Zscaler, Inc. foi fundada em 2007 por Jay Chaudhry e K. Kailash, com o lançamento de sua plataforma de cibersegurança em 2008. A empresa consolidou-se no mercado com rodadas de financiamento em 2012 e 2015, e realizou sua oferta inicial de ações (IPO) em março de 2018, levantando US$ 192 milhões. Em dezembro de 2021, a ação ZS foi incluída no índice Nasdaq-100. Em 2023, a empresa anunciou a plataforma Zero Trust Exchange e, em 2024, o Zscaler Zero Trust SASE, expandindo sua oferta para segurança de borda de serviço. A empresa tem realizado diversas aquisições, incluindo TrustPath, Appsulate, Cloudneeti, Edgewise Networks, Trustdome, Smokescreen Technologies, ShiftRight, Canonic, Avalor, Airgap Network, Red Canary e SquareX, consolidando sua posição em segurança de dados e conectividade. O BDR Z2SC34 foi listado na B3 em 14/01/2022, permitindo que investidores brasileiros acompanhem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "2008",
+        "event": "Fundação da Zscaler e lançamento da plataforma de cibersegurança.",
+        "source": 2
+      },
+      {
+        "date": "2012-08",
+        "event": "Rodada de financiamento de US$ 38 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2015-08",
+        "event": "Segunda rodada de financiamento de US$ 100 milhões liderada pela TPG Capital.",
+        "source": 3
+      },
+      {
+        "date": "2018-03",
+        "event": "Oferta inicial de ações (IPO) na NASDAQ, levantando US$ 192 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2021-12-17",
+        "event": "Inclusão da ação ZS no índice Nasdaq-100.",
+        "source": 3
+      },
+      {
+        "date": "2022-01-14",
+        "event": "Listagem do BDR Z2SC34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2023-06",
+        "event": "Anúncio da plataforma Zero Trust Exchange.",
+        "source": 3
+      },
+      {
+        "date": "2024-01",
+        "event": "Lançamento do Zscaler Zero Trust SASE.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Zscaler ganha dinheiro",
+      "body": "A Zscaler, Inc. é uma empresa americana de segurança cibernética baseada em nuvem, sediada em San Jose, Califórnia. A empresa oferece serviços em nuvem para proteger redes e dados corporativos, com foco em proteção contra malware e aplicação de políticas para o tráfego web de saída. A plataforma Zero Trust Exchange, anunciada em junho de 2023, inclui proteção contra ameaças cibernéticas, proteção de dados, conectividade zero trust e análises de negócios. Em janeiro de 2024, a empresa lançou o Zscaler Zero Trust SASE, oferecendo a primeira solução SASE de um único fornecedor, baseada em sua plataforma SSE com IA. A empresa também oferece a plataforma Zscaler Internet Access, uma plataforma de cibersegurança em nuvem."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR Z2SC34",
+      "body": "O Z2SC34 é um BDR não patrocinado de nível I, negociado na B3 em reais, que representa ações da Zscaler, Inc. na NASDAQ (ticker ZS). O BDR é emitido por uma instituição depositária e seu preço acompanha a ação original em dólares e a variação do câmbio. O BDR foi listado na B3 em 14/01/2022. Como é um BDR não patrocinado, a empresa não participa da emissão ou manutenção do programa."
+    },
+    {
+      "id": "proventos",
+      "heading": "Z2SC34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, o Z2SC34 não pagou proventos. A empresa Zscaler, Inc. não distribui dividendos, e o BDR reflete essa política. Caso a empresa comece a pagar dividendos, o valor seria convertido em reais e distribuído aos detentores do BDR."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do Z2SC34",
+      "body": "A rentabilidade total do Z2SC34 com proventos não está disponível nos dados fornecidos. A volatilidade anualizada de 12 meses até 30/10/2026 foi de 84,35%, classificada como muito alta. O beta da ação original ZS contra o S&P 500 nos últimos 12 meses foi de 1,00, indicando que a ação tende a acompanhar os movimentos do índice. A maior queda nos últimos 5 anos foi de -33,31%, do pico em 26/05/2026 ao ponto mais baixo em 22/06/2026. As rentabilidades em reais incluem a variação do câmbio. Para comparar com índices, use a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do Z2SC34",
+      "body": "Os riscos do Z2SC34 incluem a volatilidade da ação original ZS, que é alta, e o risco cambial, já que o BDR é cotado em reais e a ação original em dólares. A maior queda nos últimos 5 anos foi de -33,31%, entre 26/05/2026 e 22/06/2026. A liquidez do BDR na B3 é limitada, com volume médio diário de R$ 1,3 milhão nos últimos 3 meses. A empresa também enfrenta riscos de mercado, como mudanças na regulação de cibersegurança e concorrência. Use [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos de preço."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Z2SC34 paga dividendos?",
+      "answer": "Não, o Z2SC34 não pagou proventos nos últimos 12 meses até 30/10/2026. A Zscaler, Inc. não distribui dividendos, e o BDR reflete essa política."
+    },
+    {
+      "question": "O que é o BDR Z2SC34?",
+      "answer": "O Z2SC34 é um BDR não patrocinado de nível I que representa ações da Zscaler, Inc. na NASDAQ (ticker ZS). Negociado na B3 em reais, seu preço acompanha a ação original e o câmbio."
+    },
+    {
+      "question": "Qual a diferença entre Z2SC34 e a ação ZS?",
+      "answer": "O Z2SC34 é um BDR negociado na B3 em reais, enquanto a ZS é a ação original negociada na NASDAQ em dólares. O BDR reflete o preço da ação original e a variação do câmbio."
+    },
+    {
+      "question": "Z2SC34 é volátil?",
+      "answer": "Sim, a volatilidade anualizada de 12 meses até 30/10/2026 foi de 84,35%, nível muito alto. A maior queda nos últimos 5 anos foi de -33,31%, entre 26/05/2026 e 22/06/2026."
+    },
+    {
+      "question": "Como acompanhar o Z2SC34 no app?",
+      "answer": "Use a [carteira consolidada](/recursos/carteira-consolidada) para ver o Z2SC34 junto com outros ativos, e o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre sua posição."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o Z2SC34 junto com outros ativos na carteira consolidada, com valor por classe e alocação."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o Z2SC34 chegar ao preço que você escolheu, útil para acompanhar a volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do Z2SC34 com o S&P 500 e outros índices no mesmo gráfico."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com perfil de volatilidade semelhante."
+      },
+      {
+        "ticker": "P2AN34",
+        "list": "bdrs",
+        "reason": "BDR de cibersegurança, setor semelhante ao da Zscaler."
+      },
+      {
+        "ticker": "C2RW34",
+        "list": "bdrs",
+        "reason": "BDR de cibersegurança, concorrente da Zscaler."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de Z2SC34",
+      "url": "https://finance.yahoo.com/quote/Z2SC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ZSCALER INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58963/Z2SC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Zscaler",
+      "url": "https://www.wikidata.org/wiki/Q8074786",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Zscaler",
+      "url": "https://en.wikipedia.org/wiki/Zscaler",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Zscaler",
+      "url": "https://pt.wikipedia.org/wiki/Zscaler",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

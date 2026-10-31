@@ -1,0 +1,284 @@
+{
+  "ticker": "SGOV",
+  "slug": "sgov",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SGOV: história, dividendos e volatilidade",
+    "description": "Conheça o SGOV, o ETF de Treasuries de 0 a 3 meses da iShares. Veja rentabilidade, dividend yield de 3,64% e como investir a partir do Brasil.",
+    "h1": "SGOV: iShares 0-3 Month Treasury Bond ETF",
+    "canonicalPath": "/etfs/sgov",
+    "keywords": [
+      "SGOV",
+      "iShares 0-3 Month Treasury Bond ETF",
+      "ETF Treasury",
+      "reserva de emergência dólar",
+      "dividend yield SGOV",
+      "investir em dólar",
+      "BlackRock ETF"
+    ]
+  },
+  "summary": "SGOV é o iShares 0-3 Month Treasury Bond ETF, lançado em 01/06/2020 pela BlackRock. O fundo replica o desempenho de títulos da dívida pública americana (Treasuries) com maturidade de até três meses. Até 30/10/2026, a cota valia US$ 100,73, com rentabilidade total de 3,76% no último ano e dividend yield de 3,64%, sendo amplamente utilizado como reserva de liquidez e proteção cambial.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares 0-3 Month Treasury Bond ETF",
+    "ticker": "XNYS SGOV",
+    "foundingDate": "2020-06-01",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa (Treasuries de curto prazo)",
+    "issuerOrManager": "BlackRock (iShares)",
+    "trackedIndex": "Treasuries dos EUA com vencimento de 0 a 3 meses",
+    "name": "iShares 0-3 Month Treasury Bond ETF",
+    "founded": "01/06/2020"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares 0-3 Month Treasury Bond ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "01/06/2020",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 100,73",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "0,18% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-0,00",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,64%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 2,20 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SGOV",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares 0-3 Month Treasury Bond ETF",
+    "currency": "USD",
+    "price": 100.73,
+    "historyStarts": "2020-06-01",
+    "returns": {
+      "1y": 0.0376,
+      "3y": 0.1414,
+      "5y": 0.2079,
+      "10y": null
+    },
+    "volatility1y": 0.0018,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.0003,
+      "from": "2022-08-22",
+      "to": "2022-08-23"
+    },
+    "beta1y": {
+      "value": 0,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.666,
+      "payments12Months": 12,
+      "yield12Months": 0.0364,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.301
+      }
+    },
+    "avgDailyTradedValue3m": 2201062551
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do SGOV nos últimos 12 meses é de 0,18%, um nível considerado baixo para o mercado financeiro 0. O beta de 12 meses contra o S&P 500 é -0,00, o que significa que o ativo não tem correlação com os movimentos do índice acionário, funcionando como um refúgio ou reserva de liquidez 0. A maior queda em 5 anos foi de -0,03%, entre 22/08/2022 e 23/08/2022, demonstrando a estabilidade do preço 0. Para monitorar oscilações e definir pontos de entrada, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O SGOV é um dos produtos da marca iShares, atualmente gerida pela BlackRock. A história da iShares remonta a 1996, quando a Barclays lançou os World Equity Benchmark Shares (WEBS), que foram renomeados para iShares em 2000. Em 2009, a BlackRock adquiriu o negócio da Barclays, consolidando a iShares como a maior emissora de ETFs nos Estados Unidos e no mundo, com presença em bolsas como a NYSE, B3 e bolsas europeias e asiáticas 1. O próprio conceito de ETF, que permite a negociação de fundos em bolsa, teve origem em 1993 com o [SPY](/etfs/spy), o primeiro ETF dos EUA, e evoluiu para oferecer acesso diversificado e líquido a mercados de ações e renda fixa 3. O SGOV foi lançado em 01/06/2020, inserindo-se nesse ecossistema de fundos indexados de baixa taxa e alta liquidez 0.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Lançamento do SPY, o primeiro ETF a negociar nos Estados Unidos, marcando o início do mercado de ETFs.",
+        "source": 3
+      },
+      {
+        "date": "1996",
+        "event": "A Barclays lança os World Equity Benchmark Shares (WEBS), que mais tarde seriam renomeados para iShares.",
+        "source": 3
+      },
+      {
+        "date": "2000",
+        "event": "A Barclays renomeia os WEBS para iShares e lança mais de 40 novos fundos para expandir o mercado de ETFs.",
+        "source": 1
+      },
+      {
+        "date": "2009",
+        "event": "A BlackRock adquire a marca e o negócio da iShares da Barclays, tornando-se a maior emissora de ETFs globalmente.",
+        "source": 1
+      },
+      {
+        "date": "2020-06-01",
+        "event": "Primeiro pregão das cotas do iShares 0-3 Month Treasury Bond ETF (SGOV) na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SGOV funciona",
+      "body": "O SGOV é um Exchange-Traded Fund (ETF) que replica o desempenho de títulos da dívida pública dos Estados Unidos, conhecidos como Treasuries, com maturidade de 0 a 3 meses. A emissora é a iShares, uma marca da BlackRock, que é a maior gestora de ETFs do mundo 1. O fundo foi lançado em 01/06/2020 0. Como um ETF, o SGOV é negociado em bolsa durante o horário comercial, oferecendo a liquidez de uma ação com a diversificação de um fundo indexado 3. Não se trata de um ativo alavancado ou inverso, portanto, não há rebalanceamento diário que cause desvio de resultado em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SGOV",
+      "body": "O SGOV investe em United States Treasury securities, especificamente Treasury bills (T-bills) com vencimento de até um ano, focando no intervalo de 0 a 3 meses 2. Esses títulos são emitidos pelo Departamento do Tesouro dos EUA e são lastreados pela 'full faith and credit' do governo americano, o que lhes confere uma reputação de baixo risco de crédito 2. A composição do fundo reflete o mercado de T-bills, que são vendidos em leilões e negociados em mercados secundários 2."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SGOV a partir do Brasil",
+      "body": "Para investir no SGOV a partir do Brasil, o investidor precisa de uma conta em uma corretora que opere no mercado americano, adquirindo as cotas em dólar. Outra alternativa é buscar BDRs ou ETFs negociados na B3 que replicam o mesmo índice de Treasuries de curto prazo. O principal risco cambial é a variação do câmbio: como o SGOV é cotado em dólar, uma valorização do real frente ao dólar reduz o retorno em reais, enquanto a desvalorização do real aumenta esse retorno. O risco de crédito é baixo, dado o lastro do governo dos EUA 2."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SGOV",
+      "body": "Até 30/10/2026, a cota do SGOV valia US$ 100,73. A rentabilidade total com proventos foi de 3,76% nos 12 meses, 14,14% em 3 anos e 20,79% em 5 anos 0. O fundo distribuiu US$ 3,6660 por cota em 12 pagamentos no último ano, resultando em um dividend yield de 3,64% 0. Para acompanhar a evolução do preço e comparar o desempenho com o S&P 500, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SGOV",
+      "body": "O SGOV possui volatilidade anualizada de 0,18% nos últimos 12 meses, classificada como baixa 0. A maior queda nos últimos 5 anos foi de apenas -0,03%, ocorrendo entre 22/08/2022 e 23/08/2022 0. O beta de 12 meses contra o S&P 500 é -0,00, indicando que o ativo não acompanha os movimentos do índice acionário 0. Os riscos principais são a variação da taxa de juros americana (que afeta o preço dos títulos) e o risco cambial para investidores brasileiros. A volatilidade é extremamente baixa, típica de um ETF de renda fixa de curtíssimo prazo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o SGOV?",
+      "answer": "SGOV é o iShares 0-3 Month Treasury Bond ETF, um fundo que replica o desempenho de títulos da dívida pública americana com vencimento de até 3 meses. É gerido pela BlackRock e foi lançado em 01/06/2020 [0, 1]."
+    },
+    {
+      "question": "SGOV paga dividendos?",
+      "answer": "Sim, o SGOV distribui proventos mensais. Nos 12 meses até 30/10/2026, pagou US$ 3,6660 por cota, o que representa um dividend yield de 3,64% 0. O último pagamento foi de US$ 0,3010 em 01/10/2026 0."
+    },
+    {
+      "question": "Qual a diferença entre SGOV e BIL?",
+      "answer": "Ambos são ETFs de Treasuries de curto prazo. O SGOV é da iShares (BlackRock) e o [BIL](/etfs/bil) é da State Street. Ambos seguem títulos de 0 a 3 meses, mas podem ter pequenas diferenças na taxa de administração e na composição exata do portfólio. No app, é possível comparar o desempenho de ambos na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Como o SGOV se comporta em relação ao S&P 500?",
+      "answer": "O beta do SGOV contra o S&P 500 é -0,00, o que indica que o ativo não acompanha as variações do índice acionário 0. Ele é usado como reserva de liquidez, não como aposta em alta ou baixa do mercado de ações. A [comparação com índices](/recursos/comparacao-com-indices) no app mostra essa relação visualmente."
+    },
+    {
+      "question": "Qual o risco cambial do SGOV para o investidor brasileiro?",
+      "answer": "O SGOV é cotado em dólar, então o investidor brasileiro está exposto à variação do câmbio. Se o dólar subir, o retorno em reais aumenta; se o dólar cair, o retorno em reais diminui. O risco de crédito do ativo em si é baixo, por ser lastreado pelo governo dos EUA 2."
+    },
+    {
+      "question": "SGOV é bom para reserva de emergência?",
+      "answer": "O SGOV é amplamente utilizado como reserva de emergência por sua alta liquidez e baixa volatilidade (0,18% nos últimos 12 meses) 0. A decisão de usá-lo como reserva depende do perfil do investidor e da sua exposição ao câmbio. O app permite acompanhar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação total."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Veja a rentabilidade do SGOV ao longo do tempo e o preço médio da sua posição com o gráfico de desempenho."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do SGOV com o S&P 500 e outros índices no mesmo gráfico para avaliar a alocação."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para ser avisado quando a cota do SGOV atingir um valor que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do SGOV junto com seus outros ativos, como ações e FIIs, em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BIL",
+        "list": "us-etfs",
+        "reason": "Outro ETF de Treasuries de 0 a 3 meses, emitido pela State Street, usado como alternativa ou comparação."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de Treasuries de longo prazo (20+ anos), da mesma gestora iShares, para comparação de duration."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, o principal índice acionário dos EUA, para comparação de desempenho e beta."
+      },
+      {
+        "ticker": "SHV",
+        "list": "us-etfs",
+        "reason": "iShares 0–1 Year Treasury Bond ETF, da mesma gestora, com duration um pouco maior que o SGOV."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SGOV",
+      "url": "https://finance.yahoo.com/quote/SGOV/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): United States Treasury security (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/United_States_Treasury_security",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

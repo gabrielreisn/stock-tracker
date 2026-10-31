@@ -1,0 +1,404 @@
+{
+  "ticker": "SMTO3",
+  "slug": "smto3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SMTO3: história, dividendos e volatilidade",
+    "description": "Conheça a SMTO3, ação da São Martinho S.A. no setor de açúcar e álcool. Veja desempenho, dividendos, riscos e a história da maior usina sucroalcooleira do",
+    "h1": "SMTO3: São Martinho S.A. – Ação Ordinária",
+    "canonicalPath": "/acoes/smto3",
+    "keywords": [
+      "SMTO3",
+      "São Martinho",
+      "açúcar e álcool",
+      "dividendos SMTO3",
+      "volatilidade SMTO3",
+      "ação sucroalcooleira",
+      "B3"
+    ]
+  },
+  "summary": "SMTO3 é a ação ordinária da São Martinho S.A., empresa brasileira do setor de açúcar e álcool com capacidade de moagem de 24 milhões de toneladas de cana. A companhia opera quatro usinas e possui a maior usina sucroalcooleira em operação do mundo. Em 30/10/2026, o ativo era cotado a R$ 21,09, com rentabilidade total de 52,56% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "São Martinho S.A.",
+    "legalName": "SÃO MARTINHO SA",
+    "ticker": "BVMF SMTO3",
+    "isin": "BRSMTOACNOR3",
+    "taxId": "51.466.860/0001-56",
+    "foundingDate": "1937-07-14",
+    "address": {
+      "locality": "Pradópolis",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.saomartinho.com.br",
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/Grupo_S%C3%A3o_Martinho",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20516/SMTO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "São Martinho S.A.",
+    "legalName": "SÃO MARTINHO SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo não Cíclico",
+    "segment": "Açucar e Alcool",
+    "founded": "14/07/1937",
+    "listedSince": "12/02/2007",
+    "headquarters": "Pradópolis (SP)",
+    "website": "https://www.saomartinho.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "SÃO MARTINHO SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "51.466.860/0001-56",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo não Cíclico / Açucar e Alcool",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "14/07/1937",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Pradópolis (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "12/02/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "SMTO3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 21,09",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "46,22% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,48",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,03%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SMTO3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "São Martinho S.A.",
+    "currency": "BRL",
+    "price": 21.09,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.5256,
+      "3y": -0.3532,
+      "5y": -0.3503,
+      "10y": 0.3719
+    },
+    "volatility1y": 0.4622,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7125,
+      "from": "2022-06-02",
+      "to": "2025-12-02"
+    },
+    "beta1y": {
+      "value": 0.48,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.2166,
+      "payments12Months": 1,
+      "yield12Months": 0.0103,
+      "lastPayment": {
+        "date": "2026-07-06",
+        "amount": 0.216592
+      }
+    },
+    "avgDailyTradedValue3m": 40794121
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A SMTO3 apresenta volatilidade anualizada de 46,22% nos 12 meses até 30/10/2026, nível classificado como muito alta. O beta de 0,48 contra o Ibovespa indica que, no período, o ativo tendeu a ter movimentos de menor amplitude que o índice, na mesma direção. A maior queda em 5 anos foi de -71,25%, entre o pico em 02/06/2022 e o fundo em 02/12/2025. Para monitorar oscilações e definir pontos de atenção, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco) no app, recebendo notificações quando o ativo atinge valores específicos."
+  },
+  "history": {
+    "overview": "Fundada em 14 de julho de 1937, a São Martinho S.A. consolidou-se como um dos maiores grupos sucroenergéticos do Brasil. A empresa abriu seu capital na B3 em 12 de fevereiro de 2007, sob o código SMTO3, e registrou-se como companhia aberta na CVM em 7 de fevereiro do mesmo ano. Em 2008, inaugurou a Usina Boa Vista, em Quirinópolis (GO), e em 2010 firmou uma parceria estratégica com a Petrobras Biocombustível (PBio) para a produção de etanol em Goiás, constituindo a Nova Fronteira Bioenergia S.A. A companhia ampliou sua participação na Usina Santa Cruz entre 2011 e 2014, chegando a 92,14% do capital. Em 2017, a São Martinho comprou a participação da Petrobras na Nova Fronteira, encerrando a presença da estatal no seu capital em 2018. Nos últimos anos, a empresa tem focado em diversificação, como a aprovação da segunda fase de etanol de milho em 2025 e a incorporação da Nova Egito Agrícola Ltda. em 2026, além de emissões de debêntures para financiar a expansão.",
+    "timeline": [
+      {
+        "date": "1937-07-14",
+        "event": "Constituição da companhia São Martinho S.A.",
+        "source": 2
+      },
+      {
+        "date": "2007-02-07",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2007-02-12",
+        "event": "Início da cotação das ações na B3 sob o código SMTO3",
+        "source": 1
+      },
+      {
+        "date": "2008",
+        "event": "Inauguração da Usina Boa Vista, em Quirinópolis (GO)",
+        "source": 3
+      },
+      {
+        "date": "2010-06",
+        "event": "Anúncio da parceria estratégica com a Petrobras Biocombustível (PBio) para a produção de etanol em Goiás",
+        "source": 3
+      },
+      {
+        "date": "2011-10",
+        "event": "Compra de 32,18% da Usina Santa Cruz e 17,97% da Agropecuária Boa Vista S.A.",
+        "source": 3
+      },
+      {
+        "date": "2014",
+        "event": "Conclusão da aquisição de 59,95% adicionais na Usina Santa Cruz, atingindo 92,14% de participação",
+        "source": 3
+      },
+      {
+        "date": "2017-02-23",
+        "event": "Finalização do processo de incorporação da Nova Fronteira Bioenergia S.A. após a compra da participação da Petrobras",
+        "source": 3
+      },
+      {
+        "date": "2018-02",
+        "event": "Alienação das ações da São Martinho pela Petrobras Biocombustível, encerrando a participação da estatal",
+        "source": 3
+      },
+      {
+        "date": "2025-08-11",
+        "event": "Aprovação da Segunda Fase de Etanol de Milho",
+        "source": 11
+      },
+      {
+        "date": "2025-11-10",
+        "event": "Emissão de Debêntures e atualização do Guidance de Produção e Capex para Safra 2025/26",
+        "source": 9
+      },
+      {
+        "date": "2025-12-10",
+        "event": "Encerramento do período de moagem da Safra 2025/26",
+        "source": 8
+      },
+      {
+        "date": "2026-01-14",
+        "event": "Início do processo de Incorporação da Nova Egito Agrícola Ltda.",
+        "source": 7
+      },
+      {
+        "date": "2026-02-06",
+        "event": "Conclusão da Incorporação da Nova Egito Agrícola Ltda.",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a São Martinho S.A. ganha dinheiro",
+      "body": "A São Martinho S.A. atua na fabricação e comércio de açúcar, álcool e derivados, sendo classificada pela B3 no segmento de Alimentos Processados, subsegmento Açúcar e Álcool. O grupo possui capacidade aproximada de moagem de 24 milhões de toneladas de cana, com quatro usinas em operação: São Martinho (Pradópolis, SP), Iracema (Iracemápolis, SP), Santa Cruz (Américo Brasiliense, SP) e Boa Vista (Quirinópolis, GO). A Usina São Martinho é a maior usina sucroalcooleira em operação do mundo, com moagem de cerca de 10 milhões de toneladas por safra. A companhia também opera a Omtek, unidade de produção de ácido ribonucleico em Iracemápolis. Em 2025, a empresa aprovou a segunda fase de etanol de milho, ampliando sua matriz de produção."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da São Martinho S.A.",
+      "body": "A SMTO3 é a ação ordinária da São Martinho S.A., negociada na B3 desde 12/02/2007. A empresa está listada no segmento de governança Novo Mercado, o que implica práticas de transparência e igualdade entre acionistas. O controle acionário é privado, conforme o cadastro da CVM. Ações ordinárias (ON) dão direito a voto em assembleias gerais e participação nos lucros, enquanto ações preferenciais (PN) têm prioridade no recebimento de dividendos, mas geralmente não possuem direito a voto. A São Martinho possui apenas a classe ON, identificada pelo código SMTO3."
+    },
+    {
+      "id": "proventos",
+      "heading": "SMTO3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a SMTO3 distribuiu R$ 0,2166 por ação em 1 pagamento, resultando em um dividend yield de 1,03%. O último provento foi pago em 06/07/2026. A companhia não possui histórico de JCP (Juros sobre Capital Próprio) no período analisado. Para acompanhar os pagamentos de dividendos com data de competência e data de pagamento, é possível utilizar a ferramenta de [dividendos e JCP no app](/recursos/proventos), que consolida os comunicados da B3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da SMTO3",
+      "body": "Até 30/10/2026, a SMTO3 apresentava rentabilidade total de 52,56% nos últimos 12 meses, -35,32% em 3 anos, -35,03% em 5 anos e 37,19% em 10 anos. O preço do ativo era de R$ 21,09. A volatilidade anualizada de 12 meses foi de 46,22%, classificada como muito alta. Para comparar esses resultados com o Ibovespa, CDI ou IPCA, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado em um único gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da SMTO3",
+      "body": "A SMTO3 está sujeita a riscos setoriais, como a variação de preços de açúcar e etanol, condições climáticas que afetam a safra de cana e mudanças regulatórias no setor de biocombustíveis. A volatilidade anualizada de 46,22% (12 meses até 30/10/2026) é considerada muito alta, e a maior queda em 5 anos foi de -71,25%, entre 02/06/2022 e 02/12/2025. O beta de 0,48 indica que, historicamente, os movimentos do ativo foram menores que os do Ibovespa, mas isso não elimina a volatilidade própria do setor. A emissão de debêntures em 2025 e 2026 também introduz risco de alavancagem financeira."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SMTO3 paga dividendos?",
+      "answer": "Sim, a SMTO3 pagou R$ 0,2166 por ação em 06/07/2026, o que representa um dividend yield de 1,03% nos 12 meses até 30/10/2026. A companhia não distribuiu JCP no período. É possível acompanhar o histórico de pagamentos com datas de competência e pagamento no app, através da seção de [dividendos e JCP](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre SMTO3 e ações preferenciais?",
+      "answer": "SMTO3 é a ação ordinária (ON) da São Martinho S.A., o que significa que o acionista tem direito a voto em assembleias. Ações preferenciais (PN), quando existem, priorizam o recebimento de dividendos, mas não dão direito a voto. A São Martinho possui apenas a classe ON, negociada sob o código SMTO3 na B3."
+    },
+    {
+      "question": "SMTO3 é um ativo volátil?",
+      "answer": "Sim, a volatilidade anualizada de 12 meses da SMTO3 é de 46,22%, classificada como muito alta. A maior queda em 5 anos foi de -71,25%, entre 02/06/2022 e 02/12/2025. O beta de 0,48 indica que o ativo tende a acompanhar o Ibovespa com menor intensidade, mas a volatilidade setorial permanece elevada. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar esses movimentos."
+    },
+    {
+      "question": "O que a São Martinho S.A. faz?",
+      "answer": "A São Martinho S.A. é uma empresa do setor de açúcar e álcool, com capacidade de moagem de 24 milhões de toneladas de cana. Possui quatro usinas no Brasil, incluindo a maior usina sucroalcooleira em operação do mundo, em Pradópolis (SP). A empresa também atua na produção de etanol de milho e ácido ribonucleico."
+    },
+    {
+      "question": "Qual o desempenho da SMTO3 nos últimos 12 meses?",
+      "answer": "Até 30/10/2026, a SMTO3 teve rentabilidade total de 52,56% nos últimos 12 meses, com preço de R$ 21,09. Em 3 anos, a rentabilidade foi de -35,32%, e em 5 anos, -35,03%. Para comparar com o Ibovespa ou CDI, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "question": "Como a São Martinho diversificou sua produção?",
+      "answer": "Em 2025, a empresa aprovou a segunda fase de etanol de milho, ampliando sua matriz de produção além da cana-de-açúcar. Em 2026, incorporou a Nova Egito Agrícola Ltda. e emitiu debêntures em abril e novembro de 2025 para financiar a expansão. A companhia também possui a Omtek, unidade de produção de ácido ribonucleico em Iracemápolis (SP)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos da SMTO3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da SMTO3 com o Ibovespa, CDI e IPCA em um único gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a SMTO3 atingir um preço que você definir, útil para acompanhar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação da SMTO3 junto com outros ativos da sua carteira, como ações, renda fixa e FIIs."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CSAN3",
+        "list": "br-stocks",
+        "reason": "Cosan S.A., outra empresa do setor de açúcar e álcool, para comparação setorial."
+      },
+      {
+        "ticker": "SLCE3",
+        "list": "br-stocks",
+        "reason": "SLC Agrícola S.A., empresa do setor agrícola, para comparação de exposição a commodities agrícolas."
+      },
+      {
+        "ticker": "JHSF3",
+        "list": "br-stocks",
+        "reason": "JHSF Participações S.A., empresa do setor de alimentos, para comparação de exposição ao consumo não cíclico."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petróleo Brasileiro S.A. (Petrobras), que já teve participação na São Martinho e atua em biocombustíveis."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SMTO3",
+      "url": "https://finance.yahoo.com/quote/SMTO3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SAO MARTINHO, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20516/SMTO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, SÃO MARTINHO SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Grupo São Martinho",
+      "url": "https://pt.wikipedia.org/wiki/Grupo_S%C3%A3o_Martinho",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/05/2026, “Guidance de Produção e Capex - Safra 2026/27”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1526643&numSequencia=1051349&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/04/2026, “Emissão de Debêntures”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1509316&numSequencia=1034022&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/02/2026, “Incorporação da Nova Egito Agrícola Ltda.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1474466&numSequencia=999172&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/01/2026, “Incorporação da Nova Egito Agrícola Ltda.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1467293&numSequencia=991999&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/12/2025, “Encerramento do período de moagem - Safra 2025/26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1455819&numSequencia=980531&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/11/2025, “Emissão de Debêntures”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1443235&numSequencia=967947&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/11/2025, “Atualização do Guidance de Produção e Capex para Safra 2025/26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1443239&numSequencia=967951&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/08/2025, “Aprovação da Segunda Fase de Etanol de Milho”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1411774&numSequencia=936486&numVersao=2",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

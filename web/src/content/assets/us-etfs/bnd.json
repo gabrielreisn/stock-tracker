@@ -1,0 +1,285 @@
+{
+  "ticker": "BND",
+  "slug": "bnd",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BND: ETF de títulos de dívida dos EUA",
+    "description": "BND é o Vanguard Total Bond Market Index Fund ETF Shares, que replica o Bloomberg US Aggregate Bond Index.",
+    "h1": "BND: Vanguard Total Bond Market Index Fund ETF Shares",
+    "canonicalPath": "/etfs/bnd",
+    "keywords": [
+      "BND",
+      "Vanguard Total Bond Market Index Fund",
+      "ETF de renda fixa",
+      "Bloomberg US Aggregate Bond Index",
+      "ETF de títulos de dívida dos EUA",
+      "BND dividendos",
+      "BND volatilidade",
+      "BND beta"
+    ]
+  },
+  "summary": "BND é o Vanguard Total Bond Market Index Fund ETF Shares, um ETF lançado em 10/04/2007 que replica o Bloomberg US Aggregate Bond Index. A carteira inclui títulos de dívida de grau de investimento dos EUA, como Treasuries, títulos de agências governamentais, hipotecas e dívida corporativa. Em 30/10/2026, a cota valia US$ 71,56, com dividend yield de 4,11% e volatilidade anualizada de 3,97% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Total Bond Market Index Fund ETF Shares",
+    "ticker": "XNAS BND",
+    "foundingDate": "2007-04-10",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice de renda fixa",
+    "issuerOrManager": "The Vanguard Group",
+    "trackedIndex": "Bloomberg US Aggregate Bond Index",
+    "name": "Vanguard Total Bond Market Index Fund ETF Shares",
+    "founded": "10/04/2007"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Total Bond Market Index Fund ETF Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "10/04/2007",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 71,56",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "3,97% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,12",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,11%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 715,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BND",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Total Bond Market Index Fund ETF Shares",
+    "currency": "USD",
+    "price": 71.56,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0015,
+      "3y": 0.17,
+      "5y": -0.0078,
+      "10y": 0.1621
+    },
+    "volatility1y": 0.0397,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1738,
+      "from": "2021-11-09",
+      "to": "2022-10-20"
+    },
+    "beta1y": {
+      "value": 0.12,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.94,
+      "payments12Months": 12,
+      "yield12Months": 0.0411,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.249
+      }
+    },
+    "avgDailyTradedValue3m": 715283709
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada de 12 meses do BND é de 3,97%, um nível considerado baixo, o que é típico para ETFs de renda fixa de prazo intermediário. O beta de 0,12 contra o S&P 500 indica que o BND costuma acompanhar os movimentos do índice de ações com intensidade muito menor, na mesma direção. A maior queda nos últimos 5 anos foi de -17,38%, ocorrida entre 09/11/2021 e 20/10/2022, período de alta de juros. Para monitorar a volatilidade e configurar alertas, o app oferece [alertas de preço](/recursos/alertas-de-preco) e a [comparação com índices](/recursos/comparacao-com-indices)."
+  },
+  "history": {
+    "overview": "O BND foi lançado em 10/04/2007 pela The Vanguard Group, uma das maiores gestoras de fundos do mundo, com sede em Malvern, Pennsylvania. A empresa, fundada em 1975 por John C. Bogle, é conhecida por popularizar os fundos de índice de baixo custo, sendo a maior provedora de fundos mútuos e a segunda maior de ETFs globalmente, atrás apenas da BlackRock. O ETF surgiu para dar acesso a uma exposição ampla ao mercado de títulos de dívida dos Estados Unidos através de um único instrumento negociado em bolsa. O índice que o BND replica, o Bloomberg US Aggregate Bond Index, tem uma história que remonta a 1973, quando foi criado por Art Lipson e John Roundtree. Ao longo das décadas, o índice passou por renomeações, incluindo Barclays Capital Aggregate Bond Index, antes de ser adquirido pela Bloomberg em 2016. O BND permite que investidores acompanhem a performance do mercado de dívida de grau de investimento dos EUA com liquidez e transparência.",
+    "timeline": [
+      {
+        "date": "1973-07-07",
+        "event": "Criação do precursor do índice de títulos de dívida que o BND replica, por Art Lipson e John Roundtree.",
+        "source": 2
+      },
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group, emissora do ETF BND.",
+        "source": 1
+      },
+      {
+        "date": "2007-04-10",
+        "event": "Primeiro pregão das cotas do ETF BND na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2016-08-24",
+        "event": "Aquisição do índice de títulos pela Bloomberg L.P., que passou a mantê-lo.",
+        "source": 2
+      },
+      {
+        "date": "2021-08",
+        "event": "Renomeação do índice para Bloomberg US Aggregate Bond Index.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o BND funciona",
+      "body": "O BND é um ETF que replica o Bloomberg US Aggregate Bond Index, um índice que mede a performance do mercado de títulos de dívida de grau de investimento dos Estados Unidos. A emissora é a The Vanguard Group, uma gestora que possui os próprios fundos, o que significa que os clientes são os proprietários da empresa. O ETF foi lançado em 10/04/2007 e permite que investidores comprem uma cesta diversificada de títulos de dívida sem precisar adquirir os títulos individualmente. Como não é um ETF alavancado ou inverso, ele busca replicar a performance do índice sem multiplicadores de risco diários."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do BND",
+      "body": "O Bloomberg US Aggregate Bond Index é um índice ponderado por capitalização de mercado que representa títulos de dívida de grau de investimento dos EUA com prazo intermediário. A composição inclui Treasuries, títulos de agências governamentais, títulos lastreados em hipotecas (MBS), títulos lastreados em ativos (ABS) e dívida corporativa de grau de investimento. Os títulos devem ter valor nominal em circulação de pelo menos US$ 100 milhões e pelo menos um ano até o vencimento. O índice exclui títulos municipais e títulos protegidos contra inflação (TIPS) devido a questões de tributação. A maturidade média ponderada era de 8,76 anos em 01/07/2022."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no BND a partir do Brasil",
+      "body": "Para investir no BND a partir do Brasil, o investidor precisa abrir uma conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. O ativo é cotado em dólar, o que introduz risco cambial: a rentabilidade em reais depende tanto do desempenho do ETF quanto da variação do câmbio. Alternativamente, é possível buscar exposição ao mesmo índice através de outros ETFs ou BDRs negociados na B3, se disponíveis, o que pode simplificar a tributação e a liquidação, mas pode envolver custos adicionais."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BND",
+      "body": "Até 30/10/2026, o BND apresentou rentabilidade total com proventos de -0,15% em 12 meses, 17,00% em 3 anos, -0,78% em 5 anos e 16,21% em 10 anos. O ETF distribui proventos regularmente, com US$ 2,9400 por cota em 12 pagamentos nos 12 meses até 30/10/2026, resultando em um dividend yield de 4,11%. O último pagamento foi de US$ 0,2490 em 01/10/2026. Para comparar o desempenho do BND com o S&P 500, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BND",
+      "body": "O principal risco do BND é o risco de taxa de juros: quando os juros sobem, os preços dos títulos caem, e vice-versa. A volatilidade anualizada de 12 meses é de 3,97%, considerada baixa, mas a maior queda nos últimos 5 anos foi de -17,38%, do pico em 09/11/2021 ao ponto mais baixo em 20/10/2022. O beta de 0,12 contra o S&P 500 indica que o BND tende a ter movimentos muito menores que o mercado de ações, mas isso não significa ausência de risco. O risco cambial também é relevante para investidores brasileiros, pois o ativo é cotado em dólar. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar variações de cotação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O BND paga dividendos?",
+      "answer": "Sim, o BND distribui proventos regularmente. Nos 12 meses até 30/10/2026, foram US$ 2,9400 por cota em 12 pagamentos, com dividend yield de 4,11%. O último pagamento foi de US$ 0,2490 em 01/10/2026. É possível acompanhar os proventos no app através da [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual a diferença entre BND e AGG?",
+      "answer": "BND e [AGG](/etfs/agg) são ambos ETFs que replicam o Bloomberg US Aggregate Bond Index, mas são emitidos por gestoras diferentes: BND pela Vanguard e AGG pela iShares. Ambos buscam a mesma performance de índice, mas podem ter diferenças em liquidez, taxa de administração e estrutura de custos. É possível comparar os dois no app através do [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "BND é um ETF de renda fixa ou de ações?",
+      "answer": "BND é um ETF de renda fixa, pois replica o Bloomberg US Aggregate Bond Index, que é composto por títulos de dívida de grau de investimento dos EUA. Ele não investe em ações, mas em títulos de dívida, o que o torna um ativo de menor volatilidade que ETFs de ações como o [SPY](/etfs/spy)."
+    },
+    {
+      "question": "Qual o risco cambial de investir no BND?",
+      "answer": "O BND é cotado em dólar, então o investidor brasileiro está exposto ao risco cambial: a rentabilidade em reais depende da variação do câmbio. Se o dólar valorizar, o BND tende a valorizar em reais, mesmo que a cota em dólar caia. É possível monitorar a exposição cambial na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Como o BND se comporta em cenários de alta de juros?",
+      "answer": "Em cenários de alta de juros, os preços dos títulos de dívida caem, o que pode levar a perdas no BND. A maior queda nos últimos 5 anos foi de -17,38%, entre 09/11/2021 e 20/10/2022, período de alta de juros. O beta de 0,12 contra o S&P 500 indica que o BND tem movimentos menores que o mercado de ações, mas não é imune a quedas. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar a cotação."
+    },
+    {
+      "question": "O BND é adequado para investidores iniciantes?",
+      "answer": "O BND é um ETF de renda fixa de prazo intermediário, com volatilidade baixa (3,97% em 12 meses), o que o torna um ativo de menor risco que ETFs de ações. No entanto, ele ainda está exposto ao risco de taxa de juros e ao risco cambial para investidores brasileiros. É possível usar o [assistente de IA](/recursos/assistente-de-ia) do app para entender como o BND se encaixa na sua carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do BND ao lado de outros ativos na sua carteira, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do BND com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando a cota do BND atingir um preço que você escolheu."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do BND e o preço médio da sua posição ao longo do tempo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "AGG",
+        "list": "us-etfs",
+        "reason": "ETF da iShares que replica o mesmo índice, o Bloomberg US Aggregate Bond Index."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro dos EUA com prazo longo, para comparação de risco de taxa de juros."
+      },
+      {
+        "ticker": "LQD",
+        "list": "us-etfs",
+        "reason": "ETF de dívida corporativa de grau de investimento, para comparação de composição de crédito."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação entre renda fixa e renda variável."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BND",
+      "url": "https://finance.yahoo.com/quote/BND/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Bloomberg US Aggregate Bond Index (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Bloomberg_US_Aggregate_Bond_Index",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Bond market (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Bond_market",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

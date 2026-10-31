@@ -1,0 +1,285 @@
+{
+  "ticker": "M1RN34",
+  "slug": "m1rn34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "M1RN34: BDR da Moderna, história e volatilidade",
+    "description": "Conheça o M1RN34, BDR da Moderna Therapeutics na B3. Veja desempenho, riscos, proventos e como acompanhar a ação de biotecnologia em reais.",
+    "h1": "M1RN34: BDR da Moderna Therapeutics",
+    "canonicalPath": "/bdrs/m1rn34",
+    "keywords": [
+      "M1RN34",
+      "Moderna BDR",
+      "BDR Moderna",
+      "M1RN34 dividendos",
+      "volatilidade M1RN34",
+      "Moderna Therapeutics"
+    ]
+  },
+  "summary": "M1RN34 é o BDR não patrocinado de nível I da Moderna Therapeutics, empresa de biotecnologia focada em vacinas de RNA mensageiro. Listado na B3 em 22/09/2020, o ativo acompanha a ação original MRNA na NASDAQ e o câmbio. Em 29/10/2026, a cotação era de R$ 60,00, com rentabilidade de 816,03% nos últimos 12 meses, refletindo a alta volatilidade do setor farmacêutico.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Moderna Therapeutics",
+    "legalName": "MODERNA INC",
+    "ticker": "BVMF M1RN34",
+    "foundingDate": "2010",
+    "website": "https://www.modernatx.com/",
+    "wikidata": "Q17081612",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q17081612",
+      "https://en.wikipedia.org/wiki/Moderna",
+      "https://pt.wikipedia.org/wiki/Moderna_(empresa)",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/56243/M1RN/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Moderna Therapeutics",
+    "legalName": "MODERNA INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2010",
+    "listedSince": "22/09/2020",
+    "headquarters": "Cambridge",
+    "website": "https://www.modernatx.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "MODERNA INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: MRNA",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Cambridge",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2010",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "22/09/2020",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 60,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "131,59% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original MRNA em dólares)",
+      "value": "2,33",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 6,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "M1RN34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Moderna, Inc.",
+    "currency": "BRL",
+    "price": 60,
+    "historyStarts": "2020-10-14",
+    "returns": {
+      "1y": 8.1603,
+      "3y": 2.2328,
+      "5y": -0.3843,
+      "10y": null
+    },
+    "volatility1y": 1.3159,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9387,
+      "from": "2021-11-29",
+      "to": "2025-11-21"
+    },
+    "beta1y": {
+      "value": 2.33,
+      "against": "S&P 500, ação original MRNA em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 6160930
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do M1RN34 nos últimos 12 meses é de 131,59%, um nível considerado muito alto, típico de ações de biotecnologia em fase de desenvolvimento. O beta da ação original MRNA contra o S&P 500 é de 2,33, o que significa que, historicamente, os movimentos da ação tendem a ser mais de duas vezes maiores que os do índice, na mesma direção. A maior queda em 5 anos foi de -93,87%, entre 29/11/2021 e 21/11/2025. Como o BDR é cotado em reais, o investidor também sofre o efeito do câmbio, o que pode aumentar a volatilidade percebida. É possível acompanhar a variação diária do ativo pelo [widget da barra de menus](/recursos/widget-da-barra-de-menus)."
+  },
+  "history": {
+    "overview": "A Moderna Therapeutics foi fundada em 2010 em Cambridge, Massachusetts, com o objetivo de desenvolver terapias baseadas em RNA mensageiro (mRNA). A empresa captou US$ 2 bilhões em capital de risco entre 2011 e 2017, estabelecendo parcerias com AstraZeneca, Merck e Vertex Pharmaceuticals. Em dezembro de 2018, realizou a maior oferta pública inicial de uma biotecnologia na história, levantando US$ 621 milhões e sendo listada na NASDAQ sob o ticker MRNA. A virada decisiva ocorreu durante a pandemia de COVID-19, quando a vacina mRNA-1273 recebeu autorização de uso emergencial nos EUA em dezembro de 2020, impulsionada por financiamentos governamentais como a Operation Warp Speed. Após o auge de 2021, a empresa enfrentou uma forte correção, mas em 2026 voltou a destacar-se com aprovações de vacinas para vírus sincicial respiratório (mResvia) e influenza (mFlusiva), além de avanços em vacinas contra o melanoma em parceria com a Merck. O BDR M1RN34 foi listado na B3 em 22/09/2020, permitindo a exposição de investidores brasileiros ao desempenho da companhia.",
+    "timeline": [
+      {
+        "date": "2010",
+        "event": "Fundação da Moderna Therapeutics em Cambridge, Massachusetts.",
+        "source": 2
+      },
+      {
+        "date": "2018-12-07",
+        "event": "Estreia na NASDAQ sob o ticker MRNA, levantando US$ 621 milhões na maior IPO de biotecnologia da época.",
+        "source": 3
+      },
+      {
+        "date": "2020-09-22",
+        "event": "Listagem do BDR M1RN34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2020-12",
+        "event": "Autorização de uso emergencial da vacina COVID-19 mRNA-1273 nos Estados Unidos.",
+        "source": 3
+      },
+      {
+        "date": "2024-05",
+        "event": "Aprovação da vacina mResvia contra o vírus sincicial respiratório para idosos nos EUA.",
+        "source": 3
+      },
+      {
+        "date": "2026-08",
+        "event": "Aprovação da vacina mFlusiva contra a influenza para pessoas com 50 anos ou mais nos EUA.",
+        "source": 3
+      },
+      {
+        "date": "2026-08-19",
+        "event": "Anúncio de resultados positivos de fase 3 da vacina contra melanoma em combinação com pembrolizumab, elevando a ação em 177% em um dia.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Moderna Therapeutics ganha dinheiro",
+      "body": "A Moderna Therapeutics é uma empresa de biotecnologia focada na descoberta e desenvolvimento de medicamentos e vacinas baseadas em RNA mensageiro (mRNA). A receita provém da venda de produtos comerciais, como a vacina Spikevax contra a COVID-19, a mResvia contra o vírus sincicial respiratório e a mFlusiva contra a influenza. A empresa mantém 44 candidatos a tratamentos e vacinas em desenvolvimento, dos quais 37 já entraram em ensaios clínicos, abrangendo áreas como oncologia, HIV e outros vírus. Em 2026, a Moderna foi classificada em primeiro lugar na lista das empresas mais impactantes do mundo pela revista Time."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR M1RN34",
+      "body": "O M1RN34 é um BDR não patrocinado de nível I, o que significa que é um recibo negociado na B3, em reais, lastreado em ações da Moderna Inc. (MRNA) na NASDAQ, emitido por uma instituição depositária. O preço do BDR acompanha a variação da ação original em dólares e a taxa de câmbio. O ativo está listado na B3 desde 22/09/2020."
+    },
+    {
+      "id": "proventos",
+      "heading": "M1RN34 paga dividendos?",
+      "body": "Não houve pagamento de proventos (dividendos ou juros sobre capital próprio) para o M1RN34 nos últimos 12 meses até 29/10/2026. Como a Moderna é uma empresa de biotecnologia em fase de crescimento e desenvolvimento de pipeline, a política de distribuição de lucros não é uma característica atual do ativo. Caso haja distribuição futura, o valor será convertido para reais conforme a cotação do dólar na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do M1RN34",
+      "body": "Até 29/10/2026, o M1RN34 apresentou rentabilidade total de 816,03% nos últimos 12 meses, 223,28% em 3 anos e -38,43% em 5 anos. Esses números em reais incluem a variação do câmbio do dólar para o real, o que amplifica os ganhos ou perdas em relação à ação original em dólares. A volatilidade anualizada de 12 meses é de 131,59%, classificada como muito alta. Para acompanhar a evolução do seu investimento, você pode usar a [comparação com índices](/recursos/comparacao-com-indices) para ver o desempenho do M1RN34 ao lado do S&P 500 e do CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do M1RN34",
+      "body": "O M1RN34 expõe o investidor a riscos setoriais da biotecnologia, como a aprovação regulatória de vacinas e o sucesso de ensaios clínicos. A empresa enfrenta disputas de patentes com concorrentes como a Arbutus Biopharma e a Pfizer/BioNTech. Há também o risco cambial, pois o BDR é cotado em reais e lastreado em uma ação em dólares. A liquidez do BDR na B3 é moderada, com volume médio de R$ 6,2 milhões por dia nos últimos 3 meses. A volatilidade anualizada de 131,59% e a maior queda de -93,87% (de 29/11/2021 a 21/11/2025) indicam oscilações extremas, o que pode ser monitorado com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "M1RN34 paga dividendos?",
+      "answer": "Não, o M1RN34 não pagou proventos nos últimos 12 meses até 29/10/2026. A Moderna Therapeutics é uma empresa de biotecnologia que reinveste seus recursos no desenvolvimento de vacinas e medicamentos, não distribuindo lucros aos acionistas atualmente."
+    },
+    {
+      "question": "O que é o BDR M1RN34?",
+      "answer": "M1RN34 é um BDR não patrocinado de nível I que representa ações da Moderna Inc. (MRNA) na NASDAQ. Ele é negociado na B3 em reais e permite a exposição de investidores brasileiros ao desempenho da empresa de biotecnologia, incluindo a variação do câmbio."
+    },
+    {
+      "question": "Qual a diferença entre M1RN34 e MRNA?",
+      "answer": "MRNA é a ação original da Moderna, negociada em dólares na NASDAQ. M1RN34 é o BDR que representa essa ação, negociado em reais na B3. O preço do M1RN34 reflete tanto a variação do MRNA quanto a cotação do dólar em relação ao real."
+    },
+    {
+      "question": "M1RN34 é um investimento de baixo risco?",
+      "answer": "Não. A volatilidade anualizada de 131,59% e a maior queda de -93,87% em 5 anos indicam um ativo de alto risco, comum no setor de biotecnologia. O investidor deve estar preparado para oscilações significativas no preço."
+    },
+    {
+      "question": "Como acompanhar o M1RN34 no app?",
+      "answer": "Você pode usar o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para ver a rentabilidade da sua posição e o [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua carteira, com respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do M1RN34 lado a lado com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o M1RN34 atingir o preço que você definiu, útil para monitorar oscilações de alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do M1RN34 junto com outras classes de ativos, como ações e ETFs, em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LILY34",
+        "list": "bdrs",
+        "reason": "Outro BDR de biotecnologia/farmacêutica, com perfil de risco e volatilidade semelhantes."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR de tecnologia com alta volatilidade, útil para comparação de ativos de crescimento."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para a comparação de desempenho do M1RN34."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de M1RN34",
+      "url": "https://finance.yahoo.com/quote/M1RN34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MODERNA INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/56243/M1RN/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Moderna Therapeutics",
+      "url": "https://www.wikidata.org/wiki/Q17081612",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Moderna",
+      "url": "https://en.wikipedia.org/wiki/Moderna",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Moderna (empresa)",
+      "url": "https://pt.wikipedia.org/wiki/Moderna_(empresa)",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,317 @@
+{
+  "ticker": "XPBR31",
+  "slug": "xpbr31",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XPBR31: BDR da XP Inc., dividendos e volatilidade",
+    "description": "XPBR31 é o BDR da XP Inc., gestora de investimentos brasileira. Veja dividendos, volatilidade, histórico e desempenho do BDR na B3.",
+    "h1": "XPBR31: BDR da XP Inc. na B3",
+    "canonicalPath": "/bdrs/xpbr31",
+    "keywords": [
+      "XPBR31",
+      "BDR XP Inc",
+      "XP Inc B3",
+      "dividendos XPBR31",
+      "volatilidade XPBR31",
+      "XP Inc NASDAQ",
+      "BDR patrocinado nível I",
+      "XP Investimentos BDR"
+    ]
+  },
+  "summary": "XPBR31 é o BDR patrocinado nível I da XP Inc., gestora de investimentos brasileira listada na NASDAQ sob o ticker XP. A empresa oferece serviços de corretagem, gestão de recursos e previdência para mais de 4,79 milhões de clientes ativos em 2026. O ativo é negociado na B3 em reais desde 28/07/2021 e reflete o desempenho da ação original em dólares, somado à variação do câmbio. Em 29/10/2026, o preço era de R$ 81,50.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "XP Investimentos",
+    "legalName": "XP INC.",
+    "ticker": "BVMF XPBR31",
+    "website": "https://www.xpinc.com",
+    "wikidata": "Q96186528",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q96186528",
+      "https://en.wikipedia.org/wiki/XP_Inc.",
+      "https://pt.wikipedia.org/wiki/XP_Inc.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57746/XPBR/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "XP Investimentos",
+    "legalName": "XP INC.",
+    "type": "BDR patrocinado nível I",
+    "listedSince": "28/07/2021",
+    "website": "https://www.xpinc.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "XP INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR patrocinado nível I",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: XP, B3: XPBR31",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "28/07/2021",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 81,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "76,32% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original XP em dólares)",
+      "value": "1,75",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,48%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 149,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XPBR31",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "XP Inc.",
+    "currency": "BRL",
+    "price": 81.5,
+    "historyStarts": "2021-10-04",
+    "returns": {
+      "1y": -0.1488,
+      "3y": -0.0855,
+      "5y": -0.4985,
+      "10y": null
+    },
+    "volatility1y": 0.7632,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7182,
+      "from": "2021-11-05",
+      "to": "2023-04-06"
+    },
+    "beta1y": {
+      "value": 1.75,
+      "against": "S&P 500, ação original XP em dólares"
+    },
+    "dividends": {
+      "last12Months": 2.0183,
+      "payments12Months": 2,
+      "yield12Months": 0.0248,
+      "lastPayment": {
+        "date": "2026-06-10",
+        "amount": 1.0242
+      }
+    },
+    "avgDailyTradedValue3m": 149376684
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do XPBR31 nos últimos 12 meses é de 76,32%, nível muito alto. O beta da ação original XP contra o S&P 500 é de 1,75, o que significa que a ação tende a acompanhar os movimentos do índice com amplitude 1,75 vezes maior. A maior queda em 5 anos foi de -71,82%, do pico em 05/11/2021 ao ponto mais baixo em 06/04/2023. Para monitorar oscilações de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificações quando o ativo atinge o valor definido."
+  },
+  "history": {
+    "overview": "A XP Investimentos nasceu em 2001 em Porto Alegre, fundada por Guilherme Benchimol e Marcelo Maisonnave como uma empresa de agentes de investimentos independentes. A transformação em corretora de valores ocorreu em 2007, após a incorporação da Americainvest. Nos anos seguintes, a empresa consolidou sua posição por meio de aquisições estratégicas, incluindo a Interfloat, a Infomoney em 2011, a Prime Corretora em 2012, a Clear Corretora em 2014 e a Rico Corretora em 2016. Em 2017, o Itaú Unibanco comprou 49,9% do capital por R$ 5,7 bilhões, e em janeiro de 2022 a XP adquiriu o Banco Modal por R$ 3 bilhões. Em dezembro de 2023, o Itaúsa anunciou a venda de sua participação na XP. O BDR XPBR31 foi listado na B3 em 28/07/2021, permitindo que investidores brasileiros acompanhem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "2001",
+        "event": "Fundação da XP Investimentos em Porto Alegre por Guilherme Benchimol e Marcelo Maisonnave.",
+        "source": 3
+      },
+      {
+        "date": "2007",
+        "event": "XP Investimentos torna-se corretora de valores após a incorporação da Americainvest.",
+        "source": 3
+      },
+      {
+        "date": "2011",
+        "event": "Aquisição da Interfloat, da Senso Corretora e da Infomoney.",
+        "source": 3
+      },
+      {
+        "date": "2014-07",
+        "event": "Compra da Clear Corretora por US$ 90 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2016-12",
+        "event": "Aquisição da Rico Corretora de Valores.",
+        "source": 3
+      },
+      {
+        "date": "2017-07",
+        "event": "Itaú Unibanco adquire 49,9% das ações da XP por R$ 5,7 bilhões.",
+        "source": 4
+      },
+      {
+        "date": "2021-07-28",
+        "event": "Listagem do BDR XPBR31 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2022-01",
+        "event": "XP adquire o Banco Modal por R$ 3 bilhões.",
+        "source": 4
+      },
+      {
+        "date": "2023-12",
+        "event": "Itaúsa anuncia a venda de ações da XP.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a XP Investimentos ganha dinheiro",
+      "body": "A XP Inc. é uma gestora de investimentos brasileira que oferece produtos de renda fixa, ações, fundos de investimento e previdência privada, além de serviços de gestão de patrimônio. A empresa atende clientes no Brasil e possui escritórios em São Paulo, Rio de Janeiro, Nova York, Miami, Londres e Genebra. Em 2026, a XP reportou ativos de clientes de R$ 1,529 trilhão, 4,79 milhões de clientes ativos e 18,3 mil consultores conectados à sua plataforma. A receita provém das comissões de corretagem, taxas de administração de fundos e serviços de assessoria financeira."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR XPBR31",
+      "body": "XPBR31 é um BDR patrocinado nível I, um recibo negociado na B3 em reais que representa ações da XP Inc. listadas na NASDAQ sob o ticker XP. O preço do BDR acompanha a cotação da ação original em dólares e a variação do câmbio. A listagem na B3 ocorreu em 28/07/2021, permitindo que investidores brasileiros acessem a empresa sem a necessidade de operar diretamente no mercado americano."
+    },
+    {
+      "id": "proventos",
+      "heading": "XPBR31 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, o XPBR31 distribuiu R$ 2,0183 por BDR em 2 pagamentos, resultando em um dividend yield de 2,48%. O último pagamento foi de R$ 1,0242 em 10/06/2026. Como a XP Inc. é uma empresa listada nos Estados Unidos, os proventos são pagos em dólares e convertidos para reais na data de pagamento, o que pode variar conforme o câmbio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XPBR31",
+      "body": "Até 29/10/2026, a rentabilidade total do XPBR31 com proventos foi de -14,88% nos últimos 12 meses, -8,55% em 3 anos e -49,85% em 5 anos. Esses números incluem a variação do câmbio, já que o BDR é cotado em reais e a ação original em dólares. Para comparar o desempenho com outros ativos, utilize a [comparação com índices](/recursos/comparacao-com-indices), que permite avaliar a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XPBR31",
+      "body": "O XPBR31 apresenta volatilidade anualizada de 76,32% nos últimos 12 meses, classificada como muito alta. A maior queda em 5 anos foi de -71,82%, do pico em 05/11/2021 ao ponto mais baixo em 06/04/2023. O beta da ação original XP contra o S&P 500 é de 1,75, indicando que a ação tende a se mover com maior amplitude que o índice. Além do risco de mercado, o BDR sofre o efeito do câmbio, o que pode amplificar ou atenuar os retornos em reais. A liquidez do BDR na B3 é alta, com volume médio de R$ 149,4 milhões por dia nos últimos 3 meses."
+    }
+  ],
+  "faq": [
+    {
+      "question": "XPBR31 paga dividendos?",
+      "answer": "Sim, o XPBR31 distribui proventos. Nos 12 meses até 29/10/2026, foram pagos R$ 2,0183 por BDR em 2 pagamentos, com dividend yield de 2,48%. O último pagamento foi de R$ 1,0242 em 10/06/2026. Os valores são pagos em reais, mas a conversão depende do câmbio na data de pagamento."
+    },
+    {
+      "question": "Qual a diferença entre XPBR31 e a ação XP na NASDAQ?",
+      "answer": "XPBR31 é um BDR patrocinado nível I negociado na B3 em reais, enquanto a ação XP é negociada na NASDAQ em dólares. O preço do BDR acompanha a cotação da ação original e a variação do câmbio. O BDR permite que investidores brasileiros acessem a empresa sem operar diretamente no mercado americano."
+    },
+    {
+      "question": "Qual a volatilidade do XPBR31?",
+      "answer": "A volatilidade anualizada do XPBR31 nos últimos 12 meses é de 76,32%, nível muito alto. A maior queda em 5 anos foi de -71,82%, do pico em 05/11/2021 ao ponto mais baixo em 06/04/2023. Para monitorar oscilações de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+    },
+    {
+      "question": "Como o câmbio afeta o XPBR31?",
+      "answer": "O XPBR31 é cotado em reais, mas a ação original XP é negociada em dólares. Portanto, a variação do câmbio afeta o preço do BDR. Se o dólar valorizar em relação ao real, o BDR tende a subir, e vice-versa. Para acompanhar o desempenho, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "question": "Qual o volume médio de negociação do XPBR31?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 149,4 milhões, indicando alta liquidez na B3. Para acompanhar o ativo durante o pregão, utilize o [widget na barra de menus](/recursos/widget-da-barra-de-menus) do app, que mostra o gráfico do dia e as posições com um clique."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o XPBR31 junto com outras posições na sua carteira, com alocação por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do XPBR31 e o preço médio da sua posição, com gráfico de rentabilidade e variação do dia e do ano."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do XPBR31 com o S&P 500 e o CDI, no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o XPBR31 atingir o preço que você definiu, para acompanhar oscilações sem precisar ficar de olho no gráfico."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em XPBR31 e o assistente responde com base nos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Itaú Unibanco é o controlador da XP Inc., e o desempenho do banco pode influenciar a estratégia da XP."
+      },
+      {
+        "ticker": "ITSA4",
+        "list": "br-stocks",
+        "reason": "Itaúsa é a holding controladora do Itaú Unibanco, e a venda de ações da XP em 2023 foi anunciada pela Itaúsa."
+      },
+      {
+        "ticker": "ROXO34",
+        "list": "bdrs",
+        "reason": "Nu Holdings é outro BDR de uma empresa brasileira listada nos EUA, com perfil de crescimento e volatilidade semelhante."
+      },
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "MercadoLibre é um BDR de uma empresa brasileira listada nos EUA, com exposição ao mercado americano e ao câmbio."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "SPY é o ETF do S&P 500, índice de referência para o beta da ação original XP, e pode ser usado para comparar o desempenho do XPBR31."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XPBR31",
+      "url": "https://finance.yahoo.com/quote/XPBR31.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: XP INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57746/XPBR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: XP Investimentos",
+      "url": "https://www.wikidata.org/wiki/Q96186528",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): XP Inc.",
+      "url": "https://en.wikipedia.org/wiki/XP_Inc.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): XP Inc.",
+      "url": "https://pt.wikipedia.org/wiki/XP_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

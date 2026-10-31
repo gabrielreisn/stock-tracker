@@ -1,0 +1,295 @@
+{
+  "ticker": "AIRB34",
+  "slug": "airb34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AIRB34: BDR da Airbnb, desempenho e riscos",
+    "description": "Conheça o AIRB34, BDR da Airbnb na B3. Veja desempenho, volatilidade, riscos cambiais e como funciona o ativo. Atualizado até 30/10/2026.",
+    "h1": "AIRB34: BDR da Airbnb, Inc.",
+    "canonicalPath": "/bdrs/airb34",
+    "keywords": [
+      "AIRB34",
+      "Airbnb BDR",
+      "BDR nível I",
+      "ABNB",
+      "B3",
+      "volatilidade AIRB34",
+      "risco cambial BDR"
+    ]
+  },
+  "summary": "AIRB34 é o BDR não patrocinado (nível I) da Airbnb, Inc., empresa americana de marketplace para hospedagem e experiências. Listado na B3 desde 15/01/2021, o ativo acompanha a ação ABNB na NASDAQ e o câmbio. Até 30/10/2026, a cotação era de R$ 44,92, com rentabilidade de 31,15% em 12 meses, mas volatilidade anualizada de 40,50%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Airbnb",
+    "legalName": "AIRBNB INC",
+    "ticker": "BVMF AIRB34",
+    "foundingDate": "2008",
+    "website": "https://www.airbnb.com/",
+    "wikidata": "Q63327",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q63327",
+      "https://en.wikipedia.org/wiki/Airbnb",
+      "https://pt.wikipedia.org/wiki/Airbnb",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57193/AIRB/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Airbnb",
+    "legalName": "AIRBNB INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2008",
+    "listedSince": "15/01/2021",
+    "headquarters": "Nova Iorque, São Francisco",
+    "website": "https://www.airbnb.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "AIRBNB INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: ABNB",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Nova Iorque, São Francisco",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2008",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "15/01/2021",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 44,92",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "40,50% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original ABNB em dólares)",
+      "value": "1,09",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 483.700,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AIRB34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Airbnb, Inc.",
+    "currency": "BRL",
+    "price": 44.92,
+    "historyStarts": "2021-02-01",
+    "returns": {
+      "1y": 0.3115,
+      "3y": 0.5279,
+      "5y": -0.0868,
+      "10y": null
+    },
+    "volatility1y": 0.405,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6214,
+      "from": "2021-11-16",
+      "to": "2022-12-28"
+    },
+    "beta1y": {
+      "value": 1.09,
+      "against": "S&P 500, ação original ABNB em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 483700
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do AIRB34 nos últimos 12 meses é de 40,50%, um nível considerado muito alto para um BDR. Isso significa que o preço do ativo oscila bastante em relação à média. O beta da ação original ABNB, contra o S&P 500, é de 1,09, indicando que a ação tende a se mover em amplitude ligeiramente maior que o índice de referência. A maior queda em 5 anos foi de -62,14%, entre 16/11/2021 e 28/12/2022, o que reflete a sensibilidade do setor de viagens a eventos globais, como a pandemia de COVID-19. Para acompanhar essas oscilações, é possível usar os alertas de preço do app."
+  },
+  "history": {
+    "overview": "A Airbnb, Inc. nasceu em 2008 em São Francisco, Califórnia, quando Brian Chesky e Joe Gebbia colocaram um colchão inflável em sua sala para hospedar viajantes durante uma conferência. Nathan Blecharczyk entrou como terceiro sócio e CTO. A empresa recebeu apoio inicial do Y Combinator e, em 2009, mudou o nome para Airbnb.com para evitar confusão com colchões. Em 10 de dezembro de 2020, a companhia realizou sua oferta inicial de ações (IPO) na NASDAQ, levantando US$ 3,5 bilhões, e desde então opera como empresa pública sob o ticker ABNB. O BDR AIRB34 chegou à B3 em 15 de janeiro de 2021, permitindo que investidores brasileiros acompanhem a empresa em reais. Em 2022, a Airbnb suspendeu operações na Rússia e Belarus por causa das sanções internacionais e encerrou atividades na China, onde representava menos de 1% da receita, devido a regulamentações complexas e queda de demanda. A empresa também enfrentou quedas bruscas de reservas durante a pandemia de COVID-19, o que resultou em demissões e compensações a anfitriões.",
+    "timeline": [
+      {
+        "date": "2008",
+        "event": "Fundação da Airbnb por Brian Chesky, Joe Gebbia e Nathan Blecharczyk.",
+        "source": 2
+      },
+      {
+        "date": "2020-12-10",
+        "event": "Oferta inicial de ações (IPO) na NASDAQ, levantando US$ 3,5 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2021-01-15",
+        "event": "Listagem do BDR AIRB34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2022-03",
+        "event": "Suspensão das operações na Rússia e Belarus devido a sanções internacionais.",
+        "source": 3
+      },
+      {
+        "date": "2022-05",
+        "event": "Encerramento das operações na China por questões regulatórias e de mercado.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Airbnb ganha dinheiro",
+      "body": "A Airbnb, Inc. opera um marketplace online para estadias de curta e longa duração, experiências e serviços. A empresa atua como intermediária, cobrando uma comissão de cada reserva feita na plataforma. O modelo de negócio conecta pessoas que oferecem acomodações a turistas que buscam hospedagem, abrangendo mais de 35.000 cidades em 192 países. A receita provém dessas taxas de serviço, que são aplicadas tanto aos anfitriões quanto aos hóspedes."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR AIRB34",
+      "body": "O AIRB34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Airbnb, Inc., que são listadas na NASDAQ sob o ticker ABNB. O preço do BDR acompanha a variação da ação original em dólares e a taxa de câmbio do dólar em relação ao real. A listagem na B3 ocorreu em 15 de janeiro de 2021. Como é um BDR não patrocinado, a própria Airbnb não é responsável pela emissão ou manutenção do recibo, que é feito por uma instituição depositária."
+    },
+    {
+      "id": "proventos",
+      "heading": "AIRB34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, o AIRB34 não distribuiu proventos, como dividendos ou juros sobre capital próprio. A Airbnb, Inc. não possui histórico recente de distribuição de lucros em dinheiro aos acionistas, conforme os dados disponíveis. Caso a empresa decida pagar dividendos no futuro, o valor será convertido para reais e creditado aos detentores do BDR, sujeito às regras de tributação aplicáveis no Brasil."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do AIRB34",
+      "body": "Até 30/10/2026, o AIRB34 apresentou rentabilidade total com proventos de 31,15% em 12 meses, 52,79% em 3 anos e -8,68% em 5 anos. Esses números estão em reais e incluem a variação do câmbio do dólar. Para entender o desempenho em relação a outros investimentos, é possível comparar com índices como o S&P 500 ou o CDI. A volatilidade anualizada de 12 meses foi de 40,50%, classificada como muito alta, o que indica oscilações expressivas no preço."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do AIRB34",
+      "body": "Os principais riscos do AIRB34 incluem a volatilidade do mercado de ações americano, a exposição ao câmbio (dólar/real) e a liquidez do BDR na B3, que tem volume médio diário de R$ 483.700,00 nos últimos 3 meses. A maior queda em 5 anos foi de -62,14%, entre 16/11/2021 e 28/12/2022. Além disso, a empresa enfrenta riscos regulatórios em diversos países, como restrições a locações de curta duração em cidades como Barcelona e Paris, e a concorrência com o setor hoteleiro tradicional."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar AIRB34 no app",
+      "body": "Para quem tem AIRB34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações para quando o AIRB34 atingir um valor que você tenha em mente, considerando a alta volatilidade do ativo.\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do AIRB34 lado a lado com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho em relação a outros investimentos.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do AIRB34 junto com outras posições em ações, BDRs e renda fixa em uma única visão.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Meça a rentabilidade do AIRB34 em diferentes períodos e veja o preço médio da sua posição, considerando a variação do câmbio."
+    }
+  ],
+  "faq": [
+    {
+      "question": "AIRB34 paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 30/10/2026, o AIRB34 não distribuiu proventos. A Airbnb, Inc. não possui histórico recente de pagamento de dividendos em dinheiro."
+    },
+    {
+      "question": "O que é o BDR AIRB34?",
+      "answer": "É um recibo negociado na B3, em reais, que representa ações da Airbnb, Inc. (ABNB) na NASDAQ. É um BDR não patrocinado de nível I, listado desde 15/01/2021."
+    },
+    {
+      "question": "Qual o risco cambial do AIRB34?",
+      "answer": "O AIRB34 é cotado em reais, mas sua ação original é em dólares. Portanto, o preço do BDR é afetado pela variação do câmbio entre dólar e real, além da performance da ação ABNB."
+    },
+    {
+      "question": "Qual a volatilidade do AIRB34?",
+      "answer": "A volatilidade anualizada de 12 meses é de 40,50%, considerada muito alta. A maior queda em 5 anos foi de -62,14%, entre 16/11/2021 e 28/12/2022."
+    },
+    {
+      "question": "Como o AIRB34 se compara ao S&P 500?",
+      "answer": "O beta da ação ABNB contra o S&P 500 é de 1,09, indicando que a ação tende a se mover em amplitude ligeiramente maior que o índice. Para uma comparação visual de rentabilidade, use a ferramenta de comparação com índices do app."
+    },
+    {
+      "question": "Quais são os riscos regulatórios da Airbnb?",
+      "answer": "A empresa enfrenta restrições em cidades como Barcelona, Paris e Berlim, que limitam ou proíbem locações de curta duração. Em 2022, a Airbnb encerrou operações na China e suspendeu atividades na Rússia e Belarus."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o AIRB34 atingir um valor que você tenha em mente, considerando a alta volatilidade do ativo."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do AIRB34 lado a lado com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho em relação a outros investimentos."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do AIRB34 junto com outras posições em ações, BDRs e renda fixa em uma única visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Meça a rentabilidade do AIRB34 em diferentes períodos e veja o preço médio da sua posição, considerando a variação do câmbio."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BKNG34",
+        "list": "bdrs",
+        "reason": "Outro BDR do setor de viagens e hospedagem, com exposição semelhante ao mercado de turismo."
+      },
+      {
+        "ticker": "U1BE34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de mobilidade e serviços, com perfil de crescimento e volatilidade comparável."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar o desempenho do AIRB34 com o mercado americano como um todo."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia com alta volatilidade e exposição a eventos macroeconômicos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AIRB34",
+      "url": "https://finance.yahoo.com/quote/AIRB34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: AIRBNB, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57193/AIRB/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Airbnb",
+      "url": "https://www.wikidata.org/wiki/Q63327",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Airbnb",
+      "url": "https://en.wikipedia.org/wiki/Airbnb",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Airbnb",
+      "url": "https://pt.wikipedia.org/wiki/Airbnb",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

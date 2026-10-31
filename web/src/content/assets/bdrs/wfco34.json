@@ -1,0 +1,304 @@
+{
+  "ticker": "WFCO34",
+  "slug": "wfco34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "WFCO34: BDR da Wells Fargo, dividendos e volatilidade",
+    "description": "Conheça o WFCO34, BDR da Wells Fargo na B3. Veja dividendos, rentabilidade, riscos cambiais e como acompanhar o ativo no app.",
+    "h1": "WFCO34: BDR da Wells Fargo & Company",
+    "canonicalPath": "/bdrs/wfco34",
+    "keywords": [
+      "WFCO34",
+      "Wells Fargo BDR",
+      "BDR Wells Fargo",
+      "dividendos WFCO34",
+      "volatilidade WFCO34",
+      "BDR nível I",
+      "WFC B3"
+    ]
+  },
+  "summary": "WFCO34 é o BDR não patrocinado (nível I) da Wells Fargo & Company, negociado na B3 em reais e lastreado na ação WFC da Bolsa de Valores de Nova Iorque. A empresa é uma instituição financeira sistemicamente importante dos Estados Unidos, com sede em São Francisco e atuação em 35 países. Em 30/10/2026, o BDR cotava a R$ 113,32, com dividend yield de 1,48% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Wells Fargo",
+    "legalName": "WELLS FARGO & COMPANY",
+    "ticker": "BVMF WFCO34",
+    "foundingDate": "1852-03-18",
+    "website": "https://www.wellsfargo.com/",
+    "wikidata": "Q744149",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q744149",
+      "https://en.wikipedia.org/wiki/Wells_Fargo",
+      "https://pt.wikipedia.org/wiki/Wells_Fargo",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50130/WFCO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Wells Fargo",
+    "legalName": "WELLS FARGO & COMPANY",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "18/03/1852",
+    "listedSince": "09/11/2010",
+    "headquarters": "São Francisco",
+    "website": "https://www.wellsfargo.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "WELLS FARGO & COMPANY",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: WFC",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Francisco",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "18/03/1852",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "09/11/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 113,32",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "29,53% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,48%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 647.561,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "WFCO34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Wells Fargo & Company",
+    "currency": "BRL",
+    "price": 113.32,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.005,
+      "3y": 1.4015,
+      "5y": 0.7033,
+      "10y": 2.9858
+    },
+    "volatility1y": 0.2953,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4131,
+      "from": "2022-01-17",
+      "to": "2023-05-04"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.6808,
+      "payments12Months": 4,
+      "yield12Months": 0.0148,
+      "lastPayment": {
+        "date": "2026-08-06",
+        "amount": 0.448586
+      }
+    },
+    "avgDailyTradedValue3m": 647561
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do WFCO34 nos últimos 12 meses foi de 29,53%, um nível considerado alto para o ativo. A maior queda em 5 anos foi de -41,31%, registrada entre 17/01/2022 e 04/05/2023. O beta do BDR não está disponível no dossiê, portanto não é possível afirmar se o ativo acompanha os movimentos do índice em maior ou menor proporção. A volatilidade de um BDR reflete tanto a oscilação da ação original quanto a variação do câmbio, o que pode amplificar os movimentos em relação a ações domésticas. Para acompanhar a evolução do preço e a volatilidade ao longo do tempo, o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) permite visualizar a rentabilidade e a variação diária do ativo."
+  },
+  "history": {
+    "overview": "Fundada em 18 de março de 1852 por Henry Wells e William G. Fargo, a Wells Fargo & Company nasceu para oferecer serviços de transporte expresso e bancários à Califórnia durante a corrida do ouro. Em 1905, a companhia separou suas atividades bancárias das operações expressas, e em 1968 passou a operar sob uma carta bancária federal, tornando-se Wells Fargo Bank, N.A. Nas décadas de 1980 e 1990, a empresa realizou uma série de aquisições, incluindo o Crocker National Bank em 1986 e o First Interstate Bancorp por US$ 11,6 bilhões em 1996. Em 1998, o banco foi adquirido pela Norwest Corporation, que adotou o nome Wells Fargo. A empresa expandiu-se novamente no início dos anos 2000 e, em 2008, comprou a Wachovia por cerca de US$ 14,8 bilhões, consolidando-se entre os quatro maiores bancos dos Estados Unidos. Em 2010, o BDR WFCO34 foi listado na B3, permitindo que investidores brasileiros acompanhassem a empresa sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "1852-03-18",
+        "event": "Fundação da Wells Fargo & Company por Henry Wells e William G. Fargo",
+        "source": 2
+      },
+      {
+        "date": "1905",
+        "event": "Separação das atividades bancárias das operações expressas e fusão com o Nevada National Bank",
+        "source": 3
+      },
+      {
+        "date": "1968",
+        "event": "Conversão para carta bancária federal e fusão com a Sonoma Mortgage",
+        "source": 3
+      },
+      {
+        "date": "1996",
+        "event": "Aquisição do First Interstate Bancorp por US$ 11,6 bilhões",
+        "source": 3
+      },
+      {
+        "date": "1998",
+        "event": "Aquisição do Wells Fargo Bank pela Norwest Corporation",
+        "source": 3
+      },
+      {
+        "date": "2008-10-03",
+        "event": "Acordo para aquisição da Wachovia por cerca de US$ 14,8 bilhões em ações",
+        "source": 3
+      },
+      {
+        "date": "2010-11-09",
+        "event": "Listagem do BDR WFCO34 na B3",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Wells Fargo ganha dinheiro",
+      "body": "A Wells Fargo & Company é uma empresa multinacional norte-americana de serviços financeiros que atua em 35 países e atende mais de 70 milhões de clientes. A instituição é considerada sistemicamente importante pelo Financial Stability Board e faz parte do grupo dos quatro maiores bancos dos Estados Unidos, ao lado de JPMorgan Chase, Bank of America e Citigroup. Sua principal subsidiária é o Wells Fargo Bank, N.A., que possui 8.050 agências, 13.000 caixas eletrônicos e 2.000 unidades independentes de crédito hipotecário. A empresa é o segundo maior originador de hipotecas de varejo do país, respondendo por um de cada quatro financiamentos residenciais, e administra US$ 1,8 trilhão em hipotecas. Além do negócio bancário, a companhia oferece financiamento de equipamentos por meio de subsidiárias como a Wells Fargo Rail, além de serviços de gestão de investimentos e corretagem de valores. A estratégia comercial historicamente incluiu a venda cruzada, incentivando clientes existentes a contratar serviços adicionais, prática que gerou investigações regulatórias no passado."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR WFCO34",
+      "body": "O WFCO34 é um BDR não patrocinado (nível I) que representa ações da Wells Fargo & Company negociadas na Bolsa de Valores de Nova Iorque sob o ticker WFC. O recibo é emitido por uma instituição depositária e negociado na B3 em reais desde 09/11/2010. O preço do BDR acompanha a variação da ação original em dólar e a taxa de câmbio entre o dólar e o real. Por ser não patrocinado, a empresa não participa ativamente da emissão ou distribuição do papel no Brasil, e a liquidez depende da demanda dos investidores locais."
+    },
+    {
+      "id": "proventos",
+      "heading": "WFCO34 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, o WFCO34 distribuiu R$ 1,6808 por BDR em 4 pagamentos, resultando em um dividend yield de 1,48%. O último provento registrado foi de R$ 0,4486, com data de pagamento em 06/08/2026. Como a Wells Fargo é uma empresa norte-americana, os dividendos são pagos em dólar, e o valor recebido pelo investidor brasileiro depende da cotação do câmbio na data do pagamento. É possível acompanhar o histórico completo de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para verificar a constância e o montante das distribuições."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do WFCO34",
+      "body": "Até 30/10/2026, a rentabilidade total do WFCO34 com proventos foi de -0,50% nos 12 meses, 140,15% em 3 anos, 70,33% em 5 anos e 298,58% em 10 anos. Esses números incluem a variação do câmbio, já que o BDR é cotado em reais e lastreado em uma ação negociada em dólar. Para avaliar o desempenho do ativo em relação a outras classes de ativos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade lado a lado com o S&P 500 e o CDI no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do WFCO34",
+      "body": "O principal risco do WFCO34 é o cambial, pois a variação do dólar em relação ao real impacta diretamente o preço do BDR. A empresa também enfrenta riscos regulatórios, tendo passado por investigações do Federal Reserve e do Departamento de Justiça dos Estados Unidos por práticas de venda cruzada e conduta fraudulenta em câmbio. A volatilidade anualizada do BDR nos últimos 12 meses foi de 29,53%, classificada como alta. A maior queda em 5 anos foi de -41,31%, ocorrida entre 17/01/2022 e 04/05/2023. O volume médio negociado por dia nos últimos 3 meses foi de R$ 647.561,00, o que indica liquidez moderada para um BDR. Investidores podem configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos significativos do ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "WFCO34 paga dividendos?",
+      "answer": "Sim, a Wells Fargo distribui dividendos, e o BDR repassa esse valor aos investidores. Nos 12 meses até 30/10/2026, foram pagos R$ 1,6808 por BDR em 4 pagamentos, com dividend yield de 1,48%. O último pagamento foi de R$ 0,4486 em 06/08/2026. O valor é convertido de dólar para real na data do pagamento, o que pode variar conforme o câmbio."
+    },
+    {
+      "question": "Qual a diferença entre WFCO34 e a ação WFC?",
+      "answer": "O WFCO34 é um BDR negociado na B3 em reais, enquanto a WFC é a ação original negociada na Bolsa de Valores de Nova Iorque em dólar. O preço do BDR acompanha a ação original e a taxa de câmbio. O BDR permite que investidores brasileiros acessem a Wells Fargo sem a necessidade de abrir conta no exterior, mas está sujeito ao risco cambial."
+    },
+    {
+      "question": "Quais são os riscos de investir em WFCO34?",
+      "answer": "Os principais riscos são o cambial, já que o BDR é cotado em reais e lastreado em dólar, e os regulatórios, pois a Wells Fargo passou por investigações do Federal Reserve e do Departamento de Justiça. A volatilidade do ativo é alta, com uma queda máxima de -41,31% em 5 anos. A liquidez do BDR na B3 é moderada, com volume médio diário de R$ 647.561,00 nos últimos 3 meses."
+    },
+    {
+      "question": "Como funciona o BDR WFCO34?",
+      "answer": "O WFCO34 é um BDR não patrocinado (nível I) que representa ações da Wells Fargo & Company negociadas na Bolsa de Valores de Nova Iorque sob o ticker WFC. O recibo é emitido por uma instituição depositária e negociado na B3 em reais desde 09/11/2010. O preço do BDR acompanha a variação da ação original e a taxa de câmbio entre o dólar e o real."
+    },
+    {
+      "question": "WFCO34 é patrocinado ou não patrocinado?",
+      "answer": "O WFCO34 é um BDR não patrocinado (nível I). Isso significa que a Wells Fargo não participa ativamente da emissão ou distribuição do papel no Brasil. A liquidez do BDR depende da demanda dos investidores locais, e a empresa não garante a manutenção do programa de BDRs."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da WFCO34 com data de pagamento, multiplicados pela sua quantidade, para acompanhar a renda passiva do ativo."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da WFCO34 com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho do BDR em relação a outras classes de ativos."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para ser notificado quando a WFCO34 atingir um valor que você escolheu, útil para monitorar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação da WFCO34 junto com outras posições de BDRs, ações e renda fixa em uma única visão, para avaliar a diversificação da carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "JPMC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de banco dos Estados Unidos, permitindo comparar a performance de instituições financeiras sistemicamente importantes."
+      },
+      {
+        "ticker": "BOAC34",
+        "list": "bdrs",
+        "reason": "BDR de Bank of America, um dos quatro maiores bancos dos EUA, útil para análise setorial de bancos norte-americanos."
+      },
+      {
+        "ticker": "CTGP34",
+        "list": "bdrs",
+        "reason": "BDR de Citigroup, outro dos quatro maiores bancos dos EUA, para comparação de desempenho no setor bancário."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar o desempenho do BDR com o índice de mercado dos Estados Unidos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de WFCO34",
+      "url": "https://finance.yahoo.com/quote/WFCO34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: WELLS FARGO, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50130/WFCO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Wells Fargo",
+      "url": "https://www.wikidata.org/wiki/Q744149",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Wells Fargo",
+      "url": "https://en.wikipedia.org/wiki/Wells_Fargo",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Wells Fargo",
+      "url": "https://pt.wikipedia.org/wiki/Wells_Fargo",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

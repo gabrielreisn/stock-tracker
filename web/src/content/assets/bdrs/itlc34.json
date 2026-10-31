@@ -1,0 +1,295 @@
+{
+  "ticker": "ITLC34",
+  "slug": "itlc34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ITLC34: BDR da Intel, histórico e desempenho",
+    "description": "Conheça o ITLC34, BDR não patrocinado da Intel na B3. Veja rentabilidade, volatilidade, riscos cambiais e a história da empresa de semicondutores.",
+    "h1": "ITLC34: BDR da Intel Corporation",
+    "canonicalPath": "/bdrs/itlc34",
+    "keywords": [
+      "ITLC34",
+      "BDR Intel",
+      "INTC",
+      "semicondutores",
+      "B3",
+      "ações estrangeiras",
+      "volatilidade",
+      "dividendos Intel"
+    ]
+  },
+  "summary": "ITLC34 é o BDR não patrocinado de nível I da Intel Corporation, empresa americana de semicondutores fundada em 1968. Negociado na B3 desde 2010, o recibo representa ações da Intel (NASDAQ: INTC) e acompanha a variação do dólar. Em 29/10/2026, a cotação era de R$ 69,50, com rentabilidade de 87,99% nos últimos 12 meses, refletindo a alta volatilidade do setor e o efeito cambial.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Intel",
+    "legalName": "INTEL CORPORATION",
+    "ticker": "BVMF ITLC34",
+    "foundingDate": "1968-07-18",
+    "website": "https://www.intel.com",
+    "wikidata": "Q248",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q248",
+      "https://en.wikipedia.org/wiki/Intel",
+      "https://pt.wikipedia.org/wiki/Intel",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50164/ITLC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Intel",
+    "legalName": "INTEL CORPORATION",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "18/07/1968",
+    "listedSince": "09/11/2010",
+    "headquarters": "Santa Clara",
+    "website": "https://www.intel.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "INTEL CORPORATION",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: INTC, Bolsa de Valores de Hong Kong: 4335",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Santa Clara",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "18/07/1968",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "09/11/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 69,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "77,20% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original INTC em dólares)",
+      "value": "3,39",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 37,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ITLC34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Intel Corporation",
+    "currency": "BRL",
+    "price": 69.5,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.8799,
+      "3y": 1.3443,
+      "5y": 0.6185,
+      "10y": 3.6248
+    },
+    "volatility1y": 0.772,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6365,
+      "from": "2022-01-10",
+      "to": "2024-09-09"
+    },
+    "beta1y": {
+      "value": 3.39,
+      "against": "S&P 500, ação original INTC em dólares"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2024-08-06",
+        "amount": 0.082181
+      }
+    },
+    "avgDailyTradedValue3m": 37321549
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do ITLC34 nos últimos 12 meses é de 77,20%, um nível muito alto, típico de ações de tecnologia e semicondutores em períodos de reestruturação. O beta da ação original (INTC) contra o S&P 500 é 3,39, indicando que a ação tende a se mover com amplitude três vezes maior que o índice, na mesma direção. A maior queda em 5 anos foi de -63,65%, entre 10/01/2022 e 09/09/2024. Como o BDR é cotado em reais, o investidor também está exposto à variação do câmbio, o que pode amplificar ou atenuar esses movimentos. Para acompanhar a evolução do preço e definir pontos de atenção, use os [alertas de preço](/recursos/alertas-de-preco) e visualize a trajetória no [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A Intel Corporation foi fundada em 18 de julho de 1968 em Mountain View, Califórnia, por Gordon Moore, Robert Noyce e Arthur Rock. Inicialmente focada em memórias SRAM e [DRAM](/etfs/dram), a empresa lançou em 1971 o Intel 4004, o primeiro microprocessador comercial em um único chip. A transição para o mercado de microprocessadores consolidou a Intel como fornecedora principal da IBM e, posteriormente, dos computadores compatíveis, dominando o mercado na década de 1990 com a aliança Wintel (Intel e Microsoft). A partir dos anos 2000, a concorrência da AMD reduziu a participação de mercado da Intel, embora ela mantivesse a liderança no mercado x86 na década de 2020. Em 2024, a empresa era a terceira maior fabricante de semicondutores do mundo por receita, com sede em Santa Clara e 121.100 funcionários em 2021. O BDR ITLC34 começou a ser negociado na B3 em 09/11/2010, permitindo que investidores brasileiros acompanhassem a Intel em reais.",
+    "timeline": [
+      {
+        "date": "1968-07-18",
+        "event": "Fundação da Intel Corporation por Gordon Moore, Robert Noyce e Arthur Rock.",
+        "source": 2
+      },
+      {
+        "date": "1971",
+        "event": "Lançamento do Intel 4004, primeiro microprocessador comercial em um único chip.",
+        "source": 3
+      },
+      {
+        "date": "1987",
+        "event": "Andy Grove assume a presidência da Intel de Gordon Moore.",
+        "source": 4
+      },
+      {
+        "date": "1991",
+        "event": "Lançamento da campanha publicitária 'Intel Inside'.",
+        "source": 4
+      },
+      {
+        "date": "2010-11-09",
+        "event": "Listagem do BDR ITLC34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Intel ganha dinheiro",
+      "body": "A Intel Corporation projeta, fabrica e vende componentes de computador, incluindo unidades centrais de processamento (CPUs), chipsets, controladores de interface de rede, memória flash e unidades de processamento gráfico (GPUs). A empresa atende os mercados empresarial e de consumo, sendo a terceira maior fabricante de semicondutores do mundo por receita em 2024. Seus produtos de consumo incluem a linha de processadores Intel Core e as placas gráficas Intel Arc. A Intel desenvolveu a arquitetura x86, utilizada na maioria dos computadores pessoais, e fornece microprocessadores para a maioria dos fabricantes de sistemas de computador."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR ITLC34",
+      "body": "O ITLC34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Intel Corporation. A ação original é a INTC, negociada na NASDAQ (EUA) e também na Bolsa de Valores de Hong Kong (código 4335). O preço do BDR acompanha a cotação da ação original em dólares e a variação do câmbio (dólar real). O BDR ITLC34 está listado na B3 desde 09/11/2010. Por ser não patrocinado, não há envolvimento direto da Intel na emissão ou manutenção do recibo."
+    },
+    {
+      "id": "proventos",
+      "heading": "ITLC34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, o ITLC34 não registrou pagamentos de proventos (dividendos ou juros sobre capital próprio). A Intel Corporation, como empresa americana, paga dividendos em dólares, e o valor convertido para reais depende do câmbio na data do pagamento. A ausência de proventos recentes indica que a empresa pode estar priorizando reinvestimento em pesquisa e desenvolvimento ou aquisição de ativos, comum em empresas de tecnologia em fase de transformação."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ITLC34",
+      "body": "Até 29/10/2026, o ITLC34 apresentava rentabilidade total de 87,99% nos últimos 12 meses, 134,43% em 3 anos, 61,85% em 5 anos e 362,48% em 10 anos. Esses números incluem a variação do câmbio, pois o BDR é cotado em reais e lastreado em uma ação em dólares. A alta volatilidade do setor de semicondutores e a sensibilidade ao dólar impactam diretamente o desempenho em reais. Para comparar esses resultados com índices de referência, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado com o S&P 500, CDI e Ibovespa."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ITLC34",
+      "body": "O ITLC34 expõe o investidor a riscos específicos da Intel, como a concorrência da AMD e a dependência do mercado de microprocessadores x86. Há também o risco cambial, pois o BDR é cotado em reais e lastreado em uma ação em dólares; uma desvalorização do dólar pode reduzir o retorno em reais mesmo com alta da ação. A volatilidade anualizada de 12 meses é de 77,20%, classificada como muito alta, e a maior queda em 5 anos foi de -63,65%, entre 10/01/2022 e 09/09/2024. A liquidez do BDR na B3 é menor que a da ação original na NASDAQ, com volume médio diário de R$ 37,3 milhões nos últimos 3 meses. Para monitorar oscilações, configure [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ITLC34 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 29/10/2026, o ITLC34 não registrou pagamentos de proventos. A Intel Corporation pode pagar dividendos em dólares, mas a ausência de pagamentos recentes indica que a empresa pode estar priorizando reinvestimento. O valor em reais, quando pago, depende do câmbio na data do recebimento."
+    },
+    {
+      "question": "Qual a diferença entre ITLC34 e INTC?",
+      "answer": "ITLC34 é o BDR negociado na B3 em reais, enquanto INTC é a ação original negociada na NASDAQ em dólares. O ITLC34 acompanha o preço da INTC e a variação do câmbio. O BDR é não patrocinado, o que significa que a Intel não participa da emissão ou manutenção do recibo."
+    },
+    {
+      "question": "ITLC34 é BDR patrocinado ou não patrocinado?",
+      "answer": "O ITLC34 é um BDR não patrocinado de nível I. Isso significa que a Intel Corporation não é responsável pela emissão ou manutenção do recibo, que é emitido por uma instituição depositária. O investidor tem menos informações diretas da empresa sobre o BDR, mas pode acompanhar a ação original na NASDAQ."
+    },
+    {
+      "question": "Qual o risco cambial do ITLC34?",
+      "answer": "O ITLC34 é cotado em reais e lastreado em uma ação em dólares (INTC na NASDAQ). Uma desvalorização do dólar em relação ao real reduz o valor do BDR, mesmo que a ação original suba. A volatilidade do câmbio é um fator adicional de risco além da performance da Intel."
+    },
+    {
+      "question": "Como a Intel ganhou dinheiro historicamente?",
+      "answer": "A Intel começou com memórias SRAM e DRAM, mas passou a focar em microprocessadores a partir da década de 1980. A aliança Wintel (Intel e Microsoft) dominou o mercado de PCs nos anos 1990. Hoje, a empresa gera receita com CPUs, GPUs, chipsets e outros componentes, sendo a terceira maior fabricante de semicondutores do mundo por receita em 2024."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do ITLC34 lado a lado com o S&P 500, CDI e Ibovespa no mesmo gráfico, para entender o desempenho em relação a benchmarks."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o ITLC34 atingir um preço que você definiu, útil para monitorar oscilações de um ativo com alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do ITLC34 junto com outras ações, BDRs e fundos, para avaliar a diversificação da sua carteira."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Visualize o gráfico de rentabilidade do ITLC34 e o preço médio da sua posição, com a variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia e semicondutores, a NVIDIA é um concorrente direto da Intel em GPUs e processadores."
+      },
+      {
+        "ticker": "A1MD34",
+        "list": "bdrs",
+        "reason": "Advanced Micro Devices (AMD) é o principal concorrente da Intel no mercado de microprocessadores x86."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores que inclui a Intel e outras empresas do setor, útil para diversificação no segmento."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta da ação original INTC e para comparação de desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ITLC34",
+      "url": "https://finance.yahoo.com/quote/ITLC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: INTEL, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50164/ITLC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Intel",
+      "url": "https://www.wikidata.org/wiki/Q248",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Intel",
+      "url": "https://en.wikipedia.org/wiki/Intel",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Intel",
+      "url": "https://pt.wikipedia.org/wiki/Intel",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

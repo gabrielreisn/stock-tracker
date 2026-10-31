@@ -1,0 +1,362 @@
+{
+  "ticker": "ALZR11",
+  "slug": "alzr11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ALZR11: FII híbrido, proventos e volatilidade",
+    "description": "ALZR11 é o FII híbrido da Alianza com foco em Built-to-Suit. Veja proventos, dividend yield de 10,36%, patrimônio de R$ 1,76 bi e volatilidade de 10,40%",
+    "h1": "ALZR11: Alianza Trust Renda Imobiliária - FII Híbrido",
+    "canonicalPath": "/fiis/alzr11",
+    "keywords": [
+      "ALZR11",
+      "Alianza Trust Renda Imobiliária",
+      "FII híbrido",
+      "Built-to-Suit",
+      "dividend yield ALZR11",
+      "proventos ALZR11",
+      "volatilidade ALZR11",
+      "BTG Pactual FII"
+    ]
+  },
+  "summary": "ALZR11 é a cota do Alianza Trust Renda Imobiliária, um Fundo de Investimento Imobiliário (FII) híbrido que investe prioritariamente em contratos de locação atípicos (Built-to-Suit e Sale&Leaseback). Administrado pela BTG Pactual e gerido pela Alianza, o fundo tinha patrimônio de R$ 1,76 bilhão e 213.940 cotistas em 09/2026. Nos 12 meses até 30/10/2026, a cota rendeu 1,69% com proventos, distribuindo R$ 1,0049 por cota, o que equivale a um dividend yield de 10,36%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Alianza Trust Renda Imobiliária - Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "ALIANZA TRUST RENDA IMOBILIÁRIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF ALZR11",
+    "isin": "BRALZRCTF006",
+    "taxId": "28.737.771/0001-85",
+    "foundingDate": "2017-12-27",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28737771000185"
+    ]
+  },
+  "profile": {
+    "type": "FII híbrido (tijolo e papel)",
+    "issuerOrManager": "Alianza Gestão de Recursos Ltda",
+    "name": "Alianza Trust Renda Imobiliária - Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "ALIANZA TRUST RENDA IMOBILIÁRIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "27/12/2017",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ALIANZA TRUST RENDA IMOBILIÁRIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "28.737.771/0001-85",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "27/12/2017",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,76 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "213.940",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 10,69",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 9,70",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "10,40% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,18",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "10,36%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ALZR11",
+    "list": "fiis",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 9.7,
+    "historyStarts": "2018-01-04",
+    "returns": {
+      "1y": 0.0169,
+      "3y": 0.1321,
+      "5y": 0.4505,
+      "10y": null
+    },
+    "volatility1y": 0.104,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1466,
+      "from": "2024-04-02",
+      "to": "2024-12-05"
+    },
+    "beta1y": {
+      "value": 0.18,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.0049,
+      "payments12Months": 12,
+      "yield12Months": 0.1036,
+      "lastPayment": {
+        "date": "2026-10-19",
+        "amount": 0.084
+      }
+    },
+    "avgDailyTradedValue3m": 3706199
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do ALZR11 nos últimos 12 meses, até 30/10/2026, foi de 10,40%, classificada como baixa. O beta de 0,18 contra o Ibovespa indica que o fundo tende a ter movimentos de preço menores que os do índice, na mesma direção, o que é comum para FIIs com foco em renda e contratos de longo prazo. A maior queda em 5 anos foi de -14,66%, ocorrida entre o pico em 02/04/2024 e o ponto mais baixo em 05/12/2024. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que notificam quando a cota atinge um valor definido."
+  },
+  "history": {
+    "overview": "O Alianza Trust Renda Imobiliária (ALZR11) iniciou suas atividades em 27/12/2017, com a primeira emissão de R$ 100 milhões encerrada em janeiro de 2018. O fundo foi estruturado para atuar no segmento multicategoria, focado em renda de longo prazo através de um portfólio híbrido que combina imóveis físicos e papéis imobiliários, com ênfase em contratos de locação atípicos como Built-to-Suit e Sale&Leaseback. Essa estratégia busca aliar a estabilidade de aluguéis de longo prazo com a liquidez e a diversificação proporcionada por CRIs e outros FIIs. Desde a sua fundação, o ALZR11 realizou oito ofertas públicas de cotas, ampliando seu patrimônio de forma consistente. A 8ª emissão, encerrada em abril de 2026, captou R$ 446 milhões, resultando em um patrimônio líquido de R$ 1,76 bilhão e 164,3 milhões de cotas em setembro de 2026. O fundo é administrado pela BTG Pactual e gerido pela Alianza Gestão de Recursos, com foco em locatários de setores como saúde, logística e varejo, o que reflete a busca por contratos com reajustes atrelados à inflação e prazos de locação estendidos.",
+    "timeline": [
+      {
+        "date": "2017-12-14",
+        "event": "Início da oferta pública de cotas da 1ª emissão",
+        "source": 2
+      },
+      {
+        "date": "2017-12-27",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2018-01-03",
+        "event": "Encerramento da 1ª emissão de cotas",
+        "source": 2
+      },
+      {
+        "date": "2019-01-08",
+        "event": "Início da oferta pública de cotas da 2ª emissão",
+        "source": 2
+      },
+      {
+        "date": "2019-05-23",
+        "event": "Encerramento da 2ª emissão de cotas",
+        "source": 2
+      },
+      {
+        "date": "2023-05-02",
+        "event": "Início da oferta pública de cotas da 6ª emissão",
+        "source": 2
+      },
+      {
+        "date": "2023-06-07",
+        "event": "Encerramento da 6ª emissão de cotas",
+        "source": 2
+      },
+      {
+        "date": "2024-05-10",
+        "event": "Início da oferta pública de cotas da 7ª emissão",
+        "source": 2
+      },
+      {
+        "date": "2024-07-04",
+        "event": "Encerramento da 7ª emissão de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-01-13",
+        "event": "Início da oferta pública de cotas da 8ª emissão",
+        "source": 2
+      },
+      {
+        "date": "2026-04-06",
+        "event": "Encerramento da 8ª emissão de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-10-21",
+        "event": "Início da oferta pública de cotas da 9ª emissão",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do ALZR11",
+      "body": "O ALZR11 é um Fundo de Investimento Imobiliário (FII) de natureza híbrida, com foco em renda de longo prazo. A estratégia prioriza a aquisição de ativos imobiliários através de contratos de locação atípicos, especificamente Built-to-Suit (BTS) e Sale&Leaseback, além de investimentos em outros FIIs e CRIs. Em setembro de 2026, o portfólio contava com 26 ativos e 20 locatários, com uma Área Bruta Locável (ABL) total de 288.677 m² e um WALE (vida média dos contratos) de 9,4 anos. A gestora é a Alianza Gestão de Recursos Ltda., enquanto a BTG Pactual atua como administradora e distribuidora. O fundo é classificado como multicategoria pela CVM, o que permite a alocação em diferentes tipos de imóveis e papéis, buscando diversificação e estabilidade de caixa."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do ALZR11",
+      "body": "Nos 12 meses até 30/10/2026, o ALZR11 distribuiu R$ 1,0049 por cota em 12 pagamentos, resultando em um dividend yield de 10,36% sobre o preço de mercado de R$ 9,70. O último provento, de R$ 0,0840, foi pago em 19/10/2026. O relatório gerencial de setembro de 2026 indica que o guidance para o segundo semestre de 2026, considerando apenas resultados recorrentes, está entre R$ 0,082 e R$ 0,084 por cota. É possível acompanhar a data de competência e a data de pagamento de cada distribuição, multiplicada pela quantidade de cotas, através do recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O ALZR11 realizou 8 ofertas públicas de cotas encerradas até outubro de 2026, conforme o FNET da B3. A 8ª emissão, encerrada em 06/04/2026, captou R$ 446 milhões. Em 09/2026, o fundo possuía 164.369.501 cotas emitidas, com valor patrimonial de R$ 10,69 e patrimônio líquido de R$ 1,76 bilhão, distribuído entre 213.940 cotistas. A 9ª emissão teve início em 21/10/2026, após aprovação em assembleia. A taxa de administração no mês de setembro de 2026 foi de 0,078% sobre o patrimônio líquido."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ALZR11",
+      "body": "A rentabilidade total do ALZR11, incluindo proventos, foi de 1,69% nos 12 meses até 30/10/2026, 13,21% em 3 anos e 45,05% em 5 anos. O valor de mercado da cota em 30/10/2026 era de R$ 9,70, enquanto o valor patrimonial em 09/2026 era de R$ 10,69, indicando um P/VP de 0,93. Para avaliar o desempenho do fundo em relação a outros investimentos, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que permite ver a rentabilidade lado a lado com o IFIX, CDI e Ibovespa."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ALZR11",
+      "body": "Como FII híbrido, o ALZR11 está exposto a riscos de crédito dos emissores de CRIs e FIIs em que investe, além de riscos de vacância e inadimplência nos imóveis físicos. A volatilidade anualizada de 12 meses foi de 10,40%, considerada baixa, e o beta contra o Ibovespa foi de 0,18, indicando menor sensibilidade aos movimentos do índice. A maior queda em 5 anos foi de -14,66%, entre 02/04/2024 e 05/12/2024. O fundo também enfrenta riscos de liquidez, especialmente em ativos de longo prazo, e riscos cambiais em contratos atrelados a moeda estrangeira, se houver."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ALZR11 é FII de papel ou de tijolo?",
+      "answer": "ALZR11 é um FII híbrido, com alocação em ativos de tijolo (imóveis físicos) e de papel (CRIs e outros FIIs). A estratégia prioriza contratos de locação atípicos como Built-to-Suit e Sale&Leaseback, o que combina a estabilidade de aluguéis com a liquidez de papéis. O relatório gerencial de setembro de 2026 mostra 26 ativos e 20 locatários, com WALE de 9,4 anos."
+    },
+    {
+      "question": "Qual o dividend yield do ALZR11?",
+      "answer": "O dividend yield do ALZR11 nos 12 meses até 30/10/2026 foi de 10,36%, com base em R$ 1,0049 distribuídos por cota. O último provento, de R$ 0,0840, foi pago em 19/10/2026. O guidance para o segundo semestre de 2026, considerando apenas resultados recorrentes, está entre R$ 0,082 e R$ 0,084 por cota, segundo o relatório gerencial de setembro de 2026."
+    },
+    {
+      "question": "Quem administra o ALZR11?",
+      "answer": "O ALZR11 é administrado pela BTG Pactual Serviços Financeiros S.A. e gerido pela Alianza Gestão de Recursos Ltda. O fundo foi fundado em 27/12/2017 e possui 213.940 cotistas em 09/2026, com patrimônio líquido de R$ 1,76 bilhão."
+    },
+    {
+      "question": "Qual a volatilidade do ALZR11?",
+      "answer": "A volatilidade anualizada do ALZR11 nos últimos 12 meses, até 30/10/2026, foi de 10,40%, considerada baixa. O beta contra o Ibovespa foi de 0,18, indicando menor sensibilidade aos movimentos do índice. A maior queda em 5 anos foi de -14,66%, entre 02/04/2024 e 05/12/2024."
+    },
+    {
+      "question": "ALZR11 paga proventos mensais?",
+      "answer": "Sim, o ALZR11 distribui proventos mensais. Nos 12 meses até 30/10/2026, foram 12 pagamentos, totalizando R$ 1,0049 por cota. O último provento, de R$ 0,0840, foi pago em 19/10/2026. É possível acompanhar a data de competência e a data de pagamento de cada distribuição através do recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual o patrimônio do ALZR11?",
+      "answer": "Em 09/2026, o ALZR11 tinha patrimônio líquido de R$ 1,76 bilhão, com 164.369.501 cotas emitidas e valor patrimonial de R$ 10,69. O fundo possui 213.940 cotistas e realizou 8 ofertas públicas de cotas encerradas até outubro de 2026, com a 9ª emissão iniciada em 21/10/2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do ALZR11 com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do ALZR11 com o IFIX, CDI e Ibovespa no mesmo gráfico, para avaliar o desempenho em relação a outros investimentos."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do ALZR11 atingir um preço que você definir, útil para monitorar oscilações de mercado."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o ALZR11 junto com outros ativos da sua carteira, com alocação por classe e valor total, para acompanhar a diversificação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FII de renda imobiliária com foco em contratos de longo prazo, similar à estratégia do ALZR11."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de renda com alocação em imóveis corporativos e logísticos, com perfil de diversificação semelhante."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística administrado pela BTG Pactual, com foco em ativos de tijolo e contratos de locação atípicos."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII de índices de preços, com estratégia de alocação em CRIs e FIIs, similar ao componente de papel do ALZR11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ALZR11",
+      "url": "https://finance.yahoo.com/quote/ALZR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do ALIANZA TRUST FII RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo ALZR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28737771000185",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do ALZR11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1353812",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do ALZR11, 29/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1362927",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do ALZR11, 21/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356917",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

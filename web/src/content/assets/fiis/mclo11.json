@@ -1,0 +1,320 @@
+{
+  "ticker": "MCLO11",
+  "slug": "mclo11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MCLO11: história, proventos e volatilidade",
+    "description": "MCLO11 é um FII de logística com patrimônio de R$ 1,73 bi em 09/2026. Veja proventos, dividend yield de 9,39% e volatilidade de 37,67% nos 12 meses até",
+    "h1": "MCLO11: Mauá Capital Logística FII",
+    "canonicalPath": "/fiis/mclo11",
+    "keywords": [
+      "MCLO11",
+      "Mauá Capital Logística FII",
+      "FII de logística",
+      "proventos MCLO11",
+      "dividend yield MCLO11",
+      "volatilidade MCLO11",
+      "XP Investimentos FII"
+    ]
+  },
+  "summary": "MCLO11 é a cota do Mauá Capital Logística Fundo de Investimento Imobiliário, um FII de tijolo focado no segmento de logística. Administrado pela XP e com patrimônio de R$ 1,73 bilhão em 09/2026, o fundo distribui proventos mensais. Nos 12 meses até 29/10/2026, a rentabilidade total com proventos foi de 9,75%, com dividend yield de 9,39%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Mauá Capital Logística Fundo de Investimento Imobiliário",
+    "legalName": "MAUÁ CAPITAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF MCLO11",
+    "isin": "BRMCLOCTF015",
+    "taxId": "57.466.934/0001-30",
+    "foundingDate": "2024-09-27",
+    "provider": {
+      "name": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+      "url": "https://www.xpi.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=57466934000130"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, logística",
+    "issuerOrManager": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A (Administrador) e MAUÁ CAPITAL REAL ESTATE LTDA",
+    "name": "Mauá Capital Logística Fundo de Investimento Imobiliário",
+    "legalName": "MAUÁ CAPITAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "27/09/2024",
+    "administrator": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+    "website": "https://www.xpi.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "MAUÁ CAPITAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "57.466.934/0001-30",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "27/09/2024",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,73 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "237",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 13,88",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 10,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "37,67% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,02",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,39%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 829.044,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MCLO11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Maua Capital Logistica Fundo De Investimento Imobiliario Responsabilidade Limitada",
+    "currency": "BRL",
+    "price": 10,
+    "historyStarts": "2025-01-17",
+    "returns": {
+      "1y": 0.0975,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.3767,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.0901,
+      "from": "2025-11-27",
+      "to": "2025-12-01"
+    },
+    "beta1y": {
+      "value": 0.02,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.9393,
+      "payments12Months": 11,
+      "yield12Months": 0.0939,
+      "lastPayment": {
+        "date": "2026-10-06",
+        "amount": 0.07
+      }
+    },
+    "avgDailyTradedValue3m": 829044
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do MCLO11 nos 12 meses até 29/10/2026 foi de 37,67%, classificada como alta. O beta de 12 meses contra o Ibovespa foi de 0,02, indicando que o ativo costuma acompanhar os movimentos do índice com amplitude muito menor, na mesma direção. A maior queda nos últimos 5 anos foi de -9,01%, do pico em 27/11/2025 ao ponto mais baixo em 01/12/2025. Para monitorar oscilações de preço e configurar notificações, é possível utilizar o recurso de [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Mauá Capital Logística FII iniciou suas atividades em 27/09/2024, com foco exclusivo no segmento de logística. O fundo opera com gestão ativa e prazo de duração indeterminado, sendo administrado pela XP Investimentos e gerido pela Mauá Capital Real Estate Ltda. Desde o início, o fundo realizou duas ofertas públicas de cotas, encerradas em 07/01/2024 e 08/01/2025, conforme registros do FNET da B3. Em 02/07/2025, o fundo divulgou um fato relevante informando sobre uma reavaliação de seus ativos realizada pela Colliers, com data-base de 27/05/2025. Essa reavaliação gerou um impacto positivo de 38,13% no valor da cota de fechamento de 30/05/2025 em relação a 29/05/2025. De acordo com o regulamento do fundo, esse impacto afetou exclusivamente a subclasse Cotas B (subordinadas), resultando em uma valorização de 109,98% no valor patrimonial dessas cotas, enquanto a subclasse Cotas A (sênior) não sofreu impacto. Em 09/2026, o fundo contava com 237 cotistas e 124.642.860 cotas emitidas.",
+    "timeline": [
+      {
+        "date": "2024-01-07",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2024-09-27",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2024-12-02",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2025-07-02",
+        "event": "Divulgação de fato relevante sobre reavaliação de ativos pela Colliers, com impacto de 38,13% na cota de 30/05/2025",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do MCLO11",
+      "body": "O MCLO11 é um Fundo de Investimento Imobiliário (FII) de tijolo, focado no segmento de logística. O fundo possui gestão ativa e prazo de duração indeterminado. A administração é realizada pela XP Investimentos Corretora de Câmbio, Títulos e Valores Mobiliários S.A., enquanto a gestão é conduzida pela Mauá Capital Real Estate Ltda. O patrimônio líquido do fundo era de R$ 1,73 bilhão em 09/2026, com 124.642.860 cotas emitidas e 237 cotistas. O valor patrimonial da cota era de R$ 13,88 na mesma data. A taxa de administração no mês de 09/2026 foi de 0,010% sobre o patrimônio. O fundo é voltado para o investidor qualificado, conforme informado pela CVM."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do MCLO11",
+      "body": "Nos 12 meses até 29/10/2026, o MCLO11 distribuiu R$ 0,9393 por cota em 11 pagamentos, resultando em um dividend yield de 9,39%. O último provento pago foi de R$ 0,0700 em 06/10/2026. Em 09/2026, o dividend yield do mês informado pelo fundo foi de 0,37%. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Para acompanhar os proventos distribuídos pelo MCLO11, é possível utilizar o recurso de [dividendos e JCP no app](/recursos/proventos), que lista as datas de competência e pagamento, multiplicadas pela quantidade de cotas na carteira."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O MCLO11 realizou duas ofertas públicas de cotas, encerradas em 07/01/2024 e 08/01/2025, conforme registros do FNET da B3. Em 09/2026, o fundo contava com 124.642.860 cotas emitidas, 237 cotistas e um patrimônio líquido de R$ 1,73 bilhão. O valor patrimonial da cota era de R$ 13,88 na mesma data. A taxa de administração no mês de 09/2026 foi de 0,010% sobre o patrimônio. O fundo é administrado pela XP Investimentos e gerido pela Mauá Capital Real Estate Ltda."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MCLO11",
+      "body": "Nos 12 meses até 29/10/2026, a rentabilidade total com proventos do MCLO11 foi de 9,75%. A volatilidade anualizada no mesmo período foi de 37,67%, classificada como alta. O beta de 12 meses contra o Ibovespa foi de 0,02. A maior queda nos últimos 5 anos foi de -9,01%, do pico em 27/11/2025 ao ponto mais baixo em 01/12/2025. Para comparar o desempenho do MCLO11 com índices de referência, como o IFIX e o CDI, é possível utilizar o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MCLO11",
+      "body": "Os riscos do MCLO11 incluem os riscos gerais de um FII de tijolo, como vacância e inadimplência dos inquilinos, além da sensibilidade a mudanças nas taxas de juros. A volatilidade anualizada de 37,67% nos 12 meses até 29/10/2026 é classificada como alta. A maior queda nos últimos 5 anos foi de -9,01%, do pico em 27/11/2025 ao ponto mais baixo em 01/12/2025. O beta de 12 meses contra o Ibovespa foi de 0,02, indicando que o ativo costuma acompanhar os movimentos do índice com amplitude muito menor. A reavaliação de ativos em 02/07/2025 gerou um impacto de 38,13% na cota, afetando exclusivamente a subclasse Cotas B. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MCLO11 paga dividendos?",
+      "answer": "Sim, o MCLO11 distribui proventos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,9393 por cota em 11 pagamentos, resultando em um dividend yield de 9,39%. O último provento pago foi de R$ 0,0700 em 06/10/2026. Para acompanhar os proventos, é possível utilizar o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre Cotas A e Cotas B do MCLO11?",
+      "answer": "As Cotas A são sênior e as Cotas B são subordinadas. Em 02/07/2025, uma reavaliação de ativos gerou um impacto de 38,13% na cota de 30/05/2025, afetando exclusivamente a subclasse Cotas B, que teve valorização de 109,98% no valor patrimonial. A subclasse Cotas A não sofreu impacto."
+    },
+    {
+      "question": "MCLO11 é FII de papel ou de tijolo?",
+      "answer": "MCLO11 é um FII de tijolo, focado no segmento de logística. O fundo possui gestão ativa e prazo de duração indeterminado, com patrimônio de R$ 1,73 bilhão em 09/2026."
+    },
+    {
+      "question": "Qual a taxa de administração do MCLO11?",
+      "answer": "A taxa de administração no mês de 09/2026 foi de 0,010% sobre o patrimônio, conforme informado pela CVM."
+    },
+    {
+      "question": "Quem administra e gerencia o MCLO11?",
+      "answer": "O MCLO11 é administrado pela XP Investimentos Corretora de Câmbio, Títulos e Valores Mobiliários S.A. e gerido pela Mauá Capital Real Estate Ltda."
+    },
+    {
+      "question": "Qual o patrimônio do MCLO11?",
+      "answer": "Em 09/2026, o patrimônio líquido do MCLO11 era de R$ 1,73 bilhão, com 124.642.860 cotas emitidas e 237 cotistas. O valor patrimonial da cota era de R$ 13,88 na mesma data."
+    },
+    {
+      "question": "MCLO11 é indicado para investidores qualificados?",
+      "answer": "Sim, conforme informado pela CVM, o público-alvo do MCLO11 é o investidor qualificado."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do MCLO11 com data de competência e pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do MCLO11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações quando o MCLO11 atingir o preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o MCLO11 junto com seus outros ativos, com alocação por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística, administrado pela BTG Pactual."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística da CSHG, com foco em galpões logísticos."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística da XP, com estratégia similar ao MCLO11."
+      },
+      {
+        "ticker": "GARE11",
+        "list": "fiis",
+        "reason": "FII de logística da Guardian, com foco em ativos logísticos."
+      },
+      {
+        "ticker": "VILG11",
+        "list": "fiis",
+        "reason": "FII de logística da Vinci, com foco em galpões logísticos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MCLO11",
+      "url": "https://finance.yahoo.com/quote/MCLO11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do MAUÁ CAPITAL LOGÍSTICA FII - RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo MCLO11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=57466934000130",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do MCLO11, 02/07/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=938390",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

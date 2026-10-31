@@ -1,0 +1,285 @@
+{
+  "ticker": "VGT",
+  "slug": "vgt",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VGT: história, desempenho e volatilidade",
+    "description": "VGT é o ETF de tecnologia da Vanguard. Veja rentabilidade, volatilidade, dividendos e como investir no VGT a partir do Brasil. Atualizado em 29/10/2026.",
+    "h1": "VGT: Vanguard Information Technology Index Fund ETF Shares",
+    "canonicalPath": "/etfs/vgt",
+    "keywords": [
+      "VGT",
+      "Vanguard Information Technology Index Fund ETF",
+      "ETF de tecnologia",
+      "VGT dividendos",
+      "VGT volatilidade",
+      "VGT Brasil",
+      "VGT vs QQQ",
+      "VGT vs VOO"
+    ]
+  },
+  "summary": "VGT é a cota do Vanguard Information Technology Index Fund ETF Shares, um ETF que replica o desempenho do setor de tecnologia nos Estados Unidos. Lançado em 30/01/2004 pela The Vanguard Group, o fundo investe em empresas de hardware, software e serviços de tecnologia. Em 29/10/2026, a cota valia US$ 122,24, com rentabilidade total de 22,55% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Information Technology Index Fund ETF Shares",
+    "ticker": "ARCX VGT",
+    "foundingDate": "2004-01-30",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "The Vanguard Group",
+    "trackedIndex": "Morgan Stanley Capital International (MSCI) USA Information Technology Index",
+    "name": "Vanguard Information Technology Index Fund ETF Shares",
+    "founded": "30/01/2004"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Information Technology Index Fund ETF Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "30/01/2004",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 122,24",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "25,01% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,71",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,39%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 496,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VGT",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Information Technology Index Fund ETF Shares",
+    "currency": "USD",
+    "price": 122.24,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2255,
+      "3y": 1.4551,
+      "5y": 1.3258,
+      "10y": 7.9102
+    },
+    "volatility1y": 0.2501,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3507,
+      "from": "2021-12-27",
+      "to": "2022-10-14"
+    },
+    "beta1y": {
+      "value": 1.71,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.4726,
+      "payments12Months": 4,
+      "yield12Months": 0.0039,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.147
+      }
+    },
+    "avgDailyTradedValue3m": 496004393
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do VGT nos últimos 12 meses foi de 25,01%, um nível alto para um ETF de índice. O beta de 1,71 contra o S&P 500 mostra que o VGT tende a acompanhar os movimentos do índice com amplitude maior: quando o S&P 500 sobe ou cai 1%, o VGT costuma variar 1,71% na mesma direção. A maior queda em 5 anos foi de -35,07%, entre 27/12/2021 e 14/10/2022, o que reflete a sensibilidade do setor de tecnologia a mudanças de humor do mercado. Para quem busca diversificação, a [carteira consolidada](/recursos/carteira-consolidada) do app ajuda a ver como o VGT se encaixa ao lado de outros ativos, como o [SPY](/etfs/spy) ou o [QQQ](/etfs/qqq)."
+  },
+  "history": {
+    "overview": "O VGT foi lançado em 30/01/2004, permitindo que investidores acessassem o setor de tecnologia dos Estados Unidos por meio de um único ativo. A emissora, The Vanguard Group, foi fundada em 1975 por John C. Bogle, que é creditado pela criação do primeiro fundo de índice para investidores individuais, focando em baixas taxas de administração e replicação passiva de mercados. A Vanguard é hoje a maior provedora de fundos mútuos e a segunda maior de ETFs no mundo, com cerca de US$ 13,3 trilhões sob gestão em 2025. O fundo se beneficia da estrutura de propriedade da Vanguard, que é detida pelos próprios clientes, o que ajuda a manter custos operacionais baixos. A estratégia do VGT é simples: acompanhar o índice de tecnologia, sem tentar superá-lo ativamente, o que o torna uma ferramenta direta para exposição ao setor.",
+    "timeline": [
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group por John C. Bogle",
+        "source": 1
+      },
+      {
+        "date": "2004-01-30",
+        "event": "Primeiro pregão das cotas do ETF VGT na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2025",
+        "event": "The Vanguard Group gerencia aproximadamente US$ 13,3 trilhões globalmente",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VGT funciona",
+      "body": "O VGT é um ETF (Exchange-Traded Fund) que replica o desempenho de um índice de ações do setor de tecnologia dos Estados Unidos. A emissora é a The Vanguard Group, uma das maiores gestoras de ativos do mundo, conhecida por sua estratégia de investimento passivo de baixo custo. O fundo foi lançado em 30/01/2004 e opera como um veículo de investimento que compra as ações das empresas que compõem o índice, permitindo que os investidores tenham exposição ao setor sem precisar comprar cada papel individualmente. Como não é um ETF alavancado ou inverso, o VGT busca acompanhar a variação do índice de forma direta, sem multiplicadores de risco diário."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VGT",
+      "body": "O VGT segue o Morgan Stanley Capital International (MSCI) USA Information Technology Index. As fontes disponíveis não detalham a lista exata de empresas ou os pesos de cada uma na carteira, mas indicam que o fundo abrange o setor de tecnologia nos EUA. O setor de tecnologia é classificado pelo Global Industry Classification Standard (GICS) como o maior do mundo em capitalização de mercado, com 32% do índice MSCI World. O VGT, portanto, concentra-se nas empresas de tecnologia listadas nos Estados Unidos, refletindo a composição do índice MSCI para esse segmento."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VGT a partir do Brasil",
+      "body": "Para investir no VGT a partir do Brasil, o investidor pode abrir conta em uma corretora que negocie ativos nos Estados Unidos, comprando as cotas diretamente em dólar. Outra opção é buscar ETFs ou BDRs negociados na B3 que sigam o mesmo índice de tecnologia, o que permite operar em reais. O principal risco cambial é a variação do câmbio entre o dólar e o real: se o dólar se valorizar, o ganho em dólar pode ser amplificado em reais, mas a desvalorização do dólar pode reduzir o retorno. É essencial considerar o custo da conversão e as taxas de corretagem ao comparar as duas vias."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VGT",
+      "body": "Em 29/10/2026, a cota do VGT valia US$ 122,24. A rentabilidade total com proventos foi de 22,55% nos últimos 12 meses, 145,51% em 3 anos, 132,58% em 5 anos e 791,02% em 10 anos. Esses números refletem o desempenho do setor de tecnologia nos EUA, que tem tido forte crescimento. Para comparar com o mercado americano, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que mostra a rentabilidade do VGT lado a lado com o S&P 500. O [gráfico de desempenho e preço médio](/recursos/desempenho-e-preco-medio) permite visualizar a evolução da cota e o custo médio da posição."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VGT",
+      "body": "O VGT é um ETF de setor, o que significa que ele concentra risco em uma única área da economia: a tecnologia. Isso o torna mais volátil que um ETF de mercado amplo, como o [VOO](/etfs/voo) ou o [SPY](/etfs/spy). A volatilidade anualizada do VGT nos últimos 12 meses foi de 25,01%, classificada como alta. O beta de 1,71 contra o S&P 500 indica que, em média, o VGT move-se 1,71 vezes mais que o índice de mercado, na mesma direção. A maior queda em 5 anos foi de -35,07%, entre 27/12/2021 e 14/10/2022. O risco cambial também é relevante para o investidor brasileiro, pois a cotação é em dólar. O [alerta de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos bruscos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VGT é um ETF alavancado?",
+      "answer": "Não, o VGT não é alavancado nem inverso. Ele replica o desempenho do índice de tecnologia dos EUA de forma direta, sem multiplicadores diários. Isso significa que, em períodos longos, o resultado do VGT tende a acompanhar o índice, sem o efeito de decaimento de alavancagem que ocorre em ETFs como o [SOXL](/etfs/soxl) ou o [TQQQ](/etfs/tqqq)."
+    },
+    {
+      "question": "Qual a diferença entre VGT e QQQ?",
+      "answer": "O VGT replica o índice MSCI de tecnologia dos EUA, enquanto o [QQQ](/etfs/qqq) replica o Nasdaq-100, que inclui as 100 maiores empresas de tecnologia e outras de crescimento, mas também empresas de outros setores. O VGT é mais focado no setor de tecnologia, enquanto o QQQ tem uma composição mais ampla, com peso em empresas como Apple, Microsoft e NVIDIA, mas também em empresas de saúde e consumo. Ambos são ETFs de tecnologia, mas com índices diferentes."
+    },
+    {
+      "question": "VGT paga dividendos?",
+      "answer": "Sim, o VGT distribui proventos. Nos 12 meses até 29/10/2026, foram US$ 0,4726 por cota em 4 pagamentos, com dividend yield de 0,39%. O último pagamento foi de US$ 0,1470 em 23/09/2026. O valor é baixo em comparação com ETFs de renda, mas reflete a natureza de crescimento do setor de tecnologia."
+    },
+    {
+      "question": "Como investir no VGT do Brasil?",
+      "answer": "O investidor pode comprar VGT em uma corretora que negocie ativos nos EUA, pagando em dólar, ou buscar ETFs ou BDRs na B3 que sigam o mesmo índice. O risco cambial é o principal fator a considerar: a variação do dólar afeta o retorno em reais. O [open finance](/recursos/open-finance) do app pode ajudar a sincronizar as posições de diferentes corretoras."
+    },
+    {
+      "question": "VGT é bom para iniciantes?",
+      "answer": "O VGT é um ETF de setor, o que o torna mais volátil que um ETF de mercado amplo. A volatilidade de 25,01% e a queda de -35,07% em 5 anos mostram que o ativo pode ter oscilações fortes. Para quem busca diversificação, a [carteira consolidada](/recursos/carteira-consolidada) do app permite ver como o VGT se comporta ao lado de outros ativos, como o [VOO](/etfs/voo) ou o [SPY](/etfs/spy)."
+    },
+    {
+      "question": "Qual a taxa de administração do VGT?",
+      "answer": "As fontes disponíveis não informam a taxa de administração do VGT. A The Vanguard Group é conhecida por manter taxas baixas, mas o valor exato não está no dossiê. O investidor pode consultar o site da Vanguard ou a corretora para obter a taxa atualizada."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do VGT lado a lado com o S&P 500, o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do VGT chegar ao preço que você escolheu, útil para monitorar a volatilidade de 25,01%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja como o VGT se encaixa na sua carteira ao lado de ações da B3, outros ETFs e renda fixa, com alocação por classe."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do VGT e o preço médio da sua posição, com gráfico de variação do dia e do ano."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Conecte sua corretora e confira as quantidades de VGT que você tem, com preço médio e o que falta importar."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com o mercado amplo e ver o efeito da concentração em tecnologia."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq-100, outro veículo de exposição a tecnologia, com composição diferente do VGT."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar o desempenho do VGT com o mercado americano."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores, para quem quer exposição mais focada a uma subárea da tecnologia."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF do setor de tecnologia do S&P 500, para comparar com o VGT e ver a diferença de composição."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VGT",
+      "url": "https://finance.yahoo.com/quote/VGT/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Information technology (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Information_technology",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

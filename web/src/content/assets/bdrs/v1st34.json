@@ -1,0 +1,287 @@
+{
+  "ticker": "V1ST34",
+  "slug": "v1st34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "V1ST34: BDR da Vistra, energia e volatilidade",
+    "description": "V1ST34 é o BDR da Vistra Corp., maior geradora de energia dos EUA. Veja preço, dividendos, riscos e desempenho do recibo cotado na B3.",
+    "h1": "V1ST34: BDR da Vistra Corp.",
+    "canonicalPath": "/bdrs/v1st34",
+    "keywords": [
+      "V1ST34",
+      "Vistra",
+      "BDR energia",
+      "VST",
+      "dividendos V1ST34",
+      "volatilidade V1ST34"
+    ]
+  },
+  "summary": "V1ST34 é o BDR não patrocinado de nível I da Vistra Corp., empresa americana de geração e distribuição de eletricidade sediada em Irving, Texas. A ação original (VST) é negociada na Bolsa de Valores de Nova Iorque. O recibo, cotado na B3 desde 07/04/2025, fechou a R$ 55,46 em 30/10/2026. A empresa possui capacidade instalada de aproximadamente 39 GW e é reconhecida como a maior geradora de energia competitiva nos Estados Unidos.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Vistra",
+    "legalName": "VISTRA CORP",
+    "ticker": "BVMF V1ST34",
+    "foundingDate": "2016",
+    "website": "https://www.vistracorp.com/",
+    "wikidata": "Q104158381",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q104158381",
+      "https://en.wikipedia.org/wiki/Vistra_Corp.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59432/V1ST/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Vistra",
+    "legalName": "VISTRA CORP",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2016",
+    "listedSince": "07/04/2025",
+    "headquarters": "Irving",
+    "website": "https://www.vistracorp.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "VISTRA CORP",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: VST",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Irving",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2016",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "07/04/2025",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 55,46",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "52,96% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,22%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 717.932,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "V1ST34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vistra Corp.",
+    "currency": "BRL",
+    "price": 55.46,
+    "historyStarts": "2026-05-27",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.5296,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2244,
+      "from": "2026-06-22",
+      "to": "2026-10-23"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.1194,
+      "payments12Months": 2,
+      "yield12Months": 0.0022,
+      "lastPayment": {
+        "date": "2026-09-18",
+        "amount": 0.059884
+      }
+    },
+    "avgDailyTradedValue3m": 717932
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do V1ST34 nos últimos 12 meses é de 52,96%, um nível classificado como muito alto. Isso indica oscilações de preço significativas, típicas de ativos de energia e BDRs de empresas com forte exposição a commodities e regulação. A maior queda em 5 anos foi de -22,44%, entre 22/06/2026 e 23/10/2026. O beta não está disponível para este ativo. Para acompanhar essas oscilações e definir pontos de atenção, o app oferece alertas de preço, que notificam quando o ativo atinge um valor escolhido pelo investidor."
+  },
+  "history": {
+    "overview": "A Vistra Corp. tem origem em 2016, quando a Texas Competitive Electric Holdings (TCEH), holding das empresas TXU Energy e Luminant, emergiu da proteção contra falências (Chapter 11) da Energy Future Holdings Corporation. Após a reestruturação, a TCEH foi renomeada para Vistra Energy. A empresa consolidou sua posição no mercado através de aquisições estratégicas: em 2018, comprou a Dynegy; em 2019, adquiriu a Ambit Energy e a Crius Energy. A aquisição da Ambit resultou em uma participação de 32% no mercado residencial do Electric Reliability Council of Texas (ERCOT), com a NRG Energy como principal concorrente. Em 2024, a Vistra foi classificada como a maior poluidora dos Estados Unidos no relatório Greenhouse 100 Polluters Index, responsável por 1,5% das emissões de gases de efeito estufa do país. Em maio de 2025, a empresa anunciou a compra de sete usinas termelétricas a gás natural da Lotus Infrastructure Partners por US$ 1,9 bilhão. O BDR V1ST34 passou a ser negociado na B3 em 07/04/2025.",
+    "timeline": [
+      {
+        "date": "2016",
+        "event": "Fundação da Vistra Corp., após a saída da falência da Energy Future Holdings.",
+        "source": 2
+      },
+      {
+        "date": "2018",
+        "event": "Aquisição da Dynegy pela Vistra.",
+        "source": 3
+      },
+      {
+        "date": "2019",
+        "event": "Aquisição da Ambit Energy e da Crius Energy, ampliando a participação no mercado do Texas.",
+        "source": 3
+      },
+      {
+        "date": "2025-04-07",
+        "event": "Listagem do BDR V1ST34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-05",
+        "event": "Anúncio da compra de sete usinas a gás natural da Lotus Infrastructure Partners por US$ 1,9 bilhão.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Vistra ganha dinheiro",
+      "body": "A Vistra Corp. é uma empresa integrada de geração e distribuição de eletricidade nos Estados Unidos, sediada em Irving, Texas. A companhia detém uma capacidade instalada de aproximadamente 39 GW, distribuída entre fontes de gás natural, carvão, energia nuclear, solar e sistemas de armazenamento em baterias. É considerada a maior geradora de energia competitiva do país. A empresa possui a usina de Moss Landing, na Califórnia, que abrigava o maior sistema de armazenamento de energia por baterias do mundo (400-MW/1,600-MWh), embora a estrutura tenha sofrido danos significativos em um incêndio em janeiro de 2025. No mercado de varejo, a Vistra atua fortemente no Texas, onde detém 32% da participação residencial no Electric Reliability Council of Texas (ERCOT), com a NRG Energy como principal concorrente."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR V1ST34",
+      "body": "O V1ST34 é um BDR não patrocinado de nível I, o que significa que é um recibo negociado na B3, em reais, lastreado em ações da Vistra Corp. negociadas no exterior. A ação original é a VST, listada na Bolsa de Valores de Nova Iorque. O BDR foi listado na B3 em 07/04/2025. O preço do V1ST34 acompanha a variação da ação VST nos Estados Unidos e a cotação do dólar em relação ao real. Como é um BDR não patrocinado, a empresa não participa ativamente da emissão, e a liquidez depende da oferta e demanda no mercado brasileiro."
+    },
+    {
+      "id": "proventos",
+      "heading": "V1ST34 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, o V1ST34 distribuiu R$ 0,1194 por BDR em 2 pagamentos, resultando em um dividend yield de 0,22%. O último pagamento registrado foi de R$ 0,0599 em 18/09/2026. É importante lembrar que a Vistra paga dividendos em dólares, e o valor recebido pelo investidor em reais depende da cotação do câmbio na data do pagamento. O histórico de proventos pode ser acompanhado de perto no app, que registra as datas de competência e pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do V1ST34",
+      "body": "Em 30/10/2026, o V1ST34 estava cotado a R$ 55,46. A rentabilidade total com proventos não foi especificada nos dados disponíveis para o período. O desempenho do BDR em reais reflete a combinação do resultado da ação VST nos Estados Unidos e a variação do câmbio. Para entender como esse ativo se comporta em relação a outras referências de mercado, é possível utilizar a ferramenta de comparação com índices do app, que permite medir a performance ao lado do S&P 500 e do CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do V1ST34",
+      "body": "Os principais riscos do V1ST34 incluem a volatilidade do setor de energia e a exposição a fatores regulatórios e ambientais. A Vistra é classificada como a maior poluidora dos Estados Unidos, o que pode gerar riscos reputacionais e regulatórios. Há também o risco cambial, pois o BDR é cotado em reais, mas a ação original é em dólares. A liquidez do BDR na B3 é limitada, com um volume médio diário de R$ 717.932,00 nos últimos 3 meses. A volatilidade anualizada do ativo é de 52,96%, considerada muito alta, e a maior queda em 5 anos foi de -22,44%, ocorrendo entre 22/06/2026 e 23/10/2026."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar V1ST34 no app",
+      "body": "Para quem tem V1ST34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Defina notificações para acompanhar as oscilações do V1ST34, que possui alta volatilidade.\n- [comparação com índices](/recursos/comparacao-com-indices): Meça a performance do V1ST34 ao lado do S&P 500 e do CDI no mesmo gráfico.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja como o V1ST34 se encaixa na sua alocação de ativos, junto com outras classes."
+    }
+  ],
+  "faq": [
+    {
+      "question": "V1ST34 paga dividendos?",
+      "answer": "Sim, a Vistra distribui proventos. Nos 12 meses até 30/10/2026, o V1ST34 pagou R$ 0,1194 por BDR em 2 ocasiões, com um yield de 0,22%. O valor é convertido para reais na data do pagamento, dependendo da cotação do dólar."
+    },
+    {
+      "question": "Qual a diferença entre V1ST34 e VST?",
+      "answer": "V1ST34 é o BDR negociado na B3 em reais, enquanto VST é a ação original da Vistra Corp. negociada na Bolsa de Valores de Nova Iorque em dólares. O preço do V1ST34 reflete o valor da VST e a variação do câmbio."
+    },
+    {
+      "question": "V1ST34 é BDR patrocinado ou não patrocinado?",
+      "answer": "É um BDR não patrocinado de nível I. Isso significa que a Vistra não participa ativamente da emissão do recibo, e a liquidez depende da oferta e demanda no mercado brasileiro."
+    },
+    {
+      "question": "Qual o setor da Vistra?",
+      "answer": "A Vistra atua no setor de energia, especificamente na geração e distribuição de eletricidade. É a maior geradora de energia competitiva dos Estados Unidos, com capacidade de 39 GW."
+    },
+    {
+      "question": "Qual a liquidez do V1ST34 na B3?",
+      "answer": "O volume médio diário nos últimos 3 meses é de R$ 717.932,00. Isso indica uma liquidez moderada, típica de BDRs de nível I, onde a negociação depende da oferta e demanda no mercado brasileiro."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina notificações para acompanhar as oscilações do V1ST34, que possui alta volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Meça a performance do V1ST34 ao lado do S&P 500 e do CDI no mesmo gráfico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja como o V1ST34 se encaixa na sua alocação de ativos, junto com outras classes."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF do setor de energia nos EUA, útil para comparar a performance da Vistra com o setor como um todo."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, referência para medir a performance de ativos americanos."
+      },
+      {
+        "ticker": "EXXO34",
+        "list": "bdrs",
+        "reason": "BDR da ExxonMobil, outra empresa do setor de energia, para comparação de exposição cambial e setorial."
+      },
+      {
+        "ticker": "CHVX34",
+        "list": "bdrs",
+        "reason": "BDR da Chevron, concorrente no setor de energia, útil para análise de pares."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de V1ST34",
+      "url": "https://finance.yahoo.com/quote/V1ST34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: VISTRA CORP, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59432/V1ST/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Vistra",
+      "url": "https://www.wikidata.org/wiki/Q104158381",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Vistra Corp.",
+      "url": "https://en.wikipedia.org/wiki/Vistra_Corp.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

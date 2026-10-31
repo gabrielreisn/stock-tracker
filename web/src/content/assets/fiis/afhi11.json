@@ -1,0 +1,317 @@
+{
+  "ticker": "AFHI11",
+  "slug": "afhi11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AFHI11: FII de papel, dividendos e volatilidade",
+    "description": "Conheça o AFHI11, FII de papel da BTG Pactual, com dividend yield de 12,99%, patrimônio de R$ 508,4 milhões e volatilidade baixa.",
+    "h1": "AFHI11: Af Invest Cri Fundo de Investimento Imobiliário",
+    "canonicalPath": "/fiis/afhi11",
+    "keywords": [
+      "AFHI11",
+      "FII de papel",
+      "CRI",
+      "BTG Pactual",
+      "dividend yield FII",
+      "volatilidade FII",
+      "proventos AFHI11"
+    ]
+  },
+  "summary": "AFHI11 é a cota do Af Invest Cri Fundo de Investimento Imobiliário, um fundo de papel que investe majoritariamente em Certificados de Recebíveis Imobiliários (CRIs). Administrado pela BTG Pactual e gerido pela Araújo Fontes Real Estate, o fundo possui R$ 508,4 milhões em patrimônio líquido em setembro de 2026. Nos 12 meses até 29/10/2026, a cota rendeu 10,81% com proventos, distribuindo R$ 12,0357 por cota, o que representa um dividend yield de 12,99%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Af Invest Cri Fundo de Investimento Imobiliário Recebíveis Imobiliários Responsabilidade Limitada",
+    "legalName": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF AFHI11",
+    "isin": "BRAFHICTF005",
+    "taxId": "36.642.293/0001-58",
+    "foundingDate": "2021-03-03",
+    "website": "https://afhi11.com.br",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36642293000158"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Araújo Fontes Real Estate (gestora) e BTG Pactual Serviços Financeiros S.A",
+    "name": "Af Invest Cri Fundo de Investimento Imobiliário Recebíveis Imobiliários Responsabilidade Limitada",
+    "legalName": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "03/03/2021",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "AF INVEST CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO RECEBÍVEIS IMOBILIÁRIOS RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "36.642.293/0001-58",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "03/03/2021",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 508,4 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "40.640",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 96,13",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 92,63",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "6,48% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,10",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "12,99%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 872.456,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AFHI11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Af Invest Cri Fundo De Investimento Imobiliario - Recebiveis Imobiliarios",
+    "currency": "BRL",
+    "price": 92.63,
+    "historyStarts": "2024-01-29",
+    "returns": {
+      "1y": 0.1081,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.0648,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1302,
+      "from": "2024-09-30",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.1,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 12.0357,
+      "payments12Months": 12,
+      "yield12Months": 0.1299,
+      "lastPayment": {
+        "date": "2026-10-16",
+        "amount": 1
+      }
+    },
+    "avgDailyTradedValue3m": 872456
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do AFHI11 nos 12 meses até 29/10/2026 foi de 6,48%, classificada como baixa, o que é comum para FIIs de papel com carteira diversificada e gestão ativa. O beta de 0,10 contra o Ibovespa indica que o fundo tende a ter movimentos menores que o índice, na mesma direção, o que pode ser atrativo para investidores que buscam diversificação. A maior queda nos últimos 5 anos foi de -13,02%, do pico em 30/09/2024 ao ponto mais baixo em 19/12/2024, o que reflete o impacto de um período de estresse de mercado no crédito imobiliário. [Acompanhe a volatilidade no app](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "O Af Invest Cri Fundo de Investimento Imobiliário iniciou suas atividades em 03/03/2021, com a primeira oferta pública de cotas encerrada no dia seguinte. Desde então, o fundo consolidou-se como um veículo de crédito imobiliário focado em CRIs, buscando rendimentos e ganho de capital através de investimentos majoritariamente nesses papéis. A gestão é ativa, com a equipe da Araújo Fontes Real Estate buscando capturar spreads superiores à média da carteira, com foco em operações atreladas ao IPCA+ e CDI+ para proteger o patrimônio contra a inflação e flutuações de juros. O fundo tem realizado emissões periódicas para ampliar seu patrimônio, tendo encerrado seis ofertas públicas até o momento, a mais recente em junho de 2026. Em maio de 2026, foi aprovada a oitava emissão de cotas, demonstrando o crescimento contínuo do fundo e a confiança dos investidores na estratégia de gestão. A cota patrimonial reflete a marcação a mercado dos CRIs, utilizando o spread sobre a NTN-B correspondente à duration de cada papel, o que impacta o valor da cota e a distribuição de rendimentos.",
+    "timeline": [
+      {
+        "date": "2021-02-25",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2021-03-03",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2021-03-04",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do AFHI11",
+      "body": "O AFHI11 é um FII de papel, com foco em Certificados de Recebíveis Imobiliários (CRIs), administrado pela BTG Pactual Serviços Financeiros S.A. e gerido pela Araújo Fontes Real Estate. O objetivo do fundo é obter rendimentos e ganho de capital através de investimentos majoritariamente em CRIs, com estratégia ativa de gestão. A carteira inclui operações como CRI Rede D’or, CRI GARE Atacadão, CRI Bem Brasil e CRI RNI, com taxas de IPCA+ e CDI+, buscando spreads superiores à média da carteira e maior duration. A marcação a mercado dos CRIs é feita com base no spread sobre a NTN-B correspondente à duration de cada papel, impactando o valor patrimonial da cota."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do AFHI11",
+      "body": "Nos 12 meses até 29/10/2026, o AFHI11 distribuiu R$ 12,0357 por cota em 12 pagamentos, resultando em um dividend yield de 12,99%. O último pagamento foi de R$ 1,0000 em 16/10/2026. O relatório gerencial de setembro de 2026 destaca que a distribuição de rendimentos do mês equivale a um dividend yield mensal de 1,03% e anual de 13,02%, considerando o preço de fechamento da cota em 15/10/2026. A tributação dos rendimentos de FIIs é isenta de imposto de renda para pessoas físicas, conforme a legislação vigente, mas os ganhos de capital na venda de cotas são tributados. [Veja os proventos no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O AFHI11 realizou seis ofertas públicas de cotas até o momento, a mais recente encerrada em 23/06/2026. Em 13/05/2026, foi aprovada a oitava emissão de cotas, sob regime de melhores esforços de colocação. O patrimônio líquido do fundo era de R$ 508,4 milhões em 09/2026, com 40.640 cotistas e 5.288.811 cotas emitidas. O valor patrimonial da cota era de R$ 96,13 em 09/2026, enquanto o preço de mercado era de R$ 97,56. A taxa de administração no mês de 09/2026 foi de 0,082% sobre o patrimônio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do AFHI11",
+      "body": "Nos 12 meses até 29/10/2026, a rentabilidade total do AFHI11 com proventos foi de 10,81%. A volatilidade anualizada no mesmo período foi de 6,48%, classificada como baixa. O beta contra o Ibovespa foi de 0,10, indicando que o fundo tende a ter movimentos menores que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -13,02%, do pico em 30/09/2024 ao ponto mais baixo em 19/12/2024. [Compare com índices no app](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do AFHI11",
+      "body": "Os principais riscos do AFHI11 incluem risco de crédito dos emissores dos CRIs, risco de liquidez e risco de juros, especialmente em um cenário de elevação das taxas. A volatilidade anualizada de 6,48% nos 12 meses até 29/10/2026 é considerada baixa, mas a maior queda de -13,02% entre 30/09/2024 e 19/12/2024 mostra que o fundo pode sofrer quedas expressivas em períodos de estresse de mercado. O beta de 0,10 contra o Ibovespa indica baixa correlação com o índice, mas não elimina o risco de perdas. [Use alertas de preço no app](/recursos/alertas-de-preco) para monitorar a cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "AFHI11 é FII de papel ou de tijolo?",
+      "answer": "AFHI11 é um FII de papel, com foco em Certificados de Recebíveis Imobiliários (CRIs). O fundo não possui imóveis físicos, mas investe em títulos de crédito lastreados em recebíveis imobiliários, buscando rendimentos e ganho de capital através da gestão ativa da carteira."
+    },
+    {
+      "question": "Qual o dividend yield do AFHI11?",
+      "answer": "Nos 12 meses até 29/10/2026, o AFHI11 distribuiu R$ 12,0357 por cota, resultando em um dividend yield de 12,99%. O relatório gerencial de setembro de 2026 destaca um dividend yield anual de 13,02%, considerando o preço de fechamento da cota em 15/10/2026. [Veja os proventos no app](/recursos/proventos)."
+    },
+    {
+      "question": "Quem administra o AFHI11?",
+      "answer": "O AFHI11 é administrado pela BTG Pactual Serviços Financeiros S.A. e gerido pela Araújo Fontes Real Estate. A gestão é ativa, com foco em CRIs e busca por spreads superiores à média da carteira."
+    },
+    {
+      "question": "Qual o patrimônio do AFHI11?",
+      "answer": "O patrimônio líquido do AFHI11 era de R$ 508,4 milhões em 09/2026, com 40.640 cotistas e 5.288.811 cotas emitidas. O valor patrimonial da cota era de R$ 96,13, enquanto o preço de mercado era de R$ 97,56."
+    },
+    {
+      "question": "AFHI11 paga rendimentos mensais?",
+      "answer": "Sim, o AFHI11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, houve 12 pagamentos, totalizando R$ 12,0357 por cota. O último pagamento foi de R$ 1,0000 em 16/10/2026. [Acompanhe os pagamentos no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a taxa de administração do AFHI11?",
+      "answer": "A taxa de administração do AFHI11 no mês de 09/2026 foi de 0,082% sobre o patrimônio, englobando taxa de administração, gestão, custódia e escrituração. Não há taxa de performance."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos no app",
+        "context": "Veja os 12 pagamentos de R$ 12,0357 por cota nos últimos 12 meses, com datas de competência e pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade de 10,81% do AFHI11 com o IFIX, CDI e Ibovespa no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do AFHI11 atingir um preço que você definir, útil para monitorar a volatilidade de 6,48%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o AFHI11 junto com outros FIIs, ações e renda fixa em uma só visão, com alocação por classe e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de papel (CRI) com foco em crédito imobiliário, útil para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "MCCI11",
+        "list": "fiis",
+        "reason": "FII de recebíveis imobiliários, similar ao AFHI11, para diversificação dentro do mesmo segmento."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de tijolo (logística) da mesma administradora (BTG Pactual), para comparação entre papéis e imóveis."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de rendimentos imobiliários, para diversificação dentro do universo de FIIs de renda."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AFHI11",
+      "url": "https://finance.yahoo.com/quote/AFHI11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do AF INVEST CRI FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo AFHI11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36642293000158",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do AFHI11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1360885",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do AFHI11, 13/05/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1190150",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do AFHI11, 10/11/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1033027",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

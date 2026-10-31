@@ -1,0 +1,330 @@
+{
+  "ticker": "AURA33",
+  "slug": "aura33",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AURA33: BDR da Aura Minerals, ouro e cobre",
+    "description": "AURA33 é o BDR da Aura Minerals, mineradora de ouro e cobre. Veja desempenho, dividendos, volatilidade e riscos do ativo na B3 até 29/10/2026.",
+    "h1": "AURA33: BDR da Aura Minerals Inc.",
+    "canonicalPath": "/bdrs/aura33",
+    "keywords": [
+      "AURA33",
+      "Aura Minerals BDR",
+      "BDR ouro",
+      "BDR cobre",
+      "AURA33 dividendos",
+      "AURA33 volatilidade",
+      "BDR nível III",
+      "mineração ouro B3"
+    ]
+  },
+  "summary": "AURA33 é o BDR patrocinado nível III da Aura Minerals Inc., mineradora canadense com operações de ouro e cobre na América Latina. Negociado na B3 desde 15/06/2020, o ativo rendeu 168,54% em 12 meses até 29/10/2026, com volatilidade anualizada de 70,30% e dividend yield de 3,25% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Aura Minerals",
+    "legalName": "AURA MINERALS INC.",
+    "ticker": "BVMF AURA33",
+    "foundingDate": "1946",
+    "website": "https://www.auraminerals.com/",
+    "wikidata": "Q25419665",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q25419665",
+      "https://en.wikipedia.org/wiki/Aura_Minerals",
+      "https://pt.wikipedia.org/wiki/Aura_Minerals",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/80187/AURA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Aura Minerals",
+    "legalName": "AURA MINERALS INC.",
+    "type": "BDR patrocinado nível III",
+    "sector": "Materiais Básicos",
+    "segment": "Minerais Metálicos",
+    "founded": "1946",
+    "listedSince": "15/06/2020",
+    "website": "https://www.auraminerals.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "AURA MINERALS INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR patrocinado nível III",
+      "source": 1
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Minerais Metálicos",
+      "source": 1
+    },
+    {
+      "label": "Fundação",
+      "value": "1946",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "15/06/2020",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 138,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "70,30% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,25%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 122,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AURA33",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Aura Minerals Inc.",
+    "currency": "BRL",
+    "price": 138.5,
+    "historyStarts": "2020-07-06",
+    "returns": {
+      "1y": 1.6854,
+      "3y": 14.4496,
+      "5y": 9.2923,
+      "10y": null
+    },
+    "volatility1y": 0.703,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.529,
+      "from": "2026-04-17",
+      "to": "2026-07-20"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 4.5066,
+      "payments12Months": 4,
+      "yield12Months": 0.0325,
+      "lastPayment": {
+        "date": "2026-08-19",
+        "amount": 1.21232
+      }
+    },
+    "avgDailyTradedValue3m": 122000392
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 70,30% nos 12 meses até 29/10/2026 é classificada como muito alta, refletindo a sensibilidade do setor de mineração a flutuações de commodities e riscos operacionais. A maior queda em 5 anos foi de -52,90%, do pico em 17/04/2026 ao ponto mais baixo em 20/07/2026, um movimento típico de ativos cíclicos expostos a ciclos de preços de metais. O beta não está disponível para o AURA33, mas a alta volatilidade sugere que o ativo tende a ter movimentos mais amplos que o mercado em geral. O [alertas de preço](/recursos/alertas-de-preco) permite definir limites de notificação para acompanhar essas oscilações."
+  },
+  "history": {
+    "overview": "Fundada em 1946, a empresa que hoje é a Aura Minerals passou por transformações significativas. Em 2006, a Canadian Baldwin Holdings Limited mudou o nome para Aura Gold e listou suas ações na Bolsa de Toronto (TSX) para focar na exploração de ouro no Brasil. Em 2016, a companhia transferiu sua sede corporativa de Toronto para Miami, nos Estados Unidos, e reorganizou sua estrutura sob as leis das Ilhas Virgens Britânicas, mantendo operações no Canadá, Brasil, México e Honduras. A empresa consolidou sua posição no mercado brasileiro por meio de aquisições estratégicas, como a mina Ernesto/Pau-a-Pique em 2015 e a fusão com a Rio Novo Gold em 2018. Em 2025, a Aura Minerals adquiriu a Mineração Serra Grande da AngloGold Ashanti, ampliando sua base de produção de ouro no Brasil. A empresa opera minas de ouro em Honduras, Brasil e México, além de projetos de cobre, com foco em regiões como Mato Grosso, Tocantins e Goiás.",
+    "timeline": [
+      {
+        "date": "1946",
+        "event": "Fundação da empresa que originou a Aura Minerals.",
+        "source": 2
+      },
+      {
+        "date": "2006",
+        "event": "Listagem das ações na Bolsa de Toronto (TSX) após a mudança de nome para Aura Gold.",
+        "source": 3
+      },
+      {
+        "date": "2013-07",
+        "event": "Fechamento da mina de ouro São Vicente em Nova Lacerda, MT, por esgotamento natural.",
+        "source": 4
+      },
+      {
+        "date": "2015",
+        "event": "Acordo para aquisição da mina Ernesto/Pau-a-Pique da Yamana Gold, aprovado pelo CADE em julho.",
+        "source": 4
+      },
+      {
+        "date": "2015-01",
+        "event": "Suspensão das atividades da mina de cobre Aranzazu no México para revisão de planos e custos.",
+        "source": 4
+      },
+      {
+        "date": "2016",
+        "event": "Transferência da sede corporativa para Miami, FL, e reorganização sob as leis das Ilhas Virgens Britânicas.",
+        "source": 3
+      },
+      {
+        "date": "2018-03",
+        "event": "Conclusão da fusão com a Rio Novo Gold Inc. em transação integralmente em ações.",
+        "source": 3
+      },
+      {
+        "date": "2020-06-15",
+        "event": "Listagem do BDR AURA33 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025",
+        "event": "Finalização da transição da Mineração Serra Grande para operação da Aura Minerals.",
+        "source": 4
+      },
+      {
+        "date": "2025-06",
+        "event": "Anúncio da aquisição da Mineração Serra Grande da AngloGold Ashanti, em Crixás, GO.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Aura Minerals ganha dinheiro",
+      "body": "A Aura Minerals Inc. é uma mineradora multinacional com foco na exploração, desenvolvimento e operação de projetos de ouro, cobre e outros metais nas Américas. A receita da empresa vem da produção e venda de ouro em minas localizadas no Brasil, México e Honduras, além de projetos de cobre. No Brasil, a companhia possui operações em Mato Grosso, Tocantins, Goiás e Rio Grande do Norte, com minas como a Serra Grande, Almas e Ernesto/Pau-a-Pique. A mina de ouro San Andres, em Honduras, está com operações suspensas temporariamente, enquanto a mina de cobre Aranzazu, no México, teve atividades suspensas em 2015 para revisão de planos. A empresa opera minas a céu aberto e subterrâneas, com plantas de processamento que produzem entre 37 mil e 97 mil onças de ouro por ano, dependendo da operação."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR AURA33",
+      "body": "O AURA33 é um BDR patrocinado nível III, um recibo negociado na B3 em reais que representa ações da Aura Minerals Inc. na Bolsa de Toronto (TSX). O preço do BDR acompanha a cotação da ação original no exterior e a variação do câmbio entre o dólar canadense e o real. O BDR foi listado na B3 em 15/06/2020 e é emitido por uma instituição depositária, que garante a relação entre o recibo e a ação estrangeira. O nível III do programa permite que o BDR seja usado em operações de financiamento e tenha maior liquidez no mercado brasileiro."
+    },
+    {
+      "id": "proventos",
+      "heading": "AURA33 paga dividendos?",
+      "body": "A AURA33 pagou R$ 4,5066 por BDR em 4 pagamentos nos 12 meses até 29/10/2026, resultando em um dividend yield de 3,25%. O último provento foi de R$ 1,2123 em 19/08/2026. Como a Aura Minerals é uma empresa canadense, os dividendos são pagos em dólar canadense, e o valor que chega ao investidor em reais depende da cotação do câmbio na data do pagamento. O [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) permite acompanhar o histórico de proventos e o impacto no preço médio da posição."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do AURA33",
+      "body": "A AURA33 rendeu 168,54% em 12 meses, 1.444,96% em 3 anos e 929,23% em 5 anos, com proventos, até 29/10/2026. Essas rentabilidades incluem a variação do câmbio entre o dólar canadense e o real, o que pode amplificar ou reduzir os ganhos em reais. A [comparação com índices](/recursos/comparacao-com-indices) permite avaliar o desempenho do BDR ao lado do S&P 500, CDI e Ibovespa, ajudando a entender o contexto de mercado. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) mostra o gráfico de rentabilidade da carteira e a variação do ativo em diferentes períodos."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do AURA33",
+      "body": "O AURA33 está exposto a riscos setoriais da mineração, como flutuações no preço do ouro e do cobre, além de riscos operacionais e regulatórios em países como Brasil, México e Honduras. O risco cambial é relevante, pois o BDR é lastreado em ações canadenses e o valor em reais depende da cotação do dólar canadense. A volatilidade anualizada de 70,30% nos 12 meses até 29/10/2026 é classificada como muito alta, e a maior queda em 5 anos foi de -52,90%, do pico em 17/04/2026 ao ponto mais baixo em 20/07/2026. A liquidez do BDR na B3 é moderada, com volume médio de R$ 122,0 milhões por dia nos últimos 3 meses. O [alertas de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos bruscos no ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "AURA33 paga dividendos?",
+      "answer": "Sim, a AURA33 pagou R$ 4,5066 por BDR em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 3,25%. O último provento foi de R$ 1,2123 em 19/08/2026. Os dividendos são pagos em dólar canadense, e o valor em reais depende do câmbio na data do pagamento. O [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) mostra o histórico completo de proventos."
+    },
+    {
+      "question": "O que é o BDR AURA33?",
+      "answer": "O AURA33 é um BDR patrocinado nível III que representa ações da Aura Minerals Inc. na Bolsa de Toronto (TSX). Negociado na B3 em reais desde 15/06/2020, o BDR acompanha o preço da ação original e a variação do câmbio. O como funciona o BDR explica a estrutura do recibo e a relação com a ação estrangeira."
+    },
+    {
+      "question": "Qual a volatilidade do AURA33?",
+      "answer": "A volatilidade anualizada de 70,30% nos 12 meses até 29/10/2026 é classificada como muito alta, típica de ativos de mineração expostos a flutuações de commodities. A maior queda em 5 anos foi de -52,90%, entre 17/04/2026 e 20/07/2026. O [alertas de preço](/recursos/alertas-de-preco) ajuda a monitorar movimentos bruscos."
+    },
+    {
+      "question": "AURA33 é bom para quem quer diversificar?",
+      "answer": "O AURA33 é um BDR de mineradora de ouro e cobre, com exposição a commodities e câmbio. A [carteira consolidada](/recursos/carteira-consolidada) permite ver a alocação do ativo ao lado de outras classes, como ações, renda fixa e FIIs, ajudando a avaliar a diversificação da carteira."
+    },
+    {
+      "question": "Como o câmbio afeta o AURA33?",
+      "answer": "O AURA33 é lastreado em ações canadenses, então o valor em reais depende da cotação do dólar canadense. Uma valorização do real reduz o ganho em reais, e uma desvalorização amplifica. O [comparação com índices](/recursos/comparacao-com-indices) mostra o desempenho do BDR ao lado do S&P 500 e CDI, ajudando a entender o impacto do câmbio."
+    },
+    {
+      "question": "Qual a liquidez do AURA33 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 122,0 milhões, o que indica liquidez moderada para um BDR. O [open finance](/recursos/open-finance) permite sincronizar as posições com a corretora, garantindo que a quantidade e o preço médio estejam atualizados na carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da AURA33 com data de pagamento, multiplicados pela sua quantidade, no gráfico de rentabilidade da carteira."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da AURA33 com o S&P 500, CDI e Ibovespa no mesmo gráfico, para entender o contexto de mercado."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina limites de notificação para a AURA33 e receba alertas quando o ativo chegar ao preço que você escolheu, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação da AURA33 ao lado de ações, renda fixa e FIIs, com valor por classe e as maiores posições da carteira."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Conecte sua corretora pelo Open Finance e confira a quantidade e o preço médio da AURA33 na sua carteira, garantindo que os dados estejam sincronizados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GDX",
+        "list": "us-etfs",
+        "reason": "ETF de mineradoras de ouro, para comparar a exposição ao setor de mineração."
+      },
+      {
+        "ticker": "GLD",
+        "list": "us-etfs",
+        "reason": "ETF de ouro, para acompanhar o preço da commodity que impacta a receita da Aura Minerals."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Ação de mineradora brasileira, para comparar com outro ativo do setor de materiais básicos na B3."
+      },
+      {
+        "ticker": "RIOT34",
+        "list": "bdrs",
+        "reason": "BDR do Rio Tinto Group, para comparar com outra mineradora global listada na B3."
+      },
+      {
+        "ticker": "N1EM34",
+        "list": "bdrs",
+        "reason": "BDR da Newmont Corporation, para comparar com outra mineradora de ouro listada na B3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AURA33",
+      "url": "https://finance.yahoo.com/quote/AURA33.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: AURA 360, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/80187/AURA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Aura Minerals",
+      "url": "https://www.wikidata.org/wiki/Q25419665",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Aura Minerals",
+      "url": "https://en.wikipedia.org/wiki/Aura_Minerals",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Aura Minerals",
+      "url": "https://pt.wikipedia.org/wiki/Aura_Minerals",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

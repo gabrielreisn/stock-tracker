@@ -1,0 +1,301 @@
+{
+  "ticker": "SPXL",
+  "slug": "spxl",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SPXL: ETF alavancado 3x do S&P 500",
+    "description": "Conheça o SPXL, ETF alavancado 3x do S&P 500 da Direxion. Veja desempenho, volatilidade, riscos e como investir a partir do Brasil.",
+    "h1": "SPXL: Direxion Daily S&P 500 Bull 3X Shares",
+    "canonicalPath": "/etfs/spxl",
+    "keywords": [
+      "SPXL",
+      "ETF alavancado",
+      "S&P 500 3x",
+      "Direxion",
+      "ETF alavancado 3x",
+      "SPXL dividendos",
+      "SPXL volatilidade",
+      "como investir SPXL Brasil"
+    ]
+  },
+  "summary": "Emitido pela Direxion, teve seu primeiro pregão em 05/11/2008. Até 29/10/2026, a cota valia US$ 285,67, com rentabilidade total de 128,10% nos últimos 5 anos, mas com volatilidade anualizada de 38,10%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Direxion Daily S&P500 Bull 3X Shares",
+    "ticker": "ARCX SPXL",
+    "foundingDate": "2008-11-05",
+    "provider": {
+      "name": "Direxion",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Direxion"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado 3x",
+    "issuerOrManager": "Direxion",
+    "trackedIndex": "S&P 500",
+    "name": "Direxion Daily S&P500 Bull 3X Shares",
+    "founded": "05/11/2008"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Direxion Daily S&P500 Bull 3X Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "05/11/2008",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "3x o desempenho diário do índice (300%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 285,67",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "38,10% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,99",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,51%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 456,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SPXL",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Direxion Daily S&P500 Bull 3X Shares",
+    "currency": "USD",
+    "price": 285.67,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2502,
+      "3y": 3.1415,
+      "5y": 1.281,
+      "10y": 12.7662
+    },
+    "volatility1y": 0.381,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.638,
+      "from": "2022-01-03",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 2.99,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.455,
+      "payments12Months": 4,
+      "yield12Months": 0.0051,
+      "lastPayment": {
+        "date": "2026-09-22",
+        "amount": 0.31
+      }
+    },
+    "avgDailyTradedValue3m": 456093941
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do SPXL nos 12 meses até 29/10/2026 foi de 38,10%, nível classificado como alta. O beta de 12 meses contra o S&P 500 é 2,99, o que significa que, em média, o SPXL move-se quase 3 vezes mais que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -63,80%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Para um ETF alavancado 3x, essa volatilidade é esperada, mas o beta não mede a volatilidade em si, e sim a sensibilidade aos movimentos do índice. Investidores devem considerar que a alavancagem diária pode gerar resultados muito diferentes de 3x a rentabilidade do S&P 500 em períodos longos, especialmente em mercados voláteis. Para monitorar a volatilidade e definir pontos de entrada ou saída, é possível usar os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Direxion, fundada em 1997 como Potomac Funds, lançou seus primeiros ETFs alavancados em 2008. Em novembro daquele ano, a empresa foi a primeira a oferecer ETFs com alavancagem de 3x, o que atraiu a atenção de concorrentes e de reguladores como a SEC. O SPXL, lançado em 05/11/2008, é um dos produtos dessa geração inicial. O índice S&P 500, que o SPXL segue, foi expandido para 500 empresas em 1957 e passou a usar ponderação por capitalização ajustada pela flutuação pública em 2005. Desde 1926, o índice apresenta crescimento anual composto de cerca de 9,8% incluindo dividendos. A alavancagem do SPXL amplifica tanto os ganhos quanto as perdas diárias, o que, em períodos longos, pode gerar resultados muito diferentes de 3x a rentabilidade do índice.",
+    "timeline": [
+      {
+        "date": "1957-03-04",
+        "event": "O índice S&P 500 é expandido para 500 empresas e renomeado.",
+        "source": 1
+      },
+      {
+        "date": "1997-11",
+        "event": "A Potomac Funds (atual Direxion) lança o segundo fundo mútuo inverso dos EUA.",
+        "source": 2
+      },
+      {
+        "date": "2005",
+        "event": "O S&P 500 transita para ponderação por capitalização ajustada pela flutuação pública.",
+        "source": 1
+      },
+      {
+        "date": "2006",
+        "event": "A empresa adota o nome Direxion e abre escritório em Boston.",
+        "source": 2
+      },
+      {
+        "date": "2008-11-05",
+        "event": "Primeiro pregão das cotas do SPXL na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2009-04",
+        "event": "Os 16 ETFs 3x da Direxion atingem US$ 3,4 bilhões em ativos.",
+        "source": 2
+      },
+      {
+        "date": "2010-12",
+        "event": "Direxion adiciona 24 ETFs à sua oferta, incluindo fundos não alavancados.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SPXL funciona",
+      "body": "Emitido pela Direxion, teve seu primeiro pregão em 05/11/2008. A alavancagem é diária: o fundo é rebalanceado a cada dia para atingir o múltiplo de 3x em relação à variação do índice naquele dia. Isso significa que, em períodos mais longos, o resultado do SPXL pode divergir significativamente de 3x a rentabilidade do S&P 500, devido ao efeito do rebalanceamento diário e à volatilidade do mercado. A Direxion foi a primeira empresa a oferecer ETFs com alavancagem de 3x em novembro de 2008, o que gerou atenção de reguladores como a SEC."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SPXL",
+      "body": "O SPXL segue o índice S&P 500, que acompanha o desempenho de 500 empresas de grande capitalização listadas nos EUA. O índice representa cerca de 83% da capitalização total das empresas públicas americanas, com capitalização agregada superior a US$ 61,1 trilhões em 31/12/2025. A capitalização mediana das componentes é de US$ 41,8 bilhões, variando de US$ 5,6 bilhões a US$ 4,8 trilhões. As empresas do S&P 500 derivam 72% de suas receitas dos EUA e 28% de outros países. O índice é mantido pela S&P Dow Jones Indices e seus componentes são selecionados por um comitê."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SPXL a partir do Brasil",
+      "body": "Para investir no SPXL a partir do Brasil, é necessário abrir conta em uma corretora de valores que opere no mercado americano, pois o ETF é listado em bolsas dos EUA. O investimento está sujeito ao risco cambial, já que a cotação é em dólar e variações no câmbio impactam o retorno em reais. Alternativamente, é possível buscar exposição ao S&P 500 por meio de ETFs ou BDRs negociados na B3 que seguem o mesmo índice, como o [SPY](/etfs/spy) ou o [VOO](/etfs/voo), que são ETFs não alavancados do S&P 500. A escolha entre o SPXL e esses ativos depende do perfil de risco e do horizonte de investimento, considerando a alavancagem e a volatilidade do SPXL."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SPXL",
+      "body": "Até 29/10/2026, o SPXL apresentou rentabilidade total de 25,02% nos últimos 12 meses, 314,15% em 3 anos, 128,10% em 5 anos e 1.276,62% em 10 anos. Esses números incluem os proventos distribuídos, que somaram US$ 1,4550 por cota em 4 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 0,51%. O último pagamento foi de US$ 0,3100 em 22/09/2026. Para comparar o desempenho do SPXL com o índice que ele segue, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SPXL",
+      "body": "O principal risco do SPXL é a alavancagem de 3x, que amplifica tanto os ganhos quanto as perdas diárias. Em períodos de alta volatilidade, o efeito do rebalanceamento diário pode gerar uma perda de valor mesmo se o S&P 500 terminar o período no mesmo patamar. A volatilidade anualizada do SPXL nos 12 meses até 29/10/2026 foi de 38,10%, classificada como alta. A maior queda nos últimos 5 anos foi de -63,80%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Além disso, há o risco cambial para investidores brasileiros, já que o ativo é cotado em dólar. A Direxion alertou que os ETFs alavancados são projetados para uso diário, e não para investimentos de longo prazo, o que pode levar a resultados inesperados se mantidos por períodos estendidos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o SPXL?",
+      "answer": "Emitido pela Direxion, teve seu primeiro pregão em 05/11/2008. A alavancagem é diária, o que significa que o fundo é rebalanceado a cada dia para atingir o múltiplo de 3x em relação à variação do índice naquele dia."
+    },
+    {
+      "question": "Qual a diferença entre SPXL e SPY?",
+      "answer": "O SPXL tem maior volatilidade e risco, com beta de 2,99 contra o S&P 500, enquanto o SPY tem beta próximo de 1. O SPXL é projetado para uso diário, enquanto o SPY é adequado para investimentos de longo prazo."
+    },
+    {
+      "question": "O SPXL paga dividendos?",
+      "answer": "Sim, o SPXL distribui proventos. Nos 12 meses até 29/10/2026, foram US$ 1,4550 por cota em 4 pagamentos, com dividend yield de 0,51%. O último pagamento foi de US$ 0,3100 em 22/09/2026. No app, é possível ver os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) com data de pagamento e multiplicados pela quantidade de cotas."
+    },
+    {
+      "question": "Como investir no SPXL a partir do Brasil?",
+      "answer": "É necessário abrir conta em uma corretora que opere no mercado americano, pois o SPXL é listado em bolsas dos EUA. O investimento está sujeito ao risco cambial, já que a cotação é em dólar. Alternativamente, é possível buscar exposição ao S&P 500 por meio de ETFs ou BDRs negociados na B3, como o [SPY](/etfs/spy) ou o [VOO](/etfs/voo). No app, é possível usar o [open finance](/recursos/open-finance) para conectar a corretora e conferir as posições."
+    },
+    {
+      "question": "Qual a volatilidade do SPXL?",
+      "answer": "A volatilidade anualizada do SPXL nos 12 meses até 29/10/2026 foi de 38,10%, nível classificado como alta. A maior queda nos últimos 5 anos foi de -63,80%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Para monitorar a volatilidade e definir pontos de entrada ou saída, é possível usar os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos do SPXL com data de pagamento e multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do SPXL com o S&P 500, Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o SPXL chegar ao preço que você escolheu, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Conecte sua corretora pelo Open Finance e confira as posições do SPXL com a sua carteira."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o SPXL junto com outros ativos em uma visão única, com alocação por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF não alavancado do S&P 500, adequado para investimentos de longo prazo."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF não alavancado do S&P 500, com baixa taxa de administração."
+      },
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "Outro ETF alavancado 3x da Direxion, mas focado em semicondutores."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF não alavancado do S&P 500, alternativa ao SPXL para exposição sem alavancagem."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SPXL",
+      "url": "https://finance.yahoo.com/quote/SPXL/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Direxion (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Direxion",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

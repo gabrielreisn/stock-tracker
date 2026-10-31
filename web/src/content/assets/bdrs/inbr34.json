@@ -1,0 +1,330 @@
+{
+  "ticker": "INBR34",
+  "slug": "inbr34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "INBR34: BDR da Inter&Co, dividendos e volatilidade",
+    "description": "INBR34 é o BDR da Inter&Co, fintech brasileira. Veja rentabilidade, dividendos, volatilidade e como funciona o BDR nível I na B3.",
+    "h1": "INBR34: BDR da Inter&Co",
+    "canonicalPath": "/bdrs/inbr34",
+    "keywords": [
+      "INBR34",
+      "Inter&Co",
+      "BDR",
+      "INTR",
+      "fintech",
+      "dividendos",
+      "volatilidade"
+    ]
+  },
+  "summary": "INBR34 é o BDR nível I da Inter&Co, fintech brasileira que opera como banco digital no Brasil e nos Estados Unidos. A ação original (INTR) é negociada na Nasdaq em dólares. Em 29/10/2026, o BDR valia R$ 22,15, com rentabilidade total de -56,38% nos últimos 12 meses, refletindo a variação do câmbio e o desempenho da ação no exterior.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Inter&Co",
+    "legalName": "INTER & CO. INC",
+    "ticker": "BVMF INBR34",
+    "website": "https://us.inter.co/",
+    "wikidata": "Q131870561",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q131870561",
+      "https://en.wikipedia.org/wiki/Inter%26Co",
+      "https://pt.wikipedia.org/wiki/Inter%26Co",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59444/INBR/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Inter&Co",
+    "legalName": "INTER & CO. INC",
+    "type": "BDR não patrocinado (nível I)",
+    "listedSince": "17/03/2026",
+    "website": "https://us.inter.co/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "INTER & CO. INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: INTR",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "17/03/2026",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 22,15",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "62,79% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original INTR em dólares)",
+      "value": "1,62",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,66%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 104,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "INBR34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Inter & Co, Inc.",
+    "currency": "BRL",
+    "price": 22.15,
+    "historyStarts": "2022-08-26",
+    "returns": {
+      "1y": -0.5638,
+      "3y": 0.0252,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.6279,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6683,
+      "from": "2022-09-22",
+      "to": "2023-03-23"
+    },
+    "beta1y": {
+      "value": 1.62,
+      "against": "S&P 500, ação original INTR em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.5897,
+      "payments12Months": 1,
+      "yield12Months": 0.0266,
+      "lastPayment": {
+        "date": "2026-02-23",
+        "amount": 0.589693
+      }
+    },
+    "avgDailyTradedValue3m": 104732556
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de INBR34 nos últimos 12 meses é de 62,79%, nível muito alto. O beta da ação original (INTR) contra o S&P 500 é 1,62, o que significa que a ação tende a acompanhar os movimentos do índice com amplitude maior. A maior queda nos últimos 5 anos foi de -66,83%, do pico em 22/09/2022 ao ponto mais baixo em 23/03/2023. Para acompanhar a volatilidade e definir pontos de entrada, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Inter&Co foi cofundada em 26 de janeiro de 1994 por Rubens Menin em Belo Horizonte, Minas Gerais. Originalmente estabelecida como um banco tradicional na década de 1990, a empresa realizou a transição para um banco digital em 2015. Desde então, expandiu suas ofertas para incluir um superaplicativo bancário digital, que fornece serviços como transferências de dinheiro, pagamentos de contas, poupança, investimentos e recompensas de compras. Em 2023, a Inter&Co estabeleceu sua sede nos Estados Unidos em Miami e, em 2024, concluiu a aquisição da Granito para fortalecer suas operações no mercado americano. Em 17 de julho de 2024, Alexandre Riccio foi nomeado CEO da Inter&Co Brasil, com João Vitor Menin assumindo o cargo de CEO Global. Em 2024, a empresa relatou ter mais de 36 milhões de clientes, um aumento de 24% em comparação ao ano anterior. No segundo trimestre de 2024, a Inter & Co reportou um aumento de 33% na receita em relação ao mesmo período do ano anterior, totalizando R$ 1,9 bilhão, com um lucro líquido de R$ 64 milhões. A base de clientes cresceu para aproximadamente 27,8 milhões, com 52,2% dos clientes utilizando múltiplos serviços. A carteira de crédito cresceu 5,4%, para R$ 26,5 bilhões, enquanto os empréstimos inadimplentes acima de 90 dias aumentaram para 4,9%. Em 17 de março de 2026, o BDR INBR34 foi listado na B3.",
+    "timeline": [
+      {
+        "date": "1994-01-26",
+        "event": "Cofundação da Inter&Co por Rubens Menin em Belo Horizonte, Minas Gerais.",
+        "source": 3
+      },
+      {
+        "date": "2015",
+        "event": "Transição da empresa de banco tradicional para banco digital.",
+        "source": 3
+      },
+      {
+        "date": "2022",
+        "event": "Parceria com o New York City FC, time da MLS.",
+        "source": 3
+      },
+      {
+        "date": "2023",
+        "event": "Estabelecimento da sede da Inter&Co nos Estados Unidos em Miami.",
+        "source": 3
+      },
+      {
+        "date": "2023-09-14",
+        "event": "Anúncio de parceria com o Orlando City SC e o Orlando Pride, tornando-se provedora oficial de serviços financeiros.",
+        "source": 3
+      },
+      {
+        "date": "2024",
+        "event": "Conclusão da aquisição da Granito para fortalecer operações no mercado americano.",
+        "source": 3
+      },
+      {
+        "date": "2024",
+        "event": "Empresa relata mais de 36 milhões de clientes, aumento de 24% em relação ao ano anterior.",
+        "source": 4
+      },
+      {
+        "date": "2024",
+        "event": "Relatório do segundo trimestre de 2024: receita de R$ 1,9 bilhão, lucro líquido de R$ 64 milhões, 27,8 milhões de clientes e carteira de crédito de R$ 26,5 bilhões.",
+        "source": 4
+      },
+      {
+        "date": "2024-07-17",
+        "event": "Alexandre Riccio nomeado CEO da Inter&Co Brasil; João Vitor Menin assume o cargo de CEO Global.",
+        "source": 3
+      },
+      {
+        "date": "2026-03-17",
+        "event": "Listagem do BDR INBR34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2026-07-23",
+        "event": "Anúncio de renomeação do estádio para Inter.co Stadium.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Inter&Co ganha dinheiro",
+      "body": "A Inter&Co é uma fintech brasileira que fornece serviços bancários e financeiros no Brasil e nos Estados Unidos. A empresa opera por meio de um superaplicativo bancário digital, que oferece serviços como transferências de dinheiro, pagamentos de contas, poupança, investimentos e recompensas de compras. No segundo trimestre de 2024, a receita totalizou R$ 1,9 bilhão, com um lucro líquido de R$ 64 milhões. A base de clientes era de aproximadamente 27,8 milhões, com 52,2% utilizando múltiplos serviços. A carteira de crédito era de R$ 26,5 bilhões, com inadimplência acima de 90 dias em 4,9%."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR INBR34",
+      "body": "INBR34 é um BDR não patrocinado (nível I) que representa ações da Inter&Co (INTR) negociadas na Nasdaq. O BDR é negociado na B3 em reais, enquanto a ação original é negociada em dólares. O preço do BDR acompanha a variação da ação original e a taxa de câmbio. O BDR foi listado na B3 em 17/03/2026."
+    },
+    {
+      "id": "proventos",
+      "heading": "INBR34 paga dividendos?",
+      "body": "INBR34 pagou R$ 0,5897 por BDR em 1 pagamento nos 12 meses até 29/10/2026, resultando em um dividend yield de 2,66%. O último pagamento foi de R$ 0,5897 em 23/02/2026. Como a empresa paga na moeda dela (dólar), o valor recebido em reais varia com o câmbio no momento do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do INBR34",
+      "body": "A rentabilidade total de INBR34 com proventos foi de -56,38% nos 12 meses até 29/10/2026 e de 2,52% em 3 anos. Essas rentabilidades incluem a variação do câmbio, pois o BDR é cotado em reais e a ação original é negociada em dólares. Para comparar com índices, use a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do INBR34",
+      "body": "INBR34 é um BDR não patrocinado (nível I), o que significa que a empresa não patrocina o programa e a liquidez pode ser menor. A volatilidade anualizada de 12 meses é de 62,79%, nível muito alto. A maior queda nos últimos 5 anos foi de -66,83%, do pico em 22/09/2022 ao ponto mais baixo em 23/03/2023. O beta da ação original (INTR) contra o S&P 500 é 1,62, indicando que a ação tende a ter movimentos maiores que os do índice. O BDR em reais também sofre o efeito do câmbio. A inadimplência acima de 90 dias era de 4,9% no segundo trimestre de 2024."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar INBR34 no app",
+      "body": "Para quem tem INBR34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja INBR34 junto com outras posições da sua carteira, com valor por classe e alocação.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade de INBR34 e o preço médio da sua posição no gráfico do app.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade de INBR34 com o S&P 500 e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando INBR34 chegar ao preço que você escolher.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a sua posição em INBR34 e veja as respostas com base nos seus dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "INBR34 paga dividendos?",
+      "answer": "Sim, INBR34 pagou R$ 0,5897 por BDR em 1 pagamento nos 12 meses até 29/10/2026, com dividend yield de 2,66%. O último pagamento foi em 23/02/2026. O valor é pago em reais, mas a empresa paga em dólar, então o valor recebido varia com o câmbio."
+    },
+    {
+      "question": "Qual a diferença entre INBR34 e a ação original INTR?",
+      "answer": "INBR34 é um BDR negociado na B3 em reais, enquanto INTR é a ação original negociada na Nasdaq em dólares. O preço do BDR acompanha a ação original e a taxa de câmbio. O BDR é não patrocinado (nível I), o que pode afetar a liquidez."
+    },
+    {
+      "question": "INBR34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "INBR34 é um BDR não patrocinado (nível I). Isso significa que a empresa não patrocina o programa, e a liquidez pode ser menor em comparação com BDRs patrocinados."
+    },
+    {
+      "question": "Qual a rentabilidade de INBR34 nos últimos 12 meses?",
+      "answer": "A rentabilidade total de INBR34 com proventos foi de -56,38% nos 12 meses até 29/10/2026. Essa rentabilidade inclui a variação do câmbio, pois o BDR é cotado em reais e a ação original é negociada em dólares."
+    },
+    {
+      "question": "Qual a volatilidade de INBR34?",
+      "answer": "A volatilidade anualizada de INBR34 nos últimos 12 meses é de 62,79%, nível muito alto. A maior queda nos últimos 5 anos foi de -66,83%, do pico em 22/09/2022 ao ponto mais baixo em 23/03/2023."
+    },
+    {
+      "question": "Como a Inter&Co ganha dinheiro?",
+      "answer": "A Inter&Co opera por meio de um superaplicativo bancário digital, oferecendo serviços como transferências, pagamentos, poupança, investimentos e recompensas. No segundo trimestre de 2024, a receita foi de R$ 1,9 bilhão, com lucro líquido de R$ 64 milhões."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja INBR34 junto com outras posições da sua carteira, com valor por classe e alocação."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade de INBR34 e o preço médio da sua posição no gráfico do app."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade de INBR34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando INBR34 chegar ao preço que você escolher."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em INBR34 e veja as respostas com base nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ROXO34",
+        "list": "bdrs",
+        "reason": "Outro BDR de uma fintech brasileira, Nu Holdings Ltd., negociado na B3."
+      },
+      {
+        "ticker": "PAGS34",
+        "list": "bdrs",
+        "reason": "BDR de outra empresa de serviços financeiros, PagSeguro Digital Ltd."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação de um banco brasileiro, Itaú Unibanco, para comparação no setor financeiro."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta da ação original INTR."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de INBR34",
+      "url": "https://finance.yahoo.com/quote/INBR34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: INTER CO, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59444/INBR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Inter&Co",
+      "url": "https://www.wikidata.org/wiki/Q131870561",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Inter&Co",
+      "url": "https://en.wikipedia.org/wiki/Inter%26Co",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Inter&Co",
+      "url": "https://pt.wikipedia.org/wiki/Inter%26Co",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

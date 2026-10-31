@@ -1,0 +1,290 @@
+{
+  "ticker": "MDY",
+  "slug": "mdy",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MDY: ETF S&P 400, histórico e desempenho",
+    "description": "Conheça o MDY, ETF que replica o S&P 400. Veja desempenho, volatilidade, dividendos e como investir a partir do Brasil. Atualizado até 30/10/2026.",
+    "h1": "MDY: State Street SPDR S&P MIDCAP 400 ETF Trust",
+    "canonicalPath": "/etfs/mdy",
+    "keywords": [
+      "MDY",
+      "ETF S&P 400",
+      "SPDR MidCap 400",
+      "ETF capitalização média",
+      "investir em ETF americano",
+      "MDY dividendos",
+      "MDY volatilidade",
+      "ETF mid cap EUA"
+    ]
+  },
+  "summary": "MDY é o State Street SPDR S&P MIDCAP 400 ETF Trust, um ETF que replica o índice S&P 400, composto por 400 empresas americanas de capitalização média. Lançado em 04/05/1995, o fundo oferece exposição a ações de empresas com valor de mercado entre US$ 1,5 bilhão e US$ 33,6 bilhões. Em 30/10/2026, a cota valia US$ 668,88, com rentabilidade total de 14,74% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street SPDR S&P MIDCAP 400 ETF Trust",
+    "ticker": "ARCX MDY",
+    "foundingDate": "1995-05-04",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice (Small/Mid Cap)",
+    "issuerOrManager": "State Street Global Advisors",
+    "trackedIndex": "S&P 400 (S&P MidCap 400)",
+    "name": "State Street SPDR S&P MIDCAP 400 ETF Trust",
+    "founded": "04/05/1995"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street SPDR S&P MIDCAP 400 ETF Trust",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "04/05/1995",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 668,88",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,92% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,94",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,05%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 418,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MDY",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street SPDR S&P MIDCAP 400 ETF Trust",
+    "currency": "USD",
+    "price": 668.88,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1474,
+      "3y": 0.6166,
+      "5y": 0.3679,
+      "10y": 1.7528
+    },
+    "volatility1y": 0.1492,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2403,
+      "from": "2024-11-25",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": 0.94,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 7.006,
+      "payments12Months": 4,
+      "yield12Months": 0.0105,
+      "lastPayment": {
+        "date": "2026-09-18",
+        "amount": 1.604
+      }
+    },
+    "avgDailyTradedValue3m": 418401181
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do MDY nos últimos 12 meses é de 14,92%, nível considerado baixo. A maior queda nos últimos 5 anos foi de -24,03%, entre 25/11/2024 e 08/04/2025. Para um ETF de capitalização média, essa volatilidade é compatível com o perfil do segmento, que tende a ser mais sensível a ciclos econômicos do que o mercado amplo. O app permite configurar alertas de preço para acompanhar oscilações da cota."
+  },
+  "history": {
+    "overview": "O MDY foi lançado em 04 de maio de 1995 pelo Bank of New York, com o objetivo de rastrear o índice S&P 400, que reúne ações de empresas de capitalização média nos Estados Unidos. A gestão do fundo passou a ser responsabilidade da State Street Global Advisors (SSGA), que em 2007 unificou a marca SPDR para todos os seus ETFs nos EUA, incluindo o MDY, que anteriormente fazia parte da família StreetTRACKS. A SSGA é a terceira maior gestora de ETFs do mundo, atrás de BlackRock e Vanguard, e foi pioneira no desenvolvimento do veículo ETF em 1993 com o [SPY](/etfs/spy). O MDY permite que investidores acessem o segmento de capitalização média do mercado americano, que representa cerca de 5% da capitalização total das empresas públicas dos EUA, com um patrimônio agregado superior a US$ 2,9 trilhões em dezembro de 2025.",
+    "timeline": [
+      {
+        "date": "1995-05-04",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA renomeia a família StreetTRACKS para SPDR, incluindo o MDY",
+        "source": 2
+      },
+      {
+        "date": "2025-12-31",
+        "event": "Índice S&P 400 registra capitalização agregada superior a US$ 2,9 trilhões",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o MDY funciona",
+      "body": "O MDY é um ETF que replica o índice S&P 400, também conhecido como S&P MidCap 400. O fundo é gerido pela State Street Global Advisors (SSGA) e faz parte da família SPDR, que é a terceira maior gestora de ETFs do mundo. O MDY foi lançado em 04 de maio de 1995, originalmente pelo Bank of New York, e passou a ser gerido pela SSGA, que em 2007 unificou a marca SPDR para todos os seus ETFs nos EUA. O fundo não é alavancado nem inverso, portanto não há rebalanceamento diário de múltiplos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do MDY",
+      "body": "O MDY replica o índice S&P 400, que é um subconjunto do S&P 1500 e acompanha o desempenho de 400 empresas listadas em bolsas americanas com capitalização média. O índice é ponderado por capitalização de mercado e inclui aproximadamente 5% da capitalização total das empresas públicas dos EUA, com um valor agregado superior a US$ 2,9 trilhões em dezembro de 2025. A capitalização mediana das empresas do índice é de US$ 7,9 bilhões, com valores variando de US$ 1,5 bilhão a US$ 33,6 bilhões. A seleção dos componentes é feita por um comitê da S&P Dow Jones Indices."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no MDY a partir do Brasil",
+      "body": "Para investir no MDY a partir do Brasil, o investidor precisa abrir conta em uma corretora que opere no mercado americano ou em uma corretora brasileira que ofereça acesso a ativos internacionais. O investimento é feito em dólar, o que expõe o investidor ao risco cambial, pois variações no câmbio podem afetar o retorno em reais. É possível também buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou segmento, mas o MDY é negociado diretamente nos EUA. O app permite acompanhar a cotação e a rentabilidade do MDY, além de integrar a posição à carteira consolidada."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MDY",
+      "body": "Até 30/10/2026, o MDY apresentava rentabilidade total com proventos de 14,74% nos últimos 12 meses, 61,66% em 3 anos, 36,79% em 5 anos e 175,28% em 10 anos. A cota valia US$ 668,88 nessa data. O fundo distribuiu US$ 7,0060 por cota em 4 pagamentos nos 12 meses até 30/10/2026, com dividend yield de 1,05%. O último pagamento foi de US$ 1,6040 em 18/09/2026. A comparação com o S&P 500 pode ser feita no app, que permite visualizar a rentabilidade da carteira lado a lado com o índice."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MDY",
+      "body": "O MDY expõe o investidor ao risco de mercado do segmento de capitalização média dos EUA, que pode ser mais volátil que o mercado amplo. A volatilidade anualizada do MDY nos últimos 12 meses foi de 14,92%, classificada como baixa. A maior queda nos últimos 5 anos foi de -24,03%, do pico em 25/11/2024 ao ponto mais baixo em 08/04/2025. O beta do MDY contra o S&P 500 é 0,94, o que indica que o ativo tende a acompanhar os movimentos do índice com amplitude ligeiramente menor. O risco cambial também é relevante para investidores brasileiros, pois o ativo é cotado em dólar."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar MDY no app",
+      "body": "Para quem tem MDY na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o MDY junto com outros ativos da sua carteira, com valor por classe e alocação.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade do MDY e o preço médio da sua posição no gráfico do app.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do MDY com o S&P 500 no mesmo gráfico, lado a lado.\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas para ser notificado quando a cota do MDY atingir um preço que você escolher.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte ao assistente sobre a sua posição em MDY e veja as respostas com base nos seus dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o MDY?",
+      "answer": "MDY é o State Street SPDR S&P MIDCAP 400 ETF Trust, um ETF que replica o índice S&P 400, composto por 400 empresas americanas de capitalização média. O fundo é gerido pela State Street Global Advisors e foi lançado em 04/05/1995. Em 30/10/2026, a cota valia US$ 668,88."
+    },
+    {
+      "question": "Qual o índice que o MDY replica?",
+      "answer": "O MDY replica o índice S&P 400, também conhecido como S&P MidCap 400, que acompanha o desempenho de 400 empresas listadas em bolsas americanas com capitalização média. O índice é ponderado por capitalização de mercado e inclui aproximadamente 5% da capitalização total das empresas públicas dos EUA."
+    },
+    {
+      "question": "O MDY paga dividendos?",
+      "answer": "Sim, o MDY distribui proventos. Nos 12 meses até 30/10/2026, foram pagos US$ 7,0060 por cota em 4 pagamentos, com dividend yield de 1,05%. O último pagamento foi de US$ 1,6040 em 18/09/2026. O app permite acompanhar os dividendos e JCP de ativos com data de pagamento."
+    },
+    {
+      "question": "Como investir no MDY a partir do Brasil?",
+      "answer": "É possível investir no MDY abrindo conta em uma corretora que opere no mercado americano ou em uma corretora brasileira com acesso a ativos internacionais. O investimento é feito em dólar, o que expõe o investidor ao risco cambial. O app permite integrar a posição à carteira consolidada, mostrando valor por classe e alocação."
+    },
+    {
+      "question": "Qual a volatilidade do MDY?",
+      "answer": "A volatilidade anualizada do MDY nos últimos 12 meses é de 14,92%, nível considerado baixo. A maior queda nos últimos 5 anos foi de -24,03%, entre 25/11/2024 e 08/04/2025. O beta do ativo contra o S&P 500 é 0,94, indicando movimentos ligeiramente menores que os do índice."
+    },
+    {
+      "question": "Qual a diferença entre MDY e SPY?",
+      "answer": "O MDY replica o índice S&P 400, focado em empresas de capitalização média, enquanto o SPY replica o S&P 500, que inclui as 500 maiores empresas dos EUA por capitalização. O MDY oferece exposição a empresas menores, com capitalização mediana de US$ 7,9 bilhões, enquanto o SPY tem maior concentração em grandes empresas. Ambos são geridos pela State Street Global Advisors."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o MDY junto com outros ativos da sua carteira, com valor por classe e alocação."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do MDY e o preço médio da sua posição no gráfico do app."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do MDY com o S&P 500 no mesmo gráfico, lado a lado."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando a cota do MDY atingir um preço que você escolher."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte ao assistente sobre a sua posição em MDY e veja as respostas com base nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, o índice de referência para o beta do MDY"
+      },
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "ETF de small caps, segmento complementar ao mid cap do MDY"
+      },
+      {
+        "ticker": "IJH",
+        "list": "us-etfs",
+        "reason": "Outro ETF de capitalização média, para comparação de estratégia"
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500 da Vanguard, alternativa ao SPY"
+      },
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "ETF de mercados emergentes, para diversificação geográfica"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MDY",
+      "url": "https://finance.yahoo.com/quote/MDY/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 400 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_400",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): State Street Investment Management (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/State_Street_Investment_Management",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

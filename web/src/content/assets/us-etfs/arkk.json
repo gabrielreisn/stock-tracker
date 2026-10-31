@@ -1,0 +1,296 @@
+{
+  "ticker": "ARKK",
+  "slug": "arkk",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ARKK: história, desempenho e volatilidade",
+    "description": "ARKK é o ARK Innovation ETF, gerido por Cathie Wood. Veja a história, a rentabilidade de 135,49% em 3 anos e a volatilidade de 37,71% até 30/10/2026.",
+    "h1": "ARKK: ARK Innovation ETF",
+    "canonicalPath": "/etfs/arkk",
+    "keywords": [
+      "ARKK",
+      "ARK Innovation ETF",
+      "Cathie Wood",
+      "ETF de inovação",
+      "ARK Invest"
+    ]
+  },
+  "summary": "ARKK é o ARK Innovation ETF, um ETF negociado nos Estados Unidos gerido pela ARK Investment Management LLC. Lançado em 31/10/2014, o fundo é gerido ativamente por Cathie Wood e investe em empresas de inovação disruptiva. Até 30/10/2026, a cota valia US$ 80,75, com rentabilidade total de -5,75% nos últimos 12 meses, mas de 135,49% nos últimos 3 anos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "ARK Innovation ETF",
+    "ticker": "BATS ARKK",
+    "foundingDate": "2014-10-31",
+    "provider": {
+      "name": "Ark Invest",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Ark_Invest"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF ativo de inovação disruptiva",
+    "issuerOrManager": "ARK Investment Management LLC",
+    "name": "ARK Innovation ETF",
+    "founded": "31/10/2014"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ARK Innovation ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "31/10/2014",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 80,75",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "37,71% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,31",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 391,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ARKK",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ARK Innovation ETF",
+    "currency": "USD",
+    "price": 80.75,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0575,
+      "3y": 1.3549,
+      "5y": -0.3439,
+      "10y": 3.3944
+    },
+    "volatility1y": 0.3771,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7612,
+      "from": "2021-11-01",
+      "to": "2022-12-28"
+    },
+    "beta1y": {
+      "value": 2.31,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2023-09-08",
+        "amount": 0.364
+      }
+    },
+    "avgDailyTradedValue3m": 391506935
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do ARKK nos últimos 12 meses é de 37,71%, nível considerado alto. O beta de 2,31 contra o S&P 500 indica que o ARKK tende a ter movimentos mais amplos que o índice, na mesma direção. A maior queda em 5 anos foi de -76,12%, do pico em 01/11/2021 ao ponto mais baixo em 28/12/2022. Para um ETF ativo de inovação disruptiva, essa volatilidade é esperada, mas exige atenção ao risco de mercado. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar a cota."
+  },
+  "history": {
+    "overview": "A ARK Investment Management LLC foi fundada em 2014 por Cathie Wood após ela deixar a AllianceBernstein, onde sua ideia de criar ETFs ativos baseados em inovação disruptiva foi considerada arriscada demais. A empresa, nomeada em referência à Arca da Aliança, lançou seu primeiro fundo, o ARK Innovation ETF (ARKK), em 31 de outubro de 2014, junto com outros três ETFs temáticos. O ARKK ganhou destaque em 2020, quando se tornou o maior ETF ativo do mundo, com US$ 17 bilhões em ativos sob gestão e uma rentabilidade de 170% naquele ano. A gestora expandiu sua oferta com o lançamento de novos fundos, como o Fintech Innovation ETF em 2019 e o Space Exploration & Innovation ETF em 2021. Em 2017, a Nikko Asset Management adquiriu 15% da ARK, obtendo direitos exclusivos para oferecer seus produtos no Japão e na Ásia-Pacífico. Em dezembro de 2020, Cathie Wood reprou uma opção da Resolute Investment Managers de adquirir a maioria da empresa, mantendo o controle total da ARK. Até 2025, a ARK geria US$ 30 bilhões em ativos.",
+    "timeline": [
+      {
+        "date": "2014-10-31",
+        "event": "Primeiro pregão das cotas do ARK Innovation ETF na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2016",
+        "event": "Lançamento do 3D Printing ETF pela ARK.",
+        "source": 1
+      },
+      {
+        "date": "2017",
+        "event": "Nikko Asset Management adquire 15% da ARK, obtendo direitos exclusivos para o Japão e a Ásia-Pacífico.",
+        "source": 1
+      },
+      {
+        "date": "2017",
+        "event": "Lançamento do Israel Innovative Technology ETF pela ARK.",
+        "source": 1
+      },
+      {
+        "date": "2019",
+        "event": "Lançamento do Fintech Innovation ETF pela ARK.",
+        "source": 1
+      },
+      {
+        "date": "2020-12",
+        "event": "ARKK se torna o maior ETF ativo do mundo, com US$ 17 bilhões em ativos sob gestão.",
+        "source": 1
+      },
+      {
+        "date": "2021",
+        "event": "Lançamento do Space Exploration & Innovation ETF pela ARK.",
+        "source": 1
+      },
+      {
+        "date": "2021",
+        "event": "Lançamento do Transparency ETF pela ARK.",
+        "source": 1
+      },
+      {
+        "date": "2022-07-31",
+        "event": "Encerramento do Transparency ETF (CTRU) após a Transparency Global parar de calcular o índice.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o ARKK funciona",
+      "body": "O ARK Innovation ETF é um ETF negociado nos Estados Unidos, gerido ativamente pela ARK Investment Management LLC. Diferente de ETFs que replicam índices, o ARKK é selecionado pela equipe de gestão, liderada por Cathie Wood, com foco em empresas de inovação disruptiva. O fundo foi lançado em 31 de outubro de 2014, junto com outros três ETFs temáticos da ARK. Não há menção nas fontes a alavancagem ou inversão, sendo um ETF tradicional de ações."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do ARKK",
+      "body": "As fontes não detalham a composição exata do ARKK, mas indicam que ele investe em empresas de inovação disruptiva. A gestora, ARK Investment Management, também administra outros ETFs temáticos, como o Genomic Revolution ETF, o Next Generation Internet ETF, o Autonomous Technology & Robotics ETF, o Fintech Innovation ETF e o Space Exploration & Innovation ETF. O ARKK é o fundo principal da gestora."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no ARKK a partir do Brasil",
+      "body": "Para investir no ARKK a partir do Brasil, é necessário ter uma conta em uma corretora que opere no mercado americano, ou adquirir BDRs que sigam o mesmo ativo, se disponíveis na B3. O investimento em dólar expõe o investidor ao risco cambial, ou seja, variações no câmbio entre o real e o dólar afetam o retorno em reais. A volatilidade do ARKK, de 37,71% nos últimos 12 meses, é alta, o que exige atenção ao risco de mercado."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ARKK",
+      "body": "Até 30/10/2026, o ARKK apresentava rentabilidade total de -5,75% nos últimos 12 meses, 135,49% nos últimos 3 anos, -34,39% nos últimos 5 anos e 339,44% nos últimos 10 anos. A cota valia US$ 80,75. O beta de 2,31 contra o S&P 500 indica que o ARKK tende a ter movimentos mais amplos que o índice. A maior queda em 5 anos foi de -76,12%, do pico em 01/11/2021 ao ponto mais baixo em 28/12/2022. É possível comparar o desempenho do ARKK com o S&P 500 na [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ARKK",
+      "body": "O ARKK é um ETF ativo de inovação disruptiva, o que implica concentração em setores de tecnologia e saúde, com alta volatilidade. A volatilidade anualizada de 37,71% nos últimos 12 meses é considerada alta. A maior queda em 5 anos foi de -76,12%, entre 01/11/2021 e 28/12/2022. O beta de 2,31 contra o S&P 500 mostra que o ARKK tende a oscilar mais que o índice. A gestora, ARK Investment Management, tem histórico de resultados mistos, com o ARKK sendo considerado pela Morningstar o terceiro maior 'destruidor de riqueza' entre 2014 e 2023. O risco cambial também é relevante para investidores brasileiros, pois o ativo é cotado em dólar."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar ARKK no app",
+      "body": "Para quem tem ARKK na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do ARKK lado a lado com o S&P 500 no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure uma notificação quando a cota do ARKK chegar a um valor que você escolheu.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do ARKK junto com outros ativos na sua carteira.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Veja a rentabilidade do ARKK e o preço médio da sua posição."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o ARKK?",
+      "answer": "ARKK é o ARK Innovation ETF, um ETF negociado nos Estados Unidos gerido ativamente pela ARK Investment Management LLC. Ele investe em empresas de inovação disruptiva e foi lançado em 31/10/2014."
+    },
+    {
+      "question": "Quem gerencia o ARKK?",
+      "answer": "O ARKK é gerido pela ARK Investment Management LLC, fundada por Cathie Wood em 2014. A gestora também administra outros ETFs temáticos, como o Genomic Revolution ETF e o Fintech Innovation ETF."
+    },
+    {
+      "question": "Qual a rentabilidade do ARKK nos últimos 12 meses?",
+      "answer": "Até 30/10/2026, a rentabilidade total do ARKK nos últimos 12 meses foi de -5,75%. Nos últimos 3 anos, foi de 135,49%, e nos últimos 10 anos, de 339,44%."
+    },
+    {
+      "question": "Qual a volatilidade do ARKK?",
+      "answer": "A volatilidade anualizada do ARKK nos últimos 12 meses é de 37,71%, nível considerado alto. A maior queda em 5 anos foi de -76,12%, entre 01/11/2021 e 28/12/2022."
+    },
+    {
+      "question": "Como investir no ARKK a partir do Brasil?",
+      "answer": "É possível investir no ARKK por meio de uma corretora que opere no mercado americano ou por BDRs na B3, se disponíveis. O investimento em dólar expõe o investidor ao risco cambial."
+    },
+    {
+      "question": "O ARKK paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses, o ARKK não distribuiu proventos, conforme os dados até 30/10/2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do ARKK lado a lado com o S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação quando a cota do ARKK chegar a um valor que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do ARKK junto com outros ativos na sua carteira."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja a rentabilidade do ARKK e o preço médio da sua posição."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta do ARKK."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do NASDAQ 100, também focado em tecnologia, como o ARKK."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF do setor de tecnologia, segmento em que o ARKK investe."
+      },
+      {
+        "ticker": "VGT",
+        "list": "us-etfs",
+        "reason": "ETF de tecnologia, outro ativo do mesmo segmento do ARKK."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ARKK",
+      "url": "https://finance.yahoo.com/quote/ARKK/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Ark Invest (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Ark_Invest",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Cathie Wood (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Cathie_Wood",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,391 @@
+{
+  "ticker": "IRBR3",
+  "slug": "irbr3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IRBR3: história, dividendos e volatilidade",
+    "description": "IRBR3 é a ação da IRB(Re), maior resseguradora do Brasil. Veja história, dividendos de 2,84%, volatilidade de 35,13% e desempenho até 30/10/2026.",
+    "h1": "IRBR3: IRB(Re) - Ação Ordinária da Maior Resseguradora do Brasil",
+    "canonicalPath": "/acoes/irbr3",
+    "keywords": [
+      "IRBR3",
+      "IRB(Re)",
+      "resseguradora",
+      "dividendos IRBR3",
+      "volatilidade IRBR3",
+      "ação resseguro",
+      "Novo Mercado B3",
+      "IRB Brasil RE"
+    ]
+  },
+  "summary": "IRBR3 é a ação ordinária da IRB(Re), a maior resseguradora do Brasil, com 37% de market share. A empresa atua em operações de resseguro e retrocessão, sendo listada no Novo Mercado da B3 desde 2017. Em 30/10/2026, a ação cotava a R$ 55,68, com rentabilidade total de 16,51% nos últimos 12 meses e dividend yield de 2,84%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "IRB(Re)",
+    "legalName": "IRB - BRASIL RESSEGUROS S.A.",
+    "ticker": "BVMF IRBR3",
+    "isin": "BRIRBRACNOR4",
+    "taxId": "33.376.989/0001-91",
+    "foundingDate": "1939-04-03",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://ri.irbbrasilre.com",
+    "wikidata": "Q6041711",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q6041711",
+      "https://pt.wikipedia.org/wiki/IRB(Re)",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24180/IRBR/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "IRB(Re)",
+    "legalName": "IRB - BRASIL RESSEGUROS S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Financeiro",
+    "segment": "Resseguradoras",
+    "founded": "03/04/1939",
+    "listedSince": "31/07/2017",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://ri.irbbrasilre.com"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "IRB - BRASIL RESSEGUROS S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "33.376.989/0001-91",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Resseguradoras",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "03/04/1939",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "31/07/2017",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "IRBR3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 55,68",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "35,13% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,81",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,84%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IRBR3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "IRB-Brasil Resseguros S.A.",
+    "currency": "BRL",
+    "price": 55.68,
+    "historyStarts": "2017-07-31",
+    "returns": {
+      "1y": 0.1651,
+      "3y": 0.4091,
+      "5y": -0.526,
+      "10y": null
+    },
+    "volatility1y": 0.3513,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8521,
+      "from": "2021-11-11",
+      "to": "2023-03-02"
+    },
+    "beta1y": {
+      "value": 0.81,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.5795,
+      "payments12Months": 4,
+      "yield12Months": 0.0284,
+      "lastPayment": {
+        "date": "2026-07-01",
+        "amount": 0.320107
+      }
+    },
+    "avgDailyTradedValue3m": 56908637
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da IRBR3 nos 12 meses até 30/10/2026 foi de 35,13%, nível alto para uma ação brasileira. O beta de 0,81 contra o Ibovespa indica que a ação costuma se mover com amplitude menor que a do índice, na mesma direção. A maior queda em 5 anos foi de -85,21%, do pico em 11/11/2021 ao ponto mais baixo em 02/03/2023. Para monitorar movimentos de preço e receber notificações quando a ação atinge níveis que você escolheu, use o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "Fundada em 03/04/1939 por Getúlio Vargas, a IRB(Re) nasceu como o Instituto de Resseguros do Brasil com o objetivo de reter no país os riscos de empresas nacionais que antes eram transferidos para o exterior. A companhia manteve seu monopólio no mercado brasileiro de resseguro por 69 anos, até 2007, quando o Congresso Nacional aprovou o fim do monopólio e a regulação passou para a Susep. Em 1996, a empresa tornou-se uma sociedade de economia mista, passando a se chamar IRB Brasil Resseguros S.A. A privatização ocorreu em 1º de outubro de 2013, quando a companhia deixou de ser uma sociedade de economia mista. Em 2017, o IRB Brasil RE concluiu sua oferta pública de ações (IPO) na B3, movimentando R$ 2 bilhões, e passou a integrar o IBrX 100 em maio de 2018. Em 2019, a empresa realizou dois follow-ons na bolsa brasileira, no valor aproximado de R$ 10 bilhões, e se tornou uma corporation. Em junho de 2023, a companhia passou a se chamar IRB(Re) e atualizou sua marca, inaugurando nova sede no centro do Rio de Janeiro. A estratégia de negócios atual define meta de emitir 70% dos prêmios no Brasil, 20% na América Latina e 10% em outros mercados.",
+    "timeline": [
+      {
+        "date": "1939-04-03",
+        "event": "Constituição da companhia como Instituto de Resseguros do Brasil",
+        "source": 2
+      },
+      {
+        "date": "1996",
+        "event": "Torna-se sociedade de economia mista e passa a se chamar IRB Brasil Resseguros S.A.",
+        "source": 4
+      },
+      {
+        "date": "2007",
+        "event": "Fim do monopólio no mercado de resseguro e transferência da regulação para a Susep",
+        "source": 4
+      },
+      {
+        "date": "2013-10-01",
+        "event": "Privatização da companhia, que deixa de ser sociedade de economia mista",
+        "source": 4
+      },
+      {
+        "date": "2017-07-27",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2017-07-31",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2018-05",
+        "event": "Inclusão no IBrX 100",
+        "source": 4
+      },
+      {
+        "date": "2019",
+        "event": "Realização de dois follow-ons na bolsa brasileira, no valor aproximado de R$ 10 bilhões",
+        "source": 4
+      },
+      {
+        "date": "2023-06",
+        "event": "Releitura da marca e mudança de nome para IRB(Re), com inauguração da nova sede",
+        "source": 4
+      },
+      {
+        "date": "2025-01-13",
+        "event": "Cancelamento de Ações em Tesouraria",
+        "source": 7
+      },
+      {
+        "date": "2025-12-15",
+        "event": "Programa de Recompra de Ações",
+        "source": 6
+      },
+      {
+        "date": "2026-09-29",
+        "event": "Fato relevante sobre a Lei nº 15.525/2026 - Projeto de Lei nº 3.540/2026",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a IRB(Re) ganha dinheiro",
+      "body": "A IRB(Re) atua em operações de resseguro e retrocessão, sendo classificada pela B3 no segmento Financeiro / Previdência e Seguros / Resseguradoras. A companhia é a maior resseguradora do Brasil, com 37% de market share, e atua em todas as linhas de negócios de resseguros. A estratégia de negócios define meta de emitir 70% dos prêmios no Brasil, 20% na América Latina e 10% em outros mercados. A empresa tem sede no Rio de Janeiro e escritórios em São Paulo, Brasília, Buenos Aires e Londres."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da IRB(Re)",
+      "body": "A IRB(Re) é uma empresa privada de capital aberto, com controle acionário privado, conforme cadastro da CVM. A ação IRBR3 é do tipo ordinária (ON), listada no Novo Mercado da B3 desde 31/07/2017. O código de negociação é IRBR3, e o nome de pregão é IRBBRASIL RE. Ações ordinárias dão direito a voto em assembleias gerais e não têm preferência na distribuição de proventos em relação a outras classes, caso existam. A IRB(Re) não possui ações preferenciais em circulação, apenas a classe ON."
+    },
+    {
+      "id": "proventos",
+      "heading": "IRBR3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a IRBR3 distribuiu R$ 1,5795 por ação em 4 pagamentos, resultando em dividend yield de 2,84%. O último pagamento foi de R$ 0,3201 em 01/07/2026. A empresa também realizou cancelamento de ações em tesouraria em 13/01/2025 e anunciou programa de recompra de ações em 15/12/2025. Para acompanhar os dividendos e JCP da IRBR3 com data com e data de pagamento, multiplicados pela sua quantidade, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da IRBR3",
+      "body": "Em 30/10/2026, a IRBR3 cotava a R$ 55,68. A rentabilidade total com proventos foi de 16,51% nos 12 meses, 40,91% em 3 anos e -52,60% em 5 anos. O volume médio negociado por dia nos últimos 3 meses foi de R$ 56,9 milhões. Para comparar a rentabilidade da IRBR3 com o Ibovespa, CDI e outros índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da IRBR3",
+      "body": "A volatilidade anualizada da IRBR3 nos 12 meses até 30/10/2026 foi de 35,13%, classificada como nível alto. A maior queda nos últimos 5 anos foi de -85,21%, do pico em 11/11/2021 ao ponto mais baixo em 02/03/2023. O beta de 0,81 indica que a ação costuma acompanhar os movimentos do Ibovespa com amplitude menor, na mesma direção. Riscos setoriais incluem a concentração em operações de resseguro, a dependência do mercado nacional e a exposição a eventos catastróficos. A regulação do setor é feita pela Susep, e mudanças legislativas, como a Lei nº 15.525/2026, podem impactar o negócio."
+    }
+  ],
+  "faq": [
+    {
+      "question": "IRBR3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a IRBR3 distribuiu R$ 1,5795 por ação em 4 pagamentos, com dividend yield de 2,84%. O último pagamento foi de R$ 0,3201 em 01/07/2026. A empresa também realizou cancelamento de ações em tesouraria em 13/01/2025 e anunciou programa de recompra em 15/12/2025."
+    },
+    {
+      "question": "Qual a diferença entre IRBR3 e IRBR4?",
+      "answer": "IRBR3 é a ação ordinária (ON) da IRB(Re), que dá direito a voto em assembleias gerais. A IRB(Re) não possui ações preferenciais (PN) em circulação, apenas a classe ON. Portanto, não há IRBR4 no mercado."
+    },
+    {
+      "question": "IRBR3 é FII de papel ou de tijolo?",
+      "answer": "IRBR3 não é um FII. É a ação ordinária da IRB(Re), uma resseguradora listada no Novo Mercado da B3. A empresa atua em operações de resseguro e retrocessão, sendo a maior resseguradora do Brasil, com 37% de market share."
+    },
+    {
+      "question": "Qual o setor da IRBR3?",
+      "answer": "A IRBR3 está classificada pela B3 no setor Financeiro, segmento Previdência e Seguros, subsegmento Resseguradoras. A empresa atua em operações de resseguro e retrocessão, sendo a maior resseguradora do Brasil, com 37% de market share."
+    },
+    {
+      "question": "IRBR3 é uma boa ação para iniciantes?",
+      "answer": "A IRBR3 é uma ação ordinária da IRB(Re), a maior resseguradora do Brasil, listada no Novo Mercado da B3. A volatilidade anualizada de 35,13% e a maior queda de -85,21% em 5 anos indicam que a ação tem oscilações significativas. A decisão de incluir a IRBR3 em uma carteira depende do perfil de risco e dos objetivos do investidor."
+    },
+    {
+      "question": "O que é resseguro?",
+      "answer": "Resseguro é a operação em que uma seguradora transfere parte dos riscos que assumiu para outra empresa, a resseguradora. A IRB(Re) é a maior resseguradora do Brasil, com 37% de market share, e atua em todas as linhas de negócios de resseguros, incluindo retrocessão."
+    },
+    {
+      "question": "Como acompanhar a IRBR3 no app?",
+      "answer": "Você pode acompanhar a IRBR3 no app com o [gráfico do dia e as posições na barra de menus do Mac](/recursos/widget-da-barra-de-menus), que mostra o desempenho em tempo real. Para perguntar em português sobre a sua carteira e a posição em IRBR3, use o [assistente de IA](/recursos/assistente-de-ia), que responde com base nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da IRBR3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da IRBR3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a IRBR3 atinge o preço que você escolheu, para acompanhar movimentos de volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a IRBR3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em IRBR3 e a sua carteira; as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PSSA3",
+        "list": "br-stocks",
+        "reason": "Porto Seguro S.A., outra empresa do setor de seguros, para comparação no segmento."
+      },
+      {
+        "ticker": "BBSE3",
+        "list": "br-stocks",
+        "reason": "BB Seguridade Participações S.A., holding de seguros do Banco do Brasil, para comparação no setor financeiro."
+      },
+      {
+        "ticker": "CXSE3",
+        "list": "br-stocks",
+        "reason": "Caixa Seguridade Participações S.A., holding de seguros da Caixa, para comparação no setor de seguros."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Itaú Unibanco Holding S.A., ação do setor financeiro, para comparação de desempenho no Ibovespa."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Banco Bradesco S.A., ação do setor financeiro, para comparação de desempenho no Ibovespa."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IRBR3",
+      "url": "https://finance.yahoo.com/quote/IRBR3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: IRBBRASIL RE, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24180/IRBR/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, IRB - BRASIL RESSEGUROS S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: IRB(Re)",
+      "url": "https://www.wikidata.org/wiki/Q6041711",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): IRB(Re)",
+      "url": "https://pt.wikipedia.org/wiki/IRB(Re)",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/09/2026, “Lei nº 15.525/2026 - Projeto de Lei nº 3.540/2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1572288&numSequencia=1096994&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/12/2025, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1457667&numSequencia=982379&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/01/2025, “Cancelamento de Ações em Tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1324639&numSequencia=849365&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

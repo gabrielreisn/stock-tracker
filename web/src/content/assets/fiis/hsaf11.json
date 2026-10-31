@@ -1,0 +1,336 @@
+{
+  "ticker": "HSAF11",
+  "slug": "hsaf11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HSAF11: FII de papel, proventos e volatilidade",
+    "description": "HSAF11 é um FII de renda com CRIs, gestão ativa da HSI. Veja proventos, patrimônio de R$ 226,2 milhões, volatilidade de 14,94% e beta de 0,21 contra o",
+    "h1": "HSAF11: HSI Ativos Financeiros FII",
+    "canonicalPath": "/fiis/hsaf11",
+    "keywords": [
+      "HSAF11",
+      "HSI Ativos Financeiros FII",
+      "FII de papel",
+      "FII de CRI",
+      "proventos HSAF11",
+      "dividend yield HSAF11",
+      "volatilidade HSAF11",
+      "patrimônio HSAF11"
+    ]
+  },
+  "summary": "HSAF11 é a cota do HSI Ativos Financeiros Fundo de Investimento Imobiliário, um FII de renda com gestão ativa que investe primordialmente em certificados de recebíveis imobiliários (CRIs) e cotas de outros fundos imobiliários. Fundado em 03/09/2020, o fundo tinha patrimônio líquido de R$ 226,2 milhões e 8.604 cotistas em 09/2026, com valor patrimonial da cota de R$ 89,55. Nos 12 meses até 29/10/2026, a rentabilidade total com proventos foi de 7,52%, com dividend yield de 14,51%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "HSI Ativos Financeiros Fundo de Investimento Imobiliário de Resp Limitada",
+    "legalName": "HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
+    "ticker": "BVMF HSAF11",
+    "isin": "BRHSAFCTF004",
+    "taxId": "35.360.687/0001-50",
+    "foundingDate": "2020-09-03",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35360687000150"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "HSI Gestora de Ativos Financeiros (gestora) e BRL TRUST DTVM S.A",
+    "name": "HSI Ativos Financeiros Fundo de Investimento Imobiliário de Resp Limitada",
+    "legalName": "HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "03/09/2020",
+    "administrator": "BRL TRUST DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "35.360.687/0001-50",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BRL TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "03/09/2020",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 226,2 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "8.604",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 89,55",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 72,01",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,94% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,21",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,51%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 464.616,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HSAF11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Hsi Ativos Financeiros Fundos Investimentos Imoliarios",
+    "currency": "BRL",
+    "price": 72.01,
+    "historyStarts": "2024-02-01",
+    "returns": {
+      "1y": 0.0752,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1494,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2512,
+      "from": "2024-08-02",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.21,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.45,
+      "payments12Months": 11,
+      "yield12Months": 0.1451,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.95
+      }
+    },
+    "avgDailyTradedValue3m": 464616
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do HSAF11 nos 12 meses até 29/10/2026 foi de 14,94%, classificada como nível baixo 0. O beta do fundo contra o Ibovespa no mesmo período foi de 0,21, o que significa que o HSAF11 tende a se mover na mesma direção do Ibovespa, mas com amplitude aproximadamente 5 vezes menor 0. A maior queda em 5 anos foi de -25,12%, do pico em 02/08/2024 ao ponto mais baixo em 19/12/2024 0. Para um FII de renda com foco em CRIs, essa volatilidade é compatível com o perfil de ativo de menor sensibilidade a movimentos de mercado, embora a queda de 2024 mostre que períodos de estresse podem gerar variações expressivas. O [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio) permite acompanhar a evolução da rentabilidade e a variação diária da cota ao longo do tempo."
+  },
+  "history": {
+    "overview": "O HSI Ativos Financeiros Fundo de Investimento Imobiliário (HSAF11) iniciou suas atividades em 03/09/2020, com a primeira oferta pública de cotas encerrada em 04/09/2020 [1, 2]. O fundo é administrado pela BRL TRUST DTVM S.A. e gerido ativamente pela HSI Gestora de Ativos Financeiros, com o objetivo de obter renda e ganho de capital por meio de investimentos em CRIs, cotas de outros FIIs e, complementarmente, em letras hipotecárias e de crédito imobiliário 3. A estratégia é focada em renda, com distribuições mensais de proventos aos cotistas 3. Em 2021, 2022 e 2024, o fundo realizou novas ofertas públicas de cotas, ampliando sua base de investidores e seu patrimônio 2. Em 09/2026, o fundo contava com 8.604 cotistas e 2.526.360 cotas emitidas, com patrimônio líquido de R$ 226,2 milhões 1. A liquidez diária média do fundo em 30/09/2026 era de R$ 318.918 3.",
+    "timeline": [
+      {
+        "date": "2020-08-31",
+        "event": "Início da primeira oferta pública de cotas do HSAF11.",
+        "source": 2
+      },
+      {
+        "date": "2020-09-03",
+        "event": "Início das atividades do HSI Ativos Financeiros Fundo de Investimento Imobiliário.",
+        "source": 1
+      },
+      {
+        "date": "2020-09-04",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2021-06-10",
+        "event": "Encerramento de nova oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2022-06-09",
+        "event": "Início de nova oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2022-07-11",
+        "event": "Encerramento de oferta pública de cotas.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do HSAF11",
+      "body": "O HSAF11 é classificado pela Anbima como FII de Renda com gestão ativa 3. O fundo tem como objetivo a obtenção de renda e ganho de capital, investindo primordialmente em certificados de recebíveis imobiliários (CRIs) e cotas de outros fundos de investimento imobiliário (FIIs) 3. Complementarmente, a carteira pode incluir letras hipotecárias, letras de crédito imobiliário, letras imobiliárias garantidas e certificados de potencial adicional de construção 3. A gestora é a HSI Gestora de Ativos Financeiros e o administrador é a BRL TRUST DTVM S.A. [1, 3]. A taxa de administração é de 1% ao ano sobre o valor de mercado do fundo, e a taxa de performance é de 20% do excedente ao benchmark, definido como o maior entre 4% ao ano ou 110% da Taxa DI 3. Em 30/09/2026, o valor de mercado do fundo era de R$ 194.529.720 (R$ 77,00/cota) e o valor patrimonial era de R$ 226.228.285 (R$ 89,55/cota) 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do HSAF11",
+      "body": "Nos 12 meses até 29/10/2026, o HSAF11 distribuiu R$ 10,4500 por cota em 11 pagamentos, o que corresponde a um dividend yield de 14,51% 0. O último provento foi de R$ 0,9500 por cota, pago em 01/10/2026 0. Em 30/09/2026, a distribuição anunciada para o mês de setembro foi de R$ 0,95 por cota, com pagamento em 07/10/2026, representando um dividend yield de 1,23% ao mês ou 15,85% ao ano, equivalente a 135,21% do CDI líquido 3. A tributação dos rendimentos do HSAF11 é de 0% para pessoas físicas que possuam menos de 10% do total de cotas do fundo e haja mais de 100 cotistas, enquanto para pessoas jurídicas é de 20% sobre rendimentos e 20% sobre ganho de capital em eventual venda das cotas 3. Para investidores enquadrados no regime do INR, a alíquota é de 0% sobre rendimentos para PF e 15% para PJ 3. Veja os [dividendos e proventos do HSAF11 no app](/recursos/proventos) com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O HSAF11 realizou 5 ofertas públicas de cotas encerradas, com documentos publicados no FNET desde 19/06/2020 2. As ofertas ocorreram em 2020, 2021, 2022 e 2024 2. Em 09/2026, o fundo tinha patrimônio líquido de R$ 226,2 milhões, 8.604 cotistas e 2.526.360 cotas emitidas, com valor patrimonial da cota de R$ 89,55 1. A taxa de administração no mês de 09/2026, sobre o patrimônio, foi de 0,069% 1. O volume médio negociado por dia nos 3 meses até 29/10/2026 foi de R$ 464.616,00 0."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HSAF11",
+      "body": "A rentabilidade total com proventos do HSAF11 nos 12 meses até 29/10/2026 foi de 7,52% 0. A volatilidade anualizada no mesmo período foi de 14,94%, classificada como nível baixo 0. O beta do fundo contra o Ibovespa, nos 12 meses até 29/10/2026, foi de 0,21 0. A maior queda em 5 anos foi de -25,12%, do pico em 02/08/2024 ao ponto mais baixo em 19/12/2024 0. Compare a [rentabilidade do HSAF11 com o IFIX e o CDI no app](/recursos/comparacao-com-indices), que mostra a performance do fundo lado a lado com os principais índices de referência."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HSAF11",
+      "body": "Como FII de papel que investe primordialmente em CRIs, o HSAF11 está exposto ao risco de crédito dos emissores dos recebíveis imobiliários que compõem a carteira 3. A volatilidade anualizada de 14,94% nos 12 meses até 29/10/2026 é considerada baixa, mas a maior queda em 5 anos foi de -25,12%, entre 02/08/2024 e 19/12/2024 0. O beta de 0,21 contra o Ibovespa indica que o fundo tende a acompanhar os movimentos do índice com amplitude menor 0. A liquidez diária média do fundo em 30/09/2026 era de R$ 318.918, o que pode limitar a capacidade de negociação de grandes volumes em um único dia 3. O fundo também está sujeito ao risco de mercado, com a taxa Selic em 13,75% ao ano em 09/2026, e a gestora projeta Selic em 13,25% ao final de 2026 3. Use os [alertas de preço no app](/recursos/alertas-de-preco) para ser notificado quando a cota do HSAF11 atingir um nível que você definir."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HSAF11 é FII de papel ou de tijolo?",
+      "answer": "O HSAF11 é um FII de papel, classificado pela Anbima como FII de Renda com gestão ativa 3. O fundo investe primordialmente em certificados de recebíveis imobiliários (CRIs) e cotas de outros FIIs, e complementarmente em letras hipotecárias e de crédito imobiliário 3. Não possui imóveis físicos na carteira como ativo principal."
+    },
+    {
+      "question": "HSAF11 paga dividendos?",
+      "answer": "Sim, o HSAF11 distribui proventos mensais aos cotistas 3. Nos 12 meses até 29/10/2026, foram distribuídos R$ 10,4500 por cota em 11 pagamentos, com dividend yield de 14,51% 0. O último provento foi de R$ 0,9500 por cota, pago em 01/10/2026 0. Veja os [proventos do HSAF11 no app](/recursos/proventos) com data de competência e data de pagamento."
+    },
+    {
+      "question": "Qual a tributação dos rendimentos do HSAF11?",
+      "answer": "Para pessoas físicas com menos de 10% do total de cotas do fundo e mais de 100 cotistas, a tributação é de 0% sobre rendimentos e 20% sobre ganho de capital em eventual venda das cotas 3. Para pessoas jurídicas, é 20% sobre rendimentos e 20% sobre ganho de capital 3. Para investidores no regime do INR, a alíquota é de 0% sobre rendimentos para PF e 15% para PJ 3."
+    },
+    {
+      "question": "Qual o patrimônio do HSAF11?",
+      "answer": "Em 09/2026, o HSAF11 tinha patrimônio líquido de R$ 226,2 milhões, 8.604 cotistas e 2.526.360 cotas emitidas, com valor patrimonial da cota de R$ 89,55 1. O valor de mercado do fundo em 30/09/2026 era de R$ 194.529.720 3."
+    },
+    {
+      "question": "Quem gerencia o HSAF11?",
+      "answer": "A gestora do HSAF11 é a HSI Gestora de Ativos Financeiros e o administrador é a BRL TRUST DTVM S.A. [1, 3]. O fundo tem gestão ativa, com taxa de administração de 1% ao ano sobre o valor de mercado e taxa de performance de 20% do excedente ao benchmark 3."
+    },
+    {
+      "question": "Qual a volatilidade do HSAF11?",
+      "answer": "A volatilidade anualizada do HSAF11 nos 12 meses até 29/10/2026 foi de 14,94%, classificada como nível baixo 0. O beta contra o Ibovespa foi de 0,21, indicando menor sensibilidade aos movimentos do índice 0. A maior queda em 5 anos foi de -25,12%, entre 02/08/2024 e 19/12/2024 0. Acompanhe a [volatilidade e o preço médio no app](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "HSAF11 tem liquidez suficiente para negociação?",
+      "answer": "O volume médio negociado por dia nos 3 meses até 29/10/2026 foi de R$ 464.616,00 0. A liquidez diária média do fundo em 30/09/2026 era de R$ 318.918 3. Esses valores indicam que o fundo tem liquidez moderada, o que pode limitar a negociação de grandes volumes em um único dia. Use os [alertas de preço no app](/recursos/alertas-de-preco) para acompanhar a cota e definir níveis de negociação."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos do HSAF11 no app",
+        "context": "Veja os dividendos e proventos do HSAF11 com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "rentabilidade do HSAF11 com o IFIX e o CDI no app",
+        "context": "Compare a rentabilidade do HSAF11 lado a lado com o IFIX, o CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço no app",
+        "context": "Receba uma notificação quando a cota do HSAF11 atingir o preço que você escolher, para acompanhar a volatilidade e os movimentos da cota."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Acompanhe a evolução da rentabilidade e a variação diária da cota do HSAF11 ao longo do tempo, com o preço médio da sua posição."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada no app",
+        "context": "Veja o HSAF11 junto com seus outros ativos, com valor por classe, alocação e as maiores posições em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de papel focado em CRIs, com perfil semelhante de renda e gestão ativa."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII de renda que investe em CRIs indexados a preços, com estratégia de renda similar."
+      },
+      {
+        "ticker": "VGIP11",
+        "list": "fiis",
+        "reason": "FII de CRIs indexados a preços, com foco em renda e gestão ativa."
+      },
+      {
+        "ticker": "HSML11",
+        "list": "fiis",
+        "reason": "Outro FII da mesma gestora HSI, com foco em shoppings, para diversificação dentro do portfólio da gestora."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de renda com foco em CRIs e outros recebíveis, para comparação de estratégia e proventos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HSAF11",
+      "url": "https://finance.yahoo.com/quote/HSAF11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do HSI ATIVOS FINANCEIROS FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo HSAF11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35360687000150",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do HSAF11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342521",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

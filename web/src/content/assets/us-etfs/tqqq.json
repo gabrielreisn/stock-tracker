@@ -1,0 +1,295 @@
+{
+  "ticker": "TQQQ",
+  "slug": "tqqq",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TQQQ: ETF alavancado 3x do Nasdaq-100",
+    "description": "TQQQ é o ETF da ProShares que busca 300% do desempenho diário do Nasdaq-100. Veja histórico, volatilidade de 60,52% e como investir do Brasil.",
+    "h1": "TQQQ: ProShares UltraPro QQQ",
+    "canonicalPath": "/etfs/tqqq",
+    "keywords": [
+      "TQQQ",
+      "ProShares UltraPro QQQ",
+      "ETF alavancado Nasdaq-100",
+      "TQQQ Brasil",
+      "TQQQ dividendos",
+      "TQQQ volatilidade",
+      "ETF 3x Nasdaq"
+    ]
+  },
+  "summary": "Lançado em 11/02/2010 pela ProShares, o ativo replica o índice de 100 maiores empresas não financeiras da Nasdaq com alavancagem. Até 30/10/2026, a cota valia US$ 62,01, com rentabilidade total de 8,56% nos últimos 12 meses e volatilidade anualizada de 60,52%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "ProShares UltraPro QQQ",
+    "ticker": "XNAS TQQQ",
+    "foundingDate": "2010-02-11",
+    "provider": {
+      "name": "ProShares",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/ProShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado 3x",
+    "issuerOrManager": "ProShares",
+    "trackedIndex": "Nasdaq-100",
+    "name": "ProShares UltraPro QQQ",
+    "founded": "11/02/2010"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ProShares UltraPro QQQ",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "11/02/2010",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "3x o desempenho diário do índice (300%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 62,01",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "60,52% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "4,35",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,78%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 3,92 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TQQQ",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ProShares UltraPro QQQ",
+    "currency": "USD",
+    "price": 62.01,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0856,
+      "3y": 2.9651,
+      "5y": 0.6644,
+      "10y": 24.5666
+    },
+    "volatility1y": 0.6052,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8166,
+      "from": "2021-11-19",
+      "to": "2022-12-28"
+    },
+    "beta1y": {
+      "value": 4.35,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.485,
+      "payments12Months": 4,
+      "yield12Months": 0.0078,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.156
+      }
+    },
+    "avgDailyTradedValue3m": 3924676698
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do TQQQ nos 12 meses até 30/10/2026 foi de 60,52%, um nível muito alto, típico de ETFs alavancados 0. O beta de 4,35 contra o S&P 500 mostra que o ativo costuma acompanhar os movimentos do índice com amplitude cerca de 4,35 vezes maior 0. A maior queda em 5 anos foi de -81,66%, entre 19/11/2021 e 28/12/2022 0. Para monitorar oscilações de preço, o app oferece [alertas de preço](/recursos/alertas-de-preco) que notificam quando o ativo atinge um valor definido."
+  },
+  "history": {
+    "overview": "O ProShares UltraPro [QQQ](/etfs/qqq) (TQQQ) teve seu primeiro pregão em 11/02/2010 0. A emissora, ProShares, foi fundada em 2006 por ex-funcionários da Rydex, tendo lançado seu primeiro ETF inverso naquele mesmo ano 2. A ProShares é conhecida por desenvolver produtos de alavancagem e inversão de mercado, como o próprio TQQQ, que busca triplicar os movimentos diários do Nasdaq-100 2. Em 2021, a empresa lançou um ETF de futuros de Bitcoin, e em 2023, tornou-se uma das primeiras a lançar ETFs de futuros de Ethereum nos Estados Unidos 2. O TQQQ segue o Nasdaq-100, índice lançado em 31/01/1985, que passou por rebalanceamentos especiais em 1998, 2011 e 2023 para atender a requisitos de diversificação 1.",
+    "timeline": [
+      {
+        "date": "1985-01-31",
+        "event": "Lançamento do índice Nasdaq-100 pela Nasdaq",
+        "source": 1
+      },
+      {
+        "date": "2006",
+        "event": "ProFunds Group lança a marca ProShares e seu primeiro ETF inverso",
+        "source": 2
+      },
+      {
+        "date": "2010-02-11",
+        "event": "Primeiro pregão das cotas do TQQQ na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2021-10",
+        "event": "ProShares lança um ETF que investe em contratos futuros de Bitcoin",
+        "source": 2
+      },
+      {
+        "date": "2023-07",
+        "event": "Nasdaq realiza o terceiro rebalanceamento especial do índice Nasdaq-100",
+        "source": 1
+      },
+      {
+        "date": "2023-10-02",
+        "event": "ProShares lança 3 ETFs de futuros de Ethereum nos EUA",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o TQQQ funciona",
+      "body": "A alavancagem é ajustada diariamente, o que significa que, em períodos mais longos, o resultado do ETF pode se afastar significativamente do triplo do retorno do índice devido ao efeito do rebalanceamento diário e à volatilidade do mercado. A emissora é a ProShares, que lançou o ativo em 11/02/2010 [0, 2]."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do TQQQ",
+      "body": "O TQQQ segue o índice Nasdaq-100, composto por 100 das maiores empresas não financeiras listadas na bolsa Nasdaq 1. O índice é ponderado por capitalização de mercado ajustada pela flutuação pública, com um limite máximo de 24% para a maior empresa 1. As empresas são reavaliadas anualmente após o fechamento da terceira sexta-feira de dezembro 1."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no TQQQ a partir do Brasil",
+      "body": "Para investir no TQQQ a partir do Brasil, é necessário abrir conta em uma corretora que opere no mercado americano, pois o ativo é negociado em dólar. O investidor está sujeito ao risco cambial, pois a variação do dólar em relação ao real impacta o retorno em moeda nacional. Alternativamente, é possível buscar exposição ao Nasdaq-100 por meio de BDRs ou ETFs listados na B3 que sigam o mesmo índice, evitando a operação direta no exterior."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TQQQ",
+      "body": "Até 30/10/2026, o TQQQ apresentou rentabilidade total de 8,56% nos últimos 12 meses, 296,51% em 3 anos, 66,44% em 5 anos e 2.456,66% em 10 anos 0. A cota estava em US$ 62,01 na mesma data 0. Para comparar esse desempenho com o do mercado americano, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) no app, que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TQQQ",
+      "body": "O principal risco do TQQQ é a alavancagem de 3x, que amplifica tanto as altas quanto as quedas. A volatilidade anualizada nos 12 meses até 30/10/2026 foi de 60,52%, nível considerado muito alto 0. A maior queda nos últimos 5 anos foi de -81,66%, entre 19/11/2021 e 28/12/2022 0. O beta de 4,35 contra o S&P 500 indica que o ativo tende a se mover com amplitude muito maior que o índice 0. O risco cambial também se aplica a quem investe em dólar."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar TQQQ no app",
+      "body": "Para quem tem TQQQ na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio): Veja a rentabilidade do TQQQ e o preço médio da sua posição, com gráfico de variação ao longo do tempo.\n- [comparação com S&P 500](/recursos/comparacao-com-indices): Compare a rentabilidade do TQQQ com o S&P 500 e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba notificações quando o TQQQ atingir um preço que você definiu, útil para monitorar oscilações de um ativo volátil.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do TQQQ junto com outros ativos da sua carteira, com valor por classe e maiores posições."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TQQQ é um ETF alavancado?",
+      "answer": "A alavancagem é ajustada diariamente, o que pode causar divergência entre o retorno do ETF e o triplo do retorno do índice em períodos longos."
+    },
+    {
+      "question": "TQQQ paga dividendos?",
+      "answer": "Sim, nos 12 meses até 30/10/2026, o TQQQ distribuiu US$ 0,4850 por cota em 4 pagamentos, com dividend yield de 0,78% 0. O último pagamento foi de US$ 0,1560 em 23/09/2026 0."
+    },
+    {
+      "question": "Como investir no TQQQ do Brasil?",
+      "answer": "É possível investir no TQQQ abrindo conta em uma corretora que opere no mercado americano, com exposição ao risco cambial. Alternativamente, é possível buscar BDRs ou ETFs na B3 que sigam o Nasdaq-100."
+    },
+    {
+      "question": "Qual a volatilidade do TQQQ?",
+      "answer": "A volatilidade anualizada do TQQQ nos 12 meses até 30/10/2026 foi de 60,52%, nível muito alto 0. A maior queda em 5 anos foi de -81,66%, entre 19/11/2021 e 28/12/2022 0."
+    },
+    {
+      "question": "TQQQ segue qual índice?",
+      "answer": "O TQQQ segue o índice Nasdaq-100, composto por 100 das maiores empresas não financeiras listadas na Nasdaq 1."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Veja a rentabilidade do TQQQ e o preço médio da sua posição, com gráfico de variação ao longo do tempo."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com S&P 500",
+        "context": "Compare a rentabilidade do TQQQ com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o TQQQ atingir um preço que você definiu, útil para monitorar oscilações de um ativo volátil."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do TQQQ junto com outros ativos da sua carteira, com valor por classe e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF que replica 100% do Nasdaq-100, sem alavancagem, mesma base do TQQQ"
+      },
+      {
+        "ticker": "SQQQ",
+        "list": "us-etfs",
+        "reason": "ETF inverso do Nasdaq-100 com alavancagem de 3x, produto oposto do TQQQ"
+      },
+      {
+        "ticker": "QLD",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 2x do Nasdaq-100, mesma família da ProShares"
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para comparação de desempenho"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TQQQ",
+      "url": "https://finance.yahoo.com/quote/TQQQ/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nasdaq-100 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Nasdaq-100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): ProShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/ProShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

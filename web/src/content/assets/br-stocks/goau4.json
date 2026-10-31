@@ -1,0 +1,391 @@
+{
+  "ticker": "GOAU4",
+  "slug": "goau4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "GOAU4: história, dividendos e volatilidade",
+    "description": "GOAU4 é a ação preferencial da Metalúrgica Gerdau, holding da Gerdau S.A. Veja dividendos, rentabilidade, volatilidade e história da siderúrgica.",
+    "h1": "GOAU4: Metalúrgica Gerdau - Ação Preferencial",
+    "canonicalPath": "/acoes/goau4",
+    "keywords": [
+      "GOAU4",
+      "Metalúrgica Gerdau",
+      "Gerdau ação preferencial",
+      "dividendos GOAU4",
+      "volatilidade GOAU4",
+      "siderurgia B3",
+      "Materiais Básicos"
+    ]
+  },
+  "summary": "GOAU4 é a ação preferencial da Metalúrgica Gerdau, holding que controla a Gerdau S.A., uma das maiores produtoras de aço do mundo. O grupo atua na siderurgia e metalurgia, com operações em diversos países. Em 30/10/2026, o ativo cotava a R$ 11,03, com dividend yield de 3,47% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Metalúrgica Gerdau",
+    "legalName": "METALURGICA GERDAU SA",
+    "ticker": "BVMF GOAU4",
+    "isin": "BRGOAUACNPR8",
+    "taxId": "92.690.783/0001-09",
+    "foundingDate": "1939-08-24",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.gerdau.com",
+    "wikidata": "Q3307276",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q3307276",
+      "https://pt.wikipedia.org/wiki/Metal%C3%BArgica_Gerdau",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/8656/GOAU/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Metalúrgica Gerdau",
+    "legalName": "METALURGICA GERDAU SA",
+    "type": "Ação preferencial (PN)",
+    "sector": "Materiais Básicos",
+    "segment": "Siderurgia",
+    "founded": "24/08/1939",
+    "listedSince": "17/05/1968",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.gerdau.com"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "METALURGICA GERDAU SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "92.690.783/0001-09",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Siderurgia",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "24/08/1939",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "17/05/1968",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "GOAU3, GOAU4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 11,03",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "30,81% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,48",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,47%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GOAU4",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Metalurgica Gerdau S.A.",
+    "currency": "BRL",
+    "price": 11.03,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.413,
+      "3y": 0.7216,
+      "5y": 0.9323,
+      "10y": 4.7708
+    },
+    "volatility1y": 0.3081,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3624,
+      "from": "2023-01-19",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": 0.48,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.3825,
+      "payments12Months": 4,
+      "yield12Months": 0.0347,
+      "lastPayment": {
+        "date": "2026-08-20",
+        "amount": 0.11
+      }
+    },
+    "avgDailyTradedValue3m": 131168876
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da GOAU4 nos 12 meses até 30/10/2026 foi de 30,81%, um nível considerado alto 0. A maior queda em 5 anos foi de -36,24%, entre 19/01/2023 e 08/04/2025 0. O beta de 0,48 contra o Ibovespa indica que o ativo tende a acompanhar os movimentos do índice com menor amplitude, na mesma direção 0. Isso significa que, em períodos de alta do Ibovespa, a GOAU4 costuma subir menos; em períodos de baixa, costuma cair menos. A volatilidade e o beta são medidas distintas: a volatilidade mede a dispersão dos retornos do próprio ativo, enquanto o beta mede a sensibilidade do ativo em relação ao índice de referência. Para monitorar oscilações, é possível usar os [alertas de preço](/recursos/alertas-de-preco) e acompanhar a evolução da posição no recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A Metalúrgica Gerdau foi constituída em 24/08/1939 e iniciou a cotação de suas ações na B3 em 17/05/1968, data em que também obteve registro de companhia aberta na CVM. A empresa atua como holding de participações, detendo o controle da Gerdau S.A., que opera na produção de ferro, aço e outros metais em países como Brasil, Estados Unidos, Canadá, México e diversos nações da América do Sul e Europa 4. Nos últimos anos, a companhia tem realizado ajustes em seu capital social, incluindo aquisições de ações próprias, cancelamentos de ações em tesouraria e aumento de capital com bonificação em ações, conforme comunicados à CVM entre 2025 e 2026 [5, 6, 7, 10, 11]. Em 2025, a empresa também publicou planos de investimentos em CAPEX para os anos de 2025 e 2026, detalhando a alocação de recursos em seus principais projetos [8, 9, 12].",
+    "timeline": [
+      {
+        "date": "1939-08-24",
+        "event": "Constituição da Metalúrgica Gerdau S.A.",
+        "source": 2
+      },
+      {
+        "date": "1968-05-17",
+        "event": "Início da cotação das ações na B3 e registro como companhia aberta na CVM",
+        "source": 1
+      },
+      {
+        "date": "2025-02-19",
+        "event": "Publicação do Plano de Investimentos - CAPEX 2025",
+        "source": 12
+      },
+      {
+        "date": "2025-04-07",
+        "event": "Aquisição de Ações de Emissão da Própria Companhia",
+        "source": 11
+      },
+      {
+        "date": "2025-04-28",
+        "event": "Cancelamento de ações em tesouraria",
+        "source": 10
+      },
+      {
+        "date": "2025-10-01",
+        "event": "Publicação do Plano de investimentos em CAPEX 2025 e 2026 e atualização de investimentos em projetos",
+        "source": 8
+      },
+      {
+        "date": "2025-12-15",
+        "event": "Aumento do Capital Social com Bonificação em Ações",
+        "source": 7
+      },
+      {
+        "date": "2026-08-04",
+        "event": "Cancelamento de Ações em Tesouraria",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Metalúrgica Gerdau ganha dinheiro",
+      "body": "A Metalúrgica Gerdau é uma empresa de participações que detém o controle da Gerdau S.A., atuando na produção e exploração comercial de produtos de ferro, aço e outros metais 4. O grupo possui operações em diversos países, incluindo Argentina, Brasil, Canadá, Chile, Colômbia, Espanha, Estados Unidos, México, Índia, Peru, República Dominicana, Uruguai e Venezuela 4. A classificação setorial da B3 e da CVM a enquadra em Materiais Básicos, especificamente na subclasse de Siderurgia e Metalurgia [1, 2]. Em 2025, a companhia publicou planos de investimentos em CAPEX para 2025 e 2026, detalhando a alocação de recursos em seus principais projetos [8, 9, 12]."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Metalúrgica Gerdau",
+      "body": "O controle acionário da Metalúrgica Gerdau é classificado como privado pela CVM 2. A empresa negocia na B3 sob os códigos GOAU3 (ação ordinária) e GOAU4 (ação preferencial), no segmento de listagem Nível 1 1. As ações preferenciais (GOAU4) não conferem direito a voto em assembleias gerais, mas possuem preferência no recebimento de dividendos e na liquidação do capital em caso de encerramento da sociedade, em relação às ações ordinárias. As ações ordinárias (GOAU3) conferem direito a voto, mas ficam em posição subordinada no recebimento de proventos."
+    },
+    {
+      "id": "proventos",
+      "heading": "GOAU4 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a GOAU4 distribuiu R$ 0,3825 por ação em 4 pagamentos, resultando em um dividend yield de 3,47% 0. O último pagamento registrado foi de R$ 0,1100 em 20/08/2026 0. A companhia também realizou aumentos de capital com bonificação em ações, como o ocorrido em 15/12/2025 7. É possível acompanhar o histórico de dividendos e JCP da GOAU4 com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da GOAU4",
+      "body": "Até 30/10/2026, a GOAU4 apresentava rentabilidade total com proventos de 41,30% em 12 meses, 72,16% em 3 anos, 93,23% em 5 anos e 477,08% em 10 anos 0. O preço do ativo nesse período era de R$ 11,03 0. Para avaliar esses resultados em contexto, é possível comparar a rentabilidade da carteira com índices como o Ibovespa, CDI e IPCA no recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da GOAU4",
+      "body": "A volatilidade anualizada da GOAU4 nos 12 meses até 30/10/2026 foi de 30,81%, classificada como nível alto 0. A maior queda nos últimos 5 anos foi de -36,24%, ocorrida do pico em 19/01/2023 ao ponto mais baixo em 08/04/2025 0. O beta de 0,48 contra o Ibovespa indica que, historicamente, os movimentos do ativo tendem a ser menores que os do índice, na mesma direção 0. Como empresa do setor de siderurgia, a GOAU4 está sujeita a riscos setoriais, como flutuações nos preços do aço e variações na demanda industrial. O volume médio negociado por dia nos últimos 3 meses foi de R$ 131,2 milhões 0. Quem acompanha a GOAU4 pode configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando o ativo atingir níveis específicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GOAU4 paga dividendos?",
+      "answer": "Sim, a GOAU4 distribui proventos aos acionistas. Nos 12 meses até 30/10/2026, foram pagos R$ 0,3825 por ação em 4 pagamentos, com dividend yield de 3,47% 0. O último pagamento foi de R$ 0,1100 em 20/08/2026 0. O histórico completo de dividendos e JCP pode ser consultado no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre GOAU3 e GOAU4?",
+      "answer": "GOAU3 é a ação ordinária e GOAU4 é a ação preferencial da Metalúrgica Gerdau. A principal diferença é que a ação ordinária (GOAU3) confere direito a voto em assembleias gerais, enquanto a preferencial (GOAU4) não. Em contrapartida, a GOAU4 tem preferência no recebimento de dividendos e na liquidação do capital em caso de encerramento da sociedade. Ambas negociam na B3 no segmento Nível 1 1."
+    },
+    {
+      "question": "O que a Metalúrgica Gerdau faz?",
+      "answer": "A Metalúrgica Gerdau é uma holding que controla a Gerdau S.A., uma das maiores produtoras de aço do mundo, com operações em diversos países, incluindo Brasil, Estados Unidos, Canadá e México 4. A empresa está classificada no setor de Materiais Básicos, segmento de Siderurgia [1, 2]."
+    },
+    {
+      "question": "Qual a volatilidade da GOAU4?",
+      "answer": "A volatilidade anualizada da GOAU4 nos 12 meses até 30/10/2026 foi de 30,81%, classificada como nível alto 0. A maior queda em 5 anos foi de -36,24%, entre 19/01/2023 e 08/04/2025 0. O beta de 0,48 contra o Ibovespa indica que o ativo tende a se mover com menor amplitude que o índice, na mesma direção 0."
+    },
+    {
+      "question": "GOAU4 é uma ação de empresa controlada?",
+      "answer": "Sim, o controle acionário da Metalúrgica Gerdau é classificado como privado pela CVM 2. A empresa é uma holding que detém 97,55% das ações ordinárias e 33,34% das ações totais da Gerdau S.A. 4."
+    },
+    {
+      "question": "Qual o preço da GOAU4?",
+      "answer": "Em 30/10/2026, a GOAU4 cotava a R$ 11,03 0. O volume médio negociado por dia nos últimos 3 meses foi de R$ 131,2 milhões 0. É possível acompanhar a cotação em tempo real e configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da GOAU4 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da GOAU4 com o Ibovespa, CDI e IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a GOAU4 atingir o preço que você escolheu."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade da posição em GOAU4 e o preço médio de compra ao longo do tempo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a GOAU4 junto com outras ações, FIIs e renda fixa em uma visão única de alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GGBR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Gerdau S.A., empresa controlada pela Metalúrgica Gerdau."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Outra ação de grande porte do setor de Materiais Básicos, com exposição a commodities."
+      },
+      {
+        "ticker": "CSAN3",
+        "list": "br-stocks",
+        "reason": "Ação da Cosan, empresa do setor de Materiais Básicos com exposição a commodities agrícolas e energia."
+      },
+      {
+        "ticker": "USIM5",
+        "list": "br-stocks",
+        "reason": "Ação da Usinas Siderúrgicas de Minas Gerais, concorrente direta no setor de siderurgia."
+      },
+      {
+        "ticker": "CMIN3",
+        "list": "br-stocks",
+        "reason": "Ação da CSN Mineração, empresa do setor de mineração e materiais básicos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GOAU4",
+      "url": "https://finance.yahoo.com/quote/GOAU4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: GERDAU MET, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/8656/GOAU/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, METALURGICA GERDAU SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Metalúrgica Gerdau",
+      "url": "https://www.wikidata.org/wiki/Q3307276",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Metalúrgica Gerdau",
+      "url": "https://pt.wikipedia.org/wiki/Metal%C3%BArgica_Gerdau",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/08/2026, “Cancelamento de Ações em Tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1552001&numSequencia=1076707&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/04/2026, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1509340&numSequencia=1034046&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/12/2025, “Aumento do Capital Social com Bonificação em Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1457673&numSequencia=982385&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/10/2025, “Plano de investimentos em CAPEX 2025 e 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1428142&numSequencia=952854&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/10/2025, “Atualização - Investimento nos Principais Projetos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1428148&numSequencia=952860&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/04/2025, “Cancelamento de ações em tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1366662&numSequencia=891388&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/04/2025, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1358688&numSequencia=883414&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/02/2025, “Plano de Investimentos - CAPEX 2025”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1336883&numSequencia=861609&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

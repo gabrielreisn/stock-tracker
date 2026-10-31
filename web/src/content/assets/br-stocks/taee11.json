@@ -1,0 +1,382 @@
+{
+  "ticker": "TAEE11",
+  "slug": "taee11",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TAEE11: história, dividendos e volatilidade",
+    "description": "Conheça a Taesa (TAEE11): empresa de transmissão de energia, dividendos de 7,65%, volatilidade e desempenho.",
+    "h1": "TAEE11: Transmissora Aliança de Energia Elétrica S.A.",
+    "canonicalPath": "/acoes/taee11",
+    "keywords": [
+      "TAEE11",
+      "Taesa",
+      "dividendos TAEE11",
+      "volatilidade TAEE11",
+      "transmissão de energia elétrica",
+      "RAP ANEEL",
+      "ações de energia elétrica B3"
+    ]
+  },
+  "summary": "TAEE11 é a unit da Transmissora Aliança de Energia Elétrica S.A. (Taesa), companhia brasileira do setor de Utilidade Pública especializada na transmissão de energia elétrica. A empresa opera e mantém concessões de transmissão em diversas regiões do país, com remuneração baseada na Receita Anual Permitida (RAP) definida pela ANEEL. Em 30/10/2026, a unit cotava a R$ 39,32 na B3, com dividend yield de 7,65% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Taesa",
+    "legalName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+    "ticker": "BVMF TAEE11",
+    "isin": "BRTAEECDAM10",
+    "taxId": "07.859.971/0001-30",
+    "foundingDate": "2006-01-23",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.taesa.com.br",
+    "wikidata": "Q54622013",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q54622013",
+      "https://pt.wikipedia.org/wiki/Taesa",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20257/TAEE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Taesa",
+    "legalName": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+    "type": "Unit",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "23/01/2006",
+    "listedSince": "27/10/2006",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://www.taesa.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "07.859.971/0001-30",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 2",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "23/01/2006",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "27/10/2006",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "TAEE3, TAEE4, TAEE11",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 39,32",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "25,81% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,77",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,65%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TAEE11",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Transmissora Aliança de Energia Elétrica S.A.",
+    "currency": "BRL",
+    "price": 39.32,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1087,
+      "3y": 0.5005,
+      "5y": 0.7155,
+      "10y": 3.9648
+    },
+    "volatility1y": 0.2581,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.1956,
+      "from": "2022-09-01",
+      "to": "2022-12-16"
+    },
+    "beta1y": {
+      "value": 0.77,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 3.0065,
+      "payments12Months": 4,
+      "yield12Months": 0.0765,
+      "lastPayment": {
+        "date": "2026-08-17",
+        "amount": 0.600238
+      }
+    },
+    "avgDailyTradedValue3m": 99016869
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A TAEE11 apresenta volatilidade anualizada de 25,81% nos últimos 12 meses, nível considerado alto. O beta de 0,77 em relação ao Ibovespa indica que o ativo costuma se mover na mesma direção do índice, mas com amplitude menor. A maior queda em 5 anos foi de -19,56%, entre 01/09/2022 e 16/12/2022. Para ativos do setor de transmissão de energia, que possuem contratos de longo prazo e receita regulada, essa volatilidade reflete a sensibilidade do mercado a mudanças regulatórias e a condições de liquidez. O beta não mede a volatilidade em si, mas a correlação de movimentos com o índice de referência. Acompanhar a variação de preço pode ser feito com [alertas de preço no app](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "A Transmissora Aliança de Energia Elétrica S.A. (Taesa) tem sua origem ligada à Terna Participações S.A. Em 2000, a estrutura inicial foi desenhada, e em 23/01/2006 a companhia foi formalmente constituída, obtendo registro na CVM em 06/09/2006. As ações começaram a ser negociadas na B3 em 27/10/2006. Em novembro de 2009, após a transferência de ações da Terna S.p.A. para a Transmissora do Atlântico, controlada pelo FIP Coliseu e pela CEMIG GT, a empresa adotou o nome atual de Taesa, consolidando a associação entre a CEMIG e a empresa colombiana ISA Energia. Em 2012, a companhia realizou sua oferta pública inicial de ações na B3 ao preço de R$ 65 por ação e desembolsou R$ 1,732 bilhão para adquirir participações minoritárias em seis sociedades de transmissão, ampliando sua rede em 9.378 km de linhas.",
+    "timeline": [
+      {
+        "date": "2000",
+        "event": "Fundação da estrutura que originaria a companhia",
+        "source": 3
+      },
+      {
+        "date": "2006-01-23",
+        "event": "Constituição da Transmissora Aliança de Energia Elétrica S.A.",
+        "source": 2
+      },
+      {
+        "date": "2006-09-06",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2006-10-27",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2012",
+        "event": "Oferta pública inicial de ações na B3 a R$ 65 e aquisição de participações em seis sociedades de transmissão",
+        "source": 4
+      },
+      {
+        "date": "2017",
+        "event": "ISA Brasil conclui a compra de participação de fundos ligados ao bloco de controle da Taesa",
+        "source": 4
+      },
+      {
+        "date": "2019",
+        "event": "Fechamento de acordo para compra de 100% da Rialma Transmissora de Energia 1 por R$ 56,7 milhões",
+        "source": 4
+      },
+      {
+        "date": "2020",
+        "event": "Conclusão da aquisição integral de São João e São Pedro Transmissora de Energia, além da Rialma I",
+        "source": 4
+      },
+      {
+        "date": "2024",
+        "event": "Vencedora do Lote 3 do Leilão de Transmissão nº 2/2024",
+        "source": 4
+      },
+      {
+        "date": "2025-01-30",
+        "event": "Eleição do Diretor Financeiro e de Relações com Investidores",
+        "source": 8
+      },
+      {
+        "date": "2025-12-28",
+        "event": "Contratação de Formador de Mercado",
+        "source": 7
+      },
+      {
+        "date": "2026-05-21",
+        "event": "Celebração de contrato para aquisição de 5 ativos de transmissão de energia do Grupo Energisa",
+        "source": 6
+      },
+      {
+        "date": "2026-08-12",
+        "event": "Conclusão da aquisição de 5 ativos de transmissão de energia",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Taesa ganha dinheiro",
+      "body": "A Taesa atua no segmento de transmissão de energia elétrica, responsável pela implantação, operação e manutenção de linhas de transmissão e subestações que integram o Sistema Interligado Nacional. A companhia possui participação em dezenas de concessões distribuídas por diversas regiões do Brasil. A remuneração da empresa é baseada principalmente na Receita Anual Permitida (RAP), um mecanismo regulatório definido pela Agência Nacional de Energia Elétrica (ANEEL) para concessionárias de transmissão. Esse modelo de receita, atrelado a contratos de longo prazo, confere previsibilidade ao fluxo de caixa da companhia. Em 2026, a Taesa ampliou seu portfólio com a aquisição de cinco concessões do Grupo Energisa, localizadas na Bahia, Goiás, Pará e Tocantins, que somam cerca de 1.305 quilômetros de linhas e 12 subestações, com RAP de aproximadamente R$ 291 milhões no ciclo tarifário de 2025–2026."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Taesa",
+      "body": "O controle acionário da Taesa é privado, com participação relevante da CEMIG e da ISA Energia, conforme histórico de consolidação do bloco de controle. A companhia é listada na B3 no Nível 2 de Governança Corporativa, o que exige maior transparência e distribuição de ações. As ações são negociadas sob três códigos: TAEE3 (ação ordinária), TAEE4 (ação preferencial) e TAEE11 (unit). A ação ordinária (TAEE3) confere direito a voto em assembleias, enquanto a ação preferencial (TAEE4) possui preferência no recebimento de proventos, mas geralmente não tem direito a voto. A unit (TAEE11) é um pacote que reúne uma ação ordinária e uma ação preferencial, negociado como um único ativo."
+    },
+    {
+      "id": "proventos",
+      "heading": "TAEE11 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a TAEE11 distribuiu R$ 3,0065 por ação em 4 pagamentos, resultando em um dividend yield de 7,65%. O último provento pago foi de R$ 0,6002, com data de pagamento em 17/08/2026. A remuneração aos acionistas da Taesa é derivada da Receita Anual Permitida (RAP) das concessões de transmissão, o que permite uma política de distribuição de dividendos recorrente. Para acompanhar o histórico completo de dividendos e JCP da TAEE11, com datas de competência e pagamento, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da TAEE11",
+      "body": "A rentabilidade total da TAEE11, incluindo proventos, foi de 10,87% nos 12 meses até 30/10/2026. No horizonte de 3 anos, o retorno acumulado é de 50,05%, e em 5 anos, de 71,55%. Em 10 anos, a rentabilidade total alcançou 396,48%. Esses números refletem o desempenho histórico do ativo e não indicam retornos futuros. Para avaliar o desempenho da TAEE11 em relação a outros benchmarks, é possível comparar a rentabilidade com o Ibovespa, CDI e IPCA através do recurso de [comparação com índices no app](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da TAEE11",
+      "body": "A volatilidade anualizada da TAEE11 nos últimos 12 meses é de 25,81%, classificada como nível alto. A maior queda registrada nos últimos 5 anos foi de -19,56%, ocorrida entre o pico de 01/09/2022 e o ponto mais baixo de 16/12/2022. O beta do ativo em relação ao Ibovespa é de 0,77, o que indica que, historicamente, a TAEE11 tende a acompanhar os movimentos do índice com amplitude menor. Os riscos setoriais incluem a dependência da regulação da ANEEL, a exposição a riscos de crédito dos tomadores de energia e a possibilidade de mudanças nas regras de reajuste tarifário. A volatilidade e os movimentos de preço podem ser monitorados por meio de [alertas de preço no app](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TAEE11 paga dividendos?",
+      "answer": "Sim, a TAEE11 distribui proventos aos acionistas. Nos 12 meses até 30/10/2026, foram pagos R$ 3,0065 por ação em 4 pagamentos, com dividend yield de 7,65%. O último pagamento foi de R$ 0,6002 em 17/08/2026. A remuneração é baseada na Receita Anual Permitida (RAP) das concessões de transmissão. É possível acompanhar o histórico de pagamentos no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre TAEE3, TAEE4 e TAEE11?",
+      "answer": "TAEE3 é a ação ordinária, com direito a voto em assembleias. TAEE4 é a ação preferencial, com preferência no recebimento de proventos, mas geralmente sem direito a voto. TAEE11 é a unit, que reúne uma ação ordinária e uma ação preferencial em um único pacote negociado na B3. A escolha entre os códigos depende da preferência do investidor por voto ou por prioridade na distribuição de dividendos."
+    },
+    {
+      "question": "O que a Taesa faz?",
+      "answer": "A Taesa é uma empresa de transmissão de energia elétrica. Ela opera e mantém linhas de transmissão e subestações que integram o Sistema Interligado Nacional. A receita vem da Receita Anual Permitida (RAP), definida pela ANEEL, o que garante contratos de longo prazo e previsibilidade de caixa. A empresa atua em diversas regiões do Brasil e tem ampliado seu portfólio por meio de aquisições e leilões."
+    },
+    {
+      "question": "Quem controla a Taesa?",
+      "answer": "O controle acionário da Taesa é privado, com participação da CEMIG e da ISA Energia. Em 2017, a ISA Brasil concluiu a compra de participação de fundos ligados ao bloco de controle, elevando sua presença acionária. A empresa é listada no Nível 2 de Governança Corporativa da B3, o que exige maior transparência."
+    },
+    {
+      "question": "Qual a volatilidade da TAEE11?",
+      "answer": "A volatilidade anualizada da TAEE11 nos últimos 12 meses é de 25,81%, nível alto. A maior queda em 5 anos foi de -19,56%, entre 01/09/2022 e 16/12/2022. O beta em relação ao Ibovespa é de 0,77, indicando movimentos menores que os do índice. Para monitorar variações de preço, use [alertas de preço no app](/recursos/alertas-de-preco)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da TAEE11 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices no app",
+        "context": "Compare a rentabilidade da TAEE11 com o Ibovespa, CDI e IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a TAEE11 atingir o preço que você definiu, para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a TAEE11 junto com seus outros ativos, com alocação por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ISAE4",
+        "list": "br-stocks",
+        "reason": "ISA Energía Brasil S.A. é a controladora da Taesa e atua no mesmo setor de energia elétrica."
+      },
+      {
+        "ticker": "CMIG4",
+        "list": "br-stocks",
+        "reason": "CEMIG é parte do bloco de controle da Taesa e atua no setor de energia elétrica."
+      },
+      {
+        "ticker": "ENGI11",
+        "list": "br-stocks",
+        "reason": "Energisa S.A. é a empresa de cujos ativos a Taesa adquiriu cinco concessões de transmissão em 2026."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "AXIA Energia SA atua no mesmo segmento de energia elétrica, com foco em transmissão e distribuição."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TAEE11",
+      "url": "https://finance.yahoo.com/quote/TAEE11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: TAESA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20257/TAEE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, TRANSMISSORA ALIANÇA DE ENERGIA ELÉTRICA S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Taesa",
+      "url": "https://www.wikidata.org/wiki/Q54622013",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Taesa",
+      "url": "https://pt.wikipedia.org/wiki/Taesa",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/08/2026, “Conclusão da aquisição de 5 ativos de transmissão de energia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1556473&numSequencia=1081179&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 21/05/2026, “TAESA celebra contrato para aquisição de 5 ativos de transmissão de energia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525312&numSequencia=1050018&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/12/2025, “Contratação de Formador de Mercado”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1341392&numSequencia=866118&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/01/2025, “Eleição do Diretor Financeiro e de Relações com Investidores”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1328979&numSequencia=853705&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

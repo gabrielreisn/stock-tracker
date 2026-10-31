@@ -1,0 +1,336 @@
+{
+  "ticker": "AIEC11",
+  "slug": "aiec11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AIEC11: história, dividendos e venda de ativos",
+    "description": "AIEC11 é um FII de escritórios com patrimônio de R$ 365,3 milhões. Veja a venda dos ativos por R$ 367 milhões, dividend yield de 5,76% e desempenho.",
+    "h1": "AIEC11: Arch Edifícios Corporativos FII",
+    "canonicalPath": "/fiis/aiec11",
+    "keywords": [
+      "AIEC11",
+      "Arch Edifícios Corporativos FII",
+      "FII escritórios",
+      "dividend yield AIEC11",
+      "venda ativos AIEC11",
+      "Standard Building",
+      "Rochaverá Diamond"
+    ]
+  },
+  "summary": "AIEC11 é a cota do Arch Edifícios Corporativos Fundo de Investimento Imobiliário, um FII de tijolo focado no segmento de escritórios. Fundado em 02/09/2020, o fundo possui patrimônio líquido de R$ 365,3 milhões em 09/2026 e valor patrimonial da cota de R$ 75,71. Em 18/09/2026, assinou propostas para a venda de seus dois ativos (Standard Building e Rochaverá Diamond) por cerca de R$ 367 milhões, com pagamento integral em dinheiro.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Arch Edifícios Corporativos Fundo de Investimento Imobiliário",
+    "legalName": "ARCH EDIFÍCIOS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF AIEC11",
+    "isin": "BRAIECCTF009",
+    "taxId": "35.765.826/0001-26",
+    "foundingDate": "2020-09-02",
+    "provider": {
+      "name": "MAF DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35765826000126"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, lajes corporativas",
+    "issuerOrManager": "Arch Capital Ltda (gestora) e MAF DTVM S.A",
+    "name": "Arch Edifícios Corporativos Fundo de Investimento Imobiliário",
+    "legalName": "ARCH EDIFÍCIOS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Escritórios",
+    "founded": "02/09/2020",
+    "administrator": "MAF DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ARCH EDIFÍCIOS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "35.765.826/0001-26",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Escritórios",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "MAF DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "02/09/2020",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 365,3 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "10.398",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 75,71",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 67,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "20,47% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,31",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "5,76%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AIEC11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Autonomy Edifícios Corporativos Fundo de Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 67,
+    "historyStarts": "2022-03-15",
+    "returns": {
+      "1y": 0.3469,
+      "3y": 0.5618,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.2047,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3002,
+      "from": "2023-08-17",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.31,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 3.86,
+      "payments12Months": 11,
+      "yield12Months": 0.0576,
+      "lastPayment": {
+        "date": "2026-09-01",
+        "amount": 0.38
+      }
+    },
+    "avgDailyTradedValue3m": 1101549
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do AIEC11 nos últimos 12 meses foi de 20,47%, nível moderado 0. O beta do fundo contra o Ibovespa no mesmo período foi de 0,31, o que significa que os movimentos do AIEC11 costumam ser menores que os do índice, na mesma direção 0. A maior queda em 5 anos foi de -30,02%, do pico em 17/08/2023 ao ponto mais baixo em 18/12/2024 0. Para acompanhar a variação do preço da cota e receber notificações quando o ativo atingir um nível específico, use os alertas de preço do app."
+  },
+  "history": {
+    "overview": "O Arch Edifícios Corporativos FII (AIEC11) iniciou suas atividades em 02/09/2020, com uma oferta pública de cotas encerrada em 08/09/2020 [1, 2]. O fundo foi estruturado para investir em imóveis corporativos, especificamente no segmento de escritórios, com gestão ativa da Arch Capital Ltda [1, 3]. A carteira do fundo é composta por dois ativos principais: o Standard Building, localizado na Avenida Presidente Wilson, no Rio de Janeiro, e o Edifício Rochaverá Torre D, na Avenida das Nações Unidas, em São Paulo [3, 4]. Em 22/04/2026, o fundo assinou um contrato de locação com a Gooroo Crédito e Cobrança Ltda para 3.750,11 m² no Rochaverá, elevando a ocupação para 92% 5. Em 18/09/2026, o fundo comunicou a assinatura de propostas independentes para a alienação de ambos os ativos por um total aproximado de R$ 367 milhões, com pagamento exclusivamente em dinheiro [3, 4]. A operação foi aprovada em assembleia geral extraordinária em 05/10/2026 3.",
+    "timeline": [
+      {
+        "date": "2020-08-28",
+        "event": "Início da oferta pública de cotas do AIEC11.",
+        "source": 2
+      },
+      {
+        "date": "2020-09-02",
+        "event": "Início das atividades do Arch Edifícios Corporativos FII.",
+        "source": 1
+      },
+      {
+        "date": "2020-09-08",
+        "event": "Encerramento da oferta pública de cotas do AIEC11.",
+        "source": 2
+      },
+      {
+        "date": "2026-04-22",
+        "event": "Assinatura de contrato de locação com a Gooroo Crédito para 3.750,11 m² no Edifício Rochaverá Torre D, elevando a ocupação para 92%.",
+        "source": 5
+      },
+      {
+        "date": "2026-09-18",
+        "event": "Comunicação ao mercado da assinatura de propostas para a alienação do Standard Building e do Rochaverá Diamond por cerca de R$ 367 milhões.",
+        "source": 4
+      },
+      {
+        "date": "2026-10-05",
+        "event": "Aprovação das propostas de venda dos ativos em assembleia geral extraordinária do fundo.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do AIEC11",
+      "body": "O AIEC11 é um fundo de investimento imobiliário de tijolo, com gestão ativa, focado no segmento de escritórios [1, 3]. A gestora é a Arch Capital Ltda e o administrador é a MAF DTVM S.A. [1, 3]. De acordo com o relatório gerencial de referência 30/09/2026, a carteira do fundo é composta por dois ativos: o Standard Building, no Rio de Janeiro, e o Edifício Rochaverá Torre D, em São Paulo [3, 4]. Em 18/09/2026, o fundo assinou propostas para a venda de ambos os imóveis por um total aproximado de R$ 367 milhões, com pagamento integral em dinheiro [3, 4]. A operação foi aprovada em assembleia geral extraordinária em 05/10/2026 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do AIEC11",
+      "body": "Nos 12 meses até 29/10/2026, o AIEC11 distribuiu R$ 3,8600 por cota em 11 pagamentos, resultando em um dividend yield de 5,76% 0. O último provento foi de R$ 0,3800 por cota, com pagamento em 08/10/2026 e data com-dividendo em 30/09/2026 3. O relatório gerencial de setembro de 2026 indica um dividend yield do mês de 0,50% 1. O fundo pode reter até 5% dos lucros auferidos no semestre, conforme previsto na regulamentação em vigor 5. Acompanhe os dividendos e JCP no app para ver o histórico de proventos multiplicado pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O AIEC11 realizou uma oferta pública de cotas entre 28/08/2020 e 08/09/2020 2. Em 09/2026, o fundo possuía 4.824.987 cotas emitidas, 10.398 cotistas e patrimônio líquido de R$ 365,3 milhões, com valor patrimonial da cota de R$ 75,71 1. A taxa de administração no mês de setembro de 2026 foi de 0,063% sobre o patrimônio 1. O relatório gerencial de 30/09/2026 informa uma taxa de administração e gestão de 0,75% ao ano e uma taxa de performance de 20% sobre o dividend yield maior que 6% ao ano, com base atualizada por IPCA 3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do AIEC11",
+      "body": "A rentabilidade total com proventos do AIEC11 foi de 34,69% nos 12 meses até 29/10/2026 e de 56,18% nos últimos 3 anos 0. O relatório gerencial de setembro de 2026 destaca que, considerando a amortização hipotética dos recursos aos cotistas, o fundo alcançaria retorno acumulado de 44,6% desde o início (set/2020), equivalente a 132% do IFIX no período 3. Compare a rentabilidade do AIEC11 com o IFIX e o CDI na ferramenta de comparação com índices do app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do AIEC11",
+      "body": "O AIEC11 é um FII de tijolo, sujeito a riscos de vacância e de valorização dos imóveis [1, 3]. A volatilidade anualizada do fundo nos últimos 12 meses foi de 20,47%, classificada como moderada 0. A maior queda em 5 anos foi de -30,02%, do pico em 17/08/2023 ao ponto mais baixo em 18/12/2024 0. O beta do fundo contra o Ibovespa nos últimos 12 meses foi de 0,31, indicando que os movimentos do AIEC11 costumam ser menores que os do índice, na mesma direção 0. A operação de venda dos ativos, embora aprovada, está sujeita a condições precedentes, incluindo diligência dos imóveis 3."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar AIEC11 no app",
+      "body": "Para quem tem AIEC11 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [dividendos e JCP no app](/recursos/proventos): Veja os dividendos e JCP da AIEC11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade da AIEC11 com o IFIX e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando a cota da AIEC11 atingir o preço que você escolheu.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja a AIEC11 junto com seus outros ativos, com valor por classe e alocação em uma só visão."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O AIEC11 é FII de papel ou de tijolo?",
+      "answer": "O AIEC11 é um FII de tijolo, focado no segmento de escritórios [1, 3]. O fundo possui dois ativos imobiliários: o Standard Building, no Rio de Janeiro, e o Edifício Rochaverá Torre D, em São Paulo [3, 4]."
+    },
+    {
+      "question": "Qual a taxa de administração do AIEC11?",
+      "answer": "A taxa de administração e gestão do AIEC11 é de 0,75% ao ano, e a taxa de performance é de 20% sobre o dividend yield maior que 6% ao ano, com base atualizada por IPCA 3. Em setembro de 2026, a taxa de administração mensal foi de 0,063% sobre o patrimônio 1."
+    },
+    {
+      "question": "O AIEC11 vai ser liquidado?",
+      "answer": "Em 18/09/2026, o fundo assinou propostas para a venda de seus dois ativos por cerca de R$ 367 milhões, com pagamento integral em dinheiro [3, 4]. A operação foi aprovada em assembleia geral extraordinária em 05/10/2026 3. O prazo de duração do fundo é indeterminado 1."
+    },
+    {
+      "question": "Qual o dividend yield do AIEC11?",
+      "answer": "Nos 12 meses até 29/10/2026, o dividend yield do AIEC11 foi de 5,76% 0. O relatório gerencial de setembro de 2026 indica um dividend yield do mês de 0,50% 1."
+    },
+    {
+      "question": "Quais são os ativos do AIEC11?",
+      "answer": "O AIEC11 possui dois ativos: o Standard Building, na Avenida Presidente Wilson, no Rio de Janeiro, e o Edifício Rochaverá Torre D, na Avenida das Nações Unidas, em São Paulo [3, 4]. Em 18/09/2026, o fundo assinou propostas para a venda de ambos os imóveis [3, 4]."
+    },
+    {
+      "question": "Qual a ocupação do AIEC11?",
+      "answer": "Em 22/04/2026, a assinatura de um contrato de locação com a Gooroo Crédito elevou a ocupação do fundo para 92% 5."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da AIEC11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da AIEC11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota da AIEC11 atingir o preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a AIEC11 junto com seus outros ativos, com valor por classe e alocação em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "Fundo comprador do Standard Building do AIEC11."
+      },
+      {
+        "ticker": "HGRE11",
+        "list": "fiis",
+        "reason": "Fundo comprador do Rochaverá Diamond do AIEC11."
+      },
+      {
+        "ticker": "BRCO11",
+        "list": "fiis",
+        "reason": "Outro FII de lajes corporativas, similar ao segmento do AIEC11."
+      },
+      {
+        "ticker": "TOPP11",
+        "list": "fiis",
+        "reason": "Fundo de escritórios, comparável ao segmento do AIEC11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AIEC11",
+      "url": "https://finance.yahoo.com/quote/AIEC11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do ARCH EDIFICIOS CORPORATIVOS FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo AIEC11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35765826000126",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do AIEC11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1352531",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do AIEC11, 18/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1324282",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do AIEC11, 27/04/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1170646",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

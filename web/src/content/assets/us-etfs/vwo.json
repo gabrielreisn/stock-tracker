@@ -1,0 +1,275 @@
+{
+  "ticker": "VWO",
+  "slug": "vwo",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VWO: ETF de mercados emergentes",
+    "description": "VWO é o ETF da Vanguard que replica o FTSE Emerging Markets. Veja desempenho, dividendos, volatilidade e como investir do Brasil.",
+    "h1": "VWO: Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+    "canonicalPath": "/etfs/vwo",
+    "keywords": [
+      "VWO",
+      "ETF mercados emergentes",
+      "Vanguard FTSE Emerging Markets",
+      "investir em VWO do Brasil",
+      "VWO dividendos",
+      "VWO volatilidade",
+      "EEM vs VWO"
+    ]
+  },
+  "summary": "VWO é a cota do Vanguard FTSE Emerging Markets Index Fund ETF Shares, um ETF que replica o índice FTSE Emerging Markets, focado em ações de mercados emergentes. Lançado em 10/03/2005, o ativo é emitido pela The Vanguard Group. Em 30/10/2026, a cota valia US$ 55,51, com rentabilidade total de 2,87% nos últimos 12 meses e dividend yield de 2,19%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+    "ticker": "ARCX VWO",
+    "foundingDate": "2005-03-10",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "The Vanguard Group",
+    "trackedIndex": "FTSE Emerging Markets Index",
+    "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+    "founded": "10/03/2005"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "10/03/2005",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 55,51",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,60% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,13",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,19%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 414,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VWO",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+    "currency": "USD",
+    "price": 55.51,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0287,
+      "3y": 0.5846,
+      "5y": 0.259,
+      "10y": 0.9381
+    },
+    "volatility1y": 0.176,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2987,
+      "from": "2021-11-12",
+      "to": "2022-10-24"
+    },
+    "beta1y": {
+      "value": 1.13,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.218,
+      "payments12Months": 3,
+      "yield12Months": 0.0219,
+      "lastPayment": {
+        "date": "2026-09-18",
+        "amount": 0.114
+      }
+    },
+    "avgDailyTradedValue3m": 414163076
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do VWO nos últimos 12 meses é de 17,60%, um nível moderado para um ETF de mercados emergentes. A maior queda nos últimos 5 anos foi de -29,87%, entre 12/11/2021 e 24/10/2022. Para monitorar oscilações de preço, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O VWO foi lançado em 10/03/2005, oferecendo exposição a mercados emergentes através de um fundo de índice. A emissora, The Vanguard Group, foi fundada em 1975 por John C. Bogle, que é creditado pela criação do primeiro fundo de índice para investidores individuais. A Vanguard é atualmente a maior provedora de fundos mútuos e a segunda maior de ETFs no mundo, com cerca de US$ 13,3 trilhões em ativos sob gestão em 2025. A empresa é propriedade dos próprios fundos que gerencia, o que significa que é possuída por seus clientes. O índice seguido pelo VWO é o FTSE Emerging Markets, mantido pela FTSE Russell, uma subsidiária da London Stock Exchange Group (LSEG). A FTSE Russell é conhecida por índices como o FTSE 100 e o Russell 2000, e em 2022 removeu todos os títulos russos de seus índices em resposta à invasão da Ucrânia.",
+    "timeline": [
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group, emissora do VWO.",
+        "source": 1
+      },
+      {
+        "date": "2005-03-10",
+        "event": "Primeiro pregão das cotas do VWO na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2015",
+        "event": "Introdução da marca FTSE Russell, integrando os serviços de indexação da FTSE e da Russell.",
+        "source": 2
+      },
+      {
+        "date": "2022-03-02",
+        "event": "FTSE Russell remove todos os títulos russos de seus índices em resposta à invasão da Ucrânia.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VWO funciona",
+      "body": "O VWO é um ETF que replica o índice FTSE Emerging Markets, oferecendo exposição a ações de mercados emergentes. A emissora é a The Vanguard Group, uma das maiores gestoras de ativos do mundo, fundada em 1975. O ETF foi lançado em 10/03/2005. Como um fundo de índice passivo, o VWO busca acompanhar o desempenho do índice que replica, com custos de administração geralmente baixos, característica típica dos produtos da Vanguard. O ativo não é alavancado nem inverso, portanto não há rebalanceamento diário que distorça o resultado em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VWO",
+      "body": "O VWO segue o índice FTSE Emerging Markets, mantido pela FTSE Russell, subsidiária da London Stock Exchange Group (LSEG). O índice é composto por ações de mercados emergentes, que são economias em fase de transição entre mercados em desenvolvimento e desenvolvidos. As fontes não detalham a composição exata do índice no VWO, mas o segmento inclui países como China e Índia, que são considerados os maiores mercados emergentes em 2025. A FTSE Russell também removeu títulos russos de seus índices em 2022."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VWO a partir do Brasil",
+      "body": "Para investir no VWO a partir do Brasil, o investidor precisa abrir conta em uma corretora de valores que ofereça acesso a mercados internacionais, como os Estados Unidos. O VWO é cotado em dólar, o que introduz risco cambial: variações no câmbio entre o real e o dólar afetam o retorno em reais. Alternativamente, é possível buscar exposição a mercados emergentes através de ETFs ou BDRs negociados na B3 que sigam índices similares, o que elimina a necessidade de conta no exterior, mas pode ter custos e liquidez diferentes."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VWO",
+      "body": "Em 30/10/2026, a cota do VWO valia US$ 55,51. A rentabilidade total com proventos foi de 2,87% nos 12 meses, 58,46% em 3 anos, 25,90% em 5 anos e 93,81% em 10 anos até essa data. O dividend yield é de 2,19%, com US$ 1,2180 por cota pagos em 3 pagamentos nos 12 meses até 30/10/2026. O volume médio negociado por dia nos últimos 3 meses é de US$ 414,2 milhões. Para comparar o desempenho do VWO com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VWO",
+      "body": "O VWO expõe o investidor a mercados emergentes, que são considerados mais voláteis e sensíveis a fatores políticos e econômicos do que mercados desenvolvidos. A volatilidade anualizada do VWO nos últimos 12 meses é de 17,60%, classificada como moderada. A maior queda nos últimos 5 anos foi de -29,87%, do pico em 12/11/2021 ao ponto mais baixo em 24/10/2022. O risco cambial também é relevante para investidores brasileiros, pois o ativo é cotado em dólar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VWO paga dividendos?",
+      "answer": "Sim, o VWO paga dividendos. Nos 12 meses até 30/10/2026, foram pagos US$ 1,2180 por cota em 3 pagamentos, resultando em um dividend yield de 2,19%. O último pagamento foi de US$ 0,1140 em 18/09/2026. Veja os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para acompanhar os proventos do seu portfólio."
+    },
+    {
+      "question": "Qual a diferença entre VWO e EEM?",
+      "answer": "VWO e [EEM](/etfs/eem) são ambos ETFs de mercados emergentes, mas seguem índices diferentes: VWO segue o FTSE Emerging Markets, enquanto EEM segue o MSCI Emerging Markets. As composições e metodologias de cálculo variam, o que pode gerar diferenças de desempenho. Para comparar, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "question": "VWO é um ETF alavancado?",
+      "answer": "Não, o VWO não é um ETF alavancado nem inverso. Ele replica o índice FTSE Emerging Markets sem alavancagem, buscando acompanhar o desempenho do índice. ETFs alavancados, como o [SOXL](/etfs/soxl), têm rebalanceamento diário que pode distorcer o resultado em períodos longos, o que não ocorre no VWO."
+    },
+    {
+      "question": "Como investir no VWO do Brasil?",
+      "answer": "Para investir no VWO do Brasil, é necessário abrir conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. O VWO é cotado em dólar, o que introduz risco cambial. Alternativamente, é possível buscar exposição a mercados emergentes através de ETFs ou BDRs na B3, como o [EWZ](/etfs/ewz), que segue o MSCI Brazil. Use o [open finance](/recursos/open-finance) no app para sincronizar suas posições."
+    },
+    {
+      "question": "Qual a volatilidade do VWO?",
+      "answer": "A volatilidade anualizada do VWO nos últimos 12 meses é de 17,60%, classificada como moderada. A maior queda nos últimos 5 anos foi de -29,87%, entre 12/11/2021 e 24/10/2022. Acompanhe a [carteira consolidada](/recursos/carteira-consolidada) no app para ver o impacto na sua alocação."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do VWO com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o VWO atingir o preço que você escolheu, útil para monitorar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VWO ao lado de outras posições, com alocação por classe e valor total."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Sincronize suas posições do VWO com a corretora onde você comprou, conferindo quantidades e preço médio."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "Outro ETF de mercados emergentes, com índice diferente (MSCI Emerging Markets)."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF focado no mercado brasileiro, útil para quem quer exposição regional em vez de global."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com mercados desenvolvidos."
+      },
+      {
+        "ticker": "VXUS",
+        "list": "us-etfs",
+        "reason": "ETF de mercados internacionais, incluindo emergentes e desenvolvidos, para diversificação global."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VWO",
+      "url": "https://finance.yahoo.com/quote/VWO/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): FTSE Russell (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/FTSE_Russell",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Emerging market (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Emerging_market",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

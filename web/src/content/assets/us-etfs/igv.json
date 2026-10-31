@@ -1,0 +1,263 @@
+{
+  "ticker": "IGV",
+  "slug": "igv",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IGV: ETF de software, histórico e desempenho",
+    "description": "Conheça o IGV, ETF de software da iShares. Veja rentabilidade, volatilidade, histórico e como investir do Brasil. Dados até 30/10/2026.",
+    "h1": "IGV: iShares Expanded Tech-Software Sector ETF",
+    "canonicalPath": "/etfs/igv",
+    "keywords": [
+      "IGV",
+      "ETF software",
+      "iShares",
+      "ETF tecnologia",
+      "investir IGV",
+      "ETF S&P 500 tecnologia"
+    ]
+  },
+  "summary": "IGV é o iShares Expanded Tech-Software Sector ETF, um ETF americano que replica o índice de software e tecnologia do S&P 500. Lançado em 17/07/2001, o ativo é gerido pela iShares, marca da BlackRock. Em 30/10/2026, a cota valia US$ 104,29, com rentabilidade total de -8,48% nos últimos 12 meses e 368,19% em 10 anos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Expanded Tech-Software Sector ETF",
+    "ticker": "BATS IGV",
+    "foundingDate": "2001-07-17",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "S&P 500 Expanded Technology-Software Sector Index",
+    "name": "iShares Expanded Tech-Software Sector ETF",
+    "founded": "17/07/2001"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Expanded Tech-Software Sector ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "17/07/2001",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 104,29",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "32,71% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,28",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,02%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,01 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IGV",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Expanded Tech-Software Sector ETF",
+    "currency": "USD",
+    "price": 104.29,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0848,
+      "3y": 0.5636,
+      "5y": 0.1907,
+      "10y": 3.6819
+    },
+    "volatility1y": 0.3271,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4585,
+      "from": "2021-11-09",
+      "to": "2022-11-04"
+    },
+    "beta1y": {
+      "value": 1.28,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.017,
+      "payments12Months": 1,
+      "yield12Months": 0.0002,
+      "lastPayment": {
+        "date": "2026-06-15",
+        "amount": 0.017
+      }
+    },
+    "avgDailyTradedValue3m": 1008375775
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do IGV nos últimos 12 meses é de 32,71%, um nível considerado alto. O beta de 1,28 contra o S&P 500 indica que o ativo tende a se mover com maior amplitude que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -45,85%, entre 09/11/2021 e 04/11/2022. Para ativos de tecnologia, essa volatilidade é comum, mas o beta acima de 1 reforça a exposição a movimentos amplificados do mercado. Monitore com [alertas de preço](/recursos/alertas-de-preco) e acompanhe a performance na [carteira consolidada](/recursos/carteira-consolidada)."
+  },
+  "history": {
+    "overview": "O iShares Expanded Tech-Software Sector ETF (IGV) começou a ser negociado em 17/07/2001, conforme registros de cotações históricas. A emissora do fundo, a marca iShares, possui uma trajetória ligada à expansão do mercado de ETFs nos Estados Unidos. Inicialmente, os primeiros produtos da linha eram conhecidos como World Equity Benchmark Shares (WEBS), desenvolvidos em cooperação com a Barclays Global Investors. Em 2000, a Barclays investiu estrategicamente no crescimento do mercado de ETFs, lançando mais de 40 novos fundos sob a marca iShares, o que consolidou a presença da gestora no setor. Em 2009, a BlackRock adquiriu a marca e o negócio da Barclays, tornando-se a maior emissora de ETFs nos EUA e globalmente. A história do IGV reflete a evolução do setor de software, que passou de modelos de licença on-premises para serviços baseados em nuvem (SaaS), um dos principais focos do índice replicado pelo fundo.",
+    "timeline": [
+      {
+        "date": "2000",
+        "event": "Barclays lança mais de 40 novos fundos sob a marca iShares, impulsionando o mercado de ETFs",
+        "source": 1
+      },
+      {
+        "date": "2001-07-17",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio de iShares da Barclays",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IGV funciona",
+      "body": "O IGV é um ETF (Exchange-Traded Fund) que replica o índice de software e tecnologia do S&P 500. O fundo é gerido pela iShares, uma marca da BlackRock, que é a maior emissora de ETFs nos Estados Unidos e globalmente. O primeiro pregão das cotas ocorreu em 17/07/2001. O IGV não é um ETF alavancado ou inverso, portanto, não possui rebalanceamento diário que cause desvio do múltiplo do índice em períodos longos; ele busca acompanhar a performance do índice de referência."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IGV",
+      "body": "O IGV segue o índice de software e tecnologia do S&P 500, que abrange empresas do setor de software. A indústria de software inclui negócios de desenvolvimento, manutenção e publicação de software, utilizando modelos de licença/maintenance ou baseados em nuvem (SaaS, PaaS, IaaS). As fontes não detalham a composição exata das empresas do índice, mas o setor é identificado como um dos maiores concentradores de investimento em pesquisa e desenvolvimento globalmente."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IGV a partir do Brasil",
+      "body": "Para investir no IGV a partir do Brasil, o investidor pode adquirir as cotas por meio de uma conta em uma corretora de valores no exterior, negociando o ativo em dólar. Outra opção é buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice ou o setor de tecnologia. O principal risco cambial é a variação do câmbio entre o dólar e o real, que impacta o retorno em reais, independentemente da performance do ativo em dólar."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IGV",
+      "body": "Até 30/10/2026, a cota do IGV valia US$ 104,29. A rentabilidade total com proventos foi de -8,48% nos últimos 12 meses, 56,36% em 3 anos, 19,07% em 5 anos e 368,19% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,01 bilhão. Para comparar o desempenho do IGV com o S&P 500, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IGV",
+      "body": "O IGV possui volatilidade anualizada de 32,71% nos últimos 12 meses, classificada como alta. O beta de 1,28 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice com maior amplitude. A maior queda nos últimos 5 anos foi de -45,85%, do pico em 09/11/2021 ao ponto mais baixo em 04/11/2022. Riscos incluem a concentração no setor de tecnologia, a volatilidade do mercado acionário e a variação cambial para investidores brasileiros. Use [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos significativos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "IGV é um ETF alavancado?",
+      "answer": "Não, o IGV não é um ETF alavancado ou inverso. Ele replica o índice de software e tecnologia do S&P 500 sem alavancagem, buscando acompanhar a performance do índice de referência."
+    },
+    {
+      "question": "Qual a rentabilidade do IGV nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos do IGV nos últimos 12 meses até 30/10/2026 foi de -8,48%. Em 10 anos, o retorno foi de 368,19%."
+    },
+    {
+      "question": "Como investir no IGV do Brasil?",
+      "answer": "O investidor brasileiro pode comprar o IGV por meio de uma corretora no exterior, negociando em dólar, ou buscar ETFs e BDRs na B3 que sigam o mesmo índice. O risco cambial impacta o retorno em reais."
+    },
+    {
+      "question": "Qual a volatilidade do IGV?",
+      "answer": "A volatilidade anualizada do IGV nos últimos 12 meses é de 32,71%, classificada como alta. O beta contra o S&P 500 é de 1,28, indicando movimentos mais amplos que o índice."
+    },
+    {
+      "question": "Quem gerencia o IGV?",
+      "answer": "O IGV é gerido pela iShares, uma marca da BlackRock, a maior emissora de ETFs nos Estados Unidos e globalmente. A BlackRock adquiriu a marca da Barclays em 2009."
+    },
+    {
+      "question": "IGV paga dividendos?",
+      "answer": "Sim, o IGV pagou US$ 0,0170 por cota em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 0,02%. O último pagamento foi em 15/06/2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o IGV junto com outros ativos na sua carteira, com alocação e valor por classe."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o IGV atingir preços que você definir, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IGV com o S&P 500 e outros índices no mesmo gráfico."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF do setor de tecnologia do S&P 500, similar ao IGV"
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq 100, com forte exposição a tecnologia"
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para comparação"
+      },
+      {
+        "ticker": "VGT",
+        "list": "us-etfs",
+        "reason": "ETF de tecnologia da Vanguard, alternativa ao IGV"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IGV",
+      "url": "https://finance.yahoo.com/quote/IGV/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Software industry (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Software_industry",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

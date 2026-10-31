@@ -1,0 +1,275 @@
+{
+  "ticker": "IEMG",
+  "slug": "iemg",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IEMG: ETF MSCI Emerging Markets, histórico e desempenho",
+    "description": "Conheça o IEMG, ETF que replica o índice MSCI Emerging Markets. Veja desempenho, volatilidade, dividendos e como investir a partir do Brasil.",
+    "h1": "IEMG: iShares Core MSCI Emerging Markets ETF",
+    "canonicalPath": "/etfs/iemg",
+    "keywords": [
+      "IEMG",
+      "iShares Core MSCI Emerging Markets ETF",
+      "ETF mercados emergentes",
+      "MSCI Emerging Markets",
+      "investir em mercados emergentes",
+      "IEMG dividendos",
+      "IEMG volatilidade"
+    ]
+  },
+  "summary": "IEMG é o iShares Core MSCI Emerging Markets ETF, lançado em 24/10/2012 e gerido pela BlackRock. O ativo replica o índice MSCI Emerging Markets, que reúne ações de empresas em mercados emergentes. Em 30/10/2026, a cota valia US$ 74,25, com rentabilidade total de 11,34% nos 12 meses anteriores e dividend yield de 2,42%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Core MSCI Emerging Markets ETF",
+    "ticker": "ARCX IEMG",
+    "foundingDate": "2012-10-24",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "BlackRock (iShares)",
+    "trackedIndex": "MSCI Emerging Markets",
+    "name": "iShares Core MSCI Emerging Markets ETF",
+    "founded": "24/10/2012"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Core MSCI Emerging Markets ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "24/10/2012",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 74,25",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "24,90% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,51",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,42%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 892,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IEMG",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Core MSCI Emerging Markets ETF",
+    "currency": "USD",
+    "price": 74.25,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1134,
+      "3y": 0.7533,
+      "5y": 0.3645,
+      "10y": 1.157
+    },
+    "volatility1y": 0.249,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3208,
+      "from": "2021-11-12",
+      "to": "2022-10-24"
+    },
+    "beta1y": {
+      "value": 1.51,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.797,
+      "payments12Months": 2,
+      "yield12Months": 0.0242,
+      "lastPayment": {
+        "date": "2026-06-15",
+        "amount": 0.658
+      }
+    },
+    "avgDailyTradedValue3m": 892194035
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do IEMG nos 12 meses até 30/10/2026 foi de 24,90%, nível moderado. O beta de 1,51 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice com maior amplitude, ou seja, movimentos maiores que os do S&P 500 na mesma direção. A maior queda em 5 anos foi de -32,08%, do pico em 12/11/2021 ao ponto mais baixo em 24/10/2022. Para ativos de mercados emergentes, essa volatilidade é comum, refletindo a maior sensibilidade a riscos políticos, econômicos e cambiais. O app permite acompanhar a volatilidade e definir [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações."
+  },
+  "history": {
+    "overview": "O IEMG foi lançado em 24 de outubro de 2012 pela iShares, marca de ETFs da BlackRock. A iShares originou-se da aquisição da Barclays pela BlackRock em 2009, herdando o portfólio de fundos que incluía os antigos WEBS (World Equity Benchmark Shares), criados em parceria com a Morgan Stanley e a American Stock Exchange para rastrear índices da MSCI. O MSCI, por sua vez, é uma empresa americana fundada a partir da Capital International em 1968, que se tornou a principal provedora de índices globais, com fundos de mais de US$ 16,5 trilhões baseados em seus índices em 2025. O IEMG oferece exposição a mercados emergentes, definidos como economias em transição entre desenvolvimento e mercados desenvolvidos, incluindo países como China, Índia, Brasil e México.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Lançamento do primeiro ETF dos EUA, o SPDR S&P 500, pela State Street e American Stock Exchange.",
+        "source": 1
+      },
+      {
+        "date": "2000",
+        "event": "Barclays lança mais de 40 novos fundos sob a marca iShares, renomeando os WEBS para iShares MSCI Series.",
+        "source": 1
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio iShares da Barclays.",
+        "source": 1
+      },
+      {
+        "date": "2012-10-24",
+        "event": "Primeiro pregão das cotas do IEMG na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IEMG funciona",
+      "body": "O IEMG é um ETF que replica o índice MSCI Emerging Markets, oferecendo exposição a ações de empresas em mercados emergentes. O ativo é gerido pela iShares, marca da BlackRock, e teve seu primeiro pregão em 24/10/2012. Diferente de ETFs alavancados ou inversos, o IEMG não possui rebalanceamento diário de múltiplos, o que significa que seu desempenho busca acompanhar o índice de referência ao longo do tempo, sem a distorção matemática associada a alavancas em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IEMG",
+      "body": "O IEMG segue o índice MSCI Emerging Markets, operado pela MSCI Inc., empresa americana sediada em Nova York. O índice abrange mercados emergentes, que incluem economias como China, Índia, Brasil, México, Coreia do Sul, Indonésia, Turquia, Arábia Saudita e Polônia, conforme a lista de dez maiores economias emergentes por PIB nominal em 2025. A MSCI licencia seus índices a fundos, que pagam uma taxa de cerca de 0,02% a 0,04% do volume investido pelo uso do índice."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IEMG a partir do Brasil",
+      "body": "Investidores brasileiros podem adquirir o IEMG por meio de uma conta em uma corretora no exterior, onde o ativo é negociado em dólar. Outra opção é buscar ETFs ou BDRs na B3 que sigam o mesmo índice MSCI Emerging Markets, permitindo exposição sem a necessidade de conta no exterior. O risco cambial é um fator relevante, pois a cotação do IEMG está atrelada ao dólar, e variações no câmbio impactam o retorno em reais. O app permite acompanhar a carteira consolidada, incluindo ativos em dólar, para monitorar a alocação e o desempenho."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IEMG",
+      "body": "Até 30/10/2026, o IEMG apresentou rentabilidade total com proventos de 11,34% nos 12 meses, 75,33% em 3 anos, 36,45% em 5 anos e 115,70% em 10 anos. A cota valia US$ 74,25 nessa data, com dividend yield de 2,42% nos 12 meses anteriores. Para comparar o desempenho do IEMG com outros índices, como o S&P 500, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IEMG",
+      "body": "O IEMG está exposto a riscos de mercados emergentes, que incluem maior volatilidade, riscos políticos e econômicos, e liquidez variável. A volatilidade anualizada do IEMG nos 12 meses até 30/10/2026 foi de 24,90%, classificada como moderada. A maior queda em 5 anos foi de -32,08%, do pico em 12/11/2021 ao ponto mais baixo em 24/10/2022. O beta de 1,51 contra o S&P 500 indica que o IEMG tende a acompanhar os movimentos do índice com maior amplitude. O app oferece [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações e definir níveis de acompanhamento."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o IEMG?",
+      "answer": "O IEMG é o iShares Core MSCI Emerging Markets ETF, um ETF que replica o índice MSCI Emerging Markets, oferecendo exposição a ações de empresas em mercados emergentes. O ativo é gerido pela BlackRock e teve seu primeiro pregão em 24/10/2012."
+    },
+    {
+      "question": "Qual o índice que o IEMG replica?",
+      "answer": "O IEMG replica o índice MSCI Emerging Markets, que reúne ações de empresas em mercados emergentes, incluindo economias como China, Índia, Brasil e México. A MSCI é a provedora do índice, e o ETF paga uma taxa pelo uso do índice."
+    },
+    {
+      "question": "O IEMG paga dividendos?",
+      "answer": "Sim, o IEMG distribui proventos. Nos 12 meses até 30/10/2026, foram US$ 1,7970 por cota em 2 pagamentos, com dividend yield de 2,42%. O último pagamento foi de US$ 0,6580 em 15/06/2026. No app, é possível acompanhar os [dividendos e JCP](/recursos/desempenho-e-preco-medio) com datas de pagamento."
+    },
+    {
+      "question": "Como investir no IEMG a partir do Brasil?",
+      "answer": "Investidores brasileiros podem adquirir o IEMG por meio de uma conta em uma corretora no exterior, onde o ativo é negociado em dólar. Outra opção é buscar ETFs ou BDRs na B3 que sigam o mesmo índice MSCI Emerging Markets. O risco cambial é um fator relevante, pois a cotação está atrelada ao dólar."
+    },
+    {
+      "question": "Qual a diferença entre IEMG e EEM?",
+      "answer": "O IEMG e o [EEM](/etfs/eem) são ambos ETFs que replicam o índice MSCI Emerging Markets, mas são geridos por diferentes empresas. O IEMG é da iShares (BlackRock), enquanto o EEM é da iShares (BlackRock) também, mas pode ter diferenças na taxa de administração e na liquidez. No app, é possível comparar o desempenho de ambos usando a [comparação com índices](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do IEMG junto a outros ativos, como ações e renda fixa, em uma única visão."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IEMG com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina níveis de preço para o IEMG e receba notificações quando o ativo atingir esses valores."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade do IEMG e o preço médio da sua posição, com variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "Outro ETF que replica o índice MSCI Emerging Markets, gerido pela iShares (BlackRock)."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o índice MSCI Brazil, oferecendo exposição ao mercado brasileiro, um dos maiores mercados emergentes."
+      },
+      {
+        "ticker": "VWO",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard que replica o índice FTSE Emerging Markets, outra opção de exposição a mercados emergentes."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o índice S&P 500, útil para comparar o desempenho do IEMG com o mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IEMG",
+      "url": "https://finance.yahoo.com/quote/IEMG/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/MSCI",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Emerging market (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Emerging_market",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

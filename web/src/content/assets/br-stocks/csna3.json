@@ -1,0 +1,401 @@
+{
+  "ticker": "CSNA3",
+  "slug": "csna3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CSNA3: história, dividendos e volatilidade",
+    "description": "CSNA3 é a ação da Companhia Siderúrgica Nacional. Veja desempenho, riscos e proventos até 30/10/2026. Volatilidade de 64,03% e beta de 1,47.",
+    "h1": "CSNA3: Companhia Siderúrgica Nacional",
+    "canonicalPath": "/acoes/csna3",
+    "keywords": [
+      "CSNA3",
+      "Companhia Siderúrgica Nacional",
+      "ação siderurgia",
+      "dividendos CSNA3",
+      "volatilidade CSNA3",
+      "B3 siderurgia"
+    ]
+  },
+  "summary": "CSNA3 é a ação ordinária da Companhia Siderúrgica Nacional, maior indústria siderúrgica do Brasil e da América Latina. A empresa atua na produção de aço, mineração, logística, cimento e energia, com sede em São Paulo. Em 30/10/2026, a ação cotava a R$ 3,98, acumulando rentabilidade total de -57,48% nos últimos 12 meses, refletindo a volatilidade do setor de materiais básicos.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Companhia Siderúrgica Nacional",
+    "legalName": "CIA SIDERURGICA NACIONAL",
+    "ticker": "BVMF CSNA3",
+    "isin": "BRCSNAACNOR6",
+    "taxId": "33.042.730/0001-04",
+    "foundingDate": "1941-04-09",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.csn.com.br",
+    "wikidata": "Q400384",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q400384",
+      "https://pt.wikipedia.org/wiki/Companhia_Sider%C3%BArgica_Nacional",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/4030/CSNA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Companhia Siderúrgica Nacional",
+    "legalName": "CIA SIDERURGICA NACIONAL",
+    "type": "Ação ordinária (ON)",
+    "sector": "Materiais Básicos",
+    "segment": "Siderurgia",
+    "founded": "09/04/1941",
+    "listedSince": "02/08/1993",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.csn.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "CIA SIDERURGICA NACIONAL",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "33.042.730/0001-04",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Siderurgia",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "BOLSA",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "09/04/1941",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "02/08/1993",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "CSNA3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "FORVIS MAZARS AUDITORES INDEPENDENTES - SOCIEDADE SIMPLES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 3,98",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "64,03% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,47",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 124,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CSNA3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Companhia Siderúrgica Nacional",
+    "currency": "BRL",
+    "price": 3.98,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.5748,
+      "3y": -0.5984,
+      "5y": -0.7441,
+      "10y": -0.3839
+    },
+    "volatility1y": 0.6403,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7974,
+      "from": "2022-03-04",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.47,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2024-11-22",
+        "amount": 0.550489
+      }
+    },
+    "avgDailyTradedValue3m": 124288944
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da CSNA3 é de 64,03%, nível 'muito alta', indicando oscilações significativas no preço. O beta de 1,47 contra o Ibovespa mostra que a ação tende a acompanhar os movimentos do índice com maior intensidade. A maior queda em 5 anos foi de -79,74%, entre 04/03/2022 e 30/10/2026. Para ativos de materiais básicos, essa volatilidade é comum, mas o nível atual exige atenção. Use [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para analisar a rentabilidade da sua posição."
+  },
+  "history": {
+    "overview": "A Companhia Siderúrgica Nacional (CSN) foi fundada em 09/04/1941, durante o Estado Novo, por decreto do presidente Getúlio Vargas, após os Acordos de Washington com os Estados Unidos. O objetivo era construir uma usina para fornecer aço aos aliados na Segunda Guerra Mundial e impulsionar o desenvolvimento econômico do Brasil. A usina, localizada em Volta Redonda (RJ), começou a operar em 1946, no governo de Eurico Dutra. Em 1973, a holding Siderbrás foi criada para coordenar a produção de aço no país, controlando a CSN e outras empresas do setor. Na década de 1980, a empresa enfrentou greves, incluindo um conflito em 1988 que resultou em mortes. Em 1993, a CSN foi privatizada e passou a ser controlada por um grupo privado, iniciando sua cotação na B3 em 02/08/1993. Desde então, a empresa expandiu suas operações para mineração, logística, cimento e energia, buscando diversificação e aquisições internacionais, como a Cimpor em Portugal.",
+    "timeline": [
+      {
+        "date": "1941-04-09",
+        "event": "Constituição da Companhia Siderúrgica Nacional",
+        "source": 2
+      },
+      {
+        "date": "1943-02-26",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "1993-08-02",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-03-11",
+        "event": "Alteração e inclusão de projeção financeira",
+        "source": 12
+      },
+      {
+        "date": "2026-03-20",
+        "event": "Aprovação de Bride Loan",
+        "source": 11
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Aprovação de emissão de Exchange Notes e divulgação de informações financeiras",
+        "source": 10
+      },
+      {
+        "date": "2026-08-10",
+        "event": "Recebimento de propostas vinculantes para a CSN Cimentos S.A.",
+        "source": 9
+      },
+      {
+        "date": "2026-08-11",
+        "event": "Resultados da emissão de Exchange Notes",
+        "source": 8
+      },
+      {
+        "date": "2026-09-02",
+        "event": "Eleição do Presidente do Conselho",
+        "source": 7
+      },
+      {
+        "date": "2026-09-29",
+        "event": "Redução de volumes de produção na subsidiária CMIN e revisão de projeções",
+        "source": 6
+      },
+      {
+        "date": "2026-10-09",
+        "event": "Assinatura de Term Sheet vinculante para alienação da SWT",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Companhia Siderúrgica Nacional ganha dinheiro",
+      "body": "A Companhia Siderúrgica Nacional atua em cinco segmentos principais: siderurgia, mineração, logística, cimento e energia. Na siderurgia, a empresa produz aço bruto e laminados, com destaque para a Usina Presidente Vargas em Volta Redonda (RJ), que gera cerca de 6 milhões de toneladas de aço bruto e mais de 5 milhões de toneladas de laminados anualmente. A CSN Mineração é a segunda maior exportadora de minério de ferro do Brasil, com operações no Quadrilátero Ferrífero em Minas Gerais. No setor de cimento, a produção começou em 2009, utilizando escória de alto forno e clínquer. A logística inclui a administração de terminais no Porto de Itaguaí (RJ) e participações em ferrovias como a MRS Logística e a Transnordestina Logística S.A. (TLSA). A área de energia envolve a CEEE-G, adquirida em 2022."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Companhia Siderúrgica Nacional",
+      "body": "A CSNA3 é a ação ordinária da Companhia Siderúrgica Nacional, negociada na B3 sob o código CSNA3. O controle acionário é privado, conforme o cadastro da CVM. A empresa está listada no segmento BOLSA. Ações ordinárias (ON) conferem direito a voto em assembleias e preferência na distribuição de proventos, enquanto ações preferenciais (PN) têm prioridade no recebimento de dividendos, mas geralmente não votam. A CSN não possui ações preferenciais listadas na B3, apenas a CSNA3."
+    },
+    {
+      "id": "proventos",
+      "heading": "CSNA3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a CSNA3 não pagou dividendos ou JCP, conforme os dados calculados. A ausência de proventos recentes reflete a estratégia da empresa de reinvestimento em projetos e aquisições, como a CSN Cimentos e a CEEE-G. Para acompanhar a distribuição de proventos quando ocorrer, utilize o recurso de [dividendos e JCP no app](/recursos/proventos), que registra data com e data de pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da CSNA3",
+      "body": "A rentabilidade total da CSNA3 com proventos foi de -57,48% nos 12 meses até 30/10/2026, -59,84% em 3 anos e -74,41% em 5 anos. Em 10 anos, a perda acumulada foi de -38,39%. Esses números refletem a volatilidade do setor de materiais básicos e a sensibilidade a ciclos econômicos. Para comparar o desempenho da CSNA3 com índices como o Ibovespa e o CDI, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da CSNA3",
+      "body": "A CSNA3 apresenta volatilidade anualizada de 64,03% nos últimos 12 meses, classificada como 'muito alta'. A maior queda em 5 anos foi de -79,74%, do pico em 04/03/2022 ao ponto mais baixo em 30/10/2026. O beta de 1,47 indica que a ação tende a se mover 1,47 vezes mais que o Ibovespa, na mesma direção. Riscos setoriais incluem flutuações no preço do aço, demanda cíclica e questões ambientais, como a multa de R$ 1.013.871,60 em 2023 por poluição em Volta Redonda. A volatilidade elevada exige monitoramento constante, que pode ser feito com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CSNA3 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, a CSNA3 não pagou dividendos ou JCP. A empresa priorizou reinvestimento em projetos como a CSN Cimentos e a CEEE-G. Para acompanhar proventos futuros, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre CSNA3 e CSNA4?",
+      "answer": "CSNA3 é a ação ordinária da Companhia Siderúrgica Nacional, com direito a voto. CSNA4, se existisse, seria a ação preferencial, com prioridade em dividendos, mas sem voto. Atualmente, apenas a CSNA3 é listada na B3."
+    },
+    {
+      "question": "O que a CSN faz além da siderurgia?",
+      "answer": "A CSN atua em mineração, logística, cimento e energia. A CSN Mineração é a segunda maior exportadora de minério de ferro do Brasil. A logística inclui terminais no Porto de Itaguaí e participações em ferrovias. O cimento é produzido desde 2009, e a energia envolve a CEEE-G."
+    },
+    {
+      "question": "Qual o risco da CSNA3?",
+      "answer": "A CSNA3 tem alta volatilidade (64,03%) e beta de 1,47, indicando sensibilidade ao Ibovespa. Riscos incluem flutuações no preço do aço, demanda cíclica e questões ambientais. A maior queda em 5 anos foi de -79,74%. Use [alertas de preço](/recursos/alertas-de-preco) para monitorar."
+    },
+    {
+      "question": "Como acompanhar a CSNA3 no app?",
+      "answer": "Use a [carteira consolidada](/recursos/carteira-consolidada) para ver a CSNA3 junto a outros ativos e o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre sua posição em português, com respostas baseadas nos seus dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da CSNA3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da CSNA3 com o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a CSNA3 atingir o preço que você escolher, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a CSNA3 junto a outras ações e ativos, com alocação e valor por classe."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em CSNA3 e receba respostas baseadas nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Outro ativo do setor de mineração, com exposição a commodities."
+      },
+      {
+        "ticker": "GGBR4",
+        "list": "br-stocks",
+        "reason": "Ação da Gerdau, concorrente direta no setor de siderurgia."
+      },
+      {
+        "ticker": "USIM5",
+        "list": "br-stocks",
+        "reason": "Ação da Usiminas, outra siderúrgica brasileira, para comparação setorial."
+      },
+      {
+        "ticker": "CMIN3",
+        "list": "br-stocks",
+        "reason": "Ação da CSN Mineração, subsidiária da CSN, com foco em minério de ferro."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação da Petrobras, outro ativo de materiais básicos com alta volatilidade."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CSNA3",
+      "url": "https://finance.yahoo.com/quote/CSNA3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SID NACIONAL, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/4030/CSNA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, CIA SIDERURGICA NACIONAL",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Companhia Siderúrgica Nacional",
+      "url": "https://www.wikidata.org/wiki/Q400384",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Companhia Siderúrgica Nacional",
+      "url": "https://pt.wikipedia.org/wiki/Companhia_Sider%C3%BArgica_Nacional",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/10/2026, “Fato Relevante - Assinatura de Term Sheet vinculante para alienação da SWT”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1576221&numSequencia=1100927&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/09/2026, “Redução de volumes de produção da planta a seco na subisdiária CMIN e revisão das projeções”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1572282&numSequencia=1096988&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/09/2026, “Eleição do Presidente do Conselho”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1564291&numSequencia=1088997&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/08/2026, “Resultados da Emissão de oferta pública de valores mobiliários: Exchange Notes”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1555577&numSequencia=1080283&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/08/2026, “Fato Relevante - Recebimento de Propostas Vinculantes para CSN Cimentos S.A.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1554660&numSequencia=1079366&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/07/2026, “Aprovação de emissão de oferta pública de valores mobiliários: Exchange Notes e Divulgação de Informações Financeiras Preliminares”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550039&numSequencia=1074745&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/03/2026, “Bride Loan”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1493394&numSequencia=1018100&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/03/2026, “Alteracao e inclusao de projecao”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1489308&numSequencia=1014014&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

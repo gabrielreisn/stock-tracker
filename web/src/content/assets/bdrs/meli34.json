@@ -1,0 +1,275 @@
+{
+  "ticker": "MELI34",
+  "slug": "meli34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MELI34: BDR da MercadoLibre, história e desempenho",
+    "description": "MELI34 é o BDR da MercadoLibre na B3. Veja história, desempenho, riscos e como funciona o BDR não patrocinado da maior empresa de e-commerce da América",
+    "h1": "MELI34: BDR da MercadoLibre",
+    "canonicalPath": "/bdrs/meli34",
+    "keywords": [
+      "MELI34",
+      "BDR MercadoLibre",
+      "MELI34 dividendos",
+      "MELI34 volatilidade",
+      "BDR nível I",
+      "Mercado Livre B3"
+    ]
+  },
+  "summary": "MELI34 é o BDR não patrocinado (nível I) da MercadoLibre Inc., empresa de tecnologia argentina com sede no Uruguai que opera o maior marketplace de e-commerce da América Latina. Listado na B3 desde 10/04/2019, o ativo representa ações da MELI na Nasdaq. Em 29/10/2026, cotava-se a R$ 74,25, com rentabilidade total de -27,09% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Mercado Livre",
+    "legalName": "MERCADOLIBRE INC",
+    "ticker": "BVMF MELI34",
+    "foundingDate": "1997-08-02",
+    "website": "https://www.mercadolibre.com/",
+    "wikidata": "Q950419",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q950419",
+      "https://en.wikipedia.org/wiki/MercadoLibre",
+      "https://pt.wikipedia.org/wiki/Mercado_Livre",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51969/MELI/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Mercado Livre",
+    "legalName": "MERCADOLIBRE INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "02/08/1997",
+    "listedSince": "10/04/2019",
+    "headquarters": "Saavedra",
+    "website": "https://www.mercadolibre.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "MERCADOLIBRE INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: MELI",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Saavedra",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "02/08/1997",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "10/04/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 74,25",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "36,34% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original MELI em dólares)",
+      "value": "1,09",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 107,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MELI34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "MercadoLibre, Inc.",
+    "currency": "BRL",
+    "price": 74.25,
+    "historyStarts": "2019-06-12",
+    "returns": {
+      "1y": -0.2709,
+      "3y": 0.4403,
+      "5y": 0.066,
+      "10y": null
+    },
+    "volatility1y": 0.3634,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6633,
+      "from": "2021-11-09",
+      "to": "2022-06-20"
+    },
+    "beta1y": {
+      "value": 1.09,
+      "against": "S&P 500, ação original MELI em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 107462909
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do MELI34 nos últimos 12 meses é de 36,34%, classificada como alta. O beta da ação original (MELI na Nasdaq) contra o S&P 500 é de 1,09, indicando que a ação tende a acompanhar os movimentos do índice com amplitude ligeiramente maior. A maior queda em 5 anos foi de -66,33%, entre 09/11/2021 e 20/06/2022. Para monitorar oscilações, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "Fundada em 02/08/1997 por Marcos Galperin em Buenos Aires, a MercadoLibre iniciou suas operações na Argentina e expandiu-se para outros países da América Latina, incluindo o Brasil, ainda em 1999. Em 2001, firmou uma aliança estratégica com o eBay, que se tornou acionista majoritário até 2016. A empresa realizou sua oferta pública inicial na Nasdaq em agosto de 2007, tornando-se a primeira empresa de tecnologia latino-americana a ser listada nos Estados Unidos. Nos anos seguintes, diversificou seu portfólio com a criação do Mercado Pago (2003) e a expansão de serviços logísticos, como a Meli Air e centros de distribuição na Argentina, Brasil e México a partir de 2019. Em 2023, a revista Time incluiu a MercadoLibre na lista das 100 empresas mais influentes do mundo. O BDR MELI34 foi listado na B3 em 10/04/2019, permitindo que investidores brasileiros acompanhassem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "1997-08-02",
+        "event": "Fundação da MercadoLibre por Marcos Galperin em Buenos Aires, Argentina.",
+        "source": 2
+      },
+      {
+        "date": "2001-09",
+        "event": "Aliança estratégica com o eBay, que adquire participação acionária na empresa.",
+        "source": 4
+      },
+      {
+        "date": "2007-08",
+        "event": "Oferta pública inicial (IPO) na Nasdaq sob o ticker MELI.",
+        "source": 3
+      },
+      {
+        "date": "2019-04-10",
+        "event": "Listagem do BDR MELI34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2023",
+        "event": "Inclusão na lista das 100 empresas mais influentes do mundo pela revista Time.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Mercado Livre ganha dinheiro",
+      "body": "A MercadoLibre opera principalmente através de marketplaces de e-commerce e leilões online, com foco na América Latina. A empresa possui cinco unidades de negócio principais: MarketPlace (plataforma de vendas), MercadoPago (sistema de pagamentos), Mercado Publicado (publicidade), MercadoShops (ferramenta para lojas virtuais) e Mercado Crédito (linha de crédito). A receita é gerada pela comissão sobre vendas, taxas de publicidade, serviços de pagamento e crédito. A empresa atua em 18 países da região, incluindo Brasil, Argentina, México e Chile, e é descrita como o site de e-commerce mais popular da América Latina em número de visitantes."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR MELI34",
+      "body": "O MELI34 é um BDR não patrocinado (nível I), um recibo negociado na B3 em reais que representa ações da MercadoLibre Inc. na Nasdaq (ticker MELI). O preço do BDR acompanha a cotação da ação original em dólares e a variação do câmbio dólar/real. A listagem na B3 ocorreu em 10/04/2019. Por ser não patrocinado, a empresa não emite o BDR diretamente; ele é emitido por uma instituição depositária."
+    },
+    {
+      "id": "proventos",
+      "heading": "MELI34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, o MELI34 não distribuiu proventos (dividendos ou juros sobre capital próprio). A empresa paga na moeda da sua operação (dólar), e o valor em reais depende do câmbio no momento do pagamento, mas não houve distribuição recente."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MELI34",
+      "body": "Até 29/10/2026, a rentabilidade total do MELI34 foi de -27,09% nos últimos 12 meses, 44,03% em 3 anos e 6,60% em 5 anos. Esses números incluem a variação do câmbio dólar/real. Para comparar com índices de referência, utilize a [comparação com índices](/recursos/comparacao-com-indices), que mostra a performance do S&P 500 e do CDI lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MELI34",
+      "body": "Os principais riscos do MELI34 incluem a exposição cambial (variação do dólar/real), a volatilidade do setor de tecnologia e a liquidez do BDR na B3. A volatilidade anualizada de 12 meses é de 36,34%, considerada alta. A maior queda em 5 anos foi de -66,33%, entre 09/11/2021 e 20/06/2022. A empresa também enfrenta riscos operacionais, como a dependência de mercados emergentes e a concorrência no e-commerce."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MELI34 paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 29/10/2026, não houve distribuição de proventos. A empresa pode pagar dividendos no futuro, mas não há histórico recente."
+    },
+    {
+      "question": "Qual a diferença entre MELI34 e a ação MELI?",
+      "answer": "MELI34 é o BDR negociado na B3 em reais, enquanto MELI é a ação original na Nasdaq em dólares. O preço do BDR reflete a cotação da ação e o câmbio."
+    },
+    {
+      "question": "Como funciona o BDR MELI34?",
+      "answer": "É um recibo na B3 que representa ações da MercadoLibre na Nasdaq. O preço acompanha a ação original e o câmbio dólar/real. É um BDR não patrocinado, nível I."
+    },
+    {
+      "question": "Qual o risco cambial do MELI34?",
+      "answer": "Alto, pois o BDR é lastreado em ações em dólares. A variação do câmbio impacta diretamente o preço em reais. A volatilidade de 36,34% reflete esse risco."
+    },
+    {
+      "question": "Onde ver o desempenho do MELI34?",
+      "answer": "No app, use a [comparação com índices](/recursos/comparacao-com-indices) para ver a performance do MELI34 contra o S&P 500 e o CDI, ou o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para acompanhar a rentabilidade da sua posição."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do MELI34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o MELI34 chegar ao preço que você escolheu, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do MELI34 junto com outros ativos, como ações e ETFs, em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia listado na B3, com exposição similar ao setor de tecnologia global."
+      },
+      {
+        "ticker": "PAGS34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de pagamentos e fintech, setor relacionado ao Mercado Pago."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para comparação de desempenho do MELI34."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MELI34",
+      "url": "https://finance.yahoo.com/quote/MELI34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MERCADOLIBRE, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51969/MELI/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Mercado Livre",
+      "url": "https://www.wikidata.org/wiki/Q950419",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MercadoLibre",
+      "url": "https://en.wikipedia.org/wiki/MercadoLibre",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Mercado Livre",
+      "url": "https://pt.wikipedia.org/wiki/Mercado_Livre",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

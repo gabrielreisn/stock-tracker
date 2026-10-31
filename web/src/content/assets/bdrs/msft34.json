@@ -1,0 +1,306 @@
+{
+  "ticker": "MSFT34",
+  "slug": "msft34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MSFT34: BDR da Microsoft, dividendos e desempenho",
+    "description": "Conheça o MSFT34, BDR da Microsoft na B3. Veja dividendos, desempenho, riscos e como acompanhar o ativo no app.",
+    "h1": "MSFT34: BDR da Microsoft na B3",
+    "canonicalPath": "/bdrs/msft34",
+    "keywords": [
+      "MSFT34",
+      "BDR Microsoft",
+      "dividendos MSFT34",
+      "desempenho MSFT34",
+      "B3 Microsoft"
+    ]
+  },
+  "summary": "MSFT34 é o BDR não patrocinado de nível I da Microsoft Corporation, empresa de tecnologia sediada em Redmond, EUA. Negociado na B3 desde 09/11/2010, o ativo representa ações da Microsoft na NASDAQ (MSFT) e sofre influência do câmbio. Em 29/10/2026, o preço era de R$ 119,32, com rentabilidade total de 1,71% nos últimos 12 meses e dividend yield de 0,46%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Microsoft",
+    "legalName": "MICROSOFT CORPORATION",
+    "ticker": "BVMF MSFT34",
+    "foundingDate": "1975-04-04",
+    "website": "https://www.microsoft.com/",
+    "wikidata": "Q2283",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2283",
+      "https://en.wikipedia.org/wiki/Microsoft",
+      "https://pt.wikipedia.org/wiki/Microsoft",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50156/MSFT/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Microsoft",
+    "legalName": "MICROSOFT CORPORATION",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "04/04/1975",
+    "listedSince": "09/11/2010",
+    "headquarters": "Redmond",
+    "website": "https://www.microsoft.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "MICROSOFT CORPORATION",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: MSFT, Bolsa de Valores de Hong Kong: 4338",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Redmond",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "04/04/1975",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "09/11/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 119,32",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "33,63% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original MSFT em dólares)",
+      "value": "1,01",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,46%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 45,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MSFT34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Microsoft Corporation",
+    "currency": "BRL",
+    "price": 119.32,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0171,
+      "3y": 0.7133,
+      "5y": 0.5779,
+      "10y": 15.6731
+    },
+    "volatility1y": 0.3363,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4344,
+      "from": "2021-12-29",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": 1.01,
+      "against": "S&P 500, ação original MSFT em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.5528,
+      "payments12Months": 4,
+      "yield12Months": 0.0046,
+      "lastPayment": {
+        "date": "2026-08-19",
+        "amount": 0.135129
+      }
+    },
+    "avgDailyTradedValue3m": 45514667
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do MSFT34 nos últimos 12 meses foi de 33,63%, nível considerado alto. O beta da ação original MSFT, contra o S&P 500, é de 1,01, indicando que a ação tende a acompanhar os movimentos do índice de forma semelhante. A maior queda em 5 anos foi de -43,44%, entre 29/12/2021 e 03/11/2022. Para monitorar oscilações de preço, o app oferece alertas que notificam quando o ativo atinge níveis definidos pelo investidor."
+  },
+  "history": {
+    "overview": "A Microsoft Corporation foi fundada em 04/04/1975 por Bill Gates e Paul Allen para desenvolver interpretadores BASIC para o computador Altair 8800. A empresa consolidou-se no mercado de sistemas operacionais com o MS-DOS e o Windows, tornando-se a maior produtora de softwares do mundo por faturamento. Em 1986, realizou sua oferta pública inicial (IPO) na NASDAQ, evento que gerou uma onda de riqueza entre seus funcionários. Desde os anos 1990, a Microsoft diversificou seus negócios, passando por disputas antitruste com o governo dos EUA, que resultaram em condenações e mudanças de conduta no mercado de tecnologia. Em 2014, Satya Nadella assumiu a presidência, direcionando a estratégia da empresa para computação em nuvem e inteligência artificial, com aquisições estratégicas como a do LinkedIn em 2016 e da Activision Blizzard em 2023. O BDR MSFT34 foi listado na B3 em 09/11/2010, permitindo que investidores brasileiros acompanhassem o desempenho da empresa em reais.",
+    "timeline": [
+      {
+        "date": "1975-04-04",
+        "event": "Fundação da Microsoft por Bill Gates e Paul Allen",
+        "source": 2
+      },
+      {
+        "date": "1986",
+        "event": "Oferta pública inicial (IPO) da Microsoft na NASDAQ",
+        "source": 3
+      },
+      {
+        "date": "2010-11-09",
+        "event": "Listagem do BDR MSFT34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2014",
+        "event": "Satya Nadella assume a presidência da Microsoft",
+        "source": 3
+      },
+      {
+        "date": "2016",
+        "event": "Aquisição da rede social LinkedIn pela Microsoft",
+        "source": 3
+      },
+      {
+        "date": "2023",
+        "event": "Aquisição da Activision Blizzard pela Microsoft",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Microsoft ganha dinheiro",
+      "body": "A Microsoft Corporation é uma empresa transnacional de tecnologia que desenvolve, fabrica, licencia e vende softwares, produtos eletrônicos e serviços. Seus principais produtos incluem os sistemas operacionais Windows, a suíte de aplicativos Office e a plataforma de computação em nuvem Azure. A empresa também atua em serviços online, como o navegador Microsoft Edge e o e-mail Outlook.com, além de hardware, como os consoles Xbox e os tablets Surface. A Microsoft é a maior produtora de softwares do mundo por faturamento e uma das empresas mais valiosas do mundo."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR MSFT34",
+      "body": "O MSFT34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Microsoft Corporation listadas na NASDAQ sob o ticker MSFT. O preço do BDR acompanha a variação da ação original em dólares e a taxa de câmbio entre o dólar e o real. O BDR foi listado na B3 em 09/11/2010. Como é não patrocinado, a Microsoft não participa diretamente da emissão ou manutenção do programa."
+    },
+    {
+      "id": "proventos",
+      "heading": "MSFT34 paga dividendos?",
+      "body": "A Microsoft paga dividendos em dólares, que são convertidos para reais no momento do pagamento aos detentores do BDR. Nos 12 meses até 29/10/2026, o MSFT34 distribuiu R$ 0,5528 por BDR em 4 pagamentos, resultando em um dividend yield de 0,46%. O último pagamento foi de R$ 0,1351 em 19/08/2026. Os proventos podem ser acompanhados com detalhes de datas de competência e pagamento no app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MSFT34",
+      "body": "Até 29/10/2026, a rentabilidade total do MSFT34, incluindo proventos, foi de 1,71% em 12 meses, 71,33% em 3 anos, 57,79% em 5 anos e 1.567,31% em 10 anos. Esses retornos em reais refletem tanto o desempenho da ação da Microsoft em dólares quanto a variação do câmbio. Para comparar esses resultados com índices de referência, como o S&P 500 ou o CDI, é possível usar a ferramenta de comparação do app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MSFT34",
+      "body": "O MSFT34 está sujeito a riscos cambiais, pois seu preço em reais depende da cotação do dólar. A volatilidade anualizada do BDR nos últimos 12 meses foi de 33,63%, classificada como alta. A maior queda nos últimos 5 anos foi de -43,44%, entre 29/12/2021 e 03/11/2022. Além disso, a liquidez do BDR na B3 pode variar, com volume médio diário de R$ 45,5 milhões nos últimos 3 meses. Riscos regulatórios e competitivos no setor de tecnologia também impactam a empresa."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar MSFT34 no app",
+      "body": "Para quem tem MSFT34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas para ser notificado quando o MSFT34 atingir preços que você considera relevantes, considerando sua volatilidade.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do MSFT34 com o S&P 500 e o CDI no mesmo gráfico, para avaliar seu desempenho relativo.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o MSFT34 junto a outros ativos da sua carteira, com alocação e valor por classe, para uma visão completa dos seus investimentos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MSFT34 paga dividendos?",
+      "answer": "Sim, a Microsoft paga dividendos, que são convertidos para reais no BDR. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,5528 por BDR, com yield de 0,46%. O último pagamento foi de R$ 0,1351 em 19/08/2026."
+    },
+    {
+      "question": "Qual a diferença entre MSFT34 e a ação MSFT?",
+      "answer": "O MSFT34 é um BDR negociado na B3 em reais, enquanto a MSFT é a ação original listada na NASDAQ em dólares. O MSFT34 reflete o preço da MSFT e a variação do câmbio."
+    },
+    {
+      "question": "MSFT34 é BDR patrocinado ou não patrocinado?",
+      "answer": "O MSFT34 é um BDR não patrocinado de nível I, o que significa que a Microsoft não participa diretamente da emissão do recibo."
+    },
+    {
+      "question": "Qual o risco cambial do MSFT34?",
+      "answer": "O MSFT34 sofre risco cambial, pois seu preço em reais depende da cotação do dólar. A volatilidade do BDR reflete tanto a ação da Microsoft quanto a variação do câmbio."
+    },
+    {
+      "question": "Como acompanhar o desempenho do MSFT34?",
+      "answer": "O desempenho do MSFT34 pode ser acompanhado no app, que mostra rentabilidade em diferentes períodos e permite comparar com índices como o S&P 500 e o CDI."
+    },
+    {
+      "question": "Qual a liquidez do MSFT34 na B3?",
+      "answer": "O volume médio diário do MSFT34 nos últimos 3 meses foi de R$ 45,5 milhões, indicando boa liquidez para negociação na B3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando o MSFT34 atingir preços que você considera relevantes, considerando sua volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do MSFT34 com o S&P 500 e o CDI no mesmo gráfico, para avaliar seu desempenho relativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o MSFT34 junto a outros ativos da sua carteira, com alocação e valor por classe, para uma visão completa dos seus investimentos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com exposição similar ao setor e ao câmbio."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "BDR de outra empresa de tecnologia, útil para diversificação no setor."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR de semicondutores, setor relacionado à infraestrutura de tecnologia da Microsoft."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para comparação de desempenho do MSFT34."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MSFT34",
+      "url": "https://finance.yahoo.com/quote/MSFT34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MICROSOFT, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50156/MSFT/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Microsoft",
+      "url": "https://www.wikidata.org/wiki/Q2283",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Microsoft",
+      "url": "https://en.wikipedia.org/wiki/Microsoft",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Microsoft",
+      "url": "https://pt.wikipedia.org/wiki/Microsoft",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

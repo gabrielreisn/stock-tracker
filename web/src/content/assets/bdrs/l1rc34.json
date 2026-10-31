@@ -1,0 +1,338 @@
+{
+  "ticker": "L1RC34",
+  "slug": "l1rc34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "L1RC34: história, dividendos e volatilidade",
+    "description": "Conheça o BDR L1RC34 da Lam Research, empresa de equipamentos para semicondutores. Veja história, dividendos, volatilidade e desempenho do ativo na B3.",
+    "h1": "L1RC34: BDR da Lam Research Corporation",
+    "canonicalPath": "/bdrs/l1rc34",
+    "keywords": [
+      "L1RC34",
+      "Lam Research",
+      "BDR",
+      "semicondutores",
+      "dividendos",
+      "volatilidade",
+      "B3"
+    ]
+  },
+  "summary": "L1RC34 é o BDR não patrocinado de nível I da Lam Research Corporation, empresa americana de equipamentos para fabricação de semicondutores. Negociado na B3 desde 29/11/2019, o ativo reflete o desempenho da ação original LRCX na Nasdaq e a variação do câmbio. Em 30/10/2026, o preço era de R$ 31,62, com rentabilidade total de 60,69% nos últimos 12 meses e volatilidade anualizada de 75,65%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Lam Research",
+    "legalName": "LAM RESEARCH CORP",
+    "ticker": "BVMF L1RC34",
+    "foundingDate": "1980",
+    "website": "https://www.lamresearch.com/",
+    "wikidata": "Q1342041",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1342041",
+      "https://en.wikipedia.org/wiki/Lam_Research",
+      "https://pt.wikipedia.org/wiki/Lam_Research",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54046/L1RC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Lam Research",
+    "legalName": "LAM RESEARCH CORP",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1980",
+    "listedSince": "29/11/2019",
+    "headquarters": "Fremont",
+    "website": "https://www.lamresearch.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "LAM RESEARCH CORP",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: LRCX",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Fremont",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1980",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "29/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 31,62",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "75,65% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original LRCX em dólares)",
+      "value": "3,25",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,29%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,4 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "L1RC34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Lam Research Corporation",
+    "currency": "BRL",
+    "price": 31.62,
+    "historyStarts": "2020-02-04",
+    "returns": {
+      "1y": 0.6069,
+      "3y": -0.5198,
+      "5y": -0.5495,
+      "10y": null
+    },
+    "volatility1y": 0.7565,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9443,
+      "from": "2024-06-18",
+      "to": "2025-04-04"
+    },
+    "beta1y": {
+      "value": 3.25,
+      "against": "S&P 500, ação original LRCX em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.091,
+      "payments12Months": 4,
+      "yield12Months": 0.0029,
+      "lastPayment": {
+        "date": "2026-09-22",
+        "amount": 0.02652
+      }
+    },
+    "avgDailyTradedValue3m": 1388701
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do L1RC34 nos últimos 12 meses foi de 75,65%, o que é considerado muito alto. O beta da ação original LRCX, contra o S&P 500, foi de 3,25 nos últimos 12 meses, indicando que a ação tende a se mover com maior amplitude que o índice. A maior queda nos últimos 5 anos foi de -94,43%, do pico em 18/06/2024 ao ponto mais baixo em 04/04/2025. Para acompanhar a volatilidade e definir alertas de preço, você pode usar os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Lam Research Corporation foi fundada em 1980 por David K. Lam, um engenheiro que identificou a necessidade de equipamentos de corrosão por plasma para a miniaturização de semicondutores. Em 1981, a empresa lançou o AutoEtch 480, seu primeiro produto, e em 1984 realizou sua oferta pública inicial na Nasdaq, sob o ticker LRCX. Ao longo das décadas, a Lam expandiu sua presença global e consolidou-se como uma das principais fornecedoras de equipamentos para o setor de semicondutores, com aquisições estratégicas como a Novellus Systems em 2012 e a tentativa de compra da KLA-Tencor em 2016, que foi abortada por questões antitruste. Em 2018, Tim Archer assumiu a presidência e a CEO após a saída de Martin Anstice. Mais recentemente, a empresa inaugurou uma fábrica na Malásia em 2021 e um centro de engenharia na Índia em 2022, além de anunciar um investimento de US$ 1,2 bilhão na Índia em 2026 para fabricar componentes de semicondutores. O BDR L1RC34 começou a ser negociado na B3 em 29/11/2019, permitindo que investidores brasileiros acompanhem a empresa sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "1980",
+        "event": "Fundação da Lam Research Corporation por David K. Lam.",
+        "source": 2
+      },
+      {
+        "date": "1981",
+        "event": "Lançamento do AutoEtch 480, o primeiro produto da empresa.",
+        "source": 3
+      },
+      {
+        "date": "1984-05",
+        "event": "Oferta pública inicial (IPO) na Nasdaq sob o ticker LRCX.",
+        "source": 3
+      },
+      {
+        "date": "1997-03",
+        "event": "Aquisição da OnTrak Systems Inc. por US$ 225 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2012-06",
+        "event": "Conclusão da aquisição da Novellus Systems por US$ 3,3 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2016-06",
+        "event": "Lam Research entra pela primeira vez no ranking Fortune 500.",
+        "source": 3
+      },
+      {
+        "date": "2016-10",
+        "event": "Rescisão da oferta de compra da KLA-Tencor por questões antitruste.",
+        "source": 3
+      },
+      {
+        "date": "2018-12",
+        "event": "Tim Archer assume os cargos de presidente e CEO após a renúncia de Martin Anstice.",
+        "source": 3
+      },
+      {
+        "date": "2019-11-29",
+        "event": "Listagem do BDR L1RC34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2021-08",
+        "event": "Inauguração de uma fábrica em Batu Kawan, Malásia.",
+        "source": 3
+      },
+      {
+        "date": "2022-09-15",
+        "event": "Abertura do India Center for Engineering em Bangalore.",
+        "source": 3
+      },
+      {
+        "date": "2026",
+        "event": "Anúncio de investimento de US$ 1,2 bilhão na Índia para fabricação de componentes de semicondutores.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Lam Research ganha dinheiro",
+      "body": "A Lam Research Corporation é uma fornecedora norte-americana de equipamentos de fabricação de wafers e serviços relacionados para a indústria de semicondutores. Seus produtos são utilizados principalmente no processamento inicial (front-end) de wafers, etapa que compreende a criação dos componentes ativos dos dispositivos semicondutores, como transistores e capacitores, e sua fiação metálica (interconexões). A empresa também fabrica equipamentos para o encapsulamento final no nível do wafer (WLP) e para mercados correlatos, como os de sistemas microeletromecânicos (MEMS) e diodos emissores de luz (LEDs). A receita da Lam vem da venda de sistemas para deposição de filmes finos, gravação por plasma, remoção de fotoresiste e limpeza de wafers, além de serviços de suporte e manutenção."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR L1RC34",
+      "body": "O L1RC34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Lam Research Corporation, listada na Nasdaq sob o ticker LRCX. O BDR é emitido por uma instituição depositária e seu preço acompanha a variação da ação original em dólares e a taxa de câmbio. A listagem do L1RC34 na B3 ocorreu em 29/11/2019, permitindo que investidores brasileiros tenham exposição à empresa sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "id": "proventos",
+      "heading": "L1RC34 paga dividendos?",
+      "body": "A Lam Research paga dividendos, e o BDR L1RC34 repassa esses proventos aos investidores em reais. Nos 12 meses até 30/10/2026, foram realizados 4 pagamentos, totalizando R$ 0,0910 por BDR, o que corresponde a um dividend yield de 0,29%. O último pagamento foi de R$ 0,0265 em 22/09/2026. É importante lembrar que a empresa paga na moeda dela (dólar) e o valor chega em reais, sujeito à variação cambial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do L1RC34",
+      "body": "A rentabilidade total do L1RC34, incluindo proventos, foi de 60,69% nos 12 meses até 30/10/2026. Nos últimos 3 anos, a rentabilidade foi de -51,98%, e nos últimos 5 anos, de -54,95%. Esses números refletem a variação do preço do BDR e a variação do câmbio entre o real e o dólar. Para comparar o desempenho do L1RC34 com outros índices, como o S&P 500 e o CDI, você pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do L1RC34",
+      "body": "O L1RC34 está sujeito a riscos cambiais, já que o preço do BDR reflete a variação do dólar em relação ao real. A volatilidade anualizada do L1RC34 nos últimos 12 meses foi de 75,65%, considerada muito alta. A maior queda nos últimos 5 anos foi de -94,43%, do pico em 18/06/2024 ao ponto mais baixo em 04/04/2025. A liquidez do BDR na B3 é menor do que a da ação original na Nasdaq, com volume médio negociado de R$ 1,4 milhão por dia nos últimos 3 meses. Além disso, a empresa está exposta a riscos setoriais, como a demanda por semicondutores e a concorrência no setor."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar L1RC34 no app",
+      "body": "Para quem tem L1RC34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do L1RC34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Defina alertas de preço para acompanhar a volatilidade do L1RC34 e receber notificações quando o ativo atingir o preço que você escolheu.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do L1RC34 na sua carteira, junto com outros ativos, em uma visão única."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o BDR L1RC34?",
+      "answer": "O L1RC34 é um BDR não patrocinado de nível I da Lam Research Corporation, uma empresa americana de equipamentos para fabricação de semicondutores. O BDR é negociado na B3 em reais e reflete o desempenho da ação original LRCX na Nasdaq e a variação do câmbio."
+    },
+    {
+      "question": "L1RC34 paga dividendos?",
+      "answer": "Sim, a Lam Research paga dividendos, e o BDR L1RC34 repassa esses proventos aos investidores em reais. Nos 12 meses até 30/10/2026, foram realizados 4 pagamentos, totalizando R$ 0,0910 por BDR, o que corresponde a um dividend yield de 0,29%."
+    },
+    {
+      "question": "Qual a diferença entre L1RC34 e LRCX?",
+      "answer": "O L1RC34 é o BDR da Lam Research Corporation negociado na B3 em reais, enquanto o LRCX é a ação original da empresa listada na Nasdaq em dólares. O preço do L1RC34 reflete a variação do LRCX e a taxa de câmbio entre o real e o dólar."
+    },
+    {
+      "question": "Qual a volatilidade do L1RC34?",
+      "answer": "A volatilidade anualizada do L1RC34 nos últimos 12 meses foi de 75,65%, o que é considerado muito alto. A maior queda nos últimos 5 anos foi de -94,43%, do pico em 18/06/2024 ao ponto mais baixo em 04/04/2025."
+    },
+    {
+      "question": "Como acompanhar o desempenho do L1RC34?",
+      "answer": "Você pode acompanhar o desempenho do L1RC34 usando a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade do ativo lado a lado com o S&P 500 e o CDI. Além disso, os [alertas de preço](/recursos/alertas-de-preco) podem ajudar a definir pontos de entrada e saída."
+    },
+    {
+      "question": "Quais são os riscos do L1RC34?",
+      "answer": "O L1RC34 está sujeito a riscos cambiais, já que o preço do BDR reflete a variação do dólar em relação ao real. A volatilidade anualizada é alta, e a liquidez do BDR na B3 é menor do que a da ação original na Nasdaq. Além disso, a empresa está exposta a riscos setoriais, como a demanda por semicondutores e a concorrência no setor."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do L1RC34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina alertas de preço para acompanhar a volatilidade do L1RC34 e receber notificações quando o ativo atingir o preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do L1RC34 na sua carteira, junto com outros ativos, em uma visão única."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de uma empresa do setor de semicondutores, a NVIDIA Corporation."
+      },
+      {
+        "ticker": "MUTC34",
+        "list": "bdrs",
+        "reason": "BDR da Micron Technology, Inc., outra empresa do setor de semicondutores."
+      },
+      {
+        "ticker": "TSMC34",
+        "list": "bdrs",
+        "reason": "BDR da Taiwan Semiconductor Manufacturing Company Limited, uma das maiores fabricantes de semicondutores do mundo."
+      },
+      {
+        "ticker": "A1MT34",
+        "list": "bdrs",
+        "reason": "BDR da Applied Materials, Inc., uma concorrente direta da Lam Research no setor de equipamentos para semicondutores."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de L1RC34",
+      "url": "https://finance.yahoo.com/quote/L1RC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: LAM RESEARCH, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54046/L1RC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Lam Research",
+      "url": "https://www.wikidata.org/wiki/Q1342041",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Lam Research",
+      "url": "https://en.wikipedia.org/wiki/Lam_Research",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Lam Research",
+      "url": "https://pt.wikipedia.org/wiki/Lam_Research",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

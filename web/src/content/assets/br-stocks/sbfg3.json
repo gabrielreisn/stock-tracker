@@ -1,0 +1,382 @@
+{
+  "ticker": "SBFG3",
+  "slug": "sbfg3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SBFG3: história, dividendos e volatilidade",
+    "description": "SBFG3 é a ação do Grupo SBF, holding das lojas Centauro e Nike. Veja rentabilidade, dividendos, volatilidade de 89,44% e a história do grupo até",
+    "h1": "SBFG3: Grupo SBF, ação do varejo esportivo Centauro",
+    "canonicalPath": "/acoes/sbfg3",
+    "keywords": [
+      "SBFG3",
+      "Grupo SBF",
+      "Centauro",
+      "ação varejo esportivo",
+      "dividendos SBFG3",
+      "volatilidade SBFG3",
+      "rentabilidade SBFG3",
+      "Novo Mercado B3"
+    ]
+  },
+  "summary": "SBFG3 é a ação ordinária do Grupo SBF S.A., holding controladora das redes de varejo esportivo Centauro, ByTennis e Almax Sports, além de ter firmado acordo para expansão das lojas Nike no Brasil. Listada no Novo Mercado da B3 desde 17/04/2019, a empresa opera no setor de Consumo Cíclico. Até 30/10/2026, o papel estava cotado a R$ 4,78, com rentabilidade total negativa de 59,87% nos últimos 12 meses e volatilidade anualizada de 89,44%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Grupo SBF",
+    "legalName": "GRUPO SBF S.A.",
+    "ticker": "BVMF SBFG3",
+    "isin": "BRSBFGACNOR1",
+    "taxId": "13.217.485/0001-11",
+    "foundingDate": "2011-01-31",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://ri.gruposbf.com.br/en/",
+    "wikidata": "Q10291921",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q10291921",
+      "https://pt.wikipedia.org/wiki/Grupo_SBF",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24694/SBFG/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Grupo SBF",
+    "legalName": "GRUPO SBF S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Produtos Diversos",
+    "founded": "31/01/2011",
+    "listedSince": "17/04/2019",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://ri.gruposbf.com.br/en/"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "GRUPO SBF S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "13.217.485/0001-11",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Produtos Diversos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "31/01/2011",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "17/04/2019",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "SBFG3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 4,78",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "89,44% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,99",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,36%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SBFG3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Grupo SBF S.A.",
+    "currency": "BRL",
+    "price": 4.78,
+    "historyStarts": "2019-04-17",
+    "returns": {
+      "1y": -0.5987,
+      "3y": -0.2378,
+      "5y": -0.7571,
+      "10y": null
+    },
+    "volatility1y": 0.8944,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8049,
+      "from": "2021-11-19",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 2.99,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.5429,
+      "payments12Months": 1,
+      "yield12Months": 0.1136,
+      "lastPayment": {
+        "date": "2026-04-27",
+        "amount": 0.542851
+      }
+    },
+    "avgDailyTradedValue3m": 38747817
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 89,44% nos 12 meses até 30/10/2026 é considerada muito alta, refletindo oscilações expressivas no preço da SBFG3. O beta de 2,99 contra o Ibovespa indica que, historicamente, os movimentos do ativo têm sido quase três vezes mais amplos que os do índice, na mesma direção. A maior queda em 5 anos, de -80,49% entre 19/11/2021 e 30/10/2026, mostra a extensão dos recuos em períodos de estresse. Para ativos de varejo cíclico, essa amplitude é comum em cenários de retração de consumo, mas o nível calculado exige atenção à sensibilidade do preço a mudanças de humor do mercado."
+  },
+  "history": {
+    "overview": "O Grupo SBF tem origem em 1981, quando Sebastião Bomfim Filho fundou a rede de varejo desportivo em Belo Horizonte. A holding GRUPO SBF S.A. foi constituída em 31/01/2011 para administrar os bens e participações do grupo, consolidando as marcas Centauro, ByTennis, Almax Sports e Studio 78 sob uma estrutura única. A empresa buscou capitalização e liquidez ao ingressar no mercado de capitais, obtendo registro na CVM em 15/04/2019 e iniciando a cotação de suas ações na B3 em 17/04/2019, sob o código SBFG3, no segmento de governança Novo Mercado. A trajetória recente foi marcada por mudanças na liderança e na estratégia de distribuição: em 11/02/2025, Pedro Zemel anunciou sua saída para assumir a chefia da Zamp no Brasil, sendo sucedido por Gustavo de Lima Furtado. Em 2025, o grupo também anunciou a criação da SBF Ventures, voltada a investimentos em negócios de tecnologia e inovação. No final de 2026, a companhia comunicou a extensão do contrato de distribuição com a Nike e a aquisição de ações de emissão própria, refletindo ajustes na estrutura de capital e na estratégia de expansão das lojas da marca americana no país.",
+    "timeline": [
+      {
+        "date": "1981",
+        "event": "Fundação do grupo empresarial de varejo desportivo por Sebastião Bomfim Filho.",
+        "source": 3
+      },
+      {
+        "date": "2011-01-31",
+        "event": "Constituição legal da GRUPO SBF S.A. como holding.",
+        "source": 2
+      },
+      {
+        "date": "2019-04-15",
+        "event": "Registro de companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2019-04-17",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-02-11",
+        "event": "Transição do cargo de Diretor Presidente, com a saída de Pedro Zemel.",
+        "source": 10
+      },
+      {
+        "date": "2025-03-25",
+        "event": "Publicação de fato relevante sobre acordo de voto.",
+        "source": 9
+      },
+      {
+        "date": "2025-10-01",
+        "event": "Anúncio da criação da SBF Ventures.",
+        "source": 8
+      },
+      {
+        "date": "2026-05-08",
+        "event": "Cancelamento de ações em tesouraria.",
+        "source": 7
+      },
+      {
+        "date": "2026-08-28",
+        "event": "Extensão do contrato de distribuição com a Nike.",
+        "source": 6
+      },
+      {
+        "date": "2026-08-31",
+        "event": "Aquisição de ações de emissão da própria companhia.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Grupo SBF ganha dinheiro",
+      "body": "O Grupo SBF S.A. atua como holding de administração de bens próprios e participação em outras empresas, segundo seu objeto social registrado na B3 e na CVM. A receita do grupo provém do varejo desportivo, operando as redes Centauro, ByTennis, Almax Sports e Studio 78, além de ter firmado acordo para a expansão das lojas Nike Store no Brasil. A companhia está classificada no setor de Consumo Cíclico e no segmento de Produtos Diversos, com foco na democratização do esporte por meio de patrocínios e distribuição de equipamentos e vestuário esportivo."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Grupo SBF",
+      "body": "A SBFG3 é a ação ordinária (ON) do Grupo SBF S.A., negociada na B3 desde 17/04/2019. O controle acionário é classificado como privado holding, e a empresa está listada no segmento de governança Novo Mercado, o que exige regras específicas de transparência e igualdade entre acionistas. As ações ordinárias conferem direito a voto nas assembleias gerais e, em caso de liquidação, têm preferência sobre as ações preferenciais, que por sua vez têm prioridade no recebimento de dividendos. O código de negociação exclusivo é SBFG3."
+    },
+    {
+      "id": "proventos",
+      "heading": "SBFG3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a SBFG3 distribuiu R$ 0,5429 por ação em 1 pagamento, resultando em um dividend yield de 11,36%. O último provento foi pago em 27/04/2026. A remuneração aos acionistas ocorre por meio de dividendos, sem menção a JCP nos dados recentes. Para acompanhar a data com e a data de pagamento de cada distribuição, é possível utilizar a ferramenta de [dividendos e JCP no app](/recursos/proventos), que multiplica os valores pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da SBFG3",
+      "body": "A rentabilidade total da SBFG3, incluindo proventos, foi de -59,87% nos 12 meses até 30/10/2026, -23,78% em 3 anos e -75,71% em 5 anos. O preço em 30/10/2026 era de R$ 4,78. Para entender como essa variação se compara a outros mercados, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade do ativo lado a lado com o Ibovespa, o CDI e o IPCA no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da SBFG3",
+      "body": "A volatilidade anualizada da SBFG3 nos 12 meses até 30/10/2026 foi de 89,44%, classificada como muito alta. A maior queda em 5 anos foi de -80,49%, entre o pico em 19/11/2021 e o ponto mais baixo em 30/10/2026. O beta de 2,99 indica que o ativo tende a acompanhar os movimentos do Ibovespa com amplitude quase três vezes maior. Os riscos incluem a exposição ao consumo cíclico, a dependência de marcas e contratos de distribuição (como o da Nike) e a liquidez, com volume médio diário de R$ 38,7 milhões nos últimos 3 meses. A alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SBFG3 paga dividendos?",
+      "answer": "Sim, a SBFG3 pagou R$ 0,5429 por ação em 27/04/2026, totalizando R$ 0,5429 nos 12 meses até 30/10/2026, o que representa um dividend yield de 11,36%. O pagamento é feito por meio de dividendos, e a data com e a data de pagamento podem ser conferidas no [recurso de proventos](/recursos/proventos) do app."
+    },
+    {
+      "question": "Qual a diferença entre SBFG3 e ações preferenciais do Grupo SBF?",
+      "answer": "A SBFG3 é a ação ordinária (ON), que dá direito a voto nas assembleias e preferência na liquidação. As ações preferenciais (PN), se existirem, têm prioridade no recebimento de dividendos, mas não conferem voto. A SBFG3 é o único código listado na B3 para o Grupo SBF, segundo os dados da bolsa."
+    },
+    {
+      "question": "O que o Grupo SBF faz?",
+      "answer": "O Grupo SBF é uma holding que controla as redes de varejo esportivo Centauro, ByTennis, Almax Sports e Studio 78, além de ter firmado acordo para expansão das lojas Nike no Brasil. A empresa está no setor de Consumo Cíclico e atua na distribuição de equipamentos e vestuário esportivo."
+    },
+    {
+      "question": "Qual a rentabilidade da SBFG3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total da SBFG3, incluindo proventos, foi de -59,87% nos 12 meses até 30/10/2026. O preço em 30/10/2026 era de R$ 4,78. Para comparar com o Ibovespa e o CDI, use a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "SBFG3 é uma ação de varejo?",
+      "answer": "Sim, a SBFG3 é a ação do Grupo SBF, que opera no varejo desportivo com as marcas Centauro, ByTennis, Almax Sports e Studio 78, além de ter acordo para expansão das lojas Nike. A empresa está classificada no setor de Consumo Cíclico e no segmento de Produtos Diversos na B3."
+    },
+    {
+      "question": "Qual a volatilidade da SBFG3?",
+      "answer": "A volatilidade anualizada da SBFG3 nos 12 meses até 30/10/2026 foi de 89,44%, nível muito alto. O beta contra o Ibovespa é 2,99, e a maior queda em 5 anos foi de -80,49%. Para acompanhar oscilações, é possível configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos da SBFG3 com data com e data de pagamento, multiplicados pela sua quantidade de ações."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da SBFG3 com o Ibovespa, o CDI e o IPCA no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a SBFG3 chegar ao preço que você escolheu, útil para acompanhar a alta volatilidade do papel."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a SBFG3 junto com outras ações, fundos e renda fixa, com alocação por classe e as maiores posições da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LREN3",
+        "list": "br-stocks",
+        "reason": "Lojas Renner, outra ação de varejo de consumo cíclico na B3, útil para comparar exposição ao setor."
+      },
+      {
+        "ticker": "MGLU3",
+        "list": "br-stocks",
+        "reason": "Magazine Luiza, varejo diversificado, para observar como outros nomes de consumo se comportam."
+      },
+      {
+        "ticker": "CEAB3",
+        "list": "br-stocks",
+        "reason": "C&A Modas, varejo de moda, com perfil semelhante de sensibilidade ao consumo."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petrobras, ação de grande liquidez, para contrastar com a volatilidade e o volume da SBFG3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SBFG3",
+      "url": "https://finance.yahoo.com/quote/SBFG3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: GRUPO SBF, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24694/SBFG/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, GRUPO SBF S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Grupo SBF",
+      "url": "https://www.wikidata.org/wiki/Q10291921",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Grupo SBF",
+      "url": "https://pt.wikipedia.org/wiki/Grupo_SBF",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/08/2026, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1563282&numSequencia=1087988&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/08/2026, “Extensão Contrato de Distribuição Nike”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1562231&numSequencia=1086937&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/05/2026, “Cancelamento de Ações em Tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1519299&numSequencia=1044005&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/10/2025, “SBF Ventures”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1428122&numSequencia=952834&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/03/2025, “Acordo de voto”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1351404&numSequencia=876130&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/02/2025, “Transição de Diretor Presidente”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1333330&numSequencia=858056&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

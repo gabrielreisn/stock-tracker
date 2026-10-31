@@ -1,0 +1,285 @@
+{
+  "ticker": "FXI",
+  "slug": "fxi",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "FXI: história, dividendos e volatilidade",
+    "description": "FXI é o iShares China Large-Cap ETF, lançado em 2004. Veja desempenho, dividendos, volatilidade e como investir no FXI a partir do Brasil.",
+    "h1": "FXI: iShares China Large-Cap ETF",
+    "canonicalPath": "/etfs/fxi",
+    "keywords": [
+      "FXI",
+      "iShares China Large-Cap ETF",
+      "ETF China",
+      "MSCI China Large-Cap",
+      "investir em China",
+      "FXI dividendos",
+      "FXI volatilidade",
+      "FXI beta"
+    ]
+  },
+  "summary": "FXI é o iShares China Large-Cap ETF, lançado em 08/10/2004 e gerido pela iShares, marca da BlackRock. O fundo replica o índice MSCI China Large-Cap, focado em grandes empresas chinesas. Em 29/10/2026, a cota valia US$ 32,69, com rentabilidade total de -18,74% nos últimos 12 meses. O ativo paga dividendos e possui volatilidade anualizada de 18,93%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares China Large-Cap ETF",
+    "ticker": "ARCX FXI",
+    "foundingDate": "2004-10-08",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de ações",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "MSCI China Large-Cap",
+    "name": "iShares China Large-Cap ETF",
+    "founded": "08/10/2004"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares China Large-Cap ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "08/10/2004",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 32,69",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,93% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,69",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,08%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 607,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "FXI",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares China Large-Cap ETF",
+    "currency": "USD",
+    "price": 32.69,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.1874,
+      "3y": 0.3594,
+      "5y": -0.0882,
+      "10y": 0.1287
+    },
+    "volatility1y": 0.1893,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.4889,
+      "from": "2021-11-16",
+      "to": "2022-10-31"
+    },
+    "beta1y": {
+      "value": 0.69,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.679,
+      "payments12Months": 2,
+      "yield12Months": 0.0208,
+      "lastPayment": {
+        "date": "2026-06-15",
+        "amount": 0.263
+      }
+    },
+    "avgDailyTradedValue3m": 607053906
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do FXI é de 18,93% nos 12 meses até 29/10/2026, classificada como moderada. O beta de 0,69 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice com menor amplitude, mas na mesma direção. A maior queda em 5 anos foi de -48,89%, do pico em 16/11/2021 ao ponto mais baixo em 31/10/2022. Para monitorar variações de cotação, use os [alertas de preço](/recursos/alertas-de-preco) no app. A [carteira consolidada](/recursos/carteira-consolidada) permite visualizar a alocação do FXI junto a outros ativos."
+  },
+  "history": {
+    "overview": "O iShares China Large-Cap ETF (FXI) iniciou as operações em 08/10/2004, oferecendo exposição ao mercado acionário chinês através de um veículo de investimento nos Estados Unidos. A emissora, iShares, é uma marca da BlackRock que adquiriu o negócio da Barclays em 2009. A iShares é a maior emissora de ETFs nos EUA e globalmente, com presença em diversas bolsas, incluindo a B3 no Brasil. O fundo se beneficia da infraestrutura de negociação da iShares, que historicamente lançou mais de 40 novos fundos em 2000 para expandir o mercado de ETFs. O contexto econômico da China, segunda maior economia do mundo em PIB nominal, envolve um modelo de economia de mercado socialista com forte presença de empresas estatais e um setor privado que contribui significativamente para o PIB e o emprego urbano. A Bolsa de Valores de Hong Kong, plataforma crucial para o acesso de investidores internacionais a empresas chinesas, opera sob um quadro regulatório distinto do continente, facilitando a captação de capital e a negociação de ações listadas lá.",
+    "timeline": [
+      {
+        "date": "2004-10-08",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio da iShares da Barclays",
+        "source": 1
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma plano de venda da iShares para a CVC Capital Partners",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o FXI funciona",
+      "body": "O FXI é um ETF que replica o índice MSCI China Large-Cap, focado em grandes empresas chinesas. A emissora é a iShares, uma marca da BlackRock, que adquiriu o negócio da Barclays em 2009. O fundo foi lançado em 08/10/2004 e é negociado em bolsas americanas. A iShares é a maior emissora de ETFs nos EUA e globalmente, com presença em diversas bolsas, incluindo a B3 no Brasil. O ETF não é alavancado ou inverso, então não há rebalanceamento diário que afaste o resultado do índice em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do FXI",
+      "body": "O FXI segue o índice MSCI China Large-Cap, que inclui grandes empresas chinesas. As fontes não detalham a composição exata do índice, mas o contexto econômico da China, segunda maior economia do mundo em PIB nominal, envolve um modelo de economia de mercado socialista com forte presença de empresas estatais e um setor privado que contribui significativamente para o PIB e o emprego urbano. A Bolsa de Valores de Hong Kong, plataforma crucial para o acesso de investidores internacionais a empresas chinesas, opera sob um quadro regulatório distinto do continente, facilitando a captação de capital e a negociação de ações listadas lá."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no FXI a partir do Brasil",
+      "body": "Para investir no FXI a partir do Brasil, o investidor precisa abrir conta em uma corretora no exterior ou em uma corretora brasileira que ofereça acesso a mercados internacionais. O ativo é cotado em dólar, o que introduz risco cambial: variações no câmbio podem impactar a rentabilidade em reais. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou tenham exposição semelhante ao mercado chinês. A liquidez do FXI é alta, com volume médio negociado de US$ 607,1 milhões por dia nos últimos 3 meses até 29/10/2026."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do FXI",
+      "body": "Em 29/10/2026, a cota do FXI valia US$ 32,69. A rentabilidade total com proventos foi de -18,74% nos 12 meses, 35,94% em 3 anos, -8,82% em 5 anos e 12,87% em 10 anos. O ativo paga dividendos, com US$ 0,6790 por cota em 2 pagamentos nos 12 meses até 29/10/2026, resultando em dividend yield de 2,08%. O último pagamento foi de US$ 0,2630 em 15/06/2026. Para comparar o desempenho do FXI com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do FXI",
+      "body": "O FXI expõe o investidor ao mercado acionário chinês, que envolve riscos regulatórios, políticos e econômicos específicos do país. A volatilidade anualizada do ativo é de 18,93% (nível moderado) nos 12 meses até 29/10/2026. A maior queda em 5 anos foi de -48,89%, do pico em 16/11/2021 ao ponto mais baixo em 31/10/2022. O beta de 0,69 contra o S&P 500 indica que o FXI tende a acompanhar os movimentos do índice com menor amplitude, mas na mesma direção. O risco cambial também é relevante, pois o ativo é cotado em dólar. Use os [alertas de preço](/recursos/alertas-de-preco) no app para monitorar variações de cotação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o FXI?",
+      "answer": "FXI é o iShares China Large-Cap ETF, um fundo que replica o índice MSCI China Large-Cap, focado em grandes empresas chinesas. O fundo foi lançado em 08/10/2004 e é gerido pela iShares, marca da BlackRock. Em 29/10/2026, a cota valia US$ 32,69."
+    },
+    {
+      "question": "O FXI paga dividendos?",
+      "answer": "Sim, o FXI paga dividendos. Nos 12 meses até 29/10/2026, distribuiu US$ 0,6790 por cota em 2 pagamentos, com dividend yield de 2,08%. O último pagamento foi de US$ 0,2630 em 15/06/2026. Veja os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para acompanhar os proventos."
+    },
+    {
+      "question": "Qual a volatilidade do FXI?",
+      "answer": "A volatilidade anualizada do FXI é de 18,93% nos 12 meses até 29/10/2026, classificada como moderada. A maior queda em 5 anos foi de -48,89%, do pico em 16/11/2021 ao ponto mais baixo em 31/10/2022. Use os [alertas de preço](/recursos/alertas-de-preco) no app para monitorar variações de cotação."
+    },
+    {
+      "question": "Como investir no FXI a partir do Brasil?",
+      "answer": "Para investir no FXI a partir do Brasil, o investidor precisa abrir conta em uma corretora no exterior ou em uma corretora brasileira que ofereça acesso a mercados internacionais. O ativo é cotado em dólar, o que introduz risco cambial. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou tenham exposição semelhante ao mercado chinês. Use o [Open Finance](/recursos/open-finance) no app para sincronizar posições entre corretoras."
+    },
+    {
+      "question": "Qual o beta do FXI?",
+      "answer": "O beta do FXI contra o S&P 500 é de 0,69 nos 12 meses até 29/10/2026. Isso indica que o ativo tende a acompanhar os movimentos do índice com menor amplitude, mas na mesma direção. Para comparar o desempenho do FXI com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "question": "Quem é a emissora do FXI?",
+      "answer": "A emissora do FXI é a iShares, uma marca da BlackRock. A BlackRock adquiriu o negócio da iShares da Barclays em 2009. A iShares é a maior emissora de ETFs nos EUA e globalmente, com presença em diversas bolsas, incluindo a B3 no Brasil."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do FXI junto a outros ativos na carteira consolidada, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do FXI e o preço médio da sua posição no gráfico de desempenho e preço médio."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do FXI com o S&P 500 na comparação com índices, lado a lado no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do FXI chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora pelo Open Finance e confira as posições do FXI com a sua carteira, incluindo quantidades e preço médio."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "EEM é o iShares MSCI Emerging Markets ETF, que oferece exposição a mercados emergentes, incluindo a China, com uma carteira mais diversificada que o FXI."
+      },
+      {
+        "ticker": "KWEB",
+        "list": "us-etfs",
+        "reason": "KWEB é o KraneShares CSI China Internet ETF, focado em empresas de internet chinesas, um segmento específico do mercado chinês."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "SPY é o State Street SPDR S&P 500 ETF Trust, que replica o S&P 500, o índice de referência para comparação de desempenho do FXI."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "EWZ é o iShares MSCI Brazil ETF, que oferece exposição ao mercado acionário brasileiro, útil para diversificação entre mercados emergentes."
+      },
+      {
+        "ticker": "VWO",
+        "list": "us-etfs",
+        "reason": "VWO é o Vanguard FTSE Emerging Markets Index Fund ETF Shares, que replica o índice FTSE Emerging Markets, outra opção de exposição a mercados emergentes."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de FXI",
+      "url": "https://finance.yahoo.com/quote/FXI/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Economy of China (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_China",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Hong Kong Stock Exchange (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Hong_Kong_Stock_Exchange",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

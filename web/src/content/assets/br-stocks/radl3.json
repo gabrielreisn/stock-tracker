@@ -1,0 +1,393 @@
+{
+  "ticker": "RADL3",
+  "slug": "radl3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RADL3: história, dividendos e volatilidade",
+    "description": "RADL3 é a ação ordinária da RD Saúde, empresa de varejo farmacêutico. Veja história, dividendos, volatilidade e desempenho da ação na B3.",
+    "h1": "RADL3: RaiaDrogasil (RD Saúde) - Ação Ordinária",
+    "canonicalPath": "/acoes/radl3",
+    "keywords": [
+      "RADL3",
+      "RaiaDrogasil",
+      "RD Saúde",
+      "ação de saúde",
+      "dividendos RADL3",
+      "volatilidade RADL3",
+      "Ibovespa",
+      "varejo farmacêutico"
+    ]
+  },
+  "summary": "RADL3 é a ação ordinária da RD Saúde (antiga Raia Drogasil), empresa brasileira do setor de saúde e varejo farmacêutico. Fundada em 2011 pela fusão entre Droga Raia e Drogasil, a companhia opera mais de 3.000 farmácias em todo o Brasil. Em 30/10/2026, a ação estava cotada a R$ 15,11, com rentabilidade total de -20,66% nos últimos 12 meses e dividend yield de 2,98%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "RaiaDrogasil",
+    "legalName": "RAIA DROGASIL S.A.",
+    "ticker": "BVMF RADL3",
+    "isin": "BRRADLACNOR0",
+    "taxId": "61.585.865/0001-51",
+    "foundingDate": "1935-03-28",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.rd.com.br",
+    "wikidata": "Q10357101",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q10357101",
+      "https://pt.wikipedia.org/wiki/RD_Sa%C3%BAde",
+      "https://en.wikipedia.org/wiki/RD_S.A.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/5258/RADL/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "RaiaDrogasil",
+    "legalName": "RAIA DROGASIL S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Saúde",
+    "segment": "Medicamentos e Outros Produtos",
+    "founded": "28/03/1935",
+    "listedSince": "03/07/2007",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.rd.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "RAIA DROGASIL S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "61.585.865/0001-51",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Saúde / Medicamentos e Outros Produtos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "28/03/1935",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "03/07/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "RADL3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 15,11",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "45,30% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,40",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,98%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RADL3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Raia Drogasil S.A.",
+    "currency": "BRL",
+    "price": 15.11,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.2066,
+      "3y": -0.3575,
+      "5y": -0.2604,
+      "10y": 0.2718
+    },
+    "volatility1y": 0.453,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5469,
+      "from": "2024-08-05",
+      "to": "2025-07-15"
+    },
+    "beta1y": {
+      "value": 1.4,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.4506,
+      "payments12Months": 4,
+      "yield12Months": 0.0298,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.091391
+      }
+    },
+    "avgDailyTradedValue3m": 232050313
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da RADL3 nos últimos 12 meses foi de 45,30%, um nível considerado 'muito alto' para ações de varejo. O beta de 1,40 contra o Ibovespa indica que a ação tende a se mover com maior amplitude que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -54,69%, entre 05/08/2024 e 15/07/2025, refletindo a sensibilidade da ação a mudanças no setor de saúde e no varejo. Para acompanhar a volatilidade e definir pontos de entrada ou saída, é possível usar os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A história da RD Saúde remonta à fusão, em 2011, entre a Droga Raia (fundada em 1905) e a Drogasil (fundada em 1935), criando a Raia Drogasil. A empresa iniciou a cotação na B3 em 03/07/2007 e foi incluída no Ibovespa em 2015. Em 2015, adquiriu a 4Bio, distribuidora de medicamentos especiais, e em 2019 comprou a rede Onofre, que operava 50 lojas nos estados de São Paulo, Rio de Janeiro e Minas Gerais, controlada pelo grupo americano CVS Pharmacy. Em 2017, a marca corporativa foi alterada para RD, e em 2020 foi criada a plataforma RD Ventures para investir em empresas que complementassem a estratégia de saúde integral. Em 2024, a marca passou a ser RD Saúde, refletindo a transição de varejista farmacêutica para provedora de saúde integral, com foco em promoção, prevenção, proteção e atenção primária. No fim de 2023, a empresa contava com mais de 3.000 unidades, receita bruta de R$ 36,3 bilhões e 15,5% de participação no mercado de varejo farmacêutico, com 15,2% das receitas vindas de canais digitais. Em 2025, houve aprovação de aumento de capital com bonificação em ações, e em 2026, a 4Bio Medicamentos S.A. foi alienada.",
+    "timeline": [
+      {
+        "date": "1935-03-28",
+        "event": "Constituição da companhia (Drogasil)",
+        "source": 2
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2007-07-03",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2011",
+        "event": "Fundação da Raia Drogasil a partir da fusão entre Droga Raia e Drogasil",
+        "source": 3
+      },
+      {
+        "date": "2015",
+        "event": "Inclusão no Ibovespa e aquisição da 4Bio",
+        "source": 5
+      },
+      {
+        "date": "2017",
+        "event": "Alteração da marca corporativa para RD",
+        "source": 4
+      },
+      {
+        "date": "2019",
+        "event": "Aquisição da rede Onofre, controlada pelo grupo CVS Pharmacy",
+        "source": 4
+      },
+      {
+        "date": "2020",
+        "event": "Criação da plataforma RD Ventures",
+        "source": 4
+      },
+      {
+        "date": "2024",
+        "event": "Alteração da marca corporativa para RD Saúde",
+        "source": 4
+      },
+      {
+        "date": "2025-12-01",
+        "event": "Guidance sobre aberturas de farmácias e proposta de aumento de capital com bonificação",
+        "source": 8
+      },
+      {
+        "date": "2025-12-22",
+        "event": "Aprovação de aumento de capital com bonificação em ações aos acionistas",
+        "source": 7
+      },
+      {
+        "date": "2026-03-03",
+        "event": "Alienação da 4Bio Medicamentos S.A.",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a RaiaDrogasil ganha dinheiro",
+      "body": "A RD Saúde atua no comércio de produtos farmacêuticos, perfumaria e afins, com foco no varejo de medicamentos e outros produtos de saúde. A empresa opera mais de 3.000 farmácias sob as bandeiras Raia e Drogasil, presentes em todos os 27 estados do Brasil, com 14 centros de distribuição. No fim de 2023, a receita bruta foi de R$ 36,3 bilhões, com 15,5% de participação no mercado de varejo farmacêutico brasileiro. A estratégia da empresa, desde 2024, é atuar como provedora de saúde integral, com foco em promoção, prevenção, proteção e atenção primária, utilizando a proximidade de suas unidades e seus mais de 47,5 milhões de clientes ativos. Os canais digitais, incluindo aplicativos e websites, representaram 15,2% das receitas do varejo em 2023."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da RaiaDrogasil",
+      "body": "O controle acionário da RD Saúde é privado, conforme o cadastro na CVM. A empresa está listada no segmento Novo Mercado da B3, o que implica a adoção de práticas de governança corporativa mais rígidas, como a transparência na distribuição de ações e a ausência de ações com direito a voto diferenciado. O código de negociação é RADL3, que corresponde à ação ordinária (ON). Ações ordinárias dão direito a voto em assembleias gerais, enquanto ações preferenciais (PN) têm preferência na distribuição de proventos, mas geralmente não possuem direito a voto. A RD Saúde não possui ações preferenciais em circulação, apenas ações ordinárias."
+    },
+    {
+      "id": "proventos",
+      "heading": "RADL3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a RADL3 distribuiu R$ 0,4506 por ação em 4 pagamentos, resultando em um dividend yield de 2,98%. O último pagamento foi de R$ 0,0914 em 08/10/2026. A empresa não possui um histórico de distribuição de proventos fixo, mas tem realizado pagamentos de dividendos e juros sobre capital próprio (JCP) de forma periódica. É possível acompanhar os dividendos e JCP da RADL3 com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da RADL3",
+      "body": "A rentabilidade total da RADL3, com proventos, foi de -20,66% nos 12 meses até 30/10/2026, -35,75% em 3 anos e -26,04% em 5 anos. Em 10 anos, a rentabilidade foi de 27,18%. O desempenho pode ser comparado com índices como o Ibovespa, CDI, IPCA e S&P 500 no recurso de [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade da carteira lado a lado com esses benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da RADL3",
+      "body": "A volatilidade anualizada da RADL3 nos últimos 12 meses foi de 45,30%, classificada como 'muito alta'. O beta de 1,40 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com maior amplitude. A maior queda nos últimos 5 anos foi de -54,69%, do pico em 05/08/2024 ao ponto mais baixo em 15/07/2025. Riscos setoriais incluem a regulação do setor de saúde, a concorrência com outras redes de farmácias (como Grupo DPSP, Pague Menos e Farmácias São João) e a dependência de canais digitais. A volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco), que notificam quando a ação atinge um nível escolhido."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RADL3 paga dividendos?",
+      "answer": "Sim, a RADL3 distribui dividendos e JCP. Nos 12 meses até 30/10/2026, foram pagos R$ 0,4506 por ação em 4 pagamentos, com dividend yield de 2,98%. O último pagamento foi de R$ 0,0914 em 08/10/2026. É possível acompanhar os proventos no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre RADL3 e RADL4?",
+      "answer": "A RD Saúde não possui ações preferenciais (RADL4) em circulação. Apenas as ações ordinárias (RADL3) são negociadas na B3. Ações ordinárias dão direito a voto em assembleias, enquanto ações preferenciais teriam preferência na distribuição de proventos, mas a empresa não as emitiu."
+    },
+    {
+      "question": "RADL3 é uma ação de saúde?",
+      "answer": "Sim, a RADL3 é a ação ordinária da RD Saúde, empresa do setor de saúde e varejo farmacêutico. A empresa opera mais de 3.000 farmácias no Brasil e atua na promoção, prevenção, proteção e atenção primária à saúde."
+    },
+    {
+      "question": "Qual a rentabilidade da RADL3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total da RADL3, com proventos, foi de -20,66% nos 12 meses até 30/10/2026. O desempenho pode ser comparado com índices como o Ibovespa e CDI no recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "RADL3 está no Ibovespa?",
+      "answer": "Sim, a RADL3 foi incluída no Ibovespa em 2015. A ação é negociada na B3 sob o código RADL3 e faz parte do principal índice da bolsa brasileira."
+    },
+    {
+      "question": "Qual a maior queda da RADL3 nos últimos 5 anos?",
+      "answer": "A maior queda da RADL3 nos últimos 5 anos foi de -54,69%, do pico em 05/08/2024 ao ponto mais baixo em 15/07/2025. A volatilidade anualizada nos últimos 12 meses foi de 45,30%, classificada como 'muito alta'."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da RADL3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da RADL3 com o Ibovespa, CDI, IPCA e S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a RADL3 atingir o preço que você escolheu, para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a RADL3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em RADL3 e a resposta vem dos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RDOR3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de saúde, Rede D'Or São Luiz, que opera hospitais e clínicas."
+      },
+      {
+        "ticker": "FLRY3",
+        "list": "br-stocks",
+        "reason": "Fleury S.A., empresa do setor de saúde, com foco em diagnóstico e tratamento."
+      },
+      {
+        "ticker": "HAPV3",
+        "list": "br-stocks",
+        "reason": "Hapvida Participações e Investimentos S.A., empresa do setor de saúde, com foco em atenção primária."
+      },
+      {
+        "ticker": "PGMN3",
+        "list": "br-stocks",
+        "reason": "Empreendimentos Pague Menos S.A., concorrente direto no varejo farmacêutico."
+      },
+      {
+        "ticker": "ABEV3",
+        "list": "br-stocks",
+        "reason": "Ambev S.A., outra ação de varejo no Ibovespa, para comparação de desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RADL3",
+      "url": "https://finance.yahoo.com/quote/RADL3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: RAIADROGASIL, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/5258/RADL/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, RAIA DROGASIL S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: RaiaDrogasil",
+      "url": "https://www.wikidata.org/wiki/Q10357101",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): RD Saúde",
+      "url": "https://pt.wikipedia.org/wiki/RD_Sa%C3%BAde",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): RD S.A.",
+      "url": "https://en.wikipedia.org/wiki/RD_S.A.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/03/2026, “Alienação da 4Bio Medicamentos S.A.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1484397&numSequencia=1009103&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/12/2025, “Aprovação de aumento de capital com bonificação em ações aos acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1460400&numSequencia=985106&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/12/2025, “Guidance - Aberturas de Farmácias||Proposta para aprovação em assembleia de aumento de capital com bonificação em ações aos acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1451145&numSequencia=975857&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

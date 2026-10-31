@@ -1,0 +1,300 @@
+{
+  "ticker": "SPYM",
+  "slug": "spym",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SPYM: ETF do S&P 500, histórico e desempenho",
+    "description": "Conheça o SPYM, o ETF da State Street que replica o S&P 500. Veja desempenho, dividendos, volatilidade e como investir do Brasil.",
+    "h1": "SPYM: State Street SPDR Portfolio S&P 500 ETF",
+    "canonicalPath": "/etfs/spym",
+    "keywords": [
+      "SPYM",
+      "ETF S&P 500",
+      "SPDR Portfolio S&P 500",
+      "investir em ETF americano",
+      "SPYM dividendos",
+      "SPYM vs SPY",
+      "ETF S&P 500 Brasil"
+    ]
+  },
+  "summary": "SPYM é o State Street SPDR Portfolio S&P 500 ETF, um fundo de índice que replica o desempenho do S&P 500, índice das 500 maiores empresas dos Estados Unidos por capitalização de mercado. Lançado em 15/11/2005, o ativo é gerido pela State Street Global Advisors. Em 30/10/2026, a cota valia US$ 88,95, com rentabilidade total de 12,40% nos 12 meses anteriores e dividend yield de 1,02%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street SPDR Portfolio S&P 500 ETF",
+    "ticker": "ARCX SPYM",
+    "foundingDate": "2005-11-15",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "State Street Global Advisors",
+    "trackedIndex": "S&P 500",
+    "name": "State Street SPDR Portfolio S&P 500 ETF",
+    "founded": "15/11/2005"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street SPDR Portfolio S&P 500 ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "15/11/2005",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 88,95",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "12,75% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,99",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,02%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,11 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SPYM",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street SPDR Portfolio S&P 500 ETF",
+    "currency": "USD",
+    "price": 88.95,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.124,
+      "3y": 0.8902,
+      "5y": 0.7619,
+      "10y": 3.2036
+    },
+    "volatility1y": 0.1275,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2448,
+      "from": "2022-01-03",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 0.99,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.91,
+      "payments12Months": 4,
+      "yield12Months": 0.0102,
+      "lastPayment": {
+        "date": "2026-09-11",
+        "amount": 0.239
+      }
+    },
+    "avgDailyTradedValue3m": 1108672672
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do SPYM nos 12 meses até 30/10/2026 foi de 12,75%, um nível considerado baixo para um ETF que replica o mercado acionário americano. O beta de 0,99 contra o S&P 500 mostra que o ativo acompanha os movimentos do índice de forma quase proporcional, com variação ligeiramente menor. A maior queda nos últimos 5 anos foi de -24,48%, ocorrida entre o pico em 03/01/2022 e o ponto mais baixo em 12/10/2022, período de forte alta de juros e correção no mercado de tecnologia. Para um ETF de índice amplo, essa volatilidade é compatível com a exposição a 500 empresas de grande capitalização, que dilui o risco individual de cada companhia. O [alerta de preço](/recursos/alertas-de-preco) ajuda a monitorar esses movimentos sem a necessidade de acompanhar o gráfico o dia todo."
+  },
+  "history": {
+    "overview": "O S&P 500, índice que o SPYM replica, tem origem em 1923, quando a Standard Statistics Company desenvolveu seu primeiro índice de ações. Em 1941, a empresa se fundiu com a Poor's publishing company para formar a Standard & Poor's. Em 04/03/1957, o índice foi expandido para 500 empresas e renomeado para S&P 500 Stock Composite Index. Em 2005, o índice passou a utilizar a ponderação por capitalização ajustada ao float público. A família de ETFs SPDR, gerida pela State Street Global Advisors, foi criada para replicar índices de mercado. O SPDR S&P 500 Trust ETF, o primeiro da família, começou a ser negociado em 22/01/1993. O SPYM, uma versão mais acessível em preço de cota, teve seu primeiro pregão em 15/11/2005. Em 2007, a State Street Global Advisors unificou seus ETFs nos Estados Unidos sob a marca SPDR. Hoje, o S&P 500 representa cerca de 83% da capitalização de mercado das empresas públicas dos EUA, com valor agregado superior a US$ 61,1 trilhões em 31/12/2025.",
+    "timeline": [
+      {
+        "date": "1923",
+        "event": "A Standard Statistics Company desenvolve seu primeiro índice de ações, com 233 empresas dos EUA.",
+        "source": 1
+      },
+      {
+        "date": "1941",
+        "event": "A Poor's publishing company se funde com a Standard Statistics Company para formar a Standard & Poor's.",
+        "source": 1
+      },
+      {
+        "date": "1957-03-04",
+        "event": "O índice é expandido para 500 empresas e renomeado para S&P 500 Stock Composite Index.",
+        "source": 1
+      },
+      {
+        "date": "1993-01-22",
+        "event": "O SPDR S&P 500 Trust ETF, primeiro da família, começa a ser negociado.",
+        "source": 1
+      },
+      {
+        "date": "2005",
+        "event": "O S&P 500 passa a utilizar a ponderação por capitalização ajustada ao float público.",
+        "source": 1
+      },
+      {
+        "date": "2005-11-15",
+        "event": "Primeiro pregão das cotas do SPYM na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "A State Street Global Advisors renomeia seus ETFs nos Estados Unidos para a marca SPDR.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SPYM funciona",
+      "body": "O SPYM é um ETF de índice que tem como objetivo replicar o desempenho do S&P 500, o principal índice de ações dos Estados Unidos. A emissora é a State Street Global Advisors, que gerencia a família de fundos SPDR. O ativo não é alavancado nem inverso; ele simplesmente acompanha a variação do índice, subtraindo os custos de administração. O SPYM teve seu primeiro pregão em 15/11/2005, oferecendo uma cota com preço mais baixo que o do [SPY](/etfs/spy), o ETF original do S&P 500, o que facilita a compra de frações menores para investidores que desejam exposição ao mercado americano."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SPYM",
+      "body": "O SPYM replica o S&P 500, um índice que acompanha o desempenho de 500 empresas listadas em bolsas dos Estados Unidos, selecionadas por terem grande capitalização de mercado. O índice é ponderado por capitalização ajustada ao float público, o que significa que empresas com maior valor de mercado têm peso maior na composição. Em 31/12/2025, o índice incluía empresas com capitalização agregada superior a US$ 61,1 trilhões, representando cerca de 83% do total das empresas públicas dos EUA. A capitalização mediana das componentes era de US$ 41,8 bilhões, variando de US$ 5,6 bilhões a US$ 4,8 trilhões. As empresas do S&P 500 obtêm 72% de suas receitas dos Estados Unidos e 28% de outros países."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SPYM a partir do Brasil",
+      "body": "Para investir no SPYM a partir do Brasil, o investidor precisa abrir conta em uma corretora de valores que opere no mercado americano ou em uma corretora brasileira que ofereça acesso a ativos dos EUA. A compra é feita em dólar, o que introduz risco cambial: se o dólar se valorizar frente ao real, o investimento ganha valor em reais mesmo que o preço do SPYM em dólar se mantenha estável, e vice-versa. Como alternativa, é possível buscar ETFs ou BDRs negociados na B3 que sigam o mesmo índice S&P 500, o que elimina a necessidade de conta no exterior, mas pode envolver taxas de administração diferentes e spreads de cotação. O [Open Finance](/recursos/open-finance) do app permite conectar a corretora e conferir as posições, garantindo que a quantidade e o preço médio estejam atualizados."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SPYM",
+      "body": "Em 30/10/2026, a cota do SPYM valia US$ 88,95. A rentabilidade total, incluindo proventos, foi de 12,40% nos 12 meses anteriores, 89,02% em 3 anos, 76,19% em 5 anos e 320,36% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,11 bilhão. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite acompanhar a evolução da rentabilidade da posição ao longo do tempo. Para entender como esse resultado se compara ao mercado, o recurso de [comparação com índices](/recursos/comparacao-com-indices) coloca a rentabilidade do SPYM lado a lado com o S&P 500, o Ibovespa e o CDI no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SPYM",
+      "body": "O principal risco do SPYM é o risco de mercado, pois ele replica a variação do S&P 500, que inclui empresas de diversos setores e pode cair em períodos de recessão ou crise. A volatilidade anualizada do SPYM nos 12 meses até 30/10/2026 foi de 12,75%, classificada como baixa. O beta de 0,99 indica que o ativo acompanha os movimentos do S&P 500 de forma quase idêntica. A maior queda nos últimos 5 anos foi de -24,48%, do pico em 03/01/2022 ao ponto mais baixo em 12/10/2022. Além disso, há risco cambial para o investidor brasileiro, pois o ativo é cotado em dólar. O [alerta de preço](/recursos/alertas-de-preco) pode ser usado para monitorar oscilações e definir pontos de acompanhamento, sem indicar operações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o SPYM?",
+      "answer": "O SPYM é um ETF de índice que replica o S&P 500, o principal índice de ações dos Estados Unidos. Ele é gerido pela State Street Global Advisors e teve seu primeiro pregão em 15/11/2005. Diferente do SPY, o SPYM tem cota com preço mais baixo, o que facilita a compra de frações menores."
+    },
+    {
+      "question": "Qual a diferença entre SPYM e SPY?",
+      "answer": "Ambos replicam o S&P 500 e são geridos pela State Street Global Advisors. A principal diferença é o preço da cota: o SPYM é mais barato, o que permite comprar frações menores. O SPY, lançado em 1993, é o maior ETF do mundo em patrimônio, com cerca de US$ 800 bilhões. O SPYM é uma versão mais acessível em termos de valor por cota."
+    },
+    {
+      "question": "O SPYM paga dividendos?",
+      "answer": "Sim, o SPYM distribui proventos. Nos 12 meses até 30/10/2026, pagou US$ 0,9100 por cota em 4 pagamentos, resultando em um dividend yield de 1,02%. O último pagamento foi de US$ 0,2390 em 11/09/2026. No app, é possível acompanhar [dividendos e JCP](/recursos/desempenho-e-preco-medio) com data de pagamento e multiplicação pela quantidade."
+    },
+    {
+      "question": "Como investir no SPYM do Brasil?",
+      "answer": "É possível comprar o SPYM por meio de uma corretora que ofereça acesso ao mercado americano, com investimento em dólar. Isso expõe o investidor ao risco cambial. Alternativamente, existem ETFs e BDRs na B3 que seguem o S&P 500, evitando a necessidade de conta no exterior. O [Open Finance](/recursos/open-finance) do app ajuda a sincronizar as posições com a corretora."
+    },
+    {
+      "question": "Qual a volatilidade do SPYM?",
+      "answer": "A volatilidade anualizada do SPYM nos 12 meses até 30/10/2026 foi de 12,75%, classificada como baixa. O beta de 0,99 indica que o ativo acompanha os movimentos do S&P 500 de forma quase idêntica. A maior queda nos últimos 5 anos foi de -24,48%, entre janeiro e outubro de 2022."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do SPYM lado a lado com o S&P 500, o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o SPYM chegar ao preço que você escolheu, para acompanhar oscilações sem precisar ficar de olho no gráfico."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e confira as posições do SPYM, com quantidades e preço médio atualizados."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o SPYM junto com ações da B3, renda fixa e outros fundos em uma só visão, com alocação por classe."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em SPYM e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "É o ETF original do S&P 500, gerido pela mesma State Street Global Advisors, com cota mais cara que a do SPYM."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "É outro ETF que replica o S&P 500, gerido pela Vanguard, com cota mais acessível que a do SPY."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "É um ETF da iShares que também replica o S&P 500, oferecendo uma alternativa de gestora diferente."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "É um ETF que replica o NASDAQ 100, índice focado em tecnologia, para quem busca exposição a um segmento diferente do S&P 500."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "É um ETF que replica o mercado brasileiro, útil para diversificação entre ativos dos EUA e do Brasil."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SPYM",
+      "url": "https://finance.yahoo.com/quote/SPYM/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Index fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Index_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

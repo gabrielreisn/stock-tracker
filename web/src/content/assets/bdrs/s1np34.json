@@ -1,0 +1,314 @@
+{
+  "ticker": "S1NP34",
+  "slug": "s1np34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "S1NP34: BDR da Synopsys, desempenho e riscos",
+    "description": "Conheça o S1NP34, BDR da Synopsys na B3. Veja desempenho, volatilidade, riscos e como acompanhar o ativo no app.",
+    "h1": "S1NP34: BDR da Synopsys, Inc.",
+    "canonicalPath": "/bdrs/s1np34",
+    "keywords": [
+      "S1NP34",
+      "BDR Synopsys",
+      "SNPS",
+      "BDR não patrocinado",
+      "volatilidade S1NP34",
+      "dividendos S1NP34"
+    ]
+  },
+  "summary": "S1NP34 é o BDR não patrocinado de nível I da Synopsys, Inc., empresa norte-americana de automação de projeto eletrônico (EDA) sediada em Sunnyvale, Califórnia. Listado na B3 desde 23/12/2019, o ativo representa ações da SNPS negociadas na Nasdaq. Em 30/10/2026, o preço era de R$ 63,63, com rentabilidade total de 7,05% nos últimos 12 meses, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Synopsys",
+    "legalName": "SYNOPSYS INC",
+    "ticker": "BVMF S1NP34",
+    "foundingDate": "1986",
+    "website": "https://www.synopsys.com/",
+    "wikidata": "Q2303478",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2303478",
+      "https://en.wikipedia.org/wiki/Synopsys",
+      "https://pt.wikipedia.org/wiki/Synopsys",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/55840/S1NP/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Synopsys",
+    "legalName": "SYNOPSYS INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1986",
+    "listedSince": "23/12/2019",
+    "headquarters": "Mountain View",
+    "website": "https://www.synopsys.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "SYNOPSYS INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: SNPS",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Mountain View",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1986",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "23/12/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 63,63",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "48,57% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original SNPS em dólares)",
+      "value": "1,70",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "S1NP34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Synopsys, Inc.",
+    "currency": "BRL",
+    "price": 63.63,
+    "historyStarts": "2020-03-03",
+    "returns": {
+      "1y": 0.0705,
+      "3y": 0.0934,
+      "5y": 0.393,
+      "10y": null
+    },
+    "volatility1y": 0.4857,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4739,
+      "from": "2025-07-30",
+      "to": "2026-07-24"
+    },
+    "beta1y": {
+      "value": 1.7,
+      "against": "S&P 500, ação original SNPS em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 1125285
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do S1NP34 nos últimos 12 meses é de 48,57%, classificada como muito alta. O beta da ação original (SNPS) contra o S&P 500 é de 1,70, indicando que a ação tende a oscilar mais que o índice. A maior queda em 5 anos foi de -47,39%, entre 30/07/2025 e 24/07/2026. Para BDRs de tecnologia, essa volatilidade é comum, mas o efeito cambial amplifica os movimentos em reais. O app permite acompanhar a volatilidade e definir alertas de preço para monitorar o ativo."
+  },
+  "history": {
+    "overview": "A Synopsys foi fundada em 1986 por Aart de Geus, David Gregory, Alberto Sangiovanni-Vincentelli e Bill Krieger, inicialmente como Optimal Solutions, com foco em síntese lógica desenvolvida pela General Electric. Em 1987, a empresa adotou o nome Synopsys e mudou-se para Mountain View, Califórnia. A abertura de capital ocorreu em fevereiro de 1992, com estreia na Nasdaq. Desde 2017, a companhia integra os índices NASDAQ-100 e S&P 500. Em 2017, a empresa iniciou o desenvolvimento de aplicações de aprendizagem por reforço para EDA, culminando no lançamento do DSO.ai em 2020 e no Copilot, em colaboração com a Microsoft, em 2023. Em janeiro de 2024, Sassine Ghazi assumiu a presidência executiva, sucedendo Aart de Geus, que passou a presidente executivo do conselho. Em 17 de julho de 2025, a Synopsys concluiu a aquisição da Ansys por cerca de US$ 35 bilhões, a maior da sua história, integrando simulação multifísica às ferramentas de EDA. Em novembro de 2025, a empresa anunciou a demissão de cerca de 10% da força de trabalho em 2026 como parte da reestruturação pós-aquisição. O BDR S1NP34 passou a ser negociado na B3 em 23/12/2019.",
+    "timeline": [
+      {
+        "date": "1986",
+        "event": "Fundação da empresa como Optimal Solutions",
+        "source": 2
+      },
+      {
+        "date": "1987",
+        "event": "Mudança de nome para Synopsys e transferência da sede para Mountain View",
+        "source": 3
+      },
+      {
+        "date": "1992-02",
+        "event": "Oferta pública inicial (IPO) na Nasdaq",
+        "source": 3
+      },
+      {
+        "date": "2017",
+        "event": "Inclusão nos índices NASDAQ-100 e S&P 500",
+        "source": 3
+      },
+      {
+        "date": "2019-12-23",
+        "event": "Listagem do BDR S1NP34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2020",
+        "event": "Lançamento do DSO.ai para otimização de projeto de chips digitais",
+        "source": 3
+      },
+      {
+        "date": "2023",
+        "event": "Anúncio do Copilot em colaboração com a Microsoft",
+        "source": 3
+      },
+      {
+        "date": "2024-01",
+        "event": "Sassine Ghazi assume a presidência executiva",
+        "source": 3
+      },
+      {
+        "date": "2024-01-16",
+        "event": "Anúncio da aquisição da Ansys",
+        "source": 3
+      },
+      {
+        "date": "2025-07-17",
+        "event": "Conclusão da aquisição da Ansys por cerca de US$ 35 bilhões",
+        "source": 3
+      },
+      {
+        "date": "2025-11",
+        "event": "Anúncio de demissão de 10% da força de trabalho em 2026",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Synopsys ganha dinheiro",
+      "body": "A Synopsys é uma empresa de automação de projeto eletrônico (EDA) que fornece ferramentas e serviços para a indústria de projeto e fabricação de semicondutores. Seus produtos incluem ferramentas para implementação de circuitos digitais e analógicos, simuladores e ambientes de depuração usados no projeto de chips e sistemas computacionais. A empresa também atua no licenciamento de propriedade intelectual (IP) reutilizável para projeto de semicondutores, sendo a segunda maior nesse segmento em receita, atrás da Arm Holdings. Em 2024, a Synopsys foi listada como a 12ª maior empresa de software do mundo. Em 2025, a companhia concluiu a aquisição da Ansys, integrando simulação multifísica às suas ferramentas de EDA."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR S1NP34",
+      "body": "O S1NP34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Synopsys, Inc. (SNPS), que são listadas na Nasdaq. O preço do BDR acompanha a variação da ação original em dólares e a cotação do câmbio. O BDR foi listado na B3 em 23/12/2019. Por ser não patrocinado, a empresa não participa ativamente da manutenção do programa."
+    },
+    {
+      "id": "proventos",
+      "heading": "S1NP34 paga dividendos?",
+      "body": "Não houve pagamento de proventos (dividendos ou juros sobre capital próprio) nos últimos 12 meses até 30/10/2026. A Synopsys não distribuiu lucros no período. Caso a empresa pague dividendos no futuro, o valor será convertido para reais e distribuído aos detentores do BDR, sujeito à tributação vigente na época."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do S1NP34",
+      "body": "Até 30/10/2026, o S1NP34 apresentou rentabilidade total com proventos de 7,05% em 12 meses, 9,34% em 3 anos e 39,30% em 5 anos. Esses números incluem a variação do câmbio, já que o BDR é lastreado em ações em dólares. A comparação com índices como o S&P 500 pode ser feita no app, permitindo avaliar o desempenho relativo do ativo."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do S1NP34",
+      "body": "Os principais riscos do S1NP34 incluem a volatilidade da ação original, que é alta (48,57% anualizada nos últimos 12 meses), e a exposição cambial, já que o BDR é negociado em reais mas lastreado em dólares. A maior queda nos últimos 5 anos foi de -47,39%, entre 30/07/2025 e 24/07/2026. A liquidez do BDR na B3 é moderada, com volume médio de R$ 1,1 milhão por dia nos últimos 3 meses. Além disso, a empresa enfrenta concorrência no mercado de EDA, principalmente da Cadence Design Systems e da Siemens EDA."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar S1NP34 no app",
+      "body": "Para quem tem S1NP34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do S1NP34 lado a lado com o S&P 500 e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Defina um alerta para ser notificado quando o S1NP34 atingir um preço específico, útil para monitorar a volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do S1NP34 junto com outros ativos na sua carteira, incluindo BDRs e ações da B3."
+    }
+  ],
+  "faq": [
+    {
+      "question": "S1NP34 paga dividendos?",
+      "answer": "Não. Não houve pagamento de proventos nos últimos 12 meses até 30/10/2026. A Synopsys não distribuiu lucros no período. Caso pague no futuro, o valor será convertido para reais e distribuído aos detentores do BDR."
+    },
+    {
+      "question": "Qual a diferença entre S1NP34 e SNPS?",
+      "answer": "S1NP34 é o BDR negociado na B3 em reais, enquanto SNPS é a ação original negociada na Nasdaq em dólares. O preço do BDR acompanha a ação original e a cotação do câmbio."
+    },
+    {
+      "question": "S1NP34 é BDR patrocinado ou não patrocinado?",
+      "answer": "É um BDR não patrocinado de nível I. Isso significa que a Synopsys não participa ativamente da manutenção do programa, e a liquidez pode ser menor que a de BDRs patrocinados."
+    },
+    {
+      "question": "Qual o risco cambial do S1NP34?",
+      "answer": "O BDR é negociado em reais, mas lastreado em ações em dólares. Qualquer variação no câmbio afeta o preço do BDR. A volatilidade do S1NP34 é alta (48,57% anualizada), e a maior queda em 5 anos foi de -47,39%."
+    },
+    {
+      "question": "Como acompanhar o desempenho do S1NP34?",
+      "answer": "O app permite acompanhar a rentabilidade do S1NP34 e compará-la com índices como o S&P 500. A rentabilidade total até 30/10/2026 foi de 7,05% em 12 meses, incluindo a variação do câmbio."
+    },
+    {
+      "question": "Qual a liquidez do S1NP34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 1,1 milhão. A liquidez é moderada, e o BDR é não patrocinado, o que pode afetar a profundidade de mercado."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do S1NP34 lado a lado com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina um alerta para ser notificado quando o S1NP34 atingir um preço específico, útil para monitorar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do S1NP34 junto com outros ativos na sua carteira, incluindo BDRs e ações da B3."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com exposição similar ao setor de semicondutores."
+      },
+      {
+        "ticker": "C1DN34",
+        "list": "bdrs",
+        "reason": "BDR da Cadence Design Systems, concorrente direta da Synopsys no mercado de EDA."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta da ação original SNPS."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de S1NP34",
+      "url": "https://finance.yahoo.com/quote/S1NP34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SYNOPSYS INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/55840/S1NP/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Synopsys",
+      "url": "https://www.wikidata.org/wiki/Q2303478",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Synopsys",
+      "url": "https://en.wikipedia.org/wiki/Synopsys",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Synopsys",
+      "url": "https://pt.wikipedia.org/wiki/Synopsys",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

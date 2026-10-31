@@ -1,0 +1,275 @@
+{
+  "ticker": "HYG",
+  "slug": "hyg",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HYG: ETF de high yield, dividendos e volatilidade",
+    "description": "HYG é o ETF iShares de high yield corporativo. Veja dividendos, volatilidade, risco de crédito e como investir no HYG a partir do Brasil.",
+    "h1": "HYG: iShares iBoxx $ High Yield Corporate Bond ETF",
+    "canonicalPath": "/etfs/hyg",
+    "keywords": [
+      "HYG",
+      "iShares high yield",
+      "ETF high yield",
+      "dividendos HYG",
+      "risco de crédito HYG",
+      "investir HYG Brasil",
+      "volatilidade HYG"
+    ]
+  },
+  "summary": "HYG é o iShares iBoxx $ High Yield Corporate Bond ETF, lançado em 11/04/2007 pela gestora iShares, pertencente à BlackRock. O ativo replica o índice de títulos de dívida corporativa de alto rendimento (high yield) dos Estados Unidos. Até 30/10/2026, a cota estava cotada a US$ 77,43, com dividend yield de 6,07% nos últimos 12 meses e volatilidade anualizada de 3,84%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+    "ticker": "ARCX HYG",
+    "foundingDate": "2007-04-11",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa (High Yield)",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "iBoxx $ High Yield Corporate Bond Index",
+    "name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+    "founded": "11/04/2007"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares iBoxx $ High Yield Corporate Bond ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "11/04/2007",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 77,43",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "3,84% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,23",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,07%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 3,58 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HYG",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares iBoxx $ High Yield Corporate Bond ETF",
+    "currency": "USD",
+    "price": 77.43,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0164,
+      "3y": 0.2773,
+      "5y": 0.1826,
+      "10y": 0.5298
+    },
+    "volatility1y": 0.0384,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1579,
+      "from": "2021-12-27",
+      "to": "2022-09-27"
+    },
+    "beta1y": {
+      "value": 0.23,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 4.701,
+      "payments12Months": 12,
+      "yield12Months": 0.0607,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.342
+      }
+    },
+    "avgDailyTradedValue3m": 3575262596
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do HYG é de 3,84%, classificada como baixa, o que é coerente com o perfil de um ETF de renda fixa. A maior queda em 5 anos foi de -15,79%, entre 27/12/2021 e 27/09/2022, período de aumento de juros e estresse no mercado de crédito. Para monitorar movimentos de preço e definir pontos de entrada ou saída, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O HYG é um dos produtos da marca iShares, que foi adquirida pela BlackRock em 2009 após passar por Barclays e ter origem nos fundos WEBS (World Equity Benchmark Shares) lançados em 2000. A marca consolidou-se como a maior emissora de ETFs nos Estados Unidos e globalmente, com listagem em diversas bolsas, incluindo a B3 no Brasil. O HYG começou a ser negociado em 11 de abril de 2007, oferecendo exposição ao mercado de dívida corporativa de alto rendimento dos EUA, um segmento que, segundo dados de 2022, representava cerca de 16% do mercado corporativo americano, estimado em US$ 10,7 trilhões. O ativo permite que investidores acessem esse mercado de forma diversificada, sem a necessidade de comprar títulos individualmente.",
+    "timeline": [
+      {
+        "date": "2007-04-11",
+        "event": "Primeiro pregão das cotas do HYG na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "A BlackRock adquire a marca e os negócios de iShares da Barclays.",
+        "source": 1
+      },
+      {
+        "date": "2022",
+        "event": "Estimativa de que a dívida high yield nos EUA era de US$ 1,8 trilhão, representando 16% do mercado corporativo de US$ 10,7 trilhões.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o HYG funciona",
+      "body": "O HYG é um ETF que replica o índice iBoxx $ High Yield Corporate Bond Index, focado em títulos de dívida corporativa de alto rendimento (high yield) denominados em dólar. A emissora é a iShares, marca da BlackRock, que adquiriu o negócio da Barclays em 2009. O fundo foi lançado em 11/04/2007 e opera como um fundo passivo, buscando acompanhar o desempenho do índice de referência. Não se trata de um ETF alavancado ou inverso, portanto, não há rebalanceamento diário para multiplicar ou inverter o retorno do índice."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do HYG",
+      "body": "O HYG segue o índice iBoxx $ High Yield Corporate Bond Index, que é composto por títulos de dívida corporativa de alto rendimento (também chamados de junk bonds) nos Estados Unidos. Esses títulos possuem classificação de crédito abaixo do grau de investimento (investment grade), o que implica maior risco de inadimplência em comparação com títulos de maior qualidade. Segundo a Wikipedia, o mercado de high yield nos EUA era estimado em US$ 1,8 trilhão no primeiro trimestre de 2022, representando cerca de 16% do mercado corporativo total de US$ 10,7 trilhões. O índice inclui empresas de diversos setores, mas a composição exata e o peso de cada emissor não são detalhados nas fontes fornecidas."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no HYG a partir do Brasil",
+      "body": "Para investir no HYG a partir do Brasil, é necessário ter uma conta em uma corretora de valores que opere no mercado americano, como a Interactive Brokers ou a Hsbc, ou utilizar uma corretora brasileira que ofereça acesso a ativos internacionais. O investimento é feito em dólar, o que expõe o investidor ao risco cambial: se o dólar valorizar frente ao real, o retorno em reais será ampliado; se o dólar desvalorizar, o retorno em reais será reduzido. Além disso, é possível buscar exposição indireta ao mercado de high yield americano por meio de ETFs ou BDRs listados na B3 que sigam índices semelhantes, embora o HYG seja o principal ativo de referência nesse segmento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HYG",
+      "body": "Até 30/10/2026, o HYG apresentou rentabilidade total com proventos de 1,64% em 12 meses, 27,73% em 3 anos, 18,26% em 5 anos e 52,98% em 10 anos. O ativo pagou US$ 4,7010 por cota em 12 pagamentos nos últimos 12 meses, resultando em um dividend yield de 6,07%. O último provento foi de US$ 0,3420 em 01/10/2026. Para comparar o desempenho do HYG com o S&P 500, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HYG",
+      "body": "O principal risco do HYG é o risco de crédito, pois os títulos de alto rendimento têm maior probabilidade de inadimplência. A volatilidade anualizada do HYG é de 3,84% (nível baixo), mas a maior queda nos últimos 5 anos foi de -15,79%, entre 27/12/2021 e 27/09/2022. O beta de 0,23 contra o S&P 500 indica que o ativo tende a ter movimentos menores que o índice acionário, mas isso não significa menor volatilidade absoluta. O risco cambial também é relevante para investidores brasileiros, pois o ativo é cotado em dólar."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar HYG no app",
+      "body": "Para quem tem HYG na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do HYG lado a lado com o S&P 500, CDI e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações para quando o HYG atingir preços que você definir, ajudando a monitorar movimentos de volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do HYG junto com outros ativos da sua carteira, incluindo ações, renda fixa e outros ETFs.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Veja o gráfico de rentabilidade do HYG e o preço médio da sua posição, com variação do dia e do ano."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HYG paga dividendos?",
+      "answer": "Sim, o HYG distribui proventos mensais. Nos 12 meses até 30/10/2026, pagou US$ 4,7010 por cota, com dividend yield de 6,07%. O último pagamento foi de US$ 0,3420 em 01/10/2026. É possível acompanhar os proventos no app."
+    },
+    {
+      "question": "Qual a diferença entre HYG e LQD?",
+      "answer": "HYG replica o índice de high yield (títulos de baixo grau de investimento), enquanto [LQD](/etfs/lqd) replica o índice de investment grade (títulos de alto grau). O HYG tem maior risco de crédito e maior rendimento, enquanto o LQD tem menor risco e menor rendimento. Ambos são da iShares."
+    },
+    {
+      "question": "Como investir no HYG a partir do Brasil?",
+      "answer": "É possível investir no HYG por meio de uma corretora que opere no mercado americano ou por meio de BDRs ou ETFs listados na B3 que sigam índices semelhantes. O investimento é em dólar, o que expõe o investidor ao risco cambial."
+    },
+    {
+      "question": "Qual o risco de crédito do HYG?",
+      "answer": "O HYG investe em títulos de alto rendimento (high yield), que têm maior risco de inadimplência. A taxa de default no setor high yield dos EUA tem média histórica de 5%, mas chegou a 9% durante a pandemia. O ativo é mais arriscado que ETFs de investment grade, como o LQD."
+    },
+    {
+      "question": "HYG é alavancado?",
+      "answer": "Não, o HYG não é alavancado. Ele replica o índice iBoxx $ High Yield Corporate Bond Index de forma passiva, sem multiplicar ou inverter o retorno do índice."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do HYG lado a lado com o S&P 500, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o HYG atingir preços que você definir, ajudando a monitorar movimentos de volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do HYG junto com outros ativos da sua carteira, incluindo ações, renda fixa e outros ETFs."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade do HYG e o preço médio da sua posição, com variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LQD",
+        "list": "us-etfs",
+        "reason": "ETF de investment grade corporativo, par de risco/retorno do HYG."
+      },
+      {
+        "ticker": "JNK",
+        "list": "us-etfs",
+        "reason": "Outro ETF de high yield corporativo, para comparação de índices e taxas."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do tesouro americano de longo prazo, para diversificação de renda fixa."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com o mercado acionário americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HYG",
+      "url": "https://finance.yahoo.com/quote/HYG/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): High-yield debt (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/High-yield_debt",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IHS Markit (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IHS_Markit",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

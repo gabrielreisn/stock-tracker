@@ -1,0 +1,401 @@
+{
+  "ticker": "MOVI3",
+  "slug": "movi3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MOVI3: história, dividendos e volatilidade",
+    "description": "MOVI3 é a ação ordinária da Movida, empresa de locação de veículos. Veja desempenho, dividendos, volatilidade e riscos da ação na B3.",
+    "h1": "MOVI3: Movida Participações S.A.",
+    "canonicalPath": "/acoes/movi3",
+    "keywords": [
+      "MOVI3",
+      "Movida",
+      "ação de locação de carros",
+      "dividendos MOVI3",
+      "volatilidade MOVI3",
+      "Novo Mercado",
+      "B3"
+    ]
+  },
+  "summary": "MOVI3 é a ação ordinária da Movida Participações S.A., empresa brasileira de locação de veículos, terceirização de frotas e venda de seminovos. Cotada na B3 desde 08/02/2017 no segmento Novo Mercado, a companhia registrou lucro líquido de R$ 136 milhões no 2T26, superando a expectativa. Em 30/10/2026, o papel valia R$ 5,61, com dividend yield de 13,08% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Movida",
+    "legalName": "MOVIDA PARTICIPAÇÕES S.A.",
+    "ticker": "BVMF MOVI3",
+    "isin": "BRMOVIACNOR0",
+    "taxId": "21.314.559/0001-66",
+    "foundingDate": "2015-10-29",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.ri.movida.com.br",
+    "wikidata": "Q106632587",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q106632587",
+      "https://pt.wikipedia.org/wiki/Movida",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/23825/MOVI/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Movida",
+    "legalName": "MOVIDA PARTICIPAÇÕES S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Aluguel de carros",
+    "founded": "29/10/2015",
+    "listedSince": "08/02/2017",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.ri.movida.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "MOVIDA PARTICIPAÇÕES S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "21.314.559/0001-66",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Aluguel de carros",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "29/10/2015",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "08/02/2017",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "MOVI3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 5,61",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "115,47% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "3,85",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "13,08%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MOVI3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Movida Participações S.A.",
+    "currency": "BRL",
+    "price": 5.61,
+    "historyStarts": "2017-05-24",
+    "returns": {
+      "1y": -0.247,
+      "3y": -0.2718,
+      "5y": -0.5228,
+      "10y": null
+    },
+    "volatility1y": 1.1547,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7973,
+      "from": "2022-04-20",
+      "to": "2025-01-13"
+    },
+    "beta1y": {
+      "value": 3.85,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.7339,
+      "payments12Months": 1,
+      "yield12Months": 0.1308,
+      "lastPayment": {
+        "date": "2025-12-22",
+        "amount": 0.73387
+      }
+    },
+    "avgDailyTradedValue3m": 130571665
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da MOVI3 é de 115,47% nos últimos 12 meses, nível considerado muito alto. O beta de 3,85 contra o Ibovespa indica que, historicamente, os movimentos do ativo são cerca de 3,85 vezes mais amplos que os do índice, na mesma direção. A maior queda em 5 anos foi de -79,73%, entre 20/04/2022 e 13/01/2025. Esse perfil de alta volatilidade e beta elevado é comum em ações de empresas cíclicas e de menor capitalização, que tendem a reagir com mais intensidade a mudanças no cenário econômico e setorial."
+  },
+  "history": {
+    "overview": "A Movida nasceu em 2006 em São Paulo como uma pequena locadora de veículos. Em 2013, a empresa foi adquirida pelo grupo JSL, que hoje opera como Simpar. A aquisição acelerou o crescimento: no ano seguinte, a frota já contava com mais de 36 mil automóveis e 82 pontos de atendimento. Em 2017, a companhia realizou a abertura de capital na B3, no segmento Novo Mercado, e logo em seguida comprou a Fleet Services, criando a linha de negócio Movida Premium focada em veículos de luxo. Em 2019, lançou o i-move, uma modalidade de aluguel de bicicletas elétricas para o mercado corporativo em parceria com a E-Moving. Nos últimos anos, a empresa tem focado na gestão de frotas e na expansão da rede de atendimento em todos os estados do Brasil, apoiada em alianças estratégicas com as principais montadoras do país. Em 2026, a Movida anunciou a dobrar do lucro líquido no 2T26 para R$ 136 milhões, superando o guidance, e homologou um aumento de capital, além de iniciar um programa de recompra de ações.",
+    "timeline": [
+      {
+        "date": "2006",
+        "event": "Fundação da Movida como locadora de veículos em São Paulo",
+        "source": 3
+      },
+      {
+        "date": "2015-10-29",
+        "event": "Constituição da MOVIDA PARTICIPAÇÕES S.A.",
+        "source": 2
+      },
+      {
+        "date": "2016-01-29",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2017-02-08",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-05-04",
+        "event": "Publicação do Guidance de Lucro Líquido para o 2T26",
+        "source": 12
+      },
+      {
+        "date": "2026-05-11",
+        "event": "Homologação do Aumento de Capital pela CVM",
+        "source": 11
+      },
+      {
+        "date": "2026-05-13",
+        "event": "Nova emissão de títulos de dívida no mercado internacional",
+        "source": 10
+      },
+      {
+        "date": "2026-05-19",
+        "event": "Anúncio do Programa de Recompra de ações 2026",
+        "source": 9
+      },
+      {
+        "date": "2026-07-16",
+        "event": "Lucro líquido dobra e chega a R$136 milhões no 2T26, superando o guidance",
+        "source": 8
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Data de pagamento de JCP e subsequente Aumento de Capital",
+        "source": 7
+      },
+      {
+        "date": "2026-08-10",
+        "event": "Publicação do Guidance de Lucro Líquido para o 3T26",
+        "source": 6
+      },
+      {
+        "date": "2026-10-13",
+        "event": "Atingimento dos Guidances e Prévia de Resultados do 3T26",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Movida ganha dinheiro",
+      "body": "A Movida Participações S.A. atua no setor de Consumo Cíclico, especificamente no segmento de aluguel de carros. A atividade principal da companhia é a locação de veículos, a terceirização de frotas e a venda de seminovos. A empresa possui pontos de atendimento em todos os estados do Brasil e mantém alianças estratégicas com as principais montadoras do país. Além da locação tradicional, a Movida oferece serviços como a Movida Premium, focada em veículos de luxo, e o i-move, uma modalidade de aluguel de bicicletas elétricas para o mercado corporativo. A receita vem da combinação desses serviços, que atendem tanto consumidores finais quanto empresas."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Movida",
+      "body": "A MOVI3 é a ação ordinária da Movida Participações S.A., cotada na B3 desde 08/02/2017. A companhia está listada no segmento Novo Mercado, que impõe regras de governança corporativa e transparência. O controle acionário é privado, através de uma holding, a Simpar. As ações ordinárias (ON) dão direito a voto em assembleias gerais e participação nos lucros, enquanto as preferenciais (PN), quando existem, têm prioridade no recebimento de dividendos e JCP, mas geralmente não têm direito a voto. A Movida opera apenas com a classe ON, identificada pelo código MOVI3."
+    },
+    {
+      "id": "proventos",
+      "heading": "MOVI3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a MOVI3 distribuiu R$ 0,7339 por ação em 1 pagamento, resultando em um dividend yield de 13,08%. O último pagamento foi de R$ 0,7339, com data de pagamento em 22/12/2025. Em 30/07/2026, a companhia anunciou a data de pagamento de JCP e subsequente Aumento de Capital. Para acompanhar os dividendos e JCP da MOVI3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da MOVI3",
+      "body": "Em 30/10/2026, a MOVI3 valia R$ 5,61. A rentabilidade total com proventos foi de -24,70% nos 12 meses, -27,18% em 3 anos e -52,28% em 5 anos. Para comparar esse desempenho com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices). O volume médio negociado por dia nos últimos 3 meses foi de R$ 130,6 milhões."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da MOVI3",
+      "body": "A MOVI3 apresenta volatilidade anualizada de 115,47% nos últimos 12 meses, classificada como muito alta. O beta de 3,85 indica que o ativo tende a acompanhar os movimentos do Ibovespa com amplitude muito maior. A maior queda nos últimos 5 anos foi de -79,73%, do pico em 20/04/2022 ao ponto mais baixo em 13/01/2025. Riscos setoriais incluem a dependência do ciclo econômico, a concorrência no setor de locação e a exposição a mudanças na demanda por veículos. Para monitorar oscilações de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MOVI3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a MOVI3 distribuiu R$ 0,7339 por ação em 1 pagamento, com dividend yield de 13,08%. O último pagamento foi de R$ 0,7339 em 22/12/2025. A companhia também anunciou em 30/07/2026 a data de pagamento de JCP e subsequente Aumento de Capital."
+    },
+    {
+      "question": "Qual a diferença entre MOVI3 e ações preferenciais?",
+      "answer": "MOVI3 é a ação ordinária (ON) da Movida, que dá direito a voto em assembleias. Ações preferenciais (PN), quando existem, têm prioridade no recebimento de proventos, mas geralmente não têm direito a voto. A Movida opera apenas com a classe ON, identificada pelo código MOVI3 na B3."
+    },
+    {
+      "question": "MOVI3 é uma ação do Novo Mercado?",
+      "answer": "Sim. A MOVI3 está listada no segmento Novo Mercado da B3, que impõe regras de governança corporativa e transparência. A companhia é controlada pela holding Simpar e atua no setor de aluguel de carros."
+    },
+    {
+      "question": "Qual o desempenho da MOVI3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos da MOVI3 foi de -24,70% nos 12 meses até 30/10/2026. O preço em 30/10/2026 era R$ 5,61. Para comparar com o Ibovespa e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Qual a volatilidade da MOVI3?",
+      "answer": "A volatilidade anualizada da MOVI3 é de 115,47% nos últimos 12 meses, nível muito alto. O beta de 3,85 indica que o ativo tende a acompanhar os movimentos do Ibovespa com amplitude muito maior. A maior queda em 5 anos foi de -79,73%, entre 20/04/2022 e 13/01/2025."
+    },
+    {
+      "question": "A Movida tem concorrentes na B3?",
+      "answer": "Sim. A principal concorrente direta da Movida na B3 é a Localiza Rent a Car S.A. ([RENT3](/acoes/rent3)), que também atua no setor de locação de veículos. Outras empresas do setor de consumo cíclico incluem [ABEV3](/acoes/abev3) e [MGLU3](/acoes/mglu3)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da MOVI3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da MOVI3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a MOVI3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a MOVI3 junto com suas outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RENT3",
+        "list": "br-stocks",
+        "reason": "Concorrente direta no setor de locação de veículos"
+      },
+      {
+        "ticker": "SIMH3",
+        "list": "br-stocks",
+        "reason": "Holding controladora da Movida"
+      },
+      {
+        "ticker": "VAMO3",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de locação de caminhões e equipamentos"
+      },
+      {
+        "ticker": "ABEV3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de Consumo Cíclico"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MOVI3",
+      "url": "https://finance.yahoo.com/quote/MOVI3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MOVIDA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/23825/MOVI/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, MOVIDA PARTICIPAÇÕES S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Movida",
+      "url": "https://www.wikidata.org/wiki/Q106632587",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Movida",
+      "url": "https://pt.wikipedia.org/wiki/Movida",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/10/2026, “Atingimento dos Guidances e Prévia de Resultados 3T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1576503&numSequencia=1101209&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/08/2026, “Guidance de Lucro Líquido 3T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1555192&numSequencia=1079898&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/07/2026, “Data de pagamento de JCP e subsequente Aumento de Capital”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550015&numSequencia=1074721&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/07/2026, “Lucro líquido dobra e chega a R$136 milhões no 2T26 e supera guidance”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1545350&numSequencia=1070056&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/05/2026, “Programa de Recompra de ações 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1524670&numSequencia=1049376&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/05/2026, “Nova emissão de títulos de dívida no mercado internacional”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1521684&numSequencia=1046390&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/05/2026, “Homologação Aumento de Capital”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1519451&numSequencia=1044157&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/05/2026, “Guidance Lucro Líquido 2T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1515438&numSequencia=1040144&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

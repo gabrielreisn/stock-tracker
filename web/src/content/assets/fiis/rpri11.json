@@ -1,0 +1,352 @@
+{
+  "ticker": "RPRI11",
+  "slug": "rpri11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RPRI11: FII de papel, consolidação e proventos",
+    "description": "RPRI11 é FII de papel da Patria com consolidação no PCIP11. Veja patrimônio, dividend yield de 15,76%, volatilidade e cronograma de liquidação até",
+    "h1": "RPRI11: RBR Premium Recebíveis Imobiliários",
+    "canonicalPath": "/fiis/rpri11",
+    "keywords": [
+      "RPRI11",
+      "RBR Premium Recebíveis Imobiliários",
+      "FII de papel",
+      "consolidação PCIP11",
+      "dividend yield RPRI11",
+      "Patria Investimentos",
+      "FII high grade",
+      "crédito imobiliário"
+    ]
+  },
+  "summary": "RPRI11 é a cota do RBR Premium Recebíveis Imobiliários Fundo de Investimento Imobiliário, um fundo de papel com gestão ativa que investe preponderantemente em CRIs, debêntures e cotas de FIDCs indexados a índices de preços. Fundado em 02/02/2022, o fundo tinha patrimônio líquido de R$ 349,5 milhões em 09/2026. Em 28/10/2026, foi aprovada a consolidação de sua carteira no PCIP11, com a consequente liquidação do RPRI11 e migração dos cotistas para o novo fundo.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "RBR Premium Recebíveis Imobiliários Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "RBR PREMIUM RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RPRI11",
+    "isin": "BRRPRICTF007",
+    "taxId": "42.502.842/0001-91",
+    "foundingDate": "2022-02-02",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=42502842000191"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI e crédito imobiliário)",
+    "issuerOrManager": "Patria Investimentos Ltda",
+    "name": "RBR Premium Recebíveis Imobiliários Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "RBR PREMIUM RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "02/02/2022",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "RBR PREMIUM RECEBÍVEIS IMOBILIÁRIOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "42.502.842/0001-91",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "02/02/2022",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 349,5 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "4.574",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 100,67",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 70,70",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "16,70% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,31",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "15,76%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 845.001,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RPRI11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "RBR Premium Recebiveis Imobiliarios Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 70.7,
+    "historyStarts": "2022-08-17",
+    "returns": {
+      "1y": -0.0431,
+      "3y": 0.0374,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.167,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.178,
+      "from": "2024-02-05",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.31,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 11.145,
+      "payments12Months": 11,
+      "yield12Months": 0.1576,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.65
+      }
+    },
+    "avgDailyTradedValue3m": 845001
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do RPRI11 nos últimos 12 meses foi de 16,70%, nível considerado moderado para um FII de papel. O beta de 0,31 contra o Ibovespa mostra que o fundo costuma acompanhar os movimentos do índice com amplitude menor, na mesma direção. A maior queda em 5 anos foi de -17,80%, entre 05/02/2024 e 18/12/2024. Para acompanhar a evolução do preço e a rentabilidade da posição, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "O RBR Premium Recebíveis Imobiliários (RPRI11) iniciou suas atividades em 02/02/2022, com a primeira oferta pública de cotas encerrada em 19/07/2022. O fundo é administrado pela INTRAG DTVM e gerido pela Patria Investimentos, com foco em crédito imobiliário de alta qualidade (high grade) indexado a índices de preços. Em 10/11/2023, iniciou uma nova oferta pública de cotas, encerrada em 09/02/2024. Em 21/08/2026, a gestora propôs a consolidação do RPRI11, do [RBRR11](/fiis/rbrr11) e do [VCJR11](/fiis/vcjr11) no [PCIP11](/fiis/pcip11), visando ampliar a liquidez e a diversificação. A assembleia geral extraordinária foi aprovada em 18/09/2026, e a reorganização foi formalizada em 28/10/2026, com a transferência da administração para a APEX GROUP.",
+    "timeline": [
+      {
+        "date": "2022-01-26",
+        "event": "Início da primeira oferta pública de cotas do RPRI11.",
+        "source": 2
+      },
+      {
+        "date": "2022-02-02",
+        "event": "Início das atividades do fundo.",
+        "source": 1
+      },
+      {
+        "date": "2022-07-19",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-11-10",
+        "event": "Início da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2024-02-09",
+        "event": "Encerramento da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2026-08-21",
+        "event": "Proposta de consolidação do RPRI11, RBRR11 e VCJR11 no PCIP11.",
+        "source": 5
+      },
+      {
+        "date": "2026-09",
+        "event": "Aprovação da assembleia geral extraordinária para a consolidação.",
+        "source": 3
+      },
+      {
+        "date": "2026-10-28",
+        "event": "Aprovação formal da reorganização e transferência da administração para a APEX GROUP.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RPRI11",
+      "body": "O RPRI11 é um fundo de investimento imobiliário de papel, com gestão ativa, que investe preponderantemente em Certificados de Recebíveis Imobiliários (CRI), debêntures, cotas de Fundos de Investimento em Direitos Creditórios (FIDC), Letras de Crédito Imobiliário (LCI), Letras de Crédito do Agronegócio (LCA) e cotas de outros FIIs. O objetivo do fundo é proporcionar uma rentabilidade alvo que acompanhe, no longo prazo, os títulos do Tesouro Nacional acrescidos de um spread de 2,00% a 4,00% ao ano. A gestão é realizada pela Patria Investimentos Ltda., e a administração era feita pela INTRAG DTVM até 28/10/2026, quando foi transferida para a APEX GROUP Distribuidora de Títulos e Valores Mobiliários S.A. como parte da consolidação com o PCIP11. A carteira é classificada como high grade, com foco em crédito imobiliário indexado a índices de preços."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RPRI11",
+      "body": "Nos 12 meses até 29/10/2026, o RPRI11 distribuiu R$ 11,1450 por cota em 11 pagamentos, resultando em um dividend yield de 15,76%. O último provento foi de R$ 0,6500, pago em 01/10/2026. O relatório gerencial de setembro de 2026 informou um dividend yield mensal de 0,66%. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Para acompanhar os pagamentos com data de pagamento e multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RPRI11 realizou duas ofertas públicas de cotas: a primeira, iniciada em 26/01/2022 e encerrada em 19/07/2022; a segunda, iniciada em 10/11/2023 e encerrada em 09/02/2024. Em 09/2026, o fundo tinha patrimônio líquido de R$ 349,5 milhões, 4.574 cotistas e 3.471.728 cotas emitidas, com valor patrimonial da cota de R$ 100,67. A taxa de administração mensal era de 0,095% sobre o patrimônio, equivalente a 1,6% ao ano. Com a aprovação da consolidação em 28/10/2026, o fundo entrará em processo de liquidação, e os cotistas receberão cotas do PCIP11 e eventual parcela em dinheiro."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RPRI11",
+      "body": "A rentabilidade total com proventos do RPRI11 foi de -4,31% nos 12 meses até 29/10/2026 e de 3,74% em 3 anos. O fundo é um FII de papel, e seu desempenho é influenciado pela taxa de juros e pela qualidade do crédito imobiliário. Para comparar a rentabilidade do RPRI11 com o IFIX, o CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RPRI11",
+      "body": "Como fundo de papel, o RPRI11 está exposto ao risco de crédito dos devedores dos CRIs e debêntures que compõem a carteira, além do risco de liquidez e do risco de taxa de juros. A volatilidade anualizada de 12 meses foi de 16,70%, classificada como moderada, e a maior queda em 5 anos foi de -17,80%, entre 05/02/2024 e 18/12/2024. O beta de 0,31 contra o Ibovespa indica que o fundo tende a ter movimentos menores que o índice, na mesma direção. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RPRI11 é FII de papel ou de tijolo?",
+      "answer": "RPRI11 é um FII de papel. O fundo investe preponderantemente em CRIs, debêntures, cotas de FIDC, LCI, LCA e cotas de outros FIIs, sem possuir imóveis físicos em sua carteira. A estratégia é de crédito imobiliário high grade, indexado a índices de preços."
+    },
+    {
+      "question": "O RPRI11 vai ser liquidado?",
+      "answer": "Sim. Em 28/10/2026, foi aprovada a consolidação do RPRI11, do RBRR11 e do VCJR11 no PCIP11. O RPRI11 entrará em processo de liquidação, e os cotistas receberão cotas do PCIP11 e eventual parcela em dinheiro, conforme o cronograma definido pela administradora."
+    },
+    {
+      "question": "Qual o dividend yield do RPRI11?",
+      "answer": "Nos 12 meses até 29/10/2026, o RPRI11 distribuiu R$ 11,1450 por cota, resultando em um dividend yield de 15,76%. O último pagamento foi de R$ 0,6500 em 01/10/2026. O relatório gerencial de setembro de 2026 informou um yield mensal de 0,66%."
+    },
+    {
+      "question": "Quem gerencia o RPRI11?",
+      "answer": "A gestão do RPRI11 é feita pela Patria Investimentos Ltda. A administração era realizada pela INTRAG DTVM até 28/10/2026, quando foi transferida para a APEX GROUP Distribuidora de Títulos e Valores Mobiliários S.A., como parte da consolidação com o PCIP11."
+    },
+    {
+      "question": "Qual o patrimônio do RPRI11?",
+      "answer": "Em 09/2026, o RPRI11 tinha patrimônio líquido de R$ 349,5 milhões, 4.574 cotistas e 3.471.728 cotas emitidas, com valor patrimonial da cota de R$ 100,67. A taxa de administração era de 1,6% ao ano."
+    },
+    {
+      "question": "O que é a consolidação do RPRI11 no PCIP11?",
+      "answer": "A consolidação é a transferência da carteira do RPRI11, do RBRR11 e do VCJR11 para o PCIP11, com a consequente liquidação dos três fundos. Os cotistas receberão cotas do PCIP11 e eventual parcela em dinheiro. O objetivo é ampliar a liquidez e a diversificação, consolidando o PCIP11 como a segunda maior plataforma de crédito imobiliário de índice de preços do Brasil."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do RPRI11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do RPRI11 com o IFIX, o CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do RPRI11 chegar ao preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RPRI11 junto com seus outros FIIs, ações e renda fixa em uma só visão, com alocação por classe."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade da posição do RPRI11 e o preço médio de aquisição ao longo do tempo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PCIP11",
+        "list": "fiis",
+        "reason": "Fundo que receberá a carteira do RPRI11 na consolidação aprovada em 28/10/2026."
+      },
+      {
+        "ticker": "RBRR11",
+        "list": "fiis",
+        "reason": "Fundo do mesmo grupo (Patria) que também será consolidado no PCIP11, com estratégia semelhante de crédito high grade."
+      },
+      {
+        "ticker": "VCJR11",
+        "list": "fiis",
+        "reason": "Outro fundo do grupo Patria que será consolidado no PCIP11, com foco em juros reais."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII de papel da Kinea com estratégia de índices de preços, similar ao RPRI11."
+      },
+      {
+        "ticker": "HGCR11",
+        "list": "fiis",
+        "reason": "Fundo de crédito imobiliário high grade misto (inflação e CDI+) da CSHG, com perfil de risco semelhante."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RPRI11",
+      "url": "https://finance.yahoo.com/quote/RPRI11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do RBR PREMIUM RECEBÍVEIS IMOB FUNDO INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RPRI11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=42502842000191",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RPRI11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356175",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RPRI11, 28/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1360846",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RPRI11, 21/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298559",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

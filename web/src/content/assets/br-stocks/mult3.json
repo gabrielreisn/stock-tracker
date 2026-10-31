@@ -1,0 +1,382 @@
+{
+  "ticker": "MULT3",
+  "slug": "mult3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MULT3: história, dividendos e volatilidade",
+    "description": "MULT3 é a ação ordinária da Multiplan, empresa de shoppings centers. Veja história, dividendos, volatilidade e desempenho da ação até 30/10/2026.",
+    "h1": "MULT3: Multiplan S.A. - Ação Ordinária",
+    "canonicalPath": "/acoes/mult3",
+    "keywords": [
+      "MULT3",
+      "Multiplan",
+      "ação Multiplan",
+      "dividendos MULT3",
+      "volatilidade MULT3",
+      "shoppings centers",
+      "ação imobiliária B3"
+    ]
+  },
+  "summary": "MULT3 é a ação ordinária da Multiplan S.A., empresa brasileira de investimentos imobiliários com foco em shopping centers, torres comerciais e edifícios residenciais. Fundada em 2005 e listada na B3 desde 2007, a companhia possui 19 shoppings e 2 complexos comerciais. Em 30/10/2026, a ação cotava a R$ 25,21, com dividend yield de 4,61% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Multiplan S.A.",
+    "legalName": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+    "ticker": "BVMF MULT3",
+    "isin": "BRMULTACNOR5",
+    "taxId": "07.816.890/0001-53",
+    "foundingDate": "2005-12-30",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://ri.multiplan.com.br/",
+    "wikidata": "Q108734367",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q108734367",
+      "https://pt.wikipedia.org/wiki/Multiplan",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20982/MULT/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Multiplan S.A.",
+    "legalName": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Financeiro",
+    "segment": "Exploração de Imóveis",
+    "founded": "30/12/2005",
+    "listedSince": "27/07/2007",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://ri.multiplan.com.br/"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "07.816.890/0001-53",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Exploração de Imóveis",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 2",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "30/12/2005",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "27/07/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "MULT3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 25,21",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "42,90% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,54",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,61%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MULT3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Multiplan Empreendimentos Imobiliários S.A.",
+    "currency": "BRL",
+    "price": 25.21,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0587,
+      "3y": 0.1731,
+      "5y": 0.6366,
+      "10y": 0.5674
+    },
+    "volatility1y": 0.429,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3521,
+      "from": "2026-10-09",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.54,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.1613,
+      "payments12Months": 4,
+      "yield12Months": 0.0461,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.284136
+      }
+    },
+    "avgDailyTradedValue3m": 203036175
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da MULT3 nos 12 meses até 30/10/2026 foi de 42,90%, nível muito alto. O beta da ação contra o Ibovespa é 1,54, o que significa que a ação tende a acompanhar os movimentos do índice com amplitude 1,54 vezes maior, na mesma direção. A maior queda nos últimos 5 anos foi de -35,21%, do pico em 09/10/2026 ao ponto mais baixo em 30/10/2026. Para ações de empresas do setor imobiliário, essa volatilidade reflete a sensibilidade a mudanças no consumo e no fluxo de visitantes dos shoppings. [Veja o desempenho e o preço médio da MULT3](/recursos/desempenho-e-preco-medio) para acompanhar a variação da ação ao longo do tempo."
+  },
+  "history": {
+    "overview": "A Multiplan S.A. foi constituída em 30/12/2005 pelo economista José Isaac Peres, que é seu atual presidente. O primeiro empreendimento construído pela empresa foi o BH Shopping, inaugurado em 1979 em Belo Horizonte, sendo o primeiro shopping center de Minas Gerais. A logomarca da empresa, um trevo, foi inspirada no trevo rodoviário de acesso a esse primeiro empreendimento. A empresa abriu seu capital em 2007, com oferta primária e secundária de ações, arrecadando pouco menos de 1 bilhão de reais. Em 2015, as ações da Multiplan passaram a integrar o Índice Bovespa, principal índice acionário brasileiro. Atualmente, a empresa é a terceira maior do Brasil em área bruta locável (ABL), com participação em 19 shopping centers e dois complexos comerciais. Em 2023, a Multiplan vendeu um projeto de condomínio em Miami Beach por US$ 32 milhões.",
+    "timeline": [
+      {
+        "date": "2005-12-30",
+        "event": "Constituição da Multiplan - Empreend Imobiliarios S.A.",
+        "source": 2
+      },
+      {
+        "date": "2007-07-25",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2007-07-27",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-09-23",
+        "event": "Declaração de Juros sobre o Capital Próprio",
+        "source": 12
+      },
+      {
+        "date": "2025-11-05",
+        "event": "Multiplan conclui a compra de 7,5% do BarraShopping, no Rio de Janeiro",
+        "source": 11
+      },
+      {
+        "date": "2026-05-07",
+        "event": "Revisão da metodologia de apropriação de créditos PIS e COFINS",
+        "source": 8
+      },
+      {
+        "date": "2026-06-25",
+        "event": "Distribuição de Dividendos/Juros sobre Capital Próprio",
+        "source": 6
+      },
+      {
+        "date": "2026-06-25",
+        "event": "Programa de Recompra de Ações",
+        "source": 7
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Multiplan S.A. ganha dinheiro",
+      "body": "A Multiplan S.A. atua no setor de investimentos imobiliários, com foco em shopping centers, torres comerciais e edifícios residenciais. A atividade principal da companhia é a administração de shopping centers, conforme classificação da B3. A empresa possui 19 shopping centers e dois complexos comerciais, sendo a terceira maior do Brasil em área bruta locável (ABL). Dentre os shoppings administrados, destacam-se o Morumbi Shopping, seu empreendimento mais rentável, e o Diamond Mall, segundo shopping mais rentável, tido em copropriedade com o Atlético Mineiro. A empresa também possui torres comerciais e edifícios residenciais em diversas cidades, incluindo Rio de Janeiro, São Paulo, Belo Horizonte, Brasília, Maceió, Curitiba, Porto Alegre e Canoas."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Multiplan S.A.",
+      "body": "A Multiplan S.A. tem controle acionário privado, conforme cadastro na CVM. A empresa está listada no Nível 2 do segmento de governança corporativa da B3, o que indica que a empresa adota práticas de governança corporativa acima do mínimo legal. O código de negociação da ação ordinária é MULT3. Ações ordinárias (ON) dão direito a voto em assembleias gerais e têm preferência na distribuição de lucros em caso de liquidação, enquanto ações preferenciais (PN) não dão direito a voto, mas têm prioridade na distribuição de dividendos e lucros."
+    },
+    {
+      "id": "proventos",
+      "heading": "MULT3 paga dividendos?",
+      "body": "MULT3 pagou R$ 1,1613 por ação em 4 pagamentos nos 12 meses até 30/10/2026, resultando em dividend yield de 4,61%. O último pagamento foi de R$ 0,2841 em 01/10/2026. A empresa tem histórico regular de distribuição de proventos, com declarações de Juros sobre o Capital Próprio (JCP) em 2025 e 2026. Em 25/06/2026, a Multiplan anunciou distribuição de dividendos/JCP e também um programa de recompra de ações. [Veja os dividendos e JCP no app](/recursos/proventos) para acompanhar a data com e a data de pagamento de cada provento, multiplicados pela sua quantidade de ações."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da MULT3",
+      "body": "A MULT3 teve rentabilidade total com proventos de -5,87% nos 12 meses até 30/10/2026, 17,31% em 3 anos, 63,66% em 5 anos e 56,74% em 10 anos. A ação cotava a R$ 25,21 em 30/10/2026. [Compare a rentabilidade da MULT3 com o Ibovespa e o CDI](/recursos/comparacao-com-indices) para ver como o desempenho da ação se compara com os principais índices de mercado no mesmo período."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da MULT3",
+      "body": "A volatilidade anualizada da MULT3 nos 12 meses até 30/10/2026 foi de 42,90%, classificada como muito alta. O beta da ação contra o Ibovespa é 1,54, o que indica que a ação tende a se mover 1,54 vezes mais que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -35,21%, do pico em 09/10/2026 ao ponto mais baixo em 30/10/2026. Riscos setoriais incluem variação no fluxo de visitantes dos shoppings, mudanças no consumo, custos de manutenção e ocupação dos imóveis. [Use alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a ação atingir níveis que você considerar relevantes."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MULT3 paga dividendos?",
+      "answer": "Sim, a MULT3 pagou R$ 1,1613 por ação em 4 pagamentos nos 12 meses até 30/10/2026, com dividend yield de 4,61%. O último pagamento foi de R$ 0,2841 em 01/10/2026. A empresa tem histórico regular de distribuição de proventos, com declarações de JCP em 2025 e 2026. [Veja os dividendos e JCP no app](/recursos/proventos) para acompanhar a data com e a data de pagamento de cada provento."
+    },
+    {
+      "question": "O que a Multiplan faz?",
+      "answer": "A Multiplan S.A. é uma empresa de investimentos imobiliários com foco em shopping centers, torres comerciais e edifícios residenciais. A atividade principal é a administração de shopping centers. A empresa possui 19 shoppings e 2 complexos comerciais, sendo a terceira maior do Brasil em área bruta locável (ABL). Dentre os shoppings administrados, destacam-se o Morumbi Shopping e o Diamond Mall."
+    },
+    {
+      "question": "Qual a diferença entre MULT3 e ações preferenciais?",
+      "answer": "MULT3 é a ação ordinária (ON) da Multiplan, que dá direito a voto em assembleias gerais e tem preferência na distribuição de lucros em caso de liquidação. Ações preferenciais (PN) não dão direito a voto, mas têm prioridade na distribuição de dividendos e lucros. A Multiplan possui apenas ações ordinárias listadas na B3, com código MULT3."
+    },
+    {
+      "question": "Qual o preço da MULT3?",
+      "answer": "Em 30/10/2026, a MULT3 cotava a R$ 25,21. O volume médio negociado por dia nos últimos 3 meses foi de R$ 203,0 milhões. [Use alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a ação atingir níveis que você considerar relevantes."
+    },
+    {
+      "question": "A Multiplan tem ações no exterior?",
+      "answer": "A Multiplan possui um projeto de condomínio em Miami, nos Estados Unidos, chamado II Villaggio. Em 2023, a empresa vendeu um projeto de condomínio em Miami Beach por US$ 32 milhões. A empresa está listada apenas na B3, com código MULT3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da MULT3 com data com e data de pagamento, multiplicados pela sua quantidade de ações."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da MULT3 com o Ibovespa e o CDI no mesmo gráfico, para ver como o desempenho da ação se compara com os principais índices de mercado."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Seja notificado quando a MULT3 atingir níveis de preço que você considerar relevantes, útil para acompanhar a ação com volatilidade de 42,90%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a MULT3 junto com outras ações, FIIs e renda fixa em uma só visão, para acompanhar a alocação da sua carteira."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a variação da MULT3 ao longo do tempo, com gráfico de rentabilidade e preço médio da sua posição."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IGTI11",
+        "list": "br-stocks",
+        "reason": "Outra empresa do setor de shoppings centers, com ações listadas na B3."
+      },
+      {
+        "ticker": "VISC11",
+        "list": "fiis",
+        "reason": "FII de shopping centers, para quem quer exposição ao setor de shoppings via fundos imobiliários."
+      },
+      {
+        "ticker": "HGBS11",
+        "list": "fiis",
+        "reason": "FII de shopping centers, outra opção de exposição ao setor de shoppings via fundos imobiliários."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings centers, para diversificação no setor de shoppings via fundos imobiliários."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MULT3",
+      "url": "https://finance.yahoo.com/quote/MULT3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MULTIPLAN, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20982/MULT/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Multiplan S.A.",
+      "url": "https://www.wikidata.org/wiki/Q108734367",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Multiplan",
+      "url": "https://pt.wikipedia.org/wiki/Multiplan",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/09/2026, “Declaração de Juros sobre o Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1571689&numSequencia=1096395&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/06/2026, “Distribuição de Dividendos/Juros sobre Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538480&numSequencia=1063186&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/06/2026, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538504&numSequencia=1063210&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/05/2026, “Revisão da metodologia de apropriação de créditos PIS e COFINS”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1518048&numSequencia=1042754&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/03/2026, “Declaração de Juros sobre o Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1495185&numSequencia=1019891&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/12/2025, “Declaração de Juros sobre o Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1460438&numSequencia=985144&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/11/2025, “Multiplan conclui a compra de 7,5% do BarraShopping, no Rio de Janeiro”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1440269&numSequencia=964981&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/09/2025, “Declaração de Juros sobre o Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1425920&numSequencia=950632&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

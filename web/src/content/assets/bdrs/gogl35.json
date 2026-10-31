@@ -1,0 +1,338 @@
+{
+  "ticker": "GOGL35",
+  "slug": "gogl35",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "GOGL35: BDR da Alphabet, dividendos e volatilidade",
+    "description": "GOGL35 é o BDR da Alphabet Inc. na B3. Veja dividendos, desempenho em reais, riscos cambiais e como acompanhar o ativo no app.",
+    "h1": "GOGL35: BDR da Alphabet Inc. na B3",
+    "canonicalPath": "/bdrs/gogl35",
+    "keywords": [
+      "GOGL35",
+      "BDR Alphabet",
+      "GOOG BDR",
+      "dividendos GOGL35",
+      "volatilidade GOGL35",
+      "Alphabet B3",
+      "BDR nível I",
+      "GOGL34 vs GOGL35"
+    ]
+  },
+  "summary": "GOGL35 é o BDR não patrocinado de nível I da Alphabet Inc., empresa holding americana que controla o Google e outras subsidiárias de tecnologia. Listado na B3 desde 12/04/2016, o ativo é cotado em reais e acompanha a ação original GOOG na NASDAQ e a variação do câmbio. Em 30/10/2026, o BDR valia R$ 127,00, com rentabilidade total de 140,76% nos últimos 3 anos.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Alphabet Inc.",
+    "legalName": "ALPHABET INC.",
+    "ticker": "BVMF GOGL35",
+    "foundingDate": "2015-10-02",
+    "website": "https://abc.xyz/",
+    "wikidata": "Q20800404",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q20800404",
+      "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "https://pt.wikipedia.org/wiki/Alphabet_Inc.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51268/GOGL/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Alphabet Inc.",
+    "legalName": "ALPHABET INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "02/10/2015",
+    "listedSince": "12/04/2016",
+    "headquarters": "Mountain View",
+    "website": "https://abc.xyz/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "ALPHABET INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: GOOG, NASDAQ: GOOGL",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Mountain View",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "02/10/2015",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/04/2016",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 127,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "36,34% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original GOOG em dólares)",
+      "value": "1,36",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,21%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 415.210,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GOGL35",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Alphabet Inc.",
+    "currency": "BRL",
+    "price": 127,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0025,
+      "3y": 1.4076,
+      "5y": 0.8922,
+      "10y": 11.2913
+    },
+    "volatility1y": 0.3634,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4913,
+      "from": "2021-11-19",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": 1.36,
+      "against": "S&P 500, ação original GOOG em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.2617,
+      "payments12Months": 4,
+      "yield12Months": 0.0021,
+      "lastPayment": {
+        "date": "2026-09-04",
+        "amount": 0.066071
+      }
+    },
+    "avgDailyTradedValue3m": 415210
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do GOGL35 nos últimos 12 meses foi de 36,34%, um nível considerado alto. O beta da ação original GOOG, contra o S&P 500, é de 1,36, o que indica que a ação tende a se mover 1,36 vezes mais que o índice, na mesma direção. Isso significa que, em mercados de alta, a ação pode subir mais que o S&P 500, e em mercados de baixa, pode cair mais. A maior queda em 5 anos foi de -49,13%, entre 19/11/2021 e 03/11/2022. Para monitorar movimentos de preço, use os [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "A Alphabet Inc. foi criada em 02/10/2015 como uma reestruturação do Google, com o objetivo de separar os negócios principais de internet de outras subsidiárias em áreas diversas, como ciências da vida e capital de investimento. A mudança permitiu que o Google ficasse mais enxuto e focado, enquanto a Alphabet assumia o papel de holding, inspirada no modelo da Berkshire Hathaway. Larry Page e Sergey Brin, fundadores do Google, lideraram a transição, mas em dezembro de 2019 anunciaram sua saída dos cargos executivos, mantendo-se como acionistas controladores. Sundar Pichai, então CEO do Google, assumiu a liderança da Alphabet. Em 2022, a empresa realizou um stock split e, em janeiro de 2023, anunciou a demissão de 12.000 funcionários, cerca de 6% da força de trabalho global, para ajustar a estrutura de custos a um cenário econômico diferente do período de expansão anterior. A empresa tem enfrentado desafios regulatórios, incluindo uma decisão antitruste em 2024, mas também tem investido fortemente em inteligência artificial, com o lançamento do chip quântico Willow em dezembro de 2024 e um plano de captação de R$ 80 bilhões em 2026 para infraestrutura de IA.",
+    "timeline": [
+      {
+        "date": "2015-10-02",
+        "event": "Fundação da Alphabet Inc. como holding do Google",
+        "source": 2
+      },
+      {
+        "date": "2016-04-12",
+        "event": "Listagem do BDR GOGL35 na B3",
+        "source": 1
+      },
+      {
+        "date": "2019-12-03",
+        "event": "Larry Page e Sergey Brin anunciam saída dos cargos executivos; Sundar Pichai assume a CEO da Alphabet",
+        "source": 3
+      },
+      {
+        "date": "2022",
+        "event": "Anúncio de demissão de 12.000 funcionários (6% da força de trabalho)",
+        "source": 3
+      },
+      {
+        "date": "2024-08",
+        "event": "Tribunal dos EUA declara a Alphabet culpada por violação de leis antitruste",
+        "source": 3
+      },
+      {
+        "date": "2024-12-10",
+        "event": "Lançamento do chip quântico Willow, com alta de 5% nas ações",
+        "source": 3
+      },
+      {
+        "date": "2025-09-15",
+        "event": "Alphabet se torna a quarta empresa a ultrapassar US$ 3 trilhões em capitalização de mercado",
+        "source": 3
+      },
+      {
+        "date": "2026-06-01",
+        "event": "Anúncio de captação de US$ 80 bilhões para infraestrutura de IA, com participação da Berkshire Hathaway",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Alphabet Inc. ganha dinheiro",
+      "body": "A Alphabet Inc. é uma holding que controla o Google, a principal fonte de receita da empresa, e outras subsidiárias em áreas como ciências da vida, capital de investimento e pesquisa. O Google, por sua vez, concentra os negócios de internet, incluindo o sistema operacional Android, o YouTube e o Google Search. A Alphabet também possui empresas como Calico, Google Ventures, Google Capital, Google X e Nest Labs. Em 2022, a empresa foi considerada uma das maiores do mundo no ramo de tecnologia, com vendas recorde de US$ 257,5 bilhões em anúncios digitais, segundo a Forbes."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR GOGL35",
+      "body": "O GOGL35 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Alphabet Inc. no exterior. O preço do BDR acompanha a ação original GOOG, listada na NASDAQ, e a variação do câmbio entre o dólar e o real. O BDR foi listado na B3 em 12/04/2016. Por ser não patrocinado, não há uma instituição depositária específica garantindo a emissão, o que pode afetar a liquidez e a transparência em relação a BDRs patrocinados."
+    },
+    {
+      "id": "proventos",
+      "heading": "GOGL35 paga dividendos?",
+      "body": "A Alphabet Inc. paga dividendos, e o BDR GOGL35 reflete esses proventos em reais. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 0,2617 por unidade, em 4 pagamentos, com dividend yield de 0,21%. O último pagamento foi de R$ 0,0661 em 04/09/2026. Os valores são convertidos da moeda original (dólar) para reais, considerando o câmbio na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do GOGL35",
+      "body": "Em 30/10/2026, o GOGL35 valia R$ 127,00. A rentabilidade total com proventos foi de 0,25% nos últimos 12 meses, 140,76% em 3 anos e 89,22% em 5 anos. Em 10 anos, o retorno acumulado foi de 1.129,13%. Esses números incluem a variação do câmbio, o que significa que a performance em reais reflete tanto o movimento da ação original GOOG quanto a oscilação do dólar frente ao real. Para comparar com índices como o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do GOGL35",
+      "body": "Os riscos do GOGL35 incluem a exposição ao câmbio, já que o BDR é cotado em reais e acompanha a ação original em dólares. A volatilidade anualizada nos últimos 12 meses foi de 36,34%, considerada alta. A maior queda em 5 anos foi de -49,13%, entre 19/11/2021 e 03/11/2022. A empresa também enfrenta riscos regulatórios, como a decisão antitruste de 2024, e a concorrência no setor de tecnologia. A liquidez do BDR na B3 é menor que a da ação original na NASDAQ, com volume médio diário de R$ 415.210,00 nos últimos 3 meses."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar GOGL35 no app",
+      "body": "Para quem tem GOGL35 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o GOGL35 junto com outras posições da sua carteira, com alocação e valor por classe.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade e o preço médio do GOGL35 na sua carteira, com variação do dia e do ano.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do GOGL35 com o S&P 500, CDI e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o GOGL35 chegar ao preço que você escolheu, para monitorar movimentos de volatilidade.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a sua posição em GOGL35 e veja as respostas com base nos seus próprios dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GOGL35 paga dividendos?",
+      "answer": "Sim, o GOGL35 paga dividendos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 0,2617 por BDR, em 4 pagamentos, com dividend yield de 0,21%. O último pagamento foi de R$ 0,0661 em 04/09/2026. Os valores são convertidos do dólar para reais."
+    },
+    {
+      "question": "Qual a diferença entre GOGL34 e GOGL35?",
+      "answer": "[GOGL34](/bdrs/gogl34) e GOGL35 são BDRs da Alphabet Inc. na B3, mas com diferentes níveis de patrocínio. GOGL35 é um BDR não patrocinado de nível I, enquanto GOGL34 pode ter um nível de patrocínio diferente. A diferença afeta a transparência e a liquidez, mas ambos acompanham a ação original GOOG na NASDAQ e o câmbio."
+    },
+    {
+      "question": "GOGL35 é um BDR patrocinado ou não patrocinado?",
+      "answer": "GOGL35 é um BDR não patrocinado de nível I. Isso significa que não há uma instituição depositária específica garantindo a emissão, o que pode afetar a liquidez e a transparência em relação a BDRs patrocinados."
+    },
+    {
+      "question": "Qual o risco cambial do GOGL35?",
+      "answer": "O GOGL35 é cotado em reais e acompanha a ação original GOOG, que é negociada em dólares na NASDAQ. Portanto, o valor do BDR é afetado pela variação do câmbio entre o dólar e o real. Uma valorização do dólar em relação ao real tende a aumentar o preço do BDR, e uma desvalorização tende a reduzi-lo."
+    },
+    {
+      "question": "Qual a volatilidade do GOGL35?",
+      "answer": "A volatilidade anualizada do GOGL35 nos últimos 12 meses foi de 36,34%, um nível considerado alto. A maior queda em 5 anos foi de -49,13%, entre 19/11/2021 e 03/11/2022. Para monitorar movimentos de preço, use os [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Como a Alphabet Inc. ganha dinheiro?",
+      "answer": "A Alphabet Inc. ganha dinheiro principalmente através do Google, que concentra os negócios de internet, incluindo anúncios digitais, o sistema operacional Android, o YouTube e o Google Search. Em 2022, a empresa teve vendas recorde de US$ 257,5 bilhões em anúncios digitais. A Alphabet também possui outras subsidiárias em áreas como ciências da vida e capital de investimento."
+    },
+    {
+      "question": "Qual o desempenho do GOGL35 em 3 anos?",
+      "answer": "A rentabilidade total com proventos do GOGL35 nos últimos 3 anos, até 30/10/2026, foi de 140,76%. Esse número inclui a variação do câmbio, refletindo tanto o movimento da ação original GOOG quanto a oscilação do dólar frente ao real."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o GOGL35 junto com outras posições da sua carteira, com alocação e valor por classe."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio do GOGL35 na sua carteira, com variação do dia e do ano."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do GOGL35 com o S&P 500, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o GOGL35 chegar ao preço que você escolheu, para monitorar movimentos de volatilidade."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em GOGL35 e veja as respostas com base nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "Outro BDR da Alphabet Inc. na B3, com possível diferença de nível de patrocínio."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR da NVIDIA, outra grande empresa de tecnologia e componente do S&P 500."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR da Apple, empresa de tecnologia e componente do S&P 500, para comparação de setor."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR da Microsoft, empresa de tecnologia e componente do S&P 500, para comparação de setor."
+      },
+      {
+        "ticker": "AMZO34",
+        "list": "bdrs",
+        "reason": "BDR da Amazon, empresa de tecnologia e varejo, para comparação de setor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GOGL35",
+      "url": "https://finance.yahoo.com/quote/GOGL35.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ALPHABET, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51268/GOGL/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Alphabet Inc.",
+      "url": "https://www.wikidata.org/wiki/Q20800404",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Alphabet Inc.",
+      "url": "https://en.wikipedia.org/wiki/Alphabet_Inc.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Alphabet Inc.",
+      "url": "https://pt.wikipedia.org/wiki/Alphabet_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

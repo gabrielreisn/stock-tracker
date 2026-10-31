@@ -1,0 +1,284 @@
+{
+  "ticker": "XLE",
+  "slug": "xle",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLE: história, dividendos e volatilidade",
+    "description": "XLE é o ETF de energia do S&P 500. Veja a história, os dividendos, a volatilidade e como investir a partir do Brasil.",
+    "h1": "XLE: State Street Energy Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xle",
+    "keywords": [
+      "XLE",
+      "ETF de energia",
+      "S&P 500",
+      "dividendos",
+      "volatilidade",
+      "investir no Brasil",
+      "State Street Global Advisors"
+    ]
+  },
+  "summary": "XLE é o State Street Energy Select Sector SPDR ETF, um fundo de índice negociado nos Estados Unidos que replica o desempenho do setor de energia do S&P 500. Lançado em 22 de dezembro de 1998, o ativo é gerido pela State Street Global Advisors e inclui empresas de petróleo, gás e serviços de energia. Em 30/10/2026, a cota valia US$ 70,02, com rentabilidade total de 64,63% nos últimos 12 meses e dividend yield de 2,18%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Energy Select Sector SPDR ETF",
+    "ticker": "ARCX XLE",
+    "foundingDate": "1998-12-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P 500 Energy Select Sector Index",
+    "name": "State Street Energy Select Sector SPDR ETF",
+    "founded": "22/12/1998"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Energy Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/12/1998",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 70,02",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "22,22% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-0,44",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,18%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,94 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLE",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Energy Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 70.02,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.6463,
+      "3y": 0.813,
+      "5y": 1.8559,
+      "10y": 2.0631
+    },
+    "volatility1y": 0.2222,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2604,
+      "from": "2022-06-08",
+      "to": "2022-07-14"
+    },
+    "beta1y": {
+      "value": -0.44,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.523,
+      "payments12Months": 4,
+      "yield12Months": 0.0218,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.38
+      }
+    },
+    "avgDailyTradedValue3m": 1937530147
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de 12 meses do XLE é de 22,22%, nível moderado. O beta de 12 meses contra o S&P 500 é de -0,44, o que indica que o XLE tende a se mover na direção oposta ao índice, mas com menor magnitude. A maior queda nos últimos 5 anos foi de -26,04%, do pico em 08/06/2022 ao ponto mais baixo em 14/07/2022. Para monitorar a volatilidade e definir alertas de preço, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O XLE faz parte da família de ETFs SPDR, gerida pela State Street Global Advisors (SSGA), que é a terceira maior provedora de ETFs do mundo, atrás de iShares e Vanguard. A SSGA é conhecida por gerenciar o SPDR S&P 500 Trust, o maior ETF do mundo em ativos sob gestão. A marca SPDR, que significa Standard & Poor's Depositary Receipts, foi unificada em 2007 para englobar todos os ETFs dos Estados Unidos da SSGA, incluindo a antiga família StreetTRACKS e o DOW DIAMONDS, que rastreia o Dow Jones Industrial Average. Em 1998, a SSGA e a Merrill Lynch introduziram os Sector Spiders, uma linha de dez fundos que seguem os setores do S&P 500, sendo o XLE um dos primeiros a ser lançado, com seu primeiro pregão em 22 de dezembro de 1998. Esses fundos são estruturados como unit investment trusts e são amplamente negociados nos Estados Unidos, Europa, México e Ásia-Pacífico.",
+    "timeline": [
+      {
+        "date": "1998-12-22",
+        "event": "Primeiro pregão das cotas do ETF na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA renomeia seus ETFs dos EUA para SPDR, unificando a marca.",
+        "source": 1
+      },
+      {
+        "date": "2016",
+        "event": "Revisão do GICS move o setor imobiliário para fora do setor financeiro.",
+        "source": 4
+      },
+      {
+        "date": "2018",
+        "event": "Revisão do GICS renomeia telecomunicações para serviços de comunicação.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLE funciona",
+      "body": "O XLE é um ETF que replica o índice de energia do S&P 500, focando em empresas de petróleo, gás e serviços de energia. É gerido pela State Street Global Advisors (SSGA), a terceira maior gestora de ETFs do mundo. O fundo foi lançado em 22 de dezembro de 1998, como parte dos Sector Spiders, uma linha de dez fundos que seguem os setores do S&P 500. O XLE é estruturado como um unit investment trust e é negociado em bolsas nos Estados Unidos, Europa, México e Ásia-Pacífico."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLE",
+      "body": "O XLE segue o índice de energia do S&P 500, que inclui empresas do setor de energia, como petróleo, gás e serviços de energia. O índice é baseado no Global Industry Classification Standard (GICS), que classifica as empresas em 11 setores. O setor de energia é um dos 11 setores do GICS, que também inclui tecnologia, saúde e finanças. A composição do índice é atualizada regularmente para refletir as mudanças no mercado."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLE a partir do Brasil",
+      "body": "Para investir no XLE a partir do Brasil, é necessário ter uma conta em uma corretora que opere no mercado americano. O investimento é feito em dólar, o que expõe o investidor ao risco cambial. Alternativamente, é possível investir em ETFs ou BDRs da B3 que seguem o mesmo índice, o que pode ser mais conveniente para quem não tem conta no exterior. O risco cambial é um fator importante a considerar, pois a variação do dólar em relação ao real pode impactar o retorno do investimento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLE",
+      "body": "Em 30/10/2026, o XLE valia US$ 70,02. A rentabilidade total com proventos foi de 64,63% nos 12 meses, 81,30% em 3 anos, 185,59% em 5 anos e 206,31% em 10 anos. O dividend yield é de 2,18%, com US$ 1,5230 por cota em 4 pagamentos nos 12 meses até 30/10/2026. O último pagamento foi de US$ 0,3800 em 21/09/2026. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,94 bilhão. Para comparar o desempenho do XLE com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLE",
+      "body": "O XLE é um ETF de setor, o que significa que ele é mais volátil que um ETF de mercado amplo, como o S&P 500. A volatilidade anualizada de 12 meses é de 22,22%, nível moderado. O beta de 12 meses contra o S&P 500 é de -0,44, o que indica que o XLE tende a se mover na direção oposta ao índice, mas com menor magnitude. A maior queda nos últimos 5 anos foi de -26,04%, do pico em 08/06/2022 ao ponto mais baixo em 14/07/2022. O setor de energia é sensível a mudanças nos preços de commodities e a políticas regulatórias, o que pode aumentar a volatilidade do fundo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "XLE paga dividendos?",
+      "answer": "Sim, o XLE paga dividendos. Nos 12 meses até 30/10/2026, o fundo distribuiu US$ 1,5230 por cota em 4 pagamentos, com dividend yield de 2,18%. O último pagamento foi de US$ 0,3800 em 21/09/2026. Para acompanhar os dividendos e JCP no app, use a [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual a diferença entre XLE e SPY?",
+      "answer": "O XLE é um ETF de setor que replica o índice de energia do S&P 500, enquanto o [SPY](/etfs/spy) é um ETF de mercado amplo que replica o S&P 500. O XLE é mais volátil e sensível a mudanças nos preços de commodities, enquanto o SPY é mais diversificado e tende a ter menor volatilidade. Para comparar o desempenho do XLE com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "question": "XLE é um ETF alavancado?",
+      "answer": "Não, o XLE não é um ETF alavancado. Ele replica o índice de energia do S&P 500 sem alavancagem, o que significa que o resultado do fundo acompanha o desempenho do índice sem multiplicação. ETFs alavancados, como o [SOXL](/etfs/soxl), têm um múltiplo de alavancagem e sofrem com o rebalanceamento diário, o que pode afetar o resultado em períodos longos."
+    },
+    {
+      "question": "Como investir no XLE a partir do Brasil?",
+      "answer": "Para investir no XLE a partir do Brasil, é necessário ter uma conta em uma corretora que opere no mercado americano. O investimento é feito em dólar, o que expõe o investidor ao risco cambial. Alternativamente, é possível investir em ETFs ou BDRs da B3 que seguem o mesmo índice. Para manter as posições em sincronia, use o [Open Finance](/recursos/open-finance) no app."
+    },
+    {
+      "question": "Qual a volatilidade do XLE?",
+      "answer": "A volatilidade anualizada de 12 meses do XLE é de 22,22%, nível moderado. O beta de 12 meses contra o S&P 500 é de -0,44, o que indica que o XLE tende a se mover na direção oposta ao índice, mas com menor magnitude. A maior queda nos últimos 5 anos foi de -26,04%, do pico em 08/06/2022 ao ponto mais baixo em 14/07/2022. Para monitorar a volatilidade, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+    },
+    {
+      "question": "XLE é bom para iniciantes?",
+      "answer": "O XLE é um ETF de setor, o que significa que ele é mais volátil que um ETF de mercado amplo, como o S&P 500. Para iniciantes, é importante entender a volatilidade e o risco setorial antes de investir. Para acompanhar o desempenho e a volatilidade, use o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja os dividendos e JCP do XLE com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do XLE com o S&P 500, Ibovespa, IFIX e CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o XLE chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e confere as posições do XLE com a sua carteira: quantidades, preço médio e o que falta importar."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF de mercado amplo que replica o S&P 500, para comparação com o XLE."
+      },
+      {
+        "ticker": "XOP",
+        "list": "us-etfs",
+        "reason": "ETF de exploração e produção de petróleo e gás, para comparação com o XLE."
+      },
+      {
+        "ticker": "GLD",
+        "list": "us-etfs",
+        "reason": "ETF de ouro, para diversificação em commodities."
+      },
+      {
+        "ticker": "XLF",
+        "list": "us-etfs",
+        "reason": "ETF do setor financeiro, para comparação com outros setores do S&P 500."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLE",
+      "url": "https://finance.yahoo.com/quote/XLE/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Energy industry (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Energy_industry",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

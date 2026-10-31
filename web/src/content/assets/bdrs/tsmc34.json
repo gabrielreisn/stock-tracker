@@ -1,0 +1,305 @@
+{
+  "ticker": "TSMC34",
+  "slug": "tsmc34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TSMC34: BDR da Taiwan Semiconductor, dividendos e",
+    "description": "TSMC34 é o BDR da Taiwan Semiconductor na B3. Veja dividendos, volatilidade de 37,69%, rentabilidade de 42,75% em 12 meses e riscos cambiais até",
+    "h1": "TSMC34: BDR da Taiwan Semiconductor Company Limited",
+    "canonicalPath": "/bdrs/tsmc34",
+    "keywords": [
+      "TSMC34",
+      "BDR Taiwan Semiconductor",
+      "dividendos TSMC34",
+      "volatilidade TSMC34",
+      "rentabilidade TSMC34",
+      "BDR semicondutores",
+      "TSMC34 B3"
+    ]
+  },
+  "summary": "TSMC34 é o BDR não patrocinado de nível I da Taiwan Semiconductor Company Limited, empresa taiwanesa de semicondutores e componentes eletrônicos listada na B3 desde 27/08/2019. O ativo representa ações da companhia no exterior e é negociado em reais. Até 29/10/2026, a cotação era de R$ 289,50, com rentabilidade total de 42,75% nos últimos 12 meses, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Taiwan Semiconductor Company Limited",
+    "legalName": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+    "ticker": "BVMF TSMC34",
+    "website": "https://www.taiwansemi.com/en/",
+    "wikidata": "Q122853137",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q122853137",
+      "https://en.wikipedia.org/wiki/Taiwan_Semiconductor_Company_Limited",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52531/TSMC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Taiwan Semiconductor Company Limited",
+    "legalName": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+    "type": "BDR não patrocinado (nível I)",
+    "listedSince": "27/08/2019",
+    "website": "https://www.taiwansemi.com/en/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "27/08/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 289,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "37,69% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,66%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 35,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TSMC34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "currency": "BRL",
+    "price": 289.5,
+    "historyStarts": "2019-10-25",
+    "returns": {
+      "1y": 0.4275,
+      "3y": 4.5083,
+      "5y": 2.8525,
+      "10y": null
+    },
+    "volatility1y": 0.3769,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5937,
+      "from": "2022-01-14",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.9003,
+      "payments12Months": 4,
+      "yield12Months": 0.0066,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.539834
+      }
+    },
+    "avgDailyTradedValue3m": 35170144
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 12 meses do TSMC34 é de 37,69%, classificada como alta. A maior queda em 5 anos foi de -59,37%, entre 14/01/2022 e 03/11/2022. O beta não está disponível, mas a alta volatilidade indica que o ativo pode ter oscilações significativas, especialmente em períodos de estresse de mercado. Para acompanhar oscilações, é possível configurar alertas de preço no app."
+  },
+  "history": {
+    "overview": "A Taiwan Semiconductor Company Limited foi fundada em janeiro de 1979 por Arthur Wang, com foco inicial na fabricação de retificadores. Em 1987, a empresa ampliou a capacidade produtiva com a instalação da planta em Yilan, e em 1991 automatizou operações e expandiu para a produção em massa de diodos TVS e retificadores de ponte. A expansão internacional começou em 1995 com a criação de subsidiárias na China, em Shandong e Tianjin, para atender à demanda de componentes eletrônicos na região. Em 2000, as ações foram listadas na Bolsa de Valores de Taiwan a NT$22 por ação. A empresa diversificou seu portfólio ao longo dos anos, incluindo a criação da TSC Auto ID Technology em 2007 para focar em impressoras de código de barras, e a aquisição da linha de produtos TVS da Onsemi em 2016 por US$ 7,1 milhões, reforçando sua presença nos mercados automotivo e industrial. O BDR TSMC34 passou a ser negociado na B3 em 27/08/2019, permitindo que investidores brasileiros acompanhassem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "1979-01",
+        "event": "Fundação da Taiwan Semiconductor Company Limited por Arthur Wang, com foco em retificadores.",
+        "source": 3
+      },
+      {
+        "date": "1987",
+        "event": "Estabelecimento da planta em Yilan, aumentando a produção de retificadores.",
+        "source": 3
+      },
+      {
+        "date": "1991",
+        "event": "Automação das operações e início da produção em massa de TVS e retificadores de ponte.",
+        "source": 3
+      },
+      {
+        "date": "1995-04",
+        "event": "Criação da Yangxin Everwell Electronic Co., Ltd. em Shandong, China.",
+        "source": 3
+      },
+      {
+        "date": "1996-08",
+        "event": "Estabelecimento da Tianjin Everwell Technology Co., Ltd. em Tianjin, China.",
+        "source": 3
+      },
+      {
+        "date": "2000-02-21",
+        "event": "Listagem das ações na Bolsa de Valores de Taiwan a NT$22 por ação.",
+        "source": 3
+      },
+      {
+        "date": "2007",
+        "event": "Criação da TSC Auto ID Technology Co., Ltd. para focar em impressoras de código de barras.",
+        "source": 3
+      },
+      {
+        "date": "2016",
+        "event": "Aquisição da linha de produtos TVS da Onsemi por US$ 7,1 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2019-08-27",
+        "event": "Listagem do BDR TSMC34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Taiwan Semiconductor Company Limited ganha dinheiro",
+      "body": "A Taiwan Semiconductor Company Limited é uma fabricante taiwanesa de semicondutores e componentes eletrônicos, atuando em setores como automotivo, comunicações, eletrônica de potência e bens de consumo. A empresa produz retificadores Schottky de trincheira, MOSFETs, dispositivos TVS, transistores, circuitos integrados analógicos e dispositivos de proteção ESD. Possui duas fábricas de wafers e duas de encapsulamento em Taiwan (Yilan e Lije) e unidades em Tianjin e Shandong, na China. A subsidiária TSC Auto ID Technology Co., Ltd. foca em impressoras de código de barras e RFID. A empresa colabora com a United Microelectronics Corporation (UMC) em tecnologias de MOSFETs e com a Bosch em dispositivos de proteção automotiva."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR TSMC34",
+      "body": "O TSMC34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Taiwan Semiconductor Company Limited listadas no exterior. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o dólar e o real. A listagem na B3 ocorreu em 27/08/2019. Como é um BDR não patrocinado, a empresa não participa ativamente da emissão ou manutenção do programa, o que pode afetar a liquidez e a disponibilidade de informações em comparação com BDRs patrocinados."
+    },
+    {
+      "id": "proventos",
+      "heading": "TSMC34 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, o TSMC34 distribuiu R$ 1,9003 por BDR em 4 pagamentos, resultando em um dividend yield de 0,66%. O último pagamento foi de R$ 0,5398 em 15/09/2026. Como a empresa paga dividendos na moeda local (dólar), o valor recebido em reais varia conforme o câmbio na data do pagamento. É possível acompanhar os dividendos e JCP no app com data de pagamento e multiplicados pela quantidade de BDRs na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TSMC34",
+      "body": "Até 29/10/2026, o TSMC34 apresentou rentabilidade total de 42,75% nos últimos 12 meses, 450,83% em 3 anos e 285,25% em 5 anos. Esses números incluem a variação do câmbio entre o dólar e o real, o que pode amplificar ou reduzir os retornos em reais. Para comparar o desempenho com índices como o S&P 500 ou o CDI, é possível usar a comparação com índices no app, que exibe a rentabilidade da carteira lado a lado com esses benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TSMC34",
+      "body": "O TSMC34 está sujeito a riscos cambiais, pois o preço em reais depende da cotação da ação no exterior e da variação do dólar. A volatilidade anualizada de 12 meses é de 37,69%, classificada como alta, e a maior queda em 5 anos foi de -59,37%, entre 14/01/2022 e 03/11/2022. A liquidez do BDR na B3 é limitada, com volume médio diário de R$ 35,2 milhões nos últimos 3 meses. Riscos setoriais incluem a dependência de mercados globais de semicondutores e a concorrência com outras fabricantes. É possível configurar alertas de preço no app para acompanhar oscilações."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar TSMC34 no app",
+      "body": "Para quem tem TSMC34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o TSMC34 junto com outras posições, como ações da B3 e ETFs, em uma única visão de alocação.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade do TSMC34 e o preço médio da sua posição, com gráficos e variações diárias e anuais.\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações para quando o TSMC34 atingir um preço específico, útil para acompanhar oscilações.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do TSMC34 com o S&P 500 e o CDI, lado a lado no mesmo gráfico.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a sua posição em TSMC34 e receba respostas baseadas nos seus dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TSMC34 paga dividendos?",
+      "answer": "Sim, nos 12 meses até 29/10/2026, o TSMC34 distribuiu R$ 1,9003 por BDR em 4 pagamentos, com dividend yield de 0,66%. O último pagamento foi de R$ 0,5398 em 15/09/2026. Como a empresa paga em dólar, o valor em reais varia com o câmbio."
+    },
+    {
+      "question": "Qual a diferença entre TSMC34 e TSMC?",
+      "answer": "TSMC34 é o BDR negociado na B3 em reais, enquanto TSMC é a ação original listada nos EUA. O TSMC34 acompanha a cotação da TSMC e a variação do câmbio, mas não é a mesma ação. O BDR é um recibo que representa a ação no exterior."
+    },
+    {
+      "question": "Como funciona o BDR TSMC34?",
+      "answer": "O TSMC34 é um BDR não patrocinado de nível I, negociado na B3 em reais, que representa ações da Taiwan Semiconductor Company Limited no exterior. O preço acompanha a ação original e o câmbio. A listagem na B3 foi em 27/08/2019."
+    },
+    {
+      "question": "Qual o volume médio do TSMC34 na B3?",
+      "answer": "O volume médio diário nos últimos 3 meses é de R$ 35,2 milhões. Isso indica a liquidez do ativo na B3, o que pode afetar a facilidade de compra e venda."
+    },
+    {
+      "question": "TSMC34 é de papel ou de tijolo?",
+      "answer": "TSMC34 é um BDR, não um FII. Ele representa ações de uma empresa de semicondutores, não imóveis ou créditos. É um ativo de renda variável, sujeito a riscos de mercado e câmbio."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o TSMC34 junto com outras posições, como ações da B3 e ETFs, em uma única visão de alocação."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do TSMC34 e o preço médio da sua posição, com gráficos e variações diárias e anuais."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o TSMC34 atingir um preço específico, útil para acompanhar oscilações."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do TSMC34 com o S&P 500 e o CDI, lado a lado no mesmo gráfico."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em TSMC34 e receba respostas baseadas nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de semicondutores, com exposição similar ao setor."
+      },
+      {
+        "ticker": "MUTC34",
+        "list": "bdrs",
+        "reason": "BDR da Micron Technology, também do setor de semicondutores."
+      },
+      {
+        "ticker": "ITLC34",
+        "list": "bdrs",
+        "reason": "BDR da Intel Corporation, concorrente direta no setor de semicondutores."
+      },
+      {
+        "ticker": "A1MD34",
+        "list": "bdrs",
+        "reason": "BDR da Advanced Micro Devices, outra empresa de semicondutores."
+      },
+      {
+        "ticker": "AVGO34",
+        "list": "bdrs",
+        "reason": "BDR da Broadcom Inc., atuante em semicondutores e redes."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TSMC34",
+      "url": "https://finance.yahoo.com/quote/TSMC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: TAIWANSMFAC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52531/TSMC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Taiwan Semiconductor Company Limited",
+      "url": "https://www.wikidata.org/wiki/Q122853137",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Taiwan Semiconductor Company Limited",
+      "url": "https://en.wikipedia.org/wiki/Taiwan_Semiconductor_Company_Limited",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

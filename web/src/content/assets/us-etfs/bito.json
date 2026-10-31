@@ -1,0 +1,263 @@
+{
+  "ticker": "BITO",
+  "slug": "bito",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BITO: ETF de Bitcoin, volatilidade e desempenho",
+    "description": "BITO é o ProShares Bitcoin ETF, com alta volatilidade e beta de 1,76. Veja desempenho, riscos e como investir a partir do Brasil.",
+    "h1": "BITO: ProShares Bitcoin ETF",
+    "canonicalPath": "/etfs/bito",
+    "keywords": [
+      "BITO",
+      "ProShares Bitcoin ETF",
+      "ETF de Bitcoin",
+      "volatilidade BITO",
+      "investir em Bitcoin"
+    ]
+  },
+  "summary": "BITO é o ProShares Bitcoin ETF, um fundo de índice que investe em contratos futuros de Bitcoin, lançado pela ProShares em 20 de outubro de 2021. O ativo não possui taxa de administração informada no dossiê. Em 30 de outubro de 2026, a cota valia US$ 10,23, com rentabilidade total de -30,57% nos 12 meses anteriores e uma volatilidade anualizada de 44,78%, classificada como muito alta.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "ProShares Bitcoin ETF",
+    "ticker": "ARCX BITO",
+    "foundingDate": "2021-10-20",
+    "provider": {
+      "name": "ProShares",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/ProShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de contratos futuros de Bitcoin",
+    "issuerOrManager": "ProShares",
+    "trackedIndex": "Contratos futuros de Bitcoin",
+    "name": "ProShares Bitcoin ETF",
+    "founded": "20/10/2021"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ProShares Bitcoin ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "20/10/2021",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 10,23",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "44,78% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,76",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "24,13%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 784,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BITO",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ProShares Bitcoin ETF",
+    "currency": "USD",
+    "price": 10.23,
+    "historyStarts": "2021-10-20",
+    "returns": {
+      "1y": -0.3057,
+      "3y": 0.8457,
+      "5y": -0.0326,
+      "10y": null
+    },
+    "volatility1y": 0.4478,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7786,
+      "from": "2021-11-09",
+      "to": "2022-11-21"
+    },
+    "beta1y": {
+      "value": 1.76,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.469,
+      "payments12Months": 12,
+      "yield12Months": 0.2413,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.017
+      }
+    },
+    "avgDailyTradedValue3m": 784327645
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do BITO é de 44,78%, nível muito alta, com beta de 1,76 contra o S&P 500, indicando movimentos maiores que o índice. A maior queda em 5 anos foi de -77,86%, de 09/11/2021 a 21/11/2022. Para ativos de criptomoedas, essa volatilidade é comum, mas o beta alto reflete a sensibilidade ao mercado acionário. Use [alertas de preço](/recursos/alertas-de-preco) para acompanhar oscilações."
+  },
+  "history": {
+    "overview": "A ProShares, emissora do BITO, surgiu da ProFunds Group, fundada em 1997 por Louis Mayberg e Michael Sapir. Em 2006, a empresa lançou a marca ProShares e seu primeiro ETF inverso. Em outubro de 2021, a ProShares introduziu um ETF que investe em contratos futuros de Bitcoin, marcando o início do BITO. O primeiro pregão das cotas ocorreu em 20 de outubro de 2021. Em outubro de 2023, a ProShares expandiu sua oferta ao lançar três ETFs de futuros de Ethereum, tornando-se uma das primeiras empresas a oferecer esse tipo de produto nos Estados Unidos.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fundação da ProFunds Group, antecessora da ProShares",
+        "source": 1
+      },
+      {
+        "date": "2006",
+        "event": "Lançamento da marca ProShares e do primeiro ETF inverso",
+        "source": 1
+      },
+      {
+        "date": "2021-10-20",
+        "event": "Primeiro pregão das cotas do BITO na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2023-10-02",
+        "event": "ProShares lança três ETFs de futuros de Ethereum nos EUA",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o BITO funciona",
+      "body": "O BITO é um ETF emitido pela ProShares que investe em contratos futuros de Bitcoin. Contratos futuros são acordos padronizados para comprar ou vender um ativo em uma data futura a um preço predeterminado. O BITO não possui alavancagem ou estrutura inversa, mas como é baseado em futuros, sua performance pode divergir da do Bitcoin em períodos longos devido ao rolamento dos contratos. A ProShares lançou o BITO em outubro de 2021, sendo o primeiro ETF desse tipo nos Estados Unidos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do BITO",
+      "body": "O BITO segue a performance de contratos futuros de Bitcoin. As fontes não detalham a composição exata dos contratos ou a alocação diária do fundo. O Bitcoin, ativo subjacente, é a primeira criptomoeda descentralizada, criada em 2008 por Satoshi Nakamoto, e opera em uma rede peer-to-peer com validação por prova de trabalho."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no BITO a partir do Brasil",
+      "body": "Investidores brasileiros podem acessar o BITO por meio de contas em corretoras no exterior ou por ETFs e BDRs listados na B3 que replicam a mesma estratégia. Como o ativo é cotado em dólar, há risco cambial: variações no câmbio afetam o retorno em reais. O app permite acompanhar a [carteira consolidada](/recursos/carteira-consolidada) com ativos em diferentes moedas e classes."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BITO",
+      "body": "Em 30 de outubro de 2026, o BITO tinha rentabilidade total de -30,57% nos 12 meses, 84,57% em 3 anos e -3,26% em 5 anos. A volatilidade anualizada era de 44,78%. O beta de 1,76 contra o S&P 500 indica que o ativo tende a oscilar mais que o índice. Para comparar com outros índices, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BITO",
+      "body": "O BITO possui volatilidade muito alta (44,78%) e uma maior queda de -77,86% entre 09/11/2021 e 21/11/2022. Riscos incluem a volatilidade do Bitcoin, o efeito do rolamento de contratos futuros e o risco cambial. A [volatilidade](/recursos/alertas-de-preco) pode ser monitorada com alertas de preço no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o BITO?",
+      "answer": "BITO é o ProShares Bitcoin ETF, um ETF que investe em contratos futuros de Bitcoin, lançado em 20 de outubro de 2021. Ele não possui alavancagem, mas sua performance pode divergir do Bitcoin em períodos longos devido ao rolamento dos contratos."
+    },
+    {
+      "question": "Qual a diferença entre BITO e IBIT?",
+      "answer": "O BITO investe em contratos futuros de Bitcoin, enquanto o [IBIT](/etfs/ibit) é um ETF que detém Bitcoin físico. O BITO pode ter divergência de performance em períodos longos devido ao rolamento dos contratos, enquanto o IBIT segue mais de perto o preço do Bitcoin."
+    },
+    {
+      "question": "O BITO paga dividendos?",
+      "answer": "Sim, o BITO distribui proventos. Nos 12 meses até 30/10/2026, pagou US$ 2,4690 por cota em 12 pagamentos, com dividend yield de 24,13%. O último pagamento foi de US$ 0,0170 em 01/10/2026."
+    },
+    {
+      "question": "Como investir no BITO a partir do Brasil?",
+      "answer": "Investidores brasileiros podem acessar o BITO por meio de contas em corretoras no exterior ou por ETFs e BDRs na B3 que replicam a mesma estratégia. Há risco cambial, pois o ativo é cotado em dólar. O app permite acompanhar a [carteira consolidada](/recursos/carteira-consolidada) com ativos em diferentes moedas."
+    },
+    {
+      "question": "Qual a volatilidade do BITO?",
+      "answer": "A volatilidade anualizada do BITO é de 44,78%, nível muito alta, com beta de 1,76 contra o S&P 500. A maior queda em 5 anos foi de -77,86%, de 09/11/2021 a 21/11/2022. Use [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do BITO junto com outros ativos em uma única visão, com valor por classe e maiores posições."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do BITO com o S&P 500 e outros índices no mesmo gráfico, com períodos ajustáveis."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o BITO atingir preços que você definir, útil para monitorar oscilações de alta volatilidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IBIT",
+        "list": "us-etfs",
+        "reason": "ETF de Bitcoin físico, alternativa ao BITO que não usa contratos futuros."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta do BITO."
+      },
+      {
+        "ticker": "ETHA",
+        "list": "us-etfs",
+        "reason": "ETF de Ethereum, outro ativo de criptomoeda com estrutura similar."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BITO",
+      "url": "https://finance.yahoo.com/quote/BITO/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): ProShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/ProShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Bitcoin (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Bitcoin",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Futures contract (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Futures_contract",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

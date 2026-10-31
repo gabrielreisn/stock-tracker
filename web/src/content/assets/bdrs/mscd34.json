@@ -1,0 +1,308 @@
+{
+  "ticker": "MSCD34",
+  "slug": "mscd34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MSCD34: BDR da Mastercard, dividendos e volatilidade",
+    "description": "Conheça o MSCD34, BDR da Mastercard na B3: dividendos, desempenho, riscos e como acompanhar no app. Rentabilidade de 14,07% em 12 meses até 29/10/2026.",
+    "h1": "MSCD34: BDR da Mastercard na B3",
+    "canonicalPath": "/bdrs/mscd34",
+    "keywords": [
+      "MSCD34",
+      "Mastercard BDR",
+      "BDR não patrocinado",
+      "dividendos MSCD34",
+      "volatilidade MSCD34",
+      "B3 Mastercard",
+      "BDR nível I"
+    ]
+  },
+  "summary": "MSCD34 é o BDR não patrocinado (nível I) da Mastercard Incorporated, empresa de serviços de pagamento fundada em 1966. Negociado na B3 desde 15/06/2011, o ativo representa ações da empresa listadas na Bolsa de Valores de Nova Iorque (ticker MA). Em 29/10/2026, o preço era de R$ 108,35, com rentabilidade total de 14,07% nos últimos 12 meses, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Mastercard",
+    "legalName": "MASTERCARD INCORPORATED",
+    "ticker": "BVMF MSCD34",
+    "foundingDate": "1966",
+    "website": "https://www.mastercard.com/",
+    "wikidata": "Q489921",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q489921",
+      "https://en.wikipedia.org/wiki/Mastercard",
+      "https://pt.wikipedia.org/wiki/Mastercard",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50253/MSCD/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Mastercard",
+    "legalName": "MASTERCARD INCORPORATED",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1966",
+    "listedSince": "15/06/2011",
+    "headquarters": "Purchase",
+    "website": "https://www.mastercard.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "MASTERCARD INCORPORATED",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: MA",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Purchase",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1966",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "15/06/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 108,35",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "33,62% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,53%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MSCD34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Mastercard Incorporated",
+    "currency": "BRL",
+    "price": 108.35,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1407,
+      "3y": 0.8264,
+      "5y": 0.7961,
+      "10y": 9.4167
+    },
+    "volatility1y": 0.3362,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2995,
+      "from": "2022-01-05",
+      "to": "2022-10-03"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.5733,
+      "payments12Months": 4,
+      "yield12Months": 0.0053,
+      "lastPayment": {
+        "date": "2026-10-09",
+        "amount": 0.146508
+      }
+    },
+    "avgDailyTradedValue3m": 2240292
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do MSCD34 nos últimos 12 meses é de 33,62%, o que é considerado alto para um ativo de grande capitalização. A maior queda em 5 anos foi de -29,95%, ocorrendo entre 05/01/2022 e 03/10/2022. Como o beta não está disponível, não é possível medir a sensibilidade do ativo em relação ao índice de referência. Para acompanhar a volatilidade e definir pontos de entrada ou saída, você pode configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificações quando o ativo atinge o valor desejado."
+  },
+  "history": {
+    "overview": "A Mastercard Incorporated, originalmente conhecida como Interbank e depois Master Charge, foi fundada em 1966 por uma aliança de bancos e associações regionais em resposta ao BankAmericard (atual Visa). A empresa operou como cooperativa até 2006, quando realizou sua oferta inicial de ações (IPO) na Bolsa de Valores de Nova Iorque, tornando-se uma corporação de Delaware. Desde então, expandiu-se globalmente por meio de aquisições estratégicas, como a DataCash (2010), VocaLink (2016) e Ekata (2021), além de lançar tecnologias de segurança e pagamentos digitais. Em 2023, a empresa suspendeu operações na Rússia em resposta à invasão da Ucrânia, e em 2024 obteve aprovação para emitir cartões em yuan na China. O BDR MSCD34 foi listado na B3 em 15/06/2011, permitindo que investidores brasileiros tivessem exposição à empresa sem a necessidade de operar diretamente no mercado americano.",
+    "timeline": [
+      {
+        "date": "1966",
+        "event": "Fundação da empresa como Interbank Card Association (ICA) por uma aliança de bancos.",
+        "source": 2
+      },
+      {
+        "date": "2006-05-25",
+        "event": "Realização da oferta inicial de ações (IPO) na Bolsa de Valores de Nova Iorque.",
+        "source": 3
+      },
+      {
+        "date": "2011-06-15",
+        "event": "Listagem do BDR MSCD34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2016-07",
+        "event": "Aquisição de 92,4% da VocaLink, empresa britânica de pagamentos, por US$ 920 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2021-04",
+        "event": "Aquisição da Ekata, empresa de verificação de identidade, por US$ 850 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2022-03",
+        "event": "Suspensão de todas as operações de negócios na Rússia.",
+        "source": 3
+      },
+      {
+        "date": "2023-11-17",
+        "event": "Aprovação pelo governo chinês da licença de compensação de cartões para a joint venture da Mastercard.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Mastercard ganha dinheiro",
+      "body": "A Mastercard Incorporated é uma empresa multinacional de serviços financeiros cujo principal negócio é processar pagamentos entre os bancos dos comerciantes e os bancos emissores de cartões de débito, crédito e pré-pago que usam a bandeira Mastercard. A empresa também oferece serviços relacionados a pagamentos, incluindo transações de viagens e reservas. Em 2021, a empresa processou US$ 2,054 trilhões em transações, com cerca de 3.585 transações por segundo em 2020. A receita vem das taxas cobradas dos bancos emissores e dos comerciantes pela utilização da infraestrutura de pagamento da empresa."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR MSCD34",
+      "body": "O MSCD34 é um BDR não patrocinado (nível I), que é um recibo negociado na B3, em reais, lastreado em ações da Mastercard Incorporated listadas na Bolsa de Valores de Nova Iorque sob o ticker MA. O BDR foi listado na B3 em 15/06/2011. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o dólar e o real. Por ser não patrocinado, a empresa não participa ativamente da emissão, e a liquidez pode ser menor que a de BDRs patrocinados."
+    },
+    {
+      "id": "proventos",
+      "heading": "MSCD34 paga dividendos?",
+      "body": "Sim, o MSCD34 paga dividendos. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,5733 por BDR em 4 pagamentos, resultando em um dividend yield de 0,53%. O último pagamento foi de R$ 0,1465 em 09/10/2026. É importante lembrar que a empresa paga os dividendos em sua moeda local (dólar) e o valor chega ao investidor em reais, sujeito à variação cambial e às regras de tributação aplicáveis."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MSCD34",
+      "body": "A rentabilidade total do MSCD34, incluindo proventos, foi de 14,07% nos 12 meses até 29/10/2026, 82,64% em 3 anos e 79,61% em 5 anos. Em 10 anos, o retorno acumulado foi de 941,67%. Esses números incluem a variação do câmbio entre o dólar e o real, o que significa que a performance reflete tanto a valorização da ação da Mastercard quanto a oscilação da moeda. Para comparar esse desempenho com índices de referência, você pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MSCD34",
+      "body": "Os riscos do MSCD34 incluem a exposição cambial, já que o valor do BDR depende da cotação do dólar em relação ao real. A volatilidade anualizada de 12 meses é de 33,62%, classificada como alta, e a maior queda nos últimos 5 anos foi de -29,95%, entre 05/01/2022 e 03/10/2022. Além disso, a liquidez do BDR na B3 pode ser menor que a da ação original, com volume médio de R$ 2,2 milhões por dia nos últimos 3 meses. A empresa também enfrenta riscos regulatórios e antitruste, como mencionado nas fontes, e a suspensão de operações em mercados específicos, como a Rússia em 2022, pode impactar o negócio."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MSCD34 paga dividendos?",
+      "answer": "Sim, o MSCD34 paga dividendos. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,5733 por BDR em 4 pagamentos, com um dividend yield de 0,53%. O último pagamento foi de R$ 0,1465 em 09/10/2026. Os valores são pagos em reais, mas refletem os dividendos da empresa em dólar, sujeitos à variação cambial."
+    },
+    {
+      "question": "Qual a diferença entre MSCD34 e a ação MA?",
+      "answer": "O MSCD34 é um BDR negociado na B3 em reais, enquanto a ação MA é negociada na Bolsa de Valores de Nova Iorque em dólar. O preço do MSCD34 acompanha a cotação da MA e a variação do câmbio. O BDR permite que investidores brasileiros tenham exposição à Mastercard sem a necessidade de operar diretamente no mercado americano."
+    },
+    {
+      "question": "MSCD34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O MSCD34 é um BDR não patrocinado (nível I). Isso significa que a empresa não participa ativamente da emissão do BDR, e a liquidez pode ser menor que a de BDRs patrocinados. O BDR foi listado na B3 em 15/06/2011."
+    },
+    {
+      "question": "Qual o risco cambial do MSCD34?",
+      "answer": "O MSCD34 tem risco cambial porque seu valor depende da cotação do dólar em relação ao real. Se o dólar se valorizar em relação ao real, o BDR tende a subir, e vice-versa. A rentabilidade do ativo inclui a variação do câmbio, o que pode amplificar ou reduzir os retornos em reais."
+    },
+    {
+      "question": "Como acompanhar o desempenho do MSCD34?",
+      "answer": "Você pode acompanhar o desempenho do MSCD34 no app, que mostra a rentabilidade e o preço médio de cada ativo. A [carteira consolidada](/recursos/carteira-consolidada) permite visualizar a alocação e as maiores posições, enquanto a [comparação com índices](/recursos/comparacao-com-indices) mostra a performance lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "question": "Qual a liquidez do MSCD34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 2,2 milhões. Como o BDR é não patrocinado, a liquidez pode ser menor que a da ação original na Bolsa de Valores de Nova Iorque. Investidores devem considerar isso ao negociar grandes volumes."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do MSCD34 ao lado de outros ativos na sua carteira, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do MSCD34 com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o MSCD34 atingir um preço específico, útil para acompanhar a volatilidade."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio do MSCD34, com ganho e variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VISA34",
+        "list": "bdrs",
+        "reason": "Concorrente direto da Mastercard no mercado de pagamentos, também negociado como BDR na B3."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar a performance do MSCD34 com o mercado americano."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de grande capitalização tecnológica, com exposição similar ao mercado americano."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de tecnologia, útil para diversificação dentro do mesmo setor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MSCD34",
+      "url": "https://finance.yahoo.com/quote/MSCD34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MASTERCARD, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50253/MSCD/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Mastercard",
+      "url": "https://www.wikidata.org/wiki/Q489921",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Mastercard",
+      "url": "https://en.wikipedia.org/wiki/Mastercard",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Mastercard",
+      "url": "https://pt.wikipedia.org/wiki/Mastercard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

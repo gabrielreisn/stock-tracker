@@ -1,0 +1,274 @@
+{
+  "ticker": "XBI",
+  "slug": "xbi",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XBI: ETF de biotecnologia, histórico e volatilidade",
+    "description": "XBI é o ETF da State Street que replica o índice de biotecnologia do S&P. Veja desempenho, volatilidade de 29% e como acompanhar o ativo no app.",
+    "h1": "XBI: State Street SPDR S&P Biotech ETF",
+    "canonicalPath": "/etfs/xbi",
+    "keywords": [
+      "XBI",
+      "ETF biotecnologia",
+      "SPDR S&P Biotech",
+      "State Street ETF",
+      "investir em biotech",
+      "volatilidade XBI"
+    ]
+  },
+  "summary": "XBI é o State Street SPDR S&P Biotech ETF, lançado em 06/02/2006, que replica o S&P Biotechnology Select Industry Index. O ativo, gerido pela State Street Global Advisors, investe em empresas de biotecnologia dos Estados Unidos. Em 30/10/2026, a cota valia US$ 155,98, com rentabilidade total de 39,98% nos últimos 12 meses e volume médio diário de US$ 1,39 bilhão.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street SPDR S&P Biotech ETF",
+    "ticker": "ARCX XBI",
+    "foundingDate": "2006-02-06",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P Biotechnology Select Industry Index",
+    "name": "State Street SPDR S&P Biotech ETF",
+    "founded": "06/02/2006"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street SPDR S&P Biotech ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "06/02/2006",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 155,98",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "29,02% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,09",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,35%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,39 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XBI",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street SPDR S&P Biotech ETF",
+    "currency": "USD",
+    "price": 155.98,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.3998,
+      "3y": 1.4078,
+      "5y": 0.2113,
+      "10y": 1.8168
+    },
+    "volatility1y": 0.2902,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5318,
+      "from": "2021-11-03",
+      "to": "2022-05-11"
+    },
+    "beta1y": {
+      "value": 1.09,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.545,
+      "payments12Months": 2,
+      "yield12Months": 0.0035,
+      "lastPayment": {
+        "date": "2026-06-22",
+        "amount": 0.138
+      }
+    },
+    "avgDailyTradedValue3m": 1388892337
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do XBI é de 29,02% nos 12 meses até 30/10/2026, nível considerado alto. A maior queda em 5 anos foi de -53,18%, entre 03/11/2021 e 11/05/2022. Esse perfil de volatilidade é típico de ETFs de setores concentrados em inovação, como biotecnologia, onde resultados de pesquisas e aprovações regulatórias geram oscilações bruscas. Para acompanhar essas variações, é possível configurar alertas de preço no app."
+  },
+  "history": {
+    "overview": "O XBI foi lançado em 06 de fevereiro de 2006 como parte da família SPDR, gerida pela State Street Global Advisors (SSGA). A SSGA é a terceira maior provedora de ETFs do mundo, atrás de iShares e Vanguard, e é responsável por veículos como o SPDR S&P 500 Trust, o maior ETF do mundo por patrimônio. Em 2007, a SSGA unificou seus ETFs nos Estados Unidos sob a marca SPDR, incluindo a família StreetTRACKS, consolidando 23 fundos sob uma única bandeira. O XBI surgiu para oferecer exposição passiva ao setor de biotecnologia, um segmento que envolve a integração de ciências naturais e engenharia para o desenvolvimento de produtos e serviços, como medicamentos e bioinsumos. O setor é conhecido por sua alta volatilidade, impulsionada por aprovações regulatórias e avanços em engenharia genética.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "SSGA e Merrill Lynch introduzem os Sector Spiders, que seguem os setores do S&P 500",
+        "source": 1
+      },
+      {
+        "date": "2006-02-06",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA renomeia seus ETFs nos EUA para a marca SPDR, incluindo a família StreetTRACKS",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XBI funciona",
+      "body": "O XBI é um ETF que replica o desempenho do S&P Biotechnology Select Industry Index. A emissora é a State Street Global Advisors (SSGA), que gerencia a família SPDR. O fundo foi lançado em 06/02/2006 e opera como um unit investment trust, estrutura comum para veículos de indexação nos Estados Unidos. Diferente de ETFs alavancados ou inversos, o XBI não possui rebalanceamento diário para multiplicar retornos; ele busca simplesmente acompanhar o índice de referência, minimizando o erro de rastreamento."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XBI",
+      "body": "O XBI segue o S&P Biotechnology Select Industry Index, que agrupa empresas de biotecnologia. As fontes indicam que o setor envolve a aplicação de organismos e partes deles para produtos e serviços, com destaque para a engenharia genética e a cultura de tecidos. O índice faz parte da estrutura de setores do S&P 500, onde a SSGA lançou os Sector Spiders em 1998. A composição exata das empresas não é detalhada nas fontes fornecidas, mas o foco é o segmento de biotecnologia dos EUA."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XBI a partir do Brasil",
+      "body": "Para investir no XBI a partir do Brasil, o investidor pode utilizar uma conta em uma corretora no exterior, onde o ativo é negociado em dólar. Outra opção é buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou o setor de biotecnologia. O principal risco cambial é a variação do dólar em relação ao real, que impacta o retorno final em moeda local. O app permite acompanhar a cotação e o desempenho do ativo em dólar, facilitando a análise do impacto cambial na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XBI",
+      "body": "Em 30/10/2026, a cota do XBI valia US$ 155,98. A rentabilidade total com proventos foi de 39,98% nos 12 meses, 140,78% em 3 anos, 21,13% em 5 anos e 181,68% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,39 bilhão. Para comparar esse desempenho com o mercado americano, é possível utilizar a ferramenta de comparação com índices do app, que coloca a rentabilidade do XBI lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XBI",
+      "body": "O XBI apresenta volatilidade anualizada de 29,02% nos últimos 12 meses, classificada como alta. A maior queda nos últimos 5 anos foi de -53,18%, do pico em 03/11/2021 ao ponto mais baixo em 11/05/2022. O beta de 1,09 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice com amplitude ligeiramente maior. Riscos específicos do setor incluem a dependência de aprovações regulatórias e a alta sensibilidade a resultados de ensaios clínicos. A volatilidade pode ser monitorada com alertas de preço no app."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar XBI no app",
+      "body": "Para quem tem XBI na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações quando a cota do XBI atingir um valor específico, útil para monitorar a alta volatilidade do setor de biotecnologia.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do XBI com o S&P 500 no mesmo gráfico, para avaliar o desempenho relativo do setor de biotecnologia.\n- [carteira consolidada](/recursos/carteira-consolidada): Integre o XBI à sua carteira para ver a alocação em dólar e o impacto cambial na composição total dos seus investimentos.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe o gráfico de rentabilidade do XBI e o preço médio da sua posição, com a variação do dia e do ano."
+    }
+  ],
+  "faq": [
+    {
+      "question": "XBI é um ETF alavancado?",
+      "answer": "Não, o XBI não é um ETF alavancado. Ele replica o S&P Biotechnology Select Industry Index sem multiplicadores de retorno diário. A estrutura é a de um ETF passivo tradicional, que busca acompanhar o índice de referência."
+    },
+    {
+      "question": "Qual a diferença entre XBI e XLV?",
+      "answer": "O XBI foca especificamente no setor de biotecnologia, enquanto o [XLV](/etfs/xlv) (State Street Health Care Select Sector SPDR ETF) cobre o setor de saúde como um todo, incluindo farmacêuticas e equipamentos médicos. O XBI é mais concentrado e, portanto, mais volátil."
+    },
+    {
+      "question": "XBI paga dividendos?",
+      "answer": "Sim, o XBI distribui proventos. Nos 12 meses até 30/10/2026, foram pagos US$ 0,5450 por cota em 2 pagamentos, resultando em um dividend yield de 0,35%. O último pagamento foi de US$ 0,1380 em 22/06/2026."
+    },
+    {
+      "question": "Como acompanhar o XBI no app?",
+      "answer": "O app permite monitorar a cotação do XBI em tempo real, com gráficos de desempenho e alertas de preço. É possível integrar o ativo à carteira consolidada para ver a alocação e o impacto cambial na carteira total."
+    },
+    {
+      "question": "Qual o risco cambial do XBI para o investidor brasileiro?",
+      "answer": "O XBI é negociado em dólar, então o investidor brasileiro está exposto à variação do câmbio. Uma valorização do dólar em relação ao real aumenta o retorno em moeda local, enquanto uma desvalorização reduz esse retorno. O app permite acompanhar o desempenho em dólar e a variação cambial."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações quando a cota do XBI atingir um valor específico, útil para monitorar a alta volatilidade do setor de biotecnologia."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do XBI com o S&P 500 no mesmo gráfico, para avaliar o desempenho relativo do setor de biotecnologia."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Integre o XBI à sua carteira para ver a alocação em dólar e o impacto cambial na composição total dos seus investimentos."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe o gráfico de rentabilidade do XBI e o preço médio da sua posição, com a variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XLV",
+        "list": "us-etfs",
+        "reason": "ETF do setor de saúde, mais amplo que o XBI, com menor concentração em biotecnologia pura."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, usado como referência de mercado para comparar o desempenho do XBI."
+      },
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "ETF de small caps, que também apresenta alta volatilidade, útil para comparar o risco de mercado."
+      },
+      {
+        "ticker": "VGT",
+        "list": "us-etfs",
+        "reason": "ETF de tecnologia, outro setor de inovação com alta volatilidade e exposição a resultados de pesquisas."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XBI",
+      "url": "https://finance.yahoo.com/quote/XBI/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Biotechnology (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Biotechnology",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Index fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Index_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

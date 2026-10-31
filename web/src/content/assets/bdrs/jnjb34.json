@@ -1,0 +1,293 @@
+{
+  "ticker": "JNJB34",
+  "slug": "jnjb34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "JNJB34: BDR da Johnson & Johnson, dividendos e riscos",
+    "description": "JNJB34 é o BDR da Johnson & Johnson na B3. Veja dividendos, rentabilidade, volatilidade e riscos cambiais do ativo em reais.",
+    "h1": "JNJB34: Johnson & Johnson (BDR)",
+    "canonicalPath": "/bdrs/jnjb34",
+    "keywords": [
+      "JNJB34",
+      "Johnson & Johnson BDR",
+      "BDR nível I",
+      "dividendos JNJB34",
+      "volatilidade JNJB34",
+      "risco cambial BDR",
+      "JNJ B3"
+    ]
+  },
+  "summary": "JNJB34 é o BDR nível I da Johnson & Johnson, empresa americana de saúde com sede em New Brunswick. Listado na B3 desde 2011, o recibo acompanha a ação JNJ na Bolsa de Nova York e o câmbio. Em 30/10/2026, a cotação era de R$ 100,38, com rentabilidade de 50,76% nos últimos 12 meses, incluindo a variação do dólar.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Johnson & Johnson",
+    "legalName": "JOHNSON & JOHNSON",
+    "ticker": "BVMF JNJB34",
+    "foundingDate": "1886",
+    "website": "https://www.jnj.com",
+    "wikidata": "Q333718",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q333718",
+      "https://en.wikipedia.org/wiki/Johnson_%26_Johnson",
+      "https://pt.wikipedia.org/wiki/Johnson_%26_Johnson",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50350/JNJB/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Johnson & Johnson",
+    "legalName": "JOHNSON & JOHNSON",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1886",
+    "listedSince": "30/08/2011",
+    "headquarters": "New Brunswick",
+    "website": "https://www.jnj.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "JOHNSON & JOHNSON",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: JNJ",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "New Brunswick",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1886",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "30/08/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 100,38",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "26,27% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,28%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 832.840,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "JNJB34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Johnson & Johnson",
+    "currency": "BRL",
+    "price": 100.38,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.5076,
+      "3y": 1.1637,
+      "5y": 0.8195,
+      "10y": 4.1775
+    },
+    "volatility1y": 0.2627,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2464,
+      "from": "2023-01-04",
+      "to": "2023-11-14"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.2831,
+      "payments12Months": 4,
+      "yield12Months": 0.0128,
+      "lastPayment": {
+        "date": "2026-08-25",
+        "amount": 0.31715
+      }
+    },
+    "avgDailyTradedValue3m": 832840
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do JNJB34 nos últimos 12 meses é de 26,27%, um nível considerado alto para o ativo. A maior queda em 5 anos foi de -24,64%, registrada entre 04/01/2023 e 14/11/2023. Como o beta não está disponível, não é possível medir a sensibilidade do BDR em relação ao Ibovespa. A volatilidade de BDRs reflete tanto a oscilação da ação original quanto a variação do câmbio, o que pode amplificar os movimentos de preço em relação a ativos domésticos."
+  },
+  "history": {
+    "overview": "Fundada em 1886 em New Brunswick, Nova Jersey, por Robert Wood Johnson e seus irmãos, a Johnson & Johnson iniciou suas atividades com 14 funcionários, focando em produtos cirúrgicos estéreis e itens de higiene. A empresa expandiu-se globalmente ao longo do século XX, introduzindo produtos como o Band-Aid em 1921 e estabelecendo operações no Brasil em 1933. Em 1961, a aquisição da Janssen Farmacêutica consolidou a presença da companhia no setor de biotecnologia e vacinas, culminando no desenvolvimento de uma vacina contra a covid-19 em 2021. Em 2023, a Johnson & Johnson realizou o spin-off da Kenvue, separando as operações de saúde do consumidor para focar exclusivamente em farmacêuticos e dispositivos médicos. A listagem do BDR na B3 ocorreu em 30 de agosto de 2011, permitindo que investidores brasileiros acompanhassem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "1886",
+        "event": "Fundação da Johnson & Johnson em New Brunswick, Nova Jersey.",
+        "source": 2
+      },
+      {
+        "date": "1961",
+        "event": "Aquisição da Janssen Farmacêutica, expandindo o portfólio para biotecnologia.",
+        "source": 4
+      },
+      {
+        "date": "2011-08-30",
+        "event": "Listagem do BDR JNJB34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2021-02",
+        "event": "Liberação para uso emergencial da vacina contra a covid-19 desenvolvida pela Janssen.",
+        "source": 4
+      },
+      {
+        "date": "2023-08",
+        "event": "Spin-off da Kenvue, separando as operações de saúde do consumidor.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Johnson & Johnson ganha dinheiro",
+      "body": "A Johnson & Johnson atua nos setores farmacêutico, de biotecnologia e de tecnologias médicas. Após a separação da Kenvue em 2023, a empresa concentrou-se em produtos de saúde profissional, incluindo medicamentos e dispositivos médicos. A companhia possui cerca de 200 subsidiárias em mais de 90 países, com produtos vendidos em mais de 175 nações. No Brasil, a empresa opera desde 1933 e possui o maior complexo industrial do mundo em São José dos Campos (SP)."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR JNJB34",
+      "body": "O JNJB34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa a ação original JNJ, listada na Bolsa de Valores de Nova York. O preço do BDR acompanha a cotação da ação nos Estados Unidos e a taxa de câmbio do dólar. O programa foi listado na B3 em 30/08/2011. Por ser não patrocinado, a emissão é feita por instituições depositárias e não há interação direta com a empresa emissora."
+    },
+    {
+      "id": "proventos",
+      "heading": "JNJB34 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, o JNJB34 distribuiu R$ 1,2831 por BDR em 4 pagamentos, resultando em um dividend yield de 1,28%. O último pagamento foi de R$ 0,3172 em 25/08/2026. Como a Johnson & Johnson é uma empresa americana, os dividendos são pagos em dólares e convertidos para reais no momento do repasse ao investidor."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do JNJB34",
+      "body": "Até 30/10/2026, o JNJB34 apresentou rentabilidade total de 50,76% em 12 meses, 116,37% em 3 anos e 417,75% em 10 anos. Esses números incluem a variação do câmbio entre o real e o dólar. Para avaliar o desempenho em relação a outros mercados, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do JNJB34",
+      "body": "O principal risco do JNJB34 é o cambial, pois o valor do BDR depende da cotação do dólar. A volatilidade anualizada de 12 meses é de 26,27%, considerada alta. A maior queda em 5 anos foi de -24,64%, entre 04/01/2023 e 14/11/2023. A liquidez é moderada, com volume médio diário de R$ 832.840,00 nos últimos 3 meses. Riscos regulatórios e de litígios também afetam o setor farmacêutico."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar JNJB34 no app",
+      "body": "Para quem tem JNJB34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do JNJB34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico, para avaliar o desempenho em relação a outros mercados.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o JNJB34 chegar ao preço que você escolheu, útil para monitorar a volatilidade do ativo.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do JNJB34 junto com outras posições de BDRs e ações, vendo o valor por classe e as maiores posições em uma só visão."
+    }
+  ],
+  "faq": [
+    {
+      "question": "JNJB34 paga dividendos?",
+      "answer": "Sim, o JNJB34 paga dividendos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 1,2831 por BDR em 4 pagamentos. O valor é convertido de dólares para reais no momento do repasse, o que pode variar conforme a taxa de câmbio."
+    },
+    {
+      "question": "Qual a diferença entre JNJB34 e a ação JNJ?",
+      "answer": "O JNJB34 é um BDR negociado na B3 em reais, enquanto a JNJ é a ação original negociada na Bolsa de Nova York em dólares. O preço do BDR acompanha a ação e a taxa de câmbio, permitindo que investidores brasileiros tenham exposição à Johnson & Johnson sem precisar abrir conta no exterior."
+    },
+    {
+      "question": "JNJB34 é um BDR patrocinado?",
+      "answer": "Não, o JNJB34 é um BDR não patrocinado de nível I. Isso significa que a emissão é feita por instituições depositárias e não há interação direta com a Johnson & Johnson. Os direitos dos detentores são limitados em comparação com BDRs patrocinados."
+    },
+    {
+      "question": "Qual o risco cambial do JNJB34?",
+      "answer": "O risco cambial é alto, pois o valor do BDR depende da cotação do dólar. Se o dólar valorizar em relação ao real, o BDR tende a subir, e vice-versa. Esse risco é adicional à volatilidade da própria ação JNJ nos Estados Unidos."
+    },
+    {
+      "question": "Qual a liquidez do JNJB34 na B3?",
+      "answer": "O volume médio diário nos últimos 3 meses é de R$ 832.840,00. Esse nível de liquidez é moderado, o que pode resultar em spreads mais amplos e dificuldade de execução de ordens grandes sem impacto no preço."
+    },
+    {
+      "question": "Como acompanhar a rentabilidade do JNJB34?",
+      "answer": "Você pode usar o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app para ver a rentabilidade da sua posição e comparar com o preço médio de compra. O recurso mostra a variação do dia e do ano, ajudando a monitorar o desempenho do ativo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do JNJB34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico, para avaliar o desempenho em relação a outros mercados."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o JNJB34 chegar ao preço que você escolheu, útil para monitorar a volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do JNJB34 junto com outras posições de BDRs e ações, vendo o valor por classe e as maiores posições em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LILY34",
+        "list": "bdrs",
+        "reason": "Outro BDR do setor farmacêutico, Eli Lilly, para comparação de desempenho e riscos do setor."
+      },
+      {
+        "ticker": "MRCK34",
+        "list": "bdrs",
+        "reason": "Merck & Co., outro BDR do setor farmacêutico, para diversificação dentro do mesmo segmento."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar a exposição a empresas americanas de grande capitalização."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de JNJB34",
+      "url": "https://finance.yahoo.com/quote/JNJB34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: JOHNSON, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50350/JNJB/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Johnson & Johnson",
+      "url": "https://www.wikidata.org/wiki/Q333718",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Johnson & Johnson",
+      "url": "https://en.wikipedia.org/wiki/Johnson_%26_Johnson",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Johnson & Johnson",
+      "url": "https://pt.wikipedia.org/wiki/Johnson_%26_Johnson",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

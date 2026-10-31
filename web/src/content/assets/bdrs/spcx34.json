@@ -1,0 +1,286 @@
+{
+  "ticker": "SPCX34",
+  "slug": "spcx34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SPCX34: BDR da SpaceX, história e riscos",
+    "description": "Conheça o SPCX34, BDR da SpaceX na B3. Veja história, negócio, proventos, desempenho e riscos do ativo com volatilidade de 76,45%.",
+    "h1": "SPCX34: BDR da Space Exploration Technologies Corp. (SpaceX)",
+    "canonicalPath": "/bdrs/spcx34",
+    "keywords": [
+      "SPCX34",
+      "BDR SpaceX",
+      "SpaceX B3",
+      "SPCX34 dividendos",
+      "SPCX34 volatilidade",
+      "BDR nível I",
+      "SpaceX BDR"
+    ]
+  },
+  "summary": "SPCX34 é o BDR não patrocinado (nível I) da Space Exploration Technologies Corp. (SpaceX), empresa americana de tecnologia aeroespacial, telecomunicações e inteligência artificial. Negociado na B3 desde 08/06/2026, o recibo acompanha a ação original listada na NASDAQ sob o ticker SPCX. Em 29/10/2026, o ativo era cotado a R$ 51,20, apresentando volatilidade anualizada de 76,45% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "SpaceX",
+    "legalName": "SPACE EXPLORATION TECHNOLOGIES CORP",
+    "ticker": "BVMF SPCX34",
+    "foundingDate": "2002-03-14",
+    "website": "https://spacex.com",
+    "wikidata": "Q193701",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q193701",
+      "https://en.wikipedia.org/wiki/SpaceX",
+      "https://pt.wikipedia.org/wiki/SpaceX",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59448/SPCX/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "SpaceX",
+    "legalName": "SPACE EXPLORATION TECHNOLOGIES CORP",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "14/03/2002",
+    "listedSince": "08/06/2026",
+    "headquarters": "Starbase",
+    "website": "https://spacex.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "SPACE EXPLORATION TECHNOLOGIES CORP",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: SPCX",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Starbase",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "14/03/2002",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "08/06/2026",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 51,20",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "76,45% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 78,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SPCX34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Space Exploration Technologies Corp.",
+    "currency": "BRL",
+    "price": 51.2,
+    "historyStarts": "2026-06-12",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.7645,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4658,
+      "from": "2026-06-16",
+      "to": "2026-07-31"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 78549292
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do SPCX34 de 76,45% nos últimos 12 meses até 29/10/2026 é classificada como muito alta, refletindo a natureza de uma empresa de tecnologia aeroespacial em fase de expansão e a exposição ao câmbio. A maior queda nos últimos 5 anos foi de -46,58%, entre 16/06/2026 e 31/07/2026. Como o beta não está disponível, não é possível medir a sensibilidade do ativo em relação a um índice de referência. Para acompanhar essas oscilações e definir níveis de acompanhamento, os investidores podem usar os [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificações quando o ativo atinge valores específicos."
+  },
+  "history": {
+    "overview": "A Space Exploration Technologies Corp. (SpaceX) foi fundada em 14/03/2002 por Elon Musk em El Segundo, Califórnia, com o objetivo de reduzir os custos de transporte espacial e, em última instância, colonizar Marte. A empresa iniciou suas operações em um depósito e desenvolveu o Falcon 1 com financiamento privado, enfrentando três falhas de lançamento entre 2006 e 2008 que quase levaram a companhia à falência. A virada ocorreu em 28/09/2008, com o primeiro lançamento bem-sucedido do Falcon 1, seguido pela assinatura de um contrato de US$ 1,6 bilhão com a NASA em dezembro daquele ano, o que permitiu a transição para o desenvolvimento do Falcon 9. Em 2010, a SpaceX lançou o Falcon 9 e a cápsula Dragon, e em 2012 tornou-se a primeira empresa privada a acoplar uma espaçonave à Estação Espacial Internacional. A companhia expandiu-se para a operação da constelação de satélites Starlink e, em 2026, iniciou a venda de capacidade de computação em seus data centers Colossus para empresas como Anthropic, Google e Reflection AI, além de operar a rede social X e desenvolver a família de modelos Grok. O BDR SPCX34 foi listado na B3 em 08/06/2026, permitindo a negociação em reais de uma empresa que possui 22.000 funcionários e é controlada por Elon Musk, que detém 39% das ações e 84% do poder de voto.",
+    "timeline": [
+      {
+        "date": "2002-03-14",
+        "event": "Fundação da Space Exploration Technologies Corp. por Elon Musk",
+        "source": 2
+      },
+      {
+        "date": "2008-09-28",
+        "event": "Primeiro lançamento bem-sucedido do foguete Falcon 1, salvando a empresa da falência",
+        "source": 3
+      },
+      {
+        "date": "2010-06",
+        "event": "Primeiro lançamento do foguete Falcon 9 com a unidade de qualificação da cápsula Dragon",
+        "source": 3
+      },
+      {
+        "date": "2012-05",
+        "event": "Dragon se torna a primeira espaçonave comercial a entregar carga à Estação Espacial Internacional",
+        "source": 3
+      },
+      {
+        "date": "2020-01",
+        "event": "A constelação Starlink se torna a maior constelação de satélites do mundo",
+        "source": 4
+      },
+      {
+        "date": "2026-06-08",
+        "event": "Listagem do BDR SPCX34 na B3",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a SpaceX ganha dinheiro",
+      "body": "A Space Exploration Technologies Corp. (SpaceX) opera em três segmentos principais. O segmento Space desenvolve e opera os veículos de lançamento Falcon 9, Falcon Heavy e Starship, além da cápsula Dragon, realizando mais lançamentos orbitais por ano do que qualquer outro provedor, incluindo programas nacionais. O segmento Connectivity opera a constelação de satélites Starlink, que fornece serviço de internet banda larga por satélite. O segmento de inteligência artificial é conduzido pela subsidiária SpaceX Super Intelligence, que desenvolve os modelos de linguagem Grok, opera a rede social X (anteriormente Twitter) e constrói e opera data centers de grande escala. Em 2026, a empresa começou a vender capacidade de computação em seus data centers Colossus para Anthropic, Google e Reflection AI. Os maiores clientes incluem a NASA, o National Reconnaissance Office, Axiom Space, SES, Eutelsat e OneWeb."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR SPCX34",
+      "body": "O SPCX34 é um BDR não patrocinado (nível I) que representa ações da Space Exploration Technologies Corp. negociadas na B3 em reais. O ativo é lastreado na ação original da empresa, que é listada na NASDAQ sob o ticker SPCX. O preço do BDR acompanha a variação da ação original no mercado americano e a flutuação do câmbio entre o dólar e o real. O BDR SPCX34 está listado na B3 desde 08/06/2026."
+    },
+    {
+      "id": "proventos",
+      "heading": "SPCX34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, o SPCX34 não distribuiu proventos. Como a SpaceX é uma empresa em fase de expansão e não paga dividendos na moeda original, o BDR não repassa valores a seus detentores. Caso a empresa decida distribuir dividendos no futuro, o valor chegaria aos investidores brasileiros convertido para reais, sujeito à variação cambial e às regras de tributação aplicáveis na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SPCX34",
+      "body": "Em 29/10/2026, o SPCX34 era cotado a R$ 51,20. A volatilidade anualizada do ativo nos últimos 12 meses foi de 76,45%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -46,58%, ocorrida entre o pico em 16/06/2026 e o ponto mais baixo em 31/07/2026. As rentabilidades do BDR em reais incluem a variação do câmbio entre o dólar e o real, o que pode amplificar ou atenuar os resultados em relação à ação original. Para avaliar o desempenho do SPCX34 em relação a outros mercados, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SPCX34",
+      "body": "O SPCX34 apresenta riscos significativos. A volatilidade anualizada de 76,45% nos últimos 12 meses e a maior queda de -46,58% entre 16/06/2026 e 31/07/2026 indicam oscilações de preço intensas. Há também o risco cambial, pois o BDR é lastreado em uma ação negociada em dólares, o que expõe o investidor à variação do câmbio. A liquidez do BDR na B3 é moderada, com volume médio diário de R$ 78,5 milhões nos últimos 3 meses. Além disso, a empresa depende de contratos governamentais e de clientes como a NASA, e a concentração de poder de voto em Elon Musk (84%) pode influenciar decisões estratégicas de forma unilateral."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SPCX34 paga dividendos?",
+      "answer": "Não, o SPCX34 não pagou proventos nos últimos 12 meses até 29/10/2026. A SpaceX não distribui dividendos na moeda original, o que significa que o BDR também não repassa valores aos investidores brasileiros. Caso a empresa inicie o pagamento de dividendos no futuro, o valor seria convertido para reais e sujeito às regras de tributação vigentes na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre SPCX34 e a ação SPCX?",
+      "answer": "O SPCX34 é o BDR (Brazilian Depositary Receipt) da SpaceX, negociado na B3 em reais, enquanto a ação SPCX é o papel original negociado na NASDAQ em dólares. O preço do SPCX34 acompanha a variação da ação SPCX e a flutuação do câmbio entre o dólar e o real. O BDR permite a exposição à SpaceX sem a necessidade de abrir conta em corretora americana."
+    },
+    {
+      "question": "O que a SpaceX faz?",
+      "answer": "A Space Exploration Technologies Corp. (SpaceX) é uma empresa americana de tecnologia aeroespacial, telecomunicações e inteligência artificial. A empresa opera foguetes de lançamento (Falcon 9, Falcon Heavy, Starship), a constelação de satélites Starlink para internet, e a subsidiária SpaceX Super Intelligence, que desenvolve os modelos Grok, opera a rede social X e gerencia data centers. A empresa é controlada por Elon Musk, que detém 84% do poder de voto."
+    },
+    {
+      "question": "Qual o risco do SPCX34?",
+      "answer": "O SPCX34 apresenta volatilidade anualizada de 76,45% nos últimos 12 meses, considerada muito alta, e uma queda máxima de -46,58% entre 16/06/2026 e 31/07/2026. O ativo também carrega risco cambial, pois é lastreado em uma ação negociada em dólares. A liquidez é moderada, com volume médio diário de R$ 78,5 milhões. A concentração de poder de voto em Elon Musk (84%) é outro fator de risco."
+    },
+    {
+      "question": "Como acompanhar o SPCX34 no app?",
+      "answer": "O app permite acompanhar o SPCX34 através do [desempenho e preço médio](/recursos/desempenho-e-preco-medio), que mostra a rentabilidade e a variação do ativo ao longo do tempo. É possível também configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando o ativo atingir valores específicos. A [carteira consolidada](/recursos/carteira-consolidada) permite visualizar o SPCX34 junto a outros ativos, mostrando a alocação e as maiores posições."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do SPCX34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico, para entender o desempenho em relação a outros mercados."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o SPCX34 atingir valores específicos, útil para acompanhar as oscilações de um ativo com volatilidade de 76,45%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize o SPCX34 junto a outras posições, com alocação por classe e as maiores posições da carteira em uma só visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do SPCX34 ao longo do tempo, com gráfico de desempenho e variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa fundada e controlada por Elon Musk, com exposição a riscos semelhantes de concentração de poder e volatilidade."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de tecnologia com alta volatilidade e exposição a riscos de mercado semelhantes, útil para comparação de desempenho."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de tecnologia com exposição a riscos de mercado semelhantes, e a Alphabet Inc. é uma das proprietárias da SpaceX."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparação de desempenho do SPCX34 com o mercado americano, já que o BDR é lastreado em uma ação listada na NASDAQ."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SPCX34",
+      "url": "https://finance.yahoo.com/quote/SPCX34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SPACE X, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59448/SPCX/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: SpaceX",
+      "url": "https://www.wikidata.org/wiki/Q193701",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SpaceX",
+      "url": "https://en.wikipedia.org/wiki/SpaceX",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): SpaceX",
+      "url": "https://pt.wikipedia.org/wiki/SpaceX",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

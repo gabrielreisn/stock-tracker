@@ -1,0 +1,330 @@
+{
+  "ticker": "HGCR11",
+  "slug": "hgcr11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HGCR11: FII de crédito imobiliário, dividendos e patrimônio",
+    "description": "Conheça o HGCR11, FII de papel da Pátria Investimentos: patrimônio de R$ 1,52 bi, dividend yield de 12,61% e estratégia de CRI indexada à inflação e CDI.",
+    "h1": "HGCR11: Pátria Recebíveis Imobiliários - FII",
+    "canonicalPath": "/fiis/hgcr11",
+    "keywords": [
+      "HGCR11",
+      "Pátria Recebíveis Imobiliários",
+      "FII de crédito imobiliário",
+      "FII de papel",
+      "dividend yield HGCR11",
+      "CRI fundo imobiliário",
+      "Pátria Investimentos FII"
+    ]
+  },
+  "summary": "HGCR11 é a cota do Pátria Recebíveis Imobiliários - Fundo de Investimento Imobiliário, um fundo de papel com gestão ativa que investe preponderantemente em Certificados de Recebíveis Imobiliários (CRI) e operações estruturadas indexadas à inflação e ao CDI. Com patrimônio líquido de R$ 1,52 bilhão em setembro de 2026, o fundo distribuiu R$ 11,70 por cota nos 12 meses até 29/10/2026, gerando um dividend yield de 12,61%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Pátria Recebíveis Imobiliários - Fundo de Investimento Imobiliário",
+    "legalName": "PÁTRIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF HGCR11",
+    "isin": "BRHGCRCTF000",
+    "taxId": "11.160.521/0001-22",
+    "foundingDate": "2009-12-22",
+    "provider": {
+      "name": "BANCO GENIAL S.A.",
+      "url": "https://www.genialinvestimentos.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=11160521000122"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI e crédito imobiliário)",
+    "issuerOrManager": "Pátria Investimentos Ltda",
+    "name": "Pátria Recebíveis Imobiliários - Fundo de Investimento Imobiliário",
+    "legalName": "PÁTRIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "22/12/2009",
+    "administrator": "BANCO GENIAL S.A.",
+    "website": "https://www.genialinvestimentos.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "PÁTRIA RECEBÍVEIS IMOBILIÁRIOS - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "11.160.521/0001-22",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BANCO GENIAL S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "22/12/2009",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,52 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "100.853",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 98,63",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 92,77",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "12,92% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,19",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "12,61%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HGCR11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "CSHG Recebiveis Imobiliarios BC Fundo de Investimento Imobiliario - FII",
+    "currency": "BRL",
+    "price": 92.77,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1081,
+      "3y": 0.2716,
+      "5y": 0.5586,
+      "10y": 0.695
+    },
+    "volatility1y": 0.1292,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1369,
+      "from": "2024-08-23",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.19,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 11.7,
+      "payments12Months": 12,
+      "yield12Months": 0.1261,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 1
+      }
+    },
+    "avgDailyTradedValue3m": 3308274
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do HGCR11 nos 12 meses até 29/10/2026 é de 12,92%, um nível considerado baixo para o mercado de FIIs. O beta de 0,19 contra o Ibovespa mostra que o ativo costuma acompanhar os movimentos do índice com amplitude muito menor, na mesma direção, o que é típico de fundos de crédito imobiliário, menos sensíveis a choques de mercado acionário. A maior queda em 5 anos foi de -13,69%, ocorrida entre o pico em 23/08/2024 e o ponto mais baixo em 18/12/2024. Para acompanhar a trajetória de preço e a rentabilidade da posição, o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) permite medir períodos específicos no gráfico."
+  },
+  "history": {
+    "overview": "O Pátria Recebíveis Imobiliários - FII (HGCR11) iniciou suas atividades em 22 de dezembro de 2009, com o objetivo de proporcionar valorização e rentabilidade no longo prazo por meio de investimentos em ativos de crédito imobiliário. O fundo adotou uma estratégia de gestão ativa, transitando entre operações indexadas à inflação (IPCA) e ao CDI, o que lhe confere o perfil de 'High Grade Misto'. Ao longo de sua história, o fundo realizou cinco ofertas públicas de cotas encerradas, com as primeiras registradas entre 2018 e 2020, e uma nova oferta iniciada em outubro de 2024. Em 01 de outubro de 2026, o fundo passou por uma reorganização societária do Grupo Genial, transferindo a administração fiduciária do Banco Genial S.A. para a Genial Investimentos Corretora de Valores Mobiliários S.A., alteração de caráter exclusivamente organizacional que não modificou a equipe, os sistemas ou a política de investimentos.",
+    "timeline": [
+      {
+        "date": "2009-12-22",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2018-04-30",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2018-07-19",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2026-10-01",
+        "event": "Substituição do administrador fiduciário para a Genial Investimentos Corretora de Valores Mobiliários S.A.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do HGCR11",
+      "body": "O HGCR11 é um fundo de investimento imobiliário (FII) de papel, classificado pela Anbima como 'Papel Híbrido Gestão Ativa, Multicategoria'. A gestora é a Pátria Investimentos Ltda., e o administrador fiduciário é a Genial Investimentos Corretora de Valores Mobiliários S.A., que assumiu a função em 01/10/2026, substituindo o Banco Genial S.A. em uma reorganização do grupo. O objetivo do fundo é a valorização e a rentabilidade das cotas no longo prazo, investindo preponderantemente em Certificados de Recebíveis Imobiliários (CRI) e operações estruturadas. Segundo o relatório gerencial de 30/09/2026, a carteira é composta por 90,9% de CRI e operações estruturadas e 7,6% de outros FIIs, com prazo médio de 3,7 anos e yield nominal de 16,3%."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do HGCR11",
+      "body": "Nos 12 meses até 29/10/2026, o HGCR11 distribuiu R$ 11,70 por cota em 12 pagamentos, resultando em um dividend yield de 12,61%. O último provento foi de R$ 1,00 por cota, com pagamento em 01/10/2026. O relatório gerencial de setembro de 2026 indica que a gestão prevê a manutenção desse nível de distribuição para o próximo trimestre, em função da desaceleração da inflação. Para acompanhar os pagamentos e o histórico de proventos da sua posição, utilize a ferramenta de [dividendos e JCP no app](/recursos/proventos), que multiplica os valores pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O FNET registra 824 documentos publicados pelo fundo desde 08/06/2016, incluindo 5 ofertas públicas de cotas encerradas. Em 09/2026, o patrimônio líquido do HGCR11 era de R$ 1,52 bilhão, com 100.853 cotistas e 15.418.106 cotas emitidas. O valor patrimonial da cota nesse mês era de R$ 98,63. A taxa de administração mensal é de 0,065% sobre o patrimônio, equivalente a 0,8% ao ano, além de uma taxa de performance de 20% sobre o excedente de 110% da média do CDI."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HGCR11",
+      "body": "A rentabilidade total do HGCR11, incluindo proventos, foi de 10,81% nos 12 meses até 29/10/2026, 27,16% em 3 anos, 55,86% em 5 anos e 69,50% em 10 anos. O fundo é um ativo de renda fixa indireta, e seu desempenho pode ser avaliado em relação a índices de referência. Para visualizar a evolução do seu investimento ao lado do CDI, IPCA e IFIX, acesse a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HGCR11",
+      "body": "Como fundo de papel, o HGCR11 está exposto ao risco de crédito dos devedores dos CRIs e operações estruturadas que compõem a carteira, além da sensibilidade à taxa de juros, dado que parte do portfólio é indexada ao CDI. A volatilidade anualizada de 12 meses é de 12,92%, classificada como baixa, e o beta de 0,19 contra o Ibovespa indica que o fundo tende a ter movimentos muito menores que o índice acionário. A maior queda em 5 anos foi de -13,69%, entre 23/08/2024 e 18/12/2024. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HGCR11 é FII de papel ou de tijolo?",
+      "answer": "HGCR11 é um FII de papel. O fundo investe preponderantemente em Certificados de Recebíveis Imobiliários (CRI) e operações estruturadas de crédito imobiliário, conforme o relatório gerencial de 30/09/2026, e não em imóveis físicos (tijolo)."
+    },
+    {
+      "question": "Qual o dividend yield do HGCR11?",
+      "answer": "O dividend yield do HGCR11 é de 12,61% nos 12 meses até 29/10/2026, com base em R$ 11,70 distribuídos por cota. O último pagamento foi de R$ 1,00 em 01/10/2026. Você pode acompanhar o histórico completo de rendimentos pelo recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Quem é a gestora do HGCR11?",
+      "answer": "A gestora do HGCR11 é a Pátria Investimentos Ltda. O administrador fiduciário é a Genial Investimentos Corretora de Valores Mobiliários S.A., que assumiu a função em 01/10/2026, substituindo o Banco Genial S.A. em uma reorganização do grupo Genial."
+    },
+    {
+      "question": "Qual a taxa de administração do HGCR11?",
+      "answer": "A taxa de administração do HGCR11 é de 0,8% ao ano sobre o valor de mercado do fundo, conforme o relatório gerencial de 30/09/2026. Há também uma taxa de performance de 20% sobre o excedente de 110% da média do CDI."
+    },
+    {
+      "question": "Qual o patrimônio do HGCR11?",
+      "answer": "O patrimônio líquido do HGCR11 era de R$ 1,52 bilhão em 09/2026, com 100.853 cotistas e valor patrimonial da cota de R$ 98,63, segundo o informe mensal da CVM."
+    },
+    {
+      "question": "HGCR11 paga rendimentos mensais?",
+      "answer": "Sim. O fundo distribuiu 12 pagamentos nos 12 meses até 29/10/2026, totalizando R$ 11,70 por cota. O último provento foi de R$ 1,00, pago em 01/10/2026. A gestão prevê a manutenção desse nível para o próximo trimestre, segundo o relatório de setembro de 2026."
+    },
+    {
+      "question": "Como comparar o HGCR11 com outros FIIs?",
+      "answer": "O HGCR11 é um FII de crédito imobiliário high grade misto. Para comparar com outros fundos do mesmo segmento ou de outras classes, o app oferece o [comparador de fundos](/recursos/comparador-de-fundos), que permite buscar entre cerca de 26 mil fundos da CVM e comparar até seis contra o CDI."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do HGCR11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do HGCR11 com o CDI, IPCA e IFIX no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do HGCR11 atingir o preço que você definiu."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade da sua posição em HGCR11 e o preço médio de entrada no gráfico de desempenho."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o HGCR11 ao lado de outras classes de ativos, com alocação e valor por classe em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RBRR11",
+        "list": "fiis",
+        "reason": "Outro FII de crédito imobiliário high grade da mesma gestora, Pátria Investimentos, com foco em CDI."
+      },
+      {
+        "ticker": "VCJR11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário da mesma plataforma, com perfil de juros real, citado no relatório do HGCR11."
+      },
+      {
+        "ticker": "PCIP11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário high grade inflação+ da mesma gestora, mencionado no relatório gerencial."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário high grade de outra gestora, para comparação de estratégia de papel."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de renda fixa imobiliária de grande porte, para comparação de liquidez e perfil de crédito."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HGCR11",
+      "url": "https://finance.yahoo.com/quote/HGCR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do PÁTRIA RECEBÍVEIS IMOBILIÁRIOS - FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo HGCR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=11160521000122",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do HGCR11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1348101",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HGCR11, 01/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338099",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

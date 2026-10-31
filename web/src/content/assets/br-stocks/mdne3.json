@@ -1,0 +1,400 @@
+{
+  "ticker": "MDNE3",
+  "slug": "mdne3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MDNE3: história, dividendos e volatilidade",
+    "description": "MDNE3 é a ação ordinária da Moura Dubeux Engenharia, incorporadora de Recife. Veja dividendos, volatilidade de 69,21% e rentabilidade de -29,75% em 12",
+    "h1": "MDNE3: Moura Dubeux Engenharia",
+    "canonicalPath": "/acoes/mdne3",
+    "keywords": [
+      "MDNE3",
+      "Moura Dubeux Engenharia",
+      "ação MDNE3",
+      "dividendos MDNE3",
+      "volatilidade MDNE3",
+      "incorporadora B3",
+      "MDNE3 Novo Mercado",
+      "rentabilidade MDNE3"
+    ]
+  },
+  "summary": "MDNE3 é a ação ordinária da Moura Dubeux Engenharia S/A, empresa de incorporação imobiliária sediada em Recife (PE). A companhia atua na compra e venda de imóveis, locação e construção de empreendimentos destinados à venda. Em 30/10/2026, a ação valia R$ 15,95, com rentabilidade total de -29,75% nos 12 meses anteriores e dividend yield de 29,67% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Moura Dubeux Engenharia",
+    "legalName": "MOURA DUBEUX ENGENHARIA S/A",
+    "ticker": "BVMF MDNE3",
+    "isin": "BRMDNEACNOR9",
+    "taxId": "12.049.631/0001-84",
+    "foundingDate": "1983-01-01",
+    "address": {
+      "locality": "Recife",
+      "region": "PE",
+      "country": "BR"
+    },
+    "website": "https://mouradubeux.com.br/",
+    "wikidata": "Q124881582",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q124881582",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21067/MDNE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Moura Dubeux Engenharia",
+    "legalName": "MOURA DUBEUX ENGENHARIA S/A",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Incorporações",
+    "founded": "01/01/1983",
+    "listedSince": "13/02/2020",
+    "headquarters": "Recife (PE)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "MOURA DUBEUX ENGENHARIA S/A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "12.049.631/0001-84",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Incorporações",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "01/01/1983",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Recife (PE)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "13/02/2020",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "MDNE3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "GRANT THORNTON AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 15,95",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "69,21% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,25",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "29,67%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MDNE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Moura Dubeux Engenharia S.A.",
+    "currency": "BRL",
+    "price": 15.95,
+    "historyStarts": "2020-02-13",
+    "returns": {
+      "1y": -0.2975,
+      "3y": 1.0304,
+      "5y": 2.6128,
+      "10y": null
+    },
+    "volatility1y": 0.6921,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.547,
+      "from": "2026-02-20",
+      "to": "2026-10-29"
+    },
+    "beta1y": {
+      "value": 2.25,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 4.7319,
+      "payments12Months": 2,
+      "yield12Months": 0.2967,
+      "lastPayment": {
+        "date": "2026-01-02",
+        "amount": 4.135739
+      }
+    },
+    "avgDailyTradedValue3m": 43173808
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 69,21% nos 12 meses até 30/10/2026 situa a MDNE3 em nível muito alto, indicando oscilações de preço expressivas no período. O beta de 2,25 contra o Ibovespa mostra que, em média, a ação tende a se mover 2,25 vezes mais que o índice, na mesma direção, o que amplifica tanto altas quanto quedas. A maior queda em 5 anos, de -54,70% entre 20/02/2026 e 29/10/2026, reflete a sensibilidade do setor de incorporações a ciclos de crédito e demanda. Ações do setor de construção civil e incorporações costumam apresentar volatilidade superior à do Ibovespa, dada a alavancagem financeira e a dependência de financiamento imobiliário."
+  },
+  "history": {
+    "overview": "A Moura Dubeux Engenharia S/A foi constituída em 01/01/1983 e obteve registro como companhia aberta na CVM em 23/08/2007. A empresa iniciou a cotação de suas ações na B3 em 13/02/2020, passando a operar no segmento Novo Mercado, o que confere maior transparência e governança corporativa aos acionistas minoritários. A companhia tem sede em Recife (PE) e seu controle acionário é privado, conforme cadastro da CVM. O auditor independente é a Grant Thornton Auditores Independentes Ltda., e o diretor de relações com investidores é Diogo de Barral Araújo. Em 2025 e 2026, a empresa realizou distribuições de dividendos intercalares e comunicou a realização de uma oferta pública primária de ações, além de instituir um programa de recompra (buyback) em 16/06/2026.",
+    "timeline": [
+      {
+        "date": "1983-01-01",
+        "event": "Constituição da companhia Moura Dubeux Engenharia S/A.",
+        "source": 2
+      },
+      {
+        "date": "2007-08-23",
+        "event": "Registro da empresa como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2020-02-13",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-11-12",
+        "event": "Distribuição de dividendos intercalares no valor de R$ 51 milhões, equivalente a R$ 0,60 por ação.",
+        "source": 11
+      },
+      {
+        "date": "2025-12-29",
+        "event": "Cancelamento da Assembleia Geral Extraordinária e comunicação de distribuição de dividendos.",
+        "source": 10
+      },
+      {
+        "date": "2026-01-13",
+        "event": "Comunicação de potencial oferta pública de ações.",
+        "source": 9
+      },
+      {
+        "date": "2026-01-14",
+        "event": "Anúncio da oferta pública primária de ações.",
+        "source": 8
+      },
+      {
+        "date": "2026-01-22",
+        "event": "Fixação do preço de emissão por ação na oferta pública.",
+        "source": 7
+      },
+      {
+        "date": "2026-02-09",
+        "event": "Publicação de fato relevante não especificado no título.",
+        "source": 6
+      },
+      {
+        "date": "2026-03-05",
+        "event": "Esclarecimento sobre matéria divulgada em fato relevante.",
+        "source": 5
+      },
+      {
+        "date": "2026-06-16",
+        "event": "Instituição do programa de recompra de ações (Buyback Program).",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Moura Dubeux Engenharia ganha dinheiro",
+      "body": "A Moura Dubeux Engenharia S/A atua no setor de consumo cíclico, especificamente no segmento de incorporações e construção civil. A atividade principal da companhia, conforme cadastro na B3 e na CVM, compreende a compra e venda de imóveis, locação, desmembramento ou loteamento de terrenos, incorporação imobiliária e construção de imóveis destinados à venda, além de participação em outras sociedades. A empresa é sediada em Recife (PE) e opera no mercado de incorporação imobiliária, onde a receita é gerada pela comercialização de unidades residenciais e comerciais e pela locação de espaços."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Moura Dubeux Engenharia",
+      "body": "O controle acionário da Moura Dubeux Engenharia é privado, segundo o cadastro da CVM. A ação MDNE3 é uma ação ordinária (ON), o que confere ao acionista direito a voto em assembleias gerais e participação proporcional nos lucros da empresa. A companhia está listada no segmento Novo Mercado da B3, que exige práticas de governança corporativa mais rígidas, como a distribuição de uma ação ordinária para cada ação preferencial emitida e a adoção de práticas de transparência. O código de negociação exclusivo é MDNE3. Não há menção às fontes sobre a existência de ações preferenciais (PN) para a empresa."
+    },
+    {
+      "id": "proventos",
+      "heading": "MDNE3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a MDNE3 distribuiu R$ 4,7319 por ação em 2 pagamentos, resultando em um dividend yield de 29,67%. O último pagamento registrado foi de R$ 4,1357, com data de pagamento em 02/01/2026. Em 12/11/2025, a empresa comunicou a distribuição de dividendos intercalares no valor de R$ 51 milhões, equivalente a R$ 0,60 por ação. É possível acompanhar o histórico de dividendos e JCP da MDNE3 com data com e data de pagamento, multiplicados pela sua quantidade, no [recurso de proventos](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da MDNE3",
+      "body": "Em 30/10/2026, a ação MDNE3 estava cotada a R$ 15,95. A rentabilidade total com proventos foi de -29,75% nos 12 meses anteriores, 103,04% em 3 anos e 261,28% em 5 anos. Para avaliar esses resultados em contexto, é possível comparar a rentabilidade da carteira com o Ibovespa, CDI e IPCA no [recurso de comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da MDNE3",
+      "body": "A volatilidade anualizada da MDNE3 nos 12 meses até 30/10/2026 foi de 69,21%, classificada como nível muito alta. O beta de 2,25 contra o Ibovespa indica que os movimentos da ação tendem a ser 2,25 vezes mais amplos que os do índice, na mesma direção. A maior queda em 5 anos foi de -54,70%, do pico em 20/02/2026 ao ponto mais baixo em 29/10/2026. O setor de incorporações é sensível a mudanças na taxa de juros, no crédito imobiliário e na demanda por imóveis, fatores que impactam a liquidez e a margem de lucro das construtoras. A alta volatilidade e o beta elevado refletem a sensibilidade do ativo a esses ciclos. Para monitorar oscilações, é possível configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MDNE3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a MDNE3 distribuiu R$ 4,7319 por ação em 2 pagamentos, com dividend yield de 29,67%. O último pagamento foi de R$ 4,1357 em 02/01/2026. Em 12/11/2025, a empresa comunicou dividendos intercalares de R$ 0,60 por ação. O histórico completo está disponível no [recurso de proventos](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre MDNE3 e ações preferenciais?",
+      "answer": "MDNE3 é uma ação ordinária (ON), o que confere direito a voto em assembleias e participação proporcional nos lucros. Ações preferenciais (PN), quando existem, têm prioridade no recebimento de dividendos, mas não têm direito a voto. A MDNE3 está listada no Novo Mercado, que exige práticas de governança que aproximam os direitos de acionistas minoritários dos controladores. As fontes não indicam a existência de ações PN para a Moura Dubeux."
+    },
+    {
+      "question": "MDNE3 é uma ação de alto risco?",
+      "answer": "A volatilidade anualizada de 69,21% e o beta de 2,25 contra o Ibovespa indicam que a MDNE3 apresenta oscilações expressivas e movimentos amplificados em relação ao índice. A maior queda em 5 anos foi de -54,70%. O setor de incorporações é sensível a juros, crédito e demanda por imóveis, o que contribui para a volatilidade. É possível acompanhar a rentabilidade e a variação no [recurso de desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "O que a Moura Dubeux Engenharia faz?",
+      "answer": "A Moura Dubeux Engenharia S/A atua na incorporação imobiliária, construção de imóveis para venda, compra e venda de imóveis, locação e loteamento de terrenos. A empresa é sediada em Recife (PE) e está listada no segmento Novo Mercado da B3, com código de negociação MDNE3. O controle acionário é privado."
+    },
+    {
+      "question": "Quando a MDNE3 começou a ser negociada na B3?",
+      "answer": "A MDNE3 começou a ser negociada na B3 em 13/02/2020. A empresa foi constituída em 01/01/1983 e obteve registro como companhia aberta na CVM em 23/08/2007. A cotação no Novo Mercado trouxe requisitos de transparência e governança corporativa."
+    },
+    {
+      "question": "Como acompanhar a MDNE3 no app?",
+      "answer": "É possível acompanhar a MDNE3 com [alertas de preço](/recursos/alertas-de-preco) para oscilações, [proventos](/recursos/proventos) para dividendos e JCP, e [comparação com índices](/recursos/comparacao-com-indices) para avaliar a rentabilidade contra Ibovespa e CDI. O [assistente de IA](/recursos/assistente-de-ia) permite perguntar sobre a posição na carteira em português."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da MDNE3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com Ibovespa e CDI",
+        "context": "Compare a rentabilidade da MDNE3 com o Ibovespa, CDI e IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a MDNE3 chegar ao preço que você escolheu, útil para acompanhar oscilações de alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a MDNE3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em MDNE3 e a carteira, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CYRE3",
+        "list": "br-stocks",
+        "reason": "Outra incorporadora listada na B3, no mesmo segmento de construção civil e incorporações."
+      },
+      {
+        "ticker": "CURY3",
+        "list": "br-stocks",
+        "reason": "Construtora e incorporadora, par de setor para comparação de desempenho no segmento de imóveis."
+      },
+      {
+        "ticker": "MRVE3",
+        "list": "br-stocks",
+        "reason": "Incorporadora de grande porte, relevante para entender o ciclo do setor de imóveis na B3."
+      },
+      {
+        "ticker": "MULT3",
+        "list": "br-stocks",
+        "reason": "Empreendimentos imobiliários, par de setor para análise de incorporadoras na B3."
+      },
+      {
+        "ticker": "TEND3",
+        "list": "br-stocks",
+        "reason": "Construtora com foco em habitação de interesse social, par de segmento no setor de incorporações."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MDNE3",
+      "url": "https://finance.yahoo.com/quote/MDNE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MOURA DUBEUX, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21067/MDNE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, MOURA DUBEUX ENGENHARIA S/A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Moura Dubeux Engenharia",
+      "url": "https://www.wikidata.org/wiki/Q124881582",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/06/2026, “Programa de Recompra - Buyback Program”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1535342&numSequencia=1060048&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/03/2026, “Esclarecimento Sobre Matéria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1486234&numSequencia=1010940&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/02/2026, “Fato Relevante”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1475050&numSequencia=999756&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/01/2026, “Fixação do preço de emissão por Ação | Offering Price”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1469423&numSequencia=994129&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/01/2026, “Oferta Pública Primária de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1467341&numSequencia=992047&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/01/2026, “Potencial Oferta Pública de Ações | Potential Public Offering of Shares”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1467002&numSequencia=991708&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/12/2025, “(i) Cancelamento da Assembleia Geral Extraordinária||(ii) Distribuição de Dividendos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1462203&numSequencia=986909&numVersao=3",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/11/2025, “Distribuição de Dividendos Intercalares R$ 51MM R$0,60 por Ação”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1444099&numSequencia=968811&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

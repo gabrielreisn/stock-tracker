@@ -1,0 +1,367 @@
+{
+  "ticker": "VULC3",
+  "slug": "vulc3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VULC3: história, dividendos e volatilidade",
+    "description": "VULC3 é a ação ordinária da Vulcabras, maior gestora de marcas esportivas do Brasil. Veja dividendos, volatilidade e desempenho até 30/10/2026.",
+    "h1": "VULC3: Ação Ordinária da Vulcabras",
+    "canonicalPath": "/acoes/vulc3",
+    "keywords": [
+      "VULC3",
+      "Vulcabras",
+      "ação ordinária",
+      "dividendos VULC3",
+      "volatilidade VULC3",
+      "setor calçados",
+      "Novo Mercado",
+      "Olympikus Under Armour Mizuno"
+    ]
+  },
+  "summary": "VULC3 é a ação ordinária da VULCABRAS S.A., empresa brasileira do setor de consumo cíclico e segmento de calçados. Fundada em 1952, a companhia atua como gestora de marcas esportivas, administrando portfólio que inclui Olympikus, Under Armour e Mizuno. Em 30/10/2026, a ação cotava a R$ 11,53, com dividend yield de 26,89% nos últimos 12 meses e volatilidade anualizada de 37,42%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Vulcabras",
+    "legalName": "VULCABRAS S.A.",
+    "ticker": "BVMF VULC3",
+    "isin": "BRVULCACNOR2",
+    "taxId": "50.926.955/0001-42",
+    "foundingDate": "1952-07-29",
+    "address": {
+      "locality": "Jundiaí",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.vulcabrasri.com/",
+    "wikidata": "Q7943446",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q7943446",
+      "https://pt.wikipedia.org/wiki/Vulcabras",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/11762/VULC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Vulcabras",
+    "legalName": "VULCABRAS S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Calçados",
+    "founded": "29/07/1952",
+    "listedSince": "20/07/1977",
+    "headquarters": "Jundiaí (SP)",
+    "website": "https://www.vulcabrasri.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "VULCABRAS S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "50.926.955/0001-42",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Calçados",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "29/07/1952",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Jundiaí (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "20/07/1977",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "VULC3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 11,53",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "37,42% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,14",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "26,89%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VULC3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vulcabras S.A.",
+    "currency": "BRL",
+    "price": 11.53,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.358,
+      "3y": 0.0162,
+      "5y": 1.2091,
+      "10y": 7.7781
+    },
+    "volatility1y": 0.3742,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4259,
+      "from": "2025-12-04",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.14,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 3.1,
+      "payments12Months": 4,
+      "yield12Months": 0.2689,
+      "lastPayment": {
+        "date": "2025-12-23",
+        "amount": 0.65
+      }
+    },
+    "avgDailyTradedValue3m": 34489582
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 12 meses da VULC3 é de 37,42%, classificada como alta. O beta de 12 meses contra o Ibovespa é de 1,14, o que significa que a ação tende a acompanhar os movimentos do índice com intensidade ligeiramente superior, na mesma direção. A maior queda nos últimos 5 anos foi de -42,59%, do pico em 04/12/2025 ao ponto mais baixo em 30/10/2026. A volatilidade e a maior queda refletem a sensibilidade da ação a fatores macroeconômicos e setoriais, comuns em empresas do setor de consumo cíclico. Para acompanhar o preço da VULC3 e definir alertas, utilize o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "A VULCABRAS S.A. foi constituída em 29/07/1952 em Jundiaí (SP) e iniciou a cotação de suas ações na B3 em 20/07/1977, registrando-se simultaneamente como companhia aberta na CVM. Ao longo de suas mais de sete décadas de história, a empresa passou por uma transição estratégica significativa no portfólio de marcas. De 1973 a 2020, a Vulcabras deteve a gestão de marcas globais de alto reconhecimento, como Adidas, Puma, Reebok, Keds e Asics. A partir de 2018, com a aquisição da operação da Under Armour no Brasil, e em 2021, com a conclusão da aquisição da operação da Mizuno, a companhia consolidou seu foco em marcas esportivas, tornando-se a maior gestora de marcas esportivas do país, segundo a Wikipedia. Essa mudança de estratégia permitiu à empresa atender diferentes perfis de consumidores, com produtos que variam de R$ 169 a R$ 1.600 em calçados e de R$ 49 a R$ 999 em roupas e acessórios. A companhia possui cinco unidades no Brasil, incluindo fábricas em Horizonte (CE) e Itapetinga (BA), e atua em mais de 15 países, com presença mais forte na América Latina. Em 2025 e 2026, a empresa anunciou planos de recompra de ações e um aumento de capital, refletindo ajustes na estrutura acionária e na estratégia de capitalização.",
+    "timeline": [
+      {
+        "date": "1952",
+        "event": "Fundação da empresa",
+        "source": 3
+      },
+      {
+        "date": "1952-07-29",
+        "event": "Constituição da companhia",
+        "source": 2
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Início da cotação das ações na B3 e registro como companhia aberta na CVM",
+        "source": 1
+      },
+      {
+        "date": "2025-03-11",
+        "event": "Anúncio de Plano de Recompra de Ações",
+        "source": 9
+      },
+      {
+        "date": "2025-04-30",
+        "event": "Anúncio de Plano de Outorga",
+        "source": 8
+      },
+      {
+        "date": "2025-10-30",
+        "event": "Anúncio de Aumento de Capital e Convocação de Assembleia",
+        "source": 7
+      },
+      {
+        "date": "2026-04-29",
+        "event": "Aprovação do novo plano de opção de compra de ações apresentado pela administração",
+        "source": 6
+      },
+      {
+        "date": "2026-08-04",
+        "event": "Anúncio de novo Plano de Recompra de Ações",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Vulcabras ganha dinheiro",
+      "body": "A VULCABRAS S.A. atua no setor de Consumo Cíclico, especificamente no segmento de Calçados, com foco na gestão de marcas esportivas. A empresa é a maior gestora de marcas esportivas do Brasil, segundo a Wikipedia, e administra um portfólio que inclui Olympikus, Under Armour e Mizuno, além da marca Botas Vulcabras, voltada para o setor industrial. A receita da companhia vem da venda de calçados, vestuários e acessórios esportivos, com produtos que atendem diferentes perfis de consumidores, variando de R$ 169 a R$ 1.600 em calçados e de R$ 49 a R$ 999 em roupas e acessórios. A Vulcabras possui mais de 17 mil colaboradores e está presente em mais de 19 mil pontos de venda no Brasil e em mais de 15 países, com atuação mais forte na América Latina, onde conta com 50 lojas no Peru e no Chile. A empresa possui cinco unidades no Brasil, incluindo duas plantas fabris em Horizonte (CE) e Itapetinga (BA), um centro administrativo em Jundiaí (SP), um centro de distribuição em Extrema (MG) e um centro de tecnologia e desenvolvimento em Parobé (RS)."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Vulcabras",
+      "body": "A VULCABRAS S.A. tem controle acionário privado, segundo a CVM. A ação VULC3 é a ação ordinária (ON) da empresa, negociada na B3 desde 20/07/1977. Ações ordinárias dão direito a voto em assembleias gerais e, em caso de liquidação, têm preferência sobre ações preferenciais, mas ficam em posição subordinada a elas no recebimento de dividendos e juros sobre capital próprio. A Vulcabras está listada no segmento Novo Mercado da B3, que exige práticas de governança corporativa mais rígidas, como a negociação de todas as ações em bolsa e a ausência de ações com direito a voto diferenciado. O código de negociação da ação é VULC3, e o nome de pregão é VULCABRAS."
+    },
+    {
+      "id": "proventos",
+      "heading": "VULC3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a VULC3 pagou R$ 3,1000 por ação em 4 pagamentos, resultando em um dividend yield de 26,89%. O último pagamento foi de R$ 0,6500 em 23/12/2025. A empresa anunciou planos de recompra de ações em 11/03/2025 e 04/08/2026, o que pode impactar a distribuição de proventos aos acionistas. Para acompanhar os dividendos e JCP da VULC3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da VULC3",
+      "body": "A rentabilidade total com proventos da VULC3 nos 12 meses até 30/10/2026 foi de -35,80%. Nos 3 anos, a rentabilidade foi de 1,62%; nos 5 anos, de 120,91%; e nos 10 anos, de 777,81%. A volatilidade anualizada de 12 meses é de 37,42%, classificada como alta. O beta de 12 meses contra o Ibovespa é de 1,14, indicando que a ação tende a acompanhar os movimentos do índice com intensidade ligeiramente superior. Para comparar a rentabilidade da VULC3 com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da VULC3",
+      "body": "A VULC3 apresenta volatilidade anualizada de 37,42%, classificada como alta, e a maior queda nos últimos 5 anos foi de -42,59%, do pico em 04/12/2025 ao ponto mais baixo em 30/10/2026. O setor de consumo cíclico, ao qual a Vulcabras pertence, é sensível a variações no consumo das famílias e em cenários de recessão econômica. A empresa também enfrenta riscos relacionados à concorrência no mercado de calçados esportivos, à dependência de marcas licenciadas (como Under Armour e Mizuno) e à variação de câmbio, dado que parte de suas operações envolve importação e exportação. A volatilidade e a maior queda refletem a sensibilidade da ação a fatores macroeconômicos e setoriais. Para acompanhar o preço da VULC3 e definir alertas, utilize o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VULC3 paga dividendos?",
+      "answer": "Sim, a VULC3 pagou R$ 3,1000 por ação em 4 pagamentos nos 12 meses até 30/10/2026, resultando em um dividend yield de 26,89%. O último pagamento foi de R$ 0,6500 em 23/12/2025. A empresa também anunciou planos de recompra de ações em 2025 e 2026. Para acompanhar os dividendos e JCP da VULC3, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre VULC3 e VULC4?",
+      "answer": "VULC3 é a ação ordinária (ON) da Vulcabras, que dá direito a voto em assembleias gerais. VULC4, se existir, seria a ação preferencial (PN), que tem preferência no recebimento de dividendos e juros sobre capital próprio, mas não dá direito a voto. A Vulcabras está listada no segmento Novo Mercado, o que exige que todas as ações sejam negociadas em bolsa e que não haja ações com direito a voto diferenciado."
+    },
+    {
+      "question": "VULC3 é uma ação de empresa do setor de calçados?",
+      "answer": "Sim, a VULC3 é a ação da VULCABRAS S.A., empresa brasileira do setor de Consumo Cíclico, especificamente no segmento de Calçados. A empresa é a maior gestora de marcas esportivas do Brasil, administrando portfólio que inclui Olympikus, Under Armour e Mizuno."
+    },
+    {
+      "question": "Qual a volatilidade da VULC3?",
+      "answer": "A volatilidade anualizada de 12 meses da VULC3 é de 37,42%, classificada como alta. A maior queda nos últimos 5 anos foi de -42,59%, do pico em 04/12/2025 ao ponto mais baixo em 30/10/2026. Para acompanhar o preço da VULC3 e definir alertas, utilize o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "VULC3 está no Novo Mercado?",
+      "answer": "Sim, a VULC3 está listada no segmento Novo Mercado da B3, que exige práticas de governança corporativa mais rígidas, como a negociação de todas as ações em bolsa e a ausência de ações com direito a voto diferenciado."
+    },
+    {
+      "question": "Qual a rentabilidade da VULC3 nos últimos 5 anos?",
+      "answer": "A rentabilidade total com proventos da VULC3 nos 5 anos até 30/10/2026 foi de 120,91%. Nos 12 meses, a rentabilidade foi de -35,80%; nos 3 anos, de 1,62%; e nos 10 anos, de 777,81%. Para comparar a rentabilidade da VULC3 com o Ibovespa e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da VULC3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da VULC3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina alertas de preço para a VULC3 e receba notificações quando o ativo chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a VULC3 junto com seus outros ativos na carteira consolidada, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ALPA4",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de calçados, a Alpargatas, que também atua no segmento de consumo cíclico."
+      },
+      {
+        "ticker": "CEAB3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de vestuário, a C&A Modas, que também está no segmento de consumo cíclico."
+      },
+      {
+        "ticker": "LREN3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de varejo, a Lojas Renner, que também está no segmento de consumo cíclico."
+      },
+      {
+        "ticker": "MGLU3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de varejo, a Magazine Luiza, que também está no segmento de consumo cíclico."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VULC3",
+      "url": "https://finance.yahoo.com/quote/VULC3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: VULCABRAS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/11762/VULC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, VULCABRAS S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Vulcabras",
+      "url": "https://www.wikidata.org/wiki/Q7943446",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Vulcabras",
+      "url": "https://pt.wikipedia.org/wiki/Vulcabras",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/08/2026, “Plano de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1552108&numSequencia=1076814&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/04/2026, “Aprovação do novo plano de opção de compra de ações apresentado pela administração da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1511171&numSequencia=1035877&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/10/2025, “Aumento de Capital e Convocação de Assembleia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1437755&numSequencia=962467&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/04/2025, “Plano de Outorga”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1369856&numSequencia=894568&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/03/2025, “Plano de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1345469&numSequencia=870195&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

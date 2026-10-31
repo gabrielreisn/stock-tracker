@@ -1,0 +1,289 @@
+{
+  "ticker": "IWD",
+  "slug": "iwd",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IWD: história, dividendos e volatilidade",
+    "description": "IWD é o iShares Russell 1000 Value ETF. Veja rentabilidade, dividendos, volatilidade e como investir no IWD a partir do Brasil.",
+    "h1": "IWD: iShares Russell 1000 Value ETF",
+    "canonicalPath": "/etfs/iwd",
+    "keywords": [
+      "IWD",
+      "iShares Russell 1000 Value ETF",
+      "ETF Russell 1000 Value",
+      "IWD dividendos",
+      "IWD volatilidade",
+      "como investir IWD Brasil",
+      "IWD vs IWF",
+      "ETF ações de valor EUA"
+    ]
+  },
+  "summary": "IWD é o iShares Russell 1000 Value ETF, lançado em 26/05/2000 pela iShares, braço de ETFs da BlackRock. O ativo replica o índice Russell 1000 Value, focado em empresas de capitalização grande e média nos EUA com características de valor. Em 29/10/2026, a cota valia US$ 260,76, com rentabilidade total de 29,35% nos últimos 12 meses e dividend yield de 1,35%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Russell 1000 Value ETF",
+    "ticker": "ARCX IWD",
+    "foundingDate": "2000-05-26",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "Russell 1000 Value",
+    "name": "iShares Russell 1000 Value ETF",
+    "founded": "26/05/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Russell 1000 Value ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "26/05/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 260,76",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "10,97% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,68",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,35%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 438,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IWD",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Russell 1000 Value ETF",
+    "currency": "USD",
+    "price": 260.76,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2935,
+      "3y": 0.8956,
+      "5y": 0.7421,
+      "10y": 2.0984
+    },
+    "volatility1y": 0.1097,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1904,
+      "from": "2022-01-12",
+      "to": "2022-09-30"
+    },
+    "beta1y": {
+      "value": 0.68,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.531,
+      "payments12Months": 4,
+      "yield12Months": 0.0135,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.93
+      }
+    },
+    "avgDailyTradedValue3m": 438606575
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do IWD nos últimos 12 meses é de 10,97%, nível considerado baixo para um ETF de ações. A maior queda em 5 anos foi de -19,04%, entre 12/01/2022 e 30/09/2022. Para monitorar oscilações e definir pontos de atenção, o app oferece [alertas de preço](/recursos/alertas-de-preco), que notificam quando a cotação atinge um valor escolhido pelo investidor."
+  },
+  "history": {
+    "overview": "O IWD foi lançado em 26/05/2000, no auge do movimento de criação de ETFs nos Estados Unidos. A marca iShares, hoje pertencente à BlackRock, foi criada pela Barclays em 2000 com o objetivo de expandir o mercado de fundos indexados, oferecendo produtos que replicassem índices de ações e títulos de forma passiva e com custos reduzidos. A BlackRock adquiriu a marca e o negócio da Barclays em 2009, consolidando a iShares como a maior emissora de ETFs do mundo. O IWD surgiu nesse contexto de popularização do investimento passivo, permitindo que investidores acessassem uma carteira diversificada de ações de valor dos EUA sem precisar montar a própria seleção de papéis. A estratégia de valor, baseada em critérios como múltiplos de preço e dividendos, reflete uma abordagem tradicional de mercado que busca ativos com preços abaixo de seu valor intrínseco estimado.",
+    "timeline": [
+      {
+        "date": "2000-05-26",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio de ETFs da iShares da Barclays",
+        "source": 2
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma plano de venda da marca iShares à CVC Capital Partners",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IWD funciona",
+      "body": "O IWD é um ETF que replica o índice Russell 1000 Value, focado em empresas de capitalização grande e média nos Estados Unidos com características de valor. A emissora é a iShares, braço de ETFs da BlackRock, que adquiriu a marca da Barclays em 2009. O fundo foi lançado em 26/05/2000, no contexto de expansão dos ETFs nos EUA. Não é um fundo alavancado ou inverso, portanto não há rebalanceamento diário de múltiplos; ele busca acompanhar a performance do índice de forma passiva."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IWD",
+      "body": "O IWD segue o índice Russell 1000 Value, que é um subconjunto do Russell 1000, composto por 1.000 empresas de capitalização grande e média nos EUA. O índice é mantido pela FTSE Russell e tem reposição anual em meados de junho. O Russell 1000 representa cerca de 93% da capitalização total das empresas públicas dos EUA, com valor agregado superior a US$ 70,70 trilhões em 25/09/2026. A estratégia de valor seleciona empresas com características como múltiplos de preço e dividendos mais atrativos, seguindo a filosofia de investimento em valor."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IWD a partir do Brasil",
+      "body": "Para investir no IWD a partir do Brasil, é necessário ter conta em uma corretora que opere no mercado americano ou em plataformas que ofereçam acesso a ETFs estrangeiros. O ativo é cotado em dólar, o que implica risco cambial: variações no câmbio entre o real e o dólar afetam o retorno em reais do investidor. Alternativamente, é possível buscar ETFs ou BDRs listados na B3 que sigam índices similares, como o S&P 500 ou o Russell 1000, para ter exposição a ações americanas sem a necessidade de conta no exterior."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IWD",
+      "body": "Até 29/10/2026, o IWD apresentou rentabilidade total de 29,35% nos últimos 12 meses, 89,56% em 3 anos, 74,21% em 5 anos e 209,84% em 10 anos. O dividend yield é de 1,35%, com US$ 3,5310 distribuídos em 4 pagamentos no período de 12 meses. Para comparar essa performance com o mercado americano, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra o S&P 500 lado a lado com a carteira do investidor."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IWD",
+      "body": "O IWD está sujeito a riscos de mercado, já que replica um índice de ações dos EUA. A volatilidade anualizada nos últimos 12 meses é de 10,97%, considerada baixa para o tipo de ativo. O beta contra o S&P 500 é 0,68, indicando que o ativo tende a se mover menos que o índice em termos de amplitude. A maior queda nos últimos 5 anos foi de -19,04%, entre 12/01/2022 e 30/09/2022. Há também risco cambial para investidores brasileiros, pois a cotação é em dólar. A estratégia de valor pode ter desempenho inferior a estratégias de crescimento em mercados de alta aversão ao risco ou em ciclos de forte valorização de ações de tecnologia."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o IWD?",
+      "answer": "IWD é o iShares Russell 1000 Value ETF, um fundo que replica o índice Russell 1000 Value, focado em ações de valor de empresas de capitalização grande e média nos EUA. Ele é emitido pela iShares, braço da BlackRock, e foi lançado em 2000."
+    },
+    {
+      "question": "IWD paga dividendos?",
+      "answer": "Sim, o IWD distribui proventos. Nos 12 meses até 29/10/2026, pagou US$ 3,5310 por cota em 4 pagamentos, resultando em dividend yield de 1,35%. O último pagamento foi de US$ 0,9300 em 15/09/2026. É possível acompanhar esses valores na seção de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "Qual a diferença entre IWD e IWF?",
+      "answer": "O IWD replica o Russell 1000 Value, focado em ações de valor, enquanto o IWF replica o Russell 1000 Growth, focado em ações de crescimento. Ambos são da iShares e seguem o mesmo índice base (Russell 1000), mas com filtros de estilo de investimento diferentes. O IWF está disponível como [IWF](/etfs/iwf) no app."
+    },
+    {
+      "question": "Como investir no IWD do Brasil?",
+      "answer": "É necessário ter conta em uma corretora que ofereça acesso ao mercado americano ou a ETFs estrangeiros. O ativo é cotado em dólar, o que envolve risco cambial. Alternativamente, há ETFs e BDRs na B3 que seguem índices similares, como o [SPY](/etfs/spy) ou o [VOO](/etfs/voo)."
+    },
+    {
+      "question": "IWD é um ETF alavancado?",
+      "answer": "Não, o IWD não é alavancado nem inverso. Ele replica o índice Russell 1000 Value de forma passiva, sem multiplicadores de retorno diário. Portanto, não há rebalanceamento diário que cause desvio do múltiplo do índice em períodos longos."
+    },
+    {
+      "question": "Qual a volatilidade do IWD?",
+      "answer": "A volatilidade anualizada nos últimos 12 meses é de 10,97%, nível baixo. O beta contra o S&P 500 é 0,68, indicando menor amplitude de movimentos em relação ao índice. A maior queda em 5 anos foi de -19,04%, entre 12/01/2022 e 30/09/2022. O app permite acompanhar isso com [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "IWD é bom para iniciantes?",
+      "answer": "O IWD é um ETF de índice amplo, o que pode ser adequado para quem busca diversificação em ações americanas de valor. No entanto, não é possível afirmar se é 'bom' para um perfil específico sem conhecer a situação do investidor. É possível usar o [assistente de IA](/recursos/assistente-de-ia) no app para perguntar sobre a carteira e como o IWD se encaixa nela."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do IWD lado a lado com o S&P 500, Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cotação do IWD atingir um valor que você definiu, útil para monitorar volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o IWD junto com outros ativos da sua carteira, com alocação por classe e valor total em uma só visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade do IWD e o preço médio da sua posição, com variação do dia e do ano."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre como o IWD se comporta na sua carteira e receba respostas baseadas nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para comparação de desempenho e beta do IWD."
+      },
+      {
+        "ticker": "IWF",
+        "list": "us-etfs",
+        "reason": "ETF do Russell 1000 Growth, par de estilo de investimento (crescimento vs. valor) do IWD."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF do S&P 500, alternativa para exposição ao mercado americano de capitalização total."
+      },
+      {
+        "ticker": "VTV",
+        "list": "us-etfs",
+        "reason": "ETF de valor da Vanguard, similar ao IWD em estratégia de investimento em ações de valor."
+      },
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "ETF do Russell 2000, que cobre as empresas de capitalização pequena, complementando o Russell 1000 do IWD."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IWD",
+      "url": "https://finance.yahoo.com/quote/IWD/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Russell 1000 Index (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Russell_1000_Index",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Value investing (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Value_investing",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

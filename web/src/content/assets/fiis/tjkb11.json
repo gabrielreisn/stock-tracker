@@ -1,0 +1,330 @@
+{
+  "ticker": "TJKB11",
+  "slug": "tjkb11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TJKB11: FII de tijolo, healthcare, dividendos",
+    "description": "TJKB11 é um FII de tijolo focado em healthcare, com 40 ativos e dividend yield de 13,74%.",
+    "h1": "TJKB11: TJK Renda Imobiliária FII",
+    "canonicalPath": "/fiis/tjkb11",
+    "keywords": [
+      "TJKB11",
+      "TJK Renda Imobiliária FII",
+      "FII healthcare",
+      "FII de tijolo",
+      "dividendos TJKB11",
+      "volatilidade TJKB11",
+      "BR-Capital FII"
+    ]
+  },
+  "summary": "TJKB11 é a cota do TJK Renda Imobiliária Fundo de Investimento Imobiliário, um FII de tijolo focado no segmento de healthcare. O fundo, administrado pela BR-Capital, detém 40 ativos imobiliários em São Paulo, Rio de Janeiro e Santa Catarina, locados para redes de saúde. Em 09/2026, o patrimônio líquido era de R$ 598,8 milhões e o valor patrimonial da cota, R$ 279,33.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Tjk Renda Imobiliária Fundo de Investimento Imobiliário",
+    "legalName": "TJK RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF TJKB11",
+    "isin": "BRTJKBCTF006",
+    "taxId": "39.714.024/0001-48",
+    "foundingDate": "2020-12-09",
+    "provider": {
+      "name": "BR-CAPITAL DIST. DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "url": "https://www.brcapital.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=39714024000148"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, segmento healthcare",
+    "issuerOrManager": "BR-CAPITAL DIST",
+    "name": "Tjk Renda Imobiliária Fundo de Investimento Imobiliário",
+    "legalName": "TJK RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Hospital",
+    "founded": "09/12/2020",
+    "administrator": "BR-CAPITAL DIST. DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+    "website": "https://www.brcapital.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "TJK RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "39.714.024/0001-48",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Hospital",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BR-CAPITAL DIST. DE TÍTULOS E VALORES MOBILIÁRIOS S/A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "09/12/2020",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 598,8 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "853",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 279,33",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 248,10",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "16,81% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,15",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "13,74%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 633.578,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TJKB11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Tjk Renda Imobiliaria Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 248.1,
+    "historyStarts": "2024-02-08",
+    "returns": {
+      "1y": 0.1378,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1681,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.1643,
+      "from": "2024-11-14",
+      "to": "2025-02-10"
+    },
+    "beta1y": {
+      "value": 0.15,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 34.1,
+      "payments12Months": 12,
+      "yield12Months": 0.1374,
+      "lastPayment": {
+        "date": "2026-10-20",
+        "amount": 2.9
+      }
+    },
+    "avgDailyTradedValue3m": 633578
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do TJKB11 nos 12 meses até 29/10/2026 foi de 16,81%, nível moderado. O beta de 12 meses contra o Ibovespa é de 0,15, o que significa que os movimentos do fundo costumam ser menores que os do índice, na mesma direção. A maior queda em 5 anos foi de -16,43%, do pico em 14/11/2024 ao ponto mais baixo em 10/02/2025. Para um FII de tijolo com foco em healthcare, essa volatilidade é compatível com a exposição a ativos imobiliários e a riscos de crédito de locatários. O [alertas de preço](/recursos/alertas-de-preco) permite definir notificações para acompanhar oscilações, e a [comparação com índices](/recursos/comparacao-com-indices) ajuda a contextualizar o desempenho frente ao IFIX e ao CDI."
+  },
+  "history": {
+    "overview": "O TJK Renda Imobiliária FII iniciou suas atividades em 09/12/2020, com foco na aquisição e locação de imóveis para o setor de saúde (healthcare). A estratégia inicial contemplava seis unidades em regiões consolidadas de São Paulo, como Jardins, Morumbi, Santo Amaro, Tatuapé e Vila Mariana. A expansão do portfólio ocorreu de forma acelerada entre 2024 e 2026, passando por múltiplas ofertas públicas de cotas e aquisições diretas. Em setembro de 2024, o fundo adquiriu ativos em Vila Olímpia e Joinville (SC), além de ingressar como cotista do FII BRC III, que detém um imóvel na Pompeia. Em abril de 2025, houve a aquisição de 29 lojas na Barra da Tijuca (RJ), locadas para a Oncoclínicas e a IPEMED | AFYA. Em março de 2026, o fundo comprou três imóveis em São Paulo, locados para o Instituto do Sono, elevando a área bruta locável (ABL) total para 59.428 m². A gestão é ativa, com a BR-Capital atuando como administradora e escrituradora.",
+    "timeline": [
+      {
+        "date": "2020-12-09",
+        "event": "Início das atividades do TJK Renda Imobiliária FII",
+        "source": 1
+      },
+      {
+        "date": "2024-04-23",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2024-10-11",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do TJKB11",
+      "body": "O TJKB11 é um Fundo de Investimento Imobiliário (FII) de tijolo, com gestão ativa, focado no segmento de healthcare. A administradora e escrituradora é a BR-Capital Distribuidora de Títulos e Valores Mobiliários S.A. Segundo o relatório gerencial de referência 30/08/2026, o portfólio é composto por 40 ativos imobiliários, com 59.428 m² de área bruta locável (ABL), distribuídos entre São Paulo (67% do ABL), Rio de Janeiro (9%) e Santa Catarina (24%). Os locatários incluem redes de saúde como a Oncoclínicas, a IPEMED | AFYA e o Instituto do Sono. O fundo também detém cotas do FII BRC III (Bresco), que possui um imóvel na Pompeia, São Paulo, locado para um centro de terapia e reabilitação. A estratégia de crescimento envolve a aquisição de ativos em regiões consolidadas e a diversificação geográfica e de locatários."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do TJKB11",
+      "body": "Nos 12 meses até 29/10/2026, o TJKB11 distribuiu R$ 34,1000 por cota em 12 pagamentos, resultando em um dividend yield de 13,74% sobre o preço de R$ 248,10. O último pagamento foi de R$ 2,9000, com data de pagamento em 20/10/2026. O relatório gerencial de agosto de 2026 indica que a distribuição de R$ 2,90 por cota, paga em 26/08/2026, manteve o mesmo patamar observado no primeiro semestre de 2026 e ao longo de 2025. A receita de locação totalizou R$ 4,39 milhões no mês de agosto, com redução de 17,38% em relação ao mês anterior, devido à postergação de pagamentos e ausência de repasse de excedentes. A receita total do período foi de R$ 6,74 milhões, com aumento de 0,75%, impulsionada por ganho de capital de R$ 2,07 milhões. O [proventos no app](/recursos/proventos) permite acompanhar a data com e data de pagamento dos rendimentos, multiplicados pela quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O FNET registra 365 documentos publicados pelo TJKB11 desde 08/01/2021, incluindo 6 ofertas públicas de cotas encerradas. A CVM informa que, em 09/2026, o patrimônio líquido do fundo era de R$ 598,8 milhões, com 853 cotistas e 2.143.824 cotas emitidas. O valor patrimonial da cota era de R$ 279,33. A taxa de administração no mês de setembro de 2026 foi de 0,009% sobre o patrimônio, equivalente a 0,60% ao ano, com mínimo de R$ 39.660 mensais, corrigido anualmente pelo IGP-M. O relatório gerencial de 30/08/2026 mostra patrimônio líquido de R$ 600.451.997,89 e valor patrimonial da cota de R$ 280,08."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TJKB11",
+      "body": "A rentabilidade total com proventos do TJKB11 nos 12 meses até 29/10/2026 foi de 13,78%. A volatilidade anualizada no mesmo período foi de 16,81%, classificada como moderada. O beta de 12 meses contra o Ibovespa é de 0,15, indicando que os movimentos do fundo costumam ser menores que os do índice, na mesma direção. A maior queda em 5 anos foi de -16,43%, do pico em 14/11/2024 ao ponto mais baixo em 10/02/2025. O [comparação com índices](/recursos/comparacao-com-indices) permite avaliar a rentabilidade do fundo lado a lado com o IFIX, CDI e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TJKB11",
+      "body": "Os riscos do TJKB11 incluem a concentração no segmento de healthcare, a dependência de poucos locatários (como a T.K.S. Sistemas Hospitalares, que teve inadimplemento em março de 2026, resolvido por acordo em abril de 2026) e a volatilidade de mercado. A maior queda em 5 anos foi de -16,43%, entre 14/11/2024 e 10/02/2025. A volatilidade anualizada de 16,81% é moderada, mas o beta de 0,15 contra o Ibovespa sugere menor sensibilidade aos movimentos do índice. O [alertas de preço](/recursos/alertas-de-preco) pode ajudar a monitorar oscilações, e a [carteira consolidada](/recursos/carteira-consolidada) permite avaliar a alocação do fundo junto a outros ativos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TJKB11 paga dividendos?",
+      "answer": "Sim, o TJKB11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram pagos R$ 34,1000 por cota, com dividend yield de 13,74%. O último pagamento foi de R$ 2,9000 em 20/10/2026. O [proventos no app](/recursos/proventos) mostra a data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+    },
+    {
+      "question": "Qual o segmento do TJKB11?",
+      "answer": "O TJKB11 é um FII de tijolo focado no segmento de healthcare. O portfólio inclui imóveis locados para redes de saúde, como a Oncoclínicas, a IPEMED | AFYA e o Instituto do Sono, além de cotas do FII BRC III, que detém um imóvel na Pompeia, São Paulo."
+    },
+    {
+      "question": "Qual a taxa de administração do TJKB11?",
+      "answer": "A taxa de administração é de 0,60% ao ano sobre o patrimônio líquido, com mínimo de R$ 39.660 mensais, corrigido anualmente pelo IGP-M. Em setembro de 2026, a taxa mensal foi de 0,009% sobre o patrimônio."
+    },
+    {
+      "question": "Quantos ativos o TJKB11 possui?",
+      "answer": "Segundo o relatório gerencial de 30/08/2026, o fundo possui 40 ativos imobiliários, com 59.428 m² de área bruta locável, distribuídos entre São Paulo, Rio de Janeiro e Santa Catarina. O portfólio inclui também cotas do FII BRC III."
+    },
+    {
+      "question": "Qual a rentabilidade do TJKB11 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos do TJKB11 nos 12 meses até 29/10/2026 foi de 13,78%. A [comparação com índices](/recursos/comparacao-com-indices) permite avaliar esse desempenho frente ao IFIX, CDI e outros benchmarks."
+    },
+    {
+      "question": "O TJKB11 é um FII de papel ou de tijolo?",
+      "answer": "O TJKB11 é um FII de tijolo, com foco no segmento de healthcare. O portfólio é composto por imóveis locados para redes de saúde, além de cotas do FII BRC III, que também detém um imóvel de tijolo."
+    },
+    {
+      "question": "Qual o patrimônio líquido do TJKB11?",
+      "answer": "Em 09/2026, o patrimônio líquido do TJKB11 era de R$ 598,8 milhões, com 853 cotistas e 2.143.824 cotas emitidas. O valor patrimonial da cota era de R$ 279,33."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos no app",
+        "context": "Veja os rendimentos do TJKB11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do TJKB11 com o IFIX, CDI e outros benchmarks no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o TJKB11 atingir o preço que você definiu, para acompanhar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Avalie a alocação do TJKB11 junto a outros ativos da sua carteira, com valor por classe e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no TJKB11 e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BRCO11",
+        "list": "fiis",
+        "reason": "O TJKB11 é cotista do FII BRC III (Bresco), que detém um imóvel na Pompeia, São Paulo, locado para um centro de terapia e reabilitação."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Kinea Rendimentos Imobiliários é um FII de tijolo com foco em renda, similar ao TJKB11, mas com portfólio mais diversificado."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "Cshg Logistica é um FII de tijolo com foco em logística, oferecendo exposição a outro segmento imobiliário."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "Xp Malls é um FII de tijolo com foco em shoppings, outro segmento imobiliário com perfil de renda mensal."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "BTG Pactual Logística é um FII de tijolo com foco em logística, similar ao TJKB11 em termos de gestão ativa e renda mensal."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TJKB11",
+      "url": "https://finance.yahoo.com/quote/TJKB11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do TJK RENDA IMOBILIARIA FII - RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo TJKB11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=39714024000148",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do TJKB11, referência 30/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338187",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TJKB11, 22/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1337780",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TJKB11, 09/04/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1158353",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

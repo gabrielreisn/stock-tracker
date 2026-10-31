@@ -1,0 +1,258 @@
+{
+  "ticker": "IAU",
+  "slug": "iau",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IAU: ETF de ouro, desempenho e riscos",
+    "description": "IAU é o iShares Gold Trust, ETF de ouro físico lançado em 2005. Veja desempenho, volatilidade e como investir no IAU a partir do Brasil.",
+    "h1": "IAU: iShares Gold Trust",
+    "canonicalPath": "/etfs/iau",
+    "keywords": [
+      "IAU",
+      "iShares Gold Trust",
+      "ETF de ouro",
+      "ouro em dólar",
+      "IAU Brasil",
+      "IAU dividendos",
+      "IAU volatilidade",
+      "IAU vs GLD"
+    ]
+  },
+  "summary": "IAU é o iShares Gold Trust, um ETF que busca replicar o preço do ouro físico, lançado em 28/01/2005 e gerido pela BlackRock. Diferente de ações, ele não paga dividendos, mas oferece exposição direta à commodity. Em 30/10/2026, sua cota valia US$ 72,92, com rentabilidade total de 12 meses em -3,79% e de 3 anos em 92,96%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Gold Trust",
+    "ticker": "ARCX IAU",
+    "foundingDate": "2005-01-28",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de ouro físico",
+    "issuerOrManager": "BlackRock (iShares)",
+    "trackedIndex": "Preço do ouro",
+    "name": "iShares Gold Trust",
+    "founded": "28/01/2005"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Gold Trust",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "28/01/2005",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 72,92",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "28,64% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,92",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 414,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IAU",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Gold Trust",
+    "currency": "USD",
+    "price": 72.92,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0379,
+      "3y": 0.9296,
+      "5y": 1.1384,
+      "10y": 1.9594
+    },
+    "volatility1y": 0.2864,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2821,
+      "from": "2026-01-29",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 0.92,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 414559994
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 12 meses do IAU é de 28,64%, um nível considerado alto para um ativo de refúgio. O beta de 12 meses contra o S&P 500 é de 0,92, o que significa que, historicamente, o IAU tende a acompanhar os movimentos do índice com intensidade ligeiramente menor, mas na mesma direção. A maior queda nos últimos 5 anos foi de -28,21%, entre 29/01/2026 e 30/10/2026. Esse nível de oscilação é compatível com o comportamento do ouro em períodos de estresse de mercado, mas é superior ao de ativos de renda fixa de baixo risco."
+  },
+  "history": {
+    "overview": "O IAU foi lançado em 28/01/2005, inserindo-se no mercado de ETFs de ouro que surgiu no início dos anos 2000. A emissora, a marca iShares, pertence à BlackRock, que adquiriu o negócio da Barclays em 2009. A Barclays havia lançado a marca iShares em 2000, renomeando os antigos WEBS (World Equity Benchmark Shares), que eram os primeiros ETFs a rastrear índices de ações estrangeiras. A criação de ETFs de ouro foi uma resposta à demanda por exposição à commodity sem a necessidade de armazenagem física, seguindo o modelo de fundos que vendem pequenas quantidades de ouro para cobrir as taxas de administração e custos de custódia.",
+    "timeline": [
+      {
+        "date": "2000",
+        "event": "Barclays lança a marca iShares, renomeando os antigos WEBS.",
+        "source": 1
+      },
+      {
+        "date": "2005-01-28",
+        "event": "Primeiro pregão das cotas do IAU na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca iShares da Barclays.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IAU funciona",
+      "body": "O IAU é um ETF que busca replicar o preço do ouro físico. Ele é emitido pela marca iShares, atualmente pertencente à BlackRock, que adquiriu o negócio da Barclays em 2009. O fundo foi lançado em 28/01/2005. Diferentemente de ETFs de ações, o IAU não possui uma empresa operando por trás, mas sim uma cesta de ouro físico. Para cobrir as taxas de administração e custos de custódia, o fundo vende pequenas quantidades de ouro ao longo do tempo, o que faz com que a quantidade de ouro por cota diminua gradualmente."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IAU",
+      "body": "O IAU segue o preço do ouro no mercado. As fontes indicam que o fundo é lastreado em ouro físico, diferindo de outros produtos que usam derivativos. Não há informações no dossiê sobre a quantidade exata de ouro por cota ou a custódia específica, mas o mecanismo geral de fundos de ouro envolve a venda de pequenas quantidades da commodity para pagar as despesas anuais do fundo."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IAU a partir do Brasil",
+      "body": "Para investir no IAU a partir do Brasil, o investidor precisa abrir conta em uma corretora que opere no mercado americano. O ativo é negociado em dólar, o que introduz risco cambial: se o dólar valorizar frente ao real, o investidor ganha com a variação da moeda, e se desvalorizar, perde. É possível também buscar exposição ao ouro por meio de BDRs ou ETFs listados na B3 que sigam o mesmo ativo, mas o IAU é um ativo americano. O app permite acompanhar a cotação em dólar e a variação cambial na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IAU",
+      "body": "Em 30/10/2026, a cota do IAU valia US$ 72,92. A rentabilidade total com proventos foi de -3,79% nos últimos 12 meses, 92,96% em 3 anos, 113,84% em 5 anos e 195,94% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 414,6 milhões. Como o IAU não paga proventos, a rentabilidade vem apenas da valorização da cota. A [comparação com índices](/recursos/comparacao-com-indices) permite ver esse desempenho lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IAU",
+      "body": "O principal risco do IAU é a volatilidade do preço do ouro, que é influenciada por fatores como inflação, taxas de juros e demanda especulativa. A volatilidade anualizada de 12 meses do IAU foi de 28,64%, considerada de nível alto. A maior queda nos últimos 5 anos foi de -28,21%, do pico em 29/01/2026 ao ponto mais baixo em 30/10/2026. Além disso, há o risco cambial para investidores brasileiros, pois o ativo é cotado em dólar. O [alerta de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos bruscos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "IAU paga dividendos?",
+      "answer": "Não, o IAU não paga dividendos. Nos últimos 12 meses, não houve proventos. A rentabilidade do investidor vem apenas da valorização da cota, que reflete o preço do ouro."
+    },
+    {
+      "question": "Qual a diferença entre IAU e GLD?",
+      "answer": "Ambos são ETFs de ouro físico, mas são emitidos por gestoras diferentes: o IAU é da BlackRock (iShares) e o GLD é da State Street. Eles seguem o mesmo ativo, mas podem ter taxas de administração e volumes de negociação diferentes. O [GLD](/etfs/gld) é o principal concorrente do IAU."
+    },
+    {
+      "question": "Como o IAU é afetado pelo dólar?",
+      "answer": "O IAU é cotado em dólar, então o investidor brasileiro está exposto à variação cambial. Se o dólar valorizar, a cota em reais sobe mesmo que o preço do ouro em dólar caia. O risco cambial é um dos principais fatores a considerar ao investir em ativos americanos."
+    },
+    {
+      "question": "Qual a volatilidade do IAU?",
+      "answer": "A volatilidade anualizada de 12 meses do IAU é de 28,64%, um nível alto. A maior queda nos últimos 5 anos foi de -28,21%, entre 29/01/2026 e 30/10/2026. O [alerta de preço](/recursos/alertas-de-preco) pode ser usado para monitorar oscilações."
+    },
+    {
+      "question": "IAU é um ETF alavancado?",
+      "answer": "Não, o IAU não é alavancado. Ele busca replicar o preço do ouro físico, sem multiplicadores. ETFs alavancados, como o [SOXL](/etfs/soxl), têm rebalanceamento diário e resultados que se afastam do múltiplo do índice em períodos longos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do IAU junto com outros ativos na sua carteira, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IAU com o S&P 500, Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do IAU atingir um preço que você definiu, útil para monitorar a volatilidade."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade da sua posição em IAU, com preço médio, ganho e variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GLD",
+        "list": "us-etfs",
+        "reason": "Concorrente direto, ETF de ouro físico da State Street."
+      },
+      {
+        "ticker": "SLV",
+        "list": "us-etfs",
+        "reason": "ETF de prata, outra commodity preciosa usada para diversificação."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar desempenho e correlação com o IAU."
+      },
+      {
+        "ticker": "GDX",
+        "list": "us-etfs",
+        "reason": "ETF de mineradoras de ouro, para exposição ao setor de forma diferente."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IAU",
+      "url": "https://finance.yahoo.com/quote/IAU/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Gold exchange-traded product (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Gold_exchange-traded_product",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Gold as an investment (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Gold_as_an_investment",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

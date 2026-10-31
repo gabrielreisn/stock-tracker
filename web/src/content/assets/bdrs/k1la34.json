@@ -1,0 +1,309 @@
+{
+  "ticker": "K1LA34",
+  "slug": "k1la34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "K1LA34: BDR da KLA Tencor, histórico e riscos",
+    "description": "Conheça o K1LA34, BDR da KLA Corporation, empresa de semicondutores. Veja histórico, dividendos, volatilidade e riscos do ativo cotado na B3.",
+    "h1": "K1LA34: BDR da KLA Tencor",
+    "canonicalPath": "/bdrs/k1la34",
+    "keywords": [
+      "K1LA34",
+      "KLA Tencor",
+      "BDR KLA",
+      "KLA Corporation",
+      "semicondutores B3",
+      "BDR não patrocinado",
+      "KLAC NASDAQ",
+      "dividendos K1LA34"
+    ]
+  },
+  "summary": "K1LA34 é o BDR não patrocinado (nível I) da KLA Corporation, empresa americana sediada em Milpitas, Califórnia, que fornece equipamentos de controle de processo e inspeção para a indústria de semicondutores. Listado na B3 desde 10/12/2019, o ativo acompanha a ação original KLAC na NASDAQ e a variação do dólar. Em 30/10/2026, o preço era de R$ 42,85, com rentabilidade total de 32,58% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "KLA Tencor",
+    "legalName": "KLA CORP",
+    "ticker": "BVMF K1LA34",
+    "foundingDate": "1997",
+    "website": "https://www.kla.com/",
+    "wikidata": "Q624649",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q624649",
+      "https://en.wikipedia.org/wiki/KLA_Corporation",
+      "https://pt.wikipedia.org/wiki/KLA_Corporation",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54801/K1LA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "KLA Tencor",
+    "legalName": "KLA CORP",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1997",
+    "listedSince": "10/12/2019",
+    "headquarters": "Milpitas",
+    "website": "https://www.kla.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "KLA CORP",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: KLAC",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Milpitas",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1997",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "10/12/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 42,85",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "68,21% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original KLAC em dólares)",
+      "value": "2,79",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,35%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 909.140,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "K1LA34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "KLA Corporation",
+    "currency": "BRL",
+    "price": 42.85,
+    "historyStarts": "2020-02-18",
+    "returns": {
+      "1y": 0.3258,
+      "3y": 2.742,
+      "5y": 3.1349,
+      "10y": null
+    },
+    "volatility1y": 0.6821,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5405,
+      "from": "2026-06-30",
+      "to": "2026-10-23"
+    },
+    "beta1y": {
+      "value": 2.79,
+      "against": "S&P 500, ação original KLAC em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.1518,
+      "payments12Months": 4,
+      "yield12Months": 0.0035,
+      "lastPayment": {
+        "date": "2026-08-14",
+        "amount": 0.04127
+      }
+    },
+    "avgDailyTradedValue3m": 909140
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do K1LA34 nos últimos 12 meses é de 68,21%, um nível considerado muito alto. O beta da ação original KLAC, contra o S&P 500, é de 2,79, o que indica que a ação tende a se mover com amplitude maior que a do índice, na mesma direção. É importante destacar que este beta é da ação original em dólares; o BDR em reais também sofre o efeito do câmbio, o que pode amplificar ou atenuar os movimentos. A maior queda nos últimos 5 anos foi de -54,05%, entre 30/06/2026 e 23/10/2026. Para monitorar esses movimentos e definir pontos de atenção, os [alertas de preço](/recursos/alertas-de-preco) do app podem ser úteis."
+  },
+  "history": {
+    "overview": "A KLA Corporation tem origem na fusão de duas empresas americanas: a KLA Instruments, fundada em 1975 por Ken Levy e Bob Anderson, focada na detecção de defeitos em fotomáscaras, e a Tencor Instruments, fundada em 1976 por Karel Urbanek e John Schwabacher, especializada em medição de espessura de filmes semicondutores. A fusão ocorreu em 1997, criando a KLA-Tencor, com o objetivo de oferecer uma solução única para equipamentos de processo e diagnóstico de chips. A empresa expandiu-se por meio de diversas aquisições ao longo das décadas seguintes, incluindo Nanopro GmbH, Amray, Inc. e Orbotech, esta última concluída em 2019 por cerca de US$ 3,4 bilhões. Em janeiro de 2019, a empresa anunciou a mudança de nome para KLA Corporation, que passou a valer em julho de 2019. Em 2008, a companhia pagou US$ 65 milhões para resolver acusações de datação ilegal de opções de ações, o que impactou sua reputação e resultados financeiros reportados na época. O BDR K1LA34 começou a ser negociado na B3 em 10/12/2019, permitindo que investidores brasileiros tivessem exposição ao setor de semicondutores sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fusão entre KLA Instruments e Tencor Instruments, formando a KLA-Tencor.",
+        "source": 3
+      },
+      {
+        "date": "2008-01",
+        "event": "KLA-Tencor paga US$ 65 milhões para resolver acusações de datação ilegal de opções de ações.",
+        "source": 3
+      },
+      {
+        "date": "2019-01-10",
+        "event": "Anúncio da mudança de nome de KLA-Tencor para KLA Corporation.",
+        "source": 3
+      },
+      {
+        "date": "2019-07",
+        "event": "A nova razão social KLA Corporation passa a valer.",
+        "source": 3
+      },
+      {
+        "date": "2019-12-10",
+        "event": "Listagem do BDR K1LA34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a KLA Tencor ganha dinheiro",
+      "body": "A KLA Corporation é uma empresa americana sediada em Milpitas, Califórnia, que atua no fornecimento de equipamentos de controle de processo e sistemas de gerenciamento de rendimento para a indústria de semicondutores e outras indústrias de nanoeletrônica relacionadas. Seus produtos e serviços são utilizados em todas as fases da produção de wafers, fotomáscaras, circuitos integrados e embalagens, desde a pesquisa e desenvolvimento até a fabricação em larga escala. A empresa cresceu historicamente por meio de aquisições estratégicas, consolidando-se como uma fornecedora de equipamentos de inspeção e metrologia para a fabricação de chips."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR K1LA34",
+      "body": "O K1LA34 é um BDR não patrocinado de nível I, o que significa que é um recibo negociado na B3, em reais, lastreado em ações da KLA Corporation negociadas no exterior, emitido por uma instituição depositária. A ação original é a KLAC, listada na NASDAQ. O preço do BDR acompanha a variação da ação original em dólares e a cotação do dólar em relação ao real. O BDR K1LA34 está listado na B3 desde 10/12/2019."
+    },
+    {
+      "id": "proventos",
+      "heading": "K1LA34 paga dividendos?",
+      "body": "A KLA Corporation paga dividendos, e esses proventos são repassados aos detentores do BDR K1LA34 em reais. Nos 12 meses até 30/10/2026, houve 4 pagamentos, totalizando R$ 0,1518 por BDR, o que resulta em um dividend yield de 0,35%. O último pagamento foi de R$ 0,0413, com data de pagamento em 14/08/2026. É importante lembrar que a empresa paga na moeda do seu país (dólar) e o valor chega em reais, sujeito à cotação do câmbio na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do K1LA34",
+      "body": "Até 30/10/2026, o K1LA34 apresentou rentabilidade total com proventos de 32,58% nos últimos 12 meses, 274,20% em 3 anos e 313,49% em 5 anos. Esses números incluem a variação do câmbio, pois o BDR é cotado em reais e lastreado em uma ação em dólares. Para entender melhor o desempenho do ativo em relação a outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite visualizar a rentabilidade lado a lado com o S&P 500, CDI e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do K1LA34",
+      "body": "Os principais riscos do K1LA34 incluem a volatilidade do setor de semicondutores, que é cíclico e sensível a mudanças na demanda global. A volatilidade anualizada do BDR nos últimos 12 meses foi de 68,21%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -54,05%, ocorrendo entre o pico em 30/06/2026 e o ponto mais baixo em 23/10/2026. Além disso, há o risco cambial, pois o BDR é cotado em reais e lastreado em uma ação em dólares, o que significa que a variação do dólar impacta diretamente o valor do ativo. A liquidez do BDR na B3 também é um fator a considerar, com volume médio negociado de R$ 909.140,00 por dia nos últimos 3 meses. Historicamente, a empresa enfrentou riscos regulatórios, como a acusação de datação ilegal de opções de ações em 2008, que resultou em um pagamento de US$ 65 milhões."
+    }
+  ],
+  "faq": [
+    {
+      "question": "K1LA34 paga dividendos?",
+      "answer": "Sim, a KLA Corporation paga dividendos, e esses proventos são repassados aos detentores do BDR K1LA34 em reais. Nos 12 meses até 30/10/2026, houve 4 pagamentos, totalizando R$ 0,1518 por BDR, com um dividend yield de 0,35%. O último pagamento foi de R$ 0,0413 em 14/08/2026. É possível acompanhar os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para ver a história de proventos e o impacto na rentabilidade."
+    },
+    {
+      "question": "Qual a diferença entre K1LA34 e KLAC?",
+      "answer": "K1LA34 é o BDR da KLA Corporation negociado na B3, em reais, enquanto KLAC é a ação original da empresa negociada na NASDAQ, em dólares. O preço do K1LA34 acompanha a variação da KLAC e a cotação do dólar em relação ao real. O BDR permite que investidores brasileiros tenham exposição à empresa sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "question": "K1LA34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "K1LA34 é um BDR não patrocinado de nível I. Isso significa que é um recibo negociado na B3, em reais, lastreado em ações da KLA Corporation no exterior, emitido por uma instituição depositária, sem a participação direta da empresa emissora na sua criação e manutenção."
+    },
+    {
+      "question": "Qual o risco cambial do K1LA34?",
+      "answer": "O K1LA34 é cotado em reais e lastreado em uma ação em dólares (KLAC na NASDAQ). Portanto, a variação do dólar em relação ao real impacta diretamente o valor do BDR. Se o dólar se valorizar, o BDR tende a subir, e se o dólar se desvalorizar, o BDR tende a cair, independentemente do desempenho da ação original."
+    },
+    {
+      "question": "Qual a volatilidade do K1LA34?",
+      "answer": "A volatilidade anualizada do K1LA34 nos últimos 12 meses é de 68,21%, um nível considerado muito alto. A maior queda nos últimos 5 anos foi de -54,05%, entre 30/06/2026 e 23/10/2026. Para acompanhar esses movimentos, os [alertas de preço](/recursos/alertas-de-preco) do app podem ajudar a definir pontos de atenção."
+    },
+    {
+      "question": "Como acompanhar o desempenho do K1LA34?",
+      "answer": "É possível usar o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app para ver a rentabilidade do ativo ao longo do tempo, o preço médio de compra e a variação do dia e do ano. A [comparação com índices](/recursos/comparacao-com-indices) permite visualizar o desempenho do K1LA34 lado a lado com o S&P 500, CDI e outros benchmarks."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da K1LA34 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da K1LA34 com o S&P 500, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a K1LA34 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a K1LA34 junto com outras ações, BDRs e fundos em uma só visão, com alocação e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR do setor de semicondutores, com exposição à NVIDIA Corporation."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores, que oferece exposição diversificada ao setor."
+      },
+      {
+        "ticker": "ASML34",
+        "list": "bdrs",
+        "reason": "BDR da ASML Holding N.V., outra empresa do setor de equipamentos para semicondutores."
+      },
+      {
+        "ticker": "A1MT34",
+        "list": "bdrs",
+        "reason": "BDR da Applied Materials Inc., concorrente da KLA Corporation no setor de equipamentos para semicondutores."
+      },
+      {
+        "ticker": "L1RC34",
+        "list": "bdrs",
+        "reason": "BDR da Lam Research Corporation, outra empresa do setor de equipamentos para semicondutores."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de K1LA34",
+      "url": "https://finance.yahoo.com/quote/K1LA34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: KLA CORP, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54801/K1LA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: KLA Tencor",
+      "url": "https://www.wikidata.org/wiki/Q624649",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): KLA Corporation",
+      "url": "https://en.wikipedia.org/wiki/KLA_Corporation",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): KLA Corporation",
+      "url": "https://pt.wikipedia.org/wiki/KLA_Corporation",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

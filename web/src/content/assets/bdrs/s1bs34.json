@@ -1,0 +1,331 @@
+{
+  "ticker": "S1BS34",
+  "slug": "s1bs34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "S1BS34: BDR da Sibanye Stillwater, história e dividendos",
+    "description": "S1BS34 é o BDR da Sibanye Stillwater, mineradora de platina e ouro. Veja história, dividendos de 7,00%, volatilidade de 68,46% e como acompanhar no app.",
+    "h1": "S1BS34: BDR da Sibanye Stillwater",
+    "canonicalPath": "/bdrs/s1bs34",
+    "keywords": [
+      "S1BS34",
+      "Sibanye Stillwater BDR",
+      "BDR mineração",
+      "dividendos S1BS34",
+      "volatilidade S1BS34",
+      "BDR não patrocinado",
+      "platina e ouro B3"
+    ]
+  },
+  "summary": "S1BS34 é o BDR não patrocinado de nível I da Sibanye Stillwater Ltd, mineradora global de metais de platina e ouro. Negociado na B3 desde 24/09/2020, o ativo acompanha a ação original listada em Nova York (SBSW) e em Joanesburgo (SSW). Em 30/10/2026, o BDR era cotado a R$ 23,24, com dividend yield de 7,00% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Sibanye Gold",
+    "legalName": "SIBANYE STILLWATER LTD",
+    "ticker": "BVMF S1BS34",
+    "foundingDate": "2012-11",
+    "website": "https://sibanyestillwater.com",
+    "wikidata": "Q21639712",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q21639712",
+      "https://en.wikipedia.org/wiki/Sibanye-Stillwater",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57185/S1BS/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Sibanye Gold",
+    "legalName": "SIBANYE STILLWATER LTD",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "11/2012",
+    "listedSince": "24/09/2020",
+    "headquarters": "Joanesburgo, Međreč",
+    "website": "https://sibanyestillwater.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "SIBANYE STILLWATER LTD",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: SBSW, Bolsa de Valores de Joanesburgo: SSW",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Joanesburgo, Međreč",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "11/2012",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "24/09/2020",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 23,24",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "68,46% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,00%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 389.927,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "S1BS34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Sibanye Stillwater Limited",
+    "currency": "BRL",
+    "price": 23.24,
+    "historyStarts": "2020-12-28",
+    "returns": {
+      "1y": -0.1617,
+      "3y": 0.8815,
+      "5y": -0.3344,
+      "10y": null
+    },
+    "volatility1y": 0.6846,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.808,
+      "from": "2022-03-07",
+      "to": "2024-09-10"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.6261,
+      "payments12Months": 2,
+      "yield12Months": 0.07,
+      "lastPayment": {
+        "date": "2026-09-17",
+        "amount": 0.985249
+      }
+    },
+    "avgDailyTradedValue3m": 389927
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do S1BS34 nos últimos 12 meses é de 68,46%, classificada como muito alta. A maior queda em 5 anos foi de -80,80%, entre 07/03/2022 e 10/09/2024. Esse nível de oscilação é típico de ativos de mineração de metais preciosos, que são sensíveis a ciclos econômicos globais e variações de preços de commodities. O beta não está disponível para este ativo. Para monitorar movimentos bruscos, o app oferece [alertas de preço](/recursos/alertas-de-preco) e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) de cada posição."
+  },
+  "history": {
+    "overview": "A Sibanye Gold nasceu em novembro de 2012, quando a Gold Fields Limited desmembrou sua subsidiária sul-africana, a GFI Mining South Africa, que passou a operar com o nome de Sibanye Gold. A empresa herdou as minas de Beatrix, KDC (antiga Kloof) e Driefontein. Logo em seguida, iniciou um plano de crescimento agressivo, adquirindo operações da Cooke (2013) e o projeto Burnstone (2014). Em 2016, a empresa entrou no setor de metais de platina (PGMs) com a compra da Aquarius Platinum e das operações da Anglo American Platinum. Em 30 de agosto de 2017, após adquirir a Stillwater Mining Company nos Estados Unidos, a empresa passou a se chamar Sibanye-Stillwater, reorganizando suas operações entre a África do Sul e os EUA. Em 2019, a aquisição da Lonmin consolidou o grupo como o maior produtor primário de platina e ródio do mundo. Em 2021, a empresa diversificou para metais de bateria com a parceria e posterior aquisição da Keliber, na Finlândia. Em 2025, o grupo empregava 72.668 pessoas, sendo um dos maiores empregadores do setor privado na África do Sul e o maior empregador industrial no estado de Montana, nos EUA.",
+    "timeline": [
+      {
+        "date": "2012-11",
+        "event": "Fundação da Sibanye Gold após o desmembramento da Gold Fields Limited",
+        "source": 2
+      },
+      {
+        "date": "2013",
+        "event": "Aquisição das operações da Cooke da Gold One",
+        "source": 3
+      },
+      {
+        "date": "2014",
+        "event": "Aquisição do projeto Burnstone (WitsGold)",
+        "source": 3
+      },
+      {
+        "date": "2016-04",
+        "event": "Entrada no setor de metais de platina com a oferta pela Aquarius Platinum",
+        "source": 3
+      },
+      {
+        "date": "2017-08-30",
+        "event": "Aquisição da Stillwater Mining Company e mudança de nome para Sibanye-Stillwater",
+        "source": 3
+      },
+      {
+        "date": "2019-06",
+        "event": "Aquisição da Lonmin Plc, tornando-se o maior produtor de platina e ródio",
+        "source": 3
+      },
+      {
+        "date": "2020-01",
+        "event": "Aumento da participação na DRDGOLD para 50,10%",
+        "source": 3
+      },
+      {
+        "date": "2020-09-24",
+        "event": "Listagem do BDR S1BS34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2021-02",
+        "event": "Entrada no setor de metais de bateria com investimento na Keliber",
+        "source": 3
+      },
+      {
+        "date": "2022",
+        "event": "Keliber passa a ser subsidiária da Sibanye-Stillwater, que detém 80% das ações",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Sibanye Gold ganha dinheiro",
+      "body": "A Sibanye Stillwater Ltd é um grupo global de mineração e processamento de metais, com operações em cinco continentes. A empresa é uma das maiores produtoras e refinadoras de metais do grupo da platina (PGMs: platina, paládio, ródio, irídio e rutênio) e também uma produtora de primeira linha de ouro. Além disso, produz níquel, cromo, cobre, prata, cobalto e zinco. O grupo também atua na reciclagem de metais e na mineração secundária, expandindo sua presença na economia circular. De acordo com o relatório anual de 2025, a empresa produziu 1,7 milhão de onças 4E (platina, paládio, ródio e ouro) em suas operações de PGM na África do Sul e 284 mil onças 2E (platina e paládio) nas operações nos Estados Unidos."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR S1BS34",
+      "body": "O S1BS34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Sibanye Stillwater Ltd, que tem listagem primária na Bolsa de Valores de Joanesburgo (ticker SSW) e secundária na Bolsa de Valores de Nova York (ticker SBSW). O BDR foi listado na B3 em 24/09/2020. O preço do BDR acompanha a cotação da ação original no exterior e a variação do câmbio entre o dólar e o real. Como é um BDR não patrocinado, a própria empresa não participa da emissão ou gestão do programa."
+    },
+    {
+      "id": "proventos",
+      "heading": "S1BS34 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, o S1BS34 distribuiu R$ 1,6261 por BDR em 2 pagamentos, resultando em um dividend yield de 7,00%. O último pagamento foi de R$ 0,9852, com data de pagamento em 17/09/2026. Como a empresa é estrangeira, os dividendos são pagos na moeda local e o valor que chega ao investidor brasileiro é convertido para reais, sujeito à variação cambial e às regras de tributação aplicáveis a rendas do exterior."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do S1BS34",
+      "body": "Até 30/10/2026, a rentabilidade total do S1BS34 com proventos foi de -16,17% nos últimos 12 meses, 88,15% em 3 anos e -33,44% em 5 anos. Esses números estão em reais e incluem a variação do câmbio entre o dólar e o real, além da performance da ação original. Para comparar esse desempenho com outros ativos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que mostra a rentabilidade lado a lado com o S&P 500, CDI e outros referenciais."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do S1BS34",
+      "body": "O S1BS34 está exposto a riscos operacionais da mineração, incluindo acidentes e questões trabalhistas, como o massacre de Marikana em 2012 e as fatalidades em 2018. Há também risco cambial, pois o BDR é cotado em reais, mas a ação original é negociada em dólares e randes. A liquidez do BDR na B3 é baixa, com volume médio diário de R$ 389.927,00 nos últimos 3 meses. A volatilidade anualizada de 12 meses é de 68,46%, nível muito alto, e a maior queda em 5 anos foi de -80,80%, do pico em 07/03/2022 ao fundo em 10/09/2024. Para acompanhar oscilações, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "S1BS34 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 1,6261 por unidade em 2 pagamentos, com dividend yield de 7,00%. O último pagamento foi de R$ 0,9852 em 17/09/2026. Os valores são convertidos para reais, sujeitos ao câmbio."
+    },
+    {
+      "question": "Qual a diferença entre S1BS34 e a ação SBSW?",
+      "answer": "O S1BS34 é um BDR negociado na B3 em reais, enquanto a SBSW é a ação original negociada em Nova York em dólares. O preço do BDR acompanha a ação original e a variação do câmbio. O BDR é não patrocinado, ou seja, a empresa não participa da emissão."
+    },
+    {
+      "question": "S1BS34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "É um BDR não patrocinado de nível I. Isso significa que a Sibanye Stillwater não participa da emissão ou gestão do programa, e o investidor tem menos informações diretas da empresa do que em BDRs patrocinados."
+    },
+    {
+      "question": "Qual o risco cambial do S1BS34?",
+      "answer": "O BDR é cotado em reais, mas a ação original é negociada em dólares e randes. Variações no câmbio afetam diretamente o preço do BDR. Se o real se valorizar em relação ao dólar, o BDR tende a cair, mesmo que a ação original suba."
+    },
+    {
+      "question": "Qual a liquidez do S1BS34 na B3?",
+      "answer": "O volume médio diário nos últimos 3 meses é de R$ 389.927,00, o que indica baixa liquidez. Isso pode dificultar a compra ou venda em grandes quantidades sem impactar o preço."
+    },
+    {
+      "question": "Qual a volatilidade do S1BS34?",
+      "answer": "A volatilidade anualizada de 12 meses é de 68,46%, nível muito alto. A maior queda em 5 anos foi de -80,80%, entre 07/03/2022 e 10/09/2024. Esse nível é típico de mineração de metais preciosos."
+    },
+    {
+      "question": "Como acompanhar o S1BS34 no app?",
+      "answer": "É possível usar a [carteira consolidada](/recursos/carteira-consolidada) para ver o BDR junto com outros ativos, e o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a posição em português, com respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o S1BS34 junto com outras posições, com valor por classe e alocação."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o BDR chegar ao preço que você escolheu, útil dada a alta volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do S1BS34 com o S&P 500, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio da sua posição no S1BS34, com variação do dia e do ano."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no S1BS34, com respostas baseadas nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GDX",
+        "list": "us-etfs",
+        "reason": "ETF de mineradoras de ouro, setor correlato à Sibanye Stillwater."
+      },
+      {
+        "ticker": "GLD",
+        "list": "us-etfs",
+        "reason": "ETF de ouro, commodity que a Sibanye produz."
+      },
+      {
+        "ticker": "N1EM34",
+        "list": "bdrs",
+        "reason": "BDR da Newmont Corporation, outra grande mineradora de ouro."
+      },
+      {
+        "ticker": "RIOT34",
+        "list": "bdrs",
+        "reason": "BDR do Rio Tinto Group, mineradora global de metais."
+      },
+      {
+        "ticker": "FCXO34",
+        "list": "bdrs",
+        "reason": "BDR da Freeport-McMoRan, mineradora de cobre e outros metais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de S1BS34",
+      "url": "https://finance.yahoo.com/quote/S1BS34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SIBANYE STIL, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/57185/S1BS/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Sibanye Gold",
+      "url": "https://www.wikidata.org/wiki/Q21639712",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Sibanye-Stillwater",
+      "url": "https://en.wikipedia.org/wiki/Sibanye-Stillwater",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

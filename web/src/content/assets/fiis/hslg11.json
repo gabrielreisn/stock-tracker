@@ -1,0 +1,328 @@
+{
+  "ticker": "HSLG11",
+  "slug": "hslg11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HSLG11: FII de logística, dividendos e volatilidade",
+    "description": "HSLG11 é um FII de tijolo focado em logística, com patrimônio de R$ 1,39 bilhão em 09/2026. Veja dividend yield de 11,85%, volatilidade e riscos do fundo.",
+    "h1": "HSLG11: HSI Logística FII – História, dividendos e volatilidade",
+    "canonicalPath": "/fiis/hslg11",
+    "keywords": [
+      "HSLG11",
+      "HSI Logística FII",
+      "FII de logística",
+      "dividendos HSLG11",
+      "volatilidade HSLG11",
+      "FII tijolo logística",
+      "HSLG11 patrimônio",
+      "HSLG11 cotistas"
+    ]
+  },
+  "summary": "HSLG11 é a cota do HSI Logística Fundo de Investimento Imobiliário, um FII de tijolo focado no segmento de logística. O fundo, com patrimônio de R$ 1,39 bilhão em 09/2026, investe em galpões e centros de distribuição, com 100% dos ativos localizados a até 30 km das capitais. Em 12 meses até 29/10/2026, a cota teve rentabilidade total de -7,61%, com dividend yield de 11,85%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "HSI Logística Fundo de Investimento Imobiliário de Resp Limitada",
+    "legalName": "HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
+    "ticker": "BVMF HSLG11",
+    "isin": "BRHSLGCTF009",
+    "taxId": "32.903.621/0001-71",
+    "foundingDate": "2019-12-09",
+    "website": "https://www.hslg.hsifii.com",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=32903621000171"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, logística",
+    "issuerOrManager": "HSI Gestora de Fundos Imobiliários (gestora), BRL TRUST DTVM S.A",
+    "name": "HSI Logística Fundo de Investimento Imobiliário de Resp Limitada",
+    "legalName": "HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "09/12/2019",
+    "administrator": "BRL TRUST DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESP LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "32.903.621/0001-71",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BRL TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "09/12/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,39 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "40.132",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 110,03",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 73,95",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "23,38% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,33",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,85%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,3 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HSLG11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Hsi Logistica Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 73.95,
+    "historyStarts": "2024-02-01",
+    "returns": {
+      "1y": -0.0761,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.2338,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2465,
+      "from": "2024-03-11",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.33,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 8.76,
+      "payments12Months": 12,
+      "yield12Months": 0.1185,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.75
+      }
+    },
+    "avgDailyTradedValue3m": 1299550
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do HSLG11 nos 12 meses até 29/10/2026 foi de 23,38%, classificada como moderada. O beta contra o Ibovespa é de 0,33, o que significa que o fundo tende a acompanhar os movimentos do índice com menor intensidade, na mesma direção. A maior queda em 5 anos foi de -24,65%, do pico em 11/03/2024 ao ponto mais baixo em 19/12/2024. Para acompanhar a variação de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam uma notificação quando o ativo chega ao preço escolhido."
+  },
+  "history": {
+    "overview": "O HSI Logística FII iniciou suas atividades em 09/12/2019, com o objetivo de investir em imóveis do segmento logístico. Em dezembro de 2020, o fundo realizou sua primeira oferta pública de cotas, encerrada em 15/12/2020, o que marcou a entrada de novos investidores e o crescimento inicial do patrimônio. A gestão é ativa, conduzida pela HSI Gestora de Fundos Imobiliários, com administração da BRL TRUST DTVM S.A. A estratégia de investimento prioriza imóveis prontos para locação, arrendamento ou exploração do direito de superfície, buscando renda e ganho de capital. Em 2026, o fundo enfrentou riscos de crédito relacionados à inadimplência de uma de suas locatárias, a Casas Bahia, o que gerou ações de despejo em dois imóveis, evidenciando a exposição a riscos de vacância e crédito em FIIs de tijolo.",
+    "timeline": [
+      {
+        "date": "2019-12-09",
+        "event": "Início das atividades do HSI Logística FII.",
+        "source": 1
+      },
+      {
+        "date": "2020-12-04",
+        "event": "Início da oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2020-12-15",
+        "event": "Encerramento da oferta pública de cotas (nova emissão).",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do HSLG11",
+      "body": "O HSLG11 é um FII de tijolo com gestão ativa, focado no segmento de logística. A gestora é a HSI Gestora de Fundos Imobiliários e o administrador é a BRL TRUST DTVM S.A. Segundo o relatório gerencial de 30/09/2026, o fundo tem como objetivo a obtenção de renda e ganho de capital, investindo em imóveis ou direitos reais sobre imóveis prontos do segmento logístico, por meio de aquisição para posterior locação, arrendamento, exploração do direito de superfície ou alienação. O portfólio possui 100% dos ativos a um raio máximo de 30 km da capital mais próxima, com ABL própria de 508,0 mil m² e posição majoritária em 100% dos ativos."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do HSLG11",
+      "body": "Nos 12 meses até 29/10/2026, o HSLG11 distribuiu R$ 8,7600 por cota em 12 pagamentos, resultando em um dividend yield de 11,85%. O último provento foi de R$ 0,7500 em 01/10/2026. A tributação, conforme o relatório gerencial, é de 0% sobre rendimentos para pessoa física com menos de 10% do total de cotas do fundo e mais de 100 cotistas, e 20% sobre ganho de capital em eventual venda das cotas. Para pessoa jurídica, a alíquota é de 20% sobre rendimentos e 20% sobre ganho de capital. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O HSLG11 realizou uma oferta pública de cotas, iniciada em 04/12/2020 e encerrada em 15/12/2020, conforme o FNET da B3. Em 09/2026, o patrimônio líquido do fundo era de R$ 1,39 bilhão, com 40.132 cotistas e valor patrimonial da cota de R$ 110,03, segundo a CVM. O número de cotas emitidas era de 12.660.067."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HSLG11",
+      "body": "A rentabilidade total com proventos do HSLG11 nos 12 meses até 29/10/2026 foi de -7,61%. O fundo pode ser comparado com índices como o IFIX e o CDI na [comparação com índices](/recursos/comparacao-com-indices) do app, que mostra a rentabilidade lado a lado com CDI, IPCA, IPCA+6%, S&P 500, IFIX e Ibovespa, no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HSLG11",
+      "body": "Os riscos do HSLG11 incluem vacância e inadimplência de locatárias, como evidenciado pela situação com a Casas Bahia em 2026, que gerou ações de despejo em dois imóveis. A volatilidade anualizada do fundo nos 12 meses até 29/10/2026 foi de 23,38%, nível moderado, e a maior queda em 5 anos foi de -24,65%, do pico em 11/03/2024 ao ponto mais baixo em 19/12/2024. O beta contra o Ibovespa é de 0,33, indicando que o fundo tende a acompanhar os movimentos do índice com menor intensidade. Riscos gerais de FIIs de tijolo incluem sensibilidade a juros e vacância."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HSLG11 é FII de papel ou de tijolo?",
+      "answer": "HSLG11 é um FII de tijolo, focado no segmento de logística. O fundo investe em imóveis prontos para locação, arrendamento ou exploração do direito de superfície, com 100% dos ativos a até 30 km das capitais, segundo o relatório gerencial de 30/09/2026."
+    },
+    {
+      "question": "HSLG11 paga dividendos?",
+      "answer": "Sim, HSLG11 distribui proventos mensais. Nos 12 meses até 29/10/2026, foram R$ 8,7600 por cota, com dividend yield de 11,85%. O último pagamento foi de R$ 0,7500 em 01/10/2026. É possível ver os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento."
+    },
+    {
+      "question": "Qual a diferença entre HSLG11 e outros FIIs de logística?",
+      "answer": "HSLG11 é um FII de tijolo com gestão ativa, focado em logística, com 100% dos ativos a até 30 km das capitais. Outros FIIs de logística, como [BTLG11](/fiis/btlg11), [XPLG11](/fiis/xplg11) e [VILG11](/fiis/vilg11), também atuam no segmento, mas podem ter estratégias, portfólios e gestores diferentes. A comparação pode ser feita no [comparador de fundos](/recursos/comparador-de-fundos) do app."
+    },
+    {
+      "question": "Qual o patrimônio do HSLG11?",
+      "answer": "Em 09/2026, o patrimônio líquido do HSLG11 era de R$ 1,39 bilhão, com 40.132 cotistas e valor patrimonial da cota de R$ 110,03, segundo a CVM."
+    },
+    {
+      "question": "HSLG11 tem risco de vacância?",
+      "answer": "Sim, como FII de tijolo, HSLG11 está exposto a riscos de vacância e inadimplência. Em 2026, o fundo enfrentou inadimplência da Casas Bahia, o que gerou ações de despejo em dois imóveis. A volatilidade anualizada de 23,38% nos 12 meses até 29/10/2026 reflete esse tipo de risco."
+    },
+    {
+      "question": "Como acompanhar o desempenho do HSLG11?",
+      "answer": "O desempenho do HSLG11 pode ser acompanhado no [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app, que mostra a rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho, variação do dia e do ano. A comparação com índices como IFIX e CDI está na [comparação com índices](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da HSLG11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da HSLG11 com IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota da HSLG11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a HSLG11 junto com outros ativos na carteira consolidada, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em HSLG11; as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística, com estratégia similar de investimento em galpões e centros de distribuição."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística com foco em imóveis prontos para locação, como o HSLG11."
+      },
+      {
+        "ticker": "VILG11",
+        "list": "fiis",
+        "reason": "FII de logística com portfólio de galpões, similar ao segmento do HSLG11."
+      },
+      {
+        "ticker": "GARE11",
+        "list": "fiis",
+        "reason": "FII de logística com gestão ativa, como o HSLG11."
+      },
+      {
+        "ticker": "MCLO11",
+        "list": "fiis",
+        "reason": "FII de logística com foco em imóveis prontos, similar ao HSLG11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HSLG11",
+      "url": "https://finance.yahoo.com/quote/HSLG11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do HSI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo HSLG11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=32903621000171",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do HSLG11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1345912",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HSLG11, 29/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1362959",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HSLG11, 15/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1352450",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

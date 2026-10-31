@@ -1,0 +1,298 @@
+{
+  "ticker": "C1HK34",
+  "slug": "c1hk34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "C1HK34: BDR da Check Point, cibersegurança",
+    "description": "C1HK34 é o BDR da Check Point Software Technologies, empresa de cibersegurança. Veja desempenho, riscos e como funciona o recibo na B3.",
+    "h1": "C1HK34: BDR da Check Point Software Technologies",
+    "canonicalPath": "/bdrs/c1hk34",
+    "keywords": [
+      "C1HK34",
+      "Check Point BDR",
+      "BDR cibersegurança",
+      "CHKP B3",
+      "Check Point Software"
+    ]
+  },
+  "summary": "C1HK34 é o BDR não patrocinado (nível I) da Check Point Software Technologies Ltd., empresa israelense de cibersegurança fundada em 1993. O recibo, negociado na B3 desde 10/12/2019, representa ações da CHKP na NASDAQ. Em 30/10/2026, o ativo cotava a R$ 68,66, com rentabilidade total de -20,70% nos últimos 12 meses e volatilidade anualizada de 44,15%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Check Point",
+    "legalName": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+    "ticker": "BVMF C1HK34",
+    "foundingDate": "1993",
+    "website": "https://www.checkpoint.com",
+    "wikidata": "Q176587",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q176587",
+      "https://en.wikipedia.org/wiki/Check_Point",
+      "https://pt.wikipedia.org/wiki/Check_Point",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54534/C1HK/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Check Point",
+    "legalName": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1993",
+    "listedSince": "10/12/2019",
+    "headquarters": "Tel Aviv",
+    "website": "https://www.checkpoint.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: CHKP",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Tel Aviv",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1993",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "10/12/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 68,66",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "44,15% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original CHKP em dólares)",
+      "value": "0,02",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 678.037,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "C1HK34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Check Point Software Technologies Ltd.",
+    "currency": "BRL",
+    "price": 68.66,
+    "historyStarts": "2020-07-17",
+    "returns": {
+      "1y": -0.207,
+      "3y": 0.22,
+      "5y": 0.2522,
+      "10y": null
+    },
+    "volatility1y": 0.4415,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5686,
+      "from": "2025-03-21",
+      "to": "2026-04-30"
+    },
+    "beta1y": {
+      "value": 0.02,
+      "against": "S&P 500, ação original CHKP em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 678037
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do C1HK34 nos últimos 12 meses é de 44,15%, nível considerado muito alto. A maior queda em 5 anos foi de -56,86%, entre 21/03/2025 e 30/04/2026. O beta da ação original CHKP contra o S&P 500 é de 0,02, o que significa que, em dólares, a ação tende a acompanhar os movimentos do índice com amplitude muito menor. No entanto, o BDR em reais também é afetado pela variação do câmbio, o que pode amplificar ou atenuar a volatilidade percebida pelo investidor brasileiro. Para acompanhar oscilações de preço, os [alertas de preço](/recursos/alertas-de-preco) no app permitem definir notificações personalizadas."
+  },
+  "history": {
+    "overview": "A Check Point Software Technologies Ltd. foi fundada em 1993 em Ramat Gan, Israel, por Gil Shwed, Marius Nacht e Shlomo Kramer. A empresa surgiu com a tecnologia de inspeção de estado (stateful inspection), base do FireWall-1, seu primeiro produto, seguido pelo VPN-1. O financiamento inicial de US$ 250 mil veio do fundo de venture capital BRM Group. Ao longo dos anos, a empresa expandiu seu portfólio com parcerias e aquisições, incluindo a unidade de segurança de rede da Nokia em 2009 e, em 2026, as startups israelenses Cyata, Cyclops, Rotate e Deepchecks. Em dezembro de 2024, Gil Shwed assumiu o cargo de presidente executivo do conselho, e Nadav Zafrir tornou-se o novo CEO. O BDR C1HK34 começou a ser negociado na B3 em 10 de dezembro de 2019, permitindo que investidores brasileiros acompanhem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Fundação da Check Point Software Technologies Ltd. em Ramat Gan, Israel, por Gil Shwed, Marius Nacht e Shlomo Kramer.",
+        "source": 2
+      },
+      {
+        "date": "1996-06",
+        "event": "Realização da oferta pública inicial (IPO) na NASDAQ, com captação de US$ 67 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2009",
+        "event": "Aquisição da unidade de negócios de segurança de rede da Nokia.",
+        "source": 3
+      },
+      {
+        "date": "2019-12-10",
+        "event": "Listagem do BDR C1HK34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2024-12",
+        "event": "Gil Shwed assume o cargo de presidente executivo do conselho e Nadav Zafrir é nomeado CEO.",
+        "source": 3
+      },
+      {
+        "date": "2026-02",
+        "event": "Anúncio das aquisições das startups israelenses Cyata, Cyclops e Rotate, com estimativas de mercado superiores a US$ 150 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2026-05",
+        "event": "Aquisição da equipe e da tecnologia da startup israelense de avaliação de IA Deepchecks.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Check Point ganha dinheiro",
+      "body": "A Check Point Software Technologies Ltd. é uma empresa de cibersegurança que desenvolve e comercializa hardware e software para proteção de redes e aplicações. Seu portfólio inclui a linha de firewalls Quantum, a plataforma de segurança em nuvem Harmony e a suíte CloudGuard, que cobre proteção de aplicações, redes e workloads. A empresa também oferece o Infinity External Risk Management para monitorar ameaças externas como roubo de credenciais e fraude. A Check Point possui uma equipe de pesquisa com mais de 200 analistas que identificam vulnerabilidades e ameaças, utilizando a rede de IA ThreatCloud. Em 2025, a empresa integrou a Veriti à plataforma Infinity e, em fevereiro de 2025, firmou uma parceria com a Wiz para substituir o CloudGuard CNAPP."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR C1HK34",
+      "body": "O C1HK34 é um BDR não patrocinado (nível I) que representa ações da Check Point Software Technologies Ltd. (NASDAQ: CHKP) negociadas na B3 em reais. O recibo é emitido por uma instituição depositária e seu preço acompanha a variação da ação original em dólares e a taxa de câmbio. O BDR foi listado na B3 em 10/12/2019. Como não é patrocinado, a empresa não participa da emissão ou do registro do recibo, o que pode afetar a liquidez e a transparência das informações em relação a BDRs patrocinados."
+    },
+    {
+      "id": "proventos",
+      "heading": "C1HK34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, o C1HK34 não distribuiu proventos. A Check Point Software Technologies Ltd. não pagou dividendos ou juros sobre capital próprio nesse período. Caso a empresa decida distribuir proventos no futuro, o valor será convertido para reais conforme a taxa de câmbio na data do pagamento, e o investidor brasileiro estará sujeito à tributação vigente à época."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do C1HK34",
+      "body": "Em 30/10/2026, o C1HK34 cotava a R$ 68,66. A rentabilidade total com proventos foi de -20,70% nos últimos 12 meses, 22,00% em 3 anos e 25,22% em 5 anos. Esses retornos incluem a variação do câmbio entre o dólar e o real, além da performance da ação CHKP na NASDAQ. Para avaliar o desempenho do BDR em relação a outros mercados, é possível comparar a rentabilidade com índices como o S&P 500 e o CDI. A [comparação com índices](/recursos/comparacao-com-indices) no app permite visualizar essa relação lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do C1HK34",
+      "body": "O C1HK34 apresenta volatilidade anualizada de 44,15% nos últimos 12 meses, classificada como muito alta. A maior queda nos últimos 5 anos foi de -56,86%, entre o pico em 21/03/2025 e o ponto mais baixo em 30/04/2026. O beta da ação original CHKP contra o S&P 500 é de 0,02, indicando que, em dólares, a ação tende a ter movimentos menores que o índice, mas o BDR em reais ainda sofre o efeito do câmbio. A liquidez do BDR na B3 é limitada, com volume médio diário de R$ 678.037,00 nos últimos 3 meses. Riscos específicos incluem a exposição a mudanças regulatórias no setor de cibersegurança, a dependência de aquisições para crescimento e a operação da empresa na Rússia, que gera críticas. A [carteira consolidada](/recursos/carteira-consolidada) ajuda a monitorar a alocação e o impacto desse ativo no portfólio."
+    }
+  ],
+  "faq": [
+    {
+      "question": "C1HK34 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, o C1HK34 não distribuiu proventos. A Check Point Software Technologies Ltd. não pagou dividendos ou juros sobre capital próprio nesse período. Caso a empresa decida distribuir proventos no futuro, o valor será convertido para reais conforme a taxa de câmbio na data do pagamento."
+    },
+    {
+      "question": "O que é o BDR C1HK34?",
+      "answer": "C1HK34 é o BDR não patrocinado (nível I) da Check Point Software Technologies Ltd., empresa israelense de cibersegurança. O recibo é negociado na B3 em reais e representa ações da CHKP na NASDAQ. O BDR foi listado na B3 em 10/12/2019."
+    },
+    {
+      "question": "Qual a diferença entre C1HK34 e CHKP?",
+      "answer": "C1HK34 é o BDR negociado na B3 em reais, enquanto CHKP é a ação original da Check Point na NASDAQ, em dólares. O preço do C1HK34 acompanha a variação da CHKP e a taxa de câmbio entre o dólar e o real. O BDR não é patrocinado, o que significa que a empresa não participa da emissão do recibo."
+    },
+    {
+      "question": "Qual a volatilidade do C1HK34?",
+      "answer": "A volatilidade anualizada do C1HK34 nos últimos 12 meses é de 44,15%, nível considerado muito alto. A maior queda em 5 anos foi de -56,86%, entre 21/03/2025 e 30/04/2026. O beta da ação original CHKP contra o S&P 500 é de 0,02, mas o BDR em reais também é afetado pela variação do câmbio."
+    },
+    {
+      "question": "Qual o volume médio de negociação do C1HK34?",
+      "answer": "O volume médio diário do C1HK34 nos últimos 3 meses é de R$ 678.037,00. Esse valor indica a liquidez do BDR na B3, que pode ser menor em comparação com ações brasileiras de grande porte."
+    },
+    {
+      "question": "Como acompanhar o desempenho do C1HK34?",
+      "answer": "O desempenho do C1HK34 pode ser acompanhado pelo [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app, que mostra a rentabilidade e a variação do ativo. A [comparação com índices](/recursos/comparacao-com-indices) permite avaliar a performance em relação ao S&P 500 e ao CDI."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do C1HK34 junto com outros ativos da sua carteira, incluindo ações, BDRs e renda fixa, em uma única visão."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do C1HK34 com o S&P 500 e o CDI no mesmo gráfico, para avaliar o desempenho do BDR em relação a outros mercados."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina notificações para acompanhar oscilações do C1HK34, considerando a alta volatilidade do ativo."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e a variação do C1HK34 ao longo do tempo, com gráficos interativos e dados atualizados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia listado na B3, com exposição a empresas de semicondutores e inteligência artificial."
+      },
+      {
+        "ticker": "P2AN34",
+        "list": "bdrs",
+        "reason": "BDR da Palo Alto Networks, empresa concorrente no setor de cibersegurança."
+      },
+      {
+        "ticker": "F1TN34",
+        "list": "bdrs",
+        "reason": "BDR da Fortinet, outra empresa do setor de cibersegurança, permitindo comparação de desempenho."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar a performance do C1HK34 com o mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de C1HK34",
+      "url": "https://finance.yahoo.com/quote/C1HK34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CHECK POINT, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54534/C1HK/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Check Point",
+      "url": "https://www.wikidata.org/wiki/Q176587",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Check Point",
+      "url": "https://en.wikipedia.org/wiki/Check_Point",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Check Point",
+      "url": "https://pt.wikipedia.org/wiki/Check_Point",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

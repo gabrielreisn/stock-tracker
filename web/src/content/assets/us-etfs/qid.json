@@ -1,0 +1,289 @@
+{
+  "ticker": "QID",
+  "slug": "qid",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "QID: ETF inverso alavancado do Nasdaq-100",
+    "description": "QID é o ProShares UltraShort QQQ, ETF que busca 2x do desempenho diário negativo do Nasdaq-100.",
+    "h1": "QID: ProShares UltraShort QQQ",
+    "canonicalPath": "/etfs/qid",
+    "keywords": [
+      "QID",
+      "ProShares UltraShort QQQ",
+      "ETF inverso Nasdaq-100",
+      "ETF alavancado 2x",
+      "investir em QID",
+      "QID dividendos",
+      "QID volatilidade"
+    ]
+  },
+  "summary": "QID é o ticker do ProShares UltraShort QQQ, um ETF que busca entregar o dobro do desempenho diário negativo do índice Nasdaq-100. Emitido pela ProShares e com primeiro pregão em 13/07/2006, o ativo opera com rebalanceamento diário, o que faz seu resultado se afastar do múltiplo do índice em prazos longos. Até 29/10/2026, a cota estava em US$ 14,09, com rentabilidade total de -22,95% nos últimos 12 meses e volatilidade anualizada de 40,00%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "ProShares UltraShort QQQ",
+    "ticker": "ARCX QID",
+    "foundingDate": "2006-07-13",
+    "provider": {
+      "name": "ProShares",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/ProShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF inverso alavancado 2x",
+    "issuerOrManager": "ProShares",
+    "trackedIndex": "Nasdaq-100 (inverso diário, alavancado 2x)",
+    "name": "ProShares UltraShort QQQ",
+    "founded": "13/07/2006"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ProShares UltraShort QQQ",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "13/07/2006",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "-2x o desempenho diário do índice (-200%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 14,09",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "40,00% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-2,90",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "5,95%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 455,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "QID",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ProShares UltraShort QQQ",
+    "currency": "USD",
+    "price": 14.09,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.2295,
+      "3y": -0.7741,
+      "5y": -0.7983,
+      "10y": -0.9911
+    },
+    "volatility1y": 0.4,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.893,
+      "from": "2022-10-14",
+      "to": "2026-10-06"
+    },
+    "beta1y": {
+      "value": -2.9,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.838,
+      "payments12Months": 4,
+      "yield12Months": 0.0595,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.174
+      }
+    },
+    "avgDailyTradedValue3m": 455423214
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do QID nos 12 meses até 29/10/2026 foi de 40,00%, um nível alto para um ETF. O beta de -2,90 contra o S&P 500 mostra que o ativo se move na direção oposta ao índice, com amplitude quase três vezes maior. Isso significa que, quando o S&P 500 cai 1%, o QID tende a subir cerca de 2,9%, e vice-versa. A maior queda em 5 anos foi de -89,30%, entre 14/10/2022 e 06/10/2026, período em que o mercado americano teve forte alta, o que prejudica ETFs inversos. Esse padrão é esperado para produtos alavancados e inversos: eles amplificam movimentos em prazos curtos, mas sofrem com a perda por volatilidade em prazos longos. Para monitorar oscilações e definir pontos de atenção, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O ProShares UltraShort [QQQ](/etfs/qqq) (QID) foi lançado em 13/07/2006, no mesmo ano em que a ProShares, então ProFunds Group, introduziu seu primeiro ETF inverso nos Estados Unidos. A empresa, fundada em 1997 por Louis Mayberg e Michael Sapir, surgiu para oferecer fundos de mercado de baixa, e em 2006 expandiu essa estratégia para a bolsa por meio de ETFs. O QID foi criado para permitir que investidores apostassem na queda do Nasdaq-100 com alavancagem de 2x, utilizando derivativos como contratos futuros e vendas a descoberto. Como o mercado americano tem viés de alta a longo prazo, a estratégia inversa tende a perder valor em períodos estendidos, especialmente quando há volatilidade, devido ao efeito do rebalanceamento diário.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fundação da ProFunds Group por Louis Mayberg e Michael Sapir, com foco em fundos de mercado de baixa.",
+        "source": 2
+      },
+      {
+        "date": "2006",
+        "event": "Lançamento da marca ProShares e do primeiro ETF inverso da empresa.",
+        "source": 2
+      },
+      {
+        "date": "2006-07-13",
+        "event": "Primeiro pregão das cotas do ProShares UltraShort QQQ (QID) na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2021-10",
+        "event": "ProShares lança um ETF que investe em contratos futuros de Bitcoin.",
+        "source": 2
+      },
+      {
+        "date": "2023-10-02",
+        "event": "ProShares lança 3 ETFs de futuros de Ethereum nos EUA.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o QID funciona",
+      "body": "Para manter essa exposição constante, o fundo realiza rebalanceamento diário, comprando e vendendo derivativos ao longo do tempo. Esse mecanismo causa o chamado 'volatility loss' (perda por volatilidade): em mercados que oscilam sem uma tendência forte de queda, o custo do rebalanceamento e a matemática dos retornos compostos fazem o resultado do ETF se afastar do múltiplo do índice. Por isso, o QID é estruturado para uso em prazos curtos, como parte de uma estratégia de timing de mercado, e não para investimento de longo prazo. A emissora é a ProShares, e o ativo teve seu primeiro pregão em 13/07/2006."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do QID",
+      "body": "O QID segue o índice Nasdaq-100, que é composto por 100 das maiores empresas não financeiras listadas na bolsa Nasdaq. O índice é ponderado por capitalização de mercado ajustada pela flutuação pública, com um limite máximo de 24% para a maior empresa. As empresas do índice atuam em setores como tecnologia, varejo, telecomunicações, biotecnologia, saúde, transporte e mídia. A composição é recalculada anualmente, após o fechamento da terceira sexta-feira de dezembro, e o número de ações em circulação é atualizado trimestralmente. O QID não replica o índice diretamente, mas usa derivativos e vendas a descoberto para obter o desempenho inverso e alavancado."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no QID a partir do Brasil",
+      "body": "Para investir no QID a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso ao mercado americano. O ativo é negociado em dólar, o que expõe o investidor ao risco cambial: se o dólar se valorizar frente ao real, o ganho em dólar pode ser amplificado em reais, e vice-versa. Outra opção é buscar BDRs ou ETFs na B3 que tenham exposição semelhante ao Nasdaq-100, embora a alavancagem inversa de 2x seja menos comum nesse formato. É importante considerar que o QID é um produto de alta complexidade, com risco de perda total do capital investido em cenários de mercado favorável ao Nasdaq-100."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do QID",
+      "body": "Até 29/10/2026, a cota do QID estava em US$ 14,09. A rentabilidade total com proventos foi de -22,95% nos 12 meses, -77,41% em 3 anos, -79,83% em 5 anos e -99,11% em 10 anos. Esses números refletem a natureza do ativo: em mercados de alta ou lateralizados, o efeito do rebalanceamento diário e a perda por volatilidade corroem o valor do investimento. O QID pagou US$ 0,8380 por cota em 4 pagamentos nos 12 meses até 29/10/2026, resultando em dividend yield de 5,95%. O último pagamento foi de US$ 0,1740 em 23/09/2026. Para comparar o desempenho com o mercado americano, veja a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do QID",
+      "body": "O QID apresenta riscos elevados, típicos de ETFs inversos alavancados. A volatilidade anualizada nos 12 meses até 29/10/2026 foi de 40,00%, nível classificado como alto. O beta de -2,90 contra o S&P 500 indica que o ativo tende a se mover na direção oposta ao índice, com amplitude quase três vezes maior. A maior queda nos últimos 5 anos foi de -89,30%, do pico em 14/10/2022 ao ponto mais baixo em 06/10/2026. Além disso, o efeito de 'volatility loss' faz com que, em mercados sem tendência de queda, o ETF perca valor mesmo que o Nasdaq-100 não caia. O risco cambial também é relevante para investidores brasileiros. Por essas razões, o QID é um instrumento de alta complexidade, adequado apenas para uso em prazos muito curtos e com monitoramento constante. Acompanhe a volatilidade e defina limites com os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o QID?",
+      "answer": "QID é o ticker do ProShares UltraShort QQQ, um ETF que busca entregar o dobro do desempenho diário negativo do índice Nasdaq-100. Ele usa derivativos e vendas a descoberto para obter essa exposição inversa e alavancada. O ativo é adequado para uso em prazos curtos, como parte de uma estratégia de timing de mercado."
+    },
+    {
+      "question": "QID é bom para investimento de longo prazo?",
+      "answer": "Não. O QID é estruturado para uso em prazos curtos. O rebalanceamento diário e a perda por volatilidade fazem com que, em mercados de alta ou lateralizados, o resultado do ETF se afaste do múltiplo do índice e tenda a cair. Em 10 anos, a rentabilidade total foi de -99,11% até 29/10/2026, o que ilustra o impacto desse efeito."
+    },
+    {
+      "question": "Qual a diferença entre QID e QQQ?",
+      "answer": "O QQQ é o ETF que replica o desempenho do Nasdaq-100, enquanto o QID busca entregar o dobro do desempenho diário negativo do mesmo índice. Ou seja, quando o QQQ sobe, o QID tende a cair, e vice-versa. O QID é um produto inverso e alavancado, com risco muito maior e adequado apenas para prazos curtos."
+    },
+    {
+      "question": "QID paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 29/10/2026, o QID pagou US$ 0,8380 por cota em 4 pagamentos, resultando em dividend yield de 5,95%. O último pagamento foi de US$ 0,1740 em 23/09/2026. Os proventos podem ser acompanhados na [carteira consolidada](/recursos/carteira-consolidada) do app."
+    },
+    {
+      "question": "Como investir no QID a partir do Brasil?",
+      "answer": "É possível investir no QID abrindo conta em uma corretora que ofereça acesso ao mercado americano. O ativo é negociado em dólar, o que expõe o investidor ao risco cambial. Outra opção é buscar BDRs ou ETFs na B3 com exposição semelhante, embora a alavancagem inversa de 2x seja menos comum nesse formato."
+    },
+    {
+      "question": "Qual a volatilidade do QID?",
+      "answer": "A volatilidade anualizada do QID nos 12 meses até 29/10/2026 foi de 40,00%, nível classificado como alto. O beta de -2,90 contra o S&P 500 indica que o ativo se move na direção oposta ao índice, com amplitude quase três vezes maior. A maior queda em 5 anos foi de -89,30%, entre 14/10/2022 e 06/10/2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o QID junto com outros ativos, com valor por classe e alocação, para entender a exposição total do portfólio."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina notificações para acompanhar oscilações do QID, que tem alta volatilidade e movimentos amplos."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do QID com o S&P 500 e outros índices no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em QID e veja as respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "É o ETF que replica o Nasdaq-100, o índice que o QID segue de forma inversa e alavancada."
+      },
+      {
+        "ticker": "SQQQ",
+        "list": "us-etfs",
+        "reason": "É outro ETF inverso do Nasdaq-100, com alavancagem de 3x, para comparação de estratégias de mercado de baixa."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "É o ETF do S&P 500, o índice de referência para o beta do QID, útil para entender a exposição ao mercado americano."
+      },
+      {
+        "ticker": "TQQQ",
+        "list": "us-etfs",
+        "reason": "É o ETF alavancado 3x do Nasdaq-100, para comparação com produtos de alta alavancagem no mesmo índice."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de QID",
+      "url": "https://finance.yahoo.com/quote/QID/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nasdaq-100 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Nasdaq-100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): ProShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/ProShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Inverse exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Inverse_exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

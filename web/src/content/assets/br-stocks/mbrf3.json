@@ -1,0 +1,396 @@
+{
+  "ticker": "MBRF3",
+  "slug": "mbrf3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MBRF3: história, dividendos e volatilidade",
+    "description": "MBRF3 é a ação ordinária da Marfrig Global Foods, empresa de carnes e derivados.",
+    "h1": "MBRF3: Marfrig Global Foods S.A.",
+    "canonicalPath": "/acoes/mbrf3",
+    "keywords": [
+      "MBRF3",
+      "Marfrig",
+      "ação Marfrig",
+      "dividendos MBRF3",
+      "volatilidade MBRF3",
+      "fusão BRF Marfrig",
+      "carnes e derivados",
+      "consumo não cíclico"
+    ]
+  },
+  "summary": "MBRF3 é a ação ordinária da Marfrig Global Foods S.A., empresa brasileira do setor de consumo não cíclico, focada em carnes e derivados. A companhia opera em 117 países e, após a fusão com a BRF em 2025, possui faturamento estimado de R$ 152 bilhões. Em 30/10/2026, a ação cotava a R$ 15,81, com volatilidade anualizada de 50,32% e sem proventos pagos nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "MBRF",
+    "legalName": "MARFRIG GLOBAL FOODS SA",
+    "ticker": "BVMF MBRF3",
+    "isin": "BRMBRFACNOR1",
+    "taxId": "03.853.896/0001-40",
+    "foundingDate": "2000-04-06",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.marfrig.com.br",
+    "wikidata": "Q134616894",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q134616894",
+      "https://pt.wikipedia.org/wiki/MBRF",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20788/MBRF/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "MBRF",
+    "legalName": "MARFRIG GLOBAL FOODS SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo não Cíclico",
+    "segment": "Carnes e Derivados",
+    "founded": "06/04/2000",
+    "listedSince": "28/06/2007",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.marfrig.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "MARFRIG GLOBAL FOODS SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "03.853.896/0001-40",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo não Cíclico / Carnes e Derivados",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "06/04/2000",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "28/06/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "MBRF3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "GRANT THORNTON AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 15,81",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "50,32% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,82",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 109,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MBRF3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "MBRF Global Foods Company S.A.",
+    "currency": "BRL",
+    "price": 15.81,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0903,
+      "3y": 1.9377,
+      "5y": -0.057,
+      "10y": 3.5404
+    },
+    "volatility1y": 0.5032,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7046,
+      "from": "2021-11-08",
+      "to": "2023-04-14"
+    },
+    "beta1y": {
+      "value": 0.82,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2024-12-13",
+        "amount": 2.833731
+      }
+    },
+    "avgDailyTradedValue3m": 109327095
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da MBRF3 nos últimos 12 meses é de 50,32%, nível classificado como muito alta. A maior queda nos últimos 5 anos foi de -70,46%, ocorrida entre 08/11/2021 e 14/04/2023. O beta da ação contra o Ibovespa é de 0,82, o que significa que, em média, os movimentos da MBRF3 são menores que os do índice, na mesma direção. Para monitorar oscilações de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) permite configurar notificações quando a ação atinge um valor específico."
+  },
+  "history": {
+    "overview": "A Marfrig Global Foods S.A. foi constituída em 06/04/2000 e obteve registro de companhia aberta na CVM em 18/06/2007, iniciando a cotação na B3 em 28/06/2007. A empresa atua na produção e distribuição de alimentos à base de carne bovina, suína, ovina e avícola, além de couros e outros produtos alimentícios. Em 15 de maio de 2025, a Marfrig anunciou a fusão com a BRF, formando uma entidade com faturamento total de R$ 152 bilhões e operações em 117 países, com produção anual estimada em 8 milhões de toneladas. A Marfrig já detinha 50,49% das ações da BRF antes da conclusão do processo. Em setembro de 2025, o Conselho Administrativo de Defesa Econômica (CADE) aprovou a fusão sem restrições, e a nova estrutura organizacional foi formalizada em 22 de setembro de 2025. A empresa possui marcas como Banvit, Bassi, Perdigão, Qualy e Sadia, e nos Estados Unidos é dona da National Beef Packing Company.",
+    "timeline": [
+      {
+        "date": "2000-04-06",
+        "event": "Constituição da companhia Marfrig Global Foods S.A.",
+        "source": 2
+      },
+      {
+        "date": "2007-06-18",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2007-06-28",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-09",
+        "event": "Fundação da nova estrutura após fusão com a BRF",
+        "source": 3
+      },
+      {
+        "date": "2025-09-08",
+        "event": "Fato relevante sobre reorganização societária envolvendo incorporação, cisão ou fusão",
+        "source": 12
+      },
+      {
+        "date": "2025-09-22",
+        "event": "Fato relevante sobre nova estrutura organizacional",
+        "source": 11
+      },
+      {
+        "date": "2025-09-24",
+        "event": "Fato relevante sobre recompra de ações",
+        "source": 9
+      },
+      {
+        "date": "2025-10-27",
+        "event": "Contrato de investimento para a JV BRF Arabia",
+        "source": 8
+      },
+      {
+        "date": "2025-12-02",
+        "event": "Leilão de frações de ações",
+        "source": 6
+      },
+      {
+        "date": "2026-05-03",
+        "event": "Fato relevante conjunto sobre Sadia Halal",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a MBRF ganha dinheiro",
+      "body": "A Marfrig Global Foods S.A. atua na produção e distribuição de alimentos à base de carne bovina, suína, ovina e avícola, incluindo produtos in natura, elaborados e processados, além de couros semi-terminados e terminados. A empresa opera em 117 países e, após a fusão com a BRF, estima-se que 43% de todo o faturamento venha dos Estados Unidos, onde a companhia detém a National Beef Packing Company. Marcas importantes como Banvit, Bassi, Perdigão, Qualy e Sadia fazem parte do portfólio da empresa."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da MBRF",
+      "body": "O controle acionário da Marfrig é privado, conforme o cadastro da CVM. A empresa está listada no segmento Novo Mercado da B3, o que implica práticas de governança corporativa mais rígidas. O código de negociação é MBRF3, que corresponde à ação ordinária (ON). Ações ordinárias dão direito a voto em assembleias gerais, enquanto ações preferenciais (PN) têm preferência no recebimento de dividendos, mas geralmente não possuem direito a voto. A MBRF3 é a ação ordinária da companhia."
+    },
+    {
+      "id": "proventos",
+      "heading": "MBRF3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a MBRF3 não pagou proventos, conforme os dados do Yahoo Finance. A empresa não distribuiu dividendos ou JCP no período. Para acompanhar os dividendos e JCP de outras empresas da B3, é possível usar o recurso de [dividendos e JCP no app](/recursos/proventos), que lista as datas de competência e pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da MBRF3",
+      "body": "A rentabilidade total da MBRF3 com proventos nos últimos 12 meses até 30/10/2026 foi de -9,03%. Nos últimos 3 anos, o retorno foi de 193,77%, e nos últimos 5 anos, de -5,70%. Nos últimos 10 anos, a rentabilidade foi de 354,04%. Para comparar esses números com índices de referência, o recurso de [comparação com índices](/recursos/comparacao-com-indices) permite visualizar a performance da carteira ao lado do Ibovespa, CDI, IPCA e S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da MBRF3",
+      "body": "A volatilidade anualizada da MBRF3 nos últimos 12 meses é de 50,32%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -70,46%, do pico em 08/11/2021 ao ponto mais baixo em 14/04/2023. O beta da ação contra o Ibovespa é de 0,82, o que indica que os movimentos da MBRF3 tendem a ser menores que os do índice, na mesma direção. Riscos setoriais incluem flutuações no preço das commodities de carne, mudanças regulatórias e variações cambiais, especialmente dada a exposição internacional da empresa."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MBRF3 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, a MBRF3 não pagou proventos. A empresa não distribuiu dividendos ou JCP no período. Para acompanhar os dividendos de outras empresas, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre MBRF3 e MBRF4?",
+      "answer": "MBRF3 é a ação ordinária (ON) da Marfrig, que dá direito a voto em assembleias. MBRF4 seria a ação preferencial (PN), que tem preferência no recebimento de dividendos, mas geralmente não possui direito a voto. A MBRF3 é a ação ordinária da companhia."
+    },
+    {
+      "question": "O que a Marfrig faz?",
+      "answer": "A Marfrig Global Foods S.A. atua na produção e distribuição de alimentos à base de carne bovina, suína, ovina e avícola, além de couros e outros produtos alimentícios. A empresa opera em 117 países e possui marcas como Banvit, Bassi, Perdigão, Qualy e Sadia."
+    },
+    {
+      "question": "Qual a volatilidade da MBRF3?",
+      "answer": "A volatilidade anualizada da MBRF3 nos últimos 12 meses é de 50,32%, nível classificado como muito alta. A maior queda nos últimos 5 anos foi de -70,46%, entre 08/11/2021 e 14/04/2023. Para monitorar oscilações, use o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "A MBRF é uma empresa do setor de consumo não cíclico?",
+      "answer": "Sim, a MBRF é classificada pela B3 no setor de Consumo não Cíclico, segmento de Carnes e Derivados. A empresa atua na produção e distribuição de alimentos à base de carne, o que a enquadra nesse setor."
+    },
+    {
+      "question": "Qual a rentabilidade da MBRF3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total da MBRF3 com proventos nos últimos 12 meses até 30/10/2026 foi de -9,03%. Para comparar com índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "A Marfrig tem ações nos Estados Unidos?",
+      "answer": "A Marfrig é dona da National Beef Packing Company, que opera nos Estados Unidos. Estima-se que 43% de todo o faturamento da empresa venha dos Estados Unidos, conforme a fusão com a BRF em 2025."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da MBRF3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da MBRF3 com o Ibovespa, CDI, IPCA e S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações quando a MBRF3 atinge um preço específico, útil para monitorar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a MBRF3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BEEF3",
+        "list": "br-stocks",
+        "reason": "Minerva S.A. é uma concorrente direta da Marfrig no setor de carnes e derivados."
+      },
+      {
+        "ticker": "ABEV3",
+        "list": "br-stocks",
+        "reason": "Ambev S.A. é outra empresa do setor de consumo não cíclico, com foco em bebidas."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petróleo Brasileiro S.A. é uma empresa de grande capitalização, útil para comparação de desempenho no Ibovespa."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Vale S.A. é outra empresa de grande capitalização, com exposição a commodities, similar à exposição da Marfrig a carnes."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MBRF3",
+      "url": "https://finance.yahoo.com/quote/MBRF3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MARFRIG, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20788/MBRF/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, MARFRIG GLOBAL FOODS SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: MBRF",
+      "url": "https://www.wikidata.org/wiki/Q134616894",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): MBRF",
+      "url": "https://pt.wikipedia.org/wiki/MBRF",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/05/2026, “Fato Relevante Conjunto - Sadia Halal”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1514833&numSequencia=1039539&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/12/2025, “Leilão de Frações de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1451914&numSequencia=976626&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/11/2025, “Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1443254&numSequencia=967966&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/10/2025, “Contrato de Investimento JV BRF Arabia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1435764&numSequencia=960476&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/09/2025, “Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1426142&numSequencia=950854&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/09/2025, “Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1425399&numSequencia=950111&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/09/2025, “Nova Estrutura Organizacional”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1425641&numSequencia=950353&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/09/2025, “Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1421385&numSequencia=946097&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,278 @@
+{
+  "ticker": "XLP",
+  "slug": "xlp",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLP: ETF de bens de consumo essenciais",
+    "description": "Conheça o XLP, ETF do setor de bens de consumo essenciais do S&P 500. Veja desempenho, dividendos e riscos do State Street Consumer Staples Select Sector",
+    "h1": "XLP: State Street Consumer Staples Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xlp",
+    "keywords": [
+      "XLP",
+      "ETF bens de consumo essenciais",
+      "State Street SPDR",
+      "S&P 500 Consumer Staples",
+      "dividendos XLP",
+      "volatilidade XLP"
+    ]
+  },
+  "summary": "XLP é o State Street Consumer Staples Select Sector SPDR ETF, um fundo de índice que replica o desempenho do setor de bens de consumo essenciais do S&P 500. Lançado em 1998, o ativo investe em empresas de bens de consumo não cíclicos, como alimentos e produtos de higiene. Em 30/10/2026, a cota valia US$ 89,42, com dividend yield de 2,46% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Consumer Staples Select Sector SPDR ETF",
+    "ticker": "ARCX XLP",
+    "foundingDate": "1998-12-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P 500 Consumer Staples Select Industry Index",
+    "name": "State Street Consumer Staples Select Sector SPDR ETF",
+    "founded": "22/12/1998"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Consumer Staples Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/12/1998",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 89,42",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,12% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-0,11",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,46%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 985,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLP",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Consumer Staples Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 89.42,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.201,
+      "3y": 0.4344,
+      "5y": 0.4305,
+      "10y": 1.2159
+    },
+    "volatility1y": 0.1512,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.163,
+      "from": "2022-04-20",
+      "to": "2022-10-07"
+    },
+    "beta1y": {
+      "value": -0.11,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.197,
+      "payments12Months": 4,
+      "yield12Months": 0.0246,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.541
+      }
+    },
+    "avgDailyTradedValue3m": 985227141
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de 12 meses do XLP é de 15,12%, classificada como moderada. O beta de -0,11 contra o S&P 500 indica que, no período, o XLP se moveu de forma oposta ao índice, com menor magnitude. A maior queda em 5 anos foi de -16,30%, entre 20/04/2022 e 07/10/2022. Para monitorar movimentos de preço, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O XLP faz parte da família de ETFs SPDR, geridos pela State Street Global Advisors (SSGA), a terceira maior provedora de ETFs do mundo. A estrutura desses fundos é baseada em unit investment trusts, uma modalidade que permite a negociação em bolsa com liquidez similar à de ações. Em 1998, a SSGA e a Merrill Lynch introduziram os chamados Sector Spiders, uma série de dez fundos que seguem os setores da classificação GICS do S&P 500, do qual o XLP é um dos membros. O primeiro pregão das cotas do XLP ocorreu em 22 de dezembro de 1998. Desde então, o fundo se consolidou como uma ferramenta para exposição ao setor de bens de consumo essenciais, que abrange empresas que produzem e distribuem produtos de uso diário, como alimentos, bebidas e itens de higiene pessoal.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "Lançamento dos Sector Spiders pela SSGA e Merrill Lynch",
+        "source": 1
+      },
+      {
+        "date": "1998-12-22",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "Rebranding dos ETFs da SSGA sob a marca SPDR",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLP funciona",
+      "body": "O XLP é um ETF que replica o índice de bens de consumo essenciais do S&P 500. A emissora é a State Street Global Advisors (SSGA), que gerencia a família de fundos SPDR. O lançamento ocorreu em 1998, quando a SSGA e a Merrill Lynch introduziram os Sector Spiders para cobrir os setores do S&P 500. O fundo opera como um unit investment trust, permitindo que os investidores comprem e vendam cotas em bolsa com liquidez alta."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLP",
+      "body": "O XLP segue o índice de bens de consumo essenciais do S&P 500, que agrupa empresas do setor de FMCG (fast-moving consumer goods). Esse setor inclui produtos de uso diário, como alimentos, bebidas, produtos de higiene e itens de limpeza. A classificação GICS, usada pelo S&P 500, organiza as empresas em 11 setores, e o XLP cobre especificamente o de bens de consumo essenciais. As fontes não detalham as empresas específicas que compõem o índice no momento."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLP a partir do Brasil",
+      "body": "Para investir no XLP a partir do Brasil, o investidor pode abrir conta em uma corretora que negocie ativos no exterior, como a NYSE ou a NASDAQ. Outra opção é buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice ou o setor de bens de consumo essenciais. O risco cambial é um fator relevante, pois o valor do XLP é cotado em dólar, e variações no câmbio podem impactar a rentabilidade em reais."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLP",
+      "body": "Até 30/10/2026, o XLP apresentou rentabilidade total de 20,10% em 12 meses, 43,44% em 3 anos e 43,05% em 5 anos. Em 10 anos, o retorno foi de 121,59%. O dividend yield nos últimos 12 meses foi de 2,46%, com US$ 2,1970 por cota distribuídos em 4 pagamentos. Para comparar o desempenho com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLP",
+      "body": "Os riscos do XLP incluem a volatilidade do setor de bens de consumo essenciais, que pode ser afetada por mudanças no comportamento do consumidor, custos de insumos e regulamentações. A volatilidade anualizada de 12 meses é de 15,12%, considerada moderada. A maior queda em 5 anos foi de -16,30%, entre 20/04/2022 e 07/10/2022. O beta de -0,11 contra o S&P 500 indica que, no período, o XLP se moveu de forma oposta ao índice, com menor magnitude. Use os [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "XLP paga dividendos?",
+      "answer": "Sim, o XLP distribui proventos. Nos 12 meses até 30/10/2026, foram US$ 2,1970 por cota, com dividend yield de 2,46%. O último pagamento foi de US$ 0,5410 em 21/09/2026. Veja os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para acompanhar a distribuição."
+    },
+    {
+      "question": "Qual a diferença entre XLP e XLY?",
+      "answer": "XLP segue o setor de bens de consumo essenciais (FMCG), enquanto [XLY](/etfs/xly) segue o setor de bens de consumo discricionários. XLP inclui empresas de alimentos, bebidas e higiene, enquanto XLY cobre varejo, entretenimento e outros bens não essenciais. Ambos são ETFs da família SPDR."
+    },
+    {
+      "question": "XLP é um ETF alavancado?",
+      "answer": "Não, o XLP é um ETF de índice que replica o desempenho do setor de bens de consumo essenciais do S&P 500, sem alavancagem ou inversão. A estrutura é de unit investment trust, com negociação em bolsa."
+    },
+    {
+      "question": "Como investir no XLP do Brasil?",
+      "answer": "O investidor pode abrir conta em uma corretora que negocie ativos no exterior ou buscar ETFs/BDRs na B3 que sigam o mesmo índice. O risco cambial é relevante, pois o XLP é cotado em dólar. Use o [Open Finance](/recursos/open-finance) para sincronizar posições com a carteira."
+    },
+    {
+      "question": "Qual o setor do XLP?",
+      "answer": "O XLP cobre o setor de bens de consumo essenciais do S&P 500, que inclui empresas de FMCG, como alimentos, bebidas, produtos de higiene e itens de limpeza. A classificação GICS organiza o setor em subgrupos, mas as fontes não detalham as empresas específicas."
+    },
+    {
+      "question": "XLP é bom para diversificação?",
+      "answer": "O XLP pode ser usado para diversificação em carteiras que buscam exposição a setores defensivos. Para avaliar a alocação, use a [carteira consolidada](/recursos/carteira-consolidada) no app, que mostra a distribuição por classe e ativos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do XLP com o S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o XLP atingir um preço definido."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do XLP junto com outros ativos na sua carteira."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Sincronize as posições do XLP com a sua corretora pelo Open Finance."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XLY",
+        "list": "us-etfs",
+        "reason": "Outro ETF da família SPDR, mas do setor de bens de consumo discricionários."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com o índice geral."
+      },
+      {
+        "ticker": "XLV",
+        "list": "us-etfs",
+        "reason": "ETF do setor de saúde, outro setor defensivo do S&P 500."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF do setor de energia, para diversificação em setores cíclicos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLP",
+      "url": "https://finance.yahoo.com/quote/XLP/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Fast-moving consumer goods (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Fast-moving_consumer_goods",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

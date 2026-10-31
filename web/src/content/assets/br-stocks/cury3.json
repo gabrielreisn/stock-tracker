@@ -1,0 +1,380 @@
+{
+  "ticker": "CURY3",
+  "slug": "cury3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CURY3: história, dividendos e volatilidade",
+    "description": "CURY3 é a ação ordinária da Cury Construtora, focada em imóveis de padrão econômico. Veja rentabilidade, dividendos e riscos da ação.",
+    "h1": "CURY3: Cury Construtora e Incorporadora S.A.",
+    "canonicalPath": "/acoes/cury3",
+    "keywords": [
+      "CURY3",
+      "Cury Construtora",
+      "ação ordinária",
+      "dividendos CURY3",
+      "volatilidade CURY3",
+      "incorporadora padrão econômico",
+      "Minha Casa Minha Vida",
+      "Cyrela Brazil Realty"
+    ]
+  },
+  "summary": "CURY3 é a ação ordinária da Cury Construtora e Incorporadora S.A., empresa focada na construção de empreendimentos residenciais de padrão econômico para as classes C e D, enquadrados no programa Minha Casa Minha Vida. A companhia, fundada em 1962 e listada na B3 desde 2020, registrou rentabilidade total de 134,25% em três anos até 30/10/2026, com dividend yield de 16,72% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Cury Construtora",
+    "legalName": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+    "ticker": "BVMF CURY3",
+    "isin": "BRCURYACNOR3",
+    "taxId": "08.797.760/0001-83",
+    "foundingDate": "2019-10-19",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://cury.net/",
+    "wikidata": "Q30932549",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q30932549",
+      "https://pt.wikipedia.org/wiki/Cury_Construtora",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25100/CURY/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Cury Construtora",
+    "legalName": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Incorporações",
+    "founded": "19/10/2019",
+    "listedSince": "21/09/2020",
+    "headquarters": "São Paulo (SP)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "08.797.760/0001-83",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Incorporações",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "19/10/2019",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "21/09/2020",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "CURY3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 25,75",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "47,43% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,24",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "16,72%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CURY3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Cury Construtora e Incorporadora S.A.",
+    "currency": "BRL",
+    "price": 25.75,
+    "historyStarts": "2020-09-21",
+    "returns": {
+      "1y": -0.1569,
+      "3y": 1.3425,
+      "5y": 4.8153,
+      "10y": null
+    },
+    "volatility1y": 0.4743,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3588,
+      "from": "2026-02-20",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.24,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 4.3044,
+      "payments12Months": 5,
+      "yield12Months": 0.1672,
+      "lastPayment": {
+        "date": "2026-08-17",
+        "amount": 0.616788
+      }
+    },
+    "avgDailyTradedValue3m": 148776572
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da CURY3 é de 47,43% nos últimos 12 meses, nível classificado como muito alta. A maior queda nos últimos 5 anos foi de -35,88%, ocorrida do pico em 20/02/2026 ao ponto mais baixo em 30/10/2026. Ações de incorporadoras costumam apresentar volatilidade elevada devido à sensibilidade a mudanças nas políticas habitacionais, no custo de capital e na demanda por imóveis de padrão econômico. Para acompanhar a rentabilidade e o preço médio da posição, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A história da Cury Construtora remonta a 1962, quando Elias Cury fundou a Cury Empreendimentos em São Paulo, pioneira na construção de imóveis de padrão econômico voltados às classes C e D. Desde 1991, a gestão passou para o filho, Fábio Elias Cury. Em 2007, a empresa assinou uma joint-venture com a Cyrela Brazil Realty, que passou a deter 50% das ações, dando origem à Cury Construtora e Incorporadora S.A. como conhecida hoje. A companhia consolidou presença nos mercados de São Paulo e Rio de Janeiro, expandindo-se para o interior paulista e regiões do Oeste e Sul da capital paulista em 2021. O faturamento atingiu R$ 1,7 bilhão em 2014 e R$ 2 bilhões nos nove meses de 2021, período em que a empresa estreou na bolsa. A transição para o mercado de capitais ocorreu em 2020, com a oferta inicial de ações que levantou R$ 977,5 milhões, destinando cerca de R$ 170 milhões à compra de terrenos para novos lançamentos. Em 2025, a companhia anunciou programas de recompra e alienação de ações, além de uma nova oferta pública, e em 2026 houve transição de liderança e fortalecimento da governança corporativa.",
+    "timeline": [
+      {
+        "date": "2019-10-19",
+        "event": "Constituição da Cury Construtora e Incorporadora S.A.",
+        "source": 2
+      },
+      {
+        "date": "2020-09-17",
+        "event": "Registro da companhia como aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2020-09-21",
+        "event": "Início da cotação das ações na B3 sob o ticker CURY3",
+        "source": 1
+      },
+      {
+        "date": "2025-04-24",
+        "event": "Criação do programa de alienação de ações ordinárias mantidas em tesouraria",
+        "source": 9
+      },
+      {
+        "date": "2025-08-05",
+        "event": "Anúncio do programa de recompra de ações",
+        "source": 8
+      },
+      {
+        "date": "2025-12-04",
+        "event": "Oferta pública de ações",
+        "source": 7
+      },
+      {
+        "date": "2025-12-11",
+        "event": "Fixação do preço de emissão por ação",
+        "source": 6
+      },
+      {
+        "date": "2026-03-16",
+        "event": "Transição de liderança e fortalecimento da governança corporativa",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Cury Construtora ganha dinheiro",
+      "body": "A Cury Construtora e Incorporadora S.A. atua na incorporação e construção de empreendimentos residenciais de padrão econômico, voltados às classes C e D. A receita da companhia vem da venda de unidades habitacionais enquadradas no programa habitacional Minha Casa Minha Vida e no Sistema Brasileiro de Poupança e Empréstimo (SBPE). A empresa opera principalmente nas regiões metropolitanas de São Paulo e Rio de Janeiro, com expansão recente para o interior paulista, incluindo a região de Campinas, e para as zonas Oeste e Sul da capital paulista, onde inaugurou novos projetos em 2021. O faturamento atingiu R$ 1,7 bilhão em 2014 e R$ 2 bilhões nos nove meses de 2021, período em que a empresa estreou na bolsa."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Cury Construtora",
+      "body": "A Cury Construtora é uma companhia de controle privado, conforme registro na CVM. A Cyrela Brazil Realty detém 50% das ações da empresa desde a joint-venture firmada em 2007. A companhia está listada no segmento Novo Mercado da B3, o que implica a adoção de práticas de governança corporativa mais rígidas, como a distribuição de ações em tesouraria e a transparência na relação com investidores. O código de negociação é CURY3, que representa a ação ordinária (ON), conferindo direito a voto em assembleias e participação nos proventos. A ação preferencial, quando existente, geralmente não tem direito a voto, mas possui prioridade no recebimento de dividendos e no capital em caso de liquidação. A diferença entre as classes não implica em maior ou menor rentabilidade, apenas em direitos distintos."
+    },
+    {
+      "id": "proventos",
+      "heading": "CURY3 paga dividendos?",
+      "body": "CURY3 distribui proventos aos acionistas. Nos 12 meses até 30/10/2026, a companhia pagou R$ 4,3044 por ação em 5 pagamentos, resultando em dividend yield de 16,72%. O último pagamento foi de R$ 0,6168, com data de pagamento em 17/08/2026. A companhia também anunciou em 2025 um programa de recompra de ações e um programa de alienação de ações mantidas em tesouraria, o que pode influenciar a oferta de ações no mercado. Para acompanhar os dividendos e JCP da CURY3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da CURY3",
+      "body": "A rentabilidade total da CURY3 com proventos foi de -15,69% nos 12 meses até 30/10/2026, de 134,25% em 3 anos e de 481,53% em 5 anos. O preço da ação em 30/10/2026 era de R$ 25,75. O volume médio negociado por dia nos últimos 3 meses foi de R$ 148,8 milhões. Para comparar a rentabilidade da CURY3 com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da CURY3",
+      "body": "A CURY3 apresenta volatilidade anualizada de 47,43% nos últimos 12 meses, classificada como muito alta. A maior queda nos últimos 5 anos foi de -35,88%, do pico em 20/02/2026 ao ponto mais baixo em 30/10/2026. Riscos setoriais incluem a sensibilidade a mudanças nas políticas habitacionais, como o Minha Casa Minha Vida, e a variação no custo de capital e terrenos. A exposição a um segmento de mercado específico (classes C e D) pode amplificar a sensibilidade a mudanças na renda e no crédito dessas faixas. Para monitorar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CURY3 paga dividendos?",
+      "answer": "Sim, CURY3 distribui proventos. Nos 12 meses até 30/10/2026, a companhia pagou R$ 4,3044 por ação em 5 pagamentos, com dividend yield de 16,72%. O último pagamento foi de R$ 0,6168 em 17/08/2026. A companhia também anunciou programas de recompra e alienação de ações em 2025. Para acompanhar os pagamentos, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre CURY3 e a ação preferencial da Cury?",
+      "answer": "CURY3 é a ação ordinária (ON), que confere direito a voto em assembleias e participação nos proventos. A ação preferencial, quando existente, geralmente não tem direito a voto, mas possui prioridade no recebimento de dividendos e no capital em caso de liquidação. A diferença entre as classes não implica em maior ou menor rentabilidade, apenas em direitos distintos. A Cury Construtora está listada no segmento Novo Mercado, o que implica práticas de governança mais rígidas."
+    },
+    {
+      "question": "O que a Cury Construtora faz?",
+      "answer": "A Cury Construtora e Incorporadora S.A. atua na incorporação e construção de empreendimentos residenciais de padrão econômico, voltados às classes C e D. A receita vem da venda de unidades habitacionais enquadradas no programa Minha Casa Minha Vida e no Sistema Brasileiro de Poupança e Empréstimo (SBPE). A empresa opera principalmente em São Paulo e Rio de Janeiro, com expansão para o interior paulista e regiões do Oeste e Sul da capital paulista."
+    },
+    {
+      "question": "Qual a rentabilidade da CURY3?",
+      "answer": "A rentabilidade total da CURY3 com proventos foi de -15,69% nos 12 meses até 30/10/2026, de 134,25% em 3 anos e de 481,53% em 5 anos. O preço da ação em 30/10/2026 era de R$ 25,75. Para comparar com o Ibovespa e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Qual a volatilidade da CURY3?",
+      "answer": "A volatilidade anualizada da CURY3 é de 47,43% nos últimos 12 meses, nível classificado como muito alta. A maior queda nos últimos 5 anos foi de -35,88%, do pico em 20/02/2026 ao ponto mais baixo em 30/10/2026. Para monitorar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Quem controla a Cury Construtora?",
+      "answer": "A Cury Construtora é uma companhia de controle privado. A Cyrela Brazil Realty detém 50% das ações da empresa desde a joint-venture firmada em 2007. A companhia está listada no segmento Novo Mercado da B3, o que implica a adoção de práticas de governança corporativa mais rígidas."
+    },
+    {
+      "question": "Como acompanhar a CURY3 no app?",
+      "answer": "Para acompanhar a CURY3, utilize os recursos do app: [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos, [comparação com índices](/recursos/comparacao-com-indices) para comparar a rentabilidade com o Ibovespa e outros índices, [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos de preço, e [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação da posição junto a outros ativos. O [assistente de IA](/recursos/assistente-de-ia) também pode responder perguntas sobre a sua carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da CURY3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da CURY3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a CURY3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação da CURY3 junto a outros ativos da sua carteira, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em CURY3; as respostas vêm dos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CYRE3",
+        "list": "br-stocks",
+        "reason": "Cyrela Brazil Realty é a controladora da Cury Construtora, com 50% das ações desde 2007."
+      },
+      {
+        "ticker": "MRVE3",
+        "list": "br-stocks",
+        "reason": "MRV Engenharia é outra incorporadora de padrão econômico, atuando no mesmo segmento de mercado."
+      },
+      {
+        "ticker": "TEND3",
+        "list": "br-stocks",
+        "reason": "Construtora Tenda atua no mesmo segmento de incorporações de padrão econômico, voltado às classes C e D."
+      },
+      {
+        "ticker": "MULT3",
+        "list": "br-stocks",
+        "reason": "Multiplan é uma incorporadora de alto padrão, mas atua no mesmo setor de incorporações imobiliárias."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petrobras é uma ação de grande capitalização no Ibovespa, útil para comparação de volatilidade e beta."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CURY3",
+      "url": "https://finance.yahoo.com/quote/CURY3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CURY S/A, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25100/CURY/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, CURY CONSTRUTORA E INCORPORADORA S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Cury Construtora",
+      "url": "https://www.wikidata.org/wiki/Q30932549",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Cury Construtora",
+      "url": "https://pt.wikipedia.org/wiki/Cury_Construtora",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/03/2026, “Transição de Liderança e Fortalecimento da Governança”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1490909&numSequencia=1015615&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/12/2025, “Fixação do preço de emissão por Ação”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1456472&numSequencia=981184&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/12/2025, “Oferta pública de ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1452749&numSequencia=977461&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/08/2025, “Programa de Recompra”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1408158&numSequencia=932870&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/04/2025, “Criação do programa de alienação de ações ordinárias de emissão da Companhia mantidas em tesouraria - \"Programa de Alienação\"”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1364959&numSequencia=889685&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

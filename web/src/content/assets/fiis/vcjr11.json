@@ -1,0 +1,351 @@
+{
+  "ticker": "VCJR11",
+  "slug": "vcjr11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VCJR11: história, proventos e consolidação",
+    "description": "VCJR11 é um FII de crédito imobiliário da Pátria, com consolidação aprovada em 10/2026. Veja proventos, volatilidade e o processo de liquidação do fundo.",
+    "h1": "VCJR11: Vectis Juros Real FII",
+    "canonicalPath": "/fiis/vcjr11",
+    "keywords": [
+      "VCJR11",
+      "Vectis Juros Real FII",
+      "FII de crédito imobiliário",
+      "Pátria Investimentos",
+      "consolidação VCJR11 PCIP11",
+      "dividend yield VCJR11",
+      "volatilidade VCJR11"
+    ]
+  },
+  "summary": "VCJR11 é a cota do Vectis Juros Real Fundo de Investimento Imobiliário, um fundo de papel focado em crédito imobiliário. Gerido pela Pátria Investimentos, o fundo busca rentabilidade alvo de NTN-B + 1% a 3% ao ano. Em 09/2026, o patrimônio líquido era de R$ 1,38 bilhão. No dia 19/10/2026, foi aprovada a consolidação do VCJR11 com outros fundos do grupo, resultando na liquidação do ativo e migração dos cotistas para o PCIP11.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vectis Juros Real Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "VECTIS JUROS REAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF VCJR11",
+    "isin": "BRVCJRCTF005",
+    "taxId": "32.400.250/0001-05",
+    "foundingDate": "2019-10-09",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=32400250000105"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI), gestão ativa",
+    "issuerOrManager": "Pátria Investimentos (gestora), Intrag DTVM (administrador até 10/2026), Apex DTVM (administrador a partir de 10/2026)",
+    "name": "Vectis Juros Real Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "VECTIS JUROS REAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "09/10/2019",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "VECTIS JUROS REAL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "32.400.250/0001-05",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "09/10/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,38 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "26.875",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 93,92",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 66,39",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,53% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,28",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "17,11%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VCJR11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vectis Juros Real Fundo De Investimento Imobiliario - Fii",
+    "currency": "BRL",
+    "price": 66.39,
+    "historyStarts": "2020-01-28",
+    "returns": {
+      "1y": -0.002,
+      "3y": 0.0801,
+      "5y": 0.2463,
+      "10y": null
+    },
+    "volatility1y": 0.1753,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2584,
+      "from": "2024-09-09",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.28,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 11.36,
+      "payments12Months": 12,
+      "yield12Months": 0.1711,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.75
+      }
+    },
+    "avgDailyTradedValue3m": 3323070
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do VCJR11 nos últimos 12 meses, até 29/10/2026, foi de 17,53%, classificada como moderada. O beta contra o Ibovespa foi de 0,28, indicando que o fundo costuma ter movimentos menores que os do índice, na mesma direção. A maior queda em 5 anos foi de -25,84%, do pico em 09/09/2024 ao ponto mais baixo em 19/12/2024. Para fundos de crédito imobiliário, essa volatilidade é compatível com a exposição a juros e crédito, mas a queda acentuada em 2024 reflete a sensibilidade a mudanças no cenário macroeconômico. É possível configurar alertas de preço no app para monitorar movimentos acentuados."
+  },
+  "history": {
+    "overview": "O Vectis Juros Real FII (VCJR11) iniciou suas atividades em 09/10/2019, com a proposta de investir preponderantemente em Certificados de Recebíveis Imobiliários (CRI), Letras de Crédito Imobiliário (LCI) e cotas de outros fundos imobiliários. A estratégia do fundo é de gestão ativa, com o objetivo de acompanhar a NTN-B acrescida de 1% a 3% ao ano, utilizando ativos pós ou pré-fixados sem restrição de indexadores. A administradora original era a Intrag Distribuidora de Títulos e Valores Mobiliários Ltda, mas em 19/10/2026, após a aprovação em Assembleia Geral Extraordinária, os serviços de administração, custódia e escrituração foram transferidos para a Apex Group Distribuidora de Títulos e Valores Mobiliários S.A. Essa mudança faz parte de um processo de reorganização proposto pela gestora Pátria Investimentos, que visa consolidar as carteiras de quatro fundos de crédito imobiliário de índice de preços do grupo em um único veículo, o [PCIP11](/fiis/pcip11). A aprovação ocorreu com quórum de 26,37% dos cotistas, e a operação prevê a alienação integral dos ativos do VCJR11, com amortização aos cotistas em dinheiro e/ou cotas do PCIP11, seguida da liquidação do fundo. O processo de consolidação também envolve os fundos [RBRR11](/fiis/rbrr11) e [RPRI11](/fiis/rpri11), com o objetivo de potencializar a geração de valor, ampliar a liquidez e diversificar o portfólio. A plataforma de crédito da Pátria Real Estate, após a consolidação, terá um patrimônio líquido de R$ 4,5 bilhões, tornando o PCIP11 a segunda maior plataforma de crédito imobiliário de índice de preços do Brasil, segundo o relatório gerencial de setembro de 2026.",
+    "timeline": [
+      {
+        "date": "2019-10-01",
+        "event": "Início da oferta pública de cotas do VCJR11.",
+        "source": 2
+      },
+      {
+        "date": "2019-10-09",
+        "event": "Início das atividades do fundo.",
+        "source": 1
+      },
+      {
+        "date": "2020-01-21",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2020-12-21",
+        "event": "Início de nova oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2021-03-02",
+        "event": "Encerramento da oferta pública iniciada em dezembro de 2020.",
+        "source": 2
+      },
+      {
+        "date": "2022-05-23",
+        "event": "Encerramento da oferta pública iniciada em janeiro de 2022.",
+        "source": 2
+      },
+      {
+        "date": "2026",
+        "event": "Aprovação em Assembleia Geral Extraordinária da consolidação do VCJR11 com o PCIP11, com quórum de 26,37%.",
+        "source": 3
+      },
+      {
+        "date": "2026-08-21",
+        "event": "Divulgação de fato relevante anunciando a proposta de consolidação do VCJR11 com PCIP11, RBRR11 e RPRI11.",
+        "source": 5
+      },
+      {
+        "date": "2026-10-28",
+        "event": "Divulgação de fato relevante confirmando a aprovação da reorganização e a transferência da administração para a Apex DTVM.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do VCJR11",
+      "body": "O VCJR11 é um fundo de investimento imobiliário de papel, com gestão ativa, focado em crédito imobiliário. A gestora é a Pátria - VBI Securities Ltda, e o administrador, até outubro de 2026, era a Intrag DTVM, com transferência para a Apex DTVM a partir de 19/10/2026. O objetivo do fundo, segundo o relatório gerencial de 30/09/2026, é investir preponderantemente em CRI, LCI e cotas de outros FIIs, buscando uma rentabilidade alvo de NTN-B + 1% a 3% ao ano, com ativos pós ou pré-fixados e sem restrição de indexadores. O fundo é classificado pela Anbima como 'Papel Híbrido Gestão Ativa, Multicategoria'. Em 09/2026, o patrimônio líquido era de R$ 1,38 bilhão, com 14.723.970 cotas emitidas e 26.875 cotistas."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do VCJR11",
+      "body": "Nos 12 meses até 29/10/2026, o VCJR11 distribuiu R$ 11,3600 por cota em 12 pagamentos, resultando em um dividend yield de 17,11%. O último provento foi de R$ 0,7500 em 01/10/2026. A tributação de proventos de FIIs segue as regras da legislação brasileira, mas o dossiê não detalha as alíquotas específicas. É possível acompanhar os dividendos e JCP no app, com data de competência e pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O VCJR11 realizou 3 ofertas públicas de cotas encerradas, conforme documentos do FNET. A primeira oferta iniciou em 01/10/2019 e encerrou em 21/01/2020. A segunda iniciou em 21/12/2020 e encerrou em 02/03/2021. A terceira iniciou em 04/03/2021 e encerrou em 23/05/2022. Em 09/2026, o patrimônio líquido era de R$ 1,38 bilhão, com 14.723.970 cotas emitidas e 26.875 cotistas. O valor patrimonial da cota era de R$ 93,92."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VCJR11",
+      "body": "A rentabilidade total com proventos do VCJR11 foi de -0,20% nos 12 meses até 29/10/2026, 8,01% em 3 anos e 24,63% em 5 anos. A volatilidade anualizada dos últimos 12 meses foi de 17,53%, classificada como moderada. O beta contra o Ibovespa foi de 0,28. É possível comparar a rentabilidade do VCJR11 com o IFIX, CDI e outros índices no app, no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VCJR11",
+      "body": "Os principais riscos do VCJR11 incluem o risco de crédito dos devedores dos CRI e LCI, a sensibilidade a mudanças na taxa de juros (dado o foco em NTN-B) e o risco de liquidez. A volatilidade anualizada de 17,53% e a maior queda de -25,84% (de 09/09/2024 a 19/12/2024) refletem a sensibilidade do fundo a mudanças no cenário macroeconômico. O processo de consolidação com o PCIP11, aprovado em 19/10/2026, introduz risco operacional e de transição, com a transferência da administração para a Apex DTVM e a liquidação do VCJR11. A volatilidade pode ser monitorada com alertas de preço no app."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar VCJR11 no app",
+      "body": "Para quem tem VCJR11 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [dividendos e JCP no app](/recursos/proventos): Veja os dividendos e JCP do VCJR11 com data de competência e pagamento, multiplicados pela sua quantidade.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do VCJR11 com o IFIX, CDI e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas para ser notificado quando o VCJR11 chegar ao preço que você escolheu, útil para monitorar a volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do VCJR11 na sua carteira, junto com outros FIIs, ações e renda fixa, em uma só visão."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o VCJR11?",
+      "answer": "VCJR11 é a cota do Vectis Juros Real Fundo de Investimento Imobiliário, um fundo de papel focado em crédito imobiliário. O fundo busca rentabilidade alvo de NTN-B + 1% a 3% ao ano, investindo em CRI, LCI e cotas de outros FIIs. Em 09/2026, o patrimônio líquido era de R$ 1,38 bilhão."
+    },
+    {
+      "question": "O VCJR11 vai ser liquidado?",
+      "answer": "Sim. Em 19/10/2026, foi aprovada em Assembleia Geral Extraordinária a consolidação do VCJR11 com o PCIP11, RBRR11 e RPRI11. A operação prevê a alienação integral dos ativos do VCJR11, com amortização aos cotistas em dinheiro e/ou cotas do PCIP11, seguida da liquidação do fundo. O processo está em andamento, com a transferência da administração para a Apex DTVM."
+    },
+    {
+      "question": "Qual a diferença entre VCJR11 e PCIP11?",
+      "answer": "O VCJR11 é um fundo de crédito imobiliário de índice de preços, gerido pela Pátria, que está sendo consolidado no PCIP11. O PCIP11 é o fundo que receberá os ativos do VCJR11, RBRR11 e RPRI11, com o objetivo de se tornar a segunda maior plataforma de crédito imobiliário de índice de preços do Brasil, com patrimônio líquido de R$ 4,5 bilhões após a consolidação."
+    },
+    {
+      "question": "O VCJR11 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 29/10/2026, o VCJR11 distribuiu R$ 11,3600 por cota em 12 pagamentos, com dividend yield de 17,11%. O último provento foi de R$ 0,7500 em 01/10/2026. É possível acompanhar os proventos no app, com data de competência e pagamento."
+    },
+    {
+      "question": "Qual a taxa de administração do VCJR11?",
+      "answer": "A taxa de administração total do VCJR11 é de 1,60% a.a., conforme o relatório gerencial de 30/09/2026. A taxa mensal sobre o patrimônio, em 09/2026, foi de 0,133%."
+    },
+    {
+      "question": "Quem é a gestora do VCJR11?",
+      "answer": "A gestora do VCJR11 é a Pátria - VBI Securities Ltda. O administrador, até outubro de 2026, era a Intrag DTVM, com transferência para a Apex DTVM a partir de 19/10/2026, como parte do processo de consolidação com o PCIP11."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP do VCJR11 com data de competência e pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do VCJR11 com o IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando o VCJR11 chegar ao preço que você escolheu, útil para monitorar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do VCJR11 na sua carteira, junto com outros FIIs, ações e renda fixa, em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PCIP11",
+        "list": "fiis",
+        "reason": "O fundo que receberá os ativos do VCJR11 na consolidação aprovada em 10/2026."
+      },
+      {
+        "ticker": "RBRR11",
+        "list": "fiis",
+        "reason": "Outro fundo do grupo Pátria que está sendo consolidado com o VCJR11 e o PCIP11."
+      },
+      {
+        "ticker": "RPRI11",
+        "list": "fiis",
+        "reason": "Terceiro fundo do grupo Pátria que está sendo consolidado com o VCJR11 e o PCIP11."
+      },
+      {
+        "ticker": "HGCR11",
+        "list": "fiis",
+        "reason": "Fundo de crédito imobiliário high grade misto (inflação e CDI+) da Pátria, com estratégia semelhante."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VCJR11",
+      "url": "https://finance.yahoo.com/quote/VCJR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do VECTIS JUROS REAL FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo VCJR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=32400250000105",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do VCJR11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356182",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do VCJR11, 28/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1360848",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do VCJR11, 21/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298567",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

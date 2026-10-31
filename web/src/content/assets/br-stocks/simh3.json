@@ -1,0 +1,390 @@
+{
+  "ticker": "SIMH3",
+  "slug": "simh3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SIMH3: história, dividendos e volatilidade",
+    "description": "Conheça a SIMH3, ação da holding SIMPAR S.A. com empresas de logística, mobilidade e saneamento. Veja desempenho, proventos e riscos da ação na B3.",
+    "h1": "SIMH3: SIMPAR S.A. - Ação Ordinária",
+    "canonicalPath": "/acoes/simh3",
+    "keywords": [
+      "SIMH3",
+      "SIMPAR",
+      "ação ordinária",
+      "holding diversificada",
+      "dividendos SIMH3",
+      "volatilidade SIMH3",
+      "B3",
+      "Novo Mercado"
+    ]
+  },
+  "summary": "SIMH3 é a ação ordinária da SIMPAR S.A., holding diversificada brasileira que controla empresas de logística, mobilidade, saneamento e serviços financeiros. Fundada em 2005 a partir da reorganização do Grupo JSL, a companhia opera no segmento Novo Mercado da B3. Em 30/10/2026, o papel cotava a R$ 4,83, registrando queda de 46,57% em 12 meses e volatilidade anualizada de 124,58%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "SIMPAR S.A.",
+    "legalName": "SIMPAR S.A.",
+    "ticker": "BVMF SIMH3",
+    "isin": "BRSIMHACNOR0",
+    "taxId": "07.415.333/0001-20",
+    "foundingDate": "2005-06-03",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://HTTP://RI.SIMPAR.COM.BR/PT-BR",
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/Simpar",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25003/SIMH/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "SIMPAR S.A.",
+    "legalName": "SIMPAR S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Financeiro",
+    "segment": "Holdings Diversificadas",
+    "founded": "03/06/2005",
+    "listedSince": "18/09/2020",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://HTTP://RI.SIMPAR.COM.BR/PT-BR"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "SIMPAR S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "07.415.333/0001-20",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Holdings Diversificadas",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "03/06/2005",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "18/09/2020",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "SIMH3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 4,83",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "124,58% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "4,12",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,55%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SIMH3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "SIMPAR S.A.",
+    "currency": "BRL",
+    "price": 4.83,
+    "historyStarts": "2020-09-18",
+    "returns": {
+      "1y": -0.4657,
+      "3y": -0.6339,
+      "5y": -0.7428,
+      "10y": null
+    },
+    "volatility1y": 1.2458,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7939,
+      "from": "2022-06-01",
+      "to": "2026-10-29"
+    },
+    "beta1y": {
+      "value": 4.12,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.1713,
+      "payments12Months": 1,
+      "yield12Months": 0.0355,
+      "lastPayment": {
+        "date": "2026-06-05",
+        "amount": 0.171303
+      }
+    },
+    "avgDailyTradedValue3m": 62811965
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 124,58% da SIMH3 nos últimos 12 meses reflete oscilações de preço intensas, muito acima do padrão de ações de grande capitalização. A maior queda em 5 anos, de -79,39% entre 01/06/2022 e 29/10/2026, ilustra o potencial de perdas em cenários adversos. Para acompanhar a evolução do preço e a rentabilidade da posição, o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) oferece gráficos detalhados e o custo médio de cada ativo."
+  },
+  "history": {
+    "overview": "A SIMPAR S.A. tem origem em 1956, quando o caminhoneiro e imigrante português Julio Simões fundou o que viria a ser o Grupo JSL em Mogi das Cruzes (SP). A estrutura atual da holding surgiu em 2020, com a reorganização societária do Grupo JSL, cujo objetivo era simplificar a governança e potencializar o desenvolvimento dos negócios. A companhia foi formalmente constituída em 03/06/2005 e obteve registro como companhia aberta na CVM em 29/07/2020, iniciando a cotação de suas ações na B3 em 18/09/2020. A estratégia de gestão da SIMPAR baseia-se na independência das empresas controladas, cada uma com foco na execução de seu planejamento estratégico específico. Em 2026, a holding passou por mudanças estruturais relevantes, incluindo o aumento de capital da Vamos Locação, a alienação da CS Porto Aratu e a projeção de resultados da CS Infra, refletindo ajustes em seu portfólio de ativos.",
+    "timeline": [
+      {
+        "date": "2005-06-03",
+        "event": "Constituição da SIMPAR S.A.",
+        "source": 2
+      },
+      {
+        "date": "2020-07-29",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2020-09-18",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-04-13",
+        "event": "Verificação das Condições Precedentes do Aumento de Capital",
+        "source": 11
+      },
+      {
+        "date": "2026-04-20",
+        "event": "Atingimento do montante mínimo para Aumento de Capital da VAMOS",
+        "source": 10
+      },
+      {
+        "date": "2026-05-11",
+        "event": "Homologação do Aumento de Capital",
+        "source": 9
+      },
+      {
+        "date": "2026-05-21",
+        "event": "Exercício da opção de compra pela BNDESPAR",
+        "source": 8
+      },
+      {
+        "date": "2026-07-23",
+        "event": "Alienação da CS Porto Aratu",
+        "source": 7
+      },
+      {
+        "date": "2026-07-27",
+        "event": "Publicação da prévia de resultados do 2T26",
+        "source": 6
+      },
+      {
+        "date": "2026-08-27",
+        "event": "Publicação da projeção da CS Infra",
+        "source": 5
+      },
+      {
+        "date": "2026-10-23",
+        "event": "Publicação da prévia de resultados",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a SIMPAR S.A. ganha dinheiro",
+      "body": "A SIMPAR S.A. atua como uma holding diversificada, participando em outras sociedades empresariais como sócia ou acionista. O portfólio da companhia é composto por sete empresas com gestões e operações independentes, distribuídas nos setores de logística, mobilidade, saneamento, concessões e serviços financeiros. A JSL atua na logística com operações em sete países e mais de 1 milhão de m² de armazenagem. A Movida é a locadora de veículos, com foco em mobilidade urbana e veículos elétricos. O Grupo Vamos lidera a locação de caminhões, máquinas e equipamentos, com mais de 23 mil veículos. A CS Brasil presta serviços para o setor público, a Automob opera redes de concessionárias de veículos, a BBC Digital atua em serviços financeiros e a CS Infra gerencia concessões de longo prazo em infraestrutura logística, mobilidade e saneamento."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da SIMPAR S.A.",
+      "body": "O controle acionário da SIMPAR S.A. é classificado como privado, conforme o cadastro na CVM. A companhia está listada no segmento de governança Novo Mercado da B3, o que implica o cumprimento de práticas específicas de transparência e direitos acionitários. O código de negociação da ação ordinária é SIMH3. As ações ordinárias (ON) conferem direito a voto em assembleias gerais, enquanto as ações preferenciais (PN) possuem preferência na distribuição de dividendos e no capital social em caso de liquidação, mas geralmente não têm direito a voto. A SIMH3 representa a classe ordinária, permitindo ao acionista participar das decisões societárias."
+    },
+    {
+      "id": "proventos",
+      "heading": "SIMH3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a SIMH3 distribuiu R$ 0,1713 por ação em 1 pagamento, resultando em um dividend yield de 3,55%. O último provento registrado foi de R$ 0,1713, com data de pagamento em 05/06/2026. A remuneração aos acionistas é realizada por meio de dividendos, conforme os comunicados oficiais da companhia. É possível acompanhar o histórico completo de dividendos e JCP, com datas de competência e pagamento, na seção de [dividendos e JCP no app](/recursos/proventos), que organiza os dados a partir dos comunicados da B3 multiplicados pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da SIMH3",
+      "body": "A rentabilidade total da SIMH3, incluindo proventos, foi de -46,57% nos 12 meses até 30/10/2026, -63,39% em 3 anos e -74,28% em 5 anos. O preço do papel em 30/10/2026 era de R$ 4,83. Para contextualizar esses resultados, é possível comparar a performance do ativo com índices de referência como o Ibovespa e o CDI, utilizando a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da SIMH3",
+      "body": "A SIMH3 apresenta volatilidade anualizada de 124,58% nos últimos 12 meses, classificada como nível muito alta. O beta de 4,12 contra o Ibovespa indica que os movimentos do ativo tendem a ser quatro vezes maiores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -79,39%, do pico em 01/06/2022 ao ponto mais baixo em 29/10/2026. Os riscos incluem a exposição a múltiplos setores (logística, mobilidade, saneamento e serviços financeiros), a dependência de resultados das controladas e a execução de mudanças estruturais, como aumentos de capital e alienações de ativos. A alta volatilidade exige atenção, e o recurso de [alertas de preço](/recursos/alertas-de-preco) permite configurar notificações quando o ativo atinge níveis específicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SIMH3 paga dividendos?",
+      "answer": "Sim, a SIMH3 distribuiu proventos. Nos 12 meses até 30/10/2026, foram pagos R$ 0,1713 por ação em 1 pagamento, com dividend yield de 3,55%. O último pagamento foi de R$ 0,1713 em 05/06/2026. O histórico completo pode ser consultado na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre SIMH3 e SIMH4?",
+      "answer": "SIMH3 é a ação ordinária (ON), que confere direito a voto em assembleias gerais. SIMH4 é a ação preferencial (PN), que possui preferência na distribuição de dividendos e no capital social em caso de liquidação, mas geralmente não tem direito a voto. Ambas representam participação na SIMPAR S.A., mas com direitos distintos em governança e proventos."
+    },
+    {
+      "question": "O que a SIMPAR S.A. faz?",
+      "answer": "A SIMPAR S.A. é uma holding diversificada que controla sete empresas nos setores de logística, mobilidade, saneamento, concessões e serviços financeiros. As controladas incluem JSL (logística), Movida (locação de veículos), Grupo Vamos (locação de máquinas), CS Brasil (serviços públicos), Automob (concessionárias), BBC Digital (serviços financeiros) e CS Infra (concessões de infraestrutura)."
+    },
+    {
+      "question": "Qual o setor da SIMH3 na B3?",
+      "answer": "Na B3, a SIMH3 é classificada no setor Financeiro, segmento Holdings Diversificadas. Na CVM, o setor de atividade é Serviços, Transporte e Logística. A companhia opera no segmento de governança Novo Mercado, com foco em práticas de transparência e direitos acionitários."
+    },
+    {
+      "question": "SIMH3 é uma ação de alto risco?",
+      "answer": "A SIMH3 apresenta volatilidade anualizada de 124,58%, classificada como muito alta, e beta de 4,12 contra o Ibovespa, indicando alta sensibilidade aos movimentos do mercado. A maior queda em 5 anos foi de -79,39%. Esses números refletem a exposição a múltiplos setores e mudanças estruturais recentes, como aumentos de capital e alienações de ativos."
+    },
+    {
+      "question": "Como acompanhar a SIMH3 no app?",
+      "answer": "É possível monitorar a SIMH3 através da [carteira consolidada](/recursos/carteira-consolidada), que reúne ações, renda fixa e fundos em uma única visão. O [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a posição, com respostas baseadas nos seus próprios dados, e o [widget na barra de menus](/recursos/widget-da-barra-de-menus) exibe o gráfico do dia e as posições com um clique."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da SIMH3 com data de competência e data de pagamento, multiplicados pela sua quantidade de ações."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da SIMH3 com o Ibovespa e o CDI no mesmo gráfico, para entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando a SIMH3 atingir preços específicos, útil para acompanhar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação da SIMH3 junto com outros ativos da carteira, com valor por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MOVI3",
+        "list": "br-stocks",
+        "reason": "Movida Participações S.A., uma das principais controladas da SIMPAR, atuando na locação de veículos."
+      },
+      {
+        "ticker": "VAMO3",
+        "list": "br-stocks",
+        "reason": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A., controlada pela SIMPAR, líder no segmento de locação de máquinas."
+      },
+      {
+        "ticker": "RENT3",
+        "list": "br-stocks",
+        "reason": "Localiza Rent a Car S.A., empresa do mesmo segmento de locação de veículos, para comparação de desempenho."
+      },
+      {
+        "ticker": "RAIL3",
+        "list": "br-stocks",
+        "reason": "Rumo S.A., empresa do setor de logística e infraestrutura, similar ao segmento de concessões da CS Infra."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SIMH3",
+      "url": "https://finance.yahoo.com/quote/SIMH3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SIMPAR, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25003/SIMH/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, SIMPAR S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Simpar",
+      "url": "https://pt.wikipedia.org/wiki/Simpar",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/10/2026, “Prévia de resultados”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1579640&numSequencia=1104346&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/08/2026, “Projeção CS Infra”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1561839&numSequencia=1086545&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/07/2026, “Prévia de resultados 2T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1548547&numSequencia=1073253&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/07/2026, “Alienação da CS Porto Aratu”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547175&numSequencia=1071881&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 21/05/2026, “Exercício da opção de compra pela BNDESPAR”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525591&numSequencia=1050297&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/05/2026, “Homologação Aumento de Capital”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1519448&numSequencia=1044154&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/04/2026, “atingimento do montante mínimo para Aumento de Capital da VAMOS”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1506469&numSequencia=1031175&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/04/2026, “Verificação das Condições Precedentes do Aumento de Capital”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504183&numSequencia=1028889&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

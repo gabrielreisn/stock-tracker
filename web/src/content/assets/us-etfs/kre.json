@@ -1,0 +1,273 @@
+{
+  "ticker": "KRE",
+  "slug": "kre",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "KRE: ETF de bancos regionais dos EUA",
+    "description": "KRE é o ETF da State Street que replica o índice de bancos regionais dos EUA. Veja desempenho, dividendos e volatilidade até 30/10/2026.",
+    "h1": "KRE: State Street SPDR S&P Regional Banking ETF",
+    "canonicalPath": "/etfs/kre",
+    "keywords": [
+      "KRE",
+      "ETF bancos regionais",
+      "SPDR S&P Regional Banking",
+      "ETF financeiro EUA",
+      "KRE dividendos",
+      "KRE volatilidade"
+    ]
+  },
+  "summary": "KRE é o State Street SPDR S&P Regional Banking ETF, um ETF que replica o desempenho de bancos regionais dos Estados Unidos. Lançado em 22/06/2006 e gerido pela State Street Global Advisors, o fundo oferece exposição ao setor bancário de médio porte. Em 30/10/2026, a cota valia US$ 72,01, com rentabilidade total de 23,16% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street SPDR S&P Regional Banking ETF",
+    "ticker": "ARCX KRE",
+    "foundingDate": "2006-06-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors",
+    "trackedIndex": "S&P Regional Banking Index",
+    "name": "State Street SPDR S&P Regional Banking ETF",
+    "founded": "22/06/2006"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street SPDR S&P Regional Banking ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/06/2006",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 72,01",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "20,41% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,60",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,24%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 988,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KRE",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street SPDR S&P Regional Banking ETF",
+    "currency": "USD",
+    "price": 72.01,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2316,
+      "3y": 0.9796,
+      "5y": 0.1277,
+      "10y": 1.1123
+    },
+    "volatility1y": 0.2041,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.5269,
+      "from": "2022-01-14",
+      "to": "2023-05-04"
+    },
+    "beta1y": {
+      "value": 0.6,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.611,
+      "payments12Months": 4,
+      "yield12Months": 0.0224,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.412
+      }
+    },
+    "avgDailyTradedValue3m": 988103549
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do KRE nos 12 meses até 30/10/2026 foi de 20,41%, classificada como moderada. O beta de 0,60 contra o S&P 500 indica que o KRE tende a acompanhar os movimentos do índice com menor intensidade, na mesma direção. A maior queda em 5 anos foi de -52,69%, do pico em 14/01/2022 ao ponto mais baixo em 04/05/2023. Para monitorar oscilações e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O KRE foi lançado em 22 de junho de 2006, integrando a família de ETFs SPDR (Standard & Poor's Depositary Receipts), gerida pela State Street Global Advisors (SSGA). A SSGA é a terceira maior gestora de ETFs do mundo, atrás de iShares e Vanguard, e uniu suas carteiras sob a marca SPDR em 2007, incluindo a antiga família StreetTRACKS. O KRE faz parte dos chamados 'Sector Spiders', lançados em 1998 em cooperação com a Merrill Lynch, que seguem os setores da classificação GICS do S&P 500. O foco do KRE são os bancos regionais, instituições que operam em nível subnacional e possuem ativos entre US$ 10 bilhões e US$ 100 bilhões, conforme a definição da Federal Reserve. Esses bancos fornecem serviços como depósitos, empréstimos e cartões de crédito, mas com alcance geográfico limitado em comparação aos grandes bancos nacionais.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "Lançamento dos 'Sector Spiders' pela SSGA e Merrill Lynch, que seguem os setores do S&P 500.",
+        "source": 1
+      },
+      {
+        "date": "2006-06-22",
+        "event": "Primeiro pregão das cotas do KRE na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA renomeia a família StreetTRACKS e outros ETFs para SPDR, unificando a marca.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o KRE funciona",
+      "body": "O KRE é um ETF que replica o índice S&P Regional Banking, composto por bancos regionais dos Estados Unidos. A emissora é a State Street Global Advisors, e o fundo faz parte da família SPDR, que utiliza a estrutura de 'unit investment trusts'. O KRE não é alavancado nem inverso, portanto não sofre rebalanceamento diário que distorça o resultado em períodos longos. O fundo foi lançado em 22/06/2006 e opera no mercado americano."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do KRE",
+      "body": "O KRE segue o S&P Regional Banking Index, que inclui bancos regionais dos EUA. De acordo com a Federal Reserve, um banco regional é uma instituição com ativos entre US$ 10 bilhões e US$ 100 bilhões, operando abaixo do nível nacional. Em 2022, havia 134 bancos regionais nos EUA, com 13.109 agências. O KRE oferece exposição a esse segmento, que fornece serviços como depósitos, empréstimos e cartões de crédito, mas com alcance geográfico limitado."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no KRE a partir do Brasil",
+      "body": "Para investir no KRE a partir do Brasil, o investidor pode abrir conta em uma corretora no exterior ou buscar ETFs e BDRs na B3 que sigam o mesmo índice. O principal risco é o cambial, pois o KRE é cotado em dólar e a variação do câmbio impacta a rentabilidade em reais. O investidor deve considerar a volatilidade do dólar e a liquidez do ativo no mercado brasileiro."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KRE",
+      "body": "Em 30/10/2026, a cota do KRE valia US$ 72,01. A rentabilidade total com proventos foi de 23,16% nos 12 meses, 97,96% em 3 anos, 12,77% em 5 anos e 111,23% em 10 anos. O fundo paga dividendos, com US$ 1,6110 por cota nos 12 meses até 30/10/2026, resultando em dividend yield de 2,24%. O último pagamento foi de US$ 0,4120 em 21/09/2026. Para comparar o desempenho com o S&P 500, veja a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KRE",
+      "body": "O KRE é exposto ao setor bancário, que é regulado e sensível a mudanças na taxa de juros e na economia. A volatilidade anualizada nos 12 meses até 30/10/2026 foi de 20,41%, nível moderado. A maior queda em 5 anos foi de -52,69%, do pico em 14/01/2022 ao ponto mais baixo em 04/05/2023. O beta de 0,60 contra o S&P 500 indica que o KRE tende a ter movimentos menores que o índice, na mesma direção. O risco cambial também é relevante para investidores brasileiros."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é KRE?",
+      "answer": "KRE é o State Street SPDR S&P Regional Banking ETF, um ETF que replica o índice de bancos regionais dos EUA. O fundo é gerido pela State Street Global Advisors e foi lançado em 22/06/2006."
+    },
+    {
+      "question": "KRE paga dividendos?",
+      "answer": "Sim, o KRE paga dividendos. Nos 12 meses até 30/10/2026, distribuiu US$ 1,6110 por cota, com dividend yield de 2,24%. O último pagamento foi de US$ 0,4120 em 21/09/2026. Veja os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para acompanhar a distribuição."
+    },
+    {
+      "question": "Qual a diferença entre KRE e XLF?",
+      "answer": "KRE foca em bancos regionais dos EUA, enquanto [XLF](/etfs/xlf) cobre o setor financeiro de forma mais ampla, incluindo grandes bancos. Ambos são ETFs da State Street, mas com índices e composições diferentes."
+    },
+    {
+      "question": "Como investir em KRE do Brasil?",
+      "answer": "É possível investir em KRE abrindo conta em corretora no exterior ou buscando ETFs/BDRs na B3 que sigam o mesmo índice. O risco cambial é um fator importante, pois o KRE é cotado em dólar. Use o [Open Finance](/recursos/open-finance) para sincronizar posições de corretoras."
+    },
+    {
+      "question": "KRE é um ETF alavancado?",
+      "answer": "Não, o KRE não é alavancado nem inverso. Ele replica o índice S&P Regional Banking sem multiplicar a exposição diária, evitando distorções em períodos longos."
+    },
+    {
+      "question": "Qual a volatilidade do KRE?",
+      "answer": "A volatilidade anualizada do KRE nos 12 meses até 30/10/2026 foi de 20,41%, nível moderado. A maior queda em 5 anos foi de -52,69%, entre 14/01/2022 e 04/05/2023. Acompanhe a [carteira consolidada](/recursos/carteira-consolidada) para ver o impacto na alocação."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do KRE lado a lado com o S&P 500 no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do KRE atingir o preço que você definiu, útil para monitorar oscilações de 20,41% de volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do KRE junto com outras posições, vendo valor por classe e as maiores participações da carteira."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e confira as quantidades e preços médios do KRE, garantindo que a carteira esteja atualizada."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XLF",
+        "list": "us-etfs",
+        "reason": "ETF do setor financeiro dos EUA, mais amplo que KRE, para comparar exposição a bancos."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta de 0,60 do KRE."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação de banco brasileiro, para comparar exposição ao setor bancário no mercado local."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Ação de banco brasileiro, outro par setorial para diversificação ou comparação."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KRE",
+      "url": "https://finance.yahoo.com/quote/KRE/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Regional bank (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Regional_bank",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Bank (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Bank",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

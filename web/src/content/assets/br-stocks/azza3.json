@@ -1,0 +1,380 @@
+{
+  "ticker": "AZZA3",
+  "slug": "azza3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AZZA3: história, dividendos e volatilidade",
+    "description": "AZZA3 é a ação ordinária da Azzas 2154, empresa de vestuário e calçados. Veja rentabilidade, dividendos, volatilidade e a história da fusão Arezzo&Co e",
+    "h1": "AZZA3: Azzas 2154 S.A. – Ação Ordinária",
+    "canonicalPath": "/acoes/azza3",
+    "keywords": [
+      "AZZA3",
+      "Azzas 2154",
+      "Arezzo",
+      "Schutz",
+      "Reserva",
+      "Farm",
+      "Animale",
+      "Hering"
+    ]
+  },
+  "summary": "AZZA3 é a ação ordinária da Azzas 2154 S.A., empresa brasileira de vestuário e calçados resultante da fusão entre Arezzo&Co e Grupo Soma em 2024. Com sede em Belo Horizonte, o grupo reúne 34 marcas e cerca de 2.000 lojas. A ação, listada no Novo Mercado desde 2011, registrou rentabilidade total de -45,49% nos 12 meses até 30/10/2026, com volatilidade anualizada de 69,95%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Azzas 2154 S.A.",
+    "legalName": "AZZAS 2154 S.A.",
+    "ticker": "BVMF AZZA3",
+    "isin": "BRAZZAACNOR9",
+    "taxId": "16.590.234/0001-76",
+    "foundingDate": "1972-09-15",
+    "address": {
+      "locality": "Belo Horizonte",
+      "region": "MG",
+      "country": "BR"
+    },
+    "website": "https://www.arezzoco.com.br",
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/Azzas_2154",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22349/AZZA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Azzas 2154 S.A.",
+    "legalName": "AZZAS 2154 S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Tecidos, Vestuário e Calçados",
+    "founded": "15/09/1972",
+    "listedSince": "02/02/2011",
+    "headquarters": "Belo Horizonte (MG)",
+    "website": "https://www.arezzoco.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "AZZAS 2154 S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "16.590.234/0001-76",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Tecidos, Vestuário e Calçados",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "15/09/1972",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Belo Horizonte (MG)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "02/02/2011",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "AZZA3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 14,19",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "69,95% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,97",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "17,45%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AZZA3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Azzas 2154 S.A.",
+    "currency": "BRL",
+    "price": 14.19,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.4549,
+      "3y": -0.717,
+      "5y": -0.7754,
+      "10y": -0.3439
+    },
+    "volatility1y": 0.6995,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8406,
+      "from": "2022-10-31",
+      "to": "2026-10-29"
+    },
+    "beta1y": {
+      "value": 1.97,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 2.4762,
+      "payments12Months": 2,
+      "yield12Months": 0.1745,
+      "lastPayment": {
+        "date": "2025-12-22",
+        "amount": 1.584744
+      }
+    },
+    "avgDailyTradedValue3m": 78566182
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da AZZA3 é de 69,95% nos últimos 12 meses, um nível muito alto para uma ação brasileira. O beta de 1,97 contra o Ibovespa mostra que a ação costuma acompanhar os movimentos do índice com amplitude quase duas vezes maior. A maior queda em 5 anos foi de -84,06%, entre 31/10/2022 e 29/10/2026. Para monitorar oscilações e definir níveis de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) envia notificações quando o ativo atinge o valor escolhido."
+  },
+  "history": {
+    "overview": "A Azzas 2154 S.A. nasce da consolidação de duas das maiores redes de moda do país. A origem remonta à Arezzo, fundada em 1972 em Belo Horizonte por Anderson e Jefferson Birman, que iniciou a produção de calçados e expandiu-se para o sistema de franquias em 1986. Em 1995, Alexandre Birman criou a marca Schutz, que se fundiu com a Arezzo em 2007, formando a Arezzo&Co. A empresa realizou seu IPO na B3 em 2011, captando R$ 565,8 milhões, e em 2020 adquiriu a Reserva por R$ 715 milhões, passando a se chamar AR&CO. Em 2023, comprou a grife italiana Paris Texas, sua primeira aquisição internacional. Paralelamente, o Grupo Soma surgiu em 2010 da fusão entre Farm e Animale, marcas criadas respectivamente em 1997 e 1991. Em 2021, o Soma adquiriu o controle da centenária Cia. Hering, fundada em 1880. Em agosto de 2024, a fusão entre Arezzo&Co e Soma foi concluída, formando a Azzas 2154, que passou a operar 34 marcas e cerca de 2.000 lojas, sendo 1.500 franquias. Desde então, a companhia passou por diversas alterações na diretoria e reestruturações administrativas, com fatos relevantes publicados na CVM entre 2025 e 2026, incluindo a descontinuação de projeções em março de 2026 e uma nova reorganização societária em setembro de 2026.",
+    "timeline": [
+      {
+        "date": "1972-09-15",
+        "event": "Constituição da companhia (origem da Arezzo).",
+        "source": 2
+      },
+      {
+        "date": "2011-01-31",
+        "event": "Registro como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2011-02-02",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-06-30",
+        "event": "Reestruturação da Administração.",
+        "source": 11
+      },
+      {
+        "date": "2025-07-18",
+        "event": "Alteração de Formador de Mercado.",
+        "source": 10
+      },
+      {
+        "date": "2025-08-07",
+        "event": "Alteração na Diretoria Estatutária.",
+        "source": 9
+      },
+      {
+        "date": "2026-03-11",
+        "event": "Descontinuação de Projeções.",
+        "source": 7
+      },
+      {
+        "date": "2026-06-19",
+        "event": "Esclarecimento sobre notícia divulgada na mídia.",
+        "source": 5
+      },
+      {
+        "date": "2026-09-02",
+        "event": "Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Azzas 2154 S.A. ganha dinheiro",
+      "body": "A Azzas 2154 S.A. atua no setor de Consumo Cíclico, especificamente no segmento de Tecidos, Vestuário e Calçados. A atividade principal da companhia, conforme a B3, é a industrialização e o comércio atacadista de couros, lãs, peles e subprodutos de origem animal, além da confecção, fabricação e comercialização de artigos de vestuário. O grupo é formado por 34 marcas e possui cerca de 2.000 lojas, das quais 1.500 são franquias, operando em um modelo que combina varejo próprio e sistema de franquias espalhado pelo território nacional."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Azzas 2154 S.A.",
+      "body": "A AZZA3 é a ação ordinária da Azzas 2154 S.A., negociada na B3 sob o código AZZA3. A companhia está listada no segmento de governança Novo Mercado, o que implica práticas de transparência e distribuição de ações. O controle acionário é classificado como privado pela CVM. Ações ordinárias (ON) dão direito a voto em assembleias gerais, enquanto ações preferenciais (PN) não têm direito a voto, mas possuem prioridade no recebimento de dividendos e no retorno do capital em caso de liquidação. A B3 e a CVM registram a empresa sob a razão social AZZAS 2154 S.A., com CNPJ 16.590.234/0001-76."
+    },
+    {
+      "id": "proventos",
+      "heading": "AZZA3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a AZZA3 distribuiu R$ 2,4762 por ação em 2 pagamentos, o que corresponde a um dividend yield de 17,45%. O último pagamento registrado foi de R$ 1,5847, com data de pagamento em 22/12/2025. A companhia mantém a prática de remuneração aos acionistas por meio de dividendos. Para acompanhar a história completa de proventos, com datas de competência e pagamento, é possível utilizar o recurso de [dividendos e JCP no app](/recursos/proventos), que consolida essas informações multiplicadas pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da AZZA3",
+      "body": "A rentabilidade total da AZZA3, incluindo proventos, foi de -45,49% nos 12 meses até 30/10/2026. Em horizontes mais longos, a ação acumulou -71,70% em 3 anos e -77,54% em 5 anos, enquanto a rentabilidade em 10 anos foi de -34,39%. Esses números refletem a trajetória de preço e a distribuição de proventos no período. Para comparar esse desempenho com o Ibovespa, o CDI e outros índices, o recurso de [comparação com índices](/recursos/comparacao-com-indices) exibe a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da AZZA3",
+      "body": "A volatilidade anualizada da AZZA3 nos últimos 12 meses é de 69,95%, classificada como muito alta. A maior queda em 5 anos foi de -84,06%, ocorrida do pico em 31/10/2022 ao ponto mais baixo em 29/10/2026. O beta de 1,97 contra o Ibovespa indica que, historicamente, os movimentos da ação tendem a ser quase o dobro dos movimentos do índice, na mesma direção. O setor de vestuário e calçados é cíclico, sensível a mudanças no consumo e no poder de compra. A companhia também passou por alterações na diretoria e reestruturações societárias recentes, o que pode gerar incerteza para os investidores. O volume médio negociado por dia nos últimos 3 meses é de R$ 78,6 milhões."
+    }
+  ],
+  "faq": [
+    {
+      "question": "AZZA3 paga dividendos?",
+      "answer": "Sim, a AZZA3 distribui dividendos. Nos 12 meses até 30/10/2026, foram pagos R$ 2,4762 por ação em 2 pagamentos, com dividend yield de 17,45%. O último pagamento foi de R$ 1,5847 em 22/12/2025. É possível acompanhar a data de pagamento e a data com de cada provento no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre AZZA3 e AZZA4?",
+      "answer": "AZZA3 é a ação ordinária (ON) e AZZA4 é a ação preferencial (PN) da Azzas 2154 S.A. A principal diferença é que a ação ON dá direito a voto em assembleias, enquanto a PN não tem voto, mas tem prioridade no recebimento de dividendos. Ambas representam participação no capital da mesma empresa, mas com direitos distintos em governança e proventos."
+    },
+    {
+      "question": "O que é a Azzas 2154 S.A.?",
+      "answer": "A Azzas 2154 S.A. é uma empresa brasileira de vestuário e calçados, formada pela fusão entre Arezzo&Co e Grupo Soma em 2024. O grupo reúne 34 marcas e cerca de 2.000 lojas, sendo 1.500 franquias. A companhia está listada no Novo Mercado da B3 desde 2011, sob o código AZZA3."
+    },
+    {
+      "question": "Qual o setor da AZZA3?",
+      "answer": "A AZZA3 pertence ao setor de Consumo Cíclico, no segmento de Tecidos, Vestuário e Calçados, conforme a classificação da B3. A atividade principal envolve a industrialização, comércio atacadista de couros e subprodutos de origem animal, além da confecção e comercialização de artigos de vestuário."
+    },
+    {
+      "question": "AZZA3 é uma ação volátil?",
+      "answer": "Sim, a volatilidade anualizada da AZZA3 é de 69,95% nos últimos 12 meses, nível muito alto. A maior queda em 5 anos foi de -84,06%, entre 31/10/2022 e 29/10/2026. O beta de 1,97 contra o Ibovespa indica que a ação tende a se mover com amplitude maior que o índice. Para acompanhar oscilações, use o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Como a Azzas 2154 ganhou dinheiro antes da fusão?",
+      "answer": "Antes da fusão, a Arezzo&Co (antiga Arezzo) atuava no varejo de calçados e vestuário, com marcas como Schutz e Reserva, e realizou IPO em 2011. O Grupo Soma, com marcas como Farm e Animale, fez IPO em 2020. A fusão em 2024 formou a Azzas 2154, que consolidou 34 marcas e cerca de 2.000 lojas."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos da AZZA3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da AZZA3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a AZZA3 atingir o preço que você escolheu, útil para acompanhar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a AZZA3 junto com outros ativos da sua carteira, com alocação por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LREN3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de vestuário e varejo, Lojas Renner S.A."
+      },
+      {
+        "ticker": "CEAB3",
+        "list": "br-stocks",
+        "reason": "C&A Modas S.A., também do setor de vestuário e calçados."
+      },
+      {
+        "ticker": "MGLU3",
+        "list": "br-stocks",
+        "reason": "Magazine Luiza S.A., varejo de consumo cíclico."
+      },
+      {
+        "ticker": "ABEV3",
+        "list": "br-stocks",
+        "reason": "Ambev S.A., outra ação de consumo cíclico, mas de bebidas."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AZZA3",
+      "url": "https://finance.yahoo.com/quote/AZZA3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: AZZAS 2154, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22349/AZZA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, AZZAS 2154 S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Azzas 2154",
+      "url": "https://pt.wikipedia.org/wiki/Azzas_2154",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/09/2026, “Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1563878&numSequencia=1088584&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/06/2026, “Esclarecimento sobre notícia divulgada na mídia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1536487&numSequencia=1061193&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/04/2026, “Alteração na Diretoria Estatutária”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1503596&numSequencia=1028302&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/03/2026, “Descontinuação de Projeções”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1489165&numSequencia=1013871&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/09/2025, “Alteração na Diretoria Estatutária”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1419851&numSequencia=944563&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/08/2025, “Alteração na Diretoria Estatutária”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1409964&numSequencia=934676&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/07/2025, “Alteração de Formador de Mercado”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1402226&numSequencia=926938&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/06/2025, “Reestruturação da Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1395127&numSequencia=919839&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

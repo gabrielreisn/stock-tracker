@@ -1,0 +1,280 @@
+{
+  "ticker": "IJH",
+  "slug": "ijh",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IJH: história, dividendos e volatilidade",
+    "description": "Conheça o IJH, o iShares Core S&P Mid-Cap ETF que replica o S&P 400. Veja desempenho, dividendos, volatilidade e como investir a partir do Brasil.",
+    "h1": "IJH: iShares Core S&P Mid-Cap ETF",
+    "canonicalPath": "/etfs/ijh",
+    "keywords": [
+      "IJH",
+      "iShares Core S&P Mid-Cap ETF",
+      "S&P 400",
+      "ETF médio porte",
+      "investir em ETF americano",
+      "dividendos IJH",
+      "volatilidade IJH",
+      "rentabilidade IJH"
+    ]
+  },
+  "summary": "IJH é o iShares Core S&P Mid-Cap ETF, lançado em 26/05/2000 pela iShares (BlackRock), que replica o índice S&P 400, composto por 400 empresas americanas de capitalização média. O índice tem capitalização agregada superior a US$ 2,9 trilhões e mediana de US$ 7,9 bilhões por empresa (dez/2025). Em 29/10/2026, a cota valia US$ 74,20, com rentabilidade de 15,22% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Core S&P Mid-Cap ETF",
+    "ticker": "ARCX IJH",
+    "foundingDate": "2000-05-26",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "S&P 400 (S&P MidCap 400)",
+    "name": "iShares Core S&P Mid-Cap ETF",
+    "founded": "26/05/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Core S&P Mid-Cap ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "26/05/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 74,20",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,99% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,96",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,22%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 500,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IJH",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Core S&P Mid-Cap ETF",
+    "currency": "USD",
+    "price": 74.2,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1522,
+      "3y": 0.6502,
+      "5y": 0.4299,
+      "10y": 1.8543
+    },
+    "volatility1y": 0.1499,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.241,
+      "from": "2024-11-25",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": 0.96,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.902,
+      "payments12Months": 4,
+      "yield12Months": 0.0122,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.226
+      }
+    },
+    "avgDailyTradedValue3m": 500341758
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do IJH nos últimos 12 meses foi de 14,99%, classificada como baixa. O beta de 0,96 em relação ao S&P 500 indica que o ETF tende a acompanhar os movimentos do índice com intensidade ligeiramente menor, na mesma direção. A maior queda nos últimos 5 anos foi de -24,10%, do pico em 25/11/2024 ao ponto mais baixo em 08/04/2025. Para um ETF de médio porte, essa volatilidade é compatível com o perfil de risco do segmento, que geralmente apresenta oscilações maiores que o mercado de grande capitalização, mas menores que o de pequeno porte. O investidor pode acompanhar a evolução do preço e a volatilidade do IJH usando o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app."
+  },
+  "history": {
+    "overview": "O IJH foi lançado em 26 de maio de 2000, na esteira do esforço estratégico da Barclays Global Investors para expandir o mercado de ETFs nos Estados Unidos. Na época, a empresa lançou mais de 40 fundos sob a marca iShares, liderados por Lee Kranefuss, que trabalhou em conjunto com Nate Most, inventor do ETF, na época presidente do conselho dos fundos WEBS. A iniciativa incluiu uma ampla campanha de educação e marketing para popularizar o investimento em índices nos EUA. Em 2009, a Barclays vendeu a marca iShares e seus negócios para a CVC Capital Partners por mais de US$ 4 bilhões. Posteriormente, a BlackRock adquiriu a iShares, consolidando-se como a maior emissora de ETFs do mundo. O IJH passou a fazer parte desse portfólio, oferecendo exposição ao mercado de médio porte dos Estados Unidos.",
+    "timeline": [
+      {
+        "date": "2000",
+        "event": "Barclays lança mais de 40 novos fundos sob a marca iShares, incluindo o IJH, com forte investimento em educação e marketing.",
+        "source": 2
+      },
+      {
+        "date": "2000-05-26",
+        "event": "Primeiro pregão das cotas do IJH na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma a venda da marca iShares para a CVC Capital Partners por mais de US$ 4 bilhões.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IJH funciona",
+      "body": "O IJH é um ETF que replica o índice S&P 400 (também conhecido como S&P MidCap 400), que acompanha o desempenho de 400 empresas listadas em bolsas americanas com capitalização de mercado média. O fundo é emitido pela iShares, uma marca da BlackRock, que é a maior emissora de ETFs do mundo. O IJH foi lançado em 26 de maio de 2000, durante a expansão do mercado de ETFs nos Estados Unidos pela Barclays, que posteriormente vendeu a marca para a CVC Capital Partners em 2009, antes de ser adquirida pela BlackRock. O ETF não é alavancado nem inverso; ele busca replicar o desempenho do índice de forma passiva."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IJH",
+      "body": "O IJH replica o S&P 400, um índice de capitalização de mercado que inclui 400 empresas americanas de médio porte. De acordo com a Wikipedia, o índice representa cerca de 5% da capitalização total das empresas públicas dos EUA, com capitalização agregada superior a US$ 2,9 trilhões em 31 de dezembro de 2025. A mediana de capitalização das empresas do índice é de US$ 7,9 bilhões, variando de US$ 1,5 bilhão a US$ 33,6 bilhões. O índice é mantido pela S&P Dow Jones Indices e seus componentes são selecionados por um comitê. Em 31 de dezembro de 2024, havia cerca de US$ 337 bilhões em ativos rastreando o índice."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IJH a partir do Brasil",
+      "body": "Para investir no IJH a partir do Brasil, o investidor pode abrir conta em uma corretora de valores que ofereça acesso a mercados internacionais, como as bolsas dos Estados Unidos. Outra opção é buscar ETFs ou BDRs negociados na B3 que tenham como objetivo replicar o mesmo índice ou um índice similar de médio porte americano. O principal risco cambial é a variação do câmbio entre o dólar e o real, que pode impactar a rentabilidade final do investimento, independentemente do desempenho do próprio ETF. O IJH é cotado em dólares, então a valorização ou desvalorização do dólar em relação ao real afeta diretamente o retorno em reais."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IJH",
+      "body": "Em 29/10/2026, a cota do IJH valia US$ 74,20. A rentabilidade total com proventos foi de 15,22% nos últimos 12 meses, 65,02% em 3 anos, 42,99% em 5 anos e 185,43% em 10 anos. O ETF paga dividendos, com US$ 0,9020 por cota distribuídos em 4 pagamentos nos 12 meses até 29/10/2026, resultando em um dividend yield de 1,22%. O último pagamento foi de US$ 0,2260 em 15/09/2026. Para comparar o desempenho do IJH com o S&P 500, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IJH",
+      "body": "Os principais riscos do IJH incluem a volatilidade do mercado de ações americano de médio porte, a exposição ao câmbio para investidores brasileiros e a concentração em empresas de capitalização média, que podem ser mais sensíveis a mudanças econômicas. A volatilidade anualizada do IJH nos últimos 12 meses foi de 14,99%, classificada como baixa. O beta de 0,96 em relação ao S&P 500 indica que o ETF tende a acompanhar os movimentos do índice com intensidade ligeiramente menor. A maior queda nos últimos 5 anos foi de -24,10%, do pico em 25/11/2024 ao ponto mais baixo em 08/04/2025. Para monitorar movimentos de preço, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o IJH?",
+      "answer": "IJH é o iShares Core S&P Mid-Cap ETF, um ETF que replica o índice S&P 400, composto por 400 empresas americanas de capitalização média. O fundo é emitido pela iShares (BlackRock) e foi lançado em 26/05/2000. Em 29/10/2026, a cota valia US$ 74,20."
+    },
+    {
+      "question": "Qual a diferença entre IJH e IWM?",
+      "answer": "IJH replica o S&P 400, que inclui 400 empresas de médio porte, enquanto [IWM](/etfs/iwm) replica o Russell 2000, que inclui 2.000 empresas de pequeno porte. O IJH tende a ter maior capitalização média e menor volatilidade que o IWM, mas ambos são expostos ao mercado de ações americano de menor capitalização. O IJH tem beta de 0,96 em relação ao S&P 500, indicando sensibilidade ligeiramente menor aos movimentos do mercado de grande porte."
+    },
+    {
+      "question": "IJH paga dividendos?",
+      "answer": "Sim, o IJH paga dividendos. Nos 12 meses até 29/10/2026, distribuiu US$ 0,9020 por cota em 4 pagamentos, resultando em um dividend yield de 1,22%. O último pagamento foi de US$ 0,2260 em 15/09/2026. O investidor pode acompanhar os dividendos e JCP no app."
+    },
+    {
+      "question": "Como investir no IJH a partir do Brasil?",
+      "answer": "O investidor pode abrir conta em uma corretora que ofereça acesso a mercados internacionais, como as bolsas dos Estados Unidos, ou buscar ETFs ou BDRs negociados na B3 que repliquem o mesmo índice. O principal risco é a variação do câmbio entre o dólar e o real, que impacta a rentabilidade final em reais. O IJH é cotado em dólares, então a valorização ou desvalorização do dólar afeta diretamente o retorno em reais."
+    },
+    {
+      "question": "Qual a volatilidade do IJH?",
+      "answer": "A volatilidade anualizada do IJH nos últimos 12 meses foi de 14,99%, classificada como baixa. O beta de 0,96 em relação ao S&P 500 indica que o ETF tende a acompanhar os movimentos do índice com intensidade ligeiramente menor. A maior queda nos últimos 5 anos foi de -24,10%, do pico em 25/11/2024 ao ponto mais baixo em 08/04/2025."
+    },
+    {
+      "question": "Qual a rentabilidade do IJH nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos do IJH nos últimos 12 meses até 29/10/2026 foi de 15,22%. Em 3 anos, foi de 65,02%; em 5 anos, 42,99%; e em 10 anos, 185,43%. O ETF também pagou US$ 0,9020 por cota em dividendos no período, com dividend yield de 1,22%."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Acompanhe a evolução do preço e a rentabilidade do IJH ao longo do tempo, com gráfico interativo e dados de cada posição."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IJH com o S&P 500 e outros índices no mesmo gráfico, para entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o IJH atingir um preço específico, ajudando a monitorar oportunidades de compra ou venda."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o IJH junto com outras posições da sua carteira, com alocação por classe e as maiores posições em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em IJH e receba respostas baseadas nos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "IWM é o iShares Russell 2000 ETF, que replica o índice de pequeno porte americano, enquanto IJH replica o de médio porte."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "SPY é o State Street SPDR S&P 500 ETF Trust, que replica o índice de grande porte americano."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "VOO é o Vanguard S&P 500 ETF, outra opção de ETF de grande porte. Comparar IJH com VOO permite avaliar a diversificação entre diferentes capsize no mercado"
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "IVV é o iShares Core S&P 500 ETF, da mesma gestora que o IJH. Comparar os dois ajuda a entender a diferença entre médio e grande porte dentro da mesma"
+      },
+      {
+        "ticker": "MDY",
+        "list": "us-etfs",
+        "reason": "MDY é o State Street SPDR S&P MIDCAP 400 ETF Trust, que também replica o S&P 400. Comparar IJH com MDY permite avaliar a eficiência de diferentes ETFs que"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IJH",
+      "url": "https://finance.yahoo.com/quote/IJH/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 400 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_400",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

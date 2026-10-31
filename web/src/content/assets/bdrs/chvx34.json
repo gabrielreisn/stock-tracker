@@ -1,0 +1,325 @@
+{
+  "ticker": "CHVX34",
+  "slug": "chvx34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CHVX34: BDR da Chevron, dividendos e volatilidade",
+    "description": "CHVX34 é o BDR da Chevron na B3. Veja história, dividendos, rentabilidade de 62,17% em 12 meses e riscos do BDR em reais.",
+    "h1": "CHVX34: BDR da Chevron Corporation",
+    "canonicalPath": "/bdrs/chvx34",
+    "keywords": [
+      "CHVX34",
+      "BDR Chevron",
+      "Chevron B3",
+      "dividendos CHVX34",
+      "volatilidade CHVX34",
+      "BDR nível I",
+      "energia petróleo B3"
+    ]
+  },
+  "summary": "CHVX34 é o BDR não patrocinado (nível I) da Chevron Corporation, empresa americana de energia que atua na exploração, produção, refinação e venda de petróleo, gás natural e produtos químicos. Listado na B3 desde 15/06/2011, o recibo é lastreado na ação CVX, negociada na Bolsa de Valores de Nova Iorque. Até 30/10/2026, o BDR cotava a R$ 128,70 e apresentou rentabilidade total de 62,17% nos últimos 12 meses, incluindo a variação do câmbio e os proventos pagos.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Chevron",
+    "legalName": "CHEVRON CORPORATION",
+    "ticker": "BVMF CHVX34",
+    "website": "https://www.chevron.com",
+    "wikidata": "Q319642",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q319642",
+      "https://en.wikipedia.org/wiki/Chevron_Corporation",
+      "https://pt.wikipedia.org/wiki/Chevron_(empresa)",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50237/CHVX/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Chevron",
+    "legalName": "CHEVRON CORPORATION",
+    "type": "BDR não patrocinado (nível I)",
+    "listedSince": "15/06/2011",
+    "website": "https://www.chevron.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "CHEVRON CORPORATION",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: CVX",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "15/06/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 128,70",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "31,00% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,87%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CHVX34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Chevron Corporation",
+    "currency": "BRL",
+    "price": 128.7,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.6217,
+      "3y": 1.0444,
+      "5y": 1.4718,
+      "10y": 5.0219
+    },
+    "volatility1y": 0.31,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2798,
+      "from": "2022-11-22",
+      "to": "2023-11-16"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.6924,
+      "payments12Months": 4,
+      "yield12Months": 0.0287,
+      "lastPayment": {
+        "date": "2026-08-19",
+        "amount": 0.913033
+      }
+    },
+    "avgDailyTradedValue3m": 1062890
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do CHVX34 nos últimos 12 meses foi de 31,00%, nível considerado alto. A maior queda em 5 anos foi de -27,98%, do pico em 22/11/2022 ao ponto mais baixo em 16/11/2023. O beta do BDR não está disponível no dossiê, mas a volatilidade reflete a sensibilidade do setor de energia a mudanças no preço do petróleo e no câmbio. Para acompanhar movimentos de preço e definir pontos de entrada ou saída, é possível usar alertas de preço no app, que enviam uma notificação quando o ativo atinge o valor escolhido."
+  },
+  "history": {
+    "overview": "A Chevron Corporation tem origem na Standard Oil Company of California (Socal), fundada nos anos 1870 na Califórnia. Após a quebra da Standard Oil em 1911, a Socal cresceu de forma independente, tornando-se uma das empresas que dominaram a indústria petrolífera global entre a década de 1940 e 1970. Em 1984, a Socal se fundiu com a Gulf Oil e adotou o nome Chevron Corporation, consolidando sua posição como uma das maiores petrolíferas dos Estados Unidos. Em 2001, a empresa adquiriu a Texaco, ampliando sua capacidade de refinação e presença global, e em 2005 retornou a usar apenas o nome Chevron. A companhia é verticalmente integrada, atuando em exploração, produção, refinação, transporte, venda de combustíveis, lubrificantes, aditivos e petroquímicos, além de geração de energia. Em 2018, produziu em média 791.000 barris de óleo equivalente por dia nos Estados Unidos. A empresa também tem investido em energia limpa, com participações em empresas de fusão nuclear e armazenamento de hidrogênio. O BDR CHVX34 foi listado na B3 em 15/06/2011, permitindo a investidores brasileiros acompanhar a Chevron em reais.",
+    "timeline": [
+      {
+        "date": "1876",
+        "event": "A Star Oil descobre petróleo no Pico Canyon Oilfield, na Califórnia, marco considerado o início da indústria petrolífera moderna no estado.",
+        "source": 3
+      },
+      {
+        "date": "1911",
+        "event": "A Standard Oil é dividida pelo governo federal dos EUA sob a Lei Sherman, e a Standard Oil Co. (California) passa a operar de forma independente.",
+        "source": 3
+      },
+      {
+        "date": "1933",
+        "event": "A Socal obtém concessão do governo da Arábia Saudita para prospecção de petróleo no país.",
+        "source": 4
+      },
+      {
+        "date": "1938",
+        "event": "A empresa encontra o que viria a ser a maior reserva de petróleo do mundo na Arábia Saudita.",
+        "source": 4
+      },
+      {
+        "date": "1984",
+        "event": "A Standard Oil of California se funde com a Gulf Oil e adota o nome Chevron Corporation.",
+        "source": 3
+      },
+      {
+        "date": "2001",
+        "event": "A Chevron adquire a Texaco, tornando-se a segunda maior petrolífera dos Estados Unidos e a quarta maior empresa petrolífera pública do mundo na época.",
+        "source": 3
+      },
+      {
+        "date": "2005-05",
+        "event": "A empresa anuncia que retornará a usar apenas o nome Chevron, abandonando a designação ChevronTexaco.",
+        "source": 4
+      },
+      {
+        "date": "2011-06-15",
+        "event": "O BDR CHVX34 é listado na B3, permitindo a negociação em reais da ação da Chevron.",
+        "source": 1
+      },
+      {
+        "date": "2019-05",
+        "event": "A Chevron vende suas operações no Mar do Norte para a Ithaca Energy por US$ 2 bilhões.",
+        "source": 4
+      },
+      {
+        "date": "2023-09",
+        "event": "A empresa adquire participação majoritária em uma instalação de armazenamento de hidrogênio em Utah, posicionada para ser a maior do mundo para hidrogênio de energia renovável.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Chevron ganha dinheiro",
+      "body": "A Chevron Corporation é uma empresa americana de energia, predominantemente focada em petróleo e gás natural. A companhia é verticalmente integrada, atuando em exploração e produção de hidrocarbonetos, refinação, transporte, marketing e venda de combustíveis, lubrificantes, aditivos e petroquímicos, além de geração de energia. A empresa opera em mais de 180 países e é a segunda maior petrolífera dos Estados Unidos por receita, atrás apenas da ExxonMobil. Em 2018, a Chevron produziu em média 791.000 barris de óleo equivalente por dia nos Estados Unidos. A companhia também tem investido em energia limpa, com participações em empresas de fusão nuclear e armazenamento de hidrogênio. A Chevron é a última empresa de petróleo e gás remanescente no Dow Jones Industrial Average, desde a saída da ExxonMobil do índice em 2020."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR CHVX34",
+      "body": "O CHVX34 é um BDR não patrocinado (nível I) que representa ações da Chevron Corporation, negociadas na Bolsa de Valores de Nova Iorque sob o ticker CVX. O BDR é um recibo negociado na B3, em reais, lastreado na ação original e emitido por uma instituição depositária. O preço do BDR acompanha a cotação da ação CVX e a variação do câmbio entre o dólar e o real. O CHVX34 está listado na B3 desde 15/06/2011. Como é um BDR não patrocinado, a própria Chevron não administra o programa, e a liquidez pode ser menor do que a da ação original nos Estados Unidos."
+    },
+    {
+      "id": "proventos",
+      "heading": "CHVX34 paga dividendos?",
+      "body": "A Chevron paga dividendos, e o BDR CHVX34 reflete esses proventos em reais. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 3,6924 por unidade em 4 pagamentos, resultando em um dividend yield de 2,87%. O último pagamento foi de R$ 0,9130, com data de pagamento em 19/08/2026. Como a empresa é americana, os dividendos são pagos em dólares e o valor que chega ao investidor brasileiro depende do câmbio na data do pagamento. É possível acompanhar os dividendos e JCP no app, com data de competência e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do CHVX34",
+      "body": "Até 30/10/2026, o CHVX34 apresentava rentabilidade total com proventos de 62,17% nos últimos 12 meses, 104,44% em 3 anos, 147,18% em 5 anos e 502,19% em 10 anos. Esses números incluem a variação do câmbio entre o dólar e o real, além dos proventos recebidos. Para comparar o desempenho do BDR com índices de referência, como o S&P 500 e o CDI, é possível usar a comparação com índices no app, que mostra a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do CHVX34",
+      "body": "O CHVX34 está sujeito a riscos específicos do setor de energia, como a volatilidade do preço do petróleo e do gás natural, mudanças regulatórias e questões ambientais. A Chevron tem sido alvo de controvérsias relacionadas a mudanças climáticas e desastres ambientais, como os efeitos da exploração petrolífera na Amazônia equatoriana. Há também o risco cambial, já que o BDR é lastreado em uma ação negociada em dólares: uma valorização do real em relação ao dólar reduz o retorno em reais, e uma desvalorização o aumenta. A liquidez do BDR na B3 pode ser menor do que a da ação CVX nos Estados Unidos, com volume médio negociado de R$ 1,1 milhão por dia nos últimos 3 meses. A volatilidade anualizada do BDR nos últimos 12 meses foi de 31,00%, nível considerado alto, e a maior queda em 5 anos foi de -27,98%, do pico em 22/11/2022 ao ponto mais baixo em 16/11/2023."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar CHVX34 no app",
+      "body": "Para quem tem CHVX34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja a alocação do CHVX34 junto com outros ativos, com valor por classe e as maiores posições.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe o gráfico de rentabilidade do CHVX34 e a variação do dia e do ano, com a quantidade e o preço médio da sua posição.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do CHVX34 com o S&P 500 e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o CHVX34 atingir o preço que você escolheu, para acompanhar movimentos de volatilidade.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a sua posição em CHVX34, e o assistente responde com base nos seus próprios dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CHVX34 paga dividendos?",
+      "answer": "Sim, a Chevron paga dividendos, e o BDR CHVX34 reflete esses proventos em reais. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 3,6924 por unidade em 4 pagamentos, com dividend yield de 2,87%. O último pagamento foi de R$ 0,9130 em 19/08/2026. Como a empresa é americana, os dividendos são pagos em dólares e o valor em reais depende do câmbio na data do pagamento."
+    },
+    {
+      "question": "O que é o BDR CHVX34?",
+      "answer": "CHVX34 é um BDR não patrocinado (nível I) que representa ações da Chevron Corporation, negociadas na Bolsa de Valores de Nova Iorque sob o ticker CVX. O BDR é negociado na B3 em reais e acompanha a cotação da ação original e a variação do câmbio. Está listado na B3 desde 15/06/2011."
+    },
+    {
+      "question": "Qual a diferença entre CHVX34 e a ação CVX?",
+      "answer": "O CHVX34 é um recibo negociado na B3, em reais, que representa a ação CVX, negociada na Bolsa de Valores de Nova Iorque em dólares. O preço do BDR acompanha a cotação da ação CVX e a variação do câmbio entre o dólar e o real. A liquidez do BDR na B3 pode ser menor do que a da ação nos Estados Unidos."
+    },
+    {
+      "question": "Quanto rendeu o CHVX34 nos últimos 12 meses?",
+      "answer": "Até 30/10/2026, o CHVX34 apresentou rentabilidade total com proventos de 62,17% nos últimos 12 meses. Esse número inclui a variação do câmbio entre o dólar e o real, além dos proventos recebidos. Para comparar com índices como o S&P 500 e o CDI, é possível usar a comparação com índices no app."
+    },
+    {
+      "question": "Qual a liquidez do CHVX34 na B3?",
+      "answer": "O volume médio negociado por dia do CHVX34 nos últimos 3 meses foi de R$ 1,1 milhão. Como é um BDR não patrocinado, a liquidez pode ser menor do que a da ação CVX nos Estados Unidos. É possível acompanhar o preço durante o pregão com o widget na barra de menus do app."
+    },
+    {
+      "question": "Como acompanhar o CHVX34 no app?",
+      "answer": "É possível acompanhar o CHVX34 no app com o desempenho e preço médio, que mostra o gráfico de rentabilidade e a variação do dia e do ano. Também é possível usar a carteira consolidada para ver a alocação do BDR junto com outros ativos, e o assistente de IA para perguntar em português sobre a sua posição."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do CHVX34 junto com outros ativos, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe o gráfico de rentabilidade do CHVX34 e a variação do dia e do ano, com a quantidade e o preço médio da sua posição."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do CHVX34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o CHVX34 atingir o preço que você escolheu, para acompanhar movimentos de volatilidade."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em CHVX34, e o assistente responde com base nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EXXO34",
+        "list": "bdrs",
+        "reason": "Outro BDR de uma grande petrolífera americana, a ExxonMobil, para comparação no setor de energia."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF do setor de energia dos Estados Unidos, que inclui a Chevron e outras empresas do segmento."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Petrobras, para comparação com a maior petrolífera brasileira."
+      },
+      {
+        "ticker": "PRIO3",
+        "list": "br-stocks",
+        "reason": "Ação da Prio, empresa brasileira de energia, para diversificação no setor."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com o índice de referência dos Estados Unidos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CHVX34",
+      "url": "https://finance.yahoo.com/quote/CHVX34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CHEVRON, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50237/CHVX/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Chevron",
+      "url": "https://www.wikidata.org/wiki/Q319642",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Chevron Corporation",
+      "url": "https://en.wikipedia.org/wiki/Chevron_Corporation",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Chevron (empresa)",
+      "url": "https://pt.wikipedia.org/wiki/Chevron_(empresa)",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

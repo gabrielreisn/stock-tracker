@@ -1,0 +1,383 @@
+{
+  "ticker": "BRAV3",
+  "slug": "brav3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BRAV3: história, dividendos e volatilidade",
+    "description": "Conheça a Brava Energia S.A. (BRAV3): história, fusão com a Enauta, aquisição pela Ecopetrol, dividendos, volatilidade e desempenho da ação até 30/10/2026.",
+    "h1": "BRAV3: Brava Energia S.A.",
+    "canonicalPath": "/acoes/brav3",
+    "keywords": [
+      "BRAV3",
+      "Brava Energia",
+      "ação de petróleo",
+      "dividendos BRAV3",
+      "volatilidade BRAV3",
+      "Ecopetrol Brava",
+      "Polo Potiguar",
+      "Campo Papa-Terra"
+    ]
+  },
+  "summary": "BRAV3 é a ação ordinária da Brava Energia S.A., empresa brasileira do setor de petróleo e gás focada em campos maduros e ativos em produção. Formada pela fusão entre a 3R Petroleum e a Enauta em 2024, a companhia opera na B3 desde 2020. Em 17/08/2026, a Ecopetrol concluiu a aquisição do controle da Brava. Até 30/10/2026, a ação cotava a R$ 18,29, com rentabilidade total de 26,38% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Brava Energia S.A.",
+    "legalName": "BRAVA ENERGIA S.A.",
+    "ticker": "BVMF BRAV3",
+    "isin": "BRBRAVACNOR3",
+    "taxId": "12.091.809/0001-55",
+    "foundingDate": "2010-06-08",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/Brava_Energia",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25291/BRAV/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Brava Energia S.A.",
+    "legalName": "BRAVA ENERGIA S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Petróleo, Gás e Biocombustíveis",
+    "segment": "Exploração, Refino e Distribuição",
+    "founded": "08/06/2010",
+    "listedSince": "12/11/2020",
+    "headquarters": "Rio de Janeiro (RJ)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "BRAVA ENERGIA S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "12.091.809/0001-55",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Petróleo, Gás e Biocombustíveis / Exploração, Refino e Distribuição",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "08/06/2010",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "12/11/2020",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "BRAV3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 18,29",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "39,17% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,62",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,68%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BRAV3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Brava Energia S.A.",
+    "currency": "BRL",
+    "price": 18.29,
+    "historyStarts": "2020-11-12",
+    "returns": {
+      "1y": 0.2638,
+      "3y": -0.4114,
+      "5y": -0.4566,
+      "10y": null
+    },
+    "volatility1y": 0.3917,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.731,
+      "from": "2022-11-04",
+      "to": "2025-12-11"
+    },
+    "beta1y": {
+      "value": 0.62,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.1236,
+      "payments12Months": 1,
+      "yield12Months": 0.0068,
+      "lastPayment": {
+        "date": "2026-04-22",
+        "amount": 0.123602
+      }
+    },
+    "avgDailyTradedValue3m": 94200359
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da BRAV3 é de 39,17% nos últimos 12 meses, nível 'alta'. O beta da ação contra o Ibovespa é 0,62, o que indica que a BRAV3 costuma acompanhar os movimentos do índice com menor intensidade, na mesma direção. A maior queda nos últimos 5 anos foi de -73,10%, do pico em 04/11/2022 ao ponto mais baixo em 11/12/2025. Essa volatilidade é típica de ações de empresas de petróleo e gás, que são sensíveis a mudanças na cotação do petróleo e a eventos regulatórios. Para acompanhar a volatilidade e definir alertas de preço, utilize o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "A Brava Energia S.A. nasceu da fusão entre a 3R Petroleum e a Enauta, concluída em 2024. A 3R Petroleum, fundada em 2014, focava em redesenvolver campos maduros e adquiriu o Polo Potiguar da Petrobras em 2022. A Enauta, originária da Queiroz Galvão, possuía ativos como o Campo de Papa-Terra e o Campo de Atlanta no pré-sal. A 3R Petroleum fez seu IPO na B3 em 12/11/2020, captando R$ 600 milhões. Em 2026, a companhia passou por uma mudança de controle acionário, com a Ecopetrol assumindo a maioria das ações por meio de uma Oferta Pública de Aquisição (OPA) concluída em 17/08/2026. A empresa também encerrou a transação para venda de concessões no Rio Grande do Norte em 17/09/2026 e iniciou a produção do poço PPT-52 no Campo de Papa-Terra em 29/09/2026.",
+    "timeline": [
+      {
+        "date": "2010-06-08",
+        "event": "Constituição da companhia (antecedente da Brava Energia).",
+        "source": 2
+      },
+      {
+        "date": "2020-11-09",
+        "event": "Registro como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2020-11-12",
+        "event": "Início da cotação das ações na B3 (IPO da 3R Petroleum).",
+        "source": 1
+      },
+      {
+        "date": "2026-07-15",
+        "event": "Decisão do Colegiado CVM sobre Recurso da Ecopetrol.",
+        "source": 11
+      },
+      {
+        "date": "2026-07-20",
+        "event": "Reapresentação do Edital da Oferta Pública de Aquisição de Ações.",
+        "source": 10
+      },
+      {
+        "date": "2026-07-24",
+        "event": "Manifestação do Conselho de Administração sobre a OPA.",
+        "source": 9
+      },
+      {
+        "date": "2026-08-05",
+        "event": "Resultado do Leilão Referente à OPA Lançada pela Ecopetrol.",
+        "source": 8
+      },
+      {
+        "date": "2026-08-10",
+        "event": "Celebração, Alteração ou Rescisão de Acordo de Acionistas.",
+        "source": 7
+      },
+      {
+        "date": "2026-08-17",
+        "event": "Conclusão da Operação de Aquisição do Controle da Brava pela Ecopetrol.",
+        "source": 6
+      },
+      {
+        "date": "2026-09-17",
+        "event": "Encerramento da Transação para Venda de Concessões no Rio Grande do Norte.",
+        "source": 5
+      },
+      {
+        "date": "2026-09-29",
+        "event": "Atualizações sobre o Campo de Papa-Terra: Início da Produção do Poço PPT-52.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Brava Energia S.A. ganha dinheiro",
+      "body": "A Brava Energia S.A. atua na exploração, produção, refino e comercialização de petróleo, gás natural e derivados. A empresa também realiza tratamento, processamento, estocagem, liquefação e regaseificação de gás natural. O foco da companhia é a gestão eficiente de reservatórios e o desenvolvimento de campos maduros, com ativos localizados em bacias como a Potiguar e Campos. A receita provém da venda de petróleo e gás natural, além da operação de infraestrutura de processamento, como a Refinaria Clara Camarão e o Terminal Aquaviário de Guamoré, adquiridos junto ao Polo Potiguar."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Brava Energia S.A.",
+      "body": "A Brava Energia S.A. possui controle acionário privado, conforme a CVM. Desde 17/08/2026, a Ecopetrol é a controladora da empresa, após a conclusão da Operação de Aquisição do Controle. A ação BRAV3 é uma ação ordinária (ON), o que significa que o acionista tem direito a voto em assembleias. A empresa está listada no segmento Novo Mercado da B3, que exige maior transparência e governança corporativa. O código de negociação na bolsa é BRAV3."
+    },
+    {
+      "id": "proventos",
+      "heading": "BRAV3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a BRAV3 distribuiu R$ 0,1236 por ação em 1 pagamento, resultando em um dividend yield de 0,68%. O último pagamento foi de R$ 0,1236, com data de pagamento em 22/04/2026. A empresa não possui um histórico extenso de proventos, o que é comum para empresas em fase de crescimento e investimento em ativos. Para acompanhar os dividendos e JCP da BRAV3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da BRAV3",
+      "body": "Até 30/10/2026, a BRAV3 apresentava uma rentabilidade total com proventos de 26,38% nos últimos 12 meses, -41,14% em 3 anos e -45,66% em 5 anos. A ação cotava a R$ 18,29. O volume médio negociado por dia nos últimos 3 meses foi de R$ 94,2 milhões. Para comparar a rentabilidade da BRAV3 com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da BRAV3",
+      "body": "A BRAV3 possui uma volatilidade anualizada de 39,17% nos últimos 12 meses, classificada como nível 'alta'. A maior queda nos últimos 5 anos foi de -73,10%, do pico em 04/11/2022 ao ponto mais baixo em 11/12/2025. Os riscos incluem a exposição à cotação do petróleo, a dependência de ativos maduros e a transição de controle acionário. A empresa também enfrenta riscos regulatórios e operacionais, como a aprovação de transferências pela ANP. Para monitorar a volatilidade e definir alertas de preço, utilize o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BRAV3 paga dividendos?",
+      "answer": "Sim, a BRAV3 pagou R$ 0,1236 por ação em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 0,68%. O último pagamento foi em 22/04/2026. A empresa não possui um histórico extenso de proventos, o que é comum para empresas em fase de crescimento e investimento em ativos. Para acompanhar os dividendos e JCP da BRAV3, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre BRAV3 e BRAV4?",
+      "answer": "BRAV3 é a ação ordinária (ON) da Brava Energia S.A., o que significa que o acionista tem direito a voto em assembleias. BRAV4 seria a ação preferencial (PN), que tem preferência na distribuição de proventos, mas não tem direito a voto. A empresa possui apenas ações ON, ou seja, BRAV3."
+    },
+    {
+      "question": "Quem controla a Brava Energia?",
+      "answer": "Desde 17/08/2026, a Ecopetrol é a controladora da Brava Energia S.A., após a conclusão da Operação de Aquisição do Controle. A empresa possui controle acionário privado, conforme a CVM."
+    },
+    {
+      "question": "Qual o setor da Brava Energia?",
+      "answer": "A Brava Energia S.A. atua no setor de Petróleo, Gás e Biocombustíveis, com foco em exploração, produção, refino e comercialização de petróleo, gás natural e derivados. A empresa também realiza tratamento, processamento, estocagem, liquefação e regaseificação de gás natural."
+    },
+    {
+      "question": "Qual a rentabilidade da BRAV3 nos últimos 12 meses?",
+      "answer": "Até 30/10/2026, a BRAV3 apresentava uma rentabilidade total com proventos de 26,38% nos últimos 12 meses. A ação cotava a R$ 18,29. Para comparar a rentabilidade da BRAV3 com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Qual a volatilidade da BRAV3?",
+      "answer": "A volatilidade anualizada da BRAV3 é de 39,17% nos últimos 12 meses, nível 'alta'. O beta da ação contra o Ibovespa é 0,62. A maior queda nos últimos 5 anos foi de -73,10%, do pico em 04/11/2022 ao ponto mais baixo em 11/12/2025. Para monitorar a volatilidade e definir alertas de preço, utilize o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da BRAV3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da BRAV3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina alertas de preço para a BRAV3 e receba uma notificação quando o ativo chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a BRAV3 junto com suas outras ações, renda fixa e fundos em uma só visão, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petróleo Brasileiro S.A. (Petrobras) é a principal fornecedora de ativos para a Brava Energia, que adquiriu o Polo Potiguar e o Campo de Papa-Terra da estatal."
+      },
+      {
+        "ticker": "PRIO3",
+        "list": "br-stocks",
+        "reason": "Prio S.A. é outra empresa do setor de petróleo e gás, com foco em campos maduros, similar à estratégia da Brava Energia."
+      },
+      {
+        "ticker": "VBBR3",
+        "list": "br-stocks",
+        "reason": "Vibra Energia S.A. é uma empresa do setor de energia, com foco em geração de energia a partir de fontes renováveis, o que pode ser relevante para a"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BRAV3",
+      "url": "https://finance.yahoo.com/quote/BRAV3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BRAVA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25291/BRAV/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, BRAVA ENERGIA S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Brava Energia",
+      "url": "https://pt.wikipedia.org/wiki/Brava_Energia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/09/2026, “Atualizações sobre o Campo de Papa-Terra: Início da Produção do Poço PPT-52”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1572584&numSequencia=1097290&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/09/2026, “Encerramento da Transação para Venda de Concessões no Rio Grande do Norte”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569288&numSequencia=1093994&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/08/2026, “Conclusão da Operação de Aquisição do Controle da Brava pela Ecopetrol”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1558700&numSequencia=1083406&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/08/2026, “Celebração, Alteração ou Rescisão de Acordo de Acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1554606&numSequencia=1079312&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/08/2026, “Resultado do Leilão Referente à OPA Lançada pela Ecopetrol”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1552902&numSequencia=1077608&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/07/2026, “Manifestação do Conselho de Administração sobre a OPA”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1547954&numSequencia=1072660&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/07/2026, “Reapresentação do Edital da Oferta Pública de Aquisição de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1546429&numSequencia=1071135&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/07/2026, “Decisão do Colegiado CVM sobre Recurso da Ecopetrol”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1545317&numSequencia=1070023&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

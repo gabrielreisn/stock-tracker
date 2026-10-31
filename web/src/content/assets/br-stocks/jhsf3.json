@@ -1,0 +1,416 @@
+{
+  "ticker": "JHSF3",
+  "slug": "jhsf3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "JHSF3: história, dividendos e volatilidade",
+    "description": "JHSF3 é a ação ordinária da JHSF Participações, holding de shoppings e incorporações de alto padrão.",
+    "h1": "JHSF3: JHSF Participações",
+    "canonicalPath": "/acoes/jhsf3",
+    "keywords": [
+      "JHSF3",
+      "JHSF Participações",
+      "JHSF dividendos",
+      "JHSF3 rentabilidade",
+      "JHSF3 volatilidade",
+      "JHSF3 ação ordinária",
+      "JHSF3 Novo Mercado",
+      "JHSF3 shoppings"
+    ]
+  },
+  "summary": "JHSF3 é a ação ordinária da JHSF Participações, holding brasileira do setor de incorporações e shoppings de alto padrão. A empresa opera em quatro frentes: incorporação imobiliária, shoppings e varejo, hospitalidade e gastronomia, e aeroportos. Em 30/10/2026, a ação valia R$ 8,97, com dividend yield de 9,15% nos últimos 12 meses e rentabilidade total de 48,52% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "JHSF Participações",
+    "legalName": "JHSF PARTICIPAÇÕES SA",
+    "ticker": "BVMF JHSF3",
+    "isin": "BRJHSFACNOR2",
+    "taxId": "08.294.224/0001-65",
+    "foundingDate": "2006-06-29",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://ri.jhsf.com.br/",
+    "wikidata": "Q10304618",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q10304618",
+      "https://pt.wikipedia.org/wiki/JHSF",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20605/JHSF/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "JHSF Participações",
+    "legalName": "JHSF PARTICIPAÇÕES SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Incorporações",
+    "founded": "29/06/2006",
+    "listedSince": "12/04/2007",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://ri.jhsf.com.br/"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "JHSF PARTICIPAÇÕES SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "08.294.224/0001-65",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Incorporações",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "29/06/2006",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "12/04/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "JHSF3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 8,97",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "50,98% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,48",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,15%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "JHSF3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "JHSF Participações S.A.",
+    "currency": "BRL",
+    "price": 8.97,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.4852,
+      "3y": 1.7604,
+      "5y": 1.4591,
+      "10y": 7.493
+    },
+    "volatility1y": 0.5098,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5364,
+      "from": "2022-09-12",
+      "to": "2023-03-23"
+    },
+    "beta1y": {
+      "value": 1.48,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.821,
+      "payments12Months": 13,
+      "yield12Months": 0.0915,
+      "lastPayment": {
+        "date": "2026-10-29",
+        "amount": 0.069156
+      }
+    },
+    "avgDailyTradedValue3m": 52540138
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da JHSF3 nos últimos 12 meses é de 50,98%, nível muito alto 0. O beta da ação contra o Ibovespa é 1,48, o que significa que a JHSF3 tende a se mover com amplitude 1,48 vezes maior que o índice, na mesma direção 0. A maior queda em 5 anos foi de -53,64%, entre 12/09/2022 e 23/03/2023 0. Ações do setor de incorporações e shoppings costumam apresentar volatilidade elevada, dada a sensibilidade a mudanças no crédito e na demanda por imóveis de alto padrão. É possível acompanhar a volatilidade e configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "Fundada em 1972 como JHS pelos irmãos Fábio e José Roberto Auriemo, a empresa atuava inicialmente na construção civil. Em 1990, houve uma cisão: Fábio assumiu a operação que passou a se chamar JHSF, enquanto José Roberto seguiu com a JHSJ. A JHSF consolidou seu foco no mercado imobiliário de alto padrão e, em 2001, expandiu para a área de shoppings centers, construindo o Shopping Metrô Santa Cruz, o primeiro do país integrado a uma estação de metrô 4. Em 2006, lançou o complexo Cidade Jardim, que abriga o Shopping Cidade Jardim, e no ano seguinte abriu capital na B3, listando-se no Novo Mercado [1, 4]. A companhia adquiriu o controle dos hotéis e restaurantes do grupo Fasano entre 2007 e 2014, e inaugurou o aeroporto executivo São Paulo Catarina em 2019 4. Nos últimos anos, a JHSF tem realizado múltiplas emissões de debêntures para financiar seus projetos, com a 19ª emissão registrada em agosto de 2026 [5, 10, 12]. Em 2026, também anunciou um programa de recompra de ações 6.",
+    "timeline": [
+      {
+        "date": "1972",
+        "event": "Fundação da empresa com o nome JHS",
+        "source": 3
+      },
+      {
+        "date": "2006-06-29",
+        "event": "Constituição da JHSF Participações S.A.",
+        "source": 2
+      },
+      {
+        "date": "2007-04-04",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2007-04-12",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-05-29",
+        "event": "17ª Emissão de Debêntures",
+        "source": 12
+      },
+      {
+        "date": "2025-09-16",
+        "event": "Celebração de Acordo Vinculante para estruturação de um veículo de investimento",
+        "source": 11
+      },
+      {
+        "date": "2025-09-19",
+        "event": "18ª Emissão de Debêntures",
+        "source": 10
+      },
+      {
+        "date": "2025-11-05",
+        "event": "Encerramento da Ação Civil Pública",
+        "source": 9
+      },
+      {
+        "date": "2025-12-10",
+        "event": "Venda de estoques da Incorporação",
+        "source": 8
+      },
+      {
+        "date": "2026-02-27",
+        "event": "3ª Emissão de Debentures Simples de subsidiária (JHSF Malls S.A)",
+        "source": 7
+      },
+      {
+        "date": "2026-08-13",
+        "event": "Programa de recompra de ações",
+        "source": 6
+      },
+      {
+        "date": "2026-08-31",
+        "event": "Captação da 19ª Emissão de Debêntures Simples",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a JHSF Participações ganha dinheiro",
+      "body": "A JHSF Participações atua em quatro frentes de negócio: incorporação imobiliária, shoppings e varejo digital, hospitalidade e gastronomia, e aeroportos 1. A empresa desenvolve e administra projetos multiuso voltados para o público de alta renda, com foco em ativos que geram renda recorrente, como aluguéis de shoppings e hotéis 4. Dentre os empreendimentos administrados estão o Shopping Cidade Jardim, o Catarina Fashion Outlet, o Shopping Ponta Negra, os hotéis e restaurantes do grupo Fasano e o aeroporto executivo São Paulo Catarina 4. A companhia também possui operações internacionais, incluindo o Fasano Fifth Avenue em Nova York e o condomínio Las Piedras em Punta del Este, no Uruguai 4."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da JHSF Participações",
+      "body": "A JHSF Participações possui controle acionário privado, do tipo holding, segundo a CVM 2. A ação JHSF3 é uma ação ordinária (ON), o que significa que o acionista tem direito a voto em assembleias gerais e, em caso de liquidação, tem preferência sobre os acionistas preferenciais, mas não tem preferência no recebimento de dividendos [1, 2]. A empresa está listada no segmento de governança Novo Mercado da B3, que impõe regras de transparência e igualdade de tratamento aos acionistas 1. O código de negociação na B3 é JHSF3, e o nome de pregão é JHSF PART 1."
+    },
+    {
+      "id": "proventos",
+      "heading": "JHSF3 paga dividendos?",
+      "body": "JHSF3 paga proventos aos acionistas. Nos 12 meses até 30/10/2026, a empresa distribuiu R$ 0,8210 por ação em 13 pagamentos, o que corresponde a um dividend yield de 9,15% 0. O último pagamento foi de R$ 0,0692 em 29/10/2026 0. A empresa também anunciou um programa de recompra de ações em agosto de 2026 6. É possível acompanhar os dividendos e JCP da JHSF3 com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da JHSF3",
+      "body": "A rentabilidade total da JHSF3 com proventos foi de 48,52% nos 12 meses até 30/10/2026, 176,04% em 3 anos e 145,91% em 5 anos 0. Em 10 anos, a rentabilidade acumulada foi de 749,30% 0. O preço da ação em 30/10/2026 era R$ 8,97 0. Para comparar a rentabilidade da JHSF3 com o Ibovespa, o CDI e outros índices, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da JHSF3",
+      "body": "A JHSF3 apresenta volatilidade anualizada de 50,98% nos últimos 12 meses, classificada como muito alta 0. A maior queda em 5 anos foi de -53,64%, do pico em 12/09/2022 ao ponto mais baixo em 23/03/2023 0. O beta da ação contra o Ibovespa é 1,48, o que indica que a JHSF3 tende a acompanhar os movimentos do índice com amplitude maior 0. A empresa realiza múltiplas emissões de debêntures para financiar seus projetos, o que aumenta a alavancagem financeira [5, 10, 12]. O setor de incorporações é sensível a mudanças no crédito, na taxa de juros e na demanda por imóveis de alto padrão. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar as oscilações da JHSF3."
+    }
+  ],
+  "faq": [
+    {
+      "question": "JHSF3 paga dividendos?",
+      "answer": "Sim, JHSF3 paga proventos. Nos 12 meses até 30/10/2026, a empresa distribuiu R$ 0,8210 por ação em 13 pagamentos, com dividend yield de 9,15% 0. O último pagamento foi de R$ 0,0692 em 29/10/2026 0. É possível acompanhar os dividendos e JCP da JHSF3 no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "O que a JHSF Participações faz?",
+      "answer": "A JHSF Participações atua em quatro frentes: incorporação imobiliária, shoppings e varejo digital, hospitalidade e gastronomia, e aeroportos 1. A empresa desenvolve e administra projetos multiuso voltados para o público de alta renda, com foco em ativos que geram renda recorrente 4. Dentre os empreendimentos estão o Shopping Cidade Jardim, o Catarina Fashion Outlet, os hotéis e restaurantes do grupo Fasano e o aeroporto executivo São Paulo Catarina 4."
+    },
+    {
+      "question": "JHSF3 é ação ordinária ou preferencial?",
+      "answer": "JHSF3 é uma ação ordinária (ON) 1. Isso significa que o acionista tem direito a voto em assembleias gerais e, em caso de liquidação, tem preferência sobre os acionistas preferenciais, mas não tem preferência no recebimento de dividendos [1, 2]."
+    },
+    {
+      "question": "Qual a rentabilidade da JHSF3?",
+      "answer": "A rentabilidade total da JHSF3 com proventos foi de 48,52% nos 12 meses até 30/10/2026, 176,04% em 3 anos e 145,91% em 5 anos 0. Em 10 anos, a rentabilidade acumulada foi de 749,30% 0. Para comparar com o Ibovespa e outros índices, use a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "JHSF3 é volátil?",
+      "answer": "Sim, a volatilidade anualizada da JHSF3 nos últimos 12 meses é de 50,98%, nível muito alto 0. A maior queda em 5 anos foi de -53,64%, entre 12/09/2022 e 23/03/2023 0. O beta contra o Ibovespa é 1,48 0. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar as oscilações."
+    },
+    {
+      "question": "Onde a JHSF está listada?",
+      "answer": "A JHSF Participações está listada no segmento de governança Novo Mercado da B3, com o código de negociação JHSF3 1. A empresa foi registrada como companhia aberta na CVM em 04/04/2007 e começou a cotar na bolsa em 12/04/2007 [1, 2]."
+    },
+    {
+      "question": "A JHSF tem operações internacionais?",
+      "answer": "Sim, a JHSF possui operações internacionais. Entre os empreendimentos estão o Fasano Fifth Avenue em Nova York e o condomínio Las Piedras em Punta del Este, no Uruguai 4. A empresa também adquiriu um prédio art déco em Miami Beach, com o objetivo de abrir o Fasano Miami 4."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da JHSF3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da JHSF3 com o Ibovespa, o CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação quando a JHSF3 chegar ao preço que você escolheu, para acompanhar as oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a JHSF3 junto com as outras posições da sua carteira, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em JHSF3 e as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MULT3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de shoppings e incorporações de alto padrão na B3."
+      },
+      {
+        "ticker": "CYRE3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de incorporações imobiliárias na B3, com foco em projetos residenciais."
+      },
+      {
+        "ticker": "CURY3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de incorporações imobiliárias na B3, com foco em projetos residenciais e comerciais."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings, com exposição a ativos de renda recorrente similares aos da JHSF."
+      },
+      {
+        "ticker": "VISC11",
+        "list": "fiis",
+        "reason": "FII de shoppings, com exposição a ativos de renda recorrente similares aos da JHSF."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de JHSF3",
+      "url": "https://finance.yahoo.com/quote/JHSF3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: JHSF PART, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20605/JHSF/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, JHSF PARTICIPAÇÕES SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: JHSF Participações",
+      "url": "https://www.wikidata.org/wiki/Q10304618",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): JHSF",
+      "url": "https://pt.wikipedia.org/wiki/JHSF",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/08/2026, “Captação da 19ª Emissão de Debêntures Simples”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1563308&numSequencia=1088014&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/08/2026, “Programa de recompra de ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1557386&numSequencia=1082092&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/02/2026, “3ª Emissão de Debentures Simples de subsidiaria (JHSF Malls S.A)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1483602&numSequencia=1008308&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/12/2025, “Venda de estoques da Incorporação”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1455912&numSequencia=980624&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/11/2025, “Encerramento da Ação Civil Pública”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1439787&numSequencia=964499&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/09/2025, “18ª Emissão de Debêntures”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1425024&numSequencia=949736&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/09/2025, “Celebração de Acordo Vinculante para estruturação de um veículo de investimento”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1424154&numSequencia=948866&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/05/2025, “17ª Emissão de Debêntures”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1384732&numSequencia=909444&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

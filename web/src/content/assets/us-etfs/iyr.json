@@ -1,0 +1,276 @@
+{
+  "ticker": "IYR",
+  "slug": "iyr",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IYR: história, dividendos e volatilidade",
+    "description": "Conheça o IYR, o iShares U.S. Real Estate ETF: desempenho, dividendos, riscos e como investir no setor imobiliário americano a partir do Brasil.",
+    "h1": "IYR: iShares U.S. Real Estate ETF",
+    "canonicalPath": "/etfs/iyr",
+    "keywords": [
+      "IYR",
+      "iShares U.S. Real Estate ETF",
+      "ETF imobiliário",
+      "REITs",
+      "investir em imóveis nos EUA",
+      "dividendos IYR",
+      "volatilidade IYR",
+      "BlackRock iShares"
+    ]
+  },
+  "summary": "IYR é o iShares U.S. Real Estate ETF, um fundo cotado em bolsa que investe em empresas de imóveis comerciais nos Estados Unidos. Lançado em 19/06/2000 e gerido pela BlackRock, o ativo rendeu 8,42% nos 12 meses até 29/10/2026, com dividend yield de 2,40%. É uma ferramenta para exposição ao setor imobiliário americano sem comprar imóveis físicos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares U.S. Real Estate ETF",
+    "ticker": "ARCX IYR",
+    "foundingDate": "2000-06-19",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice imobiliário",
+    "issuerOrManager": "BlackRock (iShares)",
+    "trackedIndex": "Não especificado no dossiê",
+    "name": "iShares U.S. Real Estate ETF",
+    "founded": "19/06/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares U.S. Real Estate ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "19/06/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 99,47",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "13,94% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,28",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,40%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 562,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IYR",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares U.S. Real Estate ETF",
+    "currency": "USD",
+    "price": 99.47,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0842,
+      "3y": 0.447,
+      "5y": 0.0337,
+      "10y": 0.7364
+    },
+    "volatility1y": 0.1394,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.3374,
+      "from": "2021-12-31",
+      "to": "2023-10-25"
+    },
+    "beta1y": {
+      "value": 0.28,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.385,
+      "payments12Months": 4,
+      "yield12Months": 0.024,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.738
+      }
+    },
+    "avgDailyTradedValue3m": 562602210
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do IYR nos últimos 12 meses é de 13,94%, classificada como de nível baixo. O beta do fundo contra o S&P 500 é de 0,28, o que significa que, em média, o IYR tende a acompanhar os movimentos do índice em uma proporção menor, na mesma direção. A maior queda nos últimos 5 anos foi de -33,74%, entre 31/12/2021 e 25/10/2023. Para um ETF de imóveis, essa volatilidade é relativamente contida, mas o setor pode sofrer com aumentos de juros, que encarecem o financiamento de imóveis. O [alertas de preço](/recursos/alertas-de-preco) pode ser usado para monitorar oscilações significativas na cotação do IYR."
+  },
+  "history": {
+    "overview": "O IYR faz parte da linha de produtos iShares, uma marca de fundos de índice da BlackRock. A história da marca remonta a 1993, quando o primeiro ETF dos EUA, o SPDR S&P 500, foi lançado. Em 2000, a Barclays, que geria a marca iShares na época, lançou mais de 40 novos fundos para expandir o mercado de ETFs. A BlackRock adquiriu a marca e os negócios da Barclays em 2009 por mais de US$ 4 bilhões, consolidando a iShares como a maior emissora de ETFs nos EUA e globalmente. O IYR teve seu primeiro pregão em 19/06/2000, posicionando-se como um dos primeiros veículos de acesso ao setor imobiliário americano através de cotas negociáveis em bolsa. Desde então, o fundo acompanha a evolução do mercado de REITs (Real Estate Investment Trusts), que são empresas que possuem e operam imóveis geradores de renda, como escritórios, centros comerciais e apartamentos, permitindo que investidores tenham exposição a esse setor com a liquidez de uma ação.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Lançamento do primeiro ETF dos EUA, o SPDR S&P 500, pela State Street em cooperação com a American Stock Exchange.",
+        "source": 1
+      },
+      {
+        "date": "2000-06-19",
+        "event": "Primeiro pregão das cotas do IYR na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2009-03-16",
+        "event": "A Barclays confirma o plano de venda da marca iShares para a CVC Capital Partners por mais de US$ 4 bilhões.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IYR funciona",
+      "body": "O IYR é um ETF (Exchange-Traded Fund) gerido pela BlackRock, sob a marca iShares. Ele foi lançado em 19/06/2000 e tem como objetivo oferecer exposição ao setor imobiliário dos Estados Unidos. Diferente de um fundo tradicional, as cotas do IYR são negociadas em bolsa durante o horário comercial, com preços que variam ao longo do dia. O fundo investe em empresas de imóveis, conhecidas como REITs, que são companhias que possuem e operam ativos como escritórios, shoppings e apartamentos, e que são obrigadas a distribuir a maior parte de seus lucros como dividendos. O IYR não é um fundo alavancado ou inverso; ele busca replicar o desempenho de um índice de mercado imobiliário, sem multiplicar ou inverter os movimentos do mercado."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IYR",
+      "body": "As fontes disponíveis não detalham a composição exata das cotas do IYR, nem o índice específico que ele replica. Sabe-se que o fundo investe em empresas de imóveis comerciais nos Estados Unidos, que são classificadas como REITs (Real Estate Investment Trusts). Esses ativos podem incluir propriedades como edifícios de escritórios, centros de distribuição, hotéis e apartamentos. A falta de detalhes sobre o índice exato e a carteira no dossiê impede uma descrição mais precisa da alocação setorial ou dos principais componentes do fundo."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IYR a partir do Brasil",
+      "body": "Para investir no IYR a partir do Brasil, o investidor precisa abrir conta em uma corretora que opere no mercado americano ou em uma corretora brasileira que ofereça acesso a ativos estrangeiros. A compra é feita em dólares, o que introduz risco cambial: se o dólar se valorizar em relação ao real, o retorno em reais aumenta, e vice-versa. Além disso, é possível buscar exposição semelhante ao mercado imobiliário americano através de BDRs (Brazilian Depositary Receipts) ou outros ETFs listados na B3 que sigam índices de imóveis dos EUA, se disponíveis. O investidor deve considerar os custos de corretagem, a taxa de administração do fundo e a conversão cambial ao avaliar a viabilidade do investimento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IYR",
+      "body": "Até 29/10/2026, o IYR apresentou uma rentabilidade total de 8,42% nos últimos 12 meses, 44,70% em 3 anos, 3,37% em 5 anos e 73,64% em 10 anos. O fundo distribuiu US$ 2,3850 por cota em 4 pagamentos nos 12 meses até 29/10/2026, resultando em um dividend yield de 2,40%. O último pagamento foi de US$ 0,7380 em 15/09/2026. Para comparar esse desempenho com outros mercados, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade do IYR lado a lado com o S&P 500 e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IYR",
+      "body": "O principal risco do IYR é a exposição ao mercado imobiliário americano, que é sensível a mudanças nas taxas de juros, à oferta e demanda por imóveis e à economia geral dos EUA. A volatilidade anualizada do IYR nos últimos 12 meses foi de 13,94%, considerada de nível baixo. O beta do fundo contra o S&P 500 é de 0,28, o que indica que, historicamente, o IYR tende a se mover em menor proporção que o índice de mercado amplo. A maior queda nos últimos 5 anos foi de -33,74%, ocorrida entre o pico em 31/12/2021 e o ponto mais baixo em 25/10/2023. O risco cambial também é relevante para investidores brasileiros, pois o valor do IYR em reais depende da cotação do dólar."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o IYR?",
+      "answer": "O IYR é o iShares U.S. Real Estate ETF, um fundo cotado em bolsa que investe em empresas de imóveis comerciais nos Estados Unidos. Ele foi lançado em 19/06/2000 e é gerido pela BlackRock. O fundo oferece exposição ao setor imobiliário americano através de cotas negociáveis em bolsa."
+    },
+    {
+      "question": "O IYR paga dividendos?",
+      "answer": "Sim, o IYR distribui dividendos. Nos 12 meses até 29/10/2026, foram pagos US$ 2,3850 por cota em 4 pagamentos, resultando em um dividend yield de 2,40%. O último pagamento foi de US$ 0,7380 em 15/09/2026. É possível acompanhar os dividendos e JCP no app."
+    },
+    {
+      "question": "Qual a diferença entre IYR e um FII brasileiro?",
+      "answer": "O IYR é um ETF que investe em imóveis nos Estados Unidos, enquanto um FII brasileiro investe em imóveis no Brasil. O IYR é cotado em dólar, o que introduz risco cambial para investidores brasileiros. FIIs brasileiros são cotados em reais e seguem regras regulatórias da CVM. Ambos oferecem exposição ao setor imobiliário, mas em mercados diferentes."
+    },
+    {
+      "question": "Como investir no IYR a partir do Brasil?",
+      "answer": "Para investir no IYR, é necessário abrir conta em uma corretora que ofereça acesso ao mercado americano. A compra é feita em dólares, o que envolve risco cambial. Também é possível buscar exposição semelhante através de BDRs ou outros ETFs listados na B3, se disponíveis. O [open finance](/recursos/open-finance) pode ajudar a sincronizar as posições da corretora com a sua carteira."
+    },
+    {
+      "question": "Qual a volatilidade do IYR?",
+      "answer": "A volatilidade anualizada do IYR nos últimos 12 meses é de 13,94%, considerada de nível baixo. O beta do fundo contra o S&P 500 é de 0,28, indicando que o IYR tende a se mover em menor proporção que o índice de mercado amplo. A maior queda nos últimos 5 anos foi de -33,74%, entre 31/12/2021 e 25/10/2023."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o IYR junto com seus outros ativos, como ações e FIIs, em uma visão única da sua carteira."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do IYR e o preço médio da sua posição, com gráficos e dados detalhados."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IYR com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o IYR atingir o preço que você definiu, para monitorar oscilações."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Conecte sua corretora e confira as posições do IYR, quantidades e preço médio, em tempo real."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com o mercado amplo dos EUA."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq 100, para diversificação em tecnologia e crescimento."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF do mercado brasileiro, para exposição ao Ibovespa."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF do setor de tecnologia dos EUA, para comparação setorial."
+      },
+      {
+        "ticker": "XLF",
+        "list": "us-etfs",
+        "reason": "ETF do setor financeiro dos EUA, para diversificação setorial."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IYR",
+      "url": "https://finance.yahoo.com/quote/IYR/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Real estate investment trust (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Real_estate_investment_trust",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

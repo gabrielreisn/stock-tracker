@@ -1,0 +1,285 @@
+{
+  "ticker": "EWY",
+  "slug": "ewy",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "EWY: iShares MSCI South Korea ETF",
+    "description": "EWY é o iShares MSCI South Korea ETF, lançado em 2000. Veja desempenho, volatilidade, dividendos e como investir no Brasil. Cota em 30/10/2026: US$ 152,89.",
+    "h1": "EWY: iShares MSCI South Korea ETF",
+    "canonicalPath": "/etfs/ewy",
+    "keywords": [
+      "EWY",
+      "iShares MSCI South Korea ETF",
+      "ETF Coreia do Sul",
+      "investir em Coreia do Sul",
+      "ETF mercado emergente",
+      "EWY dividendos",
+      "EWY volatilidade",
+      "EWY beta"
+    ]
+  },
+  "summary": "EWY é o iShares MSCI South Korea ETF, lançado em 12/05/2000 e gerido pela iShares, marca da BlackRock. O ativo replica o índice MSCI South Korea, que acompanha as principais ações negociadas na bolsa de Seul. Em 30/10/2026, a cota valia US$ 152,89, com rentabilidade total de 64,10% nos últimos 12 meses. O volume médio diário é de US$ 2,70 bilhões, refletindo alta liquidez para um ETF de mercado emergente.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares MSCI South Korea ETF",
+    "ticker": "ARCX EWY",
+    "foundingDate": "2000-05-12",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice internacional",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "MSCI South Korea",
+    "name": "iShares MSCI South Korea ETF",
+    "founded": "12/05/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares MSCI South Korea ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "12/05/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 152,89",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "58,77% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,99",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,33%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 2,70 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EWY",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares MSCI South Korea ETF",
+    "currency": "USD",
+    "price": 152.89,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.641,
+      "3y": 1.9355,
+      "5y": 1.1263,
+      "10y": 2.3362
+    },
+    "volatility1y": 0.5877,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4063,
+      "from": "2022-01-12",
+      "to": "2022-09-30"
+    },
+    "beta1y": {
+      "value": 2.99,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.037,
+      "payments12Months": 1,
+      "yield12Months": 0.0133,
+      "lastPayment": {
+        "date": "2025-12-16",
+        "amount": 2.037
+      }
+    },
+    "avgDailyTradedValue3m": 2702804543
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do EWY é de 58,77% nos 12 meses até 30/10/2026, nível 'muito alta' para um ETF de mercado emergente. O beta de 2,99 contra o S&P 500 mostra que o ativo costuma acompanhar os movimentos do índice americano com amplitude quase três vezes maior, na mesma direção. A maior queda em 5 anos foi de -40,63%, do pico em 12/01/2022 ao ponto mais baixo em 30/09/2022. Para um ETF que replica um mercado emergente, essa volatilidade é elevada, mas coerente com a exposição a um único país e a setores concentrados. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite visualizar a trajetória e a variação do dia, enquanto [alertas de preço](/recursos/alertas-de-preco) notificam quando a cota atinge níveis pré-definidos."
+  },
+  "history": {
+    "overview": "O iShares MSCI South Korea ETF (EWY) começou a ser negociado em 12/05/2000, fruto do esforço estratégico da Barclays Global Investors para expandir o mercado de ETFs na virada do século. Na época, a Barclays lançou mais de 40 novos fundos sob a marca iShares, renomeando os antigos WEBS (World Equity Benchmark Shares), que já existiam desde os anos 90 em parceria com a Morgan Stanley. A iniciativa foi liderada por Lee Kranefuss, com assessoria de Nate Most, inventor do ETF, que atuava como conselheiro da Barclays. Em 2009, a BlackRock adquiriu a marca e o negócio da Barclays, consolidando a iShares como a maior emissora de ETFs nos Estados Unidos e no mundo. O ETF EWY passou a ser gerido pela BlackRock a partir dessa aquisição, mantendo o foco na replicação do índice MSCI South Korea, que reflete a economia sul-coreana, conhecida pelo 'Milagre do Rio Han' e pela transição de nação subdesenvolvida para uma das maiores economias da Ásia.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Lançamento do primeiro ETF nos EUA, o SPDR S&P 500, pela State Street em cooperação com a American Stock Exchange.",
+        "source": 1
+      },
+      {
+        "date": "2000",
+        "event": "Barclays lança mais de 40 novos fundos sob a marca iShares, renomeando os antigos WEBS.",
+        "source": 1
+      },
+      {
+        "date": "2000-05-12",
+        "event": "Primeiro pregão das cotas do iShares MSCI South Korea ETF (EWY).",
+        "source": 0
+      },
+      {
+        "date": "2006-11-07",
+        "event": "iShares anuncia a compra da unidade de ETFs da HypoVereinsbank por €240 milhões, consolidando sua posição na Europa.",
+        "source": 1
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma a venda da iShares para a CVC Capital Partners por mais de US$ 4 bilhões.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o EWY funciona",
+      "body": "O EWY é um ETF que replica o índice MSCI South Korea, sendo gerido pela iShares, marca da BlackRock. O ativo foi lançado em 12/05/2000, durante a expansão da linha iShares pela Barclays, que na época lançou mais de 40 novos fundos. Não se trata de um ETF alavancado ou inverso, portanto, não há rebalanceamento diário nem distorção de resultados em períodos longos. A cota acompanha a variação do índice subjacente, ajustada pela taxa de administração e pelos custos operacionais do fundo. A BlackRock assumiu a gestão da marca iShares em 2009, após a aquisição do negócio da Barclays."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do EWY",
+      "body": "O EWY segue o índice MSCI South Korea, que é mantido pela MSCI Inc., empresa americana sediada em Nova York e provedora global de índices de ações. O índice reflete as principais ações negociadas na bolsa de Seul, representando a economia sul-coreana, que em 2026 era a 4ª maior da Ásia e a 12ª do mundo, com PIB nominal de US$ 2,25 trilhões. As fontes não detalham as empresas específicas que compõem o índice, mas o MSCI é a principal referência de mercado para índices de ações fora dos EUA, com fundos de mais de US$ 16,5 trilhões baseados em seus índices em 2025."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no EWY a partir do Brasil",
+      "body": "Para investir no EWY a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso a mercados internacionais, como as bolsas dos Estados Unidos. O ativo é negociado em dólar, o que expõe o investidor ao risco cambial: variações no câmbio entre o real e o dólar impactam o retorno em reais, independentemente do desempenho do índice sul-coreano. Alternativamente, é possível buscar BDRs ou ETFs na B3 que sigam o mesmo índice MSCI South Korea, mas as fontes não listam ativos específicos na B3 para essa finalidade. O risco cambial é um fator central na decisão, pois o EWY não possui proteção cambial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do EWY",
+      "body": "Em 30/10/2026, a cota do EWY valia US$ 152,89. A rentabilidade total com proventos foi de 64,10% nos 12 meses, 193,55% em 3 anos, 112,63% em 5 anos e 233,62% em 10 anos. Esses números são expressos em dólar e não incluem o efeito cambial. Para comparar o desempenho do EWY com o S&P 500, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade da carteira lado a lado com o índice americano. A [carteira consolidada](/recursos/carteira-consolidada) permite visualizar a alocação do EWY junto a outros ativos, ajudando a entender o impacto da diversificação em mercados emergentes."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do EWY",
+      "body": "O EWY apresenta volatilidade anualizada de 58,77% nos 12 meses até 30/10/2026, classificada como 'muito alta'. O beta de 2,99 contra o S&P 500 indica que o ativo tende a se mover com amplitude quase três vezes maior que o índice americano, na mesma direção. A maior queda nos últimos 5 anos foi de -40,63%, entre 12/01/2022 e 30/09/2022. Riscos específicos incluem a exposição a um único mercado emergente (Coreia do Sul), o risco cambial (dólar/real) e a concentração em setores como tecnologia e semicondutores, que dominam o índice MSCI South Korea. A [volatilidade](/recursos/desempenho-e-preco-medio) pode ser monitorada no app, e [alertas de preço](/recursos/alertas-de-preco) ajudam a acompanhar movimentos bruscos sem sugerir operações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "EWY paga dividendos?",
+      "answer": "Sim, o EWY distribui proventos. Nos 12 meses até 30/10/2026, pagou US$ 2,0370 por cota em 1 pagamento, com dividend yield de 1,33%. O último pagamento foi em 16/12/2025. Os proventos são distribuídos pela iShares, gestora do ETF, e refletem os dividendos das empresas do índice MSCI South Korea."
+    },
+    {
+      "question": "Qual a diferença entre EWY e KORU?",
+      "answer": "O EWY é um ETF que replica o índice MSCI South Korea com exposição 1x, enquanto o [KORU](/etfs/koru) é um ETF alavancado 3x que busca 3 vezes a variação diária do mesmo índice. O EWY não tem rebalanceamento diário nem distorção de resultados em períodos longos, ao contrário do KORU. Para quem busca exposição simples ao mercado sul-coreano, o EWY é o ativo padrão; o KORU é voltado a estratégias de curto prazo."
+    },
+    {
+      "question": "EWY é um ETF alavancado?",
+      "answer": "Não, o EWY não é alavancado. Ele replica o índice MSCI South Korea com exposição 1x, sem rebalanceamento diário. A volatilidade alta (58,77%) e o beta de 2,99 refletem a exposição a um mercado emergente e a setores concentrados, não alavancagem. ETFs alavancados da Coreia do Sul, como o KORU, são produtos distintos."
+    },
+    {
+      "question": "Como investir no EWY do Brasil?",
+      "answer": "É possível comprar o EWY por uma corretora que ofereça acesso a mercados internacionais, como os EUA. O ativo é negociado em dólar, o que expõe o investidor ao risco cambial. Alternativamente, podem existir BDRs ou ETFs na B3 que sigam o mesmo índice, mas as fontes não listam ativos específicos. O [open finance](/recursos/open-finance) no app ajuda a conciliar posições de corretoras com a carteira consolidada."
+    },
+    {
+      "question": "Qual o risco cambial do EWY?",
+      "answer": "O EWY é cotado em dólar, então o investidor brasileiro está exposto à variação do câmbio real/dólar. Se o dólar se valorizar frente ao real, o retorno em reais aumenta, mesmo que o índice sul-coreano não tenha subido. Se o dólar se desvalorizar, o retorno em reais diminui. O risco cambial é um fator central na decisão de investir em ativos internacionais."
+    },
+    {
+      "question": "EWY é bom para diversificação?",
+      "answer": "O EWY oferece exposição a um mercado emergente (Coreia do Sul), o que pode diversificar uma carteira concentrada em mercados desenvolvidos ou em ações brasileiras. A [carteira consolidada](/recursos/carteira-consolidada) no app permite visualizar a alocação por classe e o impacto da diversificação. A [comparação com índices](/recursos/comparacao-com-indices) ajuda a entender o desempenho do EWY em relação ao S&P 500 e a outros benchmarks."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do EWY junto a outros ativos, com valor por classe e as maiores posições, para entender o impacto da diversificação em mercados emergentes."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do EWY com o S&P 500, Ibovespa e outros índices no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do EWY atinge o preço que você escolheu, útil para acompanhar movimentos bruscos em um ativo de alta volatilidade."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a trajetória de rentabilidade e a variação do dia do EWY, com gráfico interativo para medir períodos específicos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "iShares MSCI Emerging Markets ETF, que oferece exposição a todo o mercado emergente, não apenas à Coreia do Sul."
+      },
+      {
+        "ticker": "KORU",
+        "list": "us-etfs",
+        "reason": "Direxion Daily South Korea Bull 3X Shares, ETF alavancado 3x do mesmo índice MSCI South Korea, para estratégias de curto prazo."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "iShares MSCI Brazil ETF, para comparação com outro mercado emergente e exposição a ações brasileiras."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "State Street SPDR S&P 500 ETF Trust, para comparação com o mercado desenvolvido dos EUA e avaliação de risco/retorno."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EWY",
+      "url": "https://finance.yahoo.com/quote/EWY/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/MSCI",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Economy of South Korea (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_South_Korea",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

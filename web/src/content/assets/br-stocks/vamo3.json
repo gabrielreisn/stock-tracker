@@ -1,0 +1,384 @@
+{
+  "ticker": "VAMO3",
+  "slug": "vamo3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VAMO3: história, dividendos e volatilidade",
+    "description": "Conheça a VAMO3, ação da Vamos Locação de Caminhões. Veja rentabilidade, dividendos, volatilidade e histórico de eventos na B3.",
+    "h1": "VAMO3: Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+    "canonicalPath": "/acoes/vamo3",
+    "keywords": [
+      "VAMO3",
+      "Vamos Locação",
+      "ação VAMO3",
+      "dividendos VAMO3",
+      "volatilidade VAMO3",
+      "rentabilidade VAMO3",
+      "VAMO3 B3",
+      "Novo Mercado VAMO3"
+    ]
+  },
+  "summary": "VAMO3 é a ação ordinária da Vamos Locação de Caminhões, Máquinas e Equipamentos S.A., empresa do setor de consumo cíclico focada no aluguel de veículos pesados. A companhia, listada no Novo Mercado desde janeiro de 2021, registrou rentabilidade total de -22,08% nos 12 meses até 30/10/2026. O ativo apresenta volatilidade anualizada de 105,96% e distribuiu R$ 0,1401 em proventos no período, com dividend yield de 5,81%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+    "legalName": "VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S.A.",
+    "ticker": "BVMF VAMO3",
+    "isin": "BRVAMOACNOR7",
+    "taxId": "23.373.000/0001-32",
+    "foundingDate": "2015-09-21",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.grupovamos.com.br/",
+    "sameAs": [
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24716/VAMO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+    "legalName": "VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Aluguel de carros",
+    "founded": "21/09/2015",
+    "listedSince": "29/01/2021",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.grupovamos.com.br/"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "23.373.000/0001-32",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Aluguel de carros",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "21/09/2015",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "29/01/2021",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "VAMO3, VAMO99",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 2,41",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "105,96% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "3,51",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "5,81%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VAMO3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+    "currency": "BRL",
+    "price": 2.41,
+    "historyStarts": "2021-02-02",
+    "returns": {
+      "1y": -0.2208,
+      "3y": -0.6415,
+      "5y": -0.7454,
+      "10y": null
+    },
+    "volatility1y": 1.0596,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.828,
+      "from": "2022-11-04",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 3.51,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.1401,
+      "payments12Months": 1,
+      "yield12Months": 0.0581,
+      "lastPayment": {
+        "date": "2025-12-19",
+        "amount": 0.140115
+      }
+    },
+    "avgDailyTradedValue3m": 101862102
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da VAMO3 é de 105,96%, um nível muito alto para uma ação brasileira. O beta de 3,51 contra o Ibovespa mostra que o ativo tende a amplificar os movimentos do índice em 3,51 vezes, o que significa que em períodos de alta ou baixa do mercado, a VAMO3 costuma ter variações proporcionais maiores. A maior queda em 5 anos foi de -82,80%, entre 04/11/2022 e 30/10/2026. Para acompanhar essas oscilações, o recurso de [alertas de preço](/recursos/alertas-de-preco) permite definir limites de notificação."
+  },
+  "history": {
+    "overview": "A Vamos Locação de Caminhões, Máquinas e Equipamentos S.A. foi constituída em 21 de setembro de 2015 e obteve o registro de companhia aberta na CVM em 30 de abril de 2019. A empresa iniciou a cotação de suas ações na B3 em 29 de janeiro de 2021, adotando o segmento de listagem Novo Mercado, o que confere transparência e governança às suas práticas. O controle acionário é privado e a auditoria independente é realizada pela PricewaterhouseCoopers Auditores Independentes Ltda. O diretor de relações com investidores é Rodrigo Araujo de Faria. A companhia atua na locação e venda de caminhões, máquinas e equipamentos pesados, além de prestar serviços de manutenção de frota. Em 2026, a empresa passou por mudanças significativas na sua estrutura de capital e gestão, incluindo a verificação de condições precedentes para um aumento de capital em abril, a homologação desse aumento em maio e a implementação de um programa de recompra de ações também em maio. No mesmo mês, houve a eleição de um novo CEO, seguida pela nomeação de um CFO interino em agosto. A divulgação de prévias operacionais e de resultados, como a do 3º trimestre de 2026, marca a rotina de comunicação da companhia com o mercado.",
+    "timeline": [
+      {
+        "date": "2015-09-21",
+        "event": "Constituição da companhia",
+        "source": 2
+      },
+      {
+        "date": "2019-04-30",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2021-01-29",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-04-13",
+        "event": "Verificação das Condições Precedentes do Aumento de Capital",
+        "source": 10
+      },
+      {
+        "date": "2026-04-20",
+        "event": "Atingimento do montante mínimo para Aumento de Capital",
+        "source": 9
+      },
+      {
+        "date": "2026-05-15",
+        "event": "Homologação do Aumento de Capital Privado",
+        "source": 8
+      },
+      {
+        "date": "2026-05-20",
+        "event": "Início do Programa de recompra de ações",
+        "source": 7
+      },
+      {
+        "date": "2026-05-28",
+        "event": "Eleição de novo CEO",
+        "source": 6
+      },
+      {
+        "date": "2026-07-16",
+        "event": "Divulgação de Prévia Operacional 2T26",
+        "source": 5
+      },
+      {
+        "date": "2026-08-10",
+        "event": "Eleição de CFO interino",
+        "source": 4
+      },
+      {
+        "date": "2026-10-21",
+        "event": "Divulgação de Prévia de resultados 3T26",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Vamos Locação de Caminhões, Máquinas e Equipamentos S.A. ganha dinheiro",
+      "body": "A Vamos Locação de Caminhões, Máquinas e Equipamentos S.A. atua na locação e venda de caminhões, máquinas e equipamentos pesados. A empresa também oferece serviços de manutenção de frota, abrangendo tanto a manutenção preventiva quanto a corretiva. Essa operação posiciona a companhia no setor de consumo cíclico, especificamente no segmento de aluguel de carros, segundo a classificação da B3. A receita provém da disponibilização desses ativos para o mercado, atendendo à demanda por mobilidade e operação de equipamentos pesados."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+      "body": "O controle acionário da Vamos Locação de Caminhões, Máquinas e Equipamentos S.A. é privado, conforme o cadastro na CVM. A empresa está listada no segmento Novo Mercado da B3, o que implica práticas de governança corporativa e transparência. As ações são negociadas sob os códigos VAMO3 (ação ordinária) e VAMO99 (unit). A ação ordinária (ON) confere direito a voto nas assembleias gerais e, em caso de liquidação, preferência em relação às ações preferenciais, que possuem prioridade no recebimento de dividendos e JCP."
+    },
+    {
+      "id": "proventos",
+      "heading": "VAMO3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a VAMO3 distribuiu R$ 0,1401 por ação em 1 pagamento, resultando em um dividend yield de 5,81%. O último provento registrado foi de R$ 0,1401, com data de pagamento em 19/12/2025. Os investidores podem acompanhar o histórico de dividendos e JCP da VAMO3, com datas de competência e pagamento, através do recurso de [dividendos e JCP no app](/recursos/proventos), que multiplica os valores pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da VAMO3",
+      "body": "A rentabilidade total da VAMO3, incluindo proventos, foi de -22,08% nos 12 meses até 30/10/2026. No período de 3 anos, a queda acumulada foi de -64,15%, e em 5 anos, de -74,54%. O preço em 30/10/2026 era de R$ 2,41. Para avaliar o desempenho da VAMO3 em comparação com o mercado, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que exibe a rentabilidade lado a lado com o Ibovespa, CDI e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da VAMO3",
+      "body": "A VAMO3 apresenta volatilidade anualizada de 105,96% nos últimos 12 meses, classificada como nível muito alta. A maior queda nos últimos 5 anos foi de -82,80%, ocorrendo do pico em 04/11/2022 ao ponto mais baixo em 30/10/2026. O beta de 3,51 indica que os movimentos do ativo tendem a ser 3,51 vezes maiores que os do Ibovespa, na mesma direção. O setor de consumo cíclico e aluguel de veículos é sensível a ciclos econômicos. Investidores podem configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar flutuações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VAMO3 paga dividendos?",
+      "answer": "Sim, a VAMO3 distribuiu R$ 0,1401 por ação em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 5,81%. O último pagamento foi em 19/12/2025. É possível acompanhar o histórico completo de proventos no app."
+    },
+    {
+      "question": "Qual a diferença entre VAMO3 e VAMO99?",
+      "answer": "VAMO3 é a ação ordinária da Vamos Locação, enquanto VAMO99 é a unit. A ação ordinária (ON) tem direito a voto em assembleias, enquanto a unit geralmente agrupa ações de diferentes classes, como ordinárias e preferenciais, em uma única unidade de negociação."
+    },
+    {
+      "question": "Qual o setor da VAMO3?",
+      "answer": "A VAMO3 está classificada no setor de Consumo Cíclico, no segmento de Aluguel de carros, segundo a B3. A CVM classifica a atividade como Serviços Transporte e Logística. A empresa atua na locação e venda de caminhões, máquinas e equipamentos pesados."
+    },
+    {
+      "question": "Qual a rentabilidade da VAMO3 em 12 meses?",
+      "answer": "A rentabilidade total da VAMO3, incluindo proventos, foi de -22,08% nos 12 meses até 30/10/2026. Para comparar esse desempenho com o Ibovespa ou CDI, utilize a ferramenta de comparação com índices do app."
+    },
+    {
+      "question": "Quando a VAMO3 começou a ser negociada na B3?",
+      "answer": "A VAMO3 começou a ser negociada na B3 em 29 de janeiro de 2021. A companhia foi constituída em 2015 e obteve registro na CVM em 2019."
+    },
+    {
+      "question": "Qual a volatilidade da VAMO3?",
+      "answer": "A volatilidade anualizada da VAMO3 é de 105,96%, considerada muito alta. O beta é de 3,51, indicando alta sensibilidade aos movimentos do Ibovespa. A maior queda em 5 anos foi de -82,80%."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da VAMO3 com data de competência e pagamento, multiplicados pela sua quantidade de ações."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da VAMO3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a VAMO3 atingir o preço que você definiu, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a VAMO3 junto com outros ativos na sua carteira, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RENT3",
+        "list": "br-stocks",
+        "reason": "Localiza Rent a Car, empresa do mesmo setor de aluguel de veículos, mas focada em carros de passeio."
+      },
+      {
+        "ticker": "MOVI3",
+        "list": "br-stocks",
+        "reason": "Movida Participações, outra empresa do setor de aluguel de veículos, com foco em carros de passeio e comerciais leves."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petrobras, ação do setor de consumo cíclico, para comparação de desempenho em setores sensíveis a ciclos econômicos."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Vale S.A., ação de commodities, para comparação de volatilidade e desempenho em ativos cíclicos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VAMO3",
+      "url": "https://finance.yahoo.com/quote/VAMO3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: VAMOS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24716/VAMO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, VAMOS LOCAÇÃO DE CAMINHÕES, MÁQUINAS E EQUIPAMENTOS S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 21/10/2026, “Prévia de resultados 3T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1578909&numSequencia=1103615&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/08/2026, “Eleição de CFO interino”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1554658&numSequencia=1079364&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/07/2026, “Divulgação de Prévia Operacional 2T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1545576&numSequencia=1070282&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/05/2026, “Eleição de novo CEO”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1527703&numSequencia=1052409&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/05/2026, “Programa de recompra de ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1525177&numSequencia=1049883&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/05/2026, “Homologação do Aumento de Capital Privado”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1523294&numSequencia=1048000&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/04/2026, “Fato Relevante - atingimento do montante mínimo para Aumento de Capital”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1506464&numSequencia=1031170&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/04/2026, “Verificação das Condições Precedentes do Aumento de Capital”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504196&numSequencia=1028902&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

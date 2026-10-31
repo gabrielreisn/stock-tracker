@@ -1,0 +1,416 @@
+{
+  "ticker": "ASAI3",
+  "slug": "asai3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ASAI3: história, dividendos e volatilidade",
+    "description": "ASAI3 é a ação ordinária da SENDAS DISTRIBUIDORA S.A., empresa da rede Assaí Atacadista. Veja história, dividendos, volatilidade e desempenho da ação.",
+    "h1": "ASAI3: Assaí Atacadista (SENDAS DISTRIBUIDORA S.A.)",
+    "canonicalPath": "/acoes/asai3",
+    "keywords": [
+      "ASAI3",
+      "Assaí Atacadista",
+      "SENDAS DISTRIBUIDORA S.A.",
+      "ação ordinária",
+      "dividendos ASAI3",
+      "volatilidade ASAI3",
+      "B3",
+      "Novo Mercado"
+    ]
+  },
+  "summary": "ASAI3 é a ação ordinária da SENDAS DISTRIBUIDORA S.A., empresa controladora da rede Assaí Atacadista, que opera mais de 300 lojas de atacarejo em 24 estados e no Distrito Federal. A companhia, listada no Novo Mercado da B3 desde 01/03/2021, atua no segmento de alimentos e consumo não cíclico. Em 30/10/2026, a ação cotava a R$ 7,94, com uma volatilidade anualizada de 75,88% e rentabilidade total negativa de 6,00% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Assaí Atacadista",
+    "legalName": "SENDAS DISTRIBUIDORA S.A.",
+    "ticker": "BVMF ASAI3",
+    "isin": "BRASAIACNOR0",
+    "taxId": "06.057.223/0001-71",
+    "foundingDate": "2003-12-18",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.assai.com.br/",
+    "wikidata": "Q28679415",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q28679415",
+      "https://pt.wikipedia.org/wiki/Assa%C3%AD_Atacadista",
+      "https://en.wikipedia.org/wiki/Assa%C3%AD_Atacadista",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25372/ASAI/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Assaí Atacadista",
+    "legalName": "SENDAS DISTRIBUIDORA S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo não Cíclico",
+    "segment": "Alimentos",
+    "founded": "18/12/2003",
+    "listedSince": "01/03/2021",
+    "headquarters": "São Paulo (SP)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "SENDAS DISTRIBUIDORA S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "06.057.223/0001-71",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo não Cíclico / Alimentos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "18/12/2003",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "01/03/2021",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "ASAI3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 7,94",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "75,88% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,46",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,31%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ASAI3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Sendas Distribuidora S.A.",
+    "currency": "BRL",
+    "price": 7.94,
+    "historyStarts": "2021-03-01",
+    "returns": {
+      "1y": -0.06,
+      "3y": -0.2525,
+      "5y": -0.4454,
+      "10y": null
+    },
+    "volatility1y": 0.7588,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7555,
+      "from": "2023-01-25",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 2.46,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.1043,
+      "payments12Months": 1,
+      "yield12Months": 0.0131,
+      "lastPayment": {
+        "date": "2026-01-07",
+        "amount": 0.104345
+      }
+    },
+    "avgDailyTradedValue3m": 171697680
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 75,88% da ASAI3, medida nos 12 meses até 30/10/2026, é classificada como muito alta. O beta de 2,46 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com amplitude 2,46 vezes maior. A maior queda em 5 anos foi de -75,55%, entre 25/01/2023 e 18/12/2024. Esse nível de volatilidade é elevado para uma ação de consumo não cíclico, refletindo a sensibilidade da empresa a fatores de mercado e setoriais."
+  },
+  "history": {
+    "overview": "A história da Assaí Atacadista começa em outubro de 1974, quando Rodolfo Jungi Nagai fundou a empresa em São Paulo. Em 2007, a GPA comprou 60% do capital por R$ 208 milhões, adquirindo o restante em 2009 por R$ 175 milhões. A partir de 2011, sob a gestão de Belmiro Gomes, a rede passou por reestruturação e expansão, abrindo 27 lojas entre 2013 e 2015. A constituição formal da SENDAS DISTRIBUIDORA S.A. ocorreu em 18/12/2003, com registro na CVM em 11/12/2020. Em 01/03/2021, a empresa foi cindida do GPA e suas ações passaram a ser negociadas na B3. Em outubro de 2021, a Assaí adquiriu 66 pontos do Extra Hiper, o que permitiu a entrada em regiões centrais das capitais, resultando na inauguração de 60 novas lojas em 2022. Em 2023, a companhia tornou-se uma corporation, sem controlador único, e foi considerada a varejista mais presente nos lares brasileiros pela NielsenIQ Homescan.",
+    "timeline": [
+      {
+        "date": "2003-12-18",
+        "event": "Constituição da companhia SENDAS DISTRIBUIDORA S.A.",
+        "source": 2
+      },
+      {
+        "date": "2020-12-11",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2021-03-01",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-02-04",
+        "event": "Eleição do Vice-Presidente de Finanças",
+        "source": 13
+      },
+      {
+        "date": "2026-03-16",
+        "event": "Mudanças na diretoria estatutária",
+        "source": 12
+      },
+      {
+        "date": "2026-03-27",
+        "event": "Aprovação do terceiro programa de recompra de ações de emissão da Companhia",
+        "source": 11
+      },
+      {
+        "date": "2026-04-27",
+        "event": "Programa de aquisição facultativa de debêntures em valor total de R$ 200 milhões",
+        "source": 10
+      },
+      {
+        "date": "2026-05-05",
+        "event": "Indicação das instituições intermediárias do Programa de Aquisição Facultativa de debêntures",
+        "source": 9
+      },
+      {
+        "date": "2026-08-06",
+        "event": "Eleição de Rafael Sachete da Silva para Diretor de Relações com Investidores",
+        "source": 8
+      },
+      {
+        "date": "2026-09-17",
+        "event": "Celebração ou Extinção de Contrato",
+        "source": 6
+      },
+      {
+        "date": "2026-09-17",
+        "event": "2º Programa de Aquisição de Debêntures",
+        "source": 7
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Assaí Atacadista ganha dinheiro",
+      "body": "A SENDAS DISTRIBUIDORA S.A. atua como atacadista de autosserviços, operando a rede Assaí Atacadista. A empresa possui mais de 302 lojas em 24 estados brasileiros e no Distrito Federal, empregando mais de 87 mil funcionários. O modelo de negócio baseia-se na venda de produtos de consumo em grandes volumes, com foco na experiência de compra e no mix de produtos. Em 2022, a companhia lançou o Instituto Assaí, voltado a iniciativas de empreendedorismo, segurança alimentar e esporte. A empresa é classificada pelo setor de Consumo não Cíclico, segmento de Alimentos, segundo a B3."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Assaí Atacadista",
+      "body": "ASAI3 é a ação ordinária da SENDAS DISTRIBUIDORA S.A., negociada na B3 sob o código ASSAI. A empresa está listada no segmento de governança Novo Mercado, o que implica a adoção de práticas de governança corporativa mais rígidas. Desde 2023, a companhia é uma corporation, ou seja, não possui controlador único, com todas as ações negociadas livremente no mercado. As ações ordinárias (ON) dão direito a voto em assembleias e, em caso de liquidação, têm preferência sobre as ações preferenciais (PN) após a satisfação destas. A empresa possui apenas ações ordinárias negociadas."
+    },
+    {
+      "id": "proventos",
+      "heading": "ASAI3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a ASAI3 distribuiu R$ 0,1043 por ação em 1 pagamento, resultando em um dividend yield de 1,31%. O último provento foi pago em 07/01/2026. A empresa aprovou o terceiro programa de recompra de ações em 27/03/2026, o que pode impactar a oferta de ações no mercado. Para acompanhar os dividendos e JCP com data com e data de pagamento, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da ASAI3",
+      "body": "A rentabilidade total da ASAI3 com proventos foi de -6,00% nos 12 meses até 30/10/2026, -25,25% em 3 anos e -44,54% em 5 anos. O volume médio negociado por dia nos últimos 3 meses foi de R$ 171,7 milhões. Para comparar o desempenho da ASAI3 com o Ibovespa, CDI e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da ASAI3",
+      "body": "A volatilidade anualizada da ASAI3 nos últimos 12 meses é de 75,88%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -75,55%, do pico em 25/01/2023 ao ponto mais baixo em 18/12/2024. O beta de 2,46 indica que a ação tende a oscilar mais que o Ibovespa. Riscos setoriais incluem a sensibilidade a mudanças no consumo de alimentos e a concorrência no atacarejo. A empresa também enfrenta riscos relacionados à sua estrutura de capital, com programas de aquisição de debêntures e recompra de ações. Para monitorar movimentos de preço, use os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ASAI3 paga dividendos?",
+      "answer": "Sim, a ASAI3 distribuiu R$ 0,1043 por ação em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 1,31%. O último pagamento foi em 07/01/2026. Para acompanhar os proventos, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre ASAI3 e ASAI4?",
+      "answer": "ASAI3 é a ação ordinária, que dá direito a voto em assembleias. ASAI4 é a ação preferencial, que tem prioridade no recebimento de dividendos e JCP, mas não dá direito a voto. A empresa possui apenas ações ordinárias negociadas."
+    },
+    {
+      "question": "ASAI3 é FII de papel ou de tijolo?",
+      "answer": "ASAI3 não é um FII. É a ação ordinária da SENDAS DISTRIBUIDORA S.A., empresa do setor de consumo não cíclico, segmento de alimentos."
+    },
+    {
+      "question": "Qual a volatilidade da ASAI3?",
+      "answer": "A volatilidade anualizada da ASAI3 nos 12 meses até 30/10/2026 é de 75,88%, classificada como muito alta. O beta contra o Ibovespa é de 2,46. Para monitorar movimentos de preço, use os [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Como a Assaí Atacadista ganha dinheiro?",
+      "answer": "A empresa atua como atacadista de autosserviços, operando a rede Assaí Atacadista com mais de 302 lojas em 24 estados e no Distrito Federal. O modelo baseia-se na venda de produtos de consumo em grandes volumes, com foco na experiência de compra e no mix de produtos."
+    },
+    {
+      "question": "ASAI3 é uma corporation?",
+      "answer": "Sim, desde 2023 a SENDAS DISTRIBUIDORA S.A. é uma corporation, ou seja, não possui controlador único, com todas as ações negociadas livremente no mercado."
+    },
+    {
+      "question": "Qual o volume médio negociado da ASAI3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses até 30/10/2026 foi de R$ 171,7 milhões. Para acompanhar o desempenho e o preço médio, use o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da ASAI3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da ASAI3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a ASAI3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho, variação do dia e do ano."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Ações da B3 e dos EUA, renda fixa e fundos em uma só visão: valor por classe, alocação e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ABEV3",
+        "list": "br-stocks",
+        "reason": "Ambev S.A., empresa do setor de consumo não cíclico, segmento de alimentos e bebidas."
+      },
+      {
+        "ticker": "MGLU3",
+        "list": "br-stocks",
+        "reason": "Magazine Luiza S.A., empresa do setor de consumo cíclico, segmento de varejo."
+      },
+      {
+        "ticker": "LREN3",
+        "list": "br-stocks",
+        "reason": "Lojas Renner S.A., empresa do setor de consumo cíclico, segmento de varejo de moda."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petróleo Brasileiro S.A. - Petrobras, empresa do setor de energia, com alta volatilidade e beta elevado."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Vale S.A., empresa do setor de materiais básicos, com alta volatilidade e beta elevado."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ASAI3",
+      "url": "https://finance.yahoo.com/quote/ASAI3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ASSAI, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25372/ASAI/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, SENDAS DISTRIBUIDORA S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Assaí Atacadista",
+      "url": "https://www.wikidata.org/wiki/Q28679415",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Assaí Atacadista",
+      "url": "https://pt.wikipedia.org/wiki/Assa%C3%AD_Atacadista",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Assaí Atacadista",
+      "url": "https://en.wikipedia.org/wiki/Assa%C3%AD_Atacadista",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/09/2026, “Celebração ou Extinção de Contrato”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569287&numSequencia=1093993&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/09/2026, “2º Programa de Aquisição de Debêntures”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569290&numSequencia=1093996&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/08/2026, “Eleição do Sr. Rafael Sachete da Silva para o cargo de Diretor de Relações com Investidores”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1553630&numSequencia=1078336&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/05/2026, “Indicação das instituições intermediárias do Programa de Aquisição Facultativa de debêntures da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1516135&numSequencia=1040841&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/04/2026, “Programa de aquisição facultativa de debêntures de determinadas emissões da Companhia, em valor total de R$200 milhões”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1509265&numSequencia=1033971&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/03/2026, “Aprovação do terceiro programa de recompra de ações de emissão da Companhia.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1497419&numSequencia=1022125&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/03/2026, “Mudanças na diretoria estatutária”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1490841&numSequencia=1015547&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/02/2026, “Eleição VP de Finanças”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473376&numSequencia=998082&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

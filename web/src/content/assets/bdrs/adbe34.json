@@ -1,0 +1,280 @@
+{
+  "ticker": "ADBE34",
+  "slug": "adbe34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ADBE34: BDR da Adobe, desempenho e riscos",
+    "description": "Conheça o ADBE34, BDR não patrocinado da Adobe Inc. na B3. Veja desempenho, volatilidade, riscos cambiais e como acompanhar o ativo no app.",
+    "h1": "ADBE34: BDR da Adobe Inc. na B3",
+    "canonicalPath": "/bdrs/adbe34",
+    "keywords": [
+      "ADBE34",
+      "BDR Adobe",
+      "Adobe B3",
+      "BDR não patrocinado",
+      "risco cambial BDR",
+      "volatilidade ADBE34"
+    ]
+  },
+  "summary": "ADBE34 é o BDR não patrocinado de nível I da Adobe Inc., empresa americana de software sediada em San Jose, Califórnia. Negociado na B3 desde 08/04/2019, o recibo representa ações da Adobe na NASDAQ (ADBE) e é cotado em reais. Em 30/10/2026, o BDR valia R$ 27,01, com rentabilidade total de -26,18% nos últimos 12 meses, refletindo a variação do câmbio e o desempenho da ação original.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Adobe",
+    "legalName": "ADOBE INC",
+    "ticker": "BVMF ADBE34",
+    "foundingDate": "1982-02-28",
+    "website": "https://www.adobe.com/",
+    "wikidata": "Q11463",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q11463",
+      "https://en.wikipedia.org/wiki/Adobe_Inc.",
+      "https://pt.wikipedia.org/wiki/Adobe_Inc.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51519/ADBE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Adobe",
+    "legalName": "ADOBE INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "28/02/1982",
+    "listedSince": "08/04/2019",
+    "headquarters": "São José",
+    "website": "https://www.adobe.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "ADOBE INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: ADBE, Bolsa de Valores de Londres: ABS",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São José",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "28/02/1982",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "08/04/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 27,01",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "45,53% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original ADBE em dólares)",
+      "value": "0,25",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 817.455,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ADBE34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Adobe Inc.",
+    "currency": "BRL",
+    "price": 27.01,
+    "historyStarts": "2019-05-13",
+    "returns": {
+      "1y": -0.2618,
+      "3y": -0.4919,
+      "5y": -0.6272,
+      "10y": null
+    },
+    "volatility1y": 0.4553,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7428,
+      "from": "2021-11-29",
+      "to": "2026-06-22"
+    },
+    "beta1y": {
+      "value": 0.25,
+      "against": "S&P 500, ação original ADBE em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 817455
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do ADBE34 nos últimos 12 meses é de 45,53%, um nível considerado muito alto. O beta da ação original ADBE, contra o S&P 500, é de 0,25, o que indica que, historicamente, a ação da Adobe tende a se mover em menor amplitude que o índice, na mesma direção. No entanto, o BDR em reais adiciona o risco cambial, o que pode amplificar ou atenuar essa relação. A maior queda em 5 anos foi de -74,28%, entre 29/11/2021 e 22/06/2026, evidenciando a capacidade de perdas expressivas em períodos de correção no setor de tecnologia."
+  },
+  "history": {
+    "overview": "A Adobe Inc. foi fundada em 28/02/1982 por John Warnock e Charles Geschke, após saírem da Xerox PARC para desenvolver a linguagem PostScript. A empresa ganhou projeção internacional em 1985, quando a Apple licenciou o PostScript para suas impressoras LaserWriter, impulsionando a editoração eletrônica. Em 1986, a Adobe entrou no índice NASDAQ Composite. A década de 1990 marcou a expansão para o software de consumo com o lançamento do Photoshop em 1989 e a introdução do formato PDF e do Adobe Acrobat em 1993, que se tornou um padrão internacional em 2008. No início dos anos 2000, a empresa consolidou seu portfólio com a aquisição da Macromedia por US$ 3,4 bilhões, incorporando o Flash e o Dreamweaver, e lançou o Adobe Creative Suite em 2003. A transição para o modelo de assinatura com o Adobe Creative Cloud redefineu a receita recorrente da empresa. Em 2021, a Adobe era considerada líder global em Customer Experience Management (CXM), com mais de 26.000 funcionários. O BDR ADBE34 começou a ser negociado na B3 em 08/04/2019, permitindo que investidores brasileiros acompanhassem a empresa sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "1982-02-28",
+        "event": "Fundação da Adobe Inc. por John Warnock e Charles Geschke.",
+        "source": 2
+      },
+      {
+        "date": "1986-08",
+        "event": "Ação da Adobe é incluída no índice NASDAQ Composite.",
+        "source": 4
+      },
+      {
+        "date": "1989",
+        "event": "Lançamento do Adobe Photoshop, que se tornou o principal produto da empresa.",
+        "source": 4
+      },
+      {
+        "date": "1993",
+        "event": "Introdução do formato PDF e dos softwares Adobe Acrobat e Reader.",
+        "source": 3
+      },
+      {
+        "date": "2005",
+        "event": "Conclusão da aquisição da Macromedia por US$ 3,4 bilhões, incorporando Flash e Dreamweaver.",
+        "source": 3
+      },
+      {
+        "date": "2019-04-08",
+        "event": "Listagem do BDR ADBE34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Adobe ganha dinheiro",
+      "body": "A Adobe Inc. é uma empresa multinacional de software que oferece ferramentas para criação, edição e publicação de conteúdo digital. Seus produtos incluem o Adobe Photoshop para edição de imagens, o Adobe Illustrator para ilustração vetorial, o Adobe Acrobat e o formato PDF, além de softwares para edição de vídeo e áudio, como o Adobe Premiere Pro. A empresa também atua no mercado de marketing digital e gestão de experiência do cliente (CXM). Historicamente, a Adobe gerava receita com a venda de licenças perpétuas, mas migrou para um modelo de assinatura com o Adobe Creative Cloud, o que alterou a dinâmica de sua receita ao longo do tempo."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR ADBE34",
+      "body": "O ADBE34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele funciona como um recibo que representa a propriedade de ações da Adobe Inc., listadas na NASDAQ sob o ticker ADBE. O preço do BDR acompanha a cotação da ação original em dólares e a variação do câmbio entre o dólar e o real. O BDR foi listado na B3 em 08/04/2019. Por ser não patrocinado, ele não é emitido pela própria Adobe, mas por uma instituição depositária, o que pode implicar em menor liquidez e maior spread em comparação a BDRs patrocinados."
+    },
+    {
+      "id": "proventos",
+      "heading": "ADBE34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, o BDR ADBE34 não distribuiu proventos. A Adobe Inc. paga dividendos em dólares, mas a conversão para reais e a distribuição aos detentores do BDR dependem da instituição depositária e das regras do programa. A ausência de proventos no período recente significa que o retorno do investidor nesse intervalo veio exclusivamente da variação do preço do ativo."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ADBE34",
+      "body": "A rentabilidade total do ADBE34, incluindo proventos, foi de -26,18% nos 12 meses até 30/10/2026. No período de 3 anos, a queda acumulada foi de -49,19%, e em 5 anos, de -62,72%. Esses números refletem a variação do preço da ação original em dólares e o efeito do câmbio. Para comparar esse desempenho com o do mercado americano, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite visualizar a evolução da posição individualmente."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ADBE34",
+      "body": "O principal risco do ADBE34 é o cambial, pois o ativo é cotado em reais, mas lastreado em uma ação negociada em dólares. Uma desvalorização do real frente ao dólar reduz o valor do BDR, mesmo que a ação da Adobe se mantenha estável. A volatilidade anualizada de 12 meses é de 45,53%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -74,28%, entre 29/11/2021 e 22/06/2026. A liquidez do BDR na B3 é menor que a da ação original na NASDAQ, o que pode afetar a execução de ordens. O [alertas de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos bruscos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ADBE34 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, o ADBE34 não distribuiu proventos. A Adobe Inc. paga dividendos em dólares, mas a conversão e a distribuição aos detentores do BDR dependem da instituição depositária. A ausência de proventos no período recente significa que o retorno veio apenas da variação do preço."
+    },
+    {
+      "question": "Qual a diferença entre ADBE34 e ADBE?",
+      "answer": "ADBE34 é o BDR negociado na B3 em reais, enquanto ADBE é a ação original negociada na NASDAQ em dólares. O ADBE34 acompanha o preço da ADBE e a variação do câmbio. O BDR é uma forma de investir na Adobe sem abrir conta no exterior, mas com risco cambial e menor liquidez."
+    },
+    {
+      "question": "ADBE34 é BDR patrocinado ou não patrocinado?",
+      "answer": "O ADBE34 é um BDR não patrocinado de nível I. Isso significa que ele não é emitido pela própria Adobe, mas por uma instituição depositária. BDRs não patrocinados geralmente têm menor liquidez e maior spread em comparação a BDRs patrocinados."
+    },
+    {
+      "question": "Qual o risco cambial do ADBE34?",
+      "answer": "O ADBE34 é cotado em reais, mas lastreado em uma ação negociada em dólares. Uma desvalorização do real frente ao dólar reduz o valor do BDR, mesmo que a ação da Adobe se mantenha estável. O risco cambial é um dos principais fatores de volatilidade do ativo."
+    },
+    {
+      "question": "Como acompanhar o desempenho do ADBE34?",
+      "answer": "O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite visualizar a evolução da posição individualmente. A [comparação com índices](/recursos/comparacao-com-indices) inclui o S&P 500, que é o índice de referência da ação original ADBE. O [alertas de preço](/recursos/alertas-de-preco) pode notificar quando o ativo atinge um valor específico."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do ADBE34 lado a lado com o S&P 500, que é o índice de referência da ação original ADBE."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a evolução da posição do ADBE34 com gráfico de rentabilidade e preço médio."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o ADBE34 atingir um preço específico, útil para monitorar a alta volatilidade do ativo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com perfil de volatilidade e risco cambial semelhante."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de software e serviços em nuvem, com exposição ao mesmo setor de tecnologia."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia e hardware, com presença global e risco cambial similar."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ADBE34",
+      "url": "https://finance.yahoo.com/quote/ADBE34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ADOBE INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51519/ADBE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Adobe",
+      "url": "https://www.wikidata.org/wiki/Q11463",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Adobe Inc.",
+      "url": "https://en.wikipedia.org/wiki/Adobe_Inc.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Adobe Inc.",
+      "url": "https://pt.wikipedia.org/wiki/Adobe_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

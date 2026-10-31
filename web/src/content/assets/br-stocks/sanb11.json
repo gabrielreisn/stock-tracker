@@ -1,0 +1,400 @@
+{
+  "ticker": "SANB11",
+  "slug": "sanb11",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SANB11: história, dividendos e volatilidade",
+    "description": "Conheça a SANB11, unit do Banco Santander (Brasil): histórico, dividendos de 9,09% em 12 meses, volatilidade de 32,23% e a OPA de 2026. Acompanhe no app.",
+    "h1": "SANB11: Banco Santander (Brasil) - História, Dividendos e Desempenho",
+    "canonicalPath": "/acoes/sanb11",
+    "keywords": [
+      "SANB11",
+      "Banco Santander Brasil",
+      "dividendos SANB11",
+      "volatilidade SANB11",
+      "OPA Santander Brasil 2026",
+      "rentabilidade SANB11",
+      "ações de bancos B3"
+    ]
+  },
+  "summary": "SANB11 é a unit do Banco Santander (Brasil) S.A., subsidiária brasileira do Grupo Santander e terceiro maior banco privado do país em volume de ativos. Negociada na B3 desde 2007, a companhia atua como banco múltiplo com foco em varejo, alta renda e atacado. Em 30/10/2026, a unit era cotada a R$ 23,89, com dividend yield de 9,09% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Banco Santander (Brasil)",
+    "legalName": "BANCO SANTANDER (BRASIL) S.A.",
+    "ticker": "BVMF SANB11",
+    "isin": "BRSANBCDAM13",
+    "taxId": "90.400.888/0001-42",
+    "foundingDate": "1985-08-09",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.santander.com.br",
+    "wikidata": "Q2882087",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2882087",
+      "https://pt.wikipedia.org/wiki/Banco_Santander_(Brasil)",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20532/SANB/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Banco Santander (Brasil)",
+    "legalName": "BANCO SANTANDER (BRASIL) S.A.",
+    "type": "Unit",
+    "sector": "Financeiro",
+    "segment": "Bancos",
+    "founded": "09/08/1985",
+    "listedSince": "03/04/2007",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.santander.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "BANCO SANTANDER (BRASIL) S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "90.400.888/0001-42",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Bancos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "BOLSA",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estrangeiro holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "09/08/1985",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "03/04/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "SANB3, SANB4, SANB11",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 23,89",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "32,23% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,70",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,09%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SANB11",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Banco Santander (Brasil) S.A.",
+    "currency": "BRL",
+    "price": 23.89,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.1612,
+      "3y": 0.0894,
+      "5y": -0.0567,
+      "10y": 0.7852
+    },
+    "volatility1y": 0.3223,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3294,
+      "from": "2026-01-28",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 0.7,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 2.1724,
+      "payments12Months": 5,
+      "yield12Months": 0.0909,
+      "lastPayment": {
+        "date": "2026-10-21",
+        "amount": 0.401004
+      }
+    },
+    "avgDailyTradedValue3m": 160442085
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 32,23% nos últimos 12 meses reflete um nível de oscilação considerado alto para o ativo. O beta de 0,70 contra o Ibovespa indica que a SANB11 tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção. A maior queda em 5 anos foi de -32,94%, entre 28/01/2026 e 30/10/2026. Para acompanhar a variação do preço e definir pontos de atenção, o recurso de [alertas de preço](/recursos/alertas-de-preco) envia uma notificação quando o ativo atinge o valor escolhido."
+  },
+  "history": {
+    "overview": "A operação brasileira do Grupo Santander iniciou-se em 1982, com a abertura da primeira agência, embora a companhia tenha sido formalmente constituída em 09/08/1985. Em 2007, o Santander adquiriu o Banco Real e iniciou a cotação de suas ações na B3, sendo registrado como companhia aberta na CVM em 02/03/2007. A integração da marca Banco Real foi concluída em 2010, unificando as operações sob a bandeira Santander. Nos anos seguintes, o banco ampliou sua presença em meios de pagamento com a aquisição da Getnet em 2014 e em crédito consignado com a incorporação do Olé em 2020. Em 2025, a Toro Investimentos foi integrada e renomeada como Santander Corretora. Em julho de 2026, o Grupo Santander anunciou uma nova oferta pública de aquisição para os cerca de 10% das ações em circulação, avaliada em até 1,9 bilhão de euros, com conclusão esperada para o primeiro semestre de 2027.",
+    "timeline": [
+      {
+        "date": "1982",
+        "event": "Fundação da operação brasileira do Grupo Santander",
+        "source": 3
+      },
+      {
+        "date": "1985-08-09",
+        "event": "Constituição formal do Banco Santander (Brasil) S.A.",
+        "source": 2
+      },
+      {
+        "date": "2007-03-02",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2007-04-03",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-09-25",
+        "event": "Negociação de Ações de Própria Emissão",
+        "source": 11
+      },
+      {
+        "date": "2025-10-29",
+        "event": "Incorporação da Santander Leasing e parcela da Return Capital",
+        "source": 10
+      },
+      {
+        "date": "2025-12-22",
+        "event": "Alteração do Diretor de Relações com Investidores",
+        "source": 9
+      },
+      {
+        "date": "2026-03-19",
+        "event": "Sucessão do Diretor Presidente",
+        "source": 8
+      },
+      {
+        "date": "2026-05-28",
+        "event": "Reorganização Societária: Incorporação, Cisão ou Fusão",
+        "source": 7
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Fato relevante sobre Oferta Pública de Aquisição (OPA)",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Banco Santander (Brasil) ganha dinheiro",
+      "body": "O Banco Santander (Brasil) S.A. atua como banco múltiplo com carteira comercial, oferecendo serviços para pessoas físicas, pequenas e médias empresas e grandes corporações. A receita é gerada por quatro segmentos principais: Varejo, que inclui conta-corrente, cartões, Pix e crédito; Alta Renda (Select e Private Banking), com assessoria de investimentos personalizada; Atacado (Corporate & Investment Banking), focado em fusões e aquisições, câmbio e mercado de capitais; e Meios de Pagamento, operado pela subsidiária Getnet, que oferece soluções de adquirência para o varejo. Em 2026, a alta renda foi definida como prioridade de crescimento, com foco na ampliação da base de clientes Select e no fortalecimento do relacionamento com o banco."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Banco Santander (Brasil)",
+      "body": "O controle acionário do Banco Santander (Brasil) é estrangeiro holding, pertencente ao Grupo Santander, conglomerado financeiro espanhol. As ações são negociadas na B3 sob os códigos SANB3 (ação ordinária), SANB4 (ação preferencial) e SANB11 (unit, que agrupa uma ação ordinária e uma preferencial). A diferença entre as classes reside nos direitos: a ação ordinária confere direito a voto em assembleias, enquanto a preferencial tem prioridade no recebimento de proventos. A companhia está listada no segmento BOLSA e também possui American Depositary Receipts (BSBR) na Bolsa de Valores de Nova Iorque."
+    },
+    {
+      "id": "proventos",
+      "heading": "SANB11 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a SANB11 distribuiu R$ 2,1724 por ação em 5 pagamentos, resultando em um dividend yield de 9,09%. O último provento registrado foi de R$ 0,4010, pago em 21/10/2026. A remuneração aos acionistas é um dos principais atrativos do papel, refletindo a política de distribuição de lucros do banco. É possível acompanhar a data com e a data de pagamento de cada provento, multiplicados pela quantidade de unidades na carteira, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da SANB11",
+      "body": "A rentabilidade total da SANB11, incluindo proventos, foi de -16,12% nos 12 meses até 30/10/2026, 8,94% em 3 anos, -5,67% em 5 anos e 78,52% em 10 anos. Esses números mostram a variação do preço somada aos dividendos recebidos no período. Para avaliar o desempenho da posição em relação a outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade da carteira lado a lado com o Ibovespa, CDI, IPCA e S&P 500 no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da SANB11",
+      "body": "A volatilidade anualizada da SANB11 nos últimos 12 meses é de 32,23%, classificada como nível alto. A maior queda em 5 anos foi de -32,94%, ocorrida entre o pico em 28/01/2026 e o ponto mais baixo em 30/10/2026. O beta de 0,70 indica que, historicamente, os movimentos do ativo tendem a ser menores que os do Ibovespa, na mesma direção. Riscos setoriais incluem a sensibilidade a mudanças na taxa de juros, a qualidade da carteira de crédito e a regulação do setor financeiro. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SANB11 paga dividendos?",
+      "answer": "Sim, a SANB11 distribui proventos aos acionistas. Nos 12 meses até 30/10/2026, foram pagos R$ 2,1724 por ação em 5 pagamentos, com dividend yield de 9,09%. O último pagamento foi de R$ 0,4010 em 21/10/2026. É possível ver a data com e a data de pagamento de cada provento no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre SANB3, SANB4 e SANB11?",
+      "answer": "SANB3 é a ação ordinária, com direito a voto em assembleias. SANB4 é a ação preferencial, com prioridade no recebimento de proventos. SANB11 é a unit, que agrupa uma ação ordinária e uma preferencial em uma única negociação. A escolha entre elas depende da preferência do investidor por voto ou prioridade em dividendos."
+    },
+    {
+      "question": "Quem controla o Banco Santander (Brasil)?",
+      "answer": "O controle acionário é estrangeiro holding, pertencente ao Grupo Santander, conglomerado financeiro espanhol. Em julho de 2026, o grupo anunciou uma nova oferta pública de aquisição para os cerca de 10% das ações em circulação, avaliada em até 1,9 bilhão de euros, com conclusão esperada para o primeiro semestre de 2027."
+    },
+    {
+      "question": "Qual o setor do Banco Santander (Brasil)?",
+      "answer": "O Banco Santander (Brasil) atua no setor Financeiro, segmento Bancos, como banco múltiplo com carteira comercial. A companhia é a subsidiária brasileira do Grupo Santander e o terceiro maior banco privado do país em volume de ativos, com cerca de 1,5 mil agências e mais de 77 milhões de clientes."
+    },
+    {
+      "question": "A SANB11 é uma boa ação para diversificar a carteira?",
+      "answer": "A SANB11 é uma unit do setor financeiro, que tende a ter correlação com outros bancos como [ITUB4](/acoes/itub4) e [BBDC4](/acoes/bbdc4). Para avaliar a alocação da posição em relação a outros ativos, o recurso de [carteira consolidada](/recursos/carteira-consolidada) mostra o valor por classe e as maiores posições em uma só visão."
+    },
+    {
+      "question": "Qual a rentabilidade da SANB11 nos últimos 10 anos?",
+      "answer": "A rentabilidade total da SANB11, incluindo proventos, foi de 78,52% em 10 anos até 30/10/2026. Para comparar esse desempenho com outros índices, use a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade da carteira lado a lado com Ibovespa, CDI, IPCA e S&P 500."
+    },
+    {
+      "question": "Como acompanhar a SANB11 durante o pregão?",
+      "answer": "O recurso de [widget na barra de menus](/recursos/widget-da-barra-de-menus) exibe o gráfico do dia e as posições com um clique na barra de menus do Mac, permitindo acompanhar a variação do preço em tempo real."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da SANB11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da SANB11 com Ibovespa, CDI, IPCA e S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a SANB11 chegar ao preço que você escolheu, para acompanhar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação da SANB11 junto com outras ações, renda fixa e fundos em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em SANB11 e as respostas vêm dos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Outro banco privado do setor financeiro, com ações preferenciais negociadas na B3."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Concorrente direto no segmento de bancos, com ações preferenciais na B3."
+      },
+      {
+        "ticker": "BPAC11",
+        "list": "br-stocks",
+        "reason": "Outro banco privado listado na B3, com unit negociada sob o mesmo formato de SANB11."
+      },
+      {
+        "ticker": "BBAS3",
+        "list": "br-stocks",
+        "reason": "Banco público com ações ordinárias na B3, para comparação de desempenho no setor financeiro."
+      },
+      {
+        "ticker": "ITUB3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária do Itaú Unibanco, para comparação de direitos de voto e proventos no setor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SANB11",
+      "url": "https://finance.yahoo.com/quote/SANB11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SANTANDER BR, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20532/SANB/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, BANCO SANTANDER (BRASIL) S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Banco Santander (Brasil)",
+      "url": "https://www.wikidata.org/wiki/Q2882087",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Banco Santander (Brasil)",
+      "url": "https://pt.wikipedia.org/wiki/Banco_Santander_(Brasil)",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 21/09/2026, “OPA”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1570267&numSequencia=1094973&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/07/2026, “OPA”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1549941&numSequencia=1074647&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/05/2026, “Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528060&numSequencia=1052766&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/03/2026, “Sucessão de Diretor Presidente”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492780&numSequencia=1017486&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/12/2025, “Alteração de DRI”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1460027&numSequencia=984733&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/10/2025, “Incorporação da Santander Leasing S.A. Arrendamento Mercantil||Incorporação de parcela Cindida da Return Capital Gestão de Ativos e Participações S.A.||Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1437162&numSequencia=961874&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/09/2025, “Negociação de Ações de Própria Emissão”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1426721&numSequencia=951433&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

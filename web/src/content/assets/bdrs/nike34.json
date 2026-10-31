@@ -1,0 +1,302 @@
+{
+  "ticker": "NIKE34",
+  "slug": "nike34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "NIKE34: BDR da Nike, dividendos e volatilidade",
+    "description": "Conheça o NIKE34, BDR da Nike Inc. na B3. Veja dividendos, desempenho, riscos cambiais e como acompanhar o ativo no app.",
+    "h1": "NIKE34: BDR da Nike Inc.",
+    "canonicalPath": "/bdrs/nike34",
+    "keywords": [
+      "NIKE34",
+      "BDR Nike",
+      "NIKE34 dividendos",
+      "NIKE34 volatilidade",
+      "BDR nível I",
+      "Nike Inc B3"
+    ]
+  },
+  "summary": "NIKE34 é o BDR nível I da Nike Inc., empresa estadunidense de calçados e vestuário esportivos. Negociado na B3 desde 15/06/2011, o ativo representa ações da NKE na Bolsa de Valores de Nova Iorque. Em 29/10/2026, o preço era de R$ 103,33, com rentabilidade total de -40,53% nos últimos 12 meses, refletindo a variação do câmbio e a performance da ação original.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Nike Inc.",
+    "legalName": "NIKE INC",
+    "ticker": "BVMF NIKE34",
+    "foundingDate": "1964-01-25",
+    "website": "https://www.nike.com/",
+    "wikidata": "Q483915",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q483915",
+      "https://en.wikipedia.org/wiki/Nike%2C_Inc.",
+      "https://pt.wikipedia.org/wiki/Nike%2C_Inc.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50270/NIKE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Nike Inc.",
+    "legalName": "NIKE INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "25/01/1964",
+    "listedSince": "15/06/2011",
+    "headquarters": "Beaverton",
+    "website": "https://www.nike.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "NIKE INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: NKE",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Beaverton",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "25/01/1964",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "15/06/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 103,33",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "38,63% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,16%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,8 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "NIKE34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "NIKE, Inc.",
+    "currency": "BRL",
+    "price": 103.33,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.4053,
+      "3y": -0.568,
+      "5y": -0.7606,
+      "10y": 0.4625
+    },
+    "volatility1y": 0.3863,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8129,
+      "from": "2021-11-25",
+      "to": "2026-10-05"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 4.2997,
+      "payments12Months": 4,
+      "yield12Months": 0.0416,
+      "lastPayment": {
+        "date": "2026-09-01",
+        "amount": 1.062515
+      }
+    },
+    "avgDailyTradedValue3m": 1831268
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do NIKE34 nos últimos 12 meses foi de 38,63%, um nível considerado alto para o mercado. A maior queda em 5 anos foi de -81,29%, ocorrendo entre 25/11/2021 e 05/10/2026. Como o beta não está disponível, não é possível medir a sensibilidade do ativo em relação a um índice de referência específico. No entanto, a alta volatilidade reflete a exposição a riscos globais, cambiais e setoriais. Para acompanhar essas oscilações em tempo real, o [widget da barra de menus](/recursos/widget-da-barra-de-menus) oferece uma visão rápida do gráfico do dia."
+  },
+  "history": {
+    "overview": "A Nike Inc. foi fundada em 25 de janeiro de 1964 como Blue Ribbon Sports, por Bill Bowerman e Phil Knight, operando inicialmente como distribuidora de calçados japoneses. Em 1971, a empresa passou a fabricar seus próprios produtos, adotando o nome Nike e o logotipo Swoosh. Em dezembro de 1980, a empresa abriu seu capital na Bolsa de Valores de Nova Iorque. Em 2011, o BDR NIKE34 foi listado na B3, permitindo a negociação em reais. Recentemente, a empresa passou por reestruturações: em 2025, renomeou sua sede em Beaverton em homenagem a Phil Knight e criou o cargo de COO. Em 2026, anunciou cortes de cerca de 1.400 funcionários, focados no departamento de tecnologia, como parte de um plano de turnaround liderado pelo CEO Elliott Hill.",
+    "timeline": [
+      {
+        "date": "1964-01-25",
+        "event": "Fundação da empresa como Blue Ribbon Sports",
+        "source": 2
+      },
+      {
+        "date": "1971-05-30",
+        "event": "A empresa passa a se chamar oficialmente Nike, Inc.",
+        "source": 3
+      },
+      {
+        "date": "1980",
+        "event": "Abertura de capital da Nike na Bolsa de Valores de Nova Iorque",
+        "source": 3
+      },
+      {
+        "date": "2011-06-15",
+        "event": "Listagem do BDR NIKE34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-10",
+        "event": "Renomeação da sede mundial em Beaverton para Philip H. Knight Campus",
+        "source": 3
+      },
+      {
+        "date": "2026-04",
+        "event": "Anúncio de corte de aproximadamente 1.400 funcionários, principalmente na área de tecnologia",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Nike Inc. ganha dinheiro",
+      "body": "A Nike Inc. é a maior fornecedora mundial de calçados e vestuário esportivos, com receita superior a US$ 46 bilhões em seu ano fiscal de 2022. A empresa opera sob a marca principal Nike, além de marcas como Air Jordan e a subsidiária Converse. Seus produtos incluem calçados, roupas e equipamentos esportivos, vendidos por meio de lojas de varejo (Niketown) e canais de distribuição global. A empresa também patrocina atletas e equipes esportivas de destaque, utilizando marcas reconhecidas como 'Just Do It' e o logotipo Swoosh."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR NIKE34",
+      "body": "O NIKE34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Nike Inc. (NKE) listadas na Bolsa de Valores de Nova Iorque. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o dólar e o real. O ativo foi listado na B3 em 15/06/2011, permitindo que investidores brasileiros tenham exposição à empresa sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "id": "proventos",
+      "heading": "NIKE34 paga dividendos?",
+      "body": "Sim, o NIKE34 paga dividendos. Nos 12 meses até 29/10/2026, foram distribuídos R$ 4,2997 por BDR em 4 pagamentos, resultando em um dividend yield de 4,16%. O último pagamento registrado foi de R$ 1,0625 em 01/09/2026. É importante lembrar que a empresa paga dividendos em dólares, e o valor recebido pelo investidor em reais depende da cotação do câmbio na data do pagamento. Você pode acompanhar o histórico de [dividendos e JCP no app](/recursos/carteira-consolidada) para ver o impacto desses proventos na sua carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do NIKE34",
+      "body": "A rentabilidade total do NIKE34, incluindo proventos, foi de -40,53% nos 12 meses até 29/10/2026, -56,80% em 3 anos e -76,06% em 5 anos. No período de 10 anos, o retorno foi de 46,25%. Esses números em reais refletem tanto a performance da ação original (NKE) quanto a variação do câmbio. Para entender como esse desempenho se compara a outros mercados, utilize a [comparação com índices](/recursos/comparacao-com-indices), que permite analisar a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do NIKE34",
+      "body": "O principal risco do NIKE34 é o cambial, pois o valor do BDR em reais é afetado pela variação do dólar frente ao real. Além disso, a empresa opera em um setor competitivo e globalizado, sujeito a mudanças de consumo e pressões de custo. A volatilidade anualizada do ativo nos últimos 12 meses foi de 38,63%, classificada como alta. A maior queda nos últimos 5 anos foi de -81,29%, entre o pico em 25/11/2021 e o ponto mais baixo em 05/10/2026. A liquidez do BDR na B3 é menor que a da ação original nos EUA, com volume médio de R$ 1,8 milhão por dia nos últimos 3 meses. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações significativas."
+    }
+  ],
+  "faq": [
+    {
+      "question": "NIKE34 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 29/10/2026, o BDR distribuiu R$ 4,2997 por unidade em 4 pagamentos, com um dividend yield de 4,16%. O valor é convertido para reais na data do pagamento, dependendo do câmbio."
+    },
+    {
+      "question": "Qual a diferença entre NIKE34 e a ação NKE?",
+      "answer": "A NKE é a ação original da Nike Inc. negociada na Bolsa de Valores de Nova Iorque, em dólares. O NIKE34 é um BDR negociado na B3, em reais, que representa a NKE. O preço do NIKE34 reflete a cotação da NKE e a variação do câmbio."
+    },
+    {
+      "question": "NIKE34 é um BDR patrocinado?",
+      "answer": "Não. O NIKE34 é um BDR não patrocinado de nível I. Isso significa que ele não é emitido pela própria empresa, mas por uma instituição depositária, e tem menos obrigações de divulgação de informações em comparação com BDRs patrocinados."
+    },
+    {
+      "question": "Qual o risco cambial do NIKE34?",
+      "answer": "O risco cambial é alto, pois o valor do BDR em reais é diretamente impactado pela variação do dólar frente ao real. Uma valorização do dólar tende a aumentar o preço do NIKE34, enquanto uma desvalorização tende a reduzi-lo, independentemente da performance da ação original."
+    },
+    {
+      "question": "Qual a liquidez do NIKE34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses foi de R$ 1,8 milhão. Isso indica uma liquidez moderada, menor que a de ações brasileiras de grande porte, o que pode afetar a facilidade de compra e venda em grandes quantidades."
+    },
+    {
+      "question": "Como acompanhar o desempenho do NIKE34?",
+      "answer": "Você pode usar o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app para visualizar a rentabilidade do ativo e comparar com sua carteira. O recurso permite arrastar o gráfico para medir períodos específicos e ver o ganho de cada posição."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos do NIKE34 com data de pagamento, multiplicados pela sua quantidade, integrados à sua carteira."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do NIKE34 com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o NIKE34 atingir um preço que você definir, útil para monitorar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do NIKE34 e seu preço médio de entrada, com gráficos de variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de nível I de uma empresa de tecnologia e consumo dos EUA, com exposição similar ao câmbio."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, útil para comparar o desempenho do NIKE34 com o mercado americano."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "BDR de outra empresa de consumo e tecnologia dos EUA, com alta volatilidade e exposição cambial."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de uma grande empresa de tecnologia dos EUA, que pode servir como referência para o setor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de NIKE34",
+      "url": "https://finance.yahoo.com/quote/NIKE34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: NIKE, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50270/NIKE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Nike Inc.",
+      "url": "https://www.wikidata.org/wiki/Q483915",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nike, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Nike%2C_Inc.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Nike, Inc.",
+      "url": "https://pt.wikipedia.org/wiki/Nike%2C_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

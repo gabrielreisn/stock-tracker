@@ -1,0 +1,322 @@
+{
+  "ticker": "M2RV34",
+  "slug": "m2rv34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "M2RV34: BDR da Marvell Technology, volatilidade e dividendos",
+    "description": "M2RV34 é o BDR da Marvell Technology, empresa de semicondutores. Veja volatilidade, dividendos, histórico e riscos do ativo negociado na B3 em reais.",
+    "h1": "M2RV34: BDR da Marvell Technology",
+    "canonicalPath": "/bdrs/m2rv34",
+    "keywords": [
+      "M2RV34",
+      "Marvell Technology BDR",
+      "BDR semicondutores",
+      "MRVL B3",
+      "dividendos M2RV34",
+      "volatilidade M2RV34"
+    ]
+  },
+  "summary": "M2RV34 é o BDR não patrocinado (nível I) da Marvell Technology, Inc., empresa americana de semicondutores sediada em Santa Clara. Listado na B3 desde 14/01/2022, o ativo acompanha a ação original MRVL na NASDAQ e o câmbio do dólar. Em 29/10/2026, cotava a R$ 115,50, com volatilidade anualizada de 98,51% e beta de 3,29 contra o S&P 500.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Marvell Technology",
+    "legalName": "MARVELL TECHNOLOGY INC",
+    "ticker": "BVMF M2RV34",
+    "foundingDate": "1995",
+    "website": "https://www.marvell.com/",
+    "wikidata": "Q1347782",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1347782",
+      "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "https://pt.wikipedia.org/wiki/Marvell_Technology",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58475/M2RV/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Marvell Technology",
+    "legalName": "MARVELL TECHNOLOGY INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1995",
+    "listedSince": "14/01/2022",
+    "headquarters": "Santa Clara",
+    "website": "https://www.marvell.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "MARVELL TECHNOLOGY INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: MRVL",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Santa Clara",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1995",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "14/01/2022",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 115,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "98,51% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original MRVL em dólares)",
+      "value": "3,29",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,04%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 6,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "M2RV34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Marvell Technology, Inc.",
+    "currency": "BRL",
+    "price": 115.5,
+    "historyStarts": "2026-05-27",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.9851,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4967,
+      "from": "2026-06-19",
+      "to": "2026-07-29"
+    },
+    "beta1y": {
+      "value": 3.29,
+      "against": "S&P 500, ação original MRVL em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.0432,
+      "payments12Months": 2,
+      "yield12Months": 0.0004,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.021836
+      }
+    },
+    "avgDailyTradedValue3m": 6266245
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do M2RV34 nos últimos 12 meses é de 98,51%, nível muito alto, o que reflete oscilações expressivas no preço. O beta da ação original MRVL contra o S&P 500 é de 3,29, indicando que a ação tende a se mover com amplitude três vezes maior que a do índice, na mesma direção. A maior queda em 5 anos foi de -49,67%, entre 19/06/2026 e 29/07/2026. Para BDRs de tecnologia, essa volatilidade é comum, mas o nível é elevado. O [alertas de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos extremos sem sugerir operações."
+  },
+  "history": {
+    "overview": "A Marvell Technology, Inc. foi fundada em 1995 por Sehat Sutardja, Weili Dai e Pantas Sutardja, com foco inicial em canais de leitura CMOS para unidades de disco. A empresa realizou sua oferta pública inicial (IPO) na NASDAQ em 27 de junho de 2000, arrecadando US$ 90 milhões. Ao longo dos anos, consolidou-se por meio de aquisições estratégicas, como a RADLAN em 2003, a Cavium em 2018, a Aquantia em 2019 e a Inphi em 2021, expandindo sua atuação em processadores de infraestrutura, redes e armazenamento. Em 2016, após pressão do fundo ativista Starboard Value, os fundadores deixaram a gestão, e Matt Murphy assumiu a presidência e a CEO em julho daquele ano. O BDR M2RV34 passou a ser negociado na B3 em 14/01/2022, permitindo a exposição de investidores brasileiros à empresa em reais.",
+    "timeline": [
+      {
+        "date": "1995",
+        "event": "Fundação da Marvell Technology por Sehat Sutardja, Weili Dai e Pantas Sutardja.",
+        "source": 2
+      },
+      {
+        "date": "2000-06-27",
+        "event": "Oferta pública inicial (IPO) na NASDAQ sob o ticker MRVL, arrecadando US$ 90 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2003-02",
+        "event": "Aquisição da RADLAN Computer Communications por US$ 49,7 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2016-07",
+        "event": "Matt Murphy é nomeado presidente e CEO da Marvell.",
+        "source": 3
+      },
+      {
+        "date": "2018-07-06",
+        "event": "Conclusão da aquisição da Cavium, Inc.",
+        "source": 3
+      },
+      {
+        "date": "2019-09",
+        "event": "Conclusão da aquisição da Aquantia.",
+        "source": 3
+      },
+      {
+        "date": "2021-04",
+        "event": "Conclusão da aquisição da Inphi Corporation e mudança da sede legal para Wilmington, Delaware.",
+        "source": 3
+      },
+      {
+        "date": "2022-01-14",
+        "event": "Listagem do BDR M2RV34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2026-06-15",
+        "event": "Dan Durn assume o cargo de CFO da Marvell.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Marvell Technology ganha dinheiro",
+      "body": "A Marvell Technology, Inc. desenvolve e produz semicondutores e tecnologias relacionadas, com sede em Santa Clara, Califórnia. A empresa atua em áreas como unidades de processamento de dados (DPUs), ASICs personalizados, processadores de infraestrutura, soluções de segurança, redes e armazenamento. Em 2026, a companhia contava com cerca de 7.480 funcionários e mais de 10.000 patentes globais, com receita anual de US$ 8,2 bilhões no exercício fiscal de 2026. A Marvell fornece componentes para setores como telecomunicações, data centers, aeroespacial e defesa, além de ter fornecido chips Wi-Fi para dispositivos como o iPhone original e os Chromecast do Google."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR M2RV34",
+      "body": "O M2RV34 é um BDR não patrocinado (nível I) que representa ações da Marvell Technology, Inc. negociadas na NASDAQ sob o ticker MRVL. O BDR é um recibo emitido por uma instituição depositária e negociado na B3 em reais, lastreado na ação original no exterior. O preço do M2RV34 acompanha a variação da ação MRVL em dólares e a taxa de câmbio do dólar em relação ao real. O ativo está listado na B3 desde 14/01/2022."
+    },
+    {
+      "id": "proventos",
+      "heading": "M2RV34 paga dividendos?",
+      "body": "A Marvell Technology pagou R$ 0,0432 por BDR em 2 pagamentos nos 12 meses até 29/10/2026, resultando em um dividend yield de 0,04%. O último provento foi de R$ 0,0218, pago em 08/10/2026. Como a empresa é americana, os dividendos são pagos em dólares e convertidos para reais na data do pagamento, o que pode gerar variação no valor recebido em reais devido ao câmbio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do M2RV34",
+      "body": "Em 29/10/2026, o M2RV34 estava cotado a R$ 115,50. A volatilidade anualizada nos últimos 12 meses foi de 98,51%, classificada como muito alta. O beta da ação original MRVL contra o S&P 500 é de 3,29, indicando que a ação tende a ter movimentos amplificados em relação ao índice. A maior queda nos últimos 5 anos foi de -49,67%, entre 19/06/2026 e 29/07/2026. As rentabilidades em reais incluem a variação do câmbio, e a [comparação com índices](/recursos/comparacao-com-indices) permite visualizar o desempenho do BDR ao lado do S&P 500 e do CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do M2RV34",
+      "body": "Os riscos do M2RV34 incluem a alta volatilidade (98,51% nos últimos 12 meses) e a maior queda de -49,67% entre 19/06/2026 e 29/07/2026. O beta de 3,29 da ação original MRVL contra o S&P 500 indica sensibilidade ampliada aos movimentos do mercado. Há também risco cambial, pois o BDR é cotado em reais, mas a ação original é em dólares. A liquidez do BDR na B3 é moderada, com volume médio diário de R$ 6,3 milhões nos últimos 3 meses. A exposição a uma empresa de semicondutores também envolve riscos setoriais, como ciclos de demanda e concorrência global."
+    }
+  ],
+  "faq": [
+    {
+      "question": "M2RV34 paga dividendos?",
+      "answer": "Sim, a Marvell Technology pagou R$ 0,0432 por BDR em 2 pagamentos nos 12 meses até 29/10/2026, com dividend yield de 0,04%. O último pagamento foi de R$ 0,0218 em 08/10/2026. Os valores são convertidos de dólares para reais na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre M2RV34 e MRVL?",
+      "answer": "M2RV34 é o BDR negociado na B3 em reais, enquanto MRVL é a ação original da Marvell Technology negociada na NASDAQ em dólares. O M2RV34 acompanha o MRVL e o câmbio do dólar, mas não é a mesma ação."
+    },
+    {
+      "question": "M2RV34 é BDR patrocinado ou não patrocinado?",
+      "answer": "M2RV34 é um BDR não patrocinado (nível I), o que significa que não há acordo direto entre a Marvell Technology e a instituição depositária que emite o BDR. A listagem na B3 ocorreu em 14/01/2022."
+    },
+    {
+      "question": "Qual o risco cambial do M2RV34?",
+      "answer": "O M2RV34 é cotado em reais, mas a ação original MRVL é em dólares. Qualquer variação no câmbio do dólar em relação ao real impacta diretamente o preço do BDR, além da variação da ação nos EUA."
+    },
+    {
+      "question": "Qual a volatilidade do M2RV34?",
+      "answer": "A volatilidade anualizada do M2RV34 nos últimos 12 meses é de 98,51%, nível muito alto. A maior queda em 5 anos foi de -49,67%, entre 19/06/2026 e 29/07/2026. O beta da ação original MRVL contra o S&P 500 é de 3,29."
+    },
+    {
+      "question": "Como acompanhar o M2RV34 no app?",
+      "answer": "Você pode usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a sua posição em M2RV34, com respostas baseadas nos seus próprios dados. O [carteira consolidada](/recursos/carteira-consolidada) mostra a alocação do BDR junto a outros ativos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do M2RV34 junto a outros ativos da sua carteira, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do M2RV34 com o S&P 500 e o CDI no mesmo gráfico, considerando a variação do câmbio."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o M2RV34 atingir o preço que você escolheu, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em M2RV34, com respostas baseadas nos seus próprios dados e privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de semicondutores, com exposição similar ao setor de tecnologia e volatilidade elevada."
+      },
+      {
+        "ticker": "AVGO34",
+        "list": "bdrs",
+        "reason": "Broadcom Inc., concorrente direta da Marvell Technology no setor de semicondutores e infraestrutura."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores, que oferece exposição diversificada ao mesmo setor da Marvell."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta do M2RV34 e comparação de desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de M2RV34",
+      "url": "https://finance.yahoo.com/quote/M2RV34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MARVELL TEC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58475/M2RV/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Marvell Technology",
+      "url": "https://www.wikidata.org/wiki/Q1347782",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Marvell Technology",
+      "url": "https://en.wikipedia.org/wiki/Marvell_Technology",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Marvell Technology",
+      "url": "https://pt.wikipedia.org/wiki/Marvell_Technology",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

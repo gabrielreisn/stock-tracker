@@ -1,0 +1,427 @@
+{
+  "ticker": "YDUQ3",
+  "slug": "yduq3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "YDUQ3: história, dividendos e volatilidade",
+    "description": "YDUQ3 é a ação ordinária da YDUQS, holding de educação superior. Veja história, dividendos, volatilidade de 67,35% e beta de 2,05 contra o Ibovespa.",
+    "h1": "YDUQ3: ação ordinária da YDUQS Participações S.A.",
+    "canonicalPath": "/acoes/yduq3",
+    "keywords": [
+      "YDUQ3",
+      "YDUQS",
+      "ação YDUQ3",
+      "dividendos YDUQ3",
+      "volatilidade YDUQ3",
+      "YDUQ3 B3",
+      "YDUQS educação",
+      "YDUQ3 dividend yield"
+    ]
+  },
+  "summary": "YDUQ3 é a ação ordinária da YDUQS Participações S.A., holding brasileira de capital aberto com foco em educação superior, fundada em 1970. A empresa opera por meio de mais de 1,3 milhão de alunos matriculados em 66 instituições de ensino superior e 2.604 polos de ensino à distância. Em 30/10/2026, a ação era negociada a R$ 8,91 na B3, com uma rentabilidade total de -28,81% nos últimos 12 meses e um dividend yield de 6,39%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "YDUQS",
+    "legalName": "YDUQS PARTICIPACOES S.A.",
+    "ticker": "BVMF YDUQ3",
+    "isin": "BRYDUQACNOR3",
+    "taxId": "08.807.432/0001-10",
+    "foundingDate": "2007-03-31",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.estacioparticipacoes.com.br",
+    "wikidata": "Q25419656",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q25419656",
+      "https://pt.wikipedia.org/wiki/Yduqs",
+      "https://en.wikipedia.org/wiki/YDUQS",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21016/YDUQ/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "YDUQS",
+    "legalName": "YDUQS PARTICIPACOES S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Serviços Educacionais",
+    "founded": "31/03/2007",
+    "listedSince": "30/07/2007",
+    "headquarters": "Rio de Janeiro (RJ)",
+    "website": "https://www.estacioparticipacoes.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "YDUQS PARTICIPACOES S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "08.807.432/0001-10",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Serviços Educacionais",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "31/03/2007",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "30/07/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "YDUQ3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 8,91",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "67,35% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,05",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,39%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "YDUQ3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Yduqs Participações S.A.",
+    "currency": "BRL",
+    "price": 8.91,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.2881,
+      "3y": -0.4421,
+      "5y": -0.5241,
+      "10y": -0.3159
+    },
+    "volatility1y": 0.6735,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7296,
+      "from": "2021-12-08",
+      "to": "2023-03-23"
+    },
+    "beta1y": {
+      "value": 2.05,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.5691,
+      "payments12Months": 1,
+      "yield12Months": 0.0639,
+      "lastPayment": {
+        "date": "2025-12-29",
+        "amount": 0.569143
+      }
+    },
+    "avgDailyTradedValue3m": 60077331
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da YDUQ3 é de 67,35% nos últimos 12 meses, nível classificado como muito alta. O beta de 2,05 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com o dobro da intensidade, na mesma direção. A maior queda em 5 anos foi de -72,96%, do pico em 08/12/2021 ao ponto mais baixo em 23/03/2023. Esse nível de volatilidade é elevado para uma ação brasileira, refletindo a sensibilidade do setor educacional a mudanças regulatórias e de mercado. Para acompanhar a variação do preço da YDUQ3 ao longo do tempo, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app."
+  },
+  "history": {
+    "overview": "A história da YDUQS remonta a 1970, quando o grupo foi fundado no Rio de Janeiro sob o nome de Estácio, em referência a Estácio de Sá, fundador da cidade. A companhia foi formalmente constituída em 31/03/2007 e iniciou a cotação de suas ações na B3 em 30/07/2007. Em 2019, o grupo mudou seu nome para YDUQS e realizou as maiores aquisições de sua história, comprando instituições educacionais anteriormente pertencentes à Adtalem Educational, como a Faculdade Ibmec, a Wyden Educacional e a Damásio Educacional. No mesmo ano, adquiriu o Centro Universitário Toledo (Unitoledo), que se tornou a marca premium do grupo. Em 2020, a empresa comprou o Grupo Athenas Educacional. Em 2024, a YDUQS anunciou a aquisição da faculdade Newton Paiva e, em dezembro do mesmo ano, a da Edufor no Maranhão, ampliando sua capacidade em cursos de Medicina. Em 2025, a companhia passou por alterações no conselho e na presidência, além de adquirir a Unifametro. Em 2026, a YDUQS anunciou um programa de recompra de ações e, em setembro, formalizou a fusão com a Afya.",
+    "timeline": [
+      {
+        "date": "1970",
+        "event": "Fundação do grupo de educação no Rio de Janeiro.",
+        "source": 3
+      },
+      {
+        "date": "2007-03-31",
+        "event": "Constituição da YDUQS Participações S.A.",
+        "source": 2
+      },
+      {
+        "date": "2007-07-26",
+        "event": "Registro de companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2007-07-30",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2019",
+        "event": "Mudança de nome para YDUQS e aquisição de instituições da Adtalem Educational, incluindo Ibmec, Wyden e Damásio.",
+        "source": 5
+      },
+      {
+        "date": "2020-06-04",
+        "event": "Aquisição do Grupo Athenas Educacional.",
+        "source": 4
+      },
+      {
+        "date": "2024",
+        "event": "Aquisição da faculdade Newton Paiva e da Edufor no Maranhão.",
+        "source": 4
+      },
+      {
+        "date": "2025-05-12",
+        "event": "Publicação de guidance pela companhia.",
+        "source": 13
+      },
+      {
+        "date": "2025-06-26",
+        "event": "Alterações no Conselho de Administração e Diretoria.",
+        "source": 12
+      },
+      {
+        "date": "2025-07-24",
+        "event": "Alteração na Presidência da Companhia.",
+        "source": 11
+      },
+      {
+        "date": "2025-08-14",
+        "event": "Aquisição da Unifametro.",
+        "source": 10
+      },
+      {
+        "date": "2026-03-20",
+        "event": "Anúncio do Programa de Recompra de Ações.",
+        "source": 9
+      },
+      {
+        "date": "2026-08-24",
+        "event": "Esclarecimentos sobre notícias envolvendo Yduqs e Afya.",
+        "source": 7
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a YDUQS ganha dinheiro",
+      "body": "A YDUQS Participações S.A. atua no setor de educação, desenvolvendo atividades principalmente nas áreas de ensino superior nas modalidades presencial e a distância, além de educação profissional e outras áreas associadas. A empresa opera por meio de 66 instituições de ensino superior, 103 campi e 2.604 polos de ensino à distância, com mais de 1,3 milhão de alunos matriculados. O grupo possui marcas como a Universidade Estácio de Sá, a Faculdade Ibmec, a Wyden Educacional e a Damásio Educacional, adquiridas em 2019, e a Unitoledo, que se tornou a marca premium do grupo. A YDUQS também atua em concursos por meio das marcas Qconcursos e Damásio Concursos. A receita da companhia provém da matrícula e mensalidade dos alunos nessas instituições, além de serviços de preparação para concursos."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da YDUQS",
+      "body": "A YDUQS é uma companhia aberta com controle acionário privado, conforme registro na CVM. As ações são negociadas na B3 sob o código YDUQ3, no segmento de listagem Novo Mercado, que impõe regras de governança corporativa mais rígidas, como a liquidação intradiária de ações e a oferta pública de aquisição de ações. A ação YDUQ3 é do tipo ordinária (ON), o que confere ao acionista o direito a voto em assembleias gerais. Em termos gerais, ações ordinárias têm prioridade em decisões estratégicas, enquanto ações preferenciais (que não existem na YDUQS) costumam ter prioridade no recebimento de dividendos, mas não votam. A companhia não possui ações preferenciais em circulação."
+    },
+    {
+      "id": "proventos",
+      "heading": "YDUQ3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a YDUQ3 distribuiu R$ 0,5691 por ação em 1 pagamento, resultando em um dividend yield de 6,39%. O último pagamento foi de R$ 0,5691, com data de pagamento em 29/12/2025. A companhia também anunciou um programa de recompra de ações em 20/03/2026. Para acompanhar os dividendos e JCP da YDUQ3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da YDUQ3",
+      "body": "A rentabilidade total da YDUQ3, incluindo proventos, foi de -28,81% nos 12 meses até 30/10/2026, -44,21% em 3 anos, -52,41% em 5 anos e -31,59% em 10 anos. O preço da ação em 30/10/2026 era de R$ 8,91. Para comparar a rentabilidade da YDUQ3 com o Ibovespa, o CDI e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da YDUQ3",
+      "body": "A YDUQ3 apresenta uma volatilidade anualizada de 67,35% nos últimos 12 meses, classificada como muito alta. O beta de 2,05 contra o Ibovespa indica que a ação tende a se mover com o dobro da intensidade do índice, na mesma direção. A maior queda em 5 anos foi de -72,96%, do pico em 08/12/2021 ao ponto mais baixo em 23/03/2023. Riscos setoriais incluem mudanças regulatórias no ensino superior, concorrência de outras instituições e a dependência de políticas públicas de financiamento estudantil. A fusão com a Afya, anunciada em 23/09/2026, introduz riscos de integração e execução. Para acompanhar movimentos bruscos de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "YDUQ3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a YDUQ3 distribuiu R$ 0,5691 por ação em 1 pagamento, com dividend yield de 6,39%. O último pagamento foi de R$ 0,5691, com data de pagamento em 29/12/2025. A companhia também anunciou um programa de recompra de ações em 20/03/2026. Para acompanhar os dividendos e JCP da YDUQ3, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre YDUQ3 e YDUQ4?",
+      "answer": "A YDUQS não possui ações preferenciais (YDUQ4) em circulação. Apenas a ação ordinária (YDUQ3) é negociada na B3. Ações ordinárias conferem direito a voto em assembleias gerais, enquanto ações preferenciais, quando existem, costumam ter prioridade no recebimento de dividendos, mas não votam."
+    },
+    {
+      "question": "YDUQ3 é FII de papel ou de tijolo?",
+      "answer": "YDUQ3 não é um FII. É a ação ordinária da YDUQS Participações S.A., uma holding de capital aberto com foco em educação superior, negociada na B3 sob o código YDUQ3, no segmento Novo Mercado."
+    },
+    {
+      "question": "YDUQ3 é boa para iniciantes?",
+      "answer": "A YDUQ3 apresenta volatilidade anualizada de 67,35% e beta de 2,05 contra o Ibovespa, o que indica movimentos mais intensos que o índice. A maior queda em 5 anos foi de -72,96%. A decisão de incluir o ativo em uma carteira depende do perfil de risco e dos objetivos do investidor. Para acompanhar a variação do preço, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "YDUQ3 e COGN3 são concorrentes?",
+      "answer": "Sim. A YDUQS e a Cogna Educação S.A. (COGN3) são as duas maiores empresas de educação superior do Brasil em receita. A YDUQS opera por meio de 66 instituições de ensino superior e 2.604 polos de ensino à distância, com mais de 1,3 milhão de alunos. A [COGN3](/acoes/cogn3) é a principal concorrente direta no setor educacional."
+    },
+    {
+      "question": "YDUQ3 e ANIM3 são concorrentes?",
+      "answer": "Sim. A YDUQS e a Ânima Holding S.A. (ANIM3) atuam no setor de educação superior no Brasil. A YDUQS opera por meio de 66 instituições de ensino superior e 2.604 polos de ensino à distância, com mais de 1,3 milhão de alunos. A [ANIM3](/acoes/anim3) é outra empresa do setor educacional com ações negociadas na B3."
+    },
+    {
+      "question": "Como acompanhar YDUQ3 no app?",
+      "answer": "Para acompanhar a YDUQ3 no app, utilize a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação e as maiores posições, o recurso de [dividendos e JCP no app](/recursos/proventos) para acompanhar os proventos, e o [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua carteira e os seus gastos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da YDUQ3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da YDUQ3 com o Ibovespa, o CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação quando a YDUQ3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe o gráfico de rentabilidade da YDUQ3 e o preço médio da sua posição, com variação do dia e do ano."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação da YDUQ3 ao lado de outras ações, renda fixa e fundos em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "COGN3",
+        "list": "br-stocks",
+        "reason": "Concorrente direta no setor de educação superior no Brasil."
+      },
+      {
+        "ticker": "ANIM3",
+        "list": "br-stocks",
+        "reason": "Outra empresa do setor de educação superior com ações negociadas na B3."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação de grande capitalização no Ibovespa, para comparação de desempenho e volatilidade."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Ação de grande capitalização no Ibovespa, para comparação de desempenho e volatilidade."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação de grande capitalização no Ibovespa, para comparação de desempenho e volatilidade."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de YDUQ3",
+      "url": "https://finance.yahoo.com/quote/YDUQ3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: YDUQS PART, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21016/YDUQ/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, YDUQS PARTICIPACOES S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: YDUQS",
+      "url": "https://www.wikidata.org/wiki/Q25419656",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Yduqs",
+      "url": "https://pt.wikipedia.org/wiki/Yduqs",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): YDUQS",
+      "url": "https://en.wikipedia.org/wiki/YDUQS",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/09/2026, “Fusão entre Yduqs e Afya”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1571031&numSequencia=1095737&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/08/2026, “Esclarecimentos sobre notícias envolvendo Yduqs e Afya”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1560562&numSequencia=1085268&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/05/2026, “Guidance”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1517969&numSequencia=1042675&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/03/2026, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1493132&numSequencia=1017838&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/08/2025, “Aquisição Unifametro”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1413090&numSequencia=937802&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/07/2025, “Alteração na Presidência da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1403855&numSequencia=928567&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 26/06/2025, “Alterações no Conselho de Administração e Diretoria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1394486&numSequencia=919198&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/05/2025, “Guidance”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1376384&numSequencia=901096&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

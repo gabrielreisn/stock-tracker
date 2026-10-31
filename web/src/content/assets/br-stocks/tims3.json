@@ -1,0 +1,395 @@
+{
+  "ticker": "TIMS3",
+  "slug": "tims3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TIMS3: história, dividendos e volatilidade",
+    "description": "TIMS3 é a ação ordinária da TIM S.A., operadora de telecomunicações. Veja dividendos, volatilidade, histórico e desempenho da TIMS3 na B3.",
+    "h1": "TIMS3: ação da TIM Brasil na B3",
+    "canonicalPath": "/acoes/tims3",
+    "keywords": [
+      "TIMS3",
+      "TIM Brasil",
+      "ação TIM",
+      "dividendos TIMS3",
+      "volatilidade TIMS3",
+      "TIMS3 B3",
+      "TIM S.A."
+    ]
+  },
+  "summary": "TIMS3 é a ação ordinária da TIM S.A., operadora de telecomunicações que atua no segmento de Comunicações. A empresa, controlada pelo Gruppo TIM, é a terceira maior operadora de telefonia móvel do Brasil. Em 30/10/2026, a ação cotava a R$ 19,33, com dividend yield de 7,62% nos 12 meses anteriores e rentabilidade total de -17,30% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "TIM Brasil",
+    "legalName": "TIM S.A.",
+    "ticker": "BVMF TIMS3",
+    "isin": "BRTIMSACNOR5",
+    "taxId": "02.421.421/0001-11",
+    "foundingDate": "1998-02-11",
+    "address": {
+      "locality": "Rio de Janeiro",
+      "region": "RJ",
+      "country": "BR"
+    },
+    "website": "https://www.tim.com.br/",
+    "wikidata": "Q2079243",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2079243",
+      "https://pt.wikipedia.org/wiki/TIM_Brasil",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24929/TIMS/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "TIM Brasil",
+    "legalName": "TIM S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Comunicações",
+    "segment": "Telecomunicações",
+    "founded": "11/02/1998",
+    "listedSince": "13/10/2020",
+    "headquarters": "Rio de Janeiro (RJ)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "TIM S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.421.421/0001-11",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Comunicações / Telecomunicações",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "11/02/1998",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Rio de Janeiro (RJ)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "13/10/2020",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "TIMS3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 19,33",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "30,19% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,53",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,62%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TIMS3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "TIM S.A.",
+    "currency": "BRL",
+    "price": 19.33,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.173,
+      "3y": 0.6312,
+      "5y": 1.5429,
+      "10y": 2.7258
+    },
+    "volatility1y": 0.3019,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3585,
+      "from": "2026-02-24",
+      "to": "2026-08-18"
+    },
+    "beta1y": {
+      "value": 0.53,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.4723,
+      "payments12Months": 5,
+      "yield12Months": 0.0762,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.21668
+      }
+    },
+    "avgDailyTradedValue3m": 167324740
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da TIMS3 nos 12 meses até 30/10/2026 foi de 30,19%, nível alto. A maior queda em 5 anos foi de -35,85%, entre 24/02/2026 e 18/08/2026. O beta de 0,53 contra o Ibovespa indica que a ação costuma acompanhar os movimentos do índice com amplitude menor, na mesma direção. Para acompanhar a volatilidade e definir alertas de preço, utilize o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "A TIM Brasil tem origem em 15 de julho de 1995, após a divisão das atividades de telefonia fixa e móvel da Telecom Italia. A companhia foi constituída em 11 de fevereiro de 1998, período em que um consórcio formado por UGB Participações e Bitel Participações adquiriu o controle das estatais Tele Celular Sul e Tele Nordeste Celular no processo de privatização da Telebrás. Em dezembro de 1998, a Telecom Itália comprou a participação da UGB, consolidando o controle estrangeiro. A unificação das operações no Brasil ocorreu em 1º de fevereiro de 2006, quando a TIM Participações passou a concentrar todas as atividades da empresa no país. No início de 2011, a TIM ultrapassou a Claro e tornou-se a segunda maior operadora de telefonia celular do país, após a compra da AES Atimus. Em 14 de dezembro de 2020, a TIM, em consórcio com Vivo e Claro, adquiriu 32% da Oi por R$ 6,98 bilhões, o que a tornou responsável pelos serviços de telecomunicações da Estação Antártica Comandante Ferraz. Em 11 de fevereiro de 2026, a TIM anunciou a aquisição da totalidade das ações da I-Systems, empresa que antes era a FiberCo, sua operação de redes neutras de fibra óptica.",
+    "timeline": [
+      {
+        "date": "1995-07-15",
+        "event": "Fundação da TIM Brasil",
+        "source": 3
+      },
+      {
+        "date": "1998-02-11",
+        "event": "Constituição da companhia TIM S.A.",
+        "source": 2
+      },
+      {
+        "date": "2006-02-01",
+        "event": "Unificação das operações no Brasil pela TIM Participações",
+        "source": 4
+      },
+      {
+        "date": "2011-07-08",
+        "event": "Compra da AES Atimus por R$ 1,6 bilhão",
+        "source": 4
+      },
+      {
+        "date": "2020-03-17",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2020-10-13",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2020-12-14",
+        "event": "Aquisição de 32% da Oi por R$ 6,98 bilhões",
+        "source": 4
+      },
+      {
+        "date": "2021-11",
+        "event": "Arrematação de 100MHz de frequência 3.5GHz para 5G por R$ 431 milhões",
+        "source": 4
+      },
+      {
+        "date": "2026-02-11",
+        "event": "Aquisição da totalidade das ações da I-Systems",
+        "source": 12
+      },
+      {
+        "date": "2026-02-24",
+        "event": "Divulgação do Plano Estratégico 2026 e atualização de projeções",
+        "source": 10
+      },
+      {
+        "date": "2026-08-19",
+        "event": "Anúncio do Programa de Recompra de Ações",
+        "source": 8
+      },
+      {
+        "date": "2026-09-17",
+        "event": "Cancelamento de ações em tesouraria",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a TIM Brasil ganha dinheiro",
+      "body": "A TIM S.A. atua no segmento de Telecomunicações, sendo a terceira maior operadora de telefonia móvel do Brasil, atrás da Vivo e da Claro. A empresa oferece serviços de telefonia celular, internet móvel e fixa, e possui cobertura em 100% das cidades do país (5.568), utilizando as tecnologias 3G, 4G e 5G, com o 4G sendo o sinal preponderante. A TIM também é responsável pelos serviços de telecomunicações da Estação Antártica Comandante Ferraz, em acordo de cooperação com a Marinha do Brasil. Em 2021, a empresa arrematou 100MHz de frequência 3.5GHz para a implantação da tecnologia 5G. Em 11 de fevereiro de 2026, a TIM anunciou a aquisição da totalidade das ações da I-Systems, que antes era a FiberCo, sua operação de redes neutras de fibra óptica."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da TIM Brasil",
+      "body": "A TIM S.A. é controlada pelo Gruppo TIM, com controle acionário classificado como privado holding pela CVM. A empresa está listada no segmento Novo Mercado da B3, sob o código de negociação TIMS3, com início de cotação em 13/10/2020. A ação TIMS3 é uma ação ordinária (ON), o que significa que o acionista tem direito a voto em assembleias e participação nos lucros da empresa, sem preferência sobre os proventos em relação a outras classes de ações, caso existam."
+    },
+    {
+      "id": "proventos",
+      "heading": "TIMS3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a TIMS3 distribuiu R$ 1,4723 por ação em 5 pagamentos, resultando em um dividend yield de 7,62%. O último pagamento foi de R$ 0,2167 em 23/09/2026. A empresa anunciou um Programa de Recompra de Ações em 19/08/2026, seguido pelo cancelamento de ações em tesouraria em 17/09/2026. Para acompanhar os dividendos e JCP da TIMS3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da TIMS3",
+      "body": "Em 30/10/2026, a TIMS3 cotava a R$ 19,33. A rentabilidade total com proventos nos 12 meses anteriores foi de -17,30%, enquanto nos 3 anos foi de 63,12% e nos 5 anos, 154,29%. A rentabilidade em 10 anos foi de 272,58%. Para comparar a rentabilidade da TIMS3 com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da TIMS3",
+      "body": "A volatilidade anualizada da TIMS3 nos 12 meses até 30/10/2026 foi de 30,19%, classificada como nível alto. A maior queda nos últimos 5 anos foi de -35,85%, do pico em 24/02/2026 ao ponto mais baixo em 18/08/2026. O beta de 0,53 contra o Ibovespa indica que a ação costuma acompanhar os movimentos do índice com amplitude menor. Riscos setoriais incluem a dependência de aprovações regulatórias da Anatel e a concorrência com outras operadoras. Para acompanhar a volatilidade e definir alertas de preço, utilize o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TIMS3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a TIMS3 distribuiu R$ 1,4723 por ação em 5 pagamentos, com dividend yield de 7,62%. O último pagamento foi de R$ 0,2167 em 23/09/2026. Para acompanhar os dividendos e JCP da TIMS3 com data com e data de pagamento, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre TIMS3 e TIMS4?",
+      "answer": "TIMS3 é a ação ordinária (ON) da TIM S.A., com direito a voto em assembleias. TIMS4 seria a ação preferencial (PN), com preferência nos proventos, mas sem direito a voto. A TIM S.A. está listada no segmento Novo Mercado da B3, sob o código TIMS3."
+    },
+    {
+      "question": "TIMS3 é ação de telecomunicações?",
+      "answer": "Sim. A TIM S.A. atua no segmento de Telecomunicações, sendo a terceira maior operadora de telefonia móvel do Brasil. A empresa oferece serviços de telefonia celular, internet móvel e fixa, e possui cobertura em 100% das cidades do país."
+    },
+    {
+      "question": "Qual o controle acionário da TIMS3?",
+      "answer": "A TIM S.A. é controlada pelo Gruppo TIM, com controle acionário classificado como privado holding pela CVM. A empresa está listada no segmento Novo Mercado da B3, sob o código TIMS3."
+    },
+    {
+      "question": "TIMS3 tem alta volatilidade?",
+      "answer": "Sim. A volatilidade anualizada da TIMS3 nos 12 meses até 30/10/2026 foi de 30,19%, classificada como nível alto. A maior queda em 5 anos foi de -35,85%, entre 24/02/2026 e 18/08/2026. Para acompanhar a volatilidade e definir alertas de preço, utilize o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "TIMS3 é a ação da TIM Brasil?",
+      "answer": "Sim. TIMS3 é a ação ordinária da TIM S.A., operadora de telecomunicações que atua no segmento de Comunicações. A empresa, controlada pelo Gruppo TIM, é a terceira maior operadora de telefonia móvel do Brasil."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da TIMS3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da TIMS3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina alertas de preço para a TIMS3 e receba notificações quando o ativo chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a TIMS3 junto com outros ativos da sua carteira, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VIVT3",
+        "list": "br-stocks",
+        "reason": "Outra ação de telecomunicações, a Vivo, concorrente direta da TIM no mercado de telefonia móvel."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação de grande porte do Ibovespa, útil para comparação de desempenho e diversificação de carteira."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Ação de grande porte do Ibovespa, útil para comparação de desempenho e diversificação de carteira."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TIMS3",
+      "url": "https://finance.yahoo.com/quote/TIMS3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: TIM, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24929/TIMS/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, TIM S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: TIM Brasil",
+      "url": "https://www.wikidata.org/wiki/Q2079243",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): TIM Brasil",
+      "url": "https://pt.wikipedia.org/wiki/TIM_Brasil",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/09/2026, “Information Regarding The Public Offer Addressed To Telecom Italia S.P.A. Shareholders”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569743&numSequencia=1094449&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/09/2026, “Cancelamento de Ações em Tesouraria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569166&numSequencia=1093872&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/09/2026, “Cancellation of Treasury Shares”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569217&numSequencia=1093923&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/08/2026, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1559552&numSequencia=1084258&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/08/2026, “Programa de Recompra de Ações - versão em inglês”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1559554&numSequencia=1084260&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/02/2026, “Plano Estratégico 2026 e Atualização de Projeções (GUIDANCE)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1481077&numSequencia=1005783&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/02/2026, “Strategic Plan 2026 e Guidance”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1481078&numSequencia=1005784&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/02/2026, “Aquisição da Totalidade das Ações da I-Systems”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1476218&numSequencia=1000924&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

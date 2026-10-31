@@ -1,0 +1,324 @@
+{
+  "ticker": "BTRU11",
+  "slug": "btru11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BTRU11: FII de renda urbana, dividendos e volatilidade",
+    "description": "Conheça o BTRU11, FII de tijolo da BTG Pactual com 23 imóveis e vacância de 0,0%. Veja dividendos, patrimônio e desempenho até 30/10/2026.",
+    "h1": "BTRU11: BTG Pactual Renda Urbana FII",
+    "canonicalPath": "/fiis/btru11",
+    "keywords": [
+      "BTRU11",
+      "FII BTG Pactual",
+      "renda urbana",
+      "dividendos BTRU11",
+      "volatilidade BTRU11"
+    ]
+  },
+  "summary": "BTRU11 é a cota do BTG Pactual Renda Urbana Fundo de Investimento Imobiliário, um FII de tijolo focado em imóveis comerciais e institucionais. Com patrimônio de R$ 756,5 milhões em setembro de 2026, o fundo possui 23 imóveis e vacância financeira de 0,0%. Distribuiu R$ 9,65 por cota nos últimos 12 meses, resultando em um dividend yield de 11,35% até 30/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "BTG Pactual Renda Urbana Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF BTRU11",
+    "isin": "BRBTRUCTF008",
+    "taxId": "08.098.114/0001-28",
+    "foundingDate": "2006-06-26",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=08098114000128"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, renda urbana",
+    "issuerOrManager": "BTG Pactual Serviços Financeiros S.A",
+    "name": "BTG Pactual Renda Urbana Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "26/06/2006",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "BTG PACTUAL RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "08.098.114/0001-28",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "26/06/2006",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 756,5 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "808",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 85,01",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 85,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "29,93% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,11",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,35%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BTRU11",
+    "list": "fiis",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "BTG Pactual Renda Urbana Fundo de Investimento Imobiliário",
+    "currency": "BRL",
+    "price": 85,
+    "historyStarts": "2020-12-28",
+    "returns": {
+      "1y": -0.0893,
+      "3y": 0.0152,
+      "5y": 0.2712,
+      "10y": null
+    },
+    "volatility1y": 0.2993,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2485,
+      "from": "2026-01-21",
+      "to": "2026-04-27"
+    },
+    "beta1y": {
+      "value": 0.11,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 9.65,
+      "payments12Months": 11,
+      "yield12Months": 0.1135,
+      "lastPayment": {
+        "date": "2026-10-21",
+        "amount": 0.85
+      }
+    },
+    "avgDailyTradedValue3m": 3431246
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do BTRU11 nos 12 meses até 30/10/2026 foi de 29,93%, nível classificado como alto. O beta de 0,11 contra o Ibovespa indica que o fundo tende a se mover em menor amplitude que o índice, na mesma direção. A maior queda em 5 anos foi de -24,85%, ocorrida entre 21/01/2026 e 27/04/2026. Esses números refletem a exposição do fundo a riscos de mercado imobiliário e a concentração em locatários específicos. Para acompanhar a volatilidade e definir alertas de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O BTG Pactual Renda Urbana FII (BTRU11) iniciou suas atividades em 26 de junho de 2006, com o objetivo de gerar renda e ganho de capital por meio de imóveis urbanos de uso institucional e comercial. Ao longo de sua história, o fundo passou por mudanças de gestão e nomenclatura, refletindo a evolução de suas administradoras. Em 2020, realizou uma oferta pública de cotas, e em 2023 promoveu nova emissão, ampliando sua base de cotistas e patrimônio. Em julho de 2026, o fundo alterou seu ticker de HSRE11 para BTRU11, alinhando-se à marca BTG Pactual, após a transição de gestão que envolveu a BRL Trust e a HSBC. A estratégia de gestão ativa tem incluído a venda de ativos desocupados, como a loja em São Luís-MA em 2025, que zerou a vacância do portfólio, e a renovação de contratos com grandes locatários, como a C&A.",
+    "timeline": [
+      {
+        "date": "2006-06-26",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2020-12-11",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2023-04-24",
+        "event": "Início de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2025-07-02",
+        "event": "Venda de loja em São Luís-MA, zerando a vacância do fundo",
+        "source": 5
+      },
+      {
+        "date": "2026-07-20",
+        "event": "Alteração do ticker de HSRE11 para BTRU11",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do BTRU11",
+      "body": "O BTRU11 é um FII de tijolo com gestão ativa, administrado pela BTG Pactual Serviços Financeiros S.A. DTVM e gerido pela BTG Pactual Gestora de Recursos Ltda. O objetivo do fundo é a geração de renda e ganho de capital por meio de investimentos em imóveis urbanos de uso institucional e comercial. Segundo o relatório gerencial de setembro de 2026, o portfólio conta com 23 imóveis, totalizando 111.811 m² de área bruta locável (ABL), distribuídos em 11 unidades federativas. A carteira é composta predominantemente por imóveis comerciais locados à C&A, além de ativos de outros locatários e um imóvel do segmento educacional. A vacância financeira do fundo é de 0,0%, indicando que todos os imóveis estão locados e gerando receita."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do BTRU11",
+      "body": "Nos 12 meses até 30/10/2026, o BTRU11 distribuiu R$ 9,65 por cota em 11 pagamentos, resultando em um dividend yield de 11,35%. O último provento foi de R$ 0,85 por cota, pago em 21/10/2026. O relatório gerencial de setembro de 2026 indica que a distribuição daquele mês representou um dividend yield anualizado de 12,0%, calculado com base no preço de fechamento de agosto. A tributação dos rendimentos de FIIs é de 15% de imposto de renda sobre os ganhos de capital, conforme mencionado no relatório gerencial. Para acompanhar os proventos do BTRU11, utilize a ferramenta de [dividendos e JCP no app](/recursos/proventos), que detalha as datas de competência e pagamento."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O BTRU11 realizou duas ofertas públicas de cotas, conforme documentos do FNET: uma encerrada em 11/12/2020 e outra encerrada em 27/04/2023. Em setembro de 2026, o fundo tinha 808 cotistas e um patrimônio líquido de R$ 756,5 milhões, com valor patrimonial da cota de R$ 85,01. O número de cotas emitidas era de 8.898.724. A taxa de administração no mês de setembro de 2026 foi de 0,088% sobre o patrimônio. Para comparar o BTRU11 com outros fundos, o [comparador de fundos](/recursos/comparador-de-fundos) permite buscar por nome, CNPJ ou gestora."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BTRU11",
+      "body": "A rentabilidade total do BTRU11, incluindo proventos, foi de -8,93% nos 12 meses até 30/10/2026, 1,52% em 3 anos e 27,12% em 5 anos. O fundo apresentou volatilidade anualizada de 29,93% no período de 12 meses, classificada como alta. O beta de 0,11 contra o Ibovespa indica que o ativo tende a acompanhar os movimentos do índice com menor amplitude. Para comparar o desempenho do BTRU11 com índices como o IFIX e o CDI, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BTRU11",
+      "body": "Os riscos do BTRU11 incluem a concentração em um único locatário (C&A), a vacância (embora atualmente zerada) e a sensibilidade a mudanças no mercado imobiliário. A volatilidade anualizada de 29,93% e a maior queda de -24,85% (de 21/01/2026 a 27/04/2026) refletem a exposição a esses riscos. O fundo também está sujeito a riscos de crédito e juros, comuns a FIIs de tijolo. Para monitorar a volatilidade e definir alertas de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BTRU11 paga dividendos?",
+      "answer": "Sim, o BTRU11 distribui proventos mensais. Nos 12 meses até 30/10/2026, foram distribuídos R$ 9,65 por cota, resultando em um dividend yield de 11,35%. O último pagamento foi de R$ 0,85 em 21/10/2026. Para acompanhar os proventos, use a ferramenta de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre BTRU11 e HSRE11?",
+      "answer": "BTRU11 é o novo ticker do fundo, que anteriormente era HSRE11. A alteração foi feita em 27 de julho de 2026, alinhando o fundo à marca BTG Pactual. O fundo é o mesmo, com o mesmo CNPJ e patrimônio."
+    },
+    {
+      "question": "BTRU11 é FII de papel ou de tijolo?",
+      "answer": "BTRU11 é um FII de tijolo, focado em imóveis urbanos de uso institucional e comercial. O portfólio inclui 23 imóveis, com vacância financeira de 0,0% em setembro de 2026."
+    },
+    {
+      "question": "Qual o dividend yield do BTRU11?",
+      "answer": "O dividend yield do BTRU11 nos 12 meses até 30/10/2026 foi de 11,35%, com base em R$ 9,65 distribuídos por cota. O relatório gerencial de setembro de 2026 indica um dividend yield anualizado de 12,0%."
+    },
+    {
+      "question": "Quem é a gestora do BTRU11?",
+      "answer": "A gestora do BTRU11 é a BTG Pactual Gestora de Recursos Ltda., e o administrador é a BTG Pactual Serviços Financeiros S.A. DTVM. O fundo passou por mudanças de gestão ao longo do tempo, envolvendo a BRL Trust e a HSBC."
+    },
+    {
+      "question": "BTRU11 tem vacância?",
+      "answer": "Não, a vacância financeira do BTRU11 é de 0,0% em setembro de 2026, indicando que todos os imóveis estão locados e gerando receita."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do BTRU11 com data de competência e pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do BTRU11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina alertas para acompanhar a volatilidade do BTRU11 e ser notificado quando o preço atingir um valor desejado."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do BTRU11 junto a outros ativos na sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "Outro FII de renda urbana, com foco em imóveis comerciais e institucionais."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII da mesma gestora (BTG Pactual), mas focado em logística."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda imobiliária, com portfólio diversificado em imóveis comerciais."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings, outro segmento de imóveis comerciais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BTRU11",
+      "url": "https://finance.yahoo.com/quote/BTRU11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do BTG RENDA URB FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo BTRU11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=08098114000128",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do BTRU11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338420",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BTRU11, 20/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1260543",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BTRU11, 02/07/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=938334",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

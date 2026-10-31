@@ -1,0 +1,288 @@
+{
+  "ticker": "MRCK34",
+  "slug": "mrck34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MRCK34: BDR da Merck & Co., dividendos e volatilidade",
+    "description": "Conheça o BDR MRCK34 da Merck & Co., com rentabilidade de 79,48% em 12 meses, dividend yield de 1,53% e volatilidade alta.",
+    "h1": "MRCK34: BDR da Merck & Co., Inc.",
+    "canonicalPath": "/bdrs/mrck34",
+    "keywords": [
+      "MRCK34",
+      "BDR Merck",
+      "Merck & Co.",
+      "dividendos MRCK34",
+      "volatilidade MRCK34",
+      "B3"
+    ]
+  },
+  "summary": "MRCK34 é o BDR não patrocinado (nível I) da Merck & Co., Inc., uma multinacional farmacêutica estadunidense com sede em Kenilworth, Nova Jersey. Negociado na B3 desde 09/11/2010, o ativo representa ações da empresa listada na Bolsa de Valores de Nova Iorque (ticker MRK). Em 30/10/2026, o BDR era cotado a R$ 100,15, apresentando rentabilidade total de 79,48% nos 12 meses anteriores, com dividend yield de 1,53%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Merck Sharp and Dohme",
+    "legalName": "MERCK & CO.. INC.",
+    "ticker": "BVMF MRCK34",
+    "foundingDate": "1891",
+    "website": "https://www.msd.no/",
+    "wikidata": "Q247489",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q247489",
+      "https://en.wikipedia.org/wiki/Merck_%26_Co.",
+      "https://pt.wikipedia.org/wiki/Merck_Sharp_and_Dohme",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50148/MRCK/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Merck Sharp and Dohme",
+    "legalName": "MERCK & CO.. INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1891",
+    "listedSince": "09/11/2010",
+    "headquarters": "Kenilworth, Filadélfia, Rahway",
+    "website": "https://www.msd.no/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "MERCK & CO.. INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: MRK",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Kenilworth, Filadélfia, Rahway",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1891",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "09/11/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 100,15",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "36,69% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,53%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 519.422,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MRCK34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Merck & Co., Inc.",
+    "currency": "BRL",
+    "price": 100.15,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.7948,
+      "3y": 0.6533,
+      "5y": 0.8183,
+      "10y": 4.6351
+    },
+    "volatility1y": 0.3669,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4223,
+      "from": "2024-06-26",
+      "to": "2025-05-14"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.5324,
+      "payments12Months": 4,
+      "yield12Months": 0.0153,
+      "lastPayment": {
+        "date": "2026-09-14",
+        "amount": 0.372715
+      }
+    },
+    "avgDailyTradedValue3m": 519422
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do MRCK34 nos últimos 12 meses foi de 36,69%, o que é considerado alto para um BDR. A maior queda em 5 anos foi de -42,23%, do pico em 26/06/2024 ao ponto mais baixo em 14/05/2025. O beta do ativo não está disponível, mas a volatilidade alta e a queda acentuada indicam que o BDR pode ter movimentos mais amplos em relação a índices de referência. Para acompanhar a volatilidade e definir alertas de preço, é possível usar os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Merck & Co. tem origens no Grupo Merck, fundado pela família Merck em 1668 na Alemanha. Em 1891, Theodore Weicker fundou a Merck & Co. nos Estados Unidos como filial do grupo alemão. Durante a Primeira Guerra Mundial, em 1917, o governo dos EUA expropriou 80% das ações de propriedade da matriz alemã. Em 1919, George F. Merck, em parceria com Goldman Sachs e Lehman Brothers, comprou a empresa de volta em leilão, tornando-a independente da matriz alemã. A empresa mantém os direitos da marca 'Merck' nos EUA e no Canadá, enquanto o antigo grupo detém os direitos no restante do mundo, o que gerou litígios até 2016. Em 1953, a fusão com a Sharp & Dohme, Inc. consolidou a empresa como a maior fabricante de medicamentos dos EUA, adotando o nome Merck Sharp & Dohme (MSD) no exterior. A Merck & Co. é reconhecida por descobertas médicas significativas, como a estreptomicina em 1943 e a primeira vacina contra caxumba em 1967. O BDR MRCK34 passou a ser negociado na B3 em 09/11/2010, permitindo que investidores brasileiros acompanhem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "1891",
+        "event": "Fundação da Merck & Co. como filial do Grupo Merck nos Estados Unidos",
+        "source": 2
+      },
+      {
+        "date": "1917",
+        "event": "Expropriação de 80% das ações pela matriz alemã devido à Primeira Guerra Mundial",
+        "source": 3
+      },
+      {
+        "date": "1919",
+        "event": "George F. Merck compra a empresa de volta em leilão do governo dos EUA",
+        "source": 3
+      },
+      {
+        "date": "1953",
+        "event": "Fusão com a Sharp & Dohme, Inc., tornando-se a maior fabricante de medicamentos dos EUA",
+        "source": 3
+      },
+      {
+        "date": "2010-11-09",
+        "event": "Listagem do BDR MRCK34 na B3",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Merck Sharp and Dohme ganha dinheiro",
+      "body": "A Merck & Co., Inc. é uma empresa farmacêutica, química e de ciências biológicas estadunidense, presente em 67 países. A receita da empresa vem principalmente de tratamentos para câncer, vacinas e produtos para saúde animal. Em 2024, 46% da receita, ou US$ 29,5 bilhões, vieram das vendas de Keytruda (pembrolizumab), um inibidor de PD-1 usado no tratamento de vários tipos de câncer. Outros 13% da receita, ou US$ 8,6 bilhões, vieram das vendas de Gardasil, uma vacina contra o HPV. Além disso, 9% da receita, ou US$ 5,8 bilhões, vieram de produtos para saúde animal. A empresa é classificada como a quinta maior empresa biomédica do mundo por receita."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR MRCK34",
+      "body": "O MRCK34 é um BDR não patrocinado (nível I) que representa ações da Merck & Co., Inc., listada na Bolsa de Valores de Nova Iorque sob o ticker MRK. O BDR é negociado na B3 em reais e foi listado em 09/11/2010. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o dólar e o real. Por ser não patrocinado, o BDR não é emitido pela própria empresa, mas por uma instituição depositária, e os direitos dos detentores são limitados em comparação com BDRs patrocinados."
+    },
+    {
+      "id": "proventos",
+      "heading": "MRCK34 paga dividendos?",
+      "body": "A Merck & Co. paga dividendos, que chegam aos detentores do BDR MRCK34 em reais. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 1,5324 por unidade em 4 pagamentos, resultando em um dividend yield de 1,53%. O último pagamento foi de R$ 0,3727 em 14/09/2026. É importante notar que a empresa paga na moeda local (dólar) e o valor é convertido para reais na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MRCK34",
+      "body": "A rentabilidade total do MRCK34, incluindo proventos, foi de 79,48% nos 12 meses até 30/10/2026, 65,33% em 3 anos, 81,83% em 5 anos e 463,51% em 10 anos. Esses números refletem a variação do preço do BDR e a variação do câmbio entre o dólar e o real. Para comparar o desempenho com outros índices, como o S&P 500 ou o CDI, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MRCK34",
+      "body": "O MRCK34 está sujeito a riscos cambiais, pois o preço do BDR é afetado pela variação do dólar em relação ao real. A volatilidade anualizada do BDR nos últimos 12 meses foi de 36,69%, considerada alta. A maior queda em 5 anos foi de -42,23%, do pico em 26/06/2024 ao ponto mais baixo em 14/05/2025. O volume médio negociado por dia nos últimos 3 meses foi de R$ 519.422,00, o que pode indicar menor liquidez em comparação com ativos mais negociados. Riscos setoriais incluem a dependência de poucos produtos, como Keytruda e Gardasil, e a concorrência no setor farmacêutico."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar MRCK34 no app",
+      "body": "Para quem tem MRCK34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do MRCK34 lado a lado com o S&P 500 e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o MRCK34 chegar ao preço que você escolheu, útil para acompanhar a volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe o MRCK34 junto com outros ativos da sua carteira, com valor por classe e alocação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MRCK34 paga dividendos?",
+      "answer": "Sim, o MRCK34 paga dividendos. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 1,5324 por unidade em 4 pagamentos, com dividend yield de 1,53%. O último pagamento foi de R$ 0,3727 em 14/09/2026. A empresa paga em dólar, e o valor é convertido para reais na data do pagamento."
+    },
+    {
+      "question": "O que é o BDR MRCK34?",
+      "answer": "O MRCK34 é um BDR não patrocinado (nível I) que representa ações da Merck & Co., Inc., listada na Bolsa de Valores de Nova Iorque sob o ticker MRK. O BDR é negociado na B3 em reais e foi listado em 09/11/2010. O preço do BDR acompanha a cotação da ação original e a variação do câmbio."
+    },
+    {
+      "question": "Qual a diferença entre MRCK34 e a ação MRK?",
+      "answer": "O MRCK34 é um BDR negociado na B3 em reais, enquanto a MRK é a ação original negociada na Bolsa de Valores de Nova Iorque em dólares. O preço do BDR reflete a cotação da ação original e a variação do câmbio. O BDR é emitido por uma instituição depositária, não pela própria empresa."
+    },
+    {
+      "question": "Qual a rentabilidade do MRCK34 nos últimos 12 meses?",
+      "answer": "A rentabilidade total do MRCK34, incluindo proventos, foi de 79,48% nos 12 meses até 30/10/2026. Esse número reflete a variação do preço do BDR e a variação do câmbio entre o dólar e o real."
+    },
+    {
+      "question": "Qual a volatilidade do MRCK34?",
+      "answer": "A volatilidade anualizada do MRCK34 nos últimos 12 meses foi de 36,69%, o que é considerado alto. A maior queda em 5 anos foi de -42,23%, do pico em 26/06/2024 ao ponto mais baixo em 14/05/2025."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do MRCK34 lado a lado com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o MRCK34 chegar ao preço que você escolheu, útil para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o MRCK34 junto com outros ativos da sua carteira, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LILY34",
+        "list": "bdrs",
+        "reason": "Outro BDR do setor farmacêutico, com a Eli Lilly and Company."
+      },
+      {
+        "ticker": "JNJB34",
+        "list": "bdrs",
+        "reason": "BDR da Johnson & Johnson, outra grande empresa do setor farmacêutico."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar o desempenho do MRCK34 com o mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MRCK34",
+      "url": "https://finance.yahoo.com/quote/MRCK34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MERCK, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50148/MRCK/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Merck Sharp and Dohme",
+      "url": "https://www.wikidata.org/wiki/Q247489",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Merck & Co.",
+      "url": "https://en.wikipedia.org/wiki/Merck_%26_Co.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Merck Sharp and Dohme",
+      "url": "https://pt.wikipedia.org/wiki/Merck_Sharp_and_Dohme",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

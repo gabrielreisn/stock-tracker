@@ -1,0 +1,397 @@
+{
+  "ticker": "USIM5",
+  "slug": "usim5",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "USIM5: história, dividendos e volatilidade",
+    "description": "Conheça a Usiminas (USIM5): setor de siderurgia, controle acionário, desempenho recente e volatilidade. Veja dados atualizados até 30/10/2026.",
+    "h1": "USIM5: Usiminas (Ação Preferencial)",
+    "canonicalPath": "/acoes/usim5",
+    "keywords": [
+      "USIM5",
+      "Usiminas",
+      "ações siderurgia",
+      "USIM5 dividendos",
+      "USIM5 volatilidade",
+      "USIM3",
+      "USIM6",
+      "ações materiais básicos"
+    ]
+  },
+  "summary": "USIM5 é a ação preferencial classe A da Usinas Siderúrgicas de Minas Gerais S.A. (Usiminas), empresa do setor de Materiais Básicos que produz aços planos como chapas grossas e laminados. A companhia, fundada em 1956 e sediada em Belo Horizonte, não distribuiu proventos nos últimos 12 meses. Em 30/10/2026, o papel era cotado a R$ 4,99, com rentabilidade total negativa de 10,41% no período de 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Usiminas",
+    "legalName": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+    "ticker": "BVMF USIM5",
+    "isin": "BRUSIMACNPA6",
+    "taxId": "60.894.730/0001-05",
+    "foundingDate": "1956-04-25",
+    "address": {
+      "locality": "Belo Horizonte",
+      "region": "MG",
+      "country": "BR"
+    },
+    "website": "https://www.usiminas.com",
+    "wikidata": "Q1540745",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1540745",
+      "https://pt.wikipedia.org/wiki/Usiminas",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/14320/USIM/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Usiminas",
+    "legalName": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+    "type": "Ação preferencial classe A (PNA)",
+    "sector": "Materiais Básicos",
+    "segment": "Siderurgia",
+    "founded": "25/04/1956",
+    "listedSince": "18/04/1994",
+    "headquarters": "Belo Horizonte (MG)",
+    "website": "https://www.usiminas.com"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "60.894.730/0001-05",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Siderurgia",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "25/04/1956",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Belo Horizonte (MG)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "18/04/1994",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "USIM3, USIM5, USIM6",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 4,99",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "47,99% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,80",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 85,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "USIM5",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Usinas Siderúrgicas de Minas Gerais S.A.",
+    "currency": "BRL",
+    "price": 4.99,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.1041,
+      "3y": -0.207,
+      "5y": -0.5591,
+      "10y": 0.4122
+    },
+    "volatility1y": 0.4799,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7356,
+      "from": "2022-02-09",
+      "to": "2025-07-18"
+    },
+    "beta1y": {
+      "value": 0.8,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2024-04-26",
+        "amount": 0.283058
+      }
+    },
+    "avgDailyTradedValue3m": 85183808
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 47,99% da USIM5 nos últimos 12 meses indica oscilações de preço intensas, um cenário comum para ações de empresas cíclicas do setor de materiais básicos. O beta de 0,80 contra o Ibovespa sugere que, historicamente, a USIM5 tende a se mover em menor amplitude que o índice, mas na mesma direção, o que não significa necessariamente menor risco absoluto. A maior queda em 5 anos, de -73,56% entre 09/02/2022 e 18/07/2025, destaca a capacidade de o papel sofrer desvalorizações profundas em períodos de estresse de mercado ou queda na demanda por aço."
+  },
+  "history": {
+    "overview": "A Usinas Siderúrgicas de Minas Gerais S.A. (Usiminas) foi constituída em 25 de abril de 1956 em Coronel Fabriciano, área que se tornaria o município de Ipatinga, no Vale do Aço. A empresa iniciou suas operações com forte participação estatal e apoio de capital e tecnologia japonesa, inaugurando sua primeira usina em 1962. Em 1973, a holding Siderbrás foi criada para coordenar o setor, recebendo participações acionárias de diversas siderúrgicas, incluindo a Usiminas. A virada estratégica ocorreu em 24 de outubro de 1991, quando a companhia se tornou a primeira estatal do Brasil a ser privatizada, processo que resultou em maior competitividade e produtividade. Em 1994, a Usiminas registrou-se como companhia aberta na CVM e começou a cotar suas ações na B3, consolidando-se como uma das principais produtoras de aços planos da América Latina.",
+    "timeline": [
+      {
+        "date": "1956-04-25",
+        "event": "Constituição legal da Usinas Siderúrgicas de Minas Gerais S.A.",
+        "source": 2
+      },
+      {
+        "date": "1991-10-24",
+        "event": "Privatização da Usiminas, tornando-se a primeira estatal do setor a ser vendida",
+        "source": 4
+      },
+      {
+        "date": "1994-04-11",
+        "event": "Registro da companhia como aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "1994-04-18",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-02-14",
+        "event": "Publicação das projeções de CAPEX para 2025",
+        "source": 12
+      },
+      {
+        "date": "2025-07-25",
+        "event": "Alteração na projeção de investimentos e Pad-up da Bateria 4 da Coqueria 2",
+        "source": 11
+      },
+      {
+        "date": "2025-11-05",
+        "event": "Compra e venda de ações do grupo de controle",
+        "source": 10
+      },
+      {
+        "date": "2026-02-12",
+        "event": "Alteração da moeda funcional utilizada pela Companhia",
+        "source": 8
+      },
+      {
+        "date": "2026-02-13",
+        "event": "Publicação das projeções de CAPEX para 2026",
+        "source": 7
+      },
+      {
+        "date": "2026-05-14",
+        "event": "Eleição da Diretoria Estatutária da Companhia",
+        "source": 6
+      },
+      {
+        "date": "2026-07-30",
+        "event": "Nova alteração na projeção de investimentos",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Usiminas ganha dinheiro",
+      "body": "A Usiminas atua no setor de Materiais Básicos, especificamente na siderurgia, sendo reconhecida como líder na produção e comercialização de aços planos no Brasil. A receita da companhia provém da venda de produtos siderúrgicos, que incluem chapas grossas, laminados a quente e a frio, placas e produtos galvanizados. O Sistema Usiminas é descrito como o maior complexo siderúrgico de aços planos da América Latina, com operações localizadas no Vale do Aço, em Minas Gerais. A empresa opera em um mercado cíclico, onde a demanda por aço está diretamente ligada à atividade de setores como construção civil, automobilístico e naval."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Usiminas",
+      "body": "O controle acionário da Usiminas é classificado como privado pela CVM. A companhia possui três códigos de negociação na B3: USIM3, USIM5 e USIM6. A USIM5 é uma ação preferencial classe A (PNA), o que significa que, em caso de liquidação, seus detentores têm preferência no recebimento de proventos em relação às ações ordinárias. Em contrapartida, as ações preferenciais geralmente não possuem direito a voto em assembleias gerais, diferentemente das ações ordinárias (USIM3). A empresa está listada no Nível 1 de Governança Corporativa da B3, o que indica o cumprimento de práticas mínimas de transparência e divulgação de informações."
+    },
+    {
+      "id": "proventos",
+      "heading": "USIM5 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a USIM5 não distribuiu proventos, como dividendos ou juros sobre capital próprio (JCP). A ausência de pagamentos nesse período reflete a política de remuneração aos acionistas, que pode variar conforme a geração de caixa e as necessidades de investimento da companhia. Para acompanhar a distribuição de proventos de outras empresas ou verificar se a USIM5 volta a pagar, é possível utilizar a ferramenta de [dividendos e JCP no app](/recursos/proventos), que consolida as datas de pagamento com base nos comunicados da B3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da USIM5",
+      "body": "Até 30/10/2026, a USIM5 apresentava uma rentabilidade total com proventos de -10,41% nos últimos 12 meses, -20,70% em 3 anos e -55,91% em 5 anos. No período de 10 anos, o retorno acumulado foi de 41,22%. Esses números mostram a volatilidade e a oscilação do papel em diferentes horizontes de tempo. Para entender como esse desempenho se compara a outros investimentos, o recurso de [comparação com índices](/recursos/comparacao-com-indices) permite visualizar a rentabilidade da carteira ao lado do Ibovespa, CDI e IPCA."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da USIM5",
+      "body": "A USIM5 apresenta uma volatilidade anualizada de 47,99% nos últimos 12 meses, classificada como muito alta. A maior queda registrada nos últimos 5 anos foi de -73,56%, ocorrendo entre o pico em 09/02/2022 e o ponto mais baixo em 18/07/2025. A exposição a riscos setoriais é inerente à siderurgia, um setor cíclico sensível a flutuações na demanda global de aço, custos de insumos e variações cambiais. A alteração da moeda funcional da companhia, divulgada em fevereiro de 2026, indica sensibilidade a fatores internacionais. Investidores que desejam monitorar oscilações bruscas de preço podem configurar [alertas de preço](/recursos/alertas-de-preco) para serem notificados quando o ativo atingir níveis específicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "USIM5 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, a USIM5 não distribuiu proventos. A política de dividendos da Usiminas pode variar conforme a geração de caixa e os investimentos da empresa. É possível acompanhar o histórico de pagamentos de outras empresas através do recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre USIM3 e USIM5?",
+      "answer": "A USIM3 é a ação ordinária da Usiminas, que confere direito a voto em assembleias, enquanto a USIM5 é a ação preferencial classe A, que tem prioridade no recebimento de proventos, mas geralmente não possui direito a voto. Ambas representam participação no capital da mesma empresa, mas com direitos societários distintos."
+    },
+    {
+      "question": "O que a Usiminas produz?",
+      "answer": "A Usiminas é uma siderúrgica que produz aços planos, como chapas grossas, laminados a quente e a frio, placas e produtos galvanizados. A empresa é considerada líder nesse segmento no Brasil e faz parte do maior complexo siderúrgico de aços planos da América Latina."
+    },
+    {
+      "question": "Qual o setor da USIM5?",
+      "answer": "A USIM5 pertence ao setor de Materiais Básicos, no segmento de Siderurgia e Metalurgia. A atividade da empresa está ligada à produção de aço, o que a torna sensível a ciclos econômicos e à demanda de setores como construção civil e indústria automotiva."
+    },
+    {
+      "question": "Qual a volatilidade da USIM5?",
+      "answer": "A volatilidade anualizada da USIM5 nos últimos 12 meses é de 47,99%, um nível considerado muito alto. Isso reflete a natureza cíclica do setor de siderurgia. Para monitorar oscilações, é possível usar os [alertas de preço](/recursos/alertas-de-preco) do app."
+    },
+    {
+      "question": "Quem controla a Usiminas?",
+      "answer": "O controle acionário da Usiminas é classificado como privado pela CVM. A empresa passou por um processo de privatização em 1991, tornando-se a primeira estatal do setor a ser vendida, o que alterou sua estrutura de governança e gestão."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da USIM5 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da USIM5 com o Ibovespa e o CDI no mesmo gráfico para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a USIM5 atingir o preço que você escolheu, útil para acompanhar a alta volatilidade do papel."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a USIM5 junto com seus outros ativos para entender a alocação e o impacto na diversificação da carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CSNA3",
+        "list": "br-stocks",
+        "reason": "Outra grande siderúrgica brasileira, com exposição similar ao ciclo do aço."
+      },
+      {
+        "ticker": "GGBR4",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de siderurgia, permitindo comparação de desempenho no mesmo segmento."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Líder no setor de mineração, outro componente fundamental da cadeia de insumos para a siderurgia."
+      },
+      {
+        "ticker": "USO",
+        "list": "us-etfs",
+        "reason": "ETF de petróleo, útil para acompanhar custos de energia que impactam a produção de aço."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de USIM5",
+      "url": "https://finance.yahoo.com/quote/USIM5.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: USIMINAS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/14320/USIM/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Usiminas",
+      "url": "https://www.wikidata.org/wiki/Q1540745",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Usiminas",
+      "url": "https://pt.wikipedia.org/wiki/Usiminas",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/07/2026, “Alteração na projeção de investimentos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1549538&numSequencia=1074244&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/05/2026, “Eleição da Diretoria Estatutária da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1522263&numSequencia=1046969&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/02/2026, “Projeções de CAPEX para 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1477416&numSequencia=1002122&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/02/2026, “Alteração da moeda funcional utilizada pela Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1477332&numSequencia=1002038&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/02/2026, “Compra e venda de ações do grupo de controle.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1476362&numSequencia=1001068&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/11/2025, “Compra e venda de ações do grupo de controle.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1439783&numSequencia=964495&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/07/2025, “Alteração na projeção de investimentos e Pad-up da Bateria 4 da Coqueria 2”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1403966&numSequencia=928678&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/02/2025, “Projeções de CAPEX para 2025”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1334990&numSequencia=859716&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

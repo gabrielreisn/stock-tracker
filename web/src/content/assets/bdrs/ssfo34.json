@@ -1,0 +1,339 @@
+{
+  "ticker": "SSFO34",
+  "slug": "ssfo34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SSFO34: BDR da Salesforce, dividendos e volatilidade",
+    "description": "Conheça o SSFO34, BDR da Salesforce na B3. Veja dividendos, rentabilidade, volatilidade e como funciona o BDR não patrocinado nível I.",
+    "h1": "SSFO34: BDR da Salesforce, Inc.",
+    "canonicalPath": "/bdrs/ssfo34",
+    "keywords": [
+      "SSFO34",
+      "Salesforce BDR",
+      "BDR Salesforce",
+      "SSFO34 dividendos",
+      "SSFO34 volatilidade",
+      "BDR nível I",
+      "Salesforce CRM",
+      "SSFO34 B3"
+    ]
+  },
+  "summary": "SSFO34 é o BDR não patrocinado (nível I) da Salesforce, Inc., empresa americana de software de gestão de relacionamento com clientes (CRM) e inteligência artificial. Listado na B3 desde 12/02/2016, o ativo representa ações da Salesforce negociadas na Bolsa de Valores de Nova Iorque (ticker CRM). Em 30/10/2026, o preço era de R$ 57,00, com patrimônio de mercado de US$ 186 bilhões em março de 2026.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Salesforce",
+    "legalName": "SALESFORCE. INC.",
+    "ticker": "BVMF SSFO34",
+    "foundingDate": "1999-02-03",
+    "website": "https://www.salesforce.com",
+    "wikidata": "Q941127",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q941127",
+      "https://en.wikipedia.org/wiki/Salesforce",
+      "https://pt.wikipedia.org/wiki/Salesforce",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51195/SSFO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Salesforce",
+    "legalName": "SALESFORCE. INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "03/02/1999",
+    "listedSince": "12/02/2016",
+    "headquarters": "Salesforce Tower, São Francisco",
+    "website": "https://www.salesforce.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "SALESFORCE. INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: CRM",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Salesforce Tower, São Francisco",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "03/02/1999",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/02/2016",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 57,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "51,08% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,50%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SSFO34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Salesforce, Inc.",
+    "currency": "BRL",
+    "price": 57,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0843,
+      "3y": 0.2667,
+      "5y": -0.2581,
+      "10y": 4.6166
+    },
+    "volatility1y": 0.5108,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6479,
+      "from": "2024-12-04",
+      "to": "2026-06-22"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.2834,
+      "payments12Months": 4,
+      "yield12Months": 0.005,
+      "lastPayment": {
+        "date": "2026-09-16",
+        "amount": 0.069814
+      }
+    },
+    "avgDailyTradedValue3m": 1101701
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do SSFO34 nos últimos 12 meses foi de 51,08%, um nível considerado muito alto para um BDR. A maior queda nos últimos 5 anos foi de -64,79%, entre 04/12/2024 e 22/06/2026. O beta do ativo não está disponível nos dados fornecidos. A alta volatilidade reflete a sensibilidade do setor de tecnologia a mudanças de mercado e a exposição cambial do BDR. Para monitorar oscilações de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) pode ser útil."
+  },
+  "history": {
+    "overview": "A Salesforce, Inc. foi fundada em 03/02/1999 por Marc Benioff, ex-executivo da Oracle, junto com Parker Harris, Dave Moellenhoff e Frank Dominguez. A empresa surgiu como pioneira no modelo de software como serviço (SaaS), lançando seu primeiro protótipo em novembro de 1999. Apesar de sofrer com a quebra da bolha dot-com, que resultou em demissões de 20% da força de trabalho, a empresa manteve o crescimento de suas receitas, que subiram de US$ 5,4 milhões em 2000 para US$ 22,4 milhões em 2001. Em junho de 2004, a Salesforce realizou sua oferta pública inicial (IPO) na Bolsa de Valores de Nova Iorque, sob o ticker CRM, levantando US$ 110 milhões. Em 2009, a empresa ultrapassou a marca de US$ 1 bilhão em receita anual. Em 2020, a Salesforce entrou para o Dow Jones Industrial Average, substituindo a ExxonMobil, e em agosto de 2022 superou a SAP em receita e capitalização de mercado, tornando-se a maior empresa de software de aplicações corporativas do mundo, segundo análises do setor. O BDR SSFO34 começou a ser negociado na B3 em 12/02/2016, permitindo que investidores brasileiros acompanhassem a empresa sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "1999-02-03",
+        "event": "Fundação da Salesforce, Inc. por Marc Benioff e outros sócios.",
+        "source": 2
+      },
+      {
+        "date": "2004-06",
+        "event": "Realização da oferta pública inicial (IPO) na Bolsa de Valores de Nova Iorque (NYSE) sob o ticker CRM.",
+        "source": 3
+      },
+      {
+        "date": "2009",
+        "event": "A empresa ultrapassa a marca de US$ 1 bilhão em receita anual.",
+        "source": 3
+      },
+      {
+        "date": "2016-02-12",
+        "event": "Listagem do BDR SSFO34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2019-08",
+        "event": "Aquisição da plataforma de análise visual Tableau por US$ 15,7 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2020",
+        "event": "Inclusão da Salesforce no índice Dow Jones Industrial Average.",
+        "source": 3
+      },
+      {
+        "date": "2021-07",
+        "event": "Fechamento da aquisição da Slack por US$ 27,7 bilhões, a maior da história da empresa.",
+        "source": 3
+      },
+      {
+        "date": "2022-08",
+        "event": "A Salesforce supera a SAP em receita e capitalização de mercado.",
+        "source": 3
+      },
+      {
+        "date": "2023-01",
+        "event": "Anúncio de demissão de aproximadamente 10% da força de trabalho (cerca de 8.000 posições).",
+        "source": 3
+      },
+      {
+        "date": "2024-01",
+        "event": "Anúncio de demissão de 700 funcionários globais.",
+        "source": 3
+      },
+      {
+        "date": "2025-10",
+        "event": "Marc Benioff declara apoio a Donald Trump e sugere uso da Guarda Nacional em São Francisco, gerando controvérsia.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Salesforce ganha dinheiro",
+      "body": "A Salesforce, Inc. é uma empresa americana de software empresarial, conhecida principalmente por seu sistema de gestão de relacionamento com clientes (CRM) chamado Sales Cloud. A empresa opera sob o modelo de software como serviço (SaaS), oferecendo assinaturas para soluções de vendas, atendimento ao cliente, automação de marketing, comércio eletrônico, análise de dados e inteligência artificial. A receita provém majoritariamente de contratos de assinatura e serviços de suporte. No ano fiscal de 2026, encerrado em 31 de janeiro de 2026, a empresa registrou receita recorde de US$ 41,5 bilhões. A Salesforce possui presença em mais de 23 países e, em 2022, adquiriu a Atonit, uma empresa brasileira de marketplace, marcando sua primeira compra no mercado local."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR SSFO34",
+      "body": "SSFO34 é um BDR não patrocinado de nível I, o que significa que é um recibo negociado na B3, em reais, que representa ações da Salesforce, Inc. negociadas na Bolsa de Valores de Nova Iorque (ticker CRM). O BDR não é emitido pela própria empresa, mas por uma instituição depositária. O preço do SSFO34 acompanha a cotação da ação original nos Estados Unidos e a variação do câmbio entre o dólar e o real. O ativo está listado na B3 desde 12/02/2016."
+    },
+    {
+      "id": "proventos",
+      "heading": "SSFO34 paga dividendos?",
+      "body": "Sim, SSFO34 paga dividendos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 0,2834 por BDR em 4 pagamentos, resultando em um dividend yield de 0,50%. O último pagamento registrado foi de R$ 0,0698 em 16/09/2026. É importante lembrar que a Salesforce paga dividendos em dólares, e o valor recebido pelo investidor brasileiro é convertido para reais na data do pagamento, sujeito à variação cambial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SSFO34",
+      "body": "A rentabilidade total do SSFO34, incluindo proventos, foi de -8,43% nos 12 meses até 30/10/2026. No período de 3 anos, o retorno foi de 26,67%, enquanto em 5 anos foi de -25,81%. Em 10 anos, a rentabilidade acumulada foi de 461,66%. Esses números estão em reais e incluem a variação do câmbio entre o dólar e o real. Para comparar o desempenho do SSFO34 com índices de referência, como o S&P 500 ou o CDI, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SSFO34",
+      "body": "O principal risco do SSFO34 é o risco cambial, pois o ativo é lastreado em ações negociadas em dólares, e sua cotação em reais depende da taxa de câmbio. A volatilidade anualizada do BDR nos últimos 12 meses foi de 51,08%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -64,79%, ocorrida do pico em 04/12/2024 ao ponto mais baixo em 22/06/2026. A liquidez do BDR na B3 é moderada, com volume médio negociado de R$ 1,1 milhão por dia nos últimos 3 meses. Riscos corporativos incluem a dependência do modelo de assinatura SaaS, a concorrência no setor de software e a estabilidade da liderança, que passou por mudanças significativas entre 2020 e 2023. Para acompanhar a volatilidade, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SSFO34 paga dividendos?",
+      "answer": "Sim, SSFO34 paga dividendos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 0,2834 por BDR em 4 pagamentos, com dividend yield de 0,50%. O último pagamento foi de R$ 0,0698 em 16/09/2026. Os valores são convertidos de dólares para reais na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre SSFO34 e a ação CRM nos EUA?",
+      "answer": "SSFO34 é um BDR que representa a ação CRM da Salesforce na Bolsa de Valores de Nova Iorque. O BDR é negociado na B3 em reais, enquanto a ação CRM é negociada nos EUA em dólares. O preço do SSFO34 acompanha a cotação da CRM e a variação do câmbio. O BDR permite que investidores brasileiros tenham exposição à Salesforce sem abrir conta no exterior."
+    },
+    {
+      "question": "SSFO34 é BDR patrocinado ou não patrocinado?",
+      "answer": "SSFO34 é um BDR não patrocinado de nível I. Isso significa que não é emitido pela própria Salesforce, mas por uma instituição depositária. O nível I é o mais básico, sem obrigações de divulgação de informações financeiras adicionais além das já disponíveis publicamente."
+    },
+    {
+      "question": "Qual o risco cambial do SSFO34?",
+      "answer": "O SSFO34 tem risco cambial porque é lastreado em ações negociadas em dólares. Se o dólar se valorizar em relação ao real, o preço do BDR tende a subir, e vice-versa. A rentabilidade do BDR em reais inclui a variação do câmbio, o que pode amplificar ou reduzir os retornos em relação à ação original nos EUA."
+    },
+    {
+      "question": "Qual a liquidez do SSFO34 na B3?",
+      "answer": "O volume médio negociado do SSFO34 nos últimos 3 meses foi de R$ 1,1 milhão por dia. Isso indica uma liquidez moderada, o que pode afetar a facilidade de compra e venda em grandes quantidades. Para acompanhar a cotação durante o pregão, use o [widget na barra de menus](/recursos/widget-da-barra-de-menus) do app."
+    },
+    {
+      "question": "SSFO34 é bom para iniciantes?",
+      "answer": "Não é possível dizer se SSFO34 é bom para iniciantes, pois isso depende do perfil de risco e dos objetivos de cada investidor. O BDR tem alta volatilidade (51,08% nos últimos 12 meses) e exposição cambial, o que pode torná-lo mais arriscado para quem não está preparado para oscilações de preço. Consulte a [carteira consolidada](/recursos/carteira-consolidada) no app para avaliar a alocação do ativo em relação ao seu portfólio."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do SSFO34 lado a lado com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o SSFO34 atingir o preço que você definiu, útil para acompanhar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do SSFO34 junto com outros ativos da sua carteira, como ações e ETFs."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Visualize o ganho e a variação do SSFO34 na sua carteira, com gráfico de rentabilidade e preço médio."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em SSFO34 e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia com alta volatilidade e exposição ao setor de semicondutores."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de software e nuvem, similar ao setor da Salesforce."
+      },
+      {
+        "ticker": "ORCL34",
+        "list": "bdrs",
+        "reason": "BDR da Oracle, empresa de software e nuvem, e ex-empregadora do fundador da Salesforce."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para BDRs de empresas americanas."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq 100, com forte peso em empresas de tecnologia como a Salesforce."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SSFO34",
+      "url": "https://finance.yahoo.com/quote/SSFO34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SALESFOR INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51195/SSFO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Salesforce",
+      "url": "https://www.wikidata.org/wiki/Q941127",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Salesforce",
+      "url": "https://en.wikipedia.org/wiki/Salesforce",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Salesforce",
+      "url": "https://pt.wikipedia.org/wiki/Salesforce",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

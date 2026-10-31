@@ -1,0 +1,360 @@
+{
+  "ticker": "VGHF11",
+  "slug": "vghf11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VGHF11: FII de papel, rendimentos e volatilidade",
+    "description": "VGHF11 é um FII de papel com foco em CRIs e fundos. Veja rendimentos, volatilidade e patrimônio do Valora Hedge Fund FII até 29/10/2026.",
+    "h1": "VGHF11: Valora Hedge Fund FII - História, Rendimentos e Volatilidade",
+    "canonicalPath": "/fiis/vghf11",
+    "keywords": [
+      "VGHF11",
+      "Valora Hedge Fund FII",
+      "FII de papel",
+      "CRIs",
+      "rendimentos de FII",
+      "volatilidade de FII"
+    ]
+  },
+  "summary": "VGHF11 é a cota do Valora Hedge Fund Fundo de Investimento Imobiliário, um fundo de investimento imobiliário (FII) com foco em ativos de papel, como Certificados de Recebíveis Imobiliários (CRIs), e cotas de outros fundos. Administrado pelo Banco Daycoval e gerido pela Valora, o fundo tem como objetivo investir em ativos imobiliários diversificados. Em 29/10/2026, a cota valia R$ 4,81, com patrimônio líquido de R$ 1,36 bilhão em setembro de 2026. (Fontes [0], [1], [3])",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Valora Hedge Fund Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "VALORA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF VGHF11",
+    "isin": "BRVGHFCTF005",
+    "taxId": "36.771.692/0001-19",
+    "foundingDate": "2021-02-26",
+    "provider": {
+      "name": ".BANCO DAYCOVAL S/A",
+      "url": "https://www.daycoval.com.br/investimentos/servicos-fiduciarios"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36771692000119"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI) e fundos",
+    "issuerOrManager": "Valora Gestão de Investimentos (gestora) e Banco Daycoval S.A",
+    "name": "Valora Hedge Fund Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "VALORA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "26/02/2021",
+    "administrator": ".BANCO DAYCOVAL S/A",
+    "website": "https://www.daycoval.com.br/investimentos/servicos-fiduciarios"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "VALORA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "36.771.692/0001-19",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Definida",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": ".BANCO DAYCOVAL S/A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "26/02/2021",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,36 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "280.719",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 8,26",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 4,81",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "26,42% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,53",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "16,84%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VGHF11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Valora Hedge Fund Fundo De Investimento Imobiliario - Fii",
+    "currency": "BRL",
+    "price": 4.81,
+    "historyStarts": "2024-02-06",
+    "returns": {
+      "1y": -0.2828,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.2642,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3046,
+      "from": "2024-03-28",
+      "to": "2026-08-17"
+    },
+    "beta1y": {
+      "value": 0.53,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.81,
+      "payments12Months": 12,
+      "yield12Months": 0.1684,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.06
+      }
+    },
+    "avgDailyTradedValue3m": 2747825
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do VGHF11 é de 26,42%, nível alto, com beta de 0,53 contra o Ibovespa, indicando movimentos menores que o índice. A maior queda em 5 anos foi de -30,46%, de 28/03/2024 a 17/08/2026. Para FIIs de papel, essa volatilidade é comum devido à sensibilidade a juros e crédito. (Fonte 0)"
+  },
+  "history": {
+    "overview": "O Valora Hedge Fund Fundo de Investimento Imobiliário (VGHF11) iniciou suas atividades em 26 de fevereiro de 2021, com o objetivo de investir em ativos imobiliários de papel e fundos. Desde então, o fundo realizou diversas ofertas públicas de cotas para captar recursos e expandir seu patrimônio. Em 2021, houve duas ofertas, encerradas em março e novembro. Em 2022, duas ofertas foram realizadas em fevereiro e abril. Em 2023, três ofertas ocorreram entre julho e dezembro. Essas emissões permitiram ao fundo aumentar seu patrimônio e diversificar sua carteira. (Fontes 1, 2)",
+    "timeline": [
+      {
+        "date": "2021-02-01",
+        "event": "Início da primeira oferta pública de cotas do VGHF11.",
+        "source": 2
+      },
+      {
+        "date": "2021-02-26",
+        "event": "Início das atividades do fundo, com registro na CVM.",
+        "source": 1
+      },
+      {
+        "date": "2021-03-01",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2021-09-28",
+        "event": "Início da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2021-11-17",
+        "event": "Encerramento da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2022-02-14",
+        "event": "Início e encerramento da terceira oferta pública de cotas no mesmo dia.",
+        "source": 2
+      },
+      {
+        "date": "2022-02-24",
+        "event": "Início da quarta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2022-04-06",
+        "event": "Encerramento da quarta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-07-21",
+        "event": "Início da quinta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-08-29",
+        "event": "Encerramento da quinta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-11-21",
+        "event": "Início da sexta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-12-12",
+        "event": "Encerramento da sexta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-12-27",
+        "event": "Encerramento da sétima oferta pública de cotas.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do VGHF11",
+      "body": "O VGHF11 é um FII de papel, classificado pela ANBIMA como FII de Títulos de Valores Mobiliários com Gestão Ativa. Seu objetivo é investir em ativos imobiliários como CRIs, debêntures, participações em SPEs, cotas de FIPs, FIAs, CEPACs, cotas de outros FIIs, letras hipotecárias e letras de crédito imobiliário. Em agosto de 2026, 102,1% do patrimônio estava alocado em 133 ativos, divididos entre as carteiras VALOR (51,8%) e RENDA (48,2%). A carteira RENDA incluiu CRIs indexados ao CDI, como os da Barra da Tijuca, com cupons de CDI + 4,5% e CDI + 6,0%. (Fonte 3)"
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do VGHF11",
+      "body": "Nos 12 meses até 29/10/2026, o VGHF11 distribuiu R$ 0,8100 por cota em 12 pagamentos, resultando em um dividend yield de 16,84%. O último pagamento foi de R$ 0,0600 em 01/10/2026. Em agosto de 2026, a distribuição foi de R$ 0,06 por cota, equivalente a 9,2% ao ano. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas. (Fontes 0, 3)"
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O VGHF11 realizou 7 ofertas públicas de cotas entre 2021 e 2023, conforme o FNET. Em setembro de 2026, o patrimônio líquido era de R$ 1,36 bilhão, com 280.719 cotistas e valor patrimonial da cota de R$ 8,26. O número de cotistas subiu para 358.491 em agosto de 2026. (Fontes 1, 2, 3)"
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VGHF11",
+      "body": "A rentabilidade total do VGHF11 nos 12 meses até 29/10/2026 foi de -28,28%, com a cota a R$ 4,81. A volatilidade anualizada foi de 26,42%, nível alto. O beta contra o Ibovespa foi 0,53. Em agosto de 2026, a cota patrimonial caiu R$ 0,04, acompanhando a queda de 1,47% do IFIX. (Fontes 0, 3)"
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VGHF11",
+      "body": "Os riscos do VGHF11 incluem crédito (inadimplência de CRIs, como os da Selina marcados a zero), vacância (em ativos de tijolo) e juros (sensibilidade a mudanças na taxa Selic). A volatilidade anualizada de 26,42% e a maior queda de -30,46% (de 28/03/2024 a 17/08/2026) refletem esses riscos. (Fontes 0, 3)"
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar VGHF11 no app",
+      "body": "Para quem tem VGHF11 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [rendimentos do VGHF11 no app](/recursos/proventos): Veja os rendimentos do VGHF11 com data de pagamento, multiplicados pela sua quantidade.\n- [comparação com IFIX no app](/recursos/comparacao-com-indices): Compare a rentabilidade do VGHF11 com o IFIX e outros índices no mesmo gráfico.\n- [alertas de preço do VGHF11](/recursos/alertas-de-preco): Receba uma notificação quando o VGHF11 chegar ao preço que você escolheu.\n- [carteira consolidada no app](/recursos/carteira-consolidada): Veja o VGHF11 junto com seus outros ativos, com alocação por classe."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VGHF11 é FII de papel ou de tijolo?",
+      "answer": "VGHF11 é um FII de papel, focado em CRIs e outros ativos imobiliários. Ele também investe em cotas de outros FIIs, mas não possui imóveis físicos. (Fonte 3)"
+    },
+    {
+      "question": "VGHF11 paga rendimentos?",
+      "answer": "Sim, o VGHF11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram R$ 0,8100 por cota, com dividend yield de 16,84%. (Fonte 0)"
+    },
+    {
+      "question": "Qual a taxa de administração do VGHF11?",
+      "answer": "A taxa de administração é de 0,90% ao ano sobre o patrimônio líquido, com mínimo de R$ 10.000 mensais. Em setembro de 2026, foi 0,069% sobre o patrimônio. (Fontes 1, 3)"
+    },
+    {
+      "question": "VGHF11 tem risco de crédito?",
+      "answer": "Sim, o VGHF11 investe em CRIs, que têm risco de crédito. Os CRIs da Selina estão marcados a zero na carteira, mas os demais ativos são adimplentes. (Fonte 3)"
+    },
+    {
+      "question": "Quantos cotistas tem o VGHF11?",
+      "answer": "Em setembro de 2026, o VGHF11 tinha 280.719 cotistas, número que subiu para 358.491 em agosto de 2026. (Fontes 1, 3)"
+    },
+    {
+      "question": "VGHF11 é isento de imposto de renda?",
+      "answer": "Sim, os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. (Fonte 3)"
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "rendimentos do VGHF11 no app",
+        "context": "Veja os rendimentos do VGHF11 com data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX no app",
+        "context": "Compare a rentabilidade do VGHF11 com o IFIX e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço do VGHF11",
+        "context": "Receba uma notificação quando o VGHF11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada no app",
+        "context": "Veja o VGHF11 junto com seus outros ativos, com alocação por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHF11",
+        "list": "fiis",
+        "reason": "Outro FII de papel com estratégia similar, focado em CRIs e fundos."
+      },
+      {
+        "ticker": "VGIR11",
+        "list": "fiis",
+        "reason": "FII da mesma gestora, Valora, com foco em ativos imobiliários."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em CRIs high yield, similar ao VGHF11."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de renda, com estratégia de diversificação em ativos imobiliários."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VGHF11",
+      "url": "https://finance.yahoo.com/quote/VGHF11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do VALORA HEDGE FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo VGHF11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36771692000119",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do VGHF11, referência 31/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1341429",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

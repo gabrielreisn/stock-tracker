@@ -1,0 +1,319 @@
+{
+  "ticker": "BRCR11",
+  "slug": "brcr11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BRCR11: história, dividendos e volatilidade",
+    "description": "Conheça o BRCR11, fundo imobiliário de escritórios corporativos da BTG Pactual. Veja dividendos, patrimônio, estratégia e desempenho até 29/10/2026.",
+    "h1": "BRCR11: BTG Pactual Corporate Office Fund",
+    "canonicalPath": "/fiis/brcr11",
+    "keywords": [
+      "BRCR11",
+      "fundo imobiliário escritórios",
+      "BTG Pactual FII",
+      "dividend yield BRCR11",
+      "lajes corporativas"
+    ]
+  },
+  "summary": "BRCR11 é a cota do BTG Pactual Corporate Office Fund, um fundo imobiliário de gestão ativa focado em lajes corporativas de padrão AAA em São Paulo e Rio de Janeiro. Com patrimônio líquido de R$ 2,20 bilhões em setembro de 2026, o fundo distribuiu R$ 4,92 por cota nos últimos 12 meses, gerando um dividend yield de 12,50% até 29/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "BTG Pactual Corporate Office Fund - Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL CORPORATE OFFICE FUND - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF BRCR11",
+    "isin": "BRBRCRCTF000",
+    "taxId": "08.924.783/0001-01",
+    "foundingDate": "2007-07-20",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=08924783000101"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, escritórios corporativos",
+    "issuerOrManager": "BTG Pactual Serviços Financeiros S.A",
+    "name": "BTG Pactual Corporate Office Fund - Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL CORPORATE OFFICE FUND - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "20/07/2007",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "BTG PACTUAL CORPORATE OFFICE FUND - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "08.924.783/0001-01",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "20/07/2007",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 2,20 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "107.748",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 82,56",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 39,37",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,84% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,37",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "12,50%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BRCR11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo de Investimento Imobiliário - FII BTG Pactual Corporate Office Fund",
+    "currency": "BRL",
+    "price": 39.37,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.081,
+      "3y": 0.0228,
+      "5y": -0.0574,
+      "10y": -0.3109
+    },
+    "volatility1y": 0.1884,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3616,
+      "from": "2023-07-07",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.37,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 4.92,
+      "payments12Months": 12,
+      "yield12Months": 0.125,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.41
+      }
+    },
+    "avgDailyTradedValue3m": 2280331
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do BRCR11 foi de 18,84% nos últimos 12 meses, nível moderado. O beta de 0,37 contra o Ibovespa indica que os movimentos do fundo costumam ser menores que os do índice, na mesma direção. A maior queda em 5 anos foi de 36,16%, entre 07/07/2023 e 19/12/2024. Para acompanhar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "Constituído em 20 de julho de 2007, o BRCR11 é um dos fundos imobiliários mais antigos listados na B3, com foco histórico em escritórios corporativos. A estratégia do fundo é a gestão ativa, que visa a estabilidade da renda por meio de negociações de contratos, modernização dos imóveis e reciclagem do portfólio para maximizar o retorno de longo prazo. Em setembro de 2026, o fundo realizou a venda do Edifício Mayrink Veiga 9, no Rio de Janeiro, por R$ 93,1 milhões, substituindo um ativo de classe B por recursos alocados no TRXF11, elevando a concentração em ativos AAA para 88% da carteira. A taxa de administração, que era de 1,50% ao ano, foi reduzida voluntariamente pela gestora para 1,10% ao ano em 2015, com vigência estendida até setembro de 2028.",
+    "timeline": [
+      {
+        "date": "2007-07-20",
+        "event": "Início das atividades do fundo imobiliário BRCR11.",
+        "source": 1
+      },
+      {
+        "date": "2015",
+        "event": "Redução voluntária da taxa de administração de 1,50% para 1,10% ao ano.",
+        "source": 4
+      },
+      {
+        "date": "2022-08-01",
+        "event": "Divulgação de fato relevante sobre a política de taxas do fundo.",
+        "source": 4
+      },
+      {
+        "date": "2025-09-23",
+        "event": "Extensão da vigência da taxa de administração de 1,10% ao ano até setembro de 2028.",
+        "source": 4
+      },
+      {
+        "date": "2026-09",
+        "event": "Venda do Edifício Mayrink Veiga 9 por R$ 93,1 milhões e realocação dos recursos para o TRXF11.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do BRCR11",
+      "body": "O BRCR11 é um fundo imobiliário de tijolo com gestão ativa, administrado pela BTG Pactual Serviços Financeiros S.A. Distribuidor. O portfólio é composto por lajes corporativas de padrão AAA, concentradas em São Paulo e Rio de Janeiro. Segundo o relatório gerencial de setembro de 2026, o fundo detinha 9 imóveis com 144.735 m² de área bruta locável (ABL), com aluguel médio de R$ 139,0 por m². A estratégia de reciclagem do portfólio resultou na venda do Edifício Mayrink Veiga 9 em setembro de 2026, elevando a concentração em ativos AAA para 88% e reduzindo a vacância física de 10,4% para 9,5%."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do BRCR11",
+      "body": "Nos 12 meses até 29/10/2026, o BRCR11 distribuiu R$ 4,92 por cota em 12 pagamentos, o que representa um dividend yield de 12,50%. O último provento foi de R$ 0,41 por cota, pago em 08/10/2026. O relatório gerencial de setembro de 2026 indica um dividend yield anualizado de 11,77% com base no preço de fechamento do mês. É possível acompanhar a data de pagamento e a data com de cada provento no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "De acordo com o FNET da B3, o BRCR11 não possui ofertas públicas de cotas encerradas. Em setembro de 2026, o fundo contava com 107.748 cotistas e um patrimônio líquido de R$ 2,20 bilhões, com valor patrimonial da cota de R$ 82,56. A taxa de administração mensal sobre o patrimônio era de 0,016%."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BRCR11",
+      "body": "A rentabilidade total do BRCR11 com proventos foi de 8,10% em 12 meses, 2,28% em 3 anos, -5,74% em 5 anos e -31,09% em 10 anos, até 29/10/2026. O fundo pode ser avaliado em relação a outros índices de mercado, como o IFIX, por meio do recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BRCR11",
+      "body": "O principal risco do BRCR11 é a vacância, que era de 10,4% em setembro de 2026. A volatilidade anualizada do fundo foi de 18,84% nos últimos 12 meses, nível moderado, com beta de 0,37 contra o Ibovespa. A maior queda em 5 anos foi de 36,16%, entre 07/07/2023 e 19/12/2024. A exposição a imóveis de classe B, como o MV9, e a concentração em grandes centros comerciais também são fatores de risco."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O BRCR11 paga dividendos?",
+      "answer": "Sim, o BRCR11 distribui proventos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 4,92 por cota, com o último pagamento de R$ 0,41 em 08/10/2026. O dividend yield de 12 meses é de 12,50%."
+    },
+    {
+      "question": "Qual a taxa de administração do BRCR11?",
+      "answer": "A taxa de administração é de 1,10% ao ano, reduzida voluntariamente pela gestora em 2015 e com vigência estendida até setembro de 2028. Em setembro de 2026, a taxa mensal sobre o patrimônio foi de 0,016%."
+    },
+    {
+      "question": "O BRCR11 é um fundo de tijolo ou de papel?",
+      "answer": "O BRCR11 é um fundo de tijolo, com foco em lajes corporativas de padrão AAA em São Paulo e Rio de Janeiro. Em setembro de 2026, o portfólio tinha 9 imóveis e 144.735 m² de ABL."
+    },
+    {
+      "question": "Qual o patrimônio do BRCR11?",
+      "answer": "O patrimônio líquido do BRCR11 era de R$ 2,20 bilhões em setembro de 2026, com 107.748 cotistas e valor patrimonial da cota de R$ 82,56."
+    },
+    {
+      "question": "O BRCR11 tem vacância?",
+      "answer": "Sim, a vacância física do BRCR11 era de 10,4% em setembro de 2026. A venda do Edifício Mayrink Veiga 9 reduziu esse índice para aproximadamente 9,5%."
+    },
+    {
+      "question": "Qual a diferença entre BRCR11 e TRXF11?",
+      "answer": "O BRCR11 é um fundo de tijolo focado em escritórios corporativos, enquanto o [TRXF11](/fiis/trxf11) é um fundo de fundos de investimento imobiliário. Em setembro de 2026, os recursos da venda do MV9 no BRCR11 foram alocados no TRXF11."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do BRCR11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do BRCR11 com o IFIX, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do BRCR11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do BRCR11 junto com seus outros ativos em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "Fundo de fundos para o qual os recursos da venda do MV9 foram alocados em setembro de 2026."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro fundo da gestora BTG Pactual, focado em logística."
+      },
+      {
+        "ticker": "BTRU11",
+        "list": "fiis",
+        "reason": "Fundo da BTG Pactual focado em renda urbana, segmento semelhante ao BRCR11."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Fundo de renda imobiliária para comparação de estratégia e proventos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BRCR11",
+      "url": "https://finance.yahoo.com/quote/BRCR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do BC FUND FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo BRCR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=08924783000101",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do BRCR11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338354",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BRCR11, 23/09/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=997150",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

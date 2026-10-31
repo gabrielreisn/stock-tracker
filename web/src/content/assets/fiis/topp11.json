@@ -1,0 +1,337 @@
+{
+  "ticker": "TOPP11",
+  "slug": "topp11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TOPP11: FII de escritórios, dividendos e riscos",
+    "description": "TOPP11 é um FII de tijolo focado em escritórios, com patrimônio de R$ 460,4 milhões e dividend yield de 15,50% em 12 meses.",
+    "h1": "TOPP11: Patria Top Offices FII – História, Dividendos e Riscos",
+    "canonicalPath": "/fiis/topp11",
+    "keywords": [
+      "TOPP11",
+      "FII TOPP PAX",
+      "Patria Top Offices",
+      "FII escritórios",
+      "dividend yield TOPP11",
+      "vacância TOPP11",
+      "alavancagem CRI TOPP11",
+      "BTG Pactual FII"
+    ]
+  },
+  "summary": "TOPP11 é a cota do Patria Top Offices Fundo de Investimento Imobiliário, um FII de tijolo focado no segmento de escritórios com gestão ativa. Inaugurado em setembro de 2024, o fundo possui patrimônio líquido de R$ 460,4 milhões e 4.115 cotistas em setembro de 2026. A carteira é composta por dois edifícios corporativos, gerando renda via aluguéis e distribuído proventos mensais. Em 12 meses até 29/10/2026, a cota registrou rentabilidade total de -0,25%, com dividend yield de 15,50%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Patria Top Offices Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "PATRIA TOP OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF TOPP11",
+    "isin": "BRTOPPCTF013",
+    "taxId": "56.805.391/0001-76",
+    "foundingDate": "2024-09-25",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=56805391000176"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, escritórios",
+    "issuerOrManager": "Patria Gestão de Recursos Ltda",
+    "name": "Patria Top Offices Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "PATRIA TOP OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "25/09/2024",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "PATRIA TOP OFFICES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "56.805.391/0001-76",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "25/09/2024",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 460,4 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "4.115",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 101,66",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 60,71",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "22,90% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,38",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "15,50%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 660.113,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TOPP11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Rbr Top Offices Fundo De Investimento Imobiliario Responsabilidade Limitada",
+    "currency": "BRL",
+    "price": 60.71,
+    "historyStarts": "2024-10-07",
+    "returns": {
+      "1y": -0.0025,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.229,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3179,
+      "from": "2024-10-07",
+      "to": "2024-12-11"
+    },
+    "beta1y": {
+      "value": 0.38,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 9.41,
+      "payments12Months": 12,
+      "yield12Months": 0.155,
+      "lastPayment": {
+        "date": "2026-10-15",
+        "amount": 0.45
+      }
+    },
+    "avgDailyTradedValue3m": 660113
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de 12 meses do TOPP11 é de 22,90%, classificada como moderada. A maior queda em 5 anos foi de -31,79%, ocorrida entre o pico em 07/10/2024 e o ponto mais baixo em 11/12/2024. Esse nível de volatilidade é compatível com FIIs de tijolo com alavancagem e exposição a vacância, que podem apresentar oscilações mais acentuadas que o mercado em geral. Para acompanhar a cotação em tempo real e definir pontos de atenção, o [widget na barra de menus do Mac](/recursos/widget-da-barra-de-menus) permite visualizar o gráfico do dia e as posições com um clique."
+  },
+  "history": {
+    "overview": "O fundo teve início de suas atividades em 25 de setembro de 2024, com oferta pública de cotas iniciada em 19 de setembro e encerrada em 27 de setembro do mesmo ano. O objetivo principal é investir em imóveis corporativos ou comerciais, seja diretamente ou por meio de cotas de outros fundos e SPEs. Em outubro de 2024, o fundo adquiriu os edifícios Metropolitan e Platinum, estruturando o pagamento em parcelas. Em fevereiro de 2026, a gestão do fundo foi transferida da RBR Gestão de Recursos Ltda. para a Patria Gestão de Recursos Ltda., que passou a controlar a antiga gestora. A partir de 9 de fevereiro de 2026, o fundo passou a ser negociado com o nome de pregão FII TOPP PAX, mantendo o código TOPP11. Em setembro de 2026, a saída do locatário Gaia do Edifício Metropolitan elevou a vacância física para 4,1% e a financeira para 4,2%, impactando a receita do mês.",
+    "timeline": [
+      {
+        "date": "2024-09-19",
+        "event": "Início da oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2024-09-25",
+        "event": "Início das atividades do fundo.",
+        "source": 1
+      },
+      {
+        "date": "2024-09-27",
+        "event": "Encerramento da oferta pública de cotas (nova emissão).",
+        "source": 2
+      },
+      {
+        "date": "2024-10-15",
+        "event": "Divulgação de fato relevante sobre a aquisição do Edifício Metropolitan.",
+        "source": 4
+      },
+      {
+        "date": "2024-10-31",
+        "event": "Divulgação de fato relevante sobre a aquisição do Edifício Platinum.",
+        "source": 4
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Conclusão da transação de transferência da gestão para a Patria e mudança do nome de pregão para FII TOPP PAX.",
+        "source": 5
+      },
+      {
+        "date": "2026-04-30",
+        "event": "Pagamento da segunda parcela da aquisição dos edifícios Metropolitan e Platinum, com repactuação do saldo em CRI.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do TOPP11",
+      "body": "O TOPP11 é classificado pela ANBIMA como FII de Tijolo Renda com Gestão Ativa, focado no segmento de escritórios. O objetivo do fundo é proporcionar valorização e rentabilidade mediante investimento em imóveis corporativos ou comerciais, de forma direta ou indireta por meio de cotas de outros FIIs, SPEs ou fundos de participações. A gestão é conduzida pela Patria Gestão de Recursos Ltda., com administração e distribuição pela BTG Pactual Serviços Financeiros S.A. De acordo com o relatório gerencial de setembro de 2026, a carteira é composta por 2 edifícios (Metropolitan e Platinum) com 33 locatários, totalizando 12.948 m² de Área Bruta Locável (ABL) e um WALE (tempo médio de locação) de 3,0 anos. O aluguel médio do portfólio é de R$ 322,1/m², com preço médio de mercado de R$ 39.027/m²."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do TOPP11",
+      "body": "Nos 12 meses até 29/10/2026, o TOPP11 distribuiu R$ 9,41 por cota em 12 pagamentos, resultando em um dividend yield de 15,50% sobre o preço de R$ 60,71. O último provento foi de R$ 0,45, pago em 15/10/2026. O relatório gerencial de setembro de 2026 indica que a distribuição do mês foi de R$ 0,45/cota, refletindo o novo patamar projetado pela gestão em razão da alavancagem da carteira, que inclui o pagamento de juros de um CRI (IPCA + 8,4761% a.a.). O fundo não detalha a tributação específica dos proventos no relatório, mas FIIs de tijolo que não se enquadram como isentos podem ter rendimentos tributados. É possível acompanhar a data de pagamento e a quantidade de proventos no [recurso de proventos do app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O FNET (B3) registra 143 documentos publicados pelo TOPP11 desde 15/08/2024 e 1 oferta pública de cotas encerrada. O início da oferta ocorreu em 19/09/2024 e o encerramento em 27/09/2024. Em setembro de 2026, o patrimônio líquido do fundo era de R$ 460,4 milhões, com 4.115 cotistas e 4.528.240 cotas emitidas. O valor patrimonial da cota (VPC) era de R$ 101,66, enquanto o valor de mercado era de R$ 64,90, resultando em um P/VP de 0,64x. A taxa de administração no mês de setembro de 2026 foi de 0,056% sobre o patrimônio, equivalente a 1,0% ao ano."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TOPP11",
+      "body": "A rentabilidade total com proventos do TOPP11 nos 12 meses até 29/10/2026 foi de -0,25%. O volume médio negociado por dia nos últimos 3 meses foi de R$ 660.113,00. Em setembro de 2026, o setor de escritórios do IFIX teve alta de 1,4%, enquanto o IFIX total recuou 0,2%. O fundo opera com alavancagem via CRI, o que impacta a geração de caixa e a distribuição de proventos. Para comparar a performance do TOPP11 com o IFIX e o CDI, utilize a [ferramenta de comparação com índices do app](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TOPP11",
+      "body": "O principal risco do TOPP11 é a vacância, que em setembro de 2026 subiu para 4,1% (física) e 4,2% (financeira) após a saída do locatário Gaia do Edifício Metropolitan. A volatilidade anualizada de 12 meses é de 22,90% (nível moderado), e a maior queda em 5 anos foi de -31,79%, entre 07/10/2024 e 11/12/2024. O beta de 0,38 contra o Ibovespa indica que o ativo tende a ter movimentos menores que o índice, na mesma direção. Riscos setoriais incluem a demanda por espaços corporativos e a renegociação de contratos (revisionais e reajustes). É possível configurar [alertas de preço no app](/recursos/alertas-de-preco) para monitorar a volatilidade da cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TOPP11 é FII de papel ou de tijolo?",
+      "answer": "TOPP11 é um FII de tijolo, focado no segmento de escritórios. O fundo investe em imóveis corporativos (edifícios Metropolitan e Platinum) e distribui renda via aluguéis. A classificação da ANBIMA é Tijolo Renda, com gestão ativa."
+    },
+    {
+      "question": "Qual o dividend yield do TOPP11?",
+      "answer": "O dividend yield do TOPP11 nos 12 meses até 29/10/2026 é de 15,50%, com base em R$ 9,41 distribuídos por cota. O último provento foi de R$ 0,45, pago em 15/10/2026. O relatório gerencial de setembro de 2026 indica um dividend yield de mercado de 8,3% a.a. e patrimonial de 5,3% a.a., refletindo o impacto da alavancagem na distribuição."
+    },
+    {
+      "question": "Quem é a gestora do TOPP11?",
+      "answer": "A gestora do TOPP11 é a Patria Gestão de Recursos Ltda., que assumiu a gestão em fevereiro de 2026, substituindo a RBR Gestão de Recursos Ltda. O administrador e distribuidor é a BTG Pactual Serviços Financeiros S.A."
+    },
+    {
+      "question": "Qual a vacância do TOPP11?",
+      "answer": "Em setembro de 2026, a vacância física do TOPP11 era de 4,1% e a financeira de 4,2%, após a saída do locatário Gaia do Edifício Metropolitan. A gestão informou que negociações de recomercialização estavam em estágio avançado."
+    },
+    {
+      "question": "O TOPP11 tem alavancagem?",
+      "answer": "Sim. O pagamento de juros do CRI impactou a distribuição de proventos em setembro de 2026."
+    },
+    {
+      "question": "Qual a diferença entre TOPP11 e outros FIIs de escritórios?",
+      "answer": "TOPP11 é um FII de escritórios com gestão ativa, focado em dois edifícios (Metropolitan e Platinum) e com alavancagem via CRI. Outros FIIs de escritórios, como [BRCO11](/fiis/brco11) e [AIEC11](/fiis/aiec11), podem ter carteiras diferentes, níveis de alavancagem e estratégias de gestão distintas. A comparação entre eles pode ser feita pelo [comparador de fundos do app](/recursos/comparador-de-fundos)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e proventos no app",
+        "context": "Veja os 12 pagamentos de R$ 9,41 por cota do TOPP11 com data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX e CDI",
+        "context": "Compare a rentabilidade de -0,25% do TOPP11 com o IFIX e o CDI no mesmo gráfico, nos últimos 12 meses."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação quando a cota do TOPP11 atingir um preço que você definiu, considerando a volatilidade de 22,90%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o TOPP11 ao lado de outros FIIs e ativos na sua carteira, com alocação por classe e valor por posição."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BRCO11",
+        "list": "fiis",
+        "reason": "Outro FII de escritórios com gestão ativa, para comparação de estratégia e carteira."
+      },
+      {
+        "ticker": "AIEC11",
+        "list": "fiis",
+        "reason": "FII de edifícios corporativos, segmento similar ao do TOPP11."
+      },
+      {
+        "ticker": "PSEC11",
+        "list": "fiis",
+        "reason": "FII da mesma gestora (Patria), para comparação de estratégia e performance entre fundos da mesma casa."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda imobiliária, para comparação de dividend yield e estratégia de distribuição."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TOPP11",
+      "url": "https://finance.yahoo.com/quote/TOPP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do PATRIA TOP OFF FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo TOPP11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=56805391000176",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do TOPP11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356180",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TOPP11, 30/04/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1178381",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TOPP11, 03/02/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1100755",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

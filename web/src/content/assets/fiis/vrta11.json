@@ -1,0 +1,331 @@
+{
+  "ticker": "VRTA11",
+  "slug": "vrta11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VRTA11: FII de papel, dividendos e volatilidade",
+    "description": "Conheça o VRTA11, FII de papel do Fator Capital Group, com dividend yield de 14,89%, patrimônio de R$ 1,32 bi e estratégia de CRIs indexados a IPCA e CDI.",
+    "h1": "VRTA11: Fator Verità FII – FII de papel com CRIs",
+    "canonicalPath": "/fiis/vrta11",
+    "keywords": [
+      "VRTA11",
+      "Fator Verità FII",
+      "FII de papel",
+      "CRI",
+      "dividendos VRTA11",
+      "VRTA11 dividend yield",
+      "VRTA11 patrimônio",
+      "VRTA11 taxa de administração"
+    ]
+  },
+  "summary": "VRTA11 é a cota do Fator Verità Fundo de Investimento Imobiliário, um FII de papel focado em Certificados de Recebíveis Imobiliários (CRIs). Fundado em 2023, o fundo tem patrimônio de R$ 1,32 bilhão em 09/2026 e distribui rendimentos mensais isentos de IR para a maioria dos investidores, com dividend yield de 14,89% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fator Verita Fundo de Investimento Imobiliario",
+    "legalName": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
+    "ticker": "BVMF VRTA11",
+    "isin": "BRVRTACTF008",
+    "taxId": "11.664.201/0001-00",
+    "foundingDate": "2023-12-28",
+    "provider": {
+      "name": "BANCO FATOR S.A.",
+      "url": "https://www.bancofator.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=11664201000100"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Fator Administração de Recursos Ltda (FAR), administrado pelo Banco Fator S.A",
+    "name": "Fator Verita Fundo de Investimento Imobiliario",
+    "legalName": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "28/12/2023",
+    "administrator": "BANCO FATOR S.A.",
+    "website": "https://www.bancofator.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "FATOR VERITA FUNDO DE INVESTIMENTO IMOBILIARIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "11.664.201/0001-00",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BANCO FATOR S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "28/12/2023",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,32 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "99.501",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 84,68",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 68,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "13,05% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,12",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,89%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,8 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VRTA11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fator Veritá Fundo de Investimento Imobiliário - FII",
+    "currency": "BRL",
+    "price": 68.5,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0101,
+      "3y": 0.1258,
+      "5y": 0.112,
+      "10y": -0.0496
+    },
+    "volatility1y": 0.1305,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1907,
+      "from": "2024-08-16",
+      "to": "2024-12-10"
+    },
+    "beta1y": {
+      "value": 0.12,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.2,
+      "payments12Months": 12,
+      "yield12Months": 0.1489,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.85
+      }
+    },
+    "avgDailyTradedValue3m": 1754521
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do VRTA11 nos últimos 12 meses é de 13,05%, classificada como baixa para um FII de papel. O beta contra o Ibovespa é de 0,12, o que significa que o fundo tende a acompanhar os movimentos do índice com amplitude muito menor, na mesma direção. A maior queda nos últimos 5 anos foi de -19,07%, do pico em 16/08/2024 ao ponto mais baixo em 10/12/2024. Para FIIs de papel, a volatilidade costuma ser influenciada pela taxa de juros e pela qualidade de crédito dos devedores dos CRIs. O VRTA11, com sua carteira diversificada e reserva de caixa, apresenta uma volatilidade relativamente controlada, mas ainda assim sujeita a oscilações ligadas ao cenário macroeconômico e à inadimplência de devedores específicos."
+  },
+  "history": {
+    "overview": "O Fator Verità FII (VRTA11) iniciou suas atividades em 28 de dezembro de 2023, sendo administrado pelo Banco Fator S.A. e gerido pela Fator Administração de Recursos Ltda (FAR). Embora a CVM registre a data de início das atividades em 2023, o FNET (B3) registra documentos publicados pelo fundo desde 30 de junho de 2016, indicando uma trajetória de ofertas públicas de cotas que se estende por mais de uma década, com 8 ofertas encerradas até o momento. O fundo é classificado como de gestão ativa e tem prazo de duração indeterminado, com o objetivo de adquirir ativos financeiros de base imobiliária, como CRIs, LCIs, Letras Hipotecárias e debêntures, buscando superar o benchmark de IPCA + 6% ao ano (gerencialmente) ou IGP-M + 6% ao ano (regulamentarmente). Em setembro de 2026, o fundo possuía 99.501 cotistas e um patrimônio líquido de R$ 1,32 bilhão, com a cota valendo R$ 84,68 na CVM. A estratégia de investimento tem se concentrado na aquisição de CRIs indexados a IPCA e CDI, com remunerações que variam de IPCA+11,50% a IPCA+12,00% e CDI+4,50% a CDI+5,00%, conforme relatórios gerenciais de 2026.",
+    "timeline": [
+      {
+        "date": "2016-06-30",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2017-06-23",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2023-12-28",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do VRTA11",
+      "body": "O VRTA11 é um FII de papel, com foco em ativos financeiros de base imobiliária, como Certificados de Recebíveis Imobiliários (CRIs), Letras de Crédito Imobiliário (LCI), Letras Hipotecárias (LH), quotas de FII, quotas de FIDC, quotas de FI Renda Fixa e Debêntures. O fundo é administrado pelo Banco Fator S.A. e gerido pela Fator Administração de Recursos Ltda (FAR), com gestão ativa e prazo de duração indeterminado. O benchmark regulatório é IGP-M + 6% a.a., mas desde 2019 o fundo considera gerencialmente IPCA + 6% a.a. como referência. Em setembro de 2026, o fundo realizou aquisições de CRIs com remunerações de IPCA+12,00% a.a. (CRI Guestier Harmonis), IPCA+11,50% a.a. (CRI Summus) e CDI+4,50% a.a. (CRI Evoke), além de uma operação subsequente de R$ 36,0 milhões no CRI OAD Makai Campeche, com CDI+5,00% a.a. O fundo mantém uma reserva de R$ 1,14 por cota para complementar distribuições e possui R$ 48,1 milhões em compromissada reversa, com remuneração de CDI+0,71% a.a. e vencimento em dezembro de 2026."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do VRTA11",
+      "body": "Nos 12 meses até 29/10/2026, o VRTA11 distribuiu R$ 10,20 por cota em 12 pagamentos, resultando em um dividend yield de 14,89%. O último provento foi de R$ 0,85 por cota, pago em 01/10/2026. O relatório gerencial de setembro de 2026 estima manter a distribuição entre R$ 0,85 e R$ 0,95 por cota no segundo semestre de 2026, com base em um valor de R$ 0,85 por cota. Os rendimentos distribuídos são isentos de Imposto de Renda para investidores pessoas físicas que não detenham mais de 10% do total de cotas emitidas pelo fundo, sendo pagos mensalmente, sem carência. Para acompanhar os proventos do VRTA11, veja os [dividendos e JCP no app](/recursos/proventos), que mostram a data com e a data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O FNET (B3) registra 787 documentos publicados pelo VRTA11 desde 30/06/2016, com 8 ofertas públicas de cotas encerradas. A primeira oferta encerrada foi em 30/06/2016, e a mais recente em 18/11/2022. Em 09/2026, o fundo possuía 15.592.424 cotas emitidas, com valor patrimonial de R$ 84,68 e patrimônio líquido de R$ 1,32 bilhão. O número de cotistas era de 99.501. A taxa de administração no mês de 09/2026 foi de 0,070% sobre o patrimônio, equivalente a 1,00% ao ano. O volume médio diário negociado nos últimos 3 meses foi de R$ 1,8 milhão."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VRTA11",
+      "body": "A rentabilidade total com proventos do VRTA11 nos 12 meses até 29/10/2026 foi de 1,01%; nos 3 anos, 12,58%; nos 5 anos, 11,20%; e nos 10 anos, -4,96%. O fundo tem um P/VP de 0,85x em setembro de 2026, indicando que a cota é negociada com desconto em relação ao valor dos ativos em carteira. A rentabilidade de 12 meses foi de 14,10%, segundo o relatório gerencial, considerando o fechamento da cota a R$ 72,36. Para comparar o desempenho do VRTA11 com índices como o IFIX, CDI e IPCA, use a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VRTA11",
+      "body": "O VRTA11, como FII de papel, está exposto ao risco de crédito dos devedores dos CRIs que compõem a carteira. O relatório gerencial de setembro de 2026 destaca que a grande maioria dos CRIs do fundo está adimplente, mas menciona a situação da Gafisa, com a qual o fundo possui operações de crédito, e a recuperação judicial da Fragnani Empreendimentos e Participações S.A., comunicada em 22/05/2025. A volatilidade anualizada do VRTA11 nos últimos 12 meses é de 13,05%, classificada como baixa, e o beta contra o Ibovespa é de 0,12, indicando que o fundo tende a acompanhar os movimentos do índice com amplitude muito menor. A maior queda nos últimos 5 anos foi de -19,07%, do pico em 16/08/2024 ao ponto mais baixo em 10/12/2024. Para monitorar oscilações de preço, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VRTA11 paga dividendos?",
+      "answer": "Sim, o VRTA11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 10,20 por cota em 12 pagamentos, com o último provento de R$ 0,85 em 01/10/2026. O relatório gerencial de setembro de 2026 estima manter a distribuição entre R$ 0,85 e R$ 0,95 por cota no segundo semestre de 2026."
+    },
+    {
+      "question": "VRTA11 é FII de papel ou de tijolo?",
+      "answer": "VRTA11 é um FII de papel, com foco em ativos financeiros de base imobiliária, como CRIs, LCIs, Letras Hipotecárias, quotas de FII, quotas de FIDC, quotas de FI Renda Fixa e Debêntures. O fundo não possui imóveis físicos em sua carteira, mas sim títulos de crédito lastreados em imóveis."
+    },
+    {
+      "question": "Qual a taxa de administração do VRTA11?",
+      "answer": "A taxa de administração do VRTA11 é de 1,00% ao ano, equivalente a 0,070% ao mês sobre o patrimônio líquido. Em 09/2026, a taxa foi de 0,070% sobre o patrimônio de R$ 1,32 bilhão."
+    },
+    {
+      "question": "VRTA11 é isento de IR?",
+      "answer": "Sim, os rendimentos distribuídos pelo VRTA11 são isentos de Imposto de Renda para investidores pessoas físicas que não detenham mais de 10% do total de cotas emitidas pelo fundo. A isenção se aplica aos proventos mensais, sem carência."
+    },
+    {
+      "question": "Qual o patrimônio do VRTA11?",
+      "answer": "Em 09/2026, o patrimônio líquido do VRTA11 era de R$ 1,32 bilhão, com 15.592.424 cotas emitidas e valor patrimonial de R$ 84,68 por cota. O número de cotistas era de 99.501."
+    },
+    {
+      "question": "VRTA11 tem risco de crédito?",
+      "answer": "Sim, como FII de papel, o VRTA11 está exposto ao risco de crédito dos devedores dos CRIs que compõem a carteira. O relatório gerencial de setembro de 2026 destaca que a grande maioria dos CRIs está adimplente, mas menciona a situação da Gafisa e a recuperação judicial da Fragnani, que são devedoras de operações de crédito do fundo."
+    },
+    {
+      "question": "Qual o benchmark do VRTA11?",
+      "answer": "O benchmark regulatório do VRTA11 é IGP-M + 6% a.a., mas desde 2019 o fundo considera gerencialmente IPCA + 6% a.a. como referência. O relatório gerencial de setembro de 2026 menciona que o fundo busca manter uma distribuição estável, independentemente das oscilações dos índices de inflação."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da VRTA11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da VRTA11 com IFIX, CDI, IPCA, Ibovespa e S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a VRTA11 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a VRTA11 junto com suas outras posições em FIIs, ações e renda fixa, com alocação por classe e as maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em VRTA11 e as respostas vêm dos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FII de papel focado em CRIs, com estratégia semelhante de renda fixa imobiliária."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em CRIs, comparável ao VRTA11 em termos de estratégia e segmento."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em CRIs de alto rendimento, similar ao VRTA11 em termos de exposição a crédito imobiliário."
+      },
+      {
+        "ticker": "RBRR11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em CRIs, comparável ao VRTA11 em termos de estratégia e segmento."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em CRIs indexados a IPCA, similar ao VRTA11 em termos de exposição a inflação."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VRTA11",
+      "url": "https://finance.yahoo.com/quote/VRTA11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FATOR VERITA FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo VRTA11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=11664201000100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do VRTA11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1359725",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do VRTA11, 14/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1247523",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do VRTA11, 22/05/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=910154",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

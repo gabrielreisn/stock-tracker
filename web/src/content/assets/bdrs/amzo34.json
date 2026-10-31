@@ -1,0 +1,304 @@
+{
+  "ticker": "AMZO34",
+  "slug": "amzo34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AMZO34: BDR da Amazon, história e desempenho",
+    "description": "Conheça o AMZO34, o BDR da Amazon na B3. Veja como funciona, o histórico da empresa, desempenho em reais e riscos cambiais.",
+    "h1": "AMZO34: BDR da Amazon.com, Inc.",
+    "canonicalPath": "/bdrs/amzo34",
+    "keywords": [
+      "AMZO34",
+      "BDR Amazon",
+      "Amazon B3",
+      "investir em Amazon Brasil",
+      "BDR nível I"
+    ]
+  },
+  "summary": "AMZO34 é o BDR não patrocinado nível I da Amazon.com, Inc., empresa norte-americana de e-commerce, computação em nuvem e entretenimento sediada em Seattle. Negociado na B3 desde 15/06/2011, o ativo representa ações da Amazon na NASDAQ (AMZN) e é precificado em reais. Em 29/10/2026, o BDR cotava a R$ 62,00, com rentabilidade total de 1,03% nos últimos 12 meses e volatilidade anualizada de 35,11%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Amazon",
+    "legalName": "AMAZON.COM. INC",
+    "ticker": "BVMF AMZO34",
+    "foundingDate": "1994-07-05",
+    "website": "https://www.amazon.com/",
+    "wikidata": "Q3884",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q3884",
+      "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "https://pt.wikipedia.org/wiki/Amazon",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50202/AMZO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Amazon",
+    "legalName": "AMAZON.COM. INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "05/07/1994",
+    "listedSince": "15/06/2011",
+    "headquarters": "Seattle",
+    "website": "https://www.amazon.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "AMAZON.COM. INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: AMZN",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Seattle",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "05/07/1994",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "15/06/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 62,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "35,11% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original AMZN em dólares)",
+      "value": "1,46",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 52,9 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AMZO34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Amazon.com, Inc.",
+    "currency": "BRL",
+    "price": 62,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0103,
+      "3y": 0.8541,
+      "5y": 0.3082,
+      "10y": 8.9315
+    },
+    "volatility1y": 0.3511,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5843,
+      "from": "2021-11-19",
+      "to": "2022-12-28"
+    },
+    "beta1y": {
+      "value": 1.46,
+      "against": "S&P 500, ação original AMZN em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 52864839
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do AMZO34 nos últimos 12 meses foi de 35,11%, um nível considerado alto para o mercado. O beta da ação original (AMZN) contra o S&P 500 é de 1,46, o que indica que, historicamente, a ação tende a se mover com maior amplitude que o índice de referência. É importante notar que este beta é da ação em dólares; o BDR em reais adiciona a essa volatilidade a variação do câmbio. A maior queda em 5 anos foi de -58,43%, entre 19/11/2021 e 28/12/2022. Para monitorar movimentos bruscos, os [alertas de preço](/recursos/alertas-de-preco) podem ser configurados para notificar quando o ativo atingir níveis específicos."
+  },
+  "history": {
+    "overview": "A Amazon.com, Inc. foi fundada por Jeff Bezos em 05/07/1994 em Bellevue, Washington, inicialmente como uma livraria online chamada Cadabra, que passou a se chamar Amazon em novembro do mesmo ano. A empresa abriu capital na NASDAQ em maio de 1997 e expandiu seu catálogo para música, vídeos e eletrônicos nos anos seguintes. Em 2002, lançou a Amazon Web Services (AWS), que se tornou um pilar de receita através da computação em nuvem. A estratégia de reinvestimento agressivo de lucros e a expansão para varejo físico, com a aquisição do Whole Foods Market por US$ 13,7 bilhões em 2017, consolidaram a Amazon como a maior vendedora virtual do mundo. Em 2021, Jeff Bezos deixou a presidência-executiva para Andy Jassy, antigo CEO da AWS, focando Bezos na direção executiva do conselho. O BDR AMZO34, que permite a brasileiros investirem na empresa sem sair do mercado local, foi listado na B3 em 15/06/2011.",
+    "timeline": [
+      {
+        "date": "1994-07-05",
+        "event": "Fundação da Amazon por Jeff Bezos em Bellevue, Washington.",
+        "source": 2
+      },
+      {
+        "date": "1997-05",
+        "event": "Abertura de capital da Amazon na NASDAQ.",
+        "source": 3
+      },
+      {
+        "date": "2002",
+        "event": "Lançamento da Amazon Web Services (AWS).",
+        "source": 3
+      },
+      {
+        "date": "2011-06-15",
+        "event": "Listagem do BDR AMZO34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2017",
+        "event": "Aquisição da rede de supermercados Whole Foods Market por US$ 13,7 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2018-11-13",
+        "event": "Anúncio da divisão do projeto HQ2 entre Nova York e Virgínia do Norte.",
+        "source": 3
+      },
+      {
+        "date": "2019-02-14",
+        "event": "Cancelamento do plano para a sede HQ2 em Nova York.",
+        "source": 3
+      },
+      {
+        "date": "2021-07-05",
+        "event": "Jeff Bezos assume a presidência do conselho e Andy Jassy torna-se CEO.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Amazon ganha dinheiro",
+      "body": "A Amazon.com, Inc. opera como um conglomerado multinacional com foco em e-commerce, computação em nuvem, publicidade online, streaming digital, entretenimento e inteligência artificial. A empresa, que se autodenomina a 'loja de tudo', vende desde livros e eletrônicos até alimentos e artigos de saúde. A Amazon Web Services (AWS) é uma de suas principais subsidiárias, oferecendo serviços de armazenamento e processamento de dados para empresas. O portfólio inclui também a Twitch, a Audible, o Prime Video e a rede de supermercados Whole Foods Market. Em 2023, a Amazon era a maior vendedora virtual do mundo e a maior provedora de computação em nuvem por receita e participação de mercado."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR AMZO34",
+      "body": "O AMZO34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Amazon.com, Inc. listadas na NASDAQ sob o ticker AMZN. Diferente dos BDRs patrocinados, este não é emitido pela própria empresa, mas por uma instituição depositária. O preço do BDR acompanha a cotação da ação original em dólares e a variação do câmbio (dólar para real). O ativo está listado na B3 desde 15/06/2011, permitindo que investidores brasileiros tenham exposição à Amazon sem a necessidade de abrir conta em corretoras estrangeiras."
+    },
+    {
+      "id": "proventos",
+      "heading": "AMZO34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, o AMZO34 não distribuiu proventos. A Amazon.com, Inc. tem histórico de não pagar dividendos, reinvestindo seus lucros no crescimento do negócio. Como o BDR é lastreado na ação original, a ausência de distribuição na empresa matriz se reflete na ausência de proventos para os detentores do BDR na B3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do AMZO34",
+      "body": "Até 29/10/2026, a rentabilidade total do AMZO34, incluindo proventos, foi de 1,03% em 12 meses, 85,41% em 3 anos, 30,82% em 5 anos e 893,15% em 10 anos. Esses números estão em reais e já refletem a variação do câmbio entre o dólar e o real. Para avaliar o desempenho do BDR em relação a outros mercados, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do AMZO34",
+      "body": "O principal risco do AMZO34 é o cambial, pois o BDR é precificado em reais, mas a empresa opera em dólares. A volatilidade anualizada do ativo nos últimos 12 meses foi de 35,11%, considerada alta. A maior queda nos últimos 5 anos foi de -58,43%, entre o pico em 19/11/2021 e o fundo em 28/12/2022. A liquidez é um fator a ser considerado, com volume médio diário de R$ 52,9 milhões nos últimos 3 meses. A empresa também enfrenta riscos operacionais e regulatórios, incluindo controvérsias sobre práticas de trabalho e concorrência, além da dependência de investimentos contínuos em novas tecnologias."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar AMZO34 no app",
+      "body": "Para quem tem AMZO34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio): Veja a rentabilidade do AMZO34 e o preço médio da sua posição no gráfico de desempenho.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do AMZO34 com o S&P 500 e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas para ser notificado quando o AMZO34 atingir um preço que você definiu.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do AMZO34 junto com seus outros ativos na visão consolidada da carteira."
+    }
+  ],
+  "faq": [
+    {
+      "question": "AMZO34 paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 29/10/2026, não houve distribuição de proventos. A Amazon.com, Inc. tem a política de não pagar dividendos, preferindo reinvestir os lucros no crescimento da empresa."
+    },
+    {
+      "question": "Qual a diferença entre AMZO34 e AMZN?",
+      "answer": "AMZN é a ação original da Amazon, negociada em dólares na NASDAQ. O AMZO34 é um BDR negociado em reais na B3, que representa a mesma participação acionária, mas com preço influenciado também pela cotação do dólar."
+    },
+    {
+      "question": "O que é um BDR não patrocinado?",
+      "answer": "É um recibo de ação estrangeira emitido por uma instituição financeira no Brasil, sem a participação direta da empresa emissora. O AMZO34 é um BDR não patrocinado de nível I, listado na B3 desde 15/06/2011."
+    },
+    {
+      "question": "Quanto rendeu o AMZO34 em 10 anos?",
+      "answer": "A rentabilidade total do AMZO34 em 10 anos, até 29/10/2026, foi de 893,15%. Esse valor inclui a variação do preço da ação e o efeito do câmbio, e não inclui proventos, pois a empresa não distribui dividendos."
+    },
+    {
+      "question": "Quais são os riscos de investir em AMZO34?",
+      "answer": "Os principais riscos são o cambial (variação do dólar), a alta volatilidade (35,11% anualizada) e a liquidez do BDR na B3. Há também riscos operacionais da Amazon, como mudanças regulatórias e a necessidade de reinvestimento constante em novas áreas de negócio."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Veja a rentabilidade do AMZO34 e o preço médio da sua posição no gráfico de desempenho."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do AMZO34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando o AMZO34 atingir um preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do AMZO34 junto com seus outros ativos na visão consolidada da carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia de alto crescimento, com exposição semelhante a riscos de mercado e câmbio."
+      },
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de e-commerce, permitindo comparação de estratégias no setor de varejo digital."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, o índice de referência para o beta do AMZO34 e para a comparação de desempenho."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "BDR de outra gigante da tecnologia (Alphabet), com exposição a riscos de mercado e câmbio similares."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AMZO34",
+      "url": "https://finance.yahoo.com/quote/AMZO34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: AMAZON, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50202/AMZO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Amazon",
+      "url": "https://www.wikidata.org/wiki/Q3884",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Amazon (company)",
+      "url": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Amazon",
+      "url": "https://pt.wikipedia.org/wiki/Amazon",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,273 @@
+{
+  "ticker": "VT",
+  "slug": "vt",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VT: história, dividendos e volatilidade",
+    "description": "Conheça o VT, o ETF global da Vanguard. Veja rentabilidade de 12,52% em 12 meses, dividend yield de 1,55% e como acompanhar o ativo no app.",
+    "h1": "VT: Vanguard Total World Stock Index Fund ETF Shares",
+    "canonicalPath": "/etfs/vt",
+    "keywords": [
+      "VT ETF",
+      "Vanguard Total World Stock",
+      "ETF global",
+      "VT dividendos",
+      "VT volatilidade",
+      "investir em VT do Brasil"
+    ]
+  },
+  "summary": "VT é o Vanguard Total World Stock Index Fund ETF Shares, um ETF que replica o desempenho do mercado acionário global. Lançado em 26/06/2008, o fundo é emitido pela The Vanguard Group. Até 30/10/2026, a cota estava a US$ 155,33, com rentabilidade total de 12,52% nos últimos 12 meses e dividend yield de 1,55%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Total World Stock Index Fund ETF Shares",
+    "ticker": "ARCX VT",
+    "foundingDate": "2008-06-26",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice global",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "FTSE All-World Index",
+    "name": "Vanguard Total World Stock Index Fund ETF Shares",
+    "founded": "26/06/2008"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Total World Stock Index Fund ETF Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "26/06/2008",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 155,33",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,06% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,06",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,55%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 408,9 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VT",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Total World Stock Index Fund ETF Shares",
+    "currency": "USD",
+    "price": 155.33,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1252,
+      "3y": 0.8246,
+      "5y": 0.5923,
+      "10y": 2.2074
+    },
+    "volatility1y": 0.1406,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2638,
+      "from": "2021-11-08",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 1.06,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.413,
+      "payments12Months": 4,
+      "yield12Months": 0.0155,
+      "lastPayment": {
+        "date": "2026-09-18",
+        "amount": 0.408
+      }
+    },
+    "avgDailyTradedValue3m": 408913146
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do VT nos últimos 12 meses é de 14,06%, o que é considerado um nível baixo para um ETF de ações. O beta de 1,06 em relação ao S&P 500 mostra que o ativo tende a acompanhar o mercado americano com uma leve amplificação dos movimentos. A maior queda em 5 anos foi de -26,38%, ocorrendo entre 08/11/2021 e 12/10/2022. Para um ativo que busca replicar o mercado global, essa volatilidade é esperada, pois reflete a soma dos riscos de diversos países e moedas. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite visualizar como essa volatilidade impactou o custo da posição ao longo do tempo."
+  },
+  "history": {
+    "overview": "O VT faz parte do portfólio da The Vanguard Group, empresa fundada em 1975 por John C. Bogle. Bogle é reconhecido pela criação do primeiro fundo de índice voltado a investidores individuais, uma estratégia que busca replicar o desempenho de um mercado amplo com custos baixos. A Vanguard é a maior provedora de fundos mútuos e a segunda maior de ETFs no mundo, com cerca de US$ 13,3 trilhões sob gestão em 2025. A empresa é propriedade dos próprios fundos que gerencia, o que significa que é, em última instância, propriedade de seus clientes. O modelo de gestão passiva, que evita a seleção de ações individuais para tentar superar o mercado, é a base do produto. O primeiro pregão das cotas do VT ocorreu em 26/06/2008, posicionando-o como uma ferramenta de diversificação global para investidores que buscam exposição ampla ao mercado de ações mundial.",
+    "timeline": [
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group por John C. Bogle.",
+        "source": 1
+      },
+      {
+        "date": "2008-06-26",
+        "event": "Primeiro pregão das cotas do ETF VT na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2025",
+        "event": "A The Vanguard Group gerencia cerca de US$ 13,3 trilhões em ativos globais.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VT funciona",
+      "body": "O VT é um ETF que busca replicar o desempenho de um índice acionário global. A emissora é a The Vanguard Group, uma das maiores gestoras de ativos do mundo, conhecida por popularizar os fundos de índice de baixo custo. O fundo foi lançado em 26/06/2008. Diferente de ETFs alavancados ou inversos, o VT não utiliza alavancagem financeira nem rebalanceamento diário de derivativos para multiplicar a exposição; ele simplesmente mantém uma carteira diversificada que espelha a composição do índice que segue. Isso significa que, em períodos longos, o resultado do ETF tende a acompanhar o índice de referência, subtraindo apenas os custos de administração."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VT",
+      "body": "O VT segue o índice global de ações que a Vanguard utiliza para seu produto de mercado total mundial. As fontes disponíveis não detalham a composição exata de setores ou países, nem a taxa de administração específica do fundo. O que se sabe é que, como um ETF de índice global, ele possui uma carteira amplamente diversificada, o que reduz o risco de concentração em uma única empresa ou país. A diversificação é a principal característica de ativos desse tipo, que buscam minimizar o erro de rastreamento em relação ao benchmark."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VT a partir do Brasil",
+      "body": "Para investir no VT a partir do Brasil, o investidor geralmente precisa abrir conta em uma corretora de valores que opere no exterior ou que ofereça acesso a mercados internacionais. Outra opção é buscar ETFs ou BDRs negociados na B3 que tenham o mesmo índice global como referência, o que pode simplificar a liquidação e a tributação. O principal risco cambial é que o VT é cotado em dólar; variações na taxa de câmbio podem impactar a rentabilidade em reais, independentemente do desempenho das ações globais. O [Open Finance](/recursos/open-finance) do app pode ajudar a conciliar as posições compradas em corretoras internacionais com a carteira local."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VT",
+      "body": "Até 30/10/2026, a cota do VT estava a US$ 155,33. A rentabilidade total, incluindo a reinvestimento de proventos, foi de 12,52% nos últimos 12 meses, 82,46% em 3 anos, 59,23% em 5 anos e 220,74% em 10 anos. O fundo distribuiu US$ 2,4130 por cota em 4 pagamentos no último ano, resultando em um dividend yield de 1,55%. Para comparar esses resultados com o mercado americano, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe o desempenho do S&P 500 lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VT",
+      "body": "O principal risco do VT é a volatilidade do mercado acionário global. Nos últimos 12 meses, a volatilidade anualizada foi de 14,06%, considerada de nível baixo. O beta do fundo em relação ao S&P 500 é de 1,06, o que indica que, historicamente, os movimentos do VT tendem a ser ligeiramente maiores que os do índice americano, na mesma direção. A maior queda em 5 anos foi de -26,38%, entre o pico de 08/11/2021 e o fundo de 12/10/2022. Além do risco de mercado, há o risco cambial para o investidor brasileiro. O [alerta de preço](/recursos/alertas-de-preco) pode ser útil para monitorar oscilações sem precisar ficar de olho no gráfico o dia todo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o VT?",
+      "answer": "O VT é o Vanguard Total World Stock Index Fund ETF Shares, um ETF que replica o desempenho do mercado acionário global. Ele é emitido pela Vanguard e foi lançado em 2008, oferecendo diversificação ampla em uma única cota."
+    },
+    {
+      "question": "O VT paga dividendos?",
+      "answer": "Sim, o VT distribui proventos. Nos 12 meses até 30/10/2026, pagou US$ 2,4130 por cota em 4 ocasiões, com um dividend yield de 1,55%. O último pagamento foi de US$ 0,4080 em 18/09/2026. O app permite acompanhar esses pagamentos na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual a diferença entre VT e VOO?",
+      "answer": "Enquanto o [VOO](/etfs/voo) segue o S&P 500 (apenas EUA), o VT busca replicar o mercado acionário global, incluindo países desenvolvidos e emergentes. Isso faz do VT uma ferramenta de diversificação internacional mais ampla, enquanto o VOO é focado no mercado americano."
+    },
+    {
+      "question": "Como investir no VT do Brasil?",
+      "answer": "O investidor brasileiro pode comprar o VT através de uma corretora que ofereça acesso a mercados internacionais ou buscar ETFs e BDRs na B3 que sigam o mesmo índice. É importante considerar o risco cambial, pois o ativo é cotado em dólar."
+    },
+    {
+      "question": "Qual a volatilidade do VT?",
+      "answer": "A volatilidade anualizada do VT nos últimos 12 meses é de 14,06%, considerada baixa. O beta em relação ao S&P 500 é de 1,06. A maior queda em 5 anos foi de -26,38%, entre 2021 e 2022."
+    },
+    {
+      "question": "Quem gerencia o VT?",
+      "answer": "O VT é gerido pela The Vanguard Group, uma das maiores gestoras de ativos do mundo, fundada por John C. Bogle. A empresa é conhecida por seus fundos de índice de baixo custo e é a segunda maior provedora de ETFs globalmente."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VT ao lado de outros ativos, como ações da B3 e renda fixa, em uma única visão de alocação."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do VT com o S&P 500 e outros índices no mesmo gráfico para entender seu desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do VT atingir um valor específico, útil para monitorar a volatilidade de 14,06%."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora internacional para que o app confira as quantidades e o preço médio do VT automaticamente."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF da mesma gestora (Vanguard) que segue o S&P 500, útil para comparação de desempenho entre mercado global e americano."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "O ETF mais líquido do S&P 500, um par comum para quem busca exposição ao mercado americano de grande capitalização."
+      },
+      {
+        "ticker": "VXUS",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard que foca no mercado internacional, permitindo uma comparação direta com a exposição global do VT."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "ETF que segue o mercado brasileiro, útil para entender a exposição do VT ao país de origem do investidor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VT",
+      "url": "https://finance.yahoo.com/quote/VT/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): FTSE Russell (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/FTSE_Russell",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Index fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Index_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

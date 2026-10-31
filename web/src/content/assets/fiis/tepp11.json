@@ -1,0 +1,334 @@
+{
+  "ticker": "TEPP11",
+  "slug": "tepp11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TEPP11: história, dividendos e volatilidade",
+    "description": "TEPP11 é um FII de lajes corporativas com dividend yield de 16,66% nos 12 meses até 29/10/2026. Conheça a história, a estratégia e os riscos do fundo.",
+    "h1": "TEPP11: Tellus Properties - Fundo de Investimento Imobiliário",
+    "canonicalPath": "/fiis/tepp11",
+    "keywords": [
+      "TEPP11",
+      "Tellus Properties FII",
+      "FII de lajes corporativas",
+      "dividend yield TEPP11",
+      "volatilidade TEPP11"
+    ]
+  },
+  "summary": "TEPP11 é a cota do Tellus Properties - Fundo de Investimento Imobiliário, um FII de lajes corporativas focado em imóveis com potencial de valorização por meio de melhorias. Fundado em 2019, o fundo possui 7 ativos e 57.846 m² de área locável, com patrimônio líquido de R$ 505,15 milhões em setembro de 2026. Distribui proventos mensais, com dividend yield de 16,66% nos 12 meses até 29/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Tellus Properties - Fundo de Investimento Imobiliário",
+    "legalName": "TELLUS PROPERTIES - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF TEPP11",
+    "isin": "BRTEPPCTF006",
+    "taxId": "26.681.370/0001-25",
+    "foundingDate": "2019-09-23",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=26681370000125"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, lajes corporativas",
+    "issuerOrManager": "Tellus Investimentos e Consultoria Ltda",
+    "name": "Tellus Properties - Fundo de Investimento Imobiliário",
+    "legalName": "TELLUS PROPERTIES - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "23/09/2019",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "TELLUS PROPERTIES - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "26.681.370/0001-25",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "23/09/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 512,3 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "46.738",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,53",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 6,98",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,05% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,47",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "16,66%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TEPP11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "SDI Properties Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 6.98,
+    "historyStarts": "2020-05-06",
+    "returns": {
+      "1y": -0.0001,
+      "3y": 0.1252,
+      "5y": 0.6438,
+      "10y": null
+    },
+    "volatility1y": 0.1805,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2228,
+      "from": "2022-10-06",
+      "to": "2023-02-14"
+    },
+    "beta1y": {
+      "value": 0.47,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.163,
+      "payments12Months": 12,
+      "yield12Months": 0.1666,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.068
+      }
+    },
+    "avgDailyTradedValue3m": 2640372
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do TEPP11 nos 12 meses até 29/10/2026 foi de 18,05%, nível moderado. O beta contra o Ibovespa foi de 0,47, o que significa que os movimentos do fundo costumam ser menores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -22,28%, do pico em 06/10/2022 ao ponto mais baixo em 14/02/2023. Para acompanhar a volatilidade do ativo, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Tellus Properties FII (TEPP11) iniciou suas atividades em 23 de setembro de 2019, com foco em lajes corporativas. A estratégia do fundo é adquirir imóveis bem localizados e realizar melhorias para gerar incremento de receita, um processo que a gestora conduz de forma transparente, detalhando custos, prazos e etapas das obras. Em 2019, o fundo contava com 4.225 cotistas e patrimônio de R$ 361,7 milhões; em 2026, esses números evoluíram para 46.738 cotistas e R$ 505,1 milhões, respectivamente. A liquidez diária também cresceu de R$ 757 mil para R$ 2,188 milhões no mesmo período. Em 2026, o fundo realizou a venda do Ed. Passarelli por R$ 114 milhões, uma operação que representa 32% acima do custo histórico, reforçando a estratégia de reciclagem do portfólio. O fundo também está em negociações para zerar a vacância do Ed. Fujitsu e reformar o 1º andar do Ed. Top Center.",
+    "timeline": [
+      {
+        "date": "2019-09-20",
+        "event": "Início da oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2019-09-23",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2019-09-24",
+        "event": "Encerramento da oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2019-11-05",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2025-12-22",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2026-09-16",
+        "event": "Lavrada a escritura de venda dos conjuntos comerciais 171 e 172 do Ed. Torre Sul por R$ 10,76 milhões",
+        "source": 5
+      },
+      {
+        "date": "2026-09-24",
+        "event": "Fundo celebra compromisso de venda do Ed. Passarelli por R$ 114 milhões",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do TEPP11",
+      "body": "O TEPP11 é um FII de lajes corporativas com gestão ativa, administrado pela BTG Pactual e gerido pela Tellus Investimentos. A estratégia do fundo é adquirir imóveis bem localizados e realizar melhorias para gerar incremento de receita, um processo que a gestora conduz de forma transparente. Em setembro de 2026, o portfólio contava com 7 ativos, 57.846 m² de área locável e 48 locatários, com vacância física de 10,96% e vacância financeira de 4,12%. A estratégia de reciclagem do portfólio foi evidenciada com a venda do Ed. Passarelli por R$ 114 milhões, 32% acima do custo histórico. O fundo também está em negociações para zerar a vacância do Ed. Fujitsu e reformar o 1º andar do Ed. Top Center, buscando ampliar a atratividade do espaço. A política de investimentos permite aquisições táticas em outras classes de ativos, mas a estratégia permanece prioritariamente concentrada em lajes corporativas."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do TEPP11",
+      "body": "Nos 12 meses até 29/10/2026, o TEPP11 distribuiu R$ 1,1630 por cota em 12 pagamentos, o que representa um dividend yield de 16,66%. O último provento foi de R$ 0,0680 em 01/10/2026. A tributação dos proventos segue as leis nº 8.668/93 e nº 9.779/1999, conforme o regulamento do fundo. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos), com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O TEPP11 realizou 6 ofertas públicas de cotas encerradas, conforme o FNET da B3. O patrimônio líquido do fundo era de R$ 512,3 milhões em setembro de 2026, com 46.738 cotistas e valor patrimonial da cota de R$ 9,53. O número de cotas emitidas era de 53.763.691. A taxa de administração no mês era de 0,070% sobre o patrimônio. A liquidez diária média nos últimos 30 dias era de R$ 4,05 milhões."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TEPP11",
+      "body": "A rentabilidade total do TEPP11 com proventos foi de -0,01% nos 12 meses até 29/10/2026, 12,52% em 3 anos e 64,38% em 5 anos. O fundo pode ser comparado com o IFIX e o CDI na [comparação com índices](/recursos/comparacao-com-indices), que mostra a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TEPP11",
+      "body": "Os riscos do TEPP11 incluem a vacância física e financeira dos imóveis, a dependência de locatários e a execução de obras de melhoria. A volatilidade anualizada do fundo nos 12 meses até 29/10/2026 foi de 18,05%, nível moderado. O beta contra o Ibovespa foi de 0,47, indicando que os movimentos do fundo costumam ser menores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -22,28%, do pico em 06/10/2022 ao ponto mais baixo em 14/02/2023. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar a volatilidade do ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TEPP11 paga dividendos?",
+      "answer": "Sim, o TEPP11 distribui proventos mensais. Nos 12 meses até 29/10/2026, o fundo distribuiu R$ 1,1630 por cota em 12 pagamentos, o que representa um dividend yield de 16,66%. O último provento foi de R$ 0,0680 em 01/10/2026. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre TEPP11 e outros FIIs de lajes corporativas?",
+      "answer": "O TEPP11 é um FII de lajes corporativas com foco em imóveis com potencial de valorização por meio de melhorias. A estratégia do fundo é adquirir imóveis bem localizados e realizar melhorias para gerar incremento de receita. Outros FIIs de lajes corporativas, como [TOPP11](/fiis/topp11) e [RCRB11](/fiis/rcrb11), também focam em lajes corporativas, mas podem ter estratégias diferentes de aquisição e gestão de imóveis."
+    },
+    {
+      "question": "TEPP11 é FII de papel ou de tijolo?",
+      "answer": "O TEPP11 é um FII de tijolo, focado em lajes corporativas. O fundo possui 7 ativos e 57.846 m² de área locável, com vacância física de 10,96% e vacância financeira de 4,12% em setembro de 2026. A estratégia do fundo é adquirir imóveis bem localizados e realizar melhorias para gerar incremento de receita."
+    },
+    {
+      "question": "Qual a taxa de administração do TEPP11?",
+      "answer": "A taxa de administração do TEPP11 é de 0,13% a.a., conforme o relatório gerencial de setembro de 2026. A taxa de gestão é de 0,90% a 1% a.a. A taxa de administração no mês de setembro de 2026 foi de 0,070% sobre o patrimônio."
+    },
+    {
+      "question": "TEPP11 tem alavancagem financeira?",
+      "answer": "O relatório gerencial de setembro de 2026 menciona a alavancagem financeira do fundo, mas não detalha o nível de alavancagem. O fundo possui 7 ativos e 57.846 m² de área locável, com vacância física de 10,96% e vacância financeira de 4,12%."
+    },
+    {
+      "question": "Como acompanhar o desempenho do TEPP11?",
+      "answer": "É possível acompanhar o desempenho do TEPP11 no [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app, que mostra o gráfico de rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho, variação do dia e do ano. O fundo também pode ser comparado com o IFIX e o CDI na [comparação com índices](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da TEPP11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da TEPP11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para acompanhar a volatilidade da TEPP11."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe o desempenho da TEPP11 com o gráfico de rentabilidade e o preço médio da sua posição."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TOPP11",
+        "list": "fiis",
+        "reason": "Outro FII de lajes corporativas"
+      },
+      {
+        "ticker": "RCRB11",
+        "list": "fiis",
+        "reason": "Outro FII de lajes corporativas"
+      },
+      {
+        "ticker": "BTRU11",
+        "list": "fiis",
+        "reason": "FII de lajes corporativas da BTG Pactual"
+      },
+      {
+        "ticker": "BRCO11",
+        "list": "fiis",
+        "reason": "FII de lajes corporativas da BTG Pactual"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TEPP11",
+      "url": "https://finance.yahoo.com/quote/TEPP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FII TELLUS PROP (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo TEPP11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=26681370000125",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do TEPP11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1358199",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TEPP11, 24/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1328026",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TEPP11, 16/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1322497",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

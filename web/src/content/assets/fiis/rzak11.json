@@ -1,0 +1,332 @@
+{
+  "ticker": "RZAK11",
+  "slug": "rzak11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RZAK11: FII de papel, dividendos e gestão Riza",
+    "description": "Conheça o RZAK11, FII de papel da Riza com 77% em CRIs e dividend yield de 17,62% em 12 meses.",
+    "h1": "RZAK11: Riza Akin FII – FII de papel com foco em crédito e securitização",
+    "canonicalPath": "/fiis/rzak11",
+    "keywords": [
+      "RZAK11",
+      "Riza Akin FII",
+      "FII de papel",
+      "CRI",
+      "dividend yield RZAK11",
+      "RZAK11 patrimônio",
+      "RZAK11 gestora",
+      "FII crédito imobiliário"
+    ]
+  },
+  "summary": "RZAK11 é a cota do Riza Akin Fundo de Investimento Imobiliário, um FII de papel com gestão ativa que investe majoritariamente em Certificados de Crédito Imobiliário (CRI) e fundos imobiliários. Com foco em nichos como crédito privado, securitização e infraestrutura, o fundo possui patrimônio líquido de R$ 781,5 milhões em 09/2026 e distribuiu R$ 12,90 por cota em 12 meses, resultando em dividend yield de 17,62% até 29/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Riza Akin Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "RIZA AKIN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RZAK11",
+    "isin": "BRRZAKCTF008",
+    "taxId": "36.642.219/0001-31",
+    "foundingDate": "2020-12-21",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36642219000131"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Riza Allocation Gestora de Recursos Ltda",
+    "name": "Riza Akin Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "RIZA AKIN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "21/12/2020",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "RIZA AKIN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "36.642.219/0001-31",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "21/12/2020",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 781,5 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "42.653",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 88,73",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 73,21",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "11,26% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,15",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "17,62%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,4 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RZAK11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Riza Akin Fundo De Investimento Imobiliario – FII",
+    "currency": "BRL",
+    "price": 73.21,
+    "historyStarts": "2024-02-01",
+    "returns": {
+      "1y": 0.0483,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1126,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1241,
+      "from": "2024-04-12",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.15,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 12.9,
+      "payments12Months": 12,
+      "yield12Months": 0.1762,
+      "lastPayment": {
+        "date": "2026-10-16",
+        "amount": 1.05
+      }
+    },
+    "avgDailyTradedValue3m": 1381297
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do RZAK11 nos 12 meses até 29/10/2026 foi de 11,26%, um nível considerado baixo para um FII de papel. A maior queda em 5 anos foi de -12,41%, entre 12/04/2024 e 19/12/2024. Para quem acompanha o ativo, é possível configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a cota atingir níveis específicos, sem necessidade de monitorar o gráfico o dia todo."
+  },
+  "history": {
+    "overview": "O Riza Akin FII iniciou suas atividades em 21 de dezembro de 2020, com o objetivo de selecionar ativos em nichos de crédito privado e securitização. A estratégia do fundo baseia-se na união de seis núcleos de gestão — Renda Fixa, Direct Lending, Securitização e Carteiras, Agronegócio, Real Estate e Infraestrutura — para explorar aspectos como pulverização, garantias e indexadores, buscando uma gestão ativa diferenciada em relação a outros FIIs de papel. O fundo realizou três ofertas públicas de cotas desde sua criação, em 2020, 2021 e 2023, ampliando sua base de investidores, que chegou a 42.653 cotistas em 09/2026. Em 2025, a gestão do fundo passou por uma reestruturação societária: a Riza Gestora de Recursos Ltda. sofreu cisão parcial, e a totalidade da carteira do RZAK11 foi transferida para a Riza Allocation Gestora de Recursos Ltda., que assumiu a gestão a partir de 20 de junho de 2025, mantendo a mesma equipe-chave.",
+    "timeline": [
+      {
+        "date": "2020-11-24",
+        "event": "Início da primeira oferta pública de cotas do RZAK11.",
+        "source": 2
+      },
+      {
+        "date": "2020-12-21",
+        "event": "Início das atividades do Riza Akin FII.",
+        "source": 1
+      },
+      {
+        "date": "2020-12-22",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2021-09-30",
+        "event": "Início da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-01-05",
+        "event": "Início da terceira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-02-06",
+        "event": "Encerramento da terceira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2025-06-20",
+        "event": "Transferência da gestão do fundo para a Riza Allocation Gestora de Recursos Ltda., após cisão parcial da gestora anterior.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RZAK11",
+      "body": "O RZAK11 é um Fundo de Investimento Imobiliário de papel, com gestão ativa e prazo indeterminado, administrado pela BTG Pactual Serviços Financeiros S.A. e gerido pela Riza Allocation Gestora de Recursos Ltda. Desde 2025, a estratégia do fundo é focada na seleção de ativos nos nichos de crédito privado e securitização, visando um portfólio que se adeque às perspectivas de risco-retorno-liquidez da gestora. A carteira é dividida em seis núcleos: Renda Fixa, Direct Lending, Securitização e Carteiras, Agronegócio, Real Estate e Infraestrutura. Segundo o relatório gerencial de 30/09/2026, a alocação bruta do fundo era de 106,13% do patrimônio líquido, utilizando alavancagem via compromissadas reversas. A carteira é composta por 77% de Certificados de Crédito Imobiliário (CRI) e 23% de Fundos Imobiliários. Em termos de indexadores, 56,22% dos ativos são atrelados ao IPCA (com carrego médio de 11,12% e duration de 4,2 anos), 29,48% ao CDI (carrego médio de 3,89% e duration de 2,2 anos) e 11,95% ao INCC (duration de 1,7 anos)."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RZAK11",
+      "body": "Nos 12 meses até 29/10/2026, o RZAK11 distribuiu R$ 12,90 por cota em 12 pagamentos, o que corresponde a um dividend yield de 17,62%. O último rendimento pago foi de R$ 1,05 por cota em 16/10/2026. O relatório gerencial de setembro de 2026 indica que o guidance de distribuição de rendimentos para os meses de outubro, novembro e dezembro de 2026 está no intervalo de R$ 1,00 a R$ 1,10 por cota. O fundo divulga rendimentos no 10º dia útil do mês subsequente, com data ex no 11º dia útil e pagamento no 15º dia útil. É possível acompanhar o histórico de proventos e a projeção de pagamentos no recurso de [dividendos e JCP no app](/recursos/proventos), que multiplica os valores pela quantidade de cotas na carteira."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RZAK11 realizou três ofertas públicas de cotas desde sua criação, com início em 2020, 2021 e 2023, conforme registros do FNET. Em 09/2026, o fundo contava com 42.653 cotistas e 8.807.885 cotas emitidas. O patrimônio líquido era de R$ 781,5 milhões, com valor patrimonial da cota de R$ 88,73. A taxa de administração mensal sobre o patrimônio era de 0,091%. A cota de mercado em 29/10/2026 era de R$ 73,21, resultando em um múltiplo Preço/Valor Patrimonial (P/VP) inferior a 1, indicando que a cota era negociada com desconto em relação ao valor patrimonial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RZAK11",
+      "body": "A rentabilidade total com proventos do RZAK11 nos 12 meses até 29/10/2026 foi de 4,83%. O volume médio negociado por dia nos últimos 3 meses foi de R$ 1,4 milhão. Para avaliar o desempenho do fundo em relação a outros investimentos, é possível utilizar o recurso de [comparação com índices](/recursos/comparacao-com-indices), que exibe a rentabilidade do RZAK11 lado a lado com o IFIX, CDI, Ibovespa e outros índices no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RZAK11",
+      "body": "Como FII de papel, o RZAK11 está exposto ao risco de crédito dos emissores dos CRIs e dos fundos imobiliários em que investe. A carteira possui alavancagem de 106,13% do patrimônio líquido, o que amplifica os efeitos de variações nos preços dos ativos e nos custos de financiamento. A maior parte da carteira (56,22%) é indexada ao IPCA, o que a expõe a riscos inflacionários, enquanto 29,48% é indexada ao CDI, sensível ao ciclo de juros. A volatilidade anualizada do RZAK11 nos 12 meses até 29/10/2026 foi de 11,26%, classificada como baixa. A maior queda em 5 anos foi de -12,41%, ocorrida entre o pico em 12/04/2024 e o ponto mais baixo em 19/12/2024. O beta do fundo contra o Ibovespa é de 0,15, indicando que o RZAK11 tende a acompanhar os movimentos do índice com amplitude muito menor."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RZAK11 é FII de papel ou de tijolo?",
+      "answer": "RZAK11 é um FII de papel. A carteira do fundo é composta majoritariamente por Certificados de Crédito Imobiliário (CRI), que representam 77% da alocação, e por outros Fundos Imobiliários, que representam 23%, conforme o relatório gerencial de 30/09/2026. O fundo não possui imóveis físicos em sua carteira."
+    },
+    {
+      "question": "Qual o dividend yield do RZAK11?",
+      "answer": "O dividend yield do RZAK11 nos 12 meses até 29/10/2026 é de 17,62%, com base em R$ 12,90 distribuídos por cota. O último rendimento pago foi de R$ 1,05 em 16/10/2026. O guidance para os próximos meses, conforme o relatório de setembro de 2026, está entre R$ 1,00 e R$ 1,10 por cota. É possível acompanhar o histórico de proventos no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Quem é a gestora do RZAK11?",
+      "answer": "A gestora do RZAK11 é a Riza Allocation Gestora de Recursos Ltda., que assumiu a gestão do fundo em 20 de junho de 2025, após uma cisão parcial da Riza Gestora de Recursos Ltda. A administradora e distribuidora do fundo é a BTG Pactual Serviços Financeiros S.A."
+    },
+    {
+      "question": "Qual a diferença entre RZAK11 e RZTR11?",
+      "answer": "RZAK11 e [RZTR11](/fiis/rztr11) são fundos imobiliários da mesma gestora (Riza), mas com estratégias distintas. O RZAK11 é um FII de papel focado em crédito privado e securitização, com 77% em CRIs e 23% em outros FIIs. O RZTR11 (Riza Terrax) é um FII de tijolo, com foco em ativos imobiliários físicos. A escolha entre os dois depende da exposição que o investidor busca: crédito estruturado versus imóveis físicos."
+    },
+    {
+      "question": "O RZAK11 tem alavancagem?",
+      "answer": "Sim. Segundo o relatório gerencial de 30/09/2026, a alocação bruta do RZAK11 era de 106,13% do patrimônio líquido, utilizando alavancagem por meio de compromissadas reversas para otimizar o retorno do portfólio. A alavancagem amplifica tanto os ganhos quanto as perdas em caso de variações nos preços dos ativos ou nos custos de financiamento."
+    },
+    {
+      "question": "Qual o patrimônio do RZAK11?",
+      "answer": "Em 09/2026, o patrimônio líquido do RZAK11 era de R$ 781,5 milhões, com 42.653 cotistas e 8.807.885 cotas emitidas."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do RZAK11 com data de pagamento e data ex, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do RZAK11 com o IFIX, CDI e Ibovespa no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para ser avisado quando a cota do RZAK11 atingir um preço que você definiu, sem precisar monitorar o gráfico o dia todo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RZAK11 junto com suas outras posições em FIIs, ações e renda fixa, com alocação por classe e as maiores posições da carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RZTR11",
+        "list": "fiis",
+        "reason": "Outro FII da mesma gestora (Riza), mas de tijolo, para quem busca diversificação entre crédito e imóveis físicos."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em CRIs high yield, similar à estratégia de crédito do RZAK11."
+      },
+      {
+        "ticker": "BTCI11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário da BTG Pactual, a mesma administradora do RZAK11, para comparação de estratégias de crédito."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em CRIs, para comparação de estratégias de crédito estruturado."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RZAK11",
+      "url": "https://finance.yahoo.com/quote/RZAK11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do RIZA AKIN FII RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RZAK11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36642219000131",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RZAK11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1358144",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RZAK11, 20/06/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=929756",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,251 @@
+{
+  "ticker": "IBIT",
+  "slug": "ibit",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IBIT: história, desempenho e riscos do ETF de Bitcoin",
+    "description": "Conheça o IBIT, o ETF de Bitcoin da BlackRock. Veja desempenho, volatilidade de 45,07% e como investir a partir do Brasil. Atualizado até 30/10/2026.",
+    "h1": "IBIT: iShares Bitcoin Trust ETF",
+    "canonicalPath": "/etfs/ibit",
+    "keywords": [
+      "IBIT",
+      "ETF Bitcoin",
+      "iShares Bitcoin Trust",
+      "BlackRock Bitcoin",
+      "investir em Bitcoin",
+      "ETF criptomoeda"
+    ]
+  },
+  "summary": "IBIT é o iShares Bitcoin Trust ETF, um fundo de índice da BlackRock que permite exposição ao Bitcoin por meio de bolsa de valores. Lançado em 11/01/2024, o ativo não paga proventos e apresentou rentabilidade total de -28,21% nos 12 meses até 30/10/2026. Com volatilidade anualizada de 45,07%, o IBIT é um dos ativos mais oscilantes do mercado, refletindo diretamente a dinâmica da criptomoeda.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Bitcoin Trust ETF",
+    "ticker": "XNAS IBIT",
+    "foundingDate": "2024-01-11",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de criptomoeda (Bitcoin)",
+    "issuerOrManager": "BlackRock (marca iShares)",
+    "trackedIndex": "Bitcoin (BTC)",
+    "name": "iShares Bitcoin Trust ETF",
+    "founded": "11/01/2024"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Bitcoin Trust ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "11/01/2024",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 43,36",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "45,07% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,77",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 2,06 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IBIT",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Bitcoin Trust ETF",
+    "currency": "USD",
+    "price": 43.36,
+    "historyStarts": "2024-01-11",
+    "returns": {
+      "1y": -0.2821,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.4507,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.533,
+      "from": "2025-10-06",
+      "to": "2026-06-30"
+    },
+    "beta1y": {
+      "value": 1.77,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 2058524983
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do IBIT é de 45,07%, um nível muito alto, refletindo a natureza especulativa do Bitcoin. O beta de 1,77 contra o S&P 500 indica que, em média, o IBIT tem movimentos 1,77 vezes maiores que o índice americano, na mesma direção. A maior queda em 5 anos foi de -53,30%, entre 06/10/2025 e 30/06/2026. Para um ativo de criptomoeda, essa volatilidade é esperada, mas exige que o investidor utilize ferramentas como os [alertas de preço](/recursos/alertas-de-preco) para gerenciar a exposição."
+  },
+  "history": {
+    "overview": "O IBIT faz parte da marca iShares, pertencente à BlackRock, a maior gestora de ativos do mundo, com US$ 15,3 trilhões sob gestão em 2026. A história da marca iShares remonta a 2000, quando a Barclays Global Investors lançou os primeiros fundos sob essa bandeira, com forte apoio educacional e de marketing. Em 2009, a BlackRock adquiriu o negócio da Barclays, consolidando sua posição no mercado de ETFs. O IBIT especificamente iniciou suas operações em 11/01/2024, marcando a entrada de uma das maiores gestoras globais no mercado de ETFs de Bitcoin nos Estados Unidos. A criação do Bitcoin em 2009 por Satoshi Nakamoto, como a primeira criptomoeda descentralizada, é o contexto fundamental para a existência do IBIT, que busca replicar o desempenho do ativo digital.",
+    "timeline": [
+      {
+        "date": "2008",
+        "event": "Satoshi Nakamoto publica o white paper do Bitcoin",
+        "source": 3
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca iShares da Barclays",
+        "source": 1
+      },
+      {
+        "date": "2024-01-11",
+        "event": "Primeiro pregão das cotas do IBIT na bolsa",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IBIT funciona",
+      "body": "O IBIT é um ETF que busca replicar o desempenho do Bitcoin, a primeira criptomoeda descentralizada. A emissora é a BlackRock, através de sua marca iShares, que é a maior emissora de ETFs nos Estados Unidos e globalmente. O fundo foi lançado em 11/01/2024. Diferente de ETFs de ações ou renda fixa, o IBIT não possui uma empresa por trás que gere lucros, mas sim um ativo digital que funciona através de uma rede peer-to-peer e validação por prova de trabalho."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IBIT",
+      "body": "A composição do IBIT é o próprio Bitcoin. O Bitcoin foi inventado em 2008 por Satoshi Nakamoto e sua rede foi criada em 3 de janeiro de 2009. O ativo funciona através de uma blockchain, um livro-razão distribuído, onde transações são validadas por nós da rede. Não há uma carteira de ações ou títulos, mas sim a exposição direta ao preço do Bitcoin."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IBIT a partir do Brasil",
+      "body": "Para investir no IBIT a partir do Brasil, o investidor precisa de uma conta em uma corretora que opere no exterior, pois o ativo é negociado em bolsa americana. Outra alternativa é buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou ativo. O principal risco cambial é que o valor do IBIT está em dólar, então a variação do câmbio impacta o retorno em reais, além da volatilidade do próprio Bitcoin."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IBIT",
+      "body": "Até 30/10/2026, o IBIT apresentou rentabilidade total de -28,21% nos últimos 12 meses. O volume médio negociado por dia nos últimos 3 meses foi de US$ 2,06 bilhões. O ativo não distribui proventos. Para entender como esse desempenho se compara com o mercado americano, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a carteira lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IBIT",
+      "body": "O principal risco do IBIT é a volatilidade extrema do Bitcoin. A volatilidade anualizada do IBIT é de 45,07%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -53,30%, ocorrendo do pico em 06/10/2025 ao ponto mais baixo em 30/06/2026. Além disso, há riscos regulatórios, já que o uso de criptomoedas tem atraído a atenção de reguladores em diversos países. A alta volatilidade pode ser monitorada com os [alertas de preço](/recursos/alertas-de-preco) do app."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar IBIT no app",
+      "body": "Para quem tem IBIT na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do IBIT lado a lado com o S&P 500 no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o IBIT chegar ao preço que você escolheu, útil para gerenciar a alta volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do IBIT junto com outras classes de ativos em uma só visão."
+    }
+  ],
+  "faq": [
+    {
+      "question": "IBIT paga dividendos?",
+      "answer": "Não, o IBIT não paga dividendos ou proventos. Nos últimos 12 meses até 30/10/2026, não houve distribuição de rendimentos. O retorno do investidor vem apenas da variação do preço da cota, que segue o Bitcoin."
+    },
+    {
+      "question": "Qual a diferença entre IBIT e BITO?",
+      "answer": "Ambos são ETFs de Bitcoin, mas de gestoras diferentes. O IBIT é da BlackRock (iShares), enquanto o [BITO](/etfs/bito) é da ProShares. A principal diferença está na taxa de administração e na estrutura do fundo, mas ambos buscam replicar o desempenho do Bitcoin."
+    },
+    {
+      "question": "Como o IBIT funciona?",
+      "answer": "O IBIT é um ETF que busca replicar o desempenho do Bitcoin. Ele não possui uma empresa por trás, mas sim o ativo digital. O fundo foi lançado em 11/01/2024 pela BlackRock e é negociado em bolsa americana."
+    },
+    {
+      "question": "Qual o risco cambial do IBIT?",
+      "answer": "O IBIT é cotado em dólar, então o investidor brasileiro está exposto à variação do câmbio. Se o dólar subir em relação ao real, o valor do IBIT em reais aumenta, mesmo que o preço em dólar caia. O risco cambial é um fator adicional à volatilidade do Bitcoin."
+    },
+    {
+      "question": "IBIT tem beta alto?",
+      "answer": "Sim, o beta do IBIT contra o S&P 500 é 1,77, o que significa que o ativo tende a ter movimentos 1,77 vezes maiores que o índice americano. Isso reflete a maior volatilidade do Bitcoin em comparação com o mercado de ações tradicional."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do IBIT lado a lado com o S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o IBIT chegar ao preço que você escolheu, útil para gerenciar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do IBIT junto com outras classes de ativos em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BITO",
+        "list": "us-etfs",
+        "reason": "Outro ETF de Bitcoin, da ProShares, para comparação de taxas e desempenho."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar o desempenho do IBIT com o mercado americano."
+      },
+      {
+        "ticker": "ETHA",
+        "list": "us-etfs",
+        "reason": "ETF de Ethereum, da mesma gestora iShares, para exposição a outra criptomoeda."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IBIT",
+      "url": "https://finance.yahoo.com/quote/IBIT/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): BlackRock (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/BlackRock",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Bitcoin (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Bitcoin",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

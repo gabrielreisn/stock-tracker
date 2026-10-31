@@ -1,0 +1,285 @@
+{
+  "ticker": "XLU",
+  "slug": "xlu",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLU: ETF de utilities, dividendos e volatilidade",
+    "description": "XLU é o ETF de utilities do S&P 500, com dividend yield de 2,79% e beta de 0,11. Veja desempenho, composição e como investir do Brasil.",
+    "h1": "XLU: State Street Utilities Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xlu",
+    "keywords": [
+      "XLU",
+      "ETF utilities",
+      "State Street Utilities Select Sector SPDR ETF",
+      "dividendos XLU",
+      "volatilidade XLU",
+      "investir em XLU do Brasil",
+      "S&P 500 utilities",
+      "SPDR utilities"
+    ]
+  },
+  "summary": "XLU é o State Street Utilities Select Sector SPDR ETF, um fundo de índice que replica o desempenho do setor de serviços públicos (utilities) do S&P 500. Lançado em 22/12/1998, o ativo investe em empresas de energia, gás e água. Em 30/10/2026, a cota valia US$ 43,43, com dividend yield de 2,79% nos últimos 12 meses e rentabilidade total de -0,43% no mesmo período.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Utilities Select Sector SPDR ETF",
+    "ticker": "ARCX XLU",
+    "foundingDate": "1998-12-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P 500 Utilities Select Sector Index",
+    "name": "State Street Utilities Select Sector SPDR ETF",
+    "founded": "22/12/1998"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Utilities Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/12/1998",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 43,43",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,74% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,11",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,79%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,09 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLU",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Utilities Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 43.43,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0043,
+      "3y": 0.6051,
+      "5y": 0.5032,
+      "10y": 1.4085
+    },
+    "volatility1y": 0.1574,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2526,
+      "from": "2022-09-12",
+      "to": "2023-10-02"
+    },
+    "beta1y": {
+      "value": 0.11,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.211,
+      "payments12Months": 4,
+      "yield12Months": 0.0279,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.3
+      }
+    },
+    "avgDailyTradedValue3m": 1085731066
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do XLU é de 15,74% nos 12 meses até 30/10/2026, nível moderado. O beta contra o S&P 500 é de 0,11, o que significa que o ativo costuma se mover na mesma direção do índice, mas com amplitude muito menor: quando o S&P 500 sobe ou cai 1%, o XLU tende a se mover cerca de 0,11% na mesma direção. A maior queda em 5 anos foi de -25,26%, entre 12/09/2022 e 02/10/2023. Para um ETF setorial de utilities, que abrange empresas reguladas com fluxos de caixa estáveis, essa volatilidade é compatível com o perfil defensivo do setor, embora a queda de 2022 a 2023 mostre que o ativo não é imune a correções. O [widget da barra de menus](/recursos/widget-da-barra-de-menus) permite acompanhar o gráfico do dia e as posições durante o pregão."
+  },
+  "history": {
+    "overview": "O XLU faz parte da família de ETFs SPDR, geridos pela State Street Global Advisors (SSGA). A SSGA é a terceira maior provedora de ETFs do mundo, atrás apenas de iShares e Vanguard, e administra o maior ETF do mundo em patrimônio, o SPDR S&P 500 Trust. A marca SPDR, que significa Standard & Poor's Depositary Receipts, foi unificada em 2007 para abrigar todos os ETFs dos EUA da gestora, incluindo a antiga família StreetTRACKS e o DOW DIAMONDS, que replica o Dow Jones Industrial Average. O XLU é um dos dez fundos setoriais lançados em 1998 pela SSGA em parceria com a Merrill Lynch, desenhados para seguir os 11 setores do S&P 500 segundo a classificação GICS. Como o S&P 500 possui apenas quatro empresas de telecomunicações, essas estão incluídas no ETF de tecnologia ([XLK](/etfs/xlk)), e não no XLU. O primeiro pregão das cotas do XLU ocorreu em 22/12/1998.",
+    "timeline": [
+      {
+        "date": "1998-12-22",
+        "event": "Primeiro pregão das cotas do XLU na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA renomeia seus ETFs dos EUA para a marca SPDR, unificando a família StreetTRACKS e o DOW DIAMONDS.",
+        "source": 1
+      },
+      {
+        "date": "2016",
+        "event": "Revisão do padrão GICS: o setor de imóveis (exceto REITs hipotecários) é separado do setor financeiro, criando um novo setor.",
+        "source": 4
+      },
+      {
+        "date": "2018",
+        "event": "Revisão do GICS: o setor de telecomunicações é renomeado para comunicação e serviços, incluindo empresas de mídia e entretenimento.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLU funciona",
+      "body": "O XLU é um ETF que replica o índice S&P 500 Utilities Select Sector Index, focado no setor de serviços públicos (utilities) dos Estados Unidos. A emissora é a State Street Global Advisors (SSGA), a terceira maior gestora de ETFs do mundo, que lançou o fundo em 22/12/1998 em parceria com a Merrill Lynch como parte da família de ETFs setoriais SPDR. O fundo não é alavancado nem inverso, portanto não há rebalanceamento diário que cause desvio de resultado em períodos longos. As cotas são negociadas em bolsa e distribuem proventos periodicamente."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLU",
+      "body": "O XLU segue o índice S&P 500 Utilities Select Sector Index, que agrupa as empresas do S&P 500 classificadas no setor de utilities pela taxonomia GICS (Global Industry Classification Standard), criada em 1999 por MSCI e S&P. O setor de utilities inclui empresas que fornecem serviços essenciais como eletricidade, gás natural e água, caracterizados por monopólios naturais e alto custo fixo de infraestrutura. As fontes não detalham as empresas específicas que compõem o índice em 30/10/2026, mas o fundo reflete a ponderação por capitalização de mercado do setor."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLU a partir do Brasil",
+      "body": "Para investir no XLU a partir do Brasil, o investidor pode abrir conta em uma corretora que ofereça acesso a bolsas americanas, como a NYSE ou NASDAQ, e comprar as cotas diretamente em dólar. Outra opção é buscar ETFs ou BDRs listados na B3 que replicam o mesmo índice ou o setor de utilities dos EUA, o que evita a operação direta no exterior. Em ambos os casos, há risco cambial: a variação do dólar frente ao real impacta o retorno em reais, independentemente do desempenho do XLU em dólar. O volume médio negociado por dia do XLU é de US$ 1,09 bilhão nos 3 meses até 30/10/2026, indicando boa liquidez."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLU",
+      "body": "Em 30/10/2026, a cota do XLU valia US$ 43,43. A rentabilidade total com proventos foi de -0,43% nos 12 meses, 60,51% em 3 anos, 50,32% em 5 anos e 140,85% em 10 anos. O dividend yield nos 12 meses até 30/10/2026 foi de 2,79%, com US$ 1,2110 por cota em 4 pagamentos, sendo o último de US$ 0,3000 em 21/09/2026. Para comparar com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade do XLU lado a lado com o índice de referência. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) permite acompanhar a evolução da posição ao longo do tempo."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLU",
+      "body": "O XLU tem volatilidade anualizada de 15,74% nos 12 meses até 30/10/2026, classificada como moderada. O beta contra o S&P 500 é de 0,11, indicando que o ativo tende a acompanhar os movimentos do índice com amplitude muito menor, na mesma direção. A maior queda em 5 anos foi de -25,26%, do pico em 12/09/2022 ao ponto mais baixo em 02/10/2023. Riscos específicos incluem mudanças regulatórias no setor de utilities, variação nos preços de energia e gás, e a sensibilidade a taxas de juros, que afetam o valor presente dos fluxos de caixa regulados. O risco cambial é relevante para investidores brasileiros, pois o ativo é cotado em dólar. Use [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações e definir pontos de acompanhamento."
+    }
+  ],
+  "faq": [
+    {
+      "question": "XLU paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, o XLU distribuiu US$ 1,2110 por cota em 4 pagamentos, com dividend yield de 2,79%. O último pagamento foi de US$ 0,3000 em 21/09/2026. Os proventos podem ser acompanhados no app com data de pagamento e multiplicados pela quantidade de cotas."
+    },
+    {
+      "question": "O que é o XLU?",
+      "answer": "XLU é o State Street Utilities Select Sector SPDR ETF, um ETF que replica o índice S&P 500 Utilities Select Sector Index, focado no setor de serviços públicos (utilities) dos EUA. O fundo foi lançado em 22/12/1998 pela State Street Global Advisors e investe em empresas de eletricidade, gás e água."
+    },
+    {
+      "question": "Qual a diferença entre XLU e XLK?",
+      "answer": "XLU replica o setor de utilities do S&P 500, enquanto XLK replica o setor de tecnologia. Ambos são ETFs setoriais da família SPDR, geridos pela State Street Global Advisors. O XLU tem perfil mais defensivo, com beta de 0,11 contra o S&P 500, enquanto o XLK tende a ter maior volatilidade e crescimento."
+    },
+    {
+      "question": "XLU é bom para quem quer renda passiva?",
+      "answer": "O XLU distribui proventos periodicamente, com dividend yield de 2,79% nos 12 meses até 30/10/2026. O setor de utilities é conhecido por fluxos de caixa estáveis e distribuição regular. No entanto, a rentabilidade passada não é garantia de resultados futuros, e o investidor deve considerar o risco cambial e a variação de preços das cotas."
+    },
+    {
+      "question": "Como acompanhar o XLU no app?",
+      "answer": "O app permite acompanhar o XLU com o [desempenho e preço médio](/recursos/desempenho-e-preco-medio), que mostra a rentabilidade da posição e o preço médio de compra. A [carteira consolidada](/recursos/carteira-consolidada) integra o XLU com outras posições, mostrando alocação e valor por classe. O [assistente de IA](/recursos/assistente-de-ia) responde perguntas em português sobre a carteira, usando os seus próprios dados."
+    },
+    {
+      "question": "Qual o risco cambial do XLU para investidores brasileiros?",
+      "answer": "O XLU é cotado em dólar, portanto o retorno em reais depende da variação do câmbio. Se o dólar se valorizar frente ao real, o investidor brasileiro tem ganho cambial; se o dólar se desvalorizar, há perda cambial. Esse risco é independente do desempenho do setor de utilities nos EUA. O [open finance](/recursos/open-finance) ajuda a conciliar posições em corretoras que negociam em dólar."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do XLU e o preço médio de cada posição com gráfico interativo e variação do dia e do ano."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do XLU com o S&P 500, Ibovespa e CDI no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando o XLU atingir um preço que você definiu, útil para monitorar oscilações de 15,74% de volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o XLU junto com ações, renda fixa e outros ETFs, com alocação por classe e as maiores posições da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "Outro ETF setorial da família SPDR, focado em tecnologia, para comparação de setores do S&P 500."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF de energia da família SPDR, setor relacionado a utilities, com perfil de crescimento diferente."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, o índice de referência do XLU, para comparação de desempenho geral."
+      },
+      {
+        "ticker": "XLV",
+        "list": "us-etfs",
+        "reason": "ETF de saúde da família SPDR, outro setor defensivo do S&P 500, para diversificação setorial."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLU",
+      "url": "https://finance.yahoo.com/quote/XLU/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Public utility (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Public_utility",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,325 @@
+{
+  "ticker": "ADSH11",
+  "slug": "adsh11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ADSH11: história, dividendos e volatilidade",
+    "description": "Conheça o Ad Shopping FII (ADSH11): patrimônio de R$ 466,3 milhões em 09/2026, dividend yield de 2,21% e volatilidade de 14,01%.",
+    "h1": "ADSH11: Ad Shopping Fundo de Investimento Imobiliário",
+    "canonicalPath": "/fiis/adsh11",
+    "keywords": [
+      "ADSH11",
+      "Ad Shopping FII",
+      "FII multicategoria",
+      "dividendos ADSH11",
+      "volatilidade ADSH11",
+      "Oliveira Trust FII"
+    ]
+  },
+  "summary": "ADSH11 é o Ad Shopping Fundo de Investimento Imobiliário Responsabilidade Limitada, um FII de multicategoria administrado pela Oliveira Trust DTVM S.A. e com gestão ativa. Fundado em 24/11/2025, o fundo tinha patrimônio líquido de R$ 466,3 milhões e 210 cotistas em 09/2026. A cota fechou a R$ 10,40 em 30/10/2026, com dividend yield de 2,21% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Ad Shopping Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF ADSH11",
+    "isin": "BRADSHCTF009",
+    "taxId": "63.375.304/0001-53",
+    "foundingDate": "2025-11-24",
+    "provider": {
+      "name": "OLIVEIRA TRUST DTVM S.A.",
+      "url": "https://www.oliveiratrust.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=63375304000153"
+    ]
+  },
+  "profile": {
+    "type": "FII de multicategoria",
+    "issuerOrManager": "Oliveira Trust DTVM S.A",
+    "name": "Ad Shopping Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "24/11/2025",
+    "administrator": "OLIVEIRA TRUST DTVM S.A.",
+    "website": "https://www.oliveiratrust.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "63.375.304/0001-53",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "OLIVEIRA TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "24/11/2025",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 466,3 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "210",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,93",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 10,40",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,01% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "-0,01",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,21%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ADSH11",
+    "list": "fiis",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Ad Shopping Fundo De Investimento Imobiliario Responsabilidade Limitada",
+    "currency": "BRL",
+    "price": 10.4,
+    "historyStarts": "2026-03-23",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1401,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1151,
+      "from": "2026-08-27",
+      "to": "2026-09-30"
+    },
+    "beta1y": {
+      "value": -0.01,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.23,
+      "payments12Months": 6,
+      "yield12Months": 0.0221,
+      "lastPayment": {
+        "date": "2026-10-26",
+        "amount": 0.02
+      }
+    },
+    "avgDailyTradedValue3m": 3640385
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do ADSH11 nos 12 meses até 30/10/2026 foi de 14,01%, classificada como baixa 0. O beta contra o Ibovespa no mesmo período foi de -0,01, o que indica que o ativo não acompanhou os movimentos do índice, com variação oposta ou nula 0. A maior queda em 5 anos foi de -11,51%, do pico em 27/08/2026 ao ponto mais baixo em 30/09/2026 0. Para um FII de multicategoria, esses níveis de volatilidade e beta sugerem um comportamento de preço relativamente estável e dessincronizado do Ibovespa."
+  },
+  "history": {
+    "overview": "O Ad Shopping Fundo de Investimento Imobiliário Responsabilidade Limitada (ADSH11) iniciou suas atividades em 24/11/2025, após o lançamento de sua primeira oferta pública de cotas, que teve início em 13/11/2025 12. O fundo é administrado pela Oliveira Trust DTVM S.A. e opera no segmento de multicategoria, com gestão ativa 1. Em 17/03/2026, encerrou-se a primeira oferta pública de cotas 2. Em 08/07/2026, o fundo iniciou sua segunda emissão de cotas, com montante inicial de R$ 100 milhões e preço de emissão de R$ 10,07 por cota 24. Em 23/10/2026, o fundo anunciou uma distribuição extraordinária de rendimentos de R$ 0,02 por cota, decorrente de receitas extraordinárias, com data-base no mesmo dia 3.",
+    "timeline": [
+      {
+        "date": "2025-11-13",
+        "event": "Início da primeira oferta pública de cotas do ADSH11.",
+        "source": 2
+      },
+      {
+        "date": "2025-11-24",
+        "event": "Início das atividades do fundo, conforme registro na CVM.",
+        "source": 1
+      },
+      {
+        "date": "2026-03-17",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2026-07-08",
+        "event": "Início da segunda oferta pública de cotas, com montante inicial de R$ 100 milhões.",
+        "source": 2
+      },
+      {
+        "date": "2026-10-23",
+        "event": "Anúncio de distribuição extraordinária de rendimentos de R$ 0,02 por cota, com data-base no mesmo dia.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do ADSH11",
+      "body": "O ADSH11 é um fundo de investimento imobiliário de multicategoria, o que significa que pode investir em diferentes tipos de ativos imobiliários e financeiros, como recebíveis, imóveis e cotas de outros fundos. O fundo possui gestão ativa, conforme informado pela CVM em 09/2026 1. A administração é realizada pela Oliveira Trust DTVM S.A. 1. O dossiê não detalha a composição exata da carteira ou os objetivos específicos de alocação além da classificação de multicategoria."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do ADSH11",
+      "body": "Nos 12 meses até 30/10/2026, o ADSH11 distribuiu R$ 0,2300 por cota em 6 pagamentos, resultando em um dividend yield de 2,21% 0. O último pagamento foi de R$ 0,0200 em 26/10/2026 0. Em 23/10/2026, o fundo anunciou uma distribuição extraordinária de R$ 0,02 por cota, decorrente de receitas extraordinárias, com data-base no mesmo dia 3. O relatório da CVM de 09/2026 não detalha a tributação dos rendimentos, e o dossiê não fornece informações específicas sobre o regime de isenção ou alíquota aplicável a este fundo 1."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O ADSH11 realizou duas ofertas públicas de cotas: a primeira, iniciada em 13/11/2025 e encerrada em 17/03/2026, e a segunda, iniciada em 08/07/2026 2. A segunda emissão teve montante inicial de R$ 100.000.004,09, correspondente a 9.930.487 novas cotas, a R$ 10,07 por cota, sem considerar a taxa de distribuição primária de R$ 0,02 (0,17%) 4. Em 09/2026, o fundo tinha patrimônio líquido de R$ 466,3 milhões, 210 cotistas e valor patrimonial da cota de R$ 9,93 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ADSH11",
+      "body": "A rentabilidade total com proventos do ADSH11 não está disponível nos números calculados até 30/10/2026 0. A volatilidade anualizada de 12 meses foi de 14,01%, classificada como baixa 0. O beta contra o Ibovespa no mesmo período foi de -0,01 0. A maior queda em 5 anos foi de -11,51%, do pico em 27/08/2026 ao ponto mais baixo em 30/09/2026 0."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ADSH11",
+      "body": "Como FII de multicategoria, o ADSH11 está sujeito a riscos de crédito, vacância e variação de juros, dependendo da composição de sua carteira. A volatilidade anualizada de 14,01% é considerada baixa, e a maior queda em 5 anos foi de -11,51% 0. O beta de -0,01 indica que, no período de 12 meses, o ativo não acompanhou os movimentos do Ibovespa 0. O dossiê não detalha riscos específicos além dos gerais do tipo de fundo."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar ADSH11 no app",
+      "body": "Para quem tem ADSH11 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [dividendos e JCP no app](/recursos/proventos): Veja os rendimentos do ADSH11 com data com e data de pagamento, multiplicados pela sua quantidade.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do ADSH11 com o IFIX e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o ADSH11 chegar ao preço que você escolheu, para comprar ou vender.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o ADSH11 junto com seus outros ativos, com valor por classe e alocação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ADSH11 paga dividendos?",
+      "answer": "Sim, o ADSH11 distribui rendimentos. Nos 12 meses até 30/10/2026, pagou R$ 0,2300 por cota em 6 pagamentos, com dividend yield de 2,21% 0. O último pagamento foi de R$ 0,0200 em 26/10/2026 0. Em 23/10/2026, houve uma distribuição extraordinária de R$ 0,02 por cota 3."
+    },
+    {
+      "question": "Qual a diferença entre ADSH11 e outros FIIs de shopping?",
+      "answer": "O ADSH11 é um FII de multicategoria, o que significa que pode investir em diferentes tipos de ativos, não apenas shoppings 1. Outros FIIs de shopping, como o [VISC11](/fiis/visc11) ou o [BPML11](/fiis/bpml11), são focados em imóveis de shopping centers. O ADSH11 tem gestão ativa e é administrado pela Oliveira Trust DTVM S.A. 1."
+    },
+    {
+      "question": "ADSH11 é FII de papel ou de tijolo?",
+      "answer": "O ADSH11 é classificado como FII de multicategoria, o que significa que pode investir em ativos de papel (como recebíveis) e de tijolo (imóveis) 1. O dossiê não detalha a proporção entre esses tipos de ativos na carteira."
+    },
+    {
+      "question": "Qual o patrimônio do ADSH11?",
+      "answer": "Em 09/2026, o patrimônio líquido do ADSH11 era de R$ 466,3 milhões, com 210 cotistas e valor patrimonial da cota de R$ 9,93 1."
+    },
+    {
+      "question": "Qual a taxa de administração do ADSH11?",
+      "answer": "O relatório da CVM de 09/2026 indica taxa de administração de 0,000% sobre o patrimônio 1. O dossiê não detalha se há outras taxas ou se essa taxa é temporária."
+    },
+    {
+      "question": "ADSH11 tem liquidez?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses até 30/10/2026 foi de R$ 3,6 milhões 0. Isso indica uma liquidez moderada para um FII, mas o dossiê não compara com outros FIIs de mesma categoria."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do ADSH11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do ADSH11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o ADSH11 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o ADSH11 junto com seus outros ativos, com valor por classe e alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VISC11",
+        "list": "fiis",
+        "reason": "Outro FII de shopping centers, para comparação de estratégia e segmento."
+      },
+      {
+        "ticker": "BPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings da BTG Pactual, para comparação de gestão e foco."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda imobiliária, para comparação de diversificação e perfil de risco."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de renda, para comparação de estratégia de distribuição e composição de carteira."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ADSH11",
+      "url": "https://finance.yahoo.com/quote/ADSH11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do AD SHOPPING FII RESP LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo ADSH11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=63375304000153",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do ADSH11, 23/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1358107",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do ADSH11, 09/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1242631",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

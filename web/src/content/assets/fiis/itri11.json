@@ -1,0 +1,306 @@
+{
+  "ticker": "ITRI11",
+  "slug": "itri11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ITRI11: histórico, dividendos e risco",
+    "description": "Conheça o ITRI11, FII de fundos da Itaú Asset Management. Veja dividend yield de 14,51%, patrimônio de R$ 544,6 milhões e volatilidade de 19,68% em 2026.",
+    "h1": "ITRI11: Itaú Total Return FII",
+    "canonicalPath": "/fiis/itri11",
+    "keywords": [
+      "ITRI11",
+      "Itaú Total Return FII",
+      "FII de fundos",
+      "dividendos ITRI11",
+      "volatilidade ITRI11",
+      "ITRI11 patrimônio",
+      "ITRI11 cota patrimonial"
+    ]
+  },
+  "summary": "ITRI11 é o Itaú Total Return Fundo de Investimento Imobiliário, um fundo de fundos (FII) com gestão ativa que investe em outros FIIs e títulos de crédito imobiliário. Fundado em 12/03/2024, visa retorno total de 16% ao ano. Em 09/2026, o patrimônio líquido era de R$ 544,6 milhões e a cota patrimonial valia R$ 87,13, enquanto a cota de mercado negociava a R$ 71,96 em 29/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Itaú Total Return Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "ITAÚ TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF ITRI11",
+    "isin": "BRITRICTF008",
+    "taxId": "52.270.671/0001-76",
+    "foundingDate": "2024-03-12",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=52270671000176"
+    ]
+  },
+  "profile": {
+    "type": "FII de fundos (híbrido)",
+    "issuerOrManager": "Itaú Asset Management (gestora) / Intrag (administradora) [1, 3] (Nota: A CVM lista Intrag como administrador, mas o rel",
+    "name": "Itaú Total Return Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "ITAÚ TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "12/03/2024",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ITAÚ TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "52.270.671/0001-76",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "12/03/2024",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 544,6 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "17.887",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 87,13",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 71,96",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "19,68% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,36",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,51%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ITRI11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Itau Total Return Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 71.96,
+    "historyStarts": "2024-08-06",
+    "returns": {
+      "1y": 0.0344,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1968,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2668,
+      "from": "2024-08-06",
+      "to": "2025-01-23"
+    },
+    "beta1y": {
+      "value": 0.36,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.44,
+      "payments12Months": 12,
+      "yield12Months": 0.1451,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.8
+      }
+    },
+    "avgDailyTradedValue3m": 1108771
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do ITRI11 nos últimos 12 meses é de 19,68%, classificada como moderada 0. O beta de 0,36 contra o Ibovespa mostra que, em média, o fundo se move em menor amplitude que o índice, na mesma direção 0. A maior queda registrada em 5 anos foi de -26,68%, entre 06/08/2024 e 23/01/2025 0. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O ITRI11 teve início de atividades em 12/03/2024, conforme registro na CVM 1. Poucos dias antes, em 15/01/2024, o fundo iniciou sua oferta pública de cotas, que foi encerrada em 22/03/2024 2. A estrutura do fundo é de gestão ativa, com a Itaú Asset Management responsável pela seleção dos investimentos, buscando consolidar estratégias de mercado imobiliário, crédito e outros títulos 3. O objetivo declarado é entregar um retorno total médio de 16% ao ano nos três primeiros anos, líquido de Imposto de Renda 3. Desde a sua constituição, o fundo tem distribuído proventos mensais, com valores que variaram entre R$ 0,80 e R$ 1,30 por cota no período de 12 meses até setembro de 2026 3.",
+    "timeline": [
+      {
+        "date": "2024-01-15",
+        "event": "Início da oferta pública de cotas do ITRI11.",
+        "source": 2
+      },
+      {
+        "date": "2024-03-12",
+        "event": "Início das atividades do fundo, conforme registro na CVM.",
+        "source": 1
+      },
+      {
+        "date": "2024-03-22",
+        "event": "Encerramento da oferta pública de cotas do ITRI11.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do ITRI11",
+      "body": "O ITRI11 é um fundo de investimento imobiliário de gestão ativa que atua como um fundo de fundos, alocando capital em outros FIIs e em títulos de crédito imobiliário (CRIs), além de caixa 3. A estratégia é definida pela Itaú Asset Management, que seleciona os ativos com base em análises de mercado e expertise em imóveis, crédito e valores mobiliários 3. O objetivo do fundo é gerar retorno total médio de 16% ao ano nos três primeiros anos, líquido de Imposto de Renda, combinando rendimentos e valorização patrimonial 3. O administrador registrado na CVM é a Intrag Distribuidora de Títulos e Valores Mobiliários Ltda 1."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do ITRI11",
+      "body": "Nos 12 meses até 29/10/2026, o ITRI11 distribuiu R$ 10,44 por cota em 12 pagamentos, resultando em um dividend yield de 14,51% 0. O último provento pago foi de R$ 0,80 em 01/10/2026 0. É possível acompanhar a data de pagamento e o valor multiplicado pela quantidade de cotas na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O ITRI11 realizou uma oferta pública de cotas entre 15/01/2024 e 22/03/2024 2. Em 09/2026, o patrimônio líquido do fundo era de R$ 544,6 milhões, com 6.250.000 cotas emitidas e 17.887 cotistas 1. O valor patrimonial da cota era de R$ 87,13, enquanto a cota de mercado em 29/10/2026 estava em R$ 71,96 [0, 1]. A taxa de administração cobrada em 09/2026 foi de 0,090% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ITRI11",
+      "body": "A rentabilidade total com proventos do ITRI11 nos 12 meses até 29/10/2026 foi de 3,44% 0. A cota patrimonial fechou setembro de 2026 em R$ 87,13, com uma variação mensal de -0,52% 3. O fundo pode ser comparado com o IFIX, índice de referência para FIIs, e com o CDI, através da [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ITRI11",
+      "body": "Como fundo de fundos, o ITRI11 está exposto à volatilidade dos FIIs e títulos em que investe. A volatilidade anualizada de 12 meses é de 19,68%, nível moderado 0. A maior queda em 5 anos foi de -26,68%, entre 06/08/2024 e 23/01/2025 0. O relatório de setembro de 2026 menciona riscos de juros altos, tensões internacionais e eleições como fatores que pressionaram o mercado imobiliário 3. O beta de 0,36 contra o Ibovespa indica que o fundo tende a ter movimentos menores que o índice 0."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ITRI11 é FII de papel ou de tijolo?",
+      "answer": "O ITRI11 é um fundo de fundos (híbrido) que investe em outros FIIs e em títulos de crédito imobiliário (CRIs) 3. Ele não possui imóveis diretamente, mas aloca em ativos do setor imobiliário e de crédito."
+    },
+    {
+      "question": "Qual o objetivo de retorno do ITRI11?",
+      "answer": "O objetivo do fundo é entregar retorno total médio de 16% ao ano nos três primeiros anos, líquido de Imposto de Renda, considerando rendimentos e valorização patrimonial 3."
+    },
+    {
+      "question": "ITRI11 paga dividendos?",
+      "answer": "Sim, o ITRI11 distribui proventos mensais. Nos 12 meses até 29/10/2026, pagou R$ 10,44 por cota, com dividend yield de 14,51% 0. O último pagamento foi de R$ 0,80 em 01/10/2026 0."
+    },
+    {
+      "question": "Qual a taxa de administração do ITRI11?",
+      "answer": "A taxa de administração em 09/2026 foi de 0,090% sobre o patrimônio líquido 1. O valor pode variar conforme o regulamento do fundo."
+    },
+    {
+      "question": "Quem gerencia o ITRI11?",
+      "answer": "A gestão é ativa e realizada pela Itaú Asset Management, que seleciona os investimentos 3. O administrador registrado na CVM é a Intrag Distribuidora de Títulos e Valores Mobiliários Ltda 1."
+    },
+    {
+      "question": "Qual o patrimônio do ITRI11?",
+      "answer": "Em 09/2026, o patrimônio líquido era de R$ 544,6 milhões, com 17.887 cotistas 1. O valor patrimonial da cota era de R$ 87,13 1."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do ITRI11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do ITRI11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a cota do ITRI11 atingir o preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o ITRI11 junto com outros FIIs e ativos na sua carteira, com alocação por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FII de fundos com gestão ativa, similar em estratégia e perfil de risco."
+      },
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "Fundo de fundos imobiliário que também investe em FIIs de tijolo e papel."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII de índices de preços, com estratégia de renda ligada à inflação, similar a parte da carteira do ITRI11."
+      },
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "FII de tijolo urbano, representando o segmento de imóveis que o ITRI11 pode alocar."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ITRI11",
+      "url": "https://finance.yahoo.com/quote/ITRI11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do ITAÚ TOTAL RETURN FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo ITRI11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=52270671000176",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do ITRI11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1350031",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

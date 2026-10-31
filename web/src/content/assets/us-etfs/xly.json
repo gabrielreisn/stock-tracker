@@ -1,0 +1,271 @@
+{
+  "ticker": "XLY",
+  "slug": "xly",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLY: ETF de consumo discricionário",
+    "description": "XLY é o ETF de consumo discricionário do S&P 500. Veja desempenho, volatilidade, dividendos e como investir a partir do Brasil.",
+    "h1": "XLY: State Street Consumer Discretionary Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xly",
+    "keywords": [
+      "XLY",
+      "ETF consumo discricionário",
+      "SPDR",
+      "S&P 500",
+      "ETF americano",
+      "investir em ETFs",
+      "volatilidade XLY",
+      "dividendos XLY"
+    ]
+  },
+  "summary": "XLY é o State Street Consumer Discretionary Select Sector SPDR ETF, lançado em 22/12/1998. O ativo replica o índice de consumo discricionário do S&P 500, focado em empresas de varejo, lazer e serviços. Em 30/10/2026, a cota valia US$ 115,38, com rentabilidade de 56,71% nos últimos 3 anos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Consumer Discretionary Select Sector SPDR ETF",
+    "ticker": "ARCX XLY",
+    "foundingDate": "1998-12-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors",
+    "trackedIndex": "S&P 500 Consumer Discretionary Select Sector Index",
+    "name": "State Street Consumer Discretionary Select Sector SPDR ETF",
+    "founded": "22/12/1998"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Consumer Discretionary Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/12/1998",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 115,38",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "19,19% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,14",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,81%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 743,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLY",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Consumer Discretionary Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 115.38,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0047,
+      "3y": 0.5671,
+      "5y": 0.1747,
+      "10y": 2.2732
+    },
+    "volatility1y": 0.1919,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3967,
+      "from": "2021-11-19",
+      "to": "2022-12-28"
+    },
+    "beta1y": {
+      "value": 1.14,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.934,
+      "payments12Months": 4,
+      "yield12Months": 0.0081,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.244
+      }
+    },
+    "avgDailyTradedValue3m": 743479450
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do XLY nos últimos 12 meses foi de 19,19%, nível moderado. A maior queda em 5 anos foi de -39,67%, entre 19/11/2021 e 28/12/2022. Para um ETF setorial, essa volatilidade é compatível com a sensibilidade do setor de consumo discricionário a ciclos econômicos. É possível configurar [alertas de preço](/recursos/alertas-de-preco) no app para monitorar oscilações relevantes."
+  },
+  "history": {
+    "overview": "O XLY faz parte da família de ETFs SPDR, gerida pela State Street Global Advisors (SSGA). Em 1998, a SSGA e a Merrill Lynch introduziram os 'Sector Spiders', uma linha de dez fundos que acompanham os setores do S&P 500. O primeiro pregão das cotas do XLY ocorreu em 22/12/1998, marcando o início da negociação desse instrumento de exposição ao consumo discricionário nos Estados Unidos. A estrutura dos fundos SPDR é de 'unit investment trusts', e a marca unificou diversos produtos da SSGA em 2007. O ETF permite que investidores acessem o desempenho de empresas de varejo, entretenimento e serviços de forma pulverizada, sem a necessidade de comprar ações individuais de cada companhia.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "Lançamento dos Sector Spiders pela SSGA e Merrill Lynch",
+        "source": 1
+      },
+      {
+        "date": "1998-12-22",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "Rebranding dos ETFs da SSGA sob a marca SPDR",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLY funciona",
+      "body": "O XLY é um ETF que replica o índice de consumo discricionário do S&P 500. A emissora é a State Street Global Advisors, que gerencia a família de fundos SPDR. O lançamento ocorreu em 22/12/1998, quando a SSGA e a Merrill Lynch introduziram os 'Sector Spiders' para acompanhar os setores do S&P 500. O ativo é estruturado como 'unit investment trust', o que significa que as cotas representam a participação proporcional nos ativos subjacentes do índice. O ETF não é alavancado nem inverso, buscando replicar o desempenho do índice de forma passiva."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLY",
+      "body": "O XLY segue o índice de consumo discricionário do S&P 500, que agrupa empresas de setores como varejo, lazer, serviços e bens de consumo não essenciais. A classificação segue o Global Industry Classification Standard (GICS), desenvolvido em 1999 por MSCI e Standard & Poor's. As fontes não detalham a lista exata de empresas ou o peso de cada uma, mas o ETF reflete a composição do índice, que é revisado periodicamente para manter a aderência ao setor."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLY a partir do Brasil",
+      "body": "Para investir no XLY a partir do Brasil, o investidor pode abrir conta em uma corretora de valores no exterior ou em uma corretora brasileira que ofereça acesso a ativos americanos. O ativo é cotado em dólar, o que expõe o investidor ao risco cambial: variações na cotação do dólar em relação ao real impactam o retorno em reais. Também é possível acessar a mesma exposição por meio de ETFs ou BDRs negociados na B3 que sigam o mesmo índice, o que pode simplificar a gestão cambial, embora com custos e liquidez diferentes."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLY",
+      "body": "Até 30/10/2026, o XLY apresentou rentabilidade total de -0,47% em 12 meses, 56,71% em 3 anos e 17,47% em 5 anos. Em 10 anos, o retorno acumulado foi de 227,32%. O preço da cota era de US$ 115,38. A rentabilidade passada não é garantia de resultados futuros, e o desempenho do setor de consumo discricionário pode variar conforme o ciclo econômico. É possível acompanhar a evolução do ativo e compará-lo com o S&P 500 na [comparação com índices](/recursos/comparacao-com-indices) do app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLY",
+      "body": "O XLY está exposto ao risco setorial de consumo discricionário, que é sensível a ciclos econômicos e mudanças no comportamento do consumidor. A volatilidade anualizada nos últimos 12 meses foi de 19,19%, classificada como moderada. A maior queda em 5 anos foi de -39,67%, entre 19/11/2021 e 28/12/2022. Além disso, há risco cambial para investidores brasileiros, já que o ativo é cotado em dólar."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar XLY no app",
+      "body": "Para quem tem XLY na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do XLY lado a lado com o S&P 500 no mesmo gráfico, para entender o desempenho relativo do setor de consumo discricionário.\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações quando o XLY atingir preços que você considera relevantes, considerando a volatilidade de 19,19% do ativo.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do XLY junto com outros ativos, como SPY e XLK, para avaliar a diversificação da carteira."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o XLY?",
+      "answer": "XLY é o State Street Consumer Discretionary Select Sector SPDR ETF, um ETF que replica o índice de consumo discricionário do S&P 500. O ativo é gerido pela State Street Global Advisors e foi lançado em 22/12/1998. Ele oferece exposição a empresas de varejo, lazer e serviços nos Estados Unidos."
+    },
+    {
+      "question": "Qual a diferença entre XLY e SPY?",
+      "answer": "O XLY foca no setor de consumo discricionário do S&P 500, enquanto o [SPY](/etfs/spy) replica o índice S&P 500 completo. O XLY é mais concentrado em um setor específico, o que pode resultar em maior volatilidade e desempenho mais variável conforme o ciclo econômico."
+    },
+    {
+      "question": "XLY paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, o XLY distribuiu US$ 0,9340 por cota em 4 pagamentos, com dividend yield de 0,81%. O último pagamento foi de US$ 0,2440 em 21/09/2026. É possível acompanhar os proventos no app."
+    },
+    {
+      "question": "Como investir no XLY a partir do Brasil?",
+      "answer": "É possível investir no XLY abrindo conta em uma corretora no exterior ou em uma corretora brasileira que ofereça acesso a ativos americanos. O ativo é cotado em dólar, o que expõe o investidor ao risco cambial. Também há ETFs e BDRs na B3 que seguem o mesmo índice."
+    },
+    {
+      "question": "Qual a volatilidade do XLY?",
+      "answer": "A volatilidade anualizada nos últimos 12 meses foi de 19,19%, nível moderado. A maior queda em 5 anos foi de -39,67%, entre 19/11/2021 e 28/12/2022. O beta de 1,14 indica maior sensibilidade ao S&P 500."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do XLY lado a lado com o S&P 500 no mesmo gráfico, para entender o desempenho relativo do setor de consumo discricionário."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações quando o XLY atingir preços que você considera relevantes, considerando a volatilidade de 19,19% do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do XLY junto com outros ativos, como SPY e XLK, para avaliar a diversificação da carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500 completo, útil para comparação com o desempenho setorial do XLY."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF do setor de tecnologia, outro setor do S&P 500, para diversificação ou comparação de desempenho."
+      },
+      {
+        "ticker": "XLF",
+        "list": "us-etfs",
+        "reason": "ETF do setor financeiro, outro setor do S&P 500, para avaliar a rotação entre setores."
+      },
+      {
+        "ticker": "XLP",
+        "list": "us-etfs",
+        "reason": "ETF de consumo essencial, setor correlacionado ao consumo discricionário, para comparação de desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLY",
+      "url": "https://finance.yahoo.com/quote/XLY/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

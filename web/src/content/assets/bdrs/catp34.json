@@ -1,0 +1,304 @@
+{
+  "ticker": "CATP34",
+  "slug": "catp34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CATP34: BDR da Caterpillar, dividendos e volatilidade",
+    "description": "Conheça o CATP34, BDR da Caterpillar Inc. na B3. Veja dividendos, volatilidade, desempenho e riscos do ativo em reais.",
+    "h1": "CATP34: BDR da Caterpillar Inc. na B3",
+    "canonicalPath": "/bdrs/catp34",
+    "keywords": [
+      "CATP34",
+      "Caterpillar BDR",
+      "BDR Caterpillar",
+      "CATP34 dividendos",
+      "CATP34 volatilidade",
+      "BDR nível I",
+      "Caterpillar Inc."
+    ]
+  },
+  "summary": "CATP34 é o BDR não patrocinado de nível I da Caterpillar Inc., fabricante americano de equipamentos de construção e mineração. Listado na B3 desde 15/06/2011, o ativo acompanha a ação CAT na Bolsa de Valores de Nova Iorque. Em 30/10/2026, a cotação era de R$ 227,99, com rentabilidade total de 17,14% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Caterpillar Inc.",
+    "legalName": "CATERPILLAR INC.",
+    "ticker": "BVMF CATP34",
+    "foundingDate": "1925",
+    "website": "https://www.caterpillar.com/",
+    "wikidata": "Q459965",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q459965",
+      "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
+      "https://pt.wikipedia.org/wiki/Caterpillar_Inc.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50210/CATP/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Caterpillar Inc.",
+    "legalName": "CATERPILLAR INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1925",
+    "listedSince": "15/06/2011",
+    "headquarters": "Irving",
+    "website": "https://www.caterpillar.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "CATERPILLAR INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: CAT",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Irving",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1925",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "15/06/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 227,99",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "46,70% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,65%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,3 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CATP34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Caterpillar Inc.",
+    "currency": "BRL",
+    "price": 227.99,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1714,
+      "3y": 2.0972,
+      "5y": 2.3972,
+      "10y": 15.9855
+    },
+    "volatility1y": 0.467,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.394,
+      "from": "2026-06-25",
+      "to": "2026-10-23"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.4897,
+      "payments12Months": 3,
+      "yield12Months": 0.0065,
+      "lastPayment": {
+        "date": "2026-07-20",
+        "amount": 0.528222
+      }
+    },
+    "avgDailyTradedValue3m": 1329045
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do CATP34 nos últimos 12 meses foi de 46,70%, um nível considerado muito alto. A maior queda em 5 anos foi de -39,40%, entre 25/06/2026 e 23/10/2026. O beta do ativo não está disponível nos dados fornecidos. Para monitorar oscilações de preço e definir pontos de entrada ou saída, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificações quando o ativo atinge o valor desejado."
+  },
+  "history": {
+    "overview": "A história da Caterpillar Inc. começa em 1925, com a fusão da Holt Manufacturing Company e da C. L. Best Tractor Company, formando a Caterpillar Tractor Company. A origem remonta a 1890, quando Benjamin Holt e Clarence Leo Best desenvolveram tratores a vapor para a agricultura. Em 1904, Holt testou o primeiro trator de esteiras, cujas rodas lembravam as patas de uma lagarta, dando origem ao nome da marca. Durante a Primeira Guerra Mundial, os tratores de esteiras foram utilizados para transportar artilharia, inspirando o desenvolvimento dos tanques britânicos. Em 1986, a empresa mudou o nome para Caterpillar Inc., refletindo a diversificação de seus negócios. A sede foi transferida de Peoria, Illinois, para Deerfield, Illinois, em 2017, e posteriormente para Irving, Texas, em 2022. Em 2025, a empresa figurou na 64ª posição da lista Fortune 500 e na 118ª da Forbes Global 2000, sendo componente do Dow Jones Industrial Average.",
+    "timeline": [
+      {
+        "date": "1925",
+        "event": "Fundação da Caterpillar Tractor Company após a fusão de Holt Manufacturing e C. L. Best Tractor.",
+        "source": 2
+      },
+      {
+        "date": "1986",
+        "event": "A empresa muda o nome para Caterpillar Inc. e reorganiza-se como corporação do Delaware.",
+        "source": 3
+      },
+      {
+        "date": "2011-06-15",
+        "event": "Listagem do BDR CATP34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2017-01-31",
+        "event": "Anúncio da mudança da sede de Peoria para Deerfield, Illinois.",
+        "source": 3
+      },
+      {
+        "date": "2022-06-14",
+        "event": "Anúncio da transferência da sede global para Irving, Texas.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Caterpillar Inc. ganha dinheiro",
+      "body": "A Caterpillar Inc. é uma multinacional que fabrica máquinas, motores e veículos pesados, com foco em construção civil e mineração. A empresa é reconhecida como o maior fabricante mundial de equipamentos de construção. Além da linha principal, a companhia licencia e comercializa produtos de vestuário e calçados de trabalho sob a marca Cat, além de ter licenciado a marca de celulares robustos entre 2012 e 2024. Em 2025, a Caterpillar ocupou a 64ª posição na lista Fortune 500 e a 118ª na Forbes Global 2000, sendo uma das empresas que compõem o índice Dow Jones Industrial Average."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR CATP34",
+      "body": "O CATP34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Caterpillar Inc., que são listadas na Bolsa de Valores de Nova Iorque sob o ticker CAT. O BDR foi listado na B3 em 15/06/2011. O preço do CATP34 acompanha a variação da ação original nos Estados Unidos e a taxa de câmbio entre o dólar e o real. Como é não patrocinado, a empresa não participa diretamente da emissão, que é feita por uma instituição depositária."
+    },
+    {
+      "id": "proventos",
+      "heading": "CATP34 paga dividendos?",
+      "body": "A Caterpillar Inc. distribui dividendos aos seus acionistas. Nos 12 meses até 30/10/2026, o CATP34 registrou 3 pagamentos de proventos, totalizando R$ 1,4897 por BDR, o que corresponde a um dividend yield de 0,65%. O último pagamento foi de R$ 0,5282, com data de 20/07/2026. É importante notar que a empresa paga dividendos em dólares, e o valor recebido pelo investidor em reais depende da cotação do câmbio na data do pagamento. Acompanhe os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para monitorar a entrada de caixa."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do CATP34",
+      "body": "Até 30/10/2026, o CATP34 apresentou rentabilidade total de 17,14% nos últimos 12 meses, 209,72% em 3 anos, 239,72% em 5 anos e 1.598,55% em 10 anos. Esses números incluem a variação do câmbio entre o dólar e o real. Para entender melhor o desempenho do BDR em relação a outros mercados, utilize a [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade ao lado do S&P 500, CDI e Ibovespa."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do CATP34",
+      "body": "O principal risco do CATP34 é o risco cambial, pois o ativo é lastreado em uma ação americana e negociado em reais. A volatilidade anualizada do BDR nos últimos 12 meses foi de 46,70%, classificada como muito alta. A maior queda em 5 anos foi de -39,40%, ocorrida entre 25/06/2026 e 23/10/2026. Além disso, a liquidez do BDR na B3 é menor que a da ação original nos EUA, com volume médio diário de R$ 1,3 milhão nos últimos 3 meses."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o CATP34?",
+      "answer": "O CATP34 é um BDR não patrocinado de nível I que representa ações da Caterpillar Inc., empresa americana de equipamentos de construção e mineração. Ele é negociado na B3 em reais e acompanha a ação CAT na Bolsa de Valores de Nova Iorque."
+    },
+    {
+      "question": "CATP34 paga dividendos?",
+      "answer": "Sim, a Caterpillar Inc. distribui dividendos. Nos 12 meses até 30/10/2026, houve 3 pagamentos, totalizando R$ 1,4897 por BDR, com um dividend yield de 0,65%. O valor é pago em reais, mas depende da cotação do câmbio na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre CATP34 e a ação CAT?",
+      "answer": "A ação CAT é a ação original da Caterpillar Inc., negociada na Bolsa de Valores de Nova Iorque em dólares. O CATP34 é um BDR que representa essa ação, negociado na B3 em reais. O preço do CATP34 reflete a variação da ação CAT e a taxa de câmbio."
+    },
+    {
+      "question": "Qual a volatilidade do CATP34?",
+      "answer": "A volatilidade anualizada do CATP34 nos últimos 12 meses foi de 46,70%, um nível muito alto. A maior queda em 5 anos foi de -39,40%, entre 25/06/2026 e 23/10/2026."
+    },
+    {
+      "question": "Como acompanhar o desempenho do CATP34?",
+      "answer": "Você pode acompanhar o desempenho do CATP34 no app, que mostra a rentabilidade, o preço médio e a variação do ativo. Utilize a [comparação com índices](/recursos/comparacao-com-indices) para ver o desempenho do BDR ao lado do S&P 500, CDI e Ibovespa."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o CATP34 junto com outros ativos da sua carteira, com alocação e valor por classe."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade, o preço médio e a variação do CATP34 no app."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do CATP34 com o S&P 500, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o CATP34 atingir o preço que você definiu."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte ao assistente de IA sobre o CATP34 e outros ativos da sua carteira, em português."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que acompanha o S&P 500, índice de referência para ações americanas."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF que acompanha o S&P 500, com baixa taxa de administração."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR de outra empresa americana de tecnologia, negociado na B3."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de outra empresa americana de tecnologia, negociado na B3."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "BDR de outra empresa americana de tecnologia, negociado na B3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CATP34",
+      "url": "https://finance.yahoo.com/quote/CATP34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CATERPILLAR, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50210/CATP/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Caterpillar Inc.",
+      "url": "https://www.wikidata.org/wiki/Q459965",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Caterpillar Inc.",
+      "url": "https://en.wikipedia.org/wiki/Caterpillar_Inc.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Caterpillar Inc.",
+      "url": "https://pt.wikipedia.org/wiki/Caterpillar_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,275 @@
+{
+  "ticker": "VTV",
+  "slug": "vtv",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VTV: história, dividendos e volatilidade",
+    "description": "VTV é o Vanguard Morningstar Value ETF. Veja o que é, como funciona, desempenho, dividendos e riscos do ativo, com dados até 29/10/2026.",
+    "h1": "VTV: Vanguard Morningstar Value ETF",
+    "canonicalPath": "/etfs/vtv",
+    "keywords": [
+      "VTV",
+      "Vanguard Morningstar Value ETF",
+      "ETF de valor",
+      "Morningstar US Large- and Mid-Cap Value Index",
+      "dividendos VTV",
+      "volatilidade VTV",
+      "investir em ETFs americanos"
+    ]
+  },
+  "summary": "VTV é o Vanguard Morningstar Value ETF, lançado em 30/01/2004 pela The Vanguard Group. O fundo replica o Morningstar US Large- and Mid-Cap Value Index, focando em ações de empresas americanas classificadas como 'value' (valor). Até 29/10/2026, a cota valia US$ 228,88, com rentabilidade total de 25,57% nos últimos 12 meses. O ativo distribui proventos com yield de 1,82% e apresenta volatilidade anualizada de 10,10%, considerada baixa.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Morningstar Value ETF",
+    "ticker": "ARCX VTV",
+    "foundingDate": "2004-01-30",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de ações (value)",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "Morningstar US Large- and Mid-Cap Value Index",
+    "name": "Vanguard Morningstar Value ETF",
+    "founded": "30/01/2004"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Morningstar Value ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "30/01/2004",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 228,88",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "10,10% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,54",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,82%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 592,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VTV",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Morningstar Value ETF",
+    "currency": "USD",
+    "price": 228.88,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2557,
+      "3y": 0.8383,
+      "5y": 0.8048,
+      "10y": 2.4143
+    },
+    "volatility1y": 0.101,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1704,
+      "from": "2022-04-20",
+      "to": "2022-09-30"
+    },
+    "beta1y": {
+      "value": 0.54,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 4.164,
+      "payments12Months": 4,
+      "yield12Months": 0.0182,
+      "lastPayment": {
+        "date": "2026-09-28",
+        "amount": 1.017
+      }
+    },
+    "avgDailyTradedValue3m": 592228143
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do VTV nos 12 meses até 29/10/2026 foi de 10,10%, um nível considerado baixo. A maior queda nos últimos 5 anos foi de -17,04%, ocorrendo do pico em 20/04/2022 ao ponto mais baixo em 30/09/2022. Para um ETF de ações de valor, essa volatilidade e beta são consistentes com a expectativa de menor sensibilidade a movimentos de mercado em relação a índices amplos, embora o desempenho passado não garanta resultados futuros. É possível acompanhar a volatilidade e configurar [alertas de preço](/recursos/alertas-de-preco) no app para monitorar a cota."
+  },
+  "history": {
+    "overview": "O VTV foi lançado em 30 de janeiro de 2004 pela The Vanguard Group, uma das maiores gestoras de investimentos do mundo, com sede em Malvern, Pennsylvania. A Vanguard, fundada em 1975 por John C. Bogle, é conhecida por popularizar os fundos de índice de baixo custo, sendo atualmente a segunda maior provedora de ETFs globalmente, atrás apenas da BlackRock. O ETF foi criado para oferecer exposição a ações de valor (value) nos Estados Unidos, seguindo a metodologia de classificação da Morningstar, uma empresa de serviços financeiros fundada em 1984 que é referência em pesquisa e recomendações de investimentos. A estratégia de 'value investing', que visa comprar ativos subavaliados em relação ao seu valor intrínseco, tem raízes na filosofia de Benjamin Graham e David Dodd, mas o VTV aplica essa lógica através de um índice passivo, buscando replicar o desempenho do mercado de ações de valor sem a interferência de um gestor ativo. Desde o seu lançamento, o VTV tem se consolidado como uma ferramenta de diversificação para investidores que buscam exposição a empresas com múltiplos de preço e lucro mais baixos e dividendos mais altos, características típicas do segmento de valor.",
+    "timeline": [
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group por John C. Bogle.",
+        "source": 1
+      },
+      {
+        "date": "1984",
+        "event": "Fundação da Morningstar, Inc., em Chicago, por Joe Mansueto.",
+        "source": 3
+      },
+      {
+        "date": "2004-01-30",
+        "event": "Primeiro pregão das cotas do ETF VTV na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VTV funciona",
+      "body": "O VTV é um ETF (Exchange-Traded Fund) que replica o Morningstar US Large- and Mid-Cap Value Index. A emissora é a The Vanguard Group, uma das maiores gestoras de ativos do mundo, e o fundo foi lançado em 30/01/2004. O objetivo do ETF é acompanhar o desempenho de um conjunto de ações de empresas americanas de grande e média capitalização que são classificadas pela Morningstar como 'value' (valor). Diferente de um fundo ativo, o VTV não possui um gestor que seleciona ações individualmente; ele segue a composição do índice, o que geralmente resulta em taxas de administração mais baixas. O ETF não é alavancado nem inverso, o que significa que ele não usa alavancagem para amplificar retornos diários, evitando assim o efeito de rebalanceamento diário que pode distorcer resultados em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VTV",
+      "body": "O VTV segue o Morningstar US Large- and Mid-Cap Value Index. As fontes disponíveis não detalham a composição exata do índice (como as maiores posições ou a alocação por setor) nem a taxa de administração do fundo. O que se sabe é que o índice é construído pela Morningstar, uma empresa de pesquisa financeira fundada em 1984, que classifica as ações com base em critérios de valor, como múltiplos de preço e lucro, valor de livro e dividendos. A estratégia de 'value investing' busca identificar empresas que podem estar subavaliadas pelo mercado, mas o VTV não faz essa seleção ativa; ele apenas replica o índice."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VTV a partir do Brasil",
+      "body": "Para investir no VTV a partir do Brasil, o investidor precisa abrir uma conta em uma corretora de valores que opere no mercado americano ou em uma corretora brasileira que ofereça acesso a ativos internacionais. O investimento é feito em dólar, o que introduz risco cambial: variações no câmbio entre o real e o dólar afetam o retorno em reais do investidor. Além disso, é possível ter exposição ao mesmo índice através de BDRs ou outros ETFs negociados na B3 que sigam o Morningstar US Large- and Mid-Cap Value Index, se houver. O risco cambial é um fator importante a ser considerado, pois uma valorização do dólar em relação ao real pode aumentar o retorno em reais, enquanto uma desvalorização pode reduzi-lo."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VTV",
+      "body": "Até 29/10/2026, o VTV apresentou rentabilidade total com proventos de 25,57% nos últimos 12 meses, 83,83% nos últimos 3 anos, 80,48% nos últimos 5 anos e 241,43% nos últimos 10 anos. O preço da cota era de US$ 228,88 nessa data. O fundo distribuiu US$ 4,1640 por cota em 4 pagamentos nos 12 meses até 29/10/2026, resultando em um dividend yield de 1,82%. O último provento foi de US$ 1,0170 em 28/09/2026. Para comparar o desempenho do VTV com o do S&P 500, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade da carteira lado a lado com o índice."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VTV",
+      "body": "Os riscos do VTV incluem o risco de mercado, já que ele é exposto às ações americanas, e o risco de estilo, pois ele se concentra em ações de valor, que podem ter desempenho inferior a ações de crescimento em certos períodos. A volatilidade anualizada do VTV nos 12 meses até 29/10/2026 foi de 10,10%, considerada baixa. A maior queda nos últimos 5 anos foi de -17,04%, do pico em 20/04/2022 ao ponto mais baixo em 30/09/2022. O beta do ETF contra o S&P 500 foi de 0,54, o que indica que, em média, o VTV tende a ter movimentos menores que os do índice, na mesma direção. Além disso, há o risco cambial para investidores brasileiros, já que o ativo é cotado em dólar. É possível configurar [alertas de preço](/recursos/alertas-de-preco) no app para ser notificado quando a cota atingir um nível específico, ajudando a monitorar a volatilidade."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o VTV?",
+      "answer": "VTV é o Vanguard Morningstar Value ETF, um fundo que replica o Morningstar US Large- and Mid-Cap Value Index, focando em ações de valor nos EUA. Ele foi lançado em 30/01/2004 pela Vanguard e tem como objetivo acompanhar o desempenho de empresas americanas de grande e média capitalização classificadas como 'value'."
+    },
+    {
+      "question": "O VTV paga dividendos?",
+      "answer": "Sim, o VTV distribui proventos. Nos 12 meses até 29/10/2026, foram distribuídos US$ 4,1640 por cota em 4 pagamentos, resultando em um dividend yield de 1,82%. O último provento foi de US$ 1,0170 em 28/09/2026. É possível acompanhar os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para ver a história de proventos do ativo."
+    },
+    {
+      "question": "Qual a diferença entre VTV e VUG?",
+      "answer": "VTV é um ETF de ações de valor (value), enquanto [VUG](/etfs/vug) é um ETF de ações de crescimento (growth). Ambos são da Vanguard e seguem índices da Morningstar, mas VTV foca em empresas com múltiplos de preço e lucro mais baixos e dividendos mais altos, enquanto VUG foca em empresas com maior potencial de crescimento. As fontes não detalham a composição exata de cada um, mas a estratégia de 'value' e 'growth' são abordagens diferentes de investimento em ações."
+    },
+    {
+      "question": "Como investir no VTV a partir do Brasil?",
+      "answer": "Para investir no VTV, é necessário ter uma conta em uma corretora que ofereça acesso ao mercado americano ou a BDRs/ETFs que sigam o mesmo índice. O investimento é feito em dólar, o que introduz risco cambial. É possível usar o [open finance](/recursos/open-finance) no app para conectar a corretora e sincronizar as posições, garantindo que a quantidade e o preço médio estejam atualizados."
+    },
+    {
+      "question": "Qual a volatilidade do VTV?",
+      "answer": "A volatilidade anualizada do VTV nos 12 meses até 29/10/2026 foi de 10,10%, considerada baixa. A maior queda nos últimos 5 anos foi de -17,04%, do pico em 20/04/2022 ao ponto mais baixo em 30/09/2022. O beta contra o S&P 500 foi de 0,54, indicando movimentos menores que os do índice. É possível monitorar a volatilidade com [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do VTV com data de pagamento, multiplicados pela sua quantidade, para entender o impacto no seu retorno total."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do VTV com o S&P 500 no mesmo gráfico, para avaliar o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando a cota do VTV atingir um nível específico, ajudando a monitorar a volatilidade e o preço."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Conecte sua corretora pelo Open Finance para sincronizar a quantidade de cotas do VTV e o preço médio, garantindo que a carteira esteja atualizada."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua carteira e veja como o VTV se encaixa na sua alocação, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "VOO é o Vanguard S&P 500 ETF, um ETF de índice amplo que pode ser comparado com o VTV para entender a diferença entre exposição ao mercado total e exposição a"
+      },
+      {
+        "ticker": "VUG",
+        "list": "us-etfs",
+        "reason": "VUG é o Vanguard Morningstar Growth ETF, o par de crescimento do VTV, permitindo comparar as estratégias de valor e crescimento da Morningstar."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "SPY é o State Street SPDR S&P 500 ETF Trust, outro ETF de índice amplo que pode ser usado como referência para comparar o desempenho do VTV."
+      },
+      {
+        "ticker": "IWD",
+        "list": "us-etfs",
+        "reason": "IWD é o iShares Russell 1000 Value Index Fund ETF Shares, um ETF de valor que pode ser comparado com o VTV para entender diferentes abordagens de ações de"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VTV",
+      "url": "https://finance.yahoo.com/quote/VTV/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Value investing (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Value_investing",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Morningstar, Inc. (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Morningstar%2C_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

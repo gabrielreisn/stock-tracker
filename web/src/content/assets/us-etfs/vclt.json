@@ -1,0 +1,266 @@
+{
+  "ticker": "VCLT",
+  "slug": "vclt",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VCLT: ETF de títulos corporativos de longo prazo",
+    "description": "VCLT é o Vanguard Long-Term Corporate Bond Index Fund ETF Shares. Veja desempenho, dividendos, riscos e como investir a partir do Brasil.",
+    "h1": "VCLT: Vanguard Long-Term Corporate Bond Index Fund ETF Shares",
+    "canonicalPath": "/etfs/vclt",
+    "keywords": [
+      "VCLT",
+      "Vanguard Long-Term Corporate Bond",
+      "ETF títulos corporativos",
+      "VCLT dividendos",
+      "VCLT desempenho",
+      "VCLT riscos",
+      "ETF renda fixa",
+      "VCLT Brasil"
+    ]
+  },
+  "summary": "VCLT é o Vanguard Long-Term Corporate Bond Index Fund ETF Shares, um ETF que replica o desempenho de um índice de títulos corporativos de longo prazo nos Estados Unidos. Lançado em 23/11/2009, o fundo é administrado pela Vanguard, a segunda maior gestora de ETFs do mundo. Em 30/10/2026, a cota valia US$ 70,63, com uma rentabilidade total de -4,25% nos últimos 12 meses e um dividend yield de 5,84%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Long-Term Corporate Bond Index Fund ETF Shares",
+    "ticker": "XNAS VCLT",
+    "foundingDate": "2009-11-23",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice de renda fixa",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "Bloomberg US Long-Term Corporate Bond Index",
+    "name": "Vanguard Long-Term Corporate Bond Index Fund ETF Shares",
+    "founded": "23/11/2009"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Long-Term Corporate Bond Index Fund ETF Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "23/11/2009",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 70,63",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "8,37% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,29",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "5,84%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 391,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VCLT",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Long-Term Corporate Bond Index Fund ETF Shares",
+    "currency": "USD",
+    "price": 70.63,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0425,
+      "3y": 0.211,
+      "5y": -0.155,
+      "10y": 0.1767
+    },
+    "volatility1y": 0.0837,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.3418,
+      "from": "2021-12-03",
+      "to": "2022-10-24"
+    },
+    "beta1y": {
+      "value": 0.29,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 4.128,
+      "payments12Months": 12,
+      "yield12Months": 0.0584,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.35
+      }
+    },
+    "avgDailyTradedValue3m": 391151663
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do VCLT nos últimos 12 meses é de 8,37%, um nível considerado baixo para um ativo de renda fixa, mas que reflete a sensibilidade dos títulos de longo prazo às mudanças nas taxas de juros. O beta de 0,29 contra o S&P 500 indica que o VCLT tende a acompanhar os movimentos do índice de ações em menor proporção, o que é esperado para um ativo de renda fixa. A maior queda nos últimos 5 anos foi de -34,18%, entre 03/12/2021 e 24/10/2022, um período de forte alta das taxas de juros nos EUA. Esse movimento mostra que, mesmo com volatilidade baixa, o VCLT pode ter quedas acentuadas em cenários de estresse de mercado. Para acompanhar a variação do preço ao longo do tempo, o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app permite visualizar a rentabilidade e o custo da posição."
+  },
+  "history": {
+    "overview": "O VCLT foi lançado em 23/11/2009, com o objetivo de oferecer exposição acessível ao mercado de títulos corporativos de longo prazo nos Estados Unidos. A emissora, The Vanguard Group, foi fundada em 1975 por John C. Bogle, que é creditado pela criação do primeiro fundo de índice voltado a investidores individuais. A empresa é a segunda maior provedora de ETFs no mundo, atrás apenas da BlackRock, e é detida pelos próprios fundos que administra, o que a torna uma das três grandes gestoras de fundos indexados globais, junto com BlackRock e State Street. A estrutura de propriedade da Vanguard, onde os clientes são os donos da empresa, é um diferencial em relação a outras gestoras tradicionais, refletindo seu foco em custos baixos para os investidores. O VCLT se encaixa nesse modelo de gestão passiva, buscando replicar a performance de um índice de referência com o menor custo possível, sem tentar superá-lo ativamente.",
+    "timeline": [
+      {
+        "date": "1951",
+        "event": "John C. Bogle realiza sua tese de graduação na Princeton University, que o leva a criar o primeiro fundo de índice.",
+        "source": 1
+      },
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group, Inc., a gestora do ETF.",
+        "source": 1
+      },
+      {
+        "date": "2009-11-23",
+        "event": "Primeiro pregão das cotas do VCLT na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VCLT funciona",
+      "body": "O VCLT é um ETF que busca replicar o desempenho do Bloomberg US Long-Term Corporate Bond Index. O fundo é administrado pela The Vanguard Group, uma das maiores gestoras de ativos do mundo, e foi lançado em 23/11/2009. A estratégia é passiva, o que significa que o portfólio do ETF é construído para espelhar a composição do índice de referência, com o objetivo de minimizar os custos de gestão. A Vanguard é conhecida por sua estrutura de propriedade, onde os próprios clientes são os donos da empresa, o que se reflete em taxas de administração geralmente mais baixas. O VCLT não é um produto alavancado ou inverso, portanto, não há rebalanceamento diário de múltiplos de exposição."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VCLT",
+      "body": "O VCLT segue o Bloomberg US Long-Term Corporate Bond Index, que é composto por títulos de dívida corporativa de longo prazo emitidos nos Estados Unidos. As fontes disponíveis não detalham a composição exata do índice, como o número de emissores ou a distribuição por setores. O que se sabe é que o índice se concentra em títulos de maior prazo, o que os torna mais sensíveis às mudanças nas taxas de juros do que títulos de curto ou médio prazo. A classificação de crédito dos títulos não é especificada nas fontes, mas o nome do índice sugere uma exposição a títulos corporativos em geral, que podem incluir tanto os de grau de investimento quanto os de alto rendimento."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VCLT a partir do Brasil",
+      "body": "Para investir no VCLT a partir do Brasil, o investidor precisa ter uma conta em uma corretora de valores que opere no mercado americano. A compra é feita em dólares, o que expõe o investidor ao risco cambial: a rentabilidade final em reais será afetada pela variação do câmbio, independentemente do desempenho do próprio ETF. Outra opção é buscar ETFs ou BDRs listados na B3 que tenham o mesmo índice como referência, o que permite a negociação em reais e elimina a necessidade de uma conta no exterior, mas pode envolver spreads e custos de conversão. O VCLT é um ativo de renda fixa, mas com exposição a títulos corporativos, o que o diferencia de títulos públicos."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VCLT",
+      "body": "Até 30/10/2026, a cota do VCLT valia US$ 70,63. A rentabilidade total com proventos foi de -4,25% nos últimos 12 meses, 21,10% em 3 anos, -15,50% em 5 anos e 17,67% em 10 anos. O fundo distribuiu US$ 4,1280 por cota em 12 pagamentos no período de 12 meses, resultando em um dividend yield de 5,84%. O último pagamento foi de US$ 0,3500 em 01/10/2026. O volume médio negociado por dia nos últimos 3 meses foi de US$ 391,2 milhões. Para comparar esse desempenho com o do mercado americano, é possível usar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a rentabilidade do VCLT lado a lado com a do S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VCLT",
+      "body": "O principal risco do VCLT é a sensibilidade às taxas de juros. Como o fundo investe em títulos de longo prazo, uma elevação nas taxas de juros tende a reduzir o preço dos títulos existentes, o que pode levar a perdas no valor da cota. A maior queda nos últimos 5 anos foi de -34,18%, entre o pico em 03/12/2021 e o ponto mais baixo em 24/10/2022, um período marcado por uma forte alta das taxas de juros nos Estados Unidos. A volatilidade anualizada de 12 meses é de 8,37%, considerada de nível baixo, mas ainda assim significativa para um ativo de renda fixa. O beta de 0,29 contra o S&P 500 indica que o VCLT tende a se mover em menor proporção que o mercado de ações, mas isso não significa que ele não possa ter quedas acentuadas. O risco de crédito também é um fator, pois os títulos corporativos podem ter default, embora o índice não especifique a classificação de crédito dos emissores. Para monitorar movimentos de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) do app pode ser útil."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VCLT paga dividendos?",
+      "answer": "Sim, o VCLT distribui proventos regularmente. Nos 12 meses até 30/10/2026, foram 12 pagamentos que somaram US$ 4,1280 por cota, resultando em um dividend yield de 5,84%. O último pagamento foi de US$ 0,3500 em 01/10/2026. É importante lembrar que, para o investidor brasileiro, esses proventos estão sujeitos à tributação nos Estados Unidos e no Brasil, mas as fontes do dossiê não detalham as regras de imposto."
+    },
+    {
+      "question": "Qual a diferença entre VCLT e LQD?",
+      "answer": "Ambos são ETFs de títulos corporativos, mas com prazos diferentes. O VCLT segue o Bloomberg US Long-Term Corporate Bond Index, focado em títulos de longo prazo, enquanto o [LQD](/etfs/lqd) segue o iBoxx $ Investment Grade Corporate Bond Index, que inclui títulos de médio e longo prazo. A diferença de prazo faz com que o VCLT seja mais sensível às mudanças nas taxas de juros, o que pode resultar em maior volatilidade e maior potencial de retorno em cenários de queda das taxas, mas também em maiores perdas em cenários de alta."
+    },
+    {
+      "question": "Como o VCLT se comporta em cenários de alta de juros?",
+      "answer": "Títulos de longo prazo são mais sensíveis às mudanças nas taxas de juros. Quando as taxas sobem, o preço dos títulos existentes cai, o que reduz o valor da cota do VCLT. A maior queda do VCLT nos últimos 5 anos, de -34,18%, ocorreu entre 03/12/2021 e 24/10/2022, um período de forte alta das taxas de juros nos Estados Unidos. O beta de 0,29 contra o S&P 500 indica que o VCLT tende a se mover em menor proporção que o mercado de ações, mas isso não o protege de quedas acentuadas em cenários de estresse de juros."
+    },
+    {
+      "question": "Qual a diferença entre VCLT e TLT?",
+      "answer": "O VCLT investe em títulos corporativos de longo prazo, enquanto o [TLT](/etfs/tlt) investe em títulos públicos de longo prazo (Treasury Bonds). A diferença principal é o emissor: corporações versus o governo federal dos Estados Unidos. Títulos públicos são considerados de menor risco de crédito, mas também tendem a ter rendimentos menores. A sensibilidade às taxas de juros é semelhante, mas o risco de crédito é um fator que diferencia os dois ativos. O VCLT pode ter maior rendimento, mas também maior risco de crédito."
+    },
+    {
+      "question": "VCLT é um ativo de renda fixa ou de renda variável?",
+      "answer": "O VCLT é um ativo de renda fixa, pois investe em títulos de dívida corporativa. No entanto, como um ETF, ele é negociado na bolsa e seu valor de cota varia diariamente, o que o torna um ativo de renda variável em termos de negociação. A diferença é que a renda fixa tem um fluxo de caixa previsto (juros e amortização), enquanto a renda variável não. O VCLT combina as duas características: é um ativo de renda fixa negociado como renda variável."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do VCLT lado a lado com a do S&P 500, no mesmo gráfico, para entender como o ativo se comporta em relação ao mercado de ações americano."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o VCLT chegar a um preço que você escolheu, útil para acompanhar movimentos em um ativo com volatilidade de 8,37%."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Visualize a rentabilidade do VCLT ao longo do tempo e o custo da sua posição, com a variação do dia e do ano."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VCLT junto com seus outros ativos, com a alocação por classe e as maiores posições, para entender como ele se encaixa na sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LQD",
+        "list": "us-etfs",
+        "reason": "ETF de títulos corporativos de médio e longo prazo, para comparar com o VCLT, que é focado em longo prazo."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de títulos públicos de longo prazo, para comparar com o VCLT, que é focado em títulos corporativos."
+      },
+      {
+        "ticker": "HYG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos corporativos de alto rendimento, para comparar com o VCLT, que pode incluir títulos de grau de investimento."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar a performance do VCLT com o mercado de ações americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VCLT",
+      "url": "https://finance.yahoo.com/quote/VCLT/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Corporate bond (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Corporate_bond",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

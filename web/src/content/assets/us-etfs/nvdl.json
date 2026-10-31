@@ -1,0 +1,257 @@
+{
+  "ticker": "NVDL",
+  "slug": "nvdl",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "NVDL: ETF alavancado 2x da NVIDIA",
+    "description": "Conheça o NVDL, o ETF alavancado 2x da NVIDIA. Veja desempenho, volatilidade, riscos e como investir a partir do Brasil.",
+    "h1": "NVDL: GraniteShares 2x Long NVDA Daily ETF",
+    "canonicalPath": "/etfs/nvdl",
+    "keywords": [
+      "NVDL",
+      "ETF alavancado NVIDIA",
+      "GraniteShares 2x Long NVDA",
+      "ETF 2x NVDA",
+      "investir em NVIDIA alavancado"
+    ]
+  },
+  "summary": "NVDL é o GraniteShares 2x Long NVDA Daily ETF, um fundo de índice que busca entregar o dobro do desempenho diário da ação da NVIDIA Corporation. Lançado em 13/12/2022, o ativo opera com alavancagem e rebalanceamento diário, o que o torna sensível à volatilidade do setor de semicondutores. Em 30/10/2026, a cota estava em US$ 28,97, com rentabilidade total de -19,85% nos últimos 12 meses e 653,20% em três anos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "GraniteShares 2x Long NVDA Daily ETF",
+    "ticker": "XNAS NVDL",
+    "foundingDate": "2022-12-13",
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado 2x",
+    "issuerOrManager": "GraniteShares",
+    "trackedIndex": "NVIDIA Corporation (NVDA)",
+    "name": "GraniteShares 2x Long NVDA Daily ETF",
+    "founded": "13/12/2022"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "GraniteShares 2x Long NVDA Daily ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "13/12/2022",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "2x o desempenho diário da ação de referência (200%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 28,97",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "74,02% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "3,85",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 405,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "NVDL",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "GraniteShares 2x Long NVDA Daily ETF",
+    "currency": "USD",
+    "price": 28.97,
+    "historyStarts": "2022-12-13",
+    "returns": {
+      "1y": -0.1985,
+      "3y": 6.532,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.7402,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6755,
+      "from": "2024-06-18",
+      "to": "2025-04-04"
+    },
+    "beta1y": {
+      "value": 3.85,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2023-12-27",
+        "amount": 0.561722
+      }
+    },
+    "avgDailyTradedValue3m": 405740320
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 12 meses do NVDL é de 74,02%, um nível muito alto, típico de ETFs alavancados que seguem ações de tecnologia de alta variação. O beta de 3,85 contra o S&P 500 indica que, historicamente, o NVDL tende a se mover com uma amplitude quase quatro vezes maior que a do índice, na mesma direção. A maior queda em 5 anos foi de -67,55%, entre 18/06/2024 e 04/04/2025. Para monitorar esses movimentos bruscos, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que notificam quando a cota atinge um patamar definido."
+  },
+  "history": {
+    "overview": "O NVDL foi lançado em 13/12/2022, no auge do interesse do mercado por ativos de inteligência artificial e semicondutores. A NVIDIA Corporation, fundada em 1993 por Jensen Huang, Chris Malachowsky e Curtis Priem, é uma empresa de tecnologia sediada em Santa Clara, Califórnia, que desenvolve unidades de processamento gráfico (GPUs) para jogos, computação de alto desempenho e aplicações de IA. Em 2025, a NVIDIA se tornou a primeira empresa a ultrapassar a marca de US$ 4 trilhões e US$ 5 trilhões em capitalização de mercado, impulsionada pela demanda por hardware de data centers de IA. O NVDL foi criado para permitir que investidores buscassem exposição amplificada ao desempenho diário dessa ação específica, sem a necessidade de operar com contratos futuros ou margem.",
+    "timeline": [
+      {
+        "date": "1993-04-05",
+        "event": "Fundação da NVIDIA Corporation por Jensen Huang, Chris Malachowsky e Curtis Priem",
+        "source": 1
+      },
+      {
+        "date": "2022-12-13",
+        "event": "Primeiro pregão das cotas do ETF NVDL na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2025",
+        "event": "NVIDIA se torna a primeira empresa a ultrapassar US$ 4 trilhões e US$ 5 trilhões em capitalização de mercado",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o NVDL funciona",
+      "body": "O NVDL é um ETF alavancado que busca entregar o dobro do desempenho diário da ação da NVIDIA Corporation (NVDA). A emissora é a GraniteShares e o fundo foi lançado em 13/12/2022. Por ser um produto alavancado, ele realiza rebalanceamento diário de sua exposição. Isso significa que, em períodos de mercado lateralizado ou com alta volatilidade, o resultado acumulado do NVDL pode se afastar significativamente do dobro do retorno da ação da NVIDIA, devido ao efeito da compostagem diária. Esse mecanismo faz com que o ativo seja projetado para uso de curto prazo, não para investimentos de longo prazo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do NVDL",
+      "body": "O NVDL segue o desempenho diário da ação da NVIDIA Corporation, uma empresa de tecnologia que desenvolve GPUs, sistemas em chip (SoCs) e APIs para ciência de dados, computação de alto desempenho, inteligência artificial e aplicações móveis e automotivas. A composição do fundo é focada exclusivamente nesse ativo subjacente, amplificado por um fator de 2x. As fontes não detalham a estrutura exata de derivativos ou a taxa de administração do fundo."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no NVDL a partir do Brasil",
+      "body": "Para investir no NVDL a partir do Brasil, é necessário abrir conta em uma corretora de valores que opere no mercado americano ou em plataformas que ofereçam acesso a ETFs listados nos Estados Unidos. O investimento é feito em dólar, o que expõe o investidor ao risco cambial: variações no câmbio entre o real e o dólar impactam diretamente o retorno em moeda local. Não há menção nas fontes a BDRs ou ETFs da B3 que replicam especificamente o NVDL."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do NVDL",
+      "body": "Até 30/10/2026, a cota do NVDL estava em US$ 28,97. A rentabilidade total com proventos foi de -19,85% nos últimos 12 meses e de 653,20% em três anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 405,7 milhões. Para comparar esse desempenho com o mercado americano, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade do ativo lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do NVDL",
+      "body": "O principal risco do NVDL é a alavancagem de 2x, que amplifica tanto os ganhos quanto as perdas diárias. A volatilidade anualizada de 12 meses é de 74,02%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -67,55%, ocorrida do pico em 18/06/2024 ao ponto mais baixo em 04/04/2025. Além do risco de mercado, há o risco de concentração em uma única empresa (NVIDIA) e o risco cambial para investidores brasileiros. O efeito de decaimento da alavancagem em mercados voláteis pode eroder o capital em períodos de lateralização."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o NVDL?",
+      "answer": "O NVDL é um ETF alavancado 2x que busca entregar o dobro do desempenho diário da ação da NVIDIA Corporation. Ele é emitido pela GraniteShares e foi lançado em 13/12/2022."
+    },
+    {
+      "question": "Qual a diferença entre NVDL e NVDC34?",
+      "answer": "O [NVDC34](/bdrs/nvdc34) é um BDR que representa a ação ordinária da NVIDIA na B3, sem alavancagem. O NVDL é um ETF americano que busca 2x o desempenho diário da ação da NVIDIA. O NVDL tem risco e perfil de retorno muito diferentes, com maior volatilidade e efeito de decaimento."
+    },
+    {
+      "question": "NVDL paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 30/10/2026, o NVDL não distribuiu proventos. A maioria dos ETFs alavancados não paga dividendos, pois os rendimentos são reinvestidos para manter a alavancagem."
+    },
+    {
+      "question": "Como acompanhar o NVDL no app?",
+      "answer": "Você pode usar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação do NVDL junto com outros ativos, e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para analisar a rentabilidade da posição em dólar e a variação do dia."
+    },
+    {
+      "question": "Qual o risco cambial do NVDL?",
+      "answer": "Como o NVDL é cotado em dólar, o investidor brasileiro está exposto à variação do câmbio. Uma desvalorização do real em relação ao dólar aumenta o retorno em reais, enquanto uma valorização do real reduz o retorno. Esse risco é independente do desempenho da NVIDIA."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do NVDL junto com outros ativos da sua carteira, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do NVDL e o preço médio da sua posição, com gráfico de variação ao longo do tempo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do NVDL atingir um preço que você definir, útil para monitorar ativos de alta volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do NVDL com o S&P 500 e outros índices no mesmo gráfico."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR da NVIDIA na B3, sem alavancagem, para comparação de exposição direta à empresa."
+      },
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 3x do setor de semicondutores, para comparação de risco e alavancagem no mesmo segmento."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF do setor de semicondutores sem alavancagem, para comparação de exposição ao setor de forma diversificada."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq-100, que inclui a NVIDIA, para comparação de exposição a um índice de tecnologia mais amplo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de NVDL",
+      "url": "https://finance.yahoo.com/quote/NVDL/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nvidia (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Nvidia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,305 @@
+{
+  "ticker": "N1VO34",
+  "slug": "n1vo34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "N1VO34: BDR da Novo Nordisk, dividendos e volatilidade",
+    "description": "Conheça o N1VO34, BDR da Novo Nordisk na B3. Veja dividendos, desempenho, riscos e como funciona o BDR nível I da maior farmacêutica da Europa.",
+    "h1": "N1VO34: BDR da Novo Nordisk A/S",
+    "canonicalPath": "/bdrs/n1vo34",
+    "keywords": [
+      "N1VO34",
+      "Novo Nordisk BDR",
+      "BDR nível I",
+      "dividendos N1VO34",
+      "volatilidade N1VO34",
+      "Novo Nordisk ações",
+      "BDR farmacêutico",
+      "NVO B3"
+    ]
+  },
+  "summary": "N1VO34 é o BDR nível I da Novo Nordisk A/S, empresa dinamarquesa do setor farmacêutico que produz medicamentos para diabetes e obesidade. Listado na B3 desde 24/09/2020, o ativo acompanha a ação original negociada em Nova York (NVO) e Copenhague (NOVO). Em 30/10/2026, o BDR cotava a R$ 26,75, com rentabilidade total de -17,88% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Novo",
+    "legalName": "NOVO NORDISK A/S",
+    "ticker": "BVMF N1VO34",
+    "foundingDate": "1923",
+    "website": "https://www.novonordisk.com",
+    "wikidata": "Q818846",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q818846",
+      "https://en.wikipedia.org/wiki/Novo_(company)",
+      "https://pt.wikipedia.org/wiki/Novo_Nordisk",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/56928/N1VO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Novo",
+    "legalName": "NOVO NORDISK A/S",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1923",
+    "listedSince": "24/09/2020",
+    "headquarters": "Bagsværd",
+    "website": "https://www.novonordisk.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "NOVO NORDISK A/S",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: NVO, Nasdaq Copenhagen A/S: NOVO",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Bagsværd",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1923",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "24/09/2020",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 26,75",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "49,30% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,06%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 841.896,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "N1VO34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Novo Nordisk A/S",
+    "currency": "BRL",
+    "price": 26.75,
+    "historyStarts": "2020-10-20",
+    "returns": {
+      "1y": -0.1788,
+      "3y": -0.5307,
+      "5y": -0.2456,
+      "10y": null
+    },
+    "volatility1y": 0.493,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7648,
+      "from": "2024-07-01",
+      "to": "2026-03-25"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.818,
+      "payments12Months": 2,
+      "yield12Months": 0.0306,
+      "lastPayment": {
+        "date": "2026-08-14",
+        "amount": 0.263028
+      }
+    },
+    "avgDailyTradedValue3m": 841896
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do N1VO34 é de 49,30%, um nível considerado muito alto, indicando oscilações de preço significativas ao longo dos últimos 12 meses. A maior queda registrada nos últimos 5 anos foi de -76,48%, entre 01/07/2024 e 25/03/2026, o que reflete a sensibilidade do ativo a mudanças no setor farmacêutico e no mercado global. O beta do ativo não está disponível nos dados fornecidos, portanto não é possível medir diretamente sua correlação com o índice de referência. Para ativos internacionais como BDRs, a volatilidade é influenciada tanto pelos resultados da empresa quanto pela variação cambial, o que pode amplificar os movimentos de preço em relação a ações domésticas."
+  },
+  "history": {
+    "overview": "A origem da Novo Nordisk remonta a 1923, quando August Krogh e Marie Krogh, inspirados pela descoberta da insulina nos Estados Unidos, iniciaram pesquisas para extrair e purificar o hormônio a partir de pâncreas de peixes e coelhos. Em 1924, essa operação foi separada da Løvens Kemiske Fabrik para formar a Nordisk Insulin Laboratorium, enquanto em 1925 os irmãos Pedersen fundaram a Novo Terapeutisk Laboratorium. As duas empresas competiram por décadas até se fundirem em 1989, criando a Novo Nordisk, que se tornou a maior produtora de insulina do mundo, com sede em Bagsværd, na Dinamarca. A empresa expandiu sua presença global ao longo das décadas, estabelecendo-se nos Estados Unidos em 1982 e no Canadá em 1984. Em 2023, a capitalização de mercado da Novo superou o PIB da Dinamarca, tornando-a a empresa mais valiosa da Europa, impulsionada pelo sucesso comercial dos medicamentos para obesidade Wegovy e Ozempic, que representaram 55% da receita da empresa naquele ano.",
+    "timeline": [
+      {
+        "date": "1923",
+        "event": "Fundação da empresa a partir de pesquisas sobre insulina iniciadas por August Krogh e Marie Krogh.",
+        "source": 2
+      },
+      {
+        "date": "1989",
+        "event": "Fusão entre Novo Terapeutisk Laboratorium e Nordisk Insulinlaboratorium, formando a Novo Nordisk.",
+        "source": 3
+      },
+      {
+        "date": "2020-09-24",
+        "event": "Listagem do BDR N1VO34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2023",
+        "event": "Capitalização de mercado da empresa supera o PIB da Dinamarca, tornando-a a mais valiosa da Europa.",
+        "source": 3
+      },
+      {
+        "date": "2024-02",
+        "event": "A controladora Novo Holdings anuncia a aquisição da Catalent por US$ 16,5 bilhões.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Novo ganha dinheiro",
+      "body": "A Novo Nordisk A/S é uma empresa farmacêutica dinamarquesa que fabrica e comercializa produtos e serviços, com foco principal em medicamentos para diabetes e obesidade. Seu principal produto é a semaglutida, comercializada sob as marcas Ozempic para diabetes e Wegovy para obesidade. A empresa também atua em áreas como hemostasia, terapia com hormônio de crescimento e terapia de reposição hormonal, com marcas como Levemir, Tresiba, NovoLog, NovoSeven e Victoza. Em 2023, os medicamentos para perda de peso representaram 55% da receita total da companhia. A empresa possui cerca de 69.505 funcionários e opera em 80 países, com produtos comercializados em aproximadamente 170 nações."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR N1VO34",
+      "body": "O N1VO34 é um BDR não patrocinado de nível I, o que significa que é um recibo negociado na B3 em reais, lastreado em ações da Novo Nordisk A/S negociadas no exterior, emitido por uma instituição depositária. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o real e as moedas de origem. A ação original é negociada na Bolsa de Valores de Nova York com o ticker NVO e na Nasdaq Copenhagen com o ticker NOVO. O BDR foi listado na B3 em 24/09/2020."
+    },
+    {
+      "id": "proventos",
+      "heading": "N1VO34 paga dividendos?",
+      "body": "Sim, o N1VO34 paga dividendos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 0,8180 por BDR em 2 pagamentos, resultando em um dividend yield de 3,06%. O último pagamento registrado foi de R$ 0,2630, com data de pagamento em 14/08/2026. Como a Novo Nordisk é uma empresa dinamarquesa, os dividendos são pagos na moeda local e convertidos para reais, o que pode gerar variações no valor recebido em função do câmbio. É possível acompanhar o histórico de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para monitorar os recebimentos."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do N1VO34",
+      "body": "Até 30/10/2026, a rentabilidade total do N1VO34, incluindo proventos, foi de -17,88% nos últimos 12 meses, -53,07% em 3 anos e -24,56% em 5 anos. Esses números estão em reais e já refletem a variação do câmbio entre o real e a moeda da empresa. Para entender como esse desempenho se compara a outros investimentos, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade lado a lado com o S&P 500, CDI e outros referências de mercado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do N1VO34",
+      "body": "O N1VO34 apresenta volatilidade anualizada de 49,30% nos últimos 12 meses, classificada como muito alta. A maior queda nos últimos 5 anos foi de -76,48%, ocorrida entre o pico em 01/07/2024 e o ponto mais baixo em 25/03/2026. Como BDR, o ativo está exposto ao risco cambial, pois o preço em reais depende da variação da moeda da empresa. Além disso, a liquidez do BDR na B3 pode ser menor que a da ação original no exterior, com volume médio de R$ 841.896,00 por dia nos últimos 3 meses. Investidores que acompanham ativos voláteis podem configurar [alertas de preço](/recursos/alertas-de-preco) para serem notificados quando o ativo atingir níveis específicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "N1VO34 paga dividendos?",
+      "answer": "Sim, o N1VO34 paga dividendos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 0,8180 por BDR em 2 pagamentos, com um dividend yield de 3,06%. O último pagamento foi de R$ 0,2630 em 14/08/2026. Os valores são convertidos da moeda da empresa para reais, o que pode variar conforme o câmbio."
+    },
+    {
+      "question": "Qual a diferença entre N1VO34 e a ação NVO?",
+      "answer": "O N1VO34 é o BDR da Novo Nordisk negociado na B3 em reais, enquanto a NVO é a ação original negociada na Bolsa de Valores de Nova York em dólares. O preço do BDR acompanha a ação original, mas também reflete a variação do câmbio entre o real e o dólar, além de possíveis diferenças de liquidez entre os dois mercados."
+    },
+    {
+      "question": "O N1VO34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O N1VO34 é um BDR não patrocinado de nível I. Isso significa que ele é emitido por uma instituição depositária e não é mantido diretamente pela empresa emissora, a Novo Nordisk A/S. A empresa não tem envolvimento direto na emissão ou manutenção do BDR."
+    },
+    {
+      "question": "Qual o setor da Novo Nordisk?",
+      "answer": "A Novo Nordisk atua no setor farmacêutico, com foco em medicamentos para diabetes e obesidade. Seus principais produtos são a semaglutida, comercializada como Ozempic para diabetes e Wegovy para obesidade. A empresa também atua em hemostasia, hormônio de crescimento e terapia de reposição hormonal."
+    },
+    {
+      "question": "Como acompanhar o N1VO34 no app?",
+      "answer": "É possível acompanhar o N1VO34 no app através de diversos recursos. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) mostra a rentabilidade e o custo da posição, enquanto os [alertas de preço](/recursos/alertas-de-preco) notificam quando o ativo atinge um valor específico. O [assistente de IA](/recursos/assistente-de-ia) também permite fazer perguntas em português sobre a carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP do N1VO34 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do N1VO34 com o S&P 500, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o N1VO34 atingir um preço que você escolheu, útil para ativos voláteis."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o N1VO34 junto com outros ativos da sua carteira, com alocação por classe e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em N1VO34 e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LILY34",
+        "list": "bdrs",
+        "reason": "Outro BDR do setor farmacêutico, a Eli Lilly, concorrente direta da Novo Nordisk em medicamentos para diabetes e obesidade."
+      },
+      {
+        "ticker": "MRCK34",
+        "list": "bdrs",
+        "reason": "BDR da Merck & Co., outra grande farmacêutica, para comparação de desempenho no setor de saúde."
+      },
+      {
+        "ticker": "JNJB34",
+        "list": "bdrs",
+        "reason": "BDR da Johnson & Johnson, referência no setor farmacêutico, útil para diversificação dentro do segmento."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar o desempenho do N1VO34 com o mercado americano, já que a ação original é negociada em Nova York."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de grande capitalização, para diversificação de exposição a empresas globais negociadas na B3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de N1VO34",
+      "url": "https://finance.yahoo.com/quote/N1VO34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: NOVO NORDISK, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/56928/N1VO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Novo",
+      "url": "https://www.wikidata.org/wiki/Q818846",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Novo (company)",
+      "url": "https://en.wikipedia.org/wiki/Novo_(company)",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Novo Nordisk",
+      "url": "https://pt.wikipedia.org/wiki/Novo_Nordisk",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

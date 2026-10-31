@@ -1,0 +1,321 @@
+{
+  "ticker": "TRBL11",
+  "slug": "trbl11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TRBL11: história, proventos e volatilidade",
+    "description": "TRBL11 é FII de logística com patrimônio de R$ 593,2 milhões em 09/2026. Veja proventos, desempenho, riscos e como acompanhar no app.",
+    "h1": "TRBL11: Tellus Rio Bravo Renda Logística FII",
+    "canonicalPath": "/fiis/trbl11",
+    "keywords": [
+      "TRBL11",
+      "Tellus Rio Bravo Renda Logística",
+      "FII logística",
+      "proventos TRBL11",
+      "volatilidade TRBL11",
+      "patrimônio TRBL11",
+      "dividend yield TRBL11"
+    ]
+  },
+  "summary": "TRBL11 é a cota do Tellus Rio Bravo Renda Logística Fundo de Investimento Imobiliário, um FII de tijolo focado em galpões logísticos e industriais próximos a regiões metropolitanas. Em 09/2026, o fundo possuía patrimônio líquido de R$ 593,2 milhões, 39.748 cotistas e valor patrimonial da cota de R$ 76,65. Nos 12 meses até 29/10/2026, a cota teve rentabilidade total de -16,08% e distribuiu R$ 9,68 por cota em proventos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Tellus Rio Bravo Renda Logística Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "TELLUS RIO BRAVO RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF TRBL11",
+    "isin": "BRTRBLCTF007",
+    "taxId": "16.671.412/0001-93",
+    "foundingDate": "2012-11-16",
+    "provider": {
+      "name": "RIO BRAVO INVESTIMENTOS DTVM LTDA",
+      "url": "https://www.riobravo.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=16671412000193"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, logística",
+    "issuerOrManager": "Rio Bravo Investimentos e Tellus (gestoras); Rio Bravo Investimentos DTVM (administradora e escrituradora)",
+    "name": "Tellus Rio Bravo Renda Logística Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "TELLUS RIO BRAVO RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "16/11/2012",
+    "administrator": "RIO BRAVO INVESTIMENTOS DTVM LTDA",
+    "website": "https://www.riobravo.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "TELLUS RIO BRAVO RENDA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "16.671.412/0001-93",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "RIO BRAVO INVESTIMENTOS DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "16/11/2012",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 593,2 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "39.748",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 76,65",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 45,54",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "33,58% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,35",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "21,26%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 836.026,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TRBL11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "SDI Logística Rio - Fundo de Investimento Imobiliário - FII",
+    "currency": "BRL",
+    "price": 45.54,
+    "historyStarts": "2023-08-21",
+    "returns": {
+      "1y": -0.1608,
+      "3y": -0.3284,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.3358,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4247,
+      "from": "2024-05-22",
+      "to": "2025-08-04"
+    },
+    "beta1y": {
+      "value": 0.35,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 9.68,
+      "payments12Months": 12,
+      "yield12Months": 0.2126,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.44
+      }
+    },
+    "avgDailyTradedValue3m": 836026
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do TRBL11 nos 12 meses até 29/10/2026 foi de 33,58%, classificada como nível alto. A maior queda em 5 anos foi de -42,47%, ocorrida entre 22/05/2024 e 04/08/2025. O beta de 0,35 contra o Ibovespa indica que, em média, o TRBL11 se moveu com menor intensidade que o índice, na mesma direção. Essa volatilidade é influenciada por fatores específicos do fundo, como processos judiciais com os Correios e a concentração em ativos logísticos. Para acompanhar a variação de preço e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Tellus Rio Bravo Renda Logística FII (TRBL11) iniciou suas atividades em 16/11/2012, com foco em ativos logísticos e industriais de alto padrão localizados em eixos de distribuição de grandes centros urbanos. A estratégia do fundo, conhecida como last mile, busca imóveis em raios próximos às principais capitais para atender à demanda de distribuição de última milha. A gestão é ativa e compartilhada entre a Rio Bravo Investimentos e a Tellus, com a Rio Bravo atuando também como administradora e escrituradora. Ao longo de sua história, o fundo realizou 6 emissões de cotas, com ofertas públicas encerradas em 2018, 2021 e 2024, ampliando seu patrimônio e base de cotistas. Em 2026, o fundo enfrentou desafios operacionais, incluindo processos judiciais envolvendo os Correios e a rescisão de contrato da AlmamViva, que resultou em indenização de R$ 1,0 milhão em setembro de 2026. Em 09/2026, o TRBL11 contava com 39.748 cotistas e patrimônio líquido de R$ 593,2 milhões, mantendo 100% de ocupação física após a locação da área vaga no imóvel TRBL Guarulhos I para a Lab System em junho de 2026.",
+    "timeline": [
+      {
+        "date": "2012-11-16",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2018-07-06",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2018-10-01",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2026-06-09",
+        "event": "Assinatura de contrato de locação com a Lab System para a área vaga do TRBL Guarulhos I, reduzindo a vacância para 0%",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do TRBL11",
+      "body": "O TRBL11 é um Fundo de Investimento Imobiliário de tijolo, com foco em ativos logísticos e industriais, notadamente galpões logísticos, localizados preferencialmente em regiões metropolitanas das principais capitais do país. A tese de investimento do fundo, conforme o relatório gerencial de setembro de 2026, baseia-se em três pilares: localização em eixos de circulação e distribuição, qualidade dos ativos (com retrofit quando necessário) e estratégia last mile, com imóveis em raios próximos às capitais. A gestão é ativa e compartilhada entre a Rio Bravo Investimentos e a Tellus, enquanto a Rio Bravo Investimentos DTVM atua como administradora e escrituradora. Em setembro de 2026, o fundo possuía 192.351 m² de ABL, 12 inquilinos e 0% de vacância física, com WALT de 4,35 anos."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do TRBL11",
+      "body": "Nos 12 meses até 29/10/2026, o TRBL11 distribuiu R$ 9,68 por cota em 12 pagamentos, resultando em dividend yield de 21,26%. O último provento foi de R$ 0,4400 em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o fundo distribuiu R$ 0,44 por cota naquele mês, com dividend yield anualizado de 10,4%. A tributação de rendimentos de FIIs não é detalhada nas fontes do dossiê. Para acompanhar os proventos do TRBL11, com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O TRBL11 realizou 6 emissões de cotas ao longo de sua história, com 4 ofertas públicas encerradas, conforme documentos do FNET. As ofertas públicas iniciaram em 07/06/2016 e incluíram encerramentos em 2018, 2021 e 2024. Em 09/2026, o fundo possuía 7.739.092 cotas emitidas, 39.748 cotistas e patrimônio líquido de R$ 593,2 milhões, com valor patrimonial da cota de R$ 76,65. A taxa de administração no mês de 09/2026 foi de 0,046% sobre o patrimônio, equivalente a 0,84% ao ano sobre o valor de mercado, com mínimo mensal de R$ 217.057,06 reajustado anualmente pelo IGP-M."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TRBL11",
+      "body": "A cota do TRBL11 teve rentabilidade total com proventos de -16,08% nos 12 meses até 29/10/2026 e de -32,84% nos 3 anos até a mesma data. O preço da cota em 29/10/2026 era de R$ 45,54, enquanto o valor patrimonial em 09/2026 era de R$ 76,65, indicando desconto ao patrimônio. Para comparar a rentabilidade do TRBL11 com o IFIX, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TRBL11",
+      "body": "Como FII de tijolo, o TRBL11 está exposto a riscos de vacância, inadimplência e variação de aluguéis. Em setembro de 2026, o fundo encerrou com 0% de vacância física, mas enfrentou processos judiciais envolvendo os Correios, o que impactou a receita. A volatilidade anualizada do TRBL11 nos 12 meses até 29/10/2026 foi de 33,58%, nível alto, e a maior queda em 5 anos foi de -42,47%, do pico em 22/05/2024 ao ponto mais baixo em 04/08/2025. O beta de 0,35 contra o Ibovespa indica que o ativo costuma acompanhar os movimentos do índice com menor intensidade. A alavancagem do fundo, mencionada no relatório, também é um fator de risco. Para monitorar oscilações de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TRBL11 paga dividendos?",
+      "answer": "Sim, o TRBL11 distribui proventos mensais. Nos 12 meses até 29/10/2026, o fundo distribuiu R$ 9,68 por cota em 12 pagamentos, com dividend yield de 21,26%. O último provento foi de R$ 0,4400 em 01/10/2026. Para acompanhar os rendimentos do TRBL11, com data com e data de pagamento, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual o patrimônio do TRBL11?",
+      "answer": "Em 09/2026, o TRBL11 possuía patrimônio líquido de R$ 593,2 milhões, 39.748 cotistas e valor patrimonial da cota de R$ 76,65. O fundo tem 7.739.092 cotas emitidas e 192.351 m² de ABL, com 12 inquilinos e 0% de vacância física."
+    },
+    {
+      "question": "TRBL11 é FII de tijolo ou de papel?",
+      "answer": "TRBL11 é um FII de tijolo, focado em ativos logísticos e industriais, notadamente galpões logísticos, localizados em regiões metropolitanas. O fundo não investe em recebíveis imobiliários, mas em imóveis físicos com contratos de locação de longo prazo, com WALT de 4,35 anos em setembro de 2026."
+    },
+    {
+      "question": "Qual a taxa de administração do TRBL11?",
+      "answer": "A taxa de administração do TRBL11 é de 0,84% ao ano sobre o valor de mercado, com mínimo mensal de R$ 217.057,06 reajustado anualmente pelo IGP-M. Em 09/2026, a taxa mensal foi de 0,046% sobre o patrimônio líquido."
+    },
+    {
+      "question": "Qual o desempenho do TRBL11?",
+      "answer": "Nos 12 meses até 29/10/2026, a cota do TRBL11 teve rentabilidade total com proventos de -16,08%. Nos 3 anos até a mesma data, a rentabilidade foi de -32,84%. O preço da cota em 29/10/2026 era de R$ 45,54, enquanto o valor patrimonial em 09/2026 era de R$ 76,65. Para comparar com o IFIX e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Quais os riscos do TRBL11?",
+      "answer": "Os riscos do TRBL11 incluem vacância, inadimplência, variação de aluguéis e processos judiciais. Em setembro de 2026, o fundo enfrentava processos envolvendo os Correios, o que impactou a receita. A volatilidade anualizada foi de 33,58% nos 12 meses até 29/10/2026, e a maior queda em 5 anos foi de -42,47%. A alavancagem do fundo também é um fator de risco. Para monitorar oscilações, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do TRBL11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do TRBL11 com o IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do TRBL11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o TRBL11 junto com outros ativos na sua carteira, com alocação por classe e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística, com foco similar em galpões e ativos logísticos."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística da CSHG, com estratégia last mile e ativos em regiões metropolitanas."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística da XP, com portfólio de galpões e ativos industriais."
+      },
+      {
+        "ticker": "VILG11",
+        "list": "fiis",
+        "reason": "FII de logística da Vinci, com foco em ativos logísticos e industriais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TRBL11",
+      "url": "https://finance.yahoo.com/quote/TRBL11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do TELLUS RIO BRAVO RENDA LOGISTICA FII DE RESP LTDA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo TRBL11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=16671412000193",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do TRBL11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1358985",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TRBL11, 18/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1224245",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do TRBL11, 10/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1215762",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

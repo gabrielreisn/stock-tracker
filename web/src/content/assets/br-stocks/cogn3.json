@@ -1,0 +1,428 @@
+{
+  "ticker": "COGN3",
+  "slug": "cogn3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "COGN3: história, dividendos e volatilidade",
+    "description": "COGN3 é a ação ordinária da Cogna Educação, empresa de serviços educacionais. Veja história, dividendos, volatilidade de 69,51% e a aquisição pela",
+    "h1": "COGN3: Cogna Educação S.A.",
+    "canonicalPath": "/acoes/cogn3",
+    "keywords": [
+      "COGN3",
+      "Cogna Educação",
+      "COGN3 dividendos",
+      "COGN3 volatilidade",
+      "COGN3 Pearson",
+      "ação educação B3",
+      "COGN3 história",
+      "COGN3 rentabilidade"
+    ]
+  },
+  "summary": "COGN3 é a ação ordinária da Cogna Educação S.A., empresa brasileira de serviços educacionais fundada em 1966 como Curso Pitágoras. A companhia atua nos segmentos de educação básica, ensino superior e educação continuada, com marcas como Anhanguera e Unopar. Em 30/10/2026, a ação era cotada a R$ 1,57 na B3, com dividend yield de 8,22% nos últimos 12 meses e volatilidade anualizada de 69,51%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Cogna Educação",
+    "legalName": "COGNA EDUCAÇÃO S.A.",
+    "ticker": "BVMF COGN3",
+    "isin": "BRCOGNACNOR2",
+    "taxId": "02.800.026/0001-40",
+    "foundingDate": "1998-08-26",
+    "address": {
+      "locality": "Belo Horizonte",
+      "region": "MG",
+      "country": "BR"
+    },
+    "website": "https://www.kroton.com.br",
+    "wikidata": "Q6439081",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q6439081",
+      "https://pt.wikipedia.org/wiki/Cogna_Educa%C3%A7%C3%A3o",
+      "https://en.wikipedia.org/wiki/Cogna_Educa%C3%A7%C3%A3o",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/17973/COGN/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Cogna Educação",
+    "legalName": "COGNA EDUCAÇÃO S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Serviços Educacionais",
+    "founded": "26/08/1998",
+    "listedSince": "08/06/2007",
+    "headquarters": "Belo Horizonte (MG)",
+    "website": "https://www.kroton.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "COGNA EDUCAÇÃO S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.800.026/0001-40",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Serviços Educacionais",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "26/08/1998",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Belo Horizonte (MG)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "08/06/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "COGN3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 1,57",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "69,51% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,20",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "8,22%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "COGN3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Cogna Educação S.A.",
+    "currency": "BRL",
+    "price": 1.57,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.506,
+      "3y": -0.224,
+      "5y": -0.3404,
+      "10y": -0.8744
+    },
+    "volatility1y": 0.6951,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7188,
+      "from": "2023-07-24",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 2.2,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.129,
+      "payments12Months": 2,
+      "yield12Months": 0.0822,
+      "lastPayment": {
+        "date": "2026-04-28",
+        "amount": 0.014297
+      }
+    },
+    "avgDailyTradedValue3m": 107870077
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da COGN3 nos últimos 12 meses é de 69,51%, nível muito alta. O beta de 2,20 contra o Ibovespa indica que a ação tende a se mover com amplitude maior que a do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -71,88%, do pico em 24/07/2023 ao ponto mais baixo em 18/12/2024. Para ações de empresas em reestruturação ou em processo de aquisição, como a Cogna, volatilidades elevadas são comuns, mas o nível de 69,51% é superior ao de muitas ações do Ibovespa. O beta não mede a volatilidade em si, mas a sensibilidade aos movimentos do índice. A [comparação com índices](/recursos/comparacao-com-indices) permite ver a rentabilidade da COGN3 lado a lado com o Ibovespa e o CDI, e os [alertas de preço](/recursos/alertas-de-preco) ajudam a acompanhar os movimentos da ação no pregão."
+  },
+  "history": {
+    "overview": "A Cogna Educação tem origem em 1966, quando Walfrido dos Mares Guia e outros fundadores criaram o Curso Pitágoras em Belo Horizonte, inicialmente como preparatório para vestibulares. Nas décadas seguintes, o grupo expandiu-se para a educação básica com colégios próprios e o Sistema Pitágoras de Ensino, iniciando projetos fora de Minas Gerais no fim dos anos 1970. Em 2000, ingressou no ensino superior com a Faculdade Pitágoras, e em 2007 realizou sua oferta pública inicial na Bovespa, adotando a marca Kroton Educacional. O período de 2010 a 2018 foi marcado por um ciclo de consolidação do setor: a empresa adquiriu a IUNI Educacional (R$ 191,7 milhões), a Universidade Norte do Paraná (R$ 1,3 bilhão), concluiu a fusão com a Anhanguera Educacional em 2014 e comprou a Somos Educação por R$ 4,6 bilhões em 2018. Em 2019, a companhia passou por reorganização societária, adotou o nome Cogna Educação e dividiu suas operações em quatro empresas com gestões independentes, criando a Vasta Platform, que foi listada na Nasdaq em 2020. Na década de 2020, a Cogna redirecionou sua atuação para serviços educacionais e cursos on-line, fechando cerca de 35% das unidades presenciais de ensino superior e vendendo as escolas de educação básica para a Eleva em 2021. Em 2025, a empresa anunciou uma tender offer e, em 2026, o CADE aprovou a aquisição da Cogna pela Pearson plc, com conclusão prevista para o segundo semestre de 2028.",
+    "timeline": [
+      {
+        "date": "1966",
+        "event": "Fundação do Curso Pitágoras em Belo Horizonte",
+        "source": 3
+      },
+      {
+        "date": "1998-08-26",
+        "event": "Constituição da Cogna Educação S.A.",
+        "source": 2
+      },
+      {
+        "date": "1998-12-01",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2007-06-08",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2014",
+        "event": "Conclusão da fusão com a Anhanguera Educacional",
+        "source": 4
+      },
+      {
+        "date": "2018",
+        "event": "Aquisição da Somos Educação por R$ 4,6 bilhões",
+        "source": 4
+      },
+      {
+        "date": "2019",
+        "event": "Reorganização societária e mudança de nome para Cogna Educação",
+        "source": 4
+      },
+      {
+        "date": "2020",
+        "event": "Oferta pública inicial da Vasta Platform na Nasdaq",
+        "source": 4
+      },
+      {
+        "date": "2021",
+        "event": "Venda das escolas de educação básica para a Eleva",
+        "source": 4
+      },
+      {
+        "date": "2025-09-15",
+        "event": "Intenção de realizar uma oferta para aquisição (Tender Offer)",
+        "source": 11
+      },
+      {
+        "date": "2025-09-17",
+        "event": "Lançamento da Tender Offer",
+        "source": 10
+      },
+      {
+        "date": "2025-12-18",
+        "event": "Distribuição de Dividendos e Bonificação de Ações",
+        "source": 9
+      },
+      {
+        "date": "2026-03-11",
+        "event": "Anúncio de guidance do Programa Nacional do Livro Didático (PNLD) para o 1T26",
+        "source": 8
+      },
+      {
+        "date": "2026-06-22",
+        "event": "Troca de Formador de Mercado",
+        "source": 7
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Cogna Educação ganha dinheiro",
+      "body": "A Cogna Educação S.A. atua nos segmentos de educação básica, ensino superior e educação continuada. A companhia opera por meio de marcas como Anhanguera Educacional, Universidade Norte do Paraná (Unopar), Pitágoras, Unic, Unime, Ceama, Unirondon, Fais, Fama e União, além de editoras como Ática, Scipione e Saraiva. O objeto social da empresa, conforme a B3, é a participação em sociedades que explorem a administração de atividades de educação. A CVM classifica a companhia no setor de Empresas Administrativas Participativas - Educação. A empresa também está envolvida na distribuição, atacado, varejo, importação e exportação de livros didáticos, revistas e outras publicações, além de licenciamento de produtos pedagógicos. Em 2026, a companhia anunciou a guidance do Programa Nacional do Livro Didático (PNLD) para o primeiro trimestre, conforme fato relevante da CVM."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Cogna Educação",
+      "body": "A Cogna Educação é uma companhia aberta com controle acionário privado, conforme o cadastro da CVM. As ações são negociadas na B3 sob o código COGN3, no segmento de listagem Novo Mercado. O Novo Mercado é o segmento de governança corporativa mais avançado da bolsa brasileira, que exige, entre outras coisas, a liquidação total de ações preferenciais e a adoção de práticas como a eleição de membros independentes no conselho. A ação COGN3 é ordinária (ON), o que significa que o acionista tem direito a voto nas assembleias gerais. Ações preferenciais (PN), quando existem, não têm direito a voto, mas têm preferência no recebimento de dividendos e no retorno do capital em caso de liquidação. A Cogna não possui ações preferenciais listadas, apenas a COGN3."
+    },
+    {
+      "id": "proventos",
+      "heading": "COGN3 paga dividendos?",
+      "body": "COGN3 paga dividendos. Nos 12 meses até 30/10/2026, a empresa distribuiu R$ 0,1290 por ação em 2 pagamentos, o que corresponde a um dividend yield de 8,22%. O último pagamento foi de R$ 0,0143 em 28/04/2026. Em 18/12/2025, a companhia anunciou a distribuição de dividendos e bonificação de ações, conforme fato relevante da CVM. É possível acompanhar os dividendos e JCP da COGN3 com data com e data de pagamento, multiplicados pela sua quantidade, no [recurso de proventos](/recursos/proventos) do app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da COGN3",
+      "body": "A rentabilidade total com proventos da COGN3 nos 12 meses até 30/10/2026 foi de -50,60%. Nos 3 anos, a rentabilidade foi de -22,40%, nos 5 anos de -34,04% e nos 10 anos de -87,44%. O preço da ação em 30/10/2026 era de R$ 1,57. O volume médio negociado por dia nos últimos 3 meses foi de R$ 107,9 milhões. Para comparar a rentabilidade da COGN3 com o Ibovespa, CDI e outros índices, o app oferece a [comparação com índices](/recursos/comparacao-com-indices), que mostra a rentabilidade da carteira lado a lado com CDI, IPCA, IPCA+6%, S&P 500, IFIX e Ibovespa, no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da COGN3",
+      "body": "A COGN3 apresenta volatilidade anualizada de 69,51% nos últimos 12 meses, classificada como nível muito alta. A maior queda nos últimos 5 anos foi de -71,88%, do pico em 24/07/2023 ao ponto mais baixo em 18/12/2024. O beta de 2,20 contra o Ibovespa indica que a ação tende a se mover com amplitude maior que a do índice, na mesma direção. Os riscos do setor educacional incluem mudanças regulatórias, como o Programa Nacional do Livro Didático (PNLD), que impacta a receita da companhia, e a concorrência com outras empresas do setor, como a YDUQS. A aquisição pela Pearson plc, aprovada pelo CADE em 2026, traz riscos de integração e incerteza sobre a conclusão da operação, prevista para o segundo semestre de 2028. A volatilidade e a maior queda podem ser acompanhadas no [recurso de alertas de preço](/recursos/alertas-de-preco), que envia uma notificação quando o ativo chega ao preço que você escolheu."
+    }
+  ],
+  "faq": [
+    {
+      "question": "COGN3 paga dividendos?",
+      "answer": "Sim, COGN3 paga dividendos. Nos 12 meses até 30/10/2026, a empresa distribuiu R$ 0,1290 por ação em 2 pagamentos, com dividend yield de 8,22%. O último pagamento foi de R$ 0,0143 em 28/04/2026. Em 18/12/2025, a companhia anunciou a distribuição de dividendos e bonificação de ações. É possível acompanhar os dividendos e JCP da COGN3 com data com e data de pagamento, multiplicados pela sua quantidade, no [recurso de proventos](/recursos/proventos) do app."
+    },
+    {
+      "question": "Qual a diferença entre COGN3 e COGN4?",
+      "answer": "A Cogna Educação não possui ações preferenciais (COGN4) listadas na B3. A única ação negociada é a COGN3, que é ordinária (ON), com direito a voto nas assembleias gerais. Ações preferenciais, quando existem, não têm direito a voto, mas têm preferência no recebimento de dividendos e no retorno do capital em caso de liquidação. A Cogna está no segmento Novo Mercado, que exige a liquidação total de ações preferenciais."
+    },
+    {
+      "question": "COGN3 é ação de empresa de educação?",
+      "answer": "Sim, COGN3 é a ação ordinária da Cogna Educação S.A., empresa brasileira de serviços educacionais. A companhia atua nos segmentos de educação básica, ensino superior e educação continuada, com marcas como Anhanguera, Unopar, Pitágoras e editoras como Ática, Scipione e Saraiva. A B3 classifica a empresa no setor de Consumo Cíclico, segmento de Serviços Educacionais."
+    },
+    {
+      "question": "Qual a volatilidade da COGN3?",
+      "answer": "A volatilidade anualizada da COGN3 nos últimos 12 meses é de 69,51%, nível muito alta. A maior queda nos últimos 5 anos foi de -71,88%, do pico em 24/07/2023 ao ponto mais baixo em 18/12/2024. O beta de 2,20 contra o Ibovespa indica que a ação tende a se mover com amplitude maior que a do índice. Para acompanhar os movimentos da ação, o app oferece [alertas de preço](/recursos/alertas-de-preco), que enviam uma notificação quando o ativo chega ao preço que você escolheu."
+    },
+    {
+      "question": "A Cogna vai ser adquirida pela Pearson?",
+      "answer": "Sim, em 2026 o CADE aprovou a aquisição da Cogna Educação pela Pearson plc, com conclusão prevista para o segundo semestre de 2028. Em 2025, a empresa anunciou uma tender offer, com intenção declarada em 15/09/2025 e lançamento em 17/09/2025. A aquisição é um evento que pode impactar o preço da ação e a volatilidade, mas não é possível prever o resultado final. A [comparação com índices](/recursos/comparacao-com-indices) permite ver a rentabilidade da COGN3 lado a lado com o Ibovespa e o CDI."
+    },
+    {
+      "question": "COGN3 é uma boa ação para investir?",
+      "answer": "Não é possível dizer se COGN3 é uma boa ação para investir, pois isso depende do perfil do investidor, do horizonte de tempo e da diversificação da carteira. A COGN3 é uma ação de empresa de educação em processo de reestruturação e aquisição, com volatilidade muito alta e rentabilidade negativa nos últimos 12 meses. O app oferece o [assistente de IA](/recursos/assistente-de-ia), que responde perguntas em português sobre a sua carteira e os seus gastos, com base nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da COGN3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com Ibovespa e CDI",
+        "context": "Compare a rentabilidade da COGN3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a COGN3 chegar ao preço que você escolheu, para acompanhar os movimentos da ação."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a COGN3 junto com as outras ações, renda fixa e fundos da sua carteira, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em COGN3 e a sua carteira, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "YDUQ3",
+        "list": "br-stocks",
+        "reason": "YDUQS é a principal concorrente da Cogna no setor de educação no Brasil."
+      },
+      {
+        "ticker": "ANIM3",
+        "list": "br-stocks",
+        "reason": "Ânima Holding é outra empresa do setor educacional, com foco em cursos on-line e educação corporativa."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "PETR4 é uma ação de grande capitalização do Ibovespa, útil para comparação de desempenho e diversificação."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "VALE3 é outra ação de grande capitalização do Ibovespa, com perfil de setor diferente (mineração)."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "ITUB4 é uma ação de banco, com perfil de setor diferente (finanças), útil para diversificação."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de COGN3",
+      "url": "https://finance.yahoo.com/quote/COGN3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: COGNA ON, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/17973/COGN/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, COGNA EDUCAÇÃO S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Cogna Educação",
+      "url": "https://www.wikidata.org/wiki/Q6439081",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Cogna Educação",
+      "url": "https://pt.wikipedia.org/wiki/Cogna_Educa%C3%A7%C3%A3o",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Cogna Educação",
+      "url": "https://en.wikipedia.org/wiki/Cogna_Educa%C3%A7%C3%A3o",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/07/2026, “Eleição Diretor Estatutário”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1546380&numSequencia=1071086&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/06/2026, “Troca de Formador de Mercado”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537136&numSequencia=1061842&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/03/2026, “Anúncio de guidance do Programa Nacional do Livro Didático (PNLD) para o 1T26”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1489163&numSequencia=1013869&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/12/2025, “Distribuição de Dividendos e Bonificação de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1459112&numSequencia=983824&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/09/2025, “Lançamento da Tender Offer”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1424194&numSequencia=948906&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/09/2025, “Intenção de realizar uma oferta para aquisição (\"Tender Offer\")”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1423767&numSequencia=948479&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/08/2025, “Eleição de membro do Conselho da Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1408353&numSequencia=933065&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/08/2025, “Renúncia de Membro do Conselho da Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1407125&numSequencia=931837&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

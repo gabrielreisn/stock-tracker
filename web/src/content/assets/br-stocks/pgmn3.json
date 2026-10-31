@@ -1,0 +1,407 @@
+{
+  "ticker": "PGMN3",
+  "slug": "pgmn3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "PGMN3: história, dividendos e volatilidade",
+    "description": "PGMN3 é a ação ordinária da Pague Menos, segunda maior rede de farmácias do Brasil. Veja história, dividendos, volatilidade e desempenho até 30/10/2026.",
+    "h1": "PGMN3: Pague Menos - Ação Ordinária",
+    "canonicalPath": "/acoes/pgmn3",
+    "keywords": [
+      "PGMN3",
+      "Pague Menos",
+      "ação Pague Menos",
+      "dividendos PGMN3",
+      "volatilidade PGMN3",
+      "PGMN3 história",
+      "PGMN3 B3",
+      "Pague Menos ações"
+    ]
+  },
+  "summary": "PGMN3 é a ação ordinária da Empreendimentos Pague Menos S.A., a segunda maior rede de farmácias do Brasil segundo a ABRAFARMA. A empresa opera cerca de 1,6 mil lojas em todos os estados e no Distrito Federal. Em 30/10/2026, a ação valia R$ 2,48, com rentabilidade total de -32,56% nos 12 meses anteriores e volatilidade anualizada de 86,59%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Pague Menos",
+    "legalName": "EMPREENDIMENTOS PAGUE MENOS SA",
+    "ticker": "BVMF PGMN3",
+    "isin": "BRPGMNACNOR8",
+    "taxId": "06.626.253/0001-51",
+    "foundingDate": "1981-05-19",
+    "address": {
+      "locality": "Fortaleza",
+      "region": "CE",
+      "country": "BR"
+    },
+    "website": "https://www.paguemenos.com.br/ri",
+    "wikidata": "Q7124466",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q7124466",
+      "https://pt.wikipedia.org/wiki/Pague_Menos",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22608/PGMN/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Pague Menos",
+    "legalName": "EMPREENDIMENTOS PAGUE MENOS SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Saúde",
+    "segment": "Medicamentos e Outros Produtos",
+    "founded": "19/05/1981",
+    "listedSince": "02/09/2020",
+    "headquarters": "Fortaleza (CE)",
+    "website": "https://www.paguemenos.com.br/ri"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "EMPREENDIMENTOS PAGUE MENOS SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "06.626.253/0001-51",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Saúde / Medicamentos e Outros Produtos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "19/05/1981",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Fortaleza (CE)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "02/09/2020",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "PGMN3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 2,48",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "86,59% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,85",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "10,34%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PGMN3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Empreendimentos Pague Menos S.A.",
+    "currency": "BRL",
+    "price": 2.48,
+    "historyStarts": "2020-09-03",
+    "returns": {
+      "1y": -0.3256,
+      "3y": 0.0406,
+      "5y": -0.655,
+      "10y": null
+    },
+    "volatility1y": 0.8659,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7628,
+      "from": "2022-03-03",
+      "to": "2024-06-17"
+    },
+    "beta1y": {
+      "value": 2.85,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.2565,
+      "payments12Months": 1,
+      "yield12Months": 0.1034,
+      "lastPayment": {
+        "date": "2025-12-26",
+        "amount": 0.256518
+      }
+    },
+    "avgDailyTradedValue3m": 37523976
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 86,59% nos 12 meses até 30/10/2026 indica oscilações de preço muito amplas, típicas de ações de empresas com histórico de reestruturação e ofertas públicas recentes. O beta de 2,85 contra o Ibovespa mostra que a PGMN3 tende a amplificar os movimentos do índice em quase três vezes, o que significa que em mercados de alta a ação costuma subir mais, e em mercados de baixa, cair mais. A maior queda em 5 anos, de -76,28% entre 03/03/2022 e 17/06/2024, reflete esse comportamento de alta sensibilidade ao mercado. Para acompanhar essas variações em tempo real, o recurso de [alertas de preço](/recursos/alertas-de-preco) permite configurar notificações para níveis específicos."
+  },
+  "history": {
+    "overview": "Fundada em 19/05/1981 em Fortaleza, a Pague Menos adotou o conceito de drugstore em 1985, expandindo-se para o Rio Grande do Norte em 1993. Em 2011, a empresa registrou-se como companhia aberta na CVM. Em dezembro de 2015, a gestora General Atlantic tornou-se sócia estratégica com 17% de participação. Em 02/09/2020, a companhia abriu capital na B3, captando cerca de R$ 746,9 milhões. Em 2022, concluiu a aquisição da Extrafarma por R$ 737 milhões, consolidando-se como a segunda maior rede do país. Em 2025 e 2026, a empresa realizou ofertas públicas de distribuição primária e secundária de ações e aprovou um programa de recompra de ações.",
+    "timeline": [
+      {
+        "date": "1981-05-19",
+        "event": "Constituição da companhia Empreendimentos Pague Menos S.A.",
+        "source": 2
+      },
+      {
+        "date": "2011-10-21",
+        "event": "Registro de companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2020-09-02",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-09-30",
+        "event": "Fixação do preço por ação da oferta pública subsequente de distribuição primária e secundária de ações",
+        "source": 12
+      },
+      {
+        "date": "2025-11-06",
+        "event": "Aprovação do programa de recompra de ações",
+        "source": 11
+      },
+      {
+        "date": "2025-12-16",
+        "event": "Aumento de capital privado e distribuição de dividendos/JCP",
+        "source": 10
+      },
+      {
+        "date": "2026-02-24",
+        "event": "Homologação do aumento de capital",
+        "source": 9
+      },
+      {
+        "date": "2026-02-27",
+        "event": "Anúncio do potencial de oferta pública de ações",
+        "source": 8
+      },
+      {
+        "date": "2026-03-02",
+        "event": "Oferta pública de distribuição primária e secundária de ações ordinárias",
+        "source": 7
+      },
+      {
+        "date": "2026-03-10",
+        "event": "Aprovação do preço por ação na oferta pública de distribuição",
+        "source": 6
+      },
+      {
+        "date": "2026-06-16",
+        "event": "Aquisição de ações de emissão da própria companhia",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Pague Menos ganha dinheiro",
+      "body": "A Pague Menos atua no comércio de produtos farmacêuticos, perfumarias e afins, sem manipulação de fórmulas, segundo a classificação da B3. A empresa opera cerca de 1,6 mil lojas físicas e atende mais de 20,7 milhões de clientes ativos em 399 municípios, com presença em todos os estados brasileiros e no Distrito Federal. A rede possui 26 mil colaboradores e oferece serviços de atenção primária por meio do Hub de Saúde e dos consultórios farmacêuticos Clinic Farma, que incluem exames, vacinação e orientações especializadas."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Pague Menos",
+      "body": "O controle acionário da Pague Menos é privado, conforme o cadastro da CVM. A empresa está listada no segmento Novo Mercado da B3, o que implica a adoção de práticas de governança corporativa específicas. O código de negociação é PGMN3, que representa a ação ordinária (ON). Ações ordinárias conferem direito a voto em assembleias gerais e não possuem preferência no recebimento de proventos em relação a outras classes, diferentemente das ações preferenciais (PN), que geralmente têm prioridade em dividendos e JCP, mas não possuem direito a voto."
+    },
+    {
+      "id": "proventos",
+      "heading": "PGMN3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a PGMN3 distribuiu R$ 0,2565 por ação em 1 pagamento, resultando em um dividend yield de 10,34%. O último provento foi pago em 26/12/2025. Em 16/12/2025, a empresa anunciou a distribuição de dividendos e juros sobre capital próprio (JCP) em conjunto com um aumento de capital privado. É possível acompanhar a data com e a data de pagamento de cada provento no recurso de [dividendos e JCP no app](/recursos/proventos), que multiplica os valores pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da PGMN3",
+      "body": "A rentabilidade total da PGMN3, incluindo proventos, foi de -32,56% nos 12 meses até 30/10/2026, 4,06% em 3 anos e -65,50% em 5 anos. O preço em 30/10/2026 era de R$ 2,48. Para avaliar esses números em contexto, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a rentabilidade da carteira lado a lado com o Ibovespa, o CDI e o IPCA no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da PGMN3",
+      "body": "A volatilidade anualizada da PGMN3 nos 12 meses até 30/10/2026 foi de 86,59%, classificada como muito alta. A maior queda em 5 anos foi de -76,28%, entre o pico em 03/03/2022 e o ponto mais baixo em 17/06/2024. O beta de 2,85 indica que os movimentos da ação costumam ser quase três vezes maiores que os do Ibovespa, na mesma direção. O setor de varejo farmacêutico enfrenta riscos regulatórios, de concorrência e de margens. A alta volatilidade e a queda acentuada exigem atenção a oscilações de preço, que podem ser monitoradas com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PGMN3 paga dividendos?",
+      "answer": "Sim, a PGMN3 distribuiu R$ 0,2565 por ação em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 10,34%. O último pagamento foi em 26/12/2025. O recurso de [dividendos e JCP no app](/recursos/proventos) mostra a data com e a data de pagamento de cada provento, multiplicado pela sua quantidade de ações."
+    },
+    {
+      "question": "Qual a diferença entre PGMN3 e PGMN4?",
+      "answer": "PGMN3 é a ação ordinária (ON), que confere direito a voto em assembleias, enquanto PGMN4 é a ação preferencial (PN), que geralmente tem prioridade no recebimento de dividendos e JCP, mas não possui direito a voto. As duas classes pertencem à mesma empresa, a Pague Menos."
+    },
+    {
+      "question": "Quais são os riscos da PGMN3?",
+      "answer": "Os riscos incluem alta volatilidade (86,59% nos 12 meses até 30/10/2026), beta de 2,85 contra o Ibovespa, e a maior queda em 5 anos de -76,28% entre 03/03/2022 e 17/06/2024. O setor de varejo farmacêutico também enfrenta riscos regulatórios e de concorrência. O recurso de [alertas de preço](/recursos/alertas-de-preco) ajuda a monitorar oscilações."
+    },
+    {
+      "question": "Como a Pague Menos ganha dinheiro?",
+      "answer": "A Pague Menos atua no comércio de produtos farmacêuticos, perfumarias e afins, com cerca de 1,6 mil lojas em todos os estados e no Distrito Federal. A empresa também oferece serviços de atenção primária por meio do Hub de Saúde e dos consultórios Clinic Farma, que incluem exames, vacinação e orientações especializadas."
+    },
+    {
+      "question": "Qual o setor da PGMN3?",
+      "answer": "A PGMN3 está classificada no setor de Saúde, segmento de Medicamentos e Outros Produtos, pela B3. A atividade principal é o comércio de produtos farmacêuticos, perfumarias e afins, sem manipulação de fórmulas."
+    },
+    {
+      "question": "Como acompanhar a PGMN3 no app?",
+      "answer": "É possível usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua posição na PGMN3, com respostas baseadas nos seus próprios dados. O recurso de [carteira consolidada](/recursos/carteira-consolidada) mostra o valor da posição e a alocação em relação a outros ativos."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da PGMN3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da PGMN3 com o Ibovespa, o CDI e o IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando a PGMN3 chegar a um preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a PGMN3 junto com outros ativos, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição na PGMN3, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RADL3",
+        "list": "br-stocks",
+        "reason": "Raia Drogasil S.A. é a principal concorrente da Pague Menos no setor de varejo farmacêutico."
+      },
+      {
+        "ticker": "HAPV3",
+        "list": "br-stocks",
+        "reason": "Hapvida Participações e Investimentos S.A. atua no setor de saúde, com serviços de atenção primária."
+      },
+      {
+        "ticker": "FLRY3",
+        "list": "br-stocks",
+        "reason": "Fleury S.A. é uma empresa do setor de saúde, com serviços de diagnóstico e atendimento."
+      },
+      {
+        "ticker": "SAUD3",
+        "list": "br-stocks",
+        "reason": "Bradsaúde S.A. atua no setor de saúde, com serviços de atendimento e diagnóstico."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petróleo Brasileiro S.A. (Petrobras) é uma ação de grande capitalização no Ibovespa, útil para comparação de volatilidade e beta."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PGMN3",
+      "url": "https://finance.yahoo.com/quote/PGMN3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: PAGUE MENOS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/22608/PGMN/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, EMPREENDIMENTOS PAGUE MENOS SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Pague Menos",
+      "url": "https://www.wikidata.org/wiki/Q7124466",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Pague Menos",
+      "url": "https://pt.wikipedia.org/wiki/Pague_Menos",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/06/2026, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1535180&numSequencia=1059886&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/03/2026, “Aprovação do Preço por Ação no âmbito da Oferta Pública de Distribuição Primária e Secundária de Ações Ordinárias de Emissão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1488644&numSequencia=1013350&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/03/2026, “Oferta Pública de Distribuição Primária e Secundária de Ações Ordinárias de Emissão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1484352&numSequencia=1009058&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/02/2026, “Potencial Oferta Pública de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1483052&numSequencia=1007758&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/02/2026, “Homologação Aumento de Capital”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1481226&numSequencia=1005932&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/12/2025, “Aumento de Capital Privado||Distribuição de Dividendos/Juros sobre Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1458886&numSequencia=983598&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/11/2025, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1440712&numSequencia=965424&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/09/2025, “Fixação do preço por ação da oferta pública subsequente de distribuição primária e secundária de ações da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1428093&numSequencia=952805&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

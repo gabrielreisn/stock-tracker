@@ -1,0 +1,282 @@
+{
+  "ticker": "TLT",
+  "slug": "tlt",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TLT: ETF de Títulos do Tesouro dos EUA 20+",
+    "description": "Conheça o TLT, ETF da iShares que replica títulos do Tesouro dos EUA com vencimento acima de 20 anos. Veja desempenho, riscos e como investir.",
+    "h1": "TLT: iShares 20+ Year Treasury Bond ETF",
+    "canonicalPath": "/etfs/tlt",
+    "keywords": [
+      "TLT",
+      "iShares 20+ Year Treasury Bond ETF",
+      "ETF títulos tesouro EUA",
+      "renda fixa EUA",
+      "juros de longo prazo"
+    ]
+  },
+  "summary": "TLT é o iShares 20+ Year Treasury Bond ETF, lançado em 30/07/2002 e gerido pela BlackRock. O fundo replica o desempenho de títulos da dívida pública dos Estados Unidos com vencimento superior a 20 anos. Em 30/10/2026, a cota valia US$ 81,84, com uma rentabilidade total de -5,44% nos últimos 12 meses. O ativo apresenta alta sensibilidade a mudanças nas taxas de juros, refletindo a volatilidade do mercado de juros de longo prazo.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares 20+ Year Treasury Bond ETF",
+    "ticker": "XNAS TLT",
+    "foundingDate": "2002-07-30",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa (Títulos do Tesouro dos EUA)",
+    "issuerOrManager": "BlackRock (marca iShares)",
+    "trackedIndex": "Bloomberg US Treasury 20+ Year Bond Index",
+    "name": "iShares 20+ Year Treasury Bond ETF",
+    "founded": "30/07/2002"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares 20+ Year Treasury Bond ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "30/07/2002",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 81,84",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "9,58% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,21",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,76%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 3,16 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TLT",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares 20+ Year Treasury Bond ETF",
+    "currency": "USD",
+    "price": 81.84,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0544,
+      "3y": 0.1073,
+      "5y": -0.3324,
+      "10y": -0.169
+    },
+    "volatility1y": 0.0958,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.437,
+      "from": "2021-12-03",
+      "to": "2023-10-19"
+    },
+    "beta1y": {
+      "value": 0.21,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.892,
+      "payments12Months": 12,
+      "yield12Months": 0.0476,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.312
+      }
+    },
+    "avgDailyTradedValue3m": 3162592120
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do TLT nos últimos 12 meses é de 9,58%, um nível considerado baixo para o mercado acionário, mas elevado para a renda fixa tradicional. O beta de 0,21 contra o S&P 500 mostra que o ativo tem baixa correlação de magnitude com as ações: quando o S&P 500 se move, o TLT tende a se mover na mesma direção, mas com intensidade muito menor. A maior queda em 5 anos foi de -43,70%, entre 03/12/2021 e 19/10/2023, período marcado pela alta agressiva das taxas de juros nos EUA. Para monitorar oscilações de preço, o app oferece [alertas de preço](/recursos/alertas-de-preco) que notificam quando a cota atinge níveis definidos pelo investidor."
+  },
+  "history": {
+    "overview": "O TLT faz parte da linha iShares, marca de Exchange-Traded Funds (ETFs) atualmente gerida pela BlackRock. A história da marca remonta a 2000, quando o Barclays Global Investors lançou os primeiros fundos sob o nome iShares, com o objetivo de expandir o mercado de ETFs nos Estados Unidos. Antes disso, a empresa operava os World Equity Benchmark Shares (WEBS), criados em 1996 em parceria com a Morgan Stanley e o MSCI, que foram renomeados para iShares MSCI Series durante essa expansão estratégica. Em 2006, a iShares adquiriu a unidade de ETFs da HypoVereinsbank por €240 milhões, consolidando sua posição na Europa. Em 2009, o Barclays vendeu a marca iShares para a CVC Capital Partners, e posteriormente a BlackRock adquiriu o negócio, tornando-se a maior emissora de ETFs do mundo. O TLT, especificamente, iniciou suas operações em 30/07/2002, oferecendo exposição passiva ao segmento de longo prazo da curva de juros americana.",
+    "timeline": [
+      {
+        "date": "1996",
+        "event": "Lançamento dos World Equity Benchmark Shares (WEBS) pelo Barclays e Morgan Stanley, antecessores da marca iShares.",
+        "source": 3
+      },
+      {
+        "date": "2000",
+        "event": "Barclays lança mais de 40 novos fundos sob a marca iShares, renomeando os WEBS para iShares MSCI Series.",
+        "source": 1
+      },
+      {
+        "date": "2002-07-30",
+        "event": "Primeiro pregão das cotas do TLT na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2006-11-07",
+        "event": "iShares anuncia a aquisição da unidade de ETFs da HypoVereinsbank por €240 milhões.",
+        "source": 1
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma planos de venda da marca iShares para a CVC Capital Partners por mais de US$ 4 bilhões.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o TLT funciona",
+      "body": "O TLT é um Exchange-Traded Fund (ETF) passivo que replica o desempenho de um índice de títulos da dívida pública dos Estados Unidos com maturidade superior a 20 anos. A emissora é a BlackRock, sob a marca iShares, que é a maior gestora de ETFs do mundo. O fundo foi lançado em 30/07/2002. Diferente de ETFs alavancados ou inversos, o TLT não possui rebalanceamento diário para multiplicar retornos; ele simplesmente mantém uma carteira de títulos que reflete a composição do índice alvo, buscando acompanhar a variação de preços e os rendimentos desses títulos ao longo do tempo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do TLT",
+      "body": "O TLT segue um índice composto por títulos do Tesouro dos Estados Unidos (Treasuries) com vencimento superior a 20 anos. Esses ativos são instrumentos de dívida emitidos pelo Departamento do Tesouro dos EUA para financiar gastos governamentais. Os Treasuries são considerados de baixo risco de crédito, pois são respaldados pela 'full faith and credit' do governo americano. A composição do fundo reflete a estrutura de longo prazo da dívida pública americana, sendo sensível a mudanças nas expectativas de inflação e nas taxas de juros de longo prazo."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no TLT a partir do Brasil",
+      "body": "Investidores brasileiros podem adquirir o TLT abrindo conta em uma corretora de valores que ofereça acesso ao mercado americano. A compra é feita em dólares, o que introduz risco cambial: se o dólar se valorizar frente ao real, o investidor ganha com a conversão, mas se o dólar se desvalorizar, o ganho em dólar pode ser atenuado ou virar perda em reais. Alternativamente, é possível buscar ETFs ou BDRs listados na B3 que replicam índices de renda fixa americana, embora a oferta específica para títulos de longo prazo (20+ anos) seja mais limitada no mercado local do que para o S&P 500."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TLT",
+      "body": "Até 30/10/2026, a cota do TLT valia US$ 81,84. A rentabilidade total com proventos foi de -5,44% nos últimos 12 meses, 10,73% em 3 anos, -33,24% em 5 anos e -16,90% em 10 anos. O fundo distribuiu US$ 3,8920 por cota em 12 pagamentos no período de 12 meses, resultando em um dividend yield de 4,76%. Para comparar esse desempenho com o mercado acionário americano, utilize a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) no app, que permite visualizar a rentabilidade do TLT lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TLT",
+      "body": "O principal risco do TLT é a sensibilidade a juros. Como o fundo investe em títulos de longo prazo (acima de 20 anos), pequenas variações nas taxas de juros de mercado causam grandes oscilações no preço das cotas. A volatilidade anualizada nos últimos 12 meses foi de 9,58%, classificada como baixa em termos absolutos, mas alta para um ativo de renda fixa. A maior queda nos últimos 5 anos foi de -43,70%, ocorrendo do pico em 03/12/2021 ao ponto mais baixo em 19/10/2023. O beta de 0,21 contra o S&P 500 indica que o TLT tende a se mover na mesma direção do mercado acionário, mas com amplitude muito menor. O risco cambial também é relevante para o investidor brasileiro."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o TLT?",
+      "answer": "TLT é um ETF que replica o desempenho de títulos da dívida pública dos EUA com vencimento superior a 20 anos. Ele é gerido pela BlackRock (marca iShares) e foi lançado em 2002. O fundo é usado por investidores que buscam exposição a juros de longo prazo ou proteção contra quedas no mercado acionário, embora seja sensível a altas de juros."
+    },
+    {
+      "question": "Qual a diferença entre TLT e IEF?",
+      "answer": "A principal diferença é o vencimento dos títulos. O TLT foca em títulos com mais de 20 anos de maturidade, enquanto o [IEF](/etfs/ief) foca em títulos de 7 a 10 anos. Como títulos de prazo mais longo são mais sensíveis a mudanças de juros, o TLT tende a ter maior volatilidade e maior potencial de valorização (ou desvalorização) do que o IEF quando as taxas de juros mudam."
+    },
+    {
+      "question": "TLT paga dividendos?",
+      "answer": "Sim, o TLT distribui proventos mensais. Nos 12 meses até 30/10/2026, o fundo pagou US$ 3,8920 por cota, resultando em um dividend yield de 4,76%. O último pagamento registrado foi de US$ 0,3120 em 01/10/2026. É possível acompanhar a data de pagamento e a data com no app através da seção de [proventos](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "Qual o risco de crédito do TLT?",
+      "answer": "O risco de crédito é considerado o menor possível, pois o fundo investe em títulos do Tesouro dos Estados Unidos, que são respaldados pela capacidade de tributação do governo americano. O risco principal não é a inadimplência, mas sim o risco de mercado (juros e câmbio), que pode causar grandes oscilações no preço da cota, como a queda de -43,70% entre 2021 e 2023."
+    },
+    {
+      "question": "Como investir no TLT a partir do Brasil?",
+      "answer": "É necessário ter conta em uma corretora que ofereça acesso ao mercado americano. A compra é feita em dólares, o que expõe o investidor ao risco cambial. Alternativamente, pode-se buscar BDRs ou ETFs na B3 que tenham exposição similar, embora a oferta para títulos de longo prazo seja menor. O app permite conectar contas de corretoras via [Open Finance](/recursos/open-finance) para acompanhar a posição."
+    },
+    {
+      "question": "TLT é bom para diversificação?",
+      "answer": "O TLT é frequentemente usado para diversificação por ter baixa correlação com ações de crescimento. No entanto, em períodos de alta de juros, ele pode cair junto com as ações. A [carteira consolidada](/recursos/carteira-consolidada) do app permite visualizar a alocação do TLT junto com outros ativos, como [SPY](/etfs/spy) ou [GLD](/etfs/gld), para entender o impacto na diversificação total."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Visualize a rentabilidade do TLT lado a lado com o S&P 500 e o CDI para entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do TLT atingir níveis específicos, útil para monitorar a volatilidade de títulos de longo prazo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja como o TLT se encaixa na sua alocação global, junto com ações, FIIs e outros ETFs, em uma única visão."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora para importar automaticamente as quantidades e o preço médio das cotas de TLT que você possui."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IEF",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro dos EUA com vencimento de 7 a 10 anos, útil para comparação de sensibilidade a juros."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, usado como referência para comparação de desempenho e correlação com o mercado acionário."
+      },
+      {
+        "ticker": "AGG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos corporativos e governamentais de grau de investimento, para comparação com outros ativos de renda fixa."
+      },
+      {
+        "ticker": "GLD",
+        "list": "us-etfs",
+        "reason": "ETF de ouro, frequentemente usado junto com TLT como proteção contra inflação e crises."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TLT",
+      "url": "https://finance.yahoo.com/quote/TLT/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): United States Treasury security (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/United_States_Treasury_security",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

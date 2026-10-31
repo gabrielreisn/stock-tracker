@@ -1,0 +1,266 @@
+{
+  "ticker": "BIL",
+  "slug": "bil",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BIL: ETF de T-Bills, dividendos e volatilidade",
+    "description": "Conheça o BIL, o ETF de T-Bills de 1 a 3 meses da State Street. Veja rentabilidade, dividend yield de 3,66% e volatilidade de 0,20% até 30/10/2026.",
+    "h1": "BIL: State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+    "canonicalPath": "/etfs/bil",
+    "keywords": [
+      "BIL",
+      "ETF T-Bills",
+      "State Street SPDR",
+      "renda fixa EUA",
+      "dividend yield BIL",
+      "volatilidade BIL",
+      "investir em dólar",
+      "juros curtos EUA"
+    ]
+  },
+  "summary": "BIL é o ticker do State Street SPDR Bloomberg 1-3 Month T-Bill ETF, um fundo de índice que replica o comportamento de títulos do Tesouro dos Estados Unidos com vencimento de 1 a 3 meses. Lançado em 30/05/2007, o ativo é gerido pela State Street Global Advisors. Até 30/10/2026, a cota estava em US$ 91,70, com dividend yield de 3,66% e volatilidade anualizada de 0,20%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+    "ticker": "ARCX BIL",
+    "foundingDate": "2007-05-30",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa (T-Bills)",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "Bloomberg 1-3 Month T-Bill Index",
+    "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+    "founded": "30/05/2007"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "30/05/2007",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 91,70",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "0,20% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-0,00",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,66%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 972,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BIL",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF",
+    "currency": "USD",
+    "price": 91.7,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0369,
+      "3y": 0.1388,
+      "5y": 0.2008,
+      "10y": 0.2589
+    },
+    "volatility1y": 0.002,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.0005,
+      "from": "2021-11-01",
+      "to": "2022-02-14"
+    },
+    "beta1y": {
+      "value": 0,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.353,
+      "payments12Months": 12,
+      "yield12Months": 0.0366,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.263
+      }
+    },
+    "avgDailyTradedValue3m": 972757738
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do BIL nos 12 meses até 30/10/2026 foi de 0,20%, classificada como nível baixo. Isso é consistente com a natureza de um ETF de T-Bills de curto prazo, que tem baixa sensibilidade a mudanças de juros. O beta de -0,00 contra o S&P 500 mostra que o ativo tem correlação praticamente nula com o mercado acionário americano; ele não se move na mesma direção nem na contrária do índice. A maior queda em 5 anos foi de -0,05%, entre 01/11/2021 e 14/02/2022, o que ilustra a estabilidade de preço. Para quem busca um ativo de baixa volatilidade, o BIL se destaca, mas é importante monitorar o preço com [alertas de preço](/recursos/alertas-de-preco) para acompanhar variações cambiais ou de juros."
+  },
+  "history": {
+    "overview": "O BIL foi lançado em 30/05/2007, no mesmo período em que a State Street Global Advisors (SSGA) unificou seus ETFs nos Estados Unidos sob a marca SPDR, incluindo a antiga família StreetTRACKS. A SSGA é a gestora da família SPDR, que é a terceira maior provedora de ETFs do mundo, atrás apenas de iShares e Vanguard. O fundo foi estruturado como um unit investment trust, uma forma comum para veículos que replicam índices de renda fixa de curto prazo nos Estados Unidos. A escolha de títulos do Tesouro com vencimento de 1 a 3 meses reflete a estratégia de manter a exposição a juros curtos, minimizando o risco de mercado e a volatilidade de preço.",
+    "timeline": [
+      {
+        "date": "2007",
+        "event": "SSGA renomeia seus ETFs nos EUA para a marca SPDR, incluindo a família StreetTRACKS",
+        "source": 1
+      },
+      {
+        "date": "2007-05-30",
+        "event": "Primeiro pregão das cotas do BIL na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2012",
+        "event": "O gerenciamento da dívida dos EUA passa a ser responsabilidade do Bureau of the Fiscal Service",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o BIL funciona",
+      "body": "O BIL é um ETF que replica o índice Bloomberg 1-3 Month T-Bill, focado em títulos do Tesouro dos Estados Unidos (T-Bills) com vencimento de 1 a 3 meses. A emissora é a State Street Global Advisors (SSGA), que gerencia a família SPDR. O fundo foi lançado em 30/05/2007 e é estruturado como um unit investment trust. Ao contrário de ETFs de ações, o BIL não é alavancado nem inverso, o que significa que ele não realiza rebalanceamento diário para multiplicar retornos. O objetivo é oferecer uma exposição direta aos juros de curto prazo dos EUA, funcionando como um equivalente de caixa de alta liquidez."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do BIL",
+      "body": "O BIL segue o índice Bloomberg 1-3 Month T-Bill, que é composto por títulos do Tesouro dos Estados Unidos (T-Bills). Segundo as fontes, T-Bills são títulos de dívida de curto prazo, com vencimento de até um ano, que não pagam cupom (zero-coupon). Eles são comprados com desconto em relação ao valor de face e resgatados por esse valor de face no vencimento, gerando o rendimento. O Tesouro dos EUA emite esses títulos em leilões realizados pelo Federal Reserve Bank of New York. A composição do índice se concentra em maturidades de 1 a 3 meses, o que mantém a duração do portfólio muito baixa."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no BIL a partir do Brasil",
+      "body": "Para investir no BIL a partir do Brasil, o investidor precisa de uma conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. A compra é feita em dólar, o que expõe o investidor ao risco cambial: se o dólar se valorizar frente ao real, o retorno em reais aumenta, e vice-versa. Outra alternativa é buscar ETFs ou BDRs listados na B3 que tenham exposição similar a juros de curto prazo dos EUA, embora a liquidez e a aderência ao índice possam variar. É fundamental considerar a conversão cambial e as taxas de corretagem na hora da operação."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BIL",
+      "body": "Até 30/10/2026, o BIL apresentou rentabilidade total com proventos de 3,69% em 12 meses, 13,88% em 3 anos, 20,08% em 5 anos e 25,89% em 10 anos. O preço da cota era de US$ 91,70 nessa data. O fundo distribuiu US$ 3,3530 por cota em 12 pagamentos no último ano, resultando em um dividend yield de 3,66%. O último provento foi de US$ 0,2630 em 01/10/2026. Para avaliar o desempenho em relação a outros mercados, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite ver a rentabilidade do BIL lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BIL",
+      "body": "O principal risco do BIL é a variação da taxa de juros de curto prazo dos Estados Unidos. Como o fundo investe em T-Bills de 1 a 3 meses, a sensibilidade a mudanças nas taxas é baixa, o que se reflete na volatilidade anualizada de 0,20% (nível baixo) nos 12 meses até 30/10/2026. A maior queda em 5 anos foi de apenas -0,05%, ocorrendo entre 01/11/2021 e 14/02/2022. O beta de -0,00 contra o S&P 500 indica que o ativo não acompanha os movimentos do mercado acionário. O risco cambial é relevante para o investidor brasileiro, pois o ativo é cotado em dólar. O risco de crédito é considerado baixo, pois os T-Bills são respaldados pelo Tesouro dos EUA."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o BIL?",
+      "answer": "O BIL é o ticker do State Street SPDR Bloomberg 1-3 Month T-Bill ETF, um fundo que replica títulos do Tesouro dos EUA com vencimento de 1 a 3 meses. Ele é gerido pela State Street Global Advisors e foi lançado em 30/05/2007. O ativo funciona como um equivalente de caixa de alta liquidez, com baixa volatilidade e exposição direta aos juros curtos americanos."
+    },
+    {
+      "question": "O BIL paga dividendos?",
+      "answer": "Sim, o BIL distribui proventos mensais. Nos 12 meses até 30/10/2026, foram pagos US$ 3,3530 por cota em 12 pagamentos, resultando em um dividend yield de 3,66%. O último pagamento foi de US$ 0,2630 em 01/10/2026. No app, é possível acompanhar os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para ver o histórico de proventos e o impacto na rentabilidade total."
+    },
+    {
+      "question": "Qual a diferença entre BIL e SGOV?",
+      "answer": "Ambos são ETFs de T-Bills de curto prazo, mas o BIL é gerido pela State Street Global Advisors e segue o índice Bloomberg 1-3 Month T-Bill, enquanto o [SGOV](/etfs/sgov) é gerido pela iShares e segue o índice iBoxx $ 0-3 Month Treasury Bond Index. Ambos têm baixa volatilidade e exposição a juros curtos dos EUA, mas podem ter diferenças sutis na composição e na taxa de administração. No app, é possível comparar os dois usando a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação em cada um."
+    },
+    {
+      "question": "Como investir no BIL a partir do Brasil?",
+      "answer": "É necessário ter uma conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. A compra é feita em dólar, o que expõe o investidor ao risco cambial. Outra alternativa é buscar ETFs ou BDRs na B3 com exposição similar a juros de curto prazo dos EUA. O app permite conectar contas por [Open Finance](/recursos/open-finance) para importar as posições e acompanhar o desempenho em reais."
+    },
+    {
+      "question": "Qual a volatilidade do BIL?",
+      "answer": "A volatilidade anualizada do BIL nos 12 meses até 30/10/2026 foi de 0,20%, classificada como nível baixo. A maior queda em 5 anos foi de -0,05%, entre 01/11/2021 e 14/02/2022. O beta contra o S&P 500 é -0,00, o que indica que o ativo não acompanha os movimentos do mercado acionário. Para monitorar variações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do BIL lado a lado com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho em relação a outros mercados."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação quando a cota do BIL chegar ao preço que você escolheu, para acompanhar variações cambiais ou de juros."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e importe as posições do BIL, conferindo quantidades e preço médio automaticamente."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o BIL junto com outros ativos, como ações e FIIs, em uma única visão de alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SGOV",
+        "list": "us-etfs",
+        "reason": "Outro ETF de T-Bills de curto prazo, gerido pela iShares, com estratégia similar ao BIL."
+      },
+      {
+        "ticker": "SHV",
+        "list": "us-etfs",
+        "reason": "ETF de T-Bills de 0 a 1 ano, gerido pela iShares, com exposição a juros curtos dos EUA."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, gerido pela mesma gestora (State Street), para comparar com um ativo de maior risco e retorno."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro de longo prazo, para contrastar com a estratégia de curto prazo do BIL."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BIL",
+      "url": "https://finance.yahoo.com/quote/BIL/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): United States Treasury security (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/United_States_Treasury_security",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

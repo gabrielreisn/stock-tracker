@@ -1,0 +1,301 @@
+{
+  "ticker": "A1KA34",
+  "slug": "a1ka34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "A1KA34: BDR da Akamai, história e desempenho",
+    "description": "A1KA34 é o BDR da Akamai Technologies, empresa de CDN e cibersegurança. Veja história, desempenho, volatilidade e como funciona o BDR na B3.",
+    "h1": "A1KA34: BDR da Akamai Technologies",
+    "canonicalPath": "/bdrs/a1ka34",
+    "keywords": [
+      "A1KA34",
+      "Akamai Technologies",
+      "BDR Akamai",
+      "AKAM",
+      "BDR nível I",
+      "volatilidade A1KA34",
+      "dividendos A1KA34"
+    ]
+  },
+  "summary": "A1KA34 é o BDR não patrocinado (nível I) da Akamai Technologies Inc., empresa americana de rede de distribuição de conteúdo (CDN) e cibersegurança sediada em Cambridge, Massachusetts. Listado na B3 desde 29/11/2019, o ativo representa ações da empresa listadas na NASDAQ sob o ticker AKAM. Em 30/10/2026, a cotação era de R$ 42,08, com rentabilidade total de 23,80% nos últimos 12 meses, incluindo a variação cambial do dólar.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Akamai Technologies",
+    "legalName": "AKAMAI TECHNOLOGIES INC",
+    "ticker": "BVMF A1KA34",
+    "foundingDate": "1998",
+    "website": "https://www.akamai.com/",
+    "wikidata": "Q415598",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q415598",
+      "https://en.wikipedia.org/wiki/Akamai_Technologies",
+      "https://pt.wikipedia.org/wiki/Akamai_Technologies",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53554/A1KA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Akamai Technologies",
+    "legalName": "AKAMAI TECHNOLOGIES INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1998",
+    "listedSince": "29/11/2019",
+    "headquarters": "Cambridge, Massachusetts",
+    "website": "https://www.akamai.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "AKAMAI TECHNOLOGIES INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: AKAM",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Cambridge, Massachusetts",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1998",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "29/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 42,08",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "64,37% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original AKAM em dólares)",
+      "value": "1,49",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,5 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "A1KA34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Akamai Technologies, Inc.",
+    "currency": "BRL",
+    "price": 42.08,
+    "historyStarts": "2020-02-07",
+    "returns": {
+      "1y": 0.238,
+      "3y": -0.0304,
+      "5y": -0.1523,
+      "10y": null
+    },
+    "volatility1y": 0.6437,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4608,
+      "from": "2026-06-03",
+      "to": "2026-10-19"
+    },
+    "beta1y": {
+      "value": 1.49,
+      "against": "S&P 500, ação original AKAM em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 1539552
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do A1KA34 nos últimos 12 meses foi de 64,37%, nível muito alto. O beta da ação original AKAM contra o S&P 500 é de 1,49, o que significa que a ação tende a ter movimentos maiores que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -46,08%, do pico em 03/06/2026 ao ponto mais baixo em 19/10/2026. Para ativos de tecnologia, essa volatilidade é comum, mas o efeito do câmbio pode amplificar os movimentos no BDR em reais. Para acompanhar a volatilidade e definir pontos de entrada, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Akamai Technologies foi fundada em 1998 por F. Thomson Leighton, Daniel M. Lewin e Randall Kaplan, após uma competição do MIT. A empresa desenvolveu um algoritmo para otimizar o tráfego de dados na internet e lançou seu serviço comercial em abril de 1999, sendo listada na NASDAQ em outubro do mesmo ano. Em 2001, o cofundador Daniel M. Lewin faleceu nos ataques de 11 de setembro. A empresa expandiu seus serviços ao longo dos anos, sendo adicionada ao S&P 500 em julho de 2007. Em 2013, Tom Leighton assumiu a presidência, e em 2021 a Akamai reorganizou-se em dois grupos internos: Security Technology e Edge Technology. Em 2022, a empresa adquiriu a Linode por US$ 900 milhões para expandir suas soluções de computação e armazenamento em nuvem. O BDR A1KA34 foi listado na B3 em 29/11/2019, permitindo a negociação da ação em reais.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "Fundação da Akamai Technologies por F. Thomson Leighton, Daniel M. Lewin e Randall Kaplan.",
+        "source": 2
+      },
+      {
+        "date": "1999-04",
+        "event": "Lançamento do serviço comercial da Akamai Technologies.",
+        "source": 3
+      },
+      {
+        "date": "1999-10-29",
+        "event": "Listagem da ação original (AKAM) na NASDAQ.",
+        "source": 3
+      },
+      {
+        "date": "2001-07-01",
+        "event": "Inclusão da Akamai no índice Russell 3000 e Russell 2000.",
+        "source": 3
+      },
+      {
+        "date": "2001-09-11",
+        "event": "Falecimento do cofundador Daniel M. Lewin nos ataques de 11 de setembro.",
+        "source": 3
+      },
+      {
+        "date": "2007-07",
+        "event": "Inclusão da Akamai no índice S&P 500.",
+        "source": 3
+      },
+      {
+        "date": "2013",
+        "event": "Tom Leighton assume a presidência da Akamai, substituindo Paul Sagan.",
+        "source": 3
+      },
+      {
+        "date": "2019-11-29",
+        "event": "Listagem do BDR A1KA34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2021-02-09",
+        "event": "Reorganização da empresa em dois grupos: Security Technology e Edge Technology.",
+        "source": 3
+      },
+      {
+        "date": "2022",
+        "event": "Aquisição da Linode por US$ 900 milhões para expandir serviços de nuvem.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Akamai Technologies ganha dinheiro",
+      "body": "A Akamai Technologies é uma empresa americana especializada em rede de distribuição de conteúdo (CDN), cibersegurança, mitigação de ataques DDoS e serviços de nuvem. A empresa opera uma plataforma de computação em nuvem distribuída globalmente, com cerca de 365.000 servidores em mais de 135 países. A receita vem do armazenamento e distribuição de imagens, vídeos e outros conteúdos para sites de grande porte, além de monitoramento global de tráfego de dados. Em 2022, a Akamai adquiriu a Linode por US$ 900 milhões para expandir suas soluções de computação e armazenamento em nuvem."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR A1KA34",
+      "body": "O BDR A1KA34 é um recibo negociado na B3, em reais, lastreado em ações da Akamai Technologies Inc. listadas na NASDAQ sob o ticker AKAM. O BDR é do tipo não patrocinado (nível I), o que significa que a empresa não participa ativamente do programa. O preço do BDR acompanha a variação da ação original em dólares e a taxa de câmbio entre o dólar e o real. O BDR foi listado na B3 em 29/11/2019."
+    },
+    {
+      "id": "proventos",
+      "heading": "A1KA34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, o BDR A1KA34 não pagou proventos. A Akamai Technologies é uma empresa de tecnologia que historicamente não distribui dividendos, reinvestindo os lucros no crescimento do negócio. Caso a empresa decida pagar dividendos no futuro, o valor seria convertido em reais e distribuído aos detentores do BDR."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do A1KA34",
+      "body": "A rentabilidade total do A1KA34, incluindo proventos, foi de 23,80% nos 12 meses até 30/10/2026. Nos últimos 3 anos, a rentabilidade foi de -3,04%, e nos últimos 5 anos, de -15,23%. Esses números incluem a variação do câmbio entre o dólar e o real, o que pode amplificar ou reduzir os retornos em relação à ação original em dólares. Para comparar o desempenho com índices de referência, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do A1KA34",
+      "body": "Os principais riscos do A1KA34 incluem a volatilidade da ação original, a exposição ao câmbio e a liquidez do BDR na B3. A volatilidade anualizada do BDR nos últimos 12 meses foi de 64,37%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -46,08%, do pico em 03/06/2026 ao ponto mais baixo em 19/10/2026. O beta da ação original AKAM contra o S&P 500 é de 1,49, indicando que a ação tende a ter movimentos maiores que o índice. A liquidez do BDR é limitada, com volume médio de R$ 1,5 milhão por dia nos últimos 3 meses. Para acompanhar a volatilidade, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "A1KA34 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, o A1KA34 não pagou proventos. A Akamai Technologies é uma empresa de tecnologia que historicamente não distribui dividendos, reinvestindo os lucros no crescimento do negócio."
+    },
+    {
+      "question": "Qual a diferença entre A1KA34 e AKAM?",
+      "answer": "O A1KA34 é o BDR negociado na B3, em reais, enquanto o AKAM é a ação original negociada na NASDAQ, em dólares. O preço do BDR acompanha a variação da ação original e a taxa de câmbio entre o dólar e o real."
+    },
+    {
+      "question": "O que é um BDR não patrocinado nível I?",
+      "answer": "Um BDR não patrocinado nível I é um recibo negociado na B3 que representa ações de uma empresa listada no exterior, mas a empresa não participa ativamente do programa. O BDR A1KA34 é do tipo não patrocinado nível I, lastreado na ação AKAM da Akamai Technologies."
+    },
+    {
+      "question": "Qual a volatilidade do A1KA34?",
+      "answer": "A volatilidade anualizada do A1KA34 nos últimos 12 meses foi de 64,37%, nível muito alta. O beta da ação original AKAM contra o S&P 500 é de 1,49, indicando movimentos maiores que o índice."
+    },
+    {
+      "question": "Como acompanhar o A1KA34 no app?",
+      "answer": "Você pode acompanhar o A1KA34 no app com o [widget da barra de menus](/recursos/widget-da-barra-de-menus), que mostra o gráfico do dia e as posições num clique. Para comparar com índices, use a [comparação com índices](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o A1KA34 junto com seus outros ativos na carteira consolidada, com valor por classe e alocação."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do A1KA34 e o preço médio da sua posição no gráfico de desempenho."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o A1KA34 chegar ao preço que você escolheu, para acompanhar a volatilidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com exposição similar ao setor de semicondutores e nuvem."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia e nuvem, com maior capitalização e menor volatilidade."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para a ação original AKAM e para o beta do A1KA34."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de A1KA34",
+      "url": "https://finance.yahoo.com/quote/A1KA34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: AKAMAI TECHN, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53554/A1KA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Akamai Technologies",
+      "url": "https://www.wikidata.org/wiki/Q415598",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Akamai Technologies",
+      "url": "https://en.wikipedia.org/wiki/Akamai_Technologies",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Akamai Technologies",
+      "url": "https://pt.wikipedia.org/wiki/Akamai_Technologies",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

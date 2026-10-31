@@ -1,0 +1,385 @@
+{
+  "ticker": "GMAT3",
+  "slug": "gmat3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "GMAT3: história, dividendos e volatilidade",
+    "description": "GMAT3 é a ação do Grupo Mateus, varejista de alimentos no Nordeste. Veja história, dividendos, volatilidade e desempenho da ação em 30/10/2026.",
+    "h1": "GMAT3: Grupo Mateus",
+    "canonicalPath": "/acoes/gmat3",
+    "keywords": [
+      "GMAT3",
+      "Grupo Mateus",
+      "ação GMAT3",
+      "dividendos GMAT3",
+      "volatilidade GMAT3",
+      "varejo alimentar",
+      "supermercados",
+      "atacarejo"
+    ]
+  },
+  "summary": "GMAT3 é a ação ordinária do Grupo Mateus, holding de varejo alimentar presente em nove estados do Nordeste e Norte do Brasil. A empresa opera supermercados, atacarejos e panificação, com mais de 40 mil funcionários. Em 30/10/2026, a ação valia R$ 3,50, com rentabilidade total de -44,34% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Grupo Mateus",
+    "legalName": "GRUPO MATEUS S.A.",
+    "ticker": "BVMF GMAT3",
+    "isin": "BRGMATACNOR7",
+    "taxId": "24.990.777/0001-09",
+    "foundingDate": "2016-05-02",
+    "address": {
+      "locality": "São Luís",
+      "region": "MA",
+      "country": "BR"
+    },
+    "website": "https://www.grupomateus.com.br/",
+    "wikidata": "Q10291868",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q10291868",
+      "https://pt.wikipedia.org/wiki/Grupo_Mateus",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25186/GMAT/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Grupo Mateus",
+    "legalName": "GRUPO MATEUS S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo não Cíclico",
+    "segment": "Alimentos",
+    "founded": "02/05/2016",
+    "listedSince": "13/10/2020",
+    "headquarters": "São Luís (MA)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "GRUPO MATEUS S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "24.990.777/0001-09",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo não Cíclico / Alimentos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "02/05/2016",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Luís (MA)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "13/10/2020",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "GMAT3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "FORVIS MAZARS AUDITORES INDEPENDENTES - SOCIEDADE SIMPLES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 3,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "58,56% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,65",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,42%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GMAT3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Grupo Mateus S.A.",
+    "currency": "BRL",
+    "price": 3.5,
+    "historyStarts": "2020-10-13",
+    "returns": {
+      "1y": -0.4434,
+      "3y": -0.3563,
+      "5y": -0.4845,
+      "10y": null
+    },
+    "volatility1y": 0.5856,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5741,
+      "from": "2024-03-28",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.65,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.0496,
+      "payments12Months": 1,
+      "yield12Months": 0.0142,
+      "lastPayment": {
+        "date": "2025-11-21",
+        "amount": 0.049574
+      }
+    },
+    "avgDailyTradedValue3m": 34295818
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da GMAT3 é de 58,56% nos últimos 12 meses, nível considerado muito alto para uma ação de varejo. O beta de 1,65 contra o Ibovespa indica que a ação costuma acompanhar os movimentos do índice com amplitude 1,65 vezes maior, na mesma direção. A maior queda em 5 anos foi de -57,41%, entre 28/03/2024 e 30/10/2026. Esse nível de volatilidade e beta é elevado para o setor de consumo não cíclico, refletindo a expansão agressiva do grupo e a sensibilidade a fatores macroeconômicos e operacionais. Para acompanhar a posição e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app."
+  },
+  "history": {
+    "overview": "O Grupo Mateus teve origem em 1986, quando Ilson Mateus Rodrigues inaugurou uma mercearia em Balsas, no Maranhão. A empresa cresceu ao longo das décadas, expandindo-se para outras cidades do estado e, posteriormente, para outros estados do Norte e Nordeste. Em 2016, a holding foi constituída para reorganizar o grupo, e em 2020 as ações passaram a ser negociadas na B3 no segmento Novo Mercado. A trajetória inclui a abertura de unidades em Pará, Piauí, Ceará, Pernambuco, Bahia, Sergipe, Alagoas e Paraíba, além da criação de marcas próprias como Armazém Mateus, Mix Atacarejo e Bumba Meu Pão. Em 2026, a empresa concluiu a aquisição de participação majoritária no Novo Atacarejo e inaugurou a primeira unidade da joint venture farmacêutica Mix Toureiro Farma. A expansão agressiva e a estrutura de capital do grupo marcaram a história recente da companhia, com aumentos de capital e programas de recompra de ações nos últimos anos.",
+    "timeline": [
+      {
+        "date": "1986",
+        "event": "Fundação do grupo com a inauguração de uma mercearia em Balsas, MA.",
+        "source": 3
+      },
+      {
+        "date": "2016-05-02",
+        "event": "Constituição da GRUPO MATEUS S.A. como holding.",
+        "source": 2
+      },
+      {
+        "date": "2020-10-08",
+        "event": "Registro da companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2020-10-13",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-02-25",
+        "event": "Início do programa de recompra de ações.",
+        "source": 9
+      },
+      {
+        "date": "2025-07-02",
+        "event": "Fechamento da operação de aquisição do Novo Atacarejo.",
+        "source": 8
+      },
+      {
+        "date": "2025-11-14",
+        "event": "Deliberação de aumento de capital por subscrição privada em reunião de conselho.",
+        "source": 7
+      },
+      {
+        "date": "2026-01-06",
+        "event": "Homologação do aumento de capital pela CVM.",
+        "source": 6
+      },
+      {
+        "date": "2026-06-29",
+        "event": "Publicação de fato relevante sobre auto de infração da Armazém Mateus S.A.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Grupo Mateus ganha dinheiro",
+      "body": "O Grupo Mateus atua no setor de consumo não cíclico, com foco em alimentos, comércio e distribuição. A empresa opera como holding de instituições não financeiras, participando do capital de sociedades controladas ou coligadas. O grupo é composto por uma rede de supermercados (Mateus), atacarejos (Mix Atacarejo e Armazém Mateus), panificação (Bumba Meu Pão), eletrodomésticos (Eletro Mateus), distribuição farmacêutica (Invicta) e e-commerce (Mateus Mais). A rede está presente nos estados do Maranhão, Pará, Piauí, Ceará, Pernambuco, Bahia, Sergipe, Alagoas e Paraíba, com mais de 200 unidades de negócio e mais de 40 mil funcionários, sendo a maior rede varejista das regiões Norte e Nordeste do país e a quarta maior empresa de varejo alimentar do Brasil, segundo a Associação Brasileira de Supermercados (Abras)."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Grupo Mateus",
+      "body": "A GMAT3 é a ação ordinária do Grupo Mateus, negociada na B3 sob o código GMAT3. A empresa está listada no segmento Novo Mercado, que exige práticas de governança corporativa mais rígidas, como voto paritário e ações com liquidez total. O controle acionário é privado, do tipo holding, conforme o cadastro da CVM. Ações ordinárias (ON) dão direito a voto em assembleias e, em caso de liquidação, têm preferência sobre as preferenciais após a quitação do capital social, mas não têm prioridade no recebimento de dividendos em relação às ações preferenciais (PN), que, por sua vez, têm preferência no recebimento de proventos e no capital em caso de dissolução."
+    },
+    {
+      "id": "proventos",
+      "heading": "GMAT3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a GMAT3 distribuiu R$ 0,0496 por ação em 1 pagamento, resultando em dividend yield de 1,42%. O último provento foi pago em 21/11/2025. A empresa também anunciou um programa de recompra de ações em 25/02/2025, o que pode impactar a disponibilidade de ações no mercado e a diluição de capital. Para acompanhar os dividendos e JCP da GMAT3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da GMAT3",
+      "body": "A rentabilidade total da GMAT3, incluindo proventos, foi de -44,34% nos 12 meses até 30/10/2026, -35,63% em 3 anos e -48,45% em 5 anos. O preço da ação em 30/10/2026 era de R$ 3,50. Para comparar esse desempenho com o Ibovespa, CDI e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade da carteira lado a lado com esses benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da GMAT3",
+      "body": "A volatilidade anualizada da GMAT3 nos últimos 12 meses é de 58,56%, classificada como muito alta. O beta de 1,65 indica que a ação tende a oscilar 1,65 vezes mais que o Ibovespa, na mesma direção. A maior queda em 5 anos foi de -57,41%, do pico em 28/03/2024 ao ponto mais baixo em 30/10/2026. Riscos setoriais incluem a sensibilidade a variações no consumo de alimentos, custos logísticos e expansão agressiva. A empresa também enfrenta riscos regulatórios, como o auto de infração da Armazém Mateus S.A. em 2026, e riscos de capital, evidenciados por aumentos de capital e recompra de ações. Para monitorar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GMAT3 paga dividendos?",
+      "answer": "Sim, a GMAT3 distribuiu R$ 0,0496 por ação em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 1,42%. O último provento foi pago em 21/11/2025. A empresa também anunciou um programa de recompra de ações em 2025. Para ver os detalhes dos pagamentos, acesse o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre GMAT3 e GMAT4?",
+      "answer": "GMAT3 é a ação ordinária (ON), que dá direito a voto em assembleias e tem prioridade no capital em caso de liquidação, mas não tem prioridade no recebimento de dividendos. GMAT4, se existisse, seria a ação preferencial (PN), que tem prioridade no recebimento de proventos e no capital em caso de dissolução, mas não dá direito a voto. A GMAT3 é a única ação listada do Grupo Mateus na B3, conforme os dados da B3 e CVM."
+    },
+    {
+      "question": "GMAT3 é ação de varejo ou de alimentos?",
+      "answer": "GMAT3 é a ação do Grupo Mateus, um varejista de alimentos, classificado pela B3 no setor de Consumo não Cíclico, segmento de Comércio e Distribuição, subsegmento de Alimentos. A empresa opera supermercados, atacarejos, panificação e outros negócios relacionados ao varejo alimentar, com presença em nove estados do Norte e Nordeste do Brasil."
+    },
+    {
+      "question": "Qual a rentabilidade da GMAT3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total da GMAT3, incluindo proventos, foi de -44,34% nos 12 meses até 30/10/2026. O preço da ação nesse período era de R$ 3,50. Para comparar esse desempenho com o Ibovespa e outros índices, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "question": "GMAT3 é uma ação de alto risco?",
+      "answer": "A volatilidade anualizada da GMAT3 é de 58,56%, nível muito alto, e o beta é de 1,65, indicando que a ação oscila mais que o Ibovespa. A maior queda em 5 anos foi de -57,41%. Esses números refletem a sensibilidade da ação a fatores macroeconômicos e a expansão agressiva do grupo. Para monitorar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+    },
+    {
+      "question": "O Grupo Mateus tem ações preferenciais?",
+      "answer": "Conforme os dados da B3 e CVM, a GMAT3 é a única ação listada do Grupo Mateus na B3, sendo a ação ordinária (ON). Não há menção a ações preferenciais (PN) no cadastro da companhia aberta. A empresa está listada no segmento Novo Mercado, que exige voto paritário e liquidez total das ações."
+    },
+    {
+      "question": "Como acompanhar a GMAT3 no app?",
+      "answer": "Você pode acompanhar a GMAT3 no app utilizando o [widget na barra de menus](/recursos/widget-da-barra-de-menus) para ver o gráfico do dia e as posições em um clique. Para uma visão consolidada da carteira, utilize o recurso de [carteira consolidada](/recursos/carteira-consolidada), que mostra ações, renda fixa e fundos em uma só visão. Para perguntas sobre a sua posição, utilize o [assistente de IA](/recursos/assistente-de-ia)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da GMAT3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da GMAT3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a GMAT3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a GMAT3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em GMAT3 e receba respostas dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ASAI3",
+        "list": "br-stocks",
+        "reason": "Outra ação de varejo alimentar, a Sendas Distribuidora, com operação em supermercados e atacarejos no Nordeste e Centro-Oeste."
+      },
+      {
+        "ticker": "ABEV3",
+        "list": "br-stocks",
+        "reason": "Ação de consumo não cíclico, a Ambev, que também opera no setor de alimentos e bebidas, com presença nacional."
+      },
+      {
+        "ticker": "PGMN3",
+        "list": "br-stocks",
+        "reason": "Ação de varejo, a Pague Menos, que opera no segmento de atacado e varejo de produtos de consumo, similar ao modelo do Grupo Mateus."
+      },
+      {
+        "ticker": "LREN3",
+        "list": "br-stocks",
+        "reason": "Ação de varejo, a Lojas Renner, que opera no segmento de moda, mas compartilha a exposição ao consumo não cíclico e à sensibilidade a fatores macroeconômicos."
+      },
+      {
+        "ticker": "MGLU3",
+        "list": "br-stocks",
+        "reason": "Ação de varejo, a Magazine Luiza, que opera no segmento de e-commerce e varejo, com exposição similar à do Grupo Mateus no canal digital."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GMAT3",
+      "url": "https://finance.yahoo.com/quote/GMAT3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: GRUPO MATEUS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25186/GMAT/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, GRUPO MATEUS S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Grupo Mateus",
+      "url": "https://www.wikidata.org/wiki/Q10291868",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Grupo Mateus",
+      "url": "https://pt.wikipedia.org/wiki/Grupo_Mateus",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/06/2026, “Auto de Infração - Armazém Mateus S.A.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1539673&numSequencia=1064379&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/01/2026, “Homologação do Aumento de Capital”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1464320&numSequencia=989026&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/11/2025, “Aumento de capital por subscrição privada deliberado em RCA”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1446026&numSequencia=970738&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/07/2025, “Fechamento da operação com o Novo Atacarejo”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1396809&numSequencia=921521&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/02/2025, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1339312&numSequencia=864038&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

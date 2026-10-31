@@ -1,0 +1,288 @@
+{
+  "ticker": "RIOT34",
+  "slug": "riot34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RIOT34: BDR da Rio Tinto, dividendos e volatilidade",
+    "description": "Conheça o RIOT34, BDR da Rio Tinto na B3. Veja dividendos, volatilidade, histórico da mineradora e como o câmbio afeta o preço em reais.",
+    "h1": "RIOT34: BDR da Rio Tinto PLC na B3",
+    "canonicalPath": "/bdrs/riot34",
+    "keywords": [
+      "RIOT34",
+      "Rio Tinto BDR",
+      "BDR mineradora",
+      "dividendos RIOT34",
+      "volatilidade RIOT34",
+      "BDR nível I",
+      "Rio Tinto ações Brasil"
+    ]
+  },
+  "summary": "RIOT34 é o BDR nível I da Rio Tinto PLC, mineradora anglo-australiana fundada em 1873. Negociado na B3 desde 27/08/2019, o recibo representa ações da empresa listadas na Bolsa de Londres e na Australian Securities Exchange. Em 30/10/2026, o ativo cotava a R$ 447,25, com rentabilidade total de 20,44% nos últimos 12 meses e dividend yield de 5,23%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Rio Tinto",
+    "legalName": "RIO TINTO PLC",
+    "ticker": "BVMF RIOT34",
+    "foundingDate": "1873",
+    "website": "https://www.riotinto.com/",
+    "wikidata": "Q821293",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q821293",
+      "https://en.wikipedia.org/wiki/Rio_Tinto_(corporation)",
+      "https://pt.wikipedia.org/wiki/Grupo_Rio_Tinto",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52450/RIOT/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Rio Tinto",
+    "legalName": "RIO TINTO PLC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1873",
+    "listedSince": "27/08/2019",
+    "headquarters": "Melbourne, Londres",
+    "website": "https://www.riotinto.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "RIO TINTO PLC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Australian Securities Exchange: RIO, Bolsa de Valores de Londres: RIO, Bolsa de Valores de Nova Iorque: RIO",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Melbourne, Londres",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1873",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "27/08/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 447,25",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "31,97% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "5,23%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 810.660,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RIOT34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Rio Tinto Group",
+    "currency": "BRL",
+    "price": 447.25,
+    "historyStarts": "2019-12-17",
+    "returns": {
+      "1y": 0.2044,
+      "3y": 0.6536,
+      "5y": 0.7617,
+      "10y": null
+    },
+    "volatility1y": 0.3197,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2929,
+      "from": "2022-01-19",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 23.3867,
+      "payments12Months": 2,
+      "yield12Months": 0.0523,
+      "lastPayment": {
+        "date": "2026-08-13",
+        "amount": 10.864865
+      }
+    },
+    "avgDailyTradedValue3m": 810660
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do RIOT34 nos últimos 12 meses até 30/10/2026 foi de 31,97%, nível considerado alto. A maior queda em 5 anos foi de -29,29%, ocorrida entre 19/01/2022 e 03/11/2022. O beta do ativo não está disponível no dossiê, portanto não é possível comparar sua sensibilidade ao índice de referência. A alta volatilidade reflete a exposição a commodities e a variação cambial. Para monitorar oscilações, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Rio Tinto PLC tem origem em 1873, quando um consórcio liderado por Hugh Matheson comprou o complexo de minas do Río Tinto, na Espanha, do governo espanhol. A empresa foi registrada em 29 de março daquele ano e, de 1877 a 1891, foi a maior produtora de cobre do mundo. No final do século XIX, o controle passou para a família Rothschild, que expandiu as operações. A Primeira Guerra Mundial e a falta de diversificação levaram a um declínio até 1925, quando Sir Auckland Geddes assumiu a presidência e iniciou a expansão para minas de cobre na Rodésia do Norte (atual Zâmbia), consolidadas na Rhokana Corporation. Na década de 1950, devido ao contexto político da Espanha sob Franco, a empresa vendeu as minas que lhe deram o nome, financiando novas explorações. Em 1962, fundiu-se com a australiana Consolidated Zinc, formando a Rio Tinto-Zinc Corporation. Aquisições posteriores incluíram US Borax (1968), ativos de carvão da BP (1989) e a North Limited (2000). Em 2007, concluiu a maior aquisição de sua história, comprando a canadense Alcan por US$ 38,1 bilhões. O BDR RIOT34 foi listado na B3 em 27/08/2019, permitindo a negociação em reais.",
+    "timeline": [
+      {
+        "date": "1873",
+        "event": "Fundação da Rio Tinto Company após a compra das minas do Río Tinto na Espanha.",
+        "source": 2
+      },
+      {
+        "date": "1962",
+        "event": "Fusão da Rio Tinto Company com a Consolidated Zinc para formar a Rio Tinto-Zinc Corporation.",
+        "source": 4
+      },
+      {
+        "date": "2007-11-14",
+        "event": "Conclusão da aquisição da empresa canadense de alumínio Alcan por US$ 38,1 bilhões.",
+        "source": 4
+      },
+      {
+        "date": "2019-08-27",
+        "event": "Listagem do BDR RIOT34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Rio Tinto ganha dinheiro",
+      "body": "A Rio Tinto PLC é uma mineradora multinacional anglo-australiana com sede em Londres e Melbourne. A empresa produz commodities como cobre, minério de ferro, alumínio, lítio, carvão, dióxido de titânio, boro, talco, urânio e diamantes. Suas operações estão presentes em mais de 20 países em cinco continentes. A receita da empresa depende diretamente dos preços de mercado dessas matérias-primas e do volume de extração. A Rio Tinto é componente do índice FTSE 100 na Bolsa de Londres e do S&P/ASX 200 na Australian Securities Exchange."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR RIOT34",
+      "body": "RIOT34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Rio Tinto PLC no exterior. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o real e a moeda de origem. A ação original é negociada na Australian Securities Exchange (ticker RIO), na Bolsa de Valores de Londres (ticker RIO) e na Bolsa de Valores de Nova York (ticker RIO). O BDR foi listado na B3 em 27/08/2019. Por ser não patrocinado, a empresa não participa ativamente da emissão ou manutenção do programa."
+    },
+    {
+      "id": "proventos",
+      "heading": "RIOT34 paga dividendos?",
+      "body": "A Rio Tinto distribui proventos aos seus acionistas, que chegam aos detentores do BDR RIOT34 convertidos para reais. Nos 12 meses até 30/10/2026, o BDR pagou R$ 23,3867 por unidade em 2 pagamentos, resultando em um dividend yield de 5,23%. O último pagamento registrado foi de R$ 10,8649 em 13/08/2026. É importante notar que a empresa paga dividendos na sua moeda local, e o valor recebido pelo investidor brasileiro depende da taxa de câmbio na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RIOT34",
+      "body": "Em 30/10/2026, o RIOT34 estava cotado a R$ 447,25. A rentabilidade total com proventos foi de 20,44% nos 12 meses, 65,36% em 3 anos e 76,17% em 5 anos até essa data. Esses retornos incluem a variação do preço da ação e o efeito do câmbio (real/dólar ou real/libra). Para avaliar o desempenho do BDR em relação a outros mercados, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade lado a lado com o S&P 500, CDI e Ibovespa."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RIOT34",
+      "body": "Os riscos do RIOT34 incluem a exposição a commodities, cujos preços são voláteis e afetam a receita da mineradora. Há também risco cambial, pois o BDR é cotado em reais, mas a ação original é negociada em moedas estrangeiras. A volatilidade anualizada do BDR nos últimos 12 meses foi de 31,97%, classificada como alta. A maior queda nos últimos 5 anos foi de -29,29%, entre 19/01/2022 e 03/11/2022. A liquidez do BDR na B3 é moderada, com volume médio diário de R$ 810.660,00 nos últimos 3 meses. Investidores devem considerar esses fatores ao monitorar o ativo, podendo usar [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos significativos."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar RIOT34 no app",
+      "body": "Para quem tem RIOT34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do RIOT34 lado a lado com o S&P 500, CDI e Ibovespa no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba notificações quando o RIOT34 atingir o preço que você definiu, útil para acompanhar a alta volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do RIOT34 junto com outros ativos em uma única visão, incluindo ações, BDRs e fundos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RIOT34 paga dividendos?",
+      "answer": "Sim, o RIOT34 distribui proventos. Nos 12 meses até 30/10/2026, foram pagos R$ 23,3867 por BDR em 2 pagamentos, com dividend yield de 5,23%. O último pagamento foi de R$ 10,8649 em 13/08/2026. O valor é convertido para reais na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre RIOT34 e a ação original da Rio Tinto?",
+      "answer": "RIOT34 é um BDR negociado na B3 em reais, enquanto a ação original é negociada em bolsas internacionais (Londres, Sydney, Nova York) em moedas estrangeiras. O BDR acompanha o preço da ação original e o câmbio. O RIOT34 é não patrocinado, o que significa que a empresa não participa ativamente do programa."
+    },
+    {
+      "question": "RIOT34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "RIOT34 é um BDR não patrocinado de nível I. Isso significa que a Rio Tinto PLC não participa ativamente da emissão ou manutenção do programa, e a liquidação é feita por uma instituição depositária."
+    },
+    {
+      "question": "Qual a volatilidade do RIOT34?",
+      "answer": "A volatilidade anualizada do RIOT34 nos últimos 12 meses até 30/10/2026 foi de 31,97%, nível alto. A maior queda em 5 anos foi de -29,29%, entre 19/01/2022 e 03/11/2022."
+    },
+    {
+      "question": "Como o câmbio afeta o RIOT34?",
+      "answer": "O RIOT34 é cotado em reais, mas a ação original é negociada em moedas estrangeiras. Portanto, a variação do câmbio entre o real e a moeda da ação original impacta o preço do BDR. Uma valorização do real tende a reduzir o preço do BDR, e uma desvalorização tende a aumentá-lo."
+    },
+    {
+      "question": "Qual o volume médio de negociação do RIOT34 na B3?",
+      "answer": "O volume médio diário do RIOT34 nos últimos 3 meses até 30/10/2026 foi de R$ 810.660,00. Esse valor indica a liquidez do ativo na B3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do RIOT34 lado a lado com o S&P 500, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o RIOT34 atingir o preço que você definiu, útil para acompanhar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do RIOT34 junto com outros ativos em uma única visão, incluindo ações, BDRs e fundos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Outra mineradora brasileira, exposta a commodities como minério de ferro e cobre, similar à Rio Tinto."
+      },
+      {
+        "ticker": "FCXO34",
+        "list": "bdrs",
+        "reason": "BDR de outra mineradora global (Freeport-McMoRan), com exposição a cobre e outros metais."
+      },
+      {
+        "ticker": "GDX",
+        "list": "us-etfs",
+        "reason": "ETF de mineradoras de ouro, relacionado ao setor de mineração, mas com foco em metais preciosos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RIOT34",
+      "url": "https://finance.yahoo.com/quote/RIOT34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: RIO TINTO, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52450/RIOT/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Rio Tinto",
+      "url": "https://www.wikidata.org/wiki/Q821293",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Rio Tinto (corporation)",
+      "url": "https://en.wikipedia.org/wiki/Rio_Tinto_(corporation)",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Grupo Rio Tinto",
+      "url": "https://pt.wikipedia.org/wiki/Grupo_Rio_Tinto",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

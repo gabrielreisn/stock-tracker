@@ -1,0 +1,299 @@
+{
+  "ticker": "RWM",
+  "slug": "rwm",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RWM: ETF inverso do Russell 2000",
+    "description": "RWM é o ProShares Short Russell2000, um ETF que busca retornos diários opostos ao índice Russell 2000.",
+    "h1": "RWM: ProShares Short Russell2000",
+    "canonicalPath": "/etfs/rwm",
+    "keywords": [
+      "RWM",
+      "ProShares Short Russell2000",
+      "ETF inverso",
+      "Russell 2000",
+      "investir em ETFs americanos",
+      "ETF de small caps"
+    ]
+  },
+  "summary": "RWM é o ProShares Short Russell2000, um ETF que busca retornos diários opostos ao índice Russell 2000. Emitido pela ProShares, teve seu primeiro pregão em 25/01/2007. Em 29/10/2026, a cota valia US$ 14,15, com rentabilidade total de -11,34% nos últimos 12 meses. O ativo distribui proventos, com dividend yield de 3,37% no mesmo período.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "ProShares Short Russell2000",
+    "ticker": "ARCX RWM",
+    "foundingDate": "2007-01-25",
+    "provider": {
+      "name": "ProShares",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/ProShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF inverso do índice Russell 2000",
+    "issuerOrManager": "ProShares",
+    "trackedIndex": "Russell 2000 (inverso)",
+    "name": "ProShares Short Russell2000",
+    "founded": "25/01/2007"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ProShares Short Russell2000",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "25/01/2007",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "-1x o desempenho diário do índice (-100%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 14,15",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,06% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-1,17",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,37%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 468,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RWM",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ProShares Short Russell2000",
+    "currency": "USD",
+    "price": 14.15,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.1134,
+      "3y": -0.3876,
+      "5y": -0.1947,
+      "10y": -0.6964
+    },
+    "volatility1y": 0.1806,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.4368,
+      "from": "2023-10-27",
+      "to": "2026-08-14"
+    },
+    "beta1y": {
+      "value": -1.17,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.477,
+      "payments12Months": 4,
+      "yield12Months": 0.0337,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.094
+      }
+    },
+    "avgDailyTradedValue3m": 468175726
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do RWM nos últimos 12 meses foi de 18,06%, um nível moderado para um ETF inverso. O beta de -1,17 contra o S&P 500 indica que, a cada 1% de variação do índice, o RWM tende a variar 1,17% na direção oposta. A maior queda nos últimos 5 anos foi de -43,68%, entre 27/10/2023 e 14/08/2026. Esse padrão é comum para ETFs inversos, que acumulam perdas em mercados estáveis ou em alta devido ao rebalanceamento diário e aos custos. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que notificam quando o ativo atinge um valor definido."
+  },
+  "history": {
+    "overview": "O ProShares Short Russell2000 (RWM) foi lançado em 25/01/2007 pela ProShares, uma emissora americana de ETFs conhecida por produtos inversos e alavancados. A ProShares foi fundada em 2006 a partir do ProFunds Group, que já operava fundos de mercado baixista desde 1997. O RWM foi um dos primeiros ETFs a oferecer exposição inversa ao mercado de pequenas capitalizações dos Estados Unidos, permitindo que investidores apostassem em quedas do índice Russell 2000 sem vender ações na margem. Ao longo dos anos, a ProShares expandiu seu portfólio para incluir outros produtos, como ETFs de criptomoedas, mas o RWM manteve seu foco na proteção contra quedas no segmento de small caps. Para o investidor, o RWM representa uma ferramenta de hedge ou de especulação de curto prazo, com resultados que dependem da performance diária do índice e não de um horizonte de longo prazo.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fundação do ProFunds Group, que introduziu fundos de mercado baixista",
+        "source": 2
+      },
+      {
+        "date": "2006",
+        "event": "Lançamento da marca ProShares e do primeiro ETF inverso",
+        "source": 2
+      },
+      {
+        "date": "2007-01-25",
+        "event": "Primeiro pregão das cotas do RWM na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2021-10",
+        "event": "ProShares lança um ETF que investe em contratos futuros de Bitcoin",
+        "source": 2
+      },
+      {
+        "date": "2023-10-02",
+        "event": "ProShares lança 3 ETFs de contratos futuros de Ethereum nos EUA",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o RWM funciona",
+      "body": "O RWM é um ETF inverso que busca retornos diários opostos ao índice Russell 2000. Isso significa que, se o índice cair 1% em um dia, o RWM tende a subir 1%, e vice-versa. A ProShares, emissora do ativo, utiliza derivativos e técnicas de alavancagem para replicar essa performance inversa. Como o RWM é um produto diário, ele precisa rebalancear sua exposição diariamente para manter a relação inversa com o índice. Em períodos mais longos, o resultado do RWM se afasta do múltiplo exato da queda do índice devido ao efeito da volatilidade e aos custos de manutenção, o que faz com que o ativo seja projetado para uso em estratégias de curto prazo, não para investimentos de longo prazo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do RWM",
+      "body": "O RWM segue o índice Russell 2000, que é mantido pela FTSE Russell e acompanha a performance de 2.000 empresas com menor capitalização de mercado nos Estados Unidos. O índice representa cerca de 5% da capitalização total das empresas públicas americanas, com um valor agregado de aproximadamente US$ 3,5 trilhões em 30/06/2026. A capitalização mediana das empresas do índice é de US$ 1,1 bilhão, com valores variando de US$ 146 milhões a US$ 2,7 bilhões. O índice é reequilibrado anualmente no final de junho, quando novas empresas podem ser incluídas. O RWM, por ser inverso, busca o resultado oposto a esse conjunto de ativos."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no RWM a partir do Brasil",
+      "body": "Para investir no RWM a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso ao mercado de ações dos Estados Unidos. A compra é feita em dólar, o que introduz risco cambial: se o dólar valorizar em relação ao real, o investidor ganha com a cotação, mas se o dólar desvalorizar, o retorno em reais é reduzido. Além disso, é possível buscar exposição ao mesmo índice por meio de BDRs ou ETFs listados na B3, se houver produtos que sigam o Russell 2000 ou seu inverso, embora a liquidez e a disponibilidade possam variar. O risco cambial é um fator que deve ser considerado ao avaliar a rentabilidade final em reais."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RWM",
+      "body": "Até 29/10/2026, o RWM apresentou rentabilidade total de -11,34% nos últimos 12 meses, -38,76% em 3 anos, -19,47% em 5 anos e -69,64% em 10 anos. Esses números refletem a natureza do ativo, que se beneficia de quedas no mercado, mas sofre em mercados estáveis ou em alta. O volume médio negociado por dia nos últimos 3 meses foi de US$ 468,2 milhões. Para comparar o desempenho do RWM com o mercado americano, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RWM",
+      "body": "O principal risco do RWM é a perda de valor em mercados que não caem. Como o ativo é projetado para o curto prazo, a volatilidade e os custos de rebalanceamento podem eroder o patrimônio ao longo do tempo. A maior queda nos últimos 5 anos foi de -43,68%, do pico em 27/10/2023 ao ponto mais baixo em 14/08/2026. A volatilidade anualizada nos últimos 12 meses foi de 18,06%, considerada moderada. O beta de -1,17 indica que o RWM tende a se mover na direção oposta ao S&P 500, com movimentos de magnitude maior que a do índice. Investidores devem estar cientes de que, em mercados de alta, o RWM tende a perder valor, e que a perda máxima é limitada ao preço de compra, mas a perda total é possível se o mercado não cair."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar RWM no app",
+      "body": "Para quem tem RWM na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do RWM lado a lado com o S&P 500, o índice que o RWM busca replicar de forma inversa.\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações para quando o RWM atingir um preço que você definiu, útil para monitorar oscilações em mercados de baixa.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do RWM junto com outros ativos, como o IWM, para avaliar a diversificação da carteira.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Veja a rentabilidade do RWM e o preço médio da sua posição, com a variação do dia e do ano.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a sua posição no RWM e como ele se comporta em relação ao S&P 500."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o RWM?",
+      "answer": "O RWM é o ProShares Short Russell2000, um ETF que busca retornos diários opostos ao índice Russell 2000. Ele é emitido pela ProShares e foi lançado em 25/01/2007. O ativo é projetado para uso em estratégias de curto prazo, não para investimentos de longo prazo."
+    },
+    {
+      "question": "O RWM paga dividendos?",
+      "answer": "Sim, o RWM distribui proventos. Nos 12 meses até 29/10/2026, foram pagos US$ 0,4770 por cota em 4 pagamentos, resultando em um dividend yield de 3,37%. O último pagamento foi de US$ 0,0940 em 23/09/2026. É possível acompanhar os proventos no app, que registra as datas de pagamento e o valor por cota."
+    },
+    {
+      "question": "Qual a diferença entre RWM e IWM?",
+      "answer": "O [IWM](/etfs/iwm) é um ETF que busca replicar a performance do índice Russell 2000, enquanto o RWM busca o resultado inverso. Ou seja, se o IWM sobe quando o índice sobe, o RWM tende a cair. O RWM é projetado para uso em mercados de baixa ou como proteção, enquanto o IWM é um investimento de longo prazo no mercado de small caps."
+    },
+    {
+      "question": "Como investir no RWM a partir do Brasil?",
+      "answer": "Para investir no RWM, o investidor precisa abrir conta em uma corretora que ofereça acesso ao mercado de ações dos Estados Unidos. A compra é feita em dólar, o que introduz risco cambial. É possível buscar exposição ao mesmo índice por meio de BDRs ou ETFs listados na B3, se houver produtos que sigam o Russell 2000 ou seu inverso. O risco cambial deve ser considerado ao avaliar a rentabilidade final em reais."
+    },
+    {
+      "question": "Qual o volume médio negociado do RWM?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses até 29/10/2026 foi de US$ 468,2 milhões. Esse volume indica a liquidez do ativo, que é relevante para investidores que desejam comprar ou vender grandes quantidades sem impactar o preço. A liquidez pode variar ao longo do tempo, e é possível acompanhar o volume no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do RWM lado a lado com o S&P 500, o índice que o RWM busca replicar de forma inversa."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o RWM atingir um preço que você definiu, útil para monitorar oscilações em mercados de baixa."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do RWM junto com outros ativos, como o IWM, para avaliar a diversificação da carteira."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja a rentabilidade do RWM e o preço médio da sua posição, com a variação do dia e do ano."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no RWM e como ele se comporta em relação ao S&P 500."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "ETF que replica o índice Russell 2000, o mesmo que o RWM busca replicar de forma inversa."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, o índice de referência para o beta do RWM."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq 100, outro índice de referência para estratégias de mercado."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, alternativa para investir no mercado americano de forma tradicional."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, outra opção para exposição ao mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RWM",
+      "url": "https://finance.yahoo.com/quote/RWM/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Russell 2000 Index (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Russell_2000_Index",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): ProShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/ProShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Inverse exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Inverse_exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

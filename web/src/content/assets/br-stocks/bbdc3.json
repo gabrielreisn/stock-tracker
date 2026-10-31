@@ -1,0 +1,407 @@
+{
+  "ticker": "BBDC3",
+  "slug": "bbdc3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BBDC3: história, dividendos e volatilidade",
+    "description": "BBDC3 é a ação ordinária do Bradesco. Veja dividend yield de 11,46%, volatilidade de 37,19%, histórico desde 1943 e comparação com Ibovespa no app.",
+    "h1": "BBDC3: Banco Bradesco S.A. (Ação Ordinária)",
+    "canonicalPath": "/acoes/bbdc3",
+    "keywords": [
+      "BBDC3",
+      "Bradesco ação",
+      "dividendos BBDC3",
+      "volatilidade BBDC3",
+      "história Bradesco",
+      "ações de banco B3",
+      "BBDC3 vs BBDC4",
+      "proventos Bradesco"
+    ]
+  },
+  "summary": "BBDC3 é a ação ordinária do Banco Bradesco S.A., o segundo maior banco privado do Brasil. A instituição atua em operações bancárias gerais, incluindo câmbio, e possui sede em Osasco (SP). Em 30/10/2026, a ação cotava a R$ 12,79, com dividend yield de 11,46% nos últimos 12 meses. O Bradesco mantém um programa de recompra de ações e realiza pagamentos intermediários de juros sobre o capital próprio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Bradesco",
+    "legalName": "BANCO BRADESCO S.A.",
+    "ticker": "BVMF BBDC3",
+    "isin": "BRBBDCACNOR1",
+    "taxId": "60.746.948/0001-12",
+    "foundingDate": "1943-03-02",
+    "address": {
+      "locality": "Osasco",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.bradesco.com.br",
+    "wikidata": "Q806181",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q806181",
+      "https://pt.wikipedia.org/wiki/Bradesco",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/906/BBDC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Bradesco",
+    "legalName": "BANCO BRADESCO S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Financeiro",
+    "segment": "Bancos",
+    "founded": "02/03/1943",
+    "listedSince": "26/11/1946",
+    "headquarters": "Osasco (SP)",
+    "website": "https://www.bradesco.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "BANCO BRADESCO S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "60.746.948/0001-12",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Bancos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "02/03/1943",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Osasco (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "26/11/1946",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "BBDC3, BBDC4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 12,79",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "37,19% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,37",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,46%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BBDC3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Banco Bradesco S.A.",
+    "currency": "BRL",
+    "price": 12.79,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0943,
+      "3y": 0.3782,
+      "5y": 0.1892,
+      "10y": 0.4057
+    },
+    "volatility1y": 0.3719,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.349,
+      "from": "2026-10-06",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.37,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.4658,
+      "payments12Months": 16,
+      "yield12Months": 0.1146,
+      "lastPayment": {
+        "date": "2026-10-14",
+        "amount": 0.323859
+      }
+    },
+    "avgDailyTradedValue3m": 207172760
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 37,19% coloca a BBDC3 em nível alto de oscilação. A maior queda em 5 anos foi de -34,90%, entre 06/10/2026 e 30/10/2026. Para acompanhar oscilações e definir pontos de referência, os [alertas de preço](/recursos/alertas-de-preco) notificam quando o ativo atinge um valor escolhido, sem sugerir operações. A [carteira consolidada](/recursos/carteira-consolidada) permite visualizar como a BBDC3 se comporta junto a outros ativos, ajudando a avaliar a diversificação."
+  },
+  "history": {
+    "overview": "Fundado em 1943 por Amador Aguiar, o Bradesco nasceu da Casa Bancária Almeida & Cia., em Marília (SP). A estratégia inicial focava em pequenos comerciantes e funcionários públicos, diferindo dos bancos que atendiam apenas grandes proprietários de terra. Em 1946, a matriz foi transferida para São Paulo e as ações começaram a ser negociadas na bolsa. A expansão acelerou na década de 1960, com a aquisição de 17 bancos e a construção da sede em Osasco, inaugurada em 1959. Em 1983, adquiriu o Grupo Atlântica Boavista, originando a Bradesco Seguros. Em 2010, tornou-se o único banco privado presente em todos os municípios brasileiros. Em 2021, os ativos totais somavam R$ 1,7 trilhão e o patrimônio líquido, R$ 147 bilhões, com 36,3 milhões de clientes correntistas.",
+    "timeline": [
+      {
+        "date": "1943-03-02",
+        "event": "Constituição da companhia BANCO BRADESCO S.A.",
+        "source": 2
+      },
+      {
+        "date": "1946-11-26",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2026-02-05",
+        "event": "Publicação de Guidance pela administração",
+        "source": 12
+      },
+      {
+        "date": "2026-02-27",
+        "event": "Reorganização societária para consolidar os negócios de saúde na Odontoprev",
+        "source": 11
+      },
+      {
+        "date": "2026-03-25",
+        "event": "Pagamento de Juros sobre o Capital Próprio Intermediários",
+        "source": 10
+      },
+      {
+        "date": "2026-06-23",
+        "event": "Aprovação de proposta para pagamento de juros sobre o capital próprio intermediários",
+        "source": 9
+      },
+      {
+        "date": "2026-07-29",
+        "event": "Aumento do Capital Social mediante subscrição particular de ações",
+        "source": 8
+      },
+      {
+        "date": "2026-09-30",
+        "event": "Pagamento de juros sobre o capital próprio intermediários",
+        "source": 7
+      },
+      {
+        "date": "2026-10-08",
+        "event": "Homologação do Aumento de Capital pelo Banco Central do Brasil",
+        "source": 6
+      },
+      {
+        "date": "2026-10-22",
+        "event": "Renovação do Programa de Recompra de Ações de própria emissão",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Bradesco ganha dinheiro",
+      "body": "O Banco Bradesco S.A. pratica operações bancárias em geral, inclusive câmbio, conforme classificação da B3 e da CVM. A instituição atua no segmento de bancos, dentro do setor financeiro. Em 2021, o banco relatou 2,6 trilhões de reais em recursos captados e administrados, com 36,3 milhões de clientes correntistas e 775 mil acionistas e investidores. A rede de atendimento inclui 2.947 agências, 39.100 correspondentes bancários e 50.807 pontos de autoatendimento, sendo 24.281 pelo Banco24Horas. O banco possui atuação internacional, com agências em Nova Iorque e Grand Cayman, além de escritório em Londres."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Bradesco",
+      "body": "O controle acionário do Bradesco é privado, segundo a CVM. As ações são negociadas na B3 sob os códigos BBDC3 (ações ordinárias) e [BBDC4](/acoes/bbdc4) (ações preferenciais). A ação ordinária (ON) confere direito a voto em assembleias gerais, enquanto a ação preferencial (PN) possui preferência no recebimento de proventos, mas geralmente não tem direito a voto. O segmento de listagem é o Nível 1. A diferença entre as classes reside nos direitos de governança e prioridade na distribuição de lucros, sem implicar necessariamente em maior ou menor risco de mercado."
+    },
+    {
+      "id": "proventos",
+      "heading": "BBDC3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a BBDC3 distribuiu R$ 1,4658 por ação em 16 pagamentos, resultando em um dividend yield de 11,46%. O último pagamento registrado foi de R$ 0,3239 em 14/10/2026. A companhia realizou pagamentos de juros sobre o capital próprio intermediários em 25/03/2026 e 30/09/2026, com homologação de aumento de capital pelo Banco Central em 08/10/2026. É possível acompanhar a data de pagamento e a data com dos proventos no [recursos de proventos](/recursos/proventos) do app, multiplicados pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da BBDC3",
+      "body": "A rentabilidade total da BBDC3, incluindo proventos, foi de -9,43% nos 12 meses até 30/10/2026. No período de 3 anos, o retorno foi de 37,82%, e de 18,92% em 5 anos. Em 10 anos, a rentabilidade acumulada foi de 40,57%. O volume médio negociado por dia nos últimos 3 meses foi de R$ 207,2 milhões. Para comparar esses resultados com o Ibovespa, o CDI ou o IPCA, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da BBDC3",
+      "body": "A volatilidade anualizada da BBDC3 nos últimos 12 meses foi de 37,19%, classificada como nível alto. A maior queda nos últimos 5 anos foi de -34,90%, ocorrida do pico em 06/10/2026 ao ponto mais baixo em 30/10/2026. Riscos setoriais incluem a sensibilidade a mudanças na taxa de juros, regulação bancária e crédito. O [monitor do FGC](/recursos/monitor-do-fgc) ajuda a entender a exposição à garantia do Fundo Garantidor de Créditos em conglomerados financeiros, embora não se aplique diretamente à ação, mas sim aos depósitos mantidos no banco."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BBDC3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a BBDC3 realizou 16 pagamentos, totalizando R$ 1,4658 por ação, com dividend yield de 11,46%. O último pagamento foi de R$ 0,3239 em 14/10/2026. Os [proventos no app](/recursos/proventos) detalham cada pagamento com data com e data de pagamento."
+    },
+    {
+      "question": "Qual a diferença entre BBDC3 e BBDC4?",
+      "answer": "BBDC3 é a ação ordinária, com direito a voto em assembleias. BBDC4 é a ação preferencial, com prioridade no recebimento de proventos, mas sem direito a voto. Ambas são emitidas pelo Banco Bradesco S.A. e negociadas na B3. A [comparação com índices](/recursos/comparacao-com-indices) permite avaliar o desempenho de cada classe em relação ao Ibovespa."
+    },
+    {
+      "question": "BBDC3 é ação de banco?",
+      "answer": "Sim. BBDC3 é a ação ordinária do Banco Bradesco S.A., classificado pela B3 no setor Financeiro, segmento Bancos. A atividade principal é a prática de operações bancárias em geral, inclusive câmbio. O [monitor do FGC](/recursos/monitor-do-fgc) é relevante para quem mantém depósitos em bancos, mas não se aplica à ação em si."
+    },
+    {
+      "question": "Qual a volatilidade da BBDC3?",
+      "answer": "A volatilidade anualizada nos últimos 12 meses é de 37,19%, nível alto. O beta de 1,37 indica maior sensibilidade ao Ibovespa. A maior queda em 5 anos foi de -34,90%. Os [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar oscilações sem indicar operações."
+    },
+    {
+      "question": "O Bradesco faz recompra de ações?",
+      "answer": "Sim. Em 22/10/2026, a companhia renovou o Programa de Recompra de Ações de própria emissão. Em 08/10/2026, houve homologação de aumento de capital pelo Banco Central. Esses eventos são registrados em fatos relevantes na CVM. A [carteira consolidada](/recursos/carteira-consolidada) reflete mudanças na quantidade de ações após recompras ou aumentos de capital."
+    },
+    {
+      "question": "Como acompanhar a BBDC3 no app?",
+      "answer": "O [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a posição em BBDC3, com base nos seus dados. O [widget na barra de menus](/recursos/widget-da-barra-de-menus) mostra o gráfico do dia e as posições com um clique, facilitando o acompanhamento durante a sessão da B3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os 16 pagamentos de R$ 1,4658 por ação da BBDC3 nos últimos 12 meses, com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com Ibovespa",
+        "context": "Compare a rentabilidade de -9,43% em 12 meses da BBDC3 com o Ibovespa, CDI e IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a BBDC3 atingir um preço escolhido, útil dada a volatilidade de 37,19% e a queda de -34,90% em 5 anos."
+      },
+      {
+        "feature": "monitor-do-fgc",
+        "anchor": "monitor do FGC",
+        "context": "Acompanhe quanto da garantia do FGC você usa em conglomerados financeiros, relevante para quem detém ações de bancos como a BBDC3."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a alocação da BBDC3 junto a outros ativos, avaliando a diversificação e o impacto na carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial do mesmo banco, com prioridade em proventos, para comparação de classes."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial do Itaú Unibanco, principal concorrente no setor bancário privado."
+      },
+      {
+        "ticker": "BBAS3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária do Banco do Brasil, para comparação entre bancos públicos e privados."
+      },
+      {
+        "ticker": "SANB11",
+        "list": "br-stocks",
+        "reason": "Ação preferencial do Banco Santander (Brasil), outro grande banco no segmento."
+      },
+      {
+        "ticker": "BPAC11",
+        "list": "br-stocks",
+        "reason": "Ação preferencial do Banco BTG Pactual, para análise de pares no setor financeiro."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BBDC3",
+      "url": "https://finance.yahoo.com/quote/BBDC3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BRADESCO, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/906/BBDC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, BANCO BRADESCO S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Bradesco",
+      "url": "https://www.wikidata.org/wiki/Q806181",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Bradesco",
+      "url": "https://pt.wikipedia.org/wiki/Bradesco",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/10/2026, “Renovação do Programa de Recompra de Ações de própria emissão”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1579530&numSequencia=1104236&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/10/2026, “Homologação do Aumento de Capital pelo Banco Central do Brasil, com a consequente atualização do Fato Relevante de 30 de setembro de 2026, que declara Juros sobre o Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1575663&numSequencia=1100369&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/09/2026, “Pagamento de juros sobre o capital próprio intermediários”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1572956&numSequencia=1097662&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/07/2026, “Aumento do Capital Social mediante subscrição particular de ações e Antecipação de Pagamento de Juros sobre Capital Próprio declarados em 25.3.2026 e 23.6.2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1549485&numSequencia=1074191&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/06/2026, “Aprovação de proposta para pagamento de juros sobre o capital próprio intermediários”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1537624&numSequencia=1062330&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/03/2026, “Pagamento de Juros sobre o Capital Próprio Intermediários”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1495078&numSequencia=1019784&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/02/2026, “Reorganização Societária para Consolidar os Negócios de Saúde da Organização Bradesco na Odontoprev”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1482951&numSequencia=1007657&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/02/2026, “Guidance”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473839&numSequencia=998545&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

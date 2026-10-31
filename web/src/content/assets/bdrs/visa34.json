@@ -1,0 +1,284 @@
+{
+  "ticker": "VISA34",
+  "slug": "visa34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VISA34: BDR da Visa, dividendos e volatilidade",
+    "description": "Conheça o VISA34, BDR da Visa Inc. na B3. Veja dividendos, rentabilidade, riscos cambiais e como acompanhar o ativo no app.",
+    "h1": "VISA34: BDR da Visa Inc.",
+    "canonicalPath": "/bdrs/visa34",
+    "keywords": [
+      "VISA34",
+      "BDR Visa",
+      "Visa Inc B3",
+      "dividendos VISA34",
+      "volatilidade VISA34",
+      "BDR nível I",
+      "ações de pagamentos"
+    ]
+  },
+  "summary": "VISA34 é o BDR nível I da Visa Inc., empresa norte-americana de serviços de pagamentos que processa transações de cartões de crédito, débito e pré-pagos. Listado na B3 desde 2011, o ativo rendeu 21,84% em 12 meses até 29/10/2026. A Visa não emite cartões, mas fornece a infraestrutura para que instituições financeiras operem esses produtos.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Visa",
+    "legalName": "VISA INC.",
+    "ticker": "BVMF VISA34",
+    "foundingDate": "1958",
+    "website": "https://corporate.visa.com/",
+    "wikidata": "Q328840",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q328840",
+      "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "https://pt.wikipedia.org/wiki/Visa",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50385/VISA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Visa",
+    "legalName": "VISA INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1958",
+    "listedSince": "30/08/2011",
+    "headquarters": "Foster City, Mission Rock",
+    "website": "https://corporate.visa.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "VISA INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: V",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Foster City, Mission Rock",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1958",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "30/08/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 110,61",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "29,02% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,44%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VISA34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Visa Inc.",
+    "currency": "BRL",
+    "price": 110.61,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2184,
+      "3y": 0.9196,
+      "5y": 0.8891,
+      "10y": 7.9995
+    },
+    "volatility1y": 0.2902,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2745,
+      "from": "2025-02-28",
+      "to": "2026-04-27"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.4842,
+      "payments12Months": 4,
+      "yield12Months": 0.0044,
+      "lastPayment": {
+        "date": "2026-08-11",
+        "amount": 0.120538
+      }
+    },
+    "avgDailyTradedValue3m": 2513201
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do VISA34 nos últimos 12 meses é de 29,02%, um nível considerado alto. A maior queda em 5 anos foi de -27,45%, entre 28/02/2025 e 27/04/2026. O beta do ativo não está disponível nos dados atuais. Como o VISA34 é um BDR, seu desempenho é influenciado tanto pela volatilidade da ação original da Visa quanto pela variação do câmbio. Para acompanhar a evolução do preço e definir pontos de atenção, utilize os [alertas de preço](/recursos/alertas-de-preco) disponíveis no app."
+  },
+  "history": {
+    "overview": "A história da Visa começa em 1958, quando o Bank of America lançou o BankAmericard em Fresno, Califórnia. O projeto, liderado por Joseph P. Williams, foi a primeira distribuição em massa bem-sucedida de cartões de crédito não solicitados. Inicialmente, o programa enfrentou alta inadimplência e perdas, mas foi reestruturado e tornou-se lucrativo em 1961. Em 1966, para competir com o Master Charge (atual Mastercard), o Bank of America começou a licenciar o sistema para outros bancos. Em 1970, o controle foi transferido para as instituições emissoras, criando a National BankAmericard, que adotou o nome Visa em 1976. Hoje, a empresa opera a rede VisaNet, que processa a maior parte das transações de cartão do mundo fora da China. O BDR VISA34 permite a negociação dessas ações na B3 desde 30 de agosto de 2011, oferecendo exposição à empresa sem a necessidade de conta no exterior.",
+    "timeline": [
+      {
+        "date": "1958",
+        "event": "Fundação da empresa, originada do programa BankAmericard do Bank of America.",
+        "source": 2
+      },
+      {
+        "date": "1976",
+        "event": "A National BankAmericard adota o nome Visa.",
+        "source": 3
+      },
+      {
+        "date": "2011-08-30",
+        "event": "Listagem do BDR VISA34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Visa ganha dinheiro",
+      "body": "A Visa Inc. é uma multinacional de serviços de pagamentos que facilita transferências eletrônicas de fundos globalmente. A empresa não emite cartões, não concede crédito nem define taxas de juros para os consumidores. Em vez disso, ela fornece a infraestrutura e a marca para que instituições financeiras ofereçam programas de crédito, débito e pré-pagos. Em 2025, a rede VisaNet processou 257,5 bilhões de transações no valor de US$ 14,2 trilhões. A Visa é a segunda maior organização de pagamentos por cartão do mundo, atrás apenas da China UnionPay, mas mantém a posição dominante no restante do mercado global."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR VISA34",
+      "body": "O VISA34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Visa Inc., que são listadas na Bolsa de Valores de Nova York sob o ticker V. O preço do BDR acompanha a cotação da ação original nos Estados Unidos e a variação do câmbio entre o dólar e o real. O BDR foi listado na B3 em 30 de agosto de 2011, permitindo que investidores brasileiros tenham exposição à empresa sem a necessidade de abrir conta em corretoras internacionais."
+    },
+    {
+      "id": "proventos",
+      "heading": "VISA34 paga dividendos?",
+      "body": "Sim, o VISA34 distribui proventos. Nos 12 meses até 29/10/2026, foram pagos R$ 0,4842 por BDR em 4 pagamentos, resultando em um dividend yield de 0,44%. O último pagamento registrado foi de R$ 0,1205 em 11/08/2026. É importante lembrar que a Visa paga dividendos em dólares, e o valor recebido pelo investidor em reais depende da cotação do câmbio na data do pagamento. Você pode acompanhar o histórico completo de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para monitorar a renda gerada."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VISA34",
+      "body": "Até 29/10/2026, o VISA34 apresentou rentabilidade total de 21,84% em 12 meses, 91,96% em 3 anos, 88,91% em 5 anos e 799,95% em 10 anos. Esses números incluem a variação do câmbio, pois o BDR é cotado em reais e lastreado em uma ação em dólar. Para entender como esse desempenho se compara com outros mercados, utilize a [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade ao lado do S&P 500 e do CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VISA34",
+      "body": "O principal risco do VISA34 é o cambial, pois a variação do dólar em relação ao real impacta diretamente o preço do BDR. A volatilidade anualizada do ativo nos últimos 12 meses foi de 29,02%, classificada como alta. A maior queda nos últimos 5 anos foi de -27,45%, ocorrida entre 28/02/2025 e 27/04/2026. Além disso, a liquidez do BDR na B3 é menor que a da ação original nos EUA, com volume médio de R$ 2,5 milhões por dia nos últimos 3 meses. A empresa também enfrenta riscos regulatórios e de concorrência no setor de pagamentos. Para monitorar oscilações, é possível configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VISA34 paga dividendos?",
+      "answer": "Sim, o VISA34 distribui proventos. Nos 12 meses até 29/10/2026, foram pagos R$ 0,4842 por BDR, com um dividend yield de 0,44%. O último pagamento foi de R$ 0,1205 em 11/08/2026. Como a Visa é uma empresa americana, os dividendos são pagos em dólares e convertidos para reais na data do pagamento."
+    },
+    {
+      "question": "O que é o BDR VISA34?",
+      "answer": "VISA34 é um BDR não patrocinado de nível I que representa ações da Visa Inc., empresa de pagamentos listada na Bolsa de Valores de Nova York (ticker V). Negociado na B3 em reais desde 2011, ele permite que investidores brasileiros tenham exposição à empresa sem a necessidade de conta no exterior."
+    },
+    {
+      "question": "Qual a diferença entre VISA34 e a ação V nos EUA?",
+      "answer": "A ação V é negociada na Bolsa de Valores de Nova York em dólares, enquanto o VISA34 é um BDR negociado na B3 em reais. O preço do VISA34 acompanha a cotação da ação V e a variação do câmbio. O BDR é uma forma de investir na Visa sem precisar de conta em corretoras internacionais."
+    },
+    {
+      "question": "Qual a liquidez do VISA34 na B3?",
+      "answer": "O volume médio negociado por dia do VISA34 nos últimos 3 meses é de R$ 2,5 milhões. Isso indica uma liquidez moderada, menor que a da ação original nos EUA. Investidores que buscam liquidez imediata devem considerar esse fator ao negociar o BDR."
+    },
+    {
+      "question": "Como acompanhar o desempenho do VISA34?",
+      "answer": "Você pode acompanhar o desempenho do VISA34 no app, que mostra a rentabilidade da carteira e a variação do ativo. A [comparação com índices](/recursos/comparacao-com-indices) permite visualizar o desempenho do VISA34 ao lado do S&P 500 e do CDI, ajudando a entender o contexto do ativo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP do VISA34 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do VISA34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para ser notificado quando o VISA34 atingir o valor que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VISA34 junto com suas outras posições em ações, BDRs e renda fixa em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MSCD34",
+        "list": "bdrs",
+        "reason": "Mastercard Incorporated, principal concorrente da Visa no setor de pagamentos."
+      },
+      {
+        "ticker": "PYPL34",
+        "list": "bdrs",
+        "reason": "PayPal Holdings, empresa de pagamentos digitais que compete com a Visa em transações online."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar o desempenho do VISA34 com o mercado americano."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "Apple Inc., outro BDR de empresa americana de tecnologia, com exposição similar ao câmbio."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VISA34",
+      "url": "https://finance.yahoo.com/quote/VISA34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: VISA INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50385/VISA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Visa",
+      "url": "https://www.wikidata.org/wiki/Q328840",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Visa Inc.",
+      "url": "https://en.wikipedia.org/wiki/Visa_Inc.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Visa",
+      "url": "https://pt.wikipedia.org/wiki/Visa",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

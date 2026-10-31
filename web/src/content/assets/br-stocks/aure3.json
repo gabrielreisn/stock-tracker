@@ -1,0 +1,377 @@
+{
+  "ticker": "AURE3",
+  "slug": "aure3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AURE3: história, proventos e volatilidade",
+    "description": "AURE3 é a ação ordinária da Auren Energia, maior comercializadora de energia do Brasil. Veja desempenho, volatilidade de 49,22% e proventos até 30/10/2026.",
+    "h1": "AURE3: Auren Energia S.A.",
+    "canonicalPath": "/acoes/aure3",
+    "keywords": [
+      "AURE3",
+      "Auren Energia",
+      "ação energia elétrica",
+      "dividendos AURE3",
+      "volatilidade AURE3",
+      "Novo Mercado",
+      "geração renovável"
+    ]
+  },
+  "summary": "AURE3 é a ação ordinária da Auren Energia S.A., empresa brasileira do setor de utilidade pública e energia elétrica. A companhia atua na geração, transmissão e comercialização de energia renovável, sendo descrita como a maior comercializadora do país. Com sede em São Paulo e listagem no Novo Mercado, a AURE3 fechou em R$ 10,87 em 30/10/2026, apresentando rentabilidade total de 2,26% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Auren Energia S.A.",
+    "legalName": "AUREN ENERGIA S.A",
+    "ticker": "BVMF AURE3",
+    "isin": "BRAUREACNOR9",
+    "taxId": "28.594.234/0001-23",
+    "foundingDate": "2017-08-01",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/Auren_Energia",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/26620/AURE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Auren Energia S.A.",
+    "legalName": "AUREN ENERGIA S.A",
+    "type": "Ação ordinária (ON)",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "01/08/2017",
+    "listedSince": "28/03/2022",
+    "headquarters": "São Paulo (SP)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "AUREN ENERGIA S.A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "28.594.234/0001-23",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "01/08/2017",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "28/03/2022",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "AURE3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 10,87",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "49,22% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,61",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 58,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AURE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Auren Energia S.A.",
+    "currency": "BRL",
+    "price": 10.87,
+    "historyStarts": "2022-03-28",
+    "returns": {
+      "1y": 0.0226,
+      "3y": -0.0545,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.4922,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4421,
+      "from": "2023-12-05",
+      "to": "2025-04-02"
+    },
+    "beta1y": {
+      "value": 1.61,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2025-04-25",
+        "amount": 0.057033
+      }
+    },
+    "avgDailyTradedValue3m": 58183009
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A AURE3 apresenta volatilidade anualizada de 49,22% nos últimos 12 meses, nível considerado muito alto. A maior queda em 5 anos foi de -44,21%, entre 05/12/2023 e 02/04/2025. Para ativos do setor de energia, essa volatilidade reflete a sensibilidade a fatores climáticos, regulatórios e de execução de projetos. Investidores podem usar [alertas de preço](/recursos/alertas-de-preco) para acompanhar oscilações e a [carteira consolidada](/recursos/carteira-consolidada) para avaliar a alocação desse ativo em relação a outros."
+  },
+  "history": {
+    "overview": "A Auren Energia S.A. tem sua origem na Centrais Elétricas do Estado de São Paulo (CESP), criada em 1966 pelo governo paulista para centralizar o setor energético do estado. Após um longo processo de privatização iniciado em 1996, o controle acionário da CESP foi arrematado em 2018 pelo consórcio São Paulo Energia, formado pela Votorantim Energia e o Canada Pension Plan Investment Board (CPPIB), por R$ 1,7 bilhão. Em 28 de março de 2022, a CESP foi incorporada pela VTRM Energia, joint venture dos mesmos controladores, dando origem à Auren Energia e iniciando a cotação das ações na B3. A empresa consolidou-se com um parque gerador de 3,02 GW, 100% renovável, e em 2024 anunciou a aquisição da AES Brasil, operação que resultaria na terceira maior geradora do país. Recentemente, a companhia tem focado em reorganizações societárias e programas de recompra de ações.",
+    "timeline": [
+      {
+        "date": "2017-08-01",
+        "event": "Constituição da Auren Energia S.A.",
+        "source": 2
+      },
+      {
+        "date": "2022-02-25",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2022-03-28",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-10-15",
+        "event": "Indenização de Bens Reversíveis",
+        "source": 9
+      },
+      {
+        "date": "2025-11-24",
+        "event": "2º Programa de Recompra de Ações",
+        "source": 8
+      },
+      {
+        "date": "2026-04-14",
+        "event": "Reorganização Societária Subsidiárias",
+        "source": 7
+      },
+      {
+        "date": "2026-06-24",
+        "event": "Reorganização Societária | 2ª Fase",
+        "source": 6
+      },
+      {
+        "date": "2026-09-22",
+        "event": "Conversão de Categoria da CESP | Protocolo de Pedido",
+        "source": 5
+      },
+      {
+        "date": "2026-10-19",
+        "event": "3º Programa de Recompra de Ações",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Auren Energia S.A. ganha dinheiro",
+      "body": "A Auren Energia S.A. atua no segmento de energia elétrica, com foco em geração de energia renovável e comercialização. A atividade principal envolve a participação em empresas de geração, transmissão e comercialização de energia elétrica e a prestação de serviços correlatos. A empresa é descrita como a maior comercializadora de energia do Brasil. O parque gerador é 100% renovável, com capacidade instalada de 3.029,5 MW, incluindo usinas hidrelétricas (como Porto Primavera e Machadinho), eólicas (Ventos do Piauí e Araripe) e solares (Sol do Piauí e Sol de Jaíba). Em 2024, a companhia anunciou a compra da AES Brasil, o que resultaria em uma capacidade instalada de 8,8 GW."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Auren Energia S.A.",
+      "body": "O controle acionário da Auren Energia é privado, conforme cadastro da CVM. A empresa está listada no segmento Novo Mercado da B3, o que implica o compromisso com boas práticas de governança corporativa, como o exercício do voto plural (uma ação, um voto) e a distribuição de proventos. A ação negociada sob o código AURE3 é uma ação ordinária (ON), o que confere ao acionista direito a voto em assembleias gerais. A B3 classifica a companhia no setor de Utilidade Pública, segmento de Energia Elétrica. O diretor de relações com investidores é Mateus Gomes Ferreira."
+    },
+    {
+      "id": "proventos",
+      "heading": "AURE3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a AURE3 não distribuiu proventos (dividendos ou JCP) aos acionistas, conforme dados do Yahoo Finance. A ausência de pagamentos recentes contrasta com a prática de algumas empresas do setor, mas é comum em companhias em fase de expansão de capital ou reorganização. A empresa tem realizado programas de recompra de ações, com o 3º programa anunciado em 19/10/2026. Investidores podem acompanhar a história de proventos e a data de pagamento de outros ativos na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da AURE3",
+      "body": "Até 30/10/2026, a AURE3 apresentava rentabilidade total com proventos de 2,26% nos últimos 12 meses e -5,45% nos últimos 3 anos. O preço de fechamento era de R$ 10,87. Para entender o contexto desse desempenho, é útil comparar com índices de referência. A ferramenta de [comparação com índices](/recursos/comparacao-com-indices) permite visualizar a rentabilidade da AURE3 lado a lado com o Ibovespa, CDI e outros benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da AURE3",
+      "body": "A volatilidade anualizada da AURE3 nos últimos 12 meses é de 49,22%, classificada como 'muito alta'. A maior queda nos últimos 5 anos foi de -44,21%, entre o pico em 05/12/2023 e o fundo em 02/04/2025. Riscos setoriais incluem a dependência de fatores climáticos para geração hídrica, mudanças regulatórias no setor elétrico e a execução de grandes projetos de aquisição, como a AES Brasil. A alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos significativos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "AURE3 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, a AURE3 não distribuiu proventos. A empresa tem realizado programas de recompra de ações, com o 3º programa anunciado em 19/10/2026. A ausência de dividendos é comum em empresas em fase de expansão. Acompanhe a história de proventos de outros ativos na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre AURE3 e AURE4?",
+      "answer": "A AURE3 é a ação ordinária (ON) da Auren Energia, que confere direito a voto em assembleias. A AURE4, se existisse, seria a ação preferencial (PN), com preferência na distribuição de proventos, mas sem direito a voto. A Auren Energia está listada no Novo Mercado, o que exige voto plural (uma ação, um voto), o que pode limitar a emissão de ações preferenciais tradicionais."
+    },
+    {
+      "question": "O que a Auren Energia faz?",
+      "answer": "A Auren Energia atua na geração, transmissão e comercialização de energia elétrica renovável. É a maior comercializadora de energia do Brasil, com parque gerador de 3.029,5 MW, 100% renovável, incluindo usinas hídricas, eólicas e solares. A empresa anunciou a aquisição da AES Brasil em 2024, o que resultaria em 8,8 GW de capacidade instalada."
+    },
+    {
+      "question": "Qual a volatilidade da AURE3?",
+      "answer": "A volatilidade anualizada da AURE3 nos últimos 12 meses é de 49,22%, nível muito alto. A maior queda em 5 anos foi de -44,21%, entre 05/12/2023 e 02/04/2025. Acompanhe oscilações com [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "A AURE3 está no Novo Mercado?",
+      "answer": "Sim, a Auren Energia está listada no segmento Novo Mercado da B3, o que implica compromisso com boas práticas de governança, como voto plural (uma ação, um voto) e distribuição de proventos. A ação AURE3 é ordinária (ON), com direito a voto em assembleias."
+    },
+    {
+      "question": "Como acompanhar a AURE3 no app?",
+      "answer": "Você pode acompanhar a AURE3 com [alertas de preço](/recursos/alertas-de-preco) para receber notificações em níveis específicos, e usar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação desse ativo junto com outros. O [assistente de IA](/recursos/assistente-de-ia) permite perguntar sobre a sua posição em português."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja a história de proventos da AURE3 e de outros ativos, com data de pagamento e multiplicação pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da AURE3 com Ibovespa, CDI e outros benchmarks no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a AURE3 chegar a preços que você definir, útil para acompanhar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Avalie a alocação da AURE3 junto com outras ações, FIIs e renda fixa em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em AURE3 e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "Outra empresa do setor de energia elétrica, com foco em geração e distribuição."
+      },
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de energia elétrica, com atuação em distribuição e geração."
+      },
+      {
+        "ticker": "CPLE3",
+        "list": "br-stocks",
+        "reason": "Companhia Paranaense de Energia, do mesmo setor de utilidade pública e energia elétrica."
+      },
+      {
+        "ticker": "ENGI11",
+        "list": "br-stocks",
+        "reason": "Energisa, empresa do setor de energia elétrica, com foco em distribuição."
+      },
+      {
+        "ticker": "CPFE3",
+        "list": "br-stocks",
+        "reason": "CPFL Energia, empresa do setor de energia elétrica, com atuação em geração e distribuição."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AURE3",
+      "url": "https://finance.yahoo.com/quote/AURE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: AUREN, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/26620/AURE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, AUREN ENERGIA S.A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Auren Energia",
+      "url": "https://pt.wikipedia.org/wiki/Auren_Energia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/10/2026, “3º Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1578386&numSequencia=1103092&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/09/2026, “Conversão de Categoria da CESP | Protocolo de Pedido”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1570616&numSequencia=1095322&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/06/2026, “Reorganização Societária | 2ª Fase”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538165&numSequencia=1062871&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/04/2026, “Reorganização Societária Subsidiárias”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504942&numSequencia=1029648&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/11/2025, “2º Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1448812&numSequencia=973524&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/10/2025, “Indenização de Bens Reversíveis”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1432805&numSequencia=957517&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

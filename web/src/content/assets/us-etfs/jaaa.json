@@ -1,0 +1,284 @@
+{
+  "ticker": "JAAA",
+  "slug": "jaaa",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "JAAA: ETF de CLOs AAA, dividendos e volatilidade",
+    "description": "JAAA é o Janus Henderson AAA CLO ETF, com dividend yield de 5,26% e volatilidade de 0,71% até 30/10/2026. Veja história, desempenho e riscos do ativo.",
+    "h1": "JAAA: Janus Henderson AAA CLO ETF",
+    "canonicalPath": "/etfs/jaaa",
+    "keywords": [
+      "JAAA",
+      "Janus Henderson AAA CLO ETF",
+      "ETF de CLOs",
+      "tranche AAA",
+      "dividend yield JAAA",
+      "volatilidade JAAA",
+      "investir em JAAA do Brasil"
+    ]
+  },
+  "summary": "JAAA é o Janus Henderson AAA CLO ETF, um fundo de índice que investe em tranches de AAA de collateralized loan obligations (CLOs). O ativo foi lançado em 19/10/2020 e, até 30/10/2026, apresentava preço de US$ 50,44. Nos 12 meses até essa data, a rentabilidade total com proventos foi de 4,85%, com dividend yield de 5,26%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Janus Henderson AAA CLO ETF",
+    "ticker": "ARCX JAAA",
+    "foundingDate": "2020-10-19",
+    "provider": {
+      "name": "Janus Henderson",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Janus_Henderson"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de CLOs AAA",
+    "issuerOrManager": "Janus Henderson",
+    "name": "Janus Henderson AAA CLO ETF",
+    "founded": "19/10/2020"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Janus Henderson AAA CLO ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "19/10/2020",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 50,44",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "0,71% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,02",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "5,26%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 363,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "JAAA",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Janus Henderson AAA CLO ETF",
+    "currency": "USD",
+    "price": 50.44,
+    "historyStarts": "2020-10-19",
+    "returns": {
+      "1y": 0.0485,
+      "3y": 0.1869,
+      "5y": 0.2729,
+      "10y": null
+    },
+    "volatility1y": 0.0071,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.026,
+      "from": "2022-02-04",
+      "to": "2022-07-19"
+    },
+    "beta1y": {
+      "value": 0.02,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.654,
+      "payments12Months": 13,
+      "yield12Months": 0.0526,
+      "lastPayment": {
+        "date": "2026-10-30",
+        "amount": 0.206
+      }
+    },
+    "avgDailyTradedValue3m": 363666976
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do JAAA nos 12 meses até 30/10/2026 foi de 0,71%, nível classificado como baixo. O beta de 0,02 contra o S&P 500 indica que o ativo costuma acompanhar os movimentos do índice em amplitude muito menor, na mesma direção. A maior queda nos últimos 5 anos foi de -2,60%, do pico em 04/02/2022 ao ponto mais baixo em 19/07/2022. Para um ETF de renda fixa de alta qualidade de crédito, esses níveis de volatilidade e beta são consistentes com a natureza protegida da tranche AAA de CLOs. O [widget da barra de menus](/recursos/widget-da-barra-de-menus) permite acompanhar a cotação do ativo durante o pregão sem abrir a página."
+  },
+  "history": {
+    "overview": "O Janus Henderson AAA CLO ETF (JAAA) teve seu primeiro pregão em 19/10/2020. A gestora do fundo, Janus Henderson, é um grupo global de gestão de ativos com sede na City of London, no Reino Unido. A organização tem origem em 1934, quando foi criada para gerir os ativos do financista Alexander Henderson, e evoluiu para Henderson Global Investors. Em 1969, Tom Bailey criou a Janus Capital em Denver, Colorado. A fusão entre Janus Capital Group e Henderson Group foi concluída em maio de 2017, formando a Janus Henderson Group plc, com US$ 331 bilhões sob gestão na época. Desde então, a empresa expandiu sua atuação com aquisições, como a Tabula Investment Management em maio de 2024 e a Victory Park Capital Advisors em agosto de 2024, além de parcerias como a com a Guardian Life Insurance Company of America em abril de 2025.",
+    "timeline": [
+      {
+        "date": "1934",
+        "event": "Fundação da organização que viria a ser a Henderson Global Investors, para gerir os ativos de Alexander Henderson.",
+        "source": 1
+      },
+      {
+        "date": "1969",
+        "event": "Criação da Janus Capital por Tom Bailey em Denver, Colorado.",
+        "source": 1
+      },
+      {
+        "date": "2017-05",
+        "event": "Conclusão da fusão entre Janus Capital Group e Henderson Group, formando a Janus Henderson Group plc.",
+        "source": 1
+      },
+      {
+        "date": "2020-10-19",
+        "event": "Primeiro pregão das cotas do ETF JAAA na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2024-05",
+        "event": "Aquisição da Tabula Investment Management, especializada em ETFs europeus.",
+        "source": 1
+      },
+      {
+        "date": "2024-08",
+        "event": "Aquisição da maioria das ações da Victory Park Capital Advisors, gestora de crédito privado.",
+        "source": 1
+      },
+      {
+        "date": "2025-04",
+        "event": "Parceria com a Guardian Life Insurance Company of America para gerir US$ 45 bilhões em renda fixa.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o JAAA funciona",
+      "body": "O JAAA é um ETF que investe em tranches de AAA de collateralized loan obligations (CLOs). As CLOs são uma forma de securitização em que pagamentos de múltiplos empréstimos de empresas de médio e grande porte são agrupados e distribuídos a diferentes classes de detentores em tranches. A tranche AAA é a de maior qualidade de crédito, recebendo pagamentos após as classes subordinadas, o que a torna mais protegida em cenários de inadimplência. O ETF é gerido pela Janus Henderson, grupo global de gestão de ativos com sede em Londres, e teve seu primeiro pregão em 19/10/2020. O JAAA não é um ativo alavancado ou inverso, portanto não há rebalanceamento diário nem desvio de resultado em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do JAAA",
+      "body": "O JAAA segue a estratégia de investimento em tranches de AAA de CLOs. As fontes não especificam um índice de referência nomeado nem a composição detalhada das carteiras subjacentes. As CLOs são estruturadas com tranches que distribuem risco e retorno, sendo a AAA a mais sênior e protegida. O volume médio negociado por dia nos 3 meses até 30/10/2026 foi de US$ 363,7 milhões, indicando liquidez relevante para o ativo."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no JAAA a partir do Brasil",
+      "body": "Para investir no JAAA a partir do Brasil, o investidor precisa de uma conta em uma corretora que opere no mercado americano, pois o ETF é listado em bolsa nos EUA e negociado em dólar. Alternativamente, é possível buscar BDRs ou ETFs na B3 que repliquem o mesmo índice ou estratégia, se existirem. O principal risco cambial é a variação do dólar em relação ao real: uma valorização do dólar aumenta o retorno em reais, enquanto uma desvalorização reduz o ganho ou amplifica perdas. O risco cambial é independente do desempenho do próprio ETF."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do JAAA",
+      "body": "Até 30/10/2026, o JAAA apresentava preço de US$ 50,44. A rentabilidade total com proventos nos 12 meses até essa data foi de 4,85%; nos 3 anos, 18,69%; e nos 5 anos, 27,29%. O dividend yield nos 12 meses foi de 5,26%, com 13 pagamentos somando US$ 2,6540 por cota. Para comparar esses números com o desempenho do mercado americano, o app oferece a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade do ativo lado a lado com o S&P 500 no mesmo gráfico. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) permite acompanhar a evolução da posição individualmente."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do JAAA",
+      "body": "O principal risco do JAAA está na exposição a CLOs, que dependem do pagamento de empréstimos a empresas de médio e grande porte. Embora a tranche AAA seja a mais protegida, ela ainda está sujeita a perdas em cenários de inadimplência generalizada. A volatilidade anualizada de 12 meses até 30/10/2026 foi de 0,71%, nível classificado como baixo. O beta de 0,02 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice em amplitude muito menor. A maior queda nos últimos 5 anos foi de -2,60%, do pico em 04/02/2022 ao ponto mais baixo em 19/07/2022. O risco cambial também é relevante para investidores brasileiros, pois o ativo é cotado em dólar. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos de cotação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o JAAA?",
+      "answer": "JAAA é o Janus Henderson AAA CLO ETF, um ETF que investe em tranches de AAA de collateralized loan obligations (CLOs). O ativo foi lançado em 19/10/2020 e, até 30/10/2026, apresentava preço de US$ 50,44. A gestora é a Janus Henderson, grupo global de gestão de ativos com sede em Londres."
+    },
+    {
+      "question": "JAAA paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, o JAAA distribuiu US$ 2,6540 por cota em 13 pagamentos, resultando em dividend yield de 5,26%. O último pagamento registrado foi de US$ 0,2060 em 30/10/2026. O app permite acompanhar os proventos de ativos americanos junto com os da carteira brasileira na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual a diferença entre JAAA e outros ETFs de renda fixa?",
+      "answer": "O JAAA investe especificamente em tranches de AAA de CLOs, que são securitizações de empréstimos a empresas. Diferente de ETFs de títulos do Tesouro ou de crédito corporado tradicional, o JAAA tem exposição a um ativo estruturado com tranches de risco. A tranche AAA é a mais protegida, mas ainda sujeita a perdas em cenários de inadimplência generalizada. Para comparar com outros ativos de renda fixa, o app oferece a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Como investir no JAAA a partir do Brasil?",
+      "answer": "É possível investir no JAAA abrindo conta em uma corretora que opere no mercado americano, pois o ETF é negociado em dólar. Alternativamente, o investidor pode buscar BDRs ou ETFs na B3 que repliquem a mesma estratégia, se existirem. O principal risco cambial é a variação do dólar em relação ao real. O app permite conectar contas de corretoras pelo [Open Finance](/recursos/open-finance) para acompanhar as posições."
+    },
+    {
+      "question": "Qual a volatilidade do JAAA?",
+      "answer": "A volatilidade anualizada de 12 meses até 30/10/2026 foi de 0,71%, nível classificado como baixo. O beta de 0,02 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice em amplitude muito menor. A maior queda nos últimos 5 anos foi de -2,60%, do pico em 04/02/2022 ao ponto mais baixo em 19/07/2022. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos de cotação."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o JAAA junto com ações da B3, renda fixa e outros fundos em uma só visão, com valor por classe e alocação."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do JAAA com o S&P 500, CDI e outros índices no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o JAAA chegar ao preço que você escolheu, para acompanhar movimentos de cotação sem ficar olhando a tela."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora pelo Open Finance e confira as posições de JAAA com as quantidades e o preço médio que você tem registrado no app."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, o índice de referência para o beta do JAAA."
+      },
+      {
+        "ticker": "HYG",
+        "list": "us-etfs",
+        "reason": "ETF de crédito corporado de alto rendimento, para comparação com outros ativos de renda fixa de crédito."
+      },
+      {
+        "ticker": "LQD",
+        "list": "us-etfs",
+        "reason": "ETF de crédito corporado de grau de investimento, para comparação com outros ativos de renda fixa de crédito."
+      },
+      {
+        "ticker": "AGG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro americano, para comparação com outros ativos de renda fixa."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de JAAA",
+      "url": "https://finance.yahoo.com/quote/JAAA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Janus Henderson (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Janus_Henderson",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Collateralized loan obligation (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Collateralized_loan_obligation",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

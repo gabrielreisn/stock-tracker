@@ -1,0 +1,321 @@
+{
+  "ticker": "VGIP11",
+  "slug": "vgip11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VGIP11: história, rendimentos e volatilidade",
+    "description": "VGIP11 é FII de papel da Valora, com 14,70% de dividend yield em 12 meses. Veja patrimônio, rentabilidade e riscos do fundo.",
+    "h1": "VGIP11: Valora Cri Índice de Preço FII",
+    "canonicalPath": "/fiis/vgip11",
+    "keywords": [
+      "VGIP11",
+      "Valora Cri FII",
+      "FII de papel",
+      "CRI",
+      "dividend yield VGIP11",
+      "rendimentos VGIP11",
+      "volatilidade VGIP11"
+    ]
+  },
+  "summary": "VGIP11 é a cota do Valora Cri Índice de Preço Fundo de Investimento Imobiliário, um FII de papel que investe preponderantemente em Certificados de Recebíveis Imobiliários (CRI). Fundado em 18/03/2020 e administrado pela BTG Pactual, o fundo tinha patrimônio de R$ 1,08 bilhão e 80.988 cotistas em 09/2026. Nos 12 meses até 29/10/2026, distribuiu R$ 10,29 por cota, gerando um dividend yield de 14,70%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Valora Cri Índice de Preço Fundo de Investimento Imobiliário - FII Responsabilidade Limitada",
+    "legalName": "VALORA CRI ÍNDICE DE PREÇO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF VGIP11",
+    "isin": "BRVGIPCTF002",
+    "taxId": "34.197.811/0001-46",
+    "foundingDate": "2020-03-18",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=34197811000146"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Valora Gestão de Investimentos (gestora) e BTG Pactual Serviços Financeiros S.A",
+    "name": "Valora Cri Índice de Preço Fundo de Investimento Imobiliário - FII Responsabilidade Limitada",
+    "legalName": "VALORA CRI ÍNDICE DE PREÇO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "18/03/2020",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "VALORA CRI ÍNDICE DE PREÇO FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "34.197.811/0001-46",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "18/03/2020",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,08 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "80.988",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 91,64",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 70,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,01% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,20",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,70%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,9 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VGIP11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Valora Cri Indice De Preco Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 70,
+    "historyStarts": "2020-03-20",
+    "returns": {
+      "1y": 0.0674,
+      "3y": 0.1871,
+      "5y": 0.2646,
+      "10y": null
+    },
+    "volatility1y": 0.1701,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2145,
+      "from": "2024-08-08",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.2,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.29,
+      "payments12Months": 12,
+      "yield12Months": 0.147,
+      "lastPayment": {
+        "date": "2026-10-14",
+        "amount": 0.67
+      }
+    },
+    "avgDailyTradedValue3m": 1882393
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do VGIP11 nos últimos 12 meses foi de 17,01%, classificada como moderada 0. O beta de 0,20 contra o Ibovespa indica que o fundo costuma acompanhar os movimentos do índice com amplitude menor, na mesma direção 0. A maior queda nos últimos 5 anos foi de -21,45%, do pico em 08/08/2024 ao ponto mais baixo em 18/12/2024 0. Para FIIs de papel, a volatilidade reflete a sensibilidade às taxas de juros e ao risco de crédito dos CRIs, e a maior queda pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Valora Cri Índice de Preço FII (VGIP11) iniciou suas atividades em 18/03/2020, com o objetivo de investir preponderantemente em Certificados de Recebíveis Imobiliários (CRI), conforme a classificação da ANBIMA como FII de Títulos de Valores Mobiliários com gestão ativa [1, 3]. A estrutura do fundo foi consolidada por meio de ofertas públicas de cotas, com a primeira emissão encerrada na data de início das atividades e outras duas rodadas concluídas em 2020 e 2021 2. O fundo opera com prazo de duração indeterminado e é administrado pela BTG Pactual Serviços Financeiros S.A., enquanto a gestão é conduzida pela Valora Gestão de Investimentos 3. Em setembro de 2026, o portfólio era composto por 48 operações de CRI, totalizando R$ 1,145 bilhão investido, com foco em ativos atrelados ao IPCA 3. A evolução do patrimônio líquido e a distribuição de rendimentos refletem a dinâmica de mercado dos títulos de crédito imobiliário, com a cota patrimonial atingindo R$ 91,64 em 09/2026 1.",
+    "timeline": [
+      {
+        "date": "2020-03-11",
+        "event": "Início da primeira oferta pública de cotas do fundo",
+        "source": 2
+      },
+      {
+        "date": "2020-03-18",
+        "event": "Início das atividades do VGIP11 e encerramento da primeira oferta pública de cotas",
+        "source": 1
+      },
+      {
+        "date": "2020-07-02",
+        "event": "Início da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2020-08-06",
+        "event": "Encerramento da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2021-10-27",
+        "event": "Início da terceira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2021-12-28",
+        "event": "Encerramento da terceira oferta pública de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do VGIP11",
+      "body": "O VGIP11 é classificado pela ANBIMA como FII de Títulos de Valores Mobiliários com gestão ativa, focado no segmento multicategoria [1, 3]. A estratégia consiste no investimento preponderante em Certificados de Recebíveis Imobiliários (CRI), com a carteira de setembro de 2026 alocada em 106,8% do patrimônio líquido em 48 operações diferentes, totalizando R$ 1,145 bilhão 3. A gestão é realizada pela Valora Gestão de Investimentos, com administração e escrituração pela BTG Pactual Serviços Financeiros S.A. 3. O fundo possui prazo de duração indeterminado e público-alvo de investidores em geral [1, 3]."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do VGIP11",
+      "body": "Nos 12 meses até 29/10/2026, o VGIP11 distribuiu R$ 10,29 por cota em 12 pagamentos, resultando em um dividend yield de 14,70% 0. O último rendimento foi de R$ 0,67 por cota, referente a setembro de 2026, com pagamento em 14/10/2026 [0, 3]. A distribuição de rendimentos segue o cronograma de divulgação no 8º dia útil, data ex no 9º dia útil e pagamento no 13º dia útil 3. O valor de R$ 0,67 por cota em setembro de 2026 equivalia a uma rentabilidade líquida de IPCA + 8,4% ao ano com base no valor patrimonial da cota de agosto de 2026 3. É possível acompanhar os proventos e a data de pagamento no app através do recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O VGIP11 realizou 3 ofertas públicas de cotas encerradas, conforme o FNET da B3 2. O patrimônio líquido do fundo era de R$ 1,08 bilhão em 09/2026, com 11.787.247 cotas emitidas e valor patrimonial da cota de R$ 91,64 1. O número de cotistas era de 80.988 em 09/2026 [1, 3]. A taxa de administração no mês de 09/2026 foi de 0,070% sobre o patrimônio, equivalente a 1,00% ao ano, com valor mínimo mensal de R$ 25.000 [1, 3]. A taxa de escrituração é de 0,05% ao ano e a taxa de performance é de 20% sobre o que exceder IPCA + média do yield anual do IMAB5 no semestre civil anterior 3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VGIP11",
+      "body": "A rentabilidade total com proventos do VGIP11 foi de 6,74% nos 12 meses até 29/10/2026, 18,71% em 3 anos e 26,46% em 5 anos 0. A distribuição de rendimentos acumulada de 12 meses (agosto de 2025 a julho de 2026) foi de R$ 10,29 por cota, equivalente a IPCA + 7,4% ao ano 3. A cota patrimonial registrou variação positiva de R$ 0,38 por cota em setembro de 2026, em função do fechamento das taxas de juros das NTN-B 3. É possível comparar o desempenho do fundo com o IFIX e o CDI no app através do recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VGIP11",
+      "body": "O fundo também é sensível à variação das taxas de juros, que impactam o valor patrimonial da cota, como observado na variação de R$ 0,38 por cota em setembro de 2026 3. A volatilidade anualizada dos últimos 12 meses foi de 17,01%, nível moderado, e a maior queda em 5 anos foi de -21,45%, do pico em 08/08/2024 ao ponto mais baixo em 18/12/2024 0. O beta de 0,20 contra o Ibovespa indica que o fundo costuma acompanhar os movimentos do índice com amplitude menor 0. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar as oscilações da cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VGIP11 é FII de papel ou de tijolo?",
+      "answer": "VGIP11 é um FII de papel, classificado pela ANBIMA como FII de Títulos de Valores Mobiliários com gestão ativa 3. O fundo investe preponderantemente em Certificados de Recebíveis Imobiliários (CRI), com 106,8% do patrimônio alocado em 48 operações em setembro de 2026 3."
+    },
+    {
+      "question": "Qual o dividend yield do VGIP11?",
+      "answer": "O dividend yield do VGIP11 nos 12 meses até 29/10/2026 foi de 14,70%, com R$ 10,29 por cota distribuídos em 12 pagamentos 0. O último rendimento foi de R$ 0,67 por cota, referente a setembro de 2026 [0, 3]."
+    },
+    {
+      "question": "Quem é a gestora do VGIP11?",
+      "answer": "A gestora do VGIP11 é a Valora Gestão de Investimentos, com administração e escrituração pela BTG Pactual Serviços Financeiros S.A. 3. O fundo foi fundado em 18/03/2020 e tem prazo de duração indeterminado [1, 3]."
+    },
+    {
+      "question": "Qual o patrimônio do VGIP11?",
+      "answer": "O patrimônio líquido do VGIP11 era de R$ 1,08 bilhão em 09/2026, com 11.787.247 cotas emitidas e valor patrimonial da cota de R$ 91,64 1. O número de cotistas era de 80.988 [1, 3]."
+    },
+    {
+      "question": "Qual a taxa de administração do VGIP11?",
+      "answer": "A taxa de administração do VGIP11 é de 1,00% ao ano sobre o patrimônio líquido, com valor mínimo mensal de R$ 25.000 3. A taxa de escrituração é de 0,05% ao ano e a taxa de performance é de 20% sobre o que exceder IPCA + média do yield anual do IMAB5 no semestre civil anterior 3."
+    },
+    {
+      "question": "Qual a rentabilidade do VGIP11 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos do VGIP11 nos 12 meses até 29/10/2026 foi de 6,74% 0. A distribuição de rendimentos acumulada de 12 meses (agosto de 2025 a julho de 2026) foi de R$ 10,29 por cota, equivalente a IPCA + 7,4% ao ano 3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do VGIP11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do VGIP11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para acompanhar as oscilações da cota do VGIP11."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VGIP11 ao lado de outros ativos na sua carteira, com alocação por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "Outro FII de papel da Kinea, focado em CRIs, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de high yield da Kinea, para comparação de risco de crédito e rentabilidade."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística da BTG Pactual, para comparação de segmento e gestora."
+      },
+      {
+        "ticker": "VGHF11",
+        "list": "fiis",
+        "reason": "Outro FII da Valora, para comparação de estratégia e desempenho da mesma gestora."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VGIP11",
+      "url": "https://finance.yahoo.com/quote/VGIP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do VALORA CRI FII RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo VGIP11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=34197811000146",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do VGIP11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1354381",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

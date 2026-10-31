@@ -1,0 +1,331 @@
+{
+  "ticker": "VILG11",
+  "slug": "vilg11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VILG11: FII de logística, dividendos e volatilidade",
+    "description": "VILG11 é um FII de tijolo focado em logística, com dividend yield de 10,97% e patrimônio de R$ 1,63 bilhão em 09/2026. Veja história, rendimentos e riscos.",
+    "h1": "Vinci Logística FII (VILG11): história, dividendos e volatilidade",
+    "canonicalPath": "/fiis/vilg11",
+    "keywords": [
+      "VILG11",
+      "Vinci Logística FII",
+      "FII de logística",
+      "dividend yield VILG11",
+      "volatilidade VILG11",
+      "patrimônio VILG11"
+    ]
+  },
+  "summary": "VILG11 é a cota do Vinci Logística Fundo de Investimento Imobiliário, um fundo de tijolo focado no segmento de logística com gestão ativa. Fundado em 10/12/2018, o fundo possui patrimônio líquido de R$ 1,63 bilhão e 148.559 cotistas em setembro de 2026. A cota fechou a R$ 86,95 em 29/10/2026, com dividend yield de 10,97% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vinci Logística Fundo de Investimento Imobiliário",
+    "legalName": "VINCI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF VILG11",
+    "isin": "BRVILGCTF001",
+    "taxId": "24.853.044/0001-22",
+    "foundingDate": "2018-12-10",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=24853044000122"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, logística",
+    "issuerOrManager": "Vinci Real Estate Gestora de Recursos Ltda",
+    "name": "Vinci Logística Fundo de Investimento Imobiliário",
+    "legalName": "VINCI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "10/12/2018",
+    "administrator": "BRL TRUST DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "VINCI LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "24.853.044/0001-22",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BRL TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "10/12/2018",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,63 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "148.559",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 108,65",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 86,95",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "20,11% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,36",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "10,97%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VILG11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vinci Logistica Fundo Investimento Imobiliario FII",
+    "currency": "BRL",
+    "price": 86.95,
+    "historyStarts": "2019-03-19",
+    "returns": {
+      "1y": 0.0663,
+      "3y": 0.1198,
+      "5y": 0.2895,
+      "10y": null
+    },
+    "volatility1y": 0.2011,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3191,
+      "from": "2023-08-11",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.36,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 9.54,
+      "payments12Months": 12,
+      "yield12Months": 0.1097,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.82
+      }
+    },
+    "avgDailyTradedValue3m": 3139211
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do VILG11 foi de 20,11% nos 12 meses até 29/10/2026, nível classificado como moderado 0. O beta contra o Ibovespa foi de 0,36, o que significa que o fundo tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção 0. A maior queda nos últimos 5 anos foi de -31,91%, do pico em 11/08/2023 ao ponto mais baixo em 19/12/2024 0. Para FIIs de tijolo, essa volatilidade é compatível com a sensibilidade a mudanças nos juros e na demanda por imóveis logísticos. Use os [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a cota atingir níveis que você monitora."
+  },
+  "history": {
+    "overview": "O Vinci Logística FII (VILG11) iniciou suas atividades em 10/12/2018, com foco exclusivo no segmento de logística e gestão ativa [1, 3]. Nos primeiros anos, o fundo realizou quatro ofertas públicas de cotas entre 2018 e 2021 para captar recursos e expandir sua carteira de imóveis 2. Em 2025, o fundo passou por uma reestruturação de portfólio, vendendo quatro ativos (Fernão Dias Business Park, CD Privalia, Porto Canoa Log e Parque Logístico Osasco) por R$ 709,6 milhões ao Pátria Log FII (HGLG11) 4. Em setembro de 2026, o fundo anunciou a aquisição do Multimodal Campinas, um ativo classificado como AAA, o que elevou a exposição do fundo ao estado de São Paulo na receita de locação de 17% para 24% 3.",
+    "timeline": [
+      {
+        "date": "2018-12-10",
+        "event": "Início das atividades do fundo e encerramento da primeira oferta pública de cotas",
+        "source": 1
+      },
+      {
+        "date": "2019-05-16",
+        "event": "Início da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2019-05-20",
+        "event": "Encerramento da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2020-02-19",
+        "event": "Início da terceira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2020-03-24",
+        "event": "Encerramento da terceira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2021-01-11",
+        "event": "Início da quarta oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2021-03-01",
+        "event": "Encerramento da quarta oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2025-11-26",
+        "event": "Venda de quatro ativos logísticos por R$ 709,6 milhões ao Pátria Log FII (HGLG11)",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do VILG11",
+      "body": "O VILG11 é um Fundo de Investimento Imobiliário (FII) de tijolo, com foco exclusivo no segmento de logística e gestão ativa [1, 3]. A gestora é a Vinci Real Estate Gestora de Recursos Ltda., enquanto a administração e a escrituração são realizadas pela BRL Trust DTVM S.A. 3. O objetivo do fundo é investir em imóveis logísticos, buscando gerar renda por meio de aluguéis e valorização patrimonial. Em setembro de 2026, o fundo anunciou a aquisição do Multimodal Campinas, um ativo classificado como AAA, que elevou a exposição do fundo ao estado de São Paulo na receita de locação de 17% para 24% 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do VILG11",
+      "body": "Nos 12 meses até 29/10/2026, o VILG11 distribuiu R$ 9,5400 por cota em 12 pagamentos, resultando em um dividend yield de 10,97% 0. O último provento foi de R$ 0,8200, pago em 01/10/2026 0. O relatório gerencial de setembro de 2026 indica um rendimento de R$ 0,82/cota, dentro do guidance de R$ 0,80 a R$ 0,87/cota 3. A tributação dos rendimentos de FIIs segue as regras da legislação brasileira vigente, mas o dossiê não detalha a alíquota específica. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar a distribuição de rendimentos do VILG11."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O VILG11 realizou quatro ofertas públicas de cotas entre 2018 e 2021, conforme registrado no FNET 2. Em setembro de 2026, o fundo possuía 14.997.396 cotas emitidas, 148.559 cotistas e patrimônio líquido de R$ 1,63 bilhão 1. O valor patrimonial da cota era de R$ 108,65, enquanto o valor de mercado era de R$ 93,92 3. A taxa de administração é de 0,95% a.a. sobre o patrimônio até R$ 500 milhões, 0,85% a.a. sobre o excedente até R$ 1 bilhão e 0,75% a.a. sobre o excedente a R$ 1 bilhão 3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VILG11",
+      "body": "A rentabilidade total do VILG11, com proventos, foi de 6,63% em 12 meses, 11,98% em 3 anos e 28,95% em 5 anos até 29/10/2026 0. O fundo é um FII de tijolo, e seu desempenho é frequentemente comparado ao IFIX, o índice de referência para FIIs na B3. Use a [comparação com índices](/recursos/comparacao-com-indices) para ver a rentabilidade do VILG11 lado a lado com o IFIX, o CDI e outros índices."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VILG11",
+      "body": "Como FII de tijolo, o VILG11 está exposto a riscos de vacância, inadimplência de inquilinos e variação nos preços de imóveis logísticos. A volatilidade anualizada do fundo foi de 20,11% nos 12 meses até 29/10/2026, classificada como moderada 0. O beta contra o Ibovespa foi de 0,36, indicando que o fundo tende a ter movimentos menores que os do índice, na mesma direção 0. A maior queda nos últimos 5 anos foi de -31,91%, do pico em 11/08/2023 ao ponto mais baixo em 19/12/2024 0. Use os [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações no valor da cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VILG11 paga dividendos?",
+      "answer": "Sim, o VILG11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 9,5400 por cota, com dividend yield de 10,97% 0. O último provento foi de R$ 0,8200, pago em 01/10/2026 0."
+    },
+    {
+      "question": "Qual a diferença entre VILG11 e outros FIIs de logística?",
+      "answer": "O VILG11 é um FII de tijolo com foco exclusivo em logística e gestão ativa, administrado pela BRL Trust e gerido pela Vinci Real Estate [1, 3]. Outros FIIs de logística, como [HGLG11](/fiis/hglg11) e [BTLG11](/fiis/btlg11), também atuam no segmento, mas podem ter estratégias, portfólios e taxas de administração diferentes."
+    },
+    {
+      "question": "VILG11 é FII de papel ou de tijolo?",
+      "answer": "O VILG11 é um FII de tijolo, focado no segmento de logística [1, 3]. Isso significa que o fundo investe em imóveis físicos, gerando renda por meio de aluguéis."
+    },
+    {
+      "question": "Qual a taxa de administração do VILG11?",
+      "answer": "A taxa de administração é de 0,95% a.a. sobre o patrimônio até R$ 500 milhões, 0,85% a.a. sobre o excedente até R$ 1 bilhão e 0,75% a.a. sobre o excedente a R$ 1 bilhão 3. Em setembro de 2026, a taxa mensal foi de 0,061% sobre o patrimônio 1."
+    },
+    {
+      "question": "Quantos cotistas tem o VILG11?",
+      "answer": "Em setembro de 2026, o VILG11 tinha 148.559 cotistas e 14.997.396 cotas emitidas 1. O patrimônio líquido era de R$ 1,63 bilhão 1."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do VILG11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do VILG11 com o IFIX, o CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do VILG11 atingir um preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VILG11 junto com suas outras posições, com alocação por classe e valor total."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística que comprou ativos do VILG11 em 2025"
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística, para comparação de estratégia e portfólio"
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística com foco similar, para diversificação no segmento"
+      },
+      {
+        "ticker": "GARE11",
+        "list": "fiis",
+        "reason": "FII de logística, para comparação de dividend yield e patrimônio"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VILG11",
+      "url": "https://finance.yahoo.com/quote/VILG11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do VINCI LOGISTICA FUNDO DE INVESTIMENTO IMOBILIARIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo VILG11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=24853044000122",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do VILG11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342453",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do VILG11, 26/11/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1047348",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

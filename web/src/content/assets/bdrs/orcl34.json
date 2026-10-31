@@ -1,0 +1,303 @@
+{
+  "ticker": "ORCL34",
+  "slug": "orcl34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ORCL34: BDR da Oracle, dividendos e volatilidade",
+    "description": "ORCL34 é o BDR da Oracle Corporation na B3. Veja dividendos, rentabilidade, volatilidade e como funciona o BDR não patrocinado da empresa de tecnologia.",
+    "h1": "ORCL34: BDR da Oracle Corporation na B3",
+    "canonicalPath": "/bdrs/orcl34",
+    "keywords": [
+      "ORCL34",
+      "Oracle BDR",
+      "BDR Oracle",
+      "ORCL34 dividendos",
+      "ORCL34 volatilidade",
+      "BDR não patrocinado",
+      "Oracle Corporation B3"
+    ]
+  },
+  "summary": "ORCL34 é o BDR não patrocinado (nível I) da Oracle Corporation, empresa norte-americana de tecnologia sediada em Austin, Texas. Negociado na B3 desde 15/06/2011, o recibo representa ações da Oracle na Bolsa de Valores de Nova Iorque (ticker ORCL). Em 29/10/2026, o BDR cotava a R$ 124,09, com rentabilidade total de -49,10% nos últimos 12 meses e dividend yield de 1,37% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Oracle Corporation",
+    "legalName": "ORACLE CORPORATION",
+    "ticker": "BVMF ORCL34",
+    "foundingDate": "1977-06-16",
+    "website": "https://www.oracle.com/",
+    "wikidata": "Q19900",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q19900",
+      "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "https://pt.wikipedia.org/wiki/Oracle_Corporation",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50288/ORCL/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Oracle Corporation",
+    "legalName": "ORACLE CORPORATION",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "16/06/1977",
+    "listedSince": "15/06/2011",
+    "headquarters": "Austin",
+    "website": "https://www.oracle.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "ORACLE CORPORATION",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: ORCL",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Austin",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "16/06/1977",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "15/06/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 124,09",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "59,11% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,37%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 19,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ORCL34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Oracle Corporation",
+    "currency": "BRL",
+    "price": 124.09,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.491,
+      "3y": 0.5023,
+      "5y": 0.4698,
+      "10y": 6.083
+    },
+    "volatility1y": 0.5911,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6717,
+      "from": "2025-09-10",
+      "to": "2026-07-24"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.694,
+      "payments12Months": 4,
+      "yield12Months": 0.0137,
+      "lastPayment": {
+        "date": "2026-10-09",
+        "amount": 0.4195
+      }
+    },
+    "avgDailyTradedValue3m": 19348641
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do ORCL34 nos últimos 12 meses foi de 59,11%, um nível considerado 'muito alto'. A maior queda em 5 anos foi de -67,17%, ocorrendo do pico em 10/09/2025 ao ponto mais baixo em 24/07/2026. Esse padrão de alta volatilidade é comum em BDRs de empresas de tecnologia, que tendem a ter movimentos mais amplos que o mercado geral. Para acompanhar esses movimentos e definir pontos de entrada ou saída, o investidor pode usar os [alertas de preço](/recursos/alertas-de-preco) do app."
+  },
+  "history": {
+    "overview": "A Oracle Corporation foi fundada em 16/06/1977 em Santa Clara, Califórnia, por Larry Ellison, Bob Miner e Ed Oates, inicialmente com o nome Software Development Laboratories (SDL). A empresa nasceu para desenvolver sistemas de gestão de banco de dados relacionais (RDBMS), inspirada no trabalho de Edgar F. Codd e buscando compatibilidade com o IBM System R. Em 1979, a SDL mudou o nome para Relational Software, Inc (RSI), e em 1983 adotou o nome Oracle Systems Corporation, alinhando-se ao seu produto principal, o Oracle Database. A empresa realizou sua oferta pública inicial (IPO) em 12/03/1986. Em 1995, o nome foi simplificado para Oracle Corporation. Em 15/07/2013, a empresa transferiu sua listagem da Nasdaq para a Bolsa de Valores de Nova Iorque (NYSE), na maior transferência de mercado dos EUA até então. Em dezembro de 2020, a Oracle anunciou a mudança de sua sede mundial de Redwood Shores, Califórnia, para Austin, Texas. Em 2011, o BDR ORCL34 foi listado na B3, permitindo que investidores brasileiros acompanhassem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "1977-06-16",
+        "event": "Fundação da Oracle Corporation em Santa Clara, Califórnia, por Larry Ellison, Bob Miner e Ed Oates.",
+        "source": 2
+      },
+      {
+        "date": "1986-03-12",
+        "event": "Realização da oferta pública inicial (IPO) da Oracle na Bolsa de Valores.",
+        "source": 3
+      },
+      {
+        "date": "2011-06-15",
+        "event": "Listagem do BDR ORCL34 na B3, permitindo negociação em reais no Brasil.",
+        "source": 1
+      },
+      {
+        "date": "2013-07-15",
+        "event": "Transferência da listagem da Oracle da Nasdaq para a Bolsa de Valores de Nova Iorque (NYSE).",
+        "source": 3
+      },
+      {
+        "date": "2020-12",
+        "event": "Anúncio da mudança da sede mundial da Oracle de Redwood Shores, Califórnia, para Austin, Texas.",
+        "source": 3
+      },
+      {
+        "date": "2022-06-08",
+        "event": "Conclusão da aquisição da Cerner, empresa de tecnologia da informação em saúde, por US$ 28,3 bilhões.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Oracle Corporation ganha dinheiro",
+      "body": "A Oracle Corporation é uma multinacional de tecnologia que vende software de banco de dados, com destaque para o Oracle Database, além de software e hardware de computação em nuvem. A empresa oferece uma suíte de software empresarial que inclui planejamento de recursos empresariais (ERP), gestão de capital humano (HCM), gestão de relacionamento com o cliente (CRM), gestão de desempenho empresarial (EPM), Customer Experience Commerce (CX Commerce) e software de gestão da cadeia de suprimentos (SCM). A Oracle também atua na infraestrutura de nuvem, tendo estabelecido parcerias com Microsoft Azure, Amazon Web Services e Google Cloud para disponibilizar seus serviços em múltiplas plataformas. Em 31/05/2025, a empresa contava com 162.000 funcionários."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR ORCL34",
+      "body": "ORCL34 é um BDR não patrocinado (nível I) da Oracle Corporation, negociado na B3 desde 15/06/2011. O BDR é um recibo em reais que representa ações da Oracle Corporation na Bolsa de Valores de Nova Iorque (ticker ORCL). O preço do BDR acompanha a variação da ação original em dólares e a cotação do câmbio (dólar/real). A emissão é feita por uma instituição depositária, e o investidor não tem direitos diretos sobre a ação original, apenas sobre o recibo."
+    },
+    {
+      "id": "proventos",
+      "heading": "ORCL34 paga dividendos?",
+      "body": "Sim, ORCL34 paga dividendos. Nos 12 meses até 29/10/2026, o BDR distribuiu R$ 1,6940 por unidade em 4 pagamentos, resultando em um dividend yield de 1,37%. O último pagamento foi de R$ 0,4195 em 09/10/2026. É importante lembrar que a Oracle paga dividendos em dólares, e o valor recebido pelo investidor em reais depende da cotação do câmbio na data do pagamento. Para acompanhar os proventos, é possível usar o recurso de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ORCL34",
+      "body": "A rentabilidade total do ORCL34, incluindo proventos, foi de -49,10% nos 12 meses até 29/10/2026, 50,23% em 3 anos, 46,98% em 5 anos e 608,30% em 10 anos. Esses números refletem a variação do preço do BDR em reais, que inclui a performance da ação ORCL em dólares e a variação do câmbio. Para comparar o desempenho do ORCL34 com índices como o S&P 500 ou o CDI, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ORCL34",
+      "body": "Os principais riscos do ORCL34 incluem o risco cambial, já que o BDR é lastreado em uma ação negociada em dólares, e a volatilidade do mercado de tecnologia. A volatilidade anualizada do BDR nos últimos 12 meses foi de 59,11%, classificada como 'muito alta'. A maior queda em 5 anos foi de -67,17%, do pico em 10/09/2025 ao ponto mais baixo em 24/07/2026. A liquidez do BDR na B3 também é um fator a considerar, com volume médio diário de R$ 19,3 milhões nos últimos 3 meses. Para monitorar movimentos de preço, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ORCL34 paga dividendos?",
+      "answer": "Sim, ORCL34 paga dividendos. Nos 12 meses até 29/10/2026, o BDR distribuiu R$ 1,6940 por unidade em 4 pagamentos, com dividend yield de 1,37%. O último pagamento foi de R$ 0,4195 em 09/10/2026. Os valores são convertidos de dólares para reais na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre ORCL34 e ORCL?",
+      "answer": "ORCL34 é o BDR negociado na B3, em reais, que representa a ação ORCL da Oracle Corporation na Bolsa de Valores de Nova Iorque. O preço do ORCL34 acompanha a variação da ORCL em dólares e a cotação do câmbio (dólar/real)."
+    },
+    {
+      "question": "ORCL34 é BDR patrocinado ou não patrocinado?",
+      "answer": "ORCL34 é um BDR não patrocinado (nível I). Isso significa que a Oracle Corporation não é responsável pela emissão ou manutenção do BDR, que é emitido por uma instituição depositária."
+    },
+    {
+      "question": "Qual a volatilidade do ORCL34?",
+      "answer": "A volatilidade anualizada do ORCL34 nos últimos 12 meses foi de 59,11%, classificada como 'muito alta'. A maior queda em 5 anos foi de -67,17%, do pico em 10/09/2025 ao ponto mais baixo em 24/07/2026."
+    },
+    {
+      "question": "Onde a Oracle Corporation está sediada?",
+      "answer": "A Oracle Corporation está sediada em Austin, Texas, Estados Unidos. A empresa mudou sua sede de Redwood Shores, Califórnia, para Austin em dezembro de 2020."
+    },
+    {
+      "question": "Quando o ORCL34 foi listado na B3?",
+      "answer": "O BDR ORCL34 foi listado na B3 em 15/06/2011, permitindo que investidores brasileiros acompanhassem a Oracle Corporation em reais."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos do ORCL34 com data de pagamento e valor em reais, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do ORCL34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o ORCL34 chegar ao preço que você escolheu, útil para acompanhar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o ORCL34 junto com outras ações e BDRs na sua carteira, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com perfil de alta volatilidade e crescimento."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia que também atua em nuvem e software empresarial."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "BDR de uma grande empresa de tecnologia, com exposição a nuvem e publicidade."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia, com forte presença em hardware e serviços."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ORCL34",
+      "url": "https://finance.yahoo.com/quote/ORCL34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ORACLE, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50288/ORCL/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Oracle Corporation",
+      "url": "https://www.wikidata.org/wiki/Q19900",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Oracle Corporation",
+      "url": "https://en.wikipedia.org/wiki/Oracle_Corporation",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Oracle Corporation",
+      "url": "https://pt.wikipedia.org/wiki/Oracle_Corporation",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

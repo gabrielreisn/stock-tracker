@@ -1,0 +1,289 @@
+{
+  "ticker": "GDX",
+  "slug": "gdx",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "GDX: ETF de mineração de ouro, volatilidade e dividendos",
+    "description": "GDX é o VanEck Gold Miners ETF, lançado em 2006. Veja rentabilidade de 177,55% em 3 anos, volatilidade de 50,72% e como investir no Brasil.",
+    "h1": "GDX: VanEck Gold Miners ETF",
+    "canonicalPath": "/etfs/gdx",
+    "keywords": [
+      "GDX",
+      "VanEck Gold Miners ETF",
+      "ETF de ouro",
+      "mineração de ouro",
+      "volatilidade GDX",
+      "dividendos GDX",
+      "investir em GDX Brasil"
+    ]
+  },
+  "summary": "GDX é o VanEck Gold Miners ETF, lançado em 22/05/2006, que replica o desempenho de empresas de mineração de ouro. Emitido pela VanEck, o fundo permite exposição ao setor sem a necessidade de comprar ações individuais. Em 30/10/2026, a cota valia US$ 77,09, com rentabilidade de 177,55% em 3 anos e 159,33% em 5 anos, refletindo a alta volatilidade do setor.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "VanEck Gold Miners ETF",
+    "ticker": "ARCX GDX",
+    "foundingDate": "2006-05-22",
+    "provider": {
+      "name": "VanEck",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/VanEck"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de ações de mineração de ouro",
+    "issuerOrManager": "VanEck",
+    "trackedIndex": "Indicador de desempenho de ações de mineração de ouro (não especificado nas fontes)",
+    "name": "VanEck Gold Miners ETF",
+    "founded": "22/05/2006"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "VanEck Gold Miners ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/05/2006",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 77,09",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "50,72% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,15",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,82%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 2,01 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GDX",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "VanEck Gold Miners ETF",
+    "currency": "USD",
+    "price": 77.09,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0652,
+      "3y": 1.7755,
+      "5y": 1.5933,
+      "10y": 2.4669
+    },
+    "volatility1y": 0.5072,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4651,
+      "from": "2022-04-18",
+      "to": "2022-09-26"
+    },
+    "beta1y": {
+      "value": 2.15,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.633,
+      "payments12Months": 1,
+      "yield12Months": 0.0082,
+      "lastPayment": {
+        "date": "2025-12-22",
+        "amount": 0.633
+      }
+    },
+    "avgDailyTradedValue3m": 2010828768
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do GDX nos últimos 12 meses é de 50,72%, nível classificado como 'muito alta'. O beta de 2,15 contra o S&P 500 indica que, em média, o ativo tende a se mover com intensidade 2,15 vezes maior que o índice, na mesma direção. A maior queda em 5 anos foi de -46,51%, entre 18/04/2022 e 26/09/2022. Para um ETF de ações de mineração de ouro, essa volatilidade é esperada, dado que o setor é sensível a mudanças no preço do ouro e a fatores operacionais das mineradoras. O beta não mede a volatilidade em si, mas a sensibilidade do ativo aos movimentos do S&P 500. Para acompanhar a cotação do GDX durante o pregão, o [widget na barra de menus](/recursos/widget-da-barra-de-menus) do app exibe o gráfico do dia e as posições com um clique."
+  },
+  "history": {
+    "overview": "A VanEck, fundada em 1955 por John van Eck, iniciou suas atividades explorando o mercado de ações internacionais após o Plano Marshall. Em 1968, a empresa lançou um dos primeiros fundos de ouro dos EUA, o International Investors Gold Fund, que se tornou um dos maiores do mercado na década de 1970. Após o declínio do mercado de ouro no final dos anos 1980, a gestora diversificou para mercados emergentes na Ásia, mas enfrentou redempções após a crise asiática de 1997. Em 2006, a VanEck decidiu entrar no mercado de ETFs, lançando o Market Vectors Gold Miners ETF (atual GDX), que permitiu aos investidores apostarem no setor de mineração de ouro através de ações negociadas em bolsa, em vez de comprar o metal diretamente. Em 2024, a empresa foi multada em US$ 1,75 milhão pela SEC por práticas de divulgação inadequadas relacionadas a um de seus produtos.",
+    "timeline": [
+      {
+        "date": "1955",
+        "event": "Fundação da Van Eck Global por John van Eck",
+        "source": 1
+      },
+      {
+        "date": "1968",
+        "event": "Lançamento do International Investors Gold Fund, um dos primeiros fundos de ouro dos EUA",
+        "source": 1
+      },
+      {
+        "date": "2006-05-22",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2024",
+        "event": "Multa de US$ 1,75 milhão imposta pela SEC à VanEck por práticas de divulgação",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o GDX funciona",
+      "body": "O GDX é um ETF emitido pela VanEck, uma gestora global com sede em Nova York que atua principalmente na emissão de produtos de ETFs. O fundo foi lançado em 22/05/2006, inicialmente com o nome Market Vectors Gold Miners ETF, e permite que os investidores tenham exposição ao setor de mineração de ouro através de ações negociadas em bolsa, em vez de comprar o metal diretamente. A VanEck é pioneira em investimentos em ouro e em ações de crescimento estrangeiro."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do GDX",
+      "body": "As fontes disponíveis não detalham o índice específico que o GDX replica nem a composição exata de suas cotas. O fundo é descrito como um veículo que permite aos investidores apostarem no setor de mineração de ouro através do mercado de ações, em vez de diretamente no metal. A VanEck é a emissora do produto."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no GDX a partir do Brasil",
+      "body": "Para investir no GDX a partir do Brasil, o investidor precisa abrir uma conta em uma corretora que opere no exterior, como as que atuam nos Estados Unidos, ou buscar ETFs e BDRs listados na B3 que sigam o mesmo índice ou setor. O principal risco cambial é a variação do câmbio entre o dólar e o real, que pode impactar o retorno final do investimento, independentemente do desempenho do próprio ETF."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do GDX",
+      "body": "Até 30/10/2026, o GDX apresentava rentabilidade total de 6,52% em 12 meses, 177,55% em 3 anos e 159,33% em 5 anos, com preço de US$ 77,09. A rentabilidade de 10 anos foi de 246,69%. Esses números refletem a alta volatilidade do setor de mineração de ouro. Para comparar o desempenho do GDX com o S&P 500, o investidor pode utilizar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade da carteira lado a lado com o índice."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do GDX",
+      "body": "O GDX possui volatilidade anualizada de 50,72% nos últimos 12 meses, classificada como 'muito alta', e beta de 2,15 contra o S&P 500, indicando que o ativo tende a se mover com intensidade quase o dobro do índice. A maior queda nos últimos 5 anos foi de -46,51%, entre 18/04/2022 e 26/09/2022. Os riscos incluem a volatilidade do preço do ouro, a exposição a empresas de mineração (que podem ter problemas operacionais ou financeiros) e o risco cambial para investidores brasileiros. O setor de mineração de ouro é historicamente volátil, e o fundo não é alavancado ou inverso, mas sua exposição a ações de mineração amplifica os movimentos do preço do metal."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O GDX é um ETF alavancado?",
+      "answer": "Não, o GDX não é um ETF alavancado ou inverso. Ele replica o desempenho de ações de mineração de ouro sem o uso de alavancagem diária. A volatilidade alta (50,72% anualizada) e o beta de 2,15 refletem a natureza do setor de mineração de ouro, não uma estrutura alavancada do fundo."
+    },
+    {
+      "question": "Qual a diferença entre GDX e GLD?",
+      "answer": "O GDX é um ETF de ações de mineração de ouro, enquanto o [GLD](/etfs/gld) é um ETF que replica o preço do ouro físico. O GDX tem exposição a empresas (com riscos operacionais e financeiros), enquanto o GLD tem exposição direta ao metal. O GDX tende a ter maior volatilidade e beta que o GLD, devido à alavancagem operacional das mineradoras."
+    },
+    {
+      "question": "O GDX paga dividendos?",
+      "answer": "Sim, o GDX paga dividendos. Nos 12 meses até 30/10/2026, distribuiu US$ 0,6330 por cota, com dividend yield de 0,82%. O último pagamento foi de US$ 0,6330 em 22/12/2025. Os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) permitem acompanhar a distribuição de proventos do ativo."
+    },
+    {
+      "question": "Como investir no GDX a partir do Brasil?",
+      "answer": "O investidor brasileiro pode comprar o GDX através de uma corretora que opere no exterior, como as que atuam nos Estados Unidos, ou buscar ETFs e BDRs listados na B3 que sigam o mesmo índice ou setor. O principal risco é o cambial, devido à variação do dólar em relação ao real. O [open finance](/recursos/open-finance) do app ajuda a conciliar as posições da corretora com a carteira consolidada."
+    },
+    {
+      "question": "Qual a volatilidade do GDX?",
+      "answer": "A volatilidade anualizada do GDX nos últimos 12 meses é de 50,72%, nível classificado como 'muito alta'. O beta de 2,15 contra o S&P 500 indica que o ativo tende a se mover com intensidade 2,15 vezes maior que o índice. A maior queda em 5 anos foi de -46,51%, entre 18/04/2022 e 26/09/2022. Para acompanhar a cotação, o [alertas de preço](/recursos/alertas-de-preco) do app notifica quando o ativo atinge um valor definido."
+    },
+    {
+      "question": "O GDX é bom para diversificação?",
+      "answer": "O GDX pode ser usado para diversificação, pois tem exposição ao setor de mineração de ouro, que historicamente tem correlação menor com ações de crescimento e renda fixa. No entanto, a alta volatilidade (50,72%) e o beta de 2,15 indicam que o ativo tende a se mover com intensidade maior que o mercado. A [carteira consolidada](/recursos/carteira-consolidada) do app permite visualizar a alocação do GDX junto a outros ativos, como o [SPY](/etfs/spy) ou [TLT](/etfs/tlt)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a alocação do GDX junto a outros ativos, como ações e renda fixa, em uma única visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Acompanhe a distribuição de proventos do GDX, com data de pagamento e valor por cota, multiplicado pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do GDX com o S&P 500, Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do GDX atingir um valor que você definir, para acompanhar a volatilidade do ativo."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "open finance",
+        "context": "Conecte sua corretora pelo Open Finance e confira as posições do GDX com a sua carteira, incluindo quantidades e preço médio."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GLD",
+        "list": "us-etfs",
+        "reason": "ETF de ouro físico, para comparação com a exposição do GDX a ações de mineração."
+      },
+      {
+        "ticker": "GDXJ",
+        "list": "us-etfs",
+        "reason": "ETF de mineradoras de ouro júnior, da mesma gestora VanEck, com maior risco e volatilidade."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho e volatilidade com o índice de referência."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro dos EUA, para diversificação com ativos de renda fixa de longo prazo."
+      },
+      {
+        "ticker": "SLV",
+        "list": "us-etfs",
+        "reason": "ETF de prata, para exposição a outros metais preciosos com correlação parcial com o ouro."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GDX",
+      "url": "https://finance.yahoo.com/quote/GDX/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): VanEck (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/VanEck",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Gold mining (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Gold_mining",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Gold as an investment (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Gold_as_an_investment",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

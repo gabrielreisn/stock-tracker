@@ -1,0 +1,346 @@
+{
+  "ticker": "BPML11",
+  "slug": "bpml11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BPML11: história, dividendos e volatilidade",
+    "description": "Conheça o BPML11, FII de shoppings da BTG Pactual. Veja patrimônio, dividendos, volatilidade e desempenho até 29/10/2026.",
+    "h1": "BPML11: BTG Pactual Shoppings FII",
+    "canonicalPath": "/fiis/bpml11",
+    "keywords": [
+      "BPML11",
+      "BTG Pactual Shoppings FII",
+      "FII de shoppings",
+      "dividendos BPML11",
+      "volatilidade BPML11",
+      "patrimônio BPML11",
+      "BBIG11",
+      "IFIX"
+    ]
+  },
+  "summary": "BPML11 é a cota do BTG Pactual Shoppings Fundo de Investimento Imobiliário, um FII de tijolo focado em shoppings centers. Fundado em 26/07/2019, o fundo possui 8 ativos em 5 estados, totalizando 122.224 m² de área bruta locável. Em 09/2026, o patrimônio líquido era de R$ 888,2 milhões, com valor patrimonial da cota de R$ 119,36. Nos 12 meses até 29/10/2026, a rentabilidade total foi de 21,46%, com dividend yield de 13,23%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "BTG Pactual Shoppings Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL SHOPPINGS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF BPML11",
+    "isin": "BRBPMLCTF006",
+    "taxId": "33.046.142/0001-49",
+    "foundingDate": "2019-07-26",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=33046142000149"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, shoppings",
+    "issuerOrManager": "BTG Pactual Serviços Financeiros S.A",
+    "name": "BTG Pactual Shoppings Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL SHOPPINGS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "26/07/2019",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "BTG PACTUAL SHOPPINGS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "33.046.142/0001-49",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "26/07/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 888,2 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "6.751",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 119,36",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 83,46",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,95% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,25",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "13,23%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 640.681,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BPML11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo De Investimento Imobiliario BTG Pactual Shoppings",
+    "currency": "BRL",
+    "price": 83.46,
+    "historyStarts": "2019-11-05",
+    "returns": {
+      "1y": 0.2146,
+      "3y": 0.4824,
+      "5y": 0.6295,
+      "10y": null
+    },
+    "volatility1y": 0.1895,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.35,
+      "from": "2021-11-01",
+      "to": "2023-05-15"
+    },
+    "beta1y": {
+      "value": 0.25,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 11.04,
+      "payments12Months": 12,
+      "yield12Months": 0.1323,
+      "lastPayment": {
+        "date": "2026-10-19",
+        "amount": 0.92
+      }
+    },
+    "avgDailyTradedValue3m": 640681
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do BPML11 nos 12 meses até 29/10/2026 foi de 18,95%, com nível moderado 0. O beta do fundo contra o Ibovespa é de 0,25, indicando que os movimentos do BPML11 tendem a ser menores que os do índice, na mesma direção 0. A maior queda nos últimos 5 anos foi de -35,00%, do pico em 01/11/2021 ao ponto mais baixo em 15/05/2023 0. Para FIIs de tijolo, uma volatilidade de 18,95% é considerada moderada, refletindo a exposição a ativos imobiliários e a sensibilidade a mudanças na taxa de juros e na economia."
+  },
+  "history": {
+    "overview": "O BTG Pactual Shoppings FII (BPML11) iniciou suas atividades em 26/07/2019, com o objetivo de investir em empreendimentos imobiliários caracterizados como shoppings centers, para exploração comercial por meio de locação ou posterior alienação. A estratégia de gestão é ativa, e o fundo opera com prazo de duração indeterminado, sendo administrado pela BTG Pactual Serviços Financeiros S.A. Distribuidora e gerido pela BTG Pactual Gestora de Recursos Ltda. 1. Em 2024, o fundo realizou uma oferta pública de cotas, iniciada em 06/03/2024 e encerrada em 30/04/2024, ampliando sua base de cotistas e patrimônio 2. Em 2025, o fundo distribuiu uma parcela adicional referente à venda do Shopping Capim Dourado, com pagamentos em junho, julho e agosto de 2025 5. Em outubro de 2026, o BPML11 anunciou a celebração de um memorando de entendimentos com o BB Premium Malls FII ([BBIG11](/fiis/bbig11)), visando aprofundar estudos para uma eventual combinação dos fundos 4.",
+    "timeline": [
+      {
+        "date": "2019-07-26",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2024-03-06",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2024-04-30",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2025-06-11",
+        "event": "Anúncio da distribuição extraordinária referente à venda do Shopping Capim Dourado",
+        "source": 5
+      },
+      {
+        "date": "2026-10-02",
+        "event": "Anúncio de memorando de entendimentos com o BB Premium Malls FII (BBIG11)",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do BPML11",
+      "body": "O BPML11 é um Fundo de Investimento Imobiliário (FII) de tijolo, focado no segmento de shoppings centers, com gestão ativa e prazo de duração indeterminado. A administradora é a BTG Pactual Serviços Financeiros S.A. Distribuidora, e a gestora é a BTG Pactual Gestora de Recursos Ltda. 1. Segundo o relatório gerencial de setembro de 2026, o portfólio conta com 8 imóveis, totalizando 122.224 m² de área bruta locável (ABL), distribuídos em 5 estados diferentes, o que demonstra um bom nível de diversificação regional 3. A ocupação média dos ativos é de 94%, e as vendas por m² são de R$ 1.717 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do BPML11",
+      "body": "Nos 12 meses até 29/10/2026, o BPML11 distribuiu R$ 11,0400 por cota em 12 pagamentos, resultando em um dividend yield de 13,23% 0. O último pagamento foi de R$ 0,9200 em 19/10/2026 0. Em setembro de 2026, o fundo distribuiu R$ 0,92 por cota, o que representa um dividend yield anualizado de 12,40% com base no preço de fechamento do mês 3. O relatório gerencial não detalha a tributação específica dos rendimentos, mas FIIs de tijolo geralmente têm isenção de imposto de renda para pessoas físicas, desde que atendam a certos critérios. 3."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O BPML11 realizou uma oferta pública de cotas em 2024, iniciada em 06/03/2024 e encerrada em 30/04/2024 2. Em 09/2026, o patrimônio líquido do fundo era de R$ 888,2 milhões, com 6.751 cotistas e valor patrimonial da cota de R$ 119,36 1. O número de cotas emitidas era de 7.441.745 1. A taxa de administração no mês de 09/2026 foi de 0,007% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BPML11",
+      "body": "A rentabilidade total com proventos do BPML11 nos 12 meses até 29/10/2026 foi de 21,46% 0. Nos 3 anos, a rentabilidade foi de 48,24%, e nos 5 anos, de 62,95% 0. O relatório gerencial de setembro de 2026 indica que o retorno do BPML11 nos 12 meses foi de 28,0%, contra 6,8% do IFIX 3."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BPML11",
+      "body": "Os riscos do BPML11 incluem a inadimplência dos inquilinos, a vacância dos shoppings e a sensibilidade a mudanças na taxa de juros. O relatório gerencial de setembro de 2026 menciona que a inadimplência líquida se manteve em níveis controlados, apesar dos efeitos da recuperação judicial de um grande grupo do varejo 3. A volatilidade anualizada do BPML11 nos 12 meses até 29/10/2026 foi de 18,95%, com nível moderado 0. A maior queda nos últimos 5 anos foi de -35,00%, do pico em 01/11/2021 ao ponto mais baixo em 15/05/2023 0."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar BPML11 no app",
+      "body": "Para quem tem BPML11 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [dividendos e JCP no app](/recursos/proventos): Veja os dividendos e JCP da BPML11 com data com e data de pagamento, multiplicados pela sua quantidade.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade da BPML11 com o IFIX e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando a BPML11 chegar ao preço que você escolheu.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja a alocação da BPML11 na sua carteira, junto com outros ativos.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a sua posição em BPML11 e veja as respostas dos seus próprios dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BPML11 paga dividendos?",
+      "answer": "Sim, o BPML11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, o fundo distribuiu R$ 11,0400 por cota em 12 pagamentos, resultando em um dividend yield de 13,23% 0. O último pagamento foi de R$ 0,9200 em 19/10/2026 0."
+    },
+    {
+      "question": "Qual a diferença entre BPML11 e BBIG11?",
+      "answer": "BPML11 é o BTG Pactual Shoppings FII, administrado pela BTG Pactual, enquanto BBIG11 é o BB Premium Malls FII, administrado pelo Banco do Brasil 4. Em outubro de 2026, os dois fundos anunciaram a celebração de um memorando de entendimentos para aprofundar estudos sobre uma eventual combinação 4."
+    },
+    {
+      "question": "BPML11 é FII de papel ou de tijolo?",
+      "answer": "BPML11 é um FII de tijolo, focado em shoppings centers 1. O fundo investe em empreendimentos imobiliários para exploração comercial por meio de locação ou posterior alienação 3."
+    },
+    {
+      "question": "Qual o patrimônio do BPML11?",
+      "answer": "Em 09/2026, o patrimônio líquido do BPML11 era de R$ 888,2 milhões 1. O valor patrimonial da cota era de R$ 119,36 1."
+    },
+    {
+      "question": "Qual a taxa de administração do BPML11?",
+      "answer": "A taxa de administração do BPML11 em 09/2026 foi de 0,007% sobre o patrimônio 1."
+    },
+    {
+      "question": "O BPML11 tem alavancagem?",
+      "answer": "Sim, o BPML11 possui alavancagem. Em setembro de 2026, o LTV (Loan-to-Value) era de 18,0%, e o LTV líquido era de 0,0% 3."
+    },
+    {
+      "question": "Qual o número de cotistas do BPML11?",
+      "answer": "Em 09/2026, o BPML11 tinha 6.751 cotistas 1. O número de cotas emitidas era de 7.441.745 1."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da BPML11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da BPML11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a BPML11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação da BPML11 na sua carteira, junto com outros ativos."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em BPML11 e veja as respostas dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BBIG11",
+        "list": "fiis",
+        "reason": "Fundo de shoppings que anunciou um memorando de entendimentos com o BPML11 em outubro de 2026."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "Outro FII de shoppings, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "VISC11",
+        "list": "fiis",
+        "reason": "FII de shoppings da Vinci, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "HGBS11",
+        "list": "fiis",
+        "reason": "FII de shoppings da Hedge Brasil, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "PMLL11",
+        "list": "fiis",
+        "reason": "FII de shoppings da Patria, para comparação de estratégia e desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BPML11",
+      "url": "https://finance.yahoo.com/quote/BPML11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do BTGP SHOPPINGS FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo BPML11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=33046142000149",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do BPML11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1338254",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BPML11, 02/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339154",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BPML11, 11/06/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=921310",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

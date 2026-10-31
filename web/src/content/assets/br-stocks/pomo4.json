@@ -1,0 +1,393 @@
+{
+  "ticker": "POMO4",
+  "slug": "pomo4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "POMO4: história, dividendos e volatilidade",
+    "description": "Conheça a POMO4, ação preferencial da Marcopolo. Veja dividendos, volatilidade de 41% e desempenho de 183% em 5 anos. Atualizado em 30/10/2026.",
+    "h1": "POMO4: Ação Preferencial da Marcopolo S.A.",
+    "canonicalPath": "/acoes/pomo4",
+    "keywords": [
+      "POMO4",
+      "Marcopolo",
+      "ações preferenciais",
+      "dividendos POMO4",
+      "volatilidade POMO4",
+      "B3",
+      "ônibus",
+      "carrocerias"
+    ]
+  },
+  "summary": "POMO4 é a ação preferencial da Marcopolo S.A., empresa brasileira sediada em Caxias do Sul (RS) e líder na fabricação de carrocerias e ônibus na América Latina. A companhia, fundada em 1949, opera no setor de Bens Industriais e possui fábricas em quatro continentes. Em 30/10/2026, o ativo estava cotado a R$ 3,74, com uma rentabilidade total de -45,52% nos últimos 12 meses, mas de 183,76% em 5 anos, refletindo a alta volatilidade do setor de transportes.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Marcopolo",
+    "legalName": "MARCOPOLO SA",
+    "ticker": "BVMF POMO4",
+    "isin": "BRPOMOACNPR7",
+    "taxId": "88.611.835/0001-29",
+    "foundingDate": "1949-08-06",
+    "address": {
+      "locality": "Caxias do Sul",
+      "region": "RS",
+      "country": "BR"
+    },
+    "website": "https://www.marcopolo.com.br",
+    "wikidata": "Q1848996",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1848996",
+      "https://pt.wikipedia.org/wiki/Marcopolo",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/8451/POMO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Marcopolo",
+    "legalName": "MARCOPOLO SA",
+    "type": "Ação preferencial (PN)",
+    "sector": "Bens Industriais",
+    "segment": "Material Rodoviário",
+    "founded": "06/08/1949",
+    "listedSince": "24/04/1978",
+    "headquarters": "Caxias do Sul (RS)",
+    "website": "https://www.marcopolo.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "MARCOPOLO SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "88.611.835/0001-29",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Bens Industriais / Material Rodoviário",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 2",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "06/08/1949",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Caxias do Sul (RS)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "24/04/1978",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "POMO3, POMO4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 3,74",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "41,01% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,02",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "24,71%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "POMO4",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Marcopolo S.A.",
+    "currency": "BRL",
+    "price": 3.74,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.4552,
+      "3y": 0.2531,
+      "5y": 1.8376,
+      "10y": 1.7017
+    },
+    "volatility1y": 0.4101,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5137,
+      "from": "2025-09-18",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.02,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.9241,
+      "payments12Months": 3,
+      "yield12Months": 0.2471,
+      "lastPayment": {
+        "date": "2026-08-26",
+        "amount": 0.13
+      }
+    },
+    "avgDailyTradedValue3m": 83739876
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 41,01% indica que a POMO4 apresenta oscilações de preço muito superiores à média de ações de menor risco, o que é comum para empresas de bens industriais cíclicos. O beta de 1,02 mostra que a ação tende a se mover na mesma proporção do Ibovespa, sem amplificar ou atenuar os movimentos do índice. A maior queda de -51,37% em 13 meses (de 18/09/2025 a 30/10/2026) ilustra o potencial de drawdown significativo em períodos de estresse. Investidores que acompanham a POMO4 podem usar [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações e a [carteira consolidada](/recursos/carteira-consolidada) para avaliar o impacto dessa volatilidade na alocação total."
+  },
+  "history": {
+    "overview": "A história da Marcopolo começou em 6 de agosto de 1949, quando os irmãos Nicola fundaram a Nicola & Cia, uma pequena oficina de chapeação em Caxias do Sul. A empresa produziu seu primeiro ônibus ainda em 1949, com carroceria de madeira, e em 1952 lançou a primeira carroceria metálica. Em 1968, o modelo batizado de Marcopolo obteve tanto sucesso que o nome virou a razão social da companhia, que em 1971 passou a se chamar Marcopolo S.A. Carrocerias e Ônibus, e em 1992, simplesmente Marcopolo S.A. A empresa abriu capital na B3 em 24 de abril de 1978, consolidando-se como a maior encarroçadora da América Latina e a terceira maior do mundo, com presença em mais de 140 países. Desde 2019, a Marcopolo expandiu sua atuação para a fabricação de trens urbanos leves através da subsidiária Marcopolo Rail.",
+    "timeline": [
+      {
+        "date": "1949-08-06",
+        "event": "Constituição da companhia e fundação da Nicola & Cia",
+        "source": 2
+      },
+      {
+        "date": "1977-07-20",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "1978-04-24",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-02-20",
+        "event": "Declaração de Dividendos",
+        "source": 12
+      },
+      {
+        "date": "2025-04-25",
+        "event": "Pagamento de Juros sobre o Capital Próprio",
+        "source": 11
+      },
+      {
+        "date": "2025-08-21",
+        "event": "Distribuição de Dividendos e JCP",
+        "source": 10
+      },
+      {
+        "date": "2025-11-17",
+        "event": "Publicação de Fato Relevante",
+        "source": 9
+      },
+      {
+        "date": "2025-12-19",
+        "event": "Bonificação",
+        "source": 8
+      },
+      {
+        "date": "2026-03-24",
+        "event": "Alteração dos portais de publicação",
+        "source": 7
+      },
+      {
+        "date": "2026-04-15",
+        "event": "Pagamento de Juros Sobre o Capital Próprio",
+        "source": 6
+      },
+      {
+        "date": "2026-08-19",
+        "event": "Dividendos e Recompra de Ações",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Marcopolo ganha dinheiro",
+      "body": "A Marcopolo S.A. atua na indústria e comércio de ônibus e carrocerias para ônibus, além de suas partes, peças e componentes. A empresa é responsável por quase metade da produção nacional de ônibus e é a maior encarroçadora da América Latina e a terceira maior do planeta. Seus produtos estão presentes em mais de 140 países, com fábricas localizadas nos continentes americano, africano e asiático. Desde 2019, a companhia também produz trens urbanos leves através da subsidiária Marcopolo Rail, tendo fabricado veículos para o Trem do Pampa e o Aeromóvel do Aeroporto de Guarulhos no Brasil, além de trens no Chile."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Marcopolo",
+      "body": "O controle acionário da Marcopolo é classificado como privado, segundo a CVM. A empresa está listada no Nível 2 de Governança Corporativa da B3. As ações da companhia são negociadas sob os códigos POMO3 (ações ordinárias) e POMO4 (ações preferenciais). As ações preferenciais (POMO4) possuem preferência no recebimento de dividendos e, em caso de liquidação, no recebimento do patrimônio líquido, mas não têm direito a voto nas assembleias gerais, exceto em situações específicas previstas em lei. As ações ordinárias (POMO3) conferem direito a voto em todas as deliberações da assembleia, mas ficam em posição de menor prioridade no recebimento de proventos em relação às preferenciais."
+    },
+    {
+      "id": "proventos",
+      "heading": "POMO4 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a POMO4 distribuiu R$ 0,9241 por ação em 3 pagamentos, o que resulta em um dividend yield de 24,71%. O último provento pago foi de R$ 0,1300 em 26/08/2026. A companhia tem uma política ativa de remuneração aos acionistas, com fatos relevantes recentes indicando pagamentos de Juros sobre o Capital Próprio (JCP) e dividendos, além de bonificações e recompra de ações. É possível acompanhar o histórico detalhado de [dividendos e JCP no app](/recursos/proventos), que mostra as datas de competência e pagamento multiplicadas pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da POMO4",
+      "body": "A rentabilidade total da POMO4, incluindo proventos, foi de -45,52% nos 12 meses até 30/10/2026. No entanto, em períodos mais longos, o ativo apresentou retornos positivos: 25,31% em 3 anos, 183,76% em 5 anos e 170,17% em 10 anos. Esses números refletem a volatilidade do setor de transportes e a capacidade de recuperação da empresa após períodos de retração. Para entender como esse desempenho se compara a outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade da carteira lado a lado com o Ibovespa, CDI e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da POMO4",
+      "body": "A volatilidade anualizada da POMO4 nos últimos 12 meses é de 41,01%, classificada como 'muito alta'. A maior queda nos últimos 5 anos foi de -51,37%, ocorrida do pico em 18/09/2025 ao ponto mais baixo em 30/10/2026. O beta de 1,02 indica que, em média, a ação acompanha os movimentos do Ibovespa na mesma proporção. Os riscos incluem a dependência do ciclo econômico para a venda de ônibus, a concorrência no mercado global e a exposição a mudanças regulatórias. A alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge níveis específicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "POMO4 paga dividendos?",
+      "answer": "Sim, a POMO4 distribui proventos regularmente. Nos 12 meses até 30/10/2026, foram pagos R$ 0,9241 por ação em 3 ocasiões, com um dividend yield de 24,71%. O último pagamento foi de R$ 0,1300 em 26/08/2026. Os detalhes de cada pagamento podem ser vistos no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre POMO3 e POMO4?",
+      "answer": "POMO3 é a ação ordinária, que dá direito a voto em assembleias, enquanto POMO4 é a ação preferencial, que tem prioridade no recebimento de dividendos e JCP, mas não vota. Ambas representam participação na Marcopolo S.A., mas com direitos distintos em governança e proventos."
+    },
+    {
+      "question": "O que a Marcopolo faz?",
+      "answer": "A Marcopolo é a maior fabricante de carrocerias de ônibus da América Latina e a terceira maior do mundo. A empresa produz ônibus, carrocerias, peças e, desde 2019, trens urbanos leves. Seus produtos são vendidos em mais de 140 países, com fábricas na América, África e Ásia."
+    },
+    {
+      "question": "POMO4 é uma ação volátil?",
+      "answer": "Sim, a volatilidade anualizada de 41,01% é considerada muito alta. A ação sofreu uma queda de 51,37% entre 18/09/2025 e 30/10/2026. Esse nível de oscilação é típico de ações de bens industriais cíclicos, que dependem do ciclo econômico para vendas."
+    },
+    {
+      "question": "Como acompanhar a POMO4 no app?",
+      "answer": "É possível monitorar a POMO4 através do [widget na barra de menus](/recursos/widget-da-barra-de-menus), que mostra o gráfico do dia e as posições com um clique. Para perguntas específicas sobre a posição, o [assistente de IA](/recursos/assistente-de-ia) responde em português usando os seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da POMO4 com data de competência e data de pagamento, multiplicados pela sua quantidade de ações."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a POMO4 atingir preços que você definir, útil para monitorar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da POMO4 com o Ibovespa e o CDI no mesmo gráfico para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação da POMO4 junto com outros ativos da sua carteira, vendo o impacto da volatilidade no todo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Outra ação preferencial de grande capitalização no Ibovespa, com alta volatilidade e exposição a commodities."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária de mineradora, também sensível ao ciclo econômico e com alta volatilidade."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial de banco, com perfil de dividendos e governança corporativa Nível 2, similar à POMO4."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Outra ação preferencial de banco com alta liquidez e distribuição regular de proventos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de POMO4",
+      "url": "https://finance.yahoo.com/quote/POMO4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MARCOPOLO, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/8451/POMO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, MARCOPOLO SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Marcopolo",
+      "url": "https://www.wikidata.org/wiki/Q1848996",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Marcopolo",
+      "url": "https://pt.wikipedia.org/wiki/Marcopolo",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/08/2026, “Dividendos - Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1559457&numSequencia=1084163&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/04/2026, “Pagamento de Juros Sobre o Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1505167&numSequencia=1029873&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/03/2026, “Alteração dos portais de publicação”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1494409&numSequencia=1019115&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/12/2025, “Bonificação”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1459621&numSequencia=984327&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/11/2025, “Fato Relevante”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1446419&numSequencia=971131&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 21/08/2025, “Distribuição de Dividendos e JCP”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1415915&numSequencia=940627&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/04/2025, “Juros sobre o Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1365544&numSequencia=890270&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/02/2025, “Declaração de Dividendos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1337502&numSequencia=862228&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

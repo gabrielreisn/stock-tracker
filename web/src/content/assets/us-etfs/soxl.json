@@ -1,0 +1,286 @@
+{
+  "ticker": "SOXL",
+  "slug": "soxl",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SOXL: ETF alavancado 3x de semicondutores",
+    "description": "SOXL busca 300% do desempenho diário de semicondutores. Volatilidade de 142%, beta 8,10 e queda de -90% em 5 anos.",
+    "h1": "SOXL: Direxion Daily Semiconductor Bull 3X Shares",
+    "canonicalPath": "/etfs/soxl",
+    "keywords": [
+      "SOXL",
+      "ETF alavancado",
+      "semicondutores",
+      "Direxion",
+      "3x",
+      "volatilidade",
+      "beta",
+      "investir do Brasil"
+    ]
+  },
+  "summary": "Lançado em 11/03/2010 pela Direxion, o fundo possui volatilidade anualizada de 142,32% e beta de 8,10 contra o S&P 500 nos 12 meses até 30/10/2026. Com preço de US$ 77,05, oferece dividend yield de 0,12%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Direxion Daily Semiconductor Bull 3X Shares",
+    "ticker": "ARCX SOXL",
+    "foundingDate": "2010-03-11",
+    "provider": {
+      "name": "Direxion",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Direxion"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado 3x",
+    "issuerOrManager": "Direxion",
+    "trackedIndex": "Indústria de semicondutores (não especificado nas fontes)",
+    "name": "Direxion Daily Semiconductor Bull 3X Shares",
+    "founded": "11/03/2010"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Direxion Daily Semiconductor Bull 3X Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "11/03/2010",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "3x o desempenho diário do índice (300%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 77,05",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "142,32% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "8,10",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,12%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 8,49 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SOXL",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Direxion Daily Semiconductor Bull 3X Shares",
+    "currency": "USD",
+    "price": 77.05,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.6269,
+      "3y": 4.3973,
+      "5y": 0.5906,
+      "10y": 26.7667
+    },
+    "volatility1y": 1.4232,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9046,
+      "from": "2021-12-27",
+      "to": "2022-10-14"
+    },
+    "beta1y": {
+      "value": 8.1,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.093,
+      "payments12Months": 1,
+      "yield12Months": 0.0012,
+      "lastPayment": {
+        "date": "2026-09-22",
+        "amount": 0.093
+      }
+    },
+    "avgDailyTradedValue3m": 8491024504
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 142,32% do SOXL é classificada como muito alta, típica de ETFs alavancados 3x. O beta de 8,10 contra o S&P 500 indica que o ativo costuma se mover 8,1 vezes mais que o índice, na mesma direção. A maior queda em 5 anos, de -90,46% entre 27/12/2021 e 14/10/2022, ilustra o risco de drawdown extremo. Para monitorar oscilações, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O SOXL faz parte da estratégia da Direxion, empresa fundada em 1997 como Potomac Funds e renomeada em 2006 para destacar seus produtos alavancados. A Direxion foi a primeira a oferecer ETFs com alavancagem de 3x em novembro de 2008, o que gerou escrutínio da SEC e levou algumas corretoras a suspenderem a venda desses produtos por preocupações com erro de rastreamento e uso inadequado como hedge de longo prazo. Em dezembro de 2010, a empresa expandiu sua oferta com 24 novos ETFs, incluindo não alavancados. O SOXL estreou na bolsa em 11/03/2010, posicionando-se no segmento de semicondutores, uma indústria caracterizada por crescimento cíclico e alta volatilidade de curto prazo, conforme descrito nas fontes.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fundação da Potomac Funds, que posteriormente se tornaria a Direxion",
+        "source": 1
+      },
+      {
+        "date": "2006",
+        "event": "A empresa passa a usar o nome Direxion para destacar seus fundos alavancados",
+        "source": 1
+      },
+      {
+        "date": "2008-11",
+        "event": "Direxion lança os primeiros ETFs com alavancagem de 3x nos EUA",
+        "source": 1
+      },
+      {
+        "date": "2010-03-11",
+        "event": "Primeiro pregão das cotas do SOXL na bolsa",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SOXL funciona",
+      "body": "A Direxion, emissora do fundo, foi pioneira nesse tipo de produto em 2008. O rebalanceamento diário é essencial para manter a alavancagem, mas em períodos mais longos, o resultado se afasta do múltiplo do índice devido ao efeito de compostagem (volatility decay). Isso significa que o SOXL não entrega 3x do retorno do índice em um mês ou ano, apenas em cada dia de negociação."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SOXL",
+      "body": "As fontes disponíveis não detalham o índice específico que o SOXL replica nem a composição exata das cotas. Sabe-se que o fundo foca na indústria de semicondutores, setor dominado por empresas dos EUA, Taiwan, Coreia do Sul, Japão e Holanda, com presença significativa de Israel e Alemanha. A indústria é cíclica e volátil, com crescimento médio de 13% ao ano, mas com oscilações dramáticas no curto prazo."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SOXL a partir do Brasil",
+      "body": "Investidores brasileiros podem adquirir SOXL através de contas em corretoras internacionais que negociam na bolsa americana. Alternativamente, é possível buscar exposição ao setor de semicondutores via BDRs de empresas do setor listados na B3, como [NVDC34](/bdrs/nvdc34) ou [MUTC34](/bdrs/mutc34). O principal risco cambial é a variação do dólar frente ao real, que impacta o retorno em reais independentemente do desempenho do ativo em dólar."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SOXL",
+      "body": "Nos 12 meses até 30/10/2026, o SOXL rendeu 62,69% em dólar. Em 3 anos, a rentabilidade total foi de 439,73%, e em 5 anos, de 59,06%. O período de 10 anos mostra um retorno de 2.676,67%. Esses números refletem a alavancagem de 3x e a volatilidade extrema do setor. Para comparar com o mercado americano, veja a [comparação com índices](/recursos/comparacao-com-indices) no app, que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SOXL",
+      "body": "O SOXL apresenta volatilidade anualizada de 142,32% e beta de 8,10 contra o S&P 500, indicando movimentos muito maiores que o mercado. A maior queda em 5 anos foi de -90,46%, entre 27/12/2021 e 14/10/2022. Riscos incluem o efeito de decaimento da volatilidade em alavancados, a cíclicidade da indústria de semicondutores e a exposição cambial para investidores brasileiros. A alta liquidez (US$ 8,49 bilhões/dia) mitiga riscos de execução, mas não o risco de mercado."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar SOXL no app",
+      "body": "Para quem tem SOXL na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas para acompanhar as oscilações extremas do SOXL, que pode variar mais de 100% em poucos meses.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare o desempenho do SOXL com o S&P 500 e outros índices no mesmo gráfico, para entender o impacto da alavancagem.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja como o SOXL se encaixa na sua alocação global, ao lado de ações, FIIs e renda fixa, em uma única visão.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade e o preço médio do SOXL na sua carteira, com gráficos interativos para medir períodos específicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qual a diferença entre SOXL e SMH?",
+      "answer": "SOXL é alavancado 3x, enquanto [SMH](/etfs/smh) é um ETF de semicondutores sem alavancagem. O SOXL amplifica os movimentos diários, o que aumenta tanto ganhos quanto perdas em relação ao SMH."
+    },
+    {
+      "question": "SOXL paga dividendos?",
+      "answer": "Sim, mas o dividend yield é de apenas 0,12%, com US$ 0,0930 por cota nos 12 meses até 30/10/2026. O foco do fundo é capitalização, não renda."
+    },
+    {
+      "question": "Como investir em SOXL do Brasil?",
+      "answer": "Você pode comprar SOXL em uma corretora internacional ou buscar exposição via BDRs de semicondutores na B3, como [NVDC34](/bdrs/nvdc34). O risco cambial é um fator importante no retorno em reais."
+    },
+    {
+      "question": "SOXL é adequado para longo prazo?",
+      "answer": "ETFs alavancados 3x como o SOXL sofrem com decaimento de volatilidade em períodos longos, o que pode reduzir o retorno abaixo do múltiplo do índice. Eles são projetados para uso diário, não para holding de longo prazo."
+    },
+    {
+      "question": "Qual a volatilidade do SOXL?",
+      "answer": "A volatilidade anualizada de 12 meses é de 142,32%, nível muito alto. O beta contra o S&P 500 é 8,10, indicando sensibilidade extrema aos movimentos do mercado."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para acompanhar as oscilações extremas do SOXL, que pode variar mais de 100% em poucos meses."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare o desempenho do SOXL com o S&P 500 e outros índices no mesmo gráfico, para entender o impacto da alavancagem."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja como o SOXL se encaixa na sua alocação global, ao lado de ações, FIIs e renda fixa, em uma única visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio do SOXL na sua carteira, com gráficos interativos para medir períodos específicos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SOXS",
+        "list": "us-etfs",
+        "reason": "Versão inversa 3x do SOXL, para quem busca exposição negativa ao setor de semicondutores."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores sem alavancagem, para comparação com o SOXL."
+      },
+      {
+        "ticker": "SOXX",
+        "list": "us-etfs",
+        "reason": "Outro ETF de semicondutores sem alavancagem, da iShares, para diversificação de exposição ao setor."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR da NVIDIA, uma das maiores empresas de semicondutores, para exposição direta ao setor via B3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SOXL",
+      "url": "https://finance.yahoo.com/quote/SOXL/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Direxion (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Direxion",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Semiconductor industry (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Semiconductor_industry",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

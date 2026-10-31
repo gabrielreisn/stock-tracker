@@ -1,0 +1,305 @@
+{
+  "ticker": "ROXO34",
+  "slug": "roxo34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ROXO34: BDR da Nubank, histórico e volatilidade",
+    "description": "ROXO34 é o BDR da Nubank na B3. Veja o histórico da empresa, a volatilidade de 38,02%, a maior queda de -76,35% e como acompanhar o ativo no app.",
+    "h1": "ROXO34: BDR da Nubank na B3",
+    "canonicalPath": "/bdrs/roxo34",
+    "keywords": [
+      "ROXO34",
+      "BDR Nubank",
+      "NU HOLDINGS",
+      "BDR não patrocinado",
+      "Nubank B3",
+      "ROXO34 dividendos",
+      "ROXO34 volatilidade"
+    ]
+  },
+  "summary": "ROXO34 é o BDR não patrocinado nível I da NU HOLDINGS LTD. (Nubank), negociado na B3 em reais e lastreado na ação NU na Bolsa de Valores de Nova Iorque. A empresa, fundada em 2013, é a maior fintech bancária da América Latina, com mais de 135 milhões de clientes em 2026. Em 29/10/2026, o ativo cotava a R$ 10,80, apresentando rentabilidade de -25,77% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Nubank",
+    "legalName": "NU HOLDINGS LTD.",
+    "ticker": "BVMF ROXO34",
+    "foundingDate": "2013-05-06",
+    "website": "https://nu.com.ar/",
+    "wikidata": "Q25422888",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q25422888",
+      "https://en.wikipedia.org/wiki/Nubank",
+      "https://pt.wikipedia.org/wiki/Nubank",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59382/ROXO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Nubank",
+    "legalName": "NU HOLDINGS LTD.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "06/05/2013",
+    "listedSince": "28/06/2023",
+    "headquarters": "São Paulo, Buenos Aires, Cidade do México, Berlim",
+    "website": "https://nu.com.ar/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "NU HOLDINGS LTD.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: NU, B3: ROXO34",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo, Buenos Aires, Cidade do México, Berlim",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "06/05/2013",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "28/06/2023",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 10,80",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "38,02% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 142,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ROXO34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Nu Holdings Ltd.",
+    "currency": "BRL",
+    "price": 10.8,
+    "historyStarts": "2021-12-09",
+    "returns": {
+      "1y": -0.2577,
+      "3y": 0.5675,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.3802,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7635,
+      "from": "2021-12-10",
+      "to": "2022-05-24"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 141964877
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do ROXO34 nos últimos 12 meses é de 38,02%, o que é classificado como nível alto. A maior queda nos últimos 5 anos foi de -76,35%, entre 10/12/2021 e 24/05/2022. O beta do ativo não está disponível no dossiê, mas a alta volatilidade indica que o ativo tende a ter oscilações de preço mais amplas do que a média de mercado. Para quem deseja acompanhar essas variações, os [alertas de preço](/recursos/alertas-de-preco) permitem definir limites de notificação, e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) ajuda a visualizar a evolução histórica da posição."
+  },
+  "history": {
+    "overview": "A Nubank, hoje conhecida como Nu, foi fundada em 6 de maio de 2013 por David Vélez em São Paulo, com o objetivo de oferecer serviços bancários sem tarifas. A empresa iniciou suas operações com um cartão de crédito internacional gerido por aplicativo, cuja primeira transação ocorreu em 1º de abril de 2014. Em 2018, atingiu o status de unicórnio e, em 2021, realizou sua oferta pública inicial de ações (IPO) na Bolsa de Valores de Nova Iorque, sendo avaliada em US$ 45 bilhões. A expansão internacional começou em 2019 no México e em 2020 na Colômbia. Em 2023, o BDR ROXO34 passou a ser negociado na B3, permitindo que investidores brasileiros acompanhassem a empresa em reais. Em 2026, a Nubank tornou-se a segunda maior instituição financeira do país em número de clientes, ultrapassando bancos tradicionais, e obteve aprovação condicional para operar como banco nos Estados Unidos.",
+    "timeline": [
+      {
+        "date": "2013-05-06",
+        "event": "Fundação da Nubank por David Vélez em São Paulo.",
+        "source": 2
+      },
+      {
+        "date": "2014-04-01",
+        "event": "Primeira transação realizada com um cartão de crédito Nubank.",
+        "source": 3
+      },
+      {
+        "date": "2018-02",
+        "event": "A empresa atinge o status de unicórnio, com avaliação de US$ 1 bilhão.",
+        "source": 4
+      },
+      {
+        "date": "2019-05",
+        "event": "Anúncio da expansão para o México através da subsidiária Nu.",
+        "source": 3
+      },
+      {
+        "date": "2020-11",
+        "event": "Início das operações da empresa na Colômbia.",
+        "source": 3
+      },
+      {
+        "date": "2021-12",
+        "event": "Conclusão do IPO na Bolsa de Valores de Nova Iorque, com avaliação de US$ 45 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2023-06-28",
+        "event": "Listagem do BDR ROXO34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2026-01",
+        "event": "Aprovação condicional para estabelecer presença bancária nos Estados Unidos.",
+        "source": 3
+      },
+      {
+        "date": "2026-03",
+        "event": "A Nubank torna-se a segunda maior instituição financeira brasileira em número de clientes.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Nubank ganha dinheiro",
+      "body": "A Nubank opera como uma instituição financeira e de pagamento regulada pelo Banco Central do Brasil, embora não faça parte formalmente do Sistema Financeiro Nacional. A empresa oferece uma gama de produtos, incluindo a conta digital NuConta, cartões de crédito internacionais sem anuidade, empréstimos pessoais, seguros de vida e serviços de investimento. O modelo de negócio baseia-se na digitalização total do atendimento, com a gestão de limites e transações realizada exclusivamente por aplicativo. Em 2026, a empresa registrou uma receita superior a US$ 5 bilhões no primeiro trimestre, sustentada por mais de 135 milhões de clientes distribuídos entre o Brasil, México, Colômbia e Estados Unidos."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR ROXO34",
+      "body": "O ROXO34 é um BDR não patrocinado de nível I, o que significa que é um recibo negociado na B3 em reais, lastreado em ações da NU HOLDINGS LTD. na Bolsa de Valores de Nova Iorque (ticker NU). O ativo foi listado na B3 em 28/06/2023. O preço do BDR acompanha a cotação da ação original em Nova Iorque e a variação do câmbio entre o dólar e o real. Por ser não patrocinado, a empresa não emite o BDR diretamente, mas sim uma instituição depositária, e o investidor não possui direito a voto nas assembleias da empresa estrangeira."
+    },
+    {
+      "id": "proventos",
+      "heading": "ROXO34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, o ROXO34 não distribuiu proventos, como dividendos ou juros sobre capital próprio. A empresa paga eventuais proventos na moeda de sua sede (dólar), e o valor que chega ao investidor brasileiro é convertido para reais no momento do pagamento, sujeito à variação cambial. Como não houve distribuição nesse período, o rendimento do ativo para quem o detém vem exclusivamente da variação do preço de mercado."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ROXO34",
+      "body": "Até 29/10/2026, o ROXO34 apresentava uma rentabilidade total de -25,77% nos últimos 12 meses e de 56,75% em três anos. Esses números incluem a variação do câmbio, o que significa que a performance reflete tanto o movimento da ação na bolsa americana quanto a oscilação do dólar em relação ao real. Para entender o contexto dessa variação, é possível observar a [comparação com índices](/recursos/comparacao-com-indices), que permite ver a rentabilidade do ativo lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ROXO34",
+      "body": "O principal risco do ROXO34 é o cambial, pois o valor do BDR depende da cotação do dólar. Além disso, o ativo possui alta volatilidade, com uma volatilidade anualizada de 38,02% nos últimos 12 meses. A maior queda registrada nos últimos 5 anos foi de -76,35%, ocorrida entre o pico em 10/12/2021 e o fundo em 24/05/2022. A liquidez também é um fator a ser considerado, com um volume médio diário de R$ 142,0 milhões nos últimos 3 meses. Investidores que acompanham esses movimentos podem utilizar os [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações específicas."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ROXO34 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 29/10/2026, o ROXO34 não pagou dividendos ou outros proventos. A empresa pode distribuir proventos no futuro, mas isso não é garantido. O rendimento do ativo nesse período veio apenas da variação do preço de mercado."
+    },
+    {
+      "question": "Qual a diferença entre ROXO34 e a ação NU?",
+      "answer": "O ROXO34 é um BDR negociado na B3 em reais, enquanto a ação NU é negociada na Bolsa de Valores de Nova Iorque em dólares. O preço do ROXO34 reflete o valor da ação NU ajustado pelo câmbio. O BDR é um recibo que representa a ação original, mas não dá direito a voto na empresa."
+    },
+    {
+      "question": "ROXO34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O ROXO34 é um BDR não patrocinado de nível I. Isso significa que a empresa não emite o BDR diretamente, mas sim uma instituição depositária. O investidor não tem direito a voto nas assembleias da NU HOLDINGS LTD. através do BDR."
+    },
+    {
+      "question": "Qual o risco cambial do ROXO34?",
+      "answer": "O ROXO34 possui risco cambial, pois seu preço é influenciado pela variação do dólar em relação ao real. Se o dólar valorizar, o BDR tende a subir, e se o dólar desvalorizar, o BDR tende a cair, independentemente do desempenho da empresa."
+    },
+    {
+      "question": "Qual a volatilidade do ROXO34?",
+      "answer": "A volatilidade anualizada do ROXO34 nos últimos 12 meses é de 38,02%, o que é considerado alto. A maior queda nos últimos 5 anos foi de -76,35%, entre 10/12/2021 e 24/05/2022. Isso indica que o ativo tem oscilações de preço mais amplas do que a média de mercado."
+    },
+    {
+      "question": "Como acompanhar o ROXO34 no app?",
+      "answer": "Você pode usar a [carteira consolidada](/recursos/carteira-consolidada) para ver o ROXO34 junto com outros ativos, a [comparação com índices](/recursos/comparacao-com-indices) para ver sua rentabilidade ao lado do S&P 500, e o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre sua posição no ativo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o ROXO34 junto com suas outras ações e BDRs, com alocação e valor por classe."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do ROXO34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o ROXO34 chegar a um preço que você definir, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre sua posição no ROXO34 e veja as respostas com base nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "Outro BDR de uma empresa brasileira com forte presença internacional, similar ao ROXO34 em termos de exposição ao câmbio e ao mercado americano."
+      },
+      {
+        "ticker": "INBR34",
+        "list": "bdrs",
+        "reason": "BDR de outra fintech brasileira, a Inter, que também opera no exterior e é negociada na B3."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação de um banco tradicional brasileiro, útil para comparar com a Nubank, que é a segunda maior instituição financeira do país em número de clientes."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar a performance do ROXO34 com o mercado americano, já que a ação original é negociada em Nova Iorque."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ROXO34",
+      "url": "https://finance.yahoo.com/quote/ROXO34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: NU HOLDINGS, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59382/ROXO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Nubank",
+      "url": "https://www.wikidata.org/wiki/Q25422888",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nubank",
+      "url": "https://en.wikipedia.org/wiki/Nubank",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Nubank",
+      "url": "https://pt.wikipedia.org/wiki/Nubank",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

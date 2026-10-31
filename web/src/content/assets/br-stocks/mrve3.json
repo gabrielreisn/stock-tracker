@@ -1,0 +1,406 @@
+{
+  "ticker": "MRVE3",
+  "slug": "mrve3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MRVE3: história, dividendos e volatilidade",
+    "description": "MRVE3 é a ação ordinária da MRV Engenharia, incorporadora de habitação econômica.",
+    "h1": "MRVE3: MRV Engenharia e Participações S.A.",
+    "canonicalPath": "/acoes/mrve3",
+    "keywords": [
+      "MRVE3",
+      "MRV Engenharia",
+      "ação MRV",
+      "dividendos MRVE3",
+      "volatilidade MRVE3",
+      "incorporadora habitação econômica",
+      "Minha Casa Minha Vida",
+      "B3 MRVE3"
+    ]
+  },
+  "summary": "MRVE3 é a ação ordinária da MRV Engenharia e Participações S.A., incorporadora e construtora brasileira sediada em Belo Horizonte. A empresa atua no segmento de habitação econômica, com forte exposição ao programa Minha Casa, Minha Vida. Em 30/10/2026, o papel era cotado a R$ 4,03 na B3, acumulando queda de 45,61% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "MRV Engenharia",
+    "legalName": "MRV ENGENHARIA E PARTICIPAÇÕES S/A",
+    "ticker": "BVMF MRVE3",
+    "isin": "BRMRVEACNOR2",
+    "taxId": "08.343.492/0001-20",
+    "foundingDate": "2006-05-31",
+    "address": {
+      "locality": "Belo Horizonte",
+      "region": "MG",
+      "country": "BR"
+    },
+    "website": "https://www.mrv.com.br",
+    "wikidata": "Q2415931",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q2415931",
+      "https://pt.wikipedia.org/wiki/MRV_Engenharia",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20915/MRVE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "MRV Engenharia",
+    "legalName": "MRV ENGENHARIA E PARTICIPAÇÕES S/A",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Incorporações",
+    "founded": "31/05/2006",
+    "listedSince": "23/07/2007",
+    "headquarters": "Belo Horizonte (MG)",
+    "website": "https://www.mrv.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "MRV ENGENHARIA E PARTICIPAÇÕES S/A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "08.343.492/0001-20",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Incorporações",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "31/05/2006",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Belo Horizonte (MG)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "23/07/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "MRVE3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 4,03",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "77,60% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,37",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 94,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MRVE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "MRV Engenharia e Participações S.A.",
+    "currency": "BRL",
+    "price": 4.03,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.4561,
+      "3y": -0.5103,
+      "5y": -0.5996,
+      "10y": -0.5178
+    },
+    "volatility1y": 0.776,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.715,
+      "from": "2023-07-26",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 2.37,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2022-09-22",
+        "amount": 0.197808
+      }
+    },
+    "avgDailyTradedValue3m": 94657223
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da MRVE3 é de 77,60% nos últimos 12 meses, nível muito alto para uma ação brasileira. O beta de 2,37 contra o Ibovespa indica que o papel tende a amplificar os movimentos do índice em 2,37 vezes, na mesma direção. A maior queda em 5 anos foi de -71,50%, entre 26/07/2023 e 30/10/2026. Esses números mostram que a MRVE3 é sensível a ciclos de crédito habitacional e a mudanças no programa Minha Casa, Minha Vida. Para acompanhar a variação do preço e definir pontos de atenção, o app oferece [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge um valor escolhido."
+  },
+  "history": {
+    "overview": "A MRV Engenharia e Participações S.A. tem origem em 1979, quando Rubens Menin Teixeira de Souza, Mário Lúcio Pinheiro Menin e Homero Mattos de Andrade e Silva fundaram a empresa em Belo Horizonte. Inicialmente focada na classe média local, a construtora expandiu sua atuação para outras cidades mineiras e, na década de 1990, para o interior paulista e a Região Sul. O crescimento acelerado ocorreu com a produção de moradias de menor preço e a expansão do crédito habitacional para famílias de renda mais baixa, processo consolidado com a chegada do programa Minha Casa, Minha Vida em 2009. Em 2006, o fundo Autonomy Capital Research adquiriu 16,7% do capital, e em 2007 a empresa abriu seu capital na B3, captando cerca de R$ 1,2 bilhão. A partir de 2020, a MRV passou a integrar o Grupo MRV&CO, com subsidiárias como Urba, Luggo, Sensia e a norte-americana Resia. Em 2025, a empresa produziu mais de 40 mil unidades habitacionais, e em 2026 já haviam sido entregues mais de 550 mil chaves desde a fundação. A empresa mantém projetos em desenvolvimento em mais de 80 cidades e 22 estados brasileiros, além do Distrito Federal.",
+    "timeline": [
+      {
+        "date": "1979",
+        "event": "Fundação da MRV Engenharia em Belo Horizonte por Rubens Menin, Mário Lúcio Pinheiro Menin e Homero Mattos de Andrade e Silva.",
+        "source": 3
+      },
+      {
+        "date": "2006-05-31",
+        "event": "Constituição da MRV Engenharia e Participações S.A. como sociedade anônima.",
+        "source": 2
+      },
+      {
+        "date": "2007-07-13",
+        "event": "Registro da companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2007-07-23",
+        "event": "Início da cotação das ações na B3, no segmento Novo Mercado.",
+        "source": 1
+      },
+      {
+        "date": "2025-02-25",
+        "event": "Divulgação de projeções pela companhia.",
+        "source": 11
+      },
+      {
+        "date": "2025-06-12",
+        "event": "Aprovação do Plano de Recompra de Ações.",
+        "source": 10
+      },
+      {
+        "date": "2025-07-11",
+        "event": "Registro de impairment na subsidiária Resia.",
+        "source": 9
+      },
+      {
+        "date": "2025-11-12",
+        "event": "Atualização do guidance da empresa.",
+        "source": 8
+      },
+      {
+        "date": "2025-12-11",
+        "event": "Nova aprovação do Plano de Recompra de Ações.",
+        "source": 7
+      },
+      {
+        "date": "2026-03-09",
+        "event": "Descontinuação de projeções pela companhia.",
+        "source": 6
+      },
+      {
+        "date": "2026-08-04",
+        "event": "Complemento de informações sobre o Plano de Recompra de Ações.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a MRV Engenharia ganha dinheiro",
+      "body": "A MRV Engenharia e Participações S.A. desenvolve, constrói e vende imóveis residenciais, com concentração no segmento de habitação econômica. A atividade principal da companhia é classificada pela B3 como Consumo Cíclico / Construção Civil / Incorporações. A empresa opera em 22 estados brasileiros e no Distrito Federal, mantendo projetos em desenvolvimento em mais de 80 cidades. Em 2026, a construtora já havia entregue mais de 550 mil chaves desde a sua fundação em 1979. Em 2025, a MRV produziu mais de 40 mil unidades habitacionais. O programa Minha Casa, Minha Vida é central para o modelo de negócios: em 2024, aproximadamente 85% das unidades vendidas se enquadravam nas regras do programa, que combina limites de renda, subsídios e linhas financiadas com recursos do FGTS. A partir de 2020, a MRV passou a integrar o Grupo MRV&CO, que inclui as subsidiárias Urba, Luggo, Sensia e a norte-americana Resia."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da MRV Engenharia",
+      "body": "A MRV Engenharia e Participações S.A. possui controle acionário privado, conforme cadastro na CVM. Rubens Menin Teixeira de Souza é o acionista majoritário, e Rafael Menin e Eduardo Fischer são co-CEOs da empresa. As ações são negociadas na B3 sob o código MRVE3, no segmento de listagem Novo Mercado, desde 23/07/2007. A MRVE3 é uma ação ordinária, o que significa que seus titulares têm direito a voto nas assembleias gerais da companhia. Em termos gerais, ações ordinárias (ON) conferem direito a voto, enquanto ações preferenciais (PN) não conferem voto, mas têm preferência no recebimento de dividendos e no patrimônio em caso de liquidação. A MRV não possui ações preferenciais em circulação, apenas a classe ordinária MRVE3."
+    },
+    {
+      "id": "proventos",
+      "heading": "MRVE3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a MRVE3 não distribuiu proventos a seus acionistas. Não há dividendos, juros sobre capital próprio (JCP) ou outros rendimentos registrados no período. A ausência de proventos recentes contrasta com o histórico da empresa, que tradicionalmente remunerava seus acionistas. A decisão sobre a distribuição de lucros é feita pela administração da companhia e aprovada em assembleia. Para acompanhar a evolução dos proventos de qualquer ação da B3, é possível utilizar a ferramenta de [dividendos e JCP no app](/recursos/proventos), que lista as datas de competência e de pagamento com base nos comunicados oficiais."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da MRVE3",
+      "body": "A rentabilidade total da MRVE3, incluindo proventos, foi de -45,61% nos 12 meses até 30/10/2026. Nos 3 anos, a queda acumulada foi de -51,03%, e nos 5 anos, de -59,96%. No período de 10 anos, a rentabilidade total foi de -51,78%. Para comparar o desempenho da MRVE3 com referências de mercado, o app oferece a ferramenta de [comparação com índices](/recursos/comparacao-com-indices), que posiciona a rentabilidade da ação lado a lado com o Ibovespa, o CDI e outros índices no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da MRVE3",
+      "body": "A MRVE3 apresenta volatilidade anualizada de 77,60% nos últimos 12 meses, classificada como nível muito alto. O beta de 2,37 indica que, historicamente, os movimentos do papel tendem a ser 2,37 vezes maiores que os do Ibovespa, na mesma direção. A maior queda nos últimos 5 anos foi de -71,50%, entre o pico em 26/07/2023 e o ponto mais baixo em 30/10/2026. Riscos específicos incluem a forte dependência do programa Minha Casa, Minha Vida, que representa cerca de 85% das vendas, e a sensibilidade a mudanças nas regras do FGTS e no volume de crédito habitacional. A exposição à subsidiária norte-americana Resia também introduz risco cambial e de mercado internacional, evidenciado pelo impairment registrado em 11/07/2025. A alta volatilidade e a queda acentuada exigem atenção a movimentos bruscos de preço, que podem ser monitorados com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MRVE3 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, a MRVE3 não distribuiu proventos. A ausência de dividendos e JCP no período recente é um fato verificável nos dados de mercado. A decisão de distribuir lucros é feita pela administração e aprovada em assembleia. Para acompanhar a evolução dos proventos, é possível usar a ferramenta de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre MRVE3 e outras ações da MRV?",
+      "answer": "A MRV Engenharia não possui ações preferenciais em circulação. O único código negociado na B3 é MRVE3, que é uma ação ordinária (ON). Isso significa que os titulares têm direito a voto nas assembleias gerais. A empresa não emite a classe preferencial (PN), que normalmente não confere voto, mas tem preferência no recebimento de dividendos."
+    },
+    {
+      "question": "MRVE3 é uma ação de que setor?",
+      "answer": "A MRVE3 é classificada pela B3 no setor de Consumo Cíclico, segmento de Construção Civil e Incorporações. A empresa atua no desenvolvimento, construção e venda de imóveis residenciais, com foco em habitação econômica. A atividade principal é a incorporação e construção de empreendimentos, com forte exposição ao programa Minha Casa, Minha Vida."
+    },
+    {
+      "question": "Qual a volatilidade da MRVE3?",
+      "answer": "A volatilidade anualizada da MRVE3 é de 77,60% nos últimos 12 meses, nível muito alto. O beta de 2,37 indica que o papel tende a acompanhar os movimentos do Ibovespa com amplitude 2,37 vezes maior. A maior queda em 5 anos foi de -71,50%, entre 26/07/2023 e 30/10/2026. Para monitorar movimentos bruscos, o app oferece [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Como a MRV Engenharia ganha dinheiro?",
+      "answer": "A MRV Engenharia desenvolve, constrói e vende imóveis residenciais, com foco em habitação econômica. A receita vem da venda de unidades habitacionais, muitas vezes financiadas pelo programa Minha Casa, Minha Vida, que representava cerca de 85% das vendas em 2024. A empresa opera em 22 estados e no Distrito Federal, com projetos em mais de 80 cidades. A partir de 2020, passou a integrar o Grupo MRV&CO, com subsidiárias como Urba, Luggo, Sensia e Resia."
+    },
+    {
+      "question": "MRVE3 tem risco de crédito ou cambial?",
+      "answer": "A MRVE3 não é um título de dívida, mas a empresa possui exposição cambial por meio da subsidiária norte-americana Resia, que introduz risco de mercado internacional. O impairment registrado em 11/07/2025 na Resia reflete esse risco. A dependência do programa Minha Casa, Minha Vida também é um risco setorial, pois mudanças nas regras do FGTS ou no volume de crédito habitacional podem impactar as vendas. A volatilidade anualizada de 77,60% reflete a sensibilidade a esses fatores."
+    },
+    {
+      "question": "Como acompanhar a MRVE3 na carteira?",
+      "answer": "Para acompanhar a MRVE3 junto com outros ativos, o app oferece a [carteira consolidada](/recursos/carteira-consolidada), que reúne ações da B3, dos EUA, renda fixa e fundos em uma só visão, mostrando valor por classe e alocação. É possível também usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a posição na MRVE3, com respostas baseadas nos próprios dados do investidor."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da MRVE3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da MRVE3 com o Ibovespa, o CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a MRVE3 chegar ao preço que você escolheu, para acompanhar movimentos bruscos."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a MRVE3 junto com outras ações, renda fixa e fundos, com valor por classe e alocação."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição na MRVE3 e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "CYRE3",
+        "list": "br-stocks",
+        "reason": "Outra incorporadora brasileira, com exposição ao setor de construção civil e habitação."
+      },
+      {
+        "ticker": "CURY3",
+        "list": "br-stocks",
+        "reason": "Construtora e incorporadora, par no segmento de imóveis residenciais."
+      },
+      {
+        "ticker": "TEND3",
+        "list": "br-stocks",
+        "reason": "Construtora com foco em habitação de interesse social, similar ao modelo da MRV."
+      },
+      {
+        "ticker": "MULT3",
+        "list": "br-stocks",
+        "reason": "Empreendimentos imobiliários, par no setor de imóveis e construção civil."
+      },
+      {
+        "ticker": "ALOS3",
+        "list": "br-stocks",
+        "reason": "Outra incorporadora brasileira, com exposição ao mercado de imóveis residenciais."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MRVE3",
+      "url": "https://finance.yahoo.com/quote/MRVE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MRV, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20915/MRVE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, MRV ENGENHARIA E PARTICIPAÇÕES S/A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: MRV Engenharia",
+      "url": "https://www.wikidata.org/wiki/Q2415931",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): MRV Engenharia",
+      "url": "https://pt.wikipedia.org/wiki/MRV_Engenharia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/08/2026, “Complemento Informações Plano de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1551981&numSequencia=1076687&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/03/2026, “Descontinuação de projeções”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1487071&numSequencia=1011777&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/12/2025, “Aprovação do Plano de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1455943&numSequencia=980655&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/11/2025, “Atualização Guidance”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1444424&numSequencia=969136&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/07/2025, “Impairment Resia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1400154&numSequencia=924866&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 12/06/2025, “Aprovação do Plano de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1390205&numSequencia=914917&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/02/2025, “Divulgação de projeções”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1339946&numSequencia=864672&numVersao=2",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

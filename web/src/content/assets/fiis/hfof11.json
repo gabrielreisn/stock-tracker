@@ -1,0 +1,352 @@
+{
+  "ticker": "HFOF11",
+  "slug": "hfof11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HFOF11: fundo de fundos, rendimentos e volatilidade",
+    "description": "HFOF11 é um FII de fundos com gestão ativa, patrimônio de R$ 1,64 bi e dividend yield de 11,68%.",
+    "h1": "HFOF11: Hedge Top Fofii 3 FII",
+    "canonicalPath": "/fiis/hfof11",
+    "keywords": [
+      "HFOF11",
+      "Hedge Top Fofii 3",
+      "FII de fundos",
+      "fundo de fundos imobiliários",
+      "rendimentos HFOF11",
+      "volatilidade HFOF11",
+      "dividend yield HFOF11",
+      "patrimônio HFOF11"
+    ]
+  },
+  "summary": "HFOF11 é a cota do Hedge Top Fofii 3, um fundo de fundos imobiliários (FII) de gestão ativa e segmento multicategoria. Administrado pela Hedge Investments, o fundo investe preponderantemente em outros FIIs, buscando valorização e renda. Em 09/2026, o patrimônio líquido era de R$ 1,64 bilhão, com cota patrimonial de R$ 7,52 e 86.715 cotistas.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Hedge Top Fofii 3 Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "HEDGE TOP FOFII 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF HFOF11",
+    "isin": "BRHFOFCTF002",
+    "taxId": "18.307.582/0001-19",
+    "foundingDate": "2013-07-08",
+    "provider": {
+      "name": "HEDGE INVESTMENTS DTVM LTDA",
+      "url": "https://www.hedgeinvest.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=18307582000119"
+    ]
+  },
+  "profile": {
+    "type": "FII de fundos (multicategoria)",
+    "issuerOrManager": "Hedge Investments Real Estate Gestão de Recursos Ltda",
+    "name": "Hedge Top Fofii 3 Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "HEDGE TOP FOFII 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "08/07/2013",
+    "administrator": "HEDGE INVESTMENTS DTVM LTDA",
+    "website": "https://www.hedgeinvest.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "HEDGE TOP FOFII 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "18.307.582/0001-19",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "HEDGE INVESTMENTS DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "08/07/2013",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,64 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "86.715",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 7,52",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 6,06",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,77% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,33",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,68%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,8 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HFOF11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Hedge Top Fofii 3 Fundo Investimento Imobilirio",
+    "currency": "BRL",
+    "price": 6.06,
+    "historyStarts": "2018-03-01",
+    "returns": {
+      "1y": 0.0938,
+      "3y": 0.1244,
+      "5y": 0.2025,
+      "10y": null
+    },
+    "volatility1y": 0.1577,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2968,
+      "from": "2023-08-09",
+      "to": "2025-02-10"
+    },
+    "beta1y": {
+      "value": 0.33,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.708,
+      "payments12Months": 12,
+      "yield12Months": 0.1168,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.06
+      }
+    },
+    "avgDailyTradedValue3m": 1784244
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do HFOF11 nos 12 meses até 29/10/2026 foi de 15,77%, nível considerado moderado. O beta de 0,33 contra o Ibovespa indica que o ativo tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção. A maior queda em 5 anos foi de 29,68%, entre 09/08/2023 e 10/02/2025, período que incluiu a alta de juros e ajustes de mercado. Para fundos de fundos, essa volatilidade é compatível com a exposição a múltiplos FIIs, que podem ter perfis distintos. Monitore a variação de preço com [alertas de preço](/recursos/alertas-de-preco) e acompanhe a evolução da rentabilidade no [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "O Hedge Top Fofii 3 (HFOF11) teve início de atividades em 08/07/2013, conforme registro na CVM, mas o relatório gerencial de setembro de 2026 indica que o fundo opera desde fevereiro de 2018. O ativo é um fundo de fundos (FII) de gestão ativa, focado em investir em cotas de outros fundos imobiliários, com objetivo de auferir valorização e rentabilidade no longo prazo, equilibrando rendimentos e ganhos de capital. A estratégia é multicategoria, o que significa que o fundo pode alocar em FIIs de diferentes segmentos, como tijolo, papel e híbridos, buscando diversificação e oportunidades de mercado secundário. Em maio de 2025, o fundo realizou um desdobramento de cotas na proporção de 10 para 1, o que ajustou o número de cotas em circulação sem alterar o patrimônio líquido total. Desde o início em 2018, o HFOF11 realizou 8 ofertas públicas de cotas, ampliando sua base de investidores e patrimônio.",
+    "timeline": [
+      {
+        "date": "2013-07-08",
+        "event": "Início das atividades do fundo, conforme registro na CVM.",
+        "source": 1
+      },
+      {
+        "date": "2018-02-23",
+        "event": "Início da primeira oferta pública de cotas registrada no FNET.",
+        "source": 2
+      },
+      {
+        "date": "2018-02-28",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-05-20",
+        "event": "Início de nova oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-06-21",
+        "event": "Encerramento da oferta pública de cotas iniciada em maio de 2019.",
+        "source": 2
+      },
+      {
+        "date": "2020-11-06",
+        "event": "Encerramento de oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2023-05-12",
+        "event": "Encerramento da oferta pública de cotas iniciada em abril de 2023.",
+        "source": 2
+      },
+      {
+        "date": "2023-10-05",
+        "event": "Encerramento da oferta pública de cotas iniciada em julho de 2023.",
+        "source": 2
+      },
+      {
+        "date": "2025-01-24",
+        "event": "Encerramento da oferta pública de cotas iniciada em janeiro de 2025.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do HFOF11",
+      "body": "O HFOF11 é um fundo de fundos imobiliários (FII) de gestão ativa e segmento multicategoria, administrado pela Hedge Investments DTVM Ltda. e gerido pela Hedge Investments Real Estate Gestão de Recursos Ltda. O objetivo do fundo é auferir valorização e rentabilidade de suas cotas no longo prazo, investindo preponderantemente em cotas de outros FIIs, com foco tanto em rendimentos quanto em ganhos de capital no processo de desinvestimento. Segundo o relatório gerencial de setembro de 2026, a estratégia busca aproveitar oportunidades no mercado secundário, ajustando a exposição a fundos de CRI e outros ativos conforme a avaliação de descontos em relação ao valor de mercado. A taxa de administração é de 0,60% ao ano sobre o patrimônio líquido ou valor de mercado, e há uma taxa de performance de 20% sobre o que exceder o IFIX, cobrada semestralmente."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do HFOF11",
+      "body": "Nos 12 meses até 29/10/2026, o HFOF11 distribuiu R$ 0,7080 por cota em 12 pagamentos, resultando em um dividend yield de 11,68%. O último rendimento foi de R$ 0,0600 por cota, com pagamento em 01/10/2026, referente ao mês de setembro de 2026. O relatório gerencial destaca que o patamar atual de distribuição é próximo ao FFO (resultado recorrente), sendo considerado orgânico e sustentável. Ao longo da vida do fundo, a soma dos rendimentos distribuídos foi de R$ 6,69 por cota, com média mensal de R$ 0,066/cota desde fevereiro de 2018. A tributação dos rendimentos de FIIs segue as regras gerais da classe, mas o dossiê não detalha alíquotas específicas para este ativo. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para ver os pagamentos multiplicados pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O HFOF11 realizou 8 ofertas públicas de cotas encerradas, conforme registros no FNET, com a primeira iniciada em 23/02/2018 e a última encerrada em 14/02/2025. Em 09/2026, o patrimônio líquido do fundo era de R$ 1,64 bilhão, com 217.780.000 cotas emitidas e 86.715 cotistas. O valor patrimonial da cota era de R$ 7,52, enquanto a cota de mercado estava em R$ 6,30. Em maio de 2025, o fundo realizou um desdobramento de cotas na proporção de 10 para 1, o que aumentou o número de cotas em circulação sem alterar o patrimônio líquido total. Desde agosto de 2025, o fundo também iniciou programas de recompra de cotas, com cancelamento de 12.680.000 cotas até setembro de 2026, a um desconto médio de 16,9% em relação ao valor patrimonial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HFOF11",
+      "body": "A rentabilidade total com proventos do HFOF11 foi de 9,38% nos 12 meses até 29/10/2026, 12,44% em 3 anos e 20,25% em 5 anos. Desde fevereiro de 2018, a cota patrimonial ajustada pelos rendimentos distribuídos apresentou retorno de 72,4%, enquanto o IFIX teve alta de 63,5% no mesmo período. O fundo entrega um rendimento médio de R$ 0,066/cota/mês, equivalente a 9,4% ao ano, considerando o reinvestimento pelo CDI líquido. Para comparar esse desempenho com outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado com IFIX, CDI, Ibovespa e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HFOF11",
+      "body": "Como fundo de fundos, o HFOF11 está exposto a riscos de crédito, vacância e variação de juros, dependendo da composição da carteira de FIIs em que investe. A volatilidade anualizada nos 12 meses até 29/10/2026 foi de 15,77%, classificada como moderada, com beta de 0,33 contra o Ibovespa, indicando que o ativo tende a acompanhar os movimentos do índice com menor amplitude. A maior queda nos últimos 5 anos foi de 29,68%, do pico em 09/08/2023 ao ponto mais baixo em 10/02/2025. A gestão ativa busca mitigar riscos por meio de diversificação e ajustes de carteira, mas não elimina a exposição a ciclos de mercado. Configure [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações relevantes."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HFOF11 é fundo de papel ou de tijolo?",
+      "answer": "HFOF11 é um fundo de fundos (FII) de segmento multicategoria, ou seja, investe em cotas de outros FIIs, que podem ser de papel, tijolo ou híbridos. A estratégia é de gestão ativa, buscando diversificação e oportunidades em diferentes segmentos do mercado imobiliário."
+    },
+    {
+      "question": "HFOF11 paga dividendos?",
+      "answer": "Sim, o HFOF11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram pagos R$ 0,7080 por cota, com dividend yield de 11,68%. O último pagamento foi de R$ 0,0600 em 01/10/2026. Veja os detalhes no [recurso de proventos](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a taxa de administração do HFOF11?",
+      "answer": "A taxa de administração é de 0,60% ao ano sobre o patrimônio líquido ou valor de mercado, e há uma taxa de performance de 20% sobre o que exceder o IFIX, cobrada semestralmente. Esses custos estão descritos no relatório gerencial de setembro de 2026."
+    },
+    {
+      "question": "HFOF11 é bom para iniciantes?",
+      "answer": "O HFOF11 é um fundo de fundos com gestão ativa, o que pode simplificar a exposição a múltiplos FIIs para investidores que preferem delegar a seleção de ativos. No entanto, o ativo tem volatilidade moderada e exposição a riscos de crédito e juros. Avalie seu perfil e objetivos antes de investir, e use a [carteira consolidada](/recursos/carteira-consolidada) para acompanhar a alocação."
+    },
+    {
+      "question": "Qual o patrimônio do HFOF11?",
+      "answer": "Em 09/2026, o patrimônio líquido do HFOF11 era de R$ 1,64 bilhão, com 217.780.000 cotas emitidas e 86.715 cotistas. O valor patrimonial da cota era de R$ 7,52, enquanto a cota de mercado estava em R$ 6,30."
+    },
+    {
+      "question": "HFOF11 tem recompra de cotas?",
+      "answer": "Sim, desde agosto de 2025, o fundo realiza programas de recompra de cotas, com cancelamento de 12.680.000 cotas até setembro de 2026, a um desconto médio de 16,9% em relação ao valor patrimonial. O objetivo é aumentar o valor patrimonial por cota remanescente."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do HFOF11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do HFOF11 com IFIX, CDI e Ibovespa no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do HFOF11 atingir o preço que você definiu, útil para monitorar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do HFOF11 junto com outros ativos, como ações e renda fixa, em uma visão única."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KFOF11",
+        "list": "fiis",
+        "reason": "Outro fundo de fundos imobiliários, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "XPSF11",
+        "list": "fiis",
+        "reason": "Fundo de fundos da XP, com foco em seleção de FIIs, útil para benchmarking."
+      },
+      {
+        "ticker": "KNHF11",
+        "list": "fiis",
+        "reason": "Fundo de fundos da Kinea, com abordagem de hedge, para comparar perfis de risco."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de papel (CRI) de grande porte, para entender a exposição a crédito imobiliário."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de tijolo (logística), para comparar com ativos de renda fixa imobiliária."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HFOF11",
+      "url": "https://finance.yahoo.com/quote/HFOF11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do HEDGE TOP FOFII 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo HFOF11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=18307582000119",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do HFOF11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1353672",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HFOF11, 12/05/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=899474",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do HFOF11, 09/05/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=897957",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

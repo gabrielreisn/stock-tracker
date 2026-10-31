@@ -1,0 +1,307 @@
+{
+  "ticker": "MCDC34",
+  "slug": "mcdc34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MCDC34: BDR da McDonald's, dividendos e risco",
+    "description": "Conheça o MCDC34, BDR da McDonald's na B3. Veja dividendos, rentabilidade, volatilidade e como o BDR funciona para investidores brasileiros.",
+    "h1": "MCDC34: BDR da McDonald's Corporation",
+    "canonicalPath": "/bdrs/mcdc34",
+    "keywords": [
+      "MCDC34",
+      "BDR McDonald's",
+      "MCDC34 dividendos",
+      "MCDC34 B3",
+      "BDR nível I",
+      "MCDONALDS CORP"
+    ]
+  },
+  "summary": "MCDC34 é o BDR nível I da McDonald's Corporation, empresa multinacional de fast food sediada em Chicago. O recibo, cotado na B3 desde 20/08/2010, representa ações da empresa na Bolsa de Nova York (MCD). Em 30/10/2026, o preço era de R$ 70,86, com rentabilidade total de -11,87% nos últimos 12 meses. A empresa opera 45.356 restaurantes em mais de 100 países, gerando receita majoritariamente de aluguéis e royalties de franqueados.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "McDonald's",
+    "legalName": "MCDONALDS CORP.",
+    "ticker": "BVMF MCDC34",
+    "foundingDate": "1940-05-15",
+    "website": "https://www.mcdonalds.com",
+    "wikidata": "Q38076",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q38076",
+      "https://en.wikipedia.org/wiki/McDonald's",
+      "https://pt.wikipedia.org/wiki/McDonald's",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50075/MCDC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "McDonald's",
+    "legalName": "MCDONALDS CORP.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "15/05/1940",
+    "listedSince": "20/08/2010",
+    "headquarters": "Chicago, Illinois",
+    "website": "https://www.mcdonalds.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "MCDONALDS CORP.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: MCD",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Chicago, Illinois",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "15/05/1940",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "20/08/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 70,86",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "28,17% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,92%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,2 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MCDC34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "McDonald's Corporation",
+    "currency": "BRL",
+    "price": 70.86,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.1187,
+      "3y": 0.1375,
+      "5y": 0.0891,
+      "10y": 3.9258
+    },
+    "volatility1y": 0.2817,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3608,
+      "from": "2025-03-10",
+      "to": "2026-10-05"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.359,
+      "payments12Months": 4,
+      "yield12Months": 0.0192,
+      "lastPayment": {
+        "date": "2026-08-31",
+        "amount": 0.335363
+      }
+    },
+    "avgDailyTradedValue3m": 1188385
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do MCDC34 nos últimos 12 meses até 30/10/2026 foi de 28,17%, um nível considerado alto. A maior queda em 5 anos ocorreu entre 10/03/2025 e 05/10/2026, com uma desvalorização de -36,08%. O beta do ativo não está disponível nos dados fornecidos. Para monitorar oscilações e definir pontos de acompanhamento, os [alertas de preço](/recursos/alertas-de-preco) permitem notificações personalizadas."
+  },
+  "history": {
+    "overview": "A McDonald's Corporation foi fundada em 15 de maio de 1940 pelos irmãos Richard e Maurice McDonald em San Bernardino, Califórnia. A empresa consolidou o modelo de fast food com o Speedee Service System em 1948. Em 1955, Ray Kroc tornou-se agente de franquia e, em 1961, comprou a participação dos irmãos, iniciando a expansão global. A sede foi transferida para Chicago em 2018. O BDR MCDC34 passou a ser negociado na B3 em 20 de agosto de 2010, permitindo a exposição de investidores brasileiros à ação original MCD na Bolsa de Nova York. Em 2022, a empresa encerrou suas operações na Rússia, vendendo 850 unidades em meio à invasão da Ucrânia.",
+    "timeline": [
+      {
+        "date": "1940-05-15",
+        "event": "Fundação da empresa pelos irmãos Richard e Maurice McDonald em San Bernardino, Califórnia.",
+        "source": 2
+      },
+      {
+        "date": "1955",
+        "event": "Ray Kroc ingressa na empresa como agente de franquia.",
+        "source": 3
+      },
+      {
+        "date": "1961",
+        "event": "Ray Kroc compra a participação dos irmãos McDonald na empresa.",
+        "source": 3
+      },
+      {
+        "date": "2010-08-20",
+        "event": "Listagem do BDR MCDC34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2018-06",
+        "event": "Mudança da sede global da empresa para Chicago, Illinois.",
+        "source": 4
+      },
+      {
+        "date": "2022-03-08",
+        "event": "Fechamento temporário das 850 lojas da McDonald's na Rússia.",
+        "source": 4
+      },
+      {
+        "date": "2022-05-16",
+        "event": "Anúncio do fechamento permanente e venda das lojas na Rússia.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a McDonald's ganha dinheiro",
+      "body": "A McDonald's Corporation opera uma rede de restaurantes de fast food com foco em hambúrgueres e batatas fritas. A receita da empresa provém de vendas em restaurantes próprios e, principalmente, de aluguéis, royalties e taxas pagas por franqueados. No final de 2025, o sistema contava com 45.356 restaurantes em mais de 100 países, dos quais cerca de 95% eram operados por franqueados. A empresa também atua como proprietária de imóveis, detendo aproximadamente 56% do terreno e 80% dos edifícios dos restaurantes em seus mercados consolidados."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR MCDC34",
+      "body": "MCDC34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da McDonald's Corporation na Bolsa de Valores de Nova York (ticker MCD). O programa é não patrocinado, o que significa que a empresa não administra a emissão diretamente. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o dólar e o real. O ativo está listado na B3 desde 20/08/2010."
+    },
+    {
+      "id": "proventos",
+      "heading": "MCDC34 paga dividendos?",
+      "body": "A McDonald's distribui dividendos, que chegam ao investidor do MCDC34 em reais após a conversão da moeda original. Nos 12 meses até 30/10/2026, o BDR pagou R$ 1,3590 por unidade em 4 pagamentos, resultando em um dividend yield de 1,92%. O último provento registrado foi de R$ 0,3354, com pagamento em 31/08/2026. É possível acompanhar o histórico completo de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MCDC34",
+      "body": "Em 30/10/2026, o MCDC34 registrava rentabilidade total de -11,87% nos últimos 12 meses, 13,75% em 3 anos, 8,91% em 5 anos e 392,58% em 10 anos. Esses retornos em reais incluem a variação do câmbio do dólar frente ao real. Para avaliar o desempenho em comparação com o mercado americano, utilize a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MCDC34",
+      "body": "O principal risco do MCDC34 é cambial, pois o valor do BDR depende da cotação da ação MCD em dólar e da taxa de câmbio. A volatilidade anualizada do ativo nos últimos 12 meses foi de 28,17%, classificada como alta. A maior queda em 5 anos foi de -36,08%, entre 10/03/2025 e 05/10/2026. A liquidez é moderada, com volume médio de R$ 1,2 milhão por dia. Riscos operacionais incluem a dependência de franqueados e a exposição a mudanças regulatórias e de consumo, como a saída da Rússia em 2022. Acompanhe a volatilidade com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MCDC34 paga dividendos?",
+      "answer": "Sim, a McDonald's distribui dividendos que são repassados aos detentores do BDR em reais. Nos 12 meses até 30/10/2026, o provento total foi de R$ 1,3590 por BDR, com um dividend yield de 1,92%. O último pagamento foi de R$ 0,3354 em 31/08/2026."
+    },
+    {
+      "question": "Qual a diferença entre MCDC34 e a ação MCD?",
+      "answer": "MCDC34 é o BDR negociado na B3 em reais, enquanto MCD é a ação original da McDonald's na Bolsa de Nova York, negociada em dólar. O preço do MCDC34 reflete o valor da MCD ajustado pela taxa de câmbio e pela cotação do BDR no mercado brasileiro."
+    },
+    {
+      "question": "MCDC34 é BDR patrocinado ou não patrocinado?",
+      "answer": "MCDC34 é um BDR não patrocinado de nível I. Isso significa que a empresa não administra a emissão do recibo, que é emitido por uma instituição depositária para representar as ações da McDonald's no exterior."
+    },
+    {
+      "question": "Qual o risco cambial do MCDC34?",
+      "answer": "O MCDC34 possui risco cambial direto, pois seu valor em reais depende da cotação da ação MCD em dólar e da variação do câmbio. Movimentos de alta do dólar tendem a valorizar o BDR, enquanto a queda do dólar pode reduzir o retorno em reais, independentemente do desempenho da empresa."
+    },
+    {
+      "question": "Como a McDonald's gera receita?",
+      "answer": "A empresa obtém receita de vendas em restaurantes próprios e de aluguéis, royalties e taxas de franqueados. No final de 2025, 95% dos 45.356 restaurantes do sistema eram operados por franqueados, o que torna a receita de franquia a principal fonte de faturamento."
+    },
+    {
+      "question": "Qual a liquidez do MCDC34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses até 30/10/2026 foi de R$ 1,2 milhão. Essa liquidez é suficiente para a maioria dos investidores, mas pode limitar a execução de ordens de grande porte sem impacto no preço."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do MCDC34 lado a lado com o S&P 500 e o CDI para entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o MCDC34 atingir preços que você definir, útil para acompanhar a alta volatilidade do BDR."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do MCDC34 junto com outros ativos internacionais e domésticos em uma única visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Visualize o histórico de proventos e a variação do preço do MCDC34 ao longo do tempo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "COCA34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de consumo defensivo e alimentos, com perfil similar de exposição a marcas globais."
+      },
+      {
+        "ticker": "WALM34",
+        "list": "bdrs",
+        "reason": "BDR de varejo e consumo, útil para diversificar a exposição a empresas americanas de grande porte."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho com o mercado americano onde a McDonald's está listada."
+      },
+      {
+        "ticker": "PEPB34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de bebidas e alimentos, setor correlato ao de fast food."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MCDC34",
+      "url": "https://finance.yahoo.com/quote/MCDC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MCDONALDS, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50075/MCDC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: McDonald's",
+      "url": "https://www.wikidata.org/wiki/Q38076",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): McDonald's",
+      "url": "https://en.wikipedia.org/wiki/McDonald's",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): McDonald's",
+      "url": "https://pt.wikipedia.org/wiki/McDonald's",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

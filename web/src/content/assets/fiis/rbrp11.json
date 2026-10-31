@@ -1,0 +1,336 @@
+{
+  "ticker": "RBRP11",
+  "slug": "rbrp11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RBRP11: FII de tijolo, dividendos e patrimônio",
+    "description": "RBRP11 é um FII de tijolo da Patria com patrimônio de R$ 967,0 milhões em 09/2026.",
+    "h1": "RBRP11: Fundo de Investimento Imobiliário Pátria Properties",
+    "canonicalPath": "/fiis/rbrp11",
+    "keywords": [
+      "RBRP11",
+      "FII Patria Properties",
+      "FII de tijolo",
+      "dividend yield RBRP11",
+      "patrimônio RBRP11",
+      "vacância RBRP11",
+      "rendimentos RBRP11"
+    ]
+  },
+  "summary": "RBRP11 é a cota do Fundo de Investimento Imobiliário Pátria Properties, um FII de tijolo com gestão ativa que investe em imóveis comerciais para locação, concentrados em São Paulo e no Rio de Janeiro. Com patrimônio líquido de R$ 967,0 milhões em 09/2026, o fundo distribuiu R$ 4,65 por cota nos 12 meses até 29/10/2026, gerando um dividend yield de 10,79%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário Patria Properties - FII Responsabilidade Limitada",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA PROPERTIES - FII RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RBRP11",
+    "isin": "BRRBRPCTF002",
+    "taxId": "21.408.063/0001-51",
+    "foundingDate": "2014-11-11",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=21408063000151"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, renda urbana",
+    "issuerOrManager": "Patria Gestão de Recursos Ltda",
+    "name": "Fundo de Investimento Imobiliário Patria Properties - FII Responsabilidade Limitada",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA PROPERTIES - FII RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "11/11/2014",
+    "administrator": "BRL TRUST DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "FUNDO DE INVESTIMENTO IMOBILIÁRIO PATRIA PROPERTIES - FII RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "21.408.063/0001-51",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BRL TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "11/11/2014",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 967,0 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "47.766",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 79,40",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 43,09",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "21,07% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,44",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "10,79%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,5 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RBRP11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo Investimento Imobiliario Rbr Properties Fii",
+    "currency": "BRL",
+    "price": 43.09,
+    "historyStarts": "2018-08-15",
+    "returns": {
+      "1y": -0.0867,
+      "3y": 0.1257,
+      "5y": -0.1038,
+      "10y": null
+    },
+    "volatility1y": 0.2107,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.4028,
+      "from": "2021-12-29",
+      "to": "2023-03-23"
+    },
+    "beta1y": {
+      "value": 0.44,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 4.65,
+      "payments12Months": 12,
+      "yield12Months": 0.1079,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.35
+      }
+    },
+    "avgDailyTradedValue3m": 1493906
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do RBRP11 nos 12 meses até 29/10/2026 foi de 21,07%, classificada como moderada. O beta de 0,44 contra o Ibovespa indica que o fundo tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção. A maior queda em 5 anos foi de -40,28%, do pico em 29/12/2021 ao ponto mais baixo em 23/03/2023. Para FIIs de tijolo, essa volatilidade é compatível com o risco de vacância e inadimplência, que pode impactar a distribuição de rendimentos. Use os [alertas de preço](/recursos/alertas-de-preco) para acompanhar movimentos de cotação."
+  },
+  "history": {
+    "overview": "O Fundo de Investimento Imobiliário Pátria Properties iniciou suas atividades em 11/11/2014, com foco em empreendimentos imobiliários comerciais para fins de locação, situados preponderantemente nos estados de São Paulo e do Rio de Janeiro. A gestão é ativa, conduzida pela Patria Gestão de Recursos Ltda., com a Apex Group atuando como administradora e escrituradora, enquanto a BRL Trust DTVM S.A. figura como administradora no registro da CVM. O fundo passou por duas ofertas públicas de cotas para captação de recursos: a primeira ocorreu entre 05/12/2019 e 26/12/2019, e a segunda entre 19/02/2021 e 05/04/2021, ampliando sua base de cotistas e patrimônio. Em 2026, o fundo realizou a venda do Edifício Jacks Rabinovich, localizado na Vila Olímpia, em São Paulo, por R$ 167,5 milhões, operação que impactou positivamente o resultado distribuível do mês de setembro de 2026.",
+    "timeline": [
+      {
+        "date": "2014-11-11",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2019-12-05",
+        "event": "Início da primeira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2019-12-26",
+        "event": "Encerramento da primeira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2021-02-19",
+        "event": "Início da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2021-04-05",
+        "event": "Encerramento da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-09-10",
+        "event": "Assinatura do compromisso de venda e compra do Edifício Jacks Rabinovich",
+        "source": 5
+      },
+      {
+        "date": "2026-09-18",
+        "event": "Conclusão da venda do Edifício Jacks Rabinovich por R$ 167,5 milhões",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RBRP11",
+      "body": "O RBRP11 é um Fundo de Investimento Imobiliário (FII) de tijolo, classificado pela Anbima como 'Tijolo Renda Gestão Ativa', com foco em imóveis comerciais para locação. A gestora é a Patria Gestão de Recursos Ltda., com a Apex Group como administradora e escrituradora, e a BRL Trust DTVM S.A. como administradora no registro da CVM. O objetivo do fundo é investir em direitos reais sobre bens imóveis, notadamente empreendimentos comerciais com qualquer destinação, situados preponderantemente nos estados de São Paulo e do Rio de Janeiro, podendo atuar em outros estados e regiões do Brasil. Em 30/09/2026, o portfólio era composto por 5 edifícios e 22 locatários, com 40.819 m² de ABL e WALE de 5,5 anos. A vacância física era de 20,5% e a financeira de 15,9%, com aluguel médio de R$ 105,77/m². O fundo não possuía alavancagem em 30/09/2026."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RBRP11",
+      "body": "Nos 12 meses até 29/10/2026, o RBRP11 distribuiu R$ 4,65 por cota em 12 pagamentos, resultando em um dividend yield de 10,79%. O último provento foi de R$ 0,35 por cota, com pagamento em 08/10/2026. Em setembro de 2026, o fundo anunciou rendimento de R$ 0,35 por cota, a ser pago em 15/10/2026, com projeção de manutenção desse patamar no segundo semestre de 2026. O dividend yield patrimonial informado pelo fundo em 09/2026 era de 5,3% ao ano. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Veja os [dividendos e JCP no app](/recursos/proventos) com data de pagamento e multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RBRP11 realizou duas ofertas públicas de cotas: a primeira entre 05/12/2019 e 26/12/2019, e a segunda entre 19/02/2021 e 05/04/2021. Em 09/2026, o fundo tinha 12.179.187 cotas emitidas, 47.766 cotistas e patrimônio líquido de R$ 967,0 milhões, com valor patrimonial da cota de R$ 79,40. A taxa de administração no mês de 09/2026 foi de 0,048% sobre o patrimônio, equivalente a 1,15% ao ano sobre o valor de mercado do fundo, conforme o relatório gerencial de 30/09/2026."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RBRP11",
+      "body": "A rentabilidade total do RBRP11, com proventos, foi de -8,67% nos 12 meses até 29/10/2026, 12,57% em 3 anos e -10,38% em 5 anos. O fundo é um FII de tijolo, e seu desempenho pode ser comparado ao IFIX, o índice de referência para fundos imobiliários. A comparação com índices como IFIX, CDI e Ibovespa está disponível na [comparação com índices](/recursos/comparacao-com-indices) do app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RBRP11",
+      "body": "Como FII de tijolo, o RBRP11 está exposto a riscos de vacância e inadimplência de locatários. Em 30/09/2026, a vacância física era de 20,5% e a financeira de 15,9%, com dois locatários inadimplentes no River One, um em processo de despejo e outro em distrato. O fundo também está exposto a riscos de mercado, como variações de juros e câmbio, que afetam a valorização de imóveis e a atratividade dos FIIs frente a outros ativos. A volatilidade anualizada do RBRP11 nos 12 meses até 29/10/2026 foi de 21,07%, classificada como moderada. A maior queda em 5 anos foi de -40,28%, do pico em 29/12/2021 ao ponto mais baixo em 23/03/2023. O beta de 0,44 contra o Ibovespa indica que o fundo tende a ter movimentos menores que os do índice, na mesma direção."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RBRP11 paga dividendos?",
+      "answer": "Sim, o RBRP11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 4,65 por cota em 12 pagamentos, com dividend yield de 10,79%. O último provento foi de R$ 0,35, pago em 08/10/2026. Veja os [dividendos e JCP no app](/recursos/proventos) com data de pagamento."
+    },
+    {
+      "question": "RBRP11 é FII de papel ou de tijolo?",
+      "answer": "RBRP11 é um FII de tijolo, classificado pela Anbima como 'Tijolo Renda Gestão Ativa'. O fundo investe em imóveis comerciais para locação, com foco em São Paulo e Rio de Janeiro. Em 30/09/2026, o portfólio tinha 5 edifícios e 22 locatários, com vacância física de 20,5%."
+    },
+    {
+      "question": "Qual a taxa de administração do RBRP11?",
+      "answer": "A taxa de administração do RBRP11 é de 1,15% ao ano sobre o valor de mercado do fundo, conforme o relatório gerencial de 30/09/2026. Em 09/2026, a taxa mensal foi de 0,048% sobre o patrimônio líquido de R$ 967,0 milhões."
+    },
+    {
+      "question": "Qual o patrimônio do RBRP11?",
+      "answer": "Em 09/2026, o RBRP11 tinha patrimônio líquido de R$ 967,0 milhões, 12.179.187 cotas emitidas e 47.766 cotistas. O valor patrimonial da cota era de R$ 79,40, enquanto a cota de mercado estava em R$ 51,00, com P/VP de 0,64x."
+    },
+    {
+      "question": "RBRP11 tem alavancagem?",
+      "answer": "Em 30/09/2026, o RBRP11 não possuía qualquer alavancagem ou obrigação por aquisição de ativos, conforme o relatório gerencial. Isso reduz o risco de crédito do fundo, mas também limita a capacidade de aquisição de novos imóveis sem captação de recursos."
+    },
+    {
+      "question": "Qual a vacância do RBRP11?",
+      "answer": "Em 30/09/2026, a vacância física do RBRP11 era de 20,5% e a financeira de 15,9%. A vacância física reduziu de 25,7% para 20,5% após a venda do Edifício Jacks Rabinovich, que estava 100% vago. Havia dois locatários inadimplentes no River One, um em processo de despejo e outro em distrato."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do RBRP11 com data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do RBRP11 com IFIX, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a cota do RBRP11 atingir o preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RBRP11 junto com outras posições de FIIs, ações e renda fixa em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "HGRU11",
+        "list": "fiis",
+        "reason": "Outro FII de renda urbana da Patria, com foco similar em imóveis comerciais."
+      },
+      {
+        "ticker": "RBRR11",
+        "list": "fiis",
+        "reason": "FII de renda urbana da RBR, com estratégia de gestão ativa e foco em imóveis corporativos."
+      },
+      {
+        "ticker": "TOPP11",
+        "list": "fiis",
+        "reason": "FII de escritórios da RBR, com exposição a imóveis comerciais em São Paulo."
+      },
+      {
+        "ticker": "BRCO11",
+        "list": "fiis",
+        "reason": "FII de renda urbana da Bresco, com foco em imóveis corporativos e gestão ativa."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RBRP11",
+      "url": "https://finance.yahoo.com/quote/RBRP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FUNDO DE INVESTIMENTO IMOBILIARIO PÁTRIA PROPERTIES (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RBRP11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=21408063000151",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RBRP11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356053",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBRP11, 18/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1324144",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBRP11, 10/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1315080",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

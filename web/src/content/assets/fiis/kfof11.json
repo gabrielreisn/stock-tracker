@@ -1,0 +1,351 @@
+{
+  "ticker": "KFOF11",
+  "slug": "kfof11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "KFOF11: FOFII Kinea, proventos e desempenho",
+    "description": "KFOF11 é o FOFII multicategoria da Kinea, com patrimônio de R$ 609,7 milhões em 09/2026, dividend yield de 13,32% e gestão ativa em FIIs de papel e",
+    "h1": "KFOF11: Fundo de Fundos de Investimento Imobiliário Kinea FII",
+    "canonicalPath": "/fiis/kfof11",
+    "keywords": [
+      "KFOF11",
+      "KFOF11 FII",
+      "Fundo de Fundos Kinea",
+      "FOFII multicategoria",
+      "KFOF11 dividendos",
+      "KFOF11 patrimônio",
+      "KFOF11 rentabilidade",
+      "KFOF11 taxa de administração"
+    ]
+  },
+  "summary": "KFOF11 é a cota do Fundo de Fundos de Investimento Imobiliário Kinea FII, um FOFII multicategoria que busca renda mensal e ganho de capital por meio de uma carteira diversificada de outros fundos imobiliários. Em 09/2026, o fundo tinha patrimônio de R$ 609,7 milhões e 26.203 cotistas, com cota patrimonial de R$ 86,91. Nos 12 meses até 29/10/2026, a cota de mercado registrou rentabilidade total de -1,44%, com dividend yield de 13,32%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Fundos de Investimento Imobiliário Kinea FII Responsabilidade Limitada",
+    "legalName": "FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO KINEA FII RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF KFOF11",
+    "isin": "BRKFOFCTF006",
+    "taxId": "30.091.444/0001-40",
+    "foundingDate": "2018-09-03",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30091444000140"
+    ]
+  },
+  "profile": {
+    "type": "Fundo de Fundos de Investimento Imobiliário (FOFII) multicategoria",
+    "issuerOrManager": "Kinea Investimentos (gestora), Intrag DTVM Ltda",
+    "name": "Fundo de Fundos de Investimento Imobiliário Kinea FII Responsabilidade Limitada",
+    "legalName": "FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO KINEA FII RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "03/09/2018",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO KINEA FII RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "30.091.444/0001-40",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "03/09/2018",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 609,7 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "26.203",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 86,91",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 72,08",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,17% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,38",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "13,32%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KFOF11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Kinea Fundo Fundos De Investimento Imobiliario FII",
+    "currency": "BRL",
+    "price": 72.08,
+    "historyStarts": "2019-02-25",
+    "returns": {
+      "1y": -0.0144,
+      "3y": 0.0556,
+      "5y": 0.4685,
+      "10y": null
+    },
+    "volatility1y": 0.1717,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3075,
+      "from": "2024-04-15",
+      "to": "2025-02-06"
+    },
+    "beta1y": {
+      "value": 0.38,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 9.6,
+      "payments12Months": 12,
+      "yield12Months": 0.1332,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.8
+      }
+    },
+    "avgDailyTradedValue3m": 1131209
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de 12 meses do KFOF11 é de 17,17%, classificada como moderada. O beta de 0,38 contra o Ibovespa indica que o ativo costuma acompanhar os movimentos do índice com amplitude menor, na mesma direção, o que é comum para FIIs e FOFIIs, que tendem a ter correlação menor com o mercado de ações. A maior queda nos últimos 5 anos foi de -30,75%, do pico em 15/04/2024 ao ponto mais baixo em 06/02/2025, período que reflete a sensibilidade do setor a mudanças na taxa de juros e no cenário macroeconômico. No app, é possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar oscilações e a [carteira consolidada](/recursos/carteira-consolidada) para avaliar a alocação do KFOF11 junto a outros ativos."
+  },
+  "history": {
+    "overview": "O Fundo de Fundos de Investimento Imobiliário Kinea FII (KFOF11) iniciou suas atividades em 03/09/2018, com o objetivo de gerar renda mensal por meio de uma carteira diversificada de fundos imobiliários e gerar ganhos de capital. A gestão é ativa, com a Kinea Investimentos como gestora e a Intrag DTVM Ltda. como administradora e distribuidora das cotas. Desde o início, o fundo realizou seis ofertas públicas de cotas, com a primeira iniciada em 20/08/2018 e a mais recente encerrada em 03/05/2024, o que ampliou a base de cotistas e o patrimônio ao longo dos anos. Em 09/2026, o patrimônio líquido era de R$ 609,7 milhões, com 26.203 cotistas e 7.014.565 cotas emitidas, valor patrimonial de R$ 86,91 por cota. A estratégia de gestão ativa permite ao fundo ajustar a alocação entre segmentos como escritórios, shoppings, CRIs, híbridos e multiestratégia conforme as condições de mercado, buscando oportunidades de ganho de capital em fundos negociados com desconto em relação ao valor justo, além de manter parcela de caixa e LCI para aquisições seletivas.",
+    "timeline": [
+      {
+        "date": "2018-08-20",
+        "event": "Início da primeira oferta pública de cotas do KFOF11.",
+        "source": 2
+      },
+      {
+        "date": "2018-09-03",
+        "event": "Início das atividades do Fundo de Fundos de Investimento Imobiliário Kinea FII.",
+        "source": 1
+      },
+      {
+        "date": "2019-02-19",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-10-09",
+        "event": "Início da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-11-13",
+        "event": "Encerramento da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2020-06-24",
+        "event": "Início da terceira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2020-12-22",
+        "event": "Encerramento da terceira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2024-02-01",
+        "event": "Início da quarta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2024-05-03",
+        "event": "Encerramento da quarta oferta pública de cotas.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do KFOF11",
+      "body": "O KFOF11 é um Fundo de Fundos de Investimento Imobiliário (FOFII) multicategoria, com gestão ativa, cuja estratégia é gerar renda mensal e ganho de capital por meio de uma carteira diversificada de outros fundos imobiliários. A gestora é a Kinea Investimentos e o administrador é a Intrag DTVM Ltda. Segundo o relatório gerencial de referência 30/09/2026, o fundo mantém posições em segmentos como escritórios, CRIs, shoppings, híbridos e multiestratégia, além de caixa e LCI, que encerrou o mês em 12,6% do patrimônio. A gestão busca oportunidades de ganho de capital em fundos negociados com desconto em relação ao valor justo e investe em CRIs com TIR projetada interessante, composta por carrego elevado e expectativa de ganho de capital. O fundo também realiza ajustes seletivos, como a redução de exposições em shoppings com ganho e o aumento de posições em segmentos com desconto relevante."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do KFOF11",
+      "body": "Nos 12 meses até 29/10/2026, o KFOF11 distribuiu R$ 9,6000 por cota em 12 pagamentos, resultando em dividend yield de 13,32%. O último provento foi de R$ 0,8000 por cota, com pagamento em 01/10/2026. O fundo não menciona tributação específica nos documentos do dossiê, mas proventos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a regra geral vigente. No app, é possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O KFOF11 realizou 6 ofertas públicas de cotas desde 28/05/2018, conforme documentos publicados no FNET. A primeira oferta iniciou em 20/08/2018 e a mais recente encerrada em 03/05/2024. Em 09/2026, o fundo tinha patrimônio líquido de R$ 609,7 milhões, 26.203 cotistas e 7.014.565 cotas emitidas, com valor patrimonial de R$ 86,91 por cota. A taxa de administração no mês de 09/2026 foi de 0,068% sobre o patrimônio, equivalente a 0,92% ao ano, englobando a remuneração do administrador, do gestor e do banco escriturador. A taxa de performance é de 20% do que exceder a variação do IFIX, calculada e provisionada diariamente e paga semestralmente."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KFOF11",
+      "body": "A rentabilidade total com proventos do KFOF11 nos 12 meses até 29/10/2026 foi de -1,44%; em 3 anos, 5,56%; e em 5 anos, 46,85%. Em setembro de 2026, a cota patrimonial teve alta de 0,71%, resultado 0,91% superior à queda do IFIX de 0,20% no mesmo mês. A cota de mercado, no entanto, teve queda de 0,61%, resultando em desconto de 10,29% em relação ao valor patrimonial. No app, é possível comparar a [rentabilidade do KFOF11 com o IFIX, CDI e outros índices](/recursos/comparacao-com-indices) no mesmo gráfico, para avaliar o desempenho relativo ao longo do tempo."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KFOF11",
+      "body": "O KFOF11, como FOFII multicategoria, está exposto a riscos de crédito (em CRIs e fundos de papel), vacância e valorização de ativos (em fundos de tijolo como escritórios e shoppings), além de riscos de juros, que afetam o preço dos ativos de renda fixa e a atratividade dos proventos. A volatilidade anualizada de 12 meses é de 17,17%, nível moderado, e a maior queda nos últimos 5 anos foi de -30,75%, do pico em 15/04/2024 ao ponto mais baixo em 06/02/2025. O beta de 0,38 contra o Ibovespa indica que o ativo costuma acompanhar os movimentos do índice com amplitude menor, na mesma direção. No app, é possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar oscilações e a [carteira consolidada](/recursos/carteira-consolidada) para avaliar a alocação do KFOF11 junto a outros ativos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KFOF11 é FII de papel ou de tijolo?",
+      "answer": "KFOF11 é um FOFII multicategoria, ou seja, um fundo de fundos que investe em outros FIIs de diferentes segmentos, incluindo papel (CRIs) e tijolo (escritórios, shoppings, logística). A estratégia é ativa, com alocação ajustada conforme as condições de mercado, buscando renda mensal e ganho de capital."
+    },
+    {
+      "question": "KFOF11 paga dividendos?",
+      "answer": "Sim, o KFOF11 distribui proventos mensais. Nos 12 meses até 29/10/2026, foram R$ 9,6000 por cota em 12 pagamentos, com dividend yield de 13,32%. O último provento foi de R$ 0,8000 em 01/10/2026. No app, é possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com data de competência e pagamento."
+    },
+    {
+      "question": "Qual a taxa de administração do KFOF11?",
+      "answer": "A taxa de administração do KFOF11 é de 0,92% ao ano sobre o valor patrimonial das cotas, englobando a remuneração do administrador, do gestor e do banco escriturador. A taxa de performance é de 20% do que exceder a variação do IFIX, calculada e provisionada diariamente e paga semestralmente."
+    },
+    {
+      "question": "Qual o patrimônio do KFOF11?",
+      "answer": "Em 09/2026, o KFOF11 tinha patrimônio líquido de R$ 609,7 milhões, 26.203 cotistas e 7.014.565 cotas emitidas, com valor patrimonial de R$ 86,91 por cota. O volume negociado em setembro de 2026 foi de R$ 18,459,524 por mês."
+    },
+    {
+      "question": "KFOF11 tem desconto em relação ao valor patrimonial?",
+      "answer": "Sim, em 30/09/2026, a cota de mercado do KFOF11 era de R$ 77,97, enquanto a cota patrimonial era de R$ 86,91, resultando em desconto de 10,29%. Esse desconto pode variar conforme a oferta e a demanda no mercado, e a gestão busca oportunidades de ganho de capital em fundos negociados com desconto relevante."
+    },
+    {
+      "question": "Qual a rentabilidade do KFOF11 em 5 anos?",
+      "answer": "A rentabilidade total com proventos do KFOF11 em 5 anos, até 29/10/2026, foi de 46,85%. Nos 12 meses, a rentabilidade foi de -1,44%, e em 3 anos, 5,56%. No app, é possível comparar a [rentabilidade do KFOF11 com o IFIX, CDI e outros índices](/recursos/comparacao-com-indices) no mesmo gráfico."
+    },
+    {
+      "question": "Como acompanhar o KFOF11 no app?",
+      "answer": "No app, é possível acompanhar os [dividendos e JCP no app](/recursos/proventos), configurar [alertas de preço](/recursos/alertas-de-preco) e usar a [carteira consolidada](/recursos/carteira-consolidada) para avaliar a alocação do KFOF11 junto a outros ativos. O [assistente de IA](/recursos/assistente-de-ia) também responde perguntas sobre a sua carteira, com base nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do KFOF11 com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação quando a cota do KFOF11 chegar ao preço que você escolheu, para acompanhar oscilações sem precisar ficar de olho no mercado."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do KFOF11 junto a ações, renda fixa e outros FIIs em uma só visão, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do KFOF11 com o IFIX, CDI, Ibovespa e outros índices no mesmo gráfico, para avaliar o desempenho relativo ao longo do tempo."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua carteira e os seus gastos; as respostas vêm dos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FOFII da Kinea, com estratégia similar de renda mensal e diversificação em FIIs."
+      },
+      {
+        "ticker": "XPSF11",
+        "list": "fiis",
+        "reason": "Fundo de fundos da XP, com estratégia multicategoria e foco em renda e ganho de capital."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII da Kinea focado em índices de preços, com exposição a CRIs e ativos atrelados à inflação."
+      },
+      {
+        "ticker": "KNHF11",
+        "list": "fiis",
+        "reason": "FII da Kinea com estratégia de hedge, buscando proteção e diversificação em cenários de volatilidade."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII da Kinea focado em CRIs de alto rendimento, com perfil de risco e retorno diferente do KFOF11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KFOF11",
+      "url": "https://finance.yahoo.com/quote/KFOF11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FUNDO DE FUNDOS DE INVESTIMENTO IMOBILIÁRIO KINEA FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo KFOF11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30091444000140",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do KFOF11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339148",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

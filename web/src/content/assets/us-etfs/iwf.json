@@ -1,0 +1,280 @@
+{
+  "ticker": "IWF",
+  "slug": "iwf",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IWF: história, dividendos e volatilidade",
+    "description": "IWF é o iShares Russell 1000 Growth ETF. Veja rentabilidade de 88,09% em 3 anos, dividend yield de 0,36% e como investir no IWF a partir do Brasil.",
+    "h1": "IWF: iShares Russell 1000 Growth ETF",
+    "canonicalPath": "/etfs/iwf",
+    "keywords": [
+      "IWF",
+      "iShares Russell 1000 Growth ETF",
+      "ETF Russell 1000 Growth",
+      "ETF ações de crescimento EUA",
+      "IWF dividendos",
+      "IWF rentabilidade",
+      "IWF volatilidade",
+      "como investir IWF Brasil"
+    ]
+  },
+  "summary": "IWF é o iShares Russell 1000 Growth ETF, um fundo de índice que replica o desempenho do Russell 1000 Growth Index, focado em empresas de capitalização grande e média com perfil de crescimento nos EUA. Lançado em 26/05/2000, o ativo apresentou rentabilidade total de 88,09% em 3 anos até 29/10/2026, com dividend yield de 0,36% no mesmo período.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Russell 1000 Growth ETF",
+    "ticker": "ARCX IWF",
+    "foundingDate": "2000-05-26",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice (ações de crescimento)",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "Russell 1000 Growth Index",
+    "name": "iShares Russell 1000 Growth ETF",
+    "founded": "26/05/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Russell 1000 Growth ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "26/05/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 121,11",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,06% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,32",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,36%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 501,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IWF",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Russell 1000 Growth ETF",
+    "currency": "USD",
+    "price": 121.11,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0112,
+      "3y": 0.8809,
+      "5y": 0.6732,
+      "10y": 4.1594
+    },
+    "volatility1y": 0.1806,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3272,
+      "from": "2021-12-27",
+      "to": "2022-10-14"
+    },
+    "beta1y": {
+      "value": 1.32,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.432,
+      "payments12Months": 4,
+      "yield12Months": 0.0036,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.109
+      }
+    },
+    "avgDailyTradedValue3m": 501801715
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do IWF nos últimos 12 meses é de 18,06%, um nível considerado moderado para um ETF de ações americanas. O beta de 1,32 contra o S&P 500 indica que o IWF costuma acompanhar os movimentos do índice com amplitude 32% maior, tanto em altas quanto em baixas. A maior queda nos últimos 5 anos foi de -32,72%, ocorrida entre 27/12/2021 e 14/10/2022, período que reflete a sensibilidade do segmento de crescimento a mudanças no ambiente de juros. Para monitorar esses movimentos, o [recurso de alertas de preço](/recursos/alertas-de-preco) permite configurar notificações em níveis específicos."
+  },
+  "history": {
+    "overview": "O iShares Russell 1000 Growth ETF (IWF) teve seu primeiro pregão em 26/05/2000, período em que a marca iShares, então sob a gestão da Barclays Global Investors, expandia agressivamente sua oferta de ETFs nos Estados Unidos. A marca iShares foi criada em 2000 pela Barclays, que lançou mais de 40 novos fundos com o objetivo de consolidar sua presença no mercado de fundos de índice. Em 2009, a BlackRock adquiriu a marca e o negócio da Barclays, tornando-se a maior emissora de ETFs do mundo. O IWF foi desenhado para acompanhar o segmento de crescimento do índice Russell 1000, que engloba cerca de 1.000 empresas de capitalização grande e média nos EUA. A seleção de ações de crescimento reflete a expectativa de que essas empresas tenham lucros e receitas crescentes acima da média do setor, o que historicamente resulta em menor pagamento de dividendos, pois os lucros são reinvestidos no negócio.",
+    "timeline": [
+      {
+        "date": "2000",
+        "event": "A Barclays Global Investors lança a marca iShares com mais de 40 novos fundos de índice.",
+        "source": 2
+      },
+      {
+        "date": "2000-05-26",
+        "event": "Primeiro pregão das cotas do IWF na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "A BlackRock adquire a marca e o negócio da iShares da Barclays.",
+        "source": 2
+      },
+      {
+        "date": "2009-03-16",
+        "event": "A Barclays confirma a venda da marca iShares para a CVC Capital Partners por mais de US$ 4 bilhões.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IWF funciona",
+      "body": "O IWF é um ETF que replica o Russell 1000 Growth Index, mantido pela FTSE Russell. A emissora é a iShares, atualmente uma marca da BlackRock, que adquiriu o negócio da Barclays em 2009. O fundo foi lançado em 26/05/2000 e opera sem alavancagem ou inversão, buscando acompanhar o desempenho do índice de referência. Como se trata de um ETF de ações de crescimento, a estratégia de composição prioriza empresas com expectativa de crescimento de lucros acima da média, o que tende a resultar em menor distribuição de dividendos, já que os lucros são reinvestidos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IWF",
+      "body": "O IWF segue o Russell 1000 Growth Index, um subconjunto do Russell 1000 Index. O índice principal abrange 1.000 empresas de capitalização grande e média nos Estados Unidos, representando aproximadamente 93% da capitalização de mercado total das empresas públicas americanas, com um valor agregado superior a US$ 70,70 trilhões em 25/09/2026. A composição do índice é determinada por uma metodologia baseada em regras, com reequilíbrio anual no final de junho."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IWF a partir do Brasil",
+      "body": "Para investir no IWF a partir do Brasil, o investidor precisa abrir conta em uma corretora de valores que opere no mercado americano ou que ofereça acesso a ativos estrangeiros. A compra é feita em dólares, o que introduz risco cambial: variações no câmbio entre o real e o dólar afetam o retorno final em reais. Alternativamente, é possível buscar exposição ao mesmo índice ou a ações americanas por meio de BDRs (Brazilian Depositary Receipts) negociados na B3, que são cotados em reais. A [carteira consolidada](/recursos/carteira-consolidada) do app permite visualizar a alocação entre ativos em dólar e em real em uma única visão."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IWF",
+      "body": "Até 29/10/2026, o IWF apresentou rentabilidade total de -1,12% nos últimos 12 meses, 88,09% em 3 anos, 67,32% em 5 anos e 415,94% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 501,8 milhões. O fundo distribuiu US$ 0,4320 por cota em 4 pagamentos no período de 12 meses, resultando em um dividend yield de 0,36%. Para comparar esses resultados com o índice de referência, o [recurso de comparação com índices](/recursos/comparacao-com-indices) do app exibe a rentabilidade do IWF lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IWF",
+      "body": "O principal risco do IWF é a volatilidade do mercado de ações americano, especialmente do segmento de crescimento, que tende a ser mais sensível a mudanças nas taxas de juros e nas expectativas de lucros. A volatilidade anualizada do IWF nos últimos 12 meses foi de 18,06%, classificada como moderada. O beta de 1,32 em relação ao S&P 500 indica que, historicamente, o IWF tende a oscilar 32% a mais que o índice de referência em movimentos de alta e baixa. A maior queda nos últimos 5 anos foi de -32,72%, entre o pico em 27/12/2021 e o ponto mais baixo em 14/10/2022. O [recurso de alertas de preço](/recursos/alertas-de-preco) pode ser usado para monitorar movimentos significativos do ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o IWF?",
+      "answer": "IWF é o iShares Russell 1000 Growth ETF, um fundo de índice que replica o Russell 1000 Growth Index, focado em empresas de capitalização grande e média com perfil de crescimento nos EUA. O fundo foi lançado em 26/05/2000 e é gerido pela iShares, marca da BlackRock."
+    },
+    {
+      "question": "IWF paga dividendos?",
+      "answer": "Sim, o IWF distribui dividendos, mas em valores baixos, típicos de um fundo de ações de crescimento. Nos 12 meses até 29/10/2026, foram distribuídos US$ 0,4320 por cota em 4 pagamentos, resultando em um dividend yield de 0,36%. O último pagamento foi de US$ 0,1090 em 15/09/2026."
+    },
+    {
+      "question": "Qual a diferença entre IWF e IWD?",
+      "answer": "IWF e [IWD](/etfs/iwd) são ETFs da mesma família (iShares) que seguem o mesmo índice base (Russell 1000), mas com estilos opostos. IWF segue o Russell 1000 Growth Index, focado em empresas de crescimento, enquanto IWD segue o Russell 1000 Value Index, focado em empresas de valor. O IWF tende a ter menor dividend yield e maior sensibilidade a mudanças de expectativas de lucros."
+    },
+    {
+      "question": "Como investir no IWF do Brasil?",
+      "answer": "É possível investir no IWF abrindo conta em uma corretora que ofereça acesso ao mercado americano, comprando o ativo em dólares. Outra opção é buscar BDRs que representem o IWF ou o índice Russell 1000 na B3, negociados em reais. O risco cambial deve ser considerado, pois variações no câmbio afetam o retorno em reais. A [carteira consolidada](/recursos/carteira-consolidada) do app ajuda a visualizar a alocação entre moedas."
+    },
+    {
+      "question": "Qual a rentabilidade do IWF nos últimos 3 anos?",
+      "answer": "A rentabilidade total do IWF nos últimos 3 anos até 29/10/2026 foi de 88,09%. No período de 12 meses, a rentabilidade foi de -1,12%, e em 5 anos, de 67,32%. Esses números incluem a reinvestimento de proventos. O [recurso de desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app permite acompanhar a evolução do ativo ao longo do tempo."
+    },
+    {
+      "question": "IWF é um ETF alavancado?",
+      "answer": "Não, o IWF não é um ETF alavancado. Ele replica o desempenho do Russell 1000 Growth Index sem multiplicação de retornos. ETFs alavancados, como o [TQQQ](/etfs/tqqq) ou o [SOXL](/etfs/soxl), buscam multiplicar os retornos diários do índice, o que pode levar a resultados muito diferentes em períodos longos. O IWF é um ETF passivo tradicional."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do IWF junto com outros ativos em dólar e em real em uma única visão."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IWF com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para monitorar movimentos significativos do IWF, considerando sua volatilidade de 18,06%."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do IWF e o preço médio da sua posição ao longo do tempo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IWD",
+        "list": "us-etfs",
+        "reason": "ETF de valor do mesmo índice base (Russell 1000), útil para comparação de estilos."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta do IWF."
+      },
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "ETF do Russell 2000, que cobre o segmento de small caps complementando o Russell 1000."
+      },
+      {
+        "ticker": "VUG",
+        "list": "us-etfs",
+        "reason": "ETF de crescimento da Vanguard, com estratégia semelhante ao IWF."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IWF",
+      "url": "https://finance.yahoo.com/quote/IWF/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Russell 1000 Index (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Russell_1000_Index",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Growth stock (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Growth_stock",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

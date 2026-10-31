@@ -1,0 +1,327 @@
+{
+  "ticker": "GTWR11",
+  "slug": "gtwr11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "GTWR11: FII de escritórios, dividendos e desempenho",
+    "description": "GTWR11 é um FII de tijolo focado em escritórios, com o empreendimento Green Towers na Faria Lima.",
+    "h1": "GTWR11: Fundo de Investimento Imobiliário Green Towers",
+    "canonicalPath": "/fiis/gtwr11",
+    "keywords": [
+      "GTWR11",
+      "FII Green Towers",
+      "FII de escritórios",
+      "dividendos GTWR11",
+      "GTWR11 desempenho",
+      "GTWR11 patrimônio",
+      "GTWR11 vacância",
+      "GTWR11 taxa de administração"
+    ]
+  },
+  "summary": "GTWR11 é a cota do Fundo de Investimento Imobiliário Green Towers, um FII de tijolo focado no segmento de escritórios. O fundo possui um único ativo: o empreendimento Green Towers, localizado na Faria Lima, em São Paulo. Em 09/2026, o patrimônio líquido era de R$ 1,22 bilhão, com valor patrimonial da cota de R$ 101,36. Nos 12 meses até 29/10/2026, a cota rendeu 14,05% com proventos, distribuindo R$ 10,80 por cota.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário Green Towers Responsabilidade Limitada",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO GREEN TOWERS RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF GTWR11",
+    "isin": "BRGTWRCTF003",
+    "taxId": "23.740.527/0001-58",
+    "foundingDate": "2017-07-11",
+    "provider": {
+      "name": "BEM DTVM LTDA",
+      "url": "https://www.bradescobemdtvm.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=23740527000158"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, escritórios",
+    "issuerOrManager": "Tivio Capital DTVM S.A",
+    "name": "Fundo de Investimento Imobiliário Green Towers Responsabilidade Limitada",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO GREEN TOWERS RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Escritórios",
+    "founded": "11/07/2017",
+    "administrator": "BEM DTVM LTDA",
+    "website": "https://www.bradescobemdtvm.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "FUNDO DE INVESTIMENTO IMOBILIÁRIO GREEN TOWERS RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "23.740.527/0001-58",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Escritórios",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BEM DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "11/07/2017",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,22 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "31.863",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 101,36",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 76,28",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "12,51% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,24",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,16%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 883.125,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GTWR11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo Investimento Imobiliario Green Towers",
+    "currency": "BRL",
+    "price": 76.28,
+    "historyStarts": "2019-06-24",
+    "returns": {
+      "1y": 0.1405,
+      "3y": 0.392,
+      "5y": 0.7145,
+      "10y": null
+    },
+    "volatility1y": 0.1251,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2014,
+      "from": "2021-12-30",
+      "to": "2022-07-19"
+    },
+    "beta1y": {
+      "value": 0.24,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.8,
+      "payments12Months": 12,
+      "yield12Months": 0.1416,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.9
+      }
+    },
+    "avgDailyTradedValue3m": 883125
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do GTWR11 nos 12 meses até 29/10/2026 foi de 12,51%, classificada como baixa. O beta do fundo contra o Ibovespa no mesmo período foi de 0,24, o que significa que o GTWR11 costuma acompanhar os movimentos do Ibovespa com menor intensidade, na mesma direção. A maior queda nos últimos 5 anos foi de -20,14%, do pico em 30/12/2021 ao ponto mais baixo em 19/07/2022. Para FIIs de tijolo, especialmente de escritórios, essa volatilidade é compatível com a exposição a um único ativo e a riscos de vacância e de crédito dos inquilinos. Use os [alertas de preço](/recursos/alertas-de-preco) para acompanhar oscilações da cota."
+  },
+  "history": {
+    "overview": "O Fundo de Investimento Imobiliário Green Towers iniciou suas atividades em 11/07/2017, com foco exclusivo no segmento de escritórios. A carteira do fundo é composta por um único ativo: o empreendimento Green Towers, situado na Faria Lima, em São Paulo. O objetivo declarado do fundo é proporcionar renda mensal aos cotistas por meio da locação das lajes corporativas desse empreendimento. A gestão do fundo é ativa, com prazo de duração indeterminado, e é conduzida pela Tivio Capital DTVM S.A., enquanto a administração fiduciária é da BEM DTVM LTDA. O Banco Bradesco S.A. atua como escriturador das cotas e custodiante dos ativos. A cota começou a ser negociada na B3 em junho de 2019, após o encerramento de ofertas públicas de cotas. Em 28/11/2025, a administração fiduciária foi transferida para a BEM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA., com efeitos a partir de 01/12/2025, e a custódia dos ativos foi transferida ao Banco Bradesco S.A., alterações aprovadas em Assembleia Geral de Cotistas em 22/09/2025.",
+    "timeline": [
+      {
+        "date": "2017-07-11",
+        "event": "Início das atividades do Fundo de Investimento Imobiliário Green Towers",
+        "source": 1
+      },
+      {
+        "date": "2019-01-14",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2019-03-07",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2025-11-28",
+        "event": "Transferência da administração fiduciária para a BEM DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. e da custódia ao Banco Bradesco S.A., com efeitos a partir de 01/12/2025",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do GTWR11",
+      "body": "O GTWR11 é um FII de tijolo, com foco no segmento de escritórios. A carteira do fundo é composta por um único ativo: o empreendimento Green Towers, localizado na Faria Lima, em São Paulo. O objetivo do fundo é proporcionar renda mensal aos cotistas por meio da locação das lajes corporativas desse empreendimento. A gestão é ativa, com prazo de duração indeterminado. A gestora é a Tivio Capital DTVM S.A., a administradora é a BEM DTVM LTDA, e o Banco Bradesco S.A. atua como escriturador das cotas e custodiante dos ativos. Em 09/2026, a área bruta locável do ativo era de 64.461 m², com vacância física de 0,0%."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do GTWR11",
+      "body": "Nos 12 meses até 29/10/2026, o GTWR11 distribuiu R$ 10,80 por cota em 12 pagamentos, resultando em dividend yield de 14,16%. O último pagamento foi de R$ 0,90 por cota, com data de pagamento em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o resultado caixa do fundo foi de R$ 0,90 por cota, com distribuição de R$ 0,90 por cota, resultando em dividend yield anualizado de 13,64%. O fundo mantém uma política de distribuição estável, combinando resultados gerados no mês com a utilização pontual de resultados acumulados em períodos anteriores, para reduzir oscilações entre os meses. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos do GTWR11."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O GTWR11 teve duas ofertas públicas de cotas encerradas, conforme o FNET (B3). A primeira foi encerrada em 14/01/2019, e a segunda em 19/06/2019. Em 09/2026, o patrimônio líquido do fundo era de R$ 1,22 bilhão, com 31.863 cotistas e 12.000.000 de cotas emitidas. O valor patrimonial da cota era de R$ 101,36. A taxa de administração no mês de 09/2026, sobre o patrimônio, era de 0,029%."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do GTWR11",
+      "body": "Nos 12 meses até 29/10/2026, o GTWR11 rendeu 14,05% com proventos. Nos 3 anos, a rentabilidade foi de 39,20%, e nos 5 anos, de 71,45%. Em setembro de 2026, o fundo apresentou rentabilidade de 1,9%, superando o IFIX, que registrou -0,2% no mesmo mês. Nos últimos 12 meses, o GTWR11 acumulou 14,5%, acima dos 4,6% do IFIX e dos 12,3% do CDI Líquido no mesmo período. A relação P/VP do fundo era de 0,78 em setembro de 2026. Acompanhe a [comparação com índices](/recursos/comparacao-com-indices) para ver o desempenho do GTWR11 lado a lado com o IFIX e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do GTWR11",
+      "body": "O GTWR11 é um FII de tijolo, com foco em escritórios, o que expõe o cotista a riscos de vacância e de crédito dos inquilinos. Em 09/2026, a vacância física do ativo era de 0,0%, mas mudanças no mercado de escritórios podem afetar a ocupação e a renda do fundo. A volatilidade anualizada do GTWR11 nos 12 meses até 29/10/2026 foi de 12,51%, nível baixo. O beta do fundo contra o Ibovespa no mesmo período foi de 0,24, indicando que o GTWR11 costuma acompanhar os movimentos do Ibovespa com menor intensidade. A maior queda nos últimos 5 anos foi de -20,14%, do pico em 30/12/2021 ao ponto mais baixo em 19/07/2022. Use os [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações da cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GTWR11 é FII de papel ou de tijolo?",
+      "answer": "GTWR11 é um FII de tijolo, com foco no segmento de escritórios. A carteira do fundo é composta por um único ativo: o empreendimento Green Towers, localizado na Faria Lima, em São Paulo. O objetivo do fundo é proporcionar renda mensal aos cotistas por meio da locação das lajes corporativas desse empreendimento."
+    },
+    {
+      "question": "GTWR11 paga dividendos?",
+      "answer": "Sim, o GTWR11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, o fundo distribuiu R$ 10,80 por cota em 12 pagamentos, com dividend yield de 14,16%. O último pagamento foi de R$ 0,90 por cota, com data de pagamento em 01/10/2026. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos."
+    },
+    {
+      "question": "Qual a diferença entre GTWR11 e outros FIIs de escritórios?",
+      "answer": "GTWR11 é um FII de tijolo com foco em escritórios, com um único ativo: o empreendimento Green Towers, na Faria Lima, em São Paulo. Outros FIIs de escritórios podem ter carteiras com múltiplos ativos ou diferentes regiões. Compare o GTWR11 com outros FIIs de escritórios, como [BRCO11](/fiis/brco11) e [TOPP11](/fiis/topp11), usando o [comparador de fundos](/recursos/comparador-de-fundos)."
+    },
+    {
+      "question": "Qual a taxa de administração do GTWR11?",
+      "answer": "A taxa de administração do GTWR11 em 09/2026, sobre o patrimônio, era de 0,029% ao mês. A taxa global do fundo é de 0,50% ao ano, conforme o relatório gerencial de setembro de 2026."
+    },
+    {
+      "question": "GTWR11 tem vacância?",
+      "answer": "Em 09/2026, a vacância física do ativo do GTWR11 era de 0,0%. O fundo possui um único ativo: o empreendimento Green Towers, na Faria Lima, em São Paulo, com área bruta locável de 64.461 m²."
+    },
+    {
+      "question": "Como acompanhar o GTWR11 no app?",
+      "answer": "Você pode acompanhar o GTWR11 no app usando a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação do fundo junto a outros ativos, e o [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua posição no GTWR11, com respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP do GTWR11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do GTWR11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do GTWR11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do GTWR11 junto a outros ativos na sua carteira, com valor por classe e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no GTWR11, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BRCO11",
+        "list": "fiis",
+        "reason": "Outro FII de escritórios, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "TOPP11",
+        "list": "fiis",
+        "reason": "FII de escritórios, para comparação de segmento e rentabilidade."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda imobiliária, para comparação de diversificação e desempenho."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística, para comparação de segmento e rentabilidade."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings, para comparação de segmento e rentabilidade."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GTWR11",
+      "url": "https://finance.yahoo.com/quote/GTWR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FUNDO DE INVESTIMENTO IMOBILIÁRIO GREEN TOWERS (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo GTWR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=23740527000158",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do GTWR11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342401",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do GTWR11, 28/11/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1050656",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

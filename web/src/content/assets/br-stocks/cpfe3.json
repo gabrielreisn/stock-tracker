@@ -1,0 +1,421 @@
+{
+  "ticker": "CPFE3",
+  "slug": "cpfe3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CPFE3: história, dividendos e volatilidade",
+    "description": "CPFE3 é a ação ordinária da CPFL Energia, holding de energia elétrica com 95,6% de geração renovável.",
+    "h1": "CPFE3: CPFL Energia S.A.",
+    "canonicalPath": "/acoes/cpfe3",
+    "keywords": [
+      "CPFE3",
+      "CPFL Energia",
+      "ação de energia elétrica",
+      "dividendos CPFE3",
+      "volatilidade CPFE3",
+      "State Grid CPFL",
+      "energia renovável Brasil",
+      "ação ordinária energia"
+    ]
+  },
+  "summary": "CPFE3 é a ação ordinária da CPFL Energia S.A., holding do setor de energia elétrica com sede em Campinas. O grupo atua na geração, transmissão, distribuição e comercialização de energia, com foco em fontes renováveis. Em 30/10/2026, o papel estava cotado a R$ 42,00, com dividend yield de 8,88% nos últimos 12 meses e rentabilidade total de 8,79% no mesmo período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "CPFL Energia",
+    "legalName": "CPFL ENERGIA SA",
+    "ticker": "BVMF CPFE3",
+    "isin": "BRCPFEACNOR0",
+    "taxId": "02.429.144/0001-93",
+    "foundingDate": "1998-03-20",
+    "address": {
+      "locality": "Campinas",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.cpfl.com.br",
+    "wikidata": "Q1121216",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1121216",
+      "https://pt.wikipedia.org/wiki/CPFL_Energia",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18660/CPFE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "CPFL Energia",
+    "legalName": "CPFL ENERGIA SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Utilidade Pública",
+    "segment": "Energia Elétrica",
+    "founded": "20/03/1998",
+    "listedSince": "02/06/2003",
+    "headquarters": "Campinas (SP)",
+    "website": "https://www.cpfl.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "CPFL ENERGIA SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.429.144/0001-93",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Utilidade Pública / Energia Elétrica",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "20/03/1998",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Campinas (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "02/06/2003",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "CPFE3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 42,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "31,25% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,96",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "8,88%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CPFE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "CPFL Energia S.A.",
+    "currency": "BRL",
+    "price": 42,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0879,
+      "3y": 0.372,
+      "5y": 1.143,
+      "10y": 1.8094
+    },
+    "volatility1y": 0.3125,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2165,
+      "from": "2026-04-15",
+      "to": "2026-08-17"
+    },
+    "beta1y": {
+      "value": 0.96,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 3.7315,
+      "payments12Months": 1,
+      "yield12Months": 0.0888,
+      "lastPayment": {
+        "date": "2026-04-30",
+        "amount": 3.731536
+      }
+    },
+    "avgDailyTradedValue3m": 92540872
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A CPFE3 apresenta volatilidade anualizada de 31,25% nos últimos 12 meses, nível classificado como alto. O beta de 0,96 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com amplitude ligeiramente menor, na mesma direção. A maior queda em 5 anos foi de -21,65%, do pico em 15/04/2026 ao ponto mais baixo em 17/08/2026. Para acompanhar a volatilidade e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) e a ferramenta de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A história da CPFL Energia remonta a 1912, quando a Companhia Paulista de Força e Luz foi fundada a partir da fusão de quatro empresas de energia em cidades do interior paulista. A empresa passou por um longo período de controle estrangeiro e estatal até ser privatizada em 1997 pelo Grupo VBC, com participação do Previ e Bonaire Participações. Em 1998, ocorreu a reestruturação societária que deu origem à holding CPFL Energia, consolidando o modelo de gestão de participações no setor elétrico. A partir de 2004, com a abertura de capital na B3 e na Bolsa de Nova York, a companhia iniciou um ciclo de aquisições que expandiu sua atuação para o Rio Grande do Sul e outras regiões, criando subsidiárias como a CPFL Brasil e a CPFL Transmissão. Em 2017, a chinesa State Grid tornou-se controladora, consolidando a maior participação acionária da empresa. Recentemente, em 2025 e 2026, a CPFL Energia passou por reorganizações societárias, incluindo o cancelamento do registro de companhia aberta da CPFL Geração e a renovação das concessões das distribuidoras.",
+    "timeline": [
+      {
+        "date": "1912",
+        "event": "Fundação da Companhia Paulista de Força e Luz.",
+        "source": 3
+      },
+      {
+        "date": "1998-03-20",
+        "event": "Constituição da CPFL Energia S.A. como holding.",
+        "source": 2
+      },
+      {
+        "date": "2000-05-18",
+        "event": "Registro de companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2003-06-02",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2017-01",
+        "event": "State Grid conclui aquisição de 54,64% da CPFL Energia por R$ 14 bilhões.",
+        "source": 4
+      },
+      {
+        "date": "2025-10-16",
+        "event": "Renúncia e eleição do Presidente do Conselho de Administração.",
+        "source": 12
+      },
+      {
+        "date": "2025-12-01",
+        "event": "Alteração de controle acionário da CPFL Transmissão.",
+        "source": 11
+      },
+      {
+        "date": "2025-12-05",
+        "event": "Alteração de controle acionário da CPFL Energia.",
+        "source": 10
+      },
+      {
+        "date": "2026-01-16",
+        "event": "Cancelamento de registro de companhia aberta da CPFL Geração.",
+        "source": 9
+      },
+      {
+        "date": "2026-01-23",
+        "event": "Deferimento do cancelamento de registro da CPFL Geração.",
+        "source": 8
+      },
+      {
+        "date": "2026-02-02",
+        "event": "Reorganização societária envolvendo incorporação, cisão ou fusão.",
+        "source": 7
+      },
+      {
+        "date": "2026-03-06",
+        "event": "Renúncia de membro do Conselho de Administração.",
+        "source": 6
+      },
+      {
+        "date": "2026-05-08",
+        "event": "Renovação das concessões das distribuidoras.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a CPFL Energia ganha dinheiro",
+      "body": "A CPFL Energia atua como holding de participações no setor elétrico brasileiro, com atuação em geração, transmissão, distribuição e comercialização de energia elétrica. A empresa opera em 687 municípios, atendendo a 17,2 milhões de clientes em São Paulo, Rio Grande do Sul, Paraná e Minas Gerais. No ramo de geração, possui capacidade instalada de 4,53 GW, sendo 95,6% de fontes renováveis, com destaque para a matriz hídrica (56,46%), eólica (31,80%) e biomassa (7,54%). A receita da companhia provém das tarifas reguladas de distribuição e transmissão, além da comercialização de energia no ambiente de contratação livre."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da CPFL Energia",
+      "body": "O controle acionário da CPFL Energia é privado, detido pela State Grid Corporation of China, que concluiu a aquisição de 54,64% do capital em 2017 e passou a deter 94,75% após a Oferta Pública de Aquisição (OPA) no mesmo ano. A empresa está listada no segmento Novo Mercado da B3, o que confere aos acionistas minoritários direitos de proteção, como a obrigatoriedade de oferta pública em caso de venda do controle. CPFE3 é a ação ordinária (ON), que confere direito a voto em assembleias e participação nos lucros. A diferença em relação às ações preferenciais (PN) reside na prioridade de recebimento de dividendos e na ausência de direito a voto, mas a CPFL Energia não possui ações preferenciais em negociação."
+    },
+    {
+      "id": "proventos",
+      "heading": "CPFE3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a CPFE3 distribuiu R$ 3,7315 por ação em 1 pagamento, resultando em dividend yield de 8,88%. O último provento foi pago em 30/04/2026. A companhia não possui histórico de JCP nos últimos 12 meses. Para acompanhar os dividendos e JCP da CPFE3 com data com e data de pagamento, multiplicados pela sua quantidade, utilize a ferramenta de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da CPFE3",
+      "body": "A rentabilidade total da CPFE3 com proventos foi de 8,79% nos 12 meses até 30/10/2026, 37,20% em 3 anos, 114,30% em 5 anos e 180,94% em 10 anos. O preço em 30/10/2026 era de R$ 42,00. Para comparar a performance da CPFE3 com o Ibovespa, CDI e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da CPFE3",
+      "body": "A CPFE3 apresenta volatilidade anualizada de 31,25% nos últimos 12 meses, classificada como alta. A maior queda em 5 anos foi de -21,65%, do pico em 15/04/2026 ao ponto mais baixo em 17/08/2026. O beta de 0,96 indica que a ação tende a acompanhar os movimentos do Ibovespa com amplitude ligeiramente menor. Riscos setoriais incluem mudanças regulatórias da ANEEL, variação de preços de energia e eventos climáticos que afetam a geração hídrica. Para monitorar movimentos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CPFE3 paga dividendos?",
+      "answer": "Sim, a CPFE3 distribuiu R$ 3,7315 por ação em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 8,88%. O último pagamento foi em 30/04/2026. Para acompanhar os proventos, utilize a ferramenta de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre CPFE3 e CPFE4?",
+      "answer": "CPFE3 é a ação ordinária (ON), que confere direito a voto em assembleias. CPFE4 seria a ação preferencial (PN), que tem prioridade no recebimento de dividendos, mas a CPFL Energia não possui ações preferenciais em negociação. A diferença entre ON e PN é geral: ON tem voto, PN tem prioridade em proventos."
+    },
+    {
+      "question": "Quem controla a CPFL Energia?",
+      "answer": "A State Grid Corporation of China é a controladora da CPFL Energia, com 94,75% do capital social desde 2017. A empresa está listada no segmento Novo Mercado da B3, o que confere direitos de proteção aos acionistas minoritários."
+    },
+    {
+      "question": "CPFE3 é uma ação de energia renovável?",
+      "answer": "Sim, a CPFL Energia possui 95,6% de sua capacidade instalada de geração em fontes renováveis, com destaque para hídrica (56,46%), eólica (31,80%) e biomassa (7,54%). A empresa atua em geração, transmissão, distribuição e comercialização de energia elétrica."
+    },
+    {
+      "question": "Qual a rentabilidade da CPFE3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total da CPFE3 com proventos foi de 8,79% nos 12 meses até 30/10/2026. Para comparar com o Ibovespa e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "CPFE3 é uma boa ação para iniciantes?",
+      "answer": "Não é possível classificar a CPFE3 como boa ou ruim para iniciantes. A ação apresenta volatilidade alta (31,25% anualizada) e beta de 0,96, o que indica sensibilidade aos movimentos do Ibovespa. Para avaliar se a ação se encaixa no seu perfil, utilize a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação total."
+    },
+    {
+      "question": "Como acompanhar a CPFE3 no app?",
+      "answer": "Você pode acompanhar a CPFE3 com o [widget na barra de menus](/recursos/widget-da-barra-de-menus), que mostra o gráfico do dia e as posições num clique. Para perguntas sobre a sua carteira, utilize o [assistente de IA](/recursos/assistente-de-ia), que responde em português com base nos seus dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da CPFE3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da CPFE3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a CPFE3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a CPFE3 junto com outras ações, renda fixa e fundos em uma só visão, com alocação por classe."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em CPFE3 e a resposta vem dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EQTL3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de energia elétrica, Equatorial S.A., com atuação em distribuição e geração."
+      },
+      {
+        "ticker": "CPLE3",
+        "list": "br-stocks",
+        "reason": "Companhia Paranaense de Energia (COPEL), outra distribuidora de energia elétrica no Brasil."
+      },
+      {
+        "ticker": "ENGI11",
+        "list": "br-stocks",
+        "reason": "Energisa S.A., outra holding de energia elétrica com atuação em distribuição e geração."
+      },
+      {
+        "ticker": "EGIE3",
+        "list": "br-stocks",
+        "reason": "Engie Brasil Energia S.A., outra empresa do setor de energia elétrica com foco em geração e distribuição."
+      },
+      {
+        "ticker": "AXIA3",
+        "list": "br-stocks",
+        "reason": "AXIA Energia SA, outra empresa do setor de energia elétrica com atuação em geração e distribuição."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CPFE3",
+      "url": "https://finance.yahoo.com/quote/CPFE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CPFL ENERGIA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18660/CPFE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, CPFL ENERGIA SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: CPFL Energia",
+      "url": "https://www.wikidata.org/wiki/Q1121216",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): CPFL Energia",
+      "url": "https://pt.wikipedia.org/wiki/CPFL_Energia",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/05/2026, “Renovação das Concessões das distribuidoras”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1519069&numSequencia=1043775&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/03/2026, “Renúncia de membro do Conselho de Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1486793&numSequencia=1011499&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/02/2026, “Reorganização Societária - Incorporação, Cisão ou Fusão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1472129&numSequencia=996835&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/01/2026, “Deferimento do Cancelamento de Registro de Companhia Aberta da CPFL Geração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1469479&numSequencia=994185&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/01/2026, “Cancelamento de Registro de Companhia Aberta da CPFL Geração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1468164&numSequencia=992870&numVersao=3",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/12/2025, “Alteração de Controle Acionário”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1453644&numSequencia=978356&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/12/2025, “Alteração de Controle Acionário da CPFL Transmissão”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1451140&numSequencia=975852&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/10/2025, “Renúncia e Eleição do Presidente do Conselho de Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1433536&numSequencia=958248&numVersao=2",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,352 @@
+{
+  "ticker": "HYPE3",
+  "slug": "hype3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HYPE3: história, dividendos e volatilidade",
+    "description": "Conheça a Hypera Pharma (HYPE3): história, aquisições, dividendos, volatilidade e riscos. Veja o desempenho da ação e como acompanhar no app.",
+    "h1": "HYPE3: Hypera Pharma – Ação Ordinária",
+    "canonicalPath": "/acoes/hype3",
+    "keywords": [
+      "HYPE3",
+      "Hypera Pharma",
+      "ação HYPE3",
+      "dividendos HYPE3",
+      "volatilidade HYPE3",
+      "setor saúde B3",
+      "medicamentos alopáticos",
+      "Novo Mercado B3"
+    ]
+  },
+  "summary": "HYPE3 é a ação ordinária da Hypera Pharma, empresa brasileira do setor de saúde que fabrica medicamentos alopáticos para uso humano. A companhia, que se originou de negócios de limpeza e cosméticos, consolidou-se no mercado farmacêutico por meio de aquisições estratégicas. Em 30/10/2026, a ação negociava a R$ 21,37, com dividend yield de 5,05% nos últimos 12 meses e volatilidade anualizada de 42,79%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Hypera Pharma",
+    "legalName": "HYPERA S/A",
+    "ticker": "BVMF HYPE3",
+    "isin": "BRHYPEACNOR0",
+    "taxId": "02.932.074/0001-91",
+    "foundingDate": "2002-01-01",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.hypermarcas.com.br",
+    "wikidata": "Q3144150",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q3144150",
+      "https://pt.wikipedia.org/wiki/Hypera_Pharma",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21431/HYPE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Hypera Pharma",
+    "legalName": "HYPERA S/A",
+    "type": "Ação ordinária (ON)",
+    "sector": "Saúde",
+    "segment": "Medicamentos e Outros Produtos",
+    "founded": "01/01/2002",
+    "listedSince": "18/04/2008",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.hypermarcas.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "HYPERA S/A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.932.074/0001-91",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Saúde / Medicamentos e Outros Produtos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "01/01/2002",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "18/04/2008",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "HYPE3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 21,37",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "42,79% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,32",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "5,05%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HYPE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Hypera S.A.",
+    "currency": "BRL",
+    "price": 21.37,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.1276,
+      "3y": -0.1788,
+      "5y": -0.0942,
+      "10y": 0.1664
+    },
+    "volatility1y": 0.4279,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6465,
+      "from": "2022-10-31",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 1.32,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.0786,
+      "payments12Months": 4,
+      "yield12Months": 0.0505,
+      "lastPayment": {
+        "date": "2026-09-29",
+        "amount": 0.26304
+      }
+    },
+    "avgDailyTradedValue3m": 96533673
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da HYPE3 nos últimos 12 meses é de 42,79%, um nível considerado muito alto para o mercado brasileiro. A maior queda em 5 anos foi de -64,65%, entre 31/10/2022 e 18/12/2024, refletindo a sensibilidade da ação a eventos setoriais e regulatórios. A alta volatilidade pode ser acompanhada em tempo real com o [widget na barra de menus](/recursos/widget-da-barra-de-menus), que exibe o gráfico do dia e as posições da carteira."
+  },
+  "history": {
+    "overview": "A origem da empresa remonta a 2001, quando João Alves de Queiroz Filho readquiriu a Prátika Industrial, fabricante da palha de aço Assolan, que fazia parte do grupo Arisco. Inicialmente focada em produtos de limpeza, a companhia expandiu-se por meio de aquisições, incorporando a Fisibra, a Distribuidora Clean e a Quimivale Industrial entre 2003 e 2005. Em 2007, a empresa adotou o nome Hypermarcas, passando a atuar também em alimentos e cosméticos. Em 2008, tornou-se sociedade anônima e realizou sua oferta inicial pública na B3, captando cerca de R$ 700 milhões. A partir de 2011, a empresa iniciou a desinvestimento em segmentos de consumo, vendendo marcas de limpeza e alimentos para se concentrar no setor farmacêutico. Em 2018, mudou o nome para Hypera Pharma, refletindo seu foco exclusivo no mercado de medicamentos. Em 2020, a aquisição de um portfólio da Takeda por US$ 825 milhões consolidou a posição da empresa no segmento de medicamentos de venda livre (OTC).",
+    "timeline": [
+      {
+        "date": "2001",
+        "event": "Fundação da empresa, originada da readquisição da Prátika Industrial",
+        "source": 3
+      },
+      {
+        "date": "2002-01-01",
+        "event": "Constituição da companhia sob a denominação Assolan Industrial",
+        "source": 2
+      },
+      {
+        "date": "2008-04-16",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2008-04-18",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-03-18",
+        "event": "Celebração de acordo de votos para a AGO 2025 e alteração de acordo de acionistas",
+        "source": 7
+      },
+      {
+        "date": "2025-07-07",
+        "event": "Celebração, alteração ou rescisão de acordo de acionistas",
+        "source": 6
+      },
+      {
+        "date": "2026-02-03",
+        "event": "Aumento de capital da companhia",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Hypera Pharma ganha dinheiro",
+      "body": "A Hypera Pharma atua no setor de saúde, com foco na fabricação de medicamentos alopáticos para uso humano. A empresa, que passou por uma transformação estrutural a partir de 2011, concentrou seus negócios no segmento farmacêutico após a venda de marcas de limpeza, alimentos e cosméticos. A estratégia de crescimento baseou-se em aquisições, como a compra de portfólios da Takeda em 2020 e da Sanofi em 2021, que incluíram marcas conhecidas como Neosaldina, AAS e Cepacol. A companhia também atua na produção de princípios ativos, com planos de iniciar a produção da escopolamina no Brasil a partir de 2026."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Hypera Pharma",
+      "body": "A Hypera Pharma possui controle acionário privado, conforme registro na CVM. A ação HYPE3 é uma ação ordinária (ON), o que confere ao detentor direito a voto em assembleias gerais. A empresa está listada no segmento Novo Mercado da B3, que exige práticas de governança corporativa específicas, como a oferta de todas as ações na oferta inicial e a adoção de regras de transparência. O código de negociação na bolsa é HYPE3."
+    },
+    {
+      "id": "proventos",
+      "heading": "HYPE3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a HYPE3 distribuiu R$ 1,0786 por ação em 4 pagamentos, resultando em um dividend yield de 5,05%. O último provento registrado foi de R$ 0,2630, com data de pagamento em 29/09/2026. A empresa mantém uma política de remuneração aos acionistas, distribuindo parte dos lucros sob a forma de dividendos. É possível acompanhar o histórico de pagamentos e as datas de competência e pagamento no app, através da ferramenta de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da HYPE3",
+      "body": "A rentabilidade total da HYPE3, incluindo proventos, foi de -12,76% nos 12 meses até 30/10/2026. No período de 3 anos, a variação foi de -17,88%, e em 5 anos, de -9,42%. Em 10 anos, a ação acumulou alta de 16,64%. Esses números refletem a trajetória da ação em um contexto de volatilidade setorial e ajustes de mercado. Para avaliar o desempenho da HYPE3 em relação a outros ativos, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade lado a lado com o Ibovespa, CDI e IPCA."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da HYPE3",
+      "body": "A HYPE3 apresenta volatilidade anualizada de 42,79% nos últimos 12 meses, classificada como muito alta. A maior queda registrada nos últimos 5 anos foi de -64,65%, ocorrida entre o pico em 31/10/2022 e o ponto mais baixo em 18/12/2024. A empresa também enfrenta riscos regulatórios e de imagem, como a Operação Tira-Teima, que investigou o pagamento de propina a políticos. Além disso, a dependência de aquisições para crescimento e a concorrência no setor farmacêutico são fatores que impactam a trajetória da companhia. A volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco), que notificam quando a ação atinge níveis pré-definidos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HYPE3 paga dividendos?",
+      "answer": "Sim, a HYPE3 distribui dividendos aos acionistas. Nos 12 meses até 30/10/2026, foram pagos R$ 1,0786 por ação, com dividend yield de 5,05%. O último pagamento foi de R$ 0,2630 em 29/09/2026. O histórico completo pode ser consultado no [recurso de proventos](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre HYPE3 e ações preferenciais?",
+      "answer": "HYPE3 é uma ação ordinária (ON), o que significa que o detentor tem direito a voto em assembleias. Ações preferenciais (PN), quando existem, não conferem voto, mas têm prioridade no recebimento de dividendos. A Hypera Pharma possui apenas ações ordinárias em negociação na B3."
+    },
+    {
+      "question": "HYPE3 é uma empresa de saúde?",
+      "answer": "Sim, a Hypera Pharma atua no setor de saúde, com foco na fabricação de medicamentos alopáticos. A empresa se concentrou no segmento farmacêutico a partir de 2011, após a venda de negócios de limpeza e cosméticos."
+    },
+    {
+      "question": "Qual a volatilidade da HYPE3?",
+      "answer": "A volatilidade anualizada da HYPE3 nos últimos 12 meses é de 42,79%, considerada muito alta. A ação possui beta de 1,32 em relação ao Ibovespa, indicando maior sensibilidade aos movimentos do índice."
+    },
+    {
+      "question": "HYPE3 teve aumento de capital?",
+      "answer": "Sim, a Hypera Pharma realizou um aumento de capital em 03/02/2026, conforme fato relevante enviado à CVM. Essa operação pode impactar a diluição dos acionistas e a estrutura de capital da empresa."
+    },
+    {
+      "question": "Como acompanhar a HYPE3 no app?",
+      "answer": "É possível monitorar a HYPE3 através da [carteira consolidada](/recursos/carteira-consolidada), que reúne ações, renda fixa e fundos em uma única visão. O [assistente de IA](/recursos/assistente-de-ia) também permite fazer perguntas sobre a posição na carteira, com respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da HYPE3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da HYPE3 com o Ibovespa, CDI e IPCA no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a HYPE3 atingir preços que você definir, útil para monitorar a volatilidade da ação."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a HYPE3 junto com outros ativos da sua carteira, com alocação e valor por classe em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RDOR3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de saúde, com foco em hospitais e clínicas, para comparação setorial."
+      },
+      {
+        "ticker": "RADL3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de saúde, focada em varejo farmacêutico, para análise de pares."
+      },
+      {
+        "ticker": "HAPV3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de saúde, com foco em clínicas e hospitais, para diversificação setorial."
+      },
+      {
+        "ticker": "SAUD3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de saúde, com foco em planos de saúde, para comparação de segmentos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HYPE3",
+      "url": "https://finance.yahoo.com/quote/HYPE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: HYPERA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21431/HYPE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, HYPERA S/A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Hypera Pharma",
+      "url": "https://www.wikidata.org/wiki/Q3144150",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Hypera Pharma",
+      "url": "https://pt.wikipedia.org/wiki/Hypera_Pharma",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 03/02/2026, “Aumento de capital da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473201&numSequencia=997907&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/07/2025, “Celebração, Alteração ou Rescisão de Acordo de Acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1398436&numSequencia=923148&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/03/2025, “Celebração de Acordo de Votos para a AGO 2025||Celebração, Alteração ou Rescisão de Acordo de Acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1352869&numSequencia=877595&numVersao=2",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

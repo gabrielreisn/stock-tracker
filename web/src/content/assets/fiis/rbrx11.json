@@ -1,0 +1,338 @@
+{
+  "ticker": "RBRX11",
+  "slug": "rbrx11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RBRX11: história, dividendos e volatilidade",
+    "description": "RBRX11 é um FII multiestratégia da Patria com dividend yield de 16,46% em 12 meses.",
+    "h1": "RBRX11: Patria Plus Multiestratégia FII",
+    "canonicalPath": "/fiis/rbrx11",
+    "keywords": [
+      "RBRX11",
+      "Patria Plus Multiestratégia FII",
+      "FII multiestratégia",
+      "dividend yield RBRX11",
+      "volatilidade RBRX11",
+      "Patria Gestão de Recursos",
+      "FII híbrido",
+      "RBRX11 patrimônio"
+    ]
+  },
+  "summary": "RBRX11 é a cota do Patria Plus Multiestratégia Real Estate Fundo de Investimento Imobiliário, um fundo multiestratégia de gestão ativa que investe em imóveis, papéis de crédito e outros fundos imobiliários. Com patrimônio líquido de R$ 1,37 bilhão e 127.536 cotistas em setembro de 2026, o ativo distribuiu R$ 1,08 por cota em 12 meses, resultando em um dividend yield de 16,46% até 29/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Patria Plus Multiestratégia Real Estate Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "PATRIA PLUS MULTIESTRATÉGIA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RBRX11",
+    "isin": "BRRBRXCTF006",
+    "taxId": "41.088.458/0001-21",
+    "foundingDate": "2021-06-28",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=41088458000121"
+    ]
+  },
+  "profile": {
+    "type": "FII multiestratégia (híbrido)",
+    "issuerOrManager": "Patria Gestão de Recursos Ltda (gestora) e BTG Pactual Serviços Financeiros S.A",
+    "name": "Patria Plus Multiestratégia Real Estate Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "PATRIA PLUS MULTIESTRATÉGIA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "28/06/2021",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "PATRIA PLUS MULTIESTRATÉGIA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "41.088.458/0001-21",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "28/06/2021",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,37 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "127.536",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,38",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 6,56",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,62% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,30",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "16,46%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RBRX11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Rbr Alpha Plus Multiestrategia Real Estate Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 6.56,
+    "historyStarts": "2022-09-05",
+    "returns": {
+      "1y": -0.0397,
+      "3y": 0.0617,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1762,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.234,
+      "from": "2024-05-17",
+      "to": "2025-01-29"
+    },
+    "beta1y": {
+      "value": 0.3,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.08,
+      "payments12Months": 12,
+      "yield12Months": 0.1646,
+      "lastPayment": {
+        "date": "2026-10-16",
+        "amount": 0.09
+      }
+    },
+    "avgDailyTradedValue3m": 2407975
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do RBRX11 nos últimos 12 meses foi de 17,62%, um nível moderado para um fundo multiestratégia que combina ativos de renda fixa e imóveis. O beta de 0,30 contra o Ibovespa mostra que, em média, o fundo se moveu com metade da amplitude do índice, na mesma direção. A maior queda em 5 anos foi de -23,40%, entre 17/05/2024 e 29/01/2025. Para acompanhar oscilações e definir pontos de acompanhamento, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Patria Plus Multiestratégia Real Estate FII (RBRX11) iniciou suas atividades em 28 de junho de 2021, com a proposta de atuar em múltiplas estratégias de investimento imobiliário. A gestora Patria estruturou o fundo para operar simultaneamente em três frentes: carrego (foco em renda recorrente via CRIs e títulos públicos), ganho de capital (desenvolvimento imobiliário) e carregamento oportunista (aquisição de ativos em bolsa). Desde a sua criação, o fundo realizou quatro ofertas públicas de cotas, com a primeira encerrada em julho de 2022 e a mais recente em novembro de 2025, ampliando sua base de investidores para mais de 127 mil pessoas em 2026. Em 2026, o fundo passou por movimentos de reorganização de carteira, incluindo a alienação de posições em outros fundos, como a totalidade das cotas do RBR Malls para o Patria Malls ([PMLL11](/fiis/pmll11)) em junho de 2026, e a venda de uma unidade do empreendimento Kalea Jardins em agosto do mesmo ano. A gestora também anunciou em setembro de 2026 a proposta de consolidação do RBRX11 com o Patria Securities ([PSEC11](/fiis/psec11)), com votação prevista para outubro de 2026.",
+    "timeline": [
+      {
+        "date": "2021-06-28",
+        "event": "Início das atividades do Patria Plus Multiestratégia FII (RBRX11).",
+        "source": 1
+      },
+      {
+        "date": "2022-07-19",
+        "event": "Encerramento da primeira oferta pública de cotas do fundo.",
+        "source": 2
+      },
+      {
+        "date": "2023-09-13",
+        "event": "Encerramento da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2024-04-01",
+        "event": "Encerramento da terceira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2025-11-04",
+        "event": "Encerramento da quarta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2026-06-16",
+        "event": "Alienação da totalidade das cotas do RBR Malls para o Patria Malls (PMLL11).",
+        "source": 5
+      },
+      {
+        "date": "2026-08-11",
+        "event": "Venda da fração ideal da Unidade 161 do empreendimento Kalea Jardins em São Paulo.",
+        "source": 4
+      },
+      {
+        "date": "2026-09-30",
+        "event": "Convocação de assembleia para deliberar sobre a consolidação do RBRX11 com o PSEC11.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RBRX11",
+      "body": "O RBRX11 é um fundo imobiliário multiestratégia de gestão ativa, administrado pela BTG Pactual e gerido pela Patria Gestão de Recursos. Segundo o relatório gerencial de setembro de 2026, o fundo busca retornos por meio de três estratégias: carrego (investimentos em CRIs, FIIs e títulos públicos para renda recorrente), carregamento oportunista (aquisição de ativos em bolsa com potencial de valorização) e ganho de capital (operações de desenvolvimento imobiliário com retorno concentrado na saída). A carteira inclui ativos como CRIs de construção, fundos de shoppings, imóveis residenciais de alto padrão e galpões logísticos. A taxa de administração total é de 1,25% ao ano sobre o valor de mercado, com taxa de performance de 20% sobre o que exceder a variação do IPCA + Yield IMA-B 5."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RBRX11",
+      "body": "Nos 12 meses até 29/10/2026, o RBRX11 distribuiu R$ 1,08 por cota em 12 pagamentos, resultando em um dividend yield de 16,46% sobre o preço de mercado de R$ 6,56. O último provento foi de R$ 0,09, pago em 16/10/2026. É possível acompanhar a data de pagamento e a data com de cada distribuição, multiplicadas pela quantidade de cotas, na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RBRX11 realizou quatro ofertas públicas de cotas desde sua criação em 2021, com a última encerrada em 04/11/2025. Em setembro de 2026, o fundo contava com 146.354.302 cotas emitidas, 127.536 cotistas e um patrimônio líquido de R$ 1,37 bilhão, com valor patrimonial da cota de R$ 9,38. A taxa de administração mensal foi de 0,083% sobre o patrimônio naquele mês."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RBRX11",
+      "body": "A rentabilidade total do RBRX11, incluindo proventos, foi de -3,97% nos 12 meses até 29/10/2026 e de 6,17% em 3 anos. O desempenho pode ser comparado com o IFIX e o CDI na ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade da carteira lado a lado com esses referências no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RBRX11",
+      "body": "Como fundo multiestratégia, o RBRX11 está exposto a riscos de crédito (em CRIs e papéis de dívida), vacância (em imóveis físicos) e variação de juros, que impactam tanto a renda fixa quanto os ativos imobiliários. A volatilidade anualizada de 12 meses foi de 17,62%, classificada como moderada, e a maior queda em 5 anos foi de -23,40%, entre 17/05/2024 e 29/01/2025. O beta de 0,30 contra o Ibovespa indica que o fundo tende a acompanhar os movimentos do índice com menor amplitude, na mesma direção."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RBRX11 é FII de papel ou de tijolo?",
+      "answer": "RBRX11 é um FII multiestratégia, ou seja, investe tanto em papéis (CRIs, letras de crédito imobiliário) quanto em imóveis físicos (shoppings, galpões, apartamentos). A carteira também inclui cotas de outros FIIs e títulos públicos, conforme o relatório gerencial de setembro de 2026."
+    },
+    {
+      "question": "Qual o dividend yield do RBRX11?",
+      "answer": "O dividend yield do RBRX11 foi de 16,46% nos 12 meses até 29/10/2026, com base em R$ 1,08 distribuídos por cota. O último provento foi de R$ 0,09, pago em 16/10/2026. Veja o histórico completo na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Quem gerencia o RBRX11?",
+      "answer": "A gestora do RBRX11 é a Patria Gestão de Recursos Ltda, e o administrador e distribuidor é a BTG Pactual Serviços Financeiros S.A. O fundo é do tipo multiestratégia com gestão ativa, conforme o relatório gerencial de setembro de 2026."
+    },
+    {
+      "question": "O RBRX11 vai se fundir com o PSEC11?",
+      "answer": "Em 30 de setembro de 2026, foi convocada assembleia para deliberar sobre a proposta de venda da totalidade dos ativos do PSEC11 ao RBRX11, seguida da liquidação do PSEC11. O resultado da votação seria divulgado em 22 de outubro de 2026, conforme o relatório gerencial de setembro de 2026."
+    },
+    {
+      "question": "Qual a taxa de administração do RBRX11?",
+      "answer": "A taxa de administração total do RBRX11 é de 1,25% ao ano sobre o valor de mercado, com taxa de performance de 20% sobre o que exceder a variação do IPCA + Yield IMA-B 5, conforme o relatório gerencial de setembro de 2026. Em setembro de 2026, a taxa mensal foi de 0,083% sobre o patrimônio."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do RBRX11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do RBRX11 com o IFIX e o CDI no mesmo gráfico, ao longo de diferentes períodos."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do RBRX11 atingir o preço que você definir, para acompanhar a volatilidade de 17,62%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RBRX11 junto com outros FIIs, ações e renda fixa, com alocação por classe e as maiores posições da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PMLL11",
+        "list": "fiis",
+        "reason": "Fundo de shoppings da mesma gestora (Patria), para o qual o RBRX11 alienou a totalidade das cotas do RBR Malls em junho de 2026."
+      },
+      {
+        "ticker": "PSEC11",
+        "list": "fiis",
+        "reason": "Fundo da mesma gestora (Patria) que tem proposta de consolidação com o RBRX11, com votação prevista para outubro de 2026."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Fundo de logística da BTG Pactual, para comparação com a estratégia de ganho de capital do RBRX11 em galpões logísticos."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Fundo de renda imobiliária da Kinea, para comparação com a estratégia de carrego do RBRX11 em CRIs e papéis de crédito."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RBRX11",
+      "url": "https://finance.yahoo.com/quote/RBRX11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do PATRIA PLUS MULT FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RBRX11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=41088458000121",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RBRX11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356176",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBRX11, 11/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1283812",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBRX11, 16/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1222994",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

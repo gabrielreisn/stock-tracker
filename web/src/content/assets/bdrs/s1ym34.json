@@ -1,0 +1,324 @@
+{
+  "ticker": "S1YM34",
+  "slug": "s1ym34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "S1YM34: BDR da Gen Digital, dividendos e volatilidade",
+    "description": "Conheça o S1YM34, BDR da Gen Digital (antiga Symantec) na B3. Veja dividendos, volatilidade de 57,25%, história da empresa e como acompanhar no app.",
+    "h1": "S1YM34: BDR da Gen Digital Inc. (antiga Symantec)",
+    "canonicalPath": "/bdrs/s1ym34",
+    "keywords": [
+      "S1YM34",
+      "Gen Digital",
+      "Symantec",
+      "BDR nível I",
+      "dividendos S1YM34",
+      "volatilidade S1YM34",
+      "B3",
+      "NASDAQ GEN"
+    ]
+  },
+  "summary": "S1YM34 é o BDR nível I da Gen Digital Inc. (antiga Symantec), empresa de cibersegurança e tecnologia financeira listada no NASDAQ. Negociado na B3 desde 12/11/2019, o ativo rendeu 76,66% em 3 anos até 30/10/2026, mas apresenta volatilidade anualizada de 57,25% e maior queda de -48,95% entre 11/12/2024 e 10/04/2026. O preço de R$ 157,19 reflete a variação da ação GEN em dólares e o câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Symantec",
+    "legalName": "GEN DIGITAL INC.",
+    "ticker": "BVMF S1YM34",
+    "foundingDate": "1982-03-01",
+    "website": "https://www.gendigital.com/",
+    "wikidata": "Q677085",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q677085",
+      "https://en.wikipedia.org/wiki/Gen_Digital",
+      "https://pt.wikipedia.org/wiki/Symantec",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53376/S1YM/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Symantec",
+    "legalName": "GEN DIGITAL INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "01/03/1982",
+    "listedSince": "12/11/2019",
+    "headquarters": "Tempe",
+    "website": "https://www.gendigital.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "GEN DIGITAL INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: GEN",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Tempe",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "01/03/1982",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 157,19",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "57,25% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original GEN em dólares)",
+      "value": "0,76",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,16%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 966.813,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "S1YM34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Gen Digital Inc.",
+    "currency": "BRL",
+    "price": 157.19,
+    "historyStarts": "2020-03-02",
+    "returns": {
+      "1y": -0.0153,
+      "3y": 0.7666,
+      "5y": 0.1941,
+      "10y": null
+    },
+    "volatility1y": 0.5725,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4895,
+      "from": "2024-12-11",
+      "to": "2026-04-10"
+    },
+    "beta1y": {
+      "value": 0.76,
+      "against": "S&P 500, ação original GEN em dólares"
+    },
+    "dividends": {
+      "last12Months": 1.8263,
+      "payments12Months": 4,
+      "yield12Months": 0.0116,
+      "lastPayment": {
+        "date": "2026-08-14",
+        "amount": 0.447501
+      }
+    },
+    "avgDailyTradedValue3m": 966813
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do S1YM34 nos últimos 12 meses é de 57,25%, um nível considerado muito alto. O beta da ação original GEN contra o S&P 500 é de 0,76, o que indica que, historicamente, a ação tende a ter movimentos de menor amplitude que o índice, na mesma direção. No entanto, o beta não mede a volatilidade absoluta, mas sim a sensibilidade aos movimentos do mercado. A maior queda em 5 anos foi de -48,95%, entre 11/12/2024 e 10/04/2026. Para ativos de tecnologia e BDRs de empresas de crescimento, volatilidades elevadas são comuns, mas o nível de 57,25% exige atenção. O [assistente de IA](/recursos/assistente-de-ia) pode ajudar a entender como essa volatilidade impacta a sua carteira consolidada."
+  },
+  "history": {
+    "overview": "Fundada em 01/03/1982 por Gary Hendrix, a Symantec iniciou sua trajetória focada em inteligência artificial e sistemas de linguagem natural. Em 1984, após dificuldades em portar seus sistemas para PCs, a empresa foi adquirida pela C&E Software, mantendo o nome Symantec e lançando o software Q&A, que impulsionou o crescimento internacional da companhia. A Symantec consolidou-se como uma gigante do setor de segurança digital até 2015, quando anunciou a divisão em duas empresas independentes: uma focada em segurança e outra em gestão de informações. Em 2016, a divisão de informações (Veritas) foi vendida ao Carlyle Group. Em 2019, a Broadcom adquiriu a divisão de segurança corporativa da Symantec por US$ 10,7 bilhões, resultando na renomeação da empresa remanescente para NortonLifeLock. Em 2022, após a fusão com a Avast Software, a companhia adotou o nome Gen Digital, focando em cibersegurança para consumidores e pequenas empresas, além de tecnologia financeira. O BDR S1YM34 começou a ser negociado na B3 em 12/11/2019, permitindo a exposição de investidores brasileiros à ação GEN listada no NASDAQ.",
+    "timeline": [
+      {
+        "date": "1982-03-01",
+        "event": "Fundação da Symantec por Gary Hendrix com foco em inteligência artificial",
+        "source": 2
+      },
+      {
+        "date": "1984",
+        "event": "Aquisição da Symantec pela C&E Software e lançamento do software Q&A",
+        "source": 3
+      },
+      {
+        "date": "2015",
+        "event": "Anúncio da divisão da Symantec em duas empresas independentes",
+        "source": 3
+      },
+      {
+        "date": "2016-01-29",
+        "event": "Venda da subsidiária Veritas ao Carlyle Group",
+        "source": 3
+      },
+      {
+        "date": "2019-08-08",
+        "event": "Broadcom anuncia aquisição da divisão de segurança corporativa da Symantec por US$ 10,7 bilhões",
+        "source": 3
+      },
+      {
+        "date": "2019-11-12",
+        "event": "Listagem do BDR S1YM34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2022-09",
+        "event": "Fusão com a Avast Software e adoção do nome Gen Digital",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Symantec ganha dinheiro",
+      "body": "A Gen Digital Inc. (anteriormente Symantec Corporation e NortonLifeLock Inc.) é uma empresa multinacional de software que atua nos segmentos de cibersegurança, tecnologia financeira e serviços. A companhia é co-sediada em Tempe, Arizona, nos Estados Unidos, e em Praga, República Tcheca. Seu portfólio de produtos inclui marcas conhecidas como Norton, Avast, LifeLock, Avira, AVG, ReputationDefender, MoneyLion e CCleaner. A empresa faz parte dos grupos Fortune 500 e S&P 500, sendo listada no NASDAQ e no Mercado de Ações de Praga. A receita da empresa provém da venda de licenças de software de segurança para consumidores e pequenas empresas, além de serviços de proteção de identidade e ferramentas de finanças pessoais."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR S1YM34",
+      "body": "O S1YM34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Gen Digital Inc. (ticker GEN) listadas no NASDAQ. O BDR foi listado na B3 em 12/11/2019. Como não é patrocinado, não há garantia da empresa emissora sobre a manutenção do programa, e a cotação acompanha a variação da ação original em dólares e a taxa de câmbio do dólar em relação ao real. O investidor que detém o BDR tem direito a proventos equivalentes aos pagos pela ação original, convertidos para reais."
+    },
+    {
+      "id": "proventos",
+      "heading": "S1YM34 paga dividendos?",
+      "body": "Sim, o S1YM34 paga dividendos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 1,8263 por BDR em 4 pagamentos, resultando em um dividend yield de 1,16%. O último pagamento registrado foi de R$ 0,4475 em 14/08/2026. É importante notar que a Gen Digital paga os dividendos em dólares, e o valor recebido pelo investidor brasileiro depende da cotação do câmbio na data do pagamento. O [proventos no app](/recursos/desempenho-e-preco-medio) permite acompanhar o histórico de distribuição e o impacto na rentabilidade total da posição."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do S1YM34",
+      "body": "Até 30/10/2026, o S1YM34 apresentou rentabilidade total com proventos de -1,53% nos últimos 12 meses, 76,66% em 3 anos e 19,41% em 5 anos. Esses números incluem a variação do câmbio do dólar em relação ao real, o que significa que a performance reflete tanto a movimentação da ação GEN no NASDAQ quanto a oscilação da moeda. Para comparar esse desempenho com outros ativos, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite visualizar a rentabilidade lado a lado com o S&P 500, CDI e Ibovespa."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do S1YM34",
+      "body": "Os principais riscos do S1YM34 incluem a volatilidade do setor de tecnologia e cibersegurança, a exposição cambial (já que a ação original é em dólares) e a liquidez do BDR na B3. A volatilidade anualizada do ativo é de 57,25%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -48,95%, ocorrida entre 11/12/2024 e 10/04/2026. O volume médio negociado por dia nos últimos 3 meses é de R$ 966.813,00, o que pode limitar a liquidez para grandes volumes. Investidores devem considerar o uso de [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos de preço."
+    }
+  ],
+  "faq": [
+    {
+      "question": "S1YM34 paga dividendos?",
+      "answer": "Sim, o S1YM34 paga dividendos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 1,8263 por BDR em 4 pagamentos, com um dividend yield de 1,16%. O último pagamento foi de R$ 0,4475 em 14/08/2026. Os valores são pagos em reais, mas dependem da cotação do dólar na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre S1YM34 e a ação GEN?",
+      "answer": "O S1YM34 é um BDR negociado na B3 em reais, enquanto a ação GEN é negociada no NASDAQ em dólares. O BDR reflete o preço da ação GEN e a taxa de câmbio. Investidores brasileiros podem comprar o S1YM34 em reais, sem a necessidade de abrir conta no exterior, mas estão expostos à variação do câmbio."
+    },
+    {
+      "question": "S1YM34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O S1YM34 é um BDR não patrocinado de nível I. Isso significa que não há garantia da Gen Digital sobre a manutenção do programa, e a cotação depende da ação original e do câmbio. BDRs não patrocinados podem ter menor liquidez e maior risco de deslistagem."
+    },
+    {
+      "question": "Qual a volatilidade do S1YM34?",
+      "answer": "A volatilidade anualizada do S1YM34 nos últimos 12 meses é de 57,25%, classificada como muito alta. A maior queda em 5 anos foi de -48,95%, entre 11/12/2024 e 10/04/2026. O beta da ação original GEN contra o S&P 500 é de 0,76, indicando movimentos de menor amplitude que o índice."
+    },
+    {
+      "question": "Como a Gen Digital ganhou dinheiro antes da fusão com a Avast?",
+      "answer": "Antes da fusão com a Avast em 2022, a empresa era conhecida como NortonLifeLock e focava em cibersegurança para consumidores e pequenas empresas. A receita vinha da venda de licenças de software como Norton e LifeLock. A divisão de segurança corporativa foi vendida para a Broadcom em 2019 por US$ 10,7 bilhões."
+    },
+    {
+      "question": "O S1YM34 é líquido para negociar?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 966.813,00. Esse volume pode limitar a liquidez para grandes operações, mas é suficiente para investidores de menor porte. A liquidez pode variar conforme a demanda do mercado."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja como o S1YM34 se encaixa na sua carteira, junto com outros ativos, e acompanhe a alocação por classe."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do S1YM34 e o preço médio da sua posição, com gráficos e dados atualizados."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do S1YM34 com o S&P 500, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o S1YM34 atingir um preço que você definir, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em S1YM34 e veja as respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "AVGO34",
+        "list": "bdrs",
+        "reason": "Broadcom Inc., que adquiriu a divisão de segurança corporativa da Symantec em 2019."
+      },
+      {
+        "ticker": "C2RW34",
+        "list": "bdrs",
+        "reason": "CrowdStrike Holdings, concorrente no setor de cibersegurança."
+      },
+      {
+        "ticker": "P2AN34",
+        "list": "bdrs",
+        "reason": "Palo Alto Networks, outra empresa de cibersegurança listada no NASDAQ."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta da ação GEN."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia com alta volatilidade, útil para comparação de risco."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de S1YM34",
+      "url": "https://finance.yahoo.com/quote/S1YM34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: GEN DIGT INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53376/S1YM/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Symantec",
+      "url": "https://www.wikidata.org/wiki/Q677085",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Gen Digital",
+      "url": "https://en.wikipedia.org/wiki/Gen_Digital",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Symantec",
+      "url": "https://pt.wikipedia.org/wiki/Symantec",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,282 @@
+{
+  "ticker": "TSLL",
+  "slug": "tsll",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TSLL: ETF alavancado 2x da Tesla",
+    "description": "Conheça o TSLL, ETF alavancado 2x da Tesla. Volatilidade de 91,40%, queda máxima de -82,88% e rentabilidade de -41,03% em 12 meses até 30/10/2026.",
+    "h1": "TSLL: Direxion Daily TSLA Bull 2X Shares",
+    "canonicalPath": "/etfs/tsll",
+    "keywords": [
+      "TSLL",
+      "ETF alavancado Tesla",
+      "Direxion TSLA 2x",
+      "volatilidade TSLL",
+      "investir em Tesla do Brasil"
+    ]
+  },
+  "summary": "TSLL é o Direxion Daily TSLA Bull 2X Shares, um ETF que busca entregar o dobro do retorno diário das ações da Tesla, Inc. (TSLA). Lançado em 09/08/2022, o ativo apresenta alta volatilidade, com queda máxima de -82,88% entre 17/12/2024 e 21/04/2025. Até 30/10/2026, a rentabilidade total nos últimos 12 meses foi de -41,03%, refletindo o risco de alavancagem em períodos longos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Direxion Daily TSLA Bull 2X Shares",
+    "ticker": "XNAS TSLL",
+    "foundingDate": "2022-08-09",
+    "provider": {
+      "name": "Direxion",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Direxion"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado 2x",
+    "issuerOrManager": "Direxion",
+    "trackedIndex": "Ações da Tesla, Inc",
+    "name": "Direxion Daily TSLA Bull 2X Shares",
+    "founded": "09/08/2022"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Direxion Daily TSLA Bull 2X Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "09/08/2022",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "2x o desempenho diário da ação de referência (200%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 11,17",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "91,40% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "4,35",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "8,65%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 720,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TSLL",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Direxion Daily TSLA Bull 2X Shares",
+    "currency": "USD",
+    "price": 11.17,
+    "historyStarts": "2022-08-09",
+    "returns": {
+      "1y": -0.4103,
+      "3y": 0.2089,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.914,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8288,
+      "from": "2024-12-17",
+      "to": "2025-04-21"
+    },
+    "beta1y": {
+      "value": 4.35,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.966,
+      "payments12Months": 5,
+      "yield12Months": 0.0865,
+      "lastPayment": {
+        "date": "2026-09-22",
+        "amount": 0.071
+      }
+    },
+    "avgDailyTradedValue3m": 720639413
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do TSLL é de 91,40%, classificada como muito alta, o que é esperado para um ETF alavancado 2x. O beta de 4,35 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice com intensidade quatro vezes maior, na mesma direção. A maior queda nos últimos 5 anos foi de -82,88%, entre 17/12/2024 e 21/04/2025, refletindo o risco de alavancagem em períodos de baixa. Para acompanhar oscilações, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O TSLL é emitido pela Direxion, empresa americana fundada em 1997 sob o nome Potomac Funds, que se destacou por ser a primeira a oferecer ETFs com alavancagem de 3x em 2008. A empresa adotou o nome Direxion em 2006, utilizando a letra 'X' para destacar seus produtos alavancados. O ETF TSLL iniciou suas operações em 09/08/2022, seguindo a estratégia de alavancagem diária de 2x sobre a Tesla, Inc. (TSLA), uma das empresas mais valiosas do mundo em capitalização de mercado. A Tesla, fundada em 2003, é conhecida por seus veículos elétricos e soluções de energia limpa, com Elon Musk como CEO desde 2008. A estrutura do TSLL visa amplificar os movimentos diários da TSLA, o que pode gerar resultados divergentes do múltiplo esperado em prazos mais longos devido ao rebalanceamento diário.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fundação da Potomac Funds, precursora da Direxion, em Alexandria, Virgínia.",
+        "source": 1
+      },
+      {
+        "date": "2006",
+        "event": "A empresa adota o nome Direxion para destacar seus fundos alavancados.",
+        "source": 1
+      },
+      {
+        "date": "2008",
+        "event": "Direxion lança seus primeiros ETFs alavancados, sendo a primeira a oferecer alavancagem de 3x em novembro.",
+        "source": 1
+      },
+      {
+        "date": "2022-08-09",
+        "event": "Primeiro pregão das cotas do TSLL na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o TSLL funciona",
+      "body": "(TSLA). A alavancagem é aplicada diariamente, o que significa que o resultado acumulado em períodos longos pode divergir significativamente do múltiplo de 2x devido ao efeito do rebalanceamento diário. A emissora é a Direxion, empresa conhecida por seus produtos alavancados, e o ETF foi lançado em 09/08/2022. Para entender melhor o desempenho de ativos alavancados, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite visualizar a rentabilidade do TSLL lado a lado com o S&P 500."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do TSLL",
+      "body": "O TSLL segue o desempenho diário das ações da Tesla, Inc. (TSLA), uma empresa americana de veículos elétricos e energia limpa. A composição do ETF é focada exclusivamente na TSLA, com alavancagem de 2x. A Tesla, fundada em 2003, é uma das empresas mais valiosas do mundo, com capitalização de mercado relevante no setor automotivo e tecnológico. Para acompanhar a TSLA diretamente, veja a página do [TSLA34](/bdrs/tsla34) no app."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no TSLL a partir do Brasil",
+      "body": "Para investir no TSLL a partir do Brasil, é necessário abrir conta em uma corretora que opere no mercado americano ou utilizar BDRs que acompanhem a Tesla, como o [TSLA34](/bdrs/tsla34). O risco cambial é um fator importante, pois o valor do TSLL é cotado em dólar, e variações no câmbio podem impactar a rentabilidade em reais. O app permite acompanhar a posição do TSLL junto a outros ativos por meio da [carteira consolidada](/recursos/carteira-consolidada), que agrega ativos de diferentes mercados."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TSLL",
+      "body": "Até 30/10/2026, a rentabilidade total do TSLL nos últimos 12 meses foi de -41,03%, enquanto nos últimos 3 anos foi de 20,89%. A volatilidade anualizada é de 91,40%, considerada muito alta. Para comparar o desempenho do TSLL com índices de referência, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que inclui o S&P 500. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) também permite analisar a evolução do ativo ao longo do tempo."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TSLL",
+      "body": "O principal risco do TSLL é a alavancagem, que amplifica tanto os ganhos quanto as perdas. A maior queda nos últimos 5 anos foi de -82,88%, entre 17/12/2024 e 21/04/2025. A volatilidade anualizada de 91,40% indica oscilações extremas, típicas de ETFs alavancados. O beta de 4,35 contra o S&P 500 mostra que o TSLL tende a se mover com intensidade muito superior ao índice. Para monitorar oscilações de preço, configure [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TSLL é um ETF alavancado ou inverso?",
+      "answer": "TSLL é um ETF alavancado 2x, que busca entregar o dobro do retorno diário da Tesla. Ele não é inverso, pois acompanha a alta da TSLA, não a queda. A alavancagem diária pode gerar resultados divergentes em prazos longos."
+    },
+    {
+      "question": "Qual a diferença entre TSLL e TSLA34?",
+      "answer": "TSLL é um ETF alavancado 2x que segue a Tesla, enquanto TSLA34 é um BDR que acompanha 1:1 a ação da Tesla. O TSLL amplifica os movimentos diários, o que aumenta o risco e a volatilidade. Veja a página do [TSLA34](/bdrs/tsla34) para comparar."
+    },
+    {
+      "question": "TSLL paga dividendos?",
+      "answer": "Sim, o TSLL distribuiu US$ 0,9660 por cota em 5 pagamentos nos 12 meses até 30/10/2026, com dividend yield de 8,65%. O último pagamento foi de US$ 0,0710 em 22/09/2026. Acompanhe os proventos no app."
+    },
+    {
+      "question": "Qual a volatilidade do TSLL?",
+      "answer": "A volatilidade anualizada do TSLL é de 91,40%, considerada muito alta. A maior queda nos últimos 5 anos foi de -82,88%, entre 17/12/2024 e 21/04/2025. Para monitorar oscilações, use os [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Como investir no TSLL do Brasil?",
+      "answer": "É possível investir no TSLL por meio de uma corretora que opere no mercado americano ou por BDRs que acompanhem a Tesla, como o [TSLA34](/bdrs/tsla34). O risco cambial é um fator importante, pois o ativo é cotado em dólar. A [carteira consolidada](/recursos/carteira-consolidada) ajuda a acompanhar a posição."
+    },
+    {
+      "question": "TSLL é bom para longo prazo?",
+      "answer": "ETFs alavancados como o TSLL são projetados para uso diário, não para longo prazo. O rebalanceamento diário pode gerar resultados divergentes do múltiplo de 2x em períodos longos. A rentabilidade passada não garante resultados futuros."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do TSLL lado a lado com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o TSLL atingir preços que você definir, útil para monitorar oscilações de ativos voláteis."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o TSLL junto a outros ativos, como BDRs e ações, em uma única visão de alocação."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Analise a evolução do TSLL ao longo do tempo, com gráficos de rentabilidade e variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "BDR que acompanha a Tesla, Inc., a ação subjacente do TSLL."
+      },
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "Outro ETF alavancado da Direxion, com alavancagem 3x em semicondutores."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para comparação de desempenho."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq-100, índice que inclui a Tesla e outras empresas de tecnologia."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TSLL",
+      "url": "https://finance.yahoo.com/quote/TSLL/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Direxion (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Direxion",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Tesla, Inc. (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Tesla%2C_Inc.",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

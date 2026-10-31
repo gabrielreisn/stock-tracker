@@ -1,0 +1,325 @@
+{
+  "ticker": "RZAT11",
+  "slug": "rzat11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RZAT11: história, rendimentos e portfólio",
+    "description": "Conheça o RZAT11: FII de tijolo com estratégia de sale-leaseback, dividend yield de 18,11% em 12 meses e patrimônio de R$ 428,6 milhões em 09/2026.",
+    "h1": "RZAT11: Riza Arctium Real Estate FII",
+    "canonicalPath": "/fiis/rzat11",
+    "keywords": [
+      "RZAT11",
+      "Riza Arctium FII",
+      "FII sale-leaseback",
+      "FII BTG Pactual",
+      "RZAT11 dividend yield",
+      "RZAT11 patrimônio"
+    ]
+  },
+  "summary": "RZAT11 é a cota do Riza Arctium Real Estate FII, um fundo imobiliário de gestão ativa e segmento multicategoria. A estratégia baseia-se na aquisição de imóveis industriais, logísticos e comerciais por meio de operações de sale-leaseback, com foco em setores resilientes. Em setembro de 2026, o patrimônio líquido era de R$ 428,6 milhões e o valor patrimonial da cota era de R$ 101,21.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Riza Arctium Real Estate FII - Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "RIZA ARCTIUM REAL ESTATE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RZAT11",
+    "isin": "BRRZATCTF009",
+    "taxId": "28.267.696/0001-36",
+    "foundingDate": "2019-05-23",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28267696000136"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, multicategoria",
+    "issuerOrManager": "Riza Gestora de Recursos (gestora), BTG Pactual Serviços Financeiros S.A",
+    "name": "Riza Arctium Real Estate FII - Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "RIZA ARCTIUM REAL ESTATE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "23/05/2019",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "RIZA ARCTIUM REAL ESTATE FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "28.267.696/0001-36",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "23/05/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 428,6 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "34.098",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 101,21",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 77,85",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,61% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,20",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "18,11%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 667.222,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RZAT11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Riza Arctium Real Estate Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 77.85,
+    "historyStarts": "2025-04-08",
+    "returns": {
+      "1y": 0.0396,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1461,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.148,
+      "from": "2026-06-12",
+      "to": "2026-10-28"
+    },
+    "beta1y": {
+      "value": 0.2,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 14.1,
+      "payments12Months": 12,
+      "yield12Months": 0.1811,
+      "lastPayment": {
+        "date": "2026-10-16",
+        "amount": 0.95
+      }
+    },
+    "avgDailyTradedValue3m": 667222
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do RZAT11 nos 12 meses até 29/10/2026 foi de 14,61%, nível classificado como baixo 0. O beta de 12 meses contra o Ibovespa foi de 0,20, o que indica que o ativo costuma acompanhar os movimentos do índice com menor intensidade, na mesma direção 0. A maior queda nos últimos 5 anos foi de -14,80%, ocorrida entre o pico em 12/06/2026 e o ponto mais baixo em 28/10/2026 0. Para monitorar oscilações de preço, é possível usar os [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "O Riza Arctium Real Estate FII iniciou suas atividades em 23 de maio de 2019 1. O fundo opera com gestão ativa e prazo indeterminado, tendo a Riza Gestora de Recursos assumido a gestão em dezembro de 2020 3. A estratégia central do RZAT11 é a aquisição de imóveis de empresas que buscam otimizar sua estrutura de capital, seguida da locação imediata desses mesmos ativos (sale-leaseback), muitas vezes com opção de recompra 3. O objetivo é obter retornos consistentes acima de IPCA + 5,0% ao ano 3. Em 2020, o fundo realizou uma oferta pública de cotas, encerrada em 22 de maio 2. Uma nova oferta ocorreu entre 4 de setembro e 1 de outubro de 2024 2. Em 2026, o portfólio consolidou a venda do imóvel de Frutal/MG à Cervejaria Imperial por R$ 150 milhões, com recebimento parcelado até 2032, e a aquisição de um imóvel em Maringá/PR por R$ 20 milhões, locado à vendedora por 120 meses [3, 4, 5].",
+    "timeline": [
+      {
+        "date": "2019-05-23",
+        "event": "Início das atividades do Riza Arctium Real Estate FII",
+        "source": 1
+      },
+      {
+        "date": "2020-05-22",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2024-09-04",
+        "event": "Início de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-06-02",
+        "event": "Celebração do compromisso de compra e venda do imóvel de Maringá/PR por R$ 20 milhões",
+        "source": 5
+      },
+      {
+        "date": "2026-07-20",
+        "event": "Aditamento ao contrato de aquisição do imóvel de Maringá/PR, ajustando a forma de pagamento",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RZAT11",
+      "body": "O RZAT11 é um fundo de investimento imobiliário de gestão ativa, com prazo indeterminado e público-alvo de investidores em geral 1. A gestão é conduzida pela Riza Gestora de Recursos, com administração e distribuição pela BTG Pactual Serviços Financeiros S.A. DTVM [1, 3]. O objetivo do fundo é obter retornos consistentes acima de IPCA + 5,0% ao ano, investindo em uma carteira diversificada de ativos industriais, logísticos e comerciais de setores resilientes 3. A estratégia baseia-se na aquisição de imóveis de empresas que buscam desmobilizar ativos para otimizar sua estrutura de capital, seguida da locação imediata desses imóveis de volta às mesmas empresas (sale-leaseback), muitas vezes com opção de recompra 3. Em setembro de 2026, o portfólio era composto por 8 imóveis locados e 1 imóvel vendido, com valor de mercado de R$ 975 milhões e valor de aquisição de R$ 375 milhões, representando um desconto médio de 61% 3. A taxa contratual média do portfólio é de IPCA + 10,2% ao ano 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RZAT11",
+      "body": "Nos 12 meses até 29/10/2026, o RZAT11 distribuiu R$ 14,1000 por cota em 12 pagamentos, resultando em um dividend yield de 18,11% 0. O último provento foi de R$ 0,9500, pago em 16/10/2026 0. O relatório gerencial de setembro de 2026 indica que o fundo mantém R$ 0,02 por cota em caixa, destinado a futuras distribuições, como parte de uma estratégia de retenção para mitigar reduções nos resultados distribuíveis em períodos de menor variação do IPCA 3. O fundo estima rendimentos mensais normalizados entre R$ 0,90 e R$ 1,00 por cota para outubro e novembro de 2026, após a distribuição de ganhos não recorrentes 3. É possível acompanhar a data com e a data de pagamento de cada provento no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RZAT11 realizou duas ofertas públicas de cotas encerradas, conforme registros do FNET 2. A primeira foi encerrada em 22/05/2020 e a segunda em 01/10/2024, tendo início em 04/09/2024 2. Em setembro de 2026, o patrimônio líquido do fundo era de R$ 428,6 milhões, com 34.098 cotistas e 4.235.042 cotas emitidas 1. O valor patrimonial da cota naquele mês era de R$ 101,21 1. A taxa de administração no mês de setembro de 2026 foi de 0,076% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RZAT11",
+      "body": "A rentabilidade total com proventos do RZAT11 nos 12 meses até 29/10/2026 foi de 3,96% 0. O preço da cota nessa data era de R$ 77,85, abaixo do valor patrimonial de R$ 101,21 registrado em setembro de 2026 [0, 1]. A volatilidade anualizada no mesmo período foi de 14,61%, classificada como baixa 0. O beta de 12 meses contra o Ibovespa foi de 0,20 0. Para comparar a rentabilidade do RZAT11 com índices como o IFIX e o CDI, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RZAT11",
+      "body": "Os riscos do RZAT11 incluem a concentração em operações de sale-leaseback, onde o locatário é o próprio vendedor do imóvel, o que pode gerar risco de crédito em caso de inadimplência ou exercício da opção de recompra 3. O portfólio é composto por imóveis industriais, logísticos e comerciais, sujeitos a riscos de vacância e variação de mercado 3. A maior queda nos últimos 5 anos foi de -14,80%, do pico em 12/06/2026 ao ponto mais baixo em 28/10/2026 0. A volatilidade anualizada de 14,61% é considerada baixa, mas o beta de 0,20 indica que o ativo costuma acompanhar os movimentos do Ibovespa com menor intensidade 0. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar variações na cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O RZAT11 paga rendimentos mensais?",
+      "answer": "Sim, o RZAT11 distribuiu 12 pagamentos nos 12 meses até 29/10/2026, totalizando R$ 14,1000 por cota 0. O último provento foi de R$ 0,9500, pago em 16/10/2026 0. O relatório gerencial de setembro de 2026 estima rendimentos mensais normalizados entre R$ 0,90 e R$ 1,00 por cota para outubro e novembro de 2026 3."
+    },
+    {
+      "question": "Qual o dividend yield do RZAT11?",
+      "answer": "O dividend yield do RZAT11 nos 12 meses até 29/10/2026 foi de 18,11%, com base em R$ 14,1000 distribuídos por cota 0. O relatório gerencial de setembro de 2026 informa um dividend yield do mês de 0,71% 1."
+    },
+    {
+      "question": "O RZAT11 é FII de papel ou de tijolo?",
+      "answer": "O RZAT11 é um FII de tijolo, com foco em imóveis físicos industriais, logísticos e comerciais 3. A estratégia baseia-se na aquisição de imóveis e locação imediata (sale-leaseback), com opção de recompra em alguns casos 3."
+    },
+    {
+      "question": "Qual a taxa de administração do RZAT11?",
+      "answer": "A taxa de administração do RZAT11 em setembro de 2026 foi de 0,076% sobre o patrimônio 1."
+    },
+    {
+      "question": "Quem administra o RZAT11?",
+      "answer": "A gestão do RZAT11 é conduzida pela Riza Gestora de Recursos, com administração e distribuição pela BTG Pactual Serviços Financeiros S.A. DTVM [1, 3]. A Riza assumiu a gestão em dezembro de 2020 3."
+    },
+    {
+      "question": "O RZAT11 tem opção de recompra nos contratos?",
+      "answer": "Sim, a estratégia do RZAT11 inclui operações de sale-leaseback com opção de recompra, onde o locatário (vendedor do imóvel) pode recomprar o ativo ao final do prazo 3. O imóvel de Maringá/PR, adquirido em 2026, tem opção de recompra por R$ 20 milhões ao final de 120 meses 5."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do RZAT11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do RZAT11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do RZAT11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RZAT11 junto a outros FIIs e ativos na sua carteira, com alocação por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RZTR11",
+        "list": "fiis",
+        "reason": "Outro FII da mesma gestora (Riza), com foco em ativos reais."
+      },
+      {
+        "ticker": "RZAK11",
+        "list": "fiis",
+        "reason": "Outro FII da mesma gestora (Riza), com estratégia de renda imobiliária."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística da BTG Pactual, similar ao segmento logístico do RZAT11."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística, comparável ao segmento logístico do portfólio do RZAT11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RZAT11",
+      "url": "https://finance.yahoo.com/quote/RZAT11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do RIZA ARCTIUM FII RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RZAT11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28267696000136",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RZAT11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1358941",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RZAT11, 20/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1260243",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RZAT11, 03/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1212233",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

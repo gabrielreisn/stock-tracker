@@ -1,0 +1,260 @@
+{
+  "ticker": "SLV",
+  "slug": "slv",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SLV: ETF de prata, histórico e volatilidade",
+    "description": "SLV é o iShares Silver Trust, ETF de prata lançado em 2006. Veja desempenho, volatilidade de 65,82% e como investir do Brasil.",
+    "h1": "SLV: iShares Silver Trust",
+    "canonicalPath": "/etfs/slv",
+    "keywords": [
+      "SLV",
+      "iShares Silver Trust",
+      "ETF de prata",
+      "investir em prata",
+      "volatilidade do SLV",
+      "SLV Brasil"
+    ]
+  },
+  "summary": "SLV é o iShares Silver Trust, um ETF lançado em 28/04/2006 que replica a variação do preço do prata à vista em dólar. Emitido pela BlackRock (antiga Barclays), o fundo não paga proventos e tem alta volatilidade. Em 30/10/2026, a cota valia US$ 44,60, com rentabilidade de 109,00% em 3 anos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Silver Trust",
+    "ticker": "ARCX SLV",
+    "foundingDate": "2006-04-28",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de metal precioso",
+    "issuerOrManager": "BlackRock (iShares)",
+    "trackedIndex": "Preço do prata à vista",
+    "name": "iShares Silver Trust",
+    "founded": "28/04/2006"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Silver Trust",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "28/04/2006",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 44,60",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "65,82% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,18",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 934,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SLV",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Silver Trust",
+    "currency": "USD",
+    "price": 44.6,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0059,
+      "3y": 1.09,
+      "5y": 1.0063,
+      "10y": 1.6282
+    },
+    "volatility1y": 0.6582,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5777,
+      "from": "2026-01-28",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 2.18,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 934404363
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do SLV nos últimos 12 meses é de 65,82%, nível muito alto. O beta de 2,18 contra o S&P 500 indica que o SLV tende a se mover com amplitude maior que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -57,77%, do pico em 28/01/2026 ao ponto mais baixo em 30/10/2026. Para um ETF de metal precioso, essa volatilidade é esperada, mas o beta elevado mostra que o SLV amplifica os movimentos do mercado acionário. O volume médio de US$ 934,4 milhões por dia indica boa liquidez, o que facilita a entrada e saída de posições."
+  },
+  "history": {
+    "overview": "O iShares Silver Trust (SLV) começou a ser negociado em 28 de abril de 2006. A marca iShares pertence à BlackRock, que adquiriu o negócio da Barclays em 2009. Antes disso, os primeiros ETFs da linha eram conhecidos como World Equity Benchmark Shares (WEBS), lançados em resposta ao SPDR S&P 500 ([SPY](/etfs/spy)), o primeiro ETF dos EUA, criado em 1993 pela State Street. Em 2000, a Barclays investiu no crescimento do mercado de ETFs, lançando mais de 40 fundos sob a marca iShares, liderados por Lee Kranefuss e com consultoria de Nate Most, inventor do ETF. Em 2006, a iShares comprou a unidade de ETFs da HypoVereinsbank por €240 milhões, consolidando sua posição na Europa. A venda da iShares para a CVC Capital Partners foi anunciada em 2009, mas a BlackRock acabou adquirindo a marca, tornando-se a maior emissora de ETFs nos EUA e globalmente.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Lançamento do SPDR S&P 500 (SPY), o primeiro ETF dos EUA, pela State Street.",
+        "source": 1
+      },
+      {
+        "date": "2000",
+        "event": "Barclays lança mais de 40 fundos sob a marca iShares, renomeando os WEBS.",
+        "source": 1
+      },
+      {
+        "date": "2006-04-28",
+        "event": "Primeiro pregão das cotas do iShares Silver Trust (SLV).",
+        "source": 0
+      },
+      {
+        "date": "2006-11-07",
+        "event": "iShares anuncia a compra da unidade de ETFs da HypoVereinsbank por €240 milhões.",
+        "source": 1
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma planos de venda da iShares para a CVC Capital Partners por mais de US$ 4 bilhões.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SLV funciona",
+      "body": "O SLV é um ETF que replica a variação do preço do prata à vista. A emissora é a BlackRock, sob a marca iShares, que adquiriu o negócio da Barclays em 2009. O fundo foi lançado em 28/04/2006 e não é alavancado nem inverso, o que significa que ele não faz rebalanceamento diário para multiplicar a performance do ativo subjacente. A cota do SLV reflete diretamente o movimento do preço do prata, sem alavancagem."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SLV",
+      "body": "O SLV segue o preço do prata à vista. A prata tem demanda industrial (eletrônicos, fotovoltaicos, joias) e de investimento (moedas, barras). Em 2025, a produção mundial de minas de prata foi estimada em 26.000 toneladas métricas, e as reservas em 610.000 toneladas métricas. A demanda total caiu 2% em 2025 para 1,13 bilhão de onças troy, com a demanda industrial recuando 3% após quatro anos de crescimento. O SLV não possui uma composição de ações ou títulos, mas sim exposição ao metal físico."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SLV a partir do Brasil",
+      "body": "Para investir no SLV a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso ao mercado americano. O ativo é cotado em dólar, o que expõe o investidor ao risco cambial: se o dólar se valorizar frente ao real, o retorno em reais aumenta, e vice-versa. Não há BDRs do SLV na B3, mas há outros ETFs de metais preciosos, como o [GLD](/etfs/gld) (ouro) e o [IAU](/etfs/iau) (ouro), que podem ser comparados. O risco cambial é um fator importante a considerar, pois o preço do SLV em reais depende tanto do preço do prata em dólar quanto da cotação do dólar."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SLV",
+      "body": "Em 30/10/2026, a cota do SLV valia US$ 44,60. A rentabilidade total com proventos foi de 0,59% em 12 meses, 109,00% em 3 anos, 100,63% em 5 anos e 162,82% em 10 anos. O SLV não pagou proventos nos últimos 12 meses. A comparação com o S&P 500 pode ser feita no app, onde a rentabilidade do SLV é exibida lado a lado com o índice."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SLV",
+      "body": "O SLV tem volatilidade anualizada de 65,82% nos últimos 12 meses, nível considerado muito alto. A maior queda nos últimos 5 anos foi de -57,77%, do pico em 28/01/2026 ao ponto mais baixo em 30/10/2026. O beta de 2,18 contra o S&P 500 indica que o SLV tende a se mover com amplitude maior que o índice, na mesma direção. Os riscos incluem a volatilidade do preço do prata, a demanda industrial e de investimento, e o risco cambial para investidores brasileiros. O volume médio negociado por dia nos últimos 3 meses foi de US$ 934,4 milhões, o que indica boa liquidez."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar SLV no app",
+      "body": "Para quem tem SLV na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com S&P 500 no app](/recursos/comparacao-com-indices): Veja a rentabilidade do SLV lado a lado com o S&P 500, no mesmo gráfico, para entender como o ativo se comportou em relação ao índice.\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas de preço para ser notificado quando o SLV atingir um valor que você escolheu, útil para acompanhar a volatilidade do ativo.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do SLV junto com outros ativos, como ações e ETFs, em uma só visão, para entender a diversificação da sua carteira."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SLV paga dividendos?",
+      "answer": "Não, o SLV não paga proventos. Nos últimos 12 meses, não houve distribuição de dividendos ou juros sobre capital próprio. O retorno vem apenas da variação do preço da cota, que reflete o preço do prata."
+    },
+    {
+      "question": "Qual a diferença entre SLV e GLD?",
+      "answer": "SLV é um ETF de prata, enquanto GLD é um ETF de ouro. Ambos são emitidos por gestoras diferentes (BlackRock e SPDR, respectivamente) e seguem metais distintos. A prata tem maior volatilidade e demanda industrial, enquanto o ouro é mais usado como reserva de valor. No app, é possível comparar a rentabilidade de ambos com o S&P 500."
+    },
+    {
+      "question": "SLV é um ETF alavancado?",
+      "answer": "Não, o SLV não é alavancado nem inverso. Ele replica a variação do preço do prata à vista, sem multiplicar a performance. ETFs alavancados, como o [SOXL](/etfs/soxl) (3x semicondutores), fazem rebalanceamento diário, o que pode distorcer a performance em períodos longos."
+    },
+    {
+      "question": "Como investir no SLV do Brasil?",
+      "answer": "É necessário abrir conta em uma corretora que ofereça acesso ao mercado americano. O SLV é cotado em dólar, o que expõe o investidor ao risco cambial. Não há BDRs do SLV na B3, mas há outros ETFs de metais preciosos, como o GLD e o IAU, que podem ser comparados no app."
+    },
+    {
+      "question": "Qual a volatilidade do SLV?",
+      "answer": "A volatilidade anualizada do SLV nos últimos 12 meses é de 65,82%, nível muito alto. A maior queda nos últimos 5 anos foi de -57,77%, do pico em 28/01/2026 ao ponto mais baixo em 30/10/2026. O beta de 2,18 contra o S&P 500 indica que o SLV tende a se mover com amplitude maior que o índice."
+    },
+    {
+      "question": "SLV tem liquidez?",
+      "answer": "Sim, o volume médio negociado por dia nos últimos 3 meses foi de US$ 934,4 milhões, o que indica boa liquidez. Isso facilita a entrada e saída de posições, com menor impacto no preço. No app, é possível acompanhar o volume e a cotação em tempo real."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com S&P 500 no app",
+        "context": "Veja a rentabilidade do SLV lado a lado com o S&P 500, no mesmo gráfico, para entender como o ativo se comportou em relação ao índice."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para ser notificado quando o SLV atingir um valor que você escolheu, útil para acompanhar a volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do SLV junto com outros ativos, como ações e ETFs, em uma só visão, para entender a diversificação da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GLD",
+        "list": "us-etfs",
+        "reason": "ETF de ouro, similar ao SLV, mas com menor volatilidade e maior uso como reserva de valor."
+      },
+      {
+        "ticker": "IAU",
+        "list": "us-etfs",
+        "reason": "Outro ETF de ouro, emitido pela iShares, que pode ser comparado com o SLV em termos de custo e liquidez."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, usado como referência para comparar a performance do SLV com o mercado acionário americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SLV",
+      "url": "https://finance.yahoo.com/quote/SLV/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Silver as an investment (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Silver_as_an_investment",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

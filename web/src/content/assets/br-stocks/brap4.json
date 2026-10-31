@@ -1,0 +1,373 @@
+{
+  "ticker": "BRAP4",
+  "slug": "brap4",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BRAP4: história, dividendos e volatilidade",
+    "description": "BRAP4 é a ação preferencial da Bradespar, holding do Bradesco com 3,67% da Vale. Veja dividendos, volatilidade e desempenho até 30/10/2026.",
+    "h1": "BRAP4: Bradespar S/A - Ação Preferencial",
+    "canonicalPath": "/acoes/brap4",
+    "keywords": [
+      "BRAP4",
+      "Bradespar",
+      "ação preferencial",
+      "dividendos BRAP4",
+      "volatilidade BRAP4",
+      "Vale",
+      "Banco Bradesco",
+      "holding"
+    ]
+  },
+  "summary": "BRAP4 é a ação preferencial da Bradespar S/A, holding controlada pelo Banco Bradesco. A empresa possui 3,67% do capital da Vale S.A., sua única participação relevante. Em 30/10/2026, a ação cotava a R$ 18,26, com dividend yield de 12,91% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Bradespar",
+    "legalName": "BRADESPAR S/A",
+    "ticker": "BVMF BRAP4",
+    "isin": "BRBRAPACNPR2",
+    "taxId": "03.847.461/0001-92",
+    "foundingDate": "2000-03-30",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.bradespar.com",
+    "wikidata": "Q896924",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q896924",
+      "https://pt.wikipedia.org/wiki/Bradespar",
+      "https://en.wikipedia.org/wiki/Bradespar",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18724/BRAP/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Bradespar",
+    "legalName": "BRADESPAR S/A",
+    "type": "Ação preferencial (PN)",
+    "sector": "Materiais Básicos",
+    "segment": "Minerais Metálicos",
+    "founded": "30/03/2000",
+    "listedSince": "10/08/2000",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.bradespar.com"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "BRADESPAR S/A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "03.847.461/0001-92",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Minerais Metálicos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "30/03/2000",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "10/08/2000",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "BRAP3, BRAP4",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "BAKER TILLY 4PARTNERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 18,26",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "27,99% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,50",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "12,91%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BRAP4",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Bradespar S.A.",
+    "currency": "BRL",
+    "price": 18.26,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.128,
+      "3y": 0.1778,
+      "5y": 0.5065,
+      "10y": 10.2625
+    },
+    "volatility1y": 0.2799,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3999,
+      "from": "2023-01-26",
+      "to": "2025-01-13"
+    },
+    "beta1y": {
+      "value": 0.5,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 2.3571,
+      "payments12Months": 2,
+      "yield12Months": 0.1291,
+      "lastPayment": {
+        "date": "2025-12-18",
+        "amount": 1.542496
+      }
+    },
+    "avgDailyTradedValue3m": 64852850
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da BRAP4 nos últimos 12 meses é de 27,99%, nível classificado como 'alta'. O beta de 0,50 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção. A maior queda em 5 anos foi de -39,99%, do pico em 26/01/2023 ao ponto mais baixo em 13/01/2025. Esse nível de volatilidade é compatível com ações de empresas ligadas a commodities, que sofrem com oscilações nos preços de minerais metálicos. [Use alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a cotação atingir níveis que você considerar relevantes."
+  },
+  "history": {
+    "overview": "A Bradespar S/A foi constituída em 30 de março de 2000 a partir de um desmembramento do Banco Bradesco, com o objetivo de administrar as participações acionárias do banco em empresas não financeiras. A companhia teve seu registro na CVM em 07 de agosto de 2000 e iniciou a cotação na B3 em 10 de agosto do mesmo ano, com oferta pública em setembro. Nos anos seguintes, a holding administrou participações em diversas empresas, como Scopus, Bradesplan, Net Serviços/Globo Cabo, VCB e CPFL Energia, que foram gradualmente alienadas entre 2002 e 2017. Em 2005, a Bradespar passou a deter participações relevantes na Vale e na CPFL Energia. Em 2017, a reestruturação societária da Vale resultou na extinção da Valepar e na conversão das ações preferenciais da mineradora em ordinárias. Em dezembro de 2021, a Bradespar distribuiu 41% da sua fatia da Vale por meio de redução de capital social, entregando 130,6 milhões de ações da mineradora aos seus acionistas. Atualmente, a Bradespar mantém 3,67% do capital total da Vale como sua única participação relevante.",
+    "timeline": [
+      {
+        "date": "2000-03-30",
+        "event": "Constituição da Bradespar S/A a partir de um desmembramento do Banco Bradesco.",
+        "source": 2
+      },
+      {
+        "date": "2000-08-07",
+        "event": "Registro da Bradespar como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2000-08-10",
+        "event": "Início da cotação das ações da Bradespar na B3.",
+        "source": 1
+      },
+      {
+        "date": "2001",
+        "event": "Operação de descruzamento entre CSN e Vale, com venda de participações pela Bradespar e Previ.",
+        "source": 4
+      },
+      {
+        "date": "2005",
+        "event": "Bradespar passa a deter participações relevantes na Vale e na CPFL Energia.",
+        "source": 5
+      },
+      {
+        "date": "2017-08",
+        "event": "Reestruturação societária da Vale, extinção da Valepar e conversão de ações preferenciais em ordinárias.",
+        "source": 4
+      },
+      {
+        "date": "2021-12",
+        "event": "Distribuição de 41% da participação da Bradespar na Vale por redução de capital social.",
+        "source": 4
+      },
+      {
+        "date": "2025-03-20",
+        "event": "Proposta para pagamento de dividendos complementares.",
+        "source": 8
+      },
+      {
+        "date": "2025-10-31",
+        "event": "Proposta da Diretoria para pagamento de juros sobre o capital próprio.",
+        "source": 7
+      },
+      {
+        "date": "2025-12-15",
+        "event": "Pagamento de dividendos e JCP.",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Bradespar ganha dinheiro",
+      "body": "A Bradespar S/A atua como holding, com a atividade descrita na B3 como 'Participação como sócia ou acionista de outras Sociedades'. Atualmente, a única participação relevante da companhia é na Companhia Vale do Rio Doce (Vale), onde detém 3,67% do capital total. A receita da Bradespar vem dos proventos recebidos dessa participação, como dividendos e juros sobre o capital próprio distribuídos pela Vale. A empresa não possui outras participações relevantes, após a alienação gradual de ativos como Scopus, Bradesplan, Net Serviços/Globo Cabo, VCB e CPFL Energia entre 2002 e 2017."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Bradespar",
+      "body": "A Bradespar é controlada pelo Banco Bradesco, conforme indicado no cadastro da CVM e no Wikidata. A companhia possui dois códigos de negociação na B3: BRAP3 (ações ordinárias) e BRAP4 (ações preferenciais). As ações ordinárias (BRAP3) dão direito a voto em assembleias, enquanto as preferenciais (BRAP4) têm prioridade no recebimento de dividendos e JCP, mas não conferem direito a voto. A Bradespar está listada no Nível 1 do segmento de governança corporativa da B3. O controle acionário é classificado como 'Privado holding' pela CVM."
+    },
+    {
+      "id": "proventos",
+      "heading": "BRAP4 paga dividendos?",
+      "body": "BRAP4 paga dividendos e juros sobre o capital próprio (JCP). Nos 12 meses até 30/10/2026, a ação distribuiu R$ 2,3571 por ação em 2 pagamentos, resultando em dividend yield de 12,91%. O último pagamento foi de R$ 1,5425 em 18/12/2025. A companhia propôs dividendos complementares em 20/03/2025 e JCP em 31/10/2025, com pagamento em 15/12/2025. [Veja os dividendos e JCP no app](/recursos/proventos) para acompanhar as datas de competência e pagamento, multiplicadas pela sua quantidade."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da BRAP4",
+      "body": "A rentabilidade total da BRAP4 com proventos foi de 12,80% em 12 meses, 17,78% em 3 anos, 50,65% em 5 anos e 1.026,25% em 10 anos, até 30/10/2026. A ação cotava a R$ 18,26 nessa data. [Compare a rentabilidade com o Ibovespa e o CDI](/recursos/comparacao-com-indices) para avaliar o desempenho relativo da BRAP4 em relação aos principais índices de mercado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da BRAP4",
+      "body": "A Bradespar está classificada no setor de Materiais Básicos, segmento Minerais Metálicos, o que a expõe à volatilidade dos preços de commodities minerais, especialmente ferro e aço, que impactam a Vale. A volatilidade anualizada da BRAP4 nos últimos 12 meses é de 27,99%, nível classificado como 'alta'. A maior queda em 5 anos foi de -39,99%, do pico em 26/01/2023 ao ponto mais baixo em 13/01/2025. O beta de 0,50 contra o Ibovespa indica que a BRAP4 tende a ter movimentos menores que os do índice, na mesma direção. [Configure alertas de preço](/recursos/alertas-de-preco) para acompanhar variações relevantes da cotação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BRAP4 paga dividendos?",
+      "answer": "Sim, BRAP4 paga dividendos e juros sobre o capital próprio (JCP). Nos 12 meses até 30/10/2026, a ação distribuiu R$ 2,3571 por ação em 2 pagamentos, com dividend yield de 12,91%. O último pagamento foi de R$ 1,5425 em 18/12/2025. [Veja os detalhes no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre BRAP3 e BRAP4?",
+      "answer": "BRAP3 é a ação ordinária da Bradespar, que dá direito a voto em assembleias. BRAP4 é a ação preferencial, que tem prioridade no recebimento de dividendos e JCP, mas não confere direito a voto. Ambas são negociadas na B3 sob os códigos BRAP3 e BRAP4, respectivamente."
+    },
+    {
+      "question": "O que a Bradespar faz?",
+      "answer": "A Bradespar é uma holding controlada pelo Banco Bradesco, com a única participação relevante na Vale S.A., onde detém 3,67% do capital total. A receita vem dos proventos distribuídos pela Vale, como dividendos e JCP. A empresa não possui outras participações relevantes."
+    },
+    {
+      "question": "Qual o risco da BRAP4?",
+      "answer": "A BRAP4 tem volatilidade anualizada de 27,99% nos últimos 12 meses, nível classificado como 'alta'. A maior queda em 5 anos foi de -39,99%, entre 26/01/2023 e 13/01/2025. O beta de 0,50 contra o Ibovespa indica movimentos menores que os do índice, na mesma direção. [Configure alertas de preço](/recursos/alertas-de-preco) para acompanhar variações."
+    },
+    {
+      "question": "BRAP4 está no Ibovespa?",
+      "answer": "Sim, a BRAP4 faz parte do Ibovespa, conforme indicado na Wikipedia em inglês. A ação é negociada na B3 sob os códigos BRAP3 e BRAP4, e também é cotada na bolsa de Madri, na Espanha."
+    },
+    {
+      "question": "Quem controla a Bradespar?",
+      "answer": "A Bradespar é controlada pelo Banco Bradesco, conforme indicado no cadastro da CVM e no Wikidata. O controle acionário é classificado como 'Privado holding' pela CVM. A empresa tem 350 funcionários, segundo o Wikidata."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da BRAP4 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da BRAP4 com o Ibovespa e o CDI no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a BRAP4 chegar ao preço que você escolheu, para acompanhar variações relevantes da cotação."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a BRAP4 junto com suas outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "A Vale é a única participação relevante da Bradespar, com 3,67% do capital total."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "O Banco Bradesco é o controlador da Bradespar, o que cria uma relação direta entre os dois ativos."
+      },
+      {
+        "ticker": "CPFE3",
+        "list": "br-stocks",
+        "reason": "A CPFL Energia foi uma participação histórica da Bradespar, alienada em 2017, e é relevante para entender a evolução do portfólio."
+      },
+      {
+        "ticker": "CSNA3",
+        "list": "br-stocks",
+        "reason": "A CSN Mineração foi parte de uma operação de descruzamento com a Vale em 2001, envolvendo a Bradespar e o Previ."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BRAP4",
+      "url": "https://finance.yahoo.com/quote/BRAP4.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BRADESPAR, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/18724/BRAP/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, BRADESPAR S/A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Bradespar",
+      "url": "https://www.wikidata.org/wiki/Q896924",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Bradespar",
+      "url": "https://pt.wikipedia.org/wiki/Bradespar",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Bradespar",
+      "url": "https://en.wikipedia.org/wiki/Bradespar",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/12/2025, “Pagamento de dividendos e JCP”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1457489&numSequencia=982201&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/10/2025, “Proposta da Diretoria para pagamento de juros sobre o capital próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1438290&numSequencia=963002&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/03/2025, “Proposta para pagamento de dividendos complementares”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1349248&numSequencia=873974&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

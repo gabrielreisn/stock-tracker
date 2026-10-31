@@ -1,0 +1,386 @@
+{
+  "ticker": "VIVA3",
+  "slug": "viva3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "VIVA3: história, dividendos e volatilidade",
+    "description": "VIVA3 é a ação ordinária da Vivara, empresa de joias e acessórios. Veja rentabilidade, dividendos, volatilidade e a história da marca desde 1962.",
+    "h1": "VIVA3: Vivara Participações S.A.",
+    "canonicalPath": "/acoes/viva3",
+    "keywords": [
+      "VIVA3",
+      "Vivara",
+      "ação Vivara",
+      "dividendos VIVA3",
+      "volatilidade VIVA3",
+      "Vivara B3",
+      "consumo cíclico",
+      "joias Brasil"
+    ]
+  },
+  "summary": "VIVA3 é a ação ordinária da Vivara Participações S.A., empresa brasileira do setor de consumo cíclico que fabrica e comercializa joias, relógios, perfumes e acessórios. A companhia, fundada em 1962 e listada na B3 em 2019, possui mais de 230 pontos de venda no Brasil. Em 30/10/2026, a ação era negociada a R$ 17,41, com rentabilidade total de -42,41% nos últimos 12 meses e dividend yield de 4,01%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Vivara",
+    "legalName": "VIVARA PARTICIPAÇÕES S.A.",
+    "ticker": "BVMF VIVA3",
+    "isin": "BRVIVAACNOR0",
+    "taxId": "33.839.910/0001-11",
+    "foundingDate": "2019-05-23",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.vivara.com.br/",
+    "wikidata": "Q72611919",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q72611919",
+      "https://pt.wikipedia.org/wiki/Vivara",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24805/VIVA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Vivara",
+    "legalName": "VIVARA PARTICIPAÇÕES S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Acessórios",
+    "founded": "23/05/2019",
+    "listedSince": "10/10/2019",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.vivara.com.br/"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "VIVARA PARTICIPAÇÕES S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "33.839.910/0001-11",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Acessórios",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "23/05/2019",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "10/10/2019",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "VIVA3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 17,41",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "52,44% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,54",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,01%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VIVA3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vivara Participações S.A.",
+    "currency": "BRL",
+    "price": 17.41,
+    "historyStarts": "2019-10-11",
+    "returns": {
+      "1y": -0.4241,
+      "3y": -0.2404,
+      "5y": -0.2693,
+      "10y": null
+    },
+    "volatility1y": 0.5244,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5247,
+      "from": "2024-01-16",
+      "to": "2025-03-05"
+    },
+    "beta1y": {
+      "value": 1.54,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.6977,
+      "payments12Months": 1,
+      "yield12Months": 0.0401,
+      "lastPayment": {
+        "date": "2025-12-22",
+        "amount": 0.697659
+      }
+    },
+    "avgDailyTradedValue3m": 83080926
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da VIVA3 nos últimos 12 meses é de 52,44%, um nível muito alto que reflete a sensibilidade do setor de consumo cíclico a mudanças no cenário econômico e no comportamento do consumidor. O beta de 1,54 indica que a ação costuma acompanhar os movimentos do Ibovespa com maior intensidade: quando o índice sobe ou cai 1%, a VIVA3 tende a se mover 1,54% na mesma direção. A maior queda em 5 anos foi de -52,47%, entre 16/01/2024 e 05/03/2025, evidenciando a amplitude dos ciclos de alta e baixa no ativo. Para monitorar oscilações e definir níveis de acompanhamento, os [alertas de preço](/recursos/alertas-de-preco) permitem notificações personalizadas."
+  },
+  "history": {
+    "overview": "A história da Vivara começa em 1962, quando a família Kaufman, de origem romena e com experiência em ourivesaria, inaugurou a primeira loja no centro de São Paulo. O negócio familiar foi liderado por David Kaufman e, em 1974, passou para Nelson Kaufman, que conduziu a profissionalização da empresa. Em 1992, a companhia abriu sua primeira fábrica na Zona Franca de Manaus, e em 2003 iniciou a produção de relógios. Em 2010, a terceira geração assumiu o comando com Marcio Kaufman, iniciando uma fase de expansão acelerada que dobrou a base de lojas e resultou no lançamento da marca Life by Vivara, focada em prata para um público mais jovem. Em 2022, a Vivara foi a única brasileira, junto ao Grupo Soma, a integrar o ranking global das 100 maiores empresas do varejo de luxo da Deloitte. A transição para o capital aberto ocorreu em 2019, com a constituição da holding Vivara Participações S.A. e a estreia na B3, consolidando a empresa como uma das principais referências do setor de acessórios no país.",
+    "timeline": [
+      {
+        "date": "1962",
+        "event": "Fundação da primeira loja Vivara em São Paulo pela família Kaufman.",
+        "source": 3
+      },
+      {
+        "date": "2019-05-23",
+        "event": "Constituição da Vivara Participações S.A. como holding.",
+        "source": 2
+      },
+      {
+        "date": "2019-10-08",
+        "event": "Registro de companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2019-10-10",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-01-06",
+        "event": "Aprovação do 2º aditivo ao acordo de acionistas.",
+        "source": 10
+      },
+      {
+        "date": "2025-03-18",
+        "event": "Divulgação do guidance de abertura de lojas para 2025.",
+        "source": 9
+      },
+      {
+        "date": "2025-05-07",
+        "event": "Início de um programa de recompra de ações.",
+        "source": 8
+      },
+      {
+        "date": "2025-07-18",
+        "event": "Alteração na composição do Conselho de Administração.",
+        "source": 7
+      },
+      {
+        "date": "2026-03-18",
+        "event": "Divulgação do guidance de lojas para 2026.",
+        "source": 6
+      },
+      {
+        "date": "2026-05-06",
+        "event": "Aprovação de um novo programa de recompra de ações.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Vivara ganha dinheiro",
+      "body": "A Vivara Participações S.A. atua no segmento de acessórios do setor de consumo cíclico, fabricando e comercializando joias, relógios, perfumes, óculos, abotoaduras, carteiras e bolsas. A empresa detém as marcas Vivara, Life by Vivara, Vivara Watches, Vivara Accessories e Vivara Fragrances, com foco em produtos para o público masculino e feminino. O modelo de negócio é baseado na operação de mais de 230 pontos de venda próprios e franqueados no Brasil, além de atuar como holding de instituições não-financeiras e agente de propriedade intelectual. A receita provém da venda direta ao consumidor final, com destaque para o portfólio de joias e acessórios que atende diferentes faixas de preço e estilos."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Vivara",
+      "body": "O controle acionário da Vivara é privado, conforme cadastro na CVM. A empresa está listada no segmento Novo Mercado da B3, o que implica a adoção de práticas de governança corporativa, como a distribuição de ações sem distinção de direitos (uma única classe) e a obrigatoriedade de oferta pública de aquisição de ações em caso de controle. O código de negociação na bolsa é VIVA3, correspondendo à ação ordinária. Ações ordinárias (ON) conferem direito a voto em assembleias gerais e, em caso de liquidação, têm preferência sobre ações preferenciais, mas ficam em posição subordinada a estas no recebimento de dividendos e juros sobre o capital próprio (JCP)."
+    },
+    {
+      "id": "proventos",
+      "heading": "VIVA3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a VIVA3 distribuiu R$ 0,6977 por ação em 1 pagamento, resultando em um dividend yield de 4,01%. O último provento foi pago em 22/12/2025. A companhia também aprovou programas de recompra de ações em 2025 e 2026, o que pode impactar a oferta de papéis no mercado e a remuneração indireta aos acionistas. Para acompanhar a data com e a data de pagamento dos dividendos e JCP da VIVA3, multiplicados pela quantidade de ações na sua carteira, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da VIVA3",
+      "body": "Até 30/10/2026, a rentabilidade total da VIVA3, incluindo proventos, foi de -42,41% nos últimos 12 meses, -24,04% em 3 anos e -26,93% em 5 anos. O preço da ação nesse período era de R$ 17,41. Para avaliar esses números em contexto, é possível comparar a performance da VIVA3 com a de índices de referência como o Ibovespa e o CDI, visualizando a evolução lado a lado no recurso de [comparação com índices](/recursos/comparacao-com-indices) do app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da VIVA3",
+      "body": "A VIVA3 apresenta volatilidade anualizada de 52,44% nos últimos 12 meses, classificada como muito alta, e um beta de 1,54 em relação ao Ibovespa, indicando que a ação tende a oscilar 1,54 vezes mais que o índice de referência, na mesma direção. A maior queda registrada nos últimos 5 anos foi de -52,47%, ocorrida entre o pico em 16/01/2024 e o ponto mais baixo em 05/03/2025. Os riscos incluem a exposição ao consumo cíclico, sensível a variações na renda e confiança do consumidor, além da concorrência de marcas como Pandora, H.Stern e Monte Carlo. A alta volatilidade pode ser acompanhada por meio de [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "VIVA3 paga dividendos?",
+      "answer": "Sim, a VIVA3 distribuiu R$ 0,6977 por ação em 2025, com pagamento em 22/12/2025, gerando um dividend yield de 4,01% nos 12 meses até 30/10/2026. A companhia também aprovou programas de recompra de ações em 2025 e 2026. Para ver o histórico de proventos multiplicado pela sua quantidade de ações, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre VIVA3 e VIVA4?",
+      "answer": "A VIVA3 é a ação ordinária (ON) da Vivara, que confere direito a voto em assembleias e preferência em caso de liquidação. A VIVA4, se existisse, seria a ação preferencial (PN), com prioridade no recebimento de dividendos e JCP, mas sem direito a voto. No caso da Vivara, listada no Novo Mercado, a estrutura é de uma única classe de ações, o que significa que não há distinção de direitos entre as ações emitidas."
+    },
+    {
+      "question": "VIVA3 é uma empresa de luxo?",
+      "answer": "A Vivara atua no segmento de acessórios e joias, com marcas como Vivara e Life by Vivara, que atendem diferentes faixas de preço. Em 2022, a empresa foi a única brasileira, junto ao Grupo Soma, a integrar o ranking global das 100 maiores empresas do varejo de luxo da Deloitte. O portfólio inclui joias, relógios, perfumes e acessórios, com foco em público masculino e feminino."
+    },
+    {
+      "question": "Qual o setor da VIVA3?",
+      "answer": "A VIVA3 pertence ao setor de Consumo Cíclico, no segmento de Acessórios, segundo a classificação da B3. A CVM classifica a atividade como Comércio (Atacado e Varejo). A empresa fabrica e comercializa joias, relógios, perfumes, óculos, abotoaduras, carteiras e bolsas, com mais de 230 pontos de venda no Brasil."
+    },
+    {
+      "question": "VIVA3 tem alta volatilidade?",
+      "answer": "Sim, a volatilidade anualizada da VIVA3 nos últimos 12 meses é de 52,44%, classificada como muito alta. O beta de 1,54 indica que a ação tende a oscilar 1,54 vezes mais que o Ibovespa. A maior queda em 5 anos foi de -52,47%, entre 16/01/2024 e 05/03/2025. Para acompanhar oscilações, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+    },
+    {
+      "question": "Quem controla a Vivara?",
+      "answer": "O controle acionário da Vivara é privado, conforme cadastro na CVM. A empresa está listada no segmento Novo Mercado da B3, o que implica práticas de governança corporativa, como a distribuição de ações sem distinção de direitos e a obrigatoriedade de oferta pública de aquisição de ações em caso de controle. A família Kaufman é a fundadora e controladora da empresa."
+    },
+    {
+      "question": "VIVA3 é uma boa ação para diversificar?",
+      "answer": "A VIVA3 é uma ação do setor de consumo cíclico, com alta volatilidade e beta de 1,54 em relação ao Ibovespa. Para avaliar o impacto na carteira, é possível usar a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação por classe e as maiores posições, e a [comparação com índices](/recursos/comparacao-com-indices) para medir a performance em relação ao Ibovespa e ao CDI."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da VIVA3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da VIVA3 com o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a VIVA3 atingir o preço que você escolheu, útil para acompanhar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação da VIVA3 na sua carteira junto com outras ações, renda fixa e fundos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LREN3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de consumo cíclico, no segmento de vestuário, com exposição similar a mudanças no consumo."
+      },
+      {
+        "ticker": "CEAB3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de consumo cíclico, no segmento de vestuário, com dinâmica de mercado parecida."
+      },
+      {
+        "ticker": "NATU3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de consumo, com foco em produtos de beleza e cosméticos, segmento relacionado ao de acessórios."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação de grande capitalização do Ibovespa, útil para comparação de performance e diversificação de carteira."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VIVA3",
+      "url": "https://finance.yahoo.com/quote/VIVA3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: VIVARA S.A., dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24805/VIVA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, VIVARA PARTICIPAÇÕES S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Vivara",
+      "url": "https://www.wikidata.org/wiki/Q72611919",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Vivara",
+      "url": "https://pt.wikipedia.org/wiki/Vivara",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/05/2026, “Aprovação de Programa de Recompra”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1517332&numSequencia=1042038&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/03/2026, “Guidance de Lojas - 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1492076&numSequencia=1016782&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/07/2025, “Alteração da composição do Conselho de Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1402301&numSequencia=927013&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/05/2025, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1373776&numSequencia=898488&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/03/2025, “Guidance abertura de lojas 2025”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1348443&numSequencia=873169&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/01/2025, “2º aditivo acordo de acionistas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1322246&numSequencia=846972&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

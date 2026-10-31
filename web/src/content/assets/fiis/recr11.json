@@ -1,0 +1,356 @@
+{
+  "ticker": "RECR11",
+  "slug": "recr11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RECR11: FII de papel, dividendos e risco",
+    "description": "RECR11 é um FII de papel com foco em CRIs, dividend yield de 15,09% e volatilidade de 50,67%. Veja histórico, patrimônio e riscos do fundo até 30/10/2026.",
+    "h1": "RECR11: FII REC Recebíveis Imobiliários",
+    "canonicalPath": "/fiis/recr11",
+    "keywords": [
+      "RECR11",
+      "FII de papel",
+      "CRI",
+      "dividend yield RECR11",
+      "volatilidade RECR11",
+      "RECR11 dividendos",
+      "FII REC Recebíveis Imobiliários"
+    ]
+  },
+  "summary": "RECR11 é a cota do Fundo de Investimento Imobiliário - FII REC Recebíveis Imobiliários, um fundo de papel focado em Certificados de Recebíveis Imobiliários (CRIs). Com patrimônio de R$ 2,35 bilhões em setembro de 2026, o fundo distribuiu R$ 10,72 por cota nos últimos 12 meses, gerando um dividend yield de 15,09% até 30/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Fundo de Investimento Imobiliário - FII Rec Recebíveis Imobiliários",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RECEBÍVEIS IMOBILIÁRIOS",
+    "ticker": "BVMF RECR11",
+    "isin": "BRRECRCTF004",
+    "taxId": "28.152.272/0001-26",
+    "foundingDate": "2017-10-16",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28152272000126"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "REC Gestão de Recursos S.A",
+    "name": "Fundo de Investimento Imobiliário - FII Rec Recebíveis Imobiliários",
+    "legalName": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RECEBÍVEIS IMOBILIÁRIOS",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "16/10/2017",
+    "administrator": "BRL TRUST DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII REC RECEBÍVEIS IMOBILIÁRIOS",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "28.152.272/0001-26",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BRL TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "16/10/2017",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 2,35 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "173.404",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 88,94",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 71,03",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "50,67% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,23",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "15,09%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RECR11",
+    "list": "fiis",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo Investimento Imobiliario Fii Ubs (Br) Recebveis Imobiliarios",
+    "currency": "BRL",
+    "price": 71.03,
+    "historyStarts": "2021-06-11",
+    "returns": {
+      "1y": 0.0335,
+      "3y": 0.147,
+      "5y": 0.113,
+      "10y": null
+    },
+    "volatility1y": 0.5067,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3409,
+      "from": "2025-07-04",
+      "to": "2025-11-03"
+    },
+    "beta1y": {
+      "value": 0.23,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.7201,
+      "payments12Months": 12,
+      "yield12Months": 0.1509,
+      "lastPayment": {
+        "date": "2026-10-08",
+        "amount": 0.6182
+      }
+    },
+    "avgDailyTradedValue3m": 3516261
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 12 meses do RECR11 é de 50,67%, um nível muito alto para um FII de papel, refletindo a sensibilidade dos CRIs a mudanças nas taxas de juros e no cenário de crédito. A maior queda em 5 anos foi de -34,09%, entre 04/07/2025 e 03/11/2025, um movimento expressivo que pode ser acompanhado com [alertas de preço](/recursos/alertas-de-preco) para evitar surpresas na carteira."
+  },
+  "history": {
+    "overview": "O FII REC Recebíveis Imobiliários (RECR11) iniciou suas atividades em 16/10/2017, com o objetivo de investir em ativos de renda fixa de natureza imobiliária, com preponderância em CRIs. A gestão é ativa, conduzida pela REC Gestão de Recursos S.A., com administração da BRL Trust DTVM S.A. Desde a oferta inicial, o fundo realizou múltiplas emissões de cotas para captar recursos e expandir seu portfólio, totalizando 7 ofertas públicas encerradas até 2026. Em 2026, o fundo aprovou a 13ª emissão, com a distribuição de 4,6 milhões de novas cotas, demonstrando a continuidade de sua estratégia de captação. A carteira é diversificada entre CRIs de diferentes securitizadoras e uma pequena alocação em outros FIIs, buscando alinhar o retorno ao CDI e ao IPCA.",
+    "timeline": [
+      {
+        "date": "2017-10-03",
+        "event": "Início da oferta pública de cotas da primeira emissão do fundo.",
+        "source": 2
+      },
+      {
+        "date": "2017-10-16",
+        "event": "Início das atividades do FII REC Recebíveis Imobiliários.",
+        "source": 1
+      },
+      {
+        "date": "2017-11-30",
+        "event": "Encerramento da oferta pública de cotas da primeira emissão.",
+        "source": 2
+      },
+      {
+        "date": "2018-04-11",
+        "event": "Início de nova oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2018-05-28",
+        "event": "Encerramento da oferta pública de cotas iniciada em abril de 2018.",
+        "source": 2
+      },
+      {
+        "date": "2018-12-07",
+        "event": "Encerramento da oferta pública de cotas iniciada em outubro de 2018.",
+        "source": 2
+      },
+      {
+        "date": "2019-04-10",
+        "event": "Encerramento de oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-04-15",
+        "event": "Encerramento de outra oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2026-07-03",
+        "event": "Início da 13ª emissão de cotas, com 4,6 milhões de novas unidades.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RECR11",
+      "body": "O RECR11 é um fundo de investimento imobiliário de papel, com foco em Certificados de Recebíveis Imobiliários (CRIs). A gestão é ativa, conduzida pela REC Gestão de Recursos S.A., com administração da BRL Trust DTVM S.A. O objetivo do fundo é investir em ativos de renda fixa de natureza imobiliária, buscando uma rentabilidade alvo de IMA-B + 1,00% a.a. Em setembro de 2026, 96% dos recursos estavam alocados em 99 operações de CRIs e 6 em cotas de outros FIIs, com taxas de aquisição variando entre CDI+3,00% e CDI+7,82% a.a., além de uma parcela indexada ao IPCA."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RECR11",
+      "body": "Nos 12 meses até 30/10/2026, o RECR11 distribuiu R$ 10,7201 por cota em 12 pagamentos, resultando em um dividend yield de 15,09%. O último pagamento foi de R$ 0,6182 em 08/10/2026. Para pessoas físicas, os rendimentos são isentos de Imposto de Renda, desde que o fundo tenha no mínimo 50 cotistas, o investidor não detenha mais de 10% das cotas e as cotas sejam negociadas em bolsa. É possível acompanhar a data com e a data de pagamento de cada distribuição na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RECR11 realizou 7 ofertas públicas de cotas encerradas, com a 13ª emissão iniciada em 03/07/2026, envolvendo 4,6 milhões de novas cotas. Em setembro de 2026, o patrimônio líquido era de R$ 2,35 bilhões, com 173.404 cotistas e valor patrimonial da cota de R$ 88,94. O fundo possui prazo indeterminado e é aberto à captação contínua, o que permite a diluição ou não da cota conforme a entrada de novos recursos."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RECR11",
+      "body": "A rentabilidade total com proventos do RECR11 foi de 3,35% em 12 meses, 14,70% em 3 anos e 11,30% em 5 anos, até 30/10/2026. O fundo distribuiu R$ 10,72 por cota no último ano, o que representa 99% do CDI líquido de tributo. Para comparar esse desempenho com o IFIX, o CDI e outros índices, utilize a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RECR11",
+      "body": "Como fundo de papel, o RECR11 está exposto ao risco de crédito dos emissores dos CRIs e à variação das taxas de juros, que impactam o valor de mercado dos ativos. A volatilidade anualizada de 12 meses é de 50,67%, classificada como muito alta, e a maior queda em 5 anos foi de -34,09%, entre 04/07/2025 e 03/11/2025. O beta de 0,23 contra o Ibovespa indica que o fundo tende a acompanhar os movimentos do índice com menor intensidade, mas isso não significa menor volatilidade absoluta. Para monitorar oscilações, é possível configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RECR11 é FII de papel ou de tijolo?",
+      "answer": "RECR11 é um FII de papel, com foco em Certificados de Recebíveis Imobiliários (CRIs). O fundo investe em ativos de renda fixa de natureza imobiliária, não em imóveis físicos. A estratégia é ativa, com gestão da REC Gestão de Recursos S.A."
+    },
+    {
+      "question": "RECR11 paga dividendos isentos de IR?",
+      "answer": "Sim, para pessoas físicas, os rendimentos do RECR11 são isentos de Imposto de Renda, desde que o fundo tenha no mínimo 50 cotistas, o investidor não detenha mais de 10% das cotas e as cotas sejam negociadas em bolsa."
+    },
+    {
+      "question": "Qual o dividend yield do RECR11?",
+      "answer": "O dividend yield do RECR11 é de 15,09% nos 12 meses até 30/10/2026, com R$ 10,7201 distribuídos por cota. O último pagamento foi de R$ 0,6182 em 08/10/2026. É possível ver o histórico completo na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre RECR11 e outros FIIs de papel?",
+      "answer": "RECR11 é um FII de papel com foco em CRIs, gestão ativa e rentabilidade alvo de IMA-B + 1,00% a.a. Outros FIIs de papel, como [KNCR11](/fiis/kncr11) e [MXRF11](/fiis/mxrf11), também investem em CRIs, mas podem ter estratégias, taxas e perfis de risco diferentes. A comparação pode ser feita no [comparador de fundos](/recursos/comparador-de-fundos)."
+    },
+    {
+      "question": "O RECR11 tem alta volatilidade?",
+      "answer": "Sim, a volatilidade anualizada de 12 meses é de 50,67%, classificada como muito alta. A maior queda em 5 anos foi de -34,09%, entre 04/07/2025 e 03/11/2025. Isso reflete a sensibilidade dos CRIs a juros e crédito. Para monitorar, use [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Como o RECR11 se compara ao CDI?",
+      "answer": "O RECR11 distribuiu R$ 10,72 por cota nos últimos 12 meses, o que representa 99% do CDI líquido de tributo. Para ver a comparação lado a lado, use a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do RECR11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do RECR11 com o IFIX, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do RECR11 atingir o preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RECR11 ao lado de outros ativos, com alocação por classe e as maiores posições."
+      },
+      {
+        "feature": "comparador-de-fundos",
+        "anchor": "comparador de fundos",
+        "context": "Compare o RECR11 com outros FIIs de papel por nome, CNPJ ou gestora."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FII de papel com foco em CRIs, útil para comparação de estratégia e rendimento."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de papel que também investe em CRIs, com perfil de risco e retorno distintos."
+      },
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "FII de papel high yield, para quem busca maior rendimento com maior risco de crédito."
+      },
+      {
+        "ticker": "HGBS11",
+        "list": "fiis",
+        "reason": "FII de tijolo, para diversificar a carteira com exposição a imóveis físicos."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de tijolo logístico, para comparação com ativos de renda imobiliária direta."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RECR11",
+      "url": "https://finance.yahoo.com/quote/RECR11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FII REC RECEBIVEIS IMOBILIARIOS (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RECR11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28152272000126",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RECR11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342523",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RECR11, 11/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1316501",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RECR11, 14/05/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1192680",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

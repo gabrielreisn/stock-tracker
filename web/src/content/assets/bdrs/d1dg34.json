@@ -1,0 +1,330 @@
+{
+  "ticker": "D1DG34",
+  "slug": "d1dg34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "D1DG34: BDR da Datadog, desempenho e riscos",
+    "description": "Conheça o D1DG34, BDR da Datadog, Inc., empresa de software de observabilidade. Veja desempenho, riscos, volatilidade e como funciona o BDR na B3.",
+    "h1": "D1DG34: BDR da Datadog, Inc.",
+    "canonicalPath": "/bdrs/d1dg34",
+    "keywords": [
+      "D1DG34",
+      "Datadog",
+      "BDR Datadog",
+      "DDOG",
+      "BDR não patrocinado",
+      "BDR nível I",
+      "observabilidade",
+      "software nuvem"
+    ]
+  },
+  "summary": "D1DG34 é o BDR não patrocinado (nível I) da Datadog, Inc., empresa americana de software que fornece serviços de observabilidade e monitoramento para aplicações em nuvem via plataforma SaaS. Listado na B3 desde 22/09/2020, o ativo representa ações da Datadog negociadas na NASDAQ (DDOG). Até 29/10/2026, o BDR estava cotado a R$ 140,50, com rentabilidade total de 68,89% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Datadog",
+    "legalName": "DATADOG INC",
+    "ticker": "BVMF D1DG34",
+    "foundingDate": "2010",
+    "website": "https://www.datadoghq.com/",
+    "wikidata": "Q16248637",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q16248637",
+      "https://en.wikipedia.org/wiki/Datadog",
+      "https://pt.wikipedia.org/wiki/Datadog",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/56081/D1DG/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Datadog",
+    "legalName": "DATADOG INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2010",
+    "listedSince": "22/09/2020",
+    "headquarters": "Nova Iorque",
+    "website": "https://www.datadoghq.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "DATADOG INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: DDOG",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Nova Iorque",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2010",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "22/09/2020",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 140,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "76,55% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original DDOG em dólares)",
+      "value": "1,41",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "D1DG34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Datadog, Inc.",
+    "currency": "BRL",
+    "price": 140.5,
+    "historyStarts": "2020-10-22",
+    "returns": {
+      "1y": 0.6889,
+      "3y": 2.476,
+      "5y": 0.4783,
+      "10y": null
+    },
+    "volatility1y": 0.7655,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7029,
+      "from": "2021-11-19",
+      "to": "2023-04-25"
+    },
+    "beta1y": {
+      "value": 1.41,
+      "against": "S&P 500, ação original DDOG em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 2682163
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do D1DG34 nos últimos 12 meses é de 76,55%, nível considerado muito alto. O beta da ação original DDOG contra o S&P 500 é de 1,41, indicando que a ação tende a se mover 1,41 vezes mais que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -70,29%, do pico em 19/11/2021 ao ponto mais baixo em 25/04/2023. Para acompanhar movimentos bruscos de preço, utilize os [alertas de preço](/recursos/alertas-de-preco), que enviam notificações quando o ativo atinge um valor definido."
+  },
+  "history": {
+    "overview": "A Datadog foi fundada em 2010 em Nova Iorque por Olivier Pomel e Alexis Lê-Quôc, com o objetivo de reduzir a fricção entre equipes de desenvolvimento e administração de sistemas. A empresa cresceu rapidamente com a adoção de nuvem, expandindo seus produtos para cobrir provedores como AWS, Microsoft Azure e Google Cloud. Em 2015, abriu um escritório de pesquisa e desenvolvimento em Paris e, em 2016, moveu sua sede para o prédio do New York Times, dobrando sua equipe no ano. A Datadog realizou sua oferta pública inicial (IPO) na NASDAQ em 19/09/2019, levantando US$ 648 milhões e sendo valorizada em US$ 8,7 bilhões. O BDR D1DG34 foi listado na B3 em 22/09/2020, permitindo que investidores brasileiros acompanhassem a empresa sem a necessidade de abrir conta no exterior. Em 2025, a Datadog foi incluída no índice S&P 500, consolidando sua posição no mercado de tecnologia.",
+    "timeline": [
+      {
+        "date": "2010",
+        "event": "Fundação da Datadog em Nova Iorque por Olivier Pomel e Alexis Lê-Quôc.",
+        "source": 2
+      },
+      {
+        "date": "2015",
+        "event": "Abertura de um escritório de pesquisa e desenvolvimento em Paris.",
+        "source": 3
+      },
+      {
+        "date": "2016",
+        "event": "Mudança da sede para o prédio do New York Times e lançamento do beta do Application Performance Monitoring.",
+        "source": 3
+      },
+      {
+        "date": "2019-09-19",
+        "event": "Oferta pública inicial (IPO) na NASDAQ, levantando US$ 648 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2020-09-22",
+        "event": "Listagem do BDR D1DG34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2021-04",
+        "event": "Aquisição da Sqreen, empresa de segurança de aplicações em nuvem.",
+        "source": 3
+      },
+      {
+        "date": "2023-04",
+        "event": "Aquisição da Codiga, plataforma de análise estática de código.",
+        "source": 3
+      },
+      {
+        "date": "2025-04",
+        "event": "Aquisição da Metaplane, empresa de observabilidade de dados.",
+        "source": 3
+      },
+      {
+        "date": "2025-05",
+        "event": "Aquisição da Eppo, plataforma de experimentação e feature flagging.",
+        "source": 3
+      },
+      {
+        "date": "2025-07",
+        "event": "Inclusão da Datadog no índice S&P 500.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Datadog ganha dinheiro",
+      "body": "A Datadog, Inc. é uma empresa de software que fornece um serviço de observabilidade para aplicações em escala de nuvem, oferecendo monitoramento de servidores, bancos de dados, ferramentas e serviços através de uma plataforma de análise de dados baseada em SaaS. A empresa suporta equipes de engenharia na gestão de ambientes em nuvem ou híbridos, com serviços que incluem Monitoramento de Infraestrutura, Monitoramento de Desempenho de Rede, Monitoramento de Dispositivos de Rede, Monitoramento Serverless e Gestão de Custos de Nuvem. Até outubro de 2024, a Datadog suportava mais de 750 integrações, incluindo Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, Red Hat OpenShift, VMware e OpenStack. Em 2024, a empresa contava com aproximadamente 6.500 funcionários em 33 países."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR D1DG34",
+      "body": "O D1DG34 é um BDR não patrocinado (nível I) que representa ações da Datadog, Inc., negociadas na NASDAQ sob o ticker DDOG. O BDR é um recibo negociado na B3, em reais, lastreado em ações da empresa no exterior e emitido por uma instituição depositária. O preço do BDR acompanha a variação da ação original em dólares e o câmbio entre o dólar e o real. O D1DG34 está listado na B3 desde 22/09/2020."
+    },
+    {
+      "id": "proventos",
+      "heading": "D1DG34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, o D1DG34 não distribuiu proventos. A Datadog, como empresa de tecnologia em crescimento, não tem histórico recente de pagamento de dividendos ou juros sobre capital próprio. Caso a empresa decida distribuir proventos no futuro, o valor seria convertido em reais e creditado aos detentores do BDR, sujeito às regras de tributação aplicáveis à época."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do D1DG34",
+      "body": "Até 29/10/2026, o D1DG34 apresentava rentabilidade total com proventos de 68,89% nos últimos 12 meses, 247,60% em 3 anos e 47,83% em 5 anos. Esses retornos estão em reais e incluem a variação do câmbio entre o dólar e o real. Para comparar o desempenho do D1DG34 com outros ativos, utilize a [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade lado a lado com o S&P 500, CDI, Ibovespa e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do D1DG34",
+      "body": "O D1DG34 está sujeito a riscos específicos da Datadog, como a dependência de grandes provedores de nuvem e a concorrência no mercado de observabilidade. Além disso, por ser um BDR, o ativo expõe o investidor ao risco cambial: a variação do dólar em relação ao real impacta diretamente o preço do BDR. A volatilidade anualizada do D1DG34 nos últimos 12 meses é de 76,55%, considerada muito alta. A maior queda nos últimos 5 anos foi de -70,29%, do pico em 19/11/2021 ao ponto mais baixo em 25/04/2023. A liquidez do BDR na B3 é limitada, com volume médio negociado de R$ 2,7 milhões por dia nos últimos 3 meses, o que pode afetar a execução de ordens de grande porte."
+    }
+  ],
+  "faq": [
+    {
+      "question": "D1DG34 paga dividendos?",
+      "answer": "Não, nos últimos 12 meses até 29/10/2026, o D1DG34 não distribuiu proventos. A Datadog, como empresa de tecnologia em crescimento, não tem histórico recente de pagamento de dividendos. Caso a empresa decida distribuir proventos no futuro, o valor seria convertido em reais e creditado aos detentores do BDR."
+    },
+    {
+      "question": "Qual a diferença entre D1DG34 e DDOG?",
+      "answer": "O D1DG34 é o BDR negociado na B3, em reais, que representa ações da Datadog, Inc. A ação original, DDOG, é negociada na NASDAQ, em dólares. O preço do D1DG34 acompanha a variação da DDOG e o câmbio entre o dólar e o real."
+    },
+    {
+      "question": "O que é um BDR não patrocinado nível I?",
+      "answer": "Um BDR não patrocinado nível I é um recibo negociado na B3, em reais, lastreado em ações de uma empresa listada no exterior, emitido por uma instituição depositária. Diferente do BDR patrocinado, não há envolvimento direto da empresa emissora na criação do BDR. O D1DG34 é um BDR não patrocinado nível I da Datadog, Inc."
+    },
+    {
+      "question": "Qual o risco cambial do D1DG34?",
+      "answer": "O D1DG34 está sujeito ao risco cambial, pois seu preço acompanha a variação da ação original DDOG em dólares e o câmbio entre o dólar e o real. Uma valorização do dólar em relação ao real tende a aumentar o preço do BDR, enquanto uma desvalorização tende a reduzi-lo."
+    },
+    {
+      "question": "Qual a liquidez do D1DG34 na B3?",
+      "answer": "O volume médio negociado por dia do D1DG34 nos últimos 3 meses é de R$ 2,7 milhões. Essa liquidez pode afetar a execução de ordens de grande porte, pois a demanda ou oferta pode mover o preço do ativo."
+    },
+    {
+      "question": "Como acompanhar o desempenho do D1DG34?",
+      "answer": "Para acompanhar o desempenho do D1DG34, utilize o [desempenho e preço médio](/recursos/desempenho-e-preco-medio), que mostra a rentabilidade da carteira e a variação do ativo. Você também pode usar a [comparação com índices](/recursos/comparacao-com-indices) para visualizar o desempenho do D1DG34 lado a lado com o S&P 500, CDI e outros benchmarks."
+    },
+    {
+      "question": "Como configurar alertas de preço para o D1DG34?",
+      "answer": "Para configurar alertas de preço para o D1DG34, utilize os [alertas de preço](/recursos/alertas-de-preco), que enviam notificações quando o ativo atinge um valor definido. Isso é útil para acompanhar movimentos bruscos de preço, especialmente em ativos com alta volatilidade."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do D1DG34 lado a lado com o S&P 500, CDI, Ibovespa e outros benchmarks, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o D1DG34 atinge um preço definido, útil para acompanhar movimentos bruscos de preço em ativos com alta volatilidade."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade da carteira e a variação do D1DG34, com gráfico de rentabilidade e dados de preço médio."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o D1DG34 junto com outros ativos da sua carteira, com valor por classe, alocação e as maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no D1DG34 e receba respostas baseadas nos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com exposição ao setor de semicondutores e alta volatilidade."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia de grande capitalização, com exposição ao setor de publicidade e nuvem."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia de grande capitalização, com exposição ao setor de software e nuvem."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, útil para comparar o desempenho do D1DG34 com o mercado americano."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o Nasdaq 100, útil para comparar o desempenho do D1DG34 com o mercado de tecnologia."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de D1DG34",
+      "url": "https://finance.yahoo.com/quote/D1DG34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: DATADOG INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/56081/D1DG/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Datadog",
+      "url": "https://www.wikidata.org/wiki/Q16248637",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Datadog",
+      "url": "https://en.wikipedia.org/wiki/Datadog",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Datadog",
+      "url": "https://pt.wikipedia.org/wiki/Datadog",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

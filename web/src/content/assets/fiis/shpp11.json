@@ -1,0 +1,346 @@
+{
+  "ticker": "SHPP11",
+  "slug": "shpp11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SHPP11: FII de shopping, patrimônio e rendimentos",
+    "description": "SHPP11 é o FII do Shopping Pátio Paulista, em São Paulo. Patrimônio de R$ 496,5 milhões em 09/2026, dividend yield de 4,84% em 12 meses até 29/10/2026.",
+    "h1": "SHPP11: Shopping Pátio Paulista FII",
+    "canonicalPath": "/fiis/shpp11",
+    "keywords": [
+      "SHPP11",
+      "Shopping Pátio Paulista FII",
+      "FII de shopping",
+      "Capitânia Investimentos",
+      "BTG Pactual FII",
+      "rendimentos SHPP11",
+      "volatilidade SHPP11"
+    ]
+  },
+  "summary": "SHPP11 é a cota do Shopping Pátio Paulista Fundo de Investimento Imobiliário, um FII de tijolo focado exclusivamente no Shopping Pátio Paulista, em São Paulo. Fundado em 12/02/2025, o fundo é administrado pela BTG Pactual e gerido pela Capitânia Investimentos. Em 09/2026, o patrimônio líquido era de R$ 496,5 milhões e a cota valia R$ 9,72. Nos 12 meses até 29/10/2026, a rentabilidade total foi de 30,83%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Shopping Pátio Paulista Fundo de Investimento Imobiliário Responsabilidade  Limitada",
+    "legalName": "SHOPPING PÁTIO PAULISTA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA",
+    "ticker": "BVMF SHPP11",
+    "isin": "BRSHPPCTF001",
+    "taxId": "59.090.726/0001-05",
+    "foundingDate": "2025-02-12",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=59090726000105"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, shopping",
+    "issuerOrManager": "Capitânia Investimentos (gestora) e BTG Pactual Serviços Financeiros S.A",
+    "name": "Shopping Pátio Paulista Fundo de Investimento Imobiliário Responsabilidade  Limitada",
+    "legalName": "SHOPPING PÁTIO PAULISTA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "12/02/2025",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "SHOPPING PÁTIO PAULISTA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "59.090.726/0001-05",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "12/02/2025",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 496,5 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "135",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,72",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 12,98",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "61,58% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,01",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,84%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SHPP11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Shopping Patio Paulista Fundo De Investimento Imobiliario Responsabilidade Limitada",
+    "currency": "BRL",
+    "price": 12.98,
+    "historyStarts": "2025-06-25",
+    "returns": {
+      "1y": 0.3083,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.6158,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.212,
+      "from": "2026-08-04",
+      "to": "2026-08-21"
+    },
+    "beta1y": {
+      "value": 0.01,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.628,
+      "payments12Months": 12,
+      "yield12Months": 0.0484,
+      "lastPayment": {
+        "date": "2026-10-16",
+        "amount": 0.054
+      }
+    },
+    "avgDailyTradedValue3m": 2070251
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do SHPP11 nos 12 meses até 29/10/2026 foi de 61,58%, nível muito alto 0. O beta do fundo contra o Ibovespa, no mesmo período, foi de 0,01, o que significa que o ativo costuma acompanhar os movimentos do índice com amplitude muito menor, na mesma direção 0. A maior queda nos últimos 5 anos foi de -21,20%, do pico em 04/08/2026 ao ponto mais baixo em 21/08/2026 0. Para um FII de tijolo com exposição a um único ativo, a volatilidade pode ser elevada devido à concentração e à sensibilidade a mudanças no mercado imobiliário. Os [alertas de preço](/recursos/alertas-de-preco) permitem definir notificações quando a cota atinge níveis específicos, sem sugerir operações."
+  },
+  "history": {
+    "overview": "O Shopping Pátio Paulista Fundo de Investimento Imobiliário (SHPP11) iniciou suas atividades em 12/02/2025, com o objetivo de investir exclusivamente no Shopping Pátio Paulista, localizado na capital paulista [1, 3]. O fundo é administrado pela BTG Pactual Serviços Financeiros S.A. DTVM e gerido pela Capitânia Investimentos, com classificação ANBIMA de Tijolo Renda Gestão Ativa - Shopping 3. Desde sua fundação, o fundo realizou três ofertas públicas de cotas, encerradas em 28/03/2025, 17/06/2025 e 16/04/2026, conforme registros do FNET 2. Em 09/04/2026, o fundo concluiu a aquisição de participação adicional de 3% no empreendimento, por R$ 75,6 milhões, elevando sua participação para 20,97% no Shopping Pátio Paulista I e 16,23% no Shopping Pátio Paulista II 5. Em 03/06/2026, o fundo contratou a XP Investimentos como formadora de mercado para as cotas, com vigência mínima de 12 meses, visando fomentar a liquidez das 43,7 milhões de cotas emitidas na época 4. Em 09/2026, o patrimônio líquido do fundo era de R$ 496,5 milhões, com 135 cotistas e valor patrimonial da cota de R$ 9,72 1.",
+    "timeline": [
+      {
+        "date": "2025-02-07",
+        "event": "Início da primeira oferta pública de cotas do SHPP11",
+        "source": 2
+      },
+      {
+        "date": "2025-02-12",
+        "event": "Início das atividades do Shopping Pátio Paulista FII",
+        "source": 1
+      },
+      {
+        "date": "2025-03-28",
+        "event": "Encerramento da primeira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2025-05-21",
+        "event": "Início da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2025-06-17",
+        "event": "Encerramento da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-02-20",
+        "event": "Início da terceira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-04-09",
+        "event": "Conclusão da aquisição de 3% de participação adicional no Shopping Pátio Paulista por R$ 75,6 milhões",
+        "source": 5
+      },
+      {
+        "date": "2026-04-16",
+        "event": "Encerramento da terceira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2026-06-03",
+        "event": "Contratação da XP Investimentos como formadora de mercado das cotas",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do SHPP11",
+      "body": "O SHPP11 é um Fundo de Investimento Imobiliário (FII) de tijolo, com gestão ativa e classificação ANBIMA de Tijolo Renda Gestão Ativa - Shopping 3. O objetivo do fundo é investir seu patrimônio exclusivamente no Shopping Pátio Paulista, localizado em São Paulo/SP, por meio da exploração comercial imobiliária 3. A gestora é a Capitânia Investimentos e a administradora é a BTG Pactual Serviços Financeiros S.A. DTVM [3, 4]. Em 30/06/2026, a carteira do fundo era composta 100% pelo Shopping Pátio Paulista, com participação de 21,6% no empreendimento (17,1% até março de 2026 e 21,6% desde abril de 2026, após a aquisição adicional) [3, 5]. A ocupação do shopping era de 99,0% em maio de 2026, com vendas de R$ 39.086/m² e NOI caixa de R$ 4.205/m² nos 12 meses até maio 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do SHPP11",
+      "body": "Nos 12 meses até 29/10/2026, o SHPP11 distribuiu R$ 0,6280 por cota em 12 pagamentos, o que corresponde a um dividend yield de 4,84% 0. O último provento foi de R$ 0,0540 em 16/10/2026 0. Em 09/2026, o dividend yield do mês informado pelo fundo era de 0,54% 1. O relatório gerencial de junho de 2026 indicava um dividend yield anualizado de 5,77% sobre a cota de fechamento de R$ 11,73 3. Os rendimentos de FIIs são tributados de acordo com a legislação vigente, mas as fontes do dossiê não detalham a tributação específica do SHPP11. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os proventos com data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O SHPP11 realizou três ofertas públicas de cotas, encerradas em 28/03/2025, 17/06/2025 e 16/04/2026, conforme registros do FNET 2. Em 09/2026, o patrimônio líquido do fundo era de R$ 496,5 milhões, com 135 cotistas e valor patrimonial da cota de R$ 9,72 1. O número de cotas emitidas era de 51.067.415 1. A taxa de administração no mês de 09/2026, sobre o patrimônio, era de 0,021% 1. O relatório gerencial de junho de 2026 indicava a taxa de administração e gestão de 0,25% a.a. 3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SHPP11",
+      "body": "Nos 12 meses até 29/10/2026, a rentabilidade total do SHPP11, com proventos, foi de 30,83% 0. Desde o início do fundo, em março de 2025, a cota a mercado ajustada por proventos rendeu 27,0% até junho de 2026, contra 16,6% do IFIX no mesmo período 3. O P/VP do fundo era de 1,21 em 30/06/2026 3. A comparação com índices pode ser feita na [comparação com índices](/recursos/comparacao-com-indices), onde a rentabilidade do SHPP11 é mostrada lado a lado com o IFIX, CDI e outros índices."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SHPP11",
+      "body": "O SHPP11 é um FII de tijolo com exposição 100% a um único ativo, o Shopping Pátio Paulista, o que concentra o risco de vacância e de desempenho operacional em um único empreendimento 3. A volatilidade anualizada do fundo nos 12 meses até 29/10/2026 foi de 61,58%, classificada como muito alta 0. A maior queda nos últimos 5 anos foi de -21,20%, do pico em 04/08/2026 ao ponto mais baixo em 21/08/2026 0. O beta do fundo contra o Ibovespa, nos 12 meses até 29/10/2026, foi de 0,01, indicando que o ativo costuma acompanhar os movimentos do índice com amplitude muito menor 0. O volume médio negociado por dia nos últimos 3 meses era de R$ 2,1 milhões 0. A [carteira consolidada](/recursos/carteira-consolidada) permite ver a alocação do SHPP11 junto a outros ativos, e os [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar oscilações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SHPP11 paga dividendos?",
+      "answer": "Sim, o SHPP11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram R$ 0,6280 por cota em 12 pagamentos, com dividend yield de 4,84% 0. O último provento foi de R$ 0,0540 em 16/10/2026 0. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos com data de pagamento."
+    },
+    {
+      "question": "Qual o patrimônio do SHPP11?",
+      "answer": "Em 09/2026, o patrimônio líquido do SHPP11 era de R$ 496,5 milhões, com 135 cotistas e valor patrimonial da cota de R$ 9,72 1. O relatório gerencial de junho de 2026 indicava patrimônio líquido de R$ 496,2 milhões e 126 cotistas 3."
+    },
+    {
+      "question": "SHPP11 é FII de tijolo ou de papel?",
+      "answer": "O SHPP11 é um FII de tijolo, com exposição 100% ao Shopping Pátio Paulista, em São Paulo 3. A classificação ANBIMA é Tijolo Renda Gestão Ativa - Shopping 3."
+    },
+    {
+      "question": "Qual a gestora do SHPP11?",
+      "answer": "A gestora do SHPP11 é a Capitânia Investimentos e a administradora é a BTG Pactual Serviços Financeiros S.A. DTVM [3, 4]. O fundo é classificado como de gestão ativa [1, 3]."
+    },
+    {
+      "question": "Quantas ofertas de cotas o SHPP11 realizou?",
+      "answer": "O SHPP11 realizou três ofertas públicas de cotas, encerradas em 28/03/2025, 17/06/2025 e 16/04/2026 2. Em 09/04/2026, o fundo adquiriu participação adicional de 3% no Shopping Pátio Paulista por R$ 75,6 milhões 5."
+    },
+    {
+      "question": "Qual a taxa de administração do SHPP11?",
+      "answer": "A taxa de administração no mês de 09/2026, sobre o patrimônio, era de 0,021% 1. O relatório gerencial de junho de 2026 indicava a taxa de administração e gestão de 0,25% a.a. 3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do SHPP11 com data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do SHPP11 com o IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do SHPP11 atinge o preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do SHPP11 junto a outros ativos, com valor por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BPML11",
+        "list": "fiis",
+        "reason": "Outro FII de shoppings administrado pela BTG Pactual"
+      },
+      {
+        "ticker": "VISC11",
+        "list": "fiis",
+        "reason": "FII de shoppings com exposição a múltiplos ativos"
+      },
+      {
+        "ticker": "CPSH11",
+        "list": "fiis",
+        "reason": "FII de shoppings gerido pela Capitânia, mesma gestora do SHPP11"
+      },
+      {
+        "ticker": "PMLL11",
+        "list": "fiis",
+        "reason": "FII de shoppings com foco em ativos de alta qualidade"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SHPP11",
+      "url": "https://finance.yahoo.com/quote/SHPP11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do SHOP PT PAULISTA FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo SHPP11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=59090726000105",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do SHPP11, referência 30/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1353608",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do SHPP11, 03/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1212196",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do SHPP11, 09/04/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1158376",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

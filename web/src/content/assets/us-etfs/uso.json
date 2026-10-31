@@ -1,0 +1,265 @@
+{
+  "ticker": "USO",
+  "slug": "uso",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "USO: história, desempenho e riscos",
+    "description": "Conheça o USO, o ETF de petróleo que acompanha o WTI. Veja desempenho, riscos, como funciona e como investir a partir do Brasil.",
+    "h1": "USO: United States Oil Fund, LP",
+    "canonicalPath": "/etfs/uso",
+    "keywords": [
+      "USO",
+      "ETF de petróleo",
+      "WTI",
+      "United States Oil Fund",
+      "investir em petróleo",
+      "ETF americano",
+      "contratos futuros de petróleo"
+    ]
+  },
+  "summary": "USO é o ticker do United States Oil Fund, LP, um ETF que busca acompanhar a variação percentual do preço à vista do petróleo bruto leve e doce West Texas Intermediate (WTI). Lançado em 10 de abril de 2006, o fundo investe em contratos futuros de petróleo negociados na NYMEX. Em 30/10/2026, a cota valia US$ 168,83, com rentabilidade total de 135,43% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "United States Oil Fund, LP",
+    "ticker": "ARCX USO",
+    "foundingDate": "2006-04-10",
+    "wikidata": "Q7890850",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q7890850",
+      "https://en.wikipedia.org/wiki/United_States_Oil_Fund"
+    ]
+  },
+  "profile": {
+    "type": "ETF de contratos futuros de petróleo",
+    "issuerOrManager": "United States Commodity Funds (anteriormente Victoria Bay Asset Management)",
+    "trackedIndex": "Preço à vista do petróleo bruto leve e doce West Texas Intermediate (WTI)",
+    "name": "United States Oil Fund, LP",
+    "founded": "10/04/2006"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "United States Oil Fund, LP",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "10/04/2006",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 168,83",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "49,31% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-1,56",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 765,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "USO",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "United States Oil Fund, LP",
+    "currency": "USD",
+    "price": 168.83,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 1.3543,
+      "3y": 1.22,
+      "5y": 1.9346,
+      "10y": 1.0042
+    },
+    "volatility1y": 0.4931,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3623,
+      "from": "2022-06-08",
+      "to": "2023-03-17"
+    },
+    "beta1y": {
+      "value": -1.56,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 765225503
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do USO nos últimos 12 meses foi de 49,31%, nível classificado como 'muito alta'. A maior queda nos últimos 5 anos foi de -36,23%, do pico em 08/06/2022 ao ponto mais baixo em 17/03/2023. O beta do USO contra o S&P 500 nos últimos 12 meses foi de -1,56, indicando que o ativo tende a se mover na direção oposta ao índice, com movimentos maiores que os do índice. Para acompanhar a volatilidade e definir pontos de entrada ou saída, é possível utilizar os [alertas de preço](/recursos/alertas-de-preco) do app."
+  },
+  "history": {
+    "overview": "O United States Oil Fund, LP (USO) foi fundado em 10 de abril de 2006 por Victoria Bay Asset Management (atual United States Commodity Funds) e a American Stock Exchange. No primeiro pregão, a cota abriu a US$ 68,25. O objetivo do fundo é refletir as variações percentuais do preço à vista do petróleo bruto leve e doce West Texas Intermediate (WTI), medido na New York Mercantile Exchange (NYMEX). Diferente de notas de renda variável (ETNs), o USO representa uma reivindicação de propriedade sobre os títulos subjacentes que o fundo empacota, investindo em contratos futuros de petróleo negociados em bolsas reguladas. A volatilidade do mercado de petróleo e a adoção de contratos futuros como ferramenta de hedge por produtores e refinadores levaram à adoção global dos preços do WTI como referência para o comércio de petróleo físico.",
+    "timeline": [
+      {
+        "date": "1972",
+        "event": "Criação do International Monetary Market (IMM) pela Chicago Mercantile Exchange, a primeira bolsa de futuros financeiros do mundo.",
+        "source": 4
+      },
+      {
+        "date": "1981-01-28",
+        "event": "O governo dos EUA descontrola os preços do petróleo, marcando o início do mercado à vista físico do WTI.",
+        "source": 3
+      },
+      {
+        "date": "2006-04-10",
+        "event": "Primeiro pregão das cotas do ETF na bolsa, com abertura a US$ 68,25 por cota.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o USO funciona",
+      "body": "O USO é um ETF que busca acompanhar a variação percentual do preço à vista do petróleo bruto leve e doce West Texas Intermediate (WTI), medido na New York Mercantile Exchange (NYMEX). O fundo investe em contratos futuros de petróleo negociados em bolsas reguladas. Diferente de um exchange-traded note (ETN), o USO representa uma reivindicação de propriedade sobre os títulos subjacentes que o fundo empacota. A performance do fundo é determinada pelo preço do petróleo através de seus contratos futuros."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do USO",
+      "body": "O ativo que o USO segue é o preço à vista do petróleo bruto leve e doce West Texas Intermediate (WTI). O WTI é uma classificação ou mistura de petróleo bruto, e o termo também é usado para se referir ao preço à vista, ao preço futuro ou ao preço avaliado para esse petróleo. Em uso coloquial, WTI geralmente se refere ao contrato futuro de WTI Crude Oil negociado na NYMEX. O WTI é descrito como petróleo bruto leve, devido à sua baixa densidade, e doce, devido ao seu baixo teor de enxofre. O preço do WTI é frequentemente incluído em relatórios de notícias sobre preços do petróleo, ao lado do preço do petróleo bruto Brent do Mar do Norte."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no USO a partir do Brasil",
+      "body": "Para investir no USO a partir do Brasil, é necessário abrir uma conta em uma corretora de valores que opere no mercado americano. O investimento é feito em dólar, o que expõe o investidor ao risco cambial, ou seja, a variação do câmbio entre o real e o dólar pode impactar o retorno do investimento. Além disso, é possível buscar exposição ao mesmo índice ou ativo por meio de ETFs e BDRs negociados na B3 que seguem o mesmo índice, o que pode simplificar a gestão cambial e a tributação."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do USO",
+      "body": "Em 30/10/2026, a cota do USO valia US$ 168,83. A rentabilidade total com proventos foi de 135,43% nos últimos 12 meses, 122,00% nos últimos 3 anos, 193,46% nos últimos 5 anos e 100,42% nos últimos 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 765,2 milhões. Para comparar o desempenho do USO com outros índices, é possível utilizar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do USO",
+      "body": "O USO está exposto à volatilidade do mercado de petróleo, que é historicamente alta. A volatilidade anualizada do USO nos últimos 12 meses foi de 49,31%, nível classificado como 'muito alta'. A maior queda nos últimos 5 anos foi de -36,23%, do pico em 08/06/2022 ao ponto mais baixo em 17/03/2023. O beta do USO contra o S&P 500 nos últimos 12 meses foi de -1,56, indicando que o ativo tende a se mover na direção oposta ao índice, com movimentos maiores que os do índice. Além disso, o investimento em contratos futuros envolve riscos de liquidação, margem e base. O risco cambial também é relevante para investidores brasileiros, uma vez que o ativo é cotado em dólar."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar USO no app",
+      "body": "Para quem tem USO na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio): Veja a rentabilidade do USO e o preço médio da sua posição, com gráfico de rentabilidade e variação do dia e do ano.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o USO chegar ao preço que você escolheu, para comprar ou vender.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do USO com o S&P 500, Ibovespa, IFIX, CDI e IPCA, no mesmo gráfico."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o USO?",
+      "answer": "USO é o ticker do United States Oil Fund, LP, um ETF que busca acompanhar a variação percentual do preço à vista do petróleo bruto leve e doce West Texas Intermediate (WTI). O fundo investe em contratos futuros de petróleo negociados na NYMEX."
+    },
+    {
+      "question": "O USO paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses, o USO não distribuiu proventos. O retorno do investidor vem da variação do preço da cota, que reflete a variação do preço do petróleo."
+    },
+    {
+      "question": "Qual a diferença entre USO e outros ETFs de petróleo?",
+      "answer": "O USO é um ETF que busca acompanhar a variação percentual do preço à vista do petróleo bruto leve e doce West Texas Intermediate (WTI). Outros ETFs de petróleo podem seguir diferentes índices ou ter alavancagem, o que pode amplificar os ganhos e perdas. É importante verificar o índice que cada ETF segue e a sua estratégia de investimento."
+    },
+    {
+      "question": "Como investir no USO a partir do Brasil?",
+      "answer": "Para investir no USO a partir do Brasil, é necessário abrir uma conta em uma corretora de valores que opere no mercado americano. O investimento é feito em dólar, o que expõe o investidor ao risco cambial. Além disso, é possível buscar exposição ao mesmo índice ou ativo por meio de ETFs e BDRs negociados na B3."
+    },
+    {
+      "question": "Qual o risco do USO?",
+      "answer": "O USO está exposto à volatilidade do mercado de petróleo, que é historicamente alta. A volatilidade anualizada do USO nos últimos 12 meses foi de 49,31%, nível classificado como 'muito alta'. A maior queda nos últimos 5 anos foi de -36,23%. O beta do USO contra o S&P 500 nos últimos 12 meses foi de -1,56, indicando que o ativo tende a se mover na direção oposta ao índice, com movimentos maiores que os do índice."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Veja a rentabilidade do USO e o preço médio da sua posição, com gráfico de rentabilidade e variação do dia e do ano."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o USO chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do USO com o S&P 500, Ibovespa, IFIX, CDI e IPCA, no mesmo gráfico."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "ETF de energia, que pode ser uma alternativa para exposição ao setor de petróleo e gás."
+      },
+      {
+        "ticker": "XOP",
+        "list": "us-etfs",
+        "reason": "ETF de exploração e produção de petróleo e gás, que pode ser uma alternativa para exposição ao setor de petróleo."
+      },
+      {
+        "ticker": "GLD",
+        "list": "us-etfs",
+        "reason": "ETF de ouro, que pode ser uma alternativa para diversificação em commodities."
+      },
+      {
+        "ticker": "SLV",
+        "list": "us-etfs",
+        "reason": "ETF de prata, que pode ser uma alternativa para diversificação em metais preciosos."
+      },
+      {
+        "ticker": "GDX",
+        "list": "us-etfs",
+        "reason": "ETF de mineradoras de ouro, que pode ser uma alternativa para exposição ao setor de mineração."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de USO",
+      "url": "https://finance.yahoo.com/quote/USO/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: United States Oil Fund",
+      "url": "https://www.wikidata.org/wiki/Q7890850",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): United States Oil Fund (artigo sobre o próprio ETF)",
+      "url": "https://en.wikipedia.org/wiki/United_States_Oil_Fund",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): West Texas Intermediate (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/West_Texas_Intermediate",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Futures contract (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Futures_contract",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

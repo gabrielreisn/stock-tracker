@@ -1,0 +1,346 @@
+{
+  "ticker": "RCRB11",
+  "slug": "rcrb11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RCRB11: história, proventos e volatilidade",
+    "description": "RCRB11 é FII de lajes corporativas com 8 imóveis e 38.415 m² de ABL. Veja proventos, patrimônio de R$ 704 milhões e volatilidade de 21,29% em 2026.",
+    "h1": "RCRB11: Rio Bravo Renda Corporativo FII",
+    "canonicalPath": "/fiis/rcrb11",
+    "keywords": [
+      "RCRB11",
+      "Rio Bravo Renda Corporativo",
+      "FII lajes corporativas",
+      "RCRB11 dividendos",
+      "RCRB11 patrimônio",
+      "RCRB11 volatilidade",
+      "FII São Paulo"
+    ]
+  },
+  "summary": "RCRB11 é a cota do Rio Bravo Renda Corporativo Fundo de Investimento Imobiliário, um FII de tijolo focado em lajes corporativas nos principais eixos comerciais de São Paulo. Fundado em 2000, o fundo possui 8 imóveis e 38.415 m² de área bruta locável (ABL), com 50 inquilinos e 8% de vacância financeira em setembro de 2026. O patrimônio líquido era de R$ 704 milhões em 09/2026, e a cota fechou em R$ 131,88 em 29/10/2026, com dividend yield de 9,98% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Rio Bravo Renda Corporativa Fundo de Investimento Imobiliário",
+    "legalName": "RIO BRAVO RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF RCRB11",
+    "isin": "BRRCRBCTF000",
+    "taxId": "03.683.056/0001-86",
+    "foundingDate": "2000-01-12",
+    "provider": {
+      "name": "RIO BRAVO INVESTIMENTOS - DTVM LTDA",
+      "url": "https://www.riobravo.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=03683056000186"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, lajes corporativas",
+    "issuerOrManager": "Rio Bravo Investimentos DTVM LTDA (Administrador) e Rio Bravo Investimentos LTDA (Gestora) [3, 5]",
+    "name": "Rio Bravo Renda Corporativa Fundo de Investimento Imobiliário",
+    "legalName": "RIO BRAVO RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Escritórios",
+    "founded": "12/01/2000",
+    "administrator": "RIO BRAVO INVESTIMENTOS - DTVM LTDA",
+    "website": "https://www.riobravo.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "RIO BRAVO RENDA CORPORATIVA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "03.683.056/0001-86",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Escritórios",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "RIO BRAVO INVESTIMENTOS - DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "12/01/2000",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 704,0 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "23.826",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 190,76",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 131,88",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "21,29% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,40",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,98%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 880.747,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RCRB11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo de Investimento Imobiliário Rio Bravo Renda Corporativa",
+    "currency": "BRL",
+    "price": 131.88,
+    "historyStarts": "2019-11-06",
+    "returns": {
+      "1y": 0.1348,
+      "3y": 0.1409,
+      "5y": 0.2945,
+      "10y": null
+    },
+    "volatility1y": 0.2129,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2811,
+      "from": "2023-12-22",
+      "to": "2024-12-12"
+    },
+    "beta1y": {
+      "value": 0.4,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 13.16,
+      "payments12Months": 12,
+      "yield12Months": 0.0998,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 1.3
+      }
+    },
+    "avgDailyTradedValue3m": 880747
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do RCRB11 nos últimos 12 meses foi de 21,29%, classificada como moderada 0. O beta de 0,40 contra o Ibovespa indica que o fundo tende a se mover na mesma direção do índice, mas com amplitude menor 0. A maior queda em 5 anos foi de -28,11%, entre 22/12/2023 e 12/12/2024 0. Para monitorar oscilações de preço e definir pontos de atenção, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Rio Bravo Renda Corporativo FII (RCRB11) foi constituído em 12 de janeiro de 2000, com o objetivo de investir em imóveis de natureza comercial, notadamente lajes corporativas e conjuntos comerciais nos principais centros urbanos nacionais [1, 3]. A gestão é ativa, conduzida pela Rio Bravo Investimentos LTDA, com administração da Rio Bravo Investimentos DTVM LTDA 3. Em 2017, o fundo realizou sua primeira oferta pública de cotas, iniciada em 06/09/2017 e encerrada em 17/11/2017, conforme registros do FNET 2. Desde então, o fundo tem operado com foco em regiões performadas, buscando participações relevantes ou majoritárias nos empreendimentos e realizando aquisições e vendas oportunísticas 3. Em 2026, o fundo concluiu a venda do Parque Cultural Paulista por R$ 77,1 milhões, gerando lucro de R$ 10,9 milhões, e celebrou nova locação no Edifício Bravo Paulista com a KAT Assessores [4, 5]. A estratégia reflete um portfólio com potencial de valorização, com absorção de vacância e realocação de recursos em ativos aderentes à tese de investimento [3, 4].",
+    "timeline": [
+      {
+        "date": "2000-01-12",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2017-09-06",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2017-11-17",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2026-05-28",
+        "event": "Primeiro fato relevante sobre a venda do Parque Cultural Paulista",
+        "source": 5
+      },
+      {
+        "date": "2026-06-29",
+        "event": "Atualização sobre o exercício de direito de preferência para aquisição do Parque Cultural Paulista por inquilino",
+        "source": 5
+      },
+      {
+        "date": "2026-07-15",
+        "event": "Conclusão da venda do Parque Cultural Paulista por R$ 77,1 milhões, com lucro de R$ 10,9 milhões",
+        "source": 4
+      },
+      {
+        "date": "2026-09-23",
+        "event": "Celebração de novo contrato de locação com a KAT Assessores no Edifício Bravo Paulista",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RCRB11",
+      "body": "O RCRB11 é um FII de tijolo com gestão ativa, focado em lajes corporativas e conjuntos comerciais nos principais centros urbanos nacionais, com ênfase nos eixos comerciais de São Paulo 3. O objetivo do fundo é a realização de investimentos imobiliários de longo prazo, por meio da aquisição e gestão patrimonial de imóveis comerciais, incluindo vagas de garagem e direitos sobre empreendimentos 3. Em setembro de 2026, o portfólio era composto por 8 imóveis, com 38.415 m² de ABL, 50 inquilinos e 8% de vacância financeira 3. A tese de investimento prioriza localizações corporativas performadas, participações relevantes ou majoritárias nos empreendimentos e ativos com potencial de valorização, com absorção de vacância e aquisições oportunísticas 3. O administrador é a Rio Bravo Investimentos DTVM LTDA e a gestora é a Rio Bravo Investimentos LTDA [3, 5]."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RCRB11",
+      "body": "Nos 12 meses até 29/10/2026, o RCRB11 distribuiu R$ 13,16 por cota em 12 pagamentos, resultando em dividend yield de 9,98% 0. O último provento foi de R$ 1,30 por cota, pago em 01/10/2026 0. O relatório gerencial de setembro de 2026 informou dividend yield anualizado de 11,6%, considerando a cotação de fechamento de R$ 134,00 3. A tributação dos rendimentos de FIIs não é detalhada nas fontes do dossiê. Acompanhe os proventos do RCRB11 com data de competência e data de pagamento no [recursos/proventos](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RCRB11 realizou 8 emissões de cotas desde sua fundação, conforme o relatório gerencial de setembro de 2026 3. A primeira oferta pública de cotas foi iniciada em 06/09/2017 e encerrada em 17/11/2017, segundo registros do FNET 2. Em 09/2026, o patrimônio líquido do fundo era de R$ 704 milhões, com 23.826 cotistas e valor patrimonial da cota de R$ 190,76 1. O número de cotas emitidas era de 3.690.695 [1, 3]."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RCRB11",
+      "body": "A rentabilidade total do RCRB11, com proventos, foi de 13,48% nos 12 meses até 29/10/2026, 14,09% em 3 anos e 29,45% em 5 anos 0. A cota fechou em R$ 131,88 em 29/10/2026 0. Para comparar o desempenho do RCRB11 com o IFIX, CDI e outros índices, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RCRB11",
+      "body": "Como FII de tijolo focado em lajes corporativas, o RCRB11 está exposto a riscos de vacância e de inadimplência de inquilinos. Em setembro de 2026, a vacância financeira era de 8% 3. A volatilidade anualizada do fundo nos últimos 12 meses foi de 21,29%, nível moderado 0. A maior queda em 5 anos foi de -28,11%, do pico em 22/12/2023 ao ponto mais baixo em 12/12/2024 0. O beta de 0,40 contra o Ibovespa indica que o fundo tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção 0. Riscos gerais incluem variação de aluguéis, mudanças regulatórias e condições de mercado imobiliário."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RCRB11 paga dividendos?",
+      "answer": "Sim, o RCRB11 distribui proventos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 13,16 por cota, com dividend yield de 9,98% 0. O último pagamento foi de R$ 1,30 em 01/10/2026 0. Veja os detalhes no [recursos/proventos](/recursos/proventos)."
+    },
+    {
+      "question": "RCRB11 é FII de papel ou de tijolo?",
+      "answer": "RCRB11 é um FII de tijolo, focado em lajes corporativas e conjuntos comerciais 3. O portfólio é composto por 8 imóveis físicos, com 38.415 m² de ABL, em setembro de 2026 3."
+    },
+    {
+      "question": "Qual a vacância do RCRB11?",
+      "answer": "Em setembro de 2026, a vacância financeira do RCRB11 era de 8%, e a vacância física era de 0% 3. O fundo possui 50 inquilinos 3."
+    },
+    {
+      "question": "Qual o patrimônio do RCRB11?",
+      "answer": "O patrimônio líquido do RCRB11 era de R$ 704 milhões em 09/2026, com 23.826 cotistas 1. O valor patrimonial da cota era de R$ 190,76 1."
+    },
+    {
+      "question": "RCRB11 teve queda recente?",
+      "answer": "A maior queda em 5 anos foi de -28,11%, entre 22/12/2023 e 12/12/2024 0. A volatilidade anualizada nos últimos 12 meses foi de 21,29% 0. Acompanhe a variação no [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "O RCRB11 vendeu imóveis recentemente?",
+      "answer": "Sim, em 15/07/2026, o fundo concluiu a venda do Parque Cultural Paulista por R$ 77,1 milhões, com lucro de R$ 10,9 milhões 4. A venda foi realizada 100% em dinheiro, com 50% à vista e 50% parcelado 4."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos do RCRB11",
+        "context": "Veja os proventos do RCRB11 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com IFIX e CDI",
+        "context": "Compare a rentabilidade do RCRB11 com o IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do RCRB11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RCRB11 junto com seus outros ativos, com valor por classe e alocação em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em RCRB11; as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BRCO11",
+        "list": "fiis",
+        "reason": "Outro FII de lajes corporativas, para comparação de estratégia e desempenho no mesmo segmento."
+      },
+      {
+        "ticker": "TOPP11",
+        "list": "fiis",
+        "reason": "FII de lajes corporativas da RBR, com foco em ativos de alto padrão, para comparação de portfólio."
+      },
+      {
+        "ticker": "TRBL11",
+        "list": "fiis",
+        "reason": "FII logístico da Rio Bravo, para diversificação dentro da mesma gestora."
+      },
+      {
+        "ticker": "RBVA11",
+        "list": "fiis",
+        "reason": "FII de varejo da Rio Bravo, para comparação de segmento e estratégia dentro da mesma administradora."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda imobiliária, para comparação de diversificação e perfil de renda."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RCRB11",
+      "url": "https://finance.yahoo.com/quote/RCRB11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do FUNDO DE INV. IMOBILIÁRIO RIO BRAVO RENDA CORPORATIVA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RCRB11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=03683056000186",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RCRB11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1354702",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RCRB11, 15/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1249520",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RCRB11, 29/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1233010",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

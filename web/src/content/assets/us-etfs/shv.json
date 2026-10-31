@@ -1,0 +1,265 @@
+{
+  "ticker": "SHV",
+  "slug": "shv",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SHV: iShares 0–1 Year Treasury Bond ETF",
+    "description": "SHV é o ETF de Treasuries de 0 a 1 ano da iShares. Veja rentabilidade, dividendos, volatilidade e como investir no SHV a partir do Brasil.",
+    "h1": "SHV: iShares 0–1 Year Treasury Bond ETF",
+    "canonicalPath": "/etfs/shv",
+    "keywords": [
+      "SHV",
+      "iShares 0-1 Year Treasury Bond ETF",
+      "ETF Treasuries",
+      "renda fixa EUA",
+      "SHV dividendos",
+      "SHV volatilidade",
+      "investir em SHV Brasil"
+    ]
+  },
+  "summary": "SHV é o iShares 0–1 Year Treasury Bond ETF, um fundo de índice que replica a performance de títulos da dívida pública dos Estados Unidos (Treasuries) com vencimento de 0 a 1 ano. Emitido pela BlackRock sob a marca iShares, o ativo iniciou as negociações em 11/01/2007. Em 30/10/2026, a cota valia US$ 110,44, com dividend yield de 3,63% nos últimos 12 meses e volatilidade anualizada de 0,19%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares 0–1 Year Treasury Bond ETF",
+    "ticker": "XNYS SHV",
+    "foundingDate": "2007-01-11",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa (Treasuries de curto prazo)",
+    "issuerOrManager": "BlackRock (marca iShares)",
+    "trackedIndex": "Treasuries com vencimento de 0 a 1 ano",
+    "name": "iShares 0–1 Year Treasury Bond ETF",
+    "founded": "11/01/2007"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares 0–1 Year Treasury Bond ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "11/01/2007",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 110,44",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "0,19% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,00",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,63%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 391,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SHV",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares 0–1 Year Treasury Bond ETF",
+    "currency": "USD",
+    "price": 110.44,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0367,
+      "3y": 0.1391,
+      "5y": 0.1957,
+      "10y": 0.2626
+    },
+    "volatility1y": 0.0019,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.0036,
+      "from": "2021-11-04",
+      "to": "2022-06-14"
+    },
+    "beta1y": {
+      "value": 0,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 4.005,
+      "payments12Months": 12,
+      "yield12Months": 0.0363,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.299
+      }
+    },
+    "avgDailyTradedValue3m": 391227476
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do SHV nos 12 meses até 30/10/2026 foi de 0,19%, classificada como baixa. O beta contra o S&P 500 no mesmo período foi 0,00, o que indica que o ativo não acompanha os movimentos do índice acionário americano; ele se comporta de forma independente, típico de um instrumento de renda fixa de curtíssimo prazo. A maior queda em 5 anos foi de -0,36%, entre 04/11/2021 e 14/06/2022, o que reflete a sensibilidade limitada a mudanças de juros. Para monitorar oscilações e definir pontos de entrada ou saída, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O SHV faz parte da extensa linha de produtos da iShares, marca de ETFs atualmente gerida pela BlackRock. A história da marca remonta a 2000, quando a Barclays Global Investors lançou mais de 40 novos fundos sob o nome iShares, rebranding os antigos WEBS (World Equity Benchmark Shares). Em 2009, a BlackRock adquiriu o negócio da Barclays, consolidando a iShares como a maior emissora de ETFs nos Estados Unidos e globalmente, segundo a Wikipedia. O SHV, especificamente, estreou nos mercados em 11/01/2007, oferecendo exposição a Treasuries de curtíssimo prazo, um ativo tradicionalmente usado como equivalente a caixa por instituições e investidores devido ao baixo risco de crédito do governo americano.",
+    "timeline": [
+      {
+        "date": "2000",
+        "event": "Barclays Global Investors lança a marca iShares com mais de 40 novos fundos, rebranding os antigos WEBS.",
+        "source": 1
+      },
+      {
+        "date": "2007-01-11",
+        "event": "Primeiro pregão das cotas do iShares 0–1 Year Treasury Bond ETF (SHV) na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio de ETFs da iShares da Barclays.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SHV funciona",
+      "body": "O SHV é um ETF passivo que busca replicar o desempenho de um índice de títulos da dívida pública dos Estados Unidos (Treasuries) com vencimento entre 0 e 1 ano. A emissora é a BlackRock, que gerencia o fundo sob a marca iShares. O ativo não é alavancado nem inverso, o que significa que ele não utiliza alavancagem para multiplicar retornos diários nem tenta lucrar com a queda do mercado. O SHV iniciou as negociações em 11/01/2007 e é listado em bolsas como a NYSE Arca, conforme a estrutura de listagem da iShares."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SHV",
+      "body": "O fundo segue um índice composto por Treasuries com maturidade de 0 a 1 ano. Esses títulos são instrumentos de dívida emitidos pelo Departamento do Tesouro dos Estados Unidos para financiar o governo, sendo considerados de baixo risco porque são respaldados pela 'full faith and credit' do governo americano. Diferente de T-bills, que são zero-coupon, os Treasuries que compõem o índice do SHV pagam cupons periódicos, o que gera os proventos distribuídos aos cotistas. As fontes não detalham a composição exata dos títulos no portfólio em 30/10/2026, apenas a faixa de vencimento."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SHV a partir do Brasil",
+      "body": "Investidores brasileiros podem adquirir o SHV abrindo conta em uma corretora de valores no exterior, onde a cotação é em dólar. Outra opção é buscar ETFs ou BDRs listados na B3 que replicam índices de Treasuries de curto prazo, se disponíveis. O principal risco cambial é que a rentabilidade em reais dependerá da variação do câmbio entre o dólar e o real: se o dólar cair frente ao real, a rentabilidade em reais será menor que a em dólar, e vice-versa. O SHV não é um ativo de renda fixa brasileira, mas sim de renda fixa americana."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SHV",
+      "body": "Até 30/10/2026, a rentabilidade total do SHV, com reinvestimento de proventos, foi de 3,67% em 12 meses, 13,91% em 3 anos, 19,57% em 5 anos e 26,26% em 10 anos. O ativo distribuiu US$ 4,0050 por cota em 12 pagamentos no período de 12 meses, resultando em um dividend yield de 3,63%. O último provento foi de US$ 0,2990 em 01/10/2026. Para comparar esse desempenho com o mercado americano, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SHV",
+      "body": "O principal risco do SHV é a taxa de juros dos Estados Unidos. Como o fundo investe em Treasuries de curto prazo, a volatilidade é baixa (0,19% anualizada em 12 meses até 30/10/2026), mas se a Fed subir juros, o preço das cotas pode cair levemente, embora o efeito seja menor que em Treasuries de longo prazo. A maior queda em 5 anos foi de -0,36%, entre 04/11/2021 e 14/06/2022. Há também o risco cambial para investidores brasileiros, já que o ativo é cotado em dólar. O risco de crédito é baixo, pois os títulos são garantidos pelo governo dos EUA."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SHV é um ETF de ações ou de renda fixa?",
+      "answer": "SHV é um ETF de renda fixa. Ele investe em Treasuries (títulos da dívida pública dos EUA) com vencimento de 0 a 1 ano, não em ações de empresas. É um ativo de baixo risco e baixa volatilidade."
+    },
+    {
+      "question": "Qual a diferença entre SHV e SGOV?",
+      "answer": "Ambos são ETFs de Treasuries de curtíssimo prazo da iShares, mas SHV cobre vencimentos de 0 a 1 ano, enquanto [SGOV](/etfs/sgov) cobre 0 a 3 meses. SHV tem um horizonte de vencimento ligeiramente maior, o que pode oferecer um yield um pouco superior, mas com sensibilidade ligeiramente maior a juros. As fontes não comparam os dois diretamente, mas a diferença está na faixa de maturidade."
+    },
+    {
+      "question": "SHV paga dividendos?",
+      "answer": "Sim, SHV distribui proventos mensais. Nos 12 meses até 30/10/2026, foram 12 pagamentos somando US$ 4,0050 por cota, o que representa um dividend yield de 3,63%. O último pagamento foi de US$ 0,2990 em 01/10/2026. Você pode acompanhar os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para ver a distribuição histórica."
+    },
+    {
+      "question": "Qual a volatilidade do SHV?",
+      "answer": "A volatilidade anualizada do SHV nos 12 meses até 30/10/2026 foi de 0,19%, considerada baixa. A maior queda em 5 anos foi de apenas -0,36%, entre 04/11/2021 e 14/06/2022. Isso reflete a natureza de um ativo de renda fixa de curtíssimo prazo, com baixa sensibilidade a mudanças de juros."
+    },
+    {
+      "question": "Como investir em SHV do Brasil?",
+      "answer": "Você pode comprar SHV abrindo conta em uma corretora no exterior, onde o ativo é cotado em dólar. Alternativamente, procure ETFs ou BDRs na B3 que repliquem índices de Treasuries de curto prazo. O risco cambial é relevante: a rentabilidade em reais dependerá da variação do dólar. Use a [carteira consolidada](/recursos/carteira-consolidada) para acompanhar a alocação em ativos estrangeiros."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos distribuídos pelo SHV com data de pagamento e a rentabilidade total da sua posição."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do SHV com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do SHV atingir o preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do SHV junto com seus outros ativos em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SGOV",
+        "list": "us-etfs",
+        "reason": "Outro ETF de Treasuries de curtíssimo prazo da iShares, com vencimento de 0 a 3 meses."
+      },
+      {
+        "ticker": "BIL",
+        "list": "us-etfs",
+        "reason": "ETF de T-Bills de 1 a 3 meses, similar ao SHV em perfil de risco e liquidez."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de Treasuries de longo prazo (20+ anos), para comparação de sensibilidade a juros."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, o índice de referência para o beta do SHV."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SHV",
+      "url": "https://finance.yahoo.com/quote/SHV/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): United States Treasury security (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/United_States_Treasury_security",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

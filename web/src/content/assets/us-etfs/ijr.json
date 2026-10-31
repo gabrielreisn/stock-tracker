@@ -1,0 +1,269 @@
+{
+  "ticker": "IJR",
+  "slug": "ijr",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IJR: história, dividendos e volatilidade",
+    "description": "Conheça o IJR, o ETF que replica o S&P 600. Veja desempenho, dividendos, volatilidade e como investir no IJR a partir do Brasil.",
+    "h1": "IJR: iShares Core S&P Small-Cap ETF",
+    "canonicalPath": "/etfs/ijr",
+    "keywords": [
+      "IJR",
+      "iShares Core S&P Small-Cap ETF",
+      "S&P 600",
+      "ETF small caps",
+      "investir em ETF americano",
+      "dividendos IJR",
+      "volatilidade IJR"
+    ]
+  },
+  "summary": "IJR é o iShares Core S&P Small-Cap ETF, lançado em 26/05/2000 pela BlackRock. O ativo replica o índice S&P 600, que reúne 600 empresas americanas de menor capitalização. Em 29/10/2026, a cota valia US$ 142,01 e a rentabilidade total nos 12 meses anteriores foi de 20,99%, com dividend yield de 1,20%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Core S&P Small-Cap ETF",
+    "ticker": "ARCX IJR",
+    "foundingDate": "2000-05-26",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "BlackRock (iShares)",
+    "trackedIndex": "S&P 600",
+    "name": "iShares Core S&P Small-Cap ETF",
+    "founded": "26/05/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Core S&P Small-Cap ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "26/05/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 142,01",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,77% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,94",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,20%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 442,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IJR",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Core S&P Small-Cap ETF",
+    "currency": "USD",
+    "price": 142.01,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2099,
+      "3y": 0.6869,
+      "5y": 0.3588,
+      "10y": 1.7768
+    },
+    "volatility1y": 0.1577,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2802,
+      "from": "2024-11-25",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": 0.94,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.708,
+      "payments12Months": 4,
+      "yield12Months": 0.012,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.509
+      }
+    },
+    "avgDailyTradedValue3m": 442847785
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de 12 meses do IJR era de 15,77% em 29/10/2026, classificada como moderada. A maior queda em 5 anos foi de -28,02%, entre 25/11/2024 e 08/04/2025, o que reflete a maior sensibilidade das small caps a ciclos de recessão. Para acompanhar esses movimentos e definir pontos de entrada ou saída, o app oferece [alertas de preço](/recursos/alertas-de-preco) que notificam quando a cota atinge um valor definido."
+  },
+  "history": {
+    "overview": "O iShares Core S&P Small-Cap ETF (IJR) teve seu primeiro pregão em 26/05/2000, no auge do boom das ações de tecnologia e da expansão dos ETFs nos Estados Unidos. A marca iShares foi criada pela Barclays Global Investors em 2000, com forte investimento em educação e marketing, e foi posteriormente adquirida pela BlackRock em 2009, consolidando a gestora como a maior emissora de ETFs do mundo. O IJR foi estruturado para oferecer exposição passiva ao segmento de small caps, uma classe de ativos que historicamente apresenta maior volatilidade e potencial de crescimento em relação às grandes empresas, mas que também sofre mais em períodos de recessão. O índice S&P 600, que o ETF replica, é mantido pela S&P Dow Jones Indices e é um subconjunto do S&P 1500, representando cerca de 2,6% de sua capitalização de mercado. A composição do índice é selecionada por um comitê e reflete a dinâmica das empresas de menor porte nos EUA, que variam em capitalização de US$ 357 milhões a US$ 12,1 bilhões, com mediana de US$ 2,6 bilhões.",
+    "timeline": [
+      {
+        "date": "2000",
+        "event": "Barclays lança a marca iShares com mais de 40 novos fundos",
+        "source": 2
+      },
+      {
+        "date": "2000-05-26",
+        "event": "Primeiro pregão das cotas do IJR na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma plano de venda da iShares à CVC Capital Partners",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IJR funciona",
+      "body": "O IJR é um ETF que replica o índice S&P 600, focado em empresas americanas de menor capitalização. A gestora é a BlackRock, através da marca iShares, que adquiriu o negócio da Barclays em 2009. O ETF foi lançado em 26/05/2000 e opera como um fundo passivo, buscando acompanhar o desempenho do índice com baixa taxa de administração. Como não é um produto alavancado ou inverso, não há rebalanceamento diário que cause desvio de composição; o resultado do IJR tende a refletir o desempenho do S&P 600 ao longo do tempo, subtraindo apenas os custos operacionais."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IJR",
+      "body": "O IJR segue o índice S&P 600, que inclui 600 empresas listadas nos Estados Unidos com menor capitalização de mercado. O índice é um subconjunto do S&P 1500 e representa cerca de 2,6% de sua capitalização. Em 31/12/2025, a capitalização agregada das empresas do índice era superior a US$ 1,4 trilhão, com mediana de US$ 2,6 bilhões por empresa. Os componentes variam de US$ 357 milhões a US$ 12,1 bilhões em valor de mercado. A seleção é feita por um comitê da S&P Dow Jones Indices, que define os critérios de entrada e saída das empresas."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IJR a partir do Brasil",
+      "body": "Para investir no IJR a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso ao mercado americano, como corretoras internacionais ou brasileiras com essa capacidade. A compra é feita em dólar, o que expõe o investidor ao risco cambial: variações no câmbio podem aumentar ou reduzir o retorno em reais, independentemente do desempenho do ETF. Alternativamente, é possível buscar exposição ao mesmo índice por meio de BDRs ou ETFs listados na B3 que replicam o S&P 600, se disponíveis. A diversificação em ativos estrangeiros deve ser considerada no contexto da carteira, pois o risco cambial e a liquidez podem diferir dos ativos domésticos."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IJR",
+      "body": "Em 29/10/2026, o IJR valia US$ 142,01. A rentabilidade total com proventos foi de 20,99% nos 12 meses, 68,69% em 3 anos, 35,88% em 5 anos e 177,68% em 10 anos. O dividend yield era de 1,20%, com US$ 1,7080 distribuídos em 4 pagamentos no período de 12 meses. Para comparar esse desempenho com o mercado americano, o app permite ver a rentabilidade do IJR lado a lado com o S&P 500 na [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IJR",
+      "body": "O IJR está exposto ao risco de mercado das small caps americanas, que historicamente apresentam maior volatilidade que as large caps. A volatilidade anualizada de 12 meses do IJR era de 15,77% em 29/10/2026, nível moderado, mas superior à de ETFs de large caps como o [SPY](/etfs/spy). A maior queda em 5 anos foi de -28,02%, entre 25/11/2024 e 08/04/2025. O risco cambial é relevante para investidores brasileiros, pois o ativo é cotado em dólar. A concentração em pequenas empresas também traz risco de liquidez e maior sensibilidade a ciclos econômicos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o IJR?",
+      "answer": "IJR é o iShares Core S&P Small-Cap ETF, um fundo que replica o índice S&P 600, composto por 600 empresas americanas de menor capitalização. O ETF é gerido pela BlackRock e foi lançado em 26/05/2000."
+    },
+    {
+      "question": "Qual a diferença entre IJR e IWM?",
+      "answer": "O IJR replica o S&P 600, enquanto o [IWM](/etfs/iwm) replica o Russell 2000. Ambos focam em small caps, mas usam critérios diferentes de seleção e ponderação. O S&P 600 é um subconjunto do S&P 1500, com mediana de capitalização de US$ 2,6 bilhões, enquanto o Russell 2000 tem critérios próprios."
+    },
+    {
+      "question": "O IJR paga dividendos?",
+      "answer": "Sim, o IJR distribui dividendos. Nos 12 meses até 29/10/2026, foram US$ 1,7080 por cota em 4 pagamentos, com dividend yield de 1,20%. O último pagamento foi de US$ 0,5090 em 15/09/2026. No app, é possível ver os [dividendos e JCP](/recursos/desempenho-e-preco-medio) com datas de pagamento."
+    },
+    {
+      "question": "Como investir no IJR do Brasil?",
+      "answer": "É possível comprar o IJR através de uma corretora com acesso ao mercado americano, com exposição ao risco cambial. Alternativamente, pode-se buscar BDRs ou ETFs na B3 que replicam o S&P 600. O app permite conectar corretoras via [Open Finance](/recursos/open-finance) para sincronizar as posições."
+    },
+    {
+      "question": "Qual a volatilidade do IJR?",
+      "answer": "A volatilidade anualizada de 12 meses do IJR era de 15,77% em 29/10/2026, nível moderado. A maior queda em 5 anos foi de -28,02%, entre 25/11/2024 e 08/04/2025. O beta de 0,94 indica sensibilidade ligeiramente menor ao S&P 500."
+    },
+    {
+      "question": "O IJR é bom para iniciantes?",
+      "answer": "O IJR expõe o investidor a small caps americanas, que historicamente têm maior volatilidade que large caps. A decisão de incluir o ativo depende do perfil de risco e da diversificação da carteira. No app, é possível ver a [carteira consolidada](/recursos/carteira-consolidada) para avaliar a alocação."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do IJR lado a lado com o S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a cota do IJR atinge um valor que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do IJR junto com outros ativos na sua carteira."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e sincronize as quantidades de IJR que você possui."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IWM",
+        "list": "us-etfs",
+        "reason": "Outro ETF de small caps, com índice diferente (Russell 2000)."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF de large caps, para comparação de volatilidade e desempenho."
+      },
+      {
+        "ticker": "IJH",
+        "list": "us-etfs",
+        "reason": "ETF de mid caps, para exposição a empresas de porte intermediário."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF de large caps da mesma gestora, para comparação de custos e desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IJR",
+      "url": "https://finance.yahoo.com/quote/IJR/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 600 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_600",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

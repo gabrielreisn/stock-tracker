@@ -1,0 +1,291 @@
+{
+  "ticker": "XLK",
+  "slug": "xlk",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLK: história, dividendos e volatilidade",
+    "description": "Conheça o XLK, o ETF de tecnologia do S&P 500. Veja a história, o desempenho, os dividendos e a volatilidade do ativo, e como investir a partir do Brasil.",
+    "h1": "XLK: State Street Technology Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xlk",
+    "keywords": [
+      "XLK",
+      "ETF de tecnologia",
+      "S&P 500",
+      "State Street",
+      "SPDR",
+      "dividendos",
+      "volatilidade",
+      "investir no Brasil"
+    ]
+  },
+  "summary": "XLK é o State Street Technology Select Sector SPDR ETF, um fundo de índice que replica o desempenho do setor de tecnologia do S&P 500. Lançado em 1998 pela State Street Global Advisors, o ativo concentra-se em empresas de grande capitalização do setor de tecnologia nos Estados Unidos. Em 30/10/2026, a cota valia US$ 179,51, com rentabilidade de 20,13% nos últimos 12 meses e dividend yield de 0,47%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Technology Select Sector SPDR ETF",
+    "ticker": "ARCX XLK",
+    "foundingDate": "1998-12-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P 500 Information Technology Select Industry Index",
+    "name": "State Street Technology Select Sector SPDR ETF",
+    "founded": "22/12/1998"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Technology Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/12/1998",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 179,51",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "27,17% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,80",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,47%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,46 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLK",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Technology Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 179.51,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2013,
+      "3y": 1.2466,
+      "5y": 1.3097,
+      "10y": 7.3857
+    },
+    "volatility1y": 0.2717,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3356,
+      "from": "2021-12-27",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 1.8,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.836,
+      "payments12Months": 4,
+      "yield12Months": 0.0047,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.221
+      }
+    },
+    "avgDailyTradedValue3m": 1461123241
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do XLK nos últimos 12 meses é de 27,17%, nível considerado alto. O beta do XLK contra o S&P 500 é de 1,80, o que significa que o ativo tende a se mover 1,8 vezes mais que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -33,56%, do pico em 27/12/2021 ao ponto mais baixo em 12/10/2022. Esses números indicam que o XLK é um ativo mais volátil que o mercado como um todo, o que é comum para ETFs de setores específicos, especialmente tecnologia. É possível acompanhar a volatilidade e o preço do XLK no app, que mostra o gráfico de rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho, variação do dia e do ano."
+  },
+  "history": {
+    "overview": "O XLK faz parte da família de ETFs SPDR, geridos pela State Street Global Advisors (SSGA). A SSGA é a terceira maior provedora de ETFs do mundo, atrás de iShares e Vanguard, e o SPDR S&P 500 Trust é o maior ETF do mundo em ativos sob gestão. A marca SPDR, que significa Standard & Poor's Depositary Receipts, foi unificada em 2007, quando a SSGA renomeou seus outros ETFs nos EUA, incluindo a família StreetTRACKS e o DOW DIAMONDS, sob essa única marca. Em 1998, a SSGA e a Merrill Lynch introduziram os Sector Spiders, que hoje consistem em dez fundos que seguem os onze setores do GICS do S&P 500. O XLK é um desses fundos, focado especificamente no setor de tecnologia. O primeiro pregão das cotas do XLK ocorreu em 22/12/1998. A estrutura dos fundos SPDR é de unit investment trusts, o que significa que eles não têm um gestor ativo que toma decisões de compra e venda, mas sim replicam passivamente o índice de referência.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "SSGA e Merrill Lynch introduzem os Sector Spiders, que hoje consistem em dez fundos que seguem os setores do S&P 500.",
+        "source": 1
+      },
+      {
+        "date": "1998-12-22",
+        "event": "Primeiro pregão das cotas do XLK na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA renomeia seus outros ETFs nos EUA, incluindo a família StreetTRACKS e o DOW DIAMONDS, sob a marca SPDR.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLK funciona",
+      "body": "O XLK é um ETF que replica o desempenho do setor de tecnologia do S&P 500. Ele é gerido pela State Street Global Advisors (SSGA) e faz parte da família SPDR, que é a terceira maior provedora de ETFs do mundo. O fundo foi lançado em 1998, junto com os outros Sector Spiders, que seguem os setores do S&P 500. A estrutura do XLK é de unit investment trust, o que significa que ele não tem um gestor ativo, mas sim replica passivamente o índice de referência. O ETF não é alavancado nem inverso, então ele não faz rebalanceamento diário para multiplicar o desempenho do índice."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLK",
+      "body": "O XLK segue o S&P 500 Information Technology Select Industry Index, que é um subíndice do S&P 500 focado no setor de tecnologia. O S&P 500 é um índice que acompanha o desempenho de 500 empresas de grande capitalização nos Estados Unidos. O setor de tecnologia é o maior do mundo em capitalização, com 32% do índice MSCI World, segundo a fonte 4. O XLK é composto pelas empresas de tecnologia do S&P 500, o que significa que ele inclui as maiores empresas de tecnologia dos Estados Unidos, como Apple, Microsoft, Alphabet, Amazon e Meta. A composição do XLK é passiva, ou seja, ele replica o índice de referência sem a intervenção de um gestor ativo."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLK a partir do Brasil",
+      "body": "Para investir no XLK a partir do Brasil, é possível comprar o ETF por uma conta numa corretora no exterior, como Interactive Brokers ou Charles Schwab. Outra opção é comprar ETFs ou BDRs da B3 que seguem o mesmo índice, como o [VGT](/etfs/vgt) (Vanguard Information Technology Index Fund ETF Shares) ou o [IGV](/etfs/igv) (iShares Expanded Tech-Software Sector ETF). O risco cambial é um fator importante, pois o XLK é um ativo em dólar, então a variação do câmbio pode afetar o retorno do investidor brasileiro. É possível acompanhar a carteira consolidada no app, que mostra o valor por classe, alocação e as maiores posições, incluindo ativos em dólar."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLK",
+      "body": "Em 30/10/2026, a cota do XLK valia US$ 179,51. A rentabilidade total com proventos nos últimos 12 meses foi de 20,13%, nos últimos 3 anos de 124,66%, nos últimos 5 anos de 130,97% e nos últimos 10 anos de 738,57%. O dividend yield é de 0,47%, com US$ 0,8360 por cota em 4 pagamentos nos 12 meses até 30/10/2026. O último pagamento foi de US$ 0,2210 em 21/09/2026. É possível comparar o desempenho do XLK com o S&P 500 no app, que mostra a rentabilidade da carteira lado a lado com o índice, no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLK",
+      "body": "Os riscos do XLK incluem a volatilidade do setor de tecnologia, que é historicamente mais volátil que o mercado como um todo. A volatilidade anualizada do XLK nos últimos 12 meses é de 27,17%, nível considerado alto. O beta do XLK contra o S&P 500 é de 1,80, o que significa que o ativo tende a se mover 1,8 vezes mais que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -33,56%, do pico em 27/12/2021 ao ponto mais baixo em 12/10/2022. O risco cambial também é um fator importante, pois o XLK é um ativo em dólar. É possível configurar alertas de preço no app para ser notificado quando o ativo chegar a um preço específico."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar XLK no app",
+      "body": "Para quem tem XLK na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada no app](/recursos/carteira-consolidada): Acompanhe o valor por classe, alocação e as maiores posições da sua carteira, incluindo ativos em dólar como o XLK.\n- [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio): Veja o gráfico de rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho, variação do dia e do ano, incluindo o XLK.\n- [comparação com índices no app](/recursos/comparacao-com-indices): Compare a rentabilidade do XLK com o S&P 500, no mesmo gráfico, para entender o desempenho relativo do ativo.\n- [alertas de preço no app](/recursos/alertas-de-preco): Configure alertas para ser notificado quando o XLK chegar a um preço específico, para comprar ou vender.\n- [assistente de IA no app](/recursos/assistente-de-ia): Pergunte em português sobre a sua carteira e os seus gastos, e as respostas vêm dos seus próprios dados, mostrando o que foi consultado."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o XLK?",
+      "answer": "XLK é o State Street Technology Select Sector SPDR ETF, um fundo de índice que replica o desempenho do setor de tecnologia do S&P 500. Ele é gerido pela State Street Global Advisors (SSGA) e foi lançado em 1998. O fundo é composto pelas empresas de tecnologia do S&P 500, o que significa que ele inclui as maiores empresas de tecnologia dos Estados Unidos."
+    },
+    {
+      "question": "Qual a diferença entre XLK e SPY?",
+      "answer": "O XLK é um ETF de setor, focado especificamente no setor de tecnologia do S&P 500, enquanto o [SPY](/etfs/spy) é um ETF de mercado amplo que replica o desempenho do S&P 500 como um todo. O XLK tende a ser mais volátil que o SPY, pois está concentrado em um único setor, enquanto o SPY é diversificado entre os 11 setores do GICS."
+    },
+    {
+      "question": "O XLK paga dividendos?",
+      "answer": "Sim, o XLK paga dividendos. Nos 12 meses até 30/10/2026, o fundo pagou US$ 0,8360 por cota em 4 pagamentos, com dividend yield de 0,47%. O último pagamento foi de US$ 0,2210 em 21/09/2026. É possível ver os dividendos e JCP no app, com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "question": "Como investir no XLK a partir do Brasil?",
+      "answer": "É possível investir no XLK a partir do Brasil comprando o ETF por uma conta numa corretora no exterior, como Interactive Brokers ou Charles Schwab. Outra opção é comprar ETFs ou BDRs da B3 que seguem o mesmo índice, como o VGT ou o IGV. O risco cambial é um fator importante, pois o XLK é um ativo em dólar."
+    },
+    {
+      "question": "Qual a volatilidade do XLK?",
+      "answer": "A volatilidade anualizada do XLK nos últimos 12 meses é de 27,17%, nível considerado alto. O beta do XLK contra o S&P 500 é de 1,80, o que significa que o ativo tende a se mover 1,8 vezes mais que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -33,56%, do pico em 27/12/2021 ao ponto mais baixo em 12/10/2022."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada no app",
+        "context": "Acompanhe o valor por classe, alocação e as maiores posições da sua carteira, incluindo ativos em dólar como o XLK."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Veja o gráfico de rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho, variação do dia e do ano, incluindo o XLK."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices no app",
+        "context": "Compare a rentabilidade do XLK com o S&P 500, no mesmo gráfico, para entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço no app",
+        "context": "Configure alertas para ser notificado quando o XLK chegar a um preço específico, para comprar ou vender."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA no app",
+        "context": "Pergunte em português sobre a sua carteira e os seus gastos, e as respostas vêm dos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "SPY é o ETF que replica o S&P 500 como um todo, enquanto o XLK é focado no setor de tecnologia."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "QQQ é o ETF que replica o NASDAQ 100, que é um índice de tecnologia. Comparar o XLK com o QQQ ajuda a entender o desempenho do setor de tecnologia em relação a"
+      },
+      {
+        "ticker": "VGT",
+        "list": "us-etfs",
+        "reason": "VGT é um ETF de tecnologia da Vanguard, que também replica o setor de tecnologia do S&P 500."
+      },
+      {
+        "ticker": "IGV",
+        "list": "us-etfs",
+        "reason": "IGV é um ETF de tecnologia e software da iShares, que também replica o setor de tecnologia do S&P 500."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "SMH é um ETF de semicondutores da VanEck, que é um sub-setor do setor de tecnologia."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLK",
+      "url": "https://finance.yahoo.com/quote/XLK/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Information technology (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Information_technology",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

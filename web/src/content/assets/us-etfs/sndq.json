@@ -1,0 +1,256 @@
+{
+  "ticker": "SNDQ",
+  "slug": "sndq",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SNDQ: ETF inverso 2x Sandisk",
+    "description": "Conheça o Tradr 2X Short SNDK Daily ETF: como funciona, riscos, volatilidade de 248,25% e como investir a partir do Brasil. Atualizado até 30/10/2026.",
+    "h1": "SNDQ: Tradr 2X Short SNDK Daily ETF",
+    "canonicalPath": "/etfs/sndq",
+    "keywords": [
+      "SNDQ",
+      "Tradr 2X Short SNDK Daily ETF",
+      "ETF inverso alavancado",
+      "Sandisk Corporation",
+      "ETF de semicondutores",
+      "investir em ETFs americanos",
+      "volatilidade de ETFs alavancados"
+    ]
+  },
+  "summary": "SNDQ é o Tradr 2X Short SNDK Daily ETF, um fundo de índice que busca entregar o dobro do desempenho diário negativo da ação da Sandisk Corporation (SNDK). Lançado em 23/04/2026, o ativo opera com alavancagem e rebalanceamento diário, apresentando volatilidade anualizada de 248,25% nos 12 meses até 30/10/2026. É um instrumento de curto prazo voltado a estratégias de timing de mercado.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Tradr 2X Short SNDK Daily ETF",
+    "ticker": "BATS SNDQ",
+    "foundingDate": "2026-04-23",
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF inverso alavancado 2x",
+    "issuerOrManager": "Tradr",
+    "trackedIndex": "Ação da Sandisk Corporation (SNDK)",
+    "name": "Tradr 2X Short SNDK Daily ETF",
+    "founded": "23/04/2026"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Tradr 2X Short SNDK Daily ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "23/04/2026",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "-2x o desempenho diário da ação de referência (-200%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 20,83",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "248,25% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-9,40",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 402,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SNDQ",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Tradr 2X Short SNDK Daily ETF",
+    "currency": "USD",
+    "price": 20.83,
+    "historyStarts": "2026-04-23",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 2.4825,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9664,
+      "from": "2026-04-23",
+      "to": "2026-09-22"
+    },
+    "beta1y": {
+      "value": -9.4,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 402396155
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do SNDQ nos 12 meses até 30/10/2026 é de 248,25%, nível muito alta, o que reflete a alavancagem de 2x e a exposição a uma única ação. O beta de -9,40 contra o S&P 500 indica que o ativo tende a se mover na direção oposta ao índice com magnitude muito superior, o que é esperado para um ETF inverso alavancado. A maior queda nos últimos 5 anos foi de -96,64%, do pico em 23/04/2026 ao ponto mais baixo em 22/09/2026, o que ilustra o risco de perda total em movimentos adversos. Para monitorar oscilações e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Tradr 2X Short SNDK Daily ETF (SNDQ) foi lançado em 23/04/2026, com o objetivo de acompanhar a variação diária da ação da Sandisk Corporation (SNDK) no sentido inverso e com alavancagem de 2x. A Sandisk, fundada em 1988 como SunDisk e renomeada em 1995, é uma empresa de semicondutores focada em memória flash, com histórico de aquisições e parcerias no setor. O ETF de inversão alavancada é um produto derivativo que utiliza contratos futuros e outras técnicas para replicar o desempenho diário do ativo subjacente. Devido à natureza do rebalanceamento diário, o resultado do fundo se afasta do múltiplo do índice em períodos mais longos, sendo projetado para uso em estratégias de curto prazo.",
+    "timeline": [
+      {
+        "date": "1988",
+        "event": "Fundação da SunDisk Corporation, precursora da Sandisk, por Eli Harari, Sanjay Mehrotra e Jack Yuan.",
+        "source": 1
+      },
+      {
+        "date": "1995-11-08",
+        "event": "A SunDisk muda o nome para SanDisk e realiza sua oferta pública inicial (IPO) na Nasdaq.",
+        "source": 1
+      },
+      {
+        "date": "2026-04-23",
+        "event": "Primeiro pregão das cotas do ETF Tradr 2X Short SNDK Daily ETF (SNDQ) na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SNDQ funciona",
+      "body": "O SNDQ é um ETF inverso alavancado que busca entregar o dobro do desempenho diário negativo da ação da Sandisk Corporation (SNDK). A emissora é a Tradr, e o fundo teve seu primeiro pregão em 23/04/2026. Por ser um produto alavancado e inverso, o SNDQ precisa se reposicionar diariamente para manter a alavancagem de 2x. Esse rebalanceamento diário faz com que, em períodos mais longos, o resultado do fundo se afaste do múltiplo do índice devido à perda de volatilidade (volatility loss), tornando-o inadequado para investimentos de longo prazo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SNDQ",
+      "body": "O SNDQ segue a ação da Sandisk Corporation (SNDK), uma empresa americana de semicondutores baseada em Milpitas, Califórnia, que projeta e fabrica produtos de memória flash, como cartões de memória, pen drives e unidades de estado sólido (SSDs). A Sandisk foi fundada em 1988 e possui histórico de aquisições no setor, incluindo a compra da Matrix Semiconductor em 2005 e da Pliant Technology em 2011. O ETF não possui uma carteira diversificada de ações, mas sim uma exposição derivativa à variação diária da ação da Sandisk."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SNDQ a partir do Brasil",
+      "body": "Para investir no SNDQ a partir do Brasil, é necessário ter uma conta em uma corretora que opere no mercado americano, como as corretoras internacionais ou as que oferecem acesso ao mercado de ações dos EUA. O ativo é cotado em dólar, o que expõe o investidor ao risco cambial, ou seja, variações no câmbio entre o real e o dólar impactam o retorno final em reais. Não há BDRs ou ETFs na B3 que repliquem diretamente o SNDQ, mas é possível buscar exposição a semicondutores ou a estratégias inversas por meio de outros ativos listados na bolsa brasileira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SNDQ",
+      "body": "Nos 12 meses até 30/10/2026, o SNDQ apresentou volatilidade anualizada de 248,25%, nível considerado muito alta. O beta de 12 meses contra o S&P 500 é de -9,40, indicando que o ativo tende a se mover na direção oposta ao índice com magnitude muito superior. A maior queda nos últimos 5 anos foi de -96,64%, ocorrida do pico em 23/04/2026 ao ponto mais baixo em 22/09/2026. O volume médio negociado por dia nos últimos 3 meses é de US$ 402,4 milhões. Para comparar o desempenho do SNDQ com o S&P 500, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SNDQ",
+      "body": "O SNDQ apresenta riscos elevados devido à sua natureza de ETF inverso alavancado. A volatilidade anualizada de 248,25% e a maior queda de -96,64% em 2026 ilustram a magnitude das oscilações. O rebalanceamento diário pode gerar perda de volatilidade em mercados laterais ou em alta, reduzindo o retorno esperado. Além disso, o risco cambial impacta investidores brasileiros, e a exposição a uma única ação (Sandisk) concentra o risco setorial. O uso de alavancagem amplifica tanto os ganhos quanto as perdas, e a perda total do capital investido é possível."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar SNDQ no app",
+      "body": "Para quem tem SNDQ na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do SNDQ lado a lado com o S&P 500, no mesmo gráfico, para entender o desempenho relativo do ativo.\n- [alertas de preço](/recursos/alertas-de-preco): Defina notificações para quando o SNDQ chegar a um preço que você escolheu, útil para monitorar oscilações em um ativo de alta volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do SNDQ junto com outros ativos da sua carteira, incluindo ações dos EUA e renda fixa, em uma só visão.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade e o preço médio do SNDQ na sua carteira, com gráficos e variações do dia e do ano."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o SNDQ?",
+      "answer": "SNDQ é o Tradr 2X Short SNDK Daily ETF, um fundo de índice que busca entregar o dobro do desempenho diário negativo da ação da Sandisk Corporation (SNDK). É um produto alavancado e inverso, projetado para uso em estratégias de curto prazo."
+    },
+    {
+      "question": "Qual a diferença entre SNDQ e SNXX?",
+      "answer": "SNDQ é um ETF inverso alavancado 2x, que busca o dobro do desempenho diário negativo da ação da Sandisk. [SNXX](/etfs/snxx) é um ETF alavancado 2x no sentido positivo, que busca o dobro do desempenho diário da ação. Ambos são produtos de curto prazo, mas com direções opostas."
+    },
+    {
+      "question": "Como investir no SNDQ a partir do Brasil?",
+      "answer": "É necessário ter uma conta em uma corretora que opere no mercado americano. O ativo é cotado em dólar, o que expõe o investidor ao risco cambial. Não há BDRs ou ETFs na B3 que repliquem diretamente o SNDQ."
+    },
+    {
+      "question": "Qual a volatilidade do SNDQ?",
+      "answer": "A volatilidade anualizada do SNDQ nos 12 meses até 30/10/2026 é de 248,25%, nível muito alta. Isso reflete a alavancagem de 2x e a exposição a uma única ação, a Sandisk Corporation."
+    },
+    {
+      "question": "O SNDQ paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 30/10/2026, o SNDQ não distribuiu proventos. ETFs de alavancagem e inversão geralmente não pagam dividendos, pois o objetivo é replicar o desempenho diário do ativo subjacente."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do SNDQ lado a lado com o S&P 500, no mesmo gráfico, para entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina notificações para quando o SNDQ chegar a um preço que você escolheu, útil para monitorar oscilações em um ativo de alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do SNDQ junto com outros ativos da sua carteira, incluindo ações dos EUA e renda fixa, em uma só visão."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio do SNDQ na sua carteira, com gráficos e variações do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SNXX",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 2x no sentido positivo da ação da Sandisk, o par oposto do SNDQ."
+      },
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 3x no setor de semicondutores, para comparação com outros produtos alavancados do setor."
+      },
+      {
+        "ticker": "SOXS",
+        "list": "us-etfs",
+        "reason": "ETF inverso alavancado 3x no setor de semicondutores, para comparação com outros produtos inversos do setor."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com o índice de referência do beta do SNDQ."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SNDQ",
+      "url": "https://finance.yahoo.com/quote/SNDQ/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Sandisk (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Sandisk",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Inverse exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Inverse_exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,308 @@
+{
+  "ticker": "XPCI11",
+  "slug": "xpci11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XPCI11: história, rendimentos e volatilidade",
+    "description": "Conheça o XPCI11, FII de papel da XP com R$ 780,7 milhões em 09/2026. Veja dividend yield de 14,07%, estratégia de CRIs e desempenho até 29/10/2026.",
+    "h1": "XPCI11: XP Crédito Imobiliário FII",
+    "canonicalPath": "/fiis/xpci11",
+    "keywords": [
+      "XPCI11",
+      "XP Crédito Imobiliário FII",
+      "FII de papel",
+      "CRI",
+      "dividend yield XPCI11",
+      "rendimentos XPCI11",
+      "volatilidade XPCI11",
+      "patrimônio XPCI11"
+    ]
+  },
+  "summary": "XPCI11 é o XP Crédito Imobiliário - Fundo de Investimento Imobiliário, um FII de papel que investe em CRIs, debêntures e cotas de outros fundos. Com patrimônio de R$ 780,7 milhões em 09/2026, distribuiu R$ 10,69 por cota em 12 meses, gerando um dividend yield de 14,07% até 29/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "XP Crédito Imobiliário - Fundo de Investimento Imobiliário",
+    "legalName": "XP CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF XPCI11",
+    "isin": "BRXPCICTF007",
+    "taxId": "28.516.301/0001-91",
+    "foundingDate": "2022-12-29",
+    "website": "https://xpci.xpasset.com.br",
+    "provider": {
+      "name": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+      "url": "https://www.xpi.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28516301000191"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "XP Vista Asset Management Ltda",
+    "name": "XP Crédito Imobiliário - Fundo de Investimento Imobiliário",
+    "legalName": "XP CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "29/12/2022",
+    "administrator": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+    "website": "https://www.xpi.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "XP CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "28.516.301/0001-91",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "29/12/2022",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 780,7 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "82.392",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 89,72",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 75,99",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "16,05% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,24",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,07%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,7 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XPCI11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Xp Credito Imobiliario ae Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 75.99,
+    "historyStarts": "2019-12-17",
+    "returns": {
+      "1y": 0.0284,
+      "3y": 0.2754,
+      "5y": 0.4053,
+      "10y": null
+    },
+    "volatility1y": 0.1605,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2065,
+      "from": "2024-09-19",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.24,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.69,
+      "payments12Months": 12,
+      "yield12Months": 0.1407,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.82
+      }
+    },
+    "avgDailyTradedValue3m": 1699031
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de 12 meses do XPCI11 é de 16,05%, nível moderado. O beta de 0,24 contra o Ibovespa indica que o ativo tende a acompanhar os movimentos do índice com menor amplitude, na mesma direção. A maior queda nos últimos 5 anos foi de -20,65%, do pico em 19/09/2024 ao ponto mais baixo em 18/12/2024. Para monitorar oscilações de preço, o app oferece [alertas de preço](/recursos/alertas-de-preco), que enviam notificações quando o ativo atinge um valor definido."
+  },
+  "history": {
+    "overview": "O XP Crédito Imobiliário FII (XPCI11) iniciou suas atividades em 29/12/2022, conforme registros da CVM, mas o relatório gerencial de setembro de 2026 indica o início em 12/09/2019. A estrutura do fundo é de gestão ativa, focada em ativos financeiros com lastro imobiliário. O FNET registra 499 documentos publicados desde 13/08/2019 e três ofertas públicas de cotas encerradas, evidenciando a evolução do capital do fundo ao longo dos anos. A estratégia de originação própria de CRIs permite ao fundo capturar prêmios de mercado e gerar ganhos de capital recorrentes, além dos rendimentos de juros. Em 09/2026, o fundo contava com 82.392 cotistas e um patrimônio líquido de R$ 780,7 milhões, refletindo sua posição consolidada no segmento de crédito imobiliário.",
+    "timeline": [
+      {
+        "date": "2019-12-11",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2020-01-09",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2022-12-29",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do XPCI11",
+      "body": "O XPCI11 é um FII de papel com gestão ativa, administrado pela XP Investimentos e gerido pela XP Vista Asset Management. O objetivo do fundo é auferir ganhos por meio de ativos financeiros com lastro imobiliário, como Certificados de Recebíveis Imobiliários (CRI), debêntures, Letras de Crédito Imobiliário (LCI) e cotas de outros FIIs. Em 30/09/2026, a carteira estava alocada em 49 CRIs e 3 FIIs, totalizando R$ 747,1 milhões em ativos core, além de R$ 7,14 milhões em liquidez. A estratégia inclui a originação e estruturação próprias de CRIs, o que permite ao fundo gerar ganhos de capital no mercado secundário, buscando retornos recorrentes e não apenas pontuais, com atenção a oportunidades de arbitragem em curvas de juros e spreads de crédito."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do XPCI11",
+      "body": "Nos 12 meses até 29/10/2026, o XPCI11 distribuiu R$ 10,69 por cota em 12 pagamentos, resultando em um dividend yield de 14,07%. O último provento foi de R$ 0,82 por cota, com pagamento em 01/10/2026. O relatório gerencial de setembro de 2026 indica que pessoas físicas que detêm volume inferior a 10% do total do fundo são isentas de Imposto de Renda nos rendimentos distribuídos, sendo tributadas em 20% sobre eventual ganho de capital na venda da cota. É possível acompanhar o histórico de [dividendos e JCP no app](/recursos/proventos), que multiplica os valores pela quantidade de cotas na carteira."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O FNET registra 499 documentos publicados pelo XPCI11 desde 13/08/2019, incluindo três ofertas públicas de cotas encerradas. Em 09/2026, o fundo possuía 8.701.552 cotas emitidas e 82.392 cotistas, com patrimônio líquido de R$ 780,7 milhões e valor patrimonial da cota de R$ 89,72. A taxa de administração no mês de 09/2026 foi de 0,083% sobre o patrimônio, equivalente a 1,00% ao ano, conforme o relatório gerencial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XPCI11",
+      "body": "A rentabilidade total com proventos do XPCI11 foi de 2,84% em 12 meses, 27,54% em 3 anos e 40,53% em 5 anos, até 29/10/2026. O fundo apresentou 112,17% do CDI no mês de setembro de 2026, considerando um gross-up de 15% de impostos. Para comparar esse desempenho com outros índices, o app oferece a [comparação com índices](/recursos/comparacao-com-indices), que exibe a rentabilidade lado a lado com CDI, IPCA, Ibovespa, IFIX e S&P 500 no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XPCI11",
+      "body": "Os principais riscos do XPCI11 incluem a exposição a riscos de crédito dos devedores dos CRIs, a sensibilidade a movimentos de curvas de juros e spreads de crédito, e a volatilidade do mercado de FIIs. A volatilidade anualizada de 12 meses foi de 16,05%, classificada como moderada. A maior queda nos últimos 5 anos foi de -20,65%, do pico em 19/09/2024 ao ponto mais baixo em 18/12/2024. O beta de 0,24 contra o Ibovespa indica que o ativo tende a acompanhar os movimentos do índice com menor amplitude, na mesma direção. Riscos macroeconômicos, como a proximidade de eleições e a deterioração da curva de juros, também impactam o desempenho do fundo, conforme o relatório gerencial de setembro de 2026."
+    }
+  ],
+  "faq": [
+    {
+      "question": "XPCI11 é FII de papel ou de tijolo?",
+      "answer": "XPCI11 é um FII de papel, focado em ativos financeiros com lastro imobiliário, como CRIs, debêntures e cotas de outros FIIs. O relatório gerencial de setembro de 2026 mostra que a carteira estava alocada em 49 CRIs e 3 FIIs, totalizando R$ 747,1 milhões em ativos core."
+    },
+    {
+      "question": "Qual o dividend yield do XPCI11?",
+      "answer": "O dividend yield do XPCI11 nos 12 meses até 29/10/2026 foi de 14,07%, com R$ 10,69 distribuídos por cota em 12 pagamentos. O último provento foi de R$ 0,82 por cota, com pagamento em 01/10/2026."
+    },
+    {
+      "question": "Qual a taxa de administração do XPCI11?",
+      "answer": "A taxa de administração do XPCI11 é de 1,00% ao ano, conforme o relatório gerencial de setembro de 2026. No mês de 09/2026, a taxa foi de 0,083% sobre o patrimônio."
+    },
+    {
+      "question": "XPCI11 paga rendimentos mensais?",
+      "answer": "Sim, o XPCI11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram 12 pagamentos, totalizando R$ 10,69 por cota. O último provento foi de R$ 0,82 por cota, com pagamento em 01/10/2026."
+    },
+    {
+      "question": "Qual o patrimônio do XPCI11?",
+      "answer": "Em 09/2026, o patrimônio líquido do XPCI11 era de R$ 780,7 milhões, com 8.701.552 cotas emitidas e 82.392 cotistas. O valor patrimonial da cota era de R$ 89,72."
+    },
+    {
+      "question": "Como a tributação funciona no XPCI11?",
+      "answer": "Pessoas físicas que detêm volume inferior a 10% do total do fundo são isentas de Imposto de Renda nos rendimentos distribuídos, sendo tributadas em 20% sobre eventual ganho de capital na venda da cota, conforme o relatório gerencial de setembro de 2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do XPCI11 com data com e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do XPCI11 com CDI, IPCA, Ibovespa, IFIX e S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o XPCI11 atinge um preço definido, útil para monitorar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do XPCI11 junto com outras posições, com valor por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de crédito imobiliário high yield, com estratégia similar de foco em CRIs."
+      },
+      {
+        "ticker": "BTCI11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário da BTG Pactual, com foco em CRIs e ativos financeiros com lastro imobiliário."
+      },
+      {
+        "ticker": "AFHI11",
+        "list": "fiis",
+        "reason": "FII de recebíveis imobiliários, com exposição a CRIs e outros ativos de crédito imobiliário."
+      },
+      {
+        "ticker": "PORD11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário, com estratégia de alocação em CRIs e ativos financeiros com lastro imobiliário."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XPCI11",
+      "url": "https://finance.yahoo.com/quote/XPCI11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do XP CREDITO IMOBILIÁRIO FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo XPCI11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=28516301000191",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do XPCI11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1359603",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

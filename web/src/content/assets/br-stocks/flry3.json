@@ -1,0 +1,396 @@
+{
+  "ticker": "FLRY3",
+  "slug": "flry3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "FLRY3: história, dividendos e volatilidade",
+    "description": "Conheça a FLRY3, ação ordinária da Fleury S.A. no setor de saúde. Veja dividendos, volatilidade, história e desempenho da ação na B3.",
+    "h1": "FLRY3: Fleury S.A. - Ação Ordinária",
+    "canonicalPath": "/acoes/flry3",
+    "keywords": [
+      "FLRY3",
+      "Fleury",
+      "ação de saúde",
+      "dividendos FLRY3",
+      "volatilidade FLRY3",
+      "Novo Mercado",
+      "medicina diagnóstica"
+    ]
+  },
+  "summary": "FLRY3 é a ação ordinária da Fleury S.A., empresa brasileira de saúde focada em medicina diagnóstica e serviços médicos. Listada no Novo Mercado da B3 desde 2009, a companhia opera por meio de marcas como Fleury Medicina e Saúde e Labs a+. Em 30/10/2026, a ação cotava a R$ 20,48, com dividend yield de 6,35% nos últimos 12 meses e volatilidade anualizada de 38,38%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Fleury",
+    "legalName": "FLEURY SA",
+    "ticker": "BVMF FLRY3",
+    "isin": "BRFLRYACNOR5",
+    "taxId": "60.840.055/0001-31",
+    "foundingDate": "1964-10-23",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.fleury.com.br/ri",
+    "wikidata": "Q30263778",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q30263778",
+      "https://pt.wikipedia.org/wiki/Grupo_Fleury",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21881/FLRY/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Fleury",
+    "legalName": "FLEURY SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Saúde",
+    "segment": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "founded": "23/10/1964",
+    "listedSince": "17/12/2009",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.fleury.com.br/ri"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "FLEURY SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "60.840.055/0001-31",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Saúde / Serv.Méd.Hospit..Análises e Diagnósticos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "23/10/1964",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "17/12/2009",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "FLRY3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 20,48",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "38,38% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,17",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,35%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "FLRY3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fleury S.A.",
+    "currency": "BRL",
+    "price": 20.48,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.5321,
+      "3y": 0.695,
+      "5y": 0.5078,
+      "10y": 0.6905
+    },
+    "volatility1y": 0.3838,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3729,
+      "from": "2023-12-22",
+      "to": "2025-02-28"
+    },
+    "beta1y": {
+      "value": 1.17,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.2998,
+      "payments12Months": 2,
+      "yield12Months": 0.0635,
+      "lastPayment": {
+        "date": "2026-08-12",
+        "amount": 0.400733
+      }
+    },
+    "avgDailyTradedValue3m": 118085932
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 38,38% da FLRY3 nos últimos 12 meses indica oscilações de preço significativas, classificadas como nível alto. A maior queda em 5 anos foi de -37,29%, entre 22/12/2023 e 28/02/2025. Para monitorar esses movimentos e definir níveis de acompanhamento, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Fleury S.A. tem origem em 1926, quando Gastão Fleury da Silveira fundou um pequeno laboratório de análises clínicas em São Paulo. A estrutura jurídica atual, a Fleury S.A., foi constituída em 23/10/1964. A empresa consolidou-se no mercado ao ser a primeira a disponibilizar resultados de exames médicos pela internet na década de 1990 e, em 2007, obteve a Acreditação Internacional do Colégio Americano de Patologistas. Em 2009, a companhia abriu seu capital, com registro na CVM em 14/12/2009 e início da cotação na B3 em 17/12/2009. A estratégia de crescimento baseia-se na produção em larga escala e na integração de exames de diferentes complexidades em uma mesma unidade, atendendo a diversas faixas de renda por meio de múltiplas marcas. Em 2019, o grupo expandiu sua atuação para consultas médicas em clínicas e a domicílio. Nos últimos anos, a Fleury tem realizado aquisições para ampliar sua presença geográfica e de especialidades, como o LSL em Rio Claro e o Femme em São Paulo, além de ter encerrado tratativas com Porto Seguro e Oncoclínicas em 2026.",
+    "timeline": [
+      {
+        "date": "1926",
+        "event": "Fundação do laboratório de análises clínicas por Gastão Fleury da Silveira em São Paulo.",
+        "source": 3
+      },
+      {
+        "date": "1964-10-23",
+        "event": "Constituição da companhia Fleury S.A.",
+        "source": 2
+      },
+      {
+        "date": "2009-12-14",
+        "event": "Registro como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2009-12-17",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-10-28",
+        "event": "Aquisição do LSL (Rio Claro - SP).",
+        "source": 11
+      },
+      {
+        "date": "2025-11-04",
+        "event": "Aquisição do FEMME Laboratório da Mulher (São Paulo - SP).",
+        "source": 10
+      },
+      {
+        "date": "2026-02-02",
+        "event": "Aquisição de Ações de Emissão da Própria Companhia.",
+        "source": 9
+      },
+      {
+        "date": "2026-03-23",
+        "event": "Term Sheet Não Vinculante envolvendo Oncoclínicas e Porto Seguro.",
+        "source": 8
+      },
+      {
+        "date": "2026-04-13",
+        "event": "Encerramento das Tratativas Envolvendo Potencial Operação com Porto Seguro e Oncoclínicas.",
+        "source": 7
+      },
+      {
+        "date": "2026-05-29",
+        "event": "Fechamento da Aquisição de Femme pelo Fleury.",
+        "source": 6
+      },
+      {
+        "date": "2026-10-01",
+        "event": "Aquisição da Unilab (Atibaia - SP) pelo Fleury.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Fleury ganha dinheiro",
+      "body": "A Fleury S.A. atua na prestação de serviços médicos e medicina diagnóstica, além de oferecer consultoria, assessoria, cursos e gestão de doenças crônicas. A empresa também desenvolve pesquisa e presta serviços a terceiros. A estratégia do grupo baseia-se na produção em larga escala para redução de custos e na integração de exames de diferentes tipos e complexidades em uma mesma unidade. Essa abordagem permite atender a consumidores de diferentes faixas de renda por meio de múltiplas marcas, como Fleury Medicina e Saúde, Labs a+, Hermes Pardini e Weinmann. Em 2019, a companhia passou a ofertar serviços de consulta médica em clínicas e a domicílio, ampliando seu escopo de atuação além dos diagnósticos."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Fleury",
+      "body": "O controle acionário da Fleury S.A. é privado, conforme registro na CVM. A empresa está listada no segmento Novo Mercado da B3, o que implica o cumprimento de padrões elevados de governança corporativa, como a negociação de todas as ações na bolsa e a ausência de privilégios para acionistas controladores. O código de negociação da ação é FLRY3, que corresponde à ação ordinária (ON). Diferentemente das ações preferenciais, as ações ordinárias conferem direito a voto em assembleias gerais e não possuem prioridade no recebimento de proventos, embora participem do resultado da empresa na proporção de suas quotas."
+    },
+    {
+      "id": "proventos",
+      "heading": "FLRY3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a FLRY3 distribuiu R$ 1,2998 por ação em 2 pagamentos, o que representa um dividend yield de 6,35%. O último pagamento registrado foi de R$ 0,4007 em 12/08/2026. A remuneração aos acionistas é um dos aspectos monitorados por investidores que seguem a companhia. É possível acompanhar a história completa de dividendos e JCP da FLRY3, com datas de competência e pagamento, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da FLRY3",
+      "body": "A rentabilidade total da FLRY3, incluindo proventos, foi de 53,21% nos 12 meses até 30/10/2026. No período de 3 anos, a alta acumulada foi de 69,50%, enquanto em 5 anos o retorno foi de 50,78% e em 10 anos, de 69,05%. Esses números refletem o desempenho histórico do ativo e não indicam resultados futuros. Para comparar a evolução da FLRY3 com o Ibovespa, o CDI e outros índices, utilize a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da FLRY3",
+      "body": "A volatilidade anualizada da FLRY3 nos últimos 12 meses é de 38,38%, classificada como nível alto. A maior queda nos últimos 5 anos foi de -37,29%, ocorrida entre o pico em 22/12/2023 e o ponto mais baixo em 28/02/2025. Riscos setoriais incluem a regulação do setor de saúde, a dependência de convênios e o cenário macroeconômico. A volatilidade e a maior queda podem ser acompanhadas com [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "FLRY3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a ação distribuiu R$ 1,2998 por ação em 2 pagamentos, resultando em um dividend yield de 6,35%. O último pagamento foi de R$ 0,4007 em 12/08/2026. A data de pagamento e de competência pode ser conferida no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre FLRY3 e ações preferenciais da Fleury?",
+      "answer": "FLRY3 é a ação ordinária (ON) da Fleury, o que significa que ela confere direito a voto em assembleias gerais. Ações preferenciais, quando existem, não têm direito a voto, mas possuem prioridade no recebimento de dividendos e no retorno do capital em caso de liquidação. A Fleury está listada no Novo Mercado, segmento que exige a negociação de todas as ações na bolsa."
+    },
+    {
+      "question": "FLRY3 é ação do Novo Mercado?",
+      "answer": "Sim. A Fleury S.A. está listada no segmento Novo Mercado da B3, o que implica o cumprimento de padrões elevados de governança corporativa, como a negociação de todas as ações na bolsa e a ausência de privilégios para acionistas controladores."
+    },
+    {
+      "question": "Qual o setor da FLRY3?",
+      "answer": "A FLRY3 pertence ao setor de Saúde, no segmento de Serviços Médicos, Hospitais, Análises e Diagnósticos, conforme classificação da B3. A empresa atua na prestação de serviços médicos e medicina diagnóstica, além de consultoria e gestão de doenças crônicas."
+    },
+    {
+      "question": "Qual a volatilidade da FLRY3?",
+      "answer": "A volatilidade anualizada da FLRY3 nos últimos 12 meses é de 38,38%, classificada como nível alto. A maior queda em 5 anos foi de -37,29%, entre 22/12/2023 e 28/02/2025."
+    },
+    {
+      "question": "Quais são as principais marcas da Fleury?",
+      "answer": "As principais marcas do Grupo Fleury incluem Fleury Medicina e Saúde, Labs a+, Hermes Pardini, Weinmann e a+ Medicina Diagnóstica. O grupo também atua em prevenção, atenção primária e secundária, com marcas como Fleury Check-Up, Sommos DNA e Fleury Genômica."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da FLRY3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da FLRY3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a FLRY3 chegar ao preço que você escolheu, para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação da FLRY3 junto com suas outras ações, renda fixa e fundos em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RDOR3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de saúde, Rede D'Or São Luiz S.A."
+      },
+      {
+        "ticker": "HAPV3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de saúde, Hapvida Participações e Investimentos S.A."
+      },
+      {
+        "ticker": "SAUD3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de saúde, Bradsaúde S.A."
+      },
+      {
+        "ticker": "RADL3",
+        "list": "br-stocks",
+        "reason": "Ação do setor de saúde, Raia Drogasil S.A."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de FLRY3",
+      "url": "https://finance.yahoo.com/quote/FLRY3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: FLEURY, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/21881/FLRY/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, FLEURY SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Fleury",
+      "url": "https://www.wikidata.org/wiki/Q30263778",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Grupo Fleury",
+      "url": "https://pt.wikipedia.org/wiki/Grupo_Fleury",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 01/10/2026, “Aquisição da Unilab (Atibaia - SP) pelo Fleury”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1573464&numSequencia=1098170&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/05/2026, “Fechamento da Aquisição de Femme pelo Fleury”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1528672&numSequencia=1053378&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/04/2026, “Encerramento das Tratativas Envolvendo Potencial Operação com Porto Seguro e Oncoclínicas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504522&numSequencia=1029228&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/03/2026, “Term Sheet Não Vinculante - Oncoclínicas e Porto Seguro”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1493436&numSequencia=1018142&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/02/2026, “Aquisição de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1472296&numSequencia=997002&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/11/2025, “Aquisição do FEMME Laboratório da Mulher (São Paulo - SP)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1439434&numSequencia=964146&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/10/2025, “Aquisição do LSL (Rio Claro - SP)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1436604&numSequencia=961316&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 20/10/2025, “Fato Relevante - Notícia Veículada na Mídia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1433943&numSequencia=958655&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

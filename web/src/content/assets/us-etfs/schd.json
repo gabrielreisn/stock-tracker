@@ -1,0 +1,294 @@
+{
+  "ticker": "SCHD",
+  "slug": "schd",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SCHD: história, dividendos e volatilidade",
+    "description": "Conheça o SCHD, o ETF da Charles Schwab que replica o S&P U.S. Dividend Aristocrats. Veja rentabilidade, dividendos e volatilidade até 30/10/2026.",
+    "h1": "SCHD: Schwab U.S. Dividend Equity ETF",
+    "canonicalPath": "/etfs/schd",
+    "keywords": [
+      "SCHD",
+      "Schwab U.S. Dividend Equity ETF",
+      "ETF de dividendos",
+      "S&P U.S. Dividend Aristocrats",
+      "investir em ETFs americanos",
+      "dividend yield SCHD",
+      "volatilidade SCHD"
+    ]
+  },
+  "summary": "SCHD é o ticker do Schwab U.S. Dividend Equity ETF, lançado em 20/10/2011 pela Charles Schwab Corporation. O fundo replica o índice S&P U.S. Dividend Aristocrats, focado em empresas americanas com histórico de pagamento de dividendos. Em 30/10/2026, a cota valia US$ 35,78, com dividend yield de 2,95% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Schwab U.S. Dividend Equity ETF",
+    "ticker": "ARCX SCHD",
+    "foundingDate": "2011-10-20",
+    "provider": {
+      "name": "Charles Schwab Corporation",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Charles_Schwab_Corporation"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de ações americanas de dividendos",
+    "issuerOrManager": "Charles Schwab Corporation",
+    "trackedIndex": "S&P U.S",
+    "name": "Schwab U.S. Dividend Equity ETF",
+    "founded": "20/10/2011"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Schwab U.S. Dividend Equity ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "20/10/2011",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 35,78",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "11,38% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,19",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,95%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 791,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SCHD",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Schwab U.S. Dividend Equity ETF",
+    "currency": "USD",
+    "price": 35.78,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.3881,
+      "3y": 0.7692,
+      "5y": 0.6518,
+      "10y": 2.6082
+    },
+    "volatility1y": 0.1138,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1684,
+      "from": "2022-01-11",
+      "to": "2022-09-30"
+    },
+    "beta1y": {
+      "value": 0.19,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.055,
+      "payments12Months": 4,
+      "yield12Months": 0.0295,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.267
+      }
+    },
+    "avgDailyTradedValue3m": 791489965
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do SCHD nos últimos 12 meses, até 30/10/2026, é de 11,38%, o que é considerado um nível baixo para um ETF de ações. O beta do ativo contra o S&P 500 é de 0,19, o que significa que, em média, o SCHD tende a ter movimentos de preço menores que os do índice, na mesma direção. A maior queda em 5 anos foi de -16,84%, entre 11/01/2022 e 30/09/2022. Esses números sugerem que o fundo é menos sensível às oscilações do mercado do que o S&P 500, o que pode ser um fator relevante para investidores que buscam menor volatilidade. É possível acompanhar a variação do preço e configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar o ativo."
+  },
+  "history": {
+    "overview": "O Schwab U.S. Dividend Equity ETF (SCHD) iniciou sua negociação em 20 de outubro de 2011. A emissora do fundo é a Charles Schwab Corporation, uma das maiores instituições de serviços financeiros dos Estados Unidos, que oferece serviços de investimento, gestão de patrimônio e consultoria para clientes varejistas e institucionais. A empresa, fundada em 1971 como First Commander Corporation e renomeada em 1973, foi pioneira na oferta de corretagem de ações com comissões reduzidas, aproveitando a desregulamentação do setor nos anos 1970. Em 1983, a Charles Schwab foi adquirida pelo Bank of America por US$ 55 milhões, mas foi comprada de volta pela sua própria gestão em 1987 por US$ 280 milhões, o que permitiu o lançamento de fundos mútuos sem taxa de carregamento em 1984. A criação do SCHD reflete a estratégia da gestora de oferecer produtos de investimento acessíveis e focados em estratégias específicas, como a de dividendos, para uma base de milhões de contas ativas.",
+    "timeline": [
+      {
+        "date": "1971",
+        "event": "Fundação da First Commander Corporation, precursora da Charles Schwab Corporation.",
+        "source": 1
+      },
+      {
+        "date": "1973",
+        "event": "A empresa muda o nome para Charles Schwab & Co., Inc.",
+        "source": 1
+      },
+      {
+        "date": "1983",
+        "event": "O Bank of America adquire a Charles Schwab por US$ 55 milhões.",
+        "source": 1
+      },
+      {
+        "date": "1987",
+        "event": "A gestão da Charles Schwab compra a empresa de volta do Bank of America por US$ 280 milhões.",
+        "source": 1
+      },
+      {
+        "date": "2011-10-20",
+        "event": "Primeiro pregão das cotas do ETF SCHD na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SCHD funciona",
+      "body": "O SCHD é um Exchange-Traded Fund (ETF) que replica o índice S&P U.S. Dividend Aristocrats. A emissora do fundo é a Charles Schwab Corporation, uma empresa de serviços financeiros sediada em Westlake, Texas, que atua no mercado de investimentos e gestão de patrimônio. O ETF foi lançado em 20/10/2011 e permite que os investidores tenham exposição a uma cesta de ações de empresas americanas com histórico consistente de pagamento de dividendos. Diferente de fundos mútuos tradicionais, as cotas do SCHD são negociadas ao longo do dia em bolsa, com preço que varia conforme a oferta e a demanda, assim como as ações."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SCHD",
+      "body": "O SCHD segue o índice S&P U.S. Dividend Aristocrats, que é composto por empresas que fazem parte do S&P 500 e que possuem um histórico de pelo menos 25 anos de aumento ou manutenção de dividendos. As fontes disponíveis não detalham a composição exata das empresas que integram o índice no momento, mas o foco do fundo é em companhias com políticas de dividendos estáveis e crescentes. O índice é mantido pela S&P Dow Jones Indices, que também gerencia outros índices amplamente utilizados nos mercados financeiros."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SCHD a partir do Brasil",
+      "body": "Para investir no SCHD a partir do Brasil, o investidor pode abrir uma conta em uma corretora de valores no exterior, que permite a negociação de ativos listados nos Estados Unidos. Outra opção é buscar ETFs ou BDRs negociados na B3 que sigam o mesmo índice ou tenham exposição semelhante a ações americanas de dividendos. O principal risco cambial associado a esse investimento é a variação do câmbio entre o dólar e o real, que pode impactar o retorno em reais, independentemente do desempenho do ativo em dólar. É possível acompanhar a variação cambial e o desempenho do ativo utilizando a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SCHD",
+      "body": "Até 30/10/2026, o SCHD apresentou uma rentabilidade total com proventos de 38,81% nos últimos 12 meses, 76,92% em 3 anos, 65,18% em 5 anos e 260,82% em 10 anos. O fundo distribuiu US$ 1,0550 por cota em 4 pagamentos nos 12 meses até essa data, resultando em um dividend yield de 2,95%. O último pagamento foi de US$ 0,2670 em 23/09/2026. Para comparar esses resultados com o desempenho do S&P 500, é possível utilizar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que exibe a rentabilidade lado a lado."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SCHD",
+      "body": "O SCHD está sujeito aos riscos de mercado, incluindo a volatilidade das ações que compõem o índice e o risco cambial para investidores brasileiros. A volatilidade anualizada do fundo nos últimos 12 meses foi de 11,38%, classificada como baixa. O beta do ativo contra o S&P 500 é de 0,19, indicando que, historicamente, o SCHD tem movimentos menores que os do índice de referência. A maior queda nos últimos 5 anos foi de -16,84%, ocorrendo entre o pico em 11/01/2022 e o ponto mais baixo em 30/09/2022. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações significativas no valor da cota."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar SCHD no app",
+      "body": "Para quem tem SCHD na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Acompanhe a rentabilidade do SCHD lado a lado com o S&P 500 e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações para quando a cota do SCHD atingir um preço que você escolheu.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja a alocação do SCHD junto com outros ativos da sua carteira, como ações da B3 e renda fixa.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade e o preço médio do SCHD na sua carteira, com gráfico de variação ao longo do tempo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SCHD paga dividendos?",
+      "answer": "Sim, o SCHD distribui dividendos. Nos 12 meses até 30/10/2026, o fundo pagou US$ 1,0550 por cota em 4 pagamentos, com um dividend yield de 2,95%. O último pagamento foi de US$ 0,2670 em 23/09/2026. É possível acompanhar os proventos e a data de pagamento no app."
+    },
+    {
+      "question": "Qual o índice que o SCHD replica?",
+      "answer": "O SCHD replica o índice S&P U.S. Dividend Aristocrats, que é composto por empresas do S&P 500 com histórico de pelo menos 25 anos de aumento ou manutenção de dividendos. O índice é mantido pela S&P Dow Jones Indices."
+    },
+    {
+      "question": "Qual a volatilidade do SCHD?",
+      "answer": "A volatilidade anualizada do SCHD nos últimos 12 meses, até 30/10/2026, é de 11,38%, classificada como baixa. O beta do ativo contra o S&P 500 é de 0,19, indicando movimentos menores que os do índice. A maior queda em 5 anos foi de -16,84%, entre 11/01/2022 e 30/09/2022."
+    },
+    {
+      "question": "Como investir no SCHD do Brasil?",
+      "answer": "Para investir no SCHD a partir do Brasil, é possível abrir uma conta em uma corretora no exterior ou buscar ETFs ou BDRs na B3 que sigam o mesmo índice. O principal risco cambial é a variação do câmbio entre o dólar e o real, que pode impactar o retorno em reais. É possível acompanhar a variação cambial e o desempenho do ativo utilizando a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "question": "Qual a rentabilidade do SCHD nos últimos 12 meses?",
+      "answer": "Até 30/10/2026, o SCHD apresentou uma rentabilidade total com proventos de 38,81% nos últimos 12 meses. O fundo distribuiu US$ 1,0550 por cota em 4 pagamentos, com um dividend yield de 2,95%."
+    },
+    {
+      "question": "Quem é a gestora do SCHD?",
+      "answer": "A gestora do SCHD é a Charles Schwab Corporation, uma das maiores instituições de serviços financeiros dos Estados Unidos, que oferece serviços de investimento, gestão de patrimônio e consultoria para clientes varejistas e institucionais. A empresa foi fundada em 1971 e é sediada em Westlake, Texas."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Acompanhe a rentabilidade do SCHD lado a lado com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando a cota do SCHD atingir um preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do SCHD junto com outros ativos da sua carteira, como ações da B3 e renda fixa."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio do SCHD na sua carteira, com gráfico de variação ao longo do tempo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, o índice de referência do beta do SCHD."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF que replica o S&P 500, com baixa taxa de administração."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF que também replica o S&P 500, oferecendo exposição ao mesmo índice de referência."
+      },
+      {
+        "ticker": "VTV",
+        "list": "us-etfs",
+        "reason": "ETF de ações de valor, que pode ter sobreposição com empresas de dividendos do SCHD."
+      },
+      {
+        "ticker": "XLF",
+        "list": "us-etfs",
+        "reason": "ETF do setor financeiro, que costuma ter empresas pagadoras de dividendos, similar ao foco do SCHD."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SCHD",
+      "url": "https://finance.yahoo.com/quote/SCHD/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Charles Schwab Corporation (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Charles_Schwab_Corporation",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Dividend (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Dividend",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P Dow Jones Indices (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_Dow_Jones_Indices",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

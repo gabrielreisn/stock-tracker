@@ -1,0 +1,293 @@
+{
+  "ticker": "QQQM",
+  "slug": "qqqm",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "QQQM: Invesco NASDAQ 100 ETF, histórico e desempenho",
+    "description": "Conheça o QQQM, ETF que replica o Nasdaq-100. Veja rentabilidade, volatilidade, dividendos e como investir a partir do Brasil. Dados até 30/10/2026.",
+    "h1": "QQQM: Invesco NASDAQ 100 ETF",
+    "canonicalPath": "/etfs/qqqm",
+    "keywords": [
+      "QQQM",
+      "Invesco NASDAQ 100 ETF",
+      "ETF Nasdaq 100",
+      "QQQM dividendos",
+      "QQQM volatilidade",
+      "como investir em QQQM do Brasil"
+    ]
+  },
+  "summary": "QQQM é o Invesco NASDAQ 100 ETF, um fundo de índice que replica o desempenho do Nasdaq-100, composto pelas 100 maiores empresas não financeiras da Nasdaq. Lançado em 13/10/2020, o ativo teve rentabilidade total de 10,87% nos 12 meses até 30/10/2026, com cotação de US$ 284,34 na mesma data.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Invesco NASDAQ 100 ETF",
+    "ticker": "XNAS QQQM",
+    "foundingDate": "2020-10-13",
+    "provider": {
+      "name": "Invesco",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Invesco"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "Invesco",
+    "trackedIndex": "Nasdaq-100",
+    "name": "Invesco NASDAQ 100 ETF",
+    "founded": "13/10/2020"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Invesco NASDAQ 100 ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "13/10/2020",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 284,34",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "20,15% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,45",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,46%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 876,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "QQQM",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Invesco NASDAQ 100 ETF",
+    "currency": "USD",
+    "price": 284.34,
+    "historyStarts": "2020-10-13",
+    "returns": {
+      "1y": 0.1087,
+      "3y": 1.015,
+      "5y": 0.8431,
+      "10y": null
+    },
+    "volatility1y": 0.2015,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.3504,
+      "from": "2021-11-19",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": 1.45,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.316,
+      "payments12Months": 4,
+      "yield12Months": 0.0046,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.313
+      }
+    },
+    "avgDailyTradedValue3m": 876063722
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do QQQM é de 20,15% nos 12 meses até 30/10/2026, nível considerado moderado. O beta de 1,45 contra o S&P 500 mostra que o ativo tende a acompanhar os movimentos do índice com maior intensidade. A maior queda em 5 anos foi de -35,04%, entre 19/11/2021 e 03/11/2022. Para monitorar movimentos de preço, use os [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "O Invesco NASDAQ 100 ETF (QQQM) foi lançado em 13 de outubro de 2020, oferecendo exposição ao índice Nasdaq-100 por meio de uma estrutura de ETF. A gestora do fundo é a Invesco, empresa de gestão de investimentos com sede em Atlanta, nos Estados Unidos, que administra mais de US$ 2,2 trilhões em ativos até dezembro de 2025. A Invesco é conhecida por outros produtos de índice, como o Invesco [QQQ](/etfs/qqq), lançado em 1999, que é o ETF mais negociado que replica o Nasdaq-100, com cerca de US$ 500 bilhões em ativos em julho de 2026. O QQQM foi criado para oferecer uma alternativa com características específicas, como a estrutura de ETF aberta, diferentemente da estrutura de UIT (unit investment trust) do QQQ, que foi convertida para ETF em dezembro de 2025. O índice Nasdaq-100, que o QQQM replica, foi lançado em 31 de janeiro de 1985 e é composto por empresas de tecnologia, saúde, varejo e outros setores, excluindo o setor financeiro. A composição do índice é revisada anualmente, com ajustes para manter a diversificação e a aderência às regras de mercado.",
+    "timeline": [
+      {
+        "date": "1985-01-31",
+        "event": "Lançamento do índice Nasdaq-100 pela Nasdaq.",
+        "source": 1
+      },
+      {
+        "date": "1999-03-10",
+        "event": "Lançamento do Invesco QQQ, o primeiro ETF a replicar o Nasdaq-100.",
+        "source": 3
+      },
+      {
+        "date": "2020-10-13",
+        "event": "Primeiro pregão das cotas do Invesco NASDAQ 100 ETF (QQQM).",
+        "source": 0
+      },
+      {
+        "date": "2023-07",
+        "event": "Terceiro rebalanceamento especial do Nasdaq-100 devido ao aumento da concentração no índice.",
+        "source": 1
+      },
+      {
+        "date": "2025-12",
+        "event": "O Invesco QQQ mudou sua estrutura de UIT para ETF aberto, reduzindo a taxa de administração de 0,20% para 0,18%.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o QQQM funciona",
+      "body": "O QQQM é um ETF que replica o desempenho do índice Nasdaq-100, composto pelas 100 maiores empresas não financeiras listadas na Nasdaq. A gestora do fundo é a Invesco, que lançou o QQQM em 13 de outubro de 2020. Diferente de ETFs alavancados ou inversos, o QQQM não usa alavancagem, portanto não sofre com o efeito de rebalanceamento diário que distorce o resultado em períodos longos. O fundo busca acompanhar o índice de forma passiva, distribuindo proventos aos cotistas."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do QQQM",
+      "body": "O QQQM replica o índice Nasdaq-100, que é ponderado por capitalização de mercado ajustada pela flutuação pública (public float), com um limite máximo de 24% para a maior empresa. O índice inclui empresas de setores como tecnologia, saúde, varejo, telecomunicações e biotecnologia, mas exclui o setor financeiro. A composição é revisada anualmente, após o fechamento do terceiro dia útil de dezembro, e a flutuação pública é atualizada trimestralmente. Empresas estrangeiras podem fazer parte do índice desde janeiro de 1998."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no QQQM a partir do Brasil",
+      "body": "Para investir no QQQM a partir do Brasil, é necessário ter uma conta em uma corretora que ofereça acesso ao mercado americano, ou utilizar ETFs ou BDRs negociados na B3 que sigam o mesmo índice. O ativo é cotado em dólares, o que introduz risco cambial: variações no câmbio entre o real e o dólar afetam o retorno em reais do investidor. O volume médio negociado por dia do QQQM é de US$ 876,1 milhões nos últimos 3 meses até 30/10/2026, o que indica boa liquidez."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do QQQM",
+      "body": "A rentabilidade total do QQQM, incluindo proventos, foi de 10,87% nos 12 meses até 30/10/2026, 101,50% em 3 anos e 84,31% em 5 anos. A cotação em 30/10/2026 era de US$ 284,34. O fundo distribuiu US$ 1,3160 por cota em 4 pagamentos nos 12 meses até 30/10/2026, com dividend yield de 0,46%. O último pagamento foi de US$ 0,3130 em 21/09/2026. Para comparar o desempenho com o S&P 500, veja a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do QQQM",
+      "body": "O QQQM tem volatilidade anualizada de 20,15% nos 12 meses até 30/10/2026, classificada como moderada. O beta de 1,45 contra o S&P 500 indica que o ativo tende a ter movimentos maiores que o índice de referência. A maior queda nos últimos 5 anos foi de -35,04%, do pico em 19/11/2021 ao ponto mais baixo em 03/11/2022. Riscos incluem a concentração em empresas de tecnologia, a volatilidade do mercado americano e o risco cambial para investidores brasileiros."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é QQQM?",
+      "answer": "QQQM é o Invesco NASDAQ 100 ETF, um fundo que replica o índice Nasdaq-100. Ele foi lançado em 13/10/2020 e tem cotação de US$ 284,34 em 30/10/2026."
+    },
+    {
+      "question": "QQQM paga dividendos?",
+      "answer": "Sim, o QQQM distribui proventos. Nos 12 meses até 30/10/2026, pagou US$ 1,3160 por cota em 4 pagamentos, com dividend yield de 0,46%. O último pagamento foi de US$ 0,3130 em 21/09/2026. Veja os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para acompanhar."
+    },
+    {
+      "question": "Qual a diferença entre QQQM e QQQ?",
+      "answer": "QQQM e QQQ são ETFs da Invesco que replicam o Nasdaq-100. O QQQ foi lançado em 1999 e, em dezembro de 2025, mudou de estrutura UIT para ETF, reduzindo a taxa de 0,20% para 0,18%. O QQQM foi lançado em 2020 e já nasceu com estrutura de ETF aberto. Ambos seguem o mesmo índice, mas têm características operacionais diferentes."
+    },
+    {
+      "question": "Como investir em QQQM do Brasil?",
+      "answer": "É possível investir no QQQM com uma conta em corretora que ofereça acesso ao mercado americano, ou por meio de BDRs ou ETFs na B3 que sigam o Nasdaq-100. O ativo é cotado em dólar, o que traz risco cambial. Use o [Open Finance](/recursos/open-finance) para sincronizar posições."
+    },
+    {
+      "question": "QQQM é alavancado?",
+      "answer": "Não, o QQQM não é alavancado. Ele replica o Nasdaq-100 sem alavancagem, portanto não sofre com o efeito de rebalanceamento diário que distorce resultados em períodos longos."
+    },
+    {
+      "question": "Qual a volatilidade do QQQM?",
+      "answer": "A volatilidade anualizada do QQQM é de 20,15% nos 12 meses até 30/10/2026, nível moderado. O beta contra o S&P 500 é 1,45. A maior queda em 5 anos foi de -35,04%, entre 19/11/2021 e 03/11/2022. Acompanhe com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do QQQM com data de pagamento e valor por cota, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do QQQM com o S&P 500 no mesmo gráfico, ao longo do tempo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o QQQM chegar ao preço que você escolheu, para acompanhar movimentos de volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o QQQM junto com outros ativos, com alocação por classe e valor de cada posição."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora e confira a quantidade de QQQM que você tem, com preço médio e o que falta importar."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "Outro ETF da Invesco que replica o Nasdaq-100, com maior liquidez e histórico mais longo."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, índice de referência para comparação de desempenho."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard que também segue o S&P 500, alternativa para diversificação."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF do setor de tecnologia, que tem forte correlação com o Nasdaq-100."
+      },
+      {
+        "ticker": "TQQQ",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 3x do Nasdaq-100, para quem busca maior exposição ao índice."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de QQQM",
+      "url": "https://finance.yahoo.com/quote/QQQM/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nasdaq-100 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Nasdaq-100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Invesco (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Invesco",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Invesco QQQ (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Invesco_QQQ",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

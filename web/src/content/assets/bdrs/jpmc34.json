@@ -1,0 +1,294 @@
+{
+  "ticker": "JPMC34",
+  "slug": "jpmc34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "JPMC34: BDR da JPMorgan Chase, dividendos e volatilidade",
+    "description": "JPMC34 é o BDR da JPMorgan Chase na B3. Veja preço, dividendos, rentabilidade de 14,88% em 12 meses, volatilidade de 25,16% e riscos do BDR nível I.",
+    "h1": "JPMC34: BDR da JPMorgan Chase & Co.",
+    "canonicalPath": "/bdrs/jpmc34",
+    "keywords": [
+      "JPMC34",
+      "BDR JPMorgan Chase",
+      "JPMorgan Chase B3",
+      "dividendos JPMC34",
+      "volatilidade JPMC34",
+      "BDR nível I",
+      "JPM BDR",
+      "JPMorgan Chase dividendos"
+    ]
+  },
+  "summary": "JPMC34 é o BDR nível I da JPMorgan Chase & Co., o maior banco dos Estados Unidos por capitalização de mercado em 2026. Negociado na B3 desde 04/01/2012, o recibo representa ações da empresa na Bolsa de Valores de Nova Iorque (JPM). Com preço de R$ 184,41 em 29/10/2026, o ativo rendeu 14,88% nos últimos 12 meses, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "JPMorgan Chase",
+    "legalName": "JPMORGAN CHASE & CO.",
+    "ticker": "BVMF JPMC34",
+    "foundingDate": "1968",
+    "website": "https://www.jpmorganchase.com/",
+    "wikidata": "Q192314",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q192314",
+      "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "https://pt.wikipedia.org/wiki/JPMorgan_Chase",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50571/JPMC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "JPMorgan Chase",
+    "legalName": "JPMORGAN CHASE & CO.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1968",
+    "listedSince": "04/01/2012",
+    "headquarters": "Nova Iorque",
+    "website": "https://www.jpmorganchase.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "JPMORGAN CHASE & CO.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: JPM",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Nova Iorque",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1968",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "04/01/2012",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 184,41",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "25,16% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,19%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 6,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "JPMC34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "JPMorgan Chase & Co.",
+    "currency": "BRL",
+    "price": 184.41,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1488,
+      "3y": 1.7873,
+      "5y": 1.1217,
+      "10y": 9.6108
+    },
+    "volatility1y": 0.2516,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4259,
+      "from": "2021-11-01",
+      "to": "2022-10-11"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.1963,
+      "payments12Months": 4,
+      "yield12Months": 0.0119,
+      "lastPayment": {
+        "date": "2026-10-05",
+        "amount": 0.59471
+      }
+    },
+    "avgDailyTradedValue3m": 6111926
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do JPMC34 foi de 25,16% nos 12 meses até 29/10/2026, um nível considerado alto. A maior queda em 5 anos foi de -42,59%, ocorrida entre o pico em 01/11/2021 e o ponto mais baixo em 11/10/2022. O beta do ativo não está disponível no dossiê. A [comparação com índices](/recursos/comparacao-com-indices) permite visualizar como a volatilidade do JPMC34 se comporta em relação ao S&P 500, e os [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar movimentos bruscos sem precisar acompanhar o gráfico o dia todo."
+  },
+  "history": {
+    "overview": "A JPMorgan Chase & Co. é o resultado de uma série de fusões entre grandes instituições financeiras norte-americanas iniciadas em 1996. A empresa combina o histórico do Chase Manhattan Bank, do J.P. Morgan & Co. e do Chemical Bank, além de ativos de instituições como Bear Stearns, Washington Mutual e First Republic. A origem mais remota remonta a 1799, com a fundação do Bank of the Manhattan Company por Aaron Burr, que transformou uma empresa de fornecimento de água em um banco. Em 2000, a fusão entre o Chase Manhattan e o J.P. Morgan & Co. criou a JPMorgan Chase, consolidando a instituição como a maior do setor nos Estados Unidos e, em 2026, a maior do mundo por capitalização de mercado. A empresa opera o maior banco de investimento do mundo em receita e mantém sua sede na 270 Park Avenue, em Nova Iorque, local que pertencia ao Chemical Bank, entidade que deu origem ao nome atual do grupo.",
+    "timeline": [
+      {
+        "date": "1968",
+        "event": "Fundação da JPMorgan Chase & Co.",
+        "source": 2
+      },
+      {
+        "date": "2012-01-04",
+        "event": "Listagem do BDR JPMC34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2026",
+        "event": "JPMorgan Chase ocupa a primeira posição no ranking Forbes Global 2000 pelo quarto ano consecutivo",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a JPMorgan Chase ganha dinheiro",
+      "body": "A JPMorgan Chase & Co. atua como uma instituição bancária multinacional, oferecendo serviços de banco de investimento, consultoria empresarial, fusões e aquisições, além de vendas e negociação de valores mobiliários e ofertas públicas. A empresa opera o maior banco de investimento do mundo em receita e possui uma das maiores franquias de banco privado e gestão de ativos do mundo em termos de ativos totais. Os serviços de banco de varejo e cartões de crédito são oferecidos sob a marca Chase. Em 2026, a instituição ocupava a quinta posição mundial em ativos totais, com cerca de US$ 4,425 trilhões, e a 11ª posição na lista Fortune 500 das maiores empresas norte-americanas por receita."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR JPMC34",
+      "body": "O JPMC34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da JPMorgan Chase & Co. na Bolsa de Valores de Nova Iorque, sob o ticker JPM. O programa é não patrocinado, o que significa que a empresa não participa ativamente da emissão ou manutenção do recibo. O BDR foi listado na B3 em 04/01/2012. O preço do JPMC34 acompanha a variação da ação original nos Estados Unidos e a taxa de câmbio entre o dólar e o real, refletindo ambos os fatores no valor em reais."
+    },
+    {
+      "id": "proventos",
+      "heading": "JPMC34 paga dividendos?",
+      "body": "Sim, o JPMC34 distribui proventos. Nos 12 meses até 29/10/2026, foram pagos R$ 2,1963 por BDR em 4 pagamentos, resultando em um dividend yield de 1,19%. O último pagamento registrado foi de R$ 0,5947 em 05/10/2026. Como a JPMorgan Chase é uma empresa norte-americana, os dividendos são pagos em dólares, e o valor recebido pelo investidor em reais depende da cotação do câmbio na data do pagamento. É possível acompanhar o histórico de dividendos e a data de pagamento de JPMC34 na seção de proventos do app."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do JPMC34",
+      "body": "Até 29/10/2026, o JPMC34 apresentou rentabilidade total com proventos de 14,88% em 12 meses, 178,73% em 3 anos, 112,17% em 5 anos e 961,08% em 10 anos. Esses números estão em reais e incluem a variação do câmbio entre o dólar e o real, além dos dividendos recebidos. Para entender como esse desempenho se compara a outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que coloca a rentabilidade do BDR lado a lado com o S&P 500, o CDI e o Ibovespa no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do JPMC34",
+      "body": "O JPMC34 está exposto a riscos específicos da JPMorgan Chase, que, por ser uma instituição sistemicamente relevante, enfrenta supervisão regulatória intensa e críticas por sua gestão de risco e atividades de financiamento. Há também o risco cambial, já que o BDR é cotado em reais, mas lastreado em uma ação em dólar: uma desvalorização do real em relação ao dólar pode reduzir o retorno em reais, mesmo que a ação suba em dólar. A volatilidade anualizada do BDR foi de 25,16% nos 12 meses até 29/10/2026, classificada como alta. A maior queda em 5 anos foi de -42,59%, do pico em 01/11/2021 ao ponto mais baixo em 11/10/2022. O volume médio negociado por dia nos últimos 3 meses foi de R$ 6,1 milhões, o que indica liquidez moderada na B3. Investidores podem configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos significativos do ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "JPMC34 paga dividendos?",
+      "answer": "Sim, o JPMC34 distribui proventos. Nos 12 meses até 29/10/2026, foram pagos R$ 2,1963 por BDR em 4 pagamentos, com dividend yield de 1,19%. O último pagamento foi de R$ 0,5947 em 05/10/2026. Os valores são pagos em reais, mas refletem os dividendos em dólar da JPMorgan Chase convertidos na cotação do câmbio na data do pagamento."
+    },
+    {
+      "question": "O que é JPMC34?",
+      "answer": "JPMC34 é um BDR não patrocinado de nível I da JPMorgan Chase & Co., o maior banco dos Estados Unidos. O recibo é negociado na B3 em reais e representa ações da empresa na Bolsa de Valores de Nova Iorque (ticker JPM). O BDR foi listado na B3 em 04/01/2012."
+    },
+    {
+      "question": "JPMC34 é BDR patrocinado ou não patrocinado?",
+      "answer": "JPMC34 é um BDR não patrocinado de nível I. Isso significa que a JPMorgan Chase não participa ativamente da emissão ou manutenção do recibo na B3. O programa é administrado por uma instituição depositária, e o investidor tem acesso limitado a informações da empresa em comparação com BDRs patrocinados."
+    },
+    {
+      "question": "Qual a diferença entre JPMC34 e a ação JPM nos Estados Unidos?",
+      "answer": "JPMC34 é o recibo negociado na B3 em reais, enquanto JPM é a ação original negociada na Bolsa de Valores de Nova Iorque em dólares. O preço do JPMC34 reflete o valor da ação JPM convertido em reais pela cotação do câmbio. Investir em JPMC34 expõe o investidor tanto à variação da ação quanto à variação do dólar em relação ao real."
+    },
+    {
+      "question": "Quem é o CEO da JPMorgan Chase?",
+      "answer": "O CEO da JPMorgan Chase & Co. é Jamie Dimon, conforme registrado no Wikidata. A empresa tem sede em Nova Iorque e foi fundada em 1968, com origem remota em 1799."
+    },
+    {
+      "question": "JPMC34 é líquido na B3?",
+      "answer": "O volume médio negociado por dia do JPMC34 nos últimos 3 meses até 29/10/2026 foi de R$ 6,1 milhões. Esse volume indica liquidez moderada, o que pode resultar em spreads maiores entre compra e venda em comparação com BDRs de maior volume. Investidores que compram o ativo por meio de corretoras podem usar o [Open Finance](/recursos/open-finance) para sincronizar as posições com a carteira no app."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do JPMC34 lado a lado com o S&P 500, o CDI e o Ibovespa no mesmo gráfico, para entender como o BDR se comporta em relação a outros investimentos."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação para quando o JPMC34 chegar a um preço que você escolheu, útil para monitorar a volatilidade de 25,16% do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o JPMC34 junto com outras ações, BDRs e fundos em uma só visão, com alocação por classe e as maiores posições da sua carteira."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do JPMC34 e o preço médio da sua posição, com a variação do dia e do ano, no gráfico de desempenho do app."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BOAC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de banco norte-americano, o Bank of America, para comparação no setor financeiro."
+      },
+      {
+        "ticker": "CTGP34",
+        "list": "bdrs",
+        "reason": "BDR da Citigroup, outro grande banco dos Estados Unidos, para análise de pares no setor bancário."
+      },
+      {
+        "ticker": "WFCO34",
+        "list": "bdrs",
+        "reason": "BDR da Wells Fargo, mais um BDR de banco norte-americano para diversificação no setor."
+      },
+      {
+        "ticker": "GSGI34",
+        "list": "bdrs",
+        "reason": "BDR da Goldman Sachs, para comparação com outras instituições de banco de investimento nos Estados Unidos."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar o desempenho do JPMC34 com o mercado americano como um todo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de JPMC34",
+      "url": "https://finance.yahoo.com/quote/JPMC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: JPMORGAN, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50571/JPMC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: JPMorgan Chase",
+      "url": "https://www.wikidata.org/wiki/Q192314",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): JPMorgan Chase",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): JPMorgan Chase",
+      "url": "https://pt.wikipedia.org/wiki/JPMorgan_Chase",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

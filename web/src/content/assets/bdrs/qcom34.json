@@ -1,0 +1,298 @@
+{
+  "ticker": "QCOM34",
+  "slug": "qcom34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "QCOM34: BDR da Qualcomm, dividendos e volatilidade",
+    "description": "Conheça o QCOM34, BDR da Qualcomm Inc. na B3. Veja dividendos, rentabilidade, riscos e como o ativo acompanha a ação QCOM na NASDAQ e o câmbio.",
+    "h1": "QCOM34: BDR da Qualcomm Inc.",
+    "canonicalPath": "/bdrs/qcom34",
+    "keywords": [
+      "QCOM34",
+      "Qualcomm BDR",
+      "BDR não patrocinado",
+      "dividendos QCOM34",
+      "volatilidade QCOM34",
+      "QCOM NASDAQ"
+    ]
+  },
+  "summary": "QCOM34 é o BDR não patrocinado de nível I da Qualcomm Inc., empresa de semicondutores e tecnologias de comunicação com sede em San Diego. Negociado na B3 desde 31/10/2011, o ativo acompanha a ação original QCOM na NASDAQ e a variação do câmbio. Em 29/10/2026, o preço era de R$ 82,92, com rentabilidade total de 3,63% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Qualcomm",
+    "legalName": "QUALCOMM INC.",
+    "ticker": "BVMF QCOM34",
+    "foundingDate": "1985-07",
+    "website": "https://www.qualcomm.com/",
+    "wikidata": "Q544847",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q544847",
+      "https://en.wikipedia.org/wiki/Qualcomm",
+      "https://pt.wikipedia.org/wiki/Qualcomm",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50415/QCOM/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Qualcomm",
+    "legalName": "QUALCOMM INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "07/1985",
+    "listedSince": "31/10/2011",
+    "headquarters": "San Diego",
+    "website": "https://www.qualcomm.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "QUALCOMM INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: QCOM",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "San Diego",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "07/1985",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "31/10/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 82,92",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "55,53% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original QCOM em dólares)",
+      "value": "2,11",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,34%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "QCOM34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "QUALCOMM Incorporated",
+    "currency": "BRL",
+    "price": 82.92,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0363,
+      "3y": 0.9149,
+      "5y": 0.4454,
+      "10y": 4.8266
+    },
+    "volatility1y": 0.5553,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5117,
+      "from": "2021-12-15",
+      "to": "2023-05-12"
+    },
+    "beta1y": {
+      "value": 2.11,
+      "against": "S&P 500, ação original QCOM em dólares"
+    },
+    "dividends": {
+      "last12Months": 1.1146,
+      "payments12Months": 4,
+      "yield12Months": 0.0134,
+      "lastPayment": {
+        "date": "2026-09-02",
+        "amount": 0.278986
+      }
+    },
+    "avgDailyTradedValue3m": 2080398
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do QCOM34 nos últimos 12 meses é de 55,53%, classificada como muito alta. O beta da ação original QCOM contra o S&P 500 é de 2,11, o que significa que os movimentos da ação tendem a ser mais amplos que os do índice. A maior queda em 5 anos foi de -51,17%, entre 15/12/2021 e 12/05/2023. Para acompanhar esses movimentos, o app oferece [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge um valor definido."
+  },
+  "history": {
+    "overview": "A Qualcomm Inc. foi fundada em 07/1985 por Irwin Jacobs e Andrew Viterbi, entre outros, como um centro de pesquisa para projetos governamentais. A empresa financiou o desenvolvimento da tecnologia CDMA com a receita do sistema de comunicação por satélite Omnitracs. Após a adoção do CDMA como padrão 2G na América do Norte, a Qualcomm passou por disputas de patentes e, em 1998, reestruturou-se para focar em chipsets e licenças, abandonando a fabricação de estações-base. Essa mudança elevou drasticamente a margem de lucro e a valorização das ações no mercado americano.",
+    "timeline": [
+      {
+        "date": "1985-07",
+        "event": "Fundação da Qualcomm por Irwin Jacobs e outros seis sócios.",
+        "source": 2
+      },
+      {
+        "date": "2011-10-31",
+        "event": "Listagem do BDR QCOM34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2016-10",
+        "event": "Anúncio da intenção de aquisição da NXP Semiconductors por US$ 47 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2018-07",
+        "event": "Abandono da aquisição da NXP devido à guerra comercial entre China e Estados Unidos.",
+        "source": 3
+      },
+      {
+        "date": "2021-01",
+        "event": "Cristiano Amon assume a presidência e CEO da Qualcomm.",
+        "source": 3
+      },
+      {
+        "date": "2021-03",
+        "event": "Conclusão da aquisição da Nuvia, startup de processadores de servidor, por cerca de US$ 1,4 bilhão.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Qualcomm ganha dinheiro",
+      "body": "A Qualcomm desenvolve e projeta tecnologias para comunicações globais e computação, incluindo redes móveis de nova geração, dispositivos inteligentes e semicondutores. A empresa detém patentes essenciais para padrões de comunicação móvel, como 5G, 4G, CDMA2000, TD-SCDMA e WCDMA. Seu modelo de negócio opera em grande parte como fabless, sem fábrica própria, e sua linha de processadores Snapdragon é amplamente utilizada em smartphones e outros dispositivos inteligentes por diversos fabricantes. Nos últimos anos, a empresa expandiu suas atividades para inteligência artificial incorporada, aplicações automotivas, Internet das Coisas (IoT), realidade aumentada e virtual, além da linha Dragonwing para soluções industriais e empresariais."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR QCOM34",
+      "body": "O QCOM34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele funciona como um recibo lastreado em ações da Qualcomm Inc. (QCOM), que é listada na NASDAQ nos Estados Unidos. O preço do BDR acompanha a variação da ação original em dólares e a taxa de câmbio entre o dólar e o real. O ativo está listado na B3 desde 31/10/2011."
+    },
+    {
+      "id": "proventos",
+      "heading": "QCOM34 paga dividendos?",
+      "body": "A Qualcomm paga dividendos, que chegam aos investidores do BDR em reais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 1,1146 por BDR em 4 pagamentos, resultando em um dividend yield de 1,34%. O último pagamento registrado foi de R$ 0,2790 em 02/09/2026. Como a empresa é americana, os proventos são pagos em dólares e convertidos para reais no momento da distribuição."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do QCOM34",
+      "body": "Em 29/10/2026, o QCOM34 estava cotado a R$ 82,92. A rentabilidade total com proventos foi de 3,63% nos últimos 12 meses, 91,49% em 3 anos, 44,54% em 5 anos e 482,66% em 10 anos. Esses números incluem a variação do câmbio, já que o BDR é cotado em reais, mas a ação original é em dólares. Para avaliar o desempenho em relação a outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que permite medir a rentabilidade lado a lado com o S&P 500, CDI e outros referências."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do QCOM34",
+      "body": "Os riscos do QCOM34 incluem a volatilidade da ação original, que tem beta de 2,11 contra o S&P 500, indicando movimentos amplificados em relação ao índice. A maior queda em 5 anos foi de -51,17%, entre 15/12/2021 e 12/05/2023. Há também o risco cambial, pois o BDR é cotado em reais e a ação em dólares. A liquidez é moderada, com volume médio de R$ 2,1 milhões por dia nos últimos 3 meses. A empresa também enfrenta disputas judiciais e regulatórias em diversos países, especialmente em torno de licenças de patentes e práticas concorrenciais."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar QCOM34 no app",
+      "body": "Para quem tem QCOM34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Permite medir a rentabilidade do QCOM34 lado a lado com o S&P 500, CDI e outros índices, ajudando a avaliar o desempenho em relação a outras classes de ativos.\n- [alertas de preço](/recursos/alertas-de-preco): Notifica quando o QCOM34 atinge um valor definido, útil para acompanhar a volatilidade e os movimentos da ação.\n- [carteira consolidada](/recursos/carteira-consolidada): Mostra a alocação do QCOM34 junto com outros ativos, ajudando a avaliar a diversificação da carteira."
+    }
+  ],
+  "faq": [
+    {
+      "question": "QCOM34 paga dividendos?",
+      "answer": "Sim, a Qualcomm paga dividendos. Nos 12 meses até 29/10/2026, foram distribuídos R$ 1,1146 por BDR em 4 pagamentos, com dividend yield de 1,34%. O último pagamento foi de R$ 0,2790 em 02/09/2026. Os valores são pagos em reais, mas a empresa distribui em dólares."
+    },
+    {
+      "question": "Qual a diferença entre QCOM34 e QCOM?",
+      "answer": "QCOM é a ação original da Qualcomm, negociada na NASDAQ em dólares. QCOM34 é o BDR não patrocinado de nível I, negociado na B3 em reais. O preço do BDR acompanha a ação original e a variação do câmbio."
+    },
+    {
+      "question": "QCOM34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "QCOM34 é um BDR não patrocinado de nível I. Isso significa que não há acordo formal entre a Qualcomm e a instituição depositária, e o investidor tem menos proteção em caso de problemas na empresa ou na instituição."
+    },
+    {
+      "question": "Qual o risco cambial do QCOM34?",
+      "answer": "O QCOM34 é cotado em reais, mas a ação original QCOM é em dólares. Portanto, o preço do BDR sofre a variação do câmbio entre o dólar e o real. Se o dólar valorizar, o BDR tende a subir, e se o dólar desvalorizar, o BDR tende a cair, independentemente do desempenho da Qualcomm."
+    },
+    {
+      "question": "Qual a liquidez do QCOM34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 2,1 milhões. Isso indica uma liquidez moderada, o que pode afetar a facilidade de compra e venda do ativo em grandes quantidades."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Permite medir a rentabilidade do QCOM34 lado a lado com o S&P 500, CDI e outros índices, ajudando a avaliar o desempenho em relação a outras classes de ativos."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Notifica quando o QCOM34 atinge um valor definido, útil para acompanhar a volatilidade e os movimentos da ação."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Mostra a alocação do QCOM34 junto com outros ativos, ajudando a avaliar a diversificação da carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de semicondutores, com exposição ao setor de tecnologia e inteligência artificial."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores, que oferece exposição ao setor de chips, similar à Qualcomm."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa que usa processadores Snapdragon, com exposição ao setor de tecnologia e dispositivos móveis."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de QCOM34",
+      "url": "https://finance.yahoo.com/quote/QCOM34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: QUALCOMM, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50415/QCOM/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Qualcomm",
+      "url": "https://www.wikidata.org/wiki/Q544847",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Qualcomm",
+      "url": "https://en.wikipedia.org/wiki/Qualcomm",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Qualcomm",
+      "url": "https://pt.wikipedia.org/wiki/Qualcomm",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

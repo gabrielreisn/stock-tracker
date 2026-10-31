@@ -1,0 +1,316 @@
+{
+  "ticker": "CLIN11",
+  "slug": "clin11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CLIN11: história, dividendos e volatilidade",
+    "description": "Conheça o CLIN11, FII de papel da BTG Pactual com foco em CRIs de juros reais. Veja dividend yield, patrimônio e desempenho até 29/10/2026.",
+    "h1": "CLIN11: Clave Índices de Preços FII",
+    "canonicalPath": "/fiis/clin11",
+    "keywords": [
+      "CLIN11",
+      "Clave Índices de Preços FII",
+      "FII de papel",
+      "CRI juros reais",
+      "BTG Pactual FII",
+      "dividend yield CLIN11",
+      "volatilidade CLIN11"
+    ]
+  },
+  "summary": "CLIN11 é o Clave Índices de Preços Fundo de Investimento Imobiliário, um FII de papel administrado pela BTG Pactual. O fundo investe majoritariamente em Certificados de Recebíveis Imobiliários (CRIs) atrelados a juros reais, com foco na região Sudeste e nos segmentos residencial, logístico e comercial. Em 30/09/2026, o patrimônio líquido era de R$ 429,3 milhões, com valor patrimonial da cota de R$ 98,77 e dividend yield de mercado de 14,99% ao ano.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Clave Índices de Preços Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "CLAVE ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF CLIN11",
+    "isin": "BRCLINCTF007",
+    "taxId": "49.005.348/0001-60",
+    "foundingDate": "2023-07-31",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=49005348000160"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "BTG Pactual Serviços Financeiros S.A",
+    "name": "Clave Índices de Preços Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "CLAVE ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "31/07/2023",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "CLAVE ÍNDICES DE PREÇOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "49.005.348/0001-60",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "31/07/2023",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 429,3 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "11.157",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 98,77",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 83,73",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "13,79% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,30",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,34%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 814.780,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CLIN11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Clave Indices De Precos Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 83.73,
+    "historyStarts": "2023-11-06",
+    "returns": {
+      "1y": 0.0978,
+      "3y": 0.2274,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1379,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2193,
+      "from": "2024-08-30",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.3,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 12.01,
+      "payments12Months": 12,
+      "yield12Months": 0.1434,
+      "lastPayment": {
+        "date": "2026-10-09",
+        "amount": 1
+      }
+    },
+    "avgDailyTradedValue3m": 814780
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do CLIN11 nos 12 meses até 29/10/2026 é de 13,79%, classificada como baixa. O beta contra o Ibovespa é de 0,30, o que indica que o fundo tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção. A maior queda em 5 anos foi de -21,93%, entre 30/08/2024 e 19/12/2024. Para monitorar movimentos de preço e definir alertas, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Clave Índices de Preços Fundo de Investimento Imobiliário (CLIN11) iniciou suas atividades em 31/07/2023, com a administração da BTG Pactual Serviços Financeiros S.A. Distribuidor. Pouco depois, entre 04/09/2023 e 04/10/2023, o fundo realizou sua primeira oferta pública de cotas, consolidando a base inicial de investidores. A estratégia do fundo é focada em uma carteira diversificada de CRIs, com ênfase em ativos indexados a juros reais, o que busca proteção contra a inflação ao longo do tempo. A alocação concentra-se na região Sudeste, nos segmentos residencial, logístico e comercial, refletindo a dinâmica do mercado imobiliário brasileiro. Com o passar dos meses, o fundo ajustou sua carteira em resposta ao cenário macroeconômico, mantendo o foco na geração de renda e na preservação do capital em um ambiente de juros elevados.",
+    "timeline": [
+      {
+        "date": "2023-07-31",
+        "event": "Início das atividades do fundo CLIN11",
+        "source": 1
+      },
+      {
+        "date": "2023-09-04",
+        "event": "Início da oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2023-10-04",
+        "event": "Encerramento da oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do CLIN11",
+      "body": "O CLIN11 é um fundo de investimento imobiliário de papel, com gestão ativa e prazo indeterminado. Seu objetivo é construir uma carteira diversificada de Certificados de Recebíveis Imobiliários (CRIs), majoritariamente em emissões com benchmark em juros reais, com foco na região Sudeste e nos segmentos residencial, logístico e comercial. A administração é da BTG Pactual Serviços Financeiros S.A. Distribuidor. Segundo o relatório gerencial de referência 30/10/2026, o segmento residencial representa 55% do patrimônio líquido do fundo, com 28,6% dessa exposição voltada à baixa renda, enquanto o segmento logístico mantém fundamentos sólidos sustentados por baixos níveis de vacância."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do CLIN11",
+      "body": "Nos 12 meses até 29/10/2026, o CLIN11 distribuiu R$ 12,0100 por cota em 12 pagamentos, resultando em um dividend yield de 14,34%. O último provento foi de R$ 1,0000 em 09/10/2026. O relatório gerencial de 30/09/2026 indica um dividend yield de mercado de 14,99% ao ano e de 12,85% ao ano sobre o patrimônio. Os rendimentos de FIIs são tributados de acordo com a legislação vigente, mas as fontes do dossiê não detalham as alíquotas específicas. Acompanhe os proventos no app com o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O CLIN11 realizou uma oferta pública de cotas entre 04/09/2023 e 04/10/2023, conforme documentos publicados no FNET. Em 09/2026, o fundo contava com 11.157 cotistas e um patrimônio líquido de R$ 429,3 milhões, com valor patrimonial da cota de R$ 98,77. O número de cotas emitidas era de 4.346.763. A taxa de administração no mês de 09/2026 foi de 0,078% sobre o patrimônio, equivalente a 1,05% ao ano, e a taxa de performance é de 20% ao ano sobre o que exceder a 100% da variação de IPCA + Yield IMA-B5."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do CLIN11",
+      "body": "A rentabilidade total com proventos do CLIN11 foi de 9,78% nos 12 meses até 29/10/2026 e de 22,74% em 3 anos. O fundo apresenta volatilidade anualizada de 13,79% no mesmo período, classificada como baixa. Para comparar o desempenho com índices de referência, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado com o IFIX, CDI, Ibovespa e outros."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do CLIN11",
+      "body": "Os principais riscos do CLIN11 incluem a exposição a CRIs, que envolvem risco de crédito dos devedores, e a sensibilidade a mudanças nas taxas de juros, especialmente em um cenário de juros reais elevados. O relatório gerencial de 30/10/2026 destaca que a abertura da curva de juros e o aumento da percepção de risco fiscal pós-eleição impactaram os FIIs, embora a leitura seja de que a correção das cotas decorre de taxas de desconto e não de deterioração dos fundamentos. A maior queda em 5 anos foi de -21,93%, do pico em 30/08/2024 ao ponto mais baixo em 19/12/2024. A volatilidade anualizada de 13,79% é considerada baixa para o tipo de ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CLIN11 é FII de papel ou de tijolo?",
+      "answer": "CLIN11 é um FII de papel. O fundo investe majoritariamente em Certificados de Recebíveis Imobiliários (CRIs), com foco em emissões atreladas a juros reais, conforme o relatório gerencial de 30/10/2026."
+    },
+    {
+      "question": "Qual o dividend yield do CLIN11?",
+      "answer": "O dividend yield de mercado do CLIN11 é de 14,99% ao ano, segundo o relatório gerencial de 30/09/2026. Nos 12 meses até 29/10/2026, o fundo distribuiu R$ 12,0100 por cota, resultando em um yield de 14,34%."
+    },
+    {
+      "question": "Qual a taxa de administração do CLIN11?",
+      "answer": "A taxa de administração do CLIN11 é de 1,05% ao ano, conforme o relatório gerencial de 30/09/2026. A taxa de performance é de 20% ao ano sobre o que exceder a 100% da variação de IPCA + Yield IMA-B5."
+    },
+    {
+      "question": "Quais os segmentos de investimento do CLIN11?",
+      "answer": "O CLIN11 investe em CRIs com foco na região Sudeste e nos segmentos residencial, logístico e comercial. O segmento residencial representa 55% do patrimônio líquido, com 28,6% voltado à baixa renda, segundo o relatório de 30/10/2026."
+    },
+    {
+      "question": "Qual o patrimônio líquido do CLIN11?",
+      "answer": "O patrimônio líquido do CLIN11 é de R$ 429,3 milhões em 09/2026, com 11.157 cotistas e valor patrimonial da cota de R$ 98,77, conforme o informe mensal da CVM."
+    },
+    {
+      "question": "CLIN11 paga proventos mensais?",
+      "answer": "Sim, o CLIN11 distribuiu 12 pagamentos nos 12 meses até 29/10/2026, totalizando R$ 12,0100 por cota. O último provento foi de R$ 1,0000 em 09/10/2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do CLIN11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do CLIN11 com o IFIX, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do CLIN11 atingir o preço que você definir."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do CLIN11 junto com outros ativos na sua carteira."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição no CLIN11 e receba respostas com base nos seus dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "Outro FII de papel da Kinea com foco em índices de preços, similar à estratégia do CLIN11."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística da BTG Pactual, com exposição ao mesmo segmento logístico presente na carteira do CLIN11."
+      },
+      {
+        "ticker": "BTRU11",
+        "list": "fiis",
+        "reason": "FII de renda urbana da BTG Pactual, com foco em ativos residenciais, similar ao segmento residencial do CLIN11."
+      },
+      {
+        "ticker": "KNHF11",
+        "list": "fiis",
+        "reason": "FII de hedge fund da Kinea, com estratégia de gestão ativa similar à do CLIN11."
+      },
+      {
+        "ticker": "VGIP11",
+        "list": "fiis",
+        "reason": "FII de CRI da Valora, com foco em índices de preço, similar à estratégia de juros reais do CLIN11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CLIN11",
+      "url": "https://finance.yahoo.com/quote/CLIN11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do CLAVE INDICES FII RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo CLIN11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=49005348000160",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do CLIN11, referência 30/10/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1366587",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

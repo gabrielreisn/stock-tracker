@@ -1,0 +1,326 @@
+{
+  "ticker": "PEPB34",
+  "slug": "pepb34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "PEPB34: BDR da PepsiCo, dividendos e desempenho",
+    "description": "Conheça o PEPB34, BDR da PepsiCo na B3. Veja dividendos, desempenho, riscos e como funciona o ativo em reais.",
+    "h1": "PEPB34: BDR da PepsiCo, Inc.",
+    "canonicalPath": "/bdrs/pepb34",
+    "keywords": [
+      "PEPB34",
+      "BDR PepsiCo",
+      "dividendos PEPB34",
+      "desempenho PEPB34",
+      "BDR nível I"
+    ]
+  },
+  "summary": "PEPB34 é o BDR não patrocinado (nível I) da PepsiCo, Inc., empresa transnacional de alimentos e bebidas com sede em Purchase, Nova York. Negociado na B3 desde 30/08/2011, o ativo lastreia-se na ação PEP, listada na Bolsa de Valores de Nova Iorque. Em 30/10/2026, a cotação era de R$ 50,04, com rentabilidade total de -2,26% nos 12 meses anteriores, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "PepsiCo",
+    "legalName": "PEPSICO. INC.",
+    "ticker": "BVMF PEPB34",
+    "foundingDate": "1961",
+    "website": "https://www.pepsico.com/",
+    "wikidata": "Q334800",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q334800",
+      "https://en.wikipedia.org/wiki/PepsiCo",
+      "https://pt.wikipedia.org/wiki/PepsiCo",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50377/PEPB/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "PepsiCo",
+    "legalName": "PEPSICO. INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1961",
+    "listedSince": "30/08/2011",
+    "headquarters": "Purchase",
+    "website": "https://www.pepsico.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "PEPSICO. INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: PEP",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Purchase",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1961",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "30/08/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 50,04",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "28,77% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,83%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 388.645,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PEPB34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "PepsiCo, Inc.",
+    "currency": "BRL",
+    "price": 50.04,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0226,
+      "3y": -0.0068,
+      "5y": -0.0688,
+      "10y": 1.9035
+    },
+    "volatility1y": 0.2877,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3723,
+      "from": "2024-09-05",
+      "to": "2026-10-07"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.4186,
+      "payments12Months": 4,
+      "yield12Months": 0.0283,
+      "lastPayment": {
+        "date": "2026-09-04",
+        "amount": 0.356709
+      }
+    },
+    "avgDailyTradedValue3m": 388645
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do PEPB34 nos últimos 12 meses é de 28,77%, um nível considerado alto para o ativo. A maior queda em 5 anos foi de -37,23%, entre 05/09/2024 e 07/10/2026. O beta do ativo não está disponível nos dados fornecidos. A volatilidade reflete a sensibilidade do BDR a movimentos do mercado acionário global e variações cambiais. Para monitorar oscilações de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) permite configurar notificações quando o ativo atinge valores específicos."
+  },
+  "history": {
+    "overview": "A PepsiCo, Inc. tem origem em 1898, quando o farmacêutico Caleb Bradham criou a bebida Pepsi-Cola em North Carolina. A empresa formalizou-se como Pepsi-Cola Company em 1902 e passou por dificuldades financeiras até 1923, quando a marca foi adquirida por outros investidores. Em 1965, a fusão entre a Pepsi-Cola Company e a Frito-Lay, Inc. deu origem à PepsiCo, Inc., consolidando um portfólio diversificado de lanches e bebidas. A sede foi transferida para Purchase, Nova York, em 1970, e a empresa foi reincorporada na Carolina do Norte em 1986. No início dos anos 2000, a PepsiCo expandiu-se por meio de aquisições estratégicas, como a Tropicana Products em 1998 e a Quaker Oats Company em 2001, esta última trazendo a marca Gatorade para o portfólio. Em 2010, a empresa consolidou sua operação de engarrafamento na América do Norte com a aquisição da Pepsi Bottling Group e da PepsiAmericas. Em 2011, a PepsiCo tornou-se a maior empresa de alimentos e bebidas da Rússia após adquirir a Wimm-Bill-Dann Foods. Em dezembro de 2017, as ações da empresa migraram da Bolsa de Valores de Nova Iorque para a Nasdaq. O BDR PEPB34 foi listado na B3 em 30/08/2011, permitindo a negociação em reais.",
+    "timeline": [
+      {
+        "date": "1961",
+        "event": "Fundação da PepsiCo, conforme registro no Wikidata",
+        "source": 2
+      },
+      {
+        "date": "1965",
+        "event": "Formação da PepsiCo, Inc. a partir da fusão entre Pepsi-Cola Company e Frito-Lay, Inc.",
+        "source": 3
+      },
+      {
+        "date": "1970",
+        "event": "Transferência da sede da empresa para Purchase, Nova York",
+        "source": 3
+      },
+      {
+        "date": "1986",
+        "event": "Reincorporação da PepsiCo no estado da Carolina do Norte",
+        "source": 3
+      },
+      {
+        "date": "1998",
+        "event": "Aquisição da Tropicana Products",
+        "source": 3
+      },
+      {
+        "date": "2001",
+        "event": "Fusão com a Quaker Oats Company, incorporando a marca Gatorade",
+        "source": 3
+      },
+      {
+        "date": "2010",
+        "event": "Aquisição da Pepsi Bottling Group e PepsiAmericas, formando a Pepsi Beverages Company",
+        "source": 3
+      },
+      {
+        "date": "2011-08-30",
+        "event": "Listagem do BDR PEPB34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2017-12-20",
+        "event": "Migração das ações da PepsiCo da Bolsa de Valores de Nova Iorque para a Nasdaq",
+        "source": 3
+      },
+      {
+        "date": "2018-12",
+        "event": "Conclusão da aquisição da SodaStream",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a PepsiCo ganha dinheiro",
+      "body": "A PepsiCo, Inc. é uma empresa transnacional estadunidense que atua na fabricação, comercialização e distribuição de lanches, bebidas e outros produtos alimentícios. A receita da empresa provém de um portfólio diversificado de marcas, incluindo a Pepsi, o repositor Gatorade e os salgados Elma Chips. Em janeiro de 2021, a companhia possuía 23 marcas com vendas anuais superiores a US$ 1 bilhão, distribuídas em mais de 200 países, gerando receita anual superior a US$ 70 bilhões. A PepsiCo é o segundo maior negócio de alimentos e bebidas do mundo com base na receita líquida, atrás apenas da Nestlé. No mercado norte-americano, é a maior empresa do setor por receita líquida. No Brasil, a distribuição de alguns produtos é realizada em parceria com a Ambev."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR PEPB34",
+      "body": "O PEPB34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da PepsiCo, Inc. listadas no exterior. A ação original é a PEP, negociada na Bolsa de Valores de Nova Iorque. O preço do BDR acompanha a variação da ação original e a cotação do dólar em relação ao real. O BDR foi listado na B3 em 30/08/2011. Por ser não patrocinado, não há uma instituição depositária que atue em nome da empresa emissora para a proteção direta do investidor brasileiro, diferentemente dos BDRs patrocinados."
+    },
+    {
+      "id": "proventos",
+      "heading": "PEPB34 paga dividendos?",
+      "body": "A PepsiCo paga dividendos, e o BDR PEPB34 reflete esses proventos convertidos em reais. Nos 12 meses até 30/10/2026, foram realizados 4 pagamentos, totalizando R$ 1,4186 por BDR, o que corresponde a um dividend yield de 2,83%. O último pagamento registrado foi de R$ 0,3567 em 04/09/2026. É importante observar que a empresa paga os dividendos em dólares, e o valor recebido pelo investidor brasileiro depende da cotação do câmbio na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do PEPB34",
+      "body": "Até 30/10/2026, a rentabilidade total do PEPB34, incluindo proventos, foi de -2,26% nos últimos 12 meses, -0,68% em 3 anos e -6,88% em 5 anos. No período de 10 anos, a rentabilidade acumulada foi de 190,35%. Esses retornos em reais incluem a variação do câmbio entre o dólar e o real, o que pode amplificar ou reduzir o desempenho em relação ao retorno da ação original em dólares. Para avaliar o desempenho em comparação com outros ativos, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do PEPB34",
+      "body": "Os riscos do PEPB34 incluem a exposição cambial, já que o valor do BDR depende da cotação do dólar em relação ao real. A volatilidade anualizada do ativo nos últimos 12 meses foi de 28,77%, classificada como alta. A maior queda nos últimos 5 anos foi de -37,23%, ocorrida entre o pico em 05/09/2024 e o ponto mais baixo em 07/10/2026. A liquidez do BDR na B3 é limitada, com volume médio diário de R$ 388.645,00 nos últimos 3 meses. Além disso, a empresa enfrenta riscos setoriais, como críticas relacionadas a condições de trabalho, uso de ingredientes geneticamente modificados e impacto ambiental, incluindo a produção de plástico, sendo a segunda maior produtora de poluição plástica global em 2024."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar PEPB34 no app",
+      "body": "Para quem tem PEPB34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Permite comparar a rentabilidade do PEPB34 com o S&P 500 e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configura notificações quando o PEPB34 atinge preços específicos, útil para monitorar oscilações.\n- [carteira consolidada](/recursos/carteira-consolidada): Reúne BDRs, ações e outros ativos em uma única visão, facilitando a análise de alocação.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Exibe o gráfico de rentabilidade e o preço médio do PEPB34 na carteira."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PEPB34 paga dividendos?",
+      "answer": "Sim, o PEPB34 paga dividendos. Nos 12 meses até 30/10/2026, foram realizados 4 pagamentos, totalizando R$ 1,4186 por BDR, com um dividend yield de 2,83%. O último pagamento foi de R$ 0,3567 em 04/09/2026. Os valores são convertidos de dólares para reais na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre PEPB34 e PEP?",
+      "answer": "O PEPB34 é um BDR negociado na B3 em reais, enquanto a PEP é a ação original da PepsiCo negociada na Bolsa de Valores de Nova Iorque em dólares. O PEPB34 é um recibo que representa a ação PEP, e seu preço acompanha a variação da ação original e a cotação do câmbio."
+    },
+    {
+      "question": "O PEPB34 é um BDR patrocinado?",
+      "answer": "Não, o PEPB34 é um BDR não patrocinado de nível I. Isso significa que não há uma instituição depositária que atue em nome da empresa emissora para a proteção direta do investidor brasileiro, diferentemente dos BDRs patrocinados."
+    },
+    {
+      "question": "Qual a rentabilidade do PEPB34 nos últimos 12 meses?",
+      "answer": "A rentabilidade total do PEPB34, incluindo proventos, foi de -2,26% nos 12 meses até 30/10/2026. Esse retorno em reais inclui a variação do câmbio entre o dólar e o real."
+    },
+    {
+      "question": "O PEPB34 é líquido na B3?",
+      "answer": "O volume médio diário do PEPB34 nos últimos 3 meses é de R$ 388.645,00. Esse volume indica uma liquidez moderada, o que pode afetar a facilidade de compra e venda do ativo em grandes quantidades."
+    },
+    {
+      "question": "Quais são os principais riscos do PEPB34?",
+      "answer": "Os principais riscos incluem a exposição cambial, a volatilidade anualizada de 28,77%, a maior queda de -37,23% em 5 anos, a liquidez limitada na B3 e riscos setoriais relacionados a questões ambientais e de trabalho."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Permite comparar a rentabilidade do PEPB34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configura notificações quando o PEPB34 atinge preços específicos, útil para monitorar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Reúne BDRs, ações e outros ativos em uma única visão, facilitando a análise de alocação."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Exibe o gráfico de rentabilidade e o preço médio do PEPB34 na carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "COCA34",
+        "list": "bdrs",
+        "reason": "BDR da Coca-Cola, principal concorrente da PepsiCo no setor de bebidas."
+      },
+      {
+        "ticker": "M1NS34",
+        "list": "bdrs",
+        "reason": "BDR da Monster Beverage, empresa do setor de bebidas energéticas, similar ao Gatorade da PepsiCo."
+      },
+      {
+        "ticker": "WALM34",
+        "list": "bdrs",
+        "reason": "BDR da Walmart, empresa do setor de varejo, que distribui produtos da PepsiCo."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para empresas americanas como a PepsiCo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PEPB34",
+      "url": "https://finance.yahoo.com/quote/PEPB34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: PEPSICO INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50377/PEPB/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: PepsiCo",
+      "url": "https://www.wikidata.org/wiki/Q334800",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): PepsiCo",
+      "url": "https://en.wikipedia.org/wiki/PepsiCo",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): PepsiCo",
+      "url": "https://pt.wikipedia.org/wiki/PepsiCo",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,306 @@
+{
+  "ticker": "EWZ",
+  "slug": "ewz",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "EWZ: história, dividendos e volatilidade",
+    "description": "Conheça o iShares MSCI Brazil ETF (EWZ): como funciona, desempenho até 30/10/2026, dividendos, riscos e como investir do Brasil.",
+    "h1": "EWZ: iShares MSCI Brazil ETF",
+    "canonicalPath": "/etfs/ewz",
+    "keywords": [
+      "EWZ",
+      "iShares MSCI Brazil ETF",
+      "ETF Brasil",
+      "investir em ETF do Brasil",
+      "EWZ dividendos",
+      "EWZ volatilidade",
+      "EWZ preço",
+      "ETF mercado emergente"
+    ]
+  },
+  "summary": "EWZ é o iShares MSCI Brazil ETF, um fundo de índice negociado nos Estados Unidos que replica o desempenho do mercado acionário brasileiro. Lançado em 14/07/2000, o ativo é gerido pela iShares, marca da BlackRock. Em 30/10/2026, a cota valia US$ 32,46, com volume médio diário de US$ 1,54 bilhão e dividend yield de 4,51% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares MSCI Brazil ETF",
+    "ticker": "ARCX EWZ",
+    "foundingDate": "2000-07-14",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "MSCI Brazil",
+    "name": "iShares MSCI Brazil ETF",
+    "founded": "14/07/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares MSCI Brazil ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "14/07/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 32,46",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "36,08% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,90",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,51%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,54 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EWZ",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares MSCI Brazil ETF",
+    "currency": "USD",
+    "price": 32.46,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0923,
+      "3y": 0.3098,
+      "5y": 0.609,
+      "10y": 0.4384
+    },
+    "volatility1y": 0.3608,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3224,
+      "from": "2022-04-04",
+      "to": "2022-07-14"
+    },
+    "beta1y": {
+      "value": 0.9,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.464,
+      "payments12Months": 3,
+      "yield12Months": 0.0451,
+      "lastPayment": {
+        "date": "2026-06-15",
+        "amount": 0.331
+      }
+    },
+    "avgDailyTradedValue3m": 1538709717
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do EWZ é de 36,08% nos últimos 12 meses, um nível considerado alto. O beta de 0,90 contra o S&P 500 sugere que, historicamente, o ativo tem movimentos de menor amplitude que o índice americano, mas na mesma direção. A maior queda em 5 anos foi de -32,24%, entre 04/04/2022 e 14/07/2022. Para um ETF de mercado emergente, essa volatilidade é típica, refletindo a sensibilidade do mercado brasileiro a fatores macroeconômicos e políticos. O uso de [alertas de preço](/recursos/alertas-de-preco) pode ajudar o investidor a reagir a esses movimentos de forma mais estruturada."
+  },
+  "history": {
+    "overview": "O iShares MSCI Brazil ETF (EWZ) começou a ser negociado em 14/07/2000, marcando o início da oferta de exposição ao mercado acionário brasileiro para investidores internacionais através de um veículo de bolsa nos EUA. A emissora, iShares, é uma marca da BlackRock que adquiriu o negócio da Barclays em 2009. A origem da marca remonta a 2000, quando a Barclays lançou mais de 40 novos fundos sob a marca iShares, renomeando os antigos WEBS (World Equity Benchmark Shares). O MSCI, empresa que licencia o índice seguido pelo EWZ, é uma provedora global de índices de ações e ferramentas de análise, com sede em Nova York. O índice MSCI Brazil reflete a performance das ações de grande capitalização negociadas na B3, a bolsa brasileira, que é a segunda mais antiga do país. Para investidores, o EWZ serve como porta de entrada para a diversificação em mercados emergentes, permitindo acompanhar a variação do Ibovespa e das principais empresas brasileiras sem a necessidade de abrir conta diretamente na B3.",
+    "timeline": [
+      {
+        "date": "1993",
+        "event": "Lançamento do primeiro ETF nos EUA, o SPDR S&P 500, pela State Street.",
+        "source": 1
+      },
+      {
+        "date": "2000",
+        "event": "Barclays lança a marca iShares com mais de 40 novos fundos, renomeando os WEBS.",
+        "source": 1
+      },
+      {
+        "date": "2000-07-14",
+        "event": "Primeiro pregão das cotas do iShares MSCI Brazil ETF (EWZ).",
+        "source": 0
+      },
+      {
+        "date": "2008-05-08",
+        "event": "Fusão da Bovespa e BM&F criando a BM&FBOVESPA, a bolsa onde as ações do índice são negociadas.",
+        "source": 4
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio da iShares da Barclays.",
+        "source": 1
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma a venda da iShares para a CVC Capital Partners.",
+        "source": 1
+      },
+      {
+        "date": "2017-03-30",
+        "event": "BM&FBOVESPA se funde com a CETIP para formar a B3 S.A. – Brasil, Bolsa, Balcão.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o EWZ funciona",
+      "body": "O EWZ é um Exchange-Traded Fund (ETF) que replica o índice MSCI Brazil, que mede o desempenho das ações de grande capitalização negociadas na B3. A emissora é a iShares, uma marca da BlackRock, que adquiriu o negócio da Barclays em 2009. O primeiro pregão das cotas ocorreu em 14/07/2000. Diferente de um fundo de índice tradicional, o EWZ é negociado em bolsa como uma ação, permitindo que o investidor compre e venda cotas durante o horário de pregão nos Estados Unidos. O fundo não é alavancado nem inverso, buscando acompanhar a variação do índice de referência de forma direta."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do EWZ",
+      "body": "O EWZ segue o índice MSCI Brazil, que é composto por ações de empresas brasileiras de grande capitalização. A B3, onde essas ações são negociadas, é a bolsa de valores de São Paulo e possui o Ibovespa como seu indicador de referência. O MSCI é uma empresa americana que licencia seus índices para fundos de investimento, incluindo ETFs. As fontes não detalham a lista exata de empresas ou o peso de cada uma na composição atual do índice, mas o foco é o mercado acionário brasileiro de grande porte."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no EWZ a partir do Brasil",
+      "body": "Para investir no EWZ a partir do Brasil, o investidor pode utilizar uma conta em uma corretora de valores no exterior, que permite a negociação de ativos listados em bolsas americanas. Outra alternativa é buscar ETFs ou BDRs negociados na B3 que tenham como referência o mesmo índice ou ativos similares, o que pode simplificar a liquidação e a tributação local. O principal risco cambial é que o EWZ é cotado em dólar; variações na cotação do dólar frente ao real impactam diretamente o retorno em reais, independentemente do desempenho das ações brasileiras."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do EWZ",
+      "body": "Até 30/10/2026, o EWZ apresentou rentabilidade total com proventos de 9,23% em 12 meses, 30,98% em 3 anos, 60,90% em 5 anos e 43,84% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,54 bilhão. O ativo distribuiu US$ 1,4640 por cota em 3 pagamentos nos 12 meses até a data de referência, resultando em um dividend yield de 4,51%. É possível acompanhar a evolução do preço e a rentabilidade histórica através do [desempenho e preço médio](/recursos/desempenho-e-preco-medio) e comparar o resultado com o S&P 500 na [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do EWZ",
+      "body": "O EWZ possui volatilidade anualizada de 36,08% nos últimos 12 meses, classificada como alta. A maior queda nos últimos 5 anos foi de -32,24%, ocorrendo do pico em 04/04/2022 ao ponto mais baixo em 14/07/2022. O beta de 0,90 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice americano com uma amplitude ligeiramente menor. Os riscos incluem a exposição a um único país (Brasil), a volatilidade do mercado emergente e o risco cambial do dólar. Investidores podem usar os [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos de cotação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o EWZ?",
+      "answer": "EWZ é o iShares MSCI Brazil ETF, um fundo de índice que replica o desempenho das ações de grande capitalização da B3. Ele é gerido pela iShares (BlackRock) e permite exposição ao mercado acionário brasileiro para investidores internacionais."
+    },
+    {
+      "question": "EWZ paga dividendos?",
+      "answer": "Sim, o EWZ distribui proventos. Nos 12 meses até 30/10/2026, pagou US$ 1,4640 por cota em 3 pagamentos, com um dividend yield de 4,51%. O último pagamento foi de US$ 0,3310 em 15/06/2026. É possível acompanhar a história de proventos na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual o risco do EWZ?",
+      "answer": "O EWZ tem alta volatilidade, com 36,08% anualizados nos últimos 12 meses. A maior queda em 5 anos foi de -32,24%. Os riscos incluem a exposição a um único país, a instabilidade de mercados emergentes e a variação do câmbio dólar/real."
+    },
+    {
+      "question": "Como investir no EWZ do Brasil?",
+      "answer": "O investidor brasileiro pode comprar o EWZ através de uma corretora no exterior ou buscar ETFs e BDRs na B3 que sigam o mesmo índice. O principal ponto de atenção é o risco cambial, pois o ativo é cotado em dólar."
+    },
+    {
+      "question": "Qual a diferença entre EWZ e SPY?",
+      "answer": "O EWZ replica o índice MSCI Brazil, focado em ações brasileiras, enquanto o [SPY](/etfs/spy) replica o S&P 500, o principal índice de ações dos Estados Unidos. O EWZ tem maior volatilidade e exposição a um mercado emergente, enquanto o SPY tem maior diversificação global e menor volatilidade histórica."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do EWZ junto com outros ativos na sua carteira consolidada, com valor por classe e maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do EWZ e o seu preço médio de compra no gráfico de desempenho do app."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do EWZ com o S&P 500 e outros índices na mesma tela."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o EWZ atingir o preço que você definiu, útil para monitorar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte ao assistente de IA sobre a sua posição em EWZ e como ela impacta a sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF de referência do mercado americano, útil para comparação de desempenho e volatilidade."
+      },
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "Outro ETF de mercado emergente, para diversificação além do Brasil."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação brasileira de grande capitalização, provavelmente uma das maiores componentes do índice MSCI Brazil."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Outra ação brasileira de grande capitalização, relevante para a composição do EWZ."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação do setor financeiro brasileiro, importante para o índice MSCI Brazil."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EWZ",
+      "url": "https://finance.yahoo.com/quote/EWZ/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/MSCI",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Índice Bovespa (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/%C3%8Dndice_Bovespa",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): B3 (stock exchange) (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/B3_(stock_exchange)",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

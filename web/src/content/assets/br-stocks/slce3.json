@@ -1,0 +1,422 @@
+{
+  "ticker": "SLCE3",
+  "slug": "slce3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SLCE3: história, dividendos e volatilidade",
+    "description": "SLCE3 é a ação ordinária da SLC Agrícola, produtora de soja, algodão e milho. Veja rentabilidade de 26,79% em 12 meses, dividend yield de 4,75% e",
+    "h1": "SLCE3: SLC Agrícola - Ação Ordinária",
+    "canonicalPath": "/acoes/slce3",
+    "keywords": [
+      "SLCE3",
+      "SLC Agrícola",
+      "ação agricultura",
+      "dividendos SLCE3",
+      "volatilidade SLCE3",
+      "rentabilidade SLCE3",
+      "B3 agricultura",
+      "Novo Mercado SLCE3"
+    ]
+  },
+  "summary": "SLCE3 é a ação ordinária da SLC Agrícola, empresa brasileira do setor de agricultura que produz e comercializa soja, algodão, milho e sementes, além de realizar engorda de bovinos. A companhia opera 23 unidades de produção em sete estados brasileiros e está listada no Novo Mercado da B3. Em 30/10/2026, a ação cotava a R$ 16,96, com rentabilidade total de 26,79% nos últimos 12 meses e dividend yield de 4,75%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "SLC Agrícola",
+    "legalName": "SLC AGRICOLA SA",
+    "ticker": "BVMF SLCE3",
+    "isin": "BRSLCEACNOR2",
+    "taxId": "89.096.457/0001-55",
+    "foundingDate": "1977-07-21",
+    "address": {
+      "locality": "Porto Alegre",
+      "region": "RS",
+      "country": "BR"
+    },
+    "website": "https://www.slcagricola.com.br",
+    "wikidata": "Q7390937",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q7390937",
+      "https://pt.wikipedia.org/wiki/SLC_Agr%C3%ADcola",
+      "https://en.wikipedia.org/wiki/SLC_Agr%C3%ADcola",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20745/SLCE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "SLC Agrícola",
+    "legalName": "SLC AGRICOLA SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo não Cíclico",
+    "segment": "Agricultura",
+    "founded": "21/07/1977",
+    "listedSince": "15/06/2007",
+    "headquarters": "Porto Alegre (RS)",
+    "website": "https://www.slcagricola.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "SLC AGRICOLA SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "89.096.457/0001-55",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo não Cíclico / Agricultura",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "21/07/1977",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Porto Alegre (RS)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "15/06/2007",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "SLCE3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 16,96",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "27,01% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,27",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,75%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SLCE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "SLC Agrícola S.A.",
+    "currency": "BRL",
+    "price": 16.96,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2679,
+      "3y": 0.2276,
+      "5y": 0.3695,
+      "10y": 8.4533
+    },
+    "volatility1y": 0.2701,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3468,
+      "from": "2026-04-14",
+      "to": "2026-07-02"
+    },
+    "beta1y": {
+      "value": 0.27,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.8052,
+      "payments12Months": 1,
+      "yield12Months": 0.0475,
+      "lastPayment": {
+        "date": "2025-12-15",
+        "amount": 0.805165
+      }
+    },
+    "avgDailyTradedValue3m": 52847251
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da SLCE3 nos últimos 12 meses foi de 27,01%, classificada como nível alto. O beta de 0,27 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com menor amplitude, na mesma direção. A maior queda nos últimos 5 anos foi de -34,68%, do pico em 14/04/2026 ao ponto mais baixo em 02/07/2026. Para ações do setor de agricultura, a volatilidade pode ser influenciada por fatores sazonais, condições climáticas e variações de preços de commodities. Para acompanhar a rentabilidade e o preço médio da posição, use o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A SLC Agrícola faz parte do Grupo SLC, fundado em 1945 em Horizontina (RS) por três famílias de imigrantes alemães, que criou a primeira indústria nacional de colheitadeiras automotrizes de grãos no Brasil. Em 1977, a SLC Agrícola iniciou suas atividades com a compra da Fazenda Paineira, voltada ao cultivo de soja e trigo. Em 1979, estabeleceu uma joint venture com a John Deere, e em 1980 adquiriu a Fazenda Pamplona em Goiás, expandindo-se para o Cerrado, onde hoje estão localizadas todas as suas fazendas. Em 2007, a empresa realizou sua abertura de capital, tornando-se uma das primeiras do setor de grãos e algodão a ter ações negociadas em bolsa de valores no mundo. Em 2013, concluiu outra joint venture com as empresas Dois Vales e a Mitsui do Japão. Em 2021, incorporou a empresa Terra Santa, localizada em Mato Grosso, por R$ 753 milhões, adicionando seis fazendas e ampliando sua capacidade de produção em mais 145 mil hectares. A empresa desenvolveu um modelo de negócios baseado na eficiência operacional e na alta escala de produção, utilizando sistemas de rotação de culturas e plantio direto para reduzir custos e aumentar a produtividade do solo.",
+    "timeline": [
+      {
+        "date": "1977",
+        "event": "Fundação da SLC Agrícola",
+        "source": 3
+      },
+      {
+        "date": "1977-07-21",
+        "event": "Constituição da companhia SLC AGRICOLA SA",
+        "source": 2
+      },
+      {
+        "date": "2007-06-12",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2007-06-15",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-12-30",
+        "event": "Fato Relevante Bonificação de Ações",
+        "source": 13
+      },
+      {
+        "date": "2026-01-13",
+        "event": "Aquisição da Sierentz Agro Brasil Ltda. Ajuste de preço final",
+        "source": 12
+      },
+      {
+        "date": "2026-06-15",
+        "event": "Portfólio de Terras - Atualização 2026",
+        "source": 10
+      },
+      {
+        "date": "2026-06-15",
+        "event": "Projeções para a safra 2025-26 2026-27 e projeto de irrigação",
+        "source": 11
+      },
+      {
+        "date": "2026-06-26",
+        "event": "EXERCÍCIO DO DIREITO DE PREFERÊNCIA (bloco Mato Grosso)",
+        "source": 9
+      },
+      {
+        "date": "2026-07-08",
+        "event": "Acordo (Bloco Mato Grosso)",
+        "source": 8
+      },
+      {
+        "date": "2026-09-11",
+        "event": "1ª Emissão de cédulas de produto rural com liquidação financeira, escriturais, em série única (CPR-F)",
+        "source": 7
+      },
+      {
+        "date": "2026-10-07",
+        "event": "Projeções da Safra 2026/27",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a SLC Agrícola ganha dinheiro",
+      "body": "A SLC Agrícola é uma empresa brasileira do setor de agricultura que produz e comercializa algodão, soja, milho, sementes e realiza engorda de bovinos, integrando lavoura e pecuária. A companhia possui 23 unidades de produção estrategicamente localizadas em sete estados brasileiros: Goiás, Mato Grosso, Maranhão, Mato Grosso do Sul, Bahia, Piauí e Minas Gerais. A empresa detém a marca SLC Sementes, que produz e comercializa sementes de soja e algodão. Na safra 2021/2022, a produção totalizou 672,4 mil hectares plantados. A SLC Agrícola utiliza sistemas de rotação de culturas entre soja, algodão e milho, além de plantio direto, para reduzir custos e aumentar a produtividade do solo. A empresa realiza 190 testes de solo por ano em uma área de 1,3 hectares, simulando condições reais de campo."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da SLC Agrícola",
+      "body": "A SLC Agrícola é uma companhia aberta com controle acionário privado, conforme cadastro na CVM. A empresa está listada no segmento de governança Novo Mercado da B3, que exige padrões elevados de transparência e governança corporativa. O código de negociação da ação ordinária é SLCE3. Ações ordinárias (ON) dão direito a voto em assembleias gerais, enquanto ações preferenciais (PN) têm preferência no recebimento de dividendos e no retorno do capital em caso de liquidação, mas geralmente não têm direito a voto. A SLC Agrícola possui apenas ações ordinárias listadas na B3."
+    },
+    {
+      "id": "proventos",
+      "heading": "SLCE3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a SLCE3 pagou R$ 0,8052 por ação em 1 pagamento, resultando em dividend yield de 4,75%. O último pagamento foi de R$ 0,8052 em 15/12/2025. A empresa também anunciou bonificação de ações em 30/12/2025, conforme fato relevante na CVM. Para acompanhar os dividendos e JCP da SLCE3 com data com e data de pagamento, multiplicados pela sua quantidade, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da SLCE3",
+      "body": "A SLCE3 apresentou rentabilidade total com proventos de 26,79% nos 12 meses até 30/10/2026, 22,76% em 3 anos, 36,95% em 5 anos e 845,33% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de R$ 52,8 milhões. Para comparar a rentabilidade da SLCE3 com índices como Ibovespa, CDI e IPCA, use o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da SLCE3",
+      "body": "A SLCE3 opera no setor de agricultura, que está sujeito a riscos climáticos, variações de preços de commodities agrícolas e condições de mercado. A volatilidade anualizada da ação nos últimos 12 meses foi de 27,01%, classificada como nível alto. A maior queda nos últimos 5 anos foi de -34,68%, do pico em 14/04/2026 ao ponto mais baixo em 02/07/2026. O beta de 0,27 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com menor amplitude. Para monitorar movimentos de preço e definir alertas, use o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "SLCE3 paga dividendos?",
+      "answer": "Sim, a SLCE3 pagou R$ 0,8052 por ação em 1 pagamento nos 12 meses até 30/10/2026, com dividend yield de 4,75%. O último pagamento foi em 15/12/2025. A empresa também anunciou bonificação de ações em 30/12/2025. Para acompanhar os proventos, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre SLCE3 e outras ações da SLC Agrícola?",
+      "answer": "A SLC Agrícola possui apenas ações ordinárias (ON) listadas na B3, com código SLCE3. Ações ordinárias dão direito a voto em assembleias gerais, enquanto ações preferenciais (PN) têm preferência no recebimento de dividendos, mas geralmente não têm direito a voto. A empresa está listada no segmento Novo Mercado da B3."
+    },
+    {
+      "question": "O que a SLC Agrícola faz?",
+      "answer": "A SLC Agrícola é uma empresa brasileira do setor de agricultura que produz e comercializa algodão, soja, milho, sementes e realiza engorda de bovinos. A companhia possui 23 unidades de produção em sete estados brasileiros e detém a marca SLC Sementes. Na safra 2021/2022, a produção totalizou 672,4 mil hectares plantados."
+    },
+    {
+      "question": "Qual a rentabilidade da SLCE3?",
+      "answer": "A SLCE3 apresentou rentabilidade total com proventos de 26,79% nos 12 meses até 30/10/2026, 22,76% em 3 anos, 36,95% em 5 anos e 845,33% em 10 anos. Para comparar com índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Qual a volatilidade da SLCE3?",
+      "answer": "A volatilidade anualizada da SLCE3 nos últimos 12 meses foi de 27,01%, classificada como nível alto. O beta de 0,27 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com menor amplitude. A maior queda nos últimos 5 anos foi de -34,68%, de 14/04/2026 a 02/07/2026."
+    },
+    {
+      "question": "Quando a SLC Agrícola foi fundada?",
+      "answer": "A SLC Agrícola foi fundada em 1977, com a compra da Fazenda Paineira em Coronel Bicaco (RS), voltada ao cultivo de soja e trigo. A empresa faz parte do Grupo SLC, fundado em 1945 em Horizontina (RS). A abertura de capital ocorreu em 2007, com início da cotação na B3 em 15/06/2007."
+    },
+    {
+      "question": "Como a SLC Agrícola está organizada?",
+      "answer": "A SLC Agrícola possui 23 unidades de produção em sete estados brasileiros: Goiás, Mato Grosso, Maranhão, Mato Grosso do Sul, Bahia, Piauí e Minas Gerais. A empresa utiliza sistemas de rotação de culturas e plantio direto, e realiza 190 testes de solo por ano. O controle acionário é privado, e a empresa está listada no Novo Mercado da B3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da SLCE3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da SLCE3 com Ibovespa, CDI e IPCA no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a SLCE3 chegar ao preço que você escolheu, para monitorar movimentos de volatilidade."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio da sua posição em SLCE3 com gráfico interativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a SLCE3 junto com suas outras ações, renda fixa e fundos em uma só visão, com alocação por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SMTO3",
+        "list": "br-stocks",
+        "reason": "São Martinho S.A., outra empresa do setor de agricultura e commodities agrícolas, com foco em grãos e sementes."
+      },
+      {
+        "ticker": "CSAN3",
+        "list": "br-stocks",
+        "reason": "Cosan S.A., empresa do setor de energia e açúcar e álcool, com exposição a commodities agrícolas."
+      },
+      {
+        "ticker": "MBRF3",
+        "list": "br-stocks",
+        "reason": "MBRF Global Foods Company S.A., empresa do setor de alimentos e proteínas, com exposição a cadeias agrícolas."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Petróleo Brasileiro S.A. (Petrobras), ação preferencial de outra empresa brasileira de grande capitalização, para comparação de diversificação."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Vale S.A., ação ordinária de outra empresa brasileira de commodities, para comparação de exposição a ciclos de mercado."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SLCE3",
+      "url": "https://finance.yahoo.com/quote/SLCE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SLC AGRICOLA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/20745/SLCE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, SLC AGRICOLA SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: SLC Agrícola",
+      "url": "https://www.wikidata.org/wiki/Q7390937",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): SLC Agrícola",
+      "url": "https://pt.wikipedia.org/wiki/SLC_Agr%C3%ADcola",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SLC Agrícola",
+      "url": "https://en.wikipedia.org/wiki/SLC_Agr%C3%ADcola",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/10/2026, “Projeções da Safra 2026/27”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1575179&numSequencia=1099885&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/09/2026, “1ª Emissão de cédulas de produto rural com liquidação financeira, escriturais, em série única (CPR-F)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1567676&numSequencia=1092382&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/07/2026, “Acordo (Bloco Mato Grosso)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1543392&numSequencia=1068098&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 26/06/2026, “EXERCÍCIO DO DIREITO DE PREFERÊNCIA (bloco Mato Grosso)||Selecione o assunto:  Outro Assunto Descrição de outro assunto: Adicionar AssuntosAções EXERCÍCIO DO DIREITO DE PREFERÊNCIA (bloco Mato Grosso)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1538732&numSequencia=1063438&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/06/2026, “Portfólio de Terras - Atualização 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1534354&numSequencia=1059060&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 15/06/2026, “Projeções para a safra 2025-26 2026-27 e projeto de irrigação”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1534355&numSequencia=1059061&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/01/2026, “Aquisição da Sierentz Agro Brasil Ltda. Ajuste de preço final”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1466859&numSequencia=991565&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/12/2025, “Fato Relevante Bonificação de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1462648&numSequencia=987354&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

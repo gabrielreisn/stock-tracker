@@ -1,0 +1,267 @@
+{
+  "ticker": "XLC",
+  "slug": "xlc",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLC: ETF de comunicação, histórico e desempenho",
+    "description": "Conheça o XLC, o ETF da State Street que replica o setor de comunicação do S&P 500. Veja rentabilidade, volatilidade e como investir a partir do Brasil.",
+    "h1": "XLC: State Street Communication Services Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xlc",
+    "keywords": [
+      "XLC",
+      "ETF comunicação",
+      "State Street SPDR",
+      "S&P 500 comunicação",
+      "investir em ETF americano"
+    ]
+  },
+  "summary": "XLC é a cota do State Street Communication Services Select Sector SPDR ETF, um fundo de índice que replica o desempenho do setor de serviços de comunicação do S&P 500. Lançado em 19/06/2018, o ativo é gerido pela State Street Global Advisors. Até 30/10/2026, a cota valia US$ 99,90 e a rentabilidade total nos últimos 12 meses foi de -11,53%, refletindo a dinâmica específica das empresas de mídia, telecomunicações e entretenimento.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Communication Services Select Sector SPDR ETF",
+    "ticker": "ARCX XLC",
+    "foundingDate": "2018-06-19",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors",
+    "trackedIndex": "S&P 500 Communication Services Select Industry Index",
+    "name": "State Street Communication Services Select Sector SPDR ETF",
+    "founded": "19/06/2018"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Communication Services Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "19/06/2018",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 99,90",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "16,38% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,67",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,38%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 622,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLC",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Communication Services Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 99.9,
+    "historyStarts": "2018-06-19",
+    "returns": {
+      "1y": -0.1153,
+      "3y": 0.6061,
+      "5y": 0.3097,
+      "10y": null
+    },
+    "volatility1y": 0.1638,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.4391,
+      "from": "2021-11-05",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": 0.67,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.381,
+      "payments12Months": 4,
+      "yield12Months": 0.0138,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.364
+      }
+    },
+    "avgDailyTradedValue3m": 622322956
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do XLC nos últimos 12 meses foi de 16,38%, um nível considerado moderado para um ETF setorial. O beta de 0,67 contra o S&P 500 indica que o ativo tende a acompanhar os movimentos do índice com menor amplitude, mas na mesma direção. A maior queda em 5 anos foi de -43,91%, entre 05/11/2021 e 03/11/2022, o que ilustra o risco de concentração setorial. Para monitorar movimentos bruscos de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) permite configurar notificações quando a cota atinge níveis específicos."
+  },
+  "history": {
+    "overview": "O XLC faz parte da família de ETFs SPDR, gerida pela State Street Global Advisors (SSGA), a terceira maior provedora de ETFs do mundo. A SSGA unificou seus fundos nos Estados Unidos sob a marca SPDR em 2007, consolidando uma estrutura que inclui os chamados Sector Spiders, lançados em 1998 em cooperação com a Merrill Lynch para acompanhar os setores do S&P 500. O XLC especificamente iniciou suas operações em 19/06/2018, data do seu primeiro pregão na bolsa. O setor de comunicação, que o XLC representa, passou por uma reclassificação significativa em 2018, quando o antigo setor de serviços de telecomunicações foi renomeado para serviços de comunicação, incorporando empresas de mídia e entretenimento que antes estavam em outros grupos, o que ampliou o escopo do índice seguido pelo ETF.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "Lançamento dos Sector Spiders pela SSGA e Merrill Lynch para acompanhar os setores do S&P 500.",
+        "source": 1
+      },
+      {
+        "date": "2018",
+        "event": "Reclassificação do setor de telecomunicações para comunicação, incluindo mídia e entretenimento.",
+        "source": 3
+      },
+      {
+        "date": "2018-06-19",
+        "event": "Primeiro pregão das cotas do XLC na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLC funciona",
+      "body": "O XLC é um ETF (Exchange-Traded Fund) que visa replicar o desempenho do índice S&P 500 Communication Services Select Industry Index. Ele é gerido pela State Street Global Advisors (SSGA), que é a terceira maior provedora de ETFs do mundo, atrás de iShares e Vanguard. O fundo foi lançado em 19/06/2018 e opera como um unit investment trust. Diferente de ETFs alavancados ou inversos, o XLC não possui rebalanceamento diário de múltiplos, o que significa que seu objetivo é acompanhar a variação do índice de referência ao longo do tempo, sem a distorção matemática associada a alavancagem."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLC",
+      "body": "O XLC segue o índice de serviços de comunicação do S&P 500. De acordo com as fontes, o S&P 500 é um índice que rastreia 500 empresas de grande capitalização nos Estados Unidos, representando aproximadamente 83% da capitalização de mercado total das empresas públicas americanas. O setor de comunicação, classificado pelo padrão GICS, foi expandido em 2018 para incluir empresas de mídia e entretenimento, além das tradicionais de telecomunicações. As fontes não detalham a lista exata das empresas que compõem o XLC em 2026, mas indicam que o fundo reflete a composição desse setor específico do S&P 500."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLC a partir do Brasil",
+      "body": "Investidores brasileiros podem adquirir o XLC através de contas em corretoras de valores nos Estados Unidos ou em corretoras internacionais que operam no mercado americano. Outra opção é buscar ETFs ou BDRs negociados na B3 que sigam o mesmo índice ou tenham exposição semelhante ao setor de comunicação. Como o XLC é cotado em dólares, o investidor brasileiro está exposto ao risco cambial: variações no câmbio do dólar em relação ao real impactam diretamente o retorno em reais, independentemente do desempenho das empresas americanas. É importante considerar que ativos em dólar não estão protegidos contra a desvalorização da moeda americana."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLC",
+      "body": "Até 30/10/2026, a cota do XLC valia US$ 99,90. A rentabilidade total com proventos foi de -11,53% nos últimos 12 meses, 60,61% em 3 anos e 30,97% em 5 anos. O fundo distribuiu US$ 1,3810 por cota em 4 pagamentos no período de 12 meses, resultando em um dividend yield de 1,38%. Para acompanhar a evolução do seu investimento e comparar com outros índices, é possível utilizar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) no app, que permite visualizar a rentabilidade do XLC lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLC",
+      "body": "O principal risco do XLC é a concentração setorial: o fundo expõe o investidor exclusivamente ao setor de serviços de comunicação, o que pode resultar em maior volatilidade em relação ao mercado geral. A volatilidade anualizada do XLC nos últimos 12 meses foi de 16,38%, considerada moderada. A maior queda nos últimos 5 anos foi de -43,91%, ocorrendo do pico em 05/11/2021 ao ponto mais baixo em 03/11/2022. Além disso, há o risco cambial para investidores brasileiros, já que o ativo é cotado em dólar. O beta de 0,67 indica que, historicamente, o XLC tende a ter movimentos menores que os do S&P 500, mas isso não elimina a possibilidade de perdas significativas em períodos de estresse do setor."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar XLC no app",
+      "body": "Para quem tem XLC na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do XLC lado a lado com o S&P 500 e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações quando a cota do XLC atinge níveis específicos de preço.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do XLC junto com outros ativos da sua carteira em uma única visão."
+    }
+  ],
+  "faq": [
+    {
+      "question": "XLC é um ETF alavancado?",
+      "answer": "Não, o XLC não é um ETF alavancado. Ele visa replicar o desempenho do índice S&P 500 Communication Services Select Industry Index sem o uso de alavancagem ou inversão, o que significa que não há rebalanceamento diário de múltiplos."
+    },
+    {
+      "question": "Qual o dividend yield do XLC?",
+      "answer": "O dividend yield do XLC foi de 1,38% nos 12 meses até 30/10/2026, com base em US$ 1,3810 distribuídos por cota em 4 pagamentos. O último pagamento foi de US$ 0,3640 em 21/09/2026."
+    },
+    {
+      "question": "Como o XLC se comporta em relação ao S&P 500?",
+      "answer": "O beta do XLC contra o S&P 500 é de 0,67, o que indica que o ativo tende a ter movimentos menores que os do índice de referência, mas na mesma direção. Isso não significa que o XLC é menos volátil em todos os cenários, apenas que sua sensibilidade aos movimentos do S&P 500 é menor."
+    },
+    {
+      "question": "Qual a maior queda do XLC nos últimos 5 anos?",
+      "answer": "A maior queda do XLC nos últimos 5 anos foi de -43,91%, ocorrendo do pico em 05/11/2021 ao ponto mais baixo em 03/11/2022. Esse movimento reflete a volatilidade do setor de comunicação e a concentração do fundo nesse segmento."
+    },
+    {
+      "question": "O que é o setor de comunicação do S&P 500?",
+      "answer": "O setor de comunicação do S&P 500, classificado pelo padrão GICS, foi expandido em 2018 para incluir empresas de mídia e entretenimento, além das tradicionais de telecomunicações. O XLC replica o desempenho desse setor específico, que faz parte do índice S&P 500, que rastreia 500 empresas de grande capitalização nos Estados Unidos."
+    },
+    {
+      "question": "Posso investir no XLC a partir do Brasil?",
+      "answer": "Sim, é possível investir no XLC a partir do Brasil através de contas em corretoras nos Estados Unidos ou em corretoras internacionais. Outra opção é buscar ETFs ou BDRs na B3 que sigam o mesmo índice. É importante considerar o risco cambial, já que o XLC é cotado em dólares."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do XLC lado a lado com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações quando a cota do XLC atinge níveis específicos de preço."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do XLC junto com outros ativos da sua carteira em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, o índice de referência do XLC."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "ETF do setor de tecnologia, que tem sobreposição com o setor de comunicação após a reclassificação de 2018."
+      },
+      {
+        "ticker": "XLY",
+        "list": "us-etfs",
+        "reason": "ETF do setor de consumo discricionário, que também teve empresas de mídia e entretenimento antes da reclassificação de 2018."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLC",
+      "url": "https://finance.yahoo.com/quote/XLC/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,274 @@
+{
+  "ticker": "IVV",
+  "slug": "ivv",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IVV: história, dividendos e volatilidade",
+    "description": "Conheça o IVV, o ETF que replica o S&P 500. Veja desempenho, dividendos, riscos e como investir a partir do Brasil.",
+    "h1": "IVV: iShares Core S&P 500 ETF",
+    "canonicalPath": "/etfs/ivv",
+    "keywords": [
+      "IVV",
+      "iShares Core S&P 500 ETF",
+      "ETF S&P 500",
+      "investir em IVV",
+      "dividendos IVV",
+      "volatilidade IVV"
+    ]
+  },
+  "summary": "IVV é o iShares Core S&P 500 ETF, cotado na bolsa americana desde 19/05/2000. O fundo é gerido pela iShares, braço da BlackRock, e replica o desempenho do índice S&P 500, que reúne 500 das maiores empresas dos Estados Unidos por capitalização de mercado. Em 30/10/2026, a cota valia US$ 759,18, com rentabilidade total de 12,43% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Core S&P 500 ETF",
+    "ticker": "ARCX IVV",
+    "foundingDate": "2000-05-19",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "S&P 500",
+    "name": "iShares Core S&P 500 ETF",
+    "founded": "19/05/2000"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Core S&P 500 ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "19/05/2000",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 759,18",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "12,80% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,00",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,11%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 4,89 bilhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IVV",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Core S&P 500 ETF",
+    "currency": "USD",
+    "price": 759.18,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1243,
+      "3y": 0.8902,
+      "5y": 0.7618,
+      "10y": 3.1904
+    },
+    "volatility1y": 0.128,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2453,
+      "from": "2022-01-03",
+      "to": "2022-10-12"
+    },
+    "beta1y": {
+      "value": 1,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 8.397,
+      "payments12Months": 4,
+      "yield12Months": 0.0111,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 2.203
+      }
+    },
+    "avgDailyTradedValue3m": 4887089720
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do IVV nos 12 meses até 30/10/2026 foi de 12,80%, um nível considerado baixo para um ETF de ações. O beta de 1,00 contra o S&P 500 indica que o ativo tende a se mover na mesma direção e na mesma proporção do índice. A maior queda em 5 anos foi de -24,53%, entre 03/01/2022 e 12/10/2022. Para monitorar movimentos de preço e definir pontos de entrada ou saída, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O IVV é um dos principais veículos para investir no mercado acionário americano, replicando o índice S&P 500. O índice, mantido pela S&P Dow Jones Indices, foi expandido para 500 empresas em 04/03/1957, quando passou a ser chamado de S&P 500 Stock Composite Index. Em 2005, o índice adotou a ponderação por capitalização de mercado ajustada à flutuação pública (public float-adjusted), o que influencia o peso de cada empresa na carteira do ETF. A iShares, atualmente sob a gestão da BlackRock, lançou o IVV em 19/05/2000, inserindo-o em um mercado de ETFs que já contava com o SPDR S&P 500 ([SPY](/etfs/spy)), lançado em 1993 pela State Street. A BlackRock, maior gestora de ativos do mundo, com US$ 15,3 trilhões sob gestão em 2026, é responsável pela administração do fundo. O S&P 500 representa cerca de 83% da capitalização de mercado das empresas públicas dos EUA, com um valor agregado superior a US$ 61,1 trilhões em 31/12/2025.",
+    "timeline": [
+      {
+        "date": "1957-03-04",
+        "event": "O índice é expandido para 500 empresas e renomeado para S&P 500 Stock Composite Index.",
+        "source": 1
+      },
+      {
+        "date": "1993",
+        "event": "O primeiro ETF a seguir o S&P 500, o SPDR S&P 500 (SPY), começa a ser negociado.",
+        "source": 2
+      },
+      {
+        "date": "2000-05-19",
+        "event": "Primeiro pregão das cotas do ETF IVV na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2005",
+        "event": "O índice S&P 500 transita para a ponderação por capitalização de mercado ajustada à flutuação pública.",
+        "source": 1
+      },
+      {
+        "date": "2009-03-16",
+        "event": "A Barclays confirma o plano de venda da marca iShares para a CVC Capital Partners.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IVV funciona",
+      "body": "O IVV é um ETF que replica o índice S&P 500, sendo gerido pela iShares, uma marca da BlackRock. O fundo começou a ser negociado em 19/05/2000. Diferente de ETFs alavancados ou inversos, o IVV não possui rebalanceamento diário de alavancagem; ele simplesmente acompanha a variação do índice. O S&P 500 é um índice de capitalização de mercado, o que significa que empresas com maior valor de mercado têm maior peso na carteira do ETF. A BlackRock, maior gestora de ativos do mundo, administra o fundo, que é um dos principais veículos para exposição ao mercado acionário dos Estados Unidos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IVV",
+      "body": "O IVV segue o índice S&P 500, que acompanha o desempenho de 500 empresas listadas nos Estados Unidos com as maiores capitalizações de mercado. O índice é mantido pela S&P Dow Jones Indices e representa cerca de 83% do total da capitalização de mercado das empresas públicas dos EUA, com um valor agregado superior a US$ 61,1 trilhões em 31/12/2025. A capitalização média das empresas do índice é de US$ 41,8 bilhões, variando de US$ 5,6 bilhões a US$ 4,8 trilhões. As empresas que compõem o índice geram 72% de suas receitas nos Estados Unidos e 28% em outros países."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IVV a partir do Brasil",
+      "body": "Para investir no IVV a partir do Brasil, o investidor precisa abrir uma conta em uma corretora que ofereça acesso ao mercado americano. O ativo é cotado em dólar, o que introduz risco cambial: a rentabilidade em reais dependerá tanto do desempenho do índice S&P 500 quanto da variação do câmbio entre o dólar e o real. Alternativamente, é possível buscar exposição ao mesmo índice por meio de ETFs ou BDRs negociados na B3 que tenham o S&P 500 como referência, o que pode simplificar a gestão cambial e a tributação, embora possa envolver custos de gestão diferentes."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IVV",
+      "body": "Em 30/10/2026, a cota do IVV valia US$ 759,18. A rentabilidade total com proventos foi de 12,43% nos 12 meses, 89,02% em 3 anos, 76,18% em 5 anos e 319,04% em 10 anos. O fundo distribuiu US$ 8,3970 por cota em 4 pagamentos nos 12 meses até 30/10/2026, resultando em um dividend yield de 1,11%. O último provento foi de US$ 2,2030 em 15/09/2026. Para acompanhar a evolução da rentabilidade e comparar com o índice de referência, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IVV",
+      "body": "O principal risco do IVV é a volatilidade do mercado acionário americano. A volatilidade anualizada do fundo nos 12 meses até 30/10/2026 foi de 12,80%, classificada como baixa. O beta de 1,00 indica que o ativo acompanha os movimentos do S&P 500 na mesma proporção. A maior queda em 5 anos foi de -24,53%, ocorrida entre o pico em 03/01/2022 e o ponto mais baixo em 12/10/2022. Além do risco de mercado, há o risco cambial para o investidor brasileiro, pois o ativo é cotado em dólar. A concentração em empresas de capitalização grande nos EUA também é um fator a considerar, especialmente em cenários de estresse de mercado."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o IVV?",
+      "answer": "IVV é o iShares Core S&P 500 ETF, um fundo que replica o índice S&P 500. Ele é gerido pela iShares, braço da BlackRock, e começou a ser negociado em 19/05/2000. O fundo oferece exposição às 500 maiores empresas dos Estados Unidos por capitalização de mercado."
+    },
+    {
+      "question": "Qual a diferença entre IVV e SPY?",
+      "answer": "Tanto o IVV quanto o SPY replicam o índice S&P 500. O SPY, lançado em 1993 pela State Street, é o ETF mais antigo e possui maior volume de negociação. O IVV, lançado em 2000 pela iShares (BlackRock), é uma alternativa com estrutura semelhante. Ambos são amplamente utilizados para investir no mercado acionário americano."
+    },
+    {
+      "question": "O IVV paga dividendos?",
+      "answer": "Sim, o IVV distribui proventos aos cotistas. Nos 12 meses até 30/10/2026, o fundo pagou US$ 8,3970 por cota em 4 pagamentos, resultando em um dividend yield de 1,11%. O último pagamento foi de US$ 2,2030 em 15/09/2026. No app, é possível acompanhar os [dividendos e JCP](/recursos/desempenho-e-preco-medio) com data de pagamento."
+    },
+    {
+      "question": "Como investir no IVV a partir do Brasil?",
+      "answer": "Para investir no IVV, o investidor brasileiro precisa de uma conta em uma corretora com acesso ao mercado americano. O ativo é cotado em dólar, o que envolve risco cambial. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam o S&P 500, o que pode simplificar a gestão cambial."
+    },
+    {
+      "question": "Qual a volatilidade do IVV?",
+      "answer": "A volatilidade anualizada do IVV nos 12 meses até 30/10/2026 foi de 12,80%, um nível considerado baixo. O beta de 1,00 indica que o ativo acompanha os movimentos do S&P 500 na mesma proporção. A maior queda em 5 anos foi de -24,53%, entre 03/01/2022 e 12/10/2022."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do IVV lado a lado com o S&P 500, o Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do IVV atingir o preço que você definiu, para acompanhar o ativo durante o pregão."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do IVV junto com outros ativos da sua carteira, como ações da B3 e renda fixa, em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "O SPY é o principal concorrente do IVV, sendo o ETF de S&P 500 mais antigo e com maior volume de negociação."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "O VOO é outro ETF que replica o S&P 500, gerido pela Vanguard, oferecendo uma alternativa ao IVV."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "O QQQ replica o NASDAQ 100, um índice focado em tecnologia, para quem busca uma exposição diferente ao mercado americano."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "O EWZ é um ETF que segue o mercado brasileiro, útil para diversificação internacional a partir do Brasil."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IVV",
+      "url": "https://finance.yahoo.com/quote/IVV/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): BlackRock (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/BlackRock",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,305 @@
+{
+  "ticker": "QLD",
+  "slug": "qld",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "QLD: ETF alavancado 2x do Nasdaq-100",
+    "description": "Conheça o ProShares Ultra QQQ (QLD): ETF alavancado 2x do Nasdaq-100, com volatilidade de 40,46% e beta de 2,91.",
+    "h1": "QLD: ProShares Ultra QQQ",
+    "canonicalPath": "/etfs/qld",
+    "keywords": [
+      "QLD",
+      "ProShares Ultra QQQ",
+      "ETF alavancado",
+      "Nasdaq-100",
+      "ETF 2x",
+      "investir em ETFs americanos",
+      "QLD Brasil",
+      "ETF tecnologia"
+    ]
+  },
+  "summary": "QLD é o ticker do ProShares Ultra QQQ, um ETF alavancado que busca entregar o dobro do desempenho diário do índice Nasdaq-100. Lançado em 21/06/2006, o fundo é emitido pela ProShares e foca em empresas de tecnologia e crescimento. Com volatilidade anualizada de 40,46% e beta de 2,91 contra o S&P 500 até 30/10/2026, o ativo apresenta oscilações amplas, exigindo atenção redobrada ao rebalanceamento diário e à gestão de risco.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "ProShares Ultra QQQ",
+    "ticker": "ARCX QLD",
+    "foundingDate": "2006-06-21",
+    "provider": {
+      "name": "ProShares",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/ProShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado 2x",
+    "issuerOrManager": "ProShares",
+    "trackedIndex": "Nasdaq-100",
+    "name": "ProShares Ultra QQQ",
+    "founded": "21/06/2006"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ProShares Ultra QQQ",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "21/06/2006",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "2x o desempenho diário do índice (200%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 82,59",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "40,46% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,91",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,15%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 368,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "QLD",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ProShares Ultra QQQ",
+    "currency": "USD",
+    "price": 82.59,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1173,
+      "3y": 1.9781,
+      "5y": 0.9655,
+      "10y": 15.0039
+    },
+    "volatility1y": 0.4046,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6368,
+      "from": "2021-11-19",
+      "to": "2022-12-28"
+    },
+    "beta1y": {
+      "value": 2.91,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.124,
+      "payments12Months": 4,
+      "yield12Months": 0.0015,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.027
+      }
+    },
+    "avgDailyTradedValue3m": 368322177
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do QLD nos 12 meses até 30/10/2026 foi de 40,46%, nível classificado como muito alta 0. O beta de 2,91 contra o S&P 500 indica que, historicamente, o ativo tende a acompanhar os movimentos do índice com intensidade quase três vezes maior, na mesma direção 0. Isso significa que, em dias de alta do S&P 500, o QLD tende a subir mais; em dias de baixa, tende a cair mais. A maior queda em 5 anos foi de -63,68%, do pico em 19/11/2021 ao ponto mais baixo em 28/12/2022 0. Para um ETF alavancado 2x, essa volatilidade é esperada, mas o beta acima de 2,91 sugere que, no período recente, o QLD ampliou ainda mais os movimentos do S&P 500, possivelmente devido à correlação com o Nasdaq-100, que tem maior peso em tecnologia. O [alertas de preço](/recursos/alertas-de-preco) é uma ferramenta útil para monitorar oscilações extremas, mas o investidor deve estar preparado para a magnitude dos movimentos."
+  },
+  "history": {
+    "overview": "O ProShares Ultra [QQQ](/etfs/qqq) (QLD) surgiu em 2006, no auge da popularização dos ETFs alavancados nos Estados Unidos. A emissora, ProShares, foi fundada em 1997 como ProFunds Group por ex-funcionários da Rydex, com foco inicial em fundos inversos para mercados em queda. Em 2006, a empresa lançou a marca ProShares e seu primeiro ETF inverso, consolidando-se como uma das principais emissoras de produtos derivativos e alavancados do mercado americano 2. O Nasdaq-100, índice alvo do QLD, foi lançado em 1985 e passou por ajustes metodológicos em 1998, 2011 e 2023 para garantir a diversificação e a aderência às regras fiscais americanas 1.",
+    "timeline": [
+      {
+        "date": "1985-01-31",
+        "event": "Lançamento do índice Nasdaq-100 pela Nasdaq, com base inicial de 250 pontos.",
+        "source": 1
+      },
+      {
+        "date": "1997",
+        "event": "Fundação da ProFunds Group, precursora da ProShares, por Louis Mayberg e Michael Sapir.",
+        "source": 2
+      },
+      {
+        "date": "2006-06-21",
+        "event": "Primeiro pregão das cotas do ETF ProShares Ultra QQQ (QLD) na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2021-10",
+        "event": "ProShares lança um ETF que investe em contratos futuros de Bitcoin.",
+        "source": 2
+      },
+      {
+        "date": "2023-07",
+        "event": "Nasdaq realiza o terceiro rebalanceamento especial do índice Nasdaq-100 devido ao aumento da concentração.",
+        "source": 1
+      },
+      {
+        "date": "2023-10-02",
+        "event": "ProShares lança três ETFs de futuros de Ethereum nos Estados Unidos.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o QLD funciona",
+      "body": "A emissora é a ProShares, empresa americana especializada em produtos alavancados e inversos, fundada em 1997 2. O QLD foi lançado em 21/06/2006 0. Em ETFs alavancados, o rebalanceamento diário é o mecanismo central: o fundo ajusta sua exposição a cada dia para que a variação diária corresponda ao múltiplo do índice. Em períodos de mercado em tendência forte, o resultado tende a se aproximar do múltiplo; em mercados de alta volatilidade ou lateralizados, o efeito do rebalanceamento diário pode fazer com que o retorno acumulado se afaste significativamente do dobro do retorno do índice no mesmo período. Esse fenômeno, conhecido como decaimento da alavancagem, é uma característica matemática da estrutura do produto, não uma falha de gestão."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do QLD",
+      "body": "O QLD replica o índice Nasdaq-100, que é composto por 100 das maiores empresas não financeiras listadas na bolsa Nasdaq 1. O índice é ponderado por capitalização de mercado ajustada pela flutuação pública, com um limite máximo de 24% para a maior empresa componente 1. As empresas do índice abrangem setores como tecnologia, varejo, telecomunicações, biotecnologia, saúde, transporte, mídia e serviços 1. A entrada de novas empresas no índice é determinada pelo Nasdaq Index Management Committee, seguindo critérios transparentes, incluindo listagem primária na Nasdaq e valor diário médio negociado de pelo menos US$ 5 milhões 1. O índice é recalculado anualmente após o fechamento da terceira sexta-feira de dezembro, e a quantidade de ações e flutuação pública de cada componente são atualizadas trimestralmente 1."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no QLD a partir do Brasil",
+      "body": "Para investir no QLD a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso ao mercado americano, como as corretoras internacionais ou as corretoras brasileiras que operam ações dos EUA. O investimento é feito em dólar, o que expõe o investidor ao risco cambial: variações no câmbio entre o real e o dólar impactam o retorno final em reais, independentemente do desempenho do índice Nasdaq-100. Além disso, o QLD é um produto alavancado, o que amplifica tanto os ganhos quanto as perdas em relação ao índice. O investidor deve considerar a liquidez do ativo, que apresenta volume médio diário de US$ 368,3 milhões nos últimos 3 meses até 30/10/2026 0, e a complexidade do produto, que exige monitoramento constante devido ao rebalanceamento diário."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do QLD",
+      "body": "Até 30/10/2026, o QLD apresentou rentabilidade total com proventos de 11,73% em 12 meses, 197,81% em 3 anos, 96,55% em 5 anos e 1.500,39% em 10 anos 0. O preço da cota era de US$ 82,59 nessa data 0. O fundo pagou US$ 0,1240 por cota em 4 pagamentos nos 12 meses até 30/10/2026, com dividend yield de 0,15%, sendo o último pagamento de US$ 0,0270 em 23/09/2026 0. A alta rentabilidade em 3 anos reflete o forte desempenho do setor de tecnologia nos EUA, mas a volatilidade anualizada de 40,46% e a maior queda de -63,68% entre 19/11/2021 e 28/12/2022 mostram a magnitude dos riscos 0. A [comparação com índices](/recursos/comparacao-com-indices) permite avaliar o desempenho do QLD lado a lado com o S&P 500 e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do QLD",
+      "body": "O principal risco do QLD é a alavancagem de 2x, que amplifica tanto os ganhos quanto as perdas. A volatilidade anualizada de 40,46% até 30/10/2026 é classificada como muito alta, e o beta de 2,91 contra o S&P 500 indica que o ativo tende a se mover com intensidade quase três vezes maior que o índice de referência 0. A maior queda em 5 anos foi de -63,68%, entre 19/11/2021 e 28/12/2022 0. Além do risco de mercado, o QLD está exposto ao risco cambial, pois é cotado em dólar. O efeito do rebalanceamento diário pode gerar decaimento em mercados de alta volatilidade ou lateralizados, fazendo com que o retorno acumulado se afaste do dobro do retorno do índice. O [alertas de preço](/recursos/alertas-de-preco) podem ajudar o investidor a monitorar movimentos extremos, mas não eliminam o risco de perda."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar QLD no app",
+      "body": "Para quem tem QLD na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas para monitorar oscilações extremas do QLD, que tem volatilidade anualizada de 40,46% e maior queda de -63,68% em 5 anos.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do QLD com o S&P 500 e outros benchmarks para avaliar o desempenho do ativo em relação ao mercado.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja a alocação do QLD na sua carteira consolidada, junto com outras ações, ETFs e renda fixa, para avaliar a diversificação e o risco total.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade do QLD e o preço médio da sua posição, com gráficos de variação diária e anual."
+    }
+  ],
+  "faq": [
+    {
+      "question": "QLD é um ETF alavancado?",
+      "answer": "Sim, o QLD é um ETF alavancado 2x que busca entregar o dobro do desempenho diário do índice Nasdaq-100."
+    },
+    {
+      "question": "Qual a diferença entre QLD e QQQ?",
+      "answer": "O QQQ é um ETF que replica o índice Nasdaq-100 com exposição 1x, enquanto o QLD é um ETF alavancado 2x que busca entregar o dobro do desempenho diário do mesmo índice. O QLD tem maior volatilidade e maior risco, com beta de 2,91 contra o S&P 500 até 30/10/2026, enquanto o QQQ tem beta mais próximo de 1. O QLD é adequado para investidores que buscam amplificar ganhos em mercados de alta, mas que assumem o risco de perdas amplas em mercados de baixa."
+    },
+    {
+      "question": "QLD paga dividendos?",
+      "answer": "Sim, o QLD paga proventos, mas o dividend yield é baixo. Nos 12 meses até 30/10/2026, o fundo pagou US$ 0,1240 por cota em 4 pagamentos, com dividend yield de 0,15% 0. O último pagamento foi de US$ 0,0270 em 23/09/2026 0. O foco do QLD é a capitalização, não a renda, e o investidor deve considerar a tributação dos proventos nos EUA e no Brasil."
+    },
+    {
+      "question": "Como investir no QLD a partir do Brasil?",
+      "answer": "O investidor brasileiro pode comprar o QLD por meio de uma corretora que ofereça acesso ao mercado americano, como corretoras internacionais ou corretoras brasileiras que operam ações dos EUA. O investimento é feito em dólar, o que expõe o investidor ao risco cambial. O QLD é um produto alavancado, o que amplifica tanto os ganhos quanto as perdas, exigindo monitoramento constante devido ao rebalanceamento diário."
+    },
+    {
+      "question": "Qual o risco do QLD?",
+      "answer": "O principal risco do QLD é a alavancagem de 2x, que amplifica tanto os ganhos quanto as perdas. A volatilidade anualizada de 40,46% até 30/10/2026 é muito alta, e a maior queda em 5 anos foi de -63,68% 0. Além do risco de mercado, o QLD está exposto ao risco cambial, pois é cotado em dólar. O efeito do rebalanceamento diário pode gerar decaimento em mercados de alta volatilidade ou lateralizados."
+    },
+    {
+      "question": "QLD é bom para iniciantes?",
+      "answer": "O QLD é um produto complexo e de alto risco, adequado para investidores experientes que entendem o efeito do rebalanceamento diário e o decaimento da alavancagem. A volatilidade anualizada de 40,46% e a maior queda de -63,68% em 5 anos mostram a magnitude dos riscos 0. O investidor deve estar preparado para a magnitude dos movimentos e ter uma estratégia de gestão de risco clara."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para monitorar oscilações extremas do QLD, que tem volatilidade anualizada de 40,46% e maior queda de -63,68% em 5 anos."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do QLD com o S&P 500 e outros benchmarks para avaliar o desempenho do ativo em relação ao mercado."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do QLD na sua carteira consolidada, junto com outras ações, ETFs e renda fixa, para avaliar a diversificação e o risco total."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do QLD e o preço médio da sua posição, com gráficos de variação diária e anual."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "O QQQ é o ETF não alavancado que replica o índice Nasdaq-100, servindo como referência para o QLD."
+      },
+      {
+        "ticker": "TQQQ",
+        "list": "us-etfs",
+        "reason": "O TQQQ é outro ETF alavancado da ProShares que busca entregar 3x o desempenho diário do Nasdaq-100, com maior alavancagem e risco."
+      },
+      {
+        "ticker": "SQQQ",
+        "list": "us-etfs",
+        "reason": "O SQQQ é o ETF inverso alavancado 3x do Nasdaq-100, útil para investidores que buscam se proteger de quedas no índice."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "O SPY é o ETF do S&P 500, o índice de referência para o beta do QLD, que tem beta de 2,91 contra o S&P 500."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "O XLK é o ETF do setor de tecnologia do S&P 500, que tem correlação com o Nasdaq-100, índice alvo do QLD."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de QLD",
+      "url": "https://finance.yahoo.com/quote/QLD/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nasdaq-100 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Nasdaq-100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): ProShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/ProShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

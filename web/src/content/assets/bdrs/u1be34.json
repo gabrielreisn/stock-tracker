@@ -1,0 +1,275 @@
+{
+  "ticker": "U1BE34",
+  "slug": "u1be34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "U1BE34: BDR da Uber, histórico e riscos",
+    "description": "Conheça o U1BE34, BDR da Uber na B3: como funciona, desempenho, riscos cambiais e volatilidade. Atualizado até 29/10/2026.",
+    "h1": "U1BE34: BDR da Uber Technologies Inc.",
+    "canonicalPath": "/bdrs/u1be34",
+    "keywords": [
+      "U1BE34",
+      "BDR Uber",
+      "Uber B3",
+      "BDR não patrocinado",
+      "ações Uber Brasil",
+      "volatilidade U1BE34",
+      "risco cambial BDR"
+    ]
+  },
+  "summary": "U1BE34 é o BDR não patrocinado de nível I da Uber Technologies Inc., empresa americana de mobilidade urbana, entrega de alimentos e frete. Negociado na B3 desde 12/11/2019, o ativo representa ações da UBER na Bolsa de Valores de Nova Iorque. Em 29/10/2026, a cotação era de R$ 88,12, com rentabilidade de -31,44% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Uber",
+    "legalName": "UBER TECHNOLOGIES INC",
+    "ticker": "BVMF U1BE34",
+    "foundingDate": "2009-03",
+    "website": "https://www.uber.com/",
+    "wikidata": "Q780442",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q780442",
+      "https://en.wikipedia.org/wiki/Uber",
+      "https://pt.wikipedia.org/wiki/Uber",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53430/U1BE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Uber",
+    "legalName": "UBER TECHNOLOGIES INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "03/2009",
+    "listedSince": "12/11/2019",
+    "headquarters": "São Francisco, São Francisco",
+    "website": "https://www.uber.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "UBER TECHNOLOGIES INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: UBER",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Francisco, São Francisco",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "03/2009",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 88,12",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "39,49% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "U1BE34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Uber Technologies, Inc.",
+    "currency": "BRL",
+    "price": 88.12,
+    "historyStarts": "2019-12-23",
+    "returns": {
+      "1y": -0.3144,
+      "3y": 0.6407,
+      "5y": 0.424,
+      "10y": null
+    },
+    "volatility1y": 0.3949,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6026,
+      "from": "2021-11-05",
+      "to": "2022-05-24"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 2347333
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do U1BE34 foi de 39,49% nos últimos 12 meses, nível considerado alto para um BDR. A maior queda em 5 anos foi de -60,26%, entre 05/11/2021 e 24/05/2022, refletindo a sensibilidade do ativo a mudanças no mercado de tecnologia e no câmbio. Como BDR não patrocinado, o ativo não possui beta disponível para comparação com índices. A alta volatilidade e a queda acentuada exigem atenção a oscilações de preço, que podem ser monitoradas com [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "Fundada em 03/2009 por Garrett Camp e Travis Kalanick, a Uber iniciou suas operações em São Francisco com o objetivo de facilitar a contratação de transporte. Em 2011, a empresa mudou o nome de UberCab para Uber após críticas de taxistas locais e expandiu o modelo para incluir veículos comuns através do UberX. A expansão global foi marcada por aquisições e saídas estratégicas: em 2016, vendeu a operação na China para a DiDi e, em 2018, trocou sua participação no Sudeste Asiático por uma fatia de 27,5% na Grab. Em 2019, a Uber realizou sua oferta pública inicial (IPO) na Bolsa de Valores de Nova Iorque, sendo avaliada em US$ 82 bilhões na abertura. O BDR U1BE34 foi listado na B3 em 12/11/2019, permitindo que investidores brasileiros acompanhassem a empresa em reais. Em 2023, a Uber encerrou sua participação na Rússia, vendendo sua fatia na Yandex Taxi por US$ 702,5 milhões.",
+    "timeline": [
+      {
+        "date": "2009-03",
+        "event": "Fundação da Uber Technologies Inc.",
+        "source": 2
+      },
+      {
+        "date": "2019-05",
+        "event": "Oferta pública inicial (IPO) da Uber na Bolsa de Valores de Nova Iorque",
+        "source": 3
+      },
+      {
+        "date": "2019-11-12",
+        "event": "Listagem do BDR U1BE34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2023-04-21",
+        "event": "Yandex anuncia a compra da participação da Uber na Yandex Taxi por US$ 702,5 milhões",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Uber ganha dinheiro",
+      "body": "A Uber Technologies Inc. opera em aproximadamente 70 países e 15.000 cidades, oferecendo serviços de transporte privado (ride-hailing), entrega de alimentos, encomendas e frete. No quarto trimestre de 2025, a empresa registrou uma taxa de comissão (take rate) de 29,9% para serviços de mobilidade e 19,2% para entrega de alimentos. A receita é gerada pela intermediação entre motoristas/entregadores e usuários, com a empresa retendo uma porcentagem das reservas brutas. A Uber coordena uma média de 42 milhões de viagens e pedidos de entrega por dia, totalizando 72 bilhões de transações desde 2010."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR U1BE34",
+      "body": "O U1BE34 é um BDR não patrocinado de nível I, o que significa que é um recibo negociado na B3 em reais, lastreado em ações da Uber Technologies Inc. na Bolsa de Valores de Nova Iorque (ticker UBER), emitido por uma instituição depositária. O ativo está listado na B3 desde 12/11/2019. O preço do BDR acompanha a variação da ação original em dólar e o câmbio entre o dólar e o real, refletindo ambos os movimentos no valor em reais."
+    },
+    {
+      "id": "proventos",
+      "heading": "U1BE34 paga dividendos?",
+      "body": "Não houve pagamento de proventos (dividendos ou juros sobre capital próprio) pelo BDR U1BE34 nos últimos 12 meses até 29/10/2026. Como a Uber é uma empresa de tecnologia em fase de expansão, a política de distribuição de lucros pode variar, e o valor em reais depende da conversão da moeda original."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do U1BE34",
+      "body": "Até 29/10/2026, o U1BE34 apresentou rentabilidade total de -31,44% nos últimos 12 meses, 64,07% em 3 anos e 42,40% em 5 anos. Esses retornos incluem a variação do câmbio entre o dólar e o real. Para avaliar o desempenho em relação a outros mercados, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite confrontar a rentabilidade do BDR com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do U1BE34",
+      "body": "Os principais riscos do U1BE34 incluem a volatilidade da ação original e o risco cambial, já que o valor em reais é impactado pela variação do dólar. A volatilidade anualizada do BDR foi de 39,49% nos últimos 12 meses, classificada como alta. A maior queda nos últimos 5 anos foi de -60,26%, entre 05/11/2021 e 24/05/2022. A liquidez do BDR na B3 é limitada, com volume médio diário de R$ 2,3 milhões nos últimos 3 meses. Investidores podem usar os [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações significativas."
+    }
+  ],
+  "faq": [
+    {
+      "question": "U1BE34 paga dividendos?",
+      "answer": "Não houve pagamento de proventos pelo U1BE34 nos últimos 12 meses até 29/10/2026. A Uber pode alterar sua política de distribuição de lucros, e eventuais pagamentos seriam convertidos para reais conforme o câmbio na data do pagamento."
+    },
+    {
+      "question": "O que é o BDR U1BE34?",
+      "answer": "O U1BE34 é um BDR não patrocinado de nível I da Uber Technologies Inc., negociado na B3 em reais. Ele representa ações da UBER na Bolsa de Valores de Nova Iorque e está listado desde 12/11/2019. O preço reflete a variação da ação original e o câmbio dólar/real."
+    },
+    {
+      "question": "Qual o risco cambial do U1BE34?",
+      "answer": "O U1BE34 tem risco cambial porque seu valor em reais depende da variação do dólar em relação ao real. Se o dólar se valorizar, o BDR tende a subir em reais, e vice-versa. Esse risco é adicional à volatilidade da ação original da Uber."
+    },
+    {
+      "question": "Como acompanhar o desempenho do U1BE34?",
+      "answer": "O desempenho do U1BE34 pode ser acompanhado pelo [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app, que mostra a rentabilidade e a variação do ativo. Para comparar com outros mercados, use a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500 e o CDI."
+    },
+    {
+      "question": "Qual a liquidez do U1BE34 na B3?",
+      "answer": "O volume médio diário do U1BE34 nos últimos 3 meses foi de R$ 2,3 milhões, o que indica liquidez moderada. Investidores devem considerar esse volume ao planejar compras ou vendas, especialmente em posições maiores."
+    },
+    {
+      "question": "Como a Uber ganha dinheiro?",
+      "answer": "A Uber gera receita pela intermediação de viagens, entregas e frete, retendo uma porcentagem das reservas brutas. No quarto trimestre de 2025, a taxa de comissão foi de 29,9% para mobilidade e 19,2% para entrega de alimentos. A empresa opera em 70 países e coordena 42 milhões de transações por dia."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do U1BE34 lado a lado com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o U1BE34 atingir preços que você definir, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do U1BE34 junto a outros ativos, como ações brasileiras e ETFs, em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com exposição similar ao mercado americano e risco cambial."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de mobilidade, com volatilidade e perfil de crescimento semelhantes."
+      },
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de tecnologia e logística, com operação global e exposição ao câmbio."
+      },
+      {
+        "ticker": "ROXO34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de tecnologia financeira, com perfil de crescimento e risco cambial."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de U1BE34",
+      "url": "https://finance.yahoo.com/quote/U1BE34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: UBER TECH IN, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53430/U1BE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Uber",
+      "url": "https://www.wikidata.org/wiki/Q780442",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Uber",
+      "url": "https://en.wikipedia.org/wiki/Uber",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Uber",
+      "url": "https://pt.wikipedia.org/wiki/Uber",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,335 @@
+{
+  "ticker": "RBRL11",
+  "slug": "rbrl11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RBRL11: história, dividendos e volatilidade",
+    "description": "Conheça o RBRL11, FII de logística em transição para renda, com dividend yield de 11,35% e patrimônio de R$ 629,0 milhões em 09/2026.",
+    "h1": "RBRL11: Patria Logística II FII",
+    "canonicalPath": "/fiis/rbrl11",
+    "keywords": [
+      "RBRL11",
+      "Patria Logística II FII",
+      "FII logística",
+      "dividend yield RBRL11",
+      "XPLG11",
+      "volatilidade RBRL11"
+    ]
+  },
+  "summary": "RBRL11 é a cota do Patria Logística II Fundo de Investimento Imobiliário, um FII de tijolo focado em logística que encerrou seu portfólio imobiliário em 2026. Com patrimônio de R$ 629,0 milhões em 09/2026, o fundo passou a distribuir rendimentos provenientes de cotas do XPLG11, mantendo dividend yield de 11,35% nos 12 meses até 29/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Patria Logística II Fundo de Investimento Imobiliário",
+    "legalName": "PATRIA LOGÍSTICA II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF RBRL11",
+    "isin": "BRRBRLCTF001",
+    "taxId": "35.705.463/0001-33",
+    "foundingDate": "2020-01-02",
+    "provider": {
+      "name": "BRL TRUST DTVM S.A.",
+      "url": "https://www.apexgroup.com/apex-brazil/"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35705463000133"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, logística (em transição para renda)",
+    "issuerOrManager": "Patria Investimentos Ltda",
+    "name": "Patria Logística II Fundo de Investimento Imobiliário",
+    "legalName": "PATRIA LOGÍSTICA II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "02/01/2020",
+    "administrator": "BRL TRUST DTVM S.A.",
+    "website": "https://www.apexgroup.com/apex-brazil/"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "PATRIA LOGÍSTICA II FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "35.705.463/0001-33",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BRL TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "02/01/2020",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 629,0 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "15.362",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 94,06",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 71,39",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,94% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,25",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,35%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RBRL11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "RBR Log FII",
+    "currency": "BRL",
+    "price": 71.39,
+    "historyStarts": "2022-02-16",
+    "returns": {
+      "1y": -0.0865,
+      "3y": 0.1208,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1894,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2617,
+      "from": "2023-07-31",
+      "to": "2025-02-05"
+    },
+    "beta1y": {
+      "value": 0.25,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 8.1,
+      "payments12Months": 12,
+      "yield12Months": 0.1135,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.6
+      }
+    },
+    "avgDailyTradedValue3m": 1058659
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do RBRL11 é de 18,94%, classificada como moderada, e o beta de 0,25 contra o Ibovespa indica que o fundo costuma acompanhar os movimentos do índice com menor amplitude. A maior queda nos últimos 5 anos foi de -26,17%, do pico em 31/07/2023 ao ponto mais baixo em 05/02/2025. Essa volatilidade é típica de FIIs de tijolo em transição, onde a exposição a um único ativo (XPLG11) pode amplificar os movimentos. O beta não mede volatilidade diretamente, mas a correlação com o índice. Você pode acompanhar a volatilidade e configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar os movimentos do RBRL11."
+  },
+  "history": {
+    "overview": "O Patria Logística II FII iniciou suas atividades em 02/01/2020, com foco em ativos logísticos e industriais. O fundo realizou três ofertas públicas de cotas entre 2020 e 2021, expandindo sua base de investidores para 15.362 cotistas em 09/2026. Em 2025, o fundo anunciou a venda de seus ativos performados ao XP Log Fundo de Investimento Imobiliário ([XPLG11](/fiis/xplg11)), transação concluída em fevereiro de 2026. Essa operação marcou a transição do RBRL11 de um fundo de tijolo para um veículo focado em renda, mantendo cotas do XPLG11 em carteira até condições de mercado mais favoráveis. A gestão foi transferida para a Patria Investimentos Ltda. em fevereiro de 2026, com o novo nome de pregão 'FII RBRL PAX'.",
+    "timeline": [
+      {
+        "date": "2020-01-02",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2020-04-16",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2020-11-03",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2025-06-30",
+        "event": "Fato relevante sobre a venda do portfólio imobiliário ao XPLG11",
+        "source": 3
+      },
+      {
+        "date": "2025-12",
+        "event": "Fato relevante complementar sobre a transação",
+        "source": 3
+      },
+      {
+        "date": "2026-02-02",
+        "event": "Conclusão da transação e mudança de gestão para Patria Investimentos",
+        "source": 5
+      },
+      {
+        "date": "2026-02-10",
+        "event": "Fato relevante sobre a alienação do último ativo (Imóvel SBC)",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RBRL11",
+      "body": "O RBRL11 é um FII de tijolo com foco em logística e desenvolvimento, mas que passou por uma transição estratégica em 2026. Após a venda de seus ativos performados ao XPLG11, o fundo mantém cotas do XPLG11 em carteira até condições mais favoráveis de mercado. A gestão é ativa, com a Patria Investimentos Ltda. como gestora e a Apex Group como administradora. O objetivo do fundo é proporcionar valorização e rentabilidade investindo preponderantemente em bens imóveis ou direitos a estes relativos, destinados às áreas logística ou industrial, inclusive para desenvolvimento de novos empreendimentos e operações de built to suit e sale leaseback."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RBRL11",
+      "body": "Nos 12 meses até 29/10/2026, o RBRL11 distribuiu R$ 8,1000 por cota em 12 pagamentos, resultando em dividend yield de 11,35%. O último pagamento foi de R$ 0,6000 em 01/10/2026. Após a venda dos ativos imobiliários, a fonte de receita recorrente passou a ser os rendimentos distribuídos somados ao rebate da taxa de gestão do XPLG11. A distribuição foi ajustada para R$ 0,60/cota, em linha com a receita recorrente proporcionada pelos rendimentos do XPLG11. Os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Você pode acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento, multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RBRL11 realizou 3 ofertas públicas de cotas encerradas, com 493 documentos publicados no FNET desde 30/12/2019. Em 09/2026, o fundo contava com 15.362 cotistas e patrimônio líquido de R$ 629,0 milhões. O valor patrimonial da cota era de R$ 94,06, enquanto o valor de mercado era de R$ 76,29, resultando em P/VP de 0,81x. O fundo possui 6.687.035 cotas emitidas."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RBRL11",
+      "body": "A rentabilidade total com proventos do RBRL11 foi de -8,65% nos 12 meses até 29/10/2026, e de 12,08% em 3 anos. O fundo apresenta volatilidade anualizada de 18,94%, classificada como moderada, e beta de 0,25 contra o Ibovespa. A maior queda nos últimos 5 anos foi de -26,17%, do pico em 31/07/2023 ao ponto mais baixo em 05/02/2025. Você pode comparar o desempenho do RBRL11 com o [IFIX e CDI no app](/recursos/comparacao-com-indices), vendo a rentabilidade da carteira lado a lado com os principais índices."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RBRL11",
+      "body": "Os riscos do RBRL11 incluem a dependência dos rendimentos do XPLG11, a volatilidade do mercado de FIIs e a sensibilidade a mudanças nas taxas de juros. A volatilidade anualizada de 18,94% é moderada, e a maior queda de -26,17% entre 31/07/2023 e 05/02/2025 reflete a sensibilidade do fundo a condições de mercado. O beta de 0,25 indica que o fundo costuma acompanhar os movimentos do Ibovespa com menor amplitude. Riscos gerais de FIIs de tijolo incluem vacância e crédito, mas o RBRL11, após a venda de seus ativos, está mais exposto à performance do XPLG11. Você pode configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar a volatilidade do RBRL11."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RBRL11 ainda é um FII de tijolo?",
+      "answer": "Não, o RBRL11 encerrou seu portfólio imobiliário em 2026 e passou a manter cotas do XPLG11 em carteira. O fundo ainda é classificado como FII de tijolo, mas sua receita vem de rendimentos distribuídos e rebate de taxa de gestão do XPLG11."
+    },
+    {
+      "question": "Qual o dividend yield do RBRL11?",
+      "answer": "O dividend yield do RBRL11 é de 11,35% nos 12 meses até 29/10/2026, com R$ 8,1000 distribuídos por cota. O último pagamento foi de R$ 0,6000 em 01/10/2026. Você pode acompanhar os [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Quem é a gestora do RBRL11?",
+      "answer": "A gestora do RBRL11 é a Patria Investimentos Ltda., e a administradora é a Apex Group Distribuidora de Títulos e Valores Mobiliários S.A. A mudança de gestão ocorreu em fevereiro de 2026."
+    },
+    {
+      "question": "Qual o patrimônio do RBRL11?",
+      "answer": "O patrimônio líquido do RBRL11 é de R$ 629,0 milhões em 09/2026, com 15.362 cotistas e valor patrimonial da cota de R$ 94,06. O valor de mercado é de R$ 76,29, resultando em P/VP de 0,81x."
+    },
+    {
+      "question": "RBRL11 paga dividendos?",
+      "answer": "Sim, o RBRL11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram R$ 8,1000 por cota em 12 pagamentos. A distribuição foi ajustada para R$ 0,60/cota após a venda dos ativos imobiliários."
+    },
+    {
+      "question": "Qual a diferença entre RBRL11 e XPLG11?",
+      "answer": "O RBRL11 é um FII que mantém cotas do XPLG11 em carteira, enquanto o XPLG11 é um FII de logística que detém os ativos imobiliários. O RBRL11 passou a depender dos rendimentos do XPLG11 após a venda de seus ativos em 2026. Você pode comparar os dois no [comparador de fundos](/recursos/comparador-de-fundos)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da RBRL11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "IFIX e CDI no app",
+        "context": "Compare a rentabilidade da RBRL11 com o IFIX e CDI, vendo a performance lado a lado com os principais índices."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para acompanhar a volatilidade da RBRL11 e ser notificado quando o ativo chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a RBRL11 junto com seus outros ativos na carteira consolidada, com valor por classe, alocação e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "O RBRL11 mantém cotas do XPLG11 em carteira, e a performance do fundo depende dos rendimentos do XPLG11."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "BTG Pactual Logística é um FII de logística, similar ao segmento original do RBRL11."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "CSHG Logística é outro FII de logística, permitindo comparação com o segmento do RBRL11."
+      },
+      {
+        "ticker": "VILG11",
+        "list": "fiis",
+        "reason": "Vinci Logística é um FII de logística, oferecendo comparação com o segmento do RBRL11."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RBRL11",
+      "url": "https://finance.yahoo.com/quote/RBRL11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do PÁTRIA LOGÍSTICA II FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RBRL11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=35705463000133",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RBRL11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1348099",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBRL11, 10/02/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1108862",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBRL11, 02/02/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1099499",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

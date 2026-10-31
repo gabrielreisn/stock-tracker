@@ -1,0 +1,294 @@
+{
+  "ticker": "MFII11",
+  "slug": "mfii11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MFII11: história, dividendos e volatilidade",
+    "description": "Conheça o MFII11, FII híbrido da Mérito, com dividend yield de 31,14% e volatilidade de 64,23%. Veja patrimônio, cotistas e desempenho.",
+    "h1": "MFII11: Mérito Desenvolvimento Imobiliário FII",
+    "canonicalPath": "/fiis/mfii11",
+    "keywords": [
+      "MFII11",
+      "Mérito Desenvolvimento Imobiliário FII",
+      "FII híbrido",
+      "dividend yield MFII11",
+      "volatilidade MFII11"
+    ]
+  },
+  "summary": "MFII11 é a cota do Mérito Desenvolvimento Imobiliário FII, um fundo de investimento imobiliário híbrido com gestão ativa, fundado em 06/03/2013. O objetivo principal do fundo é o desenvolvimento de empreendimentos imobiliários, com foco no segmento residencial. Em 09/2026, o patrimônio líquido era de R$ 658,0 milhões, com 30.574 cotistas e valor patrimonial da cota de R$ 96,77 [1]. A rentabilidade total nos 12 meses até 29/10/2026 foi de -51,25% [0].",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Merito Desenvolvimento Imobiliario I FII - Fundo de Investimento Imobiliario",
+    "legalName": "MERITO DESENVOLVIMENTO IMOBILIARIO I FII - FUNDO DE INVESTIMENTO IMOBILIARIO",
+    "ticker": "BVMF MFII11",
+    "isin": "BRMFIICTF008",
+    "taxId": "16.915.968/0001-88",
+    "foundingDate": "2013-03-06",
+    "provider": {
+      "name": "MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "url": "https://www.meritodtvm.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=16915968000188"
+    ]
+  },
+  "profile": {
+    "type": "FII híbrido, gestão ativa",
+    "issuerOrManager": "Mérito Investimentos (gestora) e Mérito DTVM (administradora) [1, 3]",
+    "name": "Merito Desenvolvimento Imobiliario I FII - Fundo de Investimento Imobiliario",
+    "legalName": "MERITO DESENVOLVIMENTO IMOBILIARIO I FII - FUNDO DE INVESTIMENTO IMOBILIARIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "06/03/2013",
+    "administrator": "MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "website": "https://www.meritodtvm.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "MERITO DESENVOLVIMENTO IMOBILIARIO I FII - FUNDO DE INVESTIMENTO IMOBILIARIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "16.915.968/0001-88",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "06/03/2013",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 658,0 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "30.574",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 96,77",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 32,11",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "64,23% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,38",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "31,14%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 828.520,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MFII11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Mérito Desenvolvimento Imobiliário I FII - Fundo de Investimento Imobiliário",
+    "currency": "BRL",
+    "price": 32.11,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.5125,
+      "3y": -0.4606,
+      "5y": -0.4237,
+      "10y": -0.3247
+    },
+    "volatility1y": 0.6423,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6263,
+      "from": "2024-08-30",
+      "to": "2026-08-10"
+    },
+    "beta1y": {
+      "value": 0.38,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10,
+      "payments12Months": 12,
+      "yield12Months": 0.3114,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.3
+      }
+    },
+    "avgDailyTradedValue3m": 828520
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 12 meses do MFII11 é de 64,23%, classificada como muito alta 0. O beta de 12 meses contra o Ibovespa é de 0,38, o que indica que o ativo costuma acompanhar os movimentos do Ibovespa com menor intensidade, na mesma direção 0. A maior queda nos últimos 5 anos foi de -62,63%, do pico em 30/08/2024 ao ponto mais baixo em 10/08/2026 0. Essa volatilidade é típica de FIIs com exposição a ativos de crédito e de tijolo em desenvolvimento, que podem apresentar oscilações mais acentuadas que o mercado em geral."
+  },
+  "history": {
+    "overview": "O Mérito Desenvolvimento Imobiliário FII (MFII11) iniciou suas atividades em 06/03/2013, com o objetivo de desenvolver empreendimentos imobiliários, com foco no segmento residencial, e atuar de forma ativa na seleção e monitoramento dos ativos [1, 3]. A gestão é realizada pela Mérito Investimentos e a administração pela Mérito DTVM 3. O fundo é classificado pela ANBIMA como FII Híbrido Gestão Ativa 3. Desde o início, o fundo realizou múltiplas ofertas públicas de cotas para captação de recursos, com as primeiras registradas no FNET (B3) a partir de 03/06/2016 2. Em 09/2026, o patrimônio líquido do fundo era de R$ 658,0 milhões, com 30.574 cotistas 1. O relatório gerencial de 30/09/2026 destaca a conclusão de obras do cemitério Santo Amaro, parte de uma concessão de cemitérios públicos de São Paulo, o que impacta a geração de caixa do fundo 3.",
+    "timeline": [
+      {
+        "date": "2013-03-06",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2016-09-19",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2017-03-16",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do MFII11",
+      "body": "O MFII11 é um FII híbrido com gestão ativa, classificado pela ANBIMA como FII Híbrido Gestão Ativa 3. O objetivo principal do fundo é o desenvolvimento de empreendimentos imobiliários, com foco no segmento residencial, e a atuação ativa do gestor na seleção e no monitoramento desses ativos 3. A gestora é a Mérito Investimentos e a administradora é a Mérito DTVM 3. O relatório gerencial de 30/09/2026 destaca a conclusão de obras do cemitério Santo Amaro, parte de uma concessão de cemitérios públicos de São Paulo, o que impacta a geração de caixa do fundo 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do MFII11",
+      "body": "Nos 12 meses até 29/10/2026, o MFII11 distribuiu R$ 10,0000 por cota em 12 pagamentos, resultando em um dividend yield de 31,14% 0. O último pagamento foi de R$ 0,3000 em 01/10/2026 0. O relatório gerencial de 30/09/2026 indica um dividend yield de 12 meses de 26,74% 3. A tributação dos rendimentos de FIIs não é detalhada nas fontes do dossiê. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O MFII11 realizou 7 ofertas públicas de cotas encerradas, conforme registrado no FNET (B3) 2. Em 09/2026, o patrimônio líquido do fundo era de R$ 658,0 milhões, com 30.574 cotistas e valor patrimonial da cota de R$ 96,77 1. O número de cotas emitidas era de 6.800.000 1. A taxa de administração no mês de 09/2026 foi de 0,120% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MFII11",
+      "body": "A rentabilidade total com proventos do MFII11 nos 12 meses até 29/10/2026 foi de -51,25% 0. Nos 3 anos, a rentabilidade foi de -46,06%, e nos 5 anos, de -42,37% 0. O relatório gerencial de 30/09/2026 mostra uma rentabilidade de -45,20% em 12 meses e -45,75% em 36 meses 3. A comparação com índices como o IFIX e o CDI pode ser feita no [app](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MFII11",
+      "body": "O MFII11 é um FII híbrido, o que significa que ele pode investir em ativos de papel (como CRIs) e de tijolo (imóveis físicos), além de outros ativos 3. A volatilidade anualizada de 12 meses é de 64,23%, classificada como muito alta 0. A maior queda nos últimos 5 anos foi de -62,63%, do pico em 30/08/2024 ao ponto mais baixo em 10/08/2026 0. Os riscos incluem a exposição a ativos de crédito (risco de inadimplência) e a ativos de tijolo (risco de vacância e valorização). A alta volatilidade pode ser acompanhada com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "MFII11 é FII de papel ou de tijolo?",
+      "answer": "O MFII11 é um FII híbrido, o que significa que ele pode investir em ativos de papel (como CRIs) e de tijolo (imóveis físicos), além de outros ativos 3. A classificação da ANBIMA é FII Híbrido Gestão Ativa 3."
+    },
+    {
+      "question": "Qual a taxa de administração do MFII11?",
+      "answer": "A taxa de administração do MFII11 é de 2,0% ao ano sobre o patrimônio líquido a mercado, conforme o relatório gerencial de 30/09/2026 3. Em 09/2026, a taxa mensal foi de 0,120% sobre o patrimônio 1."
+    },
+    {
+      "question": "MFII11 paga dividendos?",
+      "answer": "Sim, o MFII11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 10,0000 por cota em 12 pagamentos, resultando em um dividend yield de 31,14% 0. O último pagamento foi de R$ 0,3000 em 01/10/2026 0."
+    },
+    {
+      "question": "Qual o patrimônio do MFII11?",
+      "answer": "Em 09/2026, o patrimônio líquido do MFII11 era de R$ 658,0 milhões, com 30.574 cotistas e valor patrimonial da cota de R$ 96,77 1. O número de cotas emitidas era de 6.800.000 1."
+    },
+    {
+      "question": "Como o MFII11 se compara ao IFIX?",
+      "answer": "A rentabilidade total com proventos do MFII11 nos 12 meses até 29/10/2026 foi de -51,25%, enquanto o IFIX teve uma variação de -0,53% no mesmo período, conforme o relatório gerencial de 30/09/2026 3. A comparação pode ser feita no [app](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Qual a volatilidade do MFII11?",
+      "answer": "A volatilidade anualizada de 12 meses do MFII11 é de 64,23%, classificada como muito alta 0. A maior queda nos últimos 5 anos foi de -62,63%, do pico em 30/08/2024 ao ponto mais baixo em 10/08/2026 0."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da MFII11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da MFII11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a MFII11 chegar ao preço que você escolheu, para acompanhar a volatilidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TRXF11",
+        "list": "fiis",
+        "reason": "Outro FII de papel, com foco em CRIs, para comparação de estratégia e risco."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de renda imobiliária, para comparação de dividend yield e volatilidade."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings, para comparação de exposição a ativos de tijolo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MFII11",
+      "url": "https://finance.yahoo.com/quote/MFII11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do MÉRITO DESENVOLVIMENTO IMOBILIÁRIO FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo MFII11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=16915968000188",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do MFII11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1343744",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

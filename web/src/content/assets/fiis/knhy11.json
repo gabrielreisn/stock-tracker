@@ -1,0 +1,366 @@
+{
+  "ticker": "KNHY11",
+  "slug": "knhy11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "KNHY11: história, dividendos e volatilidade",
+    "description": "KNHY11 é um FII de papel com foco em CRI. Veja a história, os dividendos, a volatilidade e o desempenho do Kinea High Yield Cri FII.",
+    "h1": "KNHY11: Kinea High Yield Cri FII",
+    "canonicalPath": "/fiis/knhy11",
+    "keywords": [
+      "KNHY11",
+      "Kinea High Yield Cri FII",
+      "FII de papel",
+      "CRI",
+      "dividend yield",
+      "volatilidade",
+      "investidores qualificados"
+    ]
+  },
+  "summary": "KNHY11 é o Kinea High Yield Cri Fundo de Investimento Imobiliário, um fundo de papel que investe predominantemente em Certificados de Recebíveis Imobiliários (CRI) indexados à inflação. O fundo tem gestão ativa e é voltado para investidores qualificados. Em 09/2026, o patrimônio líquido era de R$ 3,12 bilhões, com valor patrimonial da cota de R$ 100,04. A cota fechou a R$ 92,65 em 30/10/2026, com dividend yield de 13,36% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Kinea High Yield Cri Fundo de Investimento Imobiliário  Responsabilidade Limitada",
+    "legalName": "KINEA HIGH YIELD CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO  RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF KNHY11",
+    "isin": "BRKNHYCTF005",
+    "taxId": "30.130.708/0001-28",
+    "foundingDate": "2018-07-03",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30130708000128"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Kinea Investimentos Ltda",
+    "name": "Kinea High Yield Cri Fundo de Investimento Imobiliário  Responsabilidade Limitada",
+    "legalName": "KINEA HIGH YIELD CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO  RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "03/07/2018",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "KINEA HIGH YIELD CRI FUNDO DE INVESTIMENTO IMOBILIÁRIO  RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "30.130.708/0001-28",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "03/07/2018",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 3,12 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "27.439",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 100,04",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 92,65",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "9,86% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,18",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "13,36%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 5,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KNHY11",
+    "list": "fiis",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Kinea High Yield Cri Fundo Investimento Imobiliario FII",
+    "currency": "BRL",
+    "price": 92.65,
+    "historyStarts": "2018-08-10",
+    "returns": {
+      "1y": 0.046,
+      "3y": 0.3564,
+      "5y": 0.6303,
+      "10y": null
+    },
+    "volatility1y": 0.0986,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.0971,
+      "from": "2024-09-20",
+      "to": "2025-02-04"
+    },
+    "beta1y": {
+      "value": 0.18,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 12.38,
+      "payments12Months": 12,
+      "yield12Months": 0.1336,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.7
+      }
+    },
+    "avgDailyTradedValue3m": 5258328
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada de 12 meses do KNHY11 é de 9,86%, um nível considerado baixo para um fundo de papel. O beta de 0,18 contra o Ibovespa indica que o fundo tende a ter movimentos de preço menores que os do índice, na mesma direção. A maior queda em cinco anos foi de -9,71%, entre 20/09/2024 e 04/02/2025. Para um fundo de CRI, essa volatilidade é compatível com a natureza de crédito imobiliário, que tende a ser menos sensível a movimentos de mercado do que ações ou FIIs de tijolo. O [alertas de preço](/recursos/alertas-de-preco) no app permite monitorar a cota e receber notificações quando ela atinge um valor específico."
+  },
+  "history": {
+    "overview": "O Kinea High Yield Cri FII (KNHY11) iniciou suas atividades em 03/07/2018, com foco em ativos de renda fixa de natureza imobiliária, especialmente CRIs. A estratégia do fundo é ativa, com a Kinea Investimentos Ltda. como gestora e a Intrag DTVM Ltda. como administradora. O fundo é voltado para o público de investidores qualificados, o que significa que possui regras específicas de acesso e liquidez em relação a outros FIIs. Desde a sua criação, o fundo realizou oito ofertas públicas de cotas, com as primeiras em 2018 e a mais recente encerrada em 11/11/2025. A carteira do fundo é diversificada em CRIs, com a maior parte indexada ao IPCA, e também inclui uma pequena alocação em CRIs atrelados ao CDI e em outros fundos imobiliários. A gestão busca uma remuneração média que acompanhe a inflação mais uma taxa real, com prazo médio de longo prazo, o que reflete a natureza de crédito imobiliário do portfólio. A volatilidade do fundo tem sido baixa, com a maior queda em cinco anos de -9,71%, entre 20/09/2024 e 04/02/2025.",
+    "timeline": [
+      {
+        "date": "2018-06-25",
+        "event": "Início da primeira oferta pública de cotas do fundo.",
+        "source": 2
+      },
+      {
+        "date": "2018-07-03",
+        "event": "Início das atividades do Kinea High Yield Cri FII.",
+        "source": 1
+      },
+      {
+        "date": "2018-08-08",
+        "event": "Encerramento da primeira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-11-01",
+        "event": "Início da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2019-12-06",
+        "event": "Encerramento da segunda oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2020-02-19",
+        "event": "Início da terceira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2020-03-19",
+        "event": "Encerramento da terceira oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2021-09-03",
+        "event": "Início da quarta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2021-09-13",
+        "event": "Encerramento da quarta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2022-02-24",
+        "event": "Início da quinta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2022-03-09",
+        "event": "Encerramento da quinta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2024-02-29",
+        "event": "Início da sexta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2024-04-11",
+        "event": "Encerramento da sexta oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2025-07-17",
+        "event": "Início da sétima oferta pública de cotas.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do KNHY11",
+      "body": "O KNHY11 é um fundo de investimento imobiliário de papel, com foco em Certificados de Recebíveis Imobiliários (CRI). A estratégia é ativa, com a Kinea Investimentos Ltda. como gestora e a Intrag DTVM Ltda. como administradora. O fundo é voltado para investidores qualificados, o que implica regras específicas de acesso e liquidez. Em 30/09/2026, a carteira tinha 96,5% em ativos alvo e 10,3% em caixa. A maior parte, 91,9%, estava em CRIs indexados ao IPCA, com remuneração média de IPCA + 12,00% a.a. e prazo médio de 6,7 anos. Uma parcela de 4,3% estava em CRIs atrelados ao CDI, com remuneração de CDI + 3,90% a.a. e prazo médio de 0,1 ano. O fundo também tinha uma pequena alocação em outros fundos imobiliários."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do KNHY11",
+      "body": "Nos 12 meses até 30/10/2026, o KNHY11 distribuiu R$ 12,3800 por cota em 12 pagamentos, o que representa um dividend yield de 13,36%. O último pagamento foi de R$ 0,7000 em 01/10/2026. O relatório gerencial de setembro de 2026 indica que os dividendos do mês, pagos em 14/10/2026, são de R$ 0,70 por cota, com isenção de imposto de renda para pessoas físicas. O [proventos no app](/recursos/proventos) permite acompanhar a data de pagamento e a data com de cada distribuição, multiplicada pela quantidade de cotas na carteira."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O KNHY11 realizou oito ofertas públicas de cotas desde a sua criação, com a primeira iniciada em 25/06/2018 e a mais recente encerrada em 11/11/2025. Em 09/2026, o patrimônio líquido era de R$ 3,12 bilhões, com 27.439 cotistas e valor patrimonial da cota de R$ 100,04. O fundo tinha 31.173.083 cotas emitidas. A taxa de administração no mês era de 0,133% sobre o patrimônio. O [comparador de fundos](/recursos/comparador-de-fundos) permite buscar e comparar o KNHY11 com outros fundos da CVM por nome, CNPJ ou gestora."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KNHY11",
+      "body": "A rentabilidade total com proventos do KNHY11 foi de 4,60% em 12 meses, 35,64% em 3 anos e 63,03% em 5 anos, até 30/10/2026. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app mostra a rentabilidade da carteira com um gráfico que permite medir períodos específicos. A [comparação com índices](/recursos/comparacao-com-indices) permite ver a rentabilidade do KNHY11 lado a lado com o IFIX, CDI, IPCA e outros índices no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KNHY11",
+      "body": "Como fundo de papel, o KNHY11 está exposto ao risco de crédito dos devedores dos CRIs, que são lastreados por recebíveis imobiliários. A carteira tem uma concentração em CRIs indexados ao IPCA, o que a expõe a riscos de inflação e de crédito no setor imobiliário. A volatilidade anualizada de 12 meses é de 9,86%, considerada baixa, e a maior queda em cinco anos foi de -9,71%, entre 20/09/2024 e 04/02/2025. O [alertas de preço](/recursos/alertas-de-preco) no app permite definir notificações quando a cota atinge um valor específico, o que pode ajudar a monitorar a volatilidade."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KNHY11 é FII de papel ou de tijolo?",
+      "answer": "KNHY11 é um FII de papel, com foco em Certificados de Recebíveis Imobiliários (CRI). O fundo não possui imóveis físicos na carteira, mas sim ativos de renda fixa lastreados por recebíveis do setor imobiliário."
+    },
+    {
+      "question": "Qual o dividend yield do KNHY11?",
+      "answer": "O dividend yield do KNHY11 nos 12 meses até 30/10/2026 é de 13,36%, com R$ 12,3800 distribuídos por cota. O último pagamento foi de R$ 0,7000 em 01/10/2026. O [proventos no app](/recursos/proventos) permite acompanhar a data de pagamento e a data com de cada distribuição."
+    },
+    {
+      "question": "KNHY11 é para investidores qualificados?",
+      "answer": "Sim, o KNHY11 é voltado para investidores qualificados, o que implica regras específicas de acesso e liquidez. O fundo tem gestão ativa e é administrado pela Intrag DTVM Ltda., com a Kinea Investimentos Ltda. como gestora."
+    },
+    {
+      "question": "Qual a taxa de administração do KNHY11?",
+      "answer": "A taxa de administração do KNHY11 em 09/2026 era de 0,133% sobre o patrimônio líquido. O fundo não cobra taxa de performance. O [comparador de fundos](/recursos/comparador-de-fundos) permite buscar e comparar o KNHY11 com outros fundos da CVM por nome, CNPJ ou gestora."
+    },
+    {
+      "question": "Qual a rentabilidade do KNHY11 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos do KNHY11 nos 12 meses até 30/10/2026 foi de 4,60%. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app mostra a rentabilidade da carteira com um gráfico que permite medir períodos específicos."
+    },
+    {
+      "question": "Qual o patrimônio do KNHY11?",
+      "answer": "Em 09/2026, o patrimônio líquido do KNHY11 era de R$ 3,12 bilhões, com 27.439 cotistas e valor patrimonial da cota de R$ 100,04. O [carteira consolidada](/recursos/carteira-consolidada) no app permite ver a alocação do KNHY11 junto com outros ativos na carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos no app",
+        "context": "Veja os dividendos do KNHY11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do KNHY11 com o IFIX, CDI, IPCA e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina notificações quando a cota do KNHY11 atinge um valor específico, para monitorar a volatilidade."
+      },
+      {
+        "feature": "comparador-de-fundos",
+        "anchor": "comparador de fundos",
+        "context": "Busque e compare o KNHY11 com outros fundos da CVM por nome, CNPJ ou gestora."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "Outro FII da Kinea, com foco em rendimentos imobiliários."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII da Kinea que investe em índices de preços, com estratégia semelhante ao KNHY11."
+      },
+      {
+        "ticker": "KNUQ11",
+        "list": "fiis",
+        "reason": "FII da Kinea com foco em high yield e CDI, com estratégia de crédito imobiliário."
+      },
+      {
+        "ticker": "KNHF11",
+        "list": "fiis",
+        "reason": "FII da Kinea com estratégia de hedge fund, com foco em renda fixa e crédito."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KNHY11",
+      "url": "https://finance.yahoo.com/quote/KNHY11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do KINEA HIGH YIELD CRI FII RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo KNHY11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30130708000128",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do KNHY11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1345794",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do KNHY11, 27/06/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=934589",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,316 @@
+{
+  "ticker": "KNUQ11",
+  "slug": "knuq11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "KNUQ11: FII de papel, CRI e dividendos",
+    "description": "KNUQ11 é um FII de papel da Kinea, focado em CRIs pós-fixados. Patrimônio de R$ 2,53 bilhões em 09/2026, dividend yield de 14,62% e volatilidade baixa.",
+    "h1": "KNUQ11: Kinea Unique Hy CDI FII",
+    "canonicalPath": "/fiis/knuq11",
+    "keywords": [
+      "KNUQ11",
+      "Kinea Unique Hy CDI FII",
+      "FII de papel",
+      "CRI",
+      "dividendos KNUQ11",
+      "volatilidade KNUQ11",
+      "patrimônio KNUQ11"
+    ]
+  },
+  "summary": "KNUQ11 é a cota do Kinea Unique Hy CDI Fundo de Investimento Imobiliário, um FII de papel focado em Certificados de Recebíveis Imobiliários (CRI) pós-fixados. Fundado em 15/12/2022, o fundo é administrado pela Intrag e gerido pela Kinea Investimentos. Em 09/2026, o patrimônio líquido era de R$ 2,53 bilhões, com 55.235 cotistas e valor patrimonial da cota de R$ 100,49. O fundo distribui proventos mensais, com dividend yield de 14,62% nos 12 meses até 30/10/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Kinea Unique Hy Cdi Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "KINEA UNIQUE HY CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF KNUQ11",
+    "isin": "BR0EBICTF008",
+    "taxId": "42.754.362/0001-18",
+    "foundingDate": "2022-12-15",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=42754362000118"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Kinea Investimentos Ltda",
+    "name": "Kinea Unique Hy Cdi Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "KINEA UNIQUE HY CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "15/12/2022",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "KINEA UNIQUE HY CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "42.754.362/0001-18",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "15/12/2022",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 2,53 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "55.235",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 100,49",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 98,93",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "6,09% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,08",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,62%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 5,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KNUQ11",
+    "list": "fiis",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Kinea Unique Hy Cdi Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 98.93,
+    "historyStarts": "2023-10-26",
+    "returns": {
+      "1y": 0.089,
+      "3y": 0.443,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.0609,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.093,
+      "from": "2024-09-30",
+      "to": "2024-12-16"
+    },
+    "beta1y": {
+      "value": 0.08,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 14.4604,
+      "payments12Months": 12,
+      "yield12Months": 0.1462,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 1.15
+      }
+    },
+    "avgDailyTradedValue3m": 5373073
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do KNUQ11 nos 12 meses até 30/10/2026 foi de 6,09%, nível baixo, e o beta contra o Ibovespa foi de 0,08, indicando movimentos menores que os do índice na mesma direção 0. A maior queda em 5 anos foi de -9,30%, do pico em 30/09/2024 ao ponto mais baixo em 16/12/2024 0. Para FIIs de papel, essa volatilidade é compatível com a exposição a CRIs pós-fixados, que tendem a ter menor sensibilidade a movimentos de mercado do que FIIs de tijolo."
+  },
+  "history": {
+    "overview": "O Kinea Unique Hy CDI FII (KNUQ11) iniciou suas atividades em 15/12/2022, com o objetivo de investir em ativos de renda fixa de natureza pós-fixada, especialmente em Certificados de Recebíveis Imobiliários (CRI). A gestão é ativa, conduzida pela Kinea Investimentos Ltda., enquanto a administração é da Intrag Distribuidora de Títulos e Valores Mobiliários Ltda. [1, 3]. O fundo tem prazo de duração indeterminado e público-alvo de investidores em geral 1. Desde sua criação, o KNUQ11 realizou múltiplas ofertas públicas de cotas para ampliar seu patrimônio e diversificar a carteira. A 5ª emissão, formalizada em 01/09/2026, resultou na captação de R$ 343,1 milhões na 1ª série, recursos destinados a novas operações imobiliárias [3, 4]. Em setembro de 2026, o fundo realizou investimentos em novas operações no valor total de R$ 145,4 milhões, incluindo CRIs de projetos residenciais de alto padrão e carteiras de Home Equity 3.",
+    "timeline": [
+      {
+        "date": "2022-12-15",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2023-04-24",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2023-10-20",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do KNUQ11",
+      "body": "O KNUQ11 é um FII de papel, com foco em Certificados de Recebíveis Imobiliários (CRI) pós-fixados, especialmente atrelados ao CDI. A gestora é a Kinea Investimentos Ltda. e a administradora é a Intrag DTVM Ltda. [3, 1]. Em 30/09/2026, a carteira apresentava 76,9% em ativos alvo, 4,0% em LCI e 19,4% em instrumentos de caixa. A parcela investida em CRI correspondia a 76,6% do patrimônio, com remuneração média (MTM) de CDI + 4,73% a.a. e prazo médio de 4,3 anos 3. As principais movimentações em setembro de 2026 incluíram CRIs de projetos residenciais de alto padrão e carteiras de Home Equity, com garantias como alienação fiduciária e subordinação 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do KNUQ11",
+      "body": "Nos 12 meses até 30/10/2026, o KNUQ11 distribuiu R$ 14,4604 por cota em 12 pagamentos, resultando em dividend yield de 14,62% 0. O último provento foi de R$ 1,1500 em 01/10/2026 0. Segundo o relatório gerencial de setembro de 2026, os dividendos são isentos de imposto de renda para pessoas físicas 3. O app permite acompanhar os [dividendos e JCP no app](/recursos/proventos) com data de pagamento e multiplicados pela quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O KNUQ11 realizou 4 ofertas públicas de cotas encerradas até 09/2026, conforme o FNET 2. Em 09/2026, o patrimônio líquido era de R$ 2,53 bilhões, com 55.235 cotistas e valor patrimonial da cota de R$ 100,49 1. A 5ª emissão, iniciada em 01/09/2026, resultou na captação de R$ 343,1 milhões na 1ª série, destinados a novas operações imobiliárias [3, 4]. O app oferece o [comparador de fundos](/recursos/comparador-de-fundos) para analisar o KNUQ11 e outros FIIs."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KNUQ11",
+      "body": "A rentabilidade total com proventos do KNUQ11 foi de 8,90% nos 12 meses até 30/10/2026 e de 44,30% em 3 anos 0. O app permite comparar essa rentabilidade com índices como o IFIX e o CDI na [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KNUQ11",
+      "body": "Como FII de papel, o KNUQ11 está exposto a riscos de crédito dos devedores dos CRIs e à variação da taxa de juros, especialmente do CDI, que impacta a remuneração dos ativos 3. A volatilidade anualizada nos 12 meses até 30/10/2026 foi de 6,09%, nível baixo, e a maior queda em 5 anos foi de -9,30%, do pico em 30/09/2024 ao ponto mais baixo em 16/12/2024 0. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar variações."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KNUQ11 é FII de papel ou de tijolo?",
+      "answer": "KNUQ11 é um FII de papel, focado em Certificados de Recebíveis Imobiliários (CRI) pós-fixados 3. O fundo não possui imóveis físicos, mas investe em créditos imobiliários, o que o diferencia de FIIs de tijolo, que detêm imóveis como shoppings ou galpões logísticos."
+    },
+    {
+      "question": "KNUQ11 paga dividendos?",
+      "answer": "Sim, o KNUQ11 distribui proventos mensais. Nos 12 meses até 30/10/2026, foram R$ 14,4604 por cota, com dividend yield de 14,62% 0. Os dividendos são isentos de imposto de renda para pessoas físicas 3."
+    },
+    {
+      "question": "Qual a taxa de administração do KNUQ11?",
+      "answer": "A taxa de administração do KNUQ11 é de 0,105% ao mês sobre o patrimônio, conforme o informe mensal de 09/2026 1. Não há taxa de performance 3."
+    },
+    {
+      "question": "Qual o patrimônio do KNUQ11?",
+      "answer": "Em 09/2026, o patrimônio líquido do KNUQ11 era de R$ 2,53 bilhões, com 55.235 cotistas e valor patrimonial da cota de R$ 100,49 1."
+    },
+    {
+      "question": "KNUQ11 tem risco de crédito?",
+      "answer": "Sim, como FII de papel, o KNUQ11 está exposto a riscos de crédito dos devedores dos CRIs 3. A carteira inclui CRIs de projetos residenciais e carteiras de Home Equity, com garantias como alienação fiduciária e subordinação 3."
+    },
+    {
+      "question": "Como acompanhar o KNUQ11 no app?",
+      "answer": "O app permite acompanhar os [dividendos e JCP no app](/recursos/proventos), a [comparação com índices](/recursos/comparacao-com-indices) e configurar [alertas de preço](/recursos/alertas-de-preco). O [assistente de IA](/recursos/assistente-de-ia) também pode responder perguntas sobre a carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da KNUQ11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da KNUQ11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando a cota da KNUQ11 atingir um preço que você escolher."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua carteira e os seus gastos; as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de papel da Kinea, focado em CRIs high yield."
+      },
+      {
+        "ticker": "KNCR11",
+        "list": "fiis",
+        "reason": "FII de papel da Kinea, com foco em rendimentos imobiliários."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII de papel da Kinea, com foco em índices de preços."
+      },
+      {
+        "ticker": "KNRI11",
+        "list": "fiis",
+        "reason": "FII de papel da Kinea, com foco em renda imobiliária."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KNUQ11",
+      "url": "https://finance.yahoo.com/quote/KNUQ11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do KINEA UNIQUE HY CDI FII RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo KNUQ11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=42754362000118",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do KNUQ11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1345808",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do KNUQ11, 01/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1308308",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do KNUQ11, 10/07/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=943798",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

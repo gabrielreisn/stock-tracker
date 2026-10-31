@@ -1,0 +1,330 @@
+{
+  "ticker": "AZPL11",
+  "slug": "azpl11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AZPL11: FII de logística, dividendos e patrimônio",
+    "description": "AZPL11 é um FII híbrido de logística e crédito, com patrimônio de R$ 360,4 milhões em 09/2026 e dividend yield de 11,59% nos 12 meses até 29/10/2026.",
+    "h1": "AZPL11: Az Quest Panorama Logística FII",
+    "canonicalPath": "/fiis/azpl11",
+    "keywords": [
+      "AZPL11",
+      "FII de logística",
+      "FII híbrido",
+      "dividendos AZPL11",
+      "patrimônio AZPL11",
+      "volatilidade AZPL11",
+      "rendimentos AZPL11"
+    ]
+  },
+  "summary": "AZPL11 é a cota do Az Quest Panorama Logística Fundo de Investimento Imobiliário, um FII híbrido que investe em galpões logísticos e CRIs. Fundado em 05/06/2024, o fundo tinha patrimônio de R$ 360,4 milhões em 09/2026 e distribuiu R$ 0,84 por cota nos 12 meses até 29/10/2026, gerando um dividend yield de 11,59%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Az Quest Panorama Logística Fundo de Investimento Imobiliário",
+    "legalName": "AZ QUEST PANORAMA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF AZPL11",
+    "isin": "BRAZPLCTF000",
+    "taxId": "51.890.054/0001-00",
+    "foundingDate": "2024-06-05",
+    "provider": {
+      "name": ".BANCO DAYCOVAL S/A",
+      "url": "https://www.daycoval.com.br/investimentos/servicos-fiduciarios"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=51890054000100"
+    ]
+  },
+  "profile": {
+    "type": "FII híbrido (logística e crédito)",
+    "issuerOrManager": "Banco Daycoval S/A (administrador), AZ Quest Panorama Ltda",
+    "name": "Az Quest Panorama Logística Fundo de Investimento Imobiliário",
+    "legalName": "AZ QUEST PANORAMA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "05/06/2024",
+    "administrator": ".BANCO DAYCOVAL S/A",
+    "website": "https://www.daycoval.com.br/investimentos/servicos-fiduciarios"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "AZ QUEST PANORAMA LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "51.890.054/0001-00",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Definida",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": ".BANCO DAYCOVAL S/A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "05/06/2024",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 360,4 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "5.595",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 8,60",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 7,25",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "6,88% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,02",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,59%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 585.917,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AZPL11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Az Quest Panorama Logistica Fundo De Investimento Imobiliario Renda",
+    "currency": "BRL",
+    "price": 7.25,
+    "historyStarts": "2024-09-04",
+    "returns": {
+      "1y": 0.0589,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.0688,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.3263,
+      "from": "2024-09-04",
+      "to": "2025-01-31"
+    },
+    "beta1y": {
+      "value": 0.02,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.84,
+      "payments12Months": 11,
+      "yield12Months": 0.1159,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.075
+      }
+    },
+    "avgDailyTradedValue3m": 585917
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do AZPL11 nos 12 meses até 29/10/2026 foi de 6,88%, nível classificado como baixo. O beta do fundo contra o Ibovespa, no mesmo período, foi de 0,02, o que significa que o AZPL11 costuma acompanhar os movimentos do índice com amplitude muito menor, na mesma direção. A maior queda nos últimos 5 anos foi de -32,63%, do pico em 04/09/2024 ao ponto mais baixo em 31/01/2025. Para um FII híbrido, essa volatilidade é compatível com a exposição a CRIs e a imóveis logísticos, que tendem a ter movimentos menos voláteis que ações."
+  },
+  "history": {
+    "overview": "O Az Quest Panorama Logística FII (AZPL11) iniciou suas atividades em 05/06/2024, com o objetivo de atuar no segmento de logística e crédito imobiliário. Desde sua fundação, o fundo realizou três ofertas públicas de cotas, a primeira entre 22/05/2024 e 05/06/2024, a segunda entre 02/07/2024 e 02/08/2024, e a terceira entre 18/07/2025 e 21/08/2025. Em 09/2026, o patrimônio líquido do fundo era de R$ 360,4 milhões, com 5.595 cotistas e valor patrimonial da cota de R$ 8,60. A estrutura do AZPL11 é de fundo de fundos, com investimentos em outros FIIs como o FII Urdi Jandira e o FII AZPE, além de ativos diretos como o galpão em Cajamar e CRIs. Em 08/07/2026, o fundo assinou aditivo ao contrato de locação do imóvel em Franco da Rocha/SP, com a locatária CAOA, resultando em aumento de 21,8% no valor locatício, incrementando a distribuição em aproximadamente R$ 0,0007 por cota.",
+    "timeline": [
+      {
+        "date": "2024-05-22",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2024-06-05",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2024-06-05",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2026-07-08",
+        "event": "Assinatura de aditivo ao contrato de locação do imóvel em Franco da Rocha/SP, com a locatária CAOA, com aumento de 21,8% no valor locatício",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do AZPL11",
+      "body": "O AZPL11 é um FII híbrido, com investimentos em ativos de tijolo (galpões logísticos) e de papel (CRIs e outros FIIs). O fundo é administrado pelo Banco Daycoval S/A e tem gestão definida, com prazo de duração indeterminado. Segundo o relatório gerencial de 31/08/2026, a carteira do AZPL11 é composta por 99,3 milhões de reais em imóveis (27,4% do patrimônio), 50 milhões de reais no FII Urdi Jandira (13,8%), 126,2 milhões de reais no FII AZPE (34,8%), 16,1 milhões de reais no FII Data Center (4,4%), 56,9 milhões de reais em CRIs (15,7%), 14,4 milhões de reais em Fundo DI (4,0%), 2,7 milhões de reais a receber (0,7%) e 3,5 milhões de reais a pagar (1,0%). O portfólio de galpões segue 100% ocupado, com revisionais já pactuadas com os locatários."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do AZPL11",
+      "body": "Nos 12 meses até 29/10/2026, o AZPL11 distribuiu R$ 0,8400 por cota em 11 pagamentos, resultando em um dividend yield de 11,59%. O último provento foi de R$ 0,0750 em 01/10/2026. O relatório gerencial de 31/08/2026 indica que a rentabilidade média dos ativos de crédito é de CDI+2,95% a.a. e IPCA+10,90% a.a., com participação de 52,4% no patrimônio total do fundo. Os números apresentados referem-se a expectativas e não podem ser interpretados como garantia de retorno ao investidor. [Veja os proventos do AZPL11 no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O AZPL11 realizou três ofertas públicas de cotas, a primeira entre 22/05/2024 e 05/06/2024, a segunda entre 02/07/2024 e 02/08/2024, e a terceira entre 18/07/2025 e 21/08/2025. Em 09/2026, o patrimônio líquido do fundo era de R$ 360,4 milhões, com 5.595 cotistas e valor patrimonial da cota de R$ 8,60. O número de cotas emitidas era de 41.922.689. A taxa de administração no mês de 09/2026, sobre o patrimônio, era de 0,092%."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do AZPL11",
+      "body": "A rentabilidade total com proventos do AZPL11 nos 12 meses até 29/10/2026 foi de 5,89%. A cota fechou em R$ 7,25 nessa data. O volume médio negociado por dia nos últimos 3 meses foi de R$ 585.917,00. [Compare o desempenho do AZPL11 com o IFIX e o CDI no app](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do AZPL11",
+      "body": "O AZPL11, por ser um FII híbrido, está exposto a riscos de crédito dos CRIs e de vacância dos galpões logísticos. A volatilidade anualizada do fundo nos 12 meses até 29/10/2026 foi de 6,88%, classificada como baixa. A maior queda nos últimos 5 anos foi de -32,63%, do pico em 04/09/2024 ao ponto mais baixo em 31/01/2025. O beta do fundo contra o Ibovespa, no mesmo período, foi de 0,02, indicando que o AZPL11 costuma acompanhar os movimentos do índice com amplitude muito menor. [Configure alertas de preço para o AZPL11 no app](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "AZPL11 paga dividendos?",
+      "answer": "Sim, o AZPL11 distribui proventos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,8400 por cota em 11 pagamentos, com o último de R$ 0,0750 em 01/10/2026. O dividend yield nesse período foi de 11,59%. [Veja os proventos do AZPL11 no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre AZPL11 e outros FIIs de logística?",
+      "answer": "O AZPL11 é um FII híbrido, com exposição a galpões logísticos e CRIs, enquanto outros FIIs de logística podem ser puros de tijolo ou de papel. O AZPL11 tem patrimônio de R$ 360,4 milhões em 09/2026 e dividend yield de 11,59% nos 12 meses até 29/10/2026. [Compare o AZPL11 com outros FIIs no app](/recursos/fundos-de-investimento)."
+    },
+    {
+      "question": "Qual o patrimônio do AZPL11?",
+      "answer": "Em 09/2026, o patrimônio líquido do AZPL11 era de R$ 360,4 milhões, com 5.595 cotistas e valor patrimonial da cota de R$ 8,60. O número de cotas emitidas era de 41.922.689."
+    },
+    {
+      "question": "Qual a taxa de administração do AZPL11?",
+      "answer": "A taxa de administração do AZPL11, em 09/2026, era de 0,092% ao mês sobre o patrimônio líquido do fundo."
+    },
+    {
+      "question": "Qual a rentabilidade do AZPL11?",
+      "answer": "A rentabilidade total com proventos do AZPL11 nos 12 meses até 29/10/2026 foi de 5,89%. A cota fechou em R$ 7,25 nessa data. [Veja o desempenho do AZPL11 no app](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "question": "O AZPL11 é um FII de papel ou de tijolo?",
+      "answer": "O AZPL11 é um FII híbrido, com investimentos em ativos de tijolo (galpões logísticos) e de papel (CRIs e outros FIIs). Em 31/08/2026, a carteira do fundo tinha 27,4% em imóveis, 15,7% em CRIs e 52,4% em ativos de crédito."
+    },
+    {
+      "question": "Qual o volume negociado do AZPL11?",
+      "answer": "O volume médio negociado por dia do AZPL11 nos últimos 3 meses até 29/10/2026 foi de R$ 585.917,00."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "proventos do AZPL11 no app",
+        "context": "Veja os dividendos do AZPL11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação do AZPL11 com o IFIX e o CDI no app",
+        "context": "Compare a rentabilidade do AZPL11 com o IFIX e o CDI, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço para o AZPL11 no app",
+        "context": "Configure uma notificação quando o AZPL11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada no app",
+        "context": "Veja o AZPL11 junto com suas outras posições, com alocação por classe e valor total."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística, com foco em galpões e centros de distribuição."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística com carteira diversificada de imóveis e CRIs."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística com exposição a ativos de tijolo e de papel."
+      },
+      {
+        "ticker": "VILG11",
+        "list": "fiis",
+        "reason": "FII de logística com foco em imóveis e crédito imobiliário."
+      },
+      {
+        "ticker": "MCLO11",
+        "list": "fiis",
+        "reason": "FII de logística com carteira de galpões e CRIs."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AZPL11",
+      "url": "https://finance.yahoo.com/quote/AZPL11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do AZ QUEST PANORAMA LOGISTICA FII RESP LIM (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo AZPL11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=51890054000100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do AZPL11, referência 31/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1327232",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do AZPL11, 15/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1250377",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do AZPL11, 10/07/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1246351",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

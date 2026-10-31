@@ -1,0 +1,331 @@
+{
+  "ticker": "BTAL11",
+  "slug": "btal11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BTAL11: história, dividendos e volatilidade",
+    "description": "BTAL11 é o FII de logística e agronegócio da BTG Pactual. Veja dividend yield de 14,80%, patrimônio de R$ 693,8 milhões e volatilidade de 18,38%.",
+    "h1": "BTAL11: BTG Pactual Agro Logística FIAGRO",
+    "canonicalPath": "/fiis/btal11",
+    "keywords": [
+      "BTAL11",
+      "BTG Pactual Agro Logística",
+      "FII de logística",
+      "FIAGRO",
+      "dividend yield BTAL11",
+      "volatilidade BTAL11",
+      "proventos BTAL11"
+    ]
+  },
+  "summary": "BTAL11 é a cota do BTG Pactual Agro Logística FIAGRO, um fundo de investimento imobiliário focado em logística e armazenagem do agronegócio. Administrado pela BTG Pactual, o fundo opera de forma ativa e possui carteira híbrida com imóveis e Certificados de Recebíveis Imobiliários (CRI). Em 29/10/2026, a cota valia R$ 80,05, com dividend yield de 14,80% nos últimos 12 meses e patrimônio líquido de R$ 693,8 milhões em 01/2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "BTG Pactual Agro Logística FIAGRO Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL AGRO LOGÍSTICA FIAGRO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF BTAL11",
+    "isin": "BRBTALCTF003",
+    "taxId": "36.642.244/0001-15",
+    "foundingDate": "2021-01-28",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S/A DTVM",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36642244000115"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel e tijolo (híbrido), logística",
+    "issuerOrManager": "BTG Pactual Gestora de Recursos Ltda (gestora) e BTG Pactual Serviços Financeiros S.A",
+    "name": "BTG Pactual Agro Logística FIAGRO Responsabilidade Limitada",
+    "legalName": "BTG PACTUAL AGRO LOGÍSTICA FIAGRO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "28/01/2021",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S/A DTVM",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "BTG PACTUAL AGRO LOGÍSTICA FIAGRO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "36.642.244/0001-15",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S/A DTVM",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "28/01/2021",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (01/2026)",
+      "value": "R$ 693,8 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (01/2026)",
+      "value": "38.037",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (01/2026)",
+      "value": "R$ 115,96",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 80,05",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "18,38% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,17",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,80%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 578.178,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BTAL11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "FII Btg Pactual Agro Logistica",
+    "currency": "BRL",
+    "price": 80.05,
+    "historyStarts": "2024-02-01",
+    "returns": {
+      "1y": 0.2034,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1838,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.1527,
+      "from": "2024-08-23",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.17,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 11.85,
+      "payments12Months": 12,
+      "yield12Months": 0.148,
+      "lastPayment": {
+        "date": "2026-10-21",
+        "amount": 1
+      }
+    },
+    "avgDailyTradedValue3m": 578178
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do BTAL11 é de 18,38% nos últimos 12 meses, nível moderado. O beta de 0,17 contra o Ibovespa indica que o ativo costuma acompanhar os movimentos do índice com menor intensidade, na mesma direção. A maior queda em 5 anos foi de -15,27%, do pico em 23/08/2024 ao ponto mais baixo em 19/12/2024. Para monitorar oscilações de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "O BTG Pactual Agro Logística iniciou suas atividades em 28 de janeiro de 2021, após uma oferta pública de cotas encerrada em 29 de janeiro do mesmo ano. O fundo foi estruturado para atuar na infraestrutura de escoamento e armazenagem do agronegócio brasileiro, focando em regiões com déficit de infraestrutura logística. Em janeiro de 2026, os cotistas aprovaram a transformação do fundo de FII em FIAGRO (Fundo de Investimento nas Cadeias Produtivas do Agronegócio), mantendo a estratégia de investimentos em ativos de logística e armazenagem, mas adotando o regime contábil por competência para permitir a distribuição de rentabilidade acumulada na carteira. Em agosto de 2025, o fundo realizou o resgate antecipado de um CRI da série 233, gerando um acréscimo de R$ 117,7 milhões em caixa, o que impactou positivamente a distribuição mensal de proventos.",
+    "timeline": [
+      {
+        "date": "2021-01-22",
+        "event": "Início da oferta pública de cotas do fundo.",
+        "source": 2
+      },
+      {
+        "date": "2021-01-28",
+        "event": "Início das atividades do BTG Pactual Agro Logística FIAGRO.",
+        "source": 1
+      },
+      {
+        "date": "2021-01-29",
+        "event": "Encerramento da oferta pública de cotas.",
+        "source": 2
+      },
+      {
+        "date": "2025-08-08",
+        "event": "Resgate antecipado do CRI da 233ª série, gerando R$ 117,7 milhões em caixa.",
+        "source": 4
+      },
+      {
+        "date": "2026",
+        "event": "Aprovação da transformação do FII em FIAGRO pelos cotistas.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do BTAL11",
+      "body": "O BTAL11 é um fundo de investimento híbrido, com carteira composta por ativos de tijolo (imóveis de logística e armazenagem) e papel (Certificados de Recebíveis Imobiliários - CRI). A estratégia é ativa, focada em ativos de escoamento e armazenagem distribuídos pela cadeia logística do agronegócio brasileiro, priorizando regiões com déficit de infraestrutura e proximidade de rotas rodoviárias, ferroviárias e hidroviárias. A gestora é a BTG Pactual Gestora de Recursos Ltda, e a administradora e custodiada é a BTG Pactual Serviços Financeiros S.A. DTVM. Em 30/09/2026, a carteira continha 11 ativos-alvo: 9 imóveis e 2 CRIs, com capacidade estática de 450 mil toneladas e WAULT (prazo médio dos contratos de aluguel) de 6,0 anos."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do BTAL11",
+      "body": "Nos 12 meses até 29/10/2026, o BTAL11 distribuiu R$ 11,85 por cota em 12 pagamentos, resultando em um dividend yield de 14,80%. O último provento foi de R$ 1,00 por cota, pago em 21/10/2026. Em setembro de 2026, a distribuição foi de R$ 1,00 por cota, com dividend yield anualizado de 14,59% sobre o valor de mercado da cota. O relatório gerencial de setembro/2026 indica que a expectativa é de distribuição mensal de, pelo menos, R$ 1,00 por cota nos próximos meses, com possível aumento após o desinvestimento da SPE Santo Antônio. A tributação de proventos de FIIs não é detalhada nas fontes do dossiê. Para acompanhar os pagamentos, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O BTAL11 realizou uma oferta pública de cotas entre 22 e 29 de janeiro de 2021, com 5.982.736 cotas emitidas. Em 01/2026, o patrimônio líquido era de R$ 693,8 milhões, com 38.037 cotistas e valor patrimonial da cota de R$ 115,96. A taxa de administração no mês de 01/2026 foi de 0,068% sobre o patrimônio. O fundo não possui taxa de performance."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BTAL11",
+      "body": "A rentabilidade total do BTAL11, incluindo proventos, foi de 20,34% nos 12 meses até 29/10/2026. O fundo pode ser comparado com o IFIX e o CDI para avaliar seu desempenho relativo. Para essa comparação, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BTAL11",
+      "body": "Como fundo híbrido, o BTAL11 está exposto a riscos de crédito (dos CRIs) e de vacância (dos imóveis de logística). A volatilidade anualizada de 12 meses é de 18,38%, classificada como moderada. A maior queda nos últimos 5 anos foi de -15,27%, do pico em 23/08/2024 ao ponto mais baixo em 19/12/2024. O beta de 0,17 contra o Ibovespa indica que o ativo tende a acompanhar os movimentos do índice com menor intensidade. Para monitorar oscilações de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BTAL11 paga dividendos?",
+      "answer": "Sim, o BTAL11 distribui proventos mensais. Nos 12 meses até 29/10/2026, distribuiu R$ 11,85 por cota, com dividend yield de 14,80%. O último pagamento foi de R$ 1,00 em 21/10/2026. Para acompanhar os pagamentos, utilize o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "BTAL11 é FII de papel ou de tijolo?",
+      "answer": "O BTAL11 é um fundo híbrido, com carteira composta por imóveis de logística e armazenagem (tijolo) e Certificados de Recebíveis Imobiliários (papel). Em 30/09/2026, a carteira tinha 9 imóveis e 2 CRIs."
+    },
+    {
+      "question": "Qual a diferença entre BTAL11 e BTLG11?",
+      "answer": "BTAL11 é focado em logística e armazenagem do agronegócio, enquanto [BTLG11](/fiis/btlg11) é um FII de logística mais amplo. Ambos são administrados pela BTG Pactual, mas com estratégias e carteiras distintas. Para comparar, utilize o recurso de [fundos de investimento](/recursos/fundos-de-investimento)."
+    },
+    {
+      "question": "Qual a taxa de administração do BTAL11?",
+      "answer": "A taxa de administração é de 1,10% ao ano sobre o patrimônio líquido ou valor de mercado (caso o fundo integre o IFIX). Em 01/2026, a taxa mensal foi de 0,068% sobre o patrimônio."
+    },
+    {
+      "question": "O BTAL11 tem taxa de performance?",
+      "answer": "Não, o BTAL11 não possui taxa de performance, conforme o relatório gerencial de setembro/2026."
+    },
+    {
+      "question": "Como o BTAL11 se compara com o IFIX?",
+      "answer": "O BTAL11 pode ser comparado com o IFIX para avaliar seu desempenho relativo. Para essa comparação, utilize o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do BTAL11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do BTAL11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o BTAL11 chegar ao preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o BTAL11 junto com seus outros ativos, com alocação e valor por classe."
+      },
+      {
+        "feature": "fundos-de-investimento",
+        "anchor": "fundos de investimento",
+        "context": "Compare o BTAL11 com outros FIIs de logística e agronegócio."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística da BTG Pactual, para comparação de estratégia e desempenho."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística, para comparação de segmento e desempenho."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística, para comparação de segmento e desempenho."
+      },
+      {
+        "ticker": "VILG11",
+        "list": "fiis",
+        "reason": "FII de logística, para comparação de segmento e desempenho."
+      },
+      {
+        "ticker": "MCLO11",
+        "list": "fiis",
+        "reason": "FII de logística, para comparação de segmento e desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BTAL11",
+      "url": "https://finance.yahoo.com/quote/BTAL11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do BTGP AGRO LOG FII (01/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo BTAL11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=36642244000115",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do BTAL11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1354709",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do BTAL11, 08/08/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=963396",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

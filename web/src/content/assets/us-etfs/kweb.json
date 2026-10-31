@@ -1,0 +1,252 @@
+{
+  "ticker": "KWEB",
+  "slug": "kweb",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "KWEB: história, dividendos e volatilidade",
+    "description": "KWEB é o KraneShares CSI China Internet ETF, que investe em empresas de internet e tecnologia da China.",
+    "h1": "KWEB: KraneShares CSI China Internet ETF",
+    "canonicalPath": "/etfs/kweb",
+    "keywords": [
+      "KWEB",
+      "KraneShares CSI China Internet ETF",
+      "ETF China",
+      "investir em China",
+      "volatilidade KWEB"
+    ]
+  },
+  "summary": "KWEB é o KraneShares CSI China Internet ETF, um fundo que investe em empresas de internet e tecnologia da China. Lançado em 01/08/2013, o ativo opera em dólar e reflete a performance do setor de tecnologia chinês. Até 29/10/2026, a cota estava em US$ 22,79, com uma rentabilidade total de -41,26% nos últimos 12 meses, evidenciando a alta volatilidade e os riscos regulatórios específicos do mercado chinês.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "KraneShares CSI China Internet ETF",
+    "ticker": "ARCX KWEB",
+    "foundingDate": "2013-08-01",
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "KraneShares",
+    "trackedIndex": "CSI China Internet Index",
+    "name": "KraneShares CSI China Internet ETF",
+    "founded": "01/08/2013"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "KraneShares CSI China Internet ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "01/08/2013",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 22,79",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "26,13% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,01",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "9,20%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 426,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KWEB",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "KraneShares CSI China Internet ETF",
+    "currency": "USD",
+    "price": 22.79,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.4126,
+      "3y": -0.0447,
+      "5y": -0.4282,
+      "10y": -0.2766
+    },
+    "volatility1y": 0.2613,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6195,
+      "from": "2021-11-12",
+      "to": "2022-10-24"
+    },
+    "beta1y": {
+      "value": 1.01,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.096,
+      "payments12Months": 1,
+      "yield12Months": 0.092,
+      "lastPayment": {
+        "date": "2025-12-22",
+        "amount": 2.096
+      }
+    },
+    "avgDailyTradedValue3m": 426306342
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do KWEB nos últimos 12 meses era de 26,13%, um nível considerado alto para um ETF. O beta do ativo contra o S&P 500 era de 1,01, o que significa que, em média, o KWEB tende a se mover em proporção semelhante ao índice, mas com maior oscilação. A maior queda nos últimos 5 anos foi de -61,95%, entre 12/11/2021 e 24/10/2022, refletindo a sensibilidade do setor de tecnologia chinês a mudanças regulatórias. Para acompanhar a volatilidade e definir pontos de entrada ou saída, o investidor pode usar os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O KraneShares CSI China Internet ETF (KWEB) começou a ser negociado em 01/08/2013, oferecendo aos investidores internacionais uma forma de acessar o crescimento do setor de internet na China sem a necessidade de abrir contas diretamente nas bolsas locais. A criação do ETF coincidiu com um período de expansão acelerada da conectividade no país, onde a população de usuários de internet já superava a dos Estados Unidos em termos de volume absoluto. A estratégia do fundo visa capturar a valorização das grandes plataformas digitais chinesas, que se tornaram centrais na economia do país, especialmente após a iniciativa Internet Plus do Conselho de Estado em 2015, que buscou integrar a tecnologia à manufatura e aos serviços. A trajetória do KWEB é marcada pela sensibilidade às mudanças na regulação do setor de tecnologia na China, o que resultou em oscilações de preço significativas ao longo dos anos.",
+    "timeline": [
+      {
+        "date": "1994-04-20",
+        "event": "A China estabelece conexão permanente com a internet global.",
+        "source": 1
+      },
+      {
+        "date": "2013-08-01",
+        "event": "Primeiro pregão das cotas do ETF KWEB na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2015",
+        "event": "O Conselho de Estado da China promove a iniciativa Internet Plus, um plano de cinco anos para integrar a internet à economia tradicional.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o KWEB funciona",
+      "body": "O KWEB é um ETF (Exchange Traded Fund) que busca replicar o desempenho do CSI China Internet Index. A emissora do fundo é a KraneShares, e o ativo teve seu primeiro pregão em 01/08/2013. Diferente de ETFs alavancados ou inversos, o KWEB não possui alavancagem diária, o que significa que ele não tenta multiplicar os movimentos do índice em um período curto. Ele simplesmente investe em uma cesta de ações de empresas de internet e tecnologia listadas na China, buscando acompanhar a variação do índice de referência ao longo do tempo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do KWEB",
+      "body": "O KWEB segue o CSI China Internet Index, que é composto por empresas de internet e tecnologia da China. As fontes disponíveis não detalham a lista exata das empresas que compõem o índice nem a ponderação de cada uma, mas o foco é o setor de internet e tecnologia, que tem sido um dos pilares da economia chinesa. A China é o país com a maior população de usuários de internet no mundo, com 1,09 bilhão de pessoas conectadas em dezembro de 2024, o que reflete o tamanho do mercado que o ETF busca capturar."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no KWEB a partir do Brasil",
+      "body": "Para investir no KWEB a partir do Brasil, o investidor precisa ter uma conta em uma corretora que ofereça acesso ao mercado de ações dos Estados Unidos, onde o ETF é negociado. O investimento é feito em dólar, o que expõe o investidor ao risco cambial: se o dólar se valorizar em relação ao real, o retorno em reais será maior, e vice-versa. Alternativamente, é possível buscar BDRs (Brazilian Depositary Receipts) na B3 que sigam o mesmo índice ou empresas do mesmo setor, o que permite investir sem a necessidade de uma conta no exterior, mas com a mesma exposição cambial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KWEB",
+      "body": "Até 29/10/2026, o KWEB apresentava uma rentabilidade total de -41,26% nos últimos 12 meses, -4,47% em 3 anos, -42,82% em 5 anos e -27,66% em 10 anos. Esses números refletem a volatilidade e os riscos regulatórios do setor de tecnologia na China. O volume médio negociado por dia nos últimos 3 meses era de US$ 426,3 milhões, indicando um mercado líquido. Para comparar o desempenho do KWEB com outros índices, como o S&P 500, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KWEB",
+      "body": "O KWEB está exposto a riscos regulatórios específicos do mercado chinês, onde o governo tem o poder de intervir no setor de tecnologia e internet. A volatilidade anualizada do KWEB nos últimos 12 meses era de 26,13%, classificada como alta. A maior queda nos últimos 5 anos foi de -61,95%, ocorrida entre o pico em 12/11/2021 e o ponto mais baixo em 24/10/2022. Além disso, o investimento em dólar expõe o investidor ao risco cambial. O beta do KWEB contra o S&P 500 era de 1,01, indicando que o ativo tende a se mover em proporção semelhante ao índice, mas com maior volatilidade."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar KWEB no app",
+      "body": "Para quem tem KWEB na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do KWEB lado a lado com o S&P 500 e outros índices, no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Defina um preço para o KWEB e receba uma notificação quando o ativo chegar a esse valor.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o KWEB junto com outros ativos da sua carteira, com alocação e valor por classe."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KWEB é um ETF alavancado?",
+      "answer": "Não, o KWEB não é um ETF alavancado. Ele busca replicar o desempenho do CSI China Internet Index sem multiplicar os movimentos diários. Isso significa que, em períodos longos, o resultado do ETF tende a acompanhar o índice, sem o efeito de decaimento associado a ETFs alavancados."
+    },
+    {
+      "question": "Qual o risco cambial do KWEB?",
+      "answer": "O KWEB é negociado em dólar, o que expõe o investidor ao risco cambial. Se o dólar se valorizar em relação ao real, o retorno em reais será maior, e vice-versa. Esse risco é adicional ao risco de mercado do setor de tecnologia chinês."
+    },
+    {
+      "question": "KWEB paga dividendos?",
+      "answer": "Sim, o KWEB distribui proventos. Nos 12 meses até 29/10/2026, o ETF pagou US$ 2,0960 por cota, com um dividend yield de 9,20%. O último pagamento foi de US$ 2,0960 em 22/12/2025."
+    },
+    {
+      "question": "Como investir no KWEB a partir do Brasil?",
+      "answer": "Para investir no KWEB, o investidor precisa ter uma conta em uma corretora que ofereça acesso ao mercado de ações dos Estados Unidos. O investimento é feito em dólar, o que expõe o investidor ao risco cambial. Alternativamente, é possível buscar BDRs na B3 que sigam o mesmo índice ou empresas do mesmo setor."
+    },
+    {
+      "question": "Qual a diferença entre KWEB e FXI?",
+      "answer": "KWEB e [FXI](/etfs/fxi) são ETFs que investem em empresas da China, mas com foco diferente. O KWEB segue o CSI China Internet Index, focado em empresas de internet e tecnologia. O FXI segue o MSCI China Large-Cap Index, que é mais amplo e inclui empresas de outros setores. Ambos estão expostos ao risco regulatório chinês, mas o KWEB tem uma concentração maior no setor de tecnologia."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do KWEB lado a lado com o S&P 500 e outros índices, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina um preço para o KWEB e receba uma notificação quando o ativo chegar a esse valor."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o KWEB junto com outros ativos da sua carteira, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "FXI",
+        "list": "us-etfs",
+        "reason": "Outro ETF que investe em empresas da China, mas com um índice mais amplo."
+      },
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "ETF de mercados emergentes, que inclui a China e outros países em desenvolvimento."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar o desempenho do KWEB com o mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KWEB",
+      "url": "https://finance.yahoo.com/quote/KWEB/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Internet in China (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Internet_in_China",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Economy of China (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_China",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

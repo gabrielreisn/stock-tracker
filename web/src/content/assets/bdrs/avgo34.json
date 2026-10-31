@@ -1,0 +1,344 @@
+{
+  "ticker": "AVGO34",
+  "slug": "avgo34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "AVGO34: história, dividendos e volatilidade",
+    "description": "Conheça o BDR da Broadcom Inc. (AVGO34): origem, desempenho, dividendos e riscos. Listado na B3 desde 2019, acompanha a ação AVGO na NASDAQ e o câmbio.",
+    "h1": "AVGO34: BDR da Broadcom Inc.",
+    "canonicalPath": "/bdrs/avgo34",
+    "keywords": [
+      "AVGO34",
+      "Broadcom",
+      "BDR",
+      "semicondutores",
+      "software de infraestrutura",
+      "dividendos",
+      "volatilidade",
+      "B3"
+    ]
+  },
+  "summary": "AVGO34 é o BDR nível I da Broadcom Inc., empresa de semicondutores e software de infraestrutura sediada em Palo Alto. Listado na B3 desde 08/04/2019, o ativo acompanha a ação AVGO na NASDAQ e o câmbio. Em 29/10/2026, cotava a R$ 26,38, com rentabilidade de 346,44% em 3 anos, mas -11,40% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Broadcom",
+    "legalName": "BROADCOM INC",
+    "ticker": "BVMF AVGO34",
+    "foundingDate": "1961",
+    "website": "https://www.broadcom.com/",
+    "wikidata": "Q790060",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q790060",
+      "https://en.wikipedia.org/wiki/Broadcom",
+      "https://pt.wikipedia.org/wiki/Broadcom",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51586/AVGO/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Broadcom",
+    "legalName": "BROADCOM INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1961",
+    "listedSince": "08/04/2019",
+    "headquarters": "Palo Alto",
+    "website": "https://www.broadcom.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "BROADCOM INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: AVGO",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Palo Alto",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1961",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "08/04/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 26,38",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "49,22% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original AVGO em dólares)",
+      "value": "2,20",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,52%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 8,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "AVGO34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Broadcom Inc.",
+    "currency": "BRL",
+    "price": 26.38,
+    "historyStarts": "2019-05-28",
+    "returns": {
+      "1y": -0.114,
+      "3y": 3.4644,
+      "5y": 5.6866,
+      "10y": null
+    },
+    "volatility1y": 0.4922,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4499,
+      "from": "2024-12-27",
+      "to": "2025-04-04"
+    },
+    "beta1y": {
+      "value": 2.2,
+      "against": "S&P 500, ação original AVGO em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.1365,
+      "payments12Months": 4,
+      "yield12Months": 0.0052,
+      "lastPayment": {
+        "date": "2026-09-18",
+        "amount": 0.033847
+      }
+    },
+    "avgDailyTradedValue3m": 8407776
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de AVGO34 nos últimos 12 meses foi de 49,22%, um nível considerado muito alto. O beta da ação original AVGO contra o S&P 500, nos últimos 12 meses, é de 2,20, o que indica que a ação tende a ter movimentos de maior amplitude que o índice, na mesma direção. É importante notar que o beta é da ação em dólares; o BDR em reais também sofre o efeito do câmbio. A maior queda nos últimos 5 anos foi de -44,99%, entre 27/12/2024 e 04/04/2025. Para acompanhar a volatilidade e o preço médio, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "A Broadcom Inc. tem origem em 1961, quando foi fundada como HP Associates, divisão de semicondutores da Hewlett-Packard. A unidade se separou da HP em 1999 com a criação da Agilent Technologies. Em 2005, a KKR e a Silver Lake Partners adquiriram o grupo de semicondutores da Agilent por US$ 2,6 bilhões, formando a Avago Technologies, que abriu capital na NASDAQ em 2009 sob o ticker AVGO. Em 2015, a Avago comprou a Broadcom Corporation por US$ 37 bilhões, resultando na empresa combinada que adotou o nome Broadcom Limited em 2016 e, posteriormente, Broadcom Inc. em 2017 após transferir o domicílio legal para Delaware. A estratégia de crescimento por aquisições incluiu a compra da CA Technologies em 2018 e a VMware em 2023 por US$ 69 bilhões, consolidando a empresa no setor de software de infraestrutura. Em dezembro de 2024, a Broadcom atingiu US$ 1 trilhão em capitalização, e em abril de 2026 ultrapassou US$ 2 trilhões, tornando-se a sexta empresa da história a atingir esse marco. O BDR AVGO34 foi listado na B3 em 08/04/2019, permitindo a exposição ao ativo em reais.",
+    "timeline": [
+      {
+        "date": "1961",
+        "event": "Fundação da empresa como HP Associates, divisão de semicondutores da Hewlett-Packard",
+        "source": 2
+      },
+      {
+        "date": "1999",
+        "event": "Separação da Hewlett-Packard com a criação da Agilent Technologies",
+        "source": 3
+      },
+      {
+        "date": "2005",
+        "event": "KKR e Silver Lake Partners criam a Avago Technologies com a compra do grupo de semicondutores da Agilent",
+        "source": 3
+      },
+      {
+        "date": "2009-08-06",
+        "event": "Abertura de capital da Avago Technologies na NASDAQ sob o ticker AVGO",
+        "source": 3
+      },
+      {
+        "date": "2015-05-28",
+        "event": "Anúncio da aquisição da Broadcom Corporation pela Avago por US$ 37 bilhões",
+        "source": 3
+      },
+      {
+        "date": "2017-11-02",
+        "event": "Transferência do domicílio legal de Singapura para Delaware e mudança de nome para Broadcom Inc.",
+        "source": 4
+      },
+      {
+        "date": "2018-11-05",
+        "event": "Conclusão da aquisição da CA Technologies por US$ 18,9 bilhões",
+        "source": 3
+      },
+      {
+        "date": "2019-04-08",
+        "event": "Listagem do BDR AVGO34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2019-10",
+        "event": "União Europeia emite ordem antitruste provisória contra a Broadcom",
+        "source": 3
+      },
+      {
+        "date": "2022-05",
+        "event": "Anúncio da aquisição da VMware por US$ 69 bilhões",
+        "source": 3
+      },
+      {
+        "date": "2023-11-22",
+        "event": "Conclusão da aquisição da VMware",
+        "source": 3
+      },
+      {
+        "date": "2024-12",
+        "event": "Broadcom se torna a 12ª empresa a ultrapassar US$ 1 trilhão em capitalização de mercado",
+        "source": 3
+      },
+      {
+        "date": "2026-04",
+        "event": "Broadcom ultrapassa US$ 2 trilhões em capitalização, tornando-se a 6ª empresa da história a atingir esse valor",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Broadcom ganha dinheiro",
+      "body": "A Broadcom Inc. é uma multinacional estadunidense que projeta, desenvolve, fabrica e fornece produtos semicondutores e software de infraestrutura. Seus produtos atendem aos mercados de centros de dados, redes, software, banda larga, comunicação sem fio, armazenamento e indústria. Em 2025, cerca de 58% da receita da empresa vinha de produtos baseados em semicondutores e 42% de produtos e serviços de software de infraestrutura. A estratégia de crescimento da Broadcom tem sido marcada por aquisições significativas, como a da CA Technologies em 2018 e a da VMware em 2023, que expandiram sua atuação no setor de software crítico para infraestrutura corporativa."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR AVGO34",
+      "body": "AVGO34 é um BDR não patrocinado de nível I, que é um recibo negociado na B3 em reais, lastreado em ações da Broadcom Inc. cotadas na NASDAQ sob o ticker AVGO. O preço do BDR acompanha a variação da ação original em dólares e a cotação do câmbio (dólar/real). A listagem na B3 ocorreu em 08/04/2019. Como é um BDR não patrocinado, a empresa não participa ativamente da manutenção do programa, e a liquidez pode variar. O ativo permite a exposição ao desempenho da Broadcom para investidores brasileiros sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "id": "proventos",
+      "heading": "AVGO34 paga dividendos?",
+      "body": "Sim, AVGO34 paga dividendos. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,1365 por BDR em 4 pagamentos, resultando em um dividend yield de 0,52%. O último pagamento registrado foi de R$ 0,0338 em 18/09/2026. É importante lembrar que a Broadcom paga dividendos em dólares, e o valor recebido pelo investidor em reais depende da cotação do câmbio na data do pagamento. Para acompanhar a história de proventos, utilize a ferramenta de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do AVGO34",
+      "body": "A rentabilidade total de AVGO34, incluindo proventos, foi de -11,40% nos 12 meses até 29/10/2026, 346,44% em 3 anos e 568,66% em 5 anos. Esses números estão em reais e refletem tanto a variação do preço da ação AVGO na NASDAQ quanto a oscilação do câmbio entre o dólar e o real. Para comparar o desempenho do BDR com índices de referência, como o S&P 500 ou o CDI, acesse a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do AVGO34",
+      "body": "Os principais riscos do AVGO34 incluem a volatilidade do setor de tecnologia, a exposição ao câmbio (dólar/real) e a liquidez do BDR na B3. A volatilidade anualizada do ativo nos últimos 12 meses foi de 49,22%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -44,99%, entre 27/12/2024 e 04/04/2025. Além disso, a Broadcom já enfrentou questões regulatórias, como a ordem antitruste da União Europeia em 2019. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "AVGO34 paga dividendos?",
+      "answer": "Sim, AVGO34 paga dividendos. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,1365 por BDR em 4 pagamentos, com um dividend yield de 0,52%. O último pagamento foi de R$ 0,0338 em 18/09/2026. O valor é pago em reais, mas reflete o pagamento em dólares pela Broadcom, ajustado pelo câmbio."
+    },
+    {
+      "question": "Qual a diferença entre AVGO34 e a ação AVGO?",
+      "answer": "AVGO34 é o BDR (Brazilian Depositary Receipt) da Broadcom, negociado na B3 em reais. A ação AVGO é a ação original, negociada na NASDAQ em dólares. O preço do AVGO34 acompanha a variação da AVGO e a cotação do dólar/real. O BDR permite a exposição ao ativo para investidores brasileiros sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "question": "AVGO34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "AVGO34 é um BDR não patrocinado de nível I. Isso significa que a Broadcom Inc. não participa ativamente da manutenção do programa, e a liquidez pode variar. A listagem na B3 ocorreu em 08/04/2019."
+    },
+    {
+      "question": "Qual o setor da Broadcom?",
+      "answer": "A Broadcom Inc. atua no setor de semicondutores e software de infraestrutura. Seus produtos atendem aos mercados de centros de dados, redes, software, banda larga, comunicação sem fio, armazenamento e indústria. Em 2025, 58% da receita vinha de semicondutores e 42% de software de infraestrutura."
+    },
+    {
+      "question": "Qual a volatilidade do AVGO34?",
+      "answer": "A volatilidade anualizada de AVGO34 nos últimos 12 meses foi de 49,22%, classificada como muito alta. O beta da ação original AVGO contra o S&P 500 é de 2,20, indicando movimentos de maior amplitude que o índice. A maior queda nos últimos 5 anos foi de -44,99%, entre 27/12/2024 e 04/04/2025."
+    },
+    {
+      "question": "Como acompanhar o desempenho do AVGO34?",
+      "answer": "Para acompanhar o desempenho do AVGO34, utilize o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app, que mostra a rentabilidade e a variação do ativo. Para comparar com índices como o S&P 500, acesse a [comparação com índices](/recursos/comparacao-com-indices). É possível também configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando o ativo atingir um valor específico."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da AVGO34 com data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da AVGO34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a AVGO34 atingir o preço que você escolheu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação da AVGO34 junto com seus outros ativos na carteira consolidada."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de uma empresa de semicondutores, NVIDIA Corporation, com exposição similar ao setor de tecnologia."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores, que oferece exposição diversificada ao setor, incluindo a Broadcom."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com o índice de referência da ação AVGO."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de uma empresa de tecnologia de grande capitalização, Apple Inc."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de AVGO34",
+      "url": "https://finance.yahoo.com/quote/AVGO34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BROADCOM INC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51586/AVGO/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Broadcom",
+      "url": "https://www.wikidata.org/wiki/Q790060",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Broadcom",
+      "url": "https://en.wikipedia.org/wiki/Broadcom",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Broadcom",
+      "url": "https://pt.wikipedia.org/wiki/Broadcom",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

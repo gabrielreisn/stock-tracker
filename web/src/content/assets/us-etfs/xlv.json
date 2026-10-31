@@ -1,0 +1,274 @@
+{
+  "ticker": "XLV",
+  "slug": "xlv",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLV: história, dividendos e volatilidade",
+    "description": "Conheça o XLV, o ETF de saúde da State Street. Veja a história, o índice que segue, a rentabilidade e a volatilidade do ativo em 30/10/2026.",
+    "h1": "XLV: State Street Health Care Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xlv",
+    "keywords": [
+      "XLV",
+      "ETF de saúde",
+      "State Street",
+      "S&P 500 Health Care",
+      "investir em ETFs",
+      "rentabilidade XLV",
+      "volatilidade XLV"
+    ]
+  },
+  "summary": "XLV é o State Street Health Care Select Sector SPDR ETF, um fundo de índice que replica o desempenho do setor de saúde do S&P 500. Lançado em 22/12/1998 pela State Street Global Advisors, o ativo investe em empresas de biotecnologia, farmacêuticas e equipamentos médicos. Em 30/10/2026, a cota valia US$ 184,87, com rentabilidade de 30,26% nos últimos 12 meses e dividend yield de 1,38%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Health Care Select Sector SPDR ETF",
+    "ticker": "ARCX XLV",
+    "foundingDate": "1998-12-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P 500 Health Care Select Industry",
+    "name": "State Street Health Care Select Sector SPDR ETF",
+    "founded": "22/12/1998"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Health Care Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/12/1998",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 184,87",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "16,40% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,25",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,38%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,48 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLV",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Health Care Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 184.87,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.3026,
+      "3y": 0.5694,
+      "5y": 0.5003,
+      "10y": 2.2445
+    },
+    "volatility1y": 0.164,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.1711,
+      "from": "2024-09-16",
+      "to": "2025-05-14"
+    },
+    "beta1y": {
+      "value": 0.25,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.55,
+      "payments12Months": 4,
+      "yield12Months": 0.0138,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.642
+      }
+    },
+    "avgDailyTradedValue3m": 1482041880
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do XLV nos últimos 12 meses foi de 16,40%, um nível considerado moderado. O beta do XLV contra o S&P 500 é de 0,25, o que significa que o ativo tende a ter movimentos menores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -17,11%, do pico em 16/09/2024 ao ponto mais baixo em 14/05/2025. Esses números podem ser monitorados através dos [alertas de preço](/recursos/alertas-de-preco) no app, que notificam o investidor quando o ativo atinge um preço específico."
+  },
+  "history": {
+    "overview": "O XLV faz parte da família de ETFs SPDR, geridos pela State Street Global Advisors (SSGA). A SSGA é a terceira maior gestora de ETFs do mundo, atrás apenas de iShares e Vanguard, e administra o maior ETF do mundo em termos de ativos sob gestão, o SPDR S&P 500 Trust. A marca SPDR, que significa Standard & Poor's Depositary Receipts, é uma marca registrada da Standard and Poor's Financial Services LLC, subsidiária da S&P Global. Em 2007, a SSGA unificou seus ETFs dos Estados Unidos sob a marca SPDR, incluindo a família StreetTRACKS e os DOW DIAMONDS, que acompanham o Dow Jones Industrial Average. Em 1998, a SSGA e a Merrill Lynch introduziram os Sector Spiders, uma série de dez fundos que seguem os setores do S&P 500. O XLV é um desses fundos, focado no setor de saúde. O primeiro pregão das cotas do XLV ocorreu em 22/12/1998.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "Lançamento dos Sector Spiders pela SSGA e Merrill Lynch, incluindo o XLV.",
+        "source": 1
+      },
+      {
+        "date": "1998-12-22",
+        "event": "Primeiro pregão das cotas do ETF na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA renomeia seus ETFs dos EUA como SPDRs, unificando a marca.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLV funciona",
+      "body": "O XLV é um ETF que replica o índice S&P 500 Health Care Select Industry. A emissora é a State Street Global Advisors (SSGA), que gerencia a família de ETFs SPDR. O fundo foi lançado em 22/12/1998, junto com outros ETFs setoriais da S&P 500. O XLV não é um ETF alavancado ou inverso; ele busca replicar o desempenho do índice de saúde do S&P 500, sem multiplicadores de retorno diário."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLV",
+      "body": "O XLV segue o índice S&P 500 Health Care Select Industry, que inclui empresas do setor de saúde do S&P 500. O setor de saúde é dividido em dois grupos principais: equipamentos e serviços de saúde, e farmacêuticas, biotecnologia e ciências da vida. As empresas são classificadas de acordo com o Global Industry Classification Standard (GICS), desenvolvido pela MSCI e S&P em 1999. O GICS organiza as empresas em 11 setores, 25 grupos de indústria, 74 indústrias e 163 subindústrias."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLV a partir do Brasil",
+      "body": "Para investir no XLV a partir do Brasil, o investidor pode abrir uma conta em uma corretora de valores no exterior, como a Interactive Brokers ou a Charles Schwab, e comprar as cotas do ETF diretamente na bolsa americana. Outra opção é buscar ETFs ou BDRs negociados na B3 que acompanhem o mesmo índice ou o setor de saúde dos EUA. O risco cambial é um fator importante, pois o valor do XLV é em dólar, e a variação do câmbio pode impactar o retorno em reais."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLV",
+      "body": "Em 30/10/2026, o XLV tinha uma rentabilidade total de 30,26% nos últimos 12 meses, 56,94% em 3 anos, 50,03% em 5 anos e 224,45% em 10 anos. O volume médio negociado por dia nos últimos 3 meses era de US$ 1,48 bilhão. A rentabilidade do XLV pode ser comparada com o S&P 500, o índice de referência do mercado americano, através da ferramenta de [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLV",
+      "body": "Os riscos do XLV incluem a volatilidade do setor de saúde, que pode ser impactada por regulamentações governamentais, avanços tecnológicos e mudanças no comportamento dos consumidores. A volatilidade anualizada do XLV nos últimos 12 meses foi de 16,40%, considerada moderada. A maior queda nos últimos 5 anos foi de -17,11%, do pico em 16/09/2024 ao ponto mais baixo em 14/05/2025. O beta do XLV contra o S&P 500 é de 0,25, o que indica que o ativo tende a ter movimentos menores que os do índice, na mesma direção. O risco cambial também é relevante para investidores brasileiros, pois o valor do XLV é em dólar."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar XLV no app",
+      "body": "Para quem tem XLV na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): A rentabilidade do XLV pode ser comparada com o S&P 500, o índice de referência do mercado americano, através da ferramenta de comparação com índices no app.\n- [alertas de preço](/recursos/alertas-de-preco): Os alertas de preço no app notificam o investidor quando o ativo atinge um preço específico, útil para monitorar a volatilidade do XLV.\n- [carteira consolidada](/recursos/carteira-consolidada): A carteira consolidada no app permite ao investidor ver a alocação do XLV junto com outros ativos, como ações da B3 e renda fixa."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o XLV?",
+      "answer": "O XLV é o State Street Health Care Select Sector SPDR ETF, um fundo de índice que replica o desempenho do setor de saúde do S&P 500. Ele investe em empresas de biotecnologia, farmacêuticas e equipamentos médicos."
+    },
+    {
+      "question": "Qual o índice que o XLV segue?",
+      "answer": "O XLV segue o índice S&P 500 Health Care Select Industry, que inclui empresas do setor de saúde do S&P 500."
+    },
+    {
+      "question": "Como investir no XLV a partir do Brasil?",
+      "answer": "Para investir no XLV a partir do Brasil, o investidor pode abrir uma conta em uma corretora de valores no exterior e comprar as cotas do ETF diretamente na bolsa americana. Outra opção é buscar ETFs ou BDRs negociados na B3 que acompanhem o mesmo índice ou o setor de saúde dos EUA."
+    },
+    {
+      "question": "Qual a rentabilidade do XLV nos últimos 12 meses?",
+      "answer": "Em 30/10/2026, o XLV tinha uma rentabilidade total de 30,26% nos últimos 12 meses."
+    },
+    {
+      "question": "Qual a volatilidade do XLV?",
+      "answer": "A volatilidade anualizada do XLV nos últimos 12 meses foi de 16,40%, um nível considerado moderado."
+    },
+    {
+      "question": "Qual o beta do XLV contra o S&P 500?",
+      "answer": "O beta do XLV contra o S&P 500 é de 0,25, o que indica que o ativo tende a ter movimentos menores que os do índice, na mesma direção."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "A rentabilidade do XLV pode ser comparada com o S&P 500, o índice de referência do mercado americano, através da ferramenta de comparação com índices no app."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Os alertas de preço no app notificam o investidor quando o ativo atinge um preço específico, útil para monitorar a volatilidade do XLV."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "A carteira consolidada no app permite ao investidor ver a alocação do XLV junto com outros ativos, como ações da B3 e renda fixa."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "O SPY é o maior ETF do mundo, que replica o S&P 500, o índice de referência do mercado americano."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "O XLK é o ETF setorial da State Street que replica o setor de tecnologia do S&P 500, um dos setores mais dinâmicos do mercado."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "O XLE é o ETF setorial da State Street que replica o setor de energia do S&P 500, outro setor cíclico do mercado."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLV",
+      "url": "https://finance.yahoo.com/quote/XLV/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Healthcare industry (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Healthcare_industry",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

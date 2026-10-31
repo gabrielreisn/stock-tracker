@@ -1,0 +1,397 @@
+{
+  "ticker": "HAPV3",
+  "slug": "hapv3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HAPV3: história, proventos e volatilidade",
+    "description": "HAPV3 é a ação ordinária da Hapvida, maior operador de saúde do Brasil. Veja rentabilidade, volatilidade de 122,21% e ausência de dividendos em 2026.",
+    "h1": "HAPV3: Hapvida Participações e Investimentos S.A.",
+    "canonicalPath": "/acoes/hapv3",
+    "keywords": [
+      "HAPV3",
+      "Hapvida",
+      "ação HAPV3",
+      "Hapvida dividendos",
+      "HAPV3 volatilidade",
+      "Hapvida Novo Mercado",
+      "HAPV3 desempenho",
+      "Hapvida NotreDame Intermédica"
+    ]
+  },
+  "summary": "HAPV3 é a ação ordinária da HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A. (Hapvida), maior operador de saúde do Brasil com mais de 15 milhões de beneficiários após a fusão com o Grupo NotreDame Intermédica em 2022. A empresa, sediada em Fortaleza, atua no segmento de serviços médicos, hospitalares, análises e diagnósticos. Em 30/10/2026, a ação era negociada a R$ 4,21, com rentabilidade total de -86,66% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Hapvida",
+    "legalName": "HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.",
+    "ticker": "BVMF HAPV3",
+    "isin": "BRHAPVACNOR4",
+    "taxId": "05.197.443/0001-38",
+    "foundingDate": "2001-08-30",
+    "address": {
+      "locality": "Fortaleza",
+      "region": "CE",
+      "country": "BR"
+    },
+    "website": "https://www.hapvida.com.br",
+    "wikidata": "Q10293878",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q10293878",
+      "https://pt.wikipedia.org/wiki/Hapvida_NotreDame_Interm%C3%A9dica",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24392/HAPV/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Hapvida",
+    "legalName": "HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Saúde",
+    "segment": "Serv.Méd.Hospit..Análises e Diagnósticos",
+    "founded": "30/08/2001",
+    "listedSince": "25/04/2018",
+    "headquarters": "Fortaleza (CE)",
+    "website": "https://www.hapvida.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "05.197.443/0001-38",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Saúde / Serv.Méd.Hospit..Análises e Diagnósticos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado holding",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "30/08/2001",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Fortaleza (CE)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "25/04/2018",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "HAPV3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 4,21",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "122,21% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "3,02",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 81,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HAPV3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Hapvida Participações e Investimentos S.A.",
+    "currency": "BRL",
+    "price": 4.21,
+    "historyStarts": "2018-04-26",
+    "returns": {
+      "1y": -0.8666,
+      "3y": -0.9229,
+      "5y": -0.9761,
+      "10y": null
+    },
+    "volatility1y": 1.2221,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9807,
+      "from": "2021-11-11",
+      "to": "2026-10-26"
+    },
+    "beta1y": {
+      "value": 3.02,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2021-12-28",
+        "amount": 0.08058
+      }
+    },
+    "avgDailyTradedValue3m": 81199774
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 12 meses da HAPV3 é de 122,21%, nível classificado como muito alta, o que indica oscilações de preço intensas. O beta de 3,02 contra o Ibovespa mostra que a ação tende a acompanhar os movimentos do índice com amplitude três vezes maior, na mesma direção. A maior queda em 5 anos foi de -98,07%, entre 11/11/2021 e 26/10/2026, o que reflete a sensibilidade do ativo a eventos corporativos e setoriais. Para ativos de saúde com histórico de reestruturação financeira, essa volatilidade é consistente com o período de estresse, mas o nível atual exige atenção à gestão de risco. O recurso de [alertas de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos extremos."
+  },
+  "history": {
+    "overview": "A história da Hapvida começa em 1979, quando o médico oncologista Cândido Pinheiro de Lima fundou o Hospital Antônio Prudente em Fortaleza. A empresa consolidou-se como a maior operadora de planos de saúde do Norte e Nordeste e a terceira maior do país em número de beneficiários. A HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A. foi formalmente constituída em 30/08/2001, com registro na CVM em 20/04/2018 e início de cotação na B3 em 25/04/2018. Em 2022, o Grupo Hapvida fundiu-se com o Grupo NotreDame Intermédica, fundado em 1968, formando a Hapvida NotreDame Intermédica e tornando-se o maior operador de saúde do Brasil, com mais de 15 milhões de beneficiários, 68 mil colaboradores, 27 mil médicos e 28 mil dentistas credenciados. No final de 2022, a empresa enfrentou fluxo de caixa negativo, prejuízo contábil e aumento da dívida líquida para R$ 7,1 bilhões, o que levou à queda de quase 40% das ações e à perda de R$ 13,2 bilhões em valor de mercado. Em resposta, a Hapvida estudou a venda de ativos não essenciais e a emissão de ações, concluindo a venda da Maida Health e da São Francisco Resgate em 2023. Em 2025, a companhia anunciou a antecipação do calendário DIOPS da ANS, divulgou demonstrações financeiras e acordo com o SUS/ANS, e iniciou programas de recompra de ações em outubro e novembro, além de um processo sucessório da administração em dezembro.",
+    "timeline": [
+      {
+        "date": "1979",
+        "event": "Fundação do primeiro hospital da Hapvida, o Hospital Antônio Prudente, em Fortaleza.",
+        "source": 3
+      },
+      {
+        "date": "2001-08-30",
+        "event": "Constituição da HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.",
+        "source": 2
+      },
+      {
+        "date": "2018-04-20",
+        "event": "Registro de companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2018-04-25",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2022",
+        "event": "Fusão entre o Grupo Hapvida e o Grupo NotreDame Intermédica, formando a Hapvida NotreDame Intermédica.",
+        "source": 4
+      },
+      {
+        "date": "2022",
+        "event": "Divulgação de fluxo de caixa negativo, prejuízo contábil e dívida líquida de R$ 7,1 bilhões, com queda de 40% nas ações.",
+        "source": 4
+      },
+      {
+        "date": "2023-10",
+        "event": "Conclusão da venda de ativos não estratégicos, incluindo a Maida Health e a São Francisco Resgate.",
+        "source": 4
+      },
+      {
+        "date": "2025-03-18",
+        "event": "Antecipação do Calendário DIOPS da ANS.",
+        "source": 9
+      },
+      {
+        "date": "2025-03-19",
+        "event": "Divulgação de demonstrações financeiras e acordo com o SUS/ANS.",
+        "source": 8
+      },
+      {
+        "date": "2025-10-14",
+        "event": "Anúncio de programa de recompra de ações.",
+        "source": 7
+      },
+      {
+        "date": "2025-11-13",
+        "event": "Novo programa de recompra de ações.",
+        "source": 6
+      },
+      {
+        "date": "2025-12-22",
+        "event": "Processo sucessório da administração.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Hapvida ganha dinheiro",
+      "body": "A HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A. atua no setor de saúde, com foco em assistência médica, serviços hospitalares, análises clínicas e diagnósticos. A empresa é o maior operador de saúde do Brasil, com mais de 15 milhões de beneficiários de saúde e odontologia, resultado da fusão com o Grupo NotreDame Intermédica em 2022. A receita provém da prestação de serviços médicos e odontológicos, além de investimentos diretos e participações em outras empresas do setor. A companhia possui mais de 68 mil colaboradores, 27 mil médicos e 28 mil dentistas credenciados."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Hapvida",
+      "body": "O controle acionário da Hapvida é privado, por meio de uma holding, conforme registro na CVM. A ação HAPV3 é do tipo ordinária (ON), o que confere ao acionista direito a voto em assembleias gerais e participação proporcional nos lucros. A empresa está listada no segmento Novo Mercado da B3, que exige padrões elevados de governança corporativa, transparência e liquidez. O código de negociação na bolsa é HAPV3, e a cotação começou em 25/04/2018. Ações ordinárias diferem das preferenciais (PN) por terem direito a voto, enquanto as preferenciais têm prioridade no recebimento de dividendos, mas geralmente não votam."
+    },
+    {
+      "id": "proventos",
+      "heading": "HAPV3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a HAPV3 não distribuiu dividendos nem juros sobre capital próprio (JCP), conforme os números calculados. A ausência de proventos nesse período reflete o cenário de reestruturação financeira da empresa, que enfrentou prejuízos e aumento de dívida em 2022. Para acompanhar a distribuição de proventos de outras empresas da carteira, é possível usar o recurso de [dividendos e JCP no app](/recursos/proventos), que lista datas de competência e pagamento com base nos comunicados da B3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da HAPV3",
+      "body": "A rentabilidade total da HAPV3, incluindo proventos, foi de -86,66% nos 12 meses até 30/10/2026, -92,29% em 3 anos e -97,61% em 5 anos. Esses números mostram uma perda expressiva de valor para o investidor no período. Para comparar esse desempenho com o Ibovespa, CDI ou outros índices, o recurso de [comparação com índices](/recursos/comparacao-com-indices) permite visualizar a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da HAPV3",
+      "body": "A Hapvida enfrenta riscos setoriais e corporativos. Em 2022, a empresa registrou fluxo de caixa negativo, prejuízo contábil e dívida líquida de R$ 7,1 bilhões, o que levou à venda de ativos não estratégicos e à possibilidade de aumento de capital. A volatilidade anualizada de 12 meses é de 122,21%, classificada como muito alta, e a maior queda em 5 anos foi de -98,07%, do pico em 11/11/2021 ao ponto mais baixo em 26/10/2026. O beta de 3,02 indica que a ação tende a se mover com intensidade três vezes maior que a do Ibovespa, na mesma direção. A empresa também está sujeita a riscos regulatórios, como mudanças no calendário DIOPS da ANS e acordos com o SUS, que podem impactar a receita. Para monitorar movimentos bruscos de preço, o recurso de [alertas de preço](/recursos/alertas-de-preco) envia notificações quando o ativo atinge um valor definido."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HAPV3 paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 30/10/2026, a HAPV3 não distribuiu dividendos nem JCP. A ausência de proventos reflete o cenário de reestruturação financeira da empresa. Para acompanhar proventos de outras ações, use o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre HAPV3 e HAPV4?",
+      "answer": "HAPV3 é a ação ordinária (ON), com direito a voto em assembleias. HAPV4 seria a ação preferencial (PN), com prioridade no recebimento de dividendos, mas sem direito a voto. As fontes não confirmam a existência de HAPV4, apenas a classificação de HAPV3 como ON."
+    },
+    {
+      "question": "Qual o setor da Hapvida?",
+      "answer": "A Hapvida atua no setor de saúde, especificamente em serviços médicos, hospitalares, análises e diagnósticos. É o maior operador de saúde do Brasil, com mais de 15 milhões de beneficiários, após a fusão com o Grupo NotreDame Intermédica em 2022."
+    },
+    {
+      "question": "HAPV3 tem alta volatilidade?",
+      "answer": "Sim. A volatilidade anualizada de 12 meses é de 122,21%, nível muito alto, e a maior queda em 5 anos foi de -98,07%. O beta de 3,02 indica que a ação se move com intensidade três vezes maior que a do Ibovespa. Para monitorar oscilações, use o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "HAPV3 está no Novo Mercado?",
+      "answer": "Sim. A HAPV3 está listada no segmento Novo Mercado da B3, que exige padrões elevados de governança corporativa, transparência e liquidez. O código de negociação é HAPV3, e a cotação começou em 25/04/2018."
+    },
+    {
+      "question": "Como acompanhar a HAPV3 na carteira?",
+      "answer": "O recurso de [carteira consolidada](/recursos/carteira-consolidada) permite visualizar a HAPV3 junto a outros ativos, com alocação e valor por classe. O recurso de [assistente de IA](/recursos/assistente-de-ia) permite perguntar em português sobre a posição, com respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da HAPV3 com data de competência e pagamento, multiplicados pela sua quantidade, a partir dos comunicados da B3."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da HAPV3 com o Ibovespa, CDI e outros índices no mesmo gráfico, para avaliar o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a HAPV3 atingir um preço que você escolher, útil para monitorar oscilações intensas."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a HAPV3 junto a outros ativos da carteira, com alocação por classe e as maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em HAPV3, com respostas baseadas nos seus próprios dados, rodando no Mac com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RDOR3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de saúde, Rede D'Or São Luiz, para comparação setorial."
+      },
+      {
+        "ticker": "FLRY3",
+        "list": "br-stocks",
+        "reason": "Fleury S.A., outra operadora de saúde, para análise de pares no segmento."
+      },
+      {
+        "ticker": "SAUD3",
+        "list": "br-stocks",
+        "reason": "Bradsaúde S.A., ação do setor de saúde, para diversificação setorial."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação de outro setor, para comparação de desempenho e volatilidade entre setores."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação de banco, para análise de diversificação entre setores de saúde e financeiro."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HAPV3",
+      "url": "https://finance.yahoo.com/quote/HAPV3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: HAPVIDA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24392/HAPV/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, HAPVIDA PARTICIPAÇÕES E INVESTIMENTOS S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Hapvida",
+      "url": "https://www.wikidata.org/wiki/Q10293878",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Hapvida NotreDame Intermédica",
+      "url": "https://pt.wikipedia.org/wiki/Hapvida_NotreDame_Interm%C3%A9dica",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/12/2025, “Processo Sucessório da Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1460586&numSequencia=985292&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/11/2025, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1444795&numSequencia=969507&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/10/2025, “Programa de Recompra de Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1432770&numSequencia=957482&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/03/2025, “Demonstrações Financeiras e Acordo SUS/ANS”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1348950&numSequencia=873676&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 18/03/2025, “Antecipação do Calendário DIOPS da ANS”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1347947&numSequencia=872673&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

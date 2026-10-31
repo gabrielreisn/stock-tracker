@@ -1,0 +1,306 @@
+{
+  "ticker": "ICRI11",
+  "slug": "icri11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ICRI11: FII de papel, CRIs e dividend yield",
+    "description": "Conheça o ICRI11, FII de papel da Intrag focado em CRIs indexados ao IPCA. Dividend yield de 14,41%, patrimônio de R$ 389,5 mi e histórico de proventos",
+    "h1": "ICRI11: Itaú Crédito Imobiliário Ipca FII",
+    "canonicalPath": "/fiis/icri11",
+    "keywords": [
+      "ICRI11",
+      "FII de papel",
+      "CRI",
+      "dividend yield ICRI11",
+      "Itaú Crédito Imobiliário",
+      "FII IPCA",
+      "renda imobiliária"
+    ]
+  },
+  "summary": "ICRI11 é o Itaú Crédito Imobiliário Ipca Fundo de Investimento Imobiliário, um fundo de papel focado em Certificados de Recebíveis Imobiliários (CRIs) atrelados à inflação. Fundado em 03/10/2023, o fundo busca retornos acima dos títulos públicos indexados ao IPCA. Em 09/2026, possuía patrimônio de R$ 389,5 milhões e distribuiu R$ 12,20 por cota nos últimos 12 meses, gerando um dividend yield de 14,41%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Itaú Crédito Imobiliário Ipca Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "ITAÚ CRÉDITO IMOBILIÁRIO IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF ICRI11",
+    "isin": "BRICRICTF004",
+    "taxId": "51.294.441/0001-84",
+    "foundingDate": "2023-10-03",
+    "provider": {
+      "name": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "url": "https://www.intrag.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=51294441000184"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Intrag Distribuidora de Títulos e Valores Mobiliários Ltda (administrador); Itaú (gestor, conforme nome do fundo e carta",
+    "name": "Itaú Crédito Imobiliário Ipca Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "ITAÚ CRÉDITO IMOBILIÁRIO IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Outros",
+    "founded": "03/10/2023",
+    "administrator": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "website": "https://www.intrag.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ITAÚ CRÉDITO IMOBILIÁRIO IPCA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "51.294.441/0001-84",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Outros",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "INTRAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "03/10/2023",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 389,5 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "11.181",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 100,97",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 84,64",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,75% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,27",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,41%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 664.577,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ICRI11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Itau Credito Imobiliario Ipca Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 84.64,
+    "historyStarts": "2024-02-19",
+    "returns": {
+      "1y": 0.0815,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1775,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.1734,
+      "from": "2024-08-21",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.27,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 12.2,
+      "payments12Months": 12,
+      "yield12Months": 0.1441,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 1
+      }
+    },
+    "avgDailyTradedValue3m": 664577
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do ICRI11 nos últimos 12 meses é de 17,75%, um nível considerado moderado para um FII de papel. O beta de 0,27 contra o Ibovespa mostra que o fundo costuma acompanhar os movimentos do índice em menor amplitude, na mesma direção. A maior queda em 5 anos foi de -17,34%, ocorrendo entre 21/08/2024 e 18/12/2024. Esse perfil de volatilidade é típico de fundos de crédito imobiliário, que são sensíveis a mudanças na taxa de juros e no cenário macroeconômico, mas menos voláteis que ações ou FIIs de tijolo em períodos de estresse de mercado."
+  },
+  "history": {
+    "overview": "O ICRI11 iniciou suas atividades em 03/10/2023, com o objetivo de investir majoritariamente em títulos de crédito privado ligados ao segmento imobiliário, especificamente CRIs indexados ao IPCA. A estratégia visa capturar a inflação e gerar renda passiva para os cotistas. Em setembro de 2026, o fundo relatou que 91% do seu patrimônio estava alocado em CRIs, mantendo uma reserva de caixa de R$ 1,50 por cota para sustentar a distribuição de proventos mesmo em meses de menor rendimento de carteira. O fundo passou por uma oferta pública de cotas entre setembro de 2023 e fevereiro de 2024, consolidando sua base de investidores.",
+    "timeline": [
+      {
+        "date": "2023-09-22",
+        "event": "Início da oferta pública de cotas do ICRI11",
+        "source": 2
+      },
+      {
+        "date": "2023-10-03",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2024-02-02",
+        "event": "Encerramento da oferta pública de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do ICRI11",
+      "body": "O ICRI11 é um Fundo de Investimento Imobiliário (FII) do tipo papel, administrado pela Intrag Distribuidora de Títulos e Valores Mobiliários Ltda. A estratégia do fundo, segundo o relatório gerencial de 30/09/2026, é investir em títulos de crédito privado majoritariamente ligados ao segmento imobiliário, com foco em Certificados de Recebíveis Imobiliários (CRIs). O objetivo de retorno é de 1,50% a 2,50% ao ano acima do retorno dos títulos públicos federais atrelados à inflação com prazo médio equivalente. Em setembro de 2026, 91% do patrimônio do fundo estava investido em CRIs, com o restante em caixa e outros ativos."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do ICRI11",
+      "body": "Nos 12 meses até 29/10/2026, o ICRI11 distribuiu R$ 12,20 por cota em 12 pagamentos, resultando em um dividend yield de 14,41%. O último provento foi de R$ 1,00, com pagamento em 01/10/2026. A consistência dos pagamentos é um destaque, com valores entre R$ 0,85 e R$ 1,15 por cota nos últimos 12 meses. Os rendimentos de FIIs são isentos de Imposto de Renda para pessoas físicas, conforme a legislação vigente. Acompanhe a história de proventos do ICRI11 no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O ICRI11 realizou uma oferta pública de cotas entre 22/09/2023 e 02/02/2024. Em 09/2026, o fundo contava com 3.857.359 cotas emitidas e 11.181 cotistas. O patrimônio líquido era de R$ 389,5 milhões, com valor patrimonial da cota de R$ 100,97. A taxa de administração no mês de setembro de 2026 foi de 0,073% sobre o patrimônio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ICRI11",
+      "body": "A rentabilidade total com proventos do ICRI11 nos 12 meses até 29/10/2026 foi de 8,15%. A cota de mercado fechou em R$ 84,64, enquanto a cota patrimonial estava em R$ 100,97, indicando um desconto de cerca de 16% sobre o valor de face. Para comparar esse desempenho com o mercado de FIIs, utilize a [comparação com índices](/recursos/comparacao-com-indices), que inclui o IFIX."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ICRI11",
+      "body": "Os principais riscos do ICRI11 estão ligados à qualidade de crédito dos emissores dos CRIs e à sensibilidade à taxa de juros, dada a natureza dos ativos de renda fixa. A volatilidade anualizada do fundo nos últimos 12 meses foi de 17,75%, classificada como moderada. A maior queda em 5 anos foi de -17,34%, entre 21/08/2024 e 18/12/2024. O beta de 0,27 contra o Ibovespa indica que o fundo tende a se mover em menor amplitude que o índice acionário. Acompanhe oscilações de preço com [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "ICRI11 é FII de papel ou de tijolo?",
+      "answer": "ICRI11 é um FII de papel. O fundo investe majoritariamente em Certificados de Recebíveis Imobiliários (CRIs), que são títulos de crédito privado lastreados em recebíveis do setor imobiliário, e não em imóveis físicos."
+    },
+    {
+      "question": "Qual o dividend yield do ICRI11?",
+      "answer": "O dividend yield do ICRI11 nos últimos 12 meses até 29/10/2026 é de 14,41%. O fundo distribuiu R$ 12,20 por cota nesse período, com pagamentos mensais consistentes."
+    },
+    {
+      "question": "O ICRI11 paga proventos mensais?",
+      "answer": "Sim, o ICRI11 distribui proventos mensais. Nos últimos 12 meses até 29/10/2026, houve 12 pagamentos, com valores entre R$ 0,85 e R$ 1,15 por cota."
+    },
+    {
+      "question": "Qual a taxa de administração do ICRI11?",
+      "answer": "A taxa de administração do ICRI11 em setembro de 2026 foi de 0,073% ao mês sobre o patrimônio líquido do fundo."
+    },
+    {
+      "question": "Qual o patrimônio do ICRI11?",
+      "answer": "Em setembro de 2026, o patrimônio líquido do ICRI11 era de R$ 389,5 milhões, com 11.181 cotistas e 3.857.359 cotas emitidas."
+    },
+    {
+      "question": "O ICRI11 é sensível à Selic?",
+      "answer": "Sim, como FII de papel com CRIs, o ICRI11 é sensível à taxa de juros. Mudanças na Selic afetam o valor de mercado dos títulos de renda fixa e a atratividade relativa dos proventos do fundo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do ICRI11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do ICRI11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do ICRI11 atingir um valor que você definir."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o ICRI11 junto com seus outros FIIs, ações e renda fixa em uma única visão de alocação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de papel focado em CRIs high yield, com estratégia similar de renda indexada à inflação."
+      },
+      {
+        "ticker": "VGIP11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário indexado ao IPCA, comparável ao ICRI11 em termos de estratégia e sensibilidade à inflação."
+      },
+      {
+        "ticker": "XPCI11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário da XP, com foco em CRIs e similar em perfil de risco e retorno."
+      },
+      {
+        "ticker": "KNIP11",
+        "list": "fiis",
+        "reason": "FII de índices de preços da Kinea, com estratégia de renda imobiliária indexada à inflação."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ICRI11",
+      "url": "https://finance.yahoo.com/quote/ICRI11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do ITAÚ CRÉDITO IMOBILIÁRIO IPCA FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo ICRI11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=51294441000184",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do ICRI11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1350033",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

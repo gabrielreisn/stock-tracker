@@ -1,0 +1,407 @@
+{
+  "ticker": "BRKM5",
+  "slug": "brkm5",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BRKM5: história, dividendos e recuperação extrajudicial",
+    "description": "BRKM5 é a ação preferencial da Braskem, em recuperação extrajudicial em 2026. Veja a história, a ausência de dividendos, a volatilidade de 87% e a queda",
+    "h1": "BRKM5: ação preferencial da Braskem em recuperação extrajudicial",
+    "canonicalPath": "/acoes/brkm5",
+    "keywords": [
+      "BRKM5",
+      "Braskem",
+      "ação preferencial",
+      "recuperação extrajudicial",
+      "dividendos BRKM5",
+      "volatilidade BRKM5",
+      "petroquímica",
+      "Novonor"
+    ]
+  },
+  "summary": "BRKM5 é a ação preferencial classe A da Braskem S.A., maior petroquímica das Américas, com sede em Camaçari (BA). A empresa produz resinas termoplásticas e biopolímeros, mas enfrenta uma crise de endividamento que levou ao pedido de recuperação extrajudicial em 2026. Com dívidas estimadas em R$ 187,1 bilhões, a ação registrou queda de 94,72% desde dezembro de 2021 e cotação de R$ 2,99 em 30/10/2026.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Braskem",
+    "legalName": "BRASKEM S.A.",
+    "ticker": "BVMF BRKM5",
+    "isin": "BRBRKMACNPA4",
+    "taxId": "42.150.391/0001-70",
+    "foundingDate": "1974-06-18",
+    "address": {
+      "locality": "Camaçari",
+      "region": "BA",
+      "country": "BR"
+    },
+    "website": "https://www.braskem.com.br",
+    "wikidata": "Q899395",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q899395",
+      "https://pt.wikipedia.org/wiki/Braskem",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/4820/BRKM/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Braskem",
+    "legalName": "BRASKEM S.A.",
+    "type": "Ação preferencial classe A (PNA)",
+    "sector": "Materiais Básicos",
+    "segment": "Petroquímicos",
+    "founded": "18/06/1974",
+    "listedSince": "02/09/2002",
+    "headquarters": "Camaçari (BA)",
+    "website": "https://www.braskem.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "BRASKEM S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "42.150.391/0001-70",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Petroquímicos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Nível 1",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "18/06/1974",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Camaçari (BA)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "02/09/2002",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "BRKM3, BRKM5, BRKM6",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 2,99",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "87,05% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,26",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 31,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BRKM5",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Braskem S.A.",
+    "currency": "BRL",
+    "price": 2.99,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.5596,
+      "3y": -0.8197,
+      "5y": -0.9345,
+      "10y": -0.8567
+    },
+    "volatility1y": 0.8705,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9472,
+      "from": "2021-12-07",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.26,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2022-04-20",
+        "amount": 1.696348
+      }
+    },
+    "avgDailyTradedValue3m": 31608534
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da BRKM5 nos últimos 12 meses é de 87,05%, um nível muito alto que reflete a instabilidade financeira da empresa e a recuperação extrajudicial. A maior queda em 5 anos foi de -94,72%, do pico em 07/12/2021 ao ponto mais baixo em 30/10/2026, o que mostra a magnitude do risco de perda de capital. Para ativos em recuperação judicial, essa volatilidade é esperada, mas exige atenção redobrada. O recurso de [alertas de preço](/recursos/alertas-de-preco) pode ajudar a acompanhar os movimentos bruscos sem a necessidade de monitorar o gráfico o dia todo."
+  },
+  "history": {
+    "overview": "A origem da Braskem remete a 1974, com a constituição da companhia, embora a marca atual tenha surgido em 2002 a partir da integração de empresas como Copene, OPP, Trikem, Proppet, Nitrocarbono e Polialden. A holding controladora, a Novonor (antiga Odebrecht), começou a atuar no setor petroquímico em 1979 ao adquirir participação na Companhia Petroquímica de Camaçari. A expansão internacional ocorreu por meio da aquisição de unidades na Filadélfia (2010), fábricas da Dow Chemical na Alemanha e EUA (2011) e a joint-venture Braskem-Idesa no México (2012). Em 2016, a empresa celebrou acordo de leniência no âmbito da Operação Lava-Jato. A crise mais recente envolve o afundamento do solo de Maceió, ligado à extração de sal-gema, que resultou no encerramento dessa atividade em 2019 e na remoção da empresa do índice de sustentabilidade da B3. Em 2026, a situação financeira levou à recuperação extrajudicial.",
+    "timeline": [
+      {
+        "date": "1974-06-18",
+        "event": "Constituição da companhia",
+        "source": 2
+      },
+      {
+        "date": "1978-12-18",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2002",
+        "event": "Fundação da Braskem a partir da integração de unidades petroquímicas",
+        "source": 3
+      },
+      {
+        "date": "2002-09-02",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-08-24",
+        "event": "Aprovação do Conselho de Administração e protocolo do pedido de recuperação extrajudicial",
+        "source": 11
+      },
+      {
+        "date": "2026-08-28",
+        "event": "Deferimento do processamento da recuperação extrajudicial",
+        "source": 10
+      },
+      {
+        "date": "2026-09-21",
+        "event": "Deferimento do pedido de registro de oferta pública de aquisição das ações pelo Shine I FIP",
+        "source": 9
+      },
+      {
+        "date": "2026-09-23",
+        "event": "Lançamento da oferta pública de aquisição das ações pelo Shine I FIP",
+        "source": 8
+      },
+      {
+        "date": "2026-09-25",
+        "event": "Decisão proferida no âmbito da Recuperação Extrajudicial da Braskem e de controladas",
+        "source": 7
+      },
+      {
+        "date": "2026-10-16",
+        "event": "Comunicação sobre o resultado da oferta pública de aquisição das ações",
+        "source": 6
+      },
+      {
+        "date": "2026-10-24",
+        "event": "Comunicação sobre informações compartilhadas com investidores",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Braskem ganha dinheiro",
+      "body": "A Braskem S.A. atua no setor de Materiais Básicos, especificamente no segmento de Petroquímicos, com foco na produção de produtos químicos, utilidades, energia elétrica e prestação de serviços industriais. A empresa possui 40 unidades industriais, sendo 28 no Brasil (Alagoas, Bahia, Rio de Janeiro, Rio Grande do Sul e São Paulo) e 12 no exterior (EUA, Alemanha e México), empregando cerca de 8.126 pessoas em 11 países. Seus principais produtos são resinas de polietileno, polipropileno e PVC, além de eteno, propeno, butadieno, benzeno, tolueno, cloro, soda e solventes. A companhia também atua na extração de sal-gema, atividade que, no entanto, foi encerrada em Maceió em 2019 devido ao afundamento do solo. A receita vem da venda desses insumos para a indústria de plásticos e química, com clientes em mais de 71 países."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Braskem",
+      "body": "O controle acionário da Braskem é privado, detido pela Novonor, conforme registro na CVM. A empresa possui três códigos de negociação na B3: BRKM3, BRKM5 e BRKM6. A BRKM5 é uma ação preferencial classe A (PNA), que confere prioridade no recebimento de dividendos e JCP em relação às ações ordinárias, mas não possui direito a voto nas assembleias gerais, exceto em situações excepcionais previstas em lei. O segmento de listagem é o Nível 1, o que exige padrões mínimos de governança corporativa, como a separação entre os cargos de presidente do Conselho e da administração. A empresa também possui ações negociadas na Bolsa de Nova York e na Bolsa de Madri."
+    },
+    {
+      "id": "proventos",
+      "heading": "BRKM5 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a BRKM5 não distribuiu nenhum provento, seja dividendos ou JCP. A ausência de pagamentos reflete a crise financeira da empresa, que em 2026 pediu recuperação extrajudicial com dívidas estimadas em R$ 187,1 bilhões. Investidores que buscam renda passiva devem considerar que a BRKM5 não tem histórico recente de remuneração. É possível acompanhar o histórico de proventos de outras ações e a projeção de recebimentos no recurso de [dividendos e JCP no app](/recursos/proventos), que consolida as datas de competência e pagamento a partir dos comunicados da B3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da BRKM5",
+      "body": "A rentabilidade total da BRKM5 com proventos é negativa em todos os horizontes analisados até 30/10/2026: -55,96% em 12 meses, -81,97% em 3 anos, -93,45% em 5 anos e -85,67% em 10 anos. Esses números refletem a deterioração do quadro financeiro e a recuperação extrajudicial iniciada em 2026. Para avaliar como essa performance se compara ao mercado, o recurso de [comparação com índices](/recursos/comparacao-com-indices) permite visualizar a rentabilidade da carteira ao lado do Ibovespa, CDI e IPCA, ajudando a entender o contexto de mercado durante o período de queda."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da BRKM5",
+      "body": "Os principais riscos da BRKM5 estão ligados à sua situação financeira e à volatilidade do setor petroquímico. A empresa entrou em recuperação extrajudicial em 2026, com dívidas de R$ 187,1 bilhões, o que gera incerteza sobre a capacidade de honrar compromissos. A volatilidade anualizada de 12 meses é de 87,05%, classificada como muito alta, e a maior queda em 5 anos foi de -94,72%, do pico em 07/12/2021 ao ponto mais baixo em 30/10/2026. Além disso, há riscos operacionais ligados à extração de sal-gema, que causou o afundamento do solo de Maceió, e riscos setoriais relacionados à demanda por plásticos e ao preço do petróleo. A alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge níveis pré-definidos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BRKM5 paga dividendos?",
+      "answer": "Não, a BRKM5 não pagou dividendos nem JCP nos últimos 12 meses até 30/10/2026. A ausência de proventos está ligada à crise financeira da empresa, que pediu recuperação extrajudicial em 2026 com dívidas de R$ 187,1 bilhões. A prioridade de recebimento das ações preferenciais não garante pagamento se a empresa não tiver caixa disponível."
+    },
+    {
+      "question": "Qual a diferença entre BRKM3 e BRKM5?",
+      "answer": "A BRKM5 é a ação preferencial classe A, que tem prioridade no recebimento de dividendos e JCP, mas não tem direito a voto em assembleias. A BRKM3 é a ação ordinária, que confere direito a voto, mas não tem prioridade nos proventos. A BRKM6 é uma ação preferencial classe B, com características semelhantes à BRKM5, mas com diferenças específicas de emissão. A escolha entre elas depende da prioridade do investidor entre voto e prioridade de proventos."
+    },
+    {
+      "question": "Por que a BRKM5 caiu tanto?",
+      "answer": "A queda de -94,72% do pico em 07/12/2021 ao ponto mais baixo em 30/10/2026 reflete a crise financeira da Braskem, que em 2026 pediu recuperação extrajudicial com dívidas de R$ 187,1 bilhões. A empresa também enfrentou problemas com o afundamento do solo de Maceió, ligado à extração de sal-gema, e a volatilidade do setor petroquímico. A rentabilidade de 12 meses é de -55,96%, e a de 5 anos é de -93,45%."
+    },
+    {
+      "question": "A Braskem está em recuperação judicial?",
+      "answer": "Sim, a Braskem protocolou o pedido de recuperação extrajudicial em 24/08/2026, que foi deferido em 28/08/2026. A empresa comunicou em 25/09/2026 uma decisão proferida no âmbito da recuperação, e em 16/10/2026 informou o resultado da oferta pública de aquisição das ações pelo Shine I FIP. A recuperação extrajudicial é um processo de renegociação de dívidas que pode levar a uma reestruturação do capital ou a uma recuperação judicial formal."
+    },
+    {
+      "question": "O que é a Novonor?",
+      "answer": "A Novonor é a empresa controladora da Braskem, resultado da reestruturação da antiga Odebrecht. A Novonor detém o controle acionário da Braskem, conforme registro na CVM. A empresa é uma holding que atua em diversos setores, incluindo petroquímicos, e é responsável pela gestão da Braskem."
+    },
+    {
+      "question": "Como acompanhar a BRKM5 no app?",
+      "answer": "É possível acompanhar a BRKM5 no app por meio de vários recursos. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) mostra a rentabilidade e a variação do dia e do ano. A [carteira consolidada](/recursos/carteira-consolidada) permite ver a alocação da BRKM5 junto com outros ativos. O [assistente de IA](/recursos/assistente-de-ia) responde perguntas em português sobre a posição, usando os dados do próprio investidor."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da BRKM5 com data com e data de pagamento, multiplicados pela sua quantidade, a partir dos comunicados da B3."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da BRKM5 com o Ibovespa, CDI e IPCA no mesmo gráfico, para entender o contexto de mercado durante a queda."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a BRKM5 atingir o preço que você escolheu, útil para acompanhar a alta volatilidade sem monitorar o gráfico o dia todo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a BRKM5 junto com outras ações, renda fixa e fundos em uma só visão, com valor por classe, alocação e as maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em BRKM5, e o assistente responde com base nos seus próprios dados, mostrando o que foi consultado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Petrobras, que é a principal fornecedora de insumos para a Braskem e atua no setor de energia e petroquímicos."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária da Vale, outra empresa do setor de Materiais Básicos, com exposição a commodities e alta volatilidade."
+      },
+      {
+        "ticker": "CSAN3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária da Cosan, que atua no setor de energia e biocombustíveis, com exposição a commodities e ao agronegócio."
+      },
+      {
+        "ticker": "SUZB3",
+        "list": "br-stocks",
+        "reason": "Ação ordinária da Suzano, líder global em celulose, que também atua no setor de Materiais Básicos e tem exposição a commodities."
+      },
+      {
+        "ticker": "GGBR4",
+        "list": "br-stocks",
+        "reason": "Ação preferencial da Gerdau, que atua no setor de siderurgia, com exposição a commodities e à demanda industrial."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BRKM5",
+      "url": "https://finance.yahoo.com/quote/BRKM5.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BRASKEM, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/4820/BRKM/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, BRASKEM S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Braskem",
+      "url": "https://www.wikidata.org/wiki/Q899395",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Braskem",
+      "url": "https://pt.wikipedia.org/wiki/Braskem",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/10/2026, “Fato Relevante - Braskem comunica sobre informações compartilhadas com Investidores”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1580021&numSequencia=1104727&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/10/2026, “Braskem comunica sobre correspondência enviada pelo Shine I FIP sobre o resultado da oferta pública de aquisição das ações de emissão da Braskem”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1578099&numSequencia=1102805&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 25/09/2026, “Braskem comunica que foi informada de decisão proferida no âmbito da Recuperação Extrajudicial da Braskem e de determinadas controladas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1571421&numSequencia=1096127&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/09/2026, “Braskem comunica sobre correspondência enviada pelo Shine I FIP sobre lançamento de oferta pública de aquisição das ações de emissão da Braskem”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1571038&numSequencia=1095744&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 21/09/2026, “Braskem comunica sobre correspondência enviada pelo Shine I FIP sobre deferimento do pedido de registro de oferta pública de aquisição das ações de emissão da Braskem”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1569796&numSequencia=1094502&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 28/08/2026, “Braskem comunica sobre deferimento do processamento da recuperação extrajudicial”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1562270&numSequencia=1086976&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/08/2026, “Braskem comunica sobre aprovação do Conselho de Administração para pedido de recuperação extrajudicial”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1560568&numSequencia=1085274&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/08/2026, “Braskem comunica sobre protocolo de pedido de recuperação extrajudicial”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1560748&numSequencia=1085454&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

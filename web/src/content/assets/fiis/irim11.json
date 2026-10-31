@@ -1,0 +1,320 @@
+{
+  "ticker": "IRIM11",
+  "slug": "irim11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IRIM11: FII híbrido, dividendos e risco",
+    "description": "Conheça o IRIM11, FII multicategoria da Iridium com CRIs e imóveis. Veja dividend yield de 17,23%, patrimônio de R$ 2,92 bi e volatilidade.",
+    "h1": "IRIM11: Iridium FII Multicategoria",
+    "canonicalPath": "/fiis/irim11",
+    "keywords": [
+      "IRIM11",
+      "Iridium FII",
+      "FII multicategoria",
+      "dividend yield IRIM11",
+      "IRIM11 patrimônio",
+      "FII de papel e tijolo"
+    ]
+  },
+  "summary": "IRIM11 é a cota do Iridium Fundo de Investimento Imobiliário Responsabilidade Limitada, um FII de gestão ativa e segmento multicategoria. Fundado em 24/05/2021, o fundo investe em CRIs, cotas de outros FIIs e ações do setor imobiliário. Em 09/2026, o patrimônio líquido era de R$ 2,92 bilhões, com 195.004 cotistas e valor patrimonial da cota de R$ 82,79. Nos 12 meses até 29/10/2026, a rentabilidade total foi de -6,05%, com dividend yield de 17,23%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Iridium Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "IRIDIUM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF IRIM11",
+    "isin": "BRIRIMCTF003",
+    "taxId": "41.076.564/0001-95",
+    "foundingDate": "2021-05-24",
+    "provider": {
+      "name": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "url": "https://www.btgpactual.com"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=41076564000195"
+    ]
+  },
+  "profile": {
+    "type": "FII híbrido (CRI, cotas de FIIs e ações)",
+    "issuerOrManager": "Iridium Gestão de Recursos Ltda",
+    "name": "Iridium Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "IRIDIUM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "24/05/2021",
+    "administrator": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+    "website": "https://www.btgpactual.com"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "IRIDIUM FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "41.076.564/0001-95",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "BTG PACTUAL SERVICOS FINANCEIROS S.A. DISTRIBUIDOR",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "24/05/2021",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 2,92 bilhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "195.004",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 82,79",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 58,22",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "19,49% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,31",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "17,23%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IRIM11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Iridium Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 58.22,
+    "historyStarts": "2024-01-29",
+    "returns": {
+      "1y": -0.0605,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1949,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.1944,
+      "from": "2024-04-03",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.31,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 10.03,
+      "payments12Months": 12,
+      "yield12Months": 0.1723,
+      "lastPayment": {
+        "date": "2026-10-13",
+        "amount": 0.75
+      }
+    },
+    "avgDailyTradedValue3m": 3280830
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do IRIM11 nos últimos 12 meses foi de 19,49%, um nível considerado moderado para um FII de renda fixa. O beta de 0,31 contra o Ibovespa mostra que, historicamente, o fundo acompanha os movimentos do índice de ações com menor intensidade, mas isso não implica menor risco de oscilação de preço. A maior queda registrada nos últimos 5 anos foi de -19,44%, ocorrida entre o pico em 03/04/2024 e o fundo em 19/12/2024. Essa sensibilidade a fatores de mercado e à inflação é típica de fundos de papel, onde a valorização dos CRIs pode ser impactada por mudanças na curva de juros e no IPCA."
+  },
+  "history": {
+    "overview": "O Iridium Fundo de Investimento Imobiliário Responsabilidade Limitada (IRIM11) iniciou suas atividades em 24/05/2021, com gestão ativa da Iridium Gestão de Recursos Ltda. e administração do BTG Pactual. O fundo opera no segmento multicategoria, o que significa que sua carteira não se restringe a um único tipo de ativo imobiliário, mas combina diferentes classes para buscar diversificação e geração de renda. A estratégia de gestão ativa permite que a gestora ajuste a alocação conforme as condições de mercado, diferentemente de fundos que replicam índices passivamente. Em 2025, o fundo passou por uma reorganização estratégica significativa, aprovada em 15/07/2025, que resultou na aquisição dos ativos do IRDM11 (Iridium Recebíveis Imobiliários). Essa consolidação visava ampliar a escala, a liquidez e a diversificação da carteira, permitindo que o IRIM11 passasse a deter, de forma combinada, imóveis, Certificados de Recebíveis Imobiliários (CRIs), cotas de outros FIIs e ações ligadas ao setor imobiliário. Em 21/10/2025, o fundo anunciou a 3ª emissão de cotas, encerrada em 27/11/2025, o que indica um esforço contínuo de captação de recursos para sustentar a estratégia de crescimento e distribuição de rendimentos.",
+    "timeline": [
+      {
+        "date": "2021-05-24",
+        "event": "Início das atividades do IRIM11",
+        "source": 1
+      },
+      {
+        "date": "2025-07-15",
+        "event": "Aprovação da reorganização para aquisição dos ativos do IRDM11",
+        "source": 5
+      },
+      {
+        "date": "2025-10-21",
+        "event": "Início da oferta pública primária de cotas da 3ª emissão",
+        "source": 4
+      },
+      {
+        "date": "2025-11-27",
+        "event": "Encerramento da oferta pública de cotas da 3ª emissão",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do IRIM11",
+      "body": "O IRIM11 é um Fundo de Investimento Imobiliário (FII) de gestão ativa, administrado pela BTG Pactual Serviços Financeiros S.A. e gerido pela Iridium Gestão de Recursos Ltda. O fundo atua no segmento multicategoria, o que implica uma carteira diversificada que, segundo o relatório gerencial de referência 30/09/2026, inclui Certificados de Recebíveis Imobiliários (CRIs), cotas de outros FIIs e ações ligadas ao setor imobiliário. Essa composição híbrida busca combinar a renda fixa de CRIs com a exposição a ativos de tijolo e renda variável, permitindo à gestora ajustar a alocação conforme as condições de mercado. A estratégia visa potencializar a geração de valor aos cotistas através da diversificação e da escala, especialmente após a consolidação com o IRDM11 em 2025."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do IRIM11",
+      "body": "Nos 12 meses até 29/10/2026, o IRIM11 distribuiu R$ 10,03 por cota em 12 pagamentos, resultando em um dividend yield de 17,23% sobre o preço de mercado. O último provento foi de R$ 0,75 por cota, pago em 13/10/2026. O relatório gerencial de setembro de 2026 destaca que os rendimentos são líquidos de Imposto de Renda para investidores Pessoa Física, o que é uma característica específica de alguns FIIs que realizam a retenção na fonte. A distribuição é feita no 7º dia útil de cada mês, com anúncio no mesmo dia. É possível acompanhar o histórico de pagamentos e o impacto na carteira através do recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O IRIM11 realizou sua 3ª emissão de cotas entre 21/10/2025 e 27/11/2025, sob regime de melhores esforços de colocação. Em 09/2026, o fundo contava com 35.225.947 cotas emitidas, um patrimônio líquido de R$ 2,92 bilhões e 195.004 cotistas. O valor patrimonial da cota nesse mesmo mês era de R$ 82,79. A taxa de administração é de 0,15% ao ano e a taxa de gestão é de 0,83% ao ano, conforme o relatório gerencial. O fundo possui prazo de duração indeterminado."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IRIM11",
+      "body": "A rentabilidade total do IRIM11 nos 12 meses até 29/10/2026 foi de -6,05%, enquanto a cota patrimonial acumulou 9,79% no mesmo período, indicando uma desvalorização no mercado secundário. A cota patrimonial subiu 55,72% desde o início do fundo. Para comparar esse desempenho com outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que coloca a rentabilidade lado a lado com o IFIX, CDI e Ibovespa. O volume médio negociado nos últimos 3 meses foi de R$ 3,3 milhões por dia."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IRIM11",
+      "body": "Como FII de papel com exposição a CRIs, o IRIM11 está sujeito ao risco de crédito dos devedores dos recebíveis e à sensibilidade a mudanças na taxa de juros e na inflação (IPCA), que impactam a correção monetária dos ativos. O relatório de setembro de 2026 aponta que a menor contribuição da correção monetária dos CRIs, devido a leituras mais baixas do IPCA, pressionou o resultado. A volatilidade anualizada do fundo nos últimos 12 meses foi de 19,49%, classificada como moderada. A maior queda em 5 anos foi de -19,44%, entre 03/04/2024 e 19/12/2024. O beta de 0,31 contra o Ibovespa indica que o fundo tende a se mover menos que o índice de ações, mas isso não significa menor volatilidade absoluta. Para monitorar movimentos bruscos, é possível configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "IRIM11 é FII de papel ou de tijolo?",
+      "answer": "IRIM11 é um FII de segmento multicategoria, o que significa que ele é híbrido. A carteira inclui CRIs (papel), cotas de outros FIIs e ações do setor imobiliário, além de imóveis (tijolo), conforme a reorganização de 2025."
+    },
+    {
+      "question": "Qual o dividend yield do IRIM11?",
+      "answer": "O dividend yield do IRIM11 nos 12 meses até 29/10/2026 foi de 17,23%, com base no preço de mercado. O rendimento distribuído foi de R$ 10,03 por cota nesse período."
+    },
+    {
+      "question": "Quem gerencia o IRIM11?",
+      "answer": "A gestora do IRIM11 é a Iridium Gestão de Recursos Ltda., enquanto o administrador e distribuidor é a BTG Pactual Serviços Financeiros S.A."
+    },
+    {
+      "question": "IRIM11 paga rendimentos líquidos de IR?",
+      "answer": "Sim, o relatório gerencial de setembro de 2026 informa que o rendimento distribuído é líquido de Imposto de Renda para investidores Pessoa Física, o que é uma característica específica de alguns FIIs."
+    },
+    {
+      "question": "Qual o patrimônio do IRIM11?",
+      "answer": "Em 09/2026, o patrimônio líquido do IRIM11 era de R$ 2,92 bilhões, com 195.004 cotistas e valor patrimonial da cota de R$ 82,79."
+    },
+    {
+      "question": "O IRIM11 tem risco de crédito?",
+      "answer": "Sim, como FII com exposição a CRIs, o IRIM11 está sujeito ao risco de crédito dos devedores dos recebíveis imobiliários, além da sensibilidade a juros e inflação."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do IRIM11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IRIM11 com o IFIX, CDI e Ibovespa no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do IRIM11 atingir um valor que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do IRIM11 junto com outros FIIs e ativos na sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de CRIs high yield, similar em estratégia de renda fixa imobiliária."
+      },
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "FII de logística da BTG Pactual, mesma administradora do IRIM11."
+      },
+      {
+        "ticker": "MXRF11",
+        "list": "fiis",
+        "reason": "FII de renda com foco em recebíveis, comparável ao segmento de papel do IRIM11."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística, representando a exposição a ativos de tijolo que o IRIM11 também possui."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IRIM11",
+      "url": "https://finance.yahoo.com/quote/IRIM11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do IRIDIUM CRI FII RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo IRIM11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=41076564000195",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do IRIM11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1349876",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do IRIM11, 21/10/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1018246",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do IRIM11, 15/09/2025",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=992129",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

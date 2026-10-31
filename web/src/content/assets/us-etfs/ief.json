@@ -1,0 +1,280 @@
+{
+  "ticker": "IEF",
+  "slug": "ief",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "IEF: história, dividendos e volatilidade",
+    "description": "IEF é o ETF de títulos do Tesouro dos EUA com vencimento 7-10 anos. Veja desempenho, dividend yield de 4,05% e riscos do IEF até 30/10/2026.",
+    "h1": "IEF: iShares 7-10 Year Treasury Bond ETF",
+    "canonicalPath": "/etfs/ief",
+    "keywords": [
+      "IEF",
+      "iShares 7-10 Year Treasury Bond ETF",
+      "ETF de títulos do Tesouro dos EUA",
+      "renda fixa americana",
+      "dividend yield IEF",
+      "volatilidade IEF",
+      "beta IEF S&P 500"
+    ]
+  },
+  "summary": "IEF é a cota do iShares 7-10 Year Treasury Bond ETF, um ETF gerido pela BlackRock que investe em títulos do Tesouro dos EUA com vencimento entre 7 e 10 anos. Lançado em 30/07/2002, o ativo busca replicar o desempenho desse segmento da renda fixa americana. Em 30/10/2026, a cota valia US$ 91,76, com uma rentabilidade total de -1,43% nos últimos 12 meses e dividend yield de 4,05%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares 7-10 Year Treasury Bond ETF",
+    "ticker": "XNAS IEF",
+    "foundingDate": "2002-07-30",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa (Títulos do Tesouro dos EUA)",
+    "issuerOrManager": "BlackRock (marca iShares)",
+    "trackedIndex": "Índice de títulos do Tesouro dos EUA com vencimento entre 7 e 10 anos",
+    "name": "iShares 7-10 Year Treasury Bond ETF",
+    "founded": "30/07/2002"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares 7-10 Year Treasury Bond ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "30/07/2002",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 91,76",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "4,98% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,12",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,05%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 931,9 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "IEF",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares 7-10 Year Treasury Bond ETF",
+    "currency": "USD",
+    "price": 91.76,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0143,
+      "3y": 0.1427,
+      "5y": -0.0666,
+      "10y": 0.0563
+    },
+    "volatility1y": 0.0498,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.204,
+      "from": "2021-12-03",
+      "to": "2023-10-19"
+    },
+    "beta1y": {
+      "value": 0.12,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.714,
+      "payments12Months": 12,
+      "yield12Months": 0.0405,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.307
+      }
+    },
+    "avgDailyTradedValue3m": 931893066
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do IEF nos últimos 12 meses foi de 4,98%, um nível baixo para um ativo de renda fixa de longo prazo. Isso significa que o IEF é menos sensível às flutuações do mercado de ações. A maior queda nos últimos 5 anos foi de -20,40%, ocorrendo entre 03/12/2021 e 19/10/2023, período em que as taxas de juros subiram, pressionando os preços dos títulos de longo prazo. Essa queda é significativa, mas típica de fundos de títulos de longo prazo em ambientes de alta de juros."
+  },
+  "history": {
+    "overview": "O IEF foi lançado em 30/07/2002, marcando o início das negociações de suas cotas na bolsa. O fundo faz parte da marca iShares, que foi desenvolvida pela Barclays Global Investors a partir de 2000, quando a empresa lançou mais de 40 novos fundos com esse nome. Em 2009, a BlackRock adquiriu a marca e o negócio da Barclays, consolidando-se como a maior emissora de ETFs nos Estados Unidos e no mundo. O IEF é um dos produtos dessa linha, focado em títulos de longo prazo do governo americano. A história dos títulos do Tesouro dos EUA, que o IEF replica, remonta à Primeira Guerra Mundial, quando o governo emitiu dívidas para financiar o esforço de guerra, evoluindo para o sistema de leilões atual, iniciado em 1929.",
+    "timeline": [
+      {
+        "date": "1917",
+        "event": "O governo dos Estados Unidos emitiu dívidas (war bonds) para financiar a Primeira Guerra Mundial.",
+        "source": 2
+      },
+      {
+        "date": "1929-12-13",
+        "event": "O Tesouro dos EUA concluiu seu primeiro leilão de títulos, mudando o sistema de fixação de preços.",
+        "source": 2
+      },
+      {
+        "date": "2000",
+        "event": "A Barclays lançou mais de 40 novos fundos sob a marca iShares.",
+        "source": 1
+      },
+      {
+        "date": "2002-07-30",
+        "event": "Primeiro pregão das cotas do IEF na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "A BlackRock adquiriu a marca e o negócio da iShares da Barclays.",
+        "source": 1
+      },
+      {
+        "date": "2009-03-16",
+        "event": "A Barclays confirmou a venda da marca iShares para a CVC Capital Partners.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o IEF funciona",
+      "body": "O IEF é um ETF (Exchange-Traded Fund) que investe em títulos do Tesouro dos EUA com vencimento entre 7 e 10 anos. A emissora é a BlackRock, que administra o fundo sob a marca iShares. O IEF foi lançado em 30/07/2002 e é negociado em bolsas como a NYSE Arca. O fundo não é alavancado nem inverso; ele busca replicar o desempenho do índice de referência, que é composto por títulos de longo prazo do governo americano. A BlackRock é a maior emissora de ETFs nos Estados Unidos e globalmente, segundo a Wikipedia."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do IEF",
+      "body": "O IEF segue um índice de títulos do Tesouro dos EUA com vencimento entre 7 e 10 anos. Esses títulos são dívidas do governo americano, conhecidas como Treasuries, que são emitidas pelo Departamento do Tesouro dos EUA para financiar gastos públicos. Os títulos são considerados de baixo risco, pois são respaldados pela 'full faith and credit' do governo dos Estados Unidos. O IEF não possui uma composição detalhada de títulos específicos nas fontes fornecidas, mas seu objetivo é replicar o desempenho desse segmento da renda fixa americana."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no IEF a partir do Brasil",
+      "body": "Para investir no IEF a partir do Brasil, o investidor pode abrir conta em uma corretora que opere no exterior e comprar as cotas diretamente na bolsa americana. Outra opção é buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice de títulos do Tesouro dos EUA. O principal risco cambial é a variação do dólar em relação ao real, pois a cota do IEF é negociada em dólares. Um movimento de alta do dólar aumenta o valor do investimento em reais, enquanto uma queda reduz esse valor, independentemente do desempenho do próprio fundo."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do IEF",
+      "body": "Até 30/10/2026, a cota do IEF valia US$ 91,76. A rentabilidade total com proventos foi de -1,43% nos últimos 12 meses, 14,27% em 3 anos, -6,66% em 5 anos e 5,63% em 10 anos. O fundo distribuiu US$ 3,7140 por cota em 12 pagamentos no período de 12 meses até 30/10/2026, resultando em um dividend yield de 4,05%. O último pagamento foi de US$ 0,3070 em 01/10/2026. O volume médio negociado por dia nos últimos 3 meses foi de US$ 931,9 milhões. A [comparação com índices](/recursos/comparacao-com-indices) permite avaliar esse desempenho ao lado do S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do IEF",
+      "body": "O principal risco do IEF é a sensibilidade a mudanças nas taxas de juros. Como o fundo investe em títulos de longo prazo (7 a 10 anos), sua cota é mais sensível a variações de juros do que fundos de títulos de curto prazo. A volatilidade anualizada do IEF nos últimos 12 meses foi de 4,98%, considerada baixa. O beta de 0,12 contra o S&P 500 indica que o IEF tende a se mover em menor magnitude que o índice de ações. A maior queda nos últimos 5 anos foi de -20,40%, do pico em 03/12/2021 ao ponto mais baixo em 19/10/2023. O [alertas de preço](/recursos/alertas-de-preco) pode ajudar a monitorar movimentos significativos na cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O IEF paga dividendos?",
+      "answer": "Sim, o IEF distribui proventos regularmente. Nos 12 meses até 30/10/2026, foram 12 pagamentos, totalizando US$ 3,7140 por cota, o que representa um dividend yield de 4,05%. O último pagamento foi de US$ 0,3070 em 01/10/2026. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite acompanhar a rentabilidade total, incluindo esses proventos."
+    },
+    {
+      "question": "Qual a diferença entre IEF e TLT?",
+      "answer": "O IEF investe em títulos do Tesouro dos EUA com vencimento entre 7 e 10 anos, enquanto o [TLT](/etfs/tlt) investe em títulos com vencimento de 20 anos ou mais. Isso faz do TLT mais sensível a mudanças nas taxas de juros, com maior volatilidade e maior potencial de ganho ou perda. O IEF é considerado um investimento de renda fixa de prazo médio, enquanto o TLT é de longo prazo."
+    },
+    {
+      "question": "Como o IEF se comporta em relação ao S&P 500?",
+      "answer": "Isso indica que o IEF é menos sensível às flutuações do mercado de ações. A [comparação com índices](/recursos/comparacao-com-indices) no app permite visualizar essa relação ao longo do tempo."
+    },
+    {
+      "question": "Qual o risco cambial do IEF para o investidor brasileiro?",
+      "answer": "O IEF é negociado em dólares, então o investidor brasileiro está exposto à variação do câmbio. Se o dólar subir em relação ao real, o valor do investimento em reais aumenta, mesmo que a cota do IEF em dólar caia. Se o dólar cair, o valor em reais diminui, mesmo que a cota em dólar suba. O [assistente de IA](/recursos/assistente-de-ia) pode ajudar a entender o impacto do câmbio na carteira consolidada."
+    },
+    {
+      "question": "O IEF é alavancado?",
+      "answer": "Não, o IEF não é um ETF alavancado ou inverso. Ele busca replicar o desempenho do índice de títulos do Tesouro dos EUA com vencimento entre 7 e 10 anos, sem multiplicar os retornos. Isso o torna um ativo mais estável do que ETFs alavancados, mas ainda sujeito à sensibilidade a mudanças nas taxas de juros."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Veja a rentabilidade total do IEF, incluindo proventos, e o preço médio da sua posição, com gráficos que permitem medir períodos específicos."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do IEF com o S&P 500 e outros índices no mesmo gráfico, para entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do IEF atingir um preço que você definir, útil para monitorar movimentos significativos em um ativo de baixa volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o IEF ao lado de outros ativos da sua carteira, com alocação por classe e as maiores posições, para entender a diversificação do portfólio."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "TLT é o ETF de títulos do Tesouro dos EUA com vencimento de 20+ anos, o par de longo prazo do IEF, que é de prazo médio."
+      },
+      {
+        "ticker": "SGOV",
+        "list": "us-etfs",
+        "reason": "SGOV é o ETF de títulos do Tesouro dos EUA com vencimento de 0 a 3 meses, o par de curto prazo do IEF, com menor sensibilidade a juros."
+      },
+      {
+        "ticker": "AGG",
+        "list": "us-etfs",
+        "reason": "AGG é o ETF de títulos do Tesouro dos EUA de prazo médio, mas com uma composição mais ampla, incluindo títulos corporativos de alta qualidade."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "SPY é o ETF do S&P 500, o índice de referência para o beta do IEF, útil para entender a relação entre renda fixa e renda variável."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de IEF",
+      "url": "https://finance.yahoo.com/quote/IEF/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): United States Treasury security (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/United_States_Treasury_security",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

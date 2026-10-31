@@ -1,0 +1,298 @@
+{
+  "ticker": "C2RW34",
+  "slug": "c2rw34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "C2RW34: BDR da CrowdStrike, história e volatilidade",
+    "description": "C2RW34 é o BDR da CrowdStrike na B3. Veja a história da empresa, a volatilidade de 68,02% e como acompanhar o desempenho do BDR em reais.",
+    "h1": "C2RW34: BDR da CrowdStrike na B3",
+    "canonicalPath": "/bdrs/c2rw34",
+    "keywords": [
+      "C2RW34",
+      "CrowdStrike BDR",
+      "BDR cibersegurança",
+      "CRWD B3",
+      "BDR não patrocinado"
+    ]
+  },
+  "summary": "C2RW34 é o BDR não patrocinado (nível I) da CrowdStrike Holdings Inc., empresa de cibersegurança sediada em Austin, Texas. Listado na B3 em 14/01/2022, o recibo representa a ação original CRWD, negociada na Nasdaq. Em 29/10/2026, o BDR valia R$ 63,86. A CrowdStrike fornece proteção de endpoint e inteligência de ameaças, com receita de US$ 3,06 bilhões em 2024, alta de 36% no período.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "CrowdStrike",
+    "legalName": "CROWDSTRIKE HOLDINGS INC",
+    "ticker": "BVMF C2RW34",
+    "foundingDate": "2011-08-29",
+    "website": "https://www.crowdstrike.com/",
+    "wikidata": "Q24890758",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q24890758",
+      "https://en.wikipedia.org/wiki/CrowdStrike",
+      "https://pt.wikipedia.org/wiki/CrowdStrike",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58190/C2RW/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "CrowdStrike",
+    "legalName": "CROWDSTRIKE HOLDINGS INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "29/08/2011",
+    "listedSince": "14/01/2022",
+    "headquarters": "Austin",
+    "website": "https://www.crowdstrike.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "CROWDSTRIKE HOLDINGS INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: CRWD",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Austin",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "29/08/2011",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "14/01/2022",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 63,86",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "68,02% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original CRWD em dólares)",
+      "value": "1,55",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 6,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "C2RW34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "CrowdStrike Holdings, Inc.",
+    "currency": "BRL",
+    "price": 63.86,
+    "historyStarts": "2026-05-29",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.6802,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.1933,
+      "from": "2026-08-13",
+      "to": "2026-08-25"
+    },
+    "beta1y": {
+      "value": 1.55,
+      "against": "S&P 500, ação original CRWD em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 6343670
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do C2RW34 nos últimos 12 meses é de 68,02%, nível considerado muito alto. O beta da ação original CRWD, contra o S&P 500, é de 1,55, o que indica que a ação tende a acompanhar os movimentos do índice com amplitude maior. A maior queda em 5 anos foi de -19,33%, entre 13/08/2026 e 25/08/2026. Para monitorar movimentos de preço e definir pontos de entrada ou saída, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A CrowdStrike Holdings Inc. foi fundada em 29/08/2011 por George Kurtz, Dmitri Alperovitch e Gregg Marston. A empresa iniciou suas operações com foco em serviços de resposta a incidentes e, em junho de 2013, lançou o CrowdStrike Falcon, seu primeiro produto de proteção de endpoint. Ao longo dos anos, a companhia ganhou notabilidade ao investigar ataques cibernéticos de alto perfil, como o da Sony Pictures em 2014 e os ataques ao Comitê Nacional Democrata (DNC) em 2016, ajudando o governo dos Estados Unidos a atribuir responsabilidades a atores estatais. Em 2017, a empresa atingiu a marca de US$ 1 bilhão em avaliação, e em junho de 2019 realizou sua oferta pública inicial (IPO) na Nasdaq, sob o ticker CRWD. Em dezembro de 2021, a sede foi transferida de Sunnyvale, Califórnia, para Austin, Texas. Em junho de 2024, a CrowdStrike foi incluída no índice S&P 500. O BDR C2RW34, que permite a negociação da ação em reais na B3, foi listado em 14/01/2022.",
+    "timeline": [
+      {
+        "date": "2011-08-29",
+        "event": "Fundação da CrowdStrike Holdings Inc.",
+        "source": 2
+      },
+      {
+        "date": "2013-06",
+        "event": "Lançamento do CrowdStrike Falcon, primeiro produto da empresa",
+        "source": 3
+      },
+      {
+        "date": "2019-06",
+        "event": "Oferta pública inicial (IPO) na Nasdaq",
+        "source": 3
+      },
+      {
+        "date": "2021-12",
+        "event": "Transferência da sede de Sunnyvale, Califórnia, para Austin, Texas",
+        "source": 3
+      },
+      {
+        "date": "2022-01-14",
+        "event": "Listagem do BDR C2RW34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2024-06",
+        "event": "Inclusão da ação CRWD no índice S&P 500",
+        "source": 3
+      },
+      {
+        "date": "2024-07-19",
+        "event": "Atualização defeituosa do software Falcon causa interrupções globais em sistemas Windows",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a CrowdStrike ganha dinheiro",
+      "body": "A CrowdStrike Holdings Inc. é uma empresa de tecnologia de cibersegurança que fornece proteção de endpoint, inteligência de ameaças e serviços de resposta a ataques cibernéticos. Seu principal produto é o CrowdStrike Falcon, lançado em junho de 2013. A empresa atua também em serviços de resposta a incidentes, tendo investigado ataques de alto perfil, como os contra a Sony Pictures em 2014 e o Comitê Nacional Democrata (DNC) em 2016. Em 2024, a receita total da empresa foi de US$ 3,06 bilhões, um aumento de 36% em relação ao ano anterior."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR C2RW34",
+      "body": "O C2RW34 é um BDR não patrocinado (nível I) que representa a ação original da CrowdStrike, negociada na Nasdaq sob o ticker CRWD. O BDR é um recibo negociado na B3, em reais, lastreado em ações da empresa no exterior e emitido por uma instituição depositária. O preço do BDR acompanha a variação da ação original em dólares e a cotação do câmbio (dólar/real). O C2RW34 está listado na B3 desde 14/01/2022."
+    },
+    {
+      "id": "proventos",
+      "heading": "C2RW34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, o C2RW34 não distribuiu proventos. A CrowdStrike não pagou dividendos ou juros sobre capital próprio no período. Caso a empresa decida distribuir proventos no futuro, o valor será convertido para reais e creditado aos detentores do BDR, sujeito às regras de tributação aplicáveis no Brasil."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do C2RW34",
+      "body": "A rentabilidade total do C2RW34 com proventos não está disponível nos dados calculados. O BDR está sujeito à variação do câmbio, o que significa que a rentabilidade em reais reflete tanto o desempenho da ação CRWD em dólares quanto a variação do dólar em relação ao real. Para acompanhar a evolução do preço e a rentabilidade da posição, é possível usar o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app. A comparação com índices como o S&P 500 pode ser feita na [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do C2RW34",
+      "body": "O C2RW34 apresenta riscos específicos de empresa de tecnologia e de cibersegurança, incluindo a dependência de inovações constantes e a concorrência no setor. Em 19/07/2024, uma atualização defeituosa do software Falcon causou interrupções globais, o que gerou impactos operacionais e jurídicos para a empresa. O BDR também está sujeito ao risco cambial, pois o preço em reais reflete a variação do dólar. A volatilidade anualizada de 12 meses é de 68,02%, nível considerado muito alto. A maior queda em 5 anos foi de -19,33%, entre 13/08/2026 e 25/08/2026. O volume médio negociado por dia nos últimos 3 meses é de R$ 6,3 milhões, o que pode limitar a liquidez em operações de grande porte."
+    }
+  ],
+  "faq": [
+    {
+      "question": "C2RW34 paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 29/10/2026, o C2RW34 não distribuiu proventos. A CrowdStrike não pagou dividendos ou juros sobre capital próprio no período."
+    },
+    {
+      "question": "O que é o BDR C2RW34?",
+      "answer": "O C2RW34 é um BDR não patrocinado (nível I) que representa a ação original da CrowdStrike, negociada na Nasdaq sob o ticker CRWD. O BDR é negociado na B3, em reais, e acompanha a variação da ação em dólares e o câmbio."
+    },
+    {
+      "question": "Qual a diferença entre C2RW34 e CRWD?",
+      "answer": "O C2RW34 é o BDR da CrowdStrike negociado na B3, em reais. O CRWD é a ação original da empresa, negociada na Nasdaq, em dólares. O preço do C2RW34 reflete o valor do CRWD e a cotação do dólar."
+    },
+    {
+      "question": "Qual a volatilidade do C2RW34?",
+      "answer": "A volatilidade anualizada de 12 meses do C2RW34 é de 68,02%, nível considerado muito alto. A maior queda em 5 anos foi de -19,33%, entre 13/08/2026 e 25/08/2026."
+    },
+    {
+      "question": "Como acompanhar o desempenho do C2RW34?",
+      "answer": "É possível usar o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app para acompanhar a rentabilidade da posição. A [comparação com índices](/recursos/comparacao-com-indices) permite ver o desempenho do BDR lado a lado com o S&P 500."
+    },
+    {
+      "question": "Qual o volume médio negociado do C2RW34?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 6,3 milhões. Esse volume pode limitar a liquidez em operações de grande porte."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja a rentabilidade do C2RW34 e o preço médio da sua posição no gráfico do app."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do C2RW34 com o S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o C2RW34 atingir um preço que você escolher."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o C2RW34 junto com seus outros ativos na visão consolidada da carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "P2AN34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de cibersegurança, Palo Alto Networks."
+      },
+      {
+        "ticker": "N2ET34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de segurança em nuvem, Cloudflare."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para a ação original CRWD."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de tecnologia, NVIDIA, para comparação de setor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de C2RW34",
+      "url": "https://finance.yahoo.com/quote/C2RW34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CROWDSTRIKE, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58190/C2RW/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: CrowdStrike",
+      "url": "https://www.wikidata.org/wiki/Q24890758",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): CrowdStrike",
+      "url": "https://en.wikipedia.org/wiki/CrowdStrike",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): CrowdStrike",
+      "url": "https://pt.wikipedia.org/wiki/CrowdStrike",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

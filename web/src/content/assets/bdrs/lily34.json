@@ -1,0 +1,320 @@
+{
+  "ticker": "LILY34",
+  "slug": "lily34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "LILY34: BDR da Eli Lilly, história e dividendos",
+    "description": "LILY34 é o BDR da Eli Lilly, farmacêutica americana. Veja histórico, dividendos, volatilidade e desempenho até 29/10/2026.",
+    "h1": "LILY34: BDR da Eli Lilly and Company",
+    "canonicalPath": "/bdrs/lily34",
+    "keywords": [
+      "LILY34",
+      "Eli Lilly BDR",
+      "BDR Eli Lilly",
+      "LILY34 dividendos",
+      "LILY34 volatilidade",
+      "BDR nível I",
+      "Eli Lilly ações",
+      "LLY B3"
+    ]
+  },
+  "summary": "LILY34 é o BDR nível I da Eli Lilly and Company, farmacêutica americana sediada em Indianápolis, listada na B3 desde 04/01/2012. A empresa, fundada em 1875, é a mais valiosa do setor de saúde global, tendo atingido US$ 1 trilhão em novembro de 2025. Em 29/10/2026, o ativo cotava a R$ 247,23, com rentabilidade total de 69,80% nos últimos 12 meses, refletindo o desempenho da ação original LLY na NYSE e a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Eli Lilly and Company",
+    "legalName": "ELI LILLY AND COMPANY",
+    "ticker": "BVMF LILY34",
+    "foundingDate": "1875",
+    "website": "https://www.lilly.com/",
+    "wikidata": "Q632240",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q632240",
+      "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "https://pt.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50555/LILY/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Eli Lilly and Company",
+    "legalName": "ELI LILLY AND COMPANY",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1875",
+    "listedSince": "04/01/2012",
+    "headquarters": "Indianápolis",
+    "website": "https://www.lilly.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "ELI LILLY AND COMPANY",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: LLY",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Indianápolis",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1875",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "04/01/2012",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 247,23",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "37,85% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,33%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 9,9 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "LILY34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Eli Lilly and Company",
+    "currency": "BRL",
+    "price": 247.23,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.698,
+      "3y": 1.6452,
+      "5y": 4.3558,
+      "10y": 34.5079
+    },
+    "volatility1y": 0.3785,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3672,
+      "from": "2025-02-28",
+      "to": "2025-08-08"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.8114,
+      "payments12Months": 4,
+      "yield12Months": 0.0033,
+      "lastPayment": {
+        "date": "2026-08-13",
+        "amount": 0.205515
+      }
+    },
+    "avgDailyTradedValue3m": 9929393
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do LILY34 nos últimos 12 meses é de 37,85%, um nível considerado alto para um BDR de uma empresa de saúde estabelecida. A maior queda em 5 anos foi de -36,72%, entre 28/02/2025 e 08/08/2025. O beta não está disponível no dossiê, mas a alta volatilidade sugere que o ativo pode ter movimentos mais amplos que o mercado em geral. Para acompanhar essas oscilações, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Eli Lilly and Company foi fundada em 1876 por Eli Lilly, um químico farmacêutico e veterano da Guerra Civil Americana, em Indianápolis, Indiana. A empresa iniciou suas operações com a produção de quina e, ao longo do século XIX, expandiu-se para a fabricação de cápsulas e pílulas, estabelecendo padrões de ética na indústria farmacêutica. Em 1898, após a morte do fundador, a gestão passou para seu filho, Josiah K. Lilly Sr., que liderou a empresa por 34 anos, introduzindo conceitos de gestão científica e distribuição internacional. A Lilly consolidou-se como pioneira ao produzir em massa a vacina contra a poliomielite em 1955 e ao desenvolver a primeira insulina comercial do mundo, além de ser uma das primeiras a usar DNA recombinante para produzir insulina humana. No Brasil, a empresa enfrentou uma polêmica em 2018, quando foi condenada a pagar R$ 500 milhões por danos ambientais e à saúde de trabalhadores em Cosmópolis, SP, decisão que levou ao fechamento de áreas lesivas em 2020. Recentemente, a companhia destacou-se globalmente ao se tornar a primeira empresa de saúde a atingir a marca de US$ 1 trilhão em capitalização de mercado, em novembro de 2025, impulsionada por seus produtos para diabetes e perda de peso.",
+    "timeline": [
+      {
+        "date": "1875",
+        "event": "Fundação da Eli Lilly and Company",
+        "source": 2
+      },
+      {
+        "date": "1876",
+        "event": "Eli Lilly abre sua própria manufatura farmacêutica em Indianápolis",
+        "source": 3
+      },
+      {
+        "date": "1881",
+        "event": "A empresa se incorpora formalmente como Eli Lilly and Company",
+        "source": 3
+      },
+      {
+        "date": "1898",
+        "event": "Josiah K. Lilly Sr. assume a presidência após a morte do fundador",
+        "source": 3
+      },
+      {
+        "date": "1955",
+        "event": "Produção em massa da vacina contra a poliomielite desenvolvida por Jonas Salk",
+        "source": 3
+      },
+      {
+        "date": "2012-01-04",
+        "event": "Listagem do BDR LILY34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2018-04-24",
+        "event": "Condenação em 2ª instância no Brasil por danos ambientais em Cosmópolis",
+        "source": 4
+      },
+      {
+        "date": "2020-09",
+        "event": "Fechamento de áreas lesivas na fábrica de Cosmópolis após cumprimento parcial da sentença",
+        "source": 4
+      },
+      {
+        "date": "2021-03-30",
+        "event": "Pedido à Anvisa para uso emergencial de medicamento para covid-19 no Brasil",
+        "source": 4
+      },
+      {
+        "date": "2025-11",
+        "event": "Empresa atinge capitalização de mercado de US$ 1 trilhão",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Eli Lilly and Company ganha dinheiro",
+      "body": "A Eli Lilly and Company é uma empresa farmacêutica multinacional americana com sede em Indianápolis, Indiana, e presença em 36 países, comercializando seus produtos em aproximadamente 90 nações. A receita da empresa é concentrada em medicamentos inovadores, com destaque para a tirzepatida (Mounjaro e Zepbound), utilizada no tratamento de diabetes tipo 2, perda de peso e apneia do sono, que respondeu por 56% das receitas em 2025. Outros produtos significativos incluem abemaciclib (Verzenio) para câncer de mama, com 9% da receita, e dulaglutida (Trulicity) para diabetes, com 7%. A empresa também possui uma linha de insulinas, incluindo Humalog e Humulin, e medicamentos para doenças autoimunes e prevenção de enxaquecas. Em 2024, 67% das receitas vieram dos Estados Unidos, 18% da Europa, 3% do Japão e 3% da China."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR LILY34",
+      "body": "O LILY34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele funciona como um recibo que representa ações da Eli Lilly and Company, listadas na Bolsa de Valores de Nova York (NYSE) sob o ticker LLY. O BDR foi listado na B3 em 04/01/2012. O preço do LILY34 acompanha a cotação da ação original LLY e a variação do câmbio entre o dólar e o real. Por ser um BDR não patrocinado, a empresa não participa diretamente da emissão, mas a negociação ocorre em mercado secundário."
+    },
+    {
+      "id": "proventos",
+      "heading": "LILY34 paga dividendos?",
+      "body": "A Eli Lilly and Company paga dividendos, que chegam aos detentores do LILY34 em reais. Nos 12 meses até 29/10/2026, foram registrados 4 pagamentos, totalizando R$ 0,8114 por BDR, o que corresponde a um dividend yield de 0,33%. O último pagamento foi de R$ 0,2055 em 13/08/2026. É importante notar que a empresa paga na moeda original (dólar) e o valor é convertido para reais na data do pagamento, sujeita à variação cambial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do LILY34",
+      "body": "Em 29/10/2026, o LILY34 cotava a R$ 247,23. A rentabilidade total com proventos foi de 69,80% nos últimos 12 meses, 164,52% em 3 anos, 435,58% em 5 anos e 3.450,79% em 10 anos. Esses números refletem a performance da ação LLY na NYSE e a variação do câmbio dólar/real. Para avaliar esse desempenho em contexto, é possível comparar o LILY34 com o S&P 500 e o CDI na [comparação com índices](/recursos/comparacao-com-indices) do app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do LILY34",
+      "body": "Os riscos do LILY34 incluem a exposição ao risco cambial, já que o ativo é lastreado em ações dos EUA e cotado em reais. A volatilidade anualizada de 12 meses é de 37,85%, classificada como alta. A maior queda nos últimos 5 anos foi de -36,72%, ocorrida entre o pico em 28/02/2025 e o ponto mais baixo em 08/08/2025. A liquidez do BDR na B3 é moderada, com volume médio de R$ 9,9 milhões por dia nos últimos 3 meses. Riscos setoriais incluem mudanças regulatórias no setor de saúde e a dependência de produtos específicos, como a tirzepatida, que concentra grande parte da receita."
+    }
+  ],
+  "faq": [
+    {
+      "question": "LILY34 paga dividendos?",
+      "answer": "Sim, a Eli Lilly and Company paga dividendos. Nos 12 meses até 29/10/2026, foram 4 pagamentos, totalizando R$ 0,8114 por BDR, com yield de 0,33%. O último foi em 13/08/2026. Veja os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para acompanhar a história de proventos."
+    },
+    {
+      "question": "O que é LILY34?",
+      "answer": "LILY34 é o BDR nível I da Eli Lilly and Company, uma farmacêutica americana listada na NYSE como LLY. O BDR é negociado na B3 em reais e reflete o preço da ação original e o câmbio. A empresa é a mais valiosa do setor de saúde global."
+    },
+    {
+      "question": "Qual a diferença entre LILY34 e a ação LLY?",
+      "answer": "LILY34 é o recibo negociado na B3 em reais, enquanto LLY é a ação original negociada na NYSE em dólares. O preço do LILY34 acompanha o LLY e a variação do câmbio. A empresa é a mesma, mas a moeda e o mercado de negociação são diferentes."
+    },
+    {
+      "question": "Quais são os riscos de investir em LILY34?",
+      "answer": "Os principais riscos são o cambial (dólar/real), a alta volatilidade (37,85%), a queda de -36,72% em 2025 e a dependência de produtos específicos. A liquidez na B3 é moderada, com volume médio de R$ 9,9 milhões/dia. Consulte o [assistente de IA](/recursos/assistente-de-ia) para dúvidas sobre sua posição."
+    },
+    {
+      "question": "Como a Eli Lilly ganha dinheiro?",
+      "answer": "A Eli Lilly ganha dinheiro com a venda de medicamentos, principalmente tirzepatida (56% da receita em 2025), abemaciclib (9%) e dulaglutida (7%). A empresa é a mais valiosa do setor de saúde global, com capitalização de US$ 1 trilhão em novembro de 2025."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do LILY34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o LILY34 atingir o preço que você definiu, útil para acompanhar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o LILY34 junto com outras ações e BDRs na sua carteira, com alocação por classe."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio do LILY34 na sua carteira, com gráfico de variação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "N1VO34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de saúde, a Novo Nordisk, concorrente direta da Eli Lilly em diabetes e obesidade."
+      },
+      {
+        "ticker": "JNJB34",
+        "list": "bdrs",
+        "reason": "BDR da Johnson & Johnson, outra grande farmacêutica americana, para comparação setorial."
+      },
+      {
+        "ticker": "MRCK34",
+        "list": "bdrs",
+        "reason": "BDR da Merck & Co., mais uma farmacêutica global, útil para diversificação no setor de saúde."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar o desempenho do LILY34 com o mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de LILY34",
+      "url": "https://finance.yahoo.com/quote/LILY34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: LILLY, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50555/LILY/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Eli Lilly and Company",
+      "url": "https://www.wikidata.org/wiki/Q632240",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Eli Lilly and Company",
+      "url": "https://en.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Eli Lilly and Company",
+      "url": "https://pt.wikipedia.org/wiki/Eli_Lilly_and_Company",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

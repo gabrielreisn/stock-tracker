@@ -1,0 +1,268 @@
+{
+  "ticker": "JEPQ",
+  "slug": "jepq",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "JEPQ: ETF de renda do Nasdaq-100",
+    "description": "JEPQ é um ETF da JPMorgan que usa covered calls no Nasdaq-100 para gerar renda mensal. Veja desempenho, dividendos e riscos até 30/10/2026.",
+    "h1": "JEPQ: JPMorgan Nasdaq Equity Premium Income ETF",
+    "canonicalPath": "/etfs/jepq",
+    "keywords": [
+      "JEPQ",
+      "ETF Nasdaq-100",
+      "covered call",
+      "dividendos",
+      "JPMorgan"
+    ]
+  },
+  "summary": "JEPQ é o JPMorgan Nasdaq Equity Premium Income ETF, lançado em 04/05/2022. O fundo investe em ações do índice Nasdaq-100 e utiliza uma estratégia de venda de opções de compra (covered calls) para gerar renda mensal. Em 30/10/2026, a cota valia US$ 57,58, com dividend yield de 11,96% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+    "ticker": "XNAS JEPQ",
+    "foundingDate": "2022-05-04",
+    "provider": {
+      "name": "JPMorgan Chase",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/JPMorgan_Chase"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF americano de renda (covered call)",
+    "issuerOrManager": "JPMorgan",
+    "trackedIndex": "Nasdaq-100",
+    "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+    "founded": "04/05/2022"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "JPMorgan Nasdaq Equity Premium Income ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "04/05/2022",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 57,58",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "15,42% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,08",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "11,96%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 367,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "JEPQ",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "JPMorgan Nasdaq Equity Premium Income ETF",
+    "currency": "USD",
+    "price": 57.58,
+    "historyStarts": "2022-05-04",
+    "returns": {
+      "1y": 0.0975,
+      "3y": 0.7384,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.1542,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2007,
+      "from": "2025-02-19",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": 1.08,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 6.886,
+      "payments12Months": 12,
+      "yield12Months": 0.1196,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.567
+      }
+    },
+    "avgDailyTradedValue3m": 367426766
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do JEPQ é de 15,42% nos 12 meses até 30/10/2026, considerada de nível moderado. A maior queda em 5 anos foi de -20,07%, entre 19/02/2025 e 08/04/2025. Para um ETF de renda com exposição a tecnologia, essa volatilidade é compatível com o risco do setor, mas a estratégia de opções pode suavizar quedas em alguns cenários, ao custo de limitar ganhos em altas."
+  },
+  "history": {
+    "overview": "O JEPQ foi lançado em 04/05/2022 pela JPMorgan, instituição financeira americana que é o maior banco dos Estados Unidos e do mundo por capitalização de mercado em 2026. A JPMorgan Chase & Co. foi criada em 2000 pela fusão de J.P. Morgan & Co. e Chase Manhattan Company, com raízes que remontam a 1799. O ETF foi estruturado para oferecer exposição ao Nasdaq-100 com geração de renda através de opções, um modelo que ganhou popularidade entre investidores buscando fluxo de caixa em mercados de alta volatilidade. A estratégia de 'covered call' envolve a venda de opções de compra sobre as ações detidas, o que limita o potencial de ganho em alta, mas gera prêmios que são distribuídos como dividendos. Desde o lançamento, o fundo acumulou 73,84% de rentabilidade total em 3 anos até 30/10/2026, refletindo tanto o desempenho do índice quanto a contribuição dos prêmios das opções.",
+    "timeline": [
+      {
+        "date": "1799",
+        "event": "Fundação do Bank of the Manhattan Company, o predecessor mais antigo da JPMorgan Chase.",
+        "source": 1
+      },
+      {
+        "date": "1985-01-31",
+        "event": "Lançamento do índice Nasdaq-100 pela Nasdaq.",
+        "source": 2
+      },
+      {
+        "date": "2000",
+        "event": "Criação da JPMorgan Chase & Co. pela fusão de J.P. Morgan & Co. e Chase Manhattan Company.",
+        "source": 1
+      },
+      {
+        "date": "2022-05-04",
+        "event": "Primeiro pregão das cotas do JEPQ na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o JEPQ funciona",
+      "body": "O JEPQ é um ETF emitido pela JPMorgan, com o primeiro pregão em 04/05/2022. O fundo replica o desempenho do índice Nasdaq-100, mas emprega uma estratégia de 'covered call'. Isso significa que o gestor vende opções de compra (calls) sobre as ações do portfólio. Ao vender essas opções, o fundo recebe um prêmio imediato, que é distribuído aos cotistas como dividendos. Essa estratégia limita o potencial de ganho em caso de alta forte do mercado, mas aumenta a renda gerada. Não é um ETF alavancado ou inverso, portanto não sofre com o efeito de rebalanceamento diário que distorce resultados em períodos longos."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do JEPQ",
+      "body": "O JEPQ segue o índice Nasdaq-100, que é composto pelas 100 maiores empresas não financeiras listadas na Nasdaq. O índice é ponderado por capitalização de mercado, com um limite máximo de 24% para a maior empresa. As fontes não detalham a composição exata das ações do JEPQ, mas o índice inclui setores como tecnologia, varejo, telecomunicações e saúde. A estratégia de opções é aplicada sobre esse conjunto de ativos."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no JEPQ a partir do Brasil",
+      "body": "Investidores brasileiros podem adquirir o JEPQ através de contas em corretoras internacionais ou por meio de BDRs que negociam na B3, se houver algum que siga o mesmo índice ou o próprio ETF. O principal risco cambial é a variação do dólar em relação ao real, que impacta o retorno em moeda local. A volatilidade do ativo também é influenciada pelo desempenho do Nasdaq-100 e pela estratégia de opções."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do JEPQ",
+      "body": "Até 30/10/2026, o JEPQ apresentou rentabilidade total de 9,75% em 12 meses e 73,84% em 3 anos. O dividend yield foi de 11,96% no mesmo período de 12 meses, com US$ 6,8860 distribuídos por cota. A comparação com o S&P 500 pode ser feita no app para avaliar o desempenho relativo."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do JEPQ",
+      "body": "Os riscos do JEPQ incluem a volatilidade do Nasdaq-100, que é um índice de tecnologia e crescimento, e o efeito da estratégia de 'covered call', que limita a participação em altas expressivas do mercado. A volatilidade anualizada de 12 meses é de 15,42%, nível moderado. A maior queda em 5 anos foi de -20,07%, entre 19/02/2025 e 08/04/2025. O risco cambial também é relevante para investidores brasileiros."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar JEPQ no app",
+      "body": "Para quem tem JEPQ na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [desempenho e preço médio no app](/recursos/desempenho-e-preco-medio): Veja a rentabilidade do JEPQ ao longo do tempo e o preço médio da sua posição.\n- [comparação com o S&P 500](/recursos/comparacao-com-indices): Compare a rentabilidade do JEPQ com o S&P 500 no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba notificações quando o JEPQ atingir um preço que você definir."
+    }
+  ],
+  "faq": [
+    {
+      "question": "JEPQ paga dividendos?",
+      "answer": "Sim, o JEPQ distribui dividendos mensais. Nos 12 meses até 30/10/2026, foram US$ 6,8860 por cota, resultando em um dividend yield de 11,96%. O último pagamento foi de US$ 0,5670 em 01/10/2026."
+    },
+    {
+      "question": "Qual a diferença entre JEPQ e QQQ?",
+      "answer": "O [QQQ](/etfs/qqq) replica o Nasdaq-100 sem estratégia de opções, enquanto o JEPQ usa 'covered calls' para gerar renda. Isso significa que o JEPQ tende a ter menor potencial de ganho em altas, mas maior distribuição de dividendos."
+    },
+    {
+      "question": "JEPQ é um ETF alavancado?",
+      "answer": "Não, o JEPQ não é alavancado nem inverso. Ele usa uma estratégia de 'covered call' sobre o Nasdaq-100, o que não envolve alavancagem de 2x ou 3x."
+    },
+    {
+      "question": "Como o JEPQ funciona?",
+      "answer": "O JEPQ investe no Nasdaq-100 e vende opções de compra para gerar renda. Os prêmios recebidos são distribuídos como dividendos, limitando o ganho em altas, mas aumentando a renda."
+    },
+    {
+      "question": "Qual o risco do JEPQ?",
+      "answer": "Os riscos incluem a volatilidade do Nasdaq-100, o efeito da estratégia de opções e o risco cambial para investidores brasileiros. A maior queda em 5 anos foi de -20,07%."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio no app",
+        "context": "Veja a rentabilidade do JEPQ ao longo do tempo e o preço médio da sua posição."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com o S&P 500",
+        "context": "Compare a rentabilidade do JEPQ com o S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando o JEPQ atingir um preço que você definir."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF que replica o Nasdaq-100 sem estratégia de opções, para comparação de desempenho."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação com um índice de mercado amplo."
+      },
+      {
+        "ticker": "SCHD",
+        "list": "us-etfs",
+        "reason": "ETF de dividendos, para comparação de renda com outros ativos de renda."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de JEPQ",
+      "url": "https://finance.yahoo.com/quote/JEPQ/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): JPMorgan Chase (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nasdaq-100 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Nasdaq-100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Covered option (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Covered_option",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

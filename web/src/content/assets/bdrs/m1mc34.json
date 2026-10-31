@@ -1,0 +1,343 @@
+{
+  "ticker": "M1MC34",
+  "slug": "m1mc34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "M1MC34: BDR da Marsh & McLennan, dividendos e volatilidade",
+    "description": "M1MC34 é o BDR da Marsh & McLennan, maior corretora de seguros do mundo. Veja dividendos, desempenho e riscos do BDR na B3, com dados até 30/10/2026.",
+    "h1": "M1MC34: BDR da Marsh & McLennan Companies",
+    "canonicalPath": "/bdrs/m1mc34",
+    "keywords": [
+      "M1MC34",
+      "Marsh McLennan BDR",
+      "BDR nível I",
+      "dividendos M1MC34",
+      "volatilidade M1MC34",
+      "BDR na B3",
+      "Marsh & McLennan Companies"
+    ]
+  },
+  "summary": "M1MC34 é o BDR não patrocinado de nível I da Marsh & McLennan Companies, empresa global de serviços profissionais sediada em Nova York. O ativo representa ações da empresa na Bolsa de Valores de Nova Iorque (ticker MMC) e é negociado na B3 em reais desde 29/11/2019. Em 30/10/2026, o BDR era cotado a R$ 68,67, com rentabilidade total de 15,93% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Marsh & McLennan Companies",
+    "legalName": "MARSH & MCLENNAN COS INC",
+    "ticker": "BVMF M1MC34",
+    "foundingDate": "1905",
+    "website": "https://www.mmc.com/",
+    "wikidata": "Q1786345",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1786345",
+      "https://en.wikipedia.org/wiki/Marsh_McLennan",
+      "https://pt.wikipedia.org/wiki/Marsh_%26_McLennan_Companies",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54070/M1MC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Marsh & McLennan Companies",
+    "legalName": "MARSH & MCLENNAN COS INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1905",
+    "listedSince": "29/11/2019",
+    "headquarters": "Nova Iorque",
+    "website": "https://www.mmc.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "MARSH & MCLENNAN COS INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: MMC",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Nova Iorque",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1905",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "29/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 68,67",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "29,35% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,24%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 444.014,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "M1MC34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Marsh & McLennan Companies, Inc.",
+    "currency": "BRL",
+    "price": 68.67,
+    "historyStarts": "2020-02-21",
+    "returns": {
+      "1y": 0.1593,
+      "3y": 0.1937,
+      "5y": 0.2647,
+      "10y": null
+    },
+    "volatility1y": 0.2935,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4236,
+      "from": "2025-03-31",
+      "to": "2026-05-11"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.8516,
+      "payments12Months": 4,
+      "yield12Months": 0.0124,
+      "lastPayment": {
+        "date": "2026-09-30",
+        "amount": 0.223176
+      }
+    },
+    "avgDailyTradedValue3m": 444014
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada de 12 meses do M1MC34 é de 29,35%, o que é considerado alto para um BDR. A maior queda nos últimos 5 anos foi de -42,36%, entre 31/03/2025 e 11/05/2026. O beta não está disponível para este ativo. A volatilidade reflete a exposição a uma empresa americana, o que inclui riscos de mercado, setoriais e cambiais. Para acompanhar a variação do preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Marsh & McLennan Companies tem origem em 1905, em Chicago, com a fusão dos negócios de Henry W. Marsh e Donald R. McLennan. A empresa consolidou sua posição no mercado de seguros e consultoria por meio de aquisições estratégicas, como a de Johnson & Higgins em 1997, que a levou a se tornar o maior corretor de seguros do mundo por receita. Em 2001, a empresa sofreu um impacto direto dos ataques ao World Trade Center, perdendo 295 funcionários e 63 contratados. Nos anos seguintes, reorganizou seu portfólio, vendendo a Putnam Investments em 2007 e a Kroll em 2010 para focar em risco e consultoria. Em 2019, adquiriu a Jardine Lloyd Thompson por £4,3 bilhões, e em 2024, a McGriff Insurance Services por US$ 7,75 bilhões. A empresa é a emissora do BDR M1MC34, que permite a investidores brasileiros acompanhar a performance de uma companhia americana sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "1905",
+        "event": "Fundação da Burroughs, Marsh & McLennan em Chicago",
+        "source": 2
+      },
+      {
+        "date": "1923",
+        "event": "Aquisição da Guy Carpenter, empresa de resseguros",
+        "source": 3
+      },
+      {
+        "date": "1962",
+        "event": "Oferta pública inicial (IPO) da empresa",
+        "source": 3
+      },
+      {
+        "date": "1997",
+        "event": "Aquisição da Johnson & Higgins, ampliando a corretagem de seguros",
+        "source": 3
+      },
+      {
+        "date": "2001",
+        "event": "Perda de 295 funcionários e 63 contratados no ataque ao World Trade Center",
+        "source": 3
+      },
+      {
+        "date": "2005-01-31",
+        "event": "Acordo de US$ 850 milhões para práticas de manipulação de licitação",
+        "source": 4
+      },
+      {
+        "date": "2007-08",
+        "event": "Venda da Putnam Investments à Power Financial por US$ 3,9 bilhões",
+        "source": 3
+      },
+      {
+        "date": "2010",
+        "event": "Venda da Kroll à Altegrity Inc. por US$ 1,13 bilhão",
+        "source": 3
+      },
+      {
+        "date": "2019-04",
+        "event": "Aquisição da Jardine Lloyd Thompson por £4,3 bilhões",
+        "source": 3
+      },
+      {
+        "date": "2019-11-29",
+        "event": "Listagem do BDR M1MC34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2021-04",
+        "event": "Rebranding para Marsh McLennan",
+        "source": 3
+      },
+      {
+        "date": "2024-11",
+        "event": "Aquisição da McGriff Insurance Services por US$ 7,75 bilhões",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Marsh & McLennan Companies ganha dinheiro",
+      "body": "A Marsh & McLennan Companies atua em serviços profissionais, com foco em corretagem de seguros, gerenciamento de risco, resseguro, consultoria de talentos e consultoria de gestão. Em 2024, os serviços de risco e seguros representaram 63% da receita e 71% do lucro operacional, enquanto a consultoria respondeu por 37% da receita e 29% do lucro operacional. As quatro principais unidades de negócio são a Marsh (54% da receita em 2025), a Marsh Re (10%), a Mercer (23%) e a Oliver Wyman (13%). A empresa é reconhecida como o maior corretor de seguros do mundo."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR M1MC34",
+      "body": "O M1MC34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Marsh & McLennan Companies, que são listadas na Bolsa de Valores de Nova Iorque sob o ticker MMC. O BDR foi listado na B3 em 29/11/2019. O preço do M1MC34 acompanha a variação da ação original em dólar e a cotação do câmbio, o que significa que o investidor brasileiro tem exposição tanto ao desempenho da empresa quanto à oscilação do dólar em relação ao real."
+    },
+    {
+      "id": "proventos",
+      "heading": "M1MC34 paga dividendos?",
+      "body": "A Marsh & McLennan Companies paga dividendos, que são repassados aos detentores do BDR M1MC34 em reais. Nos 12 meses até 30/10/2026, foram realizados 4 pagamentos, totalizando R$ 0,8516 por BDR, o que corresponde a um dividend yield de 1,24%. O último pagamento foi de R$ 0,2232, com data de pagamento em 30/09/2026. Os valores são convertidos da moeda original (dólar) para reais no momento do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do M1MC34",
+      "body": "Até 30/10/2026, o M1MC34 apresentou rentabilidade total com proventos de 15,93% nos 12 meses, 19,37% em 3 anos e 26,47% em 5 anos. Esses números incluem a variação do câmbio, o que significa que a performance reflete tanto o movimento da ação original quanto a oscilação do dólar. Para comparar esse desempenho com índices de referência, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do M1MC34",
+      "body": "O M1MC34 está sujeito a riscos operacionais da empresa, como a dependência de grandes clientes e a concorrência no setor de seguros e consultoria. Há também o risco cambial, já que o BDR é lastreado em uma ação americana, e o investidor brasileiro está exposto à variação do dólar. A liquidez do BDR na B3 é menor que a de ações locais, com volume médio de R$ 444.014,00 por dia nos últimos 3 meses. A volatilidade anualizada de 12 meses é de 29,35%, classificada como alta, e a maior queda nos últimos 5 anos foi de -42,36%, entre 31/03/2025 e 11/05/2026."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar M1MC34 no app",
+      "body": "Para quem tem M1MC34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do M1MC34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações para quando o M1MC34 atingir um preço que você escolheu, útil para acompanhar a volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do M1MC34 junto com outros ativos da sua carteira, incluindo ações, BDRs e FIIs.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Veja o gráfico de rentabilidade do M1MC34 e o preço médio da sua posição, com variação do dia e do ano."
+    }
+  ],
+  "faq": [
+    {
+      "question": "M1MC34 paga dividendos?",
+      "answer": "Sim, a Marsh & McLennan Companies paga dividendos, que são repassados aos detentores do BDR M1MC34 em reais. Nos 12 meses até 30/10/2026, foram realizados 4 pagamentos, totalizando R$ 0,8516 por BDR, com um dividend yield de 1,24%. O último pagamento foi de R$ 0,2232, em 30/09/2026."
+    },
+    {
+      "question": "Qual a diferença entre M1MC34 e a ação MMC?",
+      "answer": "O M1MC34 é um BDR que representa a ação MMC da Marsh & McLennan Companies, listada na Bolsa de Valores de Nova Iorque. O BDR é negociado na B3 em reais, enquanto a ação original é negociada em dólar. O preço do M1MC34 acompanha a variação da ação MMC e a cotação do câmbio."
+    },
+    {
+      "question": "M1MC34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O M1MC34 é um BDR não patrocinado de nível I. Isso significa que a empresa não participa ativamente da emissão e manutenção do BDR, e a liquidação é feita por uma instituição depositária. A listagem na B3 ocorreu em 29/11/2019."
+    },
+    {
+      "question": "Qual o risco cambial do M1MC34?",
+      "answer": "O M1MC34 tem risco cambial porque é lastreado em uma ação americana, negociada em dólar. O investidor brasileiro está exposto à variação do dólar em relação ao real, o que pode impactar a rentabilidade do BDR independentemente do desempenho da empresa."
+    },
+    {
+      "question": "Qual a liquidez do M1MC34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 444.014,00. A liquidez de BDRs é geralmente menor que a de ações brasileiras, o que pode impactar a execução de ordens de compra e venda."
+    },
+    {
+      "question": "Como acompanhar o desempenho do M1MC34?",
+      "answer": "É possível acompanhar o desempenho do M1MC34 no app, que oferece gráficos de rentabilidade e comparação com índices. A [comparação com índices](/recursos/comparacao-com-indices) permite ver a performance do BDR lado a lado com o S&P 500 e o CDI."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do M1MC34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando o M1MC34 atingir um preço que você escolheu, útil para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do M1MC34 junto com outros ativos da sua carteira, incluindo ações, BDRs e FIIs."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja o gráfico de rentabilidade do M1MC34 e o preço médio da sua posição, com variação do dia e do ano."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, índice de referência para BDRs americanos."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF que replica o S&P 500, útil para comparação de performance."
+      },
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa americana listada na B3, com exposição similar ao câmbio."
+      },
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia americana, com maior volatilidade."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa americana de grande capitalização, com liquidez maior na B3."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de M1MC34",
+      "url": "https://finance.yahoo.com/quote/M1MC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: MARSH E MCLE, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/54070/M1MC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Marsh & McLennan Companies",
+      "url": "https://www.wikidata.org/wiki/Q1786345",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Marsh McLennan",
+      "url": "https://en.wikipedia.org/wiki/Marsh_McLennan",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Marsh & McLennan Companies",
+      "url": "https://pt.wikipedia.org/wiki/Marsh_%26_McLennan_Companies",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

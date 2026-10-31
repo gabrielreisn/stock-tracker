@@ -1,0 +1,284 @@
+{
+  "ticker": "SQQQ",
+  "slug": "sqqq",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "SQQQ: ETF inverso alavancado 3x do Nasdaq-100",
+    "description": "SQQQ é o ProShares UltraPro Short QQQ, um ETF que busca o triplo do desempenho diário inverso do Nasdaq-100.",
+    "h1": "SQQQ: ProShares UltraPro Short QQQ",
+    "canonicalPath": "/etfs/sqqq",
+    "keywords": [
+      "SQQQ",
+      "ETF inverso",
+      "Nasdaq-100",
+      "alavancado 3x",
+      "ProShares",
+      "investir em ETF americano",
+      "ETF do Brasil"
+    ]
+  },
+  "summary": "SQQQ é o ProShares UltraPro Short QQQ, um ETF que busca entregar o triplo do desempenho diário inverso do índice Nasdaq-100. Lançado em 11/02/2010, o ativo opera com alta volatilidade e perda de valorização em horizontes longos. Até 30/10/2026, a rentabilidade total em 12 meses foi de -33,41%, refletindo a natureza do produto para uso de curto prazo.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "ProShares UltraPro Short QQQ",
+    "ticker": "XNAS SQQQ",
+    "foundingDate": "2010-02-11",
+    "provider": {
+      "name": "ProShares",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/ProShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF inverso alavancado 3x",
+    "issuerOrManager": "ProShares",
+    "trackedIndex": "Nasdaq-100 (inverso diário 3x)",
+    "name": "ProShares UltraPro Short QQQ",
+    "founded": "11/02/2010"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "ProShares UltraPro Short QQQ",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "11/02/2010",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "-3x o desempenho diário do índice (-300%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 41,83",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "60,63% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "-4,36",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,78%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,80 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "SQQQ",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "ProShares UltraPro Short QQQ",
+    "currency": "USD",
+    "price": 41.83,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.3341,
+      "3y": -0.9068,
+      "5y": -0.9365,
+      "10y": -0.9996
+    },
+    "volatility1y": 0.6063,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.9754,
+      "from": "2022-06-16",
+      "to": "2026-10-06"
+    },
+    "beta1y": {
+      "value": -4.36,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.255,
+      "payments12Months": 4,
+      "yield12Months": 0.0778,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.473
+      }
+    },
+    "avgDailyTradedValue3m": 1795199445
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 12 meses do SQQQ é de 60,63%, classificada como muito alta, o que reflete a alavancagem de 3x e a natureza inversa do produto. O beta de -4,36 contra o S&P 500 indica que o ativo tende a se mover em sentido oposto ao índice, com amplitude 4,36 vezes maior. A maior queda em 5 anos foi de -97,54%, entre 16/06/2022 e 06/10/2026, evidenciando o risco de perda quase total em períodos de alta do Nasdaq-100. Para acompanhar oscilações e definir pontos de entrada ou saída, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O SQQQ foi lançado em 11/02/2010 pela ProShares, uma emissora americana especializada em ETFs, incluindo produtos inversos e alavancados. A ProShares, originada do ProFunds Group fundado em 1997, introduziu o primeiro ETF inverso em 2006 e expandiu sua oferta para contratos futuros de criptomoedas em 2021 e 2023. O ETF SQQQ foi criado para oferecer exposição inversa alavancada ao Nasdaq-100, índice que reúne as 100 maiores empresas não financeiras listadas na Nasdaq. Desde o seu início, o ativo opera com o objetivo de replicar o movimento diário do índice em sentido contrário e com alavancagem de 3x, o que exige rebalanceamento constante para manter a alavancagem fixa.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fundação do ProFunds Group, precursora da ProShares",
+        "source": 2
+      },
+      {
+        "date": "2006",
+        "event": "Lançamento da marca ProShares e do primeiro ETF inverso",
+        "source": 2
+      },
+      {
+        "date": "2010-02-11",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2021-10",
+        "event": "ProShares lança ETF de contratos futuros de Bitcoin",
+        "source": 2
+      },
+      {
+        "date": "2023-10-02",
+        "event": "ProShares lança 3 ETFs de contratos futuros de Ethereum nos EUA",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o SQQQ funciona",
+      "body": "O SQQQ é um ETF inverso alavancado 3x que busca entregar o triplo do desempenho diário inverso do índice Nasdaq-100. Isso significa que, em um dia em que o índice cai 1%, o SQQQ tende a subir 3%, e vice-versa. Para manter essa alavancagem diária, o fundo realiza rebalanceamento constante, comprando e vendendo derivativos. Esse mecanismo gera uma perda de volatilidade em períodos longos, fazendo com que o resultado acumulado se afaste do múltiplo do índice. Por isso, o produto é projetado para uso em curtíssimo prazo, não para investimento de longo prazo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do SQQQ",
+      "body": "O SQQQ segue o índice Nasdaq-100, que é composto pelas 100 maiores empresas não financeiras listadas na Nasdaq. O índice é ponderado por capitalização de mercado ajustada pela flutuação pública, com limite máximo de 24% para o maior componente. A composição é recalculada anualmente, após o fechamento do terceiro dia útil de dezembro, e o número de ações em circulação é atualizado trimestralmente. O ETF não replica o índice diretamente, mas usa contratos futuros e outras técnicas para obter o desempenho inverso alavancado."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no SQQQ a partir do Brasil",
+      "body": "Investidores brasileiros podem acessar o SQQQ por meio de uma conta em uma corretora de valores no exterior, que permite a compra de ativos em dólar. Outra opção é buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice ou estratégia, embora a oferta de produtos inversos alavancados no Brasil seja limitada. O principal risco cambial é a variação do dólar frente ao real, que pode impactar o retorno final independentemente do desempenho do ativo nos EUA."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do SQQQ",
+      "body": "Até 30/10/2026, a rentabilidade total do SQQQ com proventos foi de -33,41% em 12 meses, -90,68% em 3 anos, -93,65% em 5 anos e -99,96% em 10 anos. Esses números refletem a perda de valorização típica de ETFs inversos alavancados em mercados de alta ou laterais. Para comparar com o desempenho do mercado americano, veja a [comparação com índices](/recursos/comparacao-com-indices) no app, que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do SQQQ",
+      "body": "O SQQQ apresenta riscos elevados, incluindo a perda de volatilidade em períodos longos, a alavancagem de 3x e a exposição a movimentos diários do Nasdaq-100. A volatilidade anualizada de 12 meses é de 60,63%, nível muito alto, e a maior queda em 5 anos foi de -97,54%, entre 16/06/2022 e 06/10/2026. O beta de -4,36 indica que o ativo tende a se mover em sentido oposto ao S&P 500, com amplitude 4,36 vezes maior. Para monitorar oscilações, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar SQQQ no app",
+      "body": "Para quem tem SQQQ na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o SQQQ chegar ao preço que você escolheu, útil para monitorar oscilações em um ativo de alta volatilidade.\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do SQQQ lado a lado com o S&P 500, o índice de referência do mercado americano, no mesmo gráfico.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do SQQQ junto com outros ativos da sua carteira, com valor por classe e as maiores posições."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é SQQQ?",
+      "answer": "SQQQ é um ETF inverso alavancado 3x que busca entregar o triplo do desempenho diário inverso do índice Nasdaq-100. É projetado para uso em curtíssimo prazo, não para investimento de longo prazo."
+    },
+    {
+      "question": "SQQQ é bom para longo prazo?",
+      "answer": "Não. O SQQQ é um produto de alavancagem diária, o que gera perda de volatilidade em períodos longos. A rentabilidade de 10 anos até 30/10/2026 foi de -99,96%, evidenciando o risco de perda quase total em mercados de alta."
+    },
+    {
+      "question": "Qual a diferença entre SQQQ e QQQ?",
+      "answer": "[QQQ](/etfs/qqq) é um ETF que replica o desempenho do Nasdaq-100, enquanto SQQQ busca o triplo do desempenho diário inverso do mesmo índice. QQQ é para quem quer exposição ao índice, SQQQ para quem aposta em quedas diárias."
+    },
+    {
+      "question": "SQQQ paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, o SQQQ distribuiu US$ 3,2550 por cota em 4 pagamentos, com dividend yield de 7,78%. O último pagamento foi de US$ 0,4730 em 23/09/2026."
+    },
+    {
+      "question": "Como investir em SQQQ do Brasil?",
+      "answer": "Você pode comprar SQQQ por meio de uma corretora de valores no exterior, que permite a compra de ativos em dólar. Outra opção é buscar ETFs ou BDRs na B3 que sigam o mesmo índice, embora a oferta seja limitada."
+    },
+    {
+      "question": "Qual a volatilidade do SQQQ?",
+      "answer": "A volatilidade anualizada de 12 meses do SQQQ é de 60,63%, nível muito alto. A maior queda em 5 anos foi de -97,54%, entre 16/06/2022 e 06/10/2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o SQQQ chegar ao preço que você escolheu, útil para monitorar oscilações em um ativo de alta volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do SQQQ lado a lado com o S&P 500, o índice de referência do mercado americano, no mesmo gráfico."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do SQQQ junto com outros ativos da sua carteira, com valor por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "É o ETF que replica o Nasdaq-100, o índice que o SQQQ segue em sentido inverso."
+      },
+      {
+        "ticker": "TQQQ",
+        "list": "us-etfs",
+        "reason": "É o ETF alavancado 3x do Nasdaq-100, o oposto do SQQQ, para quem aposta em alta do índice."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "É o ETF do S&P 500, o índice de referência do mercado americano, útil para comparação de desempenho."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de SQQQ",
+      "url": "https://finance.yahoo.com/quote/SQQQ/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Nasdaq-100 (índice que o ETF replica)",
+      "url": "https://en.wikipedia.org/wiki/Nasdaq-100",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): ProShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/ProShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Inverse exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Inverse_exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

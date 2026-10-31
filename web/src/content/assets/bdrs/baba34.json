@@ -1,0 +1,309 @@
+{
+  "ticker": "BABA34",
+  "slug": "baba34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BABA34: história, dividendos e volatilidade",
+    "description": "BABA34 é o BDR da Alibaba Group na B3. Veja a história, dividendos, volatilidade e desempenho do BABA34, com dados atualizados até 29/10/2026.",
+    "h1": "BABA34: BDR da Alibaba Group na B3",
+    "canonicalPath": "/bdrs/baba34",
+    "keywords": [
+      "BABA34",
+      "Alibaba Group",
+      "BDR",
+      "dividendos",
+      "volatilidade",
+      "desempenho",
+      "B3",
+      "ação estrangeira"
+    ]
+  },
+  "summary": "BABA34 é o BDR não patrocinado (nível I) da Alibaba Group Holding Ltd, empresa chinesa de tecnologia focada em e-commerce, computação em nuvem e pagamentos. Listado na B3 em 27/08/2019, o ativo permite exposição à ação original (BABA na NYSE) em reais. Em 29/10/2026, o BDR valia R$ 18,99, com rentabilidade total de -44,13% nos últimos 12 meses, refletindo a forte volatilidade do setor e a variação cambial.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Alibaba Group",
+    "legalName": "ALIBABA GROUP HOLDING LTD",
+    "ticker": "BVMF BABA34",
+    "foundingDate": "1999-06-28",
+    "website": "https://www.alibabagroup.com/",
+    "wikidata": "Q1359568",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q1359568",
+      "https://en.wikipedia.org/wiki/Alibaba_Group",
+      "https://pt.wikipedia.org/wiki/Alibaba_Group",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52280/BABA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Alibaba Group",
+    "legalName": "ALIBABA GROUP HOLDING LTD",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "28/06/1999",
+    "listedSince": "27/08/2019",
+    "headquarters": "Binjiang District, Hangzhou, George Town",
+    "website": "https://www.alibabagroup.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "ALIBABA GROUP HOLDING LTD",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: BABA, Bolsa de Valores de Hong Kong: 9988",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Binjiang District, Hangzhou, George Town",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "28/06/1999",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "27/08/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 18,99",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "41,72% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,98%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 7,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BABA34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Alibaba Group Holding Limited",
+    "currency": "BRL",
+    "price": 18.99,
+    "historyStarts": "2019-12-03",
+    "returns": {
+      "1y": -0.4413,
+      "3y": 0.3493,
+      "5y": -0.3932,
+      "10y": null
+    },
+    "volatility1y": 0.4172,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6579,
+      "from": "2021-11-01",
+      "to": "2022-10-31"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.1866,
+      "payments12Months": 1,
+      "yield12Months": 0.0098,
+      "lastPayment": {
+        "date": "2026-06-10",
+        "amount": 0.186636
+      }
+    },
+    "avgDailyTradedValue3m": 7840362
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do BABA34 nos últimos 12 meses foi de 41,72%, classificada como muito alta. Isso indica que o ativo apresenta oscilações de preço significativas. A maior queda nos últimos 5 anos foi de -65,79%, do pico em 01/11/2021 ao ponto mais baixo em 31/10/2022. O beta do BABA34 não está disponível, mas a alta volatilidade sugere que o ativo pode ser sensível a movimentos de mercado e a eventos específicos da empresa ou do setor. Para acompanhar a volatilidade e definir alertas de preço, utilize os [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Alibaba Group Holding Ltd foi fundada em 28 de junho de 1999 por Jack Ma e Joseph Tsai em Hangzhou, na China, inicialmente como um site de comércio eletrônico business-to-business (B2B). A empresa expandiu-se rapidamente, criando o Taobao (C2C) e o Tmall (B2C), tornando-se um dos maiores varejistas e plataformas de e-commerce do mundo. Em 2014, a Alibaba realizou a maior oferta pública inicial (IPO) da história na Bolsa de Valores de Nova Iorque, levantando US$ 25 bilhões. A empresa também listou ações em Hong Kong em 2019. O BDR BABA34 começou a ser negociado na B3 em 27 de agosto de 2019, oferecendo a investidores brasileiros a possibilidade de acompanhar a performance da gigante chinesa em reais. Nos últimos anos, a empresa enfrentou investigações antitruste na China, o que impactou significativamente sua avaliação de mercado e o preço do BDR.",
+    "timeline": [
+      {
+        "date": "1999-06-28",
+        "event": "Fundação da Alibaba Group por Jack Ma e Joseph Tsai em Hangzhou.",
+        "source": 2
+      },
+      {
+        "date": "2014-09-19",
+        "event": "Realização do IPO na NYSE, levantando US$ 25 bilhões, a maior oferta pública da história até então.",
+        "source": 3
+      },
+      {
+        "date": "2019-08-27",
+        "event": "Listagem do BDR BABA34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2019-11",
+        "event": "Realização de uma oferta secundária em Hong Kong, a maior do ano naquele mercado.",
+        "source": 3
+      },
+      {
+        "date": "2020-11",
+        "event": "Suspensão do IPO do Ant Group, afiliada à Alibaba, por autoridades chinesas.",
+        "source": 3
+      },
+      {
+        "date": "2020-12",
+        "event": "Abertura de investigação antitruste pela Administração Estatal para Regulação de Mercado da China.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Alibaba Group ganha dinheiro",
+      "body": "A Alibaba Group Holding Ltd atua principalmente em e-commerce, varejo, internet e tecnologia. A empresa opera os maiores marketplaces B2B (Alibaba.com), C2C (Taobao) e B2C (Tmall) do mundo, além de oferecer serviços de logística, computação em nuvem e mídia digital. O Alipay, seu serviço de pagamentos online, é responsável por cerca da metade de todas as transações de pagamento online na China. A empresa possui uma carteira diversificada de negócios em vários setores, incluindo investimentos em startups e infraestrutura digital em mercados como a Tailândia."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR BABA34",
+      "body": "O BABA34 é um BDR não patrocinado (nível I) que representa ações da Alibaba Group Holding Ltd negociadas na Bolsa de Valores de Nova Iorque (ticker BABA) e na Bolsa de Valores de Hong Kong (ticker 9988). O BDR é um recibo negociado na B3, em reais, lastreado nas ações originais e emitido por uma instituição depositária. O preço do BABA34 acompanha a variação da ação original e a taxa de câmbio entre o dólar e o real. O BDR foi listado na B3 em 27/08/2019."
+    },
+    {
+      "id": "proventos",
+      "heading": "BABA34 paga dividendos?",
+      "body": "Sim, o BABA34 paga dividendos. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,1866 por BDR em 1 pagamento, resultando em um dividend yield de 0,98%. O último pagamento foi de R$ 0,1866 em 10/06/2026. Como a Alibaba é uma empresa estrangeira, os dividendos são pagos na moeda local (dólar) e convertidos para reais na data do pagamento, o que pode variar conforme a cotação do câmbio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BABA34",
+      "body": "A rentabilidade total do BABA34, incluindo proventos, foi de -44,13% nos 12 meses até 29/10/2026, de 34,93% em 3 anos e de -39,32% em 5 anos. Esses números estão em reais e incluem a variação do câmbio entre o dólar e o real, além da performance da ação original. Para comparar o desempenho do BABA34 com outros índices, como o S&P 500 ou o CDI, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BABA34",
+      "body": "Os riscos do BABA34 incluem a volatilidade da ação original, a exposição cambial (variação do dólar em relação ao real) e a liquidez do BDR na B3. A volatilidade anualizada do BABA34 nos últimos 12 meses foi de 41,72%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -65,79%, do pico em 01/11/2021 ao ponto mais baixo em 31/10/2022. Além disso, a empresa enfrenta riscos regulatórios na China, como investigações antitruste, que podem impactar sua operação e avaliação de mercado."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar BABA34 no app",
+      "body": "Para quem tem BABA34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o BABA34 junto com seus outros ativos na carteira consolidada, com alocação e valor por classe.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade do BABA34 e o preço médio da sua posição no gráfico de desempenho.\n- [comparação com índices](/recursos/comparacao-com-indices): Compare a rentabilidade do BABA34 com o S&P 500 e o CDI no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Defina alertas de preço para o BABA34 e seja notificado quando o ativo atingir o valor que você escolheu."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BABA34 paga dividendos?",
+      "answer": "Sim, o BABA34 paga dividendos. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,1866 por BDR em 1 pagamento, com um dividend yield de 0,98%. O último pagamento foi de R$ 0,1866 em 10/06/2026. Os dividendos são pagos na moeda da empresa (dólar) e convertidos para reais na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre BABA34 e a ação original BABA?",
+      "answer": "O BABA34 é um BDR não patrocinado (nível I) que representa ações da Alibaba Group Holding Ltd negociadas na NYSE (ticker BABA) e em Hong Kong (ticker 9988). O BDR é negociado na B3, em reais, e seu preço acompanha a variação da ação original e a taxa de câmbio entre o dólar e o real."
+    },
+    {
+      "question": "BABA34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O BABA34 é um BDR não patrocinado (nível I). Isso significa que a empresa não participa ativamente da emissão do BDR, e a liquidez pode ser menor em comparação com BDRs patrocinados."
+    },
+    {
+      "question": "Qual a rentabilidade do BABA34 nos últimos 12 meses?",
+      "answer": "A rentabilidade total do BABA34, incluindo proventos, foi de -44,13% nos 12 meses até 29/10/2026. Esse número está em reais e inclui a variação do câmbio entre o dólar e o real."
+    },
+    {
+      "question": "Como o BABA34 é afetado pela variação do câmbio?",
+      "answer": "O BABA34 é um BDR em reais, mas representa ações de uma empresa estrangeira (Alibaba Group Holding Ltd) negociadas em dólar. Portanto, o preço do BABA34 é afetado pela variação do câmbio entre o dólar e o real, além da performance da ação original."
+    },
+    {
+      "question": "Qual a volatilidade do BABA34?",
+      "answer": "A volatilidade anualizada do BABA34 nos últimos 12 meses foi de 41,72%, classificada como muito alta. Isso indica que o ativo apresenta oscilações de preço significativas."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o BABA34 junto com seus outros ativos na carteira consolidada, com alocação e valor por classe."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do BABA34 e o preço médio da sua posição no gráfico de desempenho."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do BABA34 com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina alertas de preço para o BABA34 e seja notificado quando o ativo atingir o valor que você escolheu."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de uma empresa de tecnologia, com exposição semelhante a riscos de mercado e regulatórios."
+      },
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de e-commerce, com exposição a riscos de mercado e regulatórios semelhantes."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia, com exposição a riscos de mercado e regulatórios semelhantes."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa de tecnologia, com exposição a riscos de mercado e regulatórios semelhantes."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BABA34",
+      "url": "https://finance.yahoo.com/quote/BABA34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ALIBABAGR, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52280/BABA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Alibaba Group",
+      "url": "https://www.wikidata.org/wiki/Q1359568",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Alibaba Group",
+      "url": "https://en.wikipedia.org/wiki/Alibaba_Group",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Alibaba Group",
+      "url": "https://pt.wikipedia.org/wiki/Alibaba_Group",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,314 @@
+{
+  "ticker": "TMOS34",
+  "slug": "tmos34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TMOS34: BDR da Thermo Fisher Scientific",
+    "description": "Conheça o TMOS34, BDR da Thermo Fisher Scientific na B3. Veja desempenho, dividendos, riscos e como acompanhar o ativo no app.",
+    "h1": "TMOS34: BDR da Thermo Fisher Scientific Inc.",
+    "canonicalPath": "/bdrs/tmos34",
+    "keywords": [
+      "TMOS34",
+      "Thermo Fisher Scientific",
+      "BDR",
+      "TMO",
+      "B3",
+      "dividendos",
+      "volatilidade",
+      "BDR não patrocinado"
+    ]
+  },
+  "summary": "TMOS34 é o BDR não patrocinado de nível I da Thermo Fisher Scientific Inc., empresa americana de ciências da vida sediada em Waltham, Massachusetts. Negociado na B3 desde 12/02/2016, o ativo representa ações da Thermo Fisher (TMO) na Bolsa de Valores de Nova Iorque. Em 30/10/2026, o BDR valia R$ 78,60, com rentabilidade total de 28,65% nos últimos 12 meses, incluindo a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Thermo Fisher Scientific Inc.",
+    "legalName": "THERMO FISHER SCIENTIFIC. INC.",
+    "ticker": "BVMF TMOS34",
+    "foundingDate": "2006",
+    "website": "https://www.thermofisher.com/",
+    "wikidata": "Q643674",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q643674",
+      "https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51233/TMOS/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Thermo Fisher Scientific Inc.",
+    "legalName": "THERMO FISHER SCIENTIFIC. INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2006",
+    "listedSince": "12/02/2016",
+    "headquarters": "Waltham",
+    "website": "https://www.thermofisher.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "THERMO FISHER SCIENTIFIC. INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: TMO",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Waltham",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2006",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/02/2016",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 78,60",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "37,61% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,18%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 415.896,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TMOS34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Thermo Fisher Scientific Inc.",
+    "currency": "BRL",
+    "price": 78.6,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.2865,
+      "3y": 0.7414,
+      "5y": 0.0596,
+      "10y": 6.5825
+    },
+    "volatility1y": 0.3761,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4303,
+      "from": "2021-12-29",
+      "to": "2023-10-27"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.1378,
+      "payments12Months": 4,
+      "yield12Months": 0.0018,
+      "lastPayment": {
+        "date": "2026-09-14",
+        "amount": 0.034833
+      }
+    },
+    "avgDailyTradedValue3m": 415896
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do TMOS34 nos últimos 12 meses foi de 37,61%, um nível considerado alto. A maior queda nos últimos 5 anos foi de -43,03%, registrada entre 29/12/2021 e 27/10/2023. O beta do ativo não está disponível no dossiê, portanto não é possível medir a sensibilidade do BDR em relação aos movimentos de um índice de referência. A volatilidade de BDRs é influenciada tanto pela ação original quanto pelo câmbio, o que pode amplificar as oscilações em relação a ativos domésticos. Para acompanhar a variação do preço ao longo do dia, o [widget da barra de menus](/recursos/widget-da-barra-de-menus) oferece um gráfico atualizado com um clique."
+  },
+  "history": {
+    "overview": "A Thermo Fisher Scientific Inc. foi formada em 2006 pela fusão entre a Thermo Electron e a Fisher Scientific, unindo empresas de instrumentos analíticos e suprimentos de laboratório. A fusão, concluída em novembro de 2006, resultou em uma companhia com cerca de 30.000 funcionários e receita combinada de US$ 9 bilhões, após aprovação da Federal Trade Commission (FTC) em 2007. Desde então, a empresa expandiu seu portfólio por meio de aquisições estratégicas, incluindo Life Technologies Corporation (2013), Alfa Aesar (2015), Affymetrix (2016), FEI Company (2016), BD Advanced Bioprocessing (2018) e PPD (2021), consolidando sua posição em sequenciamento de DNA, microscopia eletrônica e serviços farmacêuticos. Em 2020, a empresa recebeu autorização de uso emergencial da FDA para testes de SARS-CoV-2 e colaborou com a Pfizer e a Moderna no desenvolvimento de vacinas de mRNA. Em 2025, a Thermo Fisher ocupou a 106ª posição na lista Fortune 500, com receita anual de US$ 44,556 bilhões. O BDR TMOS34 passou a ser negociado na B3 em 12/02/2016, permitindo que investidores brasileiros acompanhem a empresa sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "2006",
+        "event": "Formação da Thermo Fisher Scientific pela fusão entre Thermo Electron e Fisher Scientific.",
+        "source": 2
+      },
+      {
+        "date": "2013-04",
+        "event": "Aquisição da Life Technologies Corporation por US$ 13,6 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2016-02-12",
+        "event": "Listagem do BDR TMOS34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2016-05-27",
+        "event": "Anúncio da aquisição da FEI Company por US$ 4,2 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2017",
+        "event": "Aquisição da Patheon por aproximadamente US$ 7,2 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2018-09",
+        "event": "Aquisição do negócio de Advanced Bioprocessing da Becton, Dickinson and Company (BDX).",
+        "source": 3
+      },
+      {
+        "date": "2020-03",
+        "event": "Recebimento de autorização de uso emergencial da FDA para teste de SARS-CoV-2.",
+        "source": 3
+      },
+      {
+        "date": "2021",
+        "event": "Aquisição da PPD.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Thermo Fisher Scientific Inc. ganha dinheiro",
+      "body": "A Thermo Fisher Scientific Inc. é uma empresa americana de ciências da vida e pesquisa clínica, sediada em Waltham, Massachusetts. A companhia atua como fornecedora global de instrumentos analíticos, soluções de desenvolvimento clínico, diagnósticos especializados, serviços de laboratório, farmacêuticos e de biotecnologia. Os produtos são comercializados sob marcas como Thermo Scientific, Fisher Scientific, Applied Biosystems, Invitrogen, Patheon, PPD e Nalgene. Em 2025, a empresa registrou receita anual de US$ 44,556 bilhões, o que a posicionou na 106ª colocação da lista Fortune 500. A base de funcionários contava com 67.816 pessoas em 16/03/2023."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR TMOS34",
+      "body": "TMOS34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Thermo Fisher Scientific Inc. na Bolsa de Valores de Nova Iorque, sob o ticker TMO. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o dólar e o real. A listagem na B3 ocorreu em 12/02/2016. Como se trata de um programa não patrocinado, a própria empresa não emite o recibo, que é emitido por uma instituição depositária."
+    },
+    {
+      "id": "proventos",
+      "heading": "TMOS34 paga dividendos?",
+      "body": "Sim, TMOS34 paga proventos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 0,1378 por BDR em 4 pagamentos, resultando em um dividend yield de 0,18%. O último pagamento registrado foi de R$ 0,0348 em 14/09/2026. É importante notar que a Thermo Fisher Scientific paga dividendos em dólares, e o valor recebido pelo investidor brasileiro é convertido para reais na data do pagamento, sujeito à variação cambial."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TMOS34",
+      "body": "Até 30/10/2026, o TMOS34 apresentou rentabilidade total com proventos de 28,65% em 12 meses, 74,14% em 3 anos, 5,96% em 5 anos e 658,25% em 10 anos. Esses números incluem a variação do câmbio entre o dólar e o real, o que significa que a performance reflete tanto o movimento da ação TMO na Bolsa de Valores de Nova Iorque quanto a oscilação da moeda. Para avaliar o desempenho do BDR em comparação com outros benchmarks, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade lado a lado com o S&P 500, CDI, IPCA, Ibovespa e IFIX."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TMOS34",
+      "body": "O principal risco do TMOS34 é o risco cambial, pois o valor do BDR em reais depende da cotação do dólar em relação ao real. Além disso, a volatilidade anualizada do ativo nos últimos 12 meses foi de 37,61%, classificada como alta. A maior queda registrada nos últimos 5 anos foi de -43,03%, ocorrida entre o pico em 29/12/2021 e o ponto mais baixo em 27/10/2023. A liquidez do BDR na B3 também é um fator a considerar: o volume médio negociado por dia nos últimos 3 meses foi de R$ 415.896,00. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TMOS34 paga dividendos?",
+      "answer": "Sim, TMOS34 paga proventos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 0,1378 por BDR em 4 pagamentos, com um dividend yield de 0,18%. O último pagamento foi de R$ 0,0348 em 14/09/2026. Os valores são pagos em reais, mas a Thermo Fisher Scientific distribui dividendos em dólares, o que significa que o valor final depende da cotação do câmbio na data do pagamento."
+    },
+    {
+      "question": "O que é TMOS34?",
+      "answer": "TMOS34 é o BDR não patrocinado de nível I da Thermo Fisher Scientific Inc., uma empresa americana de ciências da vida. O BDR é negociado na B3 em reais e representa ações da Thermo Fisher (TMO) na Bolsa de Valores de Nova Iorque. A listagem na B3 ocorreu em 12/02/2016."
+    },
+    {
+      "question": "Qual a diferença entre TMOS34 e a ação TMO?",
+      "answer": "TMOS34 é um BDR negociado na B3 em reais, enquanto TMO é a ação original da Thermo Fisher Scientific negociada na Bolsa de Valores de Nova Iorque em dólares. O preço do TMOS34 acompanha a cotação do TMO e a variação do câmbio entre o dólar e o real. O BDR permite que investidores brasileiros tenham exposição à empresa sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "question": "Qual o volume médio negociado de TMOS34 na B3?",
+      "answer": "O volume médio negociado por dia de TMOS34 nos últimos 3 meses até 30/10/2026 foi de R$ 415.896,00. Esse número indica a liquidez do ativo na B3, ou seja, a facilidade de comprar ou vender o BDR sem causar grandes variações de preço."
+    },
+    {
+      "question": "Como acompanhar o desempenho do TMOS34?",
+      "answer": "É possível acompanhar o desempenho do TMOS34 por meio do [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app, que oferece um gráfico de rentabilidade da carteira e detalhes de cada ativo, incluindo quantidade, preço médio, ganho, variação do dia e do ano. Além disso, a [carteira consolidada](/recursos/carteira-consolidada) permite visualizar a alocação de ativos e as maiores posições em uma só visão."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do TMOS34 lado a lado com o S&P 500, CDI, IPCA, Ibovespa e IFIX no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o TMOS34 chegar ao preço que você escolheu, para acompanhar oscilações de volatilidade."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do TMOS34 com um gráfico de performance e detalhes de quantidade, preço médio, ganho e variação do dia e do ano."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a alocação do TMOS34 junto com outros ativos da sua carteira, incluindo ações da B3, dos EUA, renda fixa e fundos."
+      },
+      {
+        "feature": "widget-da-barra-de-menus",
+        "anchor": "widget da barra de menus",
+        "context": "Acompanhe o gráfico do dia e as posições do TMOS34 com um clique na barra de menus do Mac."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de uma empresa de tecnologia e ciências, com exposição ao mercado americano e risco cambial similar."
+      },
+      {
+        "ticker": "M1RN34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa do setor de biotecnologia e saúde, com perfil de risco e volatilidade comparável ao de TMOS34."
+      },
+      {
+        "ticker": "LILY34",
+        "list": "bdrs",
+        "reason": "BDR de uma empresa farmacêutica, com exposição ao setor de saúde e risco cambial similar ao de TMOS34."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, útil para comparar o desempenho de TMOS34 com o mercado americano."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, oferecendo uma alternativa para diversificação no mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TMOS34",
+      "url": "https://finance.yahoo.com/quote/TMOS34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: THERMFISCHER, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/51233/TMOS/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Thermo Fisher Scientific Inc.",
+      "url": "https://www.wikidata.org/wiki/Q643674",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Thermo Fisher Scientific",
+      "url": "https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

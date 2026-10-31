@@ -1,0 +1,311 @@
+{
+  "ticker": "PORD11",
+  "slug": "pord11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "PORD11: história, dividendos e volatilidade",
+    "description": "Conheça o PORD11, FII de papel focado em CRIs, com dividend yield de 14,41% e patrimônio de R$ 357,8 milhões em 09/2026.",
+    "h1": "PORD11: Polo Crédito Imobiliário FII",
+    "canonicalPath": "/fiis/pord11",
+    "keywords": [
+      "PORD11",
+      "Polo Crédito Imobiliário FII",
+      "FII de papel",
+      "CRI",
+      "dividend yield PORD11",
+      "volatilidade PORD11",
+      "patrimônio PORD11"
+    ]
+  },
+  "summary": "PORD11 é a cota do Polo Crédito Imobiliário - Fundo de Investimento Imobiliário, um FII de papel focado em Certificados de Recebíveis Imobiliários (CRIs). Administrado pela Oliveira Trust DTVM S.A., o fundo possui patrimônio líquido de R$ 357,8 milhões em 09/2026 e distribuiu R$ 1,19 por cota nos últimos 12 meses até 29/10/2026, resultando em dividend yield de 14,41%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Polo Crédito Imobiliário - Fundo de Investimento Imobiliário",
+    "legalName": "POLO CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "ticker": "BVMF PORD11",
+    "isin": "BRPORDCTF005",
+    "taxId": "17.156.502/0001-09",
+    "foundingDate": "2012-12-12",
+    "provider": {
+      "name": "OLIVEIRA TRUST DTVM S.A.",
+      "url": "https://www.oliveiratrust.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=17156502000109"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "Oliveira Trust DTVM S.A",
+    "name": "Polo Crédito Imobiliário - Fundo de Investimento Imobiliário",
+    "legalName": "POLO CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "12/12/2012",
+    "administrator": "OLIVEIRA TRUST DTVM S.A.",
+    "website": "https://www.oliveiratrust.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "POLO CRÉDITO IMOBILIÁRIO - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "17.156.502/0001-09",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "OLIVEIRA TRUST DTVM S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "12/12/2012",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 357,8 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "50.442",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 9,60",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 8,26",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "10,92% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,17",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "14,41%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 718.972,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PORD11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Polo Credito Imobiliario - Fundo de Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 8.26,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1818,
+      "3y": 0.3938,
+      "5y": 0.6689,
+      "10y": 0.4884
+    },
+    "volatility1y": 0.1092,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2135,
+      "from": "2024-04-19",
+      "to": "2024-12-18"
+    },
+    "beta1y": {
+      "value": 0.17,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.19,
+      "payments12Months": 12,
+      "yield12Months": 0.1441,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.098
+      }
+    },
+    "avgDailyTradedValue3m": 718972
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do PORD11 nos 12 meses até 29/10/2026 foi de 10,92%, classificada como baixa. O beta contra o Ibovespa foi de 0,17, indicando que o fundo tende a ter movimentos menores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -21,35%, do pico em 19/04/2024 ao ponto mais baixo em 18/12/2024. Para FIIs de papel, a volatilidade tende a ser menor que a de FIIs de tijolo, mas ainda assim pode ser impactada por mudanças nas taxas de juros e pelo risco de crédito dos emissores. Para acompanhar a volatilidade e definir alertas de preço, você pode usar o recurso de [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O Polo Crédito Imobiliário FII (PORD11) iniciou suas atividades em 12/12/2012, com o objetivo de investir em ativos de renda fixa lastreados no mercado imobiliário. A estratégia do fundo é de gestão ativa, buscando diversificação e geração de renda através de CRIs e outros papéis do segmento. Em 2020, o fundo realizou ofertas públicas de cotas, com início em 14/02/2020 e encerramentos em 23/03/2020 e 24/03/2020, ampliando sua base de cotistas e patrimônio. Em 2021, houve outra oferta pública, iniciada em 25/05/2021 e encerrada em 23/06/2021. Essas emissões permitiram ao fundo captar recursos para ampliar sua carteira de CRIs, que inclui operações com incorporadoras como a Integra e a Moura Dubeux, focadas em programas habitacionais como o Minha Casa Minha Vida. A gestão do fundo tem realizado liberações e liquidações de operações, como a liberação de R$ 4,75 milhões no CRI Prestes em setembro de 2026 e a liquidação de R$ 13,8 milhões do FIDC FIT em outubro de 2026, ajustando a carteira conforme a geração de recebíveis.",
+    "timeline": [
+      {
+        "date": "2012-12-12",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2020-02-14",
+        "event": "Início de oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2020-03-23",
+        "event": "Encerramento de oferta pública de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do PORD11",
+      "body": "O PORD11 é um Fundo de Investimento Imobiliário (FII) de papel, focado em Certificados de Recebíveis Imobiliários (CRIs) e outros ativos de renda fixa lastreados no mercado imobiliário. O fundo é administrado pela Oliveira Trust DTVM S.A. e possui gestão ativa, com o objetivo de gerar renda para seus cotistas através de uma carteira diversificada de CRIs. Segundo o relatório gerencial de setembro de 2026, a carteira inclui operações como o CRI Prestes, com liberação adicional de R$ 4,75 milhões, e o FIDC FIT, com liquidação de R$ 13,8 milhões, além de CRIs da Integra e da Moura Dubeux, focados em programas habitacionais como o Minha Casa Minha Vida. A estratégia busca diversificação e geração de renda, com atenção à qualidade dos emissores e à geração de recebíveis."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do PORD11",
+      "body": "Nos 12 meses até 29/10/2026, o PORD11 distribuiu R$ 1,19 por cota, resultando em dividend yield de 14,41%. O último pagamento foi de R$ 0,0980 em 01/10/2026. O relatório gerencial de setembro de 2026 indica que o dividend yield de 12 meses é de 14,12% ao ano, considerando uma cota base de R$ 8,43, ou IPCA + 9,26% (IPCA + 11,65% com o Gross Up de IR) considerando um duration de 3 anos. O fundo possui R$ 0,030 por cota de inflação acumulada ainda não distribuídos. Para acompanhar os proventos do PORD11, você pode usar o recurso de [dividendos e JCP no app](/recursos/proventos), que mostra os rendimentos de FIIs multiplicados pela sua quantidade."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O PORD11 realizou 3 ofertas públicas de cotas encerradas, conforme documentos publicados no FNET. As ofertas ocorreram em 2020 e 2021, com início e encerramento em datas específicas. Em 09/2026, o fundo possuía patrimônio líquido de R$ 357,8 milhões, 50.442 cotistas e valor patrimonial da cota de R$ 9,60. O número de cotas emitidas era de 37.283.750. A taxa de administração no mês de 09/2026 foi de 0,008% sobre o patrimônio, e o dividend yield do mês foi de 1,03%."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do PORD11",
+      "body": "A rentabilidade total com proventos do PORD11 foi de 18,18% nos 12 meses até 29/10/2026, 39,38% em 3 anos e 66,89% em 5 anos. A rentabilidade em 10 anos foi de 48,84%. Para comparar o desempenho do PORD11 com índices como o IFIX e o CDI, você pode usar o recurso de [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade da carteira lado a lado com esses índices no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do PORD11",
+      "body": "Os riscos do PORD11 incluem o risco de crédito dos emissores dos CRIs, a sensibilidade a mudanças nas taxas de juros e a volatilidade do mercado imobiliário. A volatilidade anualizada do fundo nos 12 meses até 29/10/2026 foi de 10,92%, classificada como baixa. O beta contra o Ibovespa foi de 0,17, indicando que o fundo tende a ter movimentos menores que os do índice. A maior queda nos últimos 5 anos foi de -21,35%, do pico em 19/04/2024 ao ponto mais baixo em 18/12/2024. Para acompanhar a volatilidade e definir alertas de preço, você pode usar o recurso de [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PORD11 paga dividendos?",
+      "answer": "Sim, o PORD11 distribui proventos mensais. Nos 12 meses até 29/10/2026, o fundo distribuiu R$ 1,19 por cota, resultando em dividend yield de 14,41%. O último pagamento foi de R$ 0,0980 em 01/10/2026. Para acompanhar os proventos, você pode usar o recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre PORD11 e outros FIIs de papel?",
+      "answer": "O PORD11 é um FII de papel focado em CRIs, com gestão ativa e diversificação em operações como o CRI Prestes e o FIDC FIT. Outros FIIs de papel podem ter diferentes estratégias, como foco em CRIs de alto padrão ou em operações de infraestrutura. Para comparar o PORD11 com outros fundos, você pode usar o recurso de [comparador de fundos](/recursos/comparador-de-fundos) no app."
+    },
+    {
+      "question": "Qual o patrimônio do PORD11?",
+      "answer": "Em 09/2026, o PORD11 possuía patrimônio líquido de R$ 357,8 milhões, 50.442 cotistas e valor patrimonial da cota de R$ 9,60. O número de cotas emitidas era de 37.283.750. A taxa de administração no mês foi de 0,008% sobre o patrimônio."
+    },
+    {
+      "question": "Qual a rentabilidade do PORD11?",
+      "answer": "A rentabilidade total com proventos do PORD11 foi de 18,18% nos 12 meses até 29/10/2026, 39,38% em 3 anos e 66,89% em 5 anos. A rentabilidade em 10 anos foi de 48,84%. Para comparar com índices, use o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Qual a volatilidade do PORD11?",
+      "answer": "A volatilidade anualizada do PORD11 nos 12 meses até 29/10/2026 foi de 10,92%, classificada como baixa. O beta contra o Ibovespa foi de 0,17. A maior queda nos últimos 5 anos foi de -21,35%, do pico em 19/04/2024 ao ponto mais baixo em 18/12/2024. Para acompanhar a volatilidade, use o recurso de [alertas de preço](/recursos/alertas-de-preco)."
+    },
+    {
+      "question": "Quem administra o PORD11?",
+      "answer": "O PORD11 é administrado pela Oliveira Trust DTVM S.A. O fundo possui gestão ativa, com a equipe da gestora responsável pela seleção e acompanhamento dos ativos da carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do PORD11 com data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do PORD11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina alertas de preço para acompanhar a volatilidade do PORD11."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o PORD11 junto com seus outros ativos na carteira consolidada."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte ao assistente de IA sobre a sua posição em PORD11 e seus proventos."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de papel focado em CRIs, com estratégia similar de geração de renda."
+      },
+      {
+        "ticker": "ICRI11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em CRIs indexados ao IPCA, útil para comparação de estratégias de inflação."
+      },
+      {
+        "ticker": "AFHI11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em recebíveis imobiliários, similar ao PORD11."
+      },
+      {
+        "ticker": "MCCI11",
+        "list": "fiis",
+        "reason": "FII de papel com foco em recebíveis imobiliários, útil para comparação de diversificação."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PORD11",
+      "url": "https://finance.yahoo.com/quote/PORD11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do POLO CREDITO IMOBILIARIO - FUNDO DE INVESTIMENTO IMOBILIARIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo PORD11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=17156502000109",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do PORD11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356565",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

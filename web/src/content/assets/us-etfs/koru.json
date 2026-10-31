@@ -1,0 +1,290 @@
+{
+  "ticker": "KORU",
+  "slug": "koru",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "KORU: ETF alavancado 3x Coreia do Sul",
+    "description": "KORU é o Direxion Daily South Korea Bull 3X Shares, ETF alavancado 3x com volatilidade de 176,64% e queda de -89,02% em 5 anos.",
+    "h1": "KORU: Direxion Daily South Korea Bull 3X Shares",
+    "canonicalPath": "/etfs/koru",
+    "keywords": [
+      "KORU",
+      "ETF alavancado Coreia do Sul",
+      "Direxion 3x",
+      "ETF Coreia do Sul",
+      "alavancagem diária",
+      "volatilidade KORU",
+      "como investir em KORU do Brasil"
+    ]
+  },
+  "summary": "Emitido pela Direxion, que lançou o primeiro ETF com alavancagem de 3x em 2008, o ativo começou a negociar em 10/04/2013. Em 29/10/2026, a cota valia US$ 12,73, com volatilidade anualizada de 176,64% e beta de 8,94 contra o S&P 500. A rentabilidade total nos 12 meses foi de 42,13%, mas a maior queda em 5 anos atingiu -89,02%, refletindo o efeito do rebalanceamento diário em períodos longos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Direxion Daily South Korea Bull 3X Shares",
+    "ticker": "ARCX KORU",
+    "foundingDate": "2013-04-10",
+    "provider": {
+      "name": "Direxion",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Direxion"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado 3x",
+    "issuerOrManager": "Direxion",
+    "trackedIndex": "Índice de ações da Coreia do Sul (não especificado no dossiê)",
+    "name": "Direxion Daily South Korea Bull 3X Shares",
+    "founded": "10/04/2013"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Direxion Daily South Korea Bull 3X Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "10/04/2013",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "3x o desempenho diário do índice (300%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 12,73",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "176,64% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "8,94",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,62%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 504,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "KORU",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Direxion Daily South Korea Bull 3X Shares",
+    "currency": "USD",
+    "price": 12.73,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.4213,
+      "3y": 3.6502,
+      "5y": 0.0519,
+      "10y": 0.1014
+    },
+    "volatility1y": 1.7664,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8902,
+      "from": "2021-12-08",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": 8.94,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.0794,
+      "payments12Months": 2,
+      "yield12Months": 0.0062,
+      "lastPayment": {
+        "date": "2026-03-24",
+        "amount": 0.0057
+      }
+    },
+    "avgDailyTradedValue3m": 504077374
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 12 meses do KORU é de 176,64%, nível muito alto, o que reflete a alavancagem de 3x e a sensibilidade ao mercado coreano. O beta de 8,94 contra o S&P 500 indica que o KORU tende a se mover 8,94 vezes mais que o índice americano, na mesma direção, mas beta não é volatilidade: ele mede a correlação com o índice, não a amplitude dos movimentos. A maior queda em 5 anos foi de -89,02%, do pico em 08/12/2021 ao ponto mais baixo em 08/04/2025, o que ilustra o risco de drawdown em ativos alavancados. Para um ETF alavancado, essa volatilidade é esperada, mas o investidor deve estar ciente de que perdas podem ser severas e rápidas. Para acompanhar a cotação durante o pregão, o [widget na barra de menus](/recursos/widget-da-barra-de-menus) mostra o gráfico do dia, e os [alertas de preço](/recursos/alertas-de-preco) ajudam a monitorar movimentos bruscos."
+  },
+  "history": {
+    "overview": "O KORU é um produto da Direxion, empresa americana especializada em ETFs alavancados. A Direxion foi fundada em 1997 como Potomac Funds e adotou o nome atual em 2006, com o 'X' no nome para destacar a alavancagem. Em novembro de 2008, a Direxion foi a primeira a oferecer ETFs com alavancagem de 3x, movimento que gerou escrutínio da SEC e de reguladores, mas também acelerou o crescimento da empresa. O KORU foi lançado em 10/04/2013, inserindo-se nesse portfólio de produtos de alta alavancagem. A Coreia do Sul, alvo do ETF, tem uma economia desenvolvida, com PIB nominal de US$ 2,25 trilhões em 2026, sendo a 4ª maior da Ásia e a 12ª do mundo. O país é conhecido pelo 'Milagre do Rio Han', que transformou a nação em poucos décadas, e é membro do G20 e da OCDE. A economia coreana é exportadora e tem forte investimento em P&D, o que confere resiliência a crises, mas também exposição a ciclos globais.",
+    "timeline": [
+      {
+        "date": "1997",
+        "event": "Fundação da Potomac Funds, que depois se tornaria a Direxion",
+        "source": 1
+      },
+      {
+        "date": "2006",
+        "event": "A empresa adota o nome Direxion, com o 'X' para destacar a alavancagem",
+        "source": 1
+      },
+      {
+        "date": "2008-11",
+        "event": "Direxion lança o primeiro ETF com alavancagem de 3x do mercado",
+        "source": 1
+      },
+      {
+        "date": "2013-04-10",
+        "event": "Primeiro pregão das cotas do KORU na bolsa",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o KORU funciona",
+      "body": "A emissora é a Direxion, que lançou o primeiro ETF com alavancagem de 3x em novembro de 2008. O KORU começou a negociar em 10/04/2013. A alavancagem é diária: o fundo se reposiciona a cada dia para atingir o múltiplo de 3x sobre a variação do índice naquele dia. Em períodos longos, o resultado do KORU se afasta do triplo do retorno do índice por causa do efeito do rebalanceamento diário, que pode amplificar perdas em mercados voláteis ou em tendência lateral. A volatilidade anualizada de 176,64% e a queda de -89,02% entre 08/12/2021 e 08/04/2025 ilustram esse risco. Para acompanhar a cotação durante o pregão, o [widget na barra de menus](/recursos/widget-da-barra-de-menus) mostra o gráfico do dia com um clique."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do KORU",
+      "body": "O KORU segue um índice de ações da Coreia do Sul, mas o dossiê não especifica qual índice é replicado nem a composição detalhada. A Coreia do Sul tem uma economia desenvolvida, com PIB nominal de US$ 2,25 trilhões em 2026, sendo a 4ª maior da Ásia e a 12ª do mundo. O país é membro do G20 e da OCDE, e sua economia é exportadora, com forte investimento em P&D (4,93% do PIB). A fonte 2 não detalha os setores ou empresas que compõem o índice do KORU. Para comparar a exposição à Coreia do Sul com outros mercados, o [comparador de fundos](/recursos/comparador-de-fundos) permite buscar entre cerca de 26 mil fundos da CVM, mas não inclui ETFs estrangeiros como o KORU."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no KORU a partir do Brasil",
+      "body": "Para investir no KORU a partir do Brasil, o investidor precisa de uma conta em uma corretora que opere no exterior, já que o ETF é listado em bolsa americana e cotado em dólar. O risco cambial é relevante: variações do dólar em relação ao real afetam o retorno em reais, independentemente do desempenho do índice coreano. Alternativamente, o investidor pode buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou a mesma exposição à Coreia do Sul, como o [EWY](/etfs/ewy), que é o iShares MSCI South Korea ETF. Para sincronizar as posições compradas no exterior com a carteira local, o [Open Finance](/recursos/open-finance) conecta bancos e corretoras e confere quantidades e preço médio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do KORU",
+      "body": "Em 29/10/2026, a cota do KORU valia US$ 12,73. A rentabilidade total com proventos foi de 42,13% nos 12 meses, 365,02% em 3 anos, 5,19% em 5 anos e 10,14% em 10 anos. A volatilidade anualizada de 12 meses é de 176,64%, nível muito alto, e o beta contra o S&P 500 é 8,94, indicando que o KORU tende a se mover 8,94 vezes mais que o índice americano, na mesma direção. A maior queda em 5 anos foi de -89,02%, do pico em 08/12/2021 ao ponto mais baixo em 08/04/2025. Para ver como esses números se comparam com o S&P 500, o [comparação com índices](/recursos/comparacao-com-indices) mostra a rentabilidade lado a lado. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) permite medir a rentabilidade de um período específico na carteira."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do KORU",
+      "body": "O principal risco do KORU é a alavancagem diária de 3x, que amplifica tanto ganhos quanto perdas em relação ao índice coreano. Em mercados voláteis ou em tendência lateral, o efeito do rebalanceamento diário pode fazer o resultado do KORU se afastar significativamente do triplo do retorno do índice, como mostra a queda de -89,02% entre 08/12/2021 e 08/04/2025. A volatilidade anualizada de 176,64% é muito alta, e o beta de 8,94 contra o S&P 500 indica alta sensibilidade aos movimentos do mercado americano. Há também risco cambial, já que o KORU é cotado em dólar, e risco de liquidez, com volume médio de US$ 504,1 milhões por dia nos últimos 3 meses. Para monitorar movimentos bruscos de preço, os [alertas de preço](/recursos/alertas-de-preco) enviam uma notificação quando a cota atinge um valor definido."
+    }
+  ],
+  "faq": [
+    {
+      "question": "KORU é um ETF alavancado?",
+      "answer": "A alavancagem é diária, o que significa que o fundo se reposiciona a cada dia para atingir o múltiplo de 3x sobre a variação do índice naquele dia. Em períodos longos, o resultado do KORU se afasta do triplo do retorno do índice por causa do efeito do rebalanceamento diário, que pode amplificar perdas em mercados voláteis ou em tendência lateral. A volatilidade anualizada de 176,64% e a queda de -89,02% entre 08/12/2021 e 08/04/2025 ilustram esse risco."
+    },
+    {
+      "question": "KORU paga dividendos?",
+      "answer": "Sim, o KORU paga proventos, mas em valores baixos. Nos 12 meses até 29/10/2026, o KORU pagou US$ 0,0794 por cota em 2 pagamentos, com dividend yield de 0,62%. O último pagamento foi de US$ 0,0057 em 24/03/2026. Para acompanhar os proventos de outros ativos, o [carteira consolidada](/recursos/carteira-consolidada) mostra a alocação e as maiores posições, mas não detalha proventos de ETFs estrangeiros."
+    },
+    {
+      "question": "Como investir no KORU a partir do Brasil?",
+      "answer": "Para investir no KORU a partir do Brasil, o investidor precisa de uma conta em uma corretora que opere no exterior, já que o ETF é listado em bolsa americana e cotado em dólar. O risco cambial é relevante: variações do dólar em relação ao real afetam o retorno em reais, independentemente do desempenho do índice coreano. Alternativamente, o investidor pode buscar ETFs ou BDRs na B3 que sigam o mesmo índice ou a mesma exposição à Coreia do Sul, como o [EWY](/etfs/ewy). Para sincronizar as posições compradas no exterior com a carteira local, o [Open Finance](/recursos/open-finance) conecta bancos e corretoras e confere quantidades e preço médio."
+    },
+    {
+      "question": "Qual o risco de cair 89% no KORU?",
+      "answer": "A maior queda em 5 anos do KORU foi de -89,02%, do pico em 08/12/2021 ao ponto mais baixo em 08/04/2025. Essa queda reflete o efeito do rebalanceamento diário em um mercado volátil ou em tendência lateral, que amplifica perdas em ativos alavancados. A volatilidade anualizada de 176,64% e o beta de 8,94 contra o S&P 500 indicam alta sensibilidade aos movimentos do mercado. Para monitorar movimentos bruscos de preço, os [alertas de preço](/recursos/alertas-de-preco) enviam uma notificação quando a cota atinge um valor definido."
+    },
+    {
+      "question": "KORU é bom para longo prazo?",
+      "answer": "O KORU é um ETF alavancado 3x com rebalanceamento diário, o que faz o resultado se afastar do triplo do retorno do índice em períodos longos. A rentabilidade total em 5 anos foi de 5,19% e em 10 anos de 10,14%, enquanto a maior queda foi de -89,02% entre 08/12/2021 e 08/04/2025. Esses números mostram que o KORU não é adequado para investimento de longo prazo, pois o efeito do rebalanceamento diário pode amplificar perdas em mercados voláteis ou em tendência lateral. Para quem busca exposição de longo prazo à Coreia do Sul, o [EWY](/etfs/ewy) é uma alternativa sem alavancagem."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do KORU junto com outros ativos, como ações da B3 e ETFs americanos, em uma só visão."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do KORU com o S&P 500, Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do KORU atinge um valor que você escolheu, para monitorar movimentos bruscos."
+      },
+      {
+        "feature": "open-finance",
+        "anchor": "Open Finance",
+        "context": "Conecte sua corretora no exterior e confira as posições do KORU com a sua carteira, incluindo quantidades e preço médio."
+      },
+      {
+        "feature": "widget-da-barra-de-menus",
+        "anchor": "widget na barra de menus",
+        "context": "Acompanhe a cotação do KORU durante o pregão com o gráfico do dia e as posições num clique na barra de menus do Mac."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EWY",
+        "list": "us-etfs",
+        "reason": "iShares MSCI South Korea ETF, sem alavancagem, para quem quer exposição direta ao mercado coreano."
+      },
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "Direxion Daily Semiconductor Bull 3X Shares, outro ETF alavancado 3x da Direxion, para comparar a estratégia de alavancagem."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "State Street SPDR S&P 500 ETF Trust, para comparar a rentabilidade do KORU com o índice americano."
+      },
+      {
+        "ticker": "EEM",
+        "list": "us-etfs",
+        "reason": "iShares MSCI Emerging Markets ETF, para quem quer exposição a mercados emergentes, incluindo a Coreia do Sul."
+      },
+      {
+        "ticker": "VWO",
+        "list": "us-etfs",
+        "reason": "Vanguard FTSE Emerging Markets ETF, outra opção de exposição a mercados emergentes, sem alavancagem."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de KORU",
+      "url": "https://finance.yahoo.com/quote/KORU/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Direxion (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Direxion",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Economy of South Korea (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Economy_of_South_Korea",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

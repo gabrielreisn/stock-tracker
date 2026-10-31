@@ -1,0 +1,411 @@
+{
+  "ticker": "PSSA3",
+  "slug": "pssa3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "PSSA3: história, dividendos e volatilidade",
+    "description": "PSSA3 é a ação ordinária da Porto Seguro, holding de seguros. Veja dividendos, rentabilidade, volatilidade e histórico da empresa até 30/10/2026.",
+    "h1": "PSSA3: Porto Seguro S.A. – Ação Ordinária",
+    "canonicalPath": "/acoes/pssa3",
+    "keywords": [
+      "PSSA3",
+      "Porto Seguro ação",
+      "PSSA3 dividendos",
+      "PSSA3 volatilidade",
+      "Porto Seguro história",
+      "PSSA3 rentabilidade",
+      "ação seguradora B3",
+      "PSSA3 Novo Mercado"
+    ]
+  },
+  "summary": "PSSA3 é a ação ordinária da Porto Seguro S.A., holding brasileira do setor de seguros fundada em 1945. Com 11,7 milhões de clientes e 27 empresas no grupo, a companhia gerou R$ 28,0 bilhões em receita em 2022. Em 30/10/2026, a ação valia R$ 44,99, com dividend yield de 6,67% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Porto",
+    "legalName": "PORTO SEGURO SA",
+    "ticker": "BVMF PSSA3",
+    "isin": "BRPSSAACNOR7",
+    "taxId": "02.149.205/0001-69",
+    "foundingDate": "1997-09-22",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.portoseguro.com.br",
+    "wikidata": "Q7232169",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q7232169",
+      "https://pt.wikipedia.org/wiki/Porto_(empresa)",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/16659/PSSA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Porto",
+    "legalName": "PORTO SEGURO SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Financeiro",
+    "segment": "Seguradoras",
+    "founded": "22/09/1997",
+    "listedSince": "22/11/2004",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.portoseguro.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "PORTO SEGURO SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "02.149.205/0001-69",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Seguradoras",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "22/09/1997",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "22/11/2004",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "PSSA3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "ERNST & YOUNG AUDITORES INDEPENDENTES S/S LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 44,99",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "27,86% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,63",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,67%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PSSA3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Porto Seguro S.A.",
+    "currency": "BRL",
+    "price": 44.99,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0157,
+      "3y": 1.0894,
+      "5y": 1.453,
+      "10y": 4.0517
+    },
+    "volatility1y": 0.2786,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.279,
+      "from": "2021-11-10",
+      "to": "2022-07-15"
+    },
+    "beta1y": {
+      "value": 0.63,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 2.9995,
+      "payments12Months": 5,
+      "yield12Months": 0.0667,
+      "lastPayment": {
+        "date": "2026-09-24",
+        "amount": 0.520657
+      }
+    },
+    "avgDailyTradedValue3m": 101317778
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada da PSSA3 nos últimos 12 meses é de 27,86%, nível considerado alto. O beta de 0,63 contra o Ibovespa indica que a ação costuma acompanhar os movimentos do índice com menor amplitude, na mesma direção. A maior queda em 5 anos foi de -27,90%, entre 10/11/2021 e 15/07/2022. Para monitorar oscilações e definir níveis de preço, utilize os [alertas de preço](/recursos/alertas-de-preco)."
+  },
+  "history": {
+    "overview": "A Porto Seguro S.A. tem origem em 1945, quando foi fundada como uma pequena seguradora. Em 1972, Abrahão Garfinkel adquiriu a empresa, e após seu falecimento, Jayme Garfinkel assumiu o comando, iniciando a expansão do grupo. Em 2003, comprou as operações brasileiras da AXA, que passou a se chamar Azul Seguros. Em 2006, vendeu a carteira de saúde para a Amil. Em 2009, anunciou a junção das operações de seguro com o Itaú Unibanco, criando a PSIUPAR, que detém 70% da Porto Seguro. A companhia estreou na B3 em 22/11/2004. Em 2022, o grupo registrou R$ 28,0 bilhões de receita e lucro líquido de R$ 1,13 bilhão. Em 2026, houve ajustes em projeções financeiras e o pedido de cancelamento de registro da Porto Serviço na CVM.",
+    "timeline": [
+      {
+        "date": "1945",
+        "event": "Fundação da empresa",
+        "source": 3
+      },
+      {
+        "date": "1997-09-22",
+        "event": "Constituição da companhia",
+        "source": 2
+      },
+      {
+        "date": "1997-11-28",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2004-11-22",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2026-02-05",
+        "event": "Publicação de projeções para 2026",
+        "source": 12
+      },
+      {
+        "date": "2026-03-17",
+        "event": "Esclarecimentos sobre notícia veiculada na mídia",
+        "source": 11
+      },
+      {
+        "date": "2026-03-23",
+        "event": "Oncoclínicas como potencial co-investidor",
+        "source": 10
+      },
+      {
+        "date": "2026-04-14",
+        "event": "Encerramento de tratativas envolvendo potencial operação",
+        "source": 9
+      },
+      {
+        "date": "2026-05-06",
+        "event": "Inclusão de outras corretoras na recompra de ações",
+        "source": 8
+      },
+      {
+        "date": "2026-05-07",
+        "event": "Modificação de projeções divulgadas",
+        "source": 7
+      },
+      {
+        "date": "2026-10-02",
+        "event": "Pedido de cancelamento de registro da Porto Serviço na CVM",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Porto ganha dinheiro",
+      "body": "A Porto Seguro S.A. atua como holding com a atividade de gestão de participações societárias. O grupo é composto por 27 empresas, incluindo a Porto Seguro Companhia de Seguros Gerais, Porto Seguro Vida e Previdência, Porto Seguro Saúde, Azul Seguros e Itaú Seguros de Auto e Residência. Em 2022, a companhia apresentou R$ 28,0 bilhões de receita e lucro líquido de R$ 1,13 bilhão. A base de clientes únicos é de 11,7 milhões, com 13 mil funcionários, 36 mil corretores independentes e 101 sucursais e escritórios regionais no Brasil."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Porto",
+      "body": "A PSSA3 é a ação ordinária da Porto Seguro S.A., listada no segmento Novo Mercado da B3. O controle acionário é privado, com o Itaú Unibanco detendo 43% da PSIUPAR, que por sua vez possui 70% da Porto Seguro S.A. As ações ordinárias (ON) conferem direito a voto em assembleias e preferência nos proventos, enquanto as preferenciais (PN) têm prioridade no recebimento de dividendos e JCP, mas geralmente sem direito a voto. A companhia também possui ações preferenciais, identificadas pelo ticker PSSA4."
+    },
+    {
+      "id": "proventos",
+      "heading": "PSSA3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a PSSA3 distribuiu R$ 2,9995 por ação em 5 pagamentos, resultando em dividend yield de 6,67%. O último pagamento foi de R$ 0,5207 em 24/09/2026. A companhia realiza pagamentos periódicos de proventos aos acionistas. É possível acompanhar o histórico de dividendos e JCP da PSSA3 com data com e data de pagamento, multiplicados pela sua quantidade, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da PSSA3",
+      "body": "A rentabilidade total da PSSA3 com proventos foi de -1,57% em 12 meses, 108,94% em 3 anos, 145,30% em 5 anos e 405,17% em 10 anos, até 30/10/2026. O volume médio negociado por dia nos últimos 3 meses foi de R$ 101,3 milhões. Para comparar esses resultados com o Ibovespa, CDI e outros índices, utilize a ferramenta de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da PSSA3",
+      "body": "A volatilidade anualizada da PSSA3 nos últimos 12 meses é de 27,86%, classificada como nível alto. A maior queda nos últimos 5 anos foi de -27,90%, do pico em 10/11/2021 ao ponto mais baixo em 15/07/2022. O beta de 0,63 indica que a ação tende a acompanhar os movimentos do Ibovespa com menor amplitude. Riscos do setor incluem mudanças regulatórias, variação na sinistralidade e concorrência. Acompanhe a volatilidade e defina pontos de atenção com os [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PSSA3 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, a ação distribuiu R$ 2,9995 por ação em 5 pagamentos, com dividend yield de 6,67%. O último pagamento foi de R$ 0,5207 em 24/09/2026. Acompanhe os detalhes no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre PSSA3 e PSSA4?",
+      "answer": "PSSA3 é a ação ordinária, com direito a voto em assembleias. PSSA4 é a ação preferencial, com prioridade no recebimento de proventos, mas geralmente sem direito a voto. Ambas pertencem à Porto Seguro S.A."
+    },
+    {
+      "question": "Quem controla a Porto Seguro?",
+      "answer": "O controle é privado. O Itaú Unibanco detém 43% da PSIUPAR, que possui 70% da Porto Seguro S.A. Os controladores da Porto Seguro detêm o restante da PSIUPAR."
+    },
+    {
+      "question": "Qual o setor da PSSA3?",
+      "answer": "A PSSA3 é classificada no setor Financeiro, segmento Seguradoras, pela B3. A atividade da companhia é gestão de participações societárias (holding)."
+    },
+    {
+      "question": "PSSA3 é ação de Novo Mercado?",
+      "answer": "Sim. A PSSA3 é listada no segmento Novo Mercado da B3, que exige padrões elevados de governança corporativa e transparência."
+    },
+    {
+      "question": "Qual a rentabilidade da PSSA3 em 5 anos?",
+      "answer": "A rentabilidade total com proventos foi de 145,30% em 5 anos até 30/10/2026. Para comparar com o Ibovespa e outros índices, use a [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Como acompanhar a PSSA3 no app?",
+      "answer": "Você pode monitorar a ação com [alertas de preço](/recursos/alertas-de-preco), acompanhar [dividendos e JCP](/recursos/proventos) e usar o [assistente de IA](/recursos/assistente-de-ia) para perguntas sobre sua carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da PSSA3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da PSSA3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a PSSA3 chegar ao preço que você escolheu, para comprar ou vender."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a PSSA3 junto com suas outras ações, renda fixa e fundos em uma só visão, com alocação e maiores posições."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em PSSA3 e as respostas vêm dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor financeiro, com alta liquidez e presença no Ibovespa."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação do Itaú Unibanco, controlador da PSIUPAR, que detém 70% da Porto Seguro."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor financeiro, com exposição a bancos e seguros."
+      },
+      {
+        "ticker": "BBSE3",
+        "list": "br-stocks",
+        "reason": "Ação de seguradora, no mesmo segmento de PSSA3."
+      },
+      {
+        "ticker": "CXSE3",
+        "list": "br-stocks",
+        "reason": "Outra ação do segmento de seguradoras, para comparação setorial."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PSSA3",
+      "url": "https://finance.yahoo.com/quote/PSSA3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: PORTO SEGURO, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/16659/PSSA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, PORTO SEGURO SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Porto",
+      "url": "https://www.wikidata.org/wiki/Q7232169",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Porto (empresa)",
+      "url": "https://pt.wikipedia.org/wiki/Porto_(empresa)",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/10/2026, “Pedido de Cancelamento de registro de Companhia Aberta - Porto Serviço”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1573987&numSequencia=1098693&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/08/2026, “Modificação de Projeções Divulgadas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1553849&numSequencia=1078555&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 07/05/2026, “Modificação de Projeções Divulgadas”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1517350&numSequencia=1042056&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/05/2026, “Inclusão de outras corretoras como intermediárias da recompra de ações da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1517287&numSequencia=1041993&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/04/2026, “Encerramento das Tratativas Envolvendo Potencial Operação”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1504561&numSequencia=1029267&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/03/2026, “Oncoclínicas - Potencial co-investidor”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1493448&numSequencia=1018154&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 17/03/2026, “Esclarecimentos sobre Notícia Veiculada na Mídia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1491592&numSequencia=1016298&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/02/2026, “Projeções - 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1473415&numSequencia=998121&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

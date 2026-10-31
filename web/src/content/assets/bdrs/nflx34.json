@@ -1,0 +1,289 @@
+{
+  "ticker": "NFLX34",
+  "slug": "nflx34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "NFLX34: BDR da Netflix, histórico e desempenho",
+    "description": "Conheça o NFLX34, BDR da Netflix na B3. Veja histórico, rentabilidade em reais, riscos cambiais e como acompanhar o ativo no app.",
+    "h1": "NFLX34: BDR da Netflix, Inc.",
+    "canonicalPath": "/bdrs/nflx34",
+    "keywords": [
+      "NFLX34",
+      "BDR Netflix",
+      "Netflix B3",
+      "BDR nível I",
+      "ação Netflix Brasil",
+      "NFLX34 dividendos",
+      "volatilidade NFLX34"
+    ]
+  },
+  "summary": "NFLX34 é o BDR nível I da Netflix, Inc., empresa americana de streaming e mídia fundada em 1997. Negociado na B3 desde 2011, o recibo acompanha a ação original NFLX na NASDAQ e o câmbio. Em 29/10/2026, cotava a R$ 6,68, com rentabilidade total de -43,29% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Netflix, Inc.",
+    "legalName": "NETFLIX. INC.",
+    "ticker": "BVMF NFLX34",
+    "foundingDate": "1997-08-29",
+    "website": "https://ir.netflix.net/",
+    "wikidata": "Q116452644",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q116452644",
+      "https://en.wikipedia.org/wiki/Netflix%2C_Inc.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50458/NFLX/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Netflix, Inc.",
+    "legalName": "NETFLIX. INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "29/08/1997",
+    "listedSince": "31/10/2011",
+    "headquarters": "Los Gatos",
+    "website": "https://ir.netflix.net/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "NETFLIX. INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: NFLX",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Los Gatos",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "29/08/1997",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "31/10/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 6,68",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "38,21% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original NFLX em dólares)",
+      "value": "0,22",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 7,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "NFLX34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Netflix, Inc.",
+    "currency": "BRL",
+    "price": 6.68,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.4329,
+      "3y": 0.621,
+      "5y": -0.1433,
+      "10y": 7.3745
+    },
+    "volatility1y": 0.3821,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7808,
+      "from": "2021-10-29",
+      "to": "2022-05-11"
+    },
+    "beta1y": {
+      "value": 0.22,
+      "against": "S&P 500, ação original NFLX em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 7213784
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do NFLX34 nos últimos 12 meses foi de 38,21%, um nível considerado alto para um BDR de tecnologia. O beta da ação original NFLX, contra o S&P 500, é de 0,22, o que indica que, em termos de movimento direcional, a ação costuma variar menos que o índice americano. No entanto, o BDR em reais sofre o efeito do câmbio, o que pode amplificar ou atenuar esses movimentos. A maior queda em 5 anos foi de -78,08%, entre 29/10/2021 e 11/05/2022. Para acompanhar a variação do dia a dia, o [widget na barra de menus](/recursos/widget-da-barra-de-menus) oferece uma visão rápida do gráfico."
+  },
+  "history": {
+    "overview": "A Netflix, Inc. foi fundada em 29 de agosto de 1997 por Reed Hastings e Marc Randolph em Scotts Valley, Califórnia, inicialmente como uma loja de venda e aluguel de DVDs por correio. Em 1999, a empresa adotou o modelo de assinatura mensal ilimitada, eliminando as multas por atraso. A transição para o streaming começou em janeiro de 2007, quando a plataforma lançou o serviço de vídeo sob demanda via internet. Em 2010, a Netflix expandiu para o Canadá e, em seguida, para a América Latina e o Caribe. A produção de conteúdo original começou em 2011, com a série Lilyhammer. A empresa abriu capital na NASDAQ em 29 de maio de 2002 e, em 31 de outubro de 2011, teve seu BDR listado na B3 para permitir que investidores brasileiros acompanhassem a empresa sem precisar de conta no exterior. Em 2026, a Netflix é a maior empresa de entretenimento e mídia por capitalização de mercado, estimada em US$ 450 bilhões, e possui dois CEOs: Greg Peters e Ted Sarandos.",
+    "timeline": [
+      {
+        "date": "1997-08-29",
+        "event": "Fundação da Netflix, Inc. por Reed Hastings e Marc Randolph.",
+        "source": 2
+      },
+      {
+        "date": "2002-05-29",
+        "event": "Abertura de capital (IPO) na NASDAQ sob o ticker NFLX.",
+        "source": 3
+      },
+      {
+        "date": "2007-01",
+        "event": "Lançamento do serviço de streaming e vídeo sob demanda.",
+        "source": 3
+      },
+      {
+        "date": "2010",
+        "event": "Expansão internacional para o Canadá, seguida pela América Latina e Caribe.",
+        "source": 3
+      },
+      {
+        "date": "2011",
+        "event": "Início da aquisição e produção de conteúdo original, começando com a série Lilyhammer.",
+        "source": 3
+      },
+      {
+        "date": "2011-10-31",
+        "event": "Listagem do BDR NFLX34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Netflix, Inc. ganha dinheiro",
+      "body": "A Netflix, Inc. é uma empresa de mídia americana que opera um serviço de vídeo sob demanda por assinatura (over-the-top). A receita vem da cobrança de mensalidades dos assinantes, que têm acesso a um catálogo de programas adquiridos, conteúdo original e material licenciado de terceiros. A empresa possui estúdios de produção em Los Angeles e Albuquerque, além de escritórios internacionais na Ásia, Europa e América Latina. Em 2026, a Netflix é a maior empresa de entretenimento e mídia por capitalização de mercado, estimada em US$ 450 bilhões."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR NFLX34",
+      "body": "O NFLX34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Netflix, Inc. A ação original é a NFLX, listada na NASDAQ. O BDR foi listado na B3 em 31/10/2011. O preço do recibo acompanha a cotação da ação em dólares e a variação do câmbio entre o dólar e o real. Como é um programa não patrocinado, a emissão é feita por uma instituição depositária, sem a participação direta da Netflix na operação."
+    },
+    {
+      "id": "proventos",
+      "heading": "NFLX34 paga dividendos?",
+      "body": "Não houve pagamento de proventos (dividendos ou juros sobre capital próprio) para os detentores do NFLX34 nos últimos 12 meses até 29/10/2026. A Netflix, Inc. não distribui dividendos em sua moeda de origem, o que significa que o BDR também não gera rendimentos periódicos para o investidor brasileiro."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do NFLX34",
+      "body": "Até 29/10/2026, o NFLX34 apresentava rentabilidade total com proventos de -43,29% nos últimos 12 meses, 62,10% em 3 anos, -14,33% em 5 anos e 737,45% em 10 anos. Esses números em reais incluem a variação do câmbio, pois o BDR reflete a ação em dólares. Para acompanhar como o desempenho do BDR se compara a outros ativos, utilize a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do NFLX34",
+      "body": "O principal risco do NFLX34 é o cambial, pois o valor em reais depende da cotação do dólar. A volatilidade anualizada do BDR nos últimos 12 meses foi de 38,21%, classificada como alta. A maior queda em 5 anos foi de -78,08%, entre o pico de 29/10/2021 e o fundo de 11/05/2022. A liquidez também é um fator: o volume médio diário nos últimos 3 meses foi de R$ 7,2 milhões. Para monitorar oscilações bruscas, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "NFLX34 paga dividendos?",
+      "answer": "Não. Não houve pagamento de proventos nos últimos 12 meses até 29/10/2026. A Netflix, Inc. não distribui dividendos em sua moeda de origem, o que reflete diretamente no BDR."
+    },
+    {
+      "question": "Qual a diferença entre NFLX34 e a ação NFLX?",
+      "answer": "A ação NFLX é negociada na NASDAQ em dólares, enquanto o NFLX34 é um BDR negociado na B3 em reais. O preço do BDR acompanha a ação original e a variação do câmbio entre o dólar e o real."
+    },
+    {
+      "question": "O que é um BDR nível I?",
+      "answer": "É um recibo não patrocinado, emitido por uma instituição depositária, que representa ações de uma empresa estrangeira. No caso do NFLX34, a empresa é a Netflix, Inc., e a ação original é a NFLX na NASDAQ."
+    },
+    {
+      "question": "Qual o risco cambial do NFLX34?",
+      "answer": "O risco cambial é o principal fator de variação do BDR, pois o valor em reais depende da cotação do dólar. Se o dólar se valorizar em relação ao real, o BDR tende a subir, mesmo que a ação em dólares caia."
+    },
+    {
+      "question": "Qual a volatilidade do NFLX34?",
+      "answer": "A volatilidade anualizada nos últimos 12 meses foi de 38,21%, nível alto. A maior queda em 5 anos foi de -78,08%, entre 29/10/2021 e 11/05/2022."
+    },
+    {
+      "question": "Como acompanhar o desempenho do NFLX34?",
+      "answer": "O app permite visualizar a rentabilidade e o preço médio de cada ativo. A [carteira consolidada](/recursos/carteira-consolidada) mostra a alocação e as maiores posições, enquanto a [comparação com índices](/recursos/comparacao-com-indices) coloca o BDR lado a lado com o S&P 500 e o CDI."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do NFLX34 lado a lado com o S&P 500 e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o BDR atingir o preço que você escolheu, útil para monitorar oscilações de alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do NFLX34 junto com outras posições em ações, BDRs e renda fixa em uma única visão."
+      },
+      {
+        "feature": "widget-da-barra-de-menus",
+        "anchor": "widget na barra de menus",
+        "context": "Acesse o gráfico do dia e as posições do BDR com um clique na barra de menus do Mac."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia e comércio eletrônico listado na B3, com exposição similar ao câmbio."
+      },
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "BDR de uma das maiores empresas de tecnologia do mundo, útil para comparação de desempenho no setor."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de tecnologia com alta liquidez na B3, comum em carteiras diversificadas de ativos estrangeiros."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta da ação original NFLX."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de NFLX34",
+      "url": "https://finance.yahoo.com/quote/NFLX34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: NETFLIX, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50458/NFLX/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Netflix, Inc.",
+      "url": "https://www.wikidata.org/wiki/Q116452644",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Netflix, Inc.",
+      "url": "https://en.wikipedia.org/wiki/Netflix%2C_Inc.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

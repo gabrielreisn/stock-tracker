@@ -1,0 +1,324 @@
+{
+  "ticker": "TXSA34",
+  "slug": "txsa34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TXSA34: BDR da Ternium, dividendos e risco",
+    "description": "Conheça o BDR TXSA34 da Ternium: empresa siderúrgica, dividendos de 3,94%, volatilidade de 35,39% e risco cambial. Veja desempenho e história.",
+    "h1": "TXSA34: BDR da Ternium S.A.",
+    "canonicalPath": "/bdrs/txsa34",
+    "keywords": [
+      "TXSA34",
+      "BDR Ternium",
+      "Ternium S.A.",
+      "BDR nível I",
+      "dividendos TXSA34",
+      "volatilidade TXSA34",
+      "BDR siderúrgica",
+      "aço Ternium"
+    ]
+  },
+  "summary": "TXSA34 é o BDR não patrocinado de nível I da Ternium S.A., empresa siderúrgica sediada em Buenos Aires que produz aço plano e longo. A ação original (TX) é negociada na Bolsa de Valores de Nova Iorque. Em 30/10/2026, o BDR cotava a R$ 286,52, com rentabilidade total de 59,79% nos últimos 12 meses, refletindo a variação do câmbio e os proventos da empresa.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Ternium",
+    "legalName": "TERNIUM SA",
+    "ticker": "BVMF TXSA34",
+    "foundingDate": "2005",
+    "website": "https://ternium.com",
+    "wikidata": "Q918208",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q918208",
+      "https://en.wikipedia.org/wiki/Ternium",
+      "https://pt.wikipedia.org/wiki/Ternium",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52540/TXSA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Ternium",
+    "legalName": "TERNIUM SA",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2005",
+    "listedSince": "27/08/2019",
+    "headquarters": "Buenos Aires",
+    "website": "https://ternium.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "TERNIUM SA",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: TX",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Buenos Aires",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2005",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "27/08/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 286,52",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "35,39% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "3,94%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 644.572,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TXSA34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Ternium S.A.",
+    "currency": "BRL",
+    "price": 286.52,
+    "historyStarts": "2019-10-23",
+    "returns": {
+      "1y": 0.5979,
+      "3y": 0.9121,
+      "5y": 0.5334,
+      "10y": null
+    },
+    "volatility1y": 0.3539,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4597,
+      "from": "2022-01-06",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 11.2884,
+      "payments12Months": 2,
+      "yield12Months": 0.0394,
+      "lastPayment": {
+        "date": "2026-05-13",
+        "amount": 6.50923
+      }
+    },
+    "avgDailyTradedValue3m": 644572
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do TXSA34 foi de 35,39% nos 12 meses até 30/10/2026, um nível considerado alto para um ativo de renda variável. A maior queda em 5 anos foi de -45,97%, ocorrida entre 06/01/2022 e 03/11/2022. O beta não está disponível para este ativo no dossiê, mas a alta volatilidade sugere que o BDR tende a ter movimentos de preço mais amplos que a média do mercado. Para quem deseja acompanhar esses movimentos de perto, o [widget na barra de menus](/recursos/widget-da-barra-de-menus) permite visualizar o gráfico do dia e as posições com um clique, facilitando a gestão da carteira em tempo real."
+  },
+  "history": {
+    "overview": "A Ternium S.A. foi fundada em 2005 a partir da consolidação de três empresas: a Siderar (Argentina), a SIDOR (Venezuela) e a Hylsa (México). O nome faz referência à integração dessas três siderúrgicas. Em 2006, a empresa foi listada na Bolsa de Valores de Nova Iorque. Em 2007, adquiriu o Grupo IMSA, expandindo operações para Guatemala e Estados Unidos. Em 2008, a SIDOR foi nacionalizada pelo governo venezuelano após greves, e em 2009 a Ternium recebeu US$ 1,65 bilhão pela sua participação de 59,7% no ativo. A empresa continuou sua expansão na América Latina, adquirindo a Ferrasa (Colômbia) em 2010 e a CSA Siderúrgica do Atlântico (Brasil) em 2017, que passou a ser chamada de Ternium Brazil. Em 2023, aumentou sua participação na Usiminas para 51,5%. O BDR TXSA34 foi listado na B3 em 27/08/2019, permitindo que investidores brasileiros acompanhem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "2005",
+        "event": "Fundação da Ternium a partir da consolidação de Siderar, SIDOR e Hylsa",
+        "source": 2
+      },
+      {
+        "date": "2006",
+        "event": "Listagem da ação original na Bolsa de Valores de Nova Iorque",
+        "source": 3
+      },
+      {
+        "date": "2007",
+        "event": "Aquisição do Grupo IMSA, expandindo operações para Guatemala e EUA",
+        "source": 3
+      },
+      {
+        "date": "2008-04",
+        "event": "Nacionalização da SIDOR pelo governo venezuelano",
+        "source": 3
+      },
+      {
+        "date": "2009-05",
+        "event": "Pagamento de US$ 1,65 bilhão pela participação na SIDOR",
+        "source": 3
+      },
+      {
+        "date": "2010-08",
+        "event": "Aquisição de 54% da Ferrasa (Colômbia)",
+        "source": 3
+      },
+      {
+        "date": "2015-04",
+        "event": "Aquisição do restante da Ferrasa, renomeada para Ternium Colombia",
+        "source": 3
+      },
+      {
+        "date": "2017",
+        "event": "Aquisição da CSA Siderúrgica do Atlântico por €1,4 bilhão, renomeada para Ternium Brazil",
+        "source": 3
+      },
+      {
+        "date": "2019-08-27",
+        "event": "Listagem do BDR TXSA34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2023-07",
+        "event": "Aumento da participação na Usiminas para 51,5%",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Ternium ganha dinheiro",
+      "body": "A Ternium S.A. é uma fabricante de produtos de aço plano e longo, com centros de produção na Argentina, Brasil, México, Guatemala, Colômbia e Estados Unidos. A empresa possui capacidade anual de produção de 15,4 milhões de toneladas e detém 51,5% da Usiminas, no Brasil. Em 2023, 55% das vendas vieram do México, 21% da Argentina e países vizinhos, 13% do Brasil e 11% dos Estados Unidos, Colômbia e América Central. A companhia pertence ao conglomerado italo-argentino Techint, que controla a maior parte do capital, enquanto cerca de 21% é de livre negociação."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR TXSA34",
+      "body": "O TXSA34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Ternium S.A. A ação original é a TX, listada na Bolsa de Valores de Nova Iorque. O preço do BDR acompanha a cotação da ação nos Estados Unidos e a variação do câmbio entre o dólar e o real. O BDR foi listado na B3 em 27/08/2019. Por ser não patrocinado, a empresa não participa ativamente da emissão, e os direitos dos investidores são limitados em comparação com BDRs patrocinados."
+    },
+    {
+      "id": "proventos",
+      "heading": "TXSA34 paga dividendos?",
+      "body": "Sim, o TXSA34 paga proventos. Nos 12 meses até 30/10/2026, foram distribuídos R$ 11,2884 por BDR em 2 pagamentos, resultando em um dividend yield de 3,94%. O último pagamento foi de R$ 6,5092 em 13/05/2026. Como a Ternium é uma empresa estrangeira, os dividendos são pagos na moeda local (dólar) e convertidos para reais no momento do recebimento, o que introduz risco cambial no valor final recebido pelo investidor brasileiro. É possível acompanhar o histórico de [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para verificar a constância e o valor desses pagamentos."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do TXSA34",
+      "body": "Em 30/10/2026, o TXSA34 apresentava rentabilidade total de 59,79% nos últimos 12 meses, 91,21% em 3 anos e 53,34% em 5 anos. Esses números incluem a variação do preço da ação, os proventos recebidos e a variação do câmbio entre o dólar e o real. Como o BDR é lastreado em uma ação americana, a performance em reais reflete diretamente a oscilação da moeda. Para entender melhor como esse resultado se compara com outros investimentos, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que permite medir a rentabilidade ao lado do S&P 500, CDI e Ibovespa."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do TXSA34",
+      "body": "O principal risco do TXSA34 é o cambial, pois o valor em reais depende da cotação do dólar. A volatilidade anualizada do BDR foi de 35,39% nos 12 meses até 30/10/2026, classificada como alta. A maior queda em 5 anos foi de -45,97%, entre 06/01/2022 e 03/11/2022. A liquidez é um fator a ser observado, com volume médio diário de R$ 644.572,00 nos últimos 3 meses. Além disso, a empresa opera em múltiplos países, o que expõe o investidor a riscos regulatórios e políticos locais, como a nacionalização de ativos na Venezuela no passado. Para monitorar oscilações, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o BDR TXSA34?",
+      "answer": "O TXSA34 é um BDR não patrocinado de nível I que representa ações da Ternium S.A., uma empresa siderúrgica sediada na Argentina. A ação original é a TX, negociada na Bolsa de Valores de Nova Iorque. O BDR permite que investidores brasileiros comprem a empresa em reais na B3, desde 27/08/2019."
+    },
+    {
+      "question": "TXSA34 paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, o BDR distribuiu R$ 11,2884 por unidade em 2 pagamentos, com um dividend yield de 3,94%. O último pagamento foi de R$ 6,5092 em 13/05/2026. Os valores são convertidos de dólar para real, o que introduz risco cambial no recebimento."
+    },
+    {
+      "question": "Qual o risco cambial do TXSA34?",
+      "answer": "O risco cambial é o principal fator de risco do BDR, pois o preço em reais depende da cotação do dólar. Se o dólar cair frente ao real, o valor do BDR tende a cair, mesmo que a ação nos EUA suba. A volatilidade de 35,39% nos últimos 12 meses reflete essa sensibilidade. É possível acompanhar a variação do câmbio e o desempenho do ativo na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Onde a Ternium opera?",
+      "answer": "A Ternium possui centros de produção na Argentina, Brasil, México, Guatemala, Colômbia e Estados Unidos. Em 2023, 55% das vendas vieram do México, 21% da Argentina e países vizinhos, 13% do Brasil e 11% dos EUA, Colômbia e América Central. A empresa detém 51,5% da Usiminas, no Brasil."
+    },
+    {
+      "question": "Qual a liquidez do TXSA34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses foi de R$ 644.572,00. Essa liquidez é moderada, o que pode impactar a execução de ordens de compra e venda em grandes volumes. Para monitorar a cotação e definir pontos de entrada ou saída, utilize os [alertas de preço](/recursos/alertas-de-preco) do app."
+    },
+    {
+      "question": "Como o TXSA34 se compara com o S&P 500?",
+      "answer": "A rentabilidade do TXSA34 em reais reflete a performance da Ternium nos EUA e a variação do câmbio. Para comparar diretamente com o S&P 500, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade do BDR lado a lado com o índice americano, o CDI e o Ibovespa, ajudando a entender o desempenho relativo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja o histórico de proventos do TXSA34 com data de pagamento e valor, multiplicado pela sua quantidade na carteira."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Meça a rentabilidade do BDR ao lado do S&P 500, CDI e Ibovespa no mesmo gráfico, para entender o desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o TXSA34 chegar ao preço que você escolheu, útil para acompanhar a alta volatilidade do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o TXSA34 junto com outras ações, BDRs e fundos em uma só visão, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Outro ativo do setor de mineração e siderurgia no Brasil, para comparação de desempenho no mercado local."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparar o desempenho do BDR com o mercado americano, já que a Ternium é listada nos EUA."
+      },
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "Outro BDR de nível I negociado na B3, para comparação de liquidez e dinâmica de BDRs não patrocinados."
+      },
+      {
+        "ticker": "ROXO34",
+        "list": "bdrs",
+        "reason": "BDR de nível I de uma empresa brasileira listada no exterior, para comparação de estrutura e risco cambial."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TXSA34",
+      "url": "https://finance.yahoo.com/quote/TXSA34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: TERNIUMSA, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52540/TXSA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Ternium",
+      "url": "https://www.wikidata.org/wiki/Q918208",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Ternium",
+      "url": "https://en.wikipedia.org/wiki/Ternium",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Ternium",
+      "url": "https://pt.wikipedia.org/wiki/Ternium",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

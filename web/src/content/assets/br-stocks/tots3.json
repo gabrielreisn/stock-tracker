@@ -1,0 +1,407 @@
+{
+  "ticker": "TOTS3",
+  "slug": "tots3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "TOTS3: história, dividendos e volatilidade",
+    "description": "TOTS3 é a ação ordinária da TOTVS, líder em software de gestão no Brasil. Veja rentabilidade, dividendos, volatilidade de 44,19% e a história da empresa",
+    "h1": "TOTS3: Ação Ordinária da TOTVS S.A.",
+    "canonicalPath": "/acoes/tots3",
+    "keywords": [
+      "TOTS3",
+      "TOTVS",
+      "ação TOTVS",
+      "dividendos TOTS3",
+      "volatilidade TOTS3",
+      "software gestão empresarial",
+      "Novo Mercado B3",
+      "TOTS3 história"
+    ]
+  },
+  "summary": "TOTS3 é a ação ordinária da TOTVS S.A., empresa brasileira de software com sede em São Paulo e foco em soluções de gestão empresarial. A companhia, que atua no segmento de Programas e Serviços, detém mais de 55% de participação de mercado no Brasil. Em 30/10/2026, a ação estava cotada a R$ 32,06, com rentabilidade total de -25,27% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "TOTVS",
+    "legalName": "TOTVS S.A",
+    "ticker": "BVMF TOTS3",
+    "isin": "BRTOTSACNOR8",
+    "taxId": "53.113.791/0001-22",
+    "foundingDate": "1983-01-01",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.totvs.com.br",
+    "wikidata": "Q20823075",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q20823075",
+      "https://pt.wikipedia.org/wiki/Totvs",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19992/TOTS/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "TOTVS",
+    "legalName": "TOTVS S.A",
+    "type": "Ação ordinária (ON)",
+    "sector": "Tecnologia da Informação",
+    "segment": "Programas e Serviços",
+    "founded": "01/01/1983",
+    "listedSince": "09/03/2006",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.totvs.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "TOTVS S.A",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "53.113.791/0001-22",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Tecnologia da Informação / Programas e Serviços",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "01/01/1983",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "09/03/2006",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "TOTS3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 32,06",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "44,19% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,94",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,12%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "TOTS3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "TOTVS S.A.",
+    "currency": "BRL",
+    "price": 32.06,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.2527,
+      "3y": 0.3464,
+      "5y": 0.0459,
+      "10y": 2.8007
+    },
+    "volatility1y": 0.4419,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4297,
+      "from": "2025-11-14",
+      "to": "2026-07-23"
+    },
+    "beta1y": {
+      "value": 0.94,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.68,
+      "payments12Months": 4,
+      "yield12Months": 0.0212,
+      "lastPayment": {
+        "date": "2026-09-24",
+        "amount": 0.15
+      }
+    },
+    "avgDailyTradedValue3m": 194575234
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada da TOTS3 foi de 44,19% nos 12 meses até 30/10/2026, nível classificado como 'muito alta'. O beta de 0,94 contra o Ibovespa mostra que a ação costuma se mover na mesma direção do índice, mas com amplitude 6% menor. A maior queda em 5 anos foi de -42,97%, entre 14/11/2025 e 23/07/2026. Para ações de tecnologia, essa volatilidade reflete a sensibilidade a mudanças no ciclo de investimentos em software e em eventos corporativos, como aquisições e reestruturações. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar esses movimentos."
+  },
+  "history": {
+    "overview": "A origem da TOTVS remonta a 1969, quando Ernesto Mário Haberkorn fundou a SIGA, um bureau de serviços de informática. Em 1983, Laércio Cosentino, que havia ingressado na SIGA como estagiário em 1978, fundou a Microsiga Software S.A. com Haberkorn, focando em softwares de gestão para microcomputadores. A empresa expandiu-se nacionalmente a partir de 1990 por meio de um modelo de franquias pioneiro no setor de tecnologia, o 'Tratado de Tordesilhas', e iniciou sua internacionalização em 1997 com a abertura de filial na Argentina. Em 1998, lançou o sistema Protheus, e em 1999 recebeu o fundo de private equity Advent International, que adquiriu 25% do capital. Em 2005, a Microsiga fundiu-se com a Logocenter e foi renomeada para TOTVS, inspirada na frase 'Totvs tuus'. Em 2006, a empresa realizou seu IPO na B3, tornando-se a primeira do setor de tecnologia da informação da América Latina a abrir capital, e iniciou uma série de aquisições, incluindo RM Sistemas e Datasul no mesmo ano. Em 2010, a TOTVS alcançou o status de 'unicórnio' ao atingir valor de mercado de US$ 1 bilhão, e em 2012 inaugurou o TOTVS Labs no Vale do Silício. Nos últimos anos, a companhia tem focado em inteligência artificial, com o lançamento do LYNN em 2026, e em reestruturação de portfólio, como a venda da Dimensa e a aquisição da Linx.",
+    "timeline": [
+      {
+        "date": "1983",
+        "event": "Fundação da Microsiga Software S.A. por Laércio Cosentino e Ernesto Mário Haberkorn.",
+        "source": 3
+      },
+      {
+        "date": "1983-01-01",
+        "event": "Constituição da companhia TOTVS S.A. (antiga Microsiga) no registro da CVM.",
+        "source": 2
+      },
+      {
+        "date": "2006-03-07",
+        "event": "Registro da TOTVS como companhia aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2006-03-09",
+        "event": "Início da cotação das ações da TOTVS na B3, com IPO que arrecadou R$ 460 milhões.",
+        "source": 1
+      },
+      {
+        "date": "2025-07-22",
+        "event": "Aquisição da Linx pela TOTVS.",
+        "source": 12
+      },
+      {
+        "date": "2026-01-06",
+        "event": "Realização da 6ª emissão de debêntures simples não conversíveis em ações.",
+        "source": 11
+      },
+      {
+        "date": "2026-02-02",
+        "event": "Venda da Dimensa S.A. pela TOTVS.",
+        "source": 10
+      },
+      {
+        "date": "2026-02-11",
+        "event": "Lançamento do LYNN, Foundation de AI da TOTVS.",
+        "source": 8
+      },
+      {
+        "date": "2026-02-11",
+        "event": "Início de um programa de recompra de ações de emissão da própria companhia.",
+        "source": 9
+      },
+      {
+        "date": "2026-06-09",
+        "event": "Pagamento de Juros sobre Capital Próprio (JCP).",
+        "source": 7
+      },
+      {
+        "date": "2026-08-04",
+        "event": "Novo programa de recompra de ações de emissão da própria companhia.",
+        "source": 6
+      },
+      {
+        "date": "2026-08-13",
+        "event": "Realização da 7ª emissão de debêntures simples não conversíveis em ações.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a TOTVS ganha dinheiro",
+      "body": "A TOTVS S.A. atua na prestação de serviços de consultoria, assessoria e desenvolvimento de sistemas informatizados, com foco em soluções de software para gestão empresarial. A empresa atende a mais de 70 mil clientes em 12 segmentos da economia brasileira, incluindo agropecuária, logística, manufatura, varejo e serviços financeiros. Segundo a Fundação Getúlio Vargas (FGV), a companhia é reconhecida como líder no mercado de software de gestão no Brasil, com mais de 55% de participação de mercado. A receita vem de soluções que vão além do ERP, incluindo serviços financeiros e desempenho empresarial, com investimentos de R$ 3 bilhões em pesquisa e desenvolvimento nos últimos cinco anos. A empresa possui unidades na Argentina, Colômbia, Chile, México e na Europa, além de centros de desenvolvimento no Brasil, México e Estados Unidos."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da TOTVS",
+      "body": "A TOTVS S.A. tem controle acionário privado, conforme o cadastro na CVM. A ação TOTS3 é uma ação ordinária (ON), o que significa que o titular tem direito a voto nas assembleias gerais da companhia. A empresa está listada no segmento de governança Novo Mercado da B3, que impõe regras de transparência e igualdade entre acionistas. O código de negociação é TOTS3, e a cotação na bolsa começou em 09/03/2006. Ações ordinárias e preferenciais diferem no direito a voto e na prioridade de recebimento de proventos, mas a TOTS3 é exclusivamente ordinária."
+    },
+    {
+      "id": "proventos",
+      "heading": "TOTS3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a TOTS3 distribuiu R$ 0,6800 por ação em 4 pagamentos, resultando em um dividend yield de 2,12%. O último pagamento foi de R$ 0,1500 em 24/09/2026. A companhia também realizou pagamento de Juros sobre Capital Próprio (JCP) em 09/06/2026. É possível acompanhar a data com e a data de pagamento dos proventos no app, multiplicados pela quantidade de ações na carteira, através do recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da TOTS3",
+      "body": "A TOTS3 apresentou rentabilidade total com proventos de -25,27% nos 12 meses até 30/10/2026, 34,64% em 3 anos, 4,59% em 5 anos e 280,07% em 10 anos. O preço em 30/10/2026 era de R$ 32,06. Para comparar esse desempenho com índices de referência, o app oferece a [comparação com índices](/recursos/comparacao-com-indices), que mostra a rentabilidade lado a lado com o Ibovespa, CDI e outros benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da TOTS3",
+      "body": "A volatilidade anualizada da TOTS3 nos 12 meses até 30/10/2026 foi de 44,19%, classificada como 'muito alta'. A maior queda nos últimos 5 anos foi de -42,97%, do pico em 14/11/2025 ao ponto mais baixo em 23/07/2026. O beta de 0,94 contra o Ibovespa indica que a ação tende a acompanhar os movimentos do índice com amplitude ligeiramente menor. Riscos setoriais incluem a dependência de investimentos em P&D e a concorrência no mercado de software. A volatilidade e a queda acentuada podem ser monitoradas com [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "TOTS3 paga dividendos?",
+      "answer": "Sim, a TOTS3 distribui proventos. Nos 12 meses até 30/10/2026, foram pagos R$ 0,6800 por ação em 4 pagamentos, com dividend yield de 2,12%. O último pagamento foi de R$ 0,1500 em 24/09/2026. A companhia também paga JCP, como o realizado em 09/06/2026. Veja os detalhes no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre TOTS3 e TOTS4?",
+      "answer": "TOTS3 é a ação ordinária (ON) da TOTVS, que dá direito a voto nas assembleias. TOTS4 é a ação preferencial (PN), que geralmente tem prioridade no recebimento de dividendos, mas sem direito a voto. A TOTS3 é a única classe listada na B3 para a TOTVS, conforme os dados da bolsa."
+    },
+    {
+      "question": "O que a TOTVS faz?",
+      "answer": "A TOTVS é uma empresa brasileira de software que oferece soluções de gestão empresarial, incluindo ERPs e serviços financeiros. Atende mais de 70 mil clientes em 12 segmentos da economia e detém mais de 55% de participação de mercado no Brasil, segundo a FGV. A empresa também atua em serviços de desempenho empresarial e tem operações na América Latina e Europa."
+    },
+    {
+      "question": "Qual a rentabilidade da TOTS3 nos últimos 12 meses?",
+      "answer": "A rentabilidade total com proventos da TOTS3 foi de -25,27% nos 12 meses até 30/10/2026. Em 3 anos, foi de 34,64%, e em 10 anos, de 280,07%. Esses números podem ser comparados com o Ibovespa e o CDI no recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "A TOTS3 tem ações preferenciais?",
+      "answer": "Não, a TOTVS S.A. possui apenas ações ordinárias (TOTS3). A empresa está listada no segmento Novo Mercado da B3, e o código de negociação é exclusivamente TOTS3, conforme os dados da bolsa e da CVM."
+    },
+    {
+      "question": "Como acompanhar a TOTS3 na carteira?",
+      "answer": "O app permite acompanhar a TOTS3 com o recurso de [carteira consolidada](/recursos/carteira-consolidada), que mostra a posição ao lado de outros ativos, e o [desempenho e preço médio](/recursos/desempenho-e-preco-medio), que exibe a rentabilidade e o custo da posição. É possível também usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a posição em português."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da TOTS3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da TOTS3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a TOTS3 chegar ao preço que você escolheu, útil para acompanhar a volatilidade de 44,19%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a TOTS3 ao lado de outras ações, fundos e renda fixa, com alocação e maiores posições em uma só visão."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em TOTS3 e receba respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "B3SA3",
+        "list": "br-stocks",
+        "reason": "B3 S.A. é a bolsa de valores onde a TOTS3 é negociada, e ambas são empresas de infraestrutura de mercado financeiro."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "PETR4 é a ação preferencial da Petrobras, um dos maiores pesos do Ibovespa, útil para comparação de volatilidade e beta."
+      },
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "VALE3 é a ação ordinária da Vale, outra grande empresa brasileira listada no Ibovespa, para comparação de desempenho setorial."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "ITUB4 é a ação preferencial do Itaú Unibanco, um dos maiores bancos do Brasil, para comparação de dividend yield e governança."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de TOTS3",
+      "url": "https://finance.yahoo.com/quote/TOTS3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: TOTVS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19992/TOTS/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, TOTVS S.A",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: TOTVS",
+      "url": "https://www.wikidata.org/wiki/Q20823075",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Totvs",
+      "url": "https://pt.wikipedia.org/wiki/Totvs",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/08/2026, “7ª (sétima) emissão de debêntures simples não conversíveis em ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1557276&numSequencia=1081982&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/08/2026, “Programa de Recompra de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1551976&numSequencia=1076682&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/06/2026, “Pagamento de Juros sobre Capital Próprio”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1532516&numSequencia=1057222&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/02/2026, “Lançamento do LYNN (Foundation de AI)”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1476560&numSequencia=1001266&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 11/02/2026, “Programa de Recompra de Ações de Emissão da Própria Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1476742&numSequencia=1001448&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/02/2026, “Venda da Dimensa S.A.”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1472146&numSequencia=996852&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 06/01/2026, “6ª (sexta) Emissão de Debêntures Simples Não Conversíveis em Ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1464337&numSequencia=989043&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 22/07/2025, “Aquisição da Linx”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1402653&numSequencia=927365&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

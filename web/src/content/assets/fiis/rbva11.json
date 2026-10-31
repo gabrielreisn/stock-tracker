@@ -1,0 +1,317 @@
+{
+  "ticker": "RBVA11",
+  "slug": "rbva11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RBVA11: história, rendimentos e volatilidade",
+    "description": "Conheça o RBVA11, FII de varejo da Rio Bravo com R$ 1,76 bi em patrimônio. Veja rendimentos, estratégia, riscos e desempenho até 29/10/2026.",
+    "h1": "RBVA11: Rio Bravo Renda Varejo FII",
+    "canonicalPath": "/fiis/rbva11",
+    "keywords": [
+      "RBVA11",
+      "Rio Bravo Renda Varejo FII",
+      "FII de varejo",
+      "dividend yield RBVA11",
+      "volatilidade RBVA11",
+      "patrimônio RBVA11",
+      "cotistas RBVA11",
+      "formador de mercado RBVA11"
+    ]
+  },
+  "summary": "RBVA11 é a cota do Rio Bravo Renda Varejo Fundo de Investimento Imobiliário, um fundo de gestão ativa focado em imóveis de varejo de rua. Com patrimônio de R$ 1,76 bilhão em 09/2026, o fundo distribuiu R$ 0,99 por cota nos últimos 12 meses, resultando em um dividend yield de 12,16%. A carteira possui 74 imóveis e 28 inquilinos, com vacância física de 9,7%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Rio Bravo Renda Varejo Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "RIO BRAVO RENDA VAREJO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF RBVA11",
+    "isin": "BRRBVACTF006",
+    "taxId": "15.576.907/0001-70",
+    "foundingDate": "2012-11-01",
+    "provider": {
+      "name": "RIO BRAVO INVESTIMENTOS DTVM LTDA",
+      "url": "https://www.riobravo.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=15576907000170"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, varejo",
+    "issuerOrManager": "Rio Bravo Investimentos Ltda (gestora) e Rio Bravo Investimentos DTVM Ltda (administradora/escrituradora)",
+    "name": "Rio Bravo Renda Varejo Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "RIO BRAVO RENDA VAREJO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Varejo",
+    "founded": "01/11/2012",
+    "administrator": "RIO BRAVO INVESTIMENTOS DTVM LTDA",
+    "website": "https://www.riobravo.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "RIO BRAVO RENDA VAREJO FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "15.576.907/0001-70",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Varejo",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "RIO BRAVO INVESTIMENTOS DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "01/11/2012",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,76 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "96.470",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 10,64",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 8,14",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "14,30% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,26",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "12,16%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RBVA11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Fundo Invest Imobiliario Agencias Caixa - FII Fund",
+    "currency": "BRL",
+    "price": 8.14,
+    "historyStarts": "2019-05-02",
+    "returns": {
+      "1y": -0.06,
+      "3y": 0.0198,
+      "5y": 0.3633,
+      "10y": null
+    },
+    "volatility1y": 0.143,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2592,
+      "from": "2024-04-29",
+      "to": "2025-02-13"
+    },
+    "beta1y": {
+      "value": 0.26,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.99,
+      "payments12Months": 11,
+      "yield12Months": 0.1216,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.09
+      }
+    },
+    "avgDailyTradedValue3m": 2028452
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do RBVA11 nos 12 meses até 29/10/2026 foi de 14,30%, classificada como de nível baixo. A maior queda em 5 anos foi de -25,92%, entre 29/04/2024 e 13/02/2025. Para FIIs de varejo, essa volatilidade é considerada moderada, refletindo a sensibilidade do setor a mudanças no consumo e na economia. O [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app permite analisar a trajetória de preço e a volatilidade ao longo do tempo."
+  },
+  "history": {
+    "overview": "O Rio Bravo Renda Varejo FII (RBVA11) iniciou suas atividades em 01/11/2012, com o objetivo de gerar renda a partir da locação de imóveis voltados para o segmento de varejo. A estratégia do fundo é de gestão ativa, focada na construção de um portfólio diversificado de imóveis de rua, com ênfase em localizações exclusivas e adaptabilidade às tendências do mercado varejista. A gestão também atua na reciclagem do portfólio, realizando vendas estratégicas de ativos para extrair valor e reinvestir em oportunidades mais atrativas. Em 2023, o fundo realizou uma oferta pública de cotas, iniciada em 25/09/2023 e encerrada em 22/12/2023, seguida por outra em 2024, entre 28/08 e 14/10, e uma terceira em 2026, entre 06/01 e 29/05. Essas emissões ampliaram a base de cotistas, que chegou a 96.470 em 09/2026. A gestão tem trabalhado ativamente na comercialização de áreas vagas, com negociações em diferentes estágios, e na desocupação de imóveis, como o de Fortaleza, devolvido pelo Santander em 15/09/2026. Em 16/09/2026, o fundo contratou a Suno Desenvolvimento Ltda. como formadora de mercado, visando aumentar a liquidez das cotas na B3.",
+    "timeline": [
+      {
+        "date": "2012-11-01",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2023-09-25",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2023-12-22",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do RBVA11",
+      "body": "O RBVA11 é um fundo de investimento imobiliário de gestão ativa, focado no segmento de varejo de rua. A gestora é a Rio Bravo Investimentos Ltda., e a administradora e escrituradora é a Rio Bravo Investimentos DTVM Ltda. O objetivo do fundo é a geração de renda de longo prazo por meio da locação de imóveis, com uma estratégia que inclui a construção de um portfólio diversificado, vendas estratégicas de ativos e a adaptação dos imóveis às tendências do varejo. Em 09/2026, a carteira possuía 74 imóveis, com 299.783 m² de área bruta locável (ABL) e 28 inquilinos, com vacância física de 9,7%."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do RBVA11",
+      "body": "Nos 12 meses até 29/10/2026, o RBVA11 distribuiu R$ 0,99 por cota em 11 pagamentos, resultando em um dividend yield de 12,16%. O último pagamento foi de R$ 0,09 em 01/10/2026. O relatório gerencial de 09/2026 indica um dividend yield anualizado de 12,1%. A tributação dos rendimentos de FIIs não é mencionada nas fontes do dossiê. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos), que mostram as datas de pagamento e multiplicam os valores pela quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O RBVA11 realizou três ofertas públicas de cotas encerradas, conforme o FNET da B3. A primeira foi de 25/09/2023 a 22/12/2023, a segunda de 28/08/2024 a 14/10/2024, e a terceira de 06/01/2026 a 29/05/2026. Em 09/2026, o patrimônio líquido do fundo era de R$ 1,76 bilhão, com 165.268.143 cotas emitidas e 96.470 cotistas. O valor patrimonial da cota era de R$ 10,64. A taxa de administração no mês era de 0,045% sobre o patrimônio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RBVA11",
+      "body": "A rentabilidade total do RBVA11, com proventos, foi de -6,00% nos 12 meses até 29/10/2026, 1,98% em 3 anos e 36,33% em 5 anos. O fundo pode ser comparado com o IFIX, o índice de referência para FIIs, e com o CDI, que mede a taxa de juros de curto prazo no Brasil. A [comparação com índices](/recursos/comparacao-com-indices) no app permite visualizar a rentabilidade do RBVA11 lado a lado com esses indicadores."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RBVA11",
+      "body": "Os principais riscos do RBVA11 incluem a vacância física, que era de 9,7% em 09/2026, e a dependência do desempenho do setor de varejo. A volatilidade anualizada do fundo nos 12 meses até 29/10/2026 foi de 14,30%, considerada de nível baixo. O beta contra o Ibovespa foi de 0,26, indicando que o fundo tende a ter movimentos menores que os do índice. A maior queda em 5 anos foi de -25,92%, do pico em 29/04/2024 ao ponto mais baixo em 13/02/2025. É possível configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar a volatilidade do ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RBVA11 paga dividendos?",
+      "answer": "Sim, o RBVA11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 0,99 por cota em 11 pagamentos, com o último de R$ 0,09 em 01/10/2026. O dividend yield anualizado era de 12,1% em 09/2026. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre RBVA11 e outros FIIs de varejo?",
+      "answer": "O RBVA11 é um FII de gestão ativa focado em varejo de rua, com 74 imóveis e 28 inquilinos em 09/2026. Diferente de FIIs de shoppings ou logística, o RBVA11 tem uma estratégia de reciclagem de portfólio, com vendas de ativos e realocação de recursos. Outros FIIs de varejo, como [XPML11](/fiis/xpml11) e [PMLL11](/fiis/pmll11), também atuam no segmento, mas com estratégias e portfólios distintos."
+    },
+    {
+      "question": "RBVA11 é um FII de papel ou de tijolo?",
+      "answer": "O RBVA11 é um FII de tijolo, focado em imóveis de varejo de rua. A carteira é composta por 74 imóveis, com 299.783 m² de ABL em 09/2026. O fundo não investe em CRIs ou outros papéis de crédito imobiliário, mas em ativos físicos locados a inquilinos do setor de varejo."
+    },
+    {
+      "question": "Qual a taxa de administração do RBVA11?",
+      "answer": "A taxa de administração do RBVA11 é de 0,651% ao ano sobre o valor de mercado, com um mínimo mensal de R$ 64.170,04, reajustado anualmente pelo IGP-M. Em 09/2026, a taxa mensal foi de 0,045% sobre o patrimônio."
+    },
+    {
+      "question": "Quantos cotistas tem o RBVA11?",
+      "answer": "Em 09/2026, o RBVA11 tinha 96.470 cotistas e 165.268.143 cotas emitidas. O patrimônio líquido era de R$ 1,76 bilhão, com valor patrimonial da cota de R$ 10,64."
+    },
+    {
+      "question": "O RBVA11 tem formador de mercado?",
+      "answer": "Sim, em 16/09/2026, o fundo contratou a Suno Desenvolvimento Ltda. como formadora de mercado, com o objetivo de aumentar a liquidez das cotas na B3 e melhorar a formação de preço no mercado secundário."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do RBVA11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do RBVA11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o RBVA11 atingir o preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o RBVA11 junto com seus outros ativos, com alocação por classe e valor de mercado."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "RCRB11",
+        "list": "fiis",
+        "reason": "Outro FII da Rio Bravo, focado em lajes corporativas, para diversificação dentro da mesma gestora."
+      },
+      {
+        "ticker": "TRBL11",
+        "list": "fiis",
+        "reason": "FII de logística da Rio Bravo, com presença em regiões metropolitanas, para comparação entre segmentos imobiliários."
+      },
+      {
+        "ticker": "XPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings da XP, para comparação com outros fundos de varejo."
+      },
+      {
+        "ticker": "PMLL11",
+        "list": "fiis",
+        "reason": "FII de shoppings da Patria, para comparação com outros fundos de varejo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RBVA11",
+      "url": "https://finance.yahoo.com/quote/RBVA11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do RIO BRAVO RENDA VAREJO FII DE RESPONSABILIDADE LIMITADA (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo RBVA11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=15576907000170",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do RBVA11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356195",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBVA11, 16/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1322342",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do RBVA11, 29/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1231782",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

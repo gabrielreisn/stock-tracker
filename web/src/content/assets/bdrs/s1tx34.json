@@ -1,0 +1,312 @@
+{
+  "ticker": "S1TX34",
+  "slug": "s1tx34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "S1TX34: BDR da Seagate Technology",
+    "description": "Conheça o S1TX34, BDR da Seagate Technology na B3. Veja desempenho, dividendos, riscos e como acompanhar o ativo no app.",
+    "h1": "S1TX34: BDR da Seagate Technology",
+    "canonicalPath": "/bdrs/s1tx34",
+    "keywords": [
+      "S1TX34",
+      "Seagate Technology BDR",
+      "BDR nível I",
+      "STX",
+      "dividendos S1TX34",
+      "volatilidade S1TX34"
+    ]
+  },
+  "summary": "S1TX34 é o BDR nível I da Seagate Technology Holdings plc, empresa global de armazenamento de dados que fabrica discos rígidos (HDDs). Negociado na B3 desde 12/11/2019, o recibo em reais acompanha a ação original STX, listada na NASDAQ, e a variação do câmbio. Em 29/10/2026, o BDR valia R$ 67,98, com rentabilidade de 162,63% nos 12 meses anteriores.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Seagate Technology",
+    "legalName": "SEAGATE TECHNOLOGY HOLDINGS PLC",
+    "ticker": "BVMF S1TX34",
+    "foundingDate": "1979",
+    "website": "https://www.seagate.com",
+    "wikidata": "Q705392",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q705392",
+      "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "https://pt.wikipedia.org/wiki/Seagate_Technology",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53350/S1TX/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Seagate Technology",
+    "legalName": "SEAGATE TECHNOLOGY HOLDINGS PLC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1979",
+    "listedSince": "12/11/2019",
+    "headquarters": "Cupertino",
+    "website": "https://www.seagate.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "SEAGATE TECHNOLOGY HOLDINGS PLC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: STX",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Cupertino",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1979",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 67,98",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "77,83% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original STX em dólares)",
+      "value": "2,53",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,41%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,6 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "S1TX34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Seagate Technology Holdings plc",
+    "currency": "BRL",
+    "price": 67.98,
+    "historyStarts": "2020-02-05",
+    "returns": {
+      "1y": 1.6263,
+      "3y": 11.4538,
+      "5y": 7.8576,
+      "10y": null
+    },
+    "volatility1y": 0.7783,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6099,
+      "from": "2022-01-05",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": 2.53,
+      "against": "S&P 500, ação original STX em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.2775,
+      "payments12Months": 4,
+      "yield12Months": 0.0041,
+      "lastPayment": {
+        "date": "2026-09-23",
+        "amount": 0.067425
+      }
+    },
+    "avgDailyTradedValue3m": 2556511
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do S1TX34 nos últimos 12 meses é de 77,83%, o que é considerado muito alta. O beta da ação original STX, contra o S&P 500, é de 2,53, o que significa que a ação tende a ter movimentos maiores que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -60,99%, do pico em 05/01/2022 ao ponto mais baixo em 03/11/2022. Para monitorar movimentos de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Seagate Technology foi fundada em 1979 como Shugart Technology por Alan Shugart e outros engenheiros, com o objetivo de desenvolver discos rígidos de 5,25 polegadas. Em 1980, a empresa lançou o ST-506, o primeiro HDD com essa capacidade, garantindo um contrato como fornecedora da IBM e impulsionando seu crescimento na década de 1980. Nos anos 1990, a Seagate consolidou sua posição no mercado por meio de aquisições estratégicas, incluindo a Conner Peripherals em 1996, tornando-se o maior fabricante independente de discos rígidos do mundo. Em 2010, a empresa foi reorganizada e incorporada em Dublin, na Irlanda, mantendo sua sede operacional em Fremont, Califórnia. A história da Seagate é marcada por ciclos de expansão e reestruturação, com aquisições de concorrentes como a Maxtor em 2006 e o negócio de HDD da Samsung em 2011, o que a colocou em posição de destaque no mercado global de armazenamento de dados.",
+    "timeline": [
+      {
+        "date": "1979",
+        "event": "Fundação da Seagate Technology como Shugart Technology.",
+        "source": 2
+      },
+      {
+        "date": "1980",
+        "event": "Lançamento do ST-506, o primeiro disco rígido de 5,25 polegadas com 5 megabytes.",
+        "source": 3
+      },
+      {
+        "date": "1989",
+        "event": "Aquisição da divisão Imprimis da Control Data Corporation.",
+        "source": 3
+      },
+      {
+        "date": "1996",
+        "event": "Fusão com a Conner Peripherals, formando o maior fabricante independente de discos rígidos.",
+        "source": 3
+      },
+      {
+        "date": "2006",
+        "event": "Aquisição da Maxtor.",
+        "source": 3
+      },
+      {
+        "date": "2010",
+        "event": "Reincorporação da empresa em Dublin, na Irlanda.",
+        "source": 3
+      },
+      {
+        "date": "2011",
+        "event": "Aquisição do negócio de HDD da Samsung.",
+        "source": 3
+      },
+      {
+        "date": "2019-11-12",
+        "event": "Listagem do BDR S1TX34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Seagate Technology ganha dinheiro",
+      "body": "A Seagate Technology Holdings plc é uma empresa internacional de armazenamento de dados, focada na fabricação de discos rígidos (HDDs). A empresa opera atividades de fabricação e pesquisa e desenvolvimento na Tailândia, com instalações em Teparuk, Samut Prakan e Korat, Nakhon Ratchasima, que empregam aproximadamente 14.000 a 15.000 pessoas, representando quase metade da força de trabalho global. A Seagate, junto com sua concorrente Western Digital, domina o mercado de HDDs, tendo crescido historicamente por meio da aquisição de concorrentes, como a Maxtor em 2006 e o negócio de HDD da Samsung em 2011."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR S1TX34",
+      "body": "O S1TX34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Seagate Technology Holdings plc, listada na NASDAQ sob o ticker STX. O BDR foi listado na B3 em 12/11/2019. O preço do BDR acompanha a variação da ação original em dólares e a taxa de câmbio entre o dólar e o real. Como é um BDR não patrocinado, ele não é emitido pela própria empresa, mas por uma instituição depositária."
+    },
+    {
+      "id": "proventos",
+      "heading": "S1TX34 paga dividendos?",
+      "body": "A Seagate Technology paga dividendos, que são repassados aos detentores do BDR S1TX34 em reais. Nos 12 meses até 29/10/2026, o BDR distribuiu R$ 0,2775 por unidade em 4 pagamentos, resultando em um dividend yield de 0,41%. O último pagamento foi de R$ 0,0674 em 23/09/2026. É importante lembrar que a empresa paga dividendos em sua moeda local, e o valor em reais depende da taxa de câmbio na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do S1TX34",
+      "body": "Até 29/10/2026, o S1TX34 apresentou rentabilidade total com proventos de 162,63% nos últimos 12 meses, 1.145,38% nos últimos 3 anos e 785,76% nos últimos 5 anos. Esses retornos incluem a variação do câmbio entre o dólar e o real. Para comparar o desempenho do BDR com índices de referência, como o S&P 500 e o CDI, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do S1TX34",
+      "body": "O S1TX34 está sujeito a riscos cambiais, pois seu preço em reais depende da variação do dólar em relação ao real. A volatilidade anualizada do BDR nos últimos 12 meses foi de 77,83%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -60,99%, do pico em 05/01/2022 ao ponto mais baixo em 03/11/2022. O beta da ação original STX, contra o S&P 500, é de 2,53, indicando que a ação tende a ter movimentos maiores que o índice. A liquidez do BDR na B3 é moderada, com volume médio de R$ 2,6 milhões por dia nos últimos 3 meses."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar S1TX34 no app",
+      "body": "Para quem tem S1TX34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o S1TX34 junto com seus outros ativos na carteira consolidada, com alocação por classe e as maiores posições.\n- [desempenho e preço médio](/recursos/desempenho-e-preco-medio): Acompanhe a rentabilidade do S1TX34 e o preço médio da sua posição no gráfico de desempenho.\n- [alertas de preço](/recursos/alertas-de-preco): Configure alertas de preço para ser notificado quando o S1TX34 atingir um valor que você escolher."
+    }
+  ],
+  "faq": [
+    {
+      "question": "S1TX34 paga dividendos?",
+      "answer": "Sim, a Seagate Technology paga dividendos, que são repassados aos detentores do BDR S1TX34 em reais. Nos 12 meses até 29/10/2026, o BDR distribuiu R$ 0,2775 por unidade em 4 pagamentos, com um dividend yield de 0,41%. O último pagamento foi de R$ 0,0674 em 23/09/2026."
+    },
+    {
+      "question": "Qual a diferença entre S1TX34 e STX?",
+      "answer": "S1TX34 é o BDR da Seagate Technology negociado na B3 em reais, enquanto STX é a ação original da empresa, listada na NASDAQ em dólares. O preço do S1TX34 acompanha a variação da STX e a taxa de câmbio entre o dólar e o real."
+    },
+    {
+      "question": "S1TX34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O S1TX34 é um BDR não patrocinado de nível I, o que significa que ele não é emitido pela própria Seagate Technology, mas por uma instituição depositária."
+    },
+    {
+      "question": "Qual o risco cambial do S1TX34?",
+      "answer": "O S1TX34 está sujeito a risco cambial, pois seu preço em reais depende da variação do dólar em relação ao real. Isso significa que, além da variação da ação original STX, o valor do BDR pode ser afetado pela oscilação do câmbio."
+    },
+    {
+      "question": "Qual a volatilidade do S1TX34?",
+      "answer": "A volatilidade anualizada do S1TX34 nos últimos 12 meses é de 77,83%, o que é considerado muito alta. A maior queda nos últimos 5 anos foi de -60,99%, do pico em 05/01/2022 ao ponto mais baixo em 03/11/2022."
+    },
+    {
+      "question": "Como acompanhar o desempenho do S1TX34?",
+      "answer": "É possível acompanhar o desempenho do S1TX34 usando a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade do BDR lado a lado com índices como o S&P 500 e o CDI. Além disso, é possível configurar [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando o BDR atingir um preço específico."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o S1TX34 junto com seus outros ativos na carteira consolidada, com alocação por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do S1TX34 e o preço médio da sua posição no gráfico de desempenho."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para ser notificado quando o S1TX34 atingir um valor que você escolher."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "W1DC34",
+        "list": "bdrs",
+        "reason": "BDR da Western Digital, concorrente direta da Seagate no mercado de HDDs."
+      },
+      {
+        "ticker": "MUTC34",
+        "list": "bdrs",
+        "reason": "BDR da Micron Technology, empresa do setor de semicondutores e armazenamento de dados."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para comparação de desempenho do S1TX34."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de S1TX34",
+      "url": "https://finance.yahoo.com/quote/S1TX34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: SEAGATE HOLD, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53350/S1TX/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Seagate Technology",
+      "url": "https://www.wikidata.org/wiki/Q705392",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Seagate Technology",
+      "url": "https://en.wikipedia.org/wiki/Seagate_Technology",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Seagate Technology",
+      "url": "https://pt.wikipedia.org/wiki/Seagate_Technology",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

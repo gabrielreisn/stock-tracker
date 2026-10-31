@@ -1,0 +1,382 @@
+{
+  "ticker": "CBAV3",
+  "slug": "cbav3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CBAV3: história, dividendos e volatilidade",
+    "description": "CBAV3 é a ação ordinária da Companhia Brasileira de Alumínio, maior produtora de alumínio primário do Brasil.",
+    "h1": "CBAV3: Companhia Brasileira de Alumínio",
+    "canonicalPath": "/acoes/cbav3",
+    "keywords": [
+      "CBAV3",
+      "Companhia Brasileira de Alumínio",
+      "CBA",
+      "ação de alumínio",
+      "dividendos CBAV3",
+      "volatilidade CBAV3",
+      "materiais básicos",
+      "B3"
+    ]
+  },
+  "summary": "CBAV3 é a ação ordinária da Companhia Brasileira de Alumínio (CBA), maior produtora de alumínio primário do Brasil, com capacidade instalada de 475 mil toneladas por ano. A empresa opera de forma integrada, da mineração de bauxita à produção de alumínio primário e produtos transformados, utilizando 100% de energia hidrelétrica própria. Cotada na B3 desde 2021, a ação registrou rentabilidade total de 117,22% nos 12 meses até 30/10/2026, com volatilidade anualizada de 25,00%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Companhia Brasileira de Alumínio",
+    "legalName": "COMPANHIA BRASILEIRA DE ALUMINIO",
+    "ticker": "BVMF CBAV3",
+    "isin": "BRCBAVACNOR5",
+    "taxId": "61.409.892/0001-73",
+    "foundingDate": "1941-12-12",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://cba.com.br/",
+    "wikidata": "Q5155373",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q5155373",
+      "https://pt.wikipedia.org/wiki/Companhia_Brasileira_de_Alum%C3%ADnio",
+      "https://en.wikipedia.org/wiki/Companhia_Brasileira_de_Alum%C3%ADnio",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25984/CBAV/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Companhia Brasileira de Alumínio",
+    "legalName": "COMPANHIA BRASILEIRA DE ALUMINIO",
+    "type": "Ação ordinária (ON)",
+    "sector": "Materiais Básicos",
+    "segment": "Minerais Metálicos",
+    "founded": "12/12/1941",
+    "listedSince": "15/07/2021",
+    "headquarters": "São Paulo (SP)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "COMPANHIA BRASILEIRA DE ALUMINIO",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "61.409.892/0001-73",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Materiais Básicos / Minerais Metálicos",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "12/12/1941",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "15/07/2021",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "CBAV3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "PRICEWATERHOUSECOOPERS AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 11,27",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "25,00% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,12",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,39%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CBAV3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Companhia Brasileira de Alumínio",
+    "currency": "BRL",
+    "price": 11.27,
+    "historyStarts": "2021-07-16",
+    "returns": {
+      "1y": 1.1722,
+      "3y": 2.0539,
+      "5y": -0.0097,
+      "10y": null
+    },
+    "volatility1y": 0.25,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8671,
+      "from": "2022-03-04",
+      "to": "2025-08-21"
+    },
+    "beta1y": {
+      "value": 0.12,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.0442,
+      "payments12Months": 1,
+      "yield12Months": 0.0039,
+      "lastPayment": {
+        "date": "2026-04-30",
+        "amount": 0.044153
+      }
+    },
+    "avgDailyTradedValue3m": 38618739
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A CBAV3 tem volatilidade anualizada de 25,00% nos 12 meses até 30/10/2026, com nível de alta. O beta de 12 meses contra o Ibovespa é 0,12, o que indica que a ação tende a acompanhar os movimentos do índice com amplitude menor, na mesma direção. A maior queda em 5 anos foi de -86,71%, do pico em 04/03/2022 ao ponto mais baixo em 21/08/2025. Para ações de materiais básicos, essa volatilidade é compatível com a exposição a ciclos de preço do alumínio e demanda industrial. O app permite acompanhar a [volatilidade e o desempenho da CBAV3](/recursos/desempenho-e-preco-medio) com gráfico de rentabilidade e preço médio."
+  },
+  "history": {
+    "overview": "A Companhia Brasileira de Alumínio (CBA) foi constituída em 12/12/1941, mas sua operação industrial teve início em 1955, quando inaugurou a primeira planta de alumínio do Brasil, com capacidade inicial de 4.000 toneladas por ano. Ao longo de cinco décadas, a capacidade de produção cresceu para 400.000 toneladas por ano em 2005. Desde 2018, a CBA é o maior fabricante brasileiro de alumínio primário, com produção anual de 475.000 toneladas, representando 27% da produção nacional do metal. A empresa opera de forma integrada, com mineração de bauxita em Minas Gerais e Goiás, refinaria de alumina e smelter em Alumínio e Sorocaba (SP), além de unidades de fundição e reciclagem e uma fábrica de produtos transformados em Itapissuma (PE), adquirida em 2020. A CBA possui 100% de sua energia vinda de hidrelétricas próprias, com complexos geradores nos rios Juquiá e Sorocaba, e mantém reservas de Mata Atlântica e Cerrado. Em 29/01/2026, a Chinalco e a Rio Tinto adquiriram a participação da Votorantim S.A. na CBA, mudando o controle da companhia. As ações da CBA passaram a ser negociadas na B3 em 15/07/2021, após registro na CVM em 13/07/2021, no segmento Novo Mercado.",
+    "timeline": [
+      {
+        "date": "1941-12-12",
+        "event": "Constituição da Companhia Brasileira de Alumínio",
+        "source": 2
+      },
+      {
+        "date": "1955",
+        "event": "Inauguração da primeira planta de alumínio do Brasil, com capacidade de 4.000 toneladas por ano",
+        "source": 3
+      },
+      {
+        "date": "2020",
+        "event": "Aquisição da fábrica de produtos transformados em Itapissuma (PE)",
+        "source": 4
+      },
+      {
+        "date": "2021-07-13",
+        "event": "Registro como companhia aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2021-07-15",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-04-24",
+        "event": "Fato relevante de redução de capital social",
+        "source": 9
+      },
+      {
+        "date": "2025-06-30",
+        "event": "Segunda emissão de debêntures",
+        "source": 8
+      },
+      {
+        "date": "2026-01-29",
+        "event": "Mudança de controle da companhia, com a Chinalco e a Rio Tinto comprando a participação da Votorantim",
+        "source": 7
+      },
+      {
+        "date": "2026-04-29",
+        "event": "Fato relevante de dividendos",
+        "source": 6
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Companhia Brasileira de Alumínio ganha dinheiro",
+      "body": "A Companhia Brasileira de Alumínio (CBA) atua na cadeia de valor do alumínio, desde a mineração de bauxita até a produção de alumínio primário (lingotes, tarugos, vergalhões e placas) e produtos transformados (chapas, bobinas, folhas e perfis). A empresa opera uma refinaria de alumina e um smelter em Alumínio e Sorocaba (SP), com mineração de bauxita em Poços de Caldas, Itamarati de Minas e Miraí (MG) e Barro Alto (GO). O minério chega ao complexo industrial por composições ferroviárias. A CBA também atua em fundição e reciclagem com a Metalex em Araçariguama (SP) e possui um centro de distribuição em Caxias do Sul (RS). Desde 2018, é o maior fabricante brasileiro de alumínio primário, com produção anual de 475.000 toneladas, representando 27% da produção nacional. A energia utilizada na produção vem 100% de hidrelétricas próprias, com complexos geradores nos rios Juquiá e Sorocaba. A empresa emprega aproximadamente 4.800 pessoas."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Companhia Brasileira de Alumínio",
+      "body": "A CBAV3 é a ação ordinária da Companhia Brasileira de Alumínio, negociada na B3 desde 15/07/2021. A empresa está listada no segmento Novo Mercado, o que implica a adoção de práticas de governança corporativa e transparência. O controle acionário é privado, conforme a CVM. Em 29/01/2026, a Chinalco e a Rio Tinto adquiriram a participação da Votorantim S.A. na CBA, mudando o controle da companhia. A ação ordinária (ON) dá direito a voto em assembleias gerais e, em caso de liquidação, tem preferência sobre ações preferenciais, mas não tem prioridade no recebimento de dividendos. A CBA não possui ações preferenciais (PN) listadas na B3, apenas a CBAV3."
+    },
+    {
+      "id": "proventos",
+      "heading": "CBAV3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a CBAV3 distribuiu R$ 0,0442 por ação em 1 pagamento, resultando em dividend yield de 0,39%. O último pagamento foi de R$ 0,0442 em 30/04/2026. A CBA comunicou fato relevante de dividendos em 29/04/2026. A remuneração aos acionistas é feita por meio de dividendos, sem registro de JCP no período. O app permite acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento, multiplicados pela quantidade de ações na carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da CBAV3",
+      "body": "A CBAV3 registrou rentabilidade total com proventos de 117,22% nos 12 meses até 30/10/2026, 205,39% em 3 anos e -0,97% em 5 anos. O preço em 30/10/2026 era R$ 11,27. A volatilidade anualizada de 12 meses é de 25,00%, com nível de alta. O beta de 12 meses contra o Ibovespa é 0,12, indicando que a ação tende a acompanhar os movimentos do índice com amplitude menor. A maior queda em 5 anos foi de -86,71%, do pico em 04/03/2022 ao ponto mais baixo em 21/08/2025. O app permite comparar a rentabilidade da CBAV3 com o [Ibovespa, CDI e outros índices](/recursos/comparacao-com-indices) no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da CBAV3",
+      "body": "A CBAV3 tem volatilidade anualizada de 25,00% nos 12 meses até 30/10/2026, com nível de alta. A maior queda em 5 anos foi de -86,71%, do pico em 04/03/2022 ao ponto mais baixo em 21/08/2025. O beta de 12 meses contra o Ibovespa é 0,12, o que significa que a ação tende a se mover na mesma direção do índice, mas com amplitude menor. A empresa opera no setor de materiais básicos, exposta a ciclos de preço do alumínio, demanda industrial e custos de energia. A mudança de controle em 29/01/2026, com a entrada da Chinalco e da Rio Tinto, pode afetar a estratégia da companhia. A CBA também realizou redução de capital social em 24/04/2025 e segunda emissão de debêntures em 30/06/2025. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar a CBAV3 em momentos de maior volatilidade."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CBAV3 paga dividendos?",
+      "answer": "Sim, a CBAV3 pagou R$ 0,0442 por ação em 30/04/2026, com dividend yield de 0,39% nos 12 meses até 30/10/2026. A empresa comunicou fato relevante de dividendos em 29/04/2026. O app permite acompanhar os [dividendos e JCP no app](/recursos/proventos) com data com e data de pagamento, multiplicados pela quantidade de ações na carteira."
+    },
+    {
+      "question": "Quem controla a CBAV3?",
+      "answer": "Em 29/01/2026, a Chinalco e a Rio Tinto adquiriram a participação da Votorantim S.A. na CBA, mudando o controle da companhia. Antes disso, a CBA pertencia à Votorantim. O controle acionário é privado, conforme a CVM. A ação é negociada no segmento Novo Mercado na B3."
+    },
+    {
+      "question": "Qual a diferença entre CBAV3 e ações preferenciais?",
+      "answer": "A CBAV3 é a ação ordinária da CBA, que dá direito a voto em assembleias gerais e, em caso de liquidação, tem preferência sobre ações preferenciais. A CBA não possui ações preferenciais (PN) listadas na B3, apenas a CBAV3. A ação ordinária não tem prioridade no recebimento de dividendos, mas tem direito a voto."
+    },
+    {
+      "question": "O que a CBAV3 faz?",
+      "answer": "A CBAV3 é a ação ordinária da Companhia Brasileira de Alumínio, maior produtora de alumínio primário do Brasil, com capacidade instalada de 475 mil toneladas por ano. A empresa opera de forma integrada, da mineração de bauxita à produção de alumínio primário e produtos transformados, utilizando 100% de energia hidrelétrica própria. A CBA emprega aproximadamente 4.800 pessoas."
+    },
+    {
+      "question": "CBAV3 é volátil?",
+      "answer": "A CBAV3 tem volatilidade anualizada de 25,00% nos 12 meses até 30/10/2026, com nível de alta. A maior queda em 5 anos foi de -86,71%, do pico em 04/03/2022 ao ponto mais baixo em 21/08/2025. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para acompanhar a CBAV3 em momentos de maior volatilidade."
+    },
+    {
+      "question": "Como acompanhar a CBAV3 no app?",
+      "answer": "O app permite acompanhar a CBAV3 com [alertas de preço](/recursos/alertas-de-preco), [dividendos e JCP no app](/recursos/proventos) e [comparação com índices](/recursos/comparacao-com-indices). O [assistente de IA](/recursos/assistente-de-ia) também pode responder perguntas sobre a sua posição na CBAV3, com base nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da CBAV3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação quando a CBAV3 chegar ao preço que você escolheu, para acompanhar a volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da CBAV3 com o Ibovespa, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade da CBAV3 com gráfico de rentabilidade e preço médio, com variação do dia e do ano."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição na CBAV3, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VALE3",
+        "list": "br-stocks",
+        "reason": "Vale S.A. é a maior mineradora do Brasil, com exposição a commodities metálicas, similar à CBAV3 no setor de materiais básicos."
+      },
+      {
+        "ticker": "GGBR4",
+        "list": "br-stocks",
+        "reason": "Gerdau S.A. é uma das maiores produtoras de aço do Brasil, com exposição a ciclos industriais, similar à CBAV3 no setor de materiais básicos."
+      },
+      {
+        "ticker": "CSNA3",
+        "list": "br-stocks",
+        "reason": "Companhia Siderúrgica Nacional é uma produtora de aço, com exposição a ciclos industriais, similar à CBAV3 no setor de materiais básicos."
+      },
+      {
+        "ticker": "CMIN3",
+        "list": "br-stocks",
+        "reason": "CSN Mineração é uma mineradora, com exposição a commodities metálicas, similar à CBAV3 no setor de materiais básicos."
+      },
+      {
+        "ticker": "ALUP11",
+        "list": "br-stocks",
+        "reason": "Alupar Investimento é uma holding de alumínio, com exposição ao setor de alumínio, similar à CBAV3 no setor de materiais básicos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CBAV3",
+      "url": "https://finance.yahoo.com/quote/CBAV3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CBA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/25984/CBAV/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, COMPANHIA BRASILEIRA DE ALUMINIO",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Companhia Brasileira de Alumínio",
+      "url": "https://www.wikidata.org/wiki/Q5155373",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Companhia Brasileira de Alumínio",
+      "url": "https://pt.wikipedia.org/wiki/Companhia_Brasileira_de_Alum%C3%ADnio",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Companhia Brasileira de Alumínio",
+      "url": "https://en.wikipedia.org/wiki/Companhia_Brasileira_de_Alum%C3%ADnio",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/04/2026, “Dividendos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1511104&numSequencia=1035810&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/01/2026, “Mudança de Controle da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1471355&numSequencia=996061&numVersao=2",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/06/2025, “2ª Emissão de Debêntures”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1395759&numSequencia=920471&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 24/04/2025, “Fato Relevante - Redução de Capital Social”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1365067&numSequencia=889793&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

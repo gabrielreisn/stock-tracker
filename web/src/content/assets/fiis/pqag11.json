@@ -1,0 +1,327 @@
+{
+  "ticker": "PQAG11",
+  "slug": "pqag11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "PQAG11: FII de logística, patrimônio e rendimentos",
+    "description": "PQAG11 é um FII de tijolo de logística com patrimônio de R$ 790,6 milhões em 09/2026.",
+    "h1": "PQAG11: Parque Anhanguera FII - Logística, patrimônio e rendimentos",
+    "canonicalPath": "/fiis/pqag11",
+    "keywords": [
+      "PQAG11",
+      "Parque Anhanguera FII",
+      "FII de logística",
+      "FII tijolo",
+      "dividend yield PQAG11",
+      "volatilidade PQAG11",
+      "patrimônio PQAG11",
+      "Hedge Investments FII"
+    ]
+  },
+  "summary": "PQAG11 é a cota do Parque Anhanguera Fundo de Investimento Imobiliário, um FII de tijolo do segmento de logística com gestão ativa. Fundado em 2011, o fundo possui patrimônio líquido de R$ 790,6 milhões em setembro de 2026. A carteira é composta por ativos imobiliários de logística e Letras de Crédito Imobiliária (LCI). Nos 12 meses até 29/10/2026, a cota registrou rentabilidade total de 6,20% e distribuiu proventos que resultaram em dividend yield de 10,12%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Parque Anhanguera Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "PARQUE ANHANGUERA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF PQAG11",
+    "isin": "BRPQAGCTF009",
+    "taxId": "12.978.943/0001-72",
+    "foundingDate": "2011-03-31",
+    "provider": {
+      "name": "HEDGE INVESTMENTS DTVM LTDA",
+      "url": "https://www.hedgeinvest.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=12978943000172"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, logística",
+    "issuerOrManager": "Hedge Investments DTVM Ltda (administradora) e Hedge Investments Real Estate Gestão de Recursos Ltda (gestora) [3]",
+    "name": "Parque Anhanguera Fundo de Investimento Imobiliário de Responsabilidade Limitada",
+    "legalName": "PARQUE ANHANGUERA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Logística",
+    "founded": "31/03/2011",
+    "administrator": "HEDGE INVESTMENTS DTVM LTDA",
+    "website": "https://www.hedgeinvest.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "PARQUE ANHANGUERA FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "12.978.943/0001-72",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Logística",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "HEDGE INVESTMENTS DTVM LTDA",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "31/03/2011",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 790,6 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "477",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 56,50",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 52,94",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "39,47% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "-0,06",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "10,12%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 566.716,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "PQAG11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Rb Capital Anhanguera Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 52.94,
+    "historyStarts": "2024-02-01",
+    "returns": {
+      "1y": 0.062,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.3947,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2081,
+      "from": "2026-01-02",
+      "to": "2026-03-30"
+    },
+    "beta1y": {
+      "value": -0.06,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 5.36,
+      "payments12Months": 11,
+      "yield12Months": 0.1012,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.49
+      }
+    },
+    "avgDailyTradedValue3m": 566716
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do PQAG11 nos 12 meses até 29/10/2026 foi de 39,47%, um nível considerado alto para o mercado de FIIs 0. A maior queda em 5 anos foi de -20,81%, ocorrida entre 02/01/2026 e 30/03/2026 0. O beta do fundo contra o Ibovespa foi de -0,06 no mesmo período, o que significa que os movimentos do PQAG11 não acompanharam a direção do índice, com variação menor que a do Ibovespa 0. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam uma notificação quando a cota atinge um valor definido."
+  },
+  "history": {
+    "overview": "O Parque Anhanguera FII iniciou suas atividades em 31 de março de 2011, com foco na exploração comercial de ativos de logística 1. A gestão do fundo é realizada de forma ativa pela Hedge Investments Real Estate Gestão de Recursos Ltda, com a Hedge Investments DTVM Ltda atuando como administradora 3. O portfólio do fundo inclui a Sede Administrativa e o Edifício Anexo, que respondem por 73% da receita imobiliária contratada, além de um Centro de Distribuição, responsável pelos 27% restantes 3. Em 2024, o fundo realizou sua primeira oferta pública de cotas, iniciada em 20 de junho e encerrada em 11 de dezembro daquele ano, ampliando sua base de cotistas 2. Em 2025, o fundo enfrentou um evento operacional: a identificação de vazamentos na rede de combate a incêndio, cuja substituição foi concluída entre abril e agosto de 2025, com custos de aproximadamente R$ 3,2 milhões suportados pelo resultado acumulado 3. Em junho de 2026, o imóvel foi reavaliado pela CBRE, resultando em uma variação positiva de 1,41% no valor patrimonial da cota 4.",
+    "timeline": [
+      {
+        "date": "2011-03-31",
+        "event": "Início das atividades do Parque Anhanguera FII.",
+        "source": 1
+      },
+      {
+        "date": "2024-06-20",
+        "event": "Início da primeira oferta pública de cotas do fundo.",
+        "source": 2
+      },
+      {
+        "date": "2024-12-11",
+        "event": "Encerramento da oferta pública de cotas iniciada em junho de 2024.",
+        "source": 2
+      },
+      {
+        "date": "2025-08",
+        "event": "Conclusão da substituição da rede de combate a incêndio do empreendimento, iniciada em abril de 2025.",
+        "source": 3
+      },
+      {
+        "date": "2026-06-01",
+        "event": "Reavaliação do imóvel pela CBRE, com valor justo 1,42% superior ao valor contábil, impactando positivamente o valor patrimonial da cota.",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do PQAG11",
+      "body": "O PQAG11 é classificado pela ANBIMA como um FII de tijolo, do segmento de logística, com gestão ativa 3. O objetivo do fundo é auferir a valorização e a rentabilidade de suas cotas por meio da exploração comercial de seus ativos, mediante locação ou arrendamento 3. A carteira é composta por ativos imobiliários de logística, incluindo a Sede Administrativa e o Edifício Anexo (73% da receita contratada) e um Centro de Distribuição (27%) 3. Para alocação mais eficiente do caixa, o fundo também investe em Letras de Crédito Imobiliária (LCI) 3. A taxa de administração é de 0,20% ao ano sobre o patrimônio líquido, e não há taxa de performance 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do PQAG11",
+      "body": "Nos 12 meses até 29/10/2026, o PQAG11 distribuiu proventos que totalizaram R$ 5,3600 por cota em 11 pagamentos, resultando em um dividend yield de 10,12% 0. O último provento foi de R$ 0,4900 por cota, com pagamento em 01/10/2026 0. A política de distribuição do fundo prevê a distribuição de, no mínimo, 95% do resultado semestral auferido a regime de caixa, contemplando receitas de locações, receitas financeiras e despesas operacionais 3. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos) para monitorar os rendimentos multiplicados pela quantidade de cotas na carteira."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O PQAG11 realizou uma oferta pública de cotas, iniciada em 20/06/2024 e encerrada em 11/12/2024 2. Em setembro de 2026, o fundo possuía patrimônio líquido de R$ 790,6 milhões, com 13.991.890 cotas emitidas e 477 cotistas 1. O valor patrimonial da cota era de R$ 56,50 na mesma data 1. O volume médio negociado por dia nos três meses até 29/10/2026 foi de R$ 566.716,00 0."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do PQAG11",
+      "body": "A rentabilidade total do PQAG11, incluindo proventos, foi de 6,20% nos 12 meses até 29/10/2026 0. O preço da cota era de R$ 52,94 nessa data 0. Para avaliar esse desempenho em contexto, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) do app, que posiciona a rentabilidade do fundo lado a lado com o IFIX, CDI, Ibovespa e outros benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do PQAG11",
+      "body": "Como FII de tijolo, o PQAG11 está exposto a riscos de vacância e à concentração de receita em poucos contratos de locação, já que 73% da receita contratada vem da Sede Administrativa e do Edifício Anexo 3. O fundo também possui exposição a Letras de Crédito Imobiliária (LCI), o que introduz risco de crédito e de mercado 3. A volatilidade anualizada do fundo nos 12 meses até 29/10/2026 foi de 39,47%, classificada como alta 0. A maior queda em 5 anos foi de -20,81%, entre 02/01/2026 e 30/03/2026 0. O beta de -0,06 contra o Ibovespa indica que, no período, o ativo não acompanhou os movimentos do índice na mesma direção 0."
+    }
+  ],
+  "faq": [
+    {
+      "question": "PQAG11 paga dividendos?",
+      "answer": "Sim, o PQAG11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram 11 pagamentos que totalizaram R$ 5,3600 por cota, com dividend yield de 10,12% 0. O último provento foi de R$ 0,4900, pago em 01/10/2026 0. É possível acompanhar os [dividendos e JCP no app](/recursos/proventos) com as datas de competência e pagamento."
+    },
+    {
+      "question": "PQAG11 é FII de papel ou de tijolo?",
+      "answer": "O PQAG11 é um FII de tijolo, do segmento de logística, com gestão ativa 3. A carteira é composta por ativos imobiliários de logística e por Letras de Crédito Imobiliária (LCI) 3. O fundo possui patrimônio líquido de R$ 790,6 milhões em setembro de 2026 1."
+    },
+    {
+      "question": "Qual a taxa de administração do PQAG11?",
+      "answer": "A taxa de administração do PQAG11 é de 0,20% ao ano sobre o patrimônio líquido, e não há taxa de performance 3. Essa taxa inclui a gestão do fundo, realizada pela Hedge Investments Real Estate Gestão de Recursos Ltda 3."
+    },
+    {
+      "question": "Qual o patrimônio do PQAG11?",
+      "answer": "Em setembro de 2026, o patrimônio líquido do PQAG11 era de R$ 790,6 milhões, com 13.991.890 cotas emitidas e 477 cotistas 1. O valor patrimonial da cota era de R$ 56,50 na mesma data 1."
+    },
+    {
+      "question": "PQAG11 tem alta volatilidade?",
+      "answer": "Sim, a volatilidade anualizada do PQAG11 nos 12 meses até 29/10/2026 foi de 39,47%, classificada como alta 0. A maior queda em 5 anos foi de -20,81%, entre 02/01/2026 e 30/03/2026 0. É possível configurar [alertas de preço](/recursos/alertas-de-preco) no app para acompanhar oscilações da cota."
+    },
+    {
+      "question": "Qual a diferença entre PQAG11 e outros FIIs de logística?",
+      "answer": "O PQAG11 é um FII de tijolo de logística com gestão ativa e patrimônio de R$ 790,6 milhões em setembro de 2026 1. Outros FIIs de logística no app incluem [BTLG11](/fiis/btlg11), [HGLG11](/fiis/hglg11), [XPLG11](/fiis/xplg11) e [VILG11](/fiis/vilg11), que podem ter diferentes estratégias, tamanhos de patrimônio e níveis de concentração de receita."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do PQAG11 com data de competência e data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do PQAG11 com o IFIX, CDI e Ibovespa no mesmo gráfico, para avaliar o desempenho em contexto."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do PQAG11 atingir um valor que você definir, útil para acompanhar oscilações de 39,47% de volatilidade anualizada."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o PQAG11 ao lado de outros ativos na sua carteira, com valor por classe e alocação, para acompanhar a diversificação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BTLG11",
+        "list": "fiis",
+        "reason": "Outro FII de logística com gestão ativa, para comparação de estratégia e patrimônio."
+      },
+      {
+        "ticker": "HGLG11",
+        "list": "fiis",
+        "reason": "FII de logística com foco em imóveis de alto padrão, para comparação de segmento e concentração de receita."
+      },
+      {
+        "ticker": "XPLG11",
+        "list": "fiis",
+        "reason": "FII de logística com gestão ativa, para comparação de desempenho e dividend yield."
+      },
+      {
+        "ticker": "VILG11",
+        "list": "fiis",
+        "reason": "FII de logística com patrimônio maior, para comparação de escala e liquidez."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de PQAG11",
+      "url": "https://finance.yahoo.com/quote/PQAG11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do PARQUE ANHANGUERA FUNDO DE INVESTIMENTO IMOBILIÁRIO (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo PQAG11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=12978943000172",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do PQAG11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1355359",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do PQAG11, 01/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1209757",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do PQAG11, 01/06/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1209749",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

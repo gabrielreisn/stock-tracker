@@ -1,0 +1,278 @@
+{
+  "ticker": "XLI",
+  "slug": "xli",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "XLI: ETF do setor industrial do S&P 500",
+    "description": "Conheça o XLI, o ETF que replica o setor industrial do S&P 500. Veja desempenho, volatilidade, dividendos e como investir a partir do Brasil.",
+    "h1": "XLI: State Street Industrial Select Sector SPDR ETF",
+    "canonicalPath": "/etfs/xli",
+    "keywords": [
+      "XLI",
+      "ETF industrial",
+      "S&P 500 industrials",
+      "State Street SPDR",
+      "investir em ETFs americanos",
+      "setor industrial S&P 500"
+    ]
+  },
+  "summary": "XLI é o State Street Industrial Select Sector SPDR ETF, um fundo de índice que replica o desempenho do setor industrial do S&P 500. Lançado em 22/12/1998, o ativo é gerido pela State Street Global Advisors e faz parte da família SPDR. Em 30/10/2026, a cota estava em US$ 167,40, com uma rentabilidade total de 9,45% nos últimos 12 meses, refletindo a exposição a empresas de manufatura, defesa e transporte.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "State Street Industrial Select Sector SPDR ETF",
+    "ticker": "ARCX XLI",
+    "foundingDate": "1998-12-22",
+    "provider": {
+      "name": "SPDR (State Street)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/SPDR"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice setorial",
+    "issuerOrManager": "State Street Global Advisors (SSGA)",
+    "trackedIndex": "S&P 500 Industrials Sector",
+    "name": "State Street Industrial Select Sector SPDR ETF",
+    "founded": "22/12/1998"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "State Street Industrial Select Sector SPDR ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "22/12/1998",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 167,40",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,30% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,95",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,13%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,24 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "XLI",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "State Street Industrial Select Sector SPDR ETF",
+    "currency": "USD",
+    "price": 167.4,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.0945,
+      "3y": 0.7877,
+      "5y": 0.722,
+      "10y": 2.4658
+    },
+    "volatility1y": 0.173,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2164,
+      "from": "2022-01-04",
+      "to": "2022-09-30"
+    },
+    "beta1y": {
+      "value": 0.95,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.884,
+      "payments12Months": 4,
+      "yield12Months": 0.0113,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.455
+      }
+    },
+    "avgDailyTradedValue3m": 1242012159
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do XLI nos últimos 12 meses é de 17,30%, um nível moderado para um ETF setorial. O beta de 0,95 contra o S&P 500 indica que o XLI tende a acompanhar os movimentos do índice, mas com uma amplitude ligeiramente menor. A maior queda nos últimos 5 anos foi de -21,64%, entre 04/01/2022 e 30/09/2022, um período de estresse no mercado. Para um ativo que replica um setor específico, essa volatilidade é compatível com a exposição a empresas de manufatura e defesa, que podem ser sensíveis a ciclos econômicos. O app permite acompanhar a [volatilidade](/recursos/desempenho-e-preco-medio) e o histórico de preços do XLI, ajudando a entender o comportamento do ativo em diferentes cenários."
+  },
+  "history": {
+    "overview": "O XLI foi lançado em 22 de dezembro de 1998, no mesmo ano em que a State Street Global Advisors (SSGA) e a Merrill Lynch introduziram os chamados Sector Spiders. Esses fundos foram criados para acompanhar os setores da classificação GICS (Global Industry Classification Standard), que organiza as empresas do S&P 500 em 11 categorias. A família SPDR, gerida pela SSGA, é a terceira maior provedora de ETFs do mundo, atrás de iShares e Vanguard, e abrange ativos negociados nos Estados Unidos, Europa, México e Ásia-Pacífico. A estrutura do XLI é de unit investment trust, um veículo comum para a replicação de índices nos Estados Unidos. Ao longo de sua história, o fundo tem servido como uma ferramenta para investidores que buscam exposição direcionada ao setor industrial, um dos pilares da economia americana, sem a necessidade de comprar ações individuais de empresas como Boeing ou Caterpillar.",
+    "timeline": [
+      {
+        "date": "1998",
+        "event": "SSGA e Merrill Lynch introduzem os Sector Spiders, a família de ETFs setoriais que inclui o XLI.",
+        "source": 1
+      },
+      {
+        "date": "1998-12-22",
+        "event": "Primeiro pregão das cotas do XLI na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2007",
+        "event": "SSGA renomeia seus outros ETFs dos EUA, incluindo a família StreetTRACKS, para SPDR, unificando a marca.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o XLI funciona",
+      "body": "O XLI é um ETF (Exchange-Traded Fund) que replica o desempenho do setor industrial do índice S&P 500. Ele é gerido pela State Street Global Advisors (SSGA) e faz parte da família SPDR, que é a terceira maior provedora de ETFs do mundo. O fundo foi lançado em 22/12/1998, junto com outros ETFs setoriais conhecidos como Sector Spiders. A estrutura do XLI é de unit investment trust, o que significa que ele não é um fundo mútuo tradicional, mas um veículo de investimento que mantém um portfólio de ações que compõem o índice alvo. O objetivo é que o preço das cotas do XLI acompanhe a variação do índice de indústrias do S&P 500, oferecendo exposição a empresas de manufatura, defesa, transporte e construção."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do XLI",
+      "body": "O XLI segue o índice de indústrias do S&P 500, que é uma das 11 categorias do sistema de classificação GICS (Global Industry Classification Standard), desenvolvido pela MSCI e Standard & Poor's. As fontes não detalham as empresas específicas que compõem o portfólio do XLI em 30/10/2026, mas o setor industrial do S&P 500 inclui empresas de grande capitalização que atuam em sub-setores como aeroespacial, defesa, construção, equipamentos industriais, transporte e serviços de utilidade pública. A composição do índice é revisada periodicamente para refletir mudanças no mercado."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no XLI a partir do Brasil",
+      "body": "Para investir no XLI a partir do Brasil, o investidor precisa ter uma conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. A compra é feita em dólar, o que introduz o risco cambial: se o dólar se valorizar em relação ao real, o investidor ganha com a cotação, mas se o dólar se desvalorizar, o ganho em reais é reduzido. Além disso, é possível ter exposição ao setor industrial americano através de ETFs ou BDRs negociados na B3 que sigam índices semelhantes, embora a liquidez e a correlação possam variar. O app permite acompanhar a cotação do XLI em dólar e converter para real na [carteira consolidada](/recursos/carteira-consolidada), ajudando a visualizar o impacto do câmbio no portfólio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do XLI",
+      "body": "Em 30/10/2026, a cota do XLI estava em US$ 167,40. A rentabilidade total com proventos foi de 9,45% nos últimos 12 meses, 78,77% em 3 anos, 72,20% em 5 anos e 246,58% em 10 anos. Esses números são em dólar e não incluem o efeito do câmbio. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,24 bilhão, indicando alta liquidez. Para comparar o desempenho do XLI com o do S&P 500, o app oferece a [comparação com índices](/recursos/comparacao-com-indices), que mostra a rentabilidade lado a lado no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do XLI",
+      "body": "O XLI está exposto ao risco setorial do setor industrial, que pode ser sensível a ciclos econômicos, mudanças na demanda global e políticas de comércio internacional. A volatilidade anualizada do XLI nos últimos 12 meses foi de 17,30%, classificada como moderada. O beta do fundo contra o S&P 500 é de 0,95, o que indica que os movimentos do XLI tendem a ser ligeiramente menores que os do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -21,64%, entre 04/01/2022 e 30/09/2022. O risco cambial também é relevante para investidores brasileiros, pois o ativo é cotado em dólar. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar variações significativas na cotação."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o XLI?",
+      "answer": "XLI é o State Street Industrial Select Sector SPDR ETF, um fundo de índice que replica o setor industrial do S&P 500. Ele é gerido pela State Street Global Advisors e foi lançado em 22/12/1998. O XLI oferece exposição a empresas de manufatura, defesa, transporte e construção, sem a necessidade de comprar ações individuais."
+    },
+    {
+      "question": "Qual o índice que o XLI segue?",
+      "answer": "O XLI segue o índice de indústrias do S&P 500, que é uma das 11 categorias do sistema de classificação GICS. O índice inclui empresas de grande capitalização que atuam em sub-setores como aeroespacial, defesa, construção, equipamentos industriais e transporte."
+    },
+    {
+      "question": "O XLI paga dividendos?",
+      "answer": "Sim, o XLI distribui proventos. Nos 12 meses até 30/10/2026, o fundo pagou US$ 1,8840 por cota em 4 pagamentos, resultando em um dividend yield de 1,13%. O último pagamento foi de US$ 0,4550 em 21/09/2026. O app permite acompanhar os [dividendos e JCP](/recursos/desempenho-e-preco-medio) de ativos internacionais, incluindo o XLI."
+    },
+    {
+      "question": "Como investir no XLI a partir do Brasil?",
+      "answer": "Para investir no XLI, é necessário ter uma conta em uma corretora que ofereça acesso a mercados internacionais. A compra é feita em dólar, o que introduz o risco cambial. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam índices semelhantes, embora a liquidez e a correlação possam variar. O app permite acompanhar a cotação do XLI em dólar e converter para real na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual a diferença entre XLI e SPY?",
+      "answer": "O XLI é um ETF setorial que replica apenas o setor industrial do S&P 500, enquanto o [SPY](/etfs/spy) é um ETF que replica o índice S&P 500 completo, abrangendo todos os 11 setores. O XLI tem uma exposição mais concentrada, o que pode resultar em maior volatilidade e desempenho diferente em relação ao SPY, dependendo do ciclo econômico."
+    },
+    {
+      "question": "Qual a volatilidade do XLI?",
+      "answer": "A volatilidade anualizada do XLI nos últimos 12 meses é de 17,30%, classificada como moderada. O beta do fundo contra o S&P 500 é de 0,95, indicando que os movimentos do XLI tendem a ser ligeiramente menores que os do índice. A maior queda nos últimos 5 anos foi de -21,64%, entre 04/01/2022 e 30/09/2022. O app permite configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar variações significativas."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a cotação do XLI em dólar e converta para real na carteira consolidada, visualizando o impacto do câmbio no portfólio."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do XLI com o S&P 500 e outros índices no mesmo gráfico, ajudando a entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para monitorar variações significativas na cotação do XLI, útil para quem acompanha a volatilidade do setor industrial."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe os dividendos e o histórico de preços do XLI, incluindo a rentabilidade total com proventos e o preço médio de aquisição."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "O SPY é o ETF que replica o índice S&P 500 completo, enquanto o XLI é um ETF setorial que replica apenas o setor industrial."
+      },
+      {
+        "ticker": "XLE",
+        "list": "us-etfs",
+        "reason": "O XLE é o ETF setorial de energia da mesma família SPDR, útil para quem busca diversificação entre setores do S&P 500."
+      },
+      {
+        "ticker": "XLK",
+        "list": "us-etfs",
+        "reason": "O XLK é o ETF setorial de tecnologia da mesma família SPDR, representando outro dos 11 setores do S&P 500."
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "O EWZ é um ETF que replica o mercado brasileiro, útil para quem busca diversificação internacional e quer comparar o desempenho do setor industrial americano"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de XLI",
+      "url": "https://finance.yahoo.com/quote/XLI/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): SPDR (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/SPDR",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Global Industry Classification Standard (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Industry (economics) (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Industry_(economics)",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

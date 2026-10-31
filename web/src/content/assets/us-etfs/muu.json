@@ -1,0 +1,294 @@
+{
+  "ticker": "MUU",
+  "slug": "muu",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "MUU: ETF alavancado 2x da Micron",
+    "description": "MUU é o Direxion Daily MU Bull 2X Shares, ETF alavancado 2x da Micron Technology.",
+    "h1": "MUU: Direxion Daily MU Bull 2X Shares",
+    "canonicalPath": "/etfs/muu",
+    "keywords": [
+      "MUU",
+      "Direxion Daily MU Bull 2X Shares",
+      "ETF alavancado Micron",
+      "MUU dividendos",
+      "MUU volatilidade",
+      "como investir MUU Brasil",
+      "MUU vs MUTC34"
+    ]
+  },
+  "summary": "(MU). Lançado em 10/10/2024, o ativo apresentou rentabilidade total de 610,43% nos 12 meses até 30/10/2026, com volatilidade anualizada de 160,53%. O fundo é emitido pela Direxion e opera com rebalanceamento diário, o que o torna adequado apenas para curtos prazos.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Direxion Daily MU Bull 2X Shares",
+    "ticker": "XNAS MUU",
+    "foundingDate": "2024-10-10",
+    "provider": {
+      "name": "Direxion",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Direxion"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF alavancado 2x",
+    "issuerOrManager": "Direxion",
+    "trackedIndex": "Micron Technology, Inc",
+    "name": "Direxion Daily MU Bull 2X Shares",
+    "founded": "10/10/2024"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Direxion Daily MU Bull 2X Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "10/10/2024",
+      "source": 0
+    },
+    {
+      "label": "Objetivo diário",
+      "value": "2x o desempenho diário da ação de referência (200%), com rebalanceamento diário",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 24,08",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "160,53% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "6,72",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,24%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 869,9 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "MUU",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Direxion Daily MU Bull 2X Shares",
+    "currency": "USD",
+    "price": 24.08,
+    "historyStarts": "2024-10-10",
+    "returns": {
+      "1y": 6.1043,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 1.6053,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7507,
+      "from": "2024-11-07",
+      "to": "2025-04-04"
+    },
+    "beta1y": {
+      "value": 6.72,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 0.5396,
+      "payments12Months": 5,
+      "yield12Months": 0.0224,
+      "lastPayment": {
+        "date": "2026-09-22",
+        "amount": 0.203
+      }
+    },
+    "avgDailyTradedValue3m": 869858831
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do MUU nos 12 meses até 30/10/2026 é de 160,53%, nível muito alto, típico de ETFs alavancados que ampliam os movimentos diários do ativo subjacente. O beta de 6,72 contra o S&P 500 indica que, em média, o MUU se move 6,72 vezes mais que o índice na mesma direção. A maior queda em 5 anos foi de -75,07%, do pico em 07/11/2024 ao ponto mais baixo em 04/04/2025. Para acompanhar oscilações intradiárias, use os [alertas de preço](/recursos/alertas-de-preco) e o [widget na barra de menus](/recursos/widget-da-barra-de-menus) do app."
+  },
+  "history": {
+    "overview": "O MUU foi lançado em 10/10/2024 pela Direxion, uma empresa americana de produtos financeiros fundada em 1997 como Potomac Funds. A Direxion iniciou a oferta de ETFs alavancados em 2008 e foi a primeira a oferecer ETFs com alavancagem de 3x em novembro do mesmo ano, movimento que gerou escrutínio da SEC e de reguladores locais. O MUU segue a Micron Technology, Inc. (MU), fabricante de semicondutores fundada em 1978 em Boise, Idaho. A Micron é uma das três maiores fabricantes de memória de computador do mundo, ao lado de Samsung Electronics e SK Hynix, e em 26/05/2026 atingiu a marca de US$ 1 trilhão em capitalização de mercado, impulsionada pela demanda por chips HBM.",
+    "timeline": [
+      {
+        "date": "1978",
+        "event": "Fundação da Micron Technology em Boise, Idaho, como consultoria de design de semicondutores.",
+        "source": 2
+      },
+      {
+        "date": "1984",
+        "event": "Micron realiza sua oferta pública inicial (IPO).",
+        "source": 2
+      },
+      {
+        "date": "1997",
+        "event": "Fundação da Direxion (então Potomac Funds) em Alexandria, Virginia.",
+        "source": 1
+      },
+      {
+        "date": "2008-11",
+        "event": "Direxion lança os primeiros ETFs com alavancagem de 3x nos EUA.",
+        "source": 1
+      },
+      {
+        "date": "2024-10-10",
+        "event": "Primeiro pregão das cotas do ETF MUU na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2026-05-26",
+        "event": "Micron Technology atinge capitalização de mercado de US$ 1 trilhão.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o MUU funciona",
+      "body": "(MU). A alavancagem é obtida por meio de contratos futuros e outros instrumentos derivados, com rebalanceamento diário. Esse mecanismo faz com que, em períodos superiores a um dia, a rentabilidade do fundo se afaste do múltiplo de 2x da variação do ativo subjacente, devido ao efeito de composição e ao custo do rebalanceamento. O fundo é emitido pela Direxion, empresa que iniciou a oferta de ETFs alavancados em 2008, e teve seu primeiro pregão em 10/10/2024."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do MUU",
+      "body": "O MUU segue o desempenho diário da ação da Micron Technology, Inc. (MU), uma empresa americana de semicondutores fundada em 1978. A Micron produz memória [DRAM](/etfs/dram), flash, HBM e SSDs, sendo uma das três maiores fabricantes de memória de computador do mundo, ao lado de Samsung Electronics e SK Hynix. Em 26/05/2026, a empresa atingiu capitalização de US$ 1 trilhão, impulsionada pela demanda por chips HBM. As fontes não detalham a composição exata dos contratos futuros ou a taxa de administração do MUU."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no MUU a partir do Brasil",
+      "body": "Para investir no MUU a partir do Brasil, o investidor precisa de uma conta em uma corretora que opere no exterior, pois o ETF é listado em bolsa americana e cotado em dólar. O risco cambial é relevante: variações no câmbio do dólar frente ao real impactam diretamente o retorno em reais. Alternativamente, é possível buscar exposição ao setor de semicondutores por meio de BDRs da B3, como [MUTC34](/bdrs/mutc34) (Micron Technology, Inc.), que negociam em reais e eliminam o risco cambial, mas não replicam a alavancagem de 2x do MUU."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do MUU",
+      "body": "Nos 12 meses até 30/10/2026, o MUU apresentou rentabilidade total com proventos de 610,43%, com preço de US$ 24,08. A volatilidade anualizada no mesmo período foi de 160,53%, classificada como muito alta. O beta de 12 meses contra o S&P 500 é 6,72, indicando que o ativo tende a se mover 6,72 vezes mais que o índice em média. A maior queda nos últimos 5 anos foi de -75,07%, do pico em 07/11/2024 ao ponto mais baixo em 04/04/2025. Para comparar esse desempenho com o S&P 500, use a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do MUU",
+      "body": "O principal risco do MUU é a alavancagem diária: em períodos longos, a composição de retornos e o custo do rebalanceamento fazem com que o resultado se afaste do múltiplo de 2x da variação do MU. A volatilidade anualizada de 160,53% e a maior queda de -75,07% (07/11/2024 a 04/04/2025) ilustram a magnitude dos movimentos. O beta de 6,72 contra o S&P 500 indica alta sensibilidade aos movimentos do mercado. O risco cambial também é relevante para investidores brasileiros. Para monitorar oscilações, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o MUU?",
+      "answer": "(MU). Lançado em 10/10/2024, o fundo é emitido pela Direxion e opera com rebalanceamento diário, o que o torna adequado apenas para curtos prazos."
+    },
+    {
+      "question": "MUU é alavancado ou inverso?",
+      "answer": "Não é inverso. O rebalanceamento diário faz com que, em períodos longos, o resultado se afaste do múltiplo de 2x da variação do ativo subjacente."
+    },
+    {
+      "question": "Qual a diferença entre MUU e MUTC34?",
+      "answer": "MUU é um ETF alavancado 2x que segue a variação diária da ação da Micron, enquanto [MUTC34](/bdrs/mutc34) é um BDR que representa a ação da Micron na B3, sem alavancagem. O MUU amplifica os movimentos diários, enquanto o MUTC34 acompanha a ação 1:1, com risco cambial eliminado para o investidor brasileiro."
+    },
+    {
+      "question": "MUU paga dividendos?",
+      "answer": "Sim. Nos 12 meses até 30/10/2026, o MUU distribuiu US$ 0,5396 por cota em 5 pagamentos, com dividend yield de 2,24%. O último pagamento foi de US$ 0,2030 em 22/09/2026. Veja os proventos no [desempenho e preço médio](/recursos/desempenho-e-preco-medio) do app."
+    },
+    {
+      "question": "Qual a volatilidade do MUU?",
+      "answer": "A volatilidade anualizada do MUU nos 12 meses até 30/10/2026 é de 160,53%, nível muito alto. A maior queda em 5 anos foi de -75,07%, do pico em 07/11/2024 ao ponto mais baixo em 04/04/2025. Para monitorar oscilações, use os [alertas de preço](/recursos/alertas-de-preco) no app."
+    },
+    {
+      "question": "Como investir no MUU a partir do Brasil?",
+      "answer": "É necessário ter conta em uma corretora que opere no exterior, pois o MUU é listado em bolsa americana e cotado em dólar. O risco cambial impacta o retorno em reais. Alternativamente, é possível buscar exposição ao setor de semicondutores por meio de BDRs da B3, como [MUTC34](/bdrs/mutc34), que negociam em reais."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o MUU chegar ao preço que você escolheu, útil para monitorar oscilações de um ativo com volatilidade de 160,53%."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do MUU lado a lado com o S&P 500, no mesmo gráfico, para avaliar o desempenho relativo do ativo alavancado."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do MUU, o preço médio da sua posição e os proventos distribuídos, com data de pagamento e multiplicação pela quantidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o MUU junto com outras posições, com alocação por classe e as maiores posições, para avaliar a diversificação da carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "MUTC34",
+        "list": "bdrs",
+        "reason": "BDR da Micron Technology na B3, sem alavancagem, para quem quer exposição à ação sem amplificar os movimentos diários."
+      },
+      {
+        "ticker": "SOXL",
+        "list": "us-etfs",
+        "reason": "ETF alavancado 3x do setor de semicondutores, da mesma emissora Direxion, para comparação de alavancagem e volatilidade."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF do setor de semicondutores sem alavancagem, para quem quer exposição ao setor sem amplificar os movimentos diários."
+      },
+      {
+        "ticker": "DRAM",
+        "list": "us-etfs",
+        "reason": "ETF de memória de computador, para quem quer exposição ao segmento específico de DRAM sem alavancagem."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de MUU",
+      "url": "https://finance.yahoo.com/quote/MUU/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Direxion (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Direxion",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Micron Technology (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Micron_Technology",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Exchange-traded fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Exchange-traded_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. ETF alavancado ou inverso: busca um múltiplo do desempenho de um único dia e é rebalanceado todos os dias, então em períodos maiores o resultado pode ser muito diferente desse múltiplo, e as perdas podem ser grandes. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

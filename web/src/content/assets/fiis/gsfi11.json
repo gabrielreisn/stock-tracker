@@ -1,0 +1,331 @@
+{
+  "ticker": "GSFI11",
+  "slug": "gsfi11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "GSFI11: história, dividendos e volatilidade",
+    "description": "GSFI11 é um FII de tijolo focado em shoppings e outlets. Veja a história, dividendos, volatilidade e patrimônio do General Shopping e Outlets do Brasil",
+    "h1": "GSFI11: General Shopping e Outlets do Brasil FII",
+    "canonicalPath": "/fiis/gsfi11",
+    "keywords": [
+      "GSFI11",
+      "General Shopping e Outlets do Brasil FII",
+      "FII de shoppings",
+      "FII de tijolo",
+      "dividendos GSFI11",
+      "volatilidade GSFI11",
+      "patrimônio GSFI11"
+    ]
+  },
+  "summary": "GSFI11 é a cota do General Shopping e Outlets do Brasil Fundo de Investimento Imobiliário, um FII de tijolo focado no segmento de shoppings e outlets. O fundo é administrado pela Planner Corretora e gerido pela Capitânia Investimentos. Em 09/2026, o patrimônio líquido era de R$ 1,24 bilhão, com 6.815 cotistas e valor patrimonial de R$ 12,89 por cota. A carteira possui 10 ativos, com 91,6% de ocupação em julho de 2026.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "General Shopping e Outlets do Brasil Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "GENERAL SHOPPING E OUTLETS DO BRASIL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF GSFI11",
+    "isin": "BRGSFICTF009",
+    "taxId": "11.769.604/0001-13",
+    "foundingDate": "2010-05-19",
+    "provider": {
+      "name": "PLANNER CORRETORA DE VALORES S.A.",
+      "url": "https://www.planner.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=11769604000113"
+    ]
+  },
+  "profile": {
+    "type": "FII de tijolo, shoppings e outlets",
+    "issuerOrManager": "Capitânia Investimentos (gestor) e Planner Corretora de Valores S.A",
+    "name": "General Shopping e Outlets do Brasil Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "GENERAL SHOPPING E OUTLETS DO BRASIL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Shoppings",
+    "founded": "19/05/2010",
+    "administrator": "PLANNER CORRETORA DE VALORES S.A.",
+    "website": "https://www.planner.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "GENERAL SHOPPING E OUTLETS DO BRASIL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "11.769.604/0001-13",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Shoppings",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Definida",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "PLANNER CORRETORA DE VALORES S.A.",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "19/05/2010",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 1,24 bilhão",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "6.815",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 12,89",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 11,75",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "19,36% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,19",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,94%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 488.296,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "GSFI11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "General Shopping E Outlets Do Brasil Fundo De Investimento Imobiliario FII",
+    "currency": "BRL",
+    "price": 11.75,
+    "historyStarts": "2019-04-30",
+    "returns": {
+      "1y": 0.2317,
+      "3y": 0.4901,
+      "5y": 1.8513,
+      "10y": null
+    },
+    "volatility1y": 0.1936,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.1585,
+      "from": "2023-11-14",
+      "to": "2025-01-28"
+    },
+    "beta1y": {
+      "value": 0.19,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.11,
+      "payments12Months": 1,
+      "yield12Months": 0.0094,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.11
+      }
+    },
+    "avgDailyTradedValue3m": 488296
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do GSFI11 nos 12 meses até 29/10/2026 foi de 19,36%, nível moderado 0. O beta contra o Ibovespa foi de 0,19, indicando que o fundo costuma acompanhar os movimentos do índice com amplitude menor, na mesma direção 0. A maior queda nos últimos 5 anos foi de -15,85%, do pico em 14/11/2023 ao ponto mais baixo em 28/01/2025 0. Para FIIs de tijolo, a volatilidade pode ser influenciada por fatores como vacância, variação de receitas de aluguéis e condições de crédito. O saldo devedor do CRI em agosto de 2026 era de R$ 565,3 milhões, 45,8% do patrimônio líquido 3. Veja os [alertas de preço](/recursos/alertas-de-preco) para acompanhar a volatilidade do GSFI11."
+  },
+  "history": {
+    "overview": "O General Shopping e Outlets do Brasil FII (GSFI11) iniciou suas atividades em 19/05/2010, com foco na obtenção de renda por meio da exploração comercial de shopping centers e outlets, além de ganho de capital [1, 3]. A negociação das cotas na B3 teve início em 04/2019 3. A estratégia do fundo é de gestão ativa, com a Capitânia Investimentos atuando como gestora e a Planner Corretora como administradora 3. Em 2024, o fundo realizou ofertas públicas de cotas, com início em 30/01/2024 e encerramento em 23/07/2024, e outra entre 02/09/2024 e 04/09/2024 2. Em 28/05/2026, o fundo realizou uma permuta de ativos, trocando participações no Parque Shopping Sulacap e Unimart Shopping por participações em outlets como o Outlet Premium Imigrantes e Outlet Premium São Paulo – Expansão 4. A 6ª emissão de cotas, no montante de R$ 104.992.000,00, teve início em 15/04/2026 e encerramento em 08/10/2026 [2, 5]. Em 09/2026, o patrimônio líquido era de R$ 1,24 bilhão, com 6.815 cotistas 1.",
+    "timeline": [
+      {
+        "date": "2010-05-19",
+        "event": "Início das atividades do fundo",
+        "source": 1
+      },
+      {
+        "date": "2019-04",
+        "event": "Início da negociação das cotas na B3",
+        "source": 3
+      },
+      {
+        "date": "2024-01-30",
+        "event": "Início de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2024-07-23",
+        "event": "Encerramento de oferta pública de cotas (nova emissão)",
+        "source": 2
+      },
+      {
+        "date": "2026-05-28",
+        "event": "Permuta de ativos: troca de participações no Parque Shopping Sulacap e Unimart Shopping por participações em outlets",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do GSFI11",
+      "body": "O GSFI11 é um FII de tijolo, classificado pela ANBIMA como 'Tijolo Renda Gestão Ativa - Shopping' 3. O objetivo do fundo é a obtenção de renda mediante a exploração comercial dos shopping centers e outlets que constituem o seu portfólio, bem como a obtenção de ganho de capital por meio de compra e venda desses ativos 3. A gestora é a Capitânia Investimentos e o administrador é a Planner Corretora de Valores S.A. [1, 3]. Em agosto de 2026, a carteira possuía 10 ativos, com ABL total de 227.434 m² e ABL do fundo de 136.867 m² 3. Os ativos incluem o Parque Shopping Barueri (89,6% de participação), Outlet Premium São Paulo (49,4%), Shopping Bonsucesso (62,5%), Outlet Premium Brasília (50,0%), Outlet Premium Rio de Janeiro (50,0%), Outlet Premium Grande São Paulo (84,0%), Outlet Premium Imigrantes (49,0%), Outlet Premium Salvador (51,0%), Parque Shopping Sulacap (50,0%) e Outlet Premium Fortaleza (49,0%) 3. A ocupação de julho de 2026 foi de 91,6% da ABL própria 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do GSFI11",
+      "body": "Nos 12 meses até 29/10/2026, o GSFI11 distribuiu R$ 0,1100 por cota em 1 pagamento, com dividend yield de 0,94% 0. O último pagamento foi de R$ 0,1100 em 01/10/2026 0. O relatório gerencial de agosto de 2026 não menciona a data de divulgação do rendimento nem a data de distribuição, indicando 'Não se aplica' 3. O fundo não possui taxa de performance 3. A tributação de rendimentos de FIIs não é detalhada nas fontes do dossiê, mas os rendimentos de FIIs são isentos de imposto de renda para pessoas físicas, conforme a legislação vigente. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos do GSFI11."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O GSFI11 realizou 4 ofertas públicas de cotas encerradas, com 616 documentos publicados no FNET desde 14/06/2016 2. A 6ª emissão de cotas, no montante de R$ 104.992.000,00, teve início em 15/04/2026 e encerramento em 08/10/2026 [2, 5]. Em 09/2026, o patrimônio líquido era de R$ 1,24 bilhão, com 6.815 cotistas e valor patrimonial de R$ 12,89 por cota 1. O número de cotas emitidas era de 96.106.666 1. A taxa de administração no mês de 09/2026, sobre o patrimônio, foi de 0,008% 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do GSFI11",
+      "body": "A rentabilidade total com proventos do GSFI11 nos 12 meses até 29/10/2026 foi de 23,17%, nos 3 anos de 49,01% e nos 5 anos de 185,13% 0. Em agosto de 2026, o fundo acumulou retorno de 21,8% em 12 meses, ante 8,2% do IFIX 3. O preço da cota em 29/10/2026 era de R$ 11,75 0. O P/VP em 31/08/2026 era de 0,87 3. Veja a [comparação com índices](/recursos/comparacao-com-indices) para acompanhar o desempenho do GSFI11 em relação ao IFIX, CDI e outros índices."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do GSFI11",
+      "body": "O GSFI11 é um FII de tijolo, exposto a riscos de vacância e variação de receitas de aluguéis. A ocupação de julho de 2026 foi de 91,6% da ABL própria, com o Outlet Premium Fortaleza apresentando 78,6% de ocupação, a menor da carteira 3. A volatilidade anualizada nos 12 meses até 29/10/2026 foi de 19,36%, nível moderado 0. O beta contra o Ibovespa foi de 0,19, indicando movimentos menores que os do índice, na mesma direção 0. A maior queda nos últimos 5 anos foi de -15,85%, do pico em 14/11/2023 ao ponto mais baixo em 28/01/2025 0. O saldo devedor do CRI encerrou agosto de 2026 em R$ 565,3 milhões, 45,8% do patrimônio líquido 3. Veja os [alertas de preço](/recursos/alertas-de-preco) para acompanhar a volatilidade do GSFI11."
+    }
+  ],
+  "faq": [
+    {
+      "question": "GSFI11 paga dividendos?",
+      "answer": "Sim, o GSFI11 distribui rendimentos. Nos 12 meses até 29/10/2026, o fundo pagou R$ 0,1100 por cota em 1 pagamento, com dividend yield de 0,94% 0. O último pagamento foi de R$ 0,1100 em 01/10/2026 0. Veja os [dividendos e JCP no app](/recursos/proventos) para acompanhar os pagamentos do GSFI11."
+    },
+    {
+      "question": "GSFI11 é FII de papel ou de tijolo?",
+      "answer": "O GSFI11 é um FII de tijolo, classificado pela ANBIMA como 'Tijolo Renda Gestão Ativa - Shopping' 3. O fundo possui 10 ativos de shopping centers e outlets, com ABL total de 227.434 m² e ABL do fundo de 136.867 m² 3. A ocupação de julho de 2026 foi de 91,6% da ABL própria 3."
+    },
+    {
+      "question": "Qual a diferença entre GSFI11 e outros FIIs de shoppings?",
+      "answer": "O GSFI11 é um FII de tijolo focado em shoppings e outlets, com 10 ativos na carteira 3. Outros FIIs de shoppings incluem [VISC11](/fiis/visc11), [HGBS11](/fiis/hgbs11), [PMLL11](/fiis/pmll11), [BPML11](/fiis/bpml11) e [HSML11](/fiis/hsml11). O GSFI11 tem patrimônio líquido de R$ 1,24 bilhão em 09/2026 1."
+    },
+    {
+      "question": "Qual a taxa de administração do GSFI11?",
+      "answer": "A taxa de administração do GSFI11 é de 1% a.a. sobre o Patrimônio Líquido 3. Em 09/2026, a taxa de administração no mês, sobre o patrimônio, foi de 0,008% 1. O fundo não possui taxa de performance 3."
+    },
+    {
+      "question": "GSFI11 tem alavancagem?",
+      "answer": "Sim, o GSFI11 possui alavancagem. Em agosto de 2026, o saldo devedor do CRI encerrou o mês em R$ 565,3 milhões, 45,8% do patrimônio líquido 3. O fundo possui 10 ativos, com ABL total de 227.434 m² e ABL do fundo de 136.867 m² 3."
+    },
+    {
+      "question": "Qual o patrimônio líquido do GSFI11?",
+      "answer": "Em 09/2026, o patrimônio líquido do GSFI11 era de R$ 1,24 bilhão, com 6.815 cotistas e valor patrimonial de R$ 12,89 por cota 1. O número de cotas emitidas era de 96.106.666 1. Em 31/08/2026, o patrimônio líquido era de R$ 1.234.333.839 3."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP do GSFI11 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Acompanhe o desempenho do GSFI11 em relação ao IFIX, CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o GSFI11 chegar ao preço que você escolheu, para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o GSFI11 junto com suas outras posições, com valor por classe, alocação e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VISC11",
+        "list": "fiis",
+        "reason": "Outro FII de shoppings, com foco em shopping centers."
+      },
+      {
+        "ticker": "HGBS11",
+        "list": "fiis",
+        "reason": "FII de shoppings, com foco em shopping centers."
+      },
+      {
+        "ticker": "PMLL11",
+        "list": "fiis",
+        "reason": "FII de shoppings, com foco em shopping centers."
+      },
+      {
+        "ticker": "BPML11",
+        "list": "fiis",
+        "reason": "FII de shoppings, com foco em shopping centers."
+      },
+      {
+        "ticker": "HSML11",
+        "list": "fiis",
+        "reason": "FII de shoppings, com foco em shopping centers."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de GSFI11",
+      "url": "https://finance.yahoo.com/quote/GSFI11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do CARTEIRA: FII PLANNER 2557 - GSFI FII (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo GSFI11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=11769604000113",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do GSFI11, referência 31/08/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1358913",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do GSFI11, 28/05/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1205773",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Fato relevante do GSFI11, 15/04/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1164389",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

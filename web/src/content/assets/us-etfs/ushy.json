@@ -1,0 +1,269 @@
+{
+  "ticker": "USHY",
+  "slug": "ushy",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "USHY: ETF de high yield em dólar",
+    "description": "Conheça o USHY, ETF de títulos de alto rendimento em dólar da iShares. Veja desempenho, dividendos, riscos e como investir a partir do Brasil.",
+    "h1": "USHY: iShares Broad USD High Yield Corporate Bond ETF",
+    "canonicalPath": "/etfs/ushy",
+    "keywords": [
+      "USHY",
+      "ETF high yield",
+      "iShares USHY",
+      "títulos de alto rendimento",
+      "ETF em dólar",
+      "renda fixa americana",
+      "dividend yield USHY"
+    ]
+  },
+  "summary": "USHY é o iShares Broad USD High Yield Corporate Bond ETF, lançado em 26/10/2017 pela BlackRock. O ativo replica um índice de títulos corporativos de alto rendimento (high yield) em dólar, com foco em emissoras de menor grau de investimento. Até 29/10/2026, a cota valia US$ 35,86 e a rentabilidade total nos últimos 12 meses foi de 2,04%, com dividend yield de 7,11%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Broad USD High Yield Corporate Bond ETF",
+    "ticker": "BATS USHY",
+    "foundingDate": "2017-10-26",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa (High Yield)",
+    "issuerOrManager": "BlackRock (iShares)",
+    "trackedIndex": "ICE BofA US High Yield Index",
+    "name": "iShares Broad USD High Yield Corporate Bond ETF",
+    "founded": "26/10/2017"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Broad USD High Yield Corporate Bond ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "26/10/2017",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "US$ 35,86",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "3,75% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,22",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "7,11%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 513,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "USHY",
+    "list": "us-etfs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Broad USD High Yield Corporate Bond ETF",
+    "currency": "USD",
+    "price": 35.86,
+    "historyStarts": "2017-10-26",
+    "returns": {
+      "1y": 0.0204,
+      "3y": 0.2921,
+      "5y": 0.2049,
+      "10y": null
+    },
+    "volatility1y": 0.0375,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1556,
+      "from": "2021-12-27",
+      "to": "2022-09-27"
+    },
+    "beta1y": {
+      "value": 0.22,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.549,
+      "payments12Months": 12,
+      "yield12Months": 0.0711,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.22
+      }
+    },
+    "avgDailyTradedValue3m": 512979997
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do USHY é de 3,75%, considerada de nível baixo para o mercado, o que é típico de ETFs de renda fixa. O beta de 0,22 contra o S&P 500 indica que, historicamente, o ativo tem movimentos menores que o índice de ações, na mesma direção. A maior queda em 5 anos foi de -15,56%, ocorrendo do pico em 27/12/2021 ao fundo em 27/09/2022. Para monitorar movimentos bruscos, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "O USHY faz parte da linha iShares, marca de ETFs da BlackRock. A história da marca começa em 2000, quando o Barclays Global Investors lançou os primeiros fundos com esse nome, anteriormente conhecidos como WEBS (World Equity Benchmark Shares). Em 2009, a BlackRock adquiriu o negócio da Barclays, consolidando a iShares como a maior emissora de ETFs dos EUA e do mundo, segundo a Wikipedia. O próprio USHY iniciou suas operações em 26/10/2017, oferecendo exposição a um segmento específico do mercado de dívida corporativa americana. Diferente de ETFs de ações, o USHY foca em títulos de renda fixa com classificação de crédito abaixo do grau de investimento, o que implica maior risco de inadimplência em troca de rendimentos mais elevados.",
+    "timeline": [
+      {
+        "date": "2000",
+        "event": "Lançamento dos primeiros fundos da marca iShares pelo Barclays Global Investors.",
+        "source": 1
+      },
+      {
+        "date": "2009-03-16",
+        "event": "Barclays confirma a venda da marca iShares para a CVC Capital Partners.",
+        "source": 1
+      },
+      {
+        "date": "2017-10-26",
+        "event": "Primeiro pregão das cotas do ETF USHY na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o USHY funciona",
+      "body": "O USHY é um ETF que busca replicar o desempenho de um índice de títulos corporativos de alto rendimento (high yield) em dólar. A emissora é a iShares, uma marca da BlackRock, que adquiriu o negócio da Barclays em 2009. O fundo foi lançado em 26/10/2017. Diferente de ETFs alavancados ou inversos, o USHY não possui rebalanceamento diário de múltiplos, pois é um fundo passivo tradicional de renda fixa. Ele distribui proventos regularmente aos cotistas, com base nos juros dos títulos que compõem sua carteira."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do USHY",
+      "body": "O USHY segue um índice de títulos de alto rendimento (high yield), que são obrigações de empresas com classificação de crédito abaixo do grau de investimento. Segundo a Wikipedia, esses títulos oferecem rendimentos mais altos para compensar o maior risco de inadimplência. O mercado de high yield nos EUA é composto por cerca de US$ 1,8 trilhão em títulos emitidos, representando aproximadamente 16% do mercado corporativo total. A composição exata dos títulos não é detalhada nas fontes fornecidas, mas o foco é em devedores corporativos especulativos."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no USHY a partir do Brasil",
+      "body": "Para investir no USHY a partir do Brasil, o investidor precisa abrir conta em uma corretora que opere no mercado americano ou que ofereça acesso a ETFs listados lá. O ativo é cotado em dólar, o que introduz risco cambial: se o dólar se valorizar frente ao real, o investimento rende mais em reais, e vice-versa. Não há menção a BDRs ou ETFs brasileiros que replicam especificamente o índice do USHY nas fontes, mas o investidor pode buscar alternativas similares no mercado local ou acessar o ativo diretamente no exterior."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do USHY",
+      "body": "Até 29/10/2026, a cota do USHY valia US$ 35,86. A rentabilidade total com proventos foi de 2,04% nos últimos 12 meses, 29,21% em 3 anos e 20,49% em 5 anos. O dividend yield é de 7,11%, com base em US$ 2,5490 distribuídos em 12 pagamentos no último ano. Para comparar esse desempenho com o mercado americano, é possível usar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices) do app, que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do USHY",
+      "body": "O principal risco do USHY é o crédito, pois ele investe em títulos de alto rendimento, que têm maior probabilidade de inadimplência. A Wikipedia aponta que a taxa de default média no setor é de 5% a longo prazo, podendo subir em crises. A volatilidade anualizada do USHY é de 3,75% (nível baixo), mas a maior queda em 5 anos foi de -15,56%, entre 27/12/2021 e 27/09/2022. O beta de 0,22 indica que o ativo tende a se mover menos que o S&P 500. O risco cambial também é relevante para o investidor brasileiro."
+    }
+  ],
+  "faq": [
+    {
+      "question": "USHY paga dividendos?",
+      "answer": "Sim, o USHY distribui proventos regularmente. Nos 12 meses até 29/10/2026, foram US$ 2,5490 por cota, resultando em um dividend yield de 7,11%. O último pagamento foi de US$ 0,2200 em 01/10/2026. É possível acompanhar o histórico de proventos na seção de [renda fixa](/recursos/renda-fixa) do app, que também avalia outros títulos."
+    },
+    {
+      "question": "Qual a diferença entre USHY e HYG?",
+      "answer": "Ambos são ETFs de high yield da iShares, mas o USHY é mais amplo (Broad) e o [HYG](/etfs/hyg) é o iBoxx High Yield Corporate Bond ETF. As fontes não detalham a diferença exata de composição, mas ambos seguem índices de títulos de alto rendimento em dólar. O USHY tem maior volume médio (US$ 513 milhões/dia) e foi lançado em 2017, enquanto o HYG é mais antigo."
+    },
+    {
+      "question": "USHY é um ETF alavancado?",
+      "answer": "Não, o USHY é um ETF passivo tradicional de renda fixa. Ele não usa alavancagem nem inversão, apenas replica o índice de títulos de alto rendimento. Não há rebalanceamento diário de múltiplos, o que o diferencia de ativos como [SOXL](/etfs/soxl) ou [TQQQ](/etfs/tqqq)."
+    },
+    {
+      "question": "Como o USHY se comporta em crises?",
+      "answer": "Em crises, títulos de alto rendimento tendem a sofrer mais que os de grau de investimento. A maior queda do USHY em 5 anos foi de -15,56%, entre 27/12/2021 e 27/09/2022. A volatilidade é baixa (3,75%), mas o risco de crédito é maior. O beta de 0,22 mostra que ele se move menos que o S&P 500, mas não é imune a quedas."
+    },
+    {
+      "question": "Posso investir no USHY pela B3?",
+      "answer": "As fontes não mencionam um BDR ou ETF brasileiro que replique o USHY. O investidor brasileiro precisa acessar o ativo via corretora com acesso ao mercado americano. O risco cambial é um fator importante, pois a cotação é em dólar. O app permite acompanhar a carteira consolidada, incluindo ativos no exterior, na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "USHY é bom para iniciantes?",
+      "answer": "O USHY tem volatilidade baixa e beta de 0,22, o que pode atrair investidores que buscam renda em dólar com menos oscilação que ações. Porém, ele investe em títulos de alto risco de crédito. Não há recomendação de perfil no app, mas o investidor deve avaliar o risco de inadimplência. O [assistente de IA](/recursos/assistente-de-ia) pode ajudar a entender a alocação da carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o USHY ao lado de outras posições, com alocação por classe e valor total, na carteira consolidada."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do USHY com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificações quando a cota do USHY atingir o preço que você definiu, útil para monitorar volatilidade."
+      },
+      {
+        "feature": "renda-fixa",
+        "anchor": "renda fixa",
+        "context": "Acompanhe os proventos do USHY e compare com CDBs e debêntures na seção de renda fixa."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "HYG",
+        "list": "us-etfs",
+        "reason": "Outro ETF de high yield da iShares, com foco similar em títulos corporativos de alto rendimento em dólar."
+      },
+      {
+        "ticker": "LQD",
+        "list": "us-etfs",
+        "reason": "ETF de títulos corporativos de grau de investimento, para comparação de risco e retorno no mercado de renda fixa americana."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar a performance do USHY com o mercado de ações americano."
+      },
+      {
+        "ticker": "TLT",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro de longo prazo, para diversificação em renda fixa americana."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de USHY",
+      "url": "https://finance.yahoo.com/quote/USHY/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): High-yield debt (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/High-yield_debt",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,292 @@
+{
+  "ticker": "P2AN34",
+  "slug": "p2an34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "P2AN34: BDR da Palo Alto Networks, cibersegurança",
+    "description": "P2AN34 é o BDR da Palo Alto Networks, empresa de cibersegurança. Veja desempenho, riscos e como funciona o BDR na B3.",
+    "h1": "P2AN34: BDR da Palo Alto Networks",
+    "canonicalPath": "/bdrs/p2an34",
+    "keywords": [
+      "P2AN34",
+      "Palo Alto Networks",
+      "BDR cibersegurança",
+      "PANW B3",
+      "BDR não patrocinado"
+    ]
+  },
+  "summary": "P2AN34 é o BDR não patrocinado de nível I da Palo Alto Networks Inc., empresa americana de cibersegurança sediada em Santa Clara, Califórnia. Listado na B3 desde 14/01/2022, o ativo permite a exposição à ação original PANW, negociada na Nasdaq, com liquidação em reais. Em 29/10/2026, o preço de fechamento era de R$ 34,78, refletindo a variação do câmbio e o desempenho da ação nos Estados Unidos.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Palo Alto Networks",
+    "legalName": "PALO ALTO NETWORKS INC",
+    "ticker": "BVMF P2AN34",
+    "foundingDate": "2005",
+    "website": "https://www.paloaltonetworks.com",
+    "wikidata": "Q7128508",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q7128508",
+      "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58610/P2AN/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Palo Alto Networks",
+    "legalName": "PALO ALTO NETWORKS INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2005",
+    "listedSince": "14/01/2022",
+    "headquarters": "Santa Clara",
+    "website": "https://www.paloaltonetworks.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "PALO ALTO NETWORKS INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: PANW",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Santa Clara",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2005",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "14/01/2022",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 34,78",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "80,31% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original PANW em dólares)",
+      "value": "1,25",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 4,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "P2AN34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Palo Alto Networks, Inc.",
+    "currency": "BRL",
+    "price": 34.78,
+    "historyStarts": "2026-05-27",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.8031,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.2599,
+      "from": "2026-06-02",
+      "to": "2026-06-09"
+    },
+    "beta1y": {
+      "value": 1.25,
+      "against": "S&P 500, ação original PANW em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 4845969
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do P2AN34 nos últimos 12 meses foi de 80,31%, um nível muito alto. O beta da ação original PANW, contra o S&P 500, é de 1,25, o que indica que a ação tende a se mover com maior amplitude que o índice, na mesma direção. A maior queda nos últimos 5 anos foi de -25,99%, entre 02/06/2026 e 09/06/2026. Esses números refletem a natureza do setor de tecnologia e a exposição ao câmbio, que amplifica os movimentos do BDR em reais."
+  },
+  "history": {
+    "overview": "A Palo Alto Networks foi fundada em 2005 por Nir Zuk, com foco em plataformas de segurança cibernética que incluem firewalls avançados e soluções em nuvem. A empresa realizou sua oferta inicial de ações (IPO) na NYSE em 20 de julho de 2012, captando US$ 260 milhões, e transferiu sua listagem para a Nasdaq em outubro de 2021. Em fevereiro de 2026, a companhia passou a ser listada também na Bolsa de Tel Aviv (TASE), tornando-se a primeira empresa a atingir a marca de 1 trilhão de shekels (NIS) na bolsa israelense em setembro de 2026. A estratégia de crescimento da empresa tem sido marcada por uma série de aquisições significativas, incluindo a compra da CyberArk por US$ 25 bilhões, concluída em fevereiro de 2026, e a aquisição da Chronosphere por US$ 3,35 bilhões, finalizada em janeiro de 2026. Em maio de 2026, a Palo Alto Networks atingiu pela primeira vez uma capitalização de mercado de US$ 200 bilhões. O BDR P2AN34, que permite a negociação da ação na B3 em reais, foi listado em 14 de janeiro de 2022.",
+    "timeline": [
+      {
+        "date": "2005",
+        "event": "Fundação da Palo Alto Networks por Nir Zuk.",
+        "source": 2
+      },
+      {
+        "date": "2012-07-20",
+        "event": "Oferta inicial de ações (IPO) na NYSE, captando US$ 260 milhões.",
+        "source": 3
+      },
+      {
+        "date": "2021-10",
+        "event": "Transferência da listagem da NYSE para a Nasdaq.",
+        "source": 3
+      },
+      {
+        "date": "2022-01-14",
+        "event": "Listagem do BDR P2AN34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2026-02",
+        "event": "Ação original PANW passa a ser negociada na Bolsa de Tel Aviv (TASE) e conclusão da aquisição da CyberArk por US$ 25 bilhões.",
+        "source": 3
+      },
+      {
+        "date": "2026-05",
+        "event": "A Palo Alto Networks atinge uma capitalização de mercado de US$ 200 bilhões pela primeira vez.",
+        "source": 3
+      },
+      {
+        "date": "2026-08",
+        "event": "A China inicia uma revisão de segurança sobre os produtos da Palo Alto Networks no mercado chinês.",
+        "source": 3
+      },
+      {
+        "date": "2026-09",
+        "event": "A empresa se torna a primeira a atingir a marca de 1 trilhão de NIS na Bolsa de Tel Aviv.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Palo Alto Networks ganha dinheiro",
+      "body": "A Palo Alto Networks Inc. é uma empresa multinacional de cibersegurança sediada em Santa Clara, Califórnia. O produto central da companhia é uma plataforma que inclui firewalls avançados e ofertas baseadas em nuvem que estendem essas proteções para outras áreas de segurança. A empresa atende a mais de 70.000 organizações em mais de 150 países, incluindo 85 das 100 maiores empresas da lista Fortune 100. A Palo Alto Networks é sede da equipe de pesquisa de ameaças Unit 42 e organiza a conferência de cibersegurança Ignite. A empresa também é uma organização parceira do Fórum Econômico Mundial."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR P2AN34",
+      "body": "O P2AN34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Palo Alto Networks Inc. no exterior. A ação original é a PANW, negociada na Nasdaq. O preço do BDR acompanha a variação da ação original em dólares e a taxa de câmbio entre o dólar e o real. O BDR P2AN34 está listado na B3 desde 14/01/2022."
+    },
+    {
+      "id": "proventos",
+      "heading": "P2AN34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 29/10/2026, o P2AN34 não distribuiu proventos. A Palo Alto Networks não possui histórico de pagamento de dividendos ou juros sobre capital próprio nos dados analisados. Caso a empresa decida distribuir proventos no futuro, o valor seria convertido para reais e creditado aos detentores do BDR."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do P2AN34",
+      "body": "Em 29/10/2026, o preço do P2AN34 era de R$ 34,78. A volatilidade anualizada nos últimos 12 meses foi de 80,31%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -25,99%, ocorrendo entre o pico em 02/06/2026 e o ponto mais baixo em 09/06/2026. As rentabilidades em reais incluem a variação do câmbio entre o dólar e o real. Para acompanhar o desempenho do P2AN34 em relação a outros ativos, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do P2AN34",
+      "body": "O P2AN34 está sujeito ao risco cambial, pois seu valor em reais depende da cotação do dólar em relação ao real. A volatilidade anualizada de 80,31% e a maior queda de -25,99% nos últimos 5 anos indicam oscilações expressivas. O volume médio negociado por dia nos últimos 3 meses foi de R$ 4,8 milhões, o que pode impactar a liquidez do ativo. A empresa também enfrenta riscos regulatórios, como a revisão de segurança iniciada pela China em agosto de 2026. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar P2AN34 no app",
+      "body": "Para quem tem P2AN34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja o desempenho do P2AN34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure uma notificação quando o P2AN34 chegar ao preço que você escolheu, para acompanhar oscilações.\n- [carteira consolidada](/recursos/carteira-consolidada): Veja o P2AN34 junto com outras posições, com valor por classe e alocação, em uma só visão."
+    }
+  ],
+  "faq": [
+    {
+      "question": "P2AN34 paga dividendos?",
+      "answer": "Não. Nos últimos 12 meses até 29/10/2026, o P2AN34 não distribuiu proventos. A Palo Alto Networks não possui histórico de pagamento de dividendos nos dados analisados."
+    },
+    {
+      "question": "Qual a diferença entre P2AN34 e a ação PANW?",
+      "answer": "O P2AN34 é um BDR negociado na B3 em reais, enquanto a PANW é a ação original negociada na Nasdaq em dólares. O preço do BDR acompanha a ação original e a taxa de câmbio entre o dólar e o real."
+    },
+    {
+      "question": "O que é um BDR não patrocinado?",
+      "answer": "Um BDR não patrocinado é um recibo negociado na B3 em reais que representa ações de uma empresa listada no exterior. No caso do P2AN34, o BDR é de nível I e representa a ação PANW da Palo Alto Networks, negociada na Nasdaq."
+    },
+    {
+      "question": "Qual o risco cambial do P2AN34?",
+      "answer": "O P2AN34 está sujeito ao risco cambial, pois seu valor em reais depende da cotação do dólar em relação ao real. A volatilidade anualizada de 80,31% reflete essa exposição."
+    },
+    {
+      "question": "Qual a liquidez do P2AN34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses foi de R$ 4,8 milhões. Esse volume pode impactar a liquidez do ativo, especialmente em operações de maior porte."
+    },
+    {
+      "question": "Como acompanhar o desempenho do P2AN34?",
+      "answer": "É possível acompanhar o desempenho do P2AN34 utilizando a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500 e o CDI. Também é possível configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja o desempenho do P2AN34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação quando o P2AN34 chegar ao preço que você escolheu, para acompanhar oscilações."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o P2AN34 junto com outras posições, com valor por classe e alocação, em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "C2RW34",
+        "list": "bdrs",
+        "reason": "Outro BDR de cibersegurança, CrowdStrike Holdings, com exposição semelhante ao setor."
+      },
+      {
+        "ticker": "F1TN34",
+        "list": "bdrs",
+        "reason": "BDR da Fortinet, concorrente direta da Palo Alto Networks no setor de cibersegurança."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta da ação original PANW."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de P2AN34",
+      "url": "https://finance.yahoo.com/quote/P2AN34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: PALOALTO NET, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/58610/P2AN/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Palo Alto Networks",
+      "url": "https://www.wikidata.org/wiki/Q7128508",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Palo Alto Networks",
+      "url": "https://en.wikipedia.org/wiki/Palo_Alto_Networks",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

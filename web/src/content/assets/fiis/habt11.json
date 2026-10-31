@@ -1,0 +1,322 @@
+{
+  "ticker": "HABT11",
+  "slug": "habt11",
+  "list": "fiis",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "HABT11: FII de papel, CRIs e dividend yield",
+    "description": "HABT11 é FII de papel da XP com foco em CRIs. Veja dividend yield de 17,80%, patrimônio de R$ 762,2 mi e rentabilidade até 29/10/2026.",
+    "h1": "HABT11: Habitat Recebíveis Pulverizados FII",
+    "canonicalPath": "/fiis/habt11",
+    "keywords": [
+      "HABT11",
+      "Habitat Recebíveis Pulverizados FII",
+      "FII de papel",
+      "CRI",
+      "dividend yield FII",
+      "XP Vista",
+      "rendimentos imobiliários"
+    ]
+  },
+  "summary": "HABT11 é a cota do Habitat Recebíveis Pulverizados Fundo de Investimento Imobiliário, um FII de papel que investe majoritariamente em Certificados de Recebíveis Imobiliários (CRIs) lastreados em carteiras de recebíveis pulverizados. Com gestão ativa da XP Vista, o fundo tinha patrimônio de R$ 762,2 milhões em setembro de 2026 e distribuiu R$ 11,39 por cota nos 12 meses até 29/10/2026, resultando em dividend yield de 17,80%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Habitat Recebíveis Pulverizados Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "HABITAT RECEBÍVEIS PULVERIZADOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "ticker": "BVMF HABT11",
+    "isin": "BRHABTCTF001",
+    "taxId": "30.578.417/0001-05",
+    "foundingDate": "2019-07-29",
+    "website": "https://habt.xpasset.com.br",
+    "provider": {
+      "name": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+      "url": "https://www.xpi.com.br"
+    },
+    "sameAs": [
+      "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30578417000105"
+    ]
+  },
+  "profile": {
+    "type": "FII de papel (CRI)",
+    "issuerOrManager": "XP Vista Asset Management Ltda",
+    "name": "Habitat Recebíveis Pulverizados Fundo de Investimento Imobiliário Responsabilidade Limitada",
+    "legalName": "HABITAT RECEBÍVEIS PULVERIZADOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+    "sector": "Fundo de investimento imobiliário",
+    "segment": "Multicategoria",
+    "founded": "29/07/2019",
+    "administrator": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+    "website": "https://www.xpi.com.br"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "HABITAT RECEBÍVEIS PULVERIZADOS FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "30.578.417/0001-05",
+      "source": 1
+    },
+    {
+      "label": "Segmento de atuação",
+      "value": "Multicategoria",
+      "source": 1
+    },
+    {
+      "label": "Tipo de gestão",
+      "value": "Ativa",
+      "source": 1
+    },
+    {
+      "label": "Administrador",
+      "value": "XP INVESTIMENTOS CORRETORA DE CÂMBIO, TÍTULOS E VAL MOB S/A",
+      "source": 1
+    },
+    {
+      "label": "Início das atividades",
+      "value": "29/07/2019",
+      "source": 1
+    },
+    {
+      "label": "Patrimônio líquido (09/2026)",
+      "value": "R$ 762,2 milhões",
+      "source": 1
+    },
+    {
+      "label": "Cotistas (09/2026)",
+      "value": "54.048",
+      "source": 1
+    },
+    {
+      "label": "Valor patrimonial da cota (09/2026)",
+      "value": "R$ 93,79",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 64,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "16,94% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,30",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "17,80%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 1,1 milhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "HABT11",
+    "list": "fiis",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Habitat Ii - Fundo De Investimento Imobiliario",
+    "currency": "BRL",
+    "price": 64,
+    "historyStarts": "2019-08-05",
+    "returns": {
+      "1y": 0.0266,
+      "3y": 0.1273,
+      "5y": 0.0814,
+      "10y": null
+    },
+    "volatility1y": 0.1694,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2287,
+      "from": "2024-04-08",
+      "to": "2024-12-19"
+    },
+    "beta1y": {
+      "value": 0.3,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 11.39,
+      "payments12Months": 12,
+      "yield12Months": 0.178,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.92
+      }
+    },
+    "avgDailyTradedValue3m": 1066781
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada de 12 meses do HABT11 é de 16,94%, classificada como moderada 0. O beta de 0,30 contra o Ibovespa indica que, em média, o fundo se move em menor amplitude que o índice, na mesma direção 0. A maior queda em 5 anos foi de -22,87%, ocorrida entre o pico em 08/04/2024 e o fundo em 19/12/2024 0. Esse nível de volatilidade é compatível com FIIs de papel, que sofrem com a sensibilidade a juros e crédito. Use os [alertas de preço](/recursos/alertas-de-preco) para ser notificado quando a cota atingir níveis que você considera relevantes."
+  },
+  "history": {
+    "overview": "O Habitat Recebíveis Pulverizados FII (HABT11) iniciou suas atividades em 29 de julho de 2019, com a primeira oferta pública encerrada em 30 de julho do mesmo ano [1, 2]. Desde então, o fundo consolidou-se no segmento de FIIs de papel, focado na aquisição de ativos financeiros de natureza imobiliária, com preponderância em CRIs 3. A gestão é realizada ativamente pela XP Vista Asset Management, com a XP Investimentos atuando como administradora [3, 1]. O fundo realizou ofertas públicas adicionais em 2020 e 2022, ampliando sua base de cotistas e patrimônio 2. Em setembro de 2026, o HABT11 contava com 54.048 cotistas e patrimônio líquido de R$ 762,2 milhões 1. A estratégia do fundo prioriza a geração de rendimentos consistentes através de CRIs indexados à inflação, mantendo uma parcela em caixa para oportunidades de investimento 3.",
+    "timeline": [
+      {
+        "date": "2019-07-26",
+        "event": "Início da primeira oferta pública de cotas do fundo",
+        "source": 2
+      },
+      {
+        "date": "2019-07-29",
+        "event": "Início das atividades do Habitat Recebíveis Pulverizados FII",
+        "source": 1
+      },
+      {
+        "date": "2019-07-30",
+        "event": "Encerramento da primeira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2020-02-21",
+        "event": "Encerramento da segunda oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2022-05-10",
+        "event": "Início da terceira oferta pública de cotas",
+        "source": 2
+      },
+      {
+        "date": "2022-06-21",
+        "event": "Encerramento da terceira oferta pública de cotas",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "estrategia",
+      "heading": "Estratégia e portfólio do HABT11",
+      "body": "O HABT11 é um FII de papel com gestão ativa, cujo objetivo é a aquisição de ativos financeiros de natureza imobiliária, com preponderância em Certificados de Recebíveis Imobiliários (CRIs) lastreados em carteiras de recebíveis pulverizados 3. A gestora é a XP Vista Asset Management Ltda. e o administrador é a XP Investimentos CCTVM S.A. 3. Em setembro de 2026, o portfólio era composto por 79,63% em CRIs, 13,00% em outros FIIs e 6,83% em caixa 3. O fundo adota uma estratégia Core majoritariamente indexada à inflação, buscando geração de resultados atrativos e consistentes no longo prazo 3."
+    },
+    {
+      "id": "rendimentos",
+      "heading": "Rendimentos do HABT11",
+      "body": "Nos 12 meses até 29/10/2026, o HABT11 distribuiu R$ 11,39 por cota em 12 pagamentos, resultando em dividend yield de 17,80% 0. O último provento foi de R$ 0,92 em 01/10/2026 0. A tributação para pessoas físicas com participação inferior a 10% do fundo é isenta de IR sobre rendimentos, com alíquota de 20% sobre ganho de capital, conforme a Lei 14.754/2023 3. Acompanhe os [dividendos e JCP no app](/recursos/proventos) para ver o histórico de pagamentos multiplicado pela sua quantidade de cotas."
+    },
+    {
+      "id": "emissoes",
+      "heading": "Emissões de cotas, patrimônio e cotistas",
+      "body": "O HABT11 realizou três ofertas públicas de cotas, encerradas em 30/07/2019, 21/02/2020 e 21/06/2022 2. Em setembro de 2026, o fundo tinha 8.126.783 cotas emitidas, 54.048 cotistas e valor patrimonial da cota de R$ 93,79 1. O patrimônio líquido era de R$ 762,2 milhões 1. A taxa de administração no mês era de 0,006% sobre o patrimônio 1."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do HABT11",
+      "body": "A rentabilidade total com proventos do HABT11 foi de 2,66% em 12 meses, 12,73% em 3 anos e 8,14% em 5 anos, até 29/10/2026 0. Para comparar esse desempenho com o IFIX e o CDI, utilize a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade lado a lado com os principais benchmarks do mercado brasileiro."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do HABT11",
+      "body": "Como FII de papel, o HABT11 está exposto ao risco de crédito dos emissores dos CRIs, à variação dos juros (que afeta o valor dos ativos indexados ao CDI) e à inflação (para ativos indexados ao IPCA) 3. A volatilidade anualizada de 12 meses foi de 16,94%, nível moderado, e a maior queda em 5 anos foi de -22,87%, entre 08/04/2024 e 19/12/2024 0. O beta de 0,30 contra o Ibovespa indica que o fundo tende a ter movimentos menores que o índice 0. Configure [alertas de preço](/recursos/alertas-de-preco) para monitorar oscilações da cota."
+    }
+  ],
+  "faq": [
+    {
+      "question": "HABT11 paga dividendos?",
+      "answer": "Sim, o HABT11 distribui rendimentos mensais. Nos 12 meses até 29/10/2026, foram distribuídos R$ 11,39 por cota, com dividend yield de 17,80% 0. O último pagamento foi de R$ 0,92 em 01/10/2026 0. Veja o histórico completo nos [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "HABT11 é FII de papel ou de tijolo?",
+      "answer": "HABT11 é um FII de papel, focado em CRIs lastreados em recebíveis pulverizados 3."
+    },
+    {
+      "question": "Qual a taxa de administração do HABT11?",
+      "answer": "A taxa de administração no mês de setembro de 2026 foi de 0,006% sobre o patrimônio 1. A taxa de gestão e administração anual é de 1,26% a.a., conforme o relatório gerencial 3."
+    },
+    {
+      "question": "Qual o patrimônio do HABT11?",
+      "answer": "Em setembro de 2026, o patrimônio líquido do HABT11 era de R$ 762,2 milhões, com 54.048 cotistas e valor patrimonial da cota de R$ 93,79 1."
+    },
+    {
+      "question": "Como é a tributação do HABT11?",
+      "answer": "Pessoas físicas com participação inferior a 10% do fundo são isentas de IR sobre rendimentos, com 20% de IR sobre ganho de capital, conforme a Lei 14.754/2023 3."
+    },
+    {
+      "question": "Qual a rentabilidade do HABT11?",
+      "answer": "Até 29/10/2026, a rentabilidade total com proventos foi de 2,66% em 12 meses, 12,73% em 3 anos e 8,14% em 5 anos 0. Compare com o IFIX e o CDI na [comparação com índices](/recursos/comparacao-com-indices)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os rendimentos do HABT11 com data de pagamento, multiplicados pela sua quantidade de cotas."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do HABT11 com o IFIX e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba notificação quando a cota do HABT11 atingir o preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o HABT11 junto com seus outros FIIs, ações e renda fixa em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "KNHY11",
+        "list": "fiis",
+        "reason": "Outro FII de papel focado em CRIs high yield, do mesmo segmento de crédito imobiliário."
+      },
+      {
+        "ticker": "XPCI11",
+        "list": "fiis",
+        "reason": "FII de crédito imobiliário da XP, com estratégia similar de gestão ativa de CRIs."
+      },
+      {
+        "ticker": "ICRI11",
+        "list": "fiis",
+        "reason": "FII de CRIs indexados ao IPCA, do mesmo segmento de recebíveis imobiliários."
+      },
+      {
+        "ticker": "AFHI11",
+        "list": "fiis",
+        "reason": "FII de CRIs de recebíveis imobiliários, comparável em estratégia e exposição ao crédito."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de HABT11",
+      "url": "https://finance.yahoo.com/quote/HABT11.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: informe mensal do HABITAT RECEBÍVEIS PULVERIZADOS FII RL (09/2026)",
+      "url": "https://dados.cvm.gov.br/dataset/fii-doc-inf_mensal",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "FNET (B3): documentos publicados pelo HABT11",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM?cnpjFundo=30578417000105",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Relatório gerencial do HABT11, referência 30/09/2026",
+      "url": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1359595",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

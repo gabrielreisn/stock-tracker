@@ -1,0 +1,319 @@
+{
+  "ticker": "W1DC34",
+  "slug": "w1dc34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "W1DC34: BDR da Western Digital, desempenho e riscos",
+    "description": "W1DC34 é o BDR da Western Digital na B3. Veja desempenho, volatilidade, proventos e riscos do ativo, com dados até 29/10/2026.",
+    "h1": "W1DC34: BDR da Western Digital na B3",
+    "canonicalPath": "/bdrs/w1dc34",
+    "keywords": [
+      "W1DC34",
+      "Western Digital BDR",
+      "BDR nível I",
+      "ação WDC",
+      "volatilidade W1DC34",
+      "dividendos W1DC34",
+      "B3 BDR tecnologia"
+    ]
+  },
+  "summary": "W1DC34 é o BDR não patrocinado de nível I da Western Digital Corporation, empresa americana de armazenamento de dados fundada em 1970. Negociado na B3 desde 12/11/2019, o ativo rendeu 173,92% nos 12 meses até 29/10/2026, com preço de R$ 2.120,61. A ação original WDC é listada na NASDAQ e o BDR reflete a variação do dólar.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Western Digital",
+    "legalName": "WESTERN DIGITAL CORP",
+    "ticker": "BVMF W1DC34",
+    "foundingDate": "1970-04-23",
+    "website": "https://www.westerndigital.com",
+    "wikidata": "Q738770",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q738770",
+      "https://en.wikipedia.org/wiki/Western_Digital",
+      "https://pt.wikipedia.org/wiki/Western_Digital",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53465/W1DC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Western Digital",
+    "legalName": "WESTERN DIGITAL CORP",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "23/04/1970",
+    "listedSince": "12/11/2019",
+    "headquarters": "São José",
+    "website": "https://www.westerndigital.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "WESTERN DIGITAL CORP",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: WDC",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São José",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "23/04/1970",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 2.120,61",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "85,20% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original WDC em dólares)",
+      "value": "3,10",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,10%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 4,1 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "W1DC34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Western Digital Corporation",
+    "currency": "BRL",
+    "price": 2120.61,
+    "historyStarts": "2020-01-06",
+    "returns": {
+      "1y": 1.7392,
+      "3y": 28.0769,
+      "5y": 19.1094,
+      "10y": null
+    },
+    "volatility1y": 0.852,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5752,
+      "from": "2026-06-19",
+      "to": "2026-10-16"
+    },
+    "beta1y": {
+      "value": 3.1,
+      "against": "S&P 500, ação original WDC em dólares"
+    },
+    "dividends": {
+      "last12Months": 2.0258,
+      "payments12Months": 4,
+      "yield12Months": 0.001,
+      "lastPayment": {
+        "date": "2026-09-04",
+        "amount": 0.541474
+      }
+    },
+    "avgDailyTradedValue3m": 4057682
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do W1DC34 é de 85,20% nos últimos 12 meses, um nível muito alto. O beta da ação original WDC contra o S&P 500 é 3,10, o que significa que a ação tende a acompanhar os movimentos do índice com amplitude três vezes maior. A maior queda em 5 anos foi de -57,52%, entre 19/06/2026 e 16/10/2026. Para monitorar a volatilidade e definir alertas de preço, o app oferece o recurso de [alertas de preço](/recursos/alertas-de-preco), que notifica quando o ativo atinge um valor escolhido."
+  },
+  "history": {
+    "overview": "A Western Digital Corporation foi fundada em 23 de abril de 1970 por Alvin B. Phillips e Joseph Baia como General Digital Corporation, inicialmente focada em equipamentos de teste de MOS. A empresa passou por uma reestruturação em 1976 após a falência de seu maior cliente de calculadoras, o que levou à saída do Emerson Electric e à chegada de Chuck Missler como presidente. Nos anos 80, a empresa consolidou-se no mercado de controladores de disco rígido, desenvolvendo a interface ATA junto com a Compaq e a Control Data Corporation. Em 1988, a aquisição dos ativos de disco rígido da Tandon marcou a transição da Western Digital para a fabricação de discos rígidos, lançando a linha Caviar em 1991. A empresa enfrentou dificuldades nos anos 90 com a chegada de concorrentes como a Quantum, mas recuperou a competitividade em 1998 com uma parceria tecnológica com a IBM, que permitiu o uso de cabeças GMR. Hoje, a Western Digital é um dos maiores fabricantes de discos rígidos do mundo, com sede em San Jose, Califórnia, e operações de fabricação na Malásia e Tailândia.",
+    "timeline": [
+      {
+        "date": "1970-04-23",
+        "event": "Fundação da Western Digital Corporation (então General Digital Corporation) por Alvin B. Phillips e Joseph Baia.",
+        "source": 2
+      },
+      {
+        "date": "1976",
+        "event": "A empresa declara falência (Chapter XI) após a crise do petróleo e a falência do cliente Bowmar Instrument; Chuck Missler assume a presidência.",
+        "source": 3
+      },
+      {
+        "date": "1983",
+        "event": "A Western Digital vence o contrato para fornecer controladores para o PC/AT da IBM, base para a interface ATA.",
+        "source": 3
+      },
+      {
+        "date": "1988",
+        "event": "Aquisição dos ativos de produção de disco rígido da Tandon, iniciando a fabricação de discos sob a marca Western Digital.",
+        "source": 3
+      },
+      {
+        "date": "1991",
+        "event": "Lançamento da linha de discos rígidos Caviar, com sistemas de diagnóstico computadorizado.",
+        "source": 3
+      },
+      {
+        "date": "1998",
+        "event": "Parceria com a IBM para o uso de tecnologias de cabeças GMR, resultando na linha Expert de discos.",
+        "source": 3
+      },
+      {
+        "date": "2019-11-12",
+        "event": "Listagem do BDR W1DC34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Western Digital ganha dinheiro",
+      "body": "A Western Digital Corporation é uma empresa americana de armazenamento de dados, sediada em San Jose, Califórnia. A empresa é um dos maiores fabricantes de discos rígidos (HDDs) do mundo, fornecendo soluções de armazenamento para computadores de mesa, notebooks, dispositivos móveis, redes corporativas e aplicativos de entretenimento doméstico. Os produtos são comercializados sob as marcas Western Digital e WD para fabricantes de sistemas, revendedores e varejistas. A empresa possui 76.449 funcionários e mantém instalações de fabricação na Malásia e na Tailândia."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR W1DC34",
+      "body": "O W1DC34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Western Digital Corporation, cuja ação original (ticker WDC) é listada na NASDAQ. O BDR foi listado na B3 em 12/11/2019. O preço do W1DC34 acompanha a variação da ação WDC em dólares e a cotação do dólar em relação ao real. Por ser não patrocinado, o BDR é emitido por uma instituição depositária e não conta com o envolvimento direto da empresa emissora na sua manutenção."
+    },
+    {
+      "id": "proventos",
+      "heading": "W1DC34 paga dividendos?",
+      "body": "Nos 12 meses até 29/10/2026, o W1DC34 distribuiu R$ 2,0258 por BDR em 4 pagamentos, resultando em um dividend yield de 0,10%. O último pagamento foi de R$ 0,5415 em 04/09/2026. Os proventos são pagos pela Western Digital em dólares e convertidos para reais no momento da distribuição, o que pode variar conforme a cotação do câmbio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do W1DC34",
+      "body": "A rentabilidade total do W1DC34, incluindo proventos, foi de 173,92% nos 12 meses até 29/10/2026, 2.807,69% em 3 anos e 1.910,94% em 5 anos. Esses números refletem a variação do preço do BDR em reais, que inclui a performance da ação WDC em dólares e a variação do câmbio. Para comparar o desempenho com outros ativos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que inclui o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do W1DC34",
+      "body": "O W1DC34 apresenta volatilidade anualizada de 85,20% nos últimos 12 meses, classificada como muito alta. A maior queda em 5 anos foi de -57,52%, do pico em 19/06/2026 ao ponto mais baixo em 16/10/2026. O beta da ação original WDC contra o S&P 500 é 3,10, indicando que a ação tende a ter movimentos maiores que o índice. O BDR em reais também sofre o efeito do câmbio, o que pode amplificar as perdas ou ganhos. A liquidez do BDR na B3 é limitada, com volume médio de R$ 4,1 milhões por dia nos últimos 3 meses, o que pode dificultar a negociação em grandes volumes."
+    }
+  ],
+  "faq": [
+    {
+      "question": "W1DC34 paga dividendos?",
+      "answer": "Sim, o W1DC34 distribui proventos. Nos 12 meses até 29/10/2026, foram pagos R$ 2,0258 por BDR em 4 pagamentos, com um dividend yield de 0,10%. O último pagamento foi de R$ 0,5415 em 04/09/2026. Os valores são pagos em reais, mas a origem é a distribuição em dólares pela Western Digital."
+    },
+    {
+      "question": "Qual a diferença entre W1DC34 e WDC?",
+      "answer": "W1DC34 é o BDR negociado na B3 em reais, enquanto WDC é a ação original listada na NASDAQ em dólares. O W1DC34 reflete o preço da WDC e a cotação do dólar. O BDR é não patrocinado, o que significa que não há envolvimento direto da Western Digital na sua emissão."
+    },
+    {
+      "question": "Como funciona o BDR W1DC34?",
+      "answer": "O W1DC34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa ações da Western Digital Corporation, listada na NASDAQ sob o ticker WDC. O preço do BDR acompanha a variação da ação em dólares e a cotação do dólar em relação ao real."
+    },
+    {
+      "question": "Qual a volatilidade do W1DC34?",
+      "answer": "A volatilidade anualizada do W1DC34 é de 85,20% nos últimos 12 meses, classificada como muito alta. A maior queda em 5 anos foi de -57,52%, entre 19/06/2026 e 16/10/2026. O beta da ação original WDC contra o S&P 500 é 3,10."
+    },
+    {
+      "question": "Onde posso ver o desempenho do W1DC34?",
+      "answer": "O desempenho do W1DC34 pode ser acompanhado no app, que oferece gráficos de rentabilidade e comparação com índices como o S&P 500 e o CDI. O recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) mostra a evolução do ativo e o custo da posição."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Defina um alerta de preço para o W1DC34 e receba uma notificação quando o ativo atingir o valor escolhido, útil para monitorar a alta volatilidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do W1DC34 com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho relativo do ativo."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o W1DC34 junto com outros ativos na carteira consolidada, com alocação por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do W1DC34 e o preço médio da posição no gráfico de desempenho, arrastando para medir um período."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte ao assistente de IA sobre a sua posição em W1DC34 e receba respostas baseadas nos seus próprios dados, com privacidade."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com exposição ao setor de semicondutores e armazenamento de dados."
+      },
+      {
+        "ticker": "S1TX34",
+        "list": "bdrs",
+        "reason": "Seagate Technology, concorrente direto da Western Digital no mercado de discos rígidos."
+      },
+      {
+        "ticker": "MUTC34",
+        "list": "bdrs",
+        "reason": "Micron Technology, empresa de semicondutores e memória, setor relacionado ao armazenamento de dados."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para a comparação de desempenho do W1DC34."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores, setor em que a Western Digital atua."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de W1DC34",
+      "url": "https://finance.yahoo.com/quote/W1DC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: WESTERN DIG, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53465/W1DC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Western Digital",
+      "url": "https://www.wikidata.org/wiki/Q738770",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Western Digital",
+      "url": "https://en.wikipedia.org/wiki/Western_Digital",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Western Digital",
+      "url": "https://pt.wikipedia.org/wiki/Western_Digital",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

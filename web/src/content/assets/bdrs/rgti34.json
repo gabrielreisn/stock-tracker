@@ -1,0 +1,324 @@
+{
+  "ticker": "RGTI34",
+  "slug": "rgti34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RGTI34: BDR da Rigetti, história e volatilidade",
+    "description": "RGTI34 é o BDR da Rigetti Computing, empresa de computadores quânticos. Veja história, proventos, volatilidade e como funciona o BDR na B3.",
+    "h1": "RGTI34: BDR da Rigetti Computing",
+    "canonicalPath": "/bdrs/rgti34",
+    "keywords": [
+      "RGTI34",
+      "Rigetti Computing",
+      "BDR não patrocinado",
+      "computadores quânticos",
+      "B3",
+      "volatilidade",
+      "proventos",
+      "câmbio"
+    ]
+  },
+  "summary": "RGTI34 é o BDR não patrocinado de nível I da Rigetti Computing Inc., empresa americana de Berkeley que desenvolve computadores quânticos supercondutores e a plataforma em nuvem Forest. Negociado na B3 desde 07/04/2025, o ativo teve preço de R$ 62,00 em 30/10/2026, com volatilidade anualizada de 81,07% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Rigetti Computing",
+    "legalName": "RIGETTI COMPUTING INC",
+    "ticker": "BVMF RGTI34",
+    "foundingDate": "2013",
+    "website": "https://rigetti.com/",
+    "wikidata": "Q38819634",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q38819634",
+      "https://en.wikipedia.org/wiki/Rigetti_Computing",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59430/RGTI/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Rigetti Computing",
+    "legalName": "RIGETTI COMPUTING INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "2013",
+    "listedSince": "07/04/2025",
+    "headquarters": "Berkeley",
+    "website": "https://rigetti.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "RIGETTI COMPUTING INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Sede",
+      "value": "Berkeley",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "2013",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "07/04/2025",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 62,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "81,07% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 639.665,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RGTI34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Rigetti Computing, Inc.",
+    "currency": "BRL",
+    "price": 62,
+    "historyStarts": "2026-05-27",
+    "returns": {
+      "1y": null,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.8107,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5758,
+      "from": "2026-05-28",
+      "to": "2026-10-22"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 639665
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do RGTI34 nos últimos 12 meses é de 81,07%, nível 'muito alta'. A maior queda em 5 anos foi de -57,58%, do pico em 28/05/2026 ao ponto mais baixo em 22/10/2026. O beta não está disponível. A volatilidade é típica de empresas de tecnologia em fase de crescimento, como a Rigetti, que depende de financiamento para escalar suas tecnologias. Use os [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos do ativo e a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação do RGTI34 junto a outros ativos."
+  },
+  "history": {
+    "overview": "A Rigetti Computing Inc. foi fundada em 2013 por Chad Rigetti, um físico com experiência em computadores quânticos pela IBM. Em 2014, a empresa recebeu financiamento do Y Combinator e, em 2016, criou seu primeiro processador quântico de três qubits, seguido por rodadas de investimento lideradas por Andreessen Horowitz e Vy Capital. Em 2017, a Rigetti lançou a plataforma Forest 1.0, permitindo que desenvolvedores criassem algoritmos quânticos. A empresa buscou capitalização pública em 2021 via fusão com uma SPAC, com fechamento em 2 de março de 2022, iniciando as negociações na NASDAQ sob o ticker RGTI. Em 2023, lançou um processador de 84 qubits em um único chip. Em 2025, a Rigetti participou de discussões com a administração Trump sobre financiamento federal em troca de participações acionárias, e em maio de 2026, recebeu até US$ 100 milhões sob a CHIPS and Science Act para escalar tecnologias quânticas. O BDR RGTI34 foi listado na B3 em 07/04/2025, permitindo que investidores brasileiros acompanhem a empresa em reais.",
+    "timeline": [
+      {
+        "date": "2013",
+        "event": "Fundação da Rigetti Computing por Chad Rigetti.",
+        "source": 2
+      },
+      {
+        "date": "2014",
+        "event": "Recebe financiamento do Y Combinator como 'spaceshot' company.",
+        "source": 3
+      },
+      {
+        "date": "2016",
+        "event": "Rodada Series A de US$ 24 milhões liderada por Andreessen Horowitz.",
+        "source": 3
+      },
+      {
+        "date": "2016",
+        "event": "Rodada Series B de US$ 40 milhões liderada por Vy Capital.",
+        "source": 3
+      },
+      {
+        "date": "2016-02",
+        "event": "Criação do primeiro processador quântico de três qubits.",
+        "source": 3
+      },
+      {
+        "date": "2017-06",
+        "event": "Lançamento da plataforma Forest 1.0 para desenvolvimento de algoritmos quânticos.",
+        "source": 3
+      },
+      {
+        "date": "2022-03-02",
+        "event": "Fechamento da fusão SPAC e início das negociações na NASDAQ sob o ticker RGTI.",
+        "source": 3
+      },
+      {
+        "date": "2022-12",
+        "event": "Subodh Kulkarni assume como presidente e CEO.",
+        "source": 3
+      },
+      {
+        "date": "2023-07",
+        "event": "Lançamento de um processador quântico de 84 qubits em um único chip.",
+        "source": 3
+      },
+      {
+        "date": "2025-04-07",
+        "event": "Listagem do BDR RGTI34 na B3.",
+        "source": 1
+      },
+      {
+        "date": "2025-10",
+        "event": "Discussões com a administração Trump sobre financiamento federal em troca de participações.",
+        "source": 3
+      },
+      {
+        "date": "2026-05",
+        "event": "Recebe até US$ 100 milhões sob a CHIPS and Science Act para escalar tecnologias quânticas.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Rigetti Computing ganha dinheiro",
+      "body": "A Rigetti Computing Inc. é uma empresa americana de Berkeley, Califórnia, que desenvolve circuitos integrados supercondutores para computadores quânticos. A empresa também oferece a plataforma em nuvem Forest, que permite que programadores executem algoritmos quânticos. A Rigetti opera um laboratório de prototipagem rápida chamado Fab-1, localizado em Fremont, Califórnia, para criar circuitos integrados. A empresa é descrita como 'full-stack', o que significa que projeta e fabrica chips quânticos, integra-os com uma arquitetura de controle e desenvolve software para programadores. Em maio de 2026, a Rigetti recebeu até US$ 100 milhões sob a CHIPS and Science Act para desenvolver e escalar tecnologias quânticas supercondutoras de próxima geração."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR RGTI34",
+      "body": "O RGTI34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da Rigetti Computing Inc. na NASDAQ, sob o ticker RGTI. O BDR foi listado na B3 em 07/04/2025. O preço do BDR acompanha a variação da ação original e o câmbio entre o dólar e o real. Como é não patrocinado, a empresa não emite o BDR diretamente, mas uma instituição depositária o faz. O BDR não patrocinado de nível I não exige que a empresa cumpra obrigações de divulgação adicionais àquelas já feitas no mercado americano."
+    },
+    {
+      "id": "proventos",
+      "heading": "RGTI34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, o RGTI34 não pagou proventos. A empresa paga na moeda dela, o dólar, e o valor chega em reais, mas não houve dividendos ou juros sobre capital próprio no período. A ausência de proventos é comum para empresas em fase de crescimento, como a Rigetti, que reinveste recursos em pesquisa e desenvolvimento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RGTI34",
+      "body": "O RGTI34 teve preço de R$ 62,00 em 30/10/2026. A volatilidade anualizada nos últimos 12 meses foi de 81,07%, nível 'muito alta'. A maior queda nos últimos 5 anos foi de -57,58%, do pico em 28/05/2026 ao ponto mais baixo em 22/10/2026. As rentabilidades em reais incluem a variação do câmbio entre o dólar e o real. Para comparar com índices, use a [comparação com índices](/recursos/comparacao-com-indices), que mostra a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RGTI34",
+      "body": "Os riscos do RGTI34 incluem a volatilidade da empresa, que é alta, com 81,07% anualizada nos últimos 12 meses. A maior queda em 5 anos foi de -57,58%, de 28/05/2026 a 22/10/2026. O risco cambial é relevante, pois o BDR acompanha a variação do dólar em relação ao real. A liquidez do BDR na B3 é moderada, com volume médio de R$ 639.665,00 por dia nos últimos 3 meses. A empresa depende de financiamento para escalar suas tecnologias, e a ausência de proventos indica reinvestimento em pesquisa e desenvolvimento. Use os [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos do ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "RGTI34 paga dividendos?",
+      "answer": "Não, nos últimos 12 meses até 30/10/2026, o RGTI34 não pagou proventos. A empresa reinveste recursos em pesquisa e desenvolvimento, o que é comum para empresas em fase de crescimento. A ausência de proventos não impede a valorização do ativo, mas significa que o retorno vem da variação de preço."
+    },
+    {
+      "question": "Qual a diferença entre RGTI34 e RGTI?",
+      "answer": "RGTI34 é o BDR não patrocinado de nível I da Rigetti Computing Inc. negociado na B3 em reais, enquanto RGTI é a ação original negociada na NASDAQ em dólares. O RGTI34 acompanha a variação da ação original e o câmbio entre o dólar e o real. O BDR permite que investidores brasileiros acompanhem a empresa sem abrir conta no exterior."
+    },
+    {
+      "question": "RGTI34 é BDR patrocinado ou não patrocinado?",
+      "answer": "RGTI34 é um BDR não patrocinado de nível I. Isso significa que a empresa não emite o BDR diretamente, mas uma instituição depositária o faz. O BDR não patrocinado de nível I não exige que a empresa cumpra obrigações de divulgação adicionais àquelas já feitas no mercado americano."
+    },
+    {
+      "question": "Qual a volatilidade do RGTI34?",
+      "answer": "A volatilidade anualizada do RGTI34 nos últimos 12 meses é de 81,07%, nível 'muito alta'. A maior queda em 5 anos foi de -57,58%, de 28/05/2026 a 22/10/2026. A volatilidade é típica de empresas de tecnologia em fase de crescimento. Use os [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos do ativo."
+    },
+    {
+      "question": "RGTI34 é bom para iniciantes?",
+      "answer": "A volatilidade do RGTI34 é alta, com 81,07% anualizada nos últimos 12 meses. A maior queda em 5 anos foi de -57,58%. A ausência de proventos indica reinvestimento em pesquisa e desenvolvimento. A decisão de incluir o ativo na carteira depende do perfil de risco e dos objetivos do investidor. Use a [carteira consolidada](/recursos/carteira-consolidada) para ver a alocação do RGTI34 junto a outros ativos."
+    },
+    {
+      "question": "Como o câmbio afeta o RGTI34?",
+      "answer": "O RGTI34 acompanha a variação da ação original RGTI na NASDAQ e o câmbio entre o dólar e o real. Se o dólar se valorizar em relação ao real, o BDR tende a subir, mesmo que a ação original não varie. Se o dólar se desvalorizar, o BDR tende a cair. O risco cambial é relevante para investidores brasileiros que acompanham ativos em dólar."
+    },
+    {
+      "question": "Qual o volume médio do RGTI34 na B3?",
+      "answer": "O volume médio negociado por dia nos últimos 3 meses é de R$ 639.665,00. A liquidez é moderada, o que pode afetar a execução de ordens em grandes quantidades. Use o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para ver a variação do dia e do ano."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do RGTI34 junto a outros ativos, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o RGTI34 chegar ao preço que você escolheu, para monitorar movimentos do ativo."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do RGTI34 com o S&P 500 e o CDI, no mesmo gráfico."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Veja a variação do dia e do ano do RGTI34, com quantidade e preço médio da sua posição."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em RGTI34 e veja as respostas dos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de tecnologia, com foco em semicondutores, similar ao perfil de inovação da Rigetti."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "BDR de empresa de tecnologia em fase de crescimento, com alta volatilidade e ausência de proventos."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, para comparação de desempenho com o mercado americano."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq 100, para comparação de desempenho com o mercado de tecnologia."
+      },
+      {
+        "ticker": "MELI34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de tecnologia, com foco em e-commerce e serviços financeiros."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RGTI34",
+      "url": "https://finance.yahoo.com/quote/RGTI34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: RIGETTI COMP, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/59430/RGTI/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Rigetti Computing",
+      "url": "https://www.wikidata.org/wiki/Q38819634",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Rigetti Computing",
+      "url": "https://en.wikipedia.org/wiki/Rigetti_Computing",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

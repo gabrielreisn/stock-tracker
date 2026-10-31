@@ -1,0 +1,269 @@
+{
+  "ticker": "EEM",
+  "slug": "eem",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "EEM: história, dividendos e volatilidade",
+    "description": "EEM é o iShares MSCI Emerging Markets ETF, lançado em 2003. Veja a rentabilidade, a volatilidade e os proventos do EEM em 30/10/2026, e como investir a",
+    "h1": "EEM: iShares MSCI Emerging Markets ETF",
+    "canonicalPath": "/etfs/eem",
+    "keywords": [
+      "EEM",
+      "iShares MSCI Emerging Markets ETF",
+      "ETF mercados emergentes",
+      "EEM dividendos",
+      "EEM volatilidade",
+      "investir em EEM do Brasil"
+    ]
+  },
+  "summary": "EEM é o iShares MSCI Emerging Markets ETF, cotado nos Estados Unidos e emitido pela iShares, marca da BlackRock. Lançado em 14/04/2003, o fundo replica o índice MSCI Emerging Markets, que reúne ações de empresas de mercados emergentes. Em 30/10/2026, a cota valia US$ 61,04, com rentabilidade total de 12,28% nos 12 meses anteriores e volume médio diário de US$ 1,31 bilhão.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares MSCI Emerging Markets ETF",
+    "ticker": "ARCX EEM",
+    "foundingDate": "2003-04-14",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "MSCI Emerging Markets",
+    "name": "iShares MSCI Emerging Markets ETF",
+    "founded": "14/04/2003"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares MSCI Emerging Markets ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "14/04/2003",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 61,04",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "25,67% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,55",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,83%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,31 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "EEM",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares MSCI Emerging Markets ETF",
+    "currency": "USD",
+    "price": 61.04,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1228,
+      "3y": 0.7761,
+      "5y": 0.3377,
+      "10y": 1.0462
+    },
+    "volatility1y": 0.2567,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.3322,
+      "from": "2021-11-12",
+      "to": "2022-10-24"
+    },
+    "beta1y": {
+      "value": 1.55,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.114,
+      "payments12Months": 2,
+      "yield12Months": 0.0183,
+      "lastPayment": {
+        "date": "2026-06-15",
+        "amount": 0.351
+      }
+    },
+    "avgDailyTradedValue3m": 1309161807
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do EEM nos últimos 12 meses é de 25,67%, nível considerado alto. O beta de 1,55 contra o S&P 500 indica que o ETF tende a acompanhar os movimentos do índice americano com amplitude 1,55 vezes maior, na mesma direção. A maior queda em 5 anos foi de -33,22%, entre 12/11/2021 e 24/10/2022. Para um ETF de mercados emergentes, essa volatilidade é compatível com a exposição a países em desenvolvimento, que historicamente apresentam oscilações maiores que mercados desenvolvidos. O beta não mede a volatilidade em si, mas a sensibilidade aos movimentos do S&P 500. O app permite acompanhar a volatilidade e a rentabilidade do EEM no [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "O EEM faz parte da linha iShares, que nasceu dos WEBS (World Equity Benchmark Shares) lançados pela Morgan Stanley e Barclays Global Investors para rastrear índices MSCI. Em 2000, a Barclays investiu no crescimento do mercado de ETFs, renomeando os WEBS para iShares e lançando mais de 40 novos fundos. A marca foi adquirida pela BlackRock em 2009, consolidando a posição da gestora como a maior emissora de ETFs nos Estados Unidos e no mundo, segundo a Wikipedia. O EEM começou a ser negociado em 14/04/2003, oferecendo exposição ampla a mercados emergentes por meio de um único ativo listado na bolsa. A estrutura de ETF permite que o investidor compre e venda cotas ao longo do dia, com liquidez dada pelo volume negociado e pela necessidade de replicar o índice MSCI Emerging Markets.",
+    "timeline": [
+      {
+        "date": "2000",
+        "event": "Barclays renomeia os WEBS para iShares e lança mais de 40 novos fundos",
+        "source": 1
+      },
+      {
+        "date": "2003-04-14",
+        "event": "Primeiro pregão das cotas do EEM na bolsa",
+        "source": 0
+      },
+      {
+        "date": "2009",
+        "event": "BlackRock adquire a marca e o negócio iShares da Barclays",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o EEM funciona",
+      "body": "O EEM é um ETF que replica o índice MSCI Emerging Markets. A emissora é a iShares, uma marca da BlackRock, que adquiriu o negócio da Barclays em 2009. O fundo foi lançado em 14/04/2003 e não possui alavancagem ou inversão, o que significa que ele busca acompanhar a variação do índice sem multiplicadores diários. Como não é alavancado, não há rebalanceamento diário que cause o desvio do múltiplo do índice em períodos longos. O EEM é negociado em bolsa nos Estados Unidos, e o investidor compra cotas que representam uma fração da carteira do fundo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do EEM",
+      "body": "O EEM segue o índice MSCI Emerging Markets, operado pela MSCI Inc. A MSCI é uma empresa americana sediada em Nova York que licencia seus índices para fundos de índice, incluindo ETFs. Segundo a Wikipedia, a MSCI opera os índices MSCI World, MSCI Emerging Markets e MSCI All Country World (ACWI), entre outros. O dossiê não detalha o peso exato de cada país ou empresa no índice, mas o EEM busca replicar a composição do MSCI Emerging Markets, que inclui ações de mercados emergentes como China, Índia, Brasil, México, Coreia do Sul, entre outros, conforme a definição de mercado emergente."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no EEM a partir do Brasil",
+      "body": "Para investir no EEM a partir do Brasil, o investidor precisa de uma conta em uma corretora que ofereça acesso ao mercado americano. A compra é feita em dólar, e o preço da cota varia com o mercado e com o câmbio. O risco cambial é um fator importante: se o dólar se valorizar frente ao real, o investidor ganha com a conversão, e se o dólar se desvalorizar, perde. Alternativamente, é possível buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice MSCI Emerging Markets, o que elimina a necessidade de conta no exterior, mas pode ter custos e liquidez diferentes. O app permite acompanhar a posição em dólar e a variação cambial na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do EEM",
+      "body": "Em 30/10/2026, o EEM valia US$ 61,04. A rentabilidade total com proventos foi de 12,28% nos 12 meses, 77,61% em 3 anos, 33,77% em 5 anos e 104,62% em 10 anos. O volume médio negociado por dia nos últimos 3 meses foi de US$ 1,31 bilhão. Para comparar o desempenho do EEM com o S&P 500, o investidor pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade lado a lado com o índice americano."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do EEM",
+      "body": "O EEM tem volatilidade anualizada de 25,67% nos últimos 12 meses, classificada como alta. A maior queda em 5 anos foi de -33,22%, do pico em 12/11/2021 ao ponto mais baixo em 24/10/2022. O beta de 1,55 contra o S&P 500 indica que o EEM tende a se mover 1,55 vezes mais que o índice americano, na mesma direção. Mercados emergentes são considerados mais voláteis e sensíveis a fatores políticos, cambiais e econômicos, conforme a definição de mercado emergente. O investidor deve considerar esses riscos ao incluir o EEM na carteira, e pode usar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos extremos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o EEM?",
+      "answer": "O EEM é o iShares MSCI Emerging Markets ETF, um fundo que replica o índice MSCI Emerging Markets. Ele é emitido pela iShares, marca da BlackRock, e foi lançado em 14/04/2003. O EEM oferece exposição a ações de mercados emergentes, como China, Índia e Brasil, por meio de um único ativo cotado nos Estados Unidos."
+    },
+    {
+      "question": "O EEM paga dividendos?",
+      "answer": "Sim, o EEM distribui proventos. Nos 12 meses até 30/10/2026, foram distribuídos US$ 1,1140 por cota em 2 pagamentos, com dividend yield de 1,83%. O último pagamento foi de US$ 0,3510 em 15/06/2026. O app permite acompanhar os proventos do EEM na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual a diferença entre EEM e IEMG?",
+      "answer": "O EEM é o iShares MSCI Emerging Markets ETF, enquanto o [IEMG](/etfs/iemg) é o iShares Core MSCI Emerging Markets ETF. Ambos seguem o mesmo índice MSCI Emerging Markets, mas podem ter diferenças em taxa de administração, liquidez e estrutura. O dossiê não detalha a taxa de administração do EEM, mas o IEMG é listado como um ativo relacionado no app."
+    },
+    {
+      "question": "Como investir no EEM a partir do Brasil?",
+      "answer": "O investidor brasileiro pode comprar o EEM por meio de uma corretora que ofereça acesso ao mercado americano, com conta em dólar. Alternativamente, pode buscar ETFs ou BDRs na B3 que sigam o mesmo índice MSCI Emerging Markets. O risco cambial é um fator importante, pois a cotação do EEM é em dólar. O app permite acompanhar a posição em dólar e a variação cambial na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual a volatilidade do EEM?",
+      "answer": "A volatilidade anualizada do EEM nos últimos 12 meses é de 25,67%, nível considerado alto. A maior queda em 5 anos foi de -33,22%, entre 12/11/2021 e 24/10/2022. O beta de 1,55 contra o S&P 500 indica que o ETF tende a se mover 1,55 vezes mais que o índice americano, na mesma direção. O app permite acompanhar a volatilidade e a rentabilidade do EEM no [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a posição em dólar do EEM e a variação cambial na carteira consolidada, que reúne ações da B3 e dos EUA, renda fixa e fundos em uma só visão."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do EEM com o S&P 500 e outros índices na comparação com índices, que mostra a rentabilidade lado a lado com CDI, IPCA, Ibovespa, IFIX e S&P 500."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o EEM chegar ao preço que você escolheu, para monitorar movimentos extremos ou oportunidades de entrada."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a volatilidade e a rentabilidade do EEM no desempenho e preço médio, que mostra o gráfico de rentabilidade da carteira e cada ativo com quantidade, preço médio, ganho e variação."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IEMG",
+        "list": "us-etfs",
+        "reason": "iShares Core MSCI Emerging Markets ETF, que segue o mesmo índice MSCI Emerging Markets"
+      },
+      {
+        "ticker": "VWO",
+        "list": "us-etfs",
+        "reason": "Vanguard FTSE Emerging Markets Index Fund ETF Shares, outro ETF de mercados emergentes"
+      },
+      {
+        "ticker": "EWZ",
+        "list": "us-etfs",
+        "reason": "iShares MSCI Brazil ETF, que oferece exposição específica ao Brasil, um dos principais mercados emergentes"
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "State Street SPDR S&P 500 ETF Trust, para comparação com o mercado americano"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de EEM",
+      "url": "https://finance.yahoo.com/quote/EEM/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): MSCI (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/MSCI",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Emerging market (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Emerging_market",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

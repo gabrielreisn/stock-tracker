@@ -1,0 +1,356 @@
+{
+  "ticker": "CEAB3",
+  "slug": "ceab3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CEAB3: história, dividendos e volatilidade",
+    "description": "CEAB3 é a ação ordinária da C&A Modas, varejista de vestuário. Veja dividend yield de 8,07%, volatilidade de 87,26% e programas de recompra de ações.",
+    "h1": "CEAB3: C&A Modas S.A. - Ação Ordinária",
+    "canonicalPath": "/acoes/ceab3",
+    "keywords": [
+      "CEAB3",
+      "C&A Modas",
+      "ação C&A",
+      "dividendos CEAB3",
+      "volatilidade CEAB3",
+      "varejo vestuário B3",
+      "Novo Mercado C&A"
+    ]
+  },
+  "summary": "CEAB3 é a ação ordinária da C&A Modas S.A., varejista de vestuário, acessórios e calçados com mais de 300 lojas no Brasil. A companhia, controlada pela rede internacional C&A, está listada no Novo Mercado da B3 desde 2019. Em 30/10/2026, a ação era negociada a R$ 6,46, com dividend yield de 8,07% nos últimos 12 meses e volatilidade anualizada de 87,26%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "C&A Modas",
+    "legalName": "C&A MODAS S.A.",
+    "ticker": "BVMF CEAB3",
+    "isin": "BRCEABACNOR1",
+    "taxId": "45.242.914/0001-05",
+    "foundingDate": "1981-01-12",
+    "address": {
+      "locality": "Barueri",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.cea.com.br/",
+    "wikidata": "Q108759603",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q108759603",
+      "https://pt.wikipedia.org/wiki/C%26A",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24848/CEAB/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "C&A Modas",
+    "legalName": "C&A MODAS S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo Cíclico",
+    "segment": "Tecidos, Vestuário e Calçados",
+    "founded": "12/01/1981",
+    "listedSince": "28/10/2019",
+    "headquarters": "Barueri (SP)",
+    "website": "https://www.cea.com.br/"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "C&A MODAS S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "45.242.914/0001-05",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo Cíclico / Tecidos, Vestuário e Calçados",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "12/01/1981",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Barueri (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "28/10/2019",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "CEAB3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "KPMG AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 6,46",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "87,26% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "2,80",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "8,07%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CEAB3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "C&A Modas S.A.",
+    "currency": "BRL",
+    "price": 6.46,
+    "historyStarts": "2019-11-05",
+    "returns": {
+      "1y": -0.5928,
+      "3y": 0.4266,
+      "5y": 0.0503,
+      "10y": null
+    },
+    "volatility1y": 0.8726,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7569,
+      "from": "2021-11-11",
+      "to": "2023-03-01"
+    },
+    "beta1y": {
+      "value": 2.8,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0.5216,
+      "payments12Months": 1,
+      "yield12Months": 0.0807,
+      "lastPayment": {
+        "date": "2025-12-26",
+        "amount": 0.5216
+      }
+    },
+    "avgDailyTradedValue3m": 116092001
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada de 87,26% coloca a CEAB3 em um nível muito alto, indicando oscilações de preço expressivas. O beta de 2,80 contra o Ibovespa mostra que, historicamente, a ação amplifica os movimentos do índice em quase três vezes. A maior queda em 5 anos, de -75,69% entre 11/11/2021 e 01/03/2023, ilustra a magnitude dessas oscilações. Para quem acompanha o ativo, a alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge níveis específicos."
+  },
+  "history": {
+    "overview": "A C&A Modas S.A. tem origem em 1981, mas sua história remonta à rede varejista holandesa C&A, fundada em 1841. A primeira loja da marca no Brasil foi inaugurada em 1976 no Shopping Ibirapuera, em São Paulo, sendo a primeira da rede na América Latina. A companhia brasileira foi registrada como aberta na CVM em 24/10/2019 e passou a ter suas ações negociadas na B3 em 28/10/2019, adotando o segmento de governança Novo Mercado. Nos últimos anos, a empresa passou por mudanças estruturais, incluindo o encerramento da parceria com o Bradescard em 2025 e a aprovação de múltiplos programas de recompra de ações, o último em 2026, com o objetivo de adquirir até 5 milhões de papéis.",
+    "timeline": [
+      {
+        "date": "1981-01-12",
+        "event": "Constituição da C&A Modas S.A.",
+        "source": 2
+      },
+      {
+        "date": "2019-10-24",
+        "event": "Registro da companhia como aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2019-10-28",
+        "event": "Início da cotação das ações na B3",
+        "source": 1
+      },
+      {
+        "date": "2025-01-13",
+        "event": "Criação do Novo Plano de Recompra de ações ordinárias, com objetivo de adquirir até 5.000.000 de ações",
+        "source": 8
+      },
+      {
+        "date": "2025-06-23",
+        "event": "Encerramento da parceria com o Bradescard",
+        "source": 7
+      },
+      {
+        "date": "2025-12-05",
+        "event": "Alienação de participação",
+        "source": 6
+      },
+      {
+        "date": "2026-05-05",
+        "event": "Aprovação do 4º programa de recompra de ações",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a C&A Modas ganha dinheiro",
+      "body": "A C&A Modas S.A. atua no varejo nos setores de vestuário, acessórios, calçados, higiene e eletrônicos. A empresa opera uma rede de mais de 300 lojas em 125 cidades, atendidas por mais de 12 mil profissionais. A rede é parte do grupo internacional C&A, que possui filiais em diversos países da Europa, além do Brasil, México e China. A classificação setorial da B3 a posiciona no segmento de Consumo Cíclico, subsegmento de Tecidos, Vestuário e Calçados."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da C&A Modas",
+      "body": "O controle acionário da C&A Modas S.A. é privado, exercido pela rede internacional C&A. A empresa está listada no segmento Novo Mercado da B3, o que implica a adoção de práticas de governança corporativa mais rígidas, como a oferta de todas as ações na oferta inicial e a ausência de ações com direito diferenciado de voto. O código de negociação é CEAB3, que se refere à ação ordinária (ON). Ações ordinárias conferem direito a voto em assembleias gerais, enquanto ações preferenciais (PN), quando existem, priorizam o recebimento de dividendos e a preferência na distribuição do patrimônio líquido em caso de dissolução, mas geralmente não têm direito a voto."
+    },
+    {
+      "id": "proventos",
+      "heading": "CEAB3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a CEAB3 distribuiu R$ 0,5216 por ação em 1 pagamento, resultando em um dividend yield de 8,07%. O último pagamento registrado foi de R$ 0,5216 em 26/12/2025. A empresa também aprovou programas de recompra de ações, o mais recente em 05/05/2026, com o objetivo de adquirir até 5.000.000 de ações ordinárias. Para acompanhar a data com e a data de pagamento dos proventos da sua posição, utilize a ferramenta de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da CEAB3",
+      "body": "A rentabilidade total da CEAB3 com proventos foi de -59,28% nos 12 meses até 30/10/2026, de 42,66% em 3 anos e de 5,03% em 5 anos. Para contextualizar esses números, é possível comparar o desempenho da ação com índices de referência como o Ibovespa e o CDI. A ferramenta de [comparação com índices](/recursos/comparacao-com-indices) permite visualizar a rentabilidade da carteira lado a lado com esses benchmarks no mesmo gráfico."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da CEAB3",
+      "body": "A volatilidade anualizada da CEAB3 nos últimos 12 meses foi de 87,26%, classificada como muito alta. O beta de 2,80 indica que a ação tende a se mover com intensidade quase três vezes maior que a do Ibovespa, na mesma direção. A maior queda nos últimos 5 anos foi de -75,69%, ocorrida entre o pico em 11/11/2021 e o ponto mais baixo em 01/03/2023. Riscos setoriais incluem a sensibilidade a ciclos econômicos, já que o consumo de vestuário é cíclico, e a concorrência no varejo. O encerramento da parceria com o Bradescard em 2025 e a alienação de participação em 2025 também representam mudanças na estrutura de negócios da companhia."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CEAB3 paga dividendos?",
+      "answer": "Sim, a CEAB3 distribuiu proventos de R$ 0,5216 por ação em 26/12/2025, resultando em um dividend yield de 8,07% nos 12 meses até 30/10/2026. A empresa também possui programas de recompra de ações, o que pode impactar a remuneração dos acionistas. É possível acompanhar o histórico de pagamentos na seção de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre CEAB3 e ações preferenciais da C&A?",
+      "answer": "CEAB3 é a ação ordinária (ON) da C&A Modas, que confere direito a voto em assembleias. Ações preferenciais (PN), quando existem, priorizam o recebimento de dividendos e a preferência na distribuição do patrimônio líquido, mas geralmente não têm direito a voto. A C&A Modas está listada no Novo Mercado, o que exige que todas as ações sejam ordinárias na oferta inicial, mas a estrutura pode evoluir."
+    },
+    {
+      "question": "CEAB3 é uma ação de varejo?",
+      "answer": "Sim, a C&A Modas S.A. atua no varejo de vestuário, acessórios, calçados, higiene e eletrônicos. A empresa tem mais de 300 lojas no Brasil e é parte da rede internacional C&A. A classificação da B3 a posiciona no setor de Consumo Cíclico, segmento de Tecidos, Vestuário e Calçados."
+    },
+    {
+      "question": "Qual a volatilidade da CEAB3?",
+      "answer": "A volatilidade anualizada da CEAB3 nos últimos 12 meses é de 87,26%, classificada como muito alta. O beta de 2,80 indica que a ação tende a se mover com intensidade quase três vezes maior que a do Ibovespa. A maior queda em 5 anos foi de -75,69%, entre 11/11/2021 e 01/03/2023."
+    },
+    {
+      "question": "A C&A Modas tem programas de recompra de ações?",
+      "answer": "Sim, a empresa aprovou múltiplos programas de recompra. O mais recente, em 05/05/2026, tem o objetivo de adquirir até 5.000.000 de ações ordinárias. Um plano anterior foi criado em 13/01/2025, com o mesmo objetivo. Esses programas podem impactar a oferta de ações no mercado e a remuneração dos acionistas."
+    },
+    {
+      "question": "Onde a C&A Modas está sediada?",
+      "answer": "A sede da C&A Modas S.A. está em Barueri, no estado de São Paulo. A empresa é controlada pela rede internacional C&A, que possui filiais em diversos países, incluindo Brasil, Alemanha, França e China."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da CEAB3 com data com e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da CEAB3 com o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a CEAB3 atingir o preço que você escolheu, útil para acompanhar a alta volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a CEAB3 junto com seus outros ativos, com alocação por classe e as maiores posições."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "LREN3",
+        "list": "br-stocks",
+        "reason": "Outra ação de varejo de vestuário na B3, Lojas Renner S.A."
+      },
+      {
+        "ticker": "MGLU3",
+        "list": "br-stocks",
+        "reason": "Ação de varejo de eletroeletrônicos e móveis, Magazine Luiza S.A."
+      },
+      {
+        "ticker": "ASAI3",
+        "list": "br-stocks",
+        "reason": "Ação de varejo de supermercados, Sendas Distribuidora S.A."
+      },
+      {
+        "ticker": "ALOS3",
+        "list": "br-stocks",
+        "reason": "Ação de varejo de atacarejo, Allos S.A."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CEAB3",
+      "url": "https://finance.yahoo.com/quote/CEAB3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CEA MODAS, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/24848/CEAB/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, C&A MODAS S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: C&A Modas",
+      "url": "https://www.wikidata.org/wiki/Q108759603",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): C&A",
+      "url": "https://pt.wikipedia.org/wiki/C%26A",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/05/2026, “Aprovação 4º programa de recompra de ações”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1516259&numSequencia=1040965&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 05/12/2025, “Alienação de participação”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1453472&numSequencia=978184&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/06/2025, “Encerramento da parceria Bradescard”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1393009&numSequencia=917721&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 13/01/2025, “Criação de um novo  plano de recompra de ações ordinárias de emissão da própria Companhia (\"Novo Plano de Recompra\"). Objetivo é adquirir até 5.000.000 de ações de emissão da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1324778&numSequencia=849504&numVersao=2",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

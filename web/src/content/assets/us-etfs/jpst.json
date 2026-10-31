@@ -1,0 +1,268 @@
+{
+  "ticker": "JPST",
+  "slug": "jpst",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "JPST: história, dividendos e volatilidade",
+    "description": "Conheça o JPMorgan Ultra-Short Income ETF (JPST): desempenho, dividendos, volatilidade e riscos.",
+    "h1": "JPST: JPMorgan Ultra-Short Income ETF",
+    "canonicalPath": "/etfs/jpst",
+    "keywords": [
+      "JPST",
+      "JPMorgan Ultra-Short Income ETF",
+      "ETF de renda fixa",
+      "fundos de mercado de dinheiro",
+      "dividendos em dólar",
+      "volatilidade baixa",
+      "investir em ETFs americanos"
+    ]
+  },
+  "summary": "JPST é o JPMorgan Ultra-Short Income ETF, lançado em 19/05/2017. O fundo investe em títulos de renda fixa de curtíssimo prazo, com o objetivo de gerar renda e manter a liquidez. Em 30/10/2026, a cota valia US$ 50,43, com dividend yield de 4,14% nos últimos 12 meses e volatilidade anualizada de 0,51%, considerada baixa.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "JPMorgan Ultra-Short Income ETF",
+    "ticker": "ARCX JPST",
+    "foundingDate": "2017-05-19",
+    "provider": {
+      "name": "JPMorgan Chase",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/JPMorgan_Chase"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de renda fixa de curtíssimo prazo",
+    "issuerOrManager": "JPMorgan",
+    "name": "JPMorgan Ultra-Short Income ETF",
+    "founded": "19/05/2017"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "JPMorgan Ultra-Short Income ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "19/05/2017",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 50,43",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "0,51% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,01",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,14%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 379,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "JPST",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "JPMorgan Ultra-Short Income ETF",
+    "currency": "USD",
+    "price": 50.43,
+    "historyStarts": "2017-05-19",
+    "returns": {
+      "1y": 0.0358,
+      "3y": 0.1556,
+      "5y": 0.211,
+      "10y": null
+    },
+    "volatility1y": 0.0051,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.0065,
+      "from": "2021-11-05",
+      "to": "2022-07-01"
+    },
+    "beta1y": {
+      "value": 0.01,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 2.086,
+      "payments12Months": 12,
+      "yield12Months": 0.0414,
+      "lastPayment": {
+        "date": "2026-10-01",
+        "amount": 0.175
+      }
+    },
+    "avgDailyTradedValue3m": 379401689
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do JPST nos 12 meses até 30/10/2026 foi de 0,51%, classificada como baixa. O beta do ativo contra o S&P 500 é de 0,01, o que indica que o JPST tem uma correlação quase nula com os movimentos do mercado acionário americano; ele não acompanha as altas e quedas do índice. A maior queda em 5 anos foi de -0,65%, ocorrida entre 05/11/2021 e 01/07/2022. Esse perfil é típico de ETFs de renda fixa de curtíssimo prazo, que priorizam a estabilidade do patrimônio em detrimento de retornos de capital, focando na distribuição de rendimentos."
+  },
+  "history": {
+    "overview": "O JPMorgan Ultra-Short Income ETF (JPST) começou a ser negociado em 19/05/2017, segundo dados do Yahoo Finance. A emissora é a JPMorgan Chase & Co., o maior banco dos Estados Unidos e o de maior capitalização de mercado no mundo em 2026. A instituição foi criada em 2000 pela fusão de J.P. Morgan & Co. e Chase Manhattan Company, com raízes que remontam a 1799, quando Aaron Burr fundou o Bank of the Manhattan Company. A JPMorgan é considerada sistemicamente importante pelo Financial Stability Board, o que implica supervisão regulatória aprimorada e a manutenção de um balanço robusto, conhecido internamente como 'Fortress Balance Sheet'. O JPST opera no segmento de fundos de mercado de dinheiro, uma categoria que surgiu em 1971 para oferecer liquidez e renda a partir de títulos de curto prazo, como notas do Tesouro e papel comercial.",
+    "timeline": [
+      {
+        "date": "1799-09-01",
+        "event": "Fundação do Bank of the Manhattan Company por Aaron Burr, o predecessor mais antigo da JPMorgan Chase.",
+        "source": 1
+      },
+      {
+        "date": "2000",
+        "event": "Criação da JPMorgan Chase & Co. pela fusão de J.P. Morgan & Co. e Chase Manhattan Company.",
+        "source": 1
+      },
+      {
+        "date": "2017-05-19",
+        "event": "Primeiro pregão das cotas do JPMorgan Ultra-Short Income ETF (JPST) na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o JPST funciona",
+      "body": "O JPST é um ETF de renda fixa de curtíssimo prazo emitido pela JPMorgan Chase & Co., com início de negociação em 19/05/2017. O fundo tem como objetivo principal a geração de renda e a manutenção de liquidez, investindo em títulos de dívida de curto prazo. Diferente de ETFs alavancados ou inversos, o JPST não busca multiplicar os retornos diários de um índice, o que significa que não há necessidade de rebalanceamento diário para manter uma alavancagem. A estrutura visa preservar o valor do patrimônio com oscilações mínimas, distribuindo os rendimentos aos cotistas."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do JPST",
+      "body": "As fontes disponíveis não detalham a composição exata dos títulos dentro do JPST, mas indicam que o fundo opera no segmento de 'money market funds'. Esses fundos, segundo a Wikipedia, investem em títulos de dívida de curto prazo, como notas do Tesouro dos EUA (US Treasury bills) e papel comercial. A regulamentação nos EUA, sob a Investment Company Act of 1940, restringe a qualidade, a maturidade e a diversificação desses investimentos, exigindo que os títulos tenham maturidade inferior a 13 meses e sejam de alta qualidade de crédito."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no JPST a partir do Brasil",
+      "body": "Para investir no JPST a partir do Brasil, o investidor precisa abrir conta em uma corretora de valores que ofereça acesso ao mercado americano. A compra é feita em dólares, o que expõe o investidor ao risco cambial: variações no câmbio entre o real e o dólar impactam o retorno final em reais. Uma alternativa é buscar ETFs ou BDRs negociados na B3 que sigam índices ou estratégias similares de renda fixa de curto prazo em dólar, embora a liquidez e a aderência ao JPST específico possam variar. O [Open Finance](/recursos/open-finance) do app ajuda a sincronizar as posições compradas na corretora com a carteira consolidada."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do JPST",
+      "body": "Até 30/10/2026, o JPST apresentou rentabilidade total de 3,58% em 12 meses, 15,56% em 3 anos e 21,10% em 5 anos. O fundo distribuiu US$ 2,0860 por cota em 12 pagamentos no último ano, resultando em um dividend yield de 4,14%. O último provento foi de US$ 0,1750 em 01/10/2026. Para avaliar esse desempenho no contexto do mercado americano, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a rentabilidade do ativo lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do JPST",
+      "body": "O principal risco do JPST é a sensibilidade a mudanças nas taxas de juros de curto prazo. Como o fundo investe em títulos de maturidade muito curta, a volatilidade é baixa (0,51% anualizada nos 12 meses até 30/10/2026), mas não nula. A maior queda em 5 anos foi de -0,65%, entre 05/11/2021 e 01/07/2022. Além disso, há o risco cambial para investidores brasileiros, já que o ativo é cotado em dólar. Fundos de mercado de dinheiro não são garantidos contra perdas, embora perdas sejam raras na prática. O [alerta de preço](/recursos/alertas-de-preco) pode ser útil para monitorar oscilações, mesmo que pequenas."
+    }
+  ],
+  "faq": [
+    {
+      "question": "JPST paga dividendos?",
+      "answer": "Sim, o JPST distribui proventos mensais. Nos 12 meses até 30/10/2026, foram pagos US$ 2,0860 por cota, resultando em um dividend yield de 4,14%. O último pagamento foi de US$ 0,1750 em 01/10/2026. É possível acompanhar o histórico de proventos no app."
+    },
+    {
+      "question": "Qual a volatilidade do JPST?",
+      "answer": "A volatilidade anualizada do JPST é de 0,51% nos últimos 12 meses, um nível considerado baixo. Isso reflete a estratégia do fundo, que investe em títulos de renda fixa de curtíssimo prazo, minimizando as oscilações de preço da cota."
+    },
+    {
+      "question": "O JPST é um ETF alavancado?",
+      "answer": "Não, o JPST não é um ETF alavancado ou inverso. Ele é um fundo de renda fixa de curtíssimo prazo que busca gerar renda e manter liquidez, sem multiplicar os retornos diários de um índice. Por isso, não há necessidade de rebalanceamento diário para manter uma alavancagem."
+    },
+    {
+      "question": "Quem é a gestora do JPST?",
+      "answer": "A emissora do JPST é a JPMorgan Chase & Co., o maior banco dos Estados Unidos. A instituição foi criada em 2000 pela fusão de J.P. Morgan & Co. e Chase Manhattan Company, com raízes que remontam a 1799."
+    },
+    {
+      "question": "Como o JPST se comporta em relação ao S&P 500?",
+      "answer": "O beta do JPST contra o S&P 500 é de 0,01, o que significa que o ativo tem uma correlação quase nula com o mercado acionário americano. Ele não acompanha as altas e quedas do índice, o que o torna um ativo de baixa volatilidade e baixo risco de mercado."
+    },
+    {
+      "question": "Qual o risco cambial do JPST para brasileiros?",
+      "answer": "Como o JPST é cotado em dólar, o investidor brasileiro está exposto ao risco cambial. Variações no câmbio entre o real e o dólar impactam o retorno final em reais, independentemente do desempenho do fundo em dólares. É importante considerar essa exposição ao incluir o ativo na carteira."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação do JPST junto com outros ativos de renda fixa e ações na sua carteira consolidada, com valor por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do JPST e o preço médio da sua posição com o gráfico de desempenho, arrastando para medir períodos específicos."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do JPST com o S&P 500 e o CDI no mesmo gráfico, para entender o desempenho do ativo em relação a benchmarks relevantes."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do JPST atingir o preço que você definiu, útil para monitorar oscilações mesmo que pequenas."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SGOV",
+        "list": "us-etfs",
+        "reason": "Outro ETF de renda fixa de curtíssimo prazo nos EUA, com perfil similar de baixa volatilidade."
+      },
+      {
+        "ticker": "BIL",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do Tesouro dos EUA com maturidade de 1 a 3 meses, similar ao JPST em termos de prazo e risco."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, útil para comparar a baixa correlação do JPST com o mercado acionário americano."
+      },
+      {
+        "ticker": "HYG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos de alta renda (high yield), para contrastar o perfil de risco do JPST com outros ativos de renda fixa."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de JPST",
+      "url": "https://finance.yahoo.com/quote/JPST/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): JPMorgan Chase (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Money market fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Money_market_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

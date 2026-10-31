@@ -1,0 +1,270 @@
+{
+  "ticker": "RSP",
+  "slug": "rsp",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "RSP: ETF S&P 500 Equal Weight, história e desempenho",
+    "description": "Conheça o RSP, o ETF da Invesco que replica o S&P 500 com peso igual. Veja rentabilidade, volatilidade, dividendos e como investir a partir do Brasil.",
+    "h1": "RSP: Invesco S&P 500 Equal Weight ETF",
+    "canonicalPath": "/etfs/rsp",
+    "keywords": [
+      "RSP",
+      "Invesco S&P 500 Equal Weight ETF",
+      "ETF peso igual",
+      "S&P 500 equal weight",
+      "ETF americano",
+      "RSP dividendos",
+      "RSP volatilidade"
+    ]
+  },
+  "summary": "RSP é o ticker do Invesco S&P 500 Equal Weight ETF, um fundo de índice lançado em 01/05/2003 que replica o desempenho do índice S&P 500 com pesos iguais entre as 500 empresas. Diferente dos ETFs tradicionais que ponderam por capitalização, o RSP distribui o capital igualmente, reduzindo a concentração em grandes nomes. Em 30/10/2026, a cota valia US$ 218,31, com rentabilidade de 18,28% nos últimos 12 meses.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Invesco S&P 500 Equal Weight ETF",
+    "ticker": "ARCX RSP",
+    "foundingDate": "2003-05-01",
+    "provider": {
+      "name": "Invesco",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/Invesco"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice (peso igual)",
+    "issuerOrManager": "Invesco",
+    "trackedIndex": "S&P 500 Equal Weight",
+    "name": "Invesco S&P 500 Equal Weight ETF",
+    "founded": "01/05/2003"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Invesco S&P 500 Equal Weight ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "01/05/2003",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 218,31",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "11,48% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,67",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,46%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 1,58 bilhão",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "RSP",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Invesco S&P 500 Equal Weight ETF",
+    "currency": "USD",
+    "price": 218.31,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.1828,
+      "3y": 0.7012,
+      "5y": 0.4921,
+      "10y": 2.1756
+    },
+    "volatility1y": 0.1148,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.2138,
+      "from": "2022-01-04",
+      "to": "2022-09-30"
+    },
+    "beta1y": {
+      "value": 0.67,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.181,
+      "payments12Months": 4,
+      "yield12Months": 0.0146,
+      "lastPayment": {
+        "date": "2026-09-21",
+        "amount": 0.795
+      }
+    },
+    "avgDailyTradedValue3m": 1577858963
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do RSP nos últimos 12 meses é de 11,48%, um nível considerado baixo para um ETF de ações. O beta de 0,67 em relação ao S&P 500 sugere que o RSP historicamente oscila menos que o índice de referência, o que é consistente com a estratégia de peso igual que diversifica a exposição entre 500 empresas, reduzindo a concentração em grandes nomes de tecnologia que costumam amplificar a volatilidade do índice capitalização-ponderado. A maior queda em 5 anos foi de -21,38%, entre 04/01/2022 e 30/09/2022. Para monitorar movimentos bruscos e definir níveis de atenção, o recurso de [alertas de preço](/recursos/alertas-de-preco) pode ser configurado para notificar quando a cota atingir valores específicos."
+  },
+  "history": {
+    "overview": "O Invesco S&P 500 Equal Weight ETF (RSP) iniciou suas operações em 01/05/2003, oferecendo uma abordagem distinta ao mercado acionário americano. Enquanto a maioria dos fundos de índice segue a ponderação por capitalização de mercado, o RSP adota a estratégia de peso igual (equal weight), alocando o mesmo valor em cada uma das 500 empresas do índice S&P 500. Essa metodologia foi desenvolvida pela Invesco, gestora que possui raízes que remontam a 1935 e que consolidou sua presença global ao longo das décadas, incluindo a aquisição de outras gestoras e o lançamento de outros produtos de sucesso como o [QQQ](/etfs/qqq) em 1999. A estratégia de peso igual implica em rebalanceamentos frequentes para manter a igualdade entre os ativos, o que historicamente resultou em uma exposição reduzida às maiores empresas de tecnologia e uma maior exposição a setores como saúde e industriais, alterando o perfil de risco e retorno em relação ao índice tradicional. O lançamento do RSP ocorreu em um período de expansão dos ETFs nos Estados Unidos, permitindo que investidores acessassem uma carteira diversificada de 500 ações com uma lógica de alocação diferente da convencional.",
+    "timeline": [
+      {
+        "date": "1935",
+        "event": "Fundação da H. Lotery & Co. Ltd., precursora da atual gestora Invesco",
+        "source": 2
+      },
+      {
+        "date": "1999",
+        "event": "A Invesco lança o ETF Invesco QQQ, marcando um marco na expansão de seus produtos de índice",
+        "source": 2
+      },
+      {
+        "date": "2003-05-01",
+        "event": "Primeiro pregão das cotas do ETF na bolsa",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o RSP funciona",
+      "body": "O RSP é um ETF que replica o índice S&P 500 Equal Weight, gerido pela Invesco. Diferente dos ETFs que seguem o S&P 500 tradicional (como o [SPY](/etfs/spy) ou o [VOO](/etfs/voo)), que ponderam as empresas pelo tamanho de mercado, o RSP distribui o capital igualmente entre as 500 ações que compõem o índice. Isso significa que uma empresa pequena tem o mesmo peso percentual na carteira que uma empresa gigante. Para manter essa igualdade, o fundo realiza rebalanceamentos periódicos, vendendo as ações que subiram mais e comprando as que caíram, o que pode gerar custos de transação e impactos fiscais internos, embora o objetivo seja capturar o retorno médio das 500 empresas sem viés de concentração. O RSP foi lançado em 01/05/2003."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do RSP",
+      "body": "O RSP segue o índice S&P 500, que acompanha o desempenho de 500 empresas listadas em bolsas dos Estados Unidos, consideradas de grande capitalização. Segundo dados de dezembro de 2025, o índice S&P 500 representa cerca de 83% da capitalização total das empresas públicas americanas, com uma capitalização agregada superior a US$ 61,1 trilhões. A diferença crucial no RSP é a metodologia de ponderação: em vez de refletir a capitalização de mercado, o ETF aplica pesos iguais a cada componente. Isso resulta em uma composição onde setores tradicionalmente menores em capitalização, como utilidades e industriais, ganham peso relativo em comparação com o índice padrão, enquanto o peso do setor de tecnologia tende a ser menor."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no RSP a partir do Brasil",
+      "body": "Para investir no RSP a partir do Brasil, o investidor precisa abrir conta em uma corretora de valores que ofereça acesso ao mercado americano. A compra é feita em dólar, o que introduz o risco cambial: a rentabilidade em reais dependerá não apenas da variação do preço da cota em dólar, mas também da cotação do dólar frente ao real. Alternativamente, é possível buscar exposição a índices americanos por meio de BDRs (Brazilian Depositary Receipts) negociados na B3, que são cotados em reais e eliminam a necessidade de conversão cambial direta, embora possam ter spreads e liquidez diferentes. É importante considerar que ativos em dólar não são protegidos pela Seguradora Privada de Crédito (SPC) da B3, mas sim pelas regras de proteção do mercado americano."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do RSP",
+      "body": "Até 30/10/2026, o RSP apresentou rentabilidade total com proventos de 18,28% nos últimos 12 meses, 70,12% em 3 anos e 49,21% em 5 anos. Em um horizonte de 10 anos, o retorno acumulado foi de 217,56%. O fundo distribui proventos, com US$ 3,1810 por cota pagos em 4 parcelas nos 12 meses até 30/10/2026, resultando em um dividend yield de 1,46%. O último pagamento registrado foi de US$ 0,7950 em 21/09/2026. Para acompanhar como esses números se comparam com o índice de referência, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices) no app, que exibe a rentabilidade do RSP lado a lado com o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do RSP",
+      "body": "O principal risco do RSP é o risco de mercado, pois ele está exposto à volatilidade das 500 maiores empresas dos EUA. A volatilidade anualizada do RSP nos últimos 12 meses foi de 11,48%, classificada como baixa. O beta de 0,67 indica que, historicamente, o RSP tende a ter movimentos menores que os do S&P 500, mas na mesma direção. A maior queda nos últimos 5 anos foi de -21,38%, ocorrida entre o pico em 04/01/2022 e o ponto mais baixo em 30/09/2022. Além do risco de mercado, há o risco cambial para investidores brasileiros, e o risco de tracking error, embora baixo em ETFs de índice, pode ocorrer devido aos custos de rebalanceamento. A [carteira consolidada](/recursos/carteira-consolidada) permite visualizar a exposição total a esses riscos junto com outros ativos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "Qual a diferença entre RSP e SPY?",
+      "answer": "A principal diferença está na ponderação. O RSP usa peso igual entre as 500 empresas do S&P 500, enquanto o SPY usa ponderação por capitalização de mercado. Isso faz com que o RSP tenha menor exposição às maiores empresas (como as de tecnologia) e maior exposição a empresas menores dentro do índice, o que historicamente resulta em um perfil de risco e retorno diferente."
+    },
+    {
+      "question": "O RSP paga dividendos?",
+      "answer": "Sim, o RSP distribui proventos. Nos 12 meses até 30/10/2026, foram pagos US$ 3,1810 por cota em 4 parcelas, resultando em um dividend yield de 1,46%. O último pagamento foi de US$ 0,7950 em 21/09/2026. É possível acompanhar a data de pagamento e a data com no app, multiplicadas pela sua quantidade."
+    },
+    {
+      "question": "RSP é um ETF alavancado?",
+      "answer": "Não. O RSP é um ETF de índice tradicional com peso igual. Ele não usa alavancagem nem é inverso. Seu objetivo é replicar o desempenho do índice S&P 500 Equal Weight, sem multiplicar os retornos diários. Isso o diferencia de ETFs como o [SPXL](/etfs/spxl), que é alavancado 3x."
+    },
+    {
+      "question": "Qual a volatilidade do RSP?",
+      "answer": "A volatilidade anualizada do RSP nos últimos 12 meses é de 11,48%, um nível considerado baixo. A maior queda em 5 anos foi de -21,38%, entre 04/01/2022 e 30/09/2022. O beta de 0,67 indica que o RSP tende a oscilar menos que o S&P 500."
+    },
+    {
+      "question": "Como acompanhar o RSP no app?",
+      "answer": "Você pode usar o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) para ver a rentabilidade e o custo da sua posição, e o [assistente de IA](/recursos/assistente-de-ia) para perguntar em português sobre a sua carteira, com respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do RSP lado a lado com o S&P 500, Ibovespa e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando a cota do RSP atingir valores que você definir, útil para monitorar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Visualize a alocação do RSP junto com outras ações e ETFs, entendendo a exposição total da sua carteira."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do RSP e o preço médio da sua posição, com gráfico de variação ao longo do tempo."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500 com ponderação por capitalização, o principal comparável para entender a diferença de estratégia do RSP."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF do S&P 500 com ponderação por capitalização, útil para comparação de taxas e desempenho."
+      },
+      {
+        "ticker": "IVV",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500 com ponderação por capitalização, outra opção para quem busca exposição ao índice tradicional."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do Nasdaq 100, gerido pela mesma gestora (Invesco), para comparação com um índice de tecnologia."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de RSP",
+      "url": "https://finance.yahoo.com/quote/RSP/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): S&P 500 (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/S%26P_500",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Invesco (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Invesco",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Index fund (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Index_fund",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

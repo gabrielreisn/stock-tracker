@@ -1,0 +1,402 @@
+{
+  "ticker": "NATU3",
+  "slug": "natu3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "NATU3: história, dividendos e volatilidade",
+    "description": "NATU3 é a ação ordinária da Natura Cosméticos. Veja o histórico, a reestruturação do grupo, a ausência de dividendos em 2026 e a alta volatilidade de",
+    "h1": "NATU3: Natura Cosméticos S.A.",
+    "canonicalPath": "/acoes/natu3",
+    "keywords": [
+      "NATU3",
+      "Natura Cosméticos",
+      "ação Natura",
+      "dividendos NATU3",
+      "volatilidade NATU3",
+      "Natura &Co",
+      "Avon Natura",
+      "Novo Mercado B3"
+    ]
+  },
+  "summary": "NATU3 é a ação ordinária da Natura Cosméticos S.A., empresa brasileira do setor de consumo não cíclico que opera no segmento de produtos de uso pessoal. Fundada em 1969, a companhia atua com venda direta e varejo, tendo passado por reestruturações globais recentes. Em 30/10/2026, a ação era negociada a R$ 4,73 na B3, com rentabilidade total negativa de 45,82% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Natura",
+    "legalName": "NATURA COSMETICOS SA",
+    "ticker": "BVMF NATU3",
+    "isin": "BRNATUACNOR6",
+    "taxId": "71.673.990/0001-77",
+    "foundingDate": "1969-08-28",
+    "address": {
+      "locality": "São Paulo",
+      "region": "SP",
+      "country": "BR"
+    },
+    "website": "https://www.natura.net",
+    "wikidata": "Q3131210",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q3131210",
+      "https://pt.wikipedia.org/wiki/Natura",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19550/NATU/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Natura",
+    "legalName": "NATURA COSMETICOS SA",
+    "type": "Ação ordinária (ON)",
+    "sector": "Consumo não Cíclico",
+    "segment": "Produtos de Uso Pessoal",
+    "founded": "28/08/1969",
+    "listedSince": "26/05/2004",
+    "headquarters": "São Paulo (SP)",
+    "website": "https://www.natura.net"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "NATURA COSMETICOS SA",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "71.673.990/0001-77",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Consumo não Cíclico / Produtos de Uso Pessoal",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Privado",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "28/08/1969",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "São Paulo (SP)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "26/05/2004",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "NATU3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "DELOITTE TOUCHE TOHMATSU AUDITORES INDEPENDENTES LTDA.",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 4,73",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "57,51% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "1,51",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 72,2 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "NATU3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Natura Cosméticos S.A.",
+    "currency": "BRL",
+    "price": 4.73,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.4582,
+      "3y": null,
+      "5y": null,
+      "10y": -0.8428
+    },
+    "volatility1y": 0.5751,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.8717,
+      "from": "2025-06-26",
+      "to": "2026-10-30"
+    },
+    "beta1y": {
+      "value": 1.51,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 0,
+      "payments12Months": 0,
+      "yield12Months": 0,
+      "lastPayment": {
+        "date": "2019-11-07",
+        "amount": 0.127845
+      }
+    },
+    "avgDailyTradedValue3m": 72205927
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A NATU3 apresenta uma volatilidade anualizada de 57,51% nos últimos 12 meses, um nível considerado muito alto para o mercado de ações brasileiro. O beta de 1,51 contra o Ibovespa significa que, historicamente, a ação tende a acompanhar os movimentos do índice com intensidade 1,51 vezes superior, amplificando tanto as altas quanto as quedas. A maior queda em 5 anos foi de -87,17%, entre 26/06/2025 e 30/10/2026. Essa volatilidade é superior à média de ações de consumo não cíclico, refletindo a reestruturação do grupo e as mudanças de controle. Investidores podem usar os [alertas de preço](/recursos/alertas-de-preco) para serem notificados quando a ação atingir níveis específicos, e acompanhar a variação diária através do [widget na barra de menus](/recursos/widget-da-barra-de-menus)."
+  },
+  "history": {
+    "overview": "A Natura Cosméticos S.A. foi fundada em 1969 por Antônio Luiz Seabra, Guilherme Leal e Pedro Passos, iniciando as atividades com uma loja e uma pequena fábrica em São Paulo. Em 1974, a empresa consolidou o modelo de venda direta como seu principal canal de distribuição. Em 2004, a companhia abriu seu capital na B3, listando suas ações no Novo Mercado, o que lhe garantiu o mais alto nível de governança corporativa da bolsa brasileira na época. A empresa buscou expansão internacional agressiva entre 2016 e 2019, adquirindo a Aēsop, a The Body Shop e parte da Avon, formando o grupo Natura &Co, que chegou a ser o quarto maior grupo de beleza do mundo. No entanto, a estratégia de internacionalização foi revertida a partir de 2023, com a venda da Aēsop e da The Body Shop, e em 2025, com a alienação das operações globais da Avon fora do Brasil e de partes da América Latina e Rússia. Em 2026, a Natura passou por mudanças significativas em sua governança e controle, com a entrada da Advent International e a implementação de um novo programa de recompra de ações.",
+    "timeline": [
+      {
+        "date": "1969",
+        "event": "Fundação da Natura por Antônio Luiz Seabra, Guilherme Leal e Pedro Passos.",
+        "source": 3
+      },
+      {
+        "date": "1969-08-28",
+        "event": "Constituição formal da companhia NATURA COSMETICOS SA.",
+        "source": 2
+      },
+      {
+        "date": "2004-05-21",
+        "event": "Registro da companhia como aberta na CVM.",
+        "source": 2
+      },
+      {
+        "date": "2004-05-26",
+        "event": "Início da cotação das ações na B3.",
+        "source": 1
+      },
+      {
+        "date": "2026-02-23",
+        "event": "Liquidação de litígio da antiga controlada não operacional API nos Estados Unidos.",
+        "source": 12
+      },
+      {
+        "date": "2026-03-30",
+        "event": "Novo acordo de acionistas, mudanças na governança e compromisso vinculante de investimento da Advent International.",
+        "source": 11
+      },
+      {
+        "date": "2026-07-02",
+        "event": "Aquisição de participação relevante pela Advent.",
+        "source": 9
+      },
+      {
+        "date": "2026-07-02",
+        "event": "Anúncio do Novo Programa de Recompra de Ações 2026.",
+        "source": 10
+      },
+      {
+        "date": "2026-07-08",
+        "event": "Divulgação dos resultados preliminares do 2º trimestre de 2026.",
+        "source": 8
+      },
+      {
+        "date": "2026-07-31",
+        "event": "Solicitação de convocação de Assembleias Gerais Extraordinárias no âmbito do compromisso vinculante.",
+        "source": 7
+      },
+      {
+        "date": "2026-08-27",
+        "event": "Aditivo ao acordo de acionistas e indicação de membros ao Conselho da Administração.",
+        "source": 6
+      },
+      {
+        "date": "2026-08-31",
+        "event": "Mudança de liderança da Companhia.",
+        "source": 5
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Natura ganha dinheiro",
+      "body": "A Natura Cosméticos S.A. atua no setor de consumo não cíclico, especificamente no segmento de produtos de uso pessoal. A atividade principal da empresa, conforme a classificação da B3, é o comércio atacadista de comércio e produtos de perfumaria. A companhia opera historicamente com o modelo de venda direta, utilizando consultoras e consultores para levar os produtos aos clientes, além de possuir lojas próprias, franquias e a rede Aqui Tem Natura. A empresa está presente no Brasil e em diversos países, incluindo Argentina, Chile, Colômbia, México, Peru, França, Estados Unidos e Malásia. Em 2025, a Natura anunciou a venda das operações globais da Avon (exceto Brasil, partes da América Latina e Rússia) para o fundo Regent LP, e no ano seguinte, as operações na Rússia foram vendidas para a empresa local Arnest Group."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Natura",
+      "body": "As ações da Natura são negociadas na B3 sob o código NATU3, que representa a ação ordinária (ON). O controle acionário da empresa é classificado como privado, segundo a CVM. A companhia está listada no segmento de governança Novo Mercado, que exige padrões elevados de transparência e igualdade entre acionistas. A ação ordinária confere ao titular direito a voto em assembleias e, em caso de liquidação, tem direito residual sobre o patrimônio, enquanto a ação preferencial (quando existe) prioriza o recebimento de dividendos, mas geralmente não possui direito a voto. A Natura possui apenas o código NATU3 listado, sem uma classe preferencial (NATU4) ativa na B3."
+    },
+    {
+      "id": "proventos",
+      "heading": "NATU3 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, a NATU3 não distribuiu proventos (dividendos ou JCP) aos acionistas, conforme os dados calculados. A ausência de pagamentos recentes reflete a situação financeira e as decisões de capital da empresa no período. O app permite acompanhar a história de proventos de qualquer ação da B3, incluindo datas de competência e pagamento, através da ferramenta de [dividendos e JCP no app](/recursos/proventos), que consolida os comunicados da B3."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da NATU3",
+      "body": "A rentabilidade total da NATU3, incluindo proventos, foi de -45,82% nos 12 meses até 30/10/2026. Em um horizonte de 10 anos, a perda acumulada foi de -84,28%. Esses números refletem a trajetória da ação desde a sua cotação em 2004 até a data de referência. Para entender como esse desempenho se compara ao mercado, o app oferece a [comparação com índices](/recursos/comparacao-com-indices), permitindo visualizar a rentabilidade da carteira lado a lado com o Ibovespa, CDI e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da NATU3",
+      "body": "A volatilidade anualizada da NATU3 nos últimos 12 meses foi de 57,51%, classificada como nível muito alta. A maior queda em 5 anos foi de -87,17%, ocorrendo do pico em 26/06/2025 ao ponto mais baixo em 30/10/2026. O beta de 1,51 indica que a ação tende a se mover com amplitude 1,51 vezes maior que a do Ibovespa. Riscos específicos incluem a dependência do modelo de venda direta, a exposição a mercados internacionais em processo de reestruturação e as mudanças recentes no controle acionário e na liderança da empresa, com a entrada da Advent International. A alta volatilidade pode ser monitorada com [alertas de preço](/recursos/alertas-de-preco) no app."
+    }
+  ],
+  "faq": [
+    {
+      "question": "NATU3 paga dividendos?",
+      "answer": "Não, a NATU3 não pagou dividendos ou JCP nos últimos 12 meses até 30/10/2026. A empresa pode decidir distribuir proventos no futuro, mas isso depende das suas decisões de capital e da situação financeira. O histórico de proventos pode ser consultado no [app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre NATU3 e NATU4?",
+      "answer": "A NATU3 é a ação ordinária da Natura, que confere direito a voto em assembleias. A Natura não possui uma ação preferencial (NATU4) listada na B3. Ações ordinárias e preferenciais diferem principalmente no direito a voto e na prioridade no recebimento de dividendos, mas a Natura opera apenas com a classe ordinária."
+    },
+    {
+      "question": "O que é o Novo Mercado na B3?",
+      "answer": "O Novo Mercado é o segmento de governança corporativa da B3 com os mais altos padrões de transparência e igualdade entre acionistas. A Natura está listada nesse segmento desde sua abertura de capital em 2004, o que exige, por exemplo, a negociação de todas as ações na bolsa e a distribuição de dividendos mínimos."
+    },
+    {
+      "question": "Quem controla a Natura em 2026?",
+      "answer": "Em 2026, a Natura passou por mudanças no controle acionário, com a entrada da Advent International, que adquiriu participação relevante em julho de 2026. O controle é classificado como privado pela CVM. As mudanças incluem um novo acordo de acionistas e a indicação de membros ao Conselho da Administração."
+    },
+    {
+      "question": "Por que a NATU3 caiu tanto nos últimos 10 anos?",
+      "answer": "A rentabilidade total da NATU3 foi de -84,28% em 10 anos até 30/10/2026. Essa queda reflete a reestruturação do grupo Natura &Co, com a venda de marcas internacionais como Aēsop e The Body Shop, a alienação das operações globais da Avon e as mudanças no controle acionário. A volatilidade da ação tem sido muito alta, com 57,51% nos últimos 12 meses."
+    },
+    {
+      "question": "A Natura ainda tem a Avon?",
+      "answer": "Sim, mas de forma limitada. Em 2025, a Natura vendeu as operações globais da Avon (exceto Brasil, partes da América Latina e Rússia) para o fundo Regent LP. Em 2026, as operações na Rússia foram vendidas para a Arnest Group. A Natura mantém a Avon no Brasil e em partes da América Latina."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da NATU3 com data de competência e data de pagamento, multiplicados pela sua quantidade, para saber se a ação está gerando renda."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da NATU3 com o Ibovespa, CDI e outros índices no mesmo gráfico, para entender como a ação se comportou em relação ao mercado."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a NATU3 chegar ao preço que você escolheu, útil para acompanhar a alta volatilidade da ação."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a NATU3 junto com seus outros investimentos em ações, renda fixa e fundos, para entender a alocação e a diversificação da sua carteira."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "ABEV3",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor de consumo não cíclico, com exposição a bens de consumo essenciais, para comparação de desempenho e volatilidade."
+      },
+      {
+        "ticker": "LREN3",
+        "list": "br-stocks",
+        "reason": "Ação de varejo de moda, que também depende do consumo do brasileiro e pode ser afetada por fatores macroeconômicos semelhantes."
+      },
+      {
+        "ticker": "MGLU3",
+        "list": "br-stocks",
+        "reason": "Ação de varejo, que compartilha a exposição ao consumo doméstico e à volatilidade do mercado de ações brasileiro."
+      },
+      {
+        "ticker": "PETR4",
+        "list": "br-stocks",
+        "reason": "Ação de grande porte na B3, para comparação de desempenho e volatilidade com outro ativo de alta liquidez."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de NATU3",
+      "url": "https://finance.yahoo.com/quote/NATU3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: NATURA, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/19550/NATU/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, NATURA COSMETICOS SA",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Natura",
+      "url": "https://www.wikidata.org/wiki/Q3131210",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Natura",
+      "url": "https://pt.wikipedia.org/wiki/Natura",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/08/2026, “Mudança de liderança da Companhia”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1562875&numSequencia=1087581&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 27/08/2026, “Aditivo ao Acordo de Acionistas e indicação membros Conselho da Administração”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1562186&numSequencia=1086892&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 31/07/2026, “Solicitação de Convocação de AGEs no âmbito de Compromisso Vinculante”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1550758&numSequencia=1075464&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 08/07/2026, “Resultados Preliminares do 2º Trimestre de 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1542739&numSequencia=1067445&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/07/2026, “Aquisição de Participação Relevante pela Advent”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1540900&numSequencia=1065606&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/07/2026, “Novo Programa de Recompra de Ações 2026”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1541262&numSequencia=1065968&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 30/03/2026, “Novo acordo de acionistas, mudanças na governança e compromisso vinculante de investimento da Advent International”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1498085&numSequencia=1022791&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 23/02/2026, “Liquidação de Litígio da antiga controlada não operacional, API, nos Estados Unidos”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1480329&numSequencia=1005035&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

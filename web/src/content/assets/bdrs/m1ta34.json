@@ -1,0 +1,286 @@
+{
+  "ticker": "M1TA34",
+  "slug": "m1ta34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "M1TA34: BDR da Meta Platforms, dividendos e volatilidade",
+    "description": "M1TA34 é o BDR da Meta Platforms, Inc., negociado na B3. Veja dividendos, desempenho, riscos e como acompanhar o ativo no app.",
+    "h1": "M1TA34: BDR da Meta Platforms, Inc.",
+    "canonicalPath": "/bdrs/m1ta34",
+    "keywords": [
+      "M1TA34",
+      "Meta Platforms BDR",
+      "BDR Meta",
+      "dividendos M1TA34",
+      "volatilidade M1TA34"
+    ]
+  },
+  "summary": "M1TA34 é o BDR não patrocinado nível I da Meta Platforms, Inc., empresa de tecnologia sediada em Menlo Park, que opera Facebook, Instagram e WhatsApp. A ação original é negociada na NASDAQ sob o ticker META. Em 29/10/2026, o BDR cotava a R$ 120,74 na B3, com volume médio diário de R$ 46,5 milhões nos últimos três meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Meta",
+    "legalName": "META PLATFORMS. INC.",
+    "ticker": "BVMF M1TA34",
+    "foundingDate": "2004-07-29",
+    "website": "https://www.meta.com/",
+    "wikidata": "Q380",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q380",
+      "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "https://pt.wikipedia.org/wiki/Meta_Platforms",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50733/M1TA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Meta",
+    "legalName": "META PLATFORMS. INC.",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "29/07/2004",
+    "listedSince": "04/02/2014",
+    "headquarters": "Menlo Park",
+    "website": "https://www.meta.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "META PLATFORMS. INC.",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: META",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Menlo Park",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "29/07/2004",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "04/02/2014",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 120,74",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "42,56% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original META em dólares)",
+      "value": "1,41",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "0,23%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 46,5 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "M1TA34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Meta Platforms, Inc.",
+    "currency": "BRL",
+    "price": 120.74,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.1035,
+      "3y": 1.2334,
+      "5y": 0.867,
+      "10y": 7.1485
+    },
+    "volatility1y": 0.4256,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.7677,
+      "from": "2021-12-29",
+      "to": "2022-11-03"
+    },
+    "beta1y": {
+      "value": 1.41,
+      "against": "S&P 500, ação original META em dólares"
+    },
+    "dividends": {
+      "last12Months": 0.2778,
+      "payments12Months": 4,
+      "yield12Months": 0.0023,
+      "lastPayment": {
+        "date": "2026-09-18",
+        "amount": 0.06851
+      }
+    },
+    "avgDailyTradedValue3m": 46488178
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do M1TA34 nos últimos 12 meses é de 42,56%, classificada como muito alta. O beta da ação original (META) contra o S&P 500 é de 1,41, o que significa que, historicamente, os movimentos da ação tendem a ser 1,41 vezes maiores que os do índice, na mesma direção. A maior queda em 5 anos foi de -76,77%, entre 29/12/2021 e 03/11/2022. Para monitorar movimentos bruscos de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A Meta Platforms, Inc. foi fundada em 29/07/2004 por Mark Zuckerberg e outros estudantes de Harvard, originalmente como TheFacebook.com. Em 2005, a empresa passou a se chamar Facebook, Inc. Em 2012, realizou sua oferta pública inicial (IPO) na NASDAQ, levantando US$ 16 bilhões e tornando-se uma das maiores da história dos Estados Unidos na época. Em 2021, a empresa mudou seu nome para Meta Platforms, Inc., refletindo uma mudança estratégica para o desenvolvimento do metaverso, um ecossistema digital que abrange realidade virtual e aumentada. A empresa adquiriu Instagram em 2012 e WhatsApp em 2014, consolidando seu portfólio de aplicativos de comunicação. O BDR M1TA34, que representa a ação da Meta, passou a ser negociado na B3 em 04/02/2014, permitindo que investidores brasileiros acompanhassem a empresa sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "2004-07-29",
+        "event": "Fundação da empresa como TheFacebook, Inc.",
+        "source": 2
+      },
+      {
+        "date": "2012",
+        "event": "Início da negociação da ação na NASDAQ após IPO",
+        "source": 3
+      },
+      {
+        "date": "2014-02-04",
+        "event": "Listagem do BDR M1TA34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2021",
+        "event": "Anúncio da mudança de nome para Meta Platforms, Inc.",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Meta ganha dinheiro",
+      "body": "A Meta Platforms, Inc. é uma empresa de tecnologia e mídia social que opera plataformas como Facebook, Instagram, WhatsApp, Messenger e Threads. A receita da empresa vem predominantemente de uma rede de publicidade, que, em 2023, representou 97,8% do faturamento total. A empresa também possui participações em outras empresas, como a Jio Platforms, e desenvolve tecnologias de realidade virtual e aumentada através da divisão de metaverso."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR M1TA34",
+      "body": "O M1TA34 é um BDR não patrocinado de nível I, negociado na B3 em reais. Ele representa a ação original da Meta Platforms, Inc., que é listada na NASDAQ sob o ticker META. O BDR foi listado na B3 em 04/02/2014. O preço do BDR acompanha a variação da ação original em dólares e a cotação do dólar em relação ao real, o que significa que o investidor está exposto tanto ao desempenho da empresa quanto ao câmbio."
+    },
+    {
+      "id": "proventos",
+      "heading": "M1TA34 paga dividendos?",
+      "body": "A Meta Platforms, Inc. paga dividendos, que são repassados aos detentores do BDR M1TA34 em reais. Nos 12 meses até 29/10/2026, houve 4 pagamentos, totalizando R$ 0,2778 por BDR, o que corresponde a um dividend yield de 0,23%. O último pagamento foi de R$ 0,0685 em 18/09/2026. É importante lembrar que a empresa paga na moeda do seu país (dólar) e o valor é convertido para reais na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do M1TA34",
+      "body": "Até 29/10/2026, a rentabilidade total do M1TA34, incluindo proventos, foi de -10,35% nos últimos 12 meses, 123,34% em 3 anos, 86,70% em 5 anos e 714,85% em 10 anos. Esses retornos estão em reais e incluem a variação do câmbio entre o dólar e o real. Para comparar com outros investimentos, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) no app, que mostra a rentabilidade do BDR ao lado do S&P 500 e do CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do M1TA34",
+      "body": "Os riscos do M1TA34 incluem a volatilidade da ação original da Meta, que tem um beta de 1,41 contra o S&P 500, indicando que seus movimentos tendem a ser maiores que os do índice. A maior queda em 5 anos foi de -76,77%, entre 29/12/2021 e 03/11/2022. Além disso, o BDR está sujeito ao risco cambial, pois o preço em reais depende da cotação do dólar. A liquidez do BDR na B3 é moderada, com um volume médio diário de R$ 46,5 milhões nos últimos 3 meses. A volatilidade anualizada de 42,56% é considerada muito alta."
+    }
+  ],
+  "faq": [
+    {
+      "question": "M1TA34 paga dividendos?",
+      "answer": "Sim, a Meta Platforms, Inc. paga dividendos, que são repassados aos detentores do BDR M1TA34 em reais. Nos 12 meses até 29/10/2026, houve 4 pagamentos, totalizando R$ 0,2778 por BDR, com um dividend yield de 0,23%."
+    },
+    {
+      "question": "Qual a diferença entre M1TA34 e a ação META?",
+      "answer": "O M1TA34 é um BDR negociado na B3 em reais, enquanto a META é a ação original negociada na NASDAQ em dólares. O preço do BDR acompanha a ação original e a cotação do dólar, o que significa que o investidor está exposto tanto ao desempenho da empresa quanto ao câmbio."
+    },
+    {
+      "question": "M1TA34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O M1TA34 é um BDR não patrocinado de nível I, o que significa que não há um acordo formal entre a empresa e a instituição depositária. O BDR é emitido por uma instituição depositária e representa a ação original da Meta Platforms, Inc."
+    },
+    {
+      "question": "Qual o risco cambial do M1TA34?",
+      "answer": "O M1TA34 está sujeito ao risco cambial, pois o preço em reais depende da cotação do dólar. Se o dólar se valorizar em relação ao real, o preço do BDR tende a subir, e vice-versa. Esse risco é adicional ao risco da ação original."
+    },
+    {
+      "question": "Qual a volatilidade do M1TA34?",
+      "answer": "A volatilidade anualizada do M1TA34 nos últimos 12 meses é de 42,56%, classificada como muito alta. O beta da ação original contra o S&P 500 é de 1,41, indicando que os movimentos da ação tendem a ser maiores que os do índice."
+    },
+    {
+      "question": "Como acompanhar o M1TA34 no app?",
+      "answer": "É possível acompanhar o M1TA34 no app usando o [widget da barra de menus](/recursos/widget-da-barra-de-menus), que mostra o gráfico do dia e as posições com um clique. Também é possível usar o [assistente de IA](/recursos/assistente-de-ia) para perguntar sobre a carteira e os proventos do BDR."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o M1TA34 ao lado de outros ativos na carteira consolidada, com alocação por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade e o preço médio do M1TA34 no gráfico de desempenho, com a variação do dia e do ano."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas de preço para o M1TA34 e receba uma notificação quando o ativo chegar ao preço que você escolheu."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "GOGL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa de tecnologia, Alphabet Inc., com exposição similar ao setor."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR da Apple Inc., outra grande empresa de tecnologia listada na NASDAQ."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR da Microsoft Corporation, concorrente direta da Meta em serviços de publicidade e tecnologia."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de M1TA34",
+      "url": "https://finance.yahoo.com/quote/M1TA34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: META PLAT, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50733/M1TA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Meta",
+      "url": "https://www.wikidata.org/wiki/Q380",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Meta Platforms",
+      "url": "https://en.wikipedia.org/wiki/Meta_Platforms",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Meta Platforms",
+      "url": "https://pt.wikipedia.org/wiki/Meta_Platforms",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

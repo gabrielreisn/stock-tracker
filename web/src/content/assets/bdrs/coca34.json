@@ -1,0 +1,312 @@
+{
+  "ticker": "COCA34",
+  "slug": "coca34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "COCA34: BDR da Coca-Cola, dividendos e desempenho",
+    "description": "COCA34 é o BDR da The Coca-Cola Company na B3. Veja dividendos, rentabilidade de 41,01% em 12 meses, volatilidade e riscos do ativo em reais.",
+    "h1": "COCA34: BDR da The Coca-Cola Company",
+    "canonicalPath": "/bdrs/coca34",
+    "keywords": [
+      "COCA34",
+      "BDR Coca-Cola",
+      "dividendos COCA34",
+      "rentabilidade COCA34",
+      "BDR nível I",
+      "Coca-Cola B3"
+    ]
+  },
+  "summary": "COCA34 é o BDR nível I da The Coca-Cola Company, empresa estadunidense de bebidas fundada em 1892. Negociado na B3 desde 15/06/2011, o ativo representa ações da KO na NYSE. Em 29/10/2026, cotava a R$ 83,84, com rentabilidade total de 41,01% nos últimos 12 meses e dividend yield de 2,18%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "The Coca-Cola Company",
+    "legalName": "THE COCA-COLA COMPANY",
+    "ticker": "BVMF COCA34",
+    "foundingDate": "1892",
+    "website": "https://www.coca-colacompany.com/",
+    "wikidata": "Q3295867",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q3295867",
+      "https://en.wikipedia.org/wiki/The_Coca-Cola_Company",
+      "https://pt.wikipedia.org/wiki/The_Coca-Cola_Company",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50229/COCA/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "The Coca-Cola Company",
+    "legalName": "THE COCA-COLA COMPANY",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1892",
+    "listedSince": "15/06/2011",
+    "headquarters": "Atlanta",
+    "website": "https://www.coca-colacompany.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "THE COCA-COLA COMPANY",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: KO",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Atlanta",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1892",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "15/06/2011",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 83,84",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "23,76% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,18%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 3,0 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "COCA34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "The Coca-Cola Company",
+    "currency": "BRL",
+    "price": 83.84,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": 0.4101,
+      "3y": 0.9392,
+      "5y": 0.8182,
+      "10y": 4.0988
+    },
+    "volatility1y": 0.2376,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2024,
+      "from": "2023-01-03",
+      "to": "2023-10-13"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.8293,
+      "payments12Months": 4,
+      "yield12Months": 0.0218,
+      "lastPayment": {
+        "date": "2026-09-15",
+        "amount": 0.457832
+      }
+    },
+    "avgDailyTradedValue3m": 3043582
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do COCA34 nos últimos 12 meses foi de 23,76%, um nível moderado para um BDR de uma empresa de consumo defensivo. A maior queda em 5 anos foi de -20,24%, entre 03/01/2023 e 13/10/2023. O beta do ativo não está disponível no dossiê. Para monitorar oscilações de preço, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app."
+  },
+  "history": {
+    "overview": "A The Coca-Cola Company foi fundada em 1892 em Atlanta por Asa Griggs Candler, que comprou a fórmula e a marca do farmacêutico John Pemberton. A empresa opera um sistema de distribuição franqueado desde 1889, produzindo xarope concentrado vendido a engarrafadores com territórios exclusivos. Ao longo do século XX, a marca expandiu-se globalmente, chegando a 200 países por volta de 2020, com mais de 500 marcas no portfólio. A trajetória inclui aquisições estratégicas em diferentes setores, como a Minute Maid em 1960 e o estúdio Columbia Pictures em 1982, além de investimentos em bebidas funcionais e de baixo teor de açúcar, como a participação na Monster Beverage em 2014. Em 2017, as vendas da empresa caíram 11% em relação ao ano anterior, refletindo a mudança de preferências dos consumidores em relação a bebidas açucaradas. O BDR COCA34 foi listado na B3 em 15/06/2011, permitindo que investidores brasileiros acompanhassem a empresa sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "1892",
+        "event": "Fundação da The Coca-Cola Company em Atlanta",
+        "source": 2
+      },
+      {
+        "date": "1960",
+        "event": "Aquisição da marca Minute Maid",
+        "source": 3
+      },
+      {
+        "date": "1982",
+        "event": "Aquisição do estúdio de cinema Columbia Pictures por 692 milhões de dólares",
+        "source": 3
+      },
+      {
+        "date": "1989",
+        "event": "Venda da Columbia Pictures para a Sony por 3 bilhões de dólares",
+        "source": 3
+      },
+      {
+        "date": "2011-06-15",
+        "event": "Listagem do BDR COCA34 na B3",
+        "source": 1
+      },
+      {
+        "date": "2014-08",
+        "event": "Aquisição de 16,7% da Monster Beverage por 2,15 bilhões de dólares",
+        "source": 3
+      },
+      {
+        "date": "2016-12",
+        "event": "Compra de operações da antiga SABMiller",
+        "source": 3
+      },
+      {
+        "date": "2019-01-03",
+        "event": "Conclusão da aquisição da Costa Coffee da Whitbread por 3,9 bilhões de libras esterlinas",
+        "source": 3
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a The Coca-Cola Company ganha dinheiro",
+      "body": "A The Coca-Cola Company atua na fabricação, venda e comercialização de concentrados e xaropes de bebidas não alcoólicas e alcoólicas. O modelo de negócio baseia-se na produção de xarope concentrado, que é vendido a engarrafadores em todo o mundo que detêm territórios exclusivos. A empresa possui sua engarrafadora âncora na América do Norte, a Coca-Cola Refreshments. Em 2005, a empresa relatou a venda de produtos em mais de 200 países, com mais de 1,3 bilhão de porções de bebidas com suas marcas consumidas diariamente. A Coca-Cola é conhecida por seus programas de marketing e patrocínio em eventos esportivos globais, como a Copa do Mundo da FIFA."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR COCA34",
+      "body": "O COCA34 é um BDR não patrocinado de nível I, um recibo negociado na B3 em reais que representa ações da The Coca-Cola Company listadas na Bolsa de Valores de Nova Iorque (NYSE) sob o ticker KO. O BDR foi listado na B3 em 15/06/2011. O preço do COCA34 acompanha a cotação da ação original em dólar e a variação do câmbio entre o dólar e o real. A liquidez do BDR depende do volume de negociação na B3, que para o COCA34 é de R$ 3,0 milhões por dia em média nos últimos 3 meses."
+    },
+    {
+      "id": "proventos",
+      "heading": "COCA34 paga dividendos?",
+      "body": "O COCA34 distribui proventos aos investidores. Nos 12 meses até 29/10/2026, foram pagos R$ 1,8293 por BDR em 4 pagamentos, resultando em um dividend yield de 2,18%. O último pagamento foi de R$ 0,4578 em 15/09/2026. Como a empresa é estadunidense, os dividendos são pagos em dólar e o valor recebido pelo investidor brasileiro depende da cotação do câmbio na data do pagamento. É possível acompanhar os [dividendos e JCP no app](/recursos/desempenho-e-preco-medio) para monitorar a entrada de caixa."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do COCA34",
+      "body": "A rentabilidade total do COCA34, incluindo a variação do câmbio, foi de 41,01% nos 12 meses até 29/10/2026. Nos últimos 3 anos, o retorno foi de 93,92%, e em 5 anos, de 81,82%. Em 10 anos, a rentabilidade acumulada foi de 409,88%. Esses números refletem o desempenho da ação KO em dólar e a variação do câmbio. Para comparar esse desempenho com o do mercado americano, é possível usar a [comparação com índices](/recursos/comparacao-com-indices), que inclui o S&P 500."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do COCA34",
+      "body": "Os riscos do COCA34 incluem o risco cambial, já que o BDR é lastreado em ações em dólar, e o risco de liquidez, com volume médio de R$ 3,0 milhões por dia. A volatilidade anualizada do ativo nos últimos 12 meses foi de 23,76%, considerada moderada. A maior queda nos últimos 5 anos foi de -20,24%, entre o pico em 03/01/2023 e o ponto mais baixo em 13/10/2023. Riscos setoriais incluem a mudança de preferências dos consumidores em relação a bebidas açucaradas, que levou a uma queda de 11% nas vendas em 2017, e críticas relacionadas à sustentabilidade e ao impacto da poluição plástica."
+    }
+  ],
+  "faq": [
+    {
+      "question": "COCA34 paga dividendos?",
+      "answer": "Sim, o COCA34 distribui proventos. Nos 12 meses até 29/10/2026, foram pagos R$ 1,8293 por BDR em 4 pagamentos, com dividend yield de 2,18%. O último pagamento foi de R$ 0,4578 em 15/09/2026. O valor é pago em dólar pela empresa e convertido para reais na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre COCA34 e a ação KO?",
+      "answer": "O COCA34 é um BDR negociado na B3 em reais, enquanto a KO é a ação original da The Coca-Cola Company negociada na NYSE em dólar. O COCA34 acompanha o preço da KO e a variação do câmbio, permitindo que investidores brasileiros acessem a empresa sem abrir conta no exterior."
+    },
+    {
+      "question": "COCA34 é BDR patrocinado ou não patrocinado?",
+      "answer": "O COCA34 é um BDR não patrocinado de nível I. Isso significa que não há acordo direto entre a The Coca-Cola Company e a instituição depositária que emite o BDR na B3."
+    },
+    {
+      "question": "Qual o risco cambial do COCA34?",
+      "answer": "O COCA34 tem risco cambial porque é lastreado em ações em dólar. Se o dólar se valorizar frente ao real, o preço do BDR tende a subir, e vice-versa. A rentabilidade em reais inclui a variação do câmbio."
+    },
+    {
+      "question": "Qual a liquidez do COCA34 na B3?",
+      "answer": "O volume médio negociado por dia do COCA34 nos últimos 3 meses é de R$ 3,0 milhões. Essa liquidez é inferior à de ações brasileiras mais negociadas, o que pode afetar a execução de ordens de grande porte."
+    },
+    {
+      "question": "Como acompanhar o desempenho do COCA34?",
+      "answer": "É possível usar o [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app para ver a rentabilidade da posição e a variação do dia e do ano. A [comparação com índices](/recursos/comparacao-com-indices) permite comparar o COCA34 com o S&P 500."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os proventos do COCA34 com data de pagamento e o preço médio da sua posição."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do COCA34 com o S&P 500 no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o COCA34 atingir o preço que você definiu."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o COCA34 junto com suas outras posições em ações, BDRs e renda fixa."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "M1NS34",
+        "list": "bdrs",
+        "reason": "BDR da Monster Beverage, empresa em que a Coca-Cola detém participação estratégica"
+      },
+      {
+        "ticker": "PEPB34",
+        "list": "bdrs",
+        "reason": "BDR da PepsiCo, principal concorrente da Coca-Cola no setor de bebidas"
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para BDRs de empresas americanas"
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa americana de grande capitalização negociado na B3"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de COCA34",
+      "url": "https://finance.yahoo.com/quote/COCA34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: COCA COLA, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50229/COCA/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: The Coca-Cola Company",
+      "url": "https://www.wikidata.org/wiki/Q3295867",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): The Coca-Cola Company",
+      "url": "https://en.wikipedia.org/wiki/The_Coca-Cola_Company",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): The Coca-Cola Company",
+      "url": "https://pt.wikipedia.org/wiki/The_Coca-Cola_Company",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

@@ -1,0 +1,398 @@
+{
+  "ticker": "CXSE3",
+  "slug": "cxse3",
+  "list": "br-stocks",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "CXSE3: história, dividendos e volatilidade",
+    "description": "Conheça a Caixa Seguridade Participações S.A. (CXSE3): ação do setor de seguros com controle estatal, dividend yield de 6,38% e volatilidade moderada.",
+    "h1": "CXSE3: Caixa Seguridade Participações S.A.",
+    "canonicalPath": "/acoes/cxse3",
+    "keywords": [
+      "CXSE3",
+      "Caixa Seguridade",
+      "ação de seguros",
+      "dividendos CXSE3",
+      "volatilidade CXSE3",
+      "controle estatal",
+      "Novo Mercado B3",
+      "rentabilidade CXSE3"
+    ]
+  },
+  "summary": "CXSE3 é a ação ordinária da Caixa Seguridade Participações S.A., empresa do setor financeiro que atua em seguros, previdência, capitalização e consórcios. Fundada em 2015 e listada na B3 em 2021, a companhia possui controle estatal. Até 30/10/2026, o ativo apresentava rentabilidade total de 51,32% em 12 meses e dividend yield de 6,38%, com volatilidade anualizada de 23,25%.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Caixa Seguridade Participações S.A.",
+    "legalName": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
+    "ticker": "BVMF CXSE3",
+    "isin": "BRCXSEACNOR7",
+    "taxId": "22.543.331/0001-00",
+    "foundingDate": "2015-05-21",
+    "address": {
+      "locality": "Brasília",
+      "region": "DF",
+      "country": "BR"
+    },
+    "sameAs": [
+      "https://pt.wikipedia.org/wiki/Caixa_Seguridade",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/23795/CXSE/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Caixa Seguridade Participações S.A.",
+    "legalName": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
+    "type": "Ação ordinária (ON)",
+    "sector": "Financeiro",
+    "segment": "Seguradoras",
+    "founded": "21/05/2015",
+    "listedSince": "29/04/2021",
+    "headquarters": "Brasília (DF)"
+  },
+  "characteristics": [
+    {
+      "label": "Razão social",
+      "value": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
+      "source": 2
+    },
+    {
+      "label": "CNPJ",
+      "value": "22.543.331/0001-00",
+      "source": 2
+    },
+    {
+      "label": "Setor (classificação B3)",
+      "value": "Financeiro / Seguradoras",
+      "source": 1
+    },
+    {
+      "label": "Segmento de listagem",
+      "value": "Novo Mercado",
+      "source": 1
+    },
+    {
+      "label": "Controle acionário",
+      "value": "Estatal",
+      "source": 2
+    },
+    {
+      "label": "Constituição",
+      "value": "21/05/2015",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Brasília (DF)",
+      "source": 2
+    },
+    {
+      "label": "Cotada na B3 desde",
+      "value": "29/04/2021",
+      "source": 1
+    },
+    {
+      "label": "Códigos de negociação",
+      "value": "CXSE3",
+      "source": 1
+    },
+    {
+      "label": "Auditor independente",
+      "value": "BDO RCS AUDITORES INDEPENDENTES - SOCIEDADE SIMPLES LIMITADA",
+      "source": 2
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 21,18",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "23,25% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o Ibovespa)",
+      "value": "0,41",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "6,38%",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "CXSE3",
+    "list": "br-stocks",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Caixa Seguridade Participações S.A.",
+    "currency": "BRL",
+    "price": 21.18,
+    "historyStarts": "2021-04-30",
+    "returns": {
+      "1y": 0.5132,
+      "3y": 1.407,
+      "5y": 2.5726,
+      "10y": null
+    },
+    "volatility1y": 0.2325,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2927,
+      "from": "2021-11-16",
+      "to": "2022-07-14"
+    },
+    "beta1y": {
+      "value": 0.41,
+      "against": "Ibovespa"
+    },
+    "dividends": {
+      "last12Months": 1.3521,
+      "payments12Months": 4,
+      "yield12Months": 0.0638,
+      "lastPayment": {
+        "date": "2026-08-04",
+        "amount": 0.35
+      }
+    },
+    "avgDailyTradedValue3m": 157237754
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada da CXSE3 nos últimos 12 meses é de 23,25%, um nível considerado moderado para ações do setor financeiro. O beta do ativo contra o Ibovespa é de 0,41, o que indica que a ação tende a se mover com amplitude menor que a do índice, na mesma direção. A maior queda em 5 anos foi de -29,27%, entre 16/11/2021 e 14/07/2022. Para acompanhar a evolução do preço e a volatilidade do ativo ao longo do tempo, o recurso de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) oferece gráficos detalhados."
+  },
+  "history": {
+    "overview": "A trajetória da Caixa Seguridade tem raízes na atuação da Caixa Econômica Federal no mercado de seguros, iniciada em 1967 com a fundação da SASSE. Em 2000, a SASSE passou a se chamar Caixa Seguros, e em 2001 firmou parceria estratégica com a seguradora francesa CNP Assurances. Em 2013 e 2014, a empresa expandiu sua base com a aquisição de participações na Previsul e na Tempo Dental, respectivamente. A consolidação do grupo ocorreu em 21 de maio de 2015, com a criação da Caixa Seguridade Participações S.A., que unificou as atividades de seguros, capitalização, previdência e consórcios sob uma única holding. Em 2016, a companhia lançou a Youse, uma seguradora 100% digital. Em 2021, a Caixa Seguros passou a denominar-se CNP Seguros Holding Brasil S.A., e em 2022, a Caixa Seguridade vendeu participações em empresas como Previsul e Odonto Empresas para a CNP. A empresa estreou na B3 em 29 de abril de 2021, captando R$ 5 bilhões em seu IPO, que foi o maior do ano na época. Em 2025, a companhia realizou uma oferta pública subsequente de ações, com aprovação do preço em março, e passou por alterações na composição de sua diretoria ao longo do ano. Em 2026, a Caixa Seguridade rescindiu o contrato de distribuição com o Banco Pan.",
+    "timeline": [
+      {
+        "date": "2015-05-21",
+        "event": "Constituição da Caixa Seguridade Participações S.A.",
+        "source": 2
+      },
+      {
+        "date": "2015-12-17",
+        "event": "Registro da companhia como aberta na CVM",
+        "source": 2
+      },
+      {
+        "date": "2021-04-29",
+        "event": "Início da cotação das ações na B3 (IPO)",
+        "source": 1
+      },
+      {
+        "date": "2025-02-04",
+        "event": "Notícias sobre a Potencial Oferta Pública",
+        "source": 11
+      },
+      {
+        "date": "2025-03-09",
+        "event": "Solicitação de Registro de Oferta Pública Subsequente",
+        "source": 10
+      },
+      {
+        "date": "2025-03-19",
+        "event": "Aprovação do preço da Oferta Pública Subsequente",
+        "source": 9
+      },
+      {
+        "date": "2025-07-14",
+        "event": "Alterações na Composição da Diretoria",
+        "source": 8
+      },
+      {
+        "date": "2025-09-10",
+        "event": "Alteração de Membro da Diretoria",
+        "source": 7
+      },
+      {
+        "date": "2025-10-29",
+        "event": "Eleição de Diretor-Presidente",
+        "source": 6
+      },
+      {
+        "date": "2026-04-02",
+        "event": "Alteração de Formador de Mercado",
+        "source": 5
+      },
+      {
+        "date": "2026-10-16",
+        "event": "Rescisão do Contrato de Distribuição no Banco Pan",
+        "source": 4
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Caixa Seguridade Participações S.A. ganha dinheiro",
+      "body": "A Caixa Seguridade Participações S.A. atua no setor financeiro, especificamente no segmento de seguradoras. A atividade principal da companhia é participar, direta ou indiretamente, do capital de outras sociedades relacionadas a seguridade e corretagem de seguros. O grupo é composto por diversas subsidiárias e participações, incluindo a Caixa Holding Securitária, a CNP Seguros Holding Brasil, a Caixa Corretora e a Youse Seguradora. A empresa possui o direito, outorgado pela Caixa Econômica Federal, de explorar sua rede de distribuição e sua marca. Em 2020, a companhia firmou acordos com as seguradoras Tokio Marine, Icatu e Tempo em ramos específicos como residencial, capitalização e serviços assistenciais."
+    },
+    {
+      "id": "controle-e-acoes",
+      "heading": "Controle e ações da Caixa Seguridade Participações S.A.",
+      "body": "O controle acionário da Caixa Seguridade é estatal, pertencente à Caixa Econômica Federal. A companhia é listada no segmento Novo Mercado da B3, o que implica o cumprimento de padrões elevados de governança corporativa. O código de negociação da ação ordinária é CXSE3. Ações ordinárias (ON) conferem direito a voto em assembleias gerais, enquanto ações preferenciais (PN) possuem prioridade no recebimento de dividendos, mas geralmente não têm direito a voto. A Caixa Seguridade possui apenas a classe de ação ordinária em negociação na bolsa."
+    },
+    {
+      "id": "proventos",
+      "heading": "CXSE3 paga dividendos?",
+      "body": "Nos 12 meses até 30/10/2026, a CXSE3 distribuiu R$ 1,3521 por ação em 4 pagamentos, resultando em um dividend yield de 6,38%. O último provento pago foi de R$ 0,3500, com data de pagamento em 04/08/2026. A companhia é conhecida por manter uma política de distribuição de resultados aos acionistas. É possível acompanhar o histórico completo de dividendos e JCP, com datas de competência e pagamento, no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho da CXSE3",
+      "body": "Até 30/10/2026, a rentabilidade total da CXSE3, incluindo proventos, foi de 51,32% em 12 meses, 140,70% em 3 anos e 257,26% em 5 anos. Esses números refletem a variação de preço e a distribuição de dividendos no período. Para avaliar o desempenho do ativo em relação ao mercado, é possível comparar a rentabilidade da carteira com índices de referência como o Ibovespa e o CDI no recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos da CXSE3",
+      "body": "A volatilidade anualizada da CXSE3 nos últimos 12 meses foi de 23,25%, classificada como moderada. A maior queda registrada nos últimos 5 anos foi de -29,27%, ocorrida entre o pico em 16/11/2021 e o ponto mais baixo em 14/07/2022. Riscos setoriais incluem a sensibilidade a mudanças regulatórias no setor de seguros, a dependência da rede de distribuição da Caixa Econômica Federal e a concorrência com outras seguradoras. A rescisão do contrato de distribuição com o Banco Pan em 2026 é um evento que pode impactar a capacidade de distribuição da companhia. Investidores podem configurar [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos significativos do ativo."
+    }
+  ],
+  "faq": [
+    {
+      "question": "CXSE3 paga dividendos?",
+      "answer": "Sim, a CXSE3 distribui proventos aos acionistas. Nos 12 meses até 30/10/2026, a empresa pagou R$ 1,3521 por ação em 4 pagamentos, com um dividend yield de 6,38%. O último pagamento foi de R$ 0,3500 em 04/08/2026. O histórico completo pode ser consultado no recurso de [dividendos e JCP no app](/recursos/proventos)."
+    },
+    {
+      "question": "Qual a diferença entre ação ON e PN da Caixa Seguridade?",
+      "answer": "A Caixa Seguridade possui apenas a ação ordinária (CXSE3) em negociação na B3. Ações ordinárias conferem direito a voto em assembleias, enquanto ações preferenciais têm prioridade no recebimento de dividendos, mas geralmente não têm direito a voto. Como a empresa não possui ações preferenciais, todos os acionistas de CXSE3 têm direito a voto."
+    },
+    {
+      "question": "Quem controla a Caixa Seguridade?",
+      "answer": "O controle acionário da Caixa Seguridade é estatal, pertencente à Caixa Econômica Federal. A empresa é uma subsidiária integral da Caixa, o que confere estabilidade e suporte à sua rede de distribuição e marca."
+    },
+    {
+      "question": "Qual o segmento de listagem da CXSE3 na B3?",
+      "answer": "A CXSE3 é listada no segmento Novo Mercado da B3, que exige padrões elevados de governança corporativa, como a existência de conselho de administração com membros independentes e a adoção de práticas de transparência."
+    },
+    {
+      "question": "Qual a rentabilidade da CXSE3 nos últimos 12 meses?",
+      "answer": "Até 30/10/2026, a rentabilidade total da CXSE3, incluindo proventos, foi de 51,32% em 12 meses. Esse número reflete a variação de preço e a distribuição de dividendos no período. Para comparar com outros ativos, use o recurso de [comparação com índices](/recursos/comparacao-com-indices)."
+    },
+    {
+      "question": "Quais são os riscos de investir em CXSE3?",
+      "answer": "Os riscos incluem a sensibilidade a mudanças regulatórias no setor de seguros, a dependência da rede de distribuição da Caixa Econômica Federal e a concorrência com outras seguradoras. A volatilidade anualizada de 23,25% e a maior queda de -29,27% em 5 anos são indicadores de risco. A rescisão do contrato com o Banco Pan em 2026 também pode impactar a capacidade de distribuição da companhia."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "proventos",
+        "anchor": "dividendos e JCP no app",
+        "context": "Veja os dividendos e JCP da CXSE3 com data de competência e data de pagamento, multiplicados pela sua quantidade."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade da CXSE3 com o Ibovespa e o CDI no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a CXSE3 chegar ao preço que você escolheu, para monitorar movimentos significativos."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a evolução do preço e a volatilidade da CXSE3 ao longo do tempo com gráficos detalhados."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja a alocação da CXSE3 junto com outras ações, FIIs e renda fixa em uma só visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "BBSE3",
+        "list": "br-stocks",
+        "reason": "Outra seguradora listada na B3, com perfil semelhante de distribuição de dividendos e exposição ao setor financeiro."
+      },
+      {
+        "ticker": "PSSA3",
+        "list": "br-stocks",
+        "reason": "Concorrente direta no setor de seguros, com foco em seguros de pessoas e patrimônio."
+      },
+      {
+        "ticker": "IRBR3",
+        "list": "br-stocks",
+        "reason": "Empresa do setor de resseguros, que opera em conjunto com seguradoras como a Caixa Seguridade."
+      },
+      {
+        "ticker": "ITUB4",
+        "list": "br-stocks",
+        "reason": "Ação do setor financeiro, com perfil de distribuição de dividendos e exposição ao mercado brasileiro."
+      },
+      {
+        "ticker": "BBDC4",
+        "list": "br-stocks",
+        "reason": "Outra ação do setor financeiro, com foco em bancos e seguros, para diversificação dentro do setor."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de CXSE3",
+      "url": "https://finance.yahoo.com/quote/CXSE3.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: CAIXA SEGURI, dados da companhia listada",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/23795/CXSE/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: cadastro de companhia aberta, CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
+      "url": "https://dados.cvm.gov.br/dataset/cia_aberta-cad",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Caixa Seguridade",
+      "url": "https://pt.wikipedia.org/wiki/Caixa_Seguridade",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 16/10/2026, “Rescisão do Contrato de Distribuição no Banco Pan”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1578017&numSequencia=1102723&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 02/04/2026, “Alteração de Formador de Mercado”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1500951&numSequencia=1025657&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 29/10/2025, “Eleição de Diretor-Presidente”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1437223&numSequencia=961935&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 10/09/2025, “Alteração de Membro da Diretoria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1422557&numSequencia=947269&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 14/07/2025, “Alterações na Composição da Diretoria”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1400794&numSequencia=925506&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 19/03/2025, “Aprovação do preço da Oferta”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1349026&numSequencia=873752&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 09/03/2025, “Solicitação de Registro de Oferta Pública Subsequente”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1344181&numSequencia=868907&numVersao=1",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "CVM: fato relevante de 04/02/2025, “Notícias sobre a Potencial Oferta”",
+      "url": "https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&descTipo=IPE&CodigoInstituicao=1&numProtocolo=1330302&numSequencia=855028&numVersao=1",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

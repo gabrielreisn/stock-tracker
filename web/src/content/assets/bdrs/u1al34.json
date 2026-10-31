@@ -1,0 +1,340 @@
+{
+  "ticker": "U1AL34",
+  "slug": "u1al34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "U1AL34: BDR da United Airlines, histórico e desempenho",
+    "description": "U1AL34 é o BDR da United Airlines na B3. Veja histórico, desempenho, riscos e como funciona o BDR não patrocinado nível I da companhia aérea americana.",
+    "h1": "U1AL34: BDR da United Airlines na B3",
+    "canonicalPath": "/bdrs/u1al34",
+    "keywords": [
+      "U1AL34",
+      "United Airlines BDR",
+      "BDR United Airlines",
+      "UAL BDR",
+      "BDR nível I",
+      "BDR não patrocinado",
+      "United Airlines Brasil",
+      "BDR companhia aérea"
+    ]
+  },
+  "summary": "U1AL34 é o BDR não patrocinado (nível I) da United Airlines Holdings Inc., companhia aérea dos Estados Unidos com sede em Chicago. O ativo é negociado na B3 em reais e representa a ação original UAL, listada na NASDAQ. Em 30/10/2026, o BDR cotava a R$ 287,50, com rentabilidade total de 11,41% nos últimos 12 meses, refletindo o desempenho da companhia e a variação do câmbio.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "United Airlines",
+    "legalName": "UNITED AIRLINES HOLDINGS INC",
+    "ticker": "BVMF U1AL34",
+    "foundingDate": "1926-04-06",
+    "website": "https://www.united.com",
+    "wikidata": "Q174769",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q174769",
+      "https://en.wikipedia.org/wiki/United_Airlines",
+      "https://pt.wikipedia.org/wiki/United_Airlines",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53449/U1AL/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "United Airlines",
+    "legalName": "UNITED AIRLINES HOLDINGS INC",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "06/04/1926",
+    "listedSince": "12/11/2019",
+    "headquarters": "Willis Tower, Chicago",
+    "website": "https://www.united.com"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "UNITED AIRLINES HOLDINGS INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "NASDAQ: UAL",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Willis Tower, Chicago",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "06/04/1926",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "R$ 287,50",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "48,62% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500, ação original UAL em dólares)",
+      "value": "2,21",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 364.606,00",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "U1AL34",
+    "list": "bdrs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "United Airlines Holdings, Inc.",
+    "currency": "BRL",
+    "price": 287.5,
+    "historyStarts": "2020-01-30",
+    "returns": {
+      "1y": 0.1141,
+      "3y": 2.3907,
+      "5y": 1.2031,
+      "10y": null
+    },
+    "volatility1y": 0.4862,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.4938,
+      "from": "2025-01-21",
+      "to": "2025-04-08"
+    },
+    "beta1y": {
+      "value": 2.21,
+      "against": "S&P 500, ação original UAL em dólares"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 364606
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do U1AL34 nos últimos 12 meses é de 48,62%, um nível considerado muito alto. O beta da ação original UAL contra o S&P 500 é de 2,21, o que significa que, historicamente, a ação tende a se mover com o dobro da amplitude do índice, na mesma direção. A maior queda nos últimos 5 anos foi de -49,38%, entre 21/01/2025 e 08/04/2025. Para monitorar oscilações de preço e definir pontos de atenção, é possível configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam notificações quando o ativo atinge o valor desejado."
+  },
+  "history": {
+    "overview": "A United Airlines tem origem em 1926, data em que a Varney Air Lines iniciou operações de carga e correio, sendo adotada pela companhia para celebrar seu centenário. A empresa consolidou-se em 1931, quando William E. Boeing uniu quatro companhias aéreas para formar a United Air Lines, sob a controladora United Aircraft and Transport Corporation. O escândalo do correio aéreo de 1934 levou à dissolução da controladora, separando a United das demais empresas do grupo. A companhia cresceu ao longo do século XX, apoiando a desregulamentação do setor nos anos 1970 e realizando aquisições estratégicas, como os direitos de rotas do Pacífico da Pan Am em 1985 e a malha da América Latina e do Caribe em 1992. Em 1997, a United foi uma das cinco fundadoras da Star Alliance, a primeira aliança aérea global. O BDR U1AL34 foi listado na B3 em 12/11/2019, permitindo que investidores brasileiros acompanhem a companhia sem a necessidade de abrir conta no exterior.",
+    "timeline": [
+      {
+        "date": "1926-04-06",
+        "event": "Início das operações da Varney Air Lines, data adotada pela United Airlines como sua fundação.",
+        "source": 2
+      },
+      {
+        "date": "1931",
+        "event": "Formação da United Air Lines a partir da fusão de quatro companhias controladas por William E. Boeing.",
+        "source": 4
+      },
+      {
+        "date": "1934",
+        "event": "Escândalo do correio aéreo leva à dissolução da controladora United Aircraft and Transport Corporation.",
+        "source": 4
+      },
+      {
+        "date": "1961",
+        "event": "Fusão com a Capital Airlines, tornando a United por pouco tempo a segunda maior companhia aérea do mundo.",
+        "source": 4
+      },
+      {
+        "date": "1985",
+        "event": "Aquisição dos direitos de rotas do Pacífico da Pan Am.",
+        "source": 4
+      },
+      {
+        "date": "1992",
+        "event": "Aquisição da malha da América Latina e do Caribe da Pan Am.",
+        "source": 4
+      },
+      {
+        "date": "1997",
+        "event": "United Airlines torna-se uma das cinco fundadoras da Star Alliance.",
+        "source": 4
+      },
+      {
+        "date": "2002",
+        "event": "Companhia pede proteção contra falência após os ataques de 11 de setembro.",
+        "source": 4
+      },
+      {
+        "date": "2006",
+        "event": "United Airlines sai do processo de falência após reestruturação.",
+        "source": 4
+      },
+      {
+        "date": "2010",
+        "event": "Fusão com a Continental Airlines.",
+        "source": 4
+      },
+      {
+        "date": "2015-06-26",
+        "event": "United Airlines anuncia a compra de 5% da Azul Linhas Aéreas Brasileiras por US$ 100 milhões.",
+        "source": 4
+      },
+      {
+        "date": "2019-11-12",
+        "event": "Listagem do BDR U1AL34 na B3.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a United Airlines ganha dinheiro",
+      "body": "A United Airlines é uma companhia aérea dos Estados Unidos com sede em Chicago, Illinois. A empresa opera uma extensa malha de rotas domésticas e internacionais em seis continentes, utilizando oito centros de conexão principais, incluindo Chicago–O'Hare, Denver, Houston, Los Angeles, Newark, São Francisco, Washington–Dulles e Guam. O serviço regional é complementado por transportadoras independentes que operam sob a marca United Express, atendendo cidades menores e conectando-as aos hubs principais. A companhia é membro da Star Alliance, uma aliança global que, em abril de 2026, reunia 26 companhias aéreas e mais de 5 mil aeronaves, ampliando o alcance da malha da United por meio de acordos de codeshare."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR U1AL34",
+      "body": "O U1AL34 é um BDR não patrocinado (nível I) que representa a ação original da United Airlines Holdings Inc., negociada na NASDAQ sob o ticker UAL. O BDR é um recibo emitido por uma instituição depositária e negociado na B3 em reais. Seu preço acompanha a cotação da ação original em dólares e a variação do câmbio entre o dólar e o real. O ativo está listado na B3 desde 12/11/2019, permitindo que investidores brasileiros tenham exposição à companhia sem a necessidade de operar diretamente no mercado americano."
+    },
+    {
+      "id": "proventos",
+      "heading": "U1AL34 paga dividendos?",
+      "body": "Nos últimos 12 meses até 30/10/2026, o BDR U1AL34 não distribuiu proventos. A United Airlines Holdings Inc. é uma empresa de capital aberto que, historicamente, não tem uma política de pagamento de dividendos regular, priorizando o reinvestimento dos lucros no crescimento da malha e na renovação da frota. Caso a empresa decida pagar dividendos no futuro, o valor seria convertido em reais e distribuído aos detentores do BDR, sujeito às regras de tributação aplicáveis a proventos de empresas estrangeiras."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do U1AL34",
+      "body": "Até 30/10/2026, o BDR U1AL34 apresentou rentabilidade total de 11,41% nos últimos 12 meses, 239,07% em 3 anos e 120,31% em 5 anos. Esses números incluem a variação do câmbio entre o dólar e o real, o que significa que a performance reflete tanto o movimento da ação original UAL em dólares quanto a oscilação da moeda. Para comparar o desempenho do BDR com outros ativos, é possível utilizar a ferramenta de [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade lado a lado com o S&P 500, o CDI e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do U1AL34",
+      "body": "O principal risco do U1AL34 é o risco cambial, pois o BDR é cotado em reais, mas a ação original UAL é negociada em dólares. Uma valorização do dólar em relação ao real pode elevar o preço do BDR, enquanto uma desvalorização pode reduzi-lo, independentemente do desempenho da companhia. A volatilidade anualizada do BDR nos últimos 12 meses é de 48,62%, classificada como muito alta. A maior queda nos últimos 5 anos foi de -49,38%, ocorrida entre o pico em 21/01/2025 e o ponto mais baixo em 08/04/2025. O beta da ação original UAL contra o S&P 500 é de 2,21, indicando que a ação tende a se mover com maior amplitude que o índice. A liquidez do BDR na B3 é limitada, com volume médio diário de R$ 364.606,00 nos últimos 3 meses, o que pode dificultar a execução de ordens de grande porte."
+    }
+  ],
+  "faq": [
+    {
+      "question": "U1AL34 paga dividendos?",
+      "answer": "Nos últimos 12 meses até 30/10/2026, o BDR U1AL34 não distribuiu proventos. A United Airlines Holdings Inc. não possui uma política de pagamento de dividendos regular, priorizando o reinvestimento dos lucros no crescimento da malha e na renovação da frota. Caso a empresa decida pagar dividendos no futuro, o valor seria convertido em reais e distribuído aos detentores do BDR."
+    },
+    {
+      "question": "Qual a diferença entre U1AL34 e UAL?",
+      "answer": "U1AL34 é o BDR da United Airlines negociado na B3 em reais, enquanto UAL é a ação original da companhia, negociada na NASDAQ em dólares. O preço do BDR acompanha a cotação da ação original e a variação do câmbio entre o dólar e o real. O BDR permite que investidores brasileiros tenham exposição à companhia sem a necessidade de abrir conta no exterior."
+    },
+    {
+      "question": "U1AL34 é um BDR patrocinado ou não patrocinado?",
+      "answer": "O U1AL34 é um BDR não patrocinado (nível I). Isso significa que a empresa não participa da emissão do BDR, que é feito por uma instituição depositária. O nível I é o mais básico, com menos informações disponíveis para os investidores em comparação com os níveis II e III."
+    },
+    {
+      "question": "Qual o risco cambial do U1AL34?",
+      "answer": "O U1AL34 é cotado em reais, mas a ação original UAL é negociada em dólares. Uma valorização do dólar em relação ao real pode elevar o preço do BDR, enquanto uma desvalorização pode reduzi-lo, independentemente do desempenho da companhia. O risco cambial é um dos principais fatores que afetam a rentabilidade do BDR."
+    },
+    {
+      "question": "Qual a volatilidade do U1AL34?",
+      "answer": "A volatilidade anualizada do U1AL34 nos últimos 12 meses é de 48,62%, classificada como muito alta. O beta da ação original UAL contra o S&P 500 é de 2,21, indicando que a ação tende a se mover com maior amplitude que o índice. A maior queda nos últimos 5 anos foi de -49,38%, entre 21/01/2025 e 08/04/2025."
+    },
+    {
+      "question": "Como acompanhar o desempenho do U1AL34?",
+      "answer": "É possível acompanhar o desempenho do U1AL34 utilizando a ferramenta de [desempenho e preço médio](/recursos/desempenho-e-preco-medio) no app, que mostra o gráfico de rentabilidade da carteira e a variação do ativo ao longo do tempo. Para comparar o desempenho do BDR com outros índices, é possível utilizar a [comparação com índices](/recursos/comparacao-com-indices), que permite visualizar a rentabilidade lado a lado com o S&P 500, o CDI e outros benchmarks."
+    },
+    {
+      "question": "Qual a liquidez do U1AL34 na B3?",
+      "answer": "O volume médio diário do U1AL34 nos últimos 3 meses é de R$ 364.606,00, o que indica uma liquidez limitada. Isso pode dificultar a execução de ordens de grande porte, pois o mercado pode não ter profundidade suficiente para absorver a ordem sem impactar o preço."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o U1AL34 junto com outras posições da carteira, com alocação por classe e as maiores posições."
+      },
+      {
+        "feature": "desempenho-e-preco-medio",
+        "anchor": "desempenho e preço médio",
+        "context": "Acompanhe a rentabilidade do U1AL34 e o preço médio da posição, com gráfico de variação ao longo do tempo."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do U1AL34 com o S&P 500, o CDI e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure alertas para ser notificado quando o U1AL34 atingir o preço desejado, útil para monitorar oscilações de um ativo volátil."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte ao assistente de IA sobre a posição em U1AL34, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, índice de referência para o beta da ação original UAL."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF do S&P 500, para comparação de desempenho com o BDR."
+      },
+      {
+        "ticker": "TSLA34",
+        "list": "bdrs",
+        "reason": "Outro BDR de empresa americana, para comparação de volatilidade e risco cambial."
+      },
+      {
+        "ticker": "AAPL34",
+        "list": "bdrs",
+        "reason": "BDR de empresa americana de grande capitalização, para comparação de liquidez e desempenho."
+      },
+      {
+        "ticker": "MSFT34",
+        "list": "bdrs",
+        "reason": "BDR de empresa americana de tecnologia, para comparação de exposição a empresas estrangeiras."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de U1AL34",
+      "url": "https://finance.yahoo.com/quote/U1AL34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: UNITED AIRLI, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/53449/U1AL/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: United Airlines",
+      "url": "https://www.wikidata.org/wiki/Q174769",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): United Airlines",
+      "url": "https://en.wikipedia.org/wiki/United_Airlines",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): United Airlines",
+      "url": "https://pt.wikipedia.org/wiki/United_Airlines",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

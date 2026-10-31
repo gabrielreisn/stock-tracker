@@ -1,0 +1,291 @@
+{
+  "ticker": "BOAC34",
+  "slug": "boac34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "BOAC34: BDR da Bank of America na B3",
+    "description": "Conheça o BOAC34, BDR da Bank of America Corporation negociado na B3. Veja dividendos, volatilidade e desempenho do ativo em reais.",
+    "h1": "BOAC34: BDR da Bank of America na B3",
+    "canonicalPath": "/bdrs/boac34",
+    "keywords": [
+      "BOAC34",
+      "Bank of America BDR",
+      "BDR Bank of America",
+      "BOAC34 dividendos",
+      "BOAC34 volatilidade"
+    ]
+  },
+  "summary": "BOAC34 é o BDR não patrocinado (nível I) da Bank of America Corporation, negociado na B3 em reais. A empresa é a segunda maior instituição bancária dos Estados Unidos por ativos consolidados, com sede em Charlotte. O BDR representa ações da empresa listadas na Bolsa de Valores de Nova Iorque (ticker BAC). Em 29/10/2026, o preço era de R$ 68,94, com rentabilidade total de -0,92% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Bank of America",
+    "legalName": "BANK OF AMERICA CORPORATION",
+    "ticker": "BVMF BOAC34",
+    "foundingDate": "1998",
+    "website": "https://www.bankofamerica.com/",
+    "wikidata": "Q487907",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q487907",
+      "https://en.wikipedia.org/wiki/Bank_of_America",
+      "https://pt.wikipedia.org/wiki/Bank_of_America",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50059/BOAC/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Bank of America",
+    "legalName": "BANK OF AMERICA CORPORATION",
+    "type": "BDR não patrocinado (nível I)",
+    "founded": "1998",
+    "listedSince": "20/08/2010",
+    "headquarters": "Charlotte",
+    "website": "https://www.bankofamerica.com/"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "BANK OF AMERICA CORPORATION",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Ação original",
+      "value": "Bolsa de Valores de Nova Iorque: BAC",
+      "source": 2
+    },
+    {
+      "label": "Sede",
+      "value": "Charlotte",
+      "source": 2
+    },
+    {
+      "label": "Fundação",
+      "value": "1998",
+      "source": 2
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "20/08/2010",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 68,94",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "26,40% (alta)",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "1,56%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 2,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "BOAC34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Bank of America Corporation",
+    "currency": "BRL",
+    "price": 68.94,
+    "historyStarts": "2016-10-31",
+    "returns": {
+      "1y": -0.0092,
+      "3y": 1.2466,
+      "5y": 0.1218,
+      "10y": 5.3457
+    },
+    "volatility1y": 0.264,
+    "volatilityLevel": "alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.5272,
+      "from": "2022-01-07",
+      "to": "2023-10-27"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.0749,
+      "payments12Months": 4,
+      "yield12Months": 0.0156,
+      "lastPayment": {
+        "date": "2026-09-03",
+        "amount": 0.291906
+      }
+    },
+    "avgDailyTradedValue3m": 2790802
+  },
+  "volatility": {
+    "level": "alta",
+    "explanation": "A volatilidade anualizada do BOAC34 nos últimos 12 meses foi de 26,40%, classificada como alta. Isso indica que o BDR apresentou oscilações significativas no período. A maior queda em 5 anos foi de -52,72%, do pico em 07/01/2022 ao ponto mais baixo em 27/10/2023. Esse nível de volatilidade é comum para BDRs de grandes empresas americanas, especialmente em períodos de incerteza econômica. Para monitorar oscilações de preço, você pode configurar [alertas de preço](/recursos/alertas-de-preco) no app, que enviam uma notificação quando o ativo atinge o valor que você definir."
+  },
+  "history": {
+    "overview": "A história da Bank of America Corporation remonta a 1904, quando Amadeo Giannini fundou o Bank of Italy em São Francisco. Em 1998, a NationsBank, sediada em Charlotte, adquiriu a BankAmerica por US$ 62 bilhões, formando a atual Bank of America Corporation. Essa fusão consolidou a empresa como a segunda maior instituição bancária dos Estados Unidos por ativos consolidados, atrás apenas do JPMorgan Chase. A empresa atua principalmente em serviços bancários comerciais, gestão de patrimônio e banco de investimento. Em 2008, a aquisição da Merrill Lynch expandiu significativamente sua atuação em gestão de fortunas e banco de investimento, tornando-a a maior corporação de gestão de fortunas do mundo na época. Em 2010, o BDR BOAC34 foi listado na B3, permitindo que investidores brasileiros acompanhassem a empresa em reais. Desde então, o BDR reflete os movimentos da ação original na Bolsa de Nova Iorque e a variação do câmbio entre o dólar e o real.",
+    "timeline": [
+      {
+        "date": "1904",
+        "event": "Fundação do Bank of Italy por Amadeo Giannini em São Francisco",
+        "source": 3
+      },
+      {
+        "date": "1998",
+        "event": "Fusão entre NationsBank e BankAmerica, formando a Bank of America Corporation",
+        "source": 2
+      },
+      {
+        "date": "2008",
+        "event": "Aquisição da Merrill Lynch, expandindo a atuação em gestão de patrimônio e banco de investimento",
+        "source": 3
+      },
+      {
+        "date": "2010-08-20",
+        "event": "Listagem do BDR BOAC34 na B3",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Bank of America ganha dinheiro",
+      "body": "A Bank of America Corporation é uma holding de serviços financeiros e bancários, com foco em três áreas principais: serviços bancários comerciais, gestão de patrimônio e banco de investimento. A empresa é a segunda maior instituição bancária dos Estados Unidos por ativos consolidados, atrás apenas do JPMorgan Chase. Seus serviços incluem contas correntes, empréstimos, cartões de crédito, gestão de investimentos e assessoria para empresas e indivíduos. A aquisição da Merrill Lynch em 2008 consolidou sua posição no mercado de gestão de fortunas e banco de investimento, tornando-a a maior corporação de gestão de fortunas do mundo na época. A empresa opera globalmente, mas sua base principal está nos Estados Unidos, com sede em Charlotte, Carolina do Norte."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR BOAC34",
+      "body": "O BOAC34 é um BDR não patrocinado (nível I) que representa ações da Bank of America Corporation negociadas na Bolsa de Valores de Nova Iorque, sob o ticker BAC. O BDR é um recibo negociado na B3, em reais, lastreado em ações da empresa no exterior e emitido por uma instituição depositária. O preço do BDR acompanha o valor da ação original na Bolsa de Nova Iorque e a variação do câmbio entre o dólar e o real. O BDR foi listado na B3 em 20/08/2010. Como é um BDR não patrocinado, a empresa não participa ativamente da emissão, e a liquidez pode ser menor do que a de BDRs patrocinados."
+    },
+    {
+      "id": "proventos",
+      "heading": "BOAC34 paga dividendos?",
+      "body": "Sim, o BOAC34 paga dividendos. Nos 12 meses até 29/10/2026, o BDR distribuiu R$ 1,0749 por unidade, em 4 pagamentos, resultando em um dividend yield de 1,56%. O último pagamento foi de R$ 0,2919 em 03/09/2026. É importante lembrar que a Bank of America paga dividendos em dólares, e o valor recebido pelo investidor brasileiro é convertido para reais na data do pagamento, sujeito à variação do câmbio."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do BOAC34",
+      "body": "A rentabilidade total do BOAC34, incluindo proventos, foi de -0,92% nos 12 meses até 29/10/2026, 124,66% em 3 anos, 12,18% em 5 anos e 534,57% em 10 anos. Esses números refletem a variação do preço do BDR em reais, que inclui tanto os movimentos da ação original na Bolsa de Nova Iorque quanto a variação do câmbio entre o dólar e o real. Para comparar o desempenho do BOAC34 com índices de referência, como o S&P 500 ou o CDI, você pode usar a [comparação com índices](/recursos/comparacao-com-indices) no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do BOAC34",
+      "body": "Os principais riscos do BOAC34 incluem o risco cambial, já que o BDR é negociado em reais, mas a ação original é cotada em dólares. Variações no câmbio podem impactar diretamente o valor do BDR. A volatilidade anualizada do BDR nos últimos 12 meses foi de 26,40%, classificada como alta. A maior queda em 5 anos foi de -52,72%, do pico em 07/01/2022 ao ponto mais baixo em 27/10/2023. Além disso, o BDR é não patrocinado, o que pode resultar em menor liquidez em comparação com BDRs patrocinados. O volume médio negociado por dia nos últimos 3 meses foi de R$ 2,8 milhões."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar BOAC34 no app",
+      "body": "Para quem tem BOAC34 na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do BOAC34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Configure uma notificação para quando o BOAC34 atingir o preço que você escolher.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe o BOAC34 junto com outros ativos, como ações e ETFs, em uma única visão."
+    }
+  ],
+  "faq": [
+    {
+      "question": "BOAC34 paga dividendos?",
+      "answer": "Sim, o BOAC34 paga dividendos. Nos 12 meses até 29/10/2026, o BDR distribuiu R$ 1,0749 por unidade, em 4 pagamentos, com um dividend yield de 1,56%. O último pagamento foi de R$ 0,2919 em 03/09/2026. Os dividendos são pagos em dólares pela Bank of America e convertidos para reais na data do pagamento."
+    },
+    {
+      "question": "Qual a diferença entre BOAC34 e BAC?",
+      "answer": "BOAC34 é o BDR da Bank of America Corporation negociado na B3, em reais, enquanto BAC é a ação original da empresa negociada na Bolsa de Valores de Nova Iorque, em dólares. O preço do BOAC34 reflete o valor da ação BAC e a variação do câmbio entre o dólar e o real."
+    },
+    {
+      "question": "BOAC34 é BDR patrocinado ou não patrocinado?",
+      "answer": "O BOAC34 é um BDR não patrocinado (nível I). Isso significa que a Bank of America Corporation não participa ativamente da emissão do BDR, e a liquidez pode ser menor do que a de BDRs patrocinados."
+    },
+    {
+      "question": "Qual a rentabilidade do BOAC34 nos últimos 12 meses?",
+      "answer": "A rentabilidade total do BOAC34, incluindo proventos, foi de -0,92% nos 12 meses até 29/10/2026. Esse número reflete a variação do preço do BDR em reais, que inclui os movimentos da ação original e a variação do câmbio."
+    },
+    {
+      "question": "Como o câmbio impacta o BOAC34?",
+      "answer": "O BOAC34 é negociado em reais, mas a ação original da Bank of America é cotada em dólares. Portanto, variações no câmbio entre o dólar e o real impactam diretamente o valor do BDR. Se o dólar se valorizar em relação ao real, o BDR tende a subir, e vice-versa."
+    },
+    {
+      "question": "Qual a volatilidade do BOAC34?",
+      "answer": "A volatilidade anualizada do BOAC34 nos últimos 12 meses foi de 26,40%, classificada como alta. A maior queda em 5 anos foi de -52,72%, do pico em 07/01/2022 ao ponto mais baixo em 27/10/2023."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do BOAC34 lado a lado com o S&P 500 e o CDI, no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure uma notificação para quando o BOAC34 atingir o preço que você escolher."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o BOAC34 junto com outros ativos, como ações e ETFs, em uma única visão."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "JPMC34",
+        "list": "bdrs",
+        "reason": "Outro BDR de uma grande instituição bancária americana, o JPMorgan Chase & Co."
+      },
+      {
+        "ticker": "WFCO34",
+        "list": "bdrs",
+        "reason": "BDR da Wells Fargo & Company, outra grande instituição bancária americana."
+      },
+      {
+        "ticker": "CTGP34",
+        "list": "bdrs",
+        "reason": "BDR da Citigroup Inc., concorrente direta da Bank of America no setor bancário."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF que replica o S&P 500, útil para comparar o desempenho do BOAC34 com o mercado americano."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de BOAC34",
+      "url": "https://finance.yahoo.com/quote/BOAC34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: BANK AMERICA, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/50059/BOAC/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Bank of America",
+      "url": "https://www.wikidata.org/wiki/Q487907",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Bank of America",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_America",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (pt): Bank of America",
+      "url": "https://pt.wikipedia.org/wiki/Bank_of_America",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

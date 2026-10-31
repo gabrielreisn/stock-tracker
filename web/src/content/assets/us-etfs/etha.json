@@ -1,0 +1,257 @@
+{
+  "ticker": "ETHA",
+  "slug": "etha",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "ETHA: história, desempenho e riscos",
+    "description": "ETHA é o iShares Ethereum Trust ETF, lançado em 2024. Veja desempenho, volatilidade e riscos do ETF que replica o Ethereum. Atualizado até 30/10/2026.",
+    "h1": "ETHA: iShares Ethereum Trust ETF",
+    "canonicalPath": "/etfs/etha",
+    "keywords": [
+      "ETHA",
+      "iShares Ethereum Trust ETF",
+      "ETF Ethereum",
+      "BlackRock",
+      "criptomoeda",
+      "Ethereum",
+      "ETH"
+    ]
+  },
+  "summary": "ETHA é o iShares Ethereum Trust ETF, um ETF que replica a performance do Ethereum (ETH), a segunda maior criptomoeda em capitalização de mercado. Lançado em 23/07/2024 e gerido pela BlackRock, o ativo não paga proventos. Até 30/10/2026, a cota estava em US$ 50,42, com rentabilidade total de -39,61% nos últimos 12 meses e volatilidade anualizada de 62,60%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "iShares Ethereum Trust ETF",
+    "ticker": "XNAS ETHA",
+    "foundingDate": "2024-07-23",
+    "provider": {
+      "name": "iShares (BlackRock)",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/IShares"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de criptomoeda (Ethereum)",
+    "issuerOrManager": "iShares (BlackRock)",
+    "trackedIndex": "Ethereum (ETH)",
+    "name": "iShares Ethereum Trust ETF",
+    "founded": "23/07/2024"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "iShares Ethereum Trust ETF",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "23/07/2024",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (30/10/2026)",
+      "value": "US$ 50,42",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "62,60% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "2,45",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 660,7 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "ETHA",
+    "list": "us-etfs",
+    "asOf": "2026-10-30",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "iShares Ethereum Trust ETF",
+    "currency": "USD",
+    "price": 50.42,
+    "historyStarts": "2024-07-23",
+    "returns": {
+      "1y": -0.3961,
+      "3y": null,
+      "5y": null,
+      "10y": null
+    },
+    "volatility1y": 0.626,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6791,
+      "from": "2025-08-22",
+      "to": "2026-06-25"
+    },
+    "beta1y": {
+      "value": 2.45,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 660669145
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do ETHA nos últimos 12 meses é de 62,60%, um nível muito alto, típico de criptomoedas. A maior queda nos últimos 5 anos foi de -67,91%, do pico em 22/08/2025 ao ponto mais baixo em 25/06/2026. Esses números mostram que o ETHA é um ativo de risco elevado, com oscilações acentuadas, e que não é adequado para investidores que buscam estabilidade. A comparação com o S&P 500 pode ser feita no app."
+  },
+  "history": {
+    "overview": "O iShares Ethereum Trust ETF (ETHA) é um produto da marca iShares, pertencente à BlackRock, a maior gestora de ativos do mundo. A BlackRock adquiriu a marca iShares da Barclays em 2009, consolidando uma posição global no mercado de ETFs. O ETHA foi lançado em 23/07/2024, permitindo que investidores acompanhem o Ethereum sem a necessidade de custódia direta da criptomoeda. O Ethereum, por sua vez, foi concebido em 2013 por Vitalik Buterin e outros fundadores, com o objetivo de permitir contratos inteligentes e aplicações descentralizadas. Em 15/09/2022, a rede Ethereum passou por uma atualização conhecida como 'The Merge', que alterou o mecanismo de consenso de prova de trabalho para prova de participação, reduzindo o consumo de energia em mais de 99%.",
+    "timeline": [
+      {
+        "date": "2013",
+        "event": "Concepção do Ethereum por Vitalik Buterin e outros fundadores.",
+        "source": 2
+      },
+      {
+        "date": "2015-07-30",
+        "event": "A rede Ethereum vai ao ar.",
+        "source": 2
+      },
+      {
+        "date": "2022-09-15",
+        "event": "Ethereum transiciona de prova de trabalho para prova de participação ('The Merge').",
+        "source": 2
+      },
+      {
+        "date": "2024-07-23",
+        "event": "Primeiro pregão das cotas do ETF ETHA na bolsa.",
+        "source": 0
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o ETHA funciona",
+      "body": "O ETHA é um ETF que replica a performance do Ethereum (ETH), a criptomoeda nativa da rede Ethereum. A emissora é a iShares, marca da BlackRock, que adquiriu o negócio da Barclays em 2009. O ETF foi lançado em 23/07/2024. Diferente de ETFs alavancados ou inversos, o ETHA não possui rebalanceamento diário para multiplicar ou inverter a performance; ele busca acompanhar a variação do preço do Ethereum. O ativo não distribui proventos, como dividendos ou juros, nos últimos 12 meses."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do ETHA",
+      "body": "O ETHA segue o Ethereum (ETH), que é a criptomoeda nativa da rede Ethereum. O Ethereum é uma blockchain descentralizada com funcionalidade de contratos inteligentes, concebida em 2013 por Vitalik Buterin. A rede permite a criação de aplicações descentralizadas (DeFi) e tokens (fungíveis e não fungíveis). Em 15/09/2022, a rede passou por uma atualização que reduziu o consumo de energia em mais de 99%. As fontes não detalham a composição exata do portfólio do ETF, mas ele é estruturado para refletir o valor do Ethereum."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no ETHA a partir do Brasil",
+      "body": "Para investir no ETHA a partir do Brasil, o investidor precisa de uma conta em uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. O ativo é cotado em dólar, o que expõe o investidor ao risco cambial: variações no câmbio entre o real e o dólar impactam o retorno final. Alternativamente, é possível buscar ETFs ou BDRs listados na B3 que sigam o mesmo índice ou ativo subjacente, embora a disponibilidade e a liquidez possam variar. O app permite acompanhar a cotação e a rentabilidade do ETHA junto com outros ativos da carteira."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do ETHA",
+      "body": "Até 30/10/2026, a cota do ETHA estava em US$ 50,42. A rentabilidade total com proventos nos últimos 12 meses foi de -39,61%. O volume médio negociado por dia nos últimos 3 meses foi de US$ 660,7 milhões. A volatilidade anualizada de 12 meses é de 62,60%, classificada como muito alta. O beta de 12 meses contra o S&P 500 é 2,45, indicando que o ativo tende a se mover com maior amplitude que o índice. A maior queda nos últimos 5 anos foi de -67,91%, do pico em 22/08/2025 ao ponto mais baixo em 25/06/2026. A comparação com índices como o S&P 500 pode ser visualizada no app."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do ETHA",
+      "body": "O principal risco do ETHA é a volatilidade extrema do Ethereum, que é uma criptomoeda de alta flutuação. A volatilidade anualizada de 62,60% e a maior queda de -67,91% nos últimos 5 anos ilustram o potencial de perdas significativas. O beta de 2,45 contra o S&P 500 indica que o ativo é mais sensível a movimentos de mercado. Além disso, o risco cambial é relevante para investidores brasileiros, pois o ativo é cotado em dólar. A regulação de criptomoedas e a adoção tecnológica também são fatores que podem impactar o valor do Ethereum e, consequentemente, do ETF."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar ETHA no app",
+      "body": "Para quem tem ETHA na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do ETHA lado a lado com o S&P 500 e outros índices no mesmo gráfico.\n- [alertas de preço](/recursos/alertas-de-preco): Receba uma notificação quando o ETHA chegar ao preço que você escolheu, para acompanhar a volatilidade.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe o ETHA junto com outros ativos da sua carteira, com alocação e valor por classe."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o ETHA?",
+      "answer": "ETHA é o iShares Ethereum Trust ETF, um ETF que replica a performance do Ethereum (ETH). É gerido pela BlackRock e foi lançado em 23/07/2024. O ativo não paga proventos e é cotado em dólar."
+    },
+    {
+      "question": "O ETHA paga dividendos?",
+      "answer": "Não. O ETHA não distribui proventos, como dividendos ou juros. Nos últimos 12 meses, não houve distribuição de proventos. O retorno do investidor vem apenas da variação do preço da cota."
+    },
+    {
+      "question": "Qual a diferença entre ETHA e IBIT?",
+      "answer": "O ETHA replica o Ethereum (ETH), enquanto o [IBIT](/etfs/ibit) replica o Bitcoin (BTC). Ambos são ETFs de criptomoedas, mas seguem ativos diferentes. O ETHA tem maior volatilidade e beta, refletindo a natureza do Ethereum."
+    },
+    {
+      "question": "Como investir no ETHA do Brasil?",
+      "answer": "É possível investir no ETHA por meio de uma corretora que ofereça acesso a mercados internacionais, como os Estados Unidos. O ativo é cotado em dólar, o que expõe o investidor ao risco cambial. Alternativamente, é possível buscar ETFs ou BDRs na B3 que sigam o mesmo ativo."
+    },
+    {
+      "question": "Qual a volatilidade do ETHA?",
+      "answer": "A volatilidade anualizada do ETHA nos últimos 12 meses é de 62,60%, um nível muito alto. A maior queda nos últimos 5 anos foi de -67,91%, do pico em 22/08/2025 ao ponto mais baixo em 25/06/2026."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do ETHA lado a lado com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando o ETHA chegar ao preço que você escolheu, para acompanhar a volatilidade."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe o ETHA junto com outros ativos da sua carteira, com alocação e valor por classe."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "IBIT",
+        "list": "us-etfs",
+        "reason": "ETF de Bitcoin, outra criptomoeda de alta capitalização, com perfil de risco similar."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, usado como referência para comparação de desempenho e beta."
+      },
+      {
+        "ticker": "QQQ",
+        "list": "us-etfs",
+        "reason": "ETF do NASDAQ 100, que inclui empresas de tecnologia e pode ter correlação com criptomoedas."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de ETHA",
+      "url": "https://finance.yahoo.com/quote/ETHA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): IShares (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/IShares",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Ethereum (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Ethereum",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): BlackRock (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/BlackRock",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 30/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}

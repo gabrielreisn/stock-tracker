@@ -1,0 +1,239 @@
+{
+  "ticker": "A1MD34",
+  "slug": "a1md34",
+  "list": "bdrs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-10-30",
+  "datePublished": "2026-10-30",
+  "seo": {
+    "title": "A1MD34: BDR da AMD, desempenho e riscos",
+    "description": "A1MD34 é o BDR da Advanced Micro Devices, Inc. na B3. Veja desempenho, volatilidade e riscos do ativo em reais, com dados até 29/10/2026.",
+    "h1": "A1MD34: BDR da Advanced Micro Devices, Inc.",
+    "canonicalPath": "/bdrs/a1md34",
+    "keywords": [
+      "A1MD34",
+      "BDR AMD",
+      "Advanced Micro Devices",
+      "BDR nível I",
+      "volatilidade A1MD34",
+      "risco cambial BDR"
+    ]
+  },
+  "summary": "A1MD34 é o BDR não patrocinado de nível I da Advanced Micro Devices, Inc., empresa americana de semicondutores. Negociado na B3 desde 12/11/2019, o ativo representa ações da AMD e acompanha a variação do dólar. Em 29/10/2026, a cotação era de R$ 365,00, com rentabilidade total de 106,60% nos últimos 12 meses.",
+  "entity": {
+    "kind": "Corporation",
+    "name": "Advanced Micro Devices, Inc. v. Intel Corp.",
+    "legalName": "ADVANCED MICRO DEVICES INC",
+    "ticker": "BVMF A1MD34",
+    "wikidata": "Q4652597",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q4652597",
+      "https://en.wikipedia.org/wiki/Advanced_Micro_Devices%2C_Inc._v._Intel_Corp.",
+      "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52647/A1MD/overview?language=pt-br"
+    ]
+  },
+  "profile": {
+    "name": "Advanced Micro Devices, Inc. v. Intel Corp.",
+    "legalName": "ADVANCED MICRO DEVICES INC",
+    "type": "BDR não patrocinado (nível I)",
+    "listedSince": "12/11/2019"
+  },
+  "characteristics": [
+    {
+      "label": "Empresa",
+      "value": "ADVANCED MICRO DEVICES INC",
+      "source": 1
+    },
+    {
+      "label": "Tipo de BDR",
+      "value": "BDR não patrocinado (nível I)",
+      "source": 1
+    },
+    {
+      "label": "Listado na B3 desde",
+      "value": "12/11/2019",
+      "source": 1
+    },
+    {
+      "label": "Preço (29/10/2026)",
+      "value": "R$ 365,00",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "67,17% (muito alta)",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "R$ 26,3 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "A1MD34",
+    "list": "bdrs",
+    "asOf": "2026-10-29",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Advanced Micro Devices, Inc.",
+    "currency": "BRL",
+    "price": 365,
+    "historyStarts": "2020-01-07",
+    "returns": {
+      "1y": 1.066,
+      "3y": 5.0241,
+      "5y": 3.2945,
+      "10y": null
+    },
+    "volatility1y": 0.6717,
+    "volatilityLevel": "muito alta",
+    "maxDrawdown5y": {
+      "drawdown": -0.6723,
+      "from": "2021-11-29",
+      "to": "2022-10-11"
+    },
+    "beta1y": {
+      "value": null,
+      "against": "S&P 500"
+    },
+    "dividends": null,
+    "avgDailyTradedValue3m": 26343426
+  },
+  "volatility": {
+    "level": "muito alta",
+    "explanation": "A volatilidade anualizada do A1MD34 é de 67,17%, nível considerado muito alto. A maior queda em 5 anos foi de -67,23%, entre 29/11/2021 e 11/10/2022. Para acompanhar esses movimentos, o app oferece [alertas de preço](/recursos/alertas-de-preco), que notificam quando o ativo atinge um valor definido. A [carteira consolidada](/recursos/carteira-consolidada) ajuda a visualizar o impacto dessa volatilidade na alocação total de investimentos."
+  },
+  "history": {
+    "overview": "A Advanced Micro Devices, Inc. (AMD) é uma empresa americana do setor de semicondutores. O BDR A1MD34 permite a investidores brasileiros adquirirem exposição à AMD diretamente na B3, em reais, sem a necessidade de conta no exterior. O ativo foi listado na bolsa brasileira em 12/11/2019, inserindo a empresa em um período de forte crescimento no mercado de processadores e GPUs. A história recente da AMD inclui disputas antitruste com a Intel, como o caso de 2005 a 2009, que resultou em acordos financeiros e mudanças regulatórias no setor, impactando a dinâmica competitiva do mercado de microprocessadores.",
+    "timeline": [
+      {
+        "date": "2005-06",
+        "event": "AMD ajuíza ação antitruste contra a Intel nos EUA",
+        "source": 3
+      },
+      {
+        "date": "2009-11",
+        "event": "Intel concorda em pagar US$ 1,25 bilhão à AMD para encerrar disputas legais",
+        "source": 3
+      },
+      {
+        "date": "2010-08-04",
+        "event": "FTC fecha acordo com a Intel sobre práticas de reembolso a clientes",
+        "source": 3
+      },
+      {
+        "date": "2019-11-12",
+        "event": "Listagem do BDR A1MD34 na B3",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "negocio",
+      "heading": "Como a Advanced Micro Devices, Inc. v. Intel Corp. ganha dinheiro",
+      "body": "A Advanced Micro Devices, Inc. é uma empresa de semicondutores. As fontes do dossiê não detalham a estrutura de receita atual da empresa, mas registram que a AMD atua no mercado de microprocessadores e competiu historicamente com a Intel Corporation. Em 2005, a AMD alegou que a Intel usava práticas de concorrência desleal ao oferecer reembolsos a fabricantes de PCs para limitar a compra de chips AMD. Em 2009, a Intel pagou US$ 1,25 bilhão à AMD para encerrar disputas legais pendentes."
+    },
+    {
+      "id": "como-funciona-o-bdr",
+      "heading": "Como funciona o BDR A1MD34",
+      "body": "O A1MD34 é um BDR não patrocinado de nível I, listado na B3 desde 12/11/2019. Funciona como um recibo em reais que representa ações da Advanced Micro Devices, Inc. negociadas no exterior. O preço do BDR acompanha a cotação da ação original e a variação do câmbio. Como não é patrocinado, não há garantia de que a empresa emitente participe da gestão do programa."
+    },
+    {
+      "id": "proventos",
+      "heading": "A1MD34 paga dividendos?",
+      "body": "Não houve pagamento de proventos (dividendos ou juros sobre capital próprio) do A1MD34 nos últimos 12 meses até 29/10/2026. A empresa paga eventuais dividendos em dólar, e o valor recebido pelo investidor depende da cotação do câmbio na data do pagamento."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do A1MD34",
+      "body": "Até 29/10/2026, o A1MD34 apresentou rentabilidade total de 106,60% em 12 meses, 502,41% em 3 anos e 329,45% em 5 anos. Esses retornos incluem a variação do câmbio, já que o ativo é cotado em reais. Para avaliar o desempenho, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a rentabilidade lado a lado com o S&P 500 e o CDI."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do A1MD34",
+      "body": "O A1MD34 possui volatilidade anualizada de 67,17% nos últimos 12 meses, classificada como muito alta. A maior queda em 5 anos foi de -67,23%, entre 29/11/2021 e 11/10/2022. O risco cambial é um fator central, pois o valor em reais depende da cotação do dólar. A liquidez é moderada, com volume médio diário de R$ 26,3 milhões nos últimos 3 meses. A exposição a uma empresa de tecnologia também traz riscos setoriais e regulatórios, como disputas antitruste."
+    }
+  ],
+  "faq": [
+    {
+      "question": "A1MD34 paga dividendos?",
+      "answer": "Não houve pagamento de proventos nos últimos 12 meses até 29/10/2026. A empresa pode pagar dividendos em dólar, e o valor em reais depende do câmbio na data do pagamento."
+    },
+    {
+      "question": "O que é o BDR A1MD34?",
+      "answer": "É um BDR não patrocinado de nível I da Advanced Micro Devices, Inc., listado na B3 desde 12/11/2019. Representa ações da AMD e é negociado em reais, acompanhando a cotação da ação original e o câmbio."
+    },
+    {
+      "question": "Qual o risco cambial do A1MD34?",
+      "answer": "O risco cambial é alto, pois o valor em reais depende da cotação do dólar. A volatilidade anualizada de 67,17% reflete essa sensibilidade. O app permite [comparar com índices](/recursos/comparacao-com-indices) para entender o impacto do câmbio no desempenho."
+    },
+    {
+      "question": "Como acompanhar o A1MD34 no app?",
+      "answer": "O app oferece [alertas de preço](/recursos/alertas-de-preco) para notificar quando o ativo atinge um valor definido. A [carteira consolidada](/recursos/carteira-consolidada) mostra a alocação e o desempenho do ativo junto com outros investimentos."
+    },
+    {
+      "question": "Qual a diferença entre A1MD34 e NVDC34?",
+      "answer": "A1MD34 é o BDR da Advanced Micro Devices, Inc., enquanto [NVDC34](/bdrs/nvdc34) é o BDR da NVIDIA Corporation. Ambos são empresas de semicondutores, mas com diferentes estratégias e mercados. O app permite [comparar com índices](/recursos/comparacao-com-indices) para avaliar o desempenho relativo."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Notifica quando o A1MD34 atinge um valor definido, útil para acompanhar a volatilidade de 67,17%."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Mostra a alocação do A1MD34 junto com outros investimentos, ajudando a visualizar o impacto da volatilidade na carteira."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Coloca a rentabilidade do A1MD34 lado a lado com o S&P 500 e o CDI, considerando a variação do câmbio."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "NVDC34",
+        "list": "bdrs",
+        "reason": "BDR da NVIDIA Corporation, concorrente direta da AMD no setor de semicondutores."
+      },
+      {
+        "ticker": "ITLC34",
+        "list": "bdrs",
+        "reason": "BDR da Intel Corporation, historicamente rival da AMD em disputas antitruste."
+      },
+      {
+        "ticker": "SMH",
+        "list": "us-etfs",
+        "reason": "ETF de semicondutores, para acompanhar o setor como um todo."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de A1MD34",
+      "url": "https://finance.yahoo.com/quote/A1MD34.SA/history/",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "B3: ADVANCED MIC, BDR listado",
+      "url": "https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/52647/A1MD/overview?language=pt-br",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikidata: Advanced Micro Devices, Inc. v. Intel Corp.",
+      "url": "https://www.wikidata.org/wiki/Q4652597",
+      "accessedAt": "2026-10-30"
+    },
+    {
+      "title": "Wikipedia (en): Advanced Micro Devices, Inc. v. Intel Corp.",
+      "url": "https://en.wikipedia.org/wiki/Advanced_Micro_Devices%2C_Inc._v._Intel_Corp.",
+      "accessedAt": "2026-10-30"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 29/10/2026; demais fontes listadas abaixo, consultadas em 30/10/2026."
+}
