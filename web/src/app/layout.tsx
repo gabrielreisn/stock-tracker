@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { SiteFooter, SiteHeader } from "@/components/site-chrome";
+import { WebMcp } from "@/components/webmcp";
+import { downloadUrl } from "@/lib/json-ld";
 import { siteName, siteUrl } from "@/lib/site";
 import "./globals.css";
 
@@ -33,6 +35,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <SiteHeader />
         <div className="flex-1">{children}</div>
         <SiteFooter />
+        <WebMcp downloadUrl={downloadUrl} />
       </body>
     </html>
   );
