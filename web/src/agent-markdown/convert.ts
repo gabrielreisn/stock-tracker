@@ -20,14 +20,17 @@ const converter = new NodeHtmlMarkdown({
 
 const yaml = (value: string | undefined) => JSON.stringify(value ?? "");
 
-/** The page's Markdown with YAML frontmatter, or null if it has no <main>. */
-export function htmlToMarkdown(html: string, { omit }: ConvertOptions = {}): string | null {
+/**
+ * The page's Markdown with YAML frontmatter, and its address (from the canonical link, which names the file). Null for
+ * a page that isn't one to publish: no <main>, no canonical link, or noindex (error pages).
+ */
+export function htmlToMarkdown(html: string, { omit }: ConvertOptions = {}): { url: string; markdown: string } | null {
   const document = parse(html);
   const main = document.querySelector("main");
-  if (!main) return null;
   const meta = (selector: string, attribute = "content") => document.querySelector(selector)?.getAttribute(attribute);
   const url = meta('link[rel="canonical"]', "href");
-  const origin = url ? new URL(url).origin : "";
+  if (!main || !url || /noindex/i.test(meta('meta[name="robots"]') ?? "")) return null;
+  const origin = new URL(url).origin;
 
   for (const node of main.querySelectorAll(omit ? `${omitted}, ${omit}` : omitted)) node.remove();
   // Links within the page (footnote marks like "[3]") become their text.
@@ -63,8 +66,8 @@ export function htmlToMarkdown(html: string, { omit }: ConvertOptions = {}): str
   const frontmatter = [
     `title: ${yaml(document.querySelector("title")?.textContent)}`,
     `description: ${yaml(meta('meta[name="description"]'))}`,
-    url && `url: ${url}`,
+    `url: ${url}`,
     image && `image: ${image}`,
   ].filter(Boolean);
-  return `---\n${frontmatter.join("\n")}\n---\n\n${converter.translate(main.innerHTML).trim()}\n`;
+  return { url, markdown: `---\n${frontmatter.join("\n")}\n---\n\n${converter.translate(main.innerHTML).trim()}\n` };
 }

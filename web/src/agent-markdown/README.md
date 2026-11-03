@@ -6,8 +6,9 @@ Cloudflare's proxy. It's self-contained: it imports nothing from the site, so it
 keep getting HTML. A request with `Accept: text/markdown` gets the page's Markdown at the
 same address.
 
-- **At build time**, after `next build`, the CLI converts each prerendered page's HTML (`.next/server/app/**/*.html`)
-  into `public/md/<path>.md`.
+- **At build time**, after `next build`, the CLI converts each prerendered page's HTML into `public/md/<path>.md`.
+  The page's path comes from its canonical link, since a deployment adapter stores the HTML under hashed names. A
+  second `next build` then ships the files: adapters (Vercel's) collect `public/` during `next build`.
 - **At request time**, the config wrapper rewrites Markdown requests to those static files. Nothing renders per
   request.
 
@@ -22,7 +23,7 @@ export default withAgentMarkdown(nextConfig, { contentSignal: "search=yes, ai-in
 
 ```json
 // package.json
-{ "scripts": { "build": "next build && node src/agent-markdown/cli.ts" } }
+{ "scripts": { "build": "next build && node src/agent-markdown/cli.ts && next build" } }
 ```
 
 ```ts
@@ -66,6 +67,6 @@ node src/agent-markdown/cli.ts [--dir md] [--dist-dir .next] [--public-dir publi
 
 - **Prerendered pages only.** A page rendered per request has no HTML at build time, so it gets no Markdown file.
 - **No `x-markdown-tokens` header.** Next's `headers()` are static, so the header can't vary per file.
-- **The files must be deployed.** They're written after `next build`. The host has to collect `public/` after the
-  whole build command, not during `next build`. A deployment adapter that collects files inside `next build` would
-  miss them. Check each host with `curl -sI -H "Accept: text/markdown" https://your.site/`.
+- **Two builds.** Pages can only be converted once they're built, and `public/` is collected while building, so the
+  site builds twice. Check each host with `curl -sI -H "Accept: text/markdown" https://your.site/`.
+- **Pages need a canonical link.** It names the file; pages without one, and noindex pages, are skipped.

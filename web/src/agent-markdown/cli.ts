@@ -1,5 +1,6 @@
-// Run after `next build`, in the same build command ("build": "next build && node src/agent-markdown/cli.ts"), so
-// the files are in public/ before the deployment is collected. Node runs it by stripping the types.
+// Converts the pages of the last `next build` into public/<directory>. Deployment adapters (Vercel's) collect public/
+// during `next build`, so a second build has to follow for the files to ship:
+// "build": "next build && node src/agent-markdown/cli.ts && next build". Node runs this file by stripping the types.
 //
 //   node src/agent-markdown/cli.ts [--dir md] [--dist-dir .next] [--public-dir public] [--omit ".ad, .newsletter"]
 
