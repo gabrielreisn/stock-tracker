@@ -18,8 +18,24 @@ const nextConfig: NextConfig = {
     };
   },
   async headers() {
-    // Chrome's private prefetch proxy reads it (public/.well-known/traffic-advice) and needs this type.
-    return [{ source: "/.well-known/traffic-advice", headers: [{ key: "Content-Type", value: "application/trafficadvice+json" }] }];
+    return [
+      // Chrome's private prefetch proxy reads it (public/.well-known/traffic-advice) and needs this type.
+      { source: "/.well-known/traffic-advice", headers: [{ key: "Content-Type", value: "application/trafficadvice+json" }] },
+      // On the home page, where agents look (RFC 8288): what describes the site for them, the skill that explains how
+      // to use it, and the page in Markdown. No api-catalog or service-desc: the site has no public API.
+      {
+        source: "/",
+        headers: [{
+          key: "Link",
+          value: [
+            '</llms.txt>; rel="describedby"; type="text/plain"',
+            '</.well-known/ai-catalog.json>; rel="describedby"; type="application/json"',
+            '</.well-known/agent-skills/cymba-asset-data/SKILL.md>; rel="service-doc"; type="text/markdown"',
+            '</md/index.md>; rel="alternate"; type="text/markdown"',
+          ].join(", "),
+        }],
+      },
+    ];
   },
   turbopack: {
     rules: {

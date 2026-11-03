@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { SiteFooter, SiteHeader } from "@/components/site-chrome";
 import { WebMcp } from "@/components/webmcp";
@@ -36,6 +37,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <div className="flex-1">{children}</div>
         <SiteFooter />
         <WebMcp downloadUrl={downloadUrl} />
+        <Analytics />
       </body>
     </html>
   );
