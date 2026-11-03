@@ -7,8 +7,8 @@ keep getting HTML. A request with `Accept: text/markdown` gets the page's Markdo
 same address.
 
 - **At build time**, after `next build`, the CLI converts each prerendered page's HTML into `public/md/<path>.md`.
-  The page's path comes from its canonical link, since a deployment adapter stores the HTML under hashed names. A
-  second `next build` then ships the files: adapters (Vercel's) collect `public/` during `next build`.
+  The page's path comes from its canonical link, since a deployment adapter (Vercel's) stores the HTML under hashed
+  names.
 - **At request time**, the config wrapper rewrites Markdown requests to those static files. Nothing renders per
   request.
 
@@ -23,7 +23,7 @@ export default withAgentMarkdown(nextConfig, { contentSignal: "search=yes, ai-in
 
 ```json
 // package.json
-{ "scripts": { "build": "next build && node src/agent-markdown/cli.ts && next build" } }
+{ "scripts": { "build": "next build && node src/agent-markdown/cli.ts" } }
 ```
 
 ```ts
@@ -67,6 +67,6 @@ node src/agent-markdown/cli.ts [--dir md] [--dist-dir .next] [--public-dir publi
 
 - **Prerendered pages only.** A page rendered per request has no HTML at build time, so it gets no Markdown file.
 - **No `x-markdown-tokens` header.** Next's `headers()` are static, so the header can't vary per file.
-- **Two builds.** Pages can only be converted once they're built, and `public/` is collected while building, so the
-  site builds twice. Check each host with `curl -sI -H "Accept: text/markdown" https://your.site/`.
+- **The files must ship.** They're written after `next build`; on Vercel, `public/` is collected after the whole build
+  command, so they do. Check other hosts with `curl -sI -H "Accept: text/markdown" https://your.site/`.
 - **Pages need a canonical link.** It names the file; pages without one, and noindex pages, are skipped.
