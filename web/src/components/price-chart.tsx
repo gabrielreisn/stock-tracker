@@ -126,7 +126,7 @@ export function PriceChart({ ticker }: { ticker: string }) {
   const periodLabel = range === "1d" ? "hoje" : `em ${ranges.find((r) => r.range === range)?.label}, só a cotação`;
 
   return (
-    <section aria-label={`Gráfico de preço de ${ticker}`} className="rounded-2xl border border-zinc-200 p-4 sm:p-5 dark:border-zinc-800">
+    <section aria-label={`Gráfico de preço de ${ticker}`} data-markdown="omit" className="rounded-2xl border border-zinc-200 p-4 sm:p-5 dark:border-zinc-800">
       <div className="flex flex-wrap items-end justify-between gap-3">
         <div>
           <div className="text-3xl font-semibold tabular-nums">

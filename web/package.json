@@ -6,7 +6,7 @@
   "packageManager": "pnpm@12.6.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && node src/agent-markdown/cli.ts",
     "start": "next start",
     "lint": "eslint",
     "typecheck": "next typegen && tsc --noEmit",
@@ -33,6 +33,8 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.2",
+    "node-html-markdown": "1.3.0",
+    "node-html-parser": "6.1.13",
     "tailwindcss": "^4",
     "typescript": "^5",
     "unpdf": "1.8.1"

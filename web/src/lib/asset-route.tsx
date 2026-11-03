@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { markdownAlternate } from "@/agent-markdown";
 import { AssetPageView } from "@/components/asset-page";
 import { assetPage, assetSlugs, type AssetList } from "@/lib/assets";
 import { siteName } from "@/lib/site";
@@ -20,7 +21,7 @@ export async function assetMetadata(list: AssetList, params: Params): Promise<Me
     title: page.seo.title,
     description: page.seo.description,
     keywords: page.seo.keywords,
-    alternates: { canonical: page.seo.canonicalPath },
+    alternates: { canonical: page.seo.canonicalPath, types: markdownAlternate(page.seo.canonicalPath) },
     openGraph: {
       title: page.seo.title,
       description: page.seo.description,

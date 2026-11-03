@@ -23,12 +23,13 @@ function SourceRef({ index }: { index?: number }) {
   return <a href={`#fonte-${index}`} className="ml-1 align-super text-[0.65rem] text-zinc-400 hover:text-zinc-600">[{index}]</a>;
 }
 
+/** A figure in a card, inside a <dl>. */
 function Stat({ label, value, note }: { label: string; value: string; note?: string }) {
   return (
     <div className="rounded-xl border border-zinc-200 p-4 dark:border-zinc-800">
-      <div className="text-xs text-zinc-500">{label}</div>
-      <div className="mt-1 text-xl font-semibold tabular-nums">{value}</div>
-      {note && <div className="mt-0.5 text-xs text-zinc-500">{note}</div>}
+      <dt className="text-xs text-zinc-500">{label}</dt>
+      <dd className="mt-1 text-xl font-semibold tabular-nums">{value}</dd>
+      {note && <dd className="mt-0.5 text-xs text-zinc-500">{note}</dd>}
     </div>
   );
 }
@@ -80,12 +81,12 @@ export function AssetPageView({ page }: { page: AssetPage }) {
         <PriceChart ticker={page.ticker} />
       </div>
 
-      <div className="mb-12 grid grid-cols-2 gap-3 sm:grid-cols-4">
+      <dl className="mb-12 grid grid-cols-2 gap-3 sm:grid-cols-4">
         <Stat label={`Beta contra o ${stats.beta1y.against}`} value={decimal(stats.beta1y.value)} note="12 meses" />
         <Stat label="Rentabilidade 12 meses" value={percent(stats.returns["1y"])} note="com proventos" />
         <Stat label="Volatilidade anual" value={percent(stats.volatility1y)} note={stats.volatilityLevel} />
         <Stat label="Dividend yield 12 meses" value={stats.dividends ? percent(stats.dividends.yield12Months) : "—"} />
-      </div>
+      </dl>
 
       <div className="space-y-14">
         <Section id="caracteristicas" title={`Características ${of} ${page.ticker}`}>
@@ -119,7 +120,7 @@ export function AssetPageView({ page }: { page: AssetPage }) {
           <ol className="mt-8 space-y-4 border-l-2 border-zinc-200 pl-6 dark:border-zinc-800">
             {page.history.timeline.map((t) => (
               <li key={`${t.date}-${t.event}`} className="relative">
-                <span className="absolute top-2 -left-[1.95rem] size-3 rounded-full border-2 border-white bg-emerald-600 dark:border-zinc-950" />
+                <span aria-hidden className="absolute top-2 -left-[1.95rem] size-3 rounded-full border-2 border-white bg-emerald-600 dark:border-zinc-950" />
                 <div className="text-sm font-semibold tabular-nums text-zinc-500">{date(t.date)}</div>
                 <div>{t.event}<SourceRef index={t.source} /></div>
               </li>
@@ -135,11 +136,11 @@ export function AssetPageView({ page }: { page: AssetPage }) {
 
         <Section id="volatilidade" title={`Volatilidade ${of} ${page.ticker}`}>
           <Markdown text={page.volatility.explanation} />
-          <div className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
+          <dl className="mt-6 grid grid-cols-2 gap-3 sm:grid-cols-4">
             {returns.map((k) => <Stat key={k} label={`Rentabilidade ${returnLabels[k]}`} value={percent(stats.returns[k])} />)}
             <Stat label={`Beta contra o ${stats.beta1y.against}`} value={decimal(stats.beta1y.value)} note="12 meses" />
             <Stat label="Maior queda em 5 anos" value={percent(stats.maxDrawdown5y.drawdown)} note={`${date(stats.maxDrawdown5y.from)} a ${date(stats.maxDrawdown5y.to)}`} />
-          </div>
+          </dl>
           <p className="mt-3 text-sm text-zinc-500">Rentabilidade com proventos reinvestidos, até {asOf}.</p>
         </Section>
 
@@ -148,7 +149,7 @@ export function AssetPageView({ page }: { page: AssetPage }) {
             {page.faq.map((f) => (
               <details key={f.question} className="group py-4">
                 <summary className="cursor-pointer list-none font-semibold marker:hidden">
-                  <span className="mr-2 inline-block text-zinc-400 transition-transform group-open:rotate-90">›</span>{f.question}
+                  <span aria-hidden className="mr-2 inline-block text-zinc-400 transition-transform group-open:rotate-90">›</span>{f.question}
                 </summary>
                 <Markdown text={f.answer} className="mt-3 pl-5" />
               </details>

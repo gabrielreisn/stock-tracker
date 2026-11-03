@@ -19,3 +19,10 @@ export const isProduction = process.env.VERCEL_ENV ? process.env.VERCEL_ENV === 
 
 /** "/acoes/petr4" → "https://…/acoes/petr4". */
 export const absoluteUrl = (path: string) => `${siteUrl}${path.startsWith("/") ? path : `/${path}`}`;
+
+/**
+ * What the site allows its content to be used for (contentsignals.org), in robots.txt and on the pages' Markdown
+ * versions (next.config.ts): search results, AI answers quoting the pages, and model training. Being found and quoted is the
+ * point of the pages.
+ */
+export const contentSignal = "search=yes, ai-input=yes, ai-train=yes";

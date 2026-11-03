@@ -19,6 +19,8 @@ async function llmsText() {
     "",
     `> ${siteName}: um app de Mac para acompanhar ações da B3 e dos EUA, FIIs, ETFs, renda fixa, fundos e gastos. O site tem uma página por ativo (os 100 mais negociados de cada tipo), em português, com história, proventos, volatilidade e as fontes de cada dado (CVM, B3, FNET, Wikipedia, Yahoo Finance). As páginas são informativas, não são recomendação de investimento.`,
     "",
+    `Cada página também tem uma versão em Markdown: peça o endereço da página com \`Accept: text/markdown\`, ou acrescente /md antes do caminho e .md depois (${absoluteUrl("/md/acoes/petr4.md")}).`,
+    "",
     "## Sobre",
     "",
     `- [Metodologia](${absoluteUrl("/metodologia")}): de onde vêm os dados, como os indicadores são calculados e como o texto é escrito e verificado.`,

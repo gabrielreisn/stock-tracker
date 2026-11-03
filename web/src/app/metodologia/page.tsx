@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { markdownAlternate } from "@/agent-markdown";
 import { breadcrumb, jsonLd, organization, webPage, website } from "@/lib/json-ld";
 import { absoluteUrl } from "@/lib/site";
 
@@ -12,7 +13,7 @@ const description = "De onde vêm os dados das páginas de ações, FIIs e ETFs,
 export const metadata: Metadata = {
   title,
   description,
-  alternates: { canonical: "/metodologia" },
+  alternates: { canonical: "/metodologia", types: markdownAlternate("/metodologia") },
   openGraph: { title, description, url: "/metodologia", type: "article" },
 };
 

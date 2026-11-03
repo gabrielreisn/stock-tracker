@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { markdownAlternate } from "@/agent-markdown";
 import catalog from "@/data/app-features.json";
 import { breadcrumb, downloadUrl, jsonLd, organization, softwareApplication, webPage, website } from "@/lib/json-ld";
 import { absoluteUrl } from "@/lib/site";
@@ -10,7 +11,7 @@ const description = "Carteira de ações, FIIs, ETFs, renda fixa e gastos no Mac
 export const metadata: Metadata = {
   title,
   description,
-  alternates: { canonical: "/download" },
+  alternates: { canonical: "/download", types: markdownAlternate("/download") },
   openGraph: { title, description, url: "/download", type: "website" },
 };
 

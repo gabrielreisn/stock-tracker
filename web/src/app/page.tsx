@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { markdownAlternate } from "@/agent-markdown";
 import catalog from "@/data/app-features.json";
 import { assetPaths, assetSlugs, listNames, type AssetList } from "@/lib/assets";
 import { jsonLd, organization, softwareApplication, webPage, website } from "@/lib/json-ld";
@@ -12,7 +13,7 @@ const description = "App de Mac para acompanhar ações da B3 e dos EUA, FIIs, E
 export const metadata: Metadata = {
   title: { absolute: title },
   description,
-  alternates: { canonical: "/" },
+  alternates: { canonical: "/", types: markdownAlternate("/") },
   openGraph: { title, description, url: "/", type: "website" },
 };
 

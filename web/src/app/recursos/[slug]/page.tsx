@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
+import { markdownAlternate } from "@/agent-markdown";
 import catalog from "@/data/app-features.json";
 import { allAssetPages } from "@/lib/assets";
 import { breadcrumb, jsonLd, organization, softwareApplication, webPage, website } from "@/lib/json-ld";
@@ -21,7 +22,7 @@ export async function generateMetadata({ params }: PageProps<"/recursos/[slug]">
   return {
     title,
     description: feature.summary,
-    alternates: { canonical: feature.path },
+    alternates: { canonical: feature.path, types: markdownAlternate(feature.path) },
     openGraph: { title, description: feature.summary, url: feature.path, type: "website" },
   };
 }

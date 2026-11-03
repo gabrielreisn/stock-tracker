@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { markdownAlternate } from "@/agent-markdown";
 import { assetPaths, assetSlugs, listNames, type AssetList } from "@/lib/assets";
 import { date } from "@/lib/format";
 import { breadcrumb, itemList, jsonLd, organization, webPage, website } from "@/lib/json-ld";
@@ -41,7 +42,7 @@ const compact = (x: number, currency: string) =>
 
 export function assetListMetadata(list: AssetList): Metadata {
   const { title, description } = copy[list];
-  return { title, description, alternates: { canonical: assetPaths[list] }, openGraph: { title, description, url: assetPaths[list], type: "website" } };
+  return { title, description, alternates: { canonical: assetPaths[list], types: markdownAlternate(assetPaths[list]) }, openGraph: { title, description, url: assetPaths[list], type: "website" } };
 }
 
 export async function AssetListPage({ list }: { list: AssetList }) {
