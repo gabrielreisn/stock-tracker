@@ -12,6 +12,8 @@ const nextConfig: NextConfig = {
         // iOS and some crawlers ask for these at the root; the icon is src/app/apple-icon.png.
         { source: "/apple-touch-icon.png", destination: "/apple-icon.png" },
         { source: "/apple-touch-icon-precomposed.png", destination: "/apple-icon.png" },
+        // The Agent Skills Discovery RFC's v0.1.0 path, which some agents still try.
+        { source: "/.well-known/skills/index.json", destination: "/.well-known/agent-skills/index.json" },
       ],
     };
   },
