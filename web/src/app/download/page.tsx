@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { markdownAlternate } from "@/agent-markdown";
 import catalog from "@/data/app-features.json";
-import { breadcrumb, downloadUrl, jsonLd, organization, softwareApplication, webPage, website } from "@/lib/json-ld";
+import { breadcrumb, jsonLd, organization, softwareApplication, webPage, website } from "@/lib/json-ld";
 import { absoluteUrl } from "@/lib/site";
 
 const title = "Baixar o app para Mac";
@@ -31,9 +31,10 @@ export default function DownloadPage() {
       <h1 className="text-4xl font-bold tracking-tight">{title}</h1>
       <p className="mt-5 text-lg leading-8">{description}</p>
 
-      <a href={downloadUrl} className="mt-8 inline-block rounded-lg bg-zinc-900 px-5 py-3 font-semibold text-white hover:bg-zinc-700 dark:bg-white dark:text-zinc-900 dark:hover:bg-zinc-200">
+      {/* Through /download/obrigado, which starts the download and counts it. */}
+      <Link href="/download/obrigado" className="mt-8 inline-block rounded-lg bg-zinc-900 px-5 py-3 font-semibold text-white hover:bg-zinc-700 dark:bg-white dark:text-zinc-900 dark:hover:bg-zinc-200">
         Baixar a versão mais recente (.dmg)
-      </a>
+      </Link>
 
       <dl className="mt-10 grid gap-x-6 gap-y-3 text-[0.95rem] sm:grid-cols-[12rem_1fr]">
         <dt className="text-zinc-500">Sistema</dt>
