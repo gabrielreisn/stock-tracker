@@ -1,0 +1,270 @@
+{
+  "ticker": "VCIT",
+  "slug": "vcit",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-11-04",
+  "datePublished": "2026-11-04",
+  "seo": {
+    "title": "VCIT: ETF de títulos corporativos, dividendos e volatilidade",
+    "description": "VCIT é a cota do Vanguard Intermediate-Term Corporate Bond Index Fund ETF, lançado em 23/11/2009.",
+    "h1": "VCIT: Vanguard Intermediate-Term Corporate Bond Index Fund ETF",
+    "canonicalPath": "/etfs/vcit",
+    "keywords": [
+      "VCIT",
+      "Vanguard Corporate Bond ETF",
+      "ETF renda fixa",
+      "títulos corporativos",
+      "dividend yield VCIT",
+      "volatilidade VCIT",
+      "investir em dólar"
+    ]
+  },
+  "summary": "VCIT é a cota do Vanguard Intermediate-Term Corporate Bond Index Fund ETF, lançado em 23/11/2009. O ativo replica um índice de títulos corporativos de prazo intermediário nos EUA. Em 03/11/2026, a cota valia US$ 79,21, com rentabilidade total de -1,37% nos últimos 12 meses e dividend yield de 4,61%. A volatilidade anualizada foi de 4,49%, nível baixo.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares",
+    "ticker": "XNAS VCIT",
+    "foundingDate": "2009-11-23",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice de renda fixa (corporate bonds)",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "Bloomberg U.S",
+    "name": "Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares",
+    "founded": "23/11/2009"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "23/11/2009",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (03/11/2026)",
+      "value": "US$ 79,21",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "4,49% (baixa)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "0,16",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "4,61%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 863,4 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VCIT",
+    "list": "us-etfs",
+    "asOf": "2026-11-03",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard Intermediate-Term Corporate Bond Index Fund ETF Shares",
+    "currency": "USD",
+    "price": 79.21,
+    "historyStarts": "2016-11-04",
+    "returns": {
+      "1y": -0.0137,
+      "3y": 0.1858,
+      "5y": 0.0327,
+      "10y": 0.2783
+    },
+    "volatility1y": 0.0449,
+    "volatilityLevel": "baixa",
+    "maxDrawdown5y": {
+      "drawdown": -0.1965,
+      "from": "2021-11-05",
+      "to": "2022-10-20"
+    },
+    "beta1y": {
+      "value": 0.16,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 3.65,
+      "payments12Months": 11,
+      "yield12Months": 0.0461,
+      "lastPayment": {
+        "date": "2026-09-01",
+        "amount": 0.34
+      }
+    },
+    "avgDailyTradedValue3m": 863373705
+  },
+  "volatility": {
+    "level": "baixa",
+    "explanation": "A volatilidade anualizada do VCIT nos últimos 12 meses é de 4,49%, classificada como nível baixo. Isso reflete a natureza de renda fixa do ativo, que tende a ser menos volátil que ações. O beta de 0,16 contra o S&P 500 indica que, em média, o VCIT move-se em uma magnitude muito menor que o índice acionário, na mesma direção. A maior queda em 5 anos foi de -19,65%, entre 05/11/2021 e 20/10/2022, período em que os juros subiram rapidamente. Para monitorar movimentos bruscos de preço, o investidor pode configurar [alertas de preço](/recursos/alertas-de-preco) no app, recebendo notificações quando a cota atinge níveis pré-definidos."
+  },
+  "history": {
+    "overview": "O VCIT foi lançado em 23 de novembro de 2009, oferecendo exposição a títulos corporativos de prazo intermediário nos Estados Unidos. A emissora, The Vanguard Group, foi fundada em 1975 por John C. Bogle, que é creditado pela criação do primeiro fundo de índice para investidores individuais. A Vanguard é atualmente a maior provedora de fundos mútuos e a segunda maior de ETFs no mundo, com cerca de US$ 13,3 trilhões em ativos sob gestão em 2025, segundo a Wikipedia. A empresa é propriedade dos próprios fundos que gerencia, o que significa que é de propriedade de seus clientes. O foco da Vanguard em custos baixos e gestão passiva permitiu que o VCIT se tornasse uma ferramenta acessível para investidores que buscam exposição a renda fixa corporativa sem a complexidade de montar uma carteira individual de títulos.",
+    "timeline": [
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group por John C. Bogle.",
+        "source": 1
+      },
+      {
+        "date": "2009-11-23",
+        "event": "Primeiro pregão das cotas do ETF VCIT na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2025",
+        "event": "A Vanguard gerencia cerca de US$ 13,3 trilhões em ativos globalmente, sendo a maior provedora de fundos mútuos e a segunda maior de ETFs do mundo.",
+        "source": 1
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VCIT funciona",
+      "body": "O VCIT é um ETF que busca replicar o desempenho de um índice de títulos corporativos de prazo intermediário nos Estados Unidos. A emissora é a The Vanguard Group, uma das maiores gestoras de ativos do mundo, fundada em 1975. O ETF foi lançado em 23/11/2009 e opera de forma passiva, seguindo a composição do índice de referência. Não se trata de um ativo alavancado ou inverso, portanto, não há rebalanceamento diário de múltiplos de retorno. O objetivo é oferecer exposição direta ao mercado de dívida corporativa de grau de investimento e alta qualidade, com liquidez e transparência de preço em bolsa."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VCIT",
+      "body": "O VCIT segue um índice de títulos corporativos de prazo intermediário. As fontes disponíveis não detalham a composição exata dos títulos, mas o nome do fundo indica que ele foca em 'corporate bonds' (títulos corporativos) de 'intermediate-term' (prazo intermediário). Títulos corporativos são dívidas emitidas por empresas para financiar operações, fusões ou expansões. Eles são divididos em 'high grade' (grau de investimento) e 'high yield' (renda alta), sendo que o VCIT, pelo seu nome e perfil de volatilidade, foca em títulos de maior qualidade de crédito. O cupom desses títulos é geralmente pago semestralmente para dívidas em dólar."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VCIT a partir do Brasil",
+      "body": "Para investir no VCIT a partir do Brasil, o investidor precisa abrir conta em uma corretora que ofereça acesso a mercados internacionais, como as dos Estados Unidos. A compra é feita em dólar, o que introduz risco cambial: se o dólar se valorizar frente ao real, o investimento em reais tende a subir, e vice-versa. Alternativamente, é possível buscar ETFs ou BDRs negociados na B3 que sigam índices similares de renda fixa corporativa, embora a liquidez e a aderência ao índice possam variar. O app permite acompanhar a cotação do VCIT e comparar seu desempenho com índices globais, ajudando a monitorar a exposição cambial e a rentabilidade em dólar."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VCIT",
+      "body": "Em 03/11/2026, a cota do VCIT valia US$ 79,21. A rentabilidade total com proventos foi de -1,37% nos últimos 12 meses, 18,58% em 3 anos, 3,27% em 5 anos e 27,83% em 10 anos. O dividend yield é de 4,61%, com US$ 3,6500 distribuídos em 11 pagamentos no período de 12 meses. Para entender como esse desempenho se compara com o mercado acionário, é possível usar a [comparação com índices](/recursos/comparacao-com-indices) do app, que coloca a rentabilidade do VCIT lado a lado com o S&P 500 e outros benchmarks."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VCIT",
+      "body": "O principal risco do VCIT é o risco de crédito das empresas que emitem os títulos e o risco de taxa de juros. Quando os juros sobem, o preço dos títulos de longo prazo tende a cair, o que pode gerar perdas na cota do ETF. A maior queda em 5 anos foi de -19,65%, entre 05/11/2021 e 20/10/2022. A volatilidade anualizada de 4,49% é considerada baixa, mas o beta de 0,16 contra o S&P 500 indica que o ativo tem baixa correlação com o mercado acionário, o que pode ser útil em períodos de estresse de mercado. O risco cambial também é relevante para investidores brasileiros, pois o ativo é cotado em dólar."
+    },
+    {
+      "id": "acompanhe-no-app",
+      "heading": "Como acompanhar VCIT no app",
+      "body": "Para quem tem VCIT na carteira, o [app de Mac para acompanhar investimentos](/download) oferece:\n\n- [comparação com índices](/recursos/comparacao-com-indices): Veja a rentabilidade do VCIT lado a lado com o S&P 500 e outros índices, no mesmo gráfico, para entender seu desempenho relativo.\n- [alertas de preço](/recursos/alertas-de-preco): Configure notificações para quando a cota do VCIT atinge níveis de preço que você considera relevantes para sua estratégia de investimento.\n- [carteira consolidada](/recursos/carteira-consolidada): Acompanhe a alocação do VCIT junto com outras classes de ativos, como ações e renda fixa, em uma única visão de carteira.\n- [assistente de IA](/recursos/assistente-de-ia): Pergunte em português sobre a sua posição em VCIT e veja como ele impacta a sua carteira, com respostas baseadas nos seus próprios dados."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o VCIT?",
+      "answer": "O VCIT é um ETF da Vanguard que replica um índice de títulos corporativos de prazo intermediário nos EUA. Ele foi lançado em 2009 e oferece exposição a dívida corporativa de qualidade, com baixa volatilidade e dividend yield de 4,61% em 03/11/2026."
+    },
+    {
+      "question": "Qual a diferença entre VCIT e VCLT?",
+      "answer": "O VCIT foca em títulos corporativos de prazo intermediário, enquanto o [VCLT](/etfs/vclt) foca em títulos de longo prazo. Títulos de longo prazo tendem a ser mais sensíveis a mudanças nos juros, o que pode aumentar a volatilidade em relação ao VCIT."
+    },
+    {
+      "question": "O VCIT paga dividendos?",
+      "answer": "Sim, o VCIT distribui proventos regularmente. Nos 12 meses até 03/11/2026, foram distribuídos US$ 3,6500 por cota em 11 pagamentos, resultando em um dividend yield de 4,61%. O último pagamento foi de US$ 0,3400 em 01/09/2026."
+    },
+    {
+      "question": "Como investir no VCIT do Brasil?",
+      "answer": "É possível investir no VCIT abrindo conta em uma corretora que ofereça acesso a mercados internacionais, como os EUA. A compra é feita em dólar, o que implica risco cambial. Alternativamente, há ETFs na B3 que seguem índices similares, mas com menor liquidez e aderência."
+    },
+    {
+      "question": "Qual a volatilidade do VCIT?",
+      "answer": "A volatilidade anualizada do VCIT nos últimos 12 meses é de 4,49%, nível baixo. A maior queda em 5 anos foi de -19,65%, entre 05/11/2021 e 20/10/2022, período de alta dos juros. O beta contra o S&P 500 é de 0,16, indicando baixa correlação com o mercado acionário."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Veja a rentabilidade do VCIT lado a lado com o S&P 500 e outros índices, no mesmo gráfico, para entender seu desempenho relativo."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Configure notificações para quando a cota do VCIT atinge níveis de preço que você considera relevantes para sua estratégia de investimento."
+      },
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Acompanhe a alocação do VCIT junto com outras classes de ativos, como ações e renda fixa, em uma única visão de carteira."
+      },
+      {
+        "feature": "assistente-de-ia",
+        "anchor": "assistente de IA",
+        "context": "Pergunte em português sobre a sua posição em VCIT e veja como ele impacta a sua carteira, com respostas baseadas nos seus próprios dados."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "VCLT",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard que foca em títulos corporativos de longo prazo, útil para comparação de sensibilidade a juros."
+      },
+      {
+        "ticker": "LQD",
+        "list": "us-etfs",
+        "reason": "ETF de títulos corporativos de grau de investimento, concorrente direto do VCIT em termos de exposição a dívida corporativa."
+      },
+      {
+        "ticker": "HYG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos corporativos de alta renda (high yield), para comparação de perfil de risco e retorno."
+      },
+      {
+        "ticker": "AGG",
+        "list": "us-etfs",
+        "reason": "ETF de títulos do tesouro e agências, para comparação com renda fixa soberana."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VCIT",
+      "url": "https://finance.yahoo.com/quote/VCIT/history/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "Wikipedia (en): Corporate bond (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Corporate_bond",
+      "accessedAt": "2026-11-04"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 03/11/2026; demais fontes listadas abaixo, consultadas em 04/11/2026."
+}

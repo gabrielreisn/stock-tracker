@@ -1,0 +1,263 @@
+{
+  "ticker": "VEA",
+  "slug": "vea",
+  "list": "us-etfs",
+  "locale": "pt-BR",
+  "updatedAt": "2026-11-04",
+  "datePublished": "2026-11-04",
+  "seo": {
+    "title": "VEA: ETF de mercados desenvolvidos ex-USA",
+    "description": "Conheça o VEA, ETF da Vanguard que replica ações de mercados desenvolvidos fora dos EUA. Veja desempenho, dividendos e riscos até 03/11/2026.",
+    "h1": "VEA: Vanguard FTSE Developed Markets Index Fund ETF Shares",
+    "canonicalPath": "/etfs/vea",
+    "keywords": [
+      "VEA",
+      "ETF mercados desenvolvidos",
+      "Vanguard ETF",
+      "ações internacionais",
+      "dividend yield VEA"
+    ]
+  },
+  "summary": "VEA é a cota do Vanguard FTSE Developed Markets Index Fund ETF Shares, um ETF que replica o desempenho de ações de mercados desenvolvidos, excluindo os Estados Unidos. Lançado em 26/07/2007, o ativo é gerido pela The Vanguard Group, uma das maiores gestoras de fundos do mundo. Até 03/11/2026, a cota valia US$ 69,37, com rentabilidade total de 16,49% nos últimos 12 meses e dividend yield de 2,46%.",
+  "entity": {
+    "kind": "InvestmentFund",
+    "name": "Vanguard FTSE Developed Markets Index Fund ETF Shares",
+    "ticker": "ARCX VEA",
+    "foundingDate": "2007-07-26",
+    "provider": {
+      "name": "The Vanguard Group",
+      "sameAs": [
+        "https://en.wikipedia.org/wiki/The_Vanguard_Group"
+      ]
+    },
+    "sameAs": []
+  },
+  "profile": {
+    "type": "ETF de índice",
+    "issuerOrManager": "Vanguard",
+    "trackedIndex": "FTSE Developed All Cap ex US Index",
+    "name": "Vanguard FTSE Developed Markets Index Fund ETF Shares",
+    "founded": "26/07/2007"
+  },
+  "characteristics": [
+    {
+      "label": "Nome",
+      "value": "Vanguard FTSE Developed Markets Index Fund ETF Shares",
+      "source": 0
+    },
+    {
+      "label": "Negociado desde",
+      "value": "26/07/2007",
+      "source": 0
+    },
+    {
+      "label": "Bolsa",
+      "value": "NYSE Arca / Nasdaq",
+      "source": 0
+    },
+    {
+      "label": "Moeda",
+      "value": "Dólar americano (US$)",
+      "source": 0
+    },
+    {
+      "label": "Preço (03/11/2026)",
+      "value": "US$ 69,37",
+      "source": 0
+    },
+    {
+      "label": "Volatilidade anual (12 meses)",
+      "value": "17,69% (moderada)",
+      "source": 0
+    },
+    {
+      "label": "Beta (12 meses, contra o S&P 500)",
+      "value": "1,12",
+      "source": 0
+    },
+    {
+      "label": "Dividend yield (12 meses)",
+      "value": "2,46%",
+      "source": 0
+    },
+    {
+      "label": "Volume médio diário (3 meses)",
+      "value": "US$ 696,8 milhões",
+      "source": 0
+    }
+  ],
+  "stats": {
+    "ticker": "VEA",
+    "list": "us-etfs",
+    "asOf": "2026-11-03",
+    "source": "Yahoo Finance daily history (adjusted closes include dividends and splits)",
+    "name": "Vanguard FTSE Developed Markets Index Fund ETF Shares",
+    "currency": "USD",
+    "price": 69.37,
+    "historyStarts": "2016-11-04",
+    "returns": {
+      "1y": 0.1649,
+      "3y": 0.7163,
+      "5y": 0.5309,
+      "10y": 1.5984
+    },
+    "volatility1y": 0.1769,
+    "volatilityLevel": "moderada",
+    "maxDrawdown5y": {
+      "drawdown": -0.2934,
+      "from": "2021-11-08",
+      "to": "2022-09-27"
+    },
+    "beta1y": {
+      "value": 1.12,
+      "against": "S&P 500"
+    },
+    "dividends": {
+      "last12Months": 1.704,
+      "payments12Months": 4,
+      "yield12Months": 0.0246,
+      "lastPayment": {
+        "date": "2026-09-18",
+        "amount": 0.178
+      }
+    },
+    "avgDailyTradedValue3m": 696784674
+  },
+  "volatility": {
+    "level": "moderada",
+    "explanation": "A volatilidade anualizada do VEA é de 17,69%, um nível considerado moderado para um ETF de ações internacionais. O beta de 1,12 em relação ao S&P 500 sugere que o ativo tem uma sensibilidade ligeiramente superior à do índice americano, oscilando um pouco mais em direção e magnitude. A maior queda registrada nos últimos 5 anos foi de -29,34%, ocorrida entre 08/11/2021 e 27/09/2022, período que reflete a correção global de 2022. Para investidores que desejam monitorar esses movimentos, o app permite configurar [alertas de preço](/recursos/alertas-de-preco) e visualizar a variação histórica na seção de [desempenho e preço médio](/recursos/desempenho-e-preco-medio)."
+  },
+  "history": {
+    "overview": "O VEA foi lançado em 26 de julho de 2007, oferecendo exposição a mercados acionários desenvolvidos fora dos Estados Unidos. A emissora, The Vanguard Group, foi fundada em 1975 por John C. Bogle, pioneiro dos fundos de índice de baixo custo, e é hoje a segunda maior gestora de ETFs do mundo, atrás apenas da BlackRock. A estratégia do ETF baseia-se na replicação passiva de um índice global, o que reduz a necessidade de gestão ativa e, consequentemente, os custos para o investidor. A composição reflete a realidade econômica de países com alto padrão de vida e infraestrutura tecnológica avançada, conforme definido por critérios de renda per capita e industrialização. Para o investidor, isso significa uma carteira diversificada que acompanha a média do mercado internacional, sem a concentração em empresas americanas que caracteriza índices como o S&P 500.",
+    "timeline": [
+      {
+        "date": "1975-05-01",
+        "event": "Fundação da The Vanguard Group, a gestora do ETF, por John C. Bogle.",
+        "source": 1
+      },
+      {
+        "date": "2007-07-26",
+        "event": "Primeiro pregão das cotas do VEA na bolsa.",
+        "source": 0
+      },
+      {
+        "date": "2022-03-02",
+        "event": "FTSE Russell removeu todos os títulos russos de seus índices em resposta à invasão da Ucrânia.",
+        "source": 2
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "como-funciona",
+      "heading": "Como o VEA funciona",
+      "body": "O VEA é um ETF que replica o desempenho de um índice de ações de mercados desenvolvidos, excluindo os Estados Unidos. A gestão é passiva, o que significa que o fundo busca acompanhar a composição do índice sem a interferência de gestores ativos tentando superar o mercado. A emissora é a The Vanguard Group, fundada em 1975 e reconhecida por popularizar o investimento de baixo custo através de índices. O ETF foi lançado em 26 de julho de 2007 e opera na bolsa americana. Como não é um ativo alavancado ou inverso, ele não realiza rebalanceamento diário para multiplicar retornos; seu objetivo é simplesmente refletir a variação do índice de referência ao longo do tempo."
+    },
+    {
+      "id": "composicao",
+      "heading": "Índice e composição do VEA",
+      "body": "O VEA segue o índice FTSE Developed All Cap ex US. As fontes indicam que o índice é mantido pela FTSE Russell, subsidiária da London Stock Exchange Group, que também é responsável por índices como o FTSE 100 e o Russell 2000. A composição abrange países desenvolvidos, definidos por critérios como alto produto interno bruto per capita, nível de industrialização e infraestrutura avançada. Embora as fontes não detalhem o peso exato de cada país no momento, a estrutura exclui os Estados Unidos, focando em economias como as da Europa, Japão e outras nações do G7. Em março de 2022, a FTSE Russell removeu todos os títulos russos de seus índices devido às sanções internacionais."
+    },
+    {
+      "id": "investir-do-brasil",
+      "heading": "Como investir no VEA a partir do Brasil",
+      "body": "Para investir no VEA a partir do Brasil, o investidor geralmente precisa abrir conta em uma corretora que opere no mercado americano, pois o ETF é listado em bolsas dos EUA. Outra alternativa é buscar BDRs ou ETFs negociados na B3 que tenham como referência o mesmo índice ou mercados similares, como o [EFA](/etfs/efa) ou o [VXUS](/etfs/vxus). O principal risco cambial é a variação do câmbio entre o dólar e o real: se o dólar se valorizar frente ao real, o retorno em reais aumenta, e vice-versa. É essencial considerar esse fator ao avaliar a rentabilidade final. O app permite acompanhar a variação do ativo e a conversão cambial na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "id": "desempenho",
+      "heading": "Desempenho do VEA",
+      "body": "Até 03/11/2026, o VEA apresentou rentabilidade total de 16,49% nos últimos 12 meses, 71,63% em 3 anos e 159,84% em 10 anos. O ativo pagou US$ 1,7040 em proventos nos últimos 12 meses, resultando em um dividend yield de 2,46%. O volume médio diário negociado nos últimos 3 meses foi de US$ 696,8 milhões. Para comparar esse desempenho com o mercado americano, o investidor pode utilizar a [comparação com índices](/recursos/comparacao-com-indices), que coloca o VEA lado a lado com o S&P 500, permitindo visualizar a diferença de desempenho entre mercados desenvolvidos ex-USA e o mercado doméstico dos EUA."
+    },
+    {
+      "id": "riscos",
+      "heading": "Riscos do VEA",
+      "body": "O principal risco do VEA é a volatilidade dos mercados acionários internacionais. A volatilidade anualizada de 12 meses é de 17,69%, considerada moderada. A maior queda nos últimos 5 anos foi de -29,34%, entre 08/11/2021 e 27/09/2022. Há também o risco cambial, já que o ativo é cotado em dólar. Investidores devem estar cientes de que a exposição a mercados desenvolvidos pode sofrer com crises regionais, como a remoção de ativos russos em 2022. O app oferece [alertas de preço](/recursos/alertas-de-preco) para monitorar movimentos bruscos."
+    }
+  ],
+  "faq": [
+    {
+      "question": "O que é o VEA?",
+      "answer": "VEA é um ETF que replica o desempenho de ações de mercados desenvolvidos, excluindo os Estados Unidos. Ele é gerido pela Vanguard e foi lançado em 2007. O ativo oferece diversificação internacional sem a concentração em empresas americanas."
+    },
+    {
+      "question": "VEA paga dividendos?",
+      "answer": "Sim, o VEA distribui proventos. Nos 12 meses até 03/11/2026, pagou US$ 1,7040 por cota, o que representa um dividend yield de 2,46%. O último pagamento foi de US$ 0,1780 em 18/09/2026. Você pode acompanhar esses valores no app."
+    },
+    {
+      "question": "Qual a diferença entre VEA e EFA?",
+      "answer": "Ambos são ETFs de mercados desenvolvidos ex-USA. O VEA é da Vanguard e o EFA é da iShares. A principal diferença está na gestão e na taxa de administração, mas ambos buscam replicar índices similares de mercados internacionais. O app permite comparar [EFA](/etfs/efa) e VEA na carteira."
+    },
+    {
+      "question": "Como investir no VEA do Brasil?",
+      "answer": "É necessário ter conta em uma corretora que negocie ativos nos EUA. Alternativamente, pode-se buscar BDRs ou ETFs na B3 que tenham exposição similar. O risco cambial deve ser considerado, pois o ativo é cotado em dólar. O app ajuda a organizar essa posição na [carteira consolidada](/recursos/carteira-consolidada)."
+    },
+    {
+      "question": "Qual a volatilidade do VEA?",
+      "answer": "A volatilidade anualizada de 12 meses é de 17,69%, considerada moderada. O beta é de 1,12 em relação ao S&P 500. A maior queda em 5 anos foi de -29,34%. O app permite visualizar esses dados e configurar [alertas de preço](/recursos/alertas-de-preco)."
+    }
+  ],
+  "internalLinks": {
+    "features": [
+      {
+        "feature": "carteira-consolidada",
+        "anchor": "carteira consolidada",
+        "context": "Veja o VEA junto com seus outros ativos, com alocação e valor por classe, em uma só visão."
+      },
+      {
+        "feature": "comparacao-com-indices",
+        "anchor": "comparação com índices",
+        "context": "Compare a rentabilidade do VEA com o S&P 500 e outros índices no mesmo gráfico."
+      },
+      {
+        "feature": "alertas-de-preco",
+        "anchor": "alertas de preço",
+        "context": "Receba uma notificação quando a cota do VEA atingir o preço que você definiu."
+      }
+    ],
+    "assets": [
+      {
+        "ticker": "EFA",
+        "list": "us-etfs",
+        "reason": "ETF similar da iShares que também replica mercados desenvolvidos ex-USA."
+      },
+      {
+        "ticker": "VXUS",
+        "list": "us-etfs",
+        "reason": "ETF da Vanguard que cobre o mercado internacional total, incluindo emergentes."
+      },
+      {
+        "ticker": "SPY",
+        "list": "us-etfs",
+        "reason": "ETF do S&P 500, o principal índice americano, para comparação de desempenho."
+      },
+      {
+        "ticker": "VOO",
+        "list": "us-etfs",
+        "reason": "Outro ETF da Vanguard que replica o S&P 500, útil para comparação de custos."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Yahoo Finance: cotações históricas de VEA",
+      "url": "https://finance.yahoo.com/quote/VEA/history/",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "Wikipedia (en): The Vanguard Group (emissora do ETF)",
+      "url": "https://en.wikipedia.org/wiki/The_Vanguard_Group",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "Wikipedia (en): FTSE Russell (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/FTSE_Russell",
+      "accessedAt": "2026-11-04"
+    },
+    {
+      "title": "Wikipedia (en): Developed country (contexto, não é o índice do ETF)",
+      "url": "https://en.wikipedia.org/wiki/Developed_country",
+      "accessedAt": "2026-11-04"
+    }
+  ],
+  "disclaimer": "Conteúdo informativo, não é recomendação de investimento. Rentabilidade passada não garante rentabilidade futura. Dados de mercado do Yahoo Finance até 03/11/2026; demais fontes listadas abaixo, consultadas em 04/11/2026."
+}
