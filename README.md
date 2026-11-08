@@ -96,6 +96,7 @@ Settings → Updates has "Check now" and a switch for beta versions.
 - `macOS/` — the app: a Swift package (`Package.swift`, `Sources/`, `Resources/`) and `build.sh`, which builds the
   `.app` and the DMG.
 - `web/` — a Next.js app, just started.
+- `mobile/` — the iOS and Android client, an Expo app (see `mobile/README.md`).
 - `docs/screenshots/` — the images in this README.
 
 ## Develop

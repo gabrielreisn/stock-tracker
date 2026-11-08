@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Cymba",
+    "slug": "cymba",
+    "version": "0.1.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "cymba",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "bundleIdentifier": "app.cymba"
+    },
+    "android": {
+      "package": "app.cymba",
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0a0a",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#ffffff",
+          "image": "./assets/images/splash-icon.png",
+          "dark": {
+            "backgroundColor": "#0a0a0a",
+            "image": "./assets/images/splash-icon-dark.png"
+          },
+          "imageWidth": 140
+        }
+      ],
+      [
+        "expo-localization",
+        {
+          "supportedLocales": ["pt-BR", "en"]
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
