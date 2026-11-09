@@ -1,16 +1,15 @@
 import { Link } from 'expo-router';
-import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Pressable, ScrollView, StyleSheet, Text } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { useTheme } from '@/hooks/use-theme';
-import { t, type StringKey } from '@/lib/i18n';
+import { t } from '@/lib/i18n';
 
-const upcoming: StringKey[] = ['FGC Watcher', 'Fund Comparison'];
+
 export default function InvestmentsScreen() {
   const theme = useTheme();
   // Link asChild requires its child to receive one style object, not an array.
   const cardStyle = { ...styles.card, backgroundColor: theme.surface };
-  const placeholders = upcoming.map(section => <View key={section} style={cardStyle}><Text style={{ color: theme.text }}>{t(section)}</Text><Text style={{ color: theme.textSecondary }}>{t('Coming soon')}</Text></View>);
   return (
     <SafeAreaView edges={['top']} style={[styles.root, { backgroundColor: theme.background }]}>
       <ScrollView contentContainerStyle={styles.content}>
@@ -18,7 +17,7 @@ export default function InvestmentsScreen() {
         <Link href="/investments/stocks" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Stocks')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
         <Link href="/investments/bonds" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Bonds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
         <Link href="/investments/funds" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Funds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
-        {placeholders}
+        <Link href="/investments/fgc" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('FGC Watcher')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
       </ScrollView>
     </SafeAreaView>
   );
