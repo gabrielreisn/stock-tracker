@@ -439,6 +439,11 @@ const portuguese = {
   "B3's real-estate fund (FII) index, with distributions reinvested. Starts Dec 2010.":
     'Índice de fundos imobiliários (FII) da B3, com rendimentos reinvestidos. Começa em dez/2010.',
   Benchmarks: 'Indicadores',
+  '1 connection': '1 conexão',
+  '{count} connections': '{count} conexões',
+  'Not configured': 'Não configurado',
+  'Sync failed': 'Falha na sincronização',
+  'Synced at {time}': 'Sincronizado às {time}',
   'No benchmarks selected': 'Nenhum indicador selecionado',
   Bills: 'Contas',
   Bonds: 'Renda fixa',
