@@ -9,8 +9,10 @@ const otherSections: StringKey[] = ['Expenses', 'Open Finance'];
 
 export default function FinancesScreen() {
   const theme = useTheme();
+  // Link asChild requires its child to receive one style object, not an array.
+  const rowStyle = { ...styles.row, backgroundColor: theme.surface };
   const rows = otherSections.map((section) => (
-    <View key={section} style={[styles.row, { backgroundColor: theme.surface }]}>
+    <View key={section} style={rowStyle}>
       <Text style={[styles.label, { color: theme.text }]}>{t(section)}</Text>
       <Text style={{ color: theme.textSecondary }}>{t('Coming soon')}</Text>
     </View>
@@ -20,7 +22,7 @@ export default function FinancesScreen() {
       <ScrollView contentContainerStyle={styles.content}>
         <Text accessibilityRole="header" style={[styles.title, { color: theme.text }]}>{t('Finances')}</Text>
         <Link href="/finances/bills" asChild>
-          <Pressable accessibilityRole="link" style={[styles.row, { backgroundColor: theme.surface }]}>
+          <Pressable accessibilityRole="link" style={rowStyle}>
             <View style={styles.copy}>
               <Text style={[styles.label, { color: theme.text }]}>{t('Bills')}</Text>
               <Text style={{ color: theme.textSecondary }}>{t('Due dates and recurring payments')}</Text>
@@ -29,7 +31,7 @@ export default function FinancesScreen() {
           </Pressable>
         </Link>
         <Link href="/finances/insights" asChild>
-          <Pressable accessibilityRole="link" style={[styles.row, { backgroundColor: theme.surface }]}>
+          <Pressable accessibilityRole="link" style={rowStyle}>
             <View style={styles.copy}>
               <Text style={[styles.label, { color: theme.text }]}>{t('Insights')}</Text>
               <Text style={{ color: theme.textSecondary }}>{t('Yearly spending and category trends')}</Text>
@@ -38,7 +40,7 @@ export default function FinancesScreen() {
           </Pressable>
         </Link>
         <Link href="/finances/categories" asChild>
-          <Pressable accessibilityRole="link" style={[styles.row, { backgroundColor: theme.surface }]}>
+          <Pressable accessibilityRole="link" style={rowStyle}>
             <Text style={[styles.label, { color: theme.text }]}>{t('Categories & limits')}</Text>
             <Text style={{ color: theme.textSecondary }}>›</Text>
           </Pressable>
