@@ -450,6 +450,9 @@ const portuguese = {
   'Saved on this device': 'Salvo neste aparelho',
   'Set up once': 'Configure uma vez',
   Settings: 'Ajustes',
+  Sources: 'Fontes',
+  'Prices, USD/BRL, S&P 500, IBOV: Yahoo Finance\nCDI and IPCA: Banco Central (SGS)\nIFIX history: B3':
+    'Preços, dólar, S&P 500, IBOV: Yahoo Finance\nCDI e IPCA: Banco Central (SGS)\nHistórico do IFIX: B3',
   Stocks: 'Ações',
   'Sync now': 'Sincronizar agora',
   'Synced {count} investments at {time}': '{count} investimentos sincronizados às {time}',
