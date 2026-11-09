@@ -65,3 +65,12 @@ types describe future live data, not invented demo records.
 
 `pnpm check:demo` checks source parity, literal fixture compatibility with the contracts, account
 references, date shifting (including February/leap years), future filtering, and copy isolation.
+
+## Bills screen
+
+Finances → Bills consumes a separate in-memory demo account. Its classification and recurring
+bill derivation live in `src/lib/bills.ts`; choices live in `demo-bills-store.ts` for the app
+session only. It follows the desktop's 2-of-3-month detection, median payment day, three-day
+grace period, monthly paid markers and month-end clamping. Pull to refresh advances the demo
+if the calendar day changed. Closed card bills and loans show empty states because the
+fixtures do not include those records. Run `pnpm check:bills` for the behavior checks.

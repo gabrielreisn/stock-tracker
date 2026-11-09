@@ -11,7 +11,8 @@
     "lint": "expo lint",
     "typecheck": "tsc --noEmit",
     "check:insights": "node scripts/check-insights.cjs",
-    "check:demo": "node scripts/check-demo.cjs"
+    "check:demo": "node scripts/check-demo.cjs",
+    "check:bills": "node scripts/check-bills.cjs"
   },
   "dependencies": {
     "expo": "~58.0.23",
