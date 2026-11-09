@@ -1,5 +1,5 @@
 import { KeyboardAvoidingView, ScrollView, StyleSheet, Text, View } from 'react-native';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaView } from 'react-native-screens/experimental';
 
 import { BenchmarksSection } from '@/components/settings/benchmarks-section';
 import { OpenFinanceSection } from '@/components/settings/open-finance-section';
@@ -12,10 +12,10 @@ export default function SettingsScreen() {
   const theme = useTheme();
 
   return (
-    <SafeAreaView collapsable={false} edges={['top']} style={[styles.root, { backgroundColor: theme.background }]}>
+    <SafeAreaView collapsable={false} edges={{ top: true, bottom: true, left: true, right: true }} style={[styles.root, { backgroundColor: theme.background }]}>
       <KeyboardAvoidingView collapsable={false} behavior="padding" style={styles.root}>
         <ScrollView
-          contentInsetAdjustmentBehavior="automatic"
+          contentInsetAdjustmentBehavior="never"
           contentContainerStyle={styles.content}
           keyboardDismissMode="on-drag"
           keyboardShouldPersistTaps="handled">
