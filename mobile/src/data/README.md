@@ -74,3 +74,17 @@ session only. It follows the desktop's 2-of-3-month detection, median payment da
 grace period, monthly paid markers and month-end clamping. Pull to refresh advances the demo
 if the calendar day changed. Closed card bills and loans show empty states because the
 fixtures do not include those records. Run `pnpm check:bills` for the behavior checks.
+
+## Categories & limits preview
+
+Open **Finances → Categories & limits** to edit the demo account's monthly limits, warning
+threshold, large-purchase warning, and categories. Edits survive navigation in memory and reset
+when the app restarts; they never read or write the personal Pluggy account. Warnings appear
+in the screen rather than scheduling device notifications.
+
+`src/lib/expenses.ts` derives spending using account direction, exclusions, rules, overrides,
+and installment months. History suggestions match macOS: the previous three months' average
+plus 10%, rounded up to R$ 10, with the total limit set to the sum of category limits. Missing
+foreign-currency conversions contribute zero rather than treating foreign amounts as reais.
+Run `pnpm check:expenses` to verify classification, suggestions, deletion cleanup, thresholds,
+and Brazilian amount parsing.
