@@ -5,7 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useTheme } from '@/hooks/use-theme';
 import { t, type StringKey } from '@/lib/i18n';
 
-const otherSections: StringKey[] = ['Expenses', 'Insights', 'Open Finance'];
+const otherSections: StringKey[] = ['Expenses', 'Open Finance'];
 
 export default function FinancesScreen() {
   const theme = useTheme();
@@ -24,6 +24,15 @@ export default function FinancesScreen() {
             <View style={styles.copy}>
               <Text style={[styles.label, { color: theme.text }]}>{t('Bills')}</Text>
               <Text style={{ color: theme.textSecondary }}>{t('Due dates and recurring payments')}</Text>
+            </View>
+            <Text style={{ color: theme.textSecondary }}>›</Text>
+          </Pressable>
+        </Link>
+        <Link href="/finances/insights" asChild>
+          <Pressable accessibilityRole="link" style={[styles.row, { backgroundColor: theme.surface }]}>
+            <View style={styles.copy}>
+              <Text style={[styles.label, { color: theme.text }]}>{t('Insights')}</Text>
+              <Text style={{ color: theme.textSecondary }}>{t('Yearly spending and category trends')}</Text>
             </View>
             <Text style={{ color: theme.textSecondary }}>›</Text>
           </Pressable>
