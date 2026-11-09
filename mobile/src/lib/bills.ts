@@ -119,7 +119,7 @@ export function recurringBills(expenses: Expense[], choices: Record<string, Bill
     const looksLikeBill = payments.some((p) => p.kind !== 'outside' && (p.source === 'boleto' || p.source === 'autoDebit' || financing(p.detail)));
     const months = new Set(payments.map((p) => Math.floor(p.day / 100)).filter((m) => previousMonths.has(m)));
     if (choice.tracked !== true && (!looksLikeBill || months.size < 2)) continue;
-    const sorted = payments.toSorted((a, b) => a.day - b.day);
+    const sorted = payments.slice().sort((a, b) => a.day - b.day);
     const lastPayment = sorted[sorted.length - 1];
     const past = sorted.filter((p) => Math.floor(p.day / 100) < month);
     const days = (past.length ? past.slice(-3) : sorted).map((p) => p.day % 100).sort((a, b) => a - b);
@@ -134,7 +134,7 @@ export function recurringBills(expenses: Expense[], choices: Record<string, Bill
     const paidByHand = choice.paidByHand?.includes(month) ?? false;
     const paid = paidThisMonth.length > 0 || paidByHand;
     const due = dueDate(dueDay, month);
-    const installment = sorted.toReversed().map((p) => financing(p.detail)).find(Boolean);
+    const installment = sorted.slice().reverse().map((p) => financing(p.detail)).find(Boolean);
     bills.push({ key, name: lastPayment.store, source: lastPayment.source, dueDay, dueDaySet: choice.dueDay != null,
       usual, lastPayment, paidThisMonth, paidByHand, installment, trackedByHand: choice.tracked === true,
       nextDue: paid ? dueDate(dueDay, monthOffset(month, 1)) : due,
@@ -145,7 +145,7 @@ export function recurringBills(expenses: Expense[], choices: Record<string, Bill
 
 export function upcomingBills(bills: RecurringBill[], today: number): RecurringBill[] {
   return bills.filter((b) => b.status === 'late' || daysBetween(today, b.nextDue) <= 30)
-    .toSorted((a, b) => Number(b.status === 'late') - Number(a.status === 'late') || a.nextDue - b.nextDue || a.name.localeCompare(b.name));
+    .sort((a, b) => Number(b.status === 'late') - Number(a.status === 'late') || a.nextDue - b.nextDue || a.name.localeCompare(b.name));
 }
 
 export function withBillChoice(settings: ExpenseSettings, key: string, change: Partial<BillChoice>): ExpenseSettings {
@@ -156,7 +156,7 @@ export function withBillChoice(settings: ExpenseSettings, key: string, change: P
 export function trackablePayments(expenses: Expense[], recurring: RecurringBill[], choices: Record<string, BillChoice>, today: number): Map<string, Expense> {
   const activeKeys = new Set(recurring.map((b) => b.key));
   const candidates = new Map<string, Expense>();
-  for (const row of expenses.toSorted((a, b) => a.day - b.day)) {
+  for (const row of expenses.slice().sort((a, b) => a.day - b.day)) {
     const key = billKey(row);
     if (!row.isCard && row.kind === 'spending' && row.amount > 0 && row.day <= today && !activeKeys.has(key) && choices[key]?.tracked !== false) candidates.set(key, row);
   }
