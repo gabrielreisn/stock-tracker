@@ -11,9 +11,10 @@ export default function SettingsScreen() {
   const theme = useTheme();
 
   return (
-    <SafeAreaView edges={['top']} style={[styles.root, { backgroundColor: theme.background }]}>
-      <KeyboardAvoidingView behavior="padding" style={styles.root}>
+    <SafeAreaView collapsable={false} edges={['top']} style={[styles.root, { backgroundColor: theme.background }]}>
+      <KeyboardAvoidingView collapsable={false} behavior="padding" style={styles.root}>
         <ScrollView
+          contentInsetAdjustmentBehavior="automatic"
           contentContainerStyle={styles.content}
           keyboardDismissMode="on-drag"
           keyboardShouldPersistTaps="handled">
@@ -34,6 +35,7 @@ const styles = StyleSheet.create({
   },
   content: {
     padding: Spacing.three,
+    paddingBottom: Spacing.four + Spacing.two,
     gap: Spacing.four,
   },
   title: {
