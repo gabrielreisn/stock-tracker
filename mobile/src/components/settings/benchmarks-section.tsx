@@ -21,32 +21,38 @@ export function BenchmarksSection() {
   const theme = useTheme();
   const enabled = useEnabledBenchmarks();
 
+  const summary = BENCHMARKS.filter((benchmark) => enabled.includes(benchmark.id))
+    .map((benchmark) => benchmark.label)
+    .join(' · ') || t('No benchmarks selected');
+  const rows = BENCHMARKS.map((benchmark) => {
+    const isOn = enabled.includes(benchmark.id);
+    return (
+      <View key={benchmark.id} style={[settingsStyles.row, styles.row]}>
+        <Swatch color={theme.benchmarks[benchmark.id]} isDashed={benchmark.isRate} />
+        <View style={styles.text}>
+          <Text style={[settingsStyles.label, { color: theme.text }]}>{benchmark.label}</Text>
+          <Text style={[settingsStyles.caption, { color: theme.textSecondary }]}>{t(benchmark.detail)}</Text>
+        </View>
+        <Switch
+          accessibilityLabel={benchmark.label}
+          disabled={!isOn && enabled.length >= MAX_BENCHMARKS}
+          onValueChange={(value) => setBenchmark(benchmark.id, value)}
+          thumbColor={theme.onAccent}
+          trackColor={{ true: theme.accent, false: theme.selected }}
+          value={isOn}
+        />
+      </View>
+    );
+  });
+
   return (
     <SettingsGroup
       title={t('Benchmarks')}
+      summary={summary}
       footer={t('Up to {max} at a time, so every line stays distinguishable. Rate-based ones are drawn dashed.', {
         max: MAX_BENCHMARKS,
       })}>
-      {BENCHMARKS.map((benchmark) => {
-        const isOn = enabled.includes(benchmark.id);
-        return (
-          <View key={benchmark.id} style={[settingsStyles.row, styles.row]}>
-            <Swatch color={theme.benchmarks[benchmark.id]} isDashed={benchmark.isRate} />
-            <View style={styles.text}>
-              <Text style={[settingsStyles.label, { color: theme.text }]}>{benchmark.label}</Text>
-              <Text style={[settingsStyles.caption, { color: theme.textSecondary }]}>{t(benchmark.detail)}</Text>
-            </View>
-            <Switch
-              accessibilityLabel={benchmark.label}
-              disabled={!isOn && enabled.length >= MAX_BENCHMARKS}
-              onValueChange={(value) => setBenchmark(benchmark.id, value)}
-              thumbColor={theme.onAccent}
-              trackColor={{ true: theme.accent, false: theme.selected }}
-              value={isOn}
-            />
-          </View>
-        );
-      })}
+      {rows}
     </SettingsGroup>
   );
 }

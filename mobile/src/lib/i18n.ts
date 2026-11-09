@@ -415,6 +415,7 @@ const portuguese = {
   "B3's real-estate fund (FII) index, with distributions reinvested. Starts Dec 2010.":
     'Índice de fundos imobiliários (FII) da B3, com rendimentos reinvestidos. Começa em dez/2010.',
   Benchmarks: 'Indicadores',
+  'No benchmarks selected': 'Nenhum indicador selecionado',
   Bills: 'Contas',
   Bonds: 'Renda fixa',
   Cancel: 'Cancelar',
