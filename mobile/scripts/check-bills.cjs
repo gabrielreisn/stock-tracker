@@ -11,15 +11,20 @@ function load(relative) {
     compilerOptions: { module: ts.ModuleKind.CommonJS, esModuleInterop: true, target: ts.ScriptTarget.ES2022 },
   }).outputText;
   const exports = {};
-  vm.runInNewContext(compiled, { exports, require: createRequire(file) }, { filename: file });
+  // Model the app runtime, where these newer Array methods are unavailable.
+  const context = vm.createContext({ exports, require: createRequire(file) });
+  vm.runInContext('Array.prototype.toSorted = undefined; Array.prototype.toReversed = undefined;', context);
+  vm.runInContext(compiled, context, { filename: file });
   return exports;
 }
 const { createDemoData } = load('../src/data/demo/index.ts');
-const { classifyExpenses, recurringBills, upcomingBills, dueDate, daysBetween, billKey, financing } = load('../src/lib/bills.ts');
+const { classifyExpenses, recurringBills, upcomingBills, dueDate, daysBetween, billKey, financing, trackablePayments } = load('../src/lib/bills.ts');
 const today = 20261109;
 const data = createDemoData(today);
 const expenses = classifyExpenses(data);
+const originalExpenses = JSON.stringify(expenses);
 const bills = recurringBills(expenses, {}, today);
+assert.equal(JSON.stringify(expenses), originalExpenses, 'recurrence detection preserves input order');
 assert.equal(bills.length, 4, 'demo detects utilities and condominium, excluding card payments');
 assert.ok(bills.every((b) => b.usual > 0 && !b.lastPayment.isCard));
 assert.ok(bills.some((b) => b.name.includes('ENEL')));
@@ -55,7 +60,12 @@ assert.notEqual(utilityAt(20261201, { paidByHand: [202611] }).status, 'paid', 'm
 const onePayment = unpaidRows.filter((e) => billKey(e) === key).slice(0, 1);
 assert.equal(recurringBills(onePayment, {}, today).length, 0);
 assert.equal(recurringBills(onePayment, { [key]: { tracked: true } }, today).length, 1);
+const originalBills = JSON.stringify(bills);
 const upcoming = upcomingBills(bills, today);
+const candidates = trackablePayments(expenses, bills, {}, today);
+assert.ok(candidates.size > 0, 'tracking picker works without modern Array methods');
+assert.equal(JSON.stringify(expenses), originalExpenses, 'tracking picker preserves input order');
+assert.equal(JSON.stringify(bills), originalBills, 'upcoming sorting preserves recurring bills');
 assert.ok(upcoming.every((b) => b.status === 'late' || daysBetween(today, b.nextDue) <= 30));
 assert.equal(upcomingBills([{ ...utility, status: 'paid', nextDue: 20270101 }], today).length, 0);
 
