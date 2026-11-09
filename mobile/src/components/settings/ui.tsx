@@ -1,9 +1,16 @@
 import { SymbolView } from 'expo-symbols';
 import { Children, Fragment, isValidElement, useState, type ReactNode } from 'react';
-import { Linking, Pressable, StyleSheet, Text, View } from 'react-native';
+import { Keyboard, Linking, Pressable, StyleSheet, Text, View, type LayoutChangeEvent } from 'react-native';
+import Animated, { Easing, ReduceMotion, useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
 
 import { Spacing } from '@/constants/theme';
 import { useTheme } from '@/hooks/use-theme';
+
+const disclosureAnimation = {
+  duration: 240,
+  easing: Easing.out(Easing.cubic),
+  reduceMotion: ReduceMotion.System,
+};
 
 export function SettingsGroup({
   title,
@@ -20,6 +27,24 @@ export function SettingsGroup({
   const [isExpanded, setIsExpanded] = useState(false);
   const isCollapsible = summary !== undefined;
   const showContent = !isCollapsible || isExpanded;
+  const contentHeight = useSharedValue(0);
+  const arrowStyle = useAnimatedStyle(() => ({
+    transform: [{ rotate: withTiming(isExpanded ? '90deg' : '0deg', disclosureAnimation) }],
+  }));
+  const contentStyle = useAnimatedStyle(() => ({
+    height: withTiming(isExpanded ? contentHeight.get() : 0, disclosureAnimation),
+    opacity: withTiming(isExpanded ? 1 : 0, disclosureAnimation),
+  }));
+
+  function toggleExpanded() {
+    if (isExpanded) Keyboard.dismiss();
+    setIsExpanded((expanded) => !expanded);
+  }
+
+  function measureContent(event: LayoutChangeEvent) {
+    contentHeight.set(event.nativeEvent.layout.height);
+  }
+
   const rows = Children.toArray(children).map((child, index) => (
     <Fragment key={isValidElement(child) ? child.key : String(child)}>
       {index > 0 && <View style={[styles.separator, { backgroundColor: theme.selected }]} />}
@@ -33,32 +58,39 @@ export function SettingsGroup({
   );
 
   return (
-    <View style={styles.group}>
+    <View>
       {isCollapsible ? (
         <Pressable
           accessibilityRole="button"
           accessibilityLabel={title}
           accessibilityValue={{ text: summary }}
           accessibilityState={{ expanded: isExpanded }}
-          onPress={() => setIsExpanded((expanded) => !expanded)}
+          onPress={toggleExpanded}
           style={({ pressed }) => [styles.disclosure, { backgroundColor: theme.surface }, pressed && styles.pressed]}>
           <View style={styles.disclosureText}>
             {titleLabel}
             <Text style={[settingsStyles.caption, { color: theme.textSecondary }]}>{summary}</Text>
           </View>
-          <SymbolView
-            name={isExpanded ? { ios: 'chevron.down', android: 'expand_more' } : { ios: 'chevron.right', android: 'chevron_right' }}
-            size={18}
-            tintColor={theme.textSecondary}
-          />
+          <Animated.View style={arrowStyle}>
+            <SymbolView
+              name={{ ios: 'chevron.right', android: 'chevron_right' }}
+              size={18}
+              tintColor={theme.textSecondary}
+            />
+          </Animated.View>
         </Pressable>
       ) : titleLabel}
-      {showContent && (
-        <>
+      <Animated.View
+        accessibilityElementsHidden={!showContent}
+        importantForAccessibility={showContent ? 'auto' : 'no-hide-descendants'}
+        pointerEvents={showContent ? 'auto' : 'none'}
+        style={isCollapsible ? [styles.contentClip, contentStyle] : undefined}>
+        {/* Keep form fields mounted so collapsing preserves unfinished edits. */}
+        <View onLayout={measureContent} style={[styles.content, isCollapsible && styles.measuredContent]}>
           <View style={[styles.card, { backgroundColor: theme.surface }]}>{rows}</View>
           <Text style={[styles.footer, { color: theme.textSecondary }]}>{footer}</Text>
-        </>
-      )}
+        </View>
+      </Animated.View>
     </View>
   );
 }
@@ -137,8 +169,18 @@ export const settingsStyles = StyleSheet.create({
 });
 
 const styles = StyleSheet.create({
-  group: {
+  content: {
+    paddingTop: Spacing.two,
     gap: Spacing.two,
+  },
+  contentClip: {
+    overflow: 'hidden',
+  },
+  measuredContent: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
   },
   groupTitle: {
     fontSize: 20,
