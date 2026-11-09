@@ -1,7 +1,7 @@
 # Cymba for iOS and Android
 
-The mobile client: an [Expo](https://docs.expo.dev) app (SDK 58, TypeScript, Expo Router). So far it's the shell, with
-the four tabs and, in Settings, the benchmarks and the Open Finance connections.
+The mobile client: an [Expo](https://docs.expo.dev) app (SDK 58, TypeScript, Expo Router). It has four tabs, the
+Insights screen under Finances, and benchmarks and Open Finance connections in Settings.
 
 ## Develop
 
@@ -12,6 +12,8 @@ pnpm install
 pnpm ios        # or: pnpm android
 pnpm lint
 pnpm typecheck
+pnpm check:demo
+pnpm check:insights
 ```
 
 `ios/` and `android/` are generated and ignored by git: change native settings in `app.json`, not there. After adding a
@@ -38,6 +40,18 @@ The tabs group the macOS sidebar, which has too many sections for a phone:
 Open Finance works as on macOS: each user brings their own Pluggy application, and the app talks to `api.pluggy.ai`
 directly, with Pluggy's own `react-native-pluggy-connect` for the Connect widget. The client secret stays in the iOS Keychain or Android Keystore (`expo-secure-store`); everything else in
 Settings is plain preferences (`expo-sqlite/kv-store`).
+
+## Insights
+
+Open **Finances → Insights** to explore the isolated demo account. The screen mirrors the macOS yearly summaries,
+monthly spending chart (category focus, trend and limits), category trends and twelve-month table. Tap a chart month
+for its value, tap a category to focus the chart, and swipe the chart or table horizontally for the full year. The year
+selector covers the current and previous two years. English/Portuguese strings and light/dark themes follow the device.
+
+`src/lib/insights.ts` classifies the demo transactions and derives yearly analytics without network or storage access.
+Averages and least-squares trends use completed months; installments are assigned to their billing months.
+`pnpm check:insights` verifies fixture totals, exclusions, overrides, currency handling, installments and trend boundaries.
+Personal-account selection and persistence remain future work, as described in the data guide.
 
 ## Release
 
