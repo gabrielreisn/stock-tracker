@@ -1,7 +1,8 @@
-import { useState, type ReactNode } from 'react';
+import { loadTransactionMonth } from '@/lib/pluggy-store';
+import { useEffect, useState, type ReactNode } from 'react';
 import { Modal, Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
 
-import { createDemoData } from '@/data/demo';
+import { accountStore } from '@/lib/account-store';
 import { useTheme } from '@/hooks/use-theme';
 import { t } from '@/lib/i18n';
 import { buildYearData, classifyExpenses, finishedAverage, spendingTrend, type Focus, type MonthPoint } from '@/lib/insights';
@@ -13,19 +14,30 @@ export function InsightsScreen() {
   const { fontScale } = useWindowDimensions();
   // Both halves share row heights, including when category labels wrap at larger text sizes.
   const tableRowStyle = { height: Math.max(48, Math.ceil(36 * fontScale + 12)), borderColor: theme.selected };
-  const [today] = useState(() => new Date());
+  const today = new Date();
   const currentYear = today.getFullYear();
   const currentMonth = currentYear * 100 + today.getMonth() + 1;
-  const [demo] = useState(() => createDemoData(currentYear * 10000 + (today.getMonth() + 1) * 100 + today.getDate()));
+  const { data: account } = accountStore.useValue();
   const [year, setYear] = useState(currentYear);
+  useEffect(function loadSelectedYear() {
+    let active = true;
+    async function load() {
+      for (let month = 1; month <= 12; month += 1) {
+        if (!active || year * 100 + month > currentMonth) return;
+        await loadTransactionMonth(year * 100 + month);
+      }
+    }
+    void load();
+    return () => { active = false; };
+  }, [year, currentMonth]);
   const [focus, setFocus] = useState<Focus>('all');
   const [selectedMonth, setSelectedMonth] = useState<number>();
   const [choosingCategory, setChoosingCategory] = useState(false);
-  const expenses = classifyExpenses(demo.transactions, demo.expenses);
-  const data = buildYearData(expenses, demo.expenses, year, currentMonth);
-  const focusedCategory = demo.expenses.categories.find((category) => category.id === focus);
+  const expenses = classifyExpenses(account.transactions, account.expenses);
+  const data = buildYearData(expenses, account.expenses, year, currentMonth);
+  const focusedCategory = account.expenses.categories.find((category) => category.id === focus);
   const focusName = focus === 'all' ? t('All categories') : categoryName(focusedCategory?.name);
-  const limit = focus === 'all' ? demo.expenses.totalLimit : focusedCategory?.limit;
+  const limit = focus === 'all' ? account.expenses.totalLimit : focusedCategory?.limit;
   const series = data.series(focus);
   const balance = data.totalIncome - data.totalSpent;
   const subtitleStyle = { color: theme.textSecondary };
@@ -84,7 +96,7 @@ export function InsightsScreen() {
   });
   const totalCells = data.yearMonths.map((month) => {
     const amount = data.monthTotal(month);
-    const color = demo.expenses.totalLimit !== undefined && amount > demo.expenses.totalLimit ? '#dc4545' : theme.text;
+    const color = account.expenses.totalLimit !== undefined && amount > account.expenses.totalLimit ? '#dc4545' : theme.text;
     return <Text key={month} style={[styles.cell, styles.bold, { color }]}>{wholeAmount(amount)}</Text>;
   });
   const empty = <Text style={[styles.empty, subtitleStyle]}>{t('No spending this year.')}</Text>;
@@ -92,17 +104,17 @@ export function InsightsScreen() {
   return <>
     <ScrollView style={{ backgroundColor: theme.background }} contentContainerStyle={styles.content}>
       <View style={styles.header}>
-        <Text style={[styles.demo, { color: theme.accent }]}>{t('Demo account')}</Text>
+        <Text style={[styles.demo, { color: theme.accent }]}>{t('Personal account')}</Text>
         <View style={styles.yearPicker}>
           <YearButton label={t('Previous year')} symbol="‹" disabled={year <= currentYear - 2} onPress={() => changeYear(year - 1)} />
           <Text style={[styles.year, { color: theme.text }]}>{year}</Text>
           <YearButton label={t('Next year')} symbol="›" disabled={year >= currentYear} onPress={() => changeYear(year + 1)} />
         </View>
       </View>
-      <Text style={[styles.caption, subtitleStyle]}>{t('Demo data · no bank connection required')}</Text>
+      <Text style={[styles.caption, subtitleStyle]}>{t('Your connected accounts')}</Text>
       <View style={styles.tiles}>
         <Summary title={t('Spent in the year')} value={money(data.totalSpent)} detail={t('over {count} months', { count: data.months.length })} />
-        <Summary title={t('Average per month')} value={money(data.averageSpent)} detail={demo.expenses.totalLimit === undefined ? undefined : t('limit {amount}', { amount: money(demo.expenses.totalLimit) })} />
+        <Summary title={t('Average per month')} value={money(data.averageSpent)} detail={account.expenses.totalLimit === undefined ? undefined : t('limit {amount}', { amount: money(account.expenses.totalLimit) })} />
         <Summary title={t('Income')} value={money(data.totalIncome)} />
         <Summary title={t('Balance')} value={money(balance)} color={balance >= 0 ? theme.success : '#dc4545'} />
         <Summary title={t('Highest month')} value={data.highestMonth ? money(data.highestMonth.amount) : '—'} detail={data.highestMonth ? monthName(data.highestMonth.month, true) : undefined} wide />

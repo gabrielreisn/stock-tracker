@@ -41,7 +41,7 @@ export function BondForm({ bond, valuation, onClose }: { bond: Bond | null; valu
         <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : 'height'} style={styles.root}>
           <View style={styles.header}><Title>{t(bond ? 'Edit bond' : 'Add bond')}</Title><ActionButton title={t('Cancel')} onPress={onClose} /></View>
           <ScrollView keyboardShouldPersistTaps="handled" contentContainerStyle={s.content}>
-            <Label secondary>{t('Demo edits last for this session only.')}</Label>
+            <Label secondary>{t('Changes are saved on this device.')}</Label>
             {bond && <Card>{details}</Card>}
             <Label>{t('Type')}</Label><Choices values={BOND_KINDS} selected={draft.kind} onChange={v => change('kind', v)} label={v => v} />
             <Field label="Issuer" value={draft.issuer} onChange={v => change('issuer', v)} placeholder="Banco Pine S/A" />

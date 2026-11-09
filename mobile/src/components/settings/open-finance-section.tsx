@@ -200,7 +200,7 @@ export function OpenFinanceSection() {
   const [connecting, setConnecting] = useState<{ updating: string | null } | null>(null);
   const configured = isConfigured(state);
 
-  useEffect(syncIfNeeded, []);
+  useEffect(function refreshOpenFinanceWhenOpened() { void syncIfNeeded(); }, []);
 
   return (
     <>

@@ -16,7 +16,7 @@ import { useTheme } from '@/hooks/use-theme';
 import {
   dayInput,
   deleteFund,
-  demoFunds,
+  fundStore,
   formatCNPJ,
   fundPurpose,
   parseDay,
@@ -30,7 +30,7 @@ import type { FundHolding, FundHoldingKind, FundPurpose } from '@/types';
 
 export default function FundEditorScreen() {
   const { id } = useLocalSearchParams<{ id: string }>();
-  const { holdings } = demoFunds.useValue();
+  const { holdings } = fundStore.useValue();
   const holding = holdings.find((fund) => fund.id === id);
   if (id !== 'new' && !holding) return <MissingFund />;
   return <FundEditor key={id} holding={holding} />;
@@ -67,7 +67,7 @@ function FundEditor({ holding }: { holding?: FundHolding }) {
   const parsedQuantity = parseDecimal(quantity);
   const parsedPrice = price.trim() ? parseDecimal(price) : undefined;
   const parsedDate = parseDay(date);
-  const duplicate = demoFunds
+  const duplicate = fundStore
     .get()
     .holdings.some((fund) => fund.cnpj === digits && fund.id !== holding?.id);
   const valid =
@@ -129,7 +129,7 @@ function FundEditor({ holding }: { holding?: FundHolding }) {
     saveFund({
       id:
         holding?.id ??
-        `demo-fund-${Date.now()}-${Math.random().toString(36).slice(2)}`,
+        `fund-${Date.now()}-${Math.random().toString(36).slice(2)}`,
       cnpj: digits,
       name: name.trim(),
       kind,
@@ -174,7 +174,7 @@ function FundEditor({ holding }: { holding?: FundHolding }) {
           {t(holding ? 'Edit fund' : 'Add fund')}
         </Text>
         <Text style={[styles.caption, { color: theme.textSecondary }]}>
-          {t('Demo account · Changes last for this session.')}
+          {t('Personal account · saved on this device.')}
         </Text>
         {renderedFields}
         {duplicate && (

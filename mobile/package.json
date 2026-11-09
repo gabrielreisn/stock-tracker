@@ -11,6 +11,7 @@
     "lint": "expo lint",
     "typecheck": "tsc --noEmit",
     "check:pluggy": "node scripts/check-pluggy.cjs",
+    "check:open-finance": "node scripts/check-open-finance.cjs && node scripts/check-open-finance-refresh.cjs",
     "check:insights": "node scripts/check-insights.cjs",
     "check:fgc": "node scripts/check-fgc.cjs",
     "check:demo": "node scripts/check-demo.cjs",
@@ -19,11 +20,11 @@
     "check:bonds": "node scripts/check-bonds.cjs",
     "check:funds": "node scripts/check-funds.cjs",
     "check:overview": "node scripts/check-overview.cjs",
-
     "check:stocks": "node scripts/check-stocks.cjs"
   },
   "dependencies": {
     "expo": "~58.0.23",
+    "expo-background-task": "~58.0.12",
     "expo-constants": "~58.0.15",
     "expo-font": "~58.0.11",
     "expo-image": "~58.0.18",
@@ -36,6 +37,7 @@
     "expo-status-bar": "~58.0.4",
     "expo-symbols": "~58.0.4",
     "expo-system-ui": "~58.0.7",
+    "expo-task-manager": "~58.0.13",
     "react": "19.3.0",
     "react-native": "0.88.1",
     "react-native-gesture-handler": "~3.3.0",

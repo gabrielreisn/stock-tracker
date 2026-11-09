@@ -5,7 +5,7 @@ import { ActionButton } from '@/components/settings/ui';
 import { StockPerformance } from '@/components/stocks/performance';
 import { StockForm } from '@/components/stocks/stock-form';
 import { useTheme } from '@/hooks/use-theme';
-import { removeDemoStock, useStockTrades } from '@/lib/demo-stock-store';
+import { removeStock, useStockTrades } from '@/lib/stock-store';
 import { language, t, type StringKey } from '@/lib/i18n';
 import { percent } from '@/lib/stock-performance';
 import { closeBefore, holdingMetrics, isB3Stock, sortStocks, stockCurrency, stockHoldings } from '@/lib/stocks';
@@ -25,7 +25,7 @@ function HoldingCard({ holding, quotes, onEdit }: { holding: StockHolding; quote
     [t('Gain'), `${percent(metrics.gain)} · ${money(gainMoney, currency)}`], [t('Today'), percent(metrics.today)], [t('YTD'), percent(metrics.ytd)],
   ];
   const details = fields.map(([label, value]) => <View key={label} style={styles.row}><Label secondary>{label}</Label><Label>{value}</Label></View>);
-  function remove() { Alert.alert(t('Remove stock?'), h.ticker, [{ text: t('Cancel'), style: 'cancel' }, { text: t('Remove'), style: 'destructive', onPress: () => removeDemoStock(h.ticker) }]); }
+  function remove() { Alert.alert(t('Remove stock?'), h.ticker, [{ text: t('Cancel'), style: 'cancel' }, { text: t('Remove'), style: 'destructive', onPress: () => removeStock(h.ticker) }]); }
   return <Card><Title>{h.ticker} · {isB3Stock(h.ticker) ? 'B3' : 'US'}</Title>{quote?.history.name && <Label secondary>{quote.history.name}</Label>}{details}
     {quote?.asOf && <Label secondary>{t('Price as of')} {new Date(quote.asOf).toLocaleString()}</Label>}
     <View style={styles.actions}><ActionButton title={t('Edit stock')} onPress={onEdit} /><ActionButton title={t('Remove')} onPress={remove} /></View></Card>;
@@ -70,7 +70,7 @@ export function StocksScreen() {
   function saved() { setEditor(null); }
   const editedHolding = editor && editor !== 'new' ? editor : undefined;
   return <KeyboardAvoidingView behavior="padding" style={[styles.root, { backgroundColor: theme.background }]}><ScrollView keyboardShouldPersistTaps="handled" contentContainerStyle={styles.content} refreshControl={<RefreshControl refreshing={market.loading} onRefresh={refresh} />}>
-    <Label secondary>{t('Demo account · edits reset when the app restarts.')}</Label>
+    <Label secondary>{t('Personal account · saved on this device.')}</Label>
     <Card><Title>{t('Stocks')} · {holdings.length}</Title><Label>{t('Total value')}: {money(total)}</Label><Label secondary>{t('Quotes may be delayed. Pull to refresh. Missing prices are excluded from totals by showing —.')}</Label>
       {market.failed.length > 0 && <><Label secondary>{t('Some market data could not be refreshed. Previous quotes, if any, remain visible.')}: {market.failed.join(', ')}</Label><ActionButton title={t('Retry')} onPress={refresh} isDisabled={market.loading} /></>}
       <ActionButton title={t('Add stock')} onPress={() => setEditor('new')} />

@@ -1,159 +1,61 @@
-# Data contracts for mobile screens
+# Mobile account data
 
-Import shared types from `@/types`. These are TypeScript compile-time contracts, not runtime
-validators. They mirror the fields consumed by `macOS/Sources/StockBar/{Models,Bonds,
-FundHoldings,Expenses,Pluggy}.swift`. Keep domain types here rather than declaring a second
-version inside a screen. Existing `pluggy-client` and `benchmarks` type exports remain compatible.
+Production screens consume one reactive `accountStore` from `@/lib/account-store`, backed by
+`expo-sqlite/kv-store` under `personal-account-v1`. It starts with empty holdings, transactions,
+bills and loans, plus the desktop default category names/keywords without demonstration limits.
+The previous demo stores were session-only, so replacing them clears their synthetic data
+without touching Pluggy client credentials or saved Item IDs.
 
-```ts
-import { createDemoData } from '@/data/demo';
-import type { Bond, ExpenseSettings, FundHolding, PluggyTransaction, Trade } from '@/types';
+`expenseStore` and `fundStore` are adapters to that account, not separate copies. `stock-store`,
+`bond-store` and `bills-store` also share it. All writes persist before notifying React subscribers.
+Use these APIs rather than creating independent screen state for financial records.
 
-const demo = createDemoData(); // fresh, editable in-memory account
-const preview = createDemoData(20261109); // deterministic YYYYMMDD date for previews
-```
+`pluggy-store` saves accounts, Items, investments and the successful refresh timestamp separately
+under `pluggy-cache-v1`. Each connection is replaced only after a complete accounts/investments
+response from an UPDATED Item. Failed/incomplete connections retain their prior snapshot.
+Transaction, card-bill and loan requests also keep their previous data on failure. A generation
+check discards in-flight responses after credentials or connections are removed.
 
-The factory returns `trades`, `bonds`, `fundHoldings`, `alerts`, `expenses`, and `transactions`.
-`transactions` contains `months`, `accounts`, `fetchedAt`, and `currencyRead`. It performs no
-network or storage operations. Screens can consume it independently; wiring a demo/personal
-account selector and persistent stores is future work. Never merge this account into the
-personal Pluggy store or sync its synthetic item IDs.
+`open-finance.ts` imports open positions: stocks/ETFs by ticker with weighted acquisition costs,
+bonds by code and reported issue/maturity/rate terms, funds by CNPJ. Records beginning with
+`pluggy-` are managed by reconciliation. Other manual positions survive unrelated syncs.
+Explicitly closed positions and positions absent from a complete updated snapshot are removed;
+reported positions with temporarily incomplete terms retain existing imported holdings. Unknown
+or unsupported records remain visible in Open Finance. A gross balance alone is never treated
+as a stock's acquisition cost. Snapshot imports do not invent historical trades.
 
-## Fixtures and dates
+`pluggy-refresh.ts` defines the native background task at module scope and registers it with a
+360-minute minimum interval. Root navigation installs the foreground freshness checks. Native
+packages are loaded only when present, so Expo Go and older binaries can continue running.
+The OS determines the actual background schedule; the six-hour foreground check is the fallback.
 
-The six JSON files in `demo/` are byte-for-byte copies of `macOS/Resources/Demo/`, generated
-there by `macOS/scripts/demo-data.py`. They contain 18 trades, six bonds, five fund holdings,
-two alerts, 15 expense categories, two accounts, and 24 months of transactions ending October
-2026. To refresh, copy those six files again and run `pnpm check:demo`. Update
-`DEMO_BASE_MONTH` if the source's final transaction month changes.
+## Contracts and formats
 
-The loader follows `DataAccount.prepareDemo`: move transaction months and card purchase dates
-by the same offset so the last month is the requested month, clamp days to the destination
-month's end, and exclude transactions after today. It preserves IDs, time suffixes, and original
-trade/bond/fund dates. Categories keep their English source names for the UI to translate.
+Import shared TypeScript contracts from `@/types`. They are compile-time contracts, not runtime
+validators. They mirror the fields consumed by macOS Models, Bonds, FundHoldings, Expenses and
+Pluggy. `AccountData` extends the original fixture-shaped contract with `cardBills` and `loans`.
 
 | Representation | Meaning |
 | --- | --- |
-| `DayKey` | Number `YYYYMMDD`; calendar date, not epoch time |
-| `MonthKey` | Number `YYYYMM`; JSON dictionary keys are strings |
-| `ISODateString` | Trade and Pluggy dates, e.g. `2024-02-14T15:00:00Z` |
-| `AppleTimestamp` | Seconds since 2001-01-01 UTC; convert with `new Date((value + 978307200) * 1000)` |
+| `DayKey` | Calendar number YYYYMMDD, not epoch time |
+| `MonthKey` | Calendar number YYYYMM; JSON object keys use strings |
+| `ISODateString` | Trade, alert and Pluggy date strings |
+| `AppleTimestamp` | Cache seconds since 2001-01-01 UTC; convert using `(value + 978307200) * 1000` |
 
-`fetchedAt` uses the desktop's future demo marker (4,000,000,000 Apple seconds), not the current
-fetch time. An alert's optional `triggeredAt` uses ISO 8601, like trades (`PortfolioStore.saveAlerts`). JSON sets are arrays.
-`ExpenseOverride` preserves Swift's associated-value JSON (`{ category: { _0: id } }`,
-`{ outside: {} }`, or `{ deleted: {} }`). Missing optional domain fields are omitted; nullable
-Pluggy API fields may also be explicit `null`. `Expense` is a derived UI row; its `foreign.conversion`
-uses a TypeScript discriminated union rather than a persisted Swift encoding.
+Amounts use decimal currency units; bond rates are percentages, while expense `alertAt` is a
+fraction. CNPJs and identifiers stay strings. Classify bank/card transactions using account and
+transaction type before normalizing amount signs. Expense overrides preserve Swift's
+associated-value JSON: `{category:{_0:id}}`, `{outside:{}}`, or `{deleted:{}}`. JSON sets are arrays.
+Optional Pluggy fields may be omitted or null. Foreign purchases without a bank-provided BRL
+conversion remain marked as unavailable rather than being added to BRL totals.
 
-## Amounts and incomplete data
+## Regression fixtures
 
-Amounts are decimal currency units. Trades and alerts use the ticker's currency; bonds are BRL.
-CNPJs, account numbers and IDs stay strings. Bond rates are percentages (13.2 means 13.2%);
-expense `alertAt` is a fraction (0.8 means 80%).
+`demo/` contains byte-for-byte copies of the six macOS demo JSON files and a date-shifting
+`createDemoData()` factory, exclusively for regression tests and deliberate previews. No runtime
+screen/store imports that factory. Refresh fixtures from `macOS/Resources/Demo/` and run
+`pnpm check:demo`; update `DEMO_BASE_MONTH` if the source's final month changes.
 
-Bank transaction debits leave the account and credits enter it. Card debits are purchases;
-credits are refunds or bill payments. The source contains negative bank debits and positive
-card debits: classify using account type and transaction type before normalizing amounts.
-Do not treat every negative amount as spending. Categories/rules/overrides still need a
-classification layer; the factory doesn't derive `Expense` rows.
-
-Demo holdings are inputs, not valuations: fetch public price histories, CDI/IPCA and CVM prices
-or supply explicit UI placeholders. The fixtures do not contain derived returns, stock holdings,
-closed card bills, loans, dividend calendars or market caches. `PluggyBill` and `PluggyLoan`
-types describe future live data, not invented demo records.
-
-`pnpm check:demo` checks source parity, literal fixture compatibility with the contracts, account
-references, date shifting (including February/leap years), future filtering, and copy isolation.
-
-## Bills screen
-
-Finances → Bills consumes a separate in-memory demo account. Its classification and recurring
-bill derivation live in `src/lib/bills.ts`; choices live in `demo-bills-store.ts` for the app
-session only. It follows the desktop's 2-of-3-month detection, median payment day, three-day
-grace period, monthly paid markers and month-end clamping. Pull to refresh advances the demo
-if the calendar day changed. Closed card bills and loans show empty states because the
-fixtures do not include those records. Run `pnpm check:bills` for the behavior checks.
-
-## Categories & limits preview
-
-Open **Finances → Categories & limits** to edit the demo account's monthly limits, warning
-threshold, large-purchase warning, and categories. Edits survive navigation in memory and reset
-when the app restarts; they never read or write the personal Pluggy account. Warnings appear
-in the screen rather than scheduling device notifications.
-
-`src/lib/expenses.ts` derives spending using account direction, exclusions, rules, overrides,
-and installment months. History suggestions match macOS: the previous three months' average
-plus 10%, rounded up to R$ 10, with the total limit set to the sum of category limits. Missing
-foreign-currency conversions contribute zero rather than treating foreign amounts as reais.
-Run `pnpm check:expenses` to verify classification, suggestions, deletion cleanup, thresholds,
-and Brazilian amount parsing.
-
-## Overview
-
-The Overview tab uses the same session-only trades, bonds and funds edited in
-Investments. It loads public Yahoo adjusted closes (US stocks and S&P 500 converted with
-USD/BRL) and Banco Central CDI/IPCA. Pull to refresh or use **Refresh market data** to retry.
-No personal account or Pluggy store is read. The selected range is saved on the device.
-
-Totals, allocation and the ten largest positions use available gross BRL valuations.
-Unknown prices show in **Awaiting valuation** and are excluded from the explicitly labeled
-known-value subtotal and allocation. Funds use a dated statement price when provided in the
-Funds screen; CVM history downloading is not implemented on mobile, so the original demo
-funds have unavailable valuations. Statement-only funds contribute no return history.
-
-The return curve follows macOS's daily previous-value weighting of today's holdings; bonds
-join on issue and stop at maturity. Missing histories are excluded, never zero-filled.
-Benchmark overlays follow Settings, including CDI's prior-day accrual and calendar-day IPCA
-proration. Run `pnpm check:overview` for aggregation, FX, missing data, date boundaries,
-statement valuation, chain linking and benchmark checks.
-
-## Stocks preview
-
-Open **Investments → Stocks** for the isolated demo portfolio. Add, edit, and remove
-holdings for the current app session. Adding an existing ticker combines quantities and
-weighted average prices; editing folds trades into a single holding like macOS.
-
-Public Yahoo prices and adjusted histories drive holdings and BRL performance; US
-positions require USD/BRL. Pull to refresh retries failed requests, retaining prior quotes
-with their timestamps. Incomplete totals and performance show unavailable states. The
-chart uses today's quantities and Settings benchmarks (CDI/IPCA from BCB; S&P 500 and
-IBOV from Yahoo). IFIX history is unavailable in this preview. Monthly inflation uses
-published observations without projecting missing months.
-
-Dividends use Yahoo ex-date events times current shares, converted at historical FX,
-before tax. They are not confirmed receipts or a B3 payment calendar; upcoming payments
-remain unavailable. No synthetic prices, returns or dividends are added to the fixtures.
-Run `pnpm check:stocks` for holdings, editing, returns, FX, sorting and quote parsing checks.
-
-## FGC Watcher
-
-Open **Investments → FGC Watcher**. It shares the session-only demo bond store and valuation
-engine with Bonds; tap a bond to edit its issuer/CNPJ or terms. It never syncs synthetic
-holdings with personal Open Finance. Public CDI/IPCA histories supply gross valuations and
-maturity estimates. Missing histories leave affected groups and summary totals blank.
-
-The latest published Banco Central IF.data quarter groups CNPJ roots into prudential
-conglomerates, with a 30-day in-memory cache. When unavailable, the screen marks the
-CNPJ-root/name fallback as provisional and offers Retry. Missing CNPJs also show a warning.
-Only issued, unexpired CDB, LC, LCI and LCA enter exposure totals; unsupported bonds appear
-separately. The overall percentage follows the desktop's sum of per-group capped exposure;
-prior FGC claims are not tracked. Run `pnpm check:fgc` for grouping, limit boundaries, demo
-totals, missing valuations and API fallback checks.
-
-## Expenses
-
-Open **Finances → Expenses** to browse the demo account by month. Spending, Income,
-To review and Not spending filters support store/description search and ascending or
-descending date, store, description, source, category and amount sorting. Tap a row to
-choose a category, apply a rule to the same merchant across months, move it out of spending,
-track bank payments in Bills, or delete it. Add purchase accepts a calendar date, store,
-positive BRL value (`25,90`) and optional category. Imported deletions remain hidden;
-manual purchases are removed. All edits last only for the app session.
-
-Categories and limits share `demoExpenseStore` with this screen. Bill tracking uses the
-existing separate Bills demo account. Installments count in their billed month. Foreign
-amounts use the bank's BRL conversion when supplied; otherwise the row is marked unavailable
-and excluded from the displayed totals. This preview does not fetch exchange rates or sync
-personal bank transactions. `pnpm check:expenses` also checks transaction actions, immutable
-store edits, merchant rules and bank payment sources.
+`pnpm check:open-finance` exercises empty migration, imports, weighted prices, local persistence,
+six-hour boundaries, failed-bank retention, incomplete terms, closed positions and connection
+removal during sync. Existing feature checks use synthetic records only.

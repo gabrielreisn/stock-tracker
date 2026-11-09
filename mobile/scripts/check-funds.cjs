@@ -10,25 +10,14 @@ const compiled = ts.transpileModule(source, {
   compilerOptions: { module: ts.ModuleKind.CommonJS },
 }).outputText;
 const api = {};
+let state = { holdings: structuredClone(fixtures) };
+const testStore = { get: () => state, set: patch => { state = { ...state, ...patch }; } };
 vm.runInNewContext(compiled, {
   exports: api,
   require(id) {
-    if (id === '@/data/demo')
-      return {
-        createDemoData: () => ({ fundHoldings: structuredClone(fixtures) }),
-      };
-    if (id === '@/lib/external-store')
-      return {
-        createStore(initial) {
-          let state = initial;
-          return {
-            get: () => state,
-            set: (patch) => {
-              state = { ...state, ...patch };
-            },
-          };
-        },
-      };
+    if (id === '@/lib/account-store') {
+      return { fundStore: testStore };
+    }
     throw new Error(`Unexpected dependency: ${id}`);
   },
 });
@@ -54,7 +43,7 @@ for (const value of [
   'bad',
 ])
   assert.equal(api.parseDay(value), undefined, value);
-const fund = api.demoFunds.get().holdings[0];
+const fund = api.fundStore.get().holdings[0];
 assert.equal(
   api.grossValue(fund),
   undefined,
@@ -63,10 +52,10 @@ assert.equal(
 assert.equal(api.money(undefined), '—');
 api.saveFund({ ...fund, statementPrice: 2.5, statementDay: 20261030 });
 assert.equal(
-  api.grossValue(api.demoFunds.get().holdings[0]),
+  api.grossValue(api.fundStore.get().holdings[0]),
   fund.quantity * 2.5,
 );
-assert.equal(api.demoFunds.get().holdings.length, fixtures.length);
+assert.equal(api.fundStore.get().holdings.length, fixtures.length);
 assert.equal(
   api.fundPurpose({ ...fund, purpose: undefined, name: 'FUNDO INFLAÇÃO' }),
   'inflation',
@@ -83,9 +72,9 @@ assert.equal(api.fundPurpose({ ...fund, purpose: 'equities' }), 'equities');
 assert.equal(api.formatCNPJ('45278833000157'), '45.278.833/0001-57');
 const added = { ...fund, id: 'new-demo-fund', cnpj: '12345678000190' };
 api.saveFund(added);
-assert.equal(api.demoFunds.get().holdings.length, fixtures.length + 1);
+assert.equal(api.fundStore.get().holdings.length, fixtures.length + 1);
 api.deleteFund(added.id);
-assert.equal(api.demoFunds.get().holdings.length, fixtures.length);
+assert.equal(api.fundStore.get().holdings.length, fixtures.length);
 assert.deepEqual(fixtures, original, 'Edits must not mutate source fixtures');
 console.log(
   'Funds checks passed: missing valuations, decimal/date validation, purpose, CRUD and fixture isolation.',

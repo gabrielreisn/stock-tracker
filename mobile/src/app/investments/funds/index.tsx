@@ -6,7 +6,7 @@ import { styles } from '@/components/funds/styles';
 import { ActionButton } from '@/components/settings/ui';
 import { useTheme } from '@/hooks/use-theme';
 import {
-  demoFunds,
+  fundStore,
   formatCNPJ,
   fundPurpose,
   grossValue,
@@ -31,7 +31,7 @@ const palette = [
 
 export default function FundsScreen() {
   const theme = useTheme();
-  const { holdings } = demoFunds.useValue();
+  const { holdings } = fundStore.useValue();
   const [query, setQuery] = useState('');
   const [sort, setSort] = useState<Sort>('Gross value');
   const [ascending, setAscending] = useState(false);
@@ -180,7 +180,7 @@ export default function FundsScreen() {
         />
       </View>
       <Text style={[styles.caption, { color: theme.textSecondary }]}>
-        {t('Demo account · Changes last for this session.')}
+        {t('Personal account · saved on this device.')}
       </Text>
       <View style={[styles.card, { backgroundColor: theme.surface }]}>
         <View style={styles.wrap}>
@@ -250,7 +250,7 @@ export default function FundsScreen() {
       </View>
       <Text style={[styles.caption, { color: theme.textSecondary }]}>
         {t(
-          'Demo holdings have no CVM price history. Enter a statement price to value a fund. Returns require CVM history and remain unavailable. Values are gross, before income tax.',
+          'Values use the latest bank statement. Returns require CVM history. Values are gross, before income tax.',
         )}
       </Text>
     </ScrollView>

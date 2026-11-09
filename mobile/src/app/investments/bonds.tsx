@@ -83,7 +83,7 @@ export default function BondsScreen() {
       style={[styles.root, { backgroundColor: theme.background }]}
       contentInsetAdjustmentBehavior="automatic"
       contentContainerStyle={s.content}>
-    <View style={s.row}><View style={s.column}><Label>{t('Demo account')}</Label><Label secondary>{t('Demo edits last for this session only.')}</Label></View><ActionButton title={t('Add bond')} isPrimary onPress={() => setEditing({ bond: null })} /></View>
+    <View style={s.row}><View style={s.column}><Label>{t('Personal account')}</Label><Label secondary>{t('Changes are saved on this device.')}</Label></View><ActionButton title={t('Add bond')} isPrimary onPress={() => setEditing({ bond: null })} /></View>
     {loading && <Label secondary>{t('Loading CDI and IPCA…')}</Label>}
     {failed && <Card><Label>{t('Rate history is unavailable. Fixed-rate bonds are still valued; other values are left blank.')}</Label><ActionButton title={t('Retry')} onPress={retry} /></Card>}
     {bonds.length === 0 ? <Card><Title>{t('No bonds yet')}</Title><Label secondary>{t('Add CDBs, LCAs and other fixed income with their rate and dates.')}</Label></Card> : <>

@@ -1,6 +1,6 @@
 import { t } from '@/lib/i18n';
 
-import type { PluggyAccount, PluggyInvestment, PluggyItem } from '@/types';
+import type { PluggyAccount, PluggyInvestment, PluggyItem, PluggyTransaction, PluggyBill, PluggyLoan } from '@/types';
 export type { PluggyAccount, PluggyInvestment, PluggyItem } from '@/types';
 
 type Page<T> = { results: T[]; totalPages?: number };
@@ -58,10 +58,10 @@ export function createPluggyClient(clientId: string, clientSecret: string) {
     return send<T>(search ? `${path}?${search}` : path, { headers: { 'X-API-KEY': await key() } });
   }
 
-  async function all<T>(path: string, itemId: string): Promise<T[]> {
+  async function all<T>(path: string, query: Record<string, string>): Promise<T[]> {
     const results: T[] = [];
     for (let page = 1; ; page += 1) {
-      const current = await get<Page<T>>(path, { itemId, page: String(page), pageSize: '500' });
+      const current = await get<Page<T>>(path, { ...query, page: String(page), pageSize: '500' });
       results.push(...current.results);
       if (!current.totalPages || page >= current.totalPages) return results;
     }
@@ -70,8 +70,27 @@ export function createPluggyClient(clientId: string, clientSecret: string) {
   return {
     authenticate: key,
     item: (id: string) => get<PluggyItem>(`items/${id}`),
-    accounts: (itemId: string) => all<PluggyAccount>('accounts', itemId),
-    investments: (itemId: string) => all<PluggyInvestment>('investments', itemId),
+    accounts: (itemId: string) => all<PluggyAccount>('accounts', { itemId }),
+    investments: (itemId: string) => all<PluggyInvestment>('investments', { itemId }),
+    bills: (accountId: string) => all<PluggyBill>('bills', { accountId }),
+    loans: (itemId: string) => all<PluggyLoan>('loans', { itemId }),
+    async transactions(accountId: string, dateFrom: string, dateTo: string): Promise<PluggyTransaction[]> {
+      const results: PluggyTransaction[] = [];
+      const seen = new Set<string>();
+      let after: string | undefined;
+      do {
+        const page = await get<{ results: PluggyTransaction[]; next?: string | null }>('v2/transactions', {
+          accountId, dateFrom, dateTo, ...(after ? { after } : {}),
+        });
+        results.push(...page.results.map(row => ({ ...row, accountId: row.accountId ?? accountId })));
+        const next = page.next;
+        after = next ? new URLSearchParams(next.replace(/^.*\?/, '')).get('after') ?? undefined : undefined;
+        if (next && !after) throw new Error('Pluggy returned an invalid transaction cursor');
+        if (after && seen.has(after)) throw new Error('Pluggy repeated a transaction cursor');
+        if (after) seen.add(after);
+      } while (after);
+      return results;
+    },
 
     /** A 30-minute token for the Connect widget; with `itemId`, it reconnects that item instead of adding one. */
     async connectToken(itemId: string | null, oauthRedirectUri: string): Promise<string> {

@@ -26,7 +26,7 @@ export function stockHoldings(trades: Trade[]): StockHolding[] {
 export function replaceStock(trades: Trade[], ticker: string, quantity: number, price?: number): Trade[] {
   const first = trades.find(trade => trade.ticker === ticker);
   return [...trades.filter(trade => trade.ticker !== ticker), {
-    id: first?.id ?? `demo-stock-${ticker}-${Date.now()}`, ticker, kind: 'buy' as const,
+    id: first?.id ?? `stock-${ticker}-${Date.now()}`, ticker, kind: 'buy' as const,
     date: first?.date ?? new Date().toISOString(), quantity, ...(price === undefined ? {} : { price }),
   }].sort((a, b) => a.date.localeCompare(b.date));
 }

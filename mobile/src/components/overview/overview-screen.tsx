@@ -4,12 +4,12 @@ import { ActivityIndicator, Pressable, RefreshControl, ScrollView, StyleSheet, T
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AllocationDonut, ReturnChart, type ChartLine } from './charts';
-import { useStockTrades } from '@/lib/demo-stock-store';
+import { useStockTrades } from '@/lib/stock-store';
 import { useTheme } from '@/hooks/use-theme';
 import { useEnabledBenchmarks } from '@/lib/benchmarks';
 import { useBonds } from '@/lib/bond-store';
 import { today, money } from '@/lib/bonds';
-import { demoFunds } from '@/lib/funds';
+import { fundStore } from '@/lib/funds';
 import { t } from '@/lib/i18n';
 import { ASSET_CLASSES, ASSET_COLORS, buildOverview, emptyMarket, percent, rangeStart, rebase, RANGES, stockQuantities, type OverviewRange } from '@/lib/overview';
 import { benchmarkLines, fetchOverviewMarket, type OverviewPrices } from '@/lib/overview-market';
@@ -24,7 +24,7 @@ export function OverviewScreen() {
   const bonds = useBonds();
   const trades = useStockTrades();
   const symbols = stockQuantities(trades).map(([ticker]) => ticker).join(',');
-  const { holdings } = demoFunds.useValue();
+  const { holdings } = fundStore.useValue();
   const enabled = useEnabledBenchmarks();
   const [range, setRange] = useState(savedRange);
   const [attempt, setAttempt] = useState(0);
@@ -75,7 +75,7 @@ export function OverviewScreen() {
   return <SafeAreaView edges={['top']} style={[styles.root, { backgroundColor: theme.background }]}>
     <ScrollView contentInsetAdjustmentBehavior="automatic" contentContainerStyle={styles.content} refreshControl={<RefreshControl refreshing={loading} onRefresh={refresh} tintColor={theme.text} />}>
       <Text accessibilityRole="header" style={[styles.title, { color: theme.text }]}>{t('Overview')}</Text>
-      <Label>{t('Demo account')} · {t('Gross values in BRL')}</Label>
+      <Label>{t('Personal account')} · {t('Gross values in BRL')}</Label>
       <Card><Label>{t(partial ? 'Known portfolio value' : 'Total')}</Label><Text style={[styles.total, { color: theme.text }]}>{money(overview.total)}</Text>
         <Text style={{ color: last && last.value >= 0 ? theme.success : theme.textSecondary }}>{last ? `${percent(last.value)} · ${range}` : '—'}</Text>
         {partial && <Label>{t('{count} positions without a valuation', { count: overview.missing })}</Label>}

@@ -6,6 +6,7 @@ const ts = require('typescript');
 
 const requests = [];
 let failToken = false;
+let repeatCursor = false;
 const entry = path.resolve(__dirname, '../src/lib/pluggy-client.ts');
 const compiled = ts.transpileModule(fs.readFileSync(entry, 'utf8'), {
   compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2022 },
@@ -19,8 +20,14 @@ vm.runInNewContext(compiled, {
   },
   URL, URLSearchParams, AbortController, setTimeout, clearTimeout,
   async fetch(url, init) {
-    requests.push({ url, ...init, body: JSON.parse(init.body) });
+    requests.push({ url, ...init, body: init.body ? JSON.parse(init.body) : undefined });
     const isAuth = url.endsWith('/auth');
+    const parsed = new URL(url);
+    if (parsed.pathname === '/v2/transactions') {
+      const second = parsed.searchParams.has('after');
+      return { ok: true, text: async () => JSON.stringify({ results: [{ id: second ? 'tx2' : 'tx1' }],
+        next: second && !repeatCursor ? null : '?after=cursor-2' }) };
+    }
     return {
       ok: isAuth || !failToken,
       status: 400,
@@ -55,6 +62,13 @@ async function main() {
   assert.equal(requests.length, count, 'Reject unusable callbacks before making requests');
   failToken = true;
   await assert.rejects(client.connectToken(null, nativeCallback), /Invalid OAuth redirect URI/);
+  failToken = false;
+  const transactions = await client.transactions('account', '2026-01-01', '2026-11-09');
+  assert.equal(transactions.length, 2);
+  assert.equal(transactions[1].accountId, 'account');
+  assert.equal(new URL(requests.at(-1).url).searchParams.get('after'), 'cursor-2');
+  repeatCursor = true;
+  await assert.rejects(client.transactions('account', '2026-01-01', '2026-11-09'), /repeated a transaction cursor/);
   console.log('Pluggy checks passed: create/reconnect redirects, Expo Go LAN links, key reuse and token errors.');
 }
 main().catch((error) => { console.error(error); process.exitCode = 1; });

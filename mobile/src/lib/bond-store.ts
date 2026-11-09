@@ -1,12 +1,14 @@
 import { useEffect, useState } from 'react';
 
-import { createDemoData } from '@/data/demo';
+import { accountStore } from '@/lib/account-store';
 import { fetchBondRates, type BondRates } from '@/lib/bonds';
-import { createStore } from '@/lib/external-store';
 import type { Bond } from '@/types';
 
-// Session-only demo edits, deliberately separate from Pluggy and personal storage.
-const store = createStore({ bonds: createDemoData().bonds });
+const store = {
+  get: () => ({ bonds: accountStore.get().data.bonds }),
+  useValue: () => ({ bonds: accountStore.useValue().data.bonds }),
+  set({ bonds }: { bonds: Bond[] }) { accountStore.set({ data: { ...accountStore.get().data, bonds } }); },
+};
 export const useBonds = () => store.useValue().bonds;
 export function saveBond(bond: Bond) {
   const current = store.get().bonds;

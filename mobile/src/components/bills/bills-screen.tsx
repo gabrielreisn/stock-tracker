@@ -5,7 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { ActionButton } from '@/components/settings/ui';
 import { useTheme } from '@/hooks/use-theme';
 import { billKey, calendarDate, classifyExpenses, daysBetween, recurringBills, trackablePayments, upcomingBills } from '@/lib/bills';
-import { demoBillsStore, refreshDemoBills, updateDemoBill } from '@/lib/demo-bills-store';
+import { billsStore, refreshBills, updateBill } from '@/lib/bills-store';
 import { language, t, type StringKey } from '@/lib/i18n';
 import type { ExpenseSource, RecurringBill } from '@/types';
 
@@ -106,7 +106,7 @@ type Editor = { kind: 'bill'; key: string } | { kind: 'track' };
 
 export function BillsScreen() {
   const theme = useTheme();
-  const { data, day: today } = demoBillsStore.useValue();
+  const { data, day: today } = billsStore.useValue();
   const [editor, setEditor] = useState<Editor | null>(null);
   const [showHidden, setShowHidden] = useState(false);
   const expenses = classifyExpenses(data);
@@ -127,23 +127,37 @@ export function BillsScreen() {
   const hiddenRows = showHidden ? hidden.map((bill) => (
     <View key={bill.key} style={styles.billRow}>
       <Text style={[styles.label, { color: theme.text }]}>{bill.name}</Text>
-      <ActionButton title={t('Track again')} onPress={() => updateDemoBill(bill.key, { tracked: undefined })} />
+      <ActionButton title={t('Track again')} onPress={() => updateBill(bill.key, { tracked: undefined })} />
     </View>
   )) : null;
   const candidateRows = [...candidates.entries()].sort(([, a], [, b]) => a.store.localeCompare(b.store)).map(([key, row]) => (
     <View key={key} style={styles.billRow}>
       <Text style={[styles.label, { color: theme.text }]}>{row.store}</Text>
       <Text style={[styles.caption, { color: theme.textSecondary }]}>{dateLabel(row.day)} · {money.format(row.amount)} · {t(sourceLabels[row.source])}</Text>
-      <ActionButton title={t('Track payment')} onPress={() => { updateDemoBill(key, { tracked: true }); setEditor(null); }} />
+      <ActionButton title={t('Track payment')} onPress={() => { updateBill(key, { tracked: true }); setEditor(null); }} />
     </View>
   ));
+  const cardRows = data.cardBills.map(bill => {
+    const paid = bill.payments?.reduce((sum, payment) => sum + (payment.amount ?? 0), 0) ?? 0;
+    const account = data.transactions.accounts.find(row => row.id === bill.accountId);
+    return <View key={bill.id} style={styles.section}>
+      <Text style={{ color: theme.text }}>{account?.marketingName ?? account?.name ?? t('Credit card')}</Text>
+      <Text style={{ color: theme.text }}>{bill.totalAmount == null ? '—' : money.format(bill.totalAmount)}</Text>
+      <Text style={{ color: theme.textSecondary }}>{bill.dueDate?.slice(0, 10) ?? '—'} · {t('Paid')}: {money.format(paid)}</Text>
+    </View>;
+  });
+  const loanRows = data.loans.map(loan => <View key={loan.id} style={styles.section}>
+    <Text style={{ color: theme.text }}>{loan.productName ?? loan.type ?? t('Loans & financing')}</Text>
+    <Text style={{ color: theme.text }}>{loan.payments?.contractOutstandingBalance == null ? '—' : money.format(loan.payments.contractOutstandingBalance)}</Text>
+    <Text style={{ color: theme.textSecondary }}>{loan.dueDate?.slice(0, 10) ?? '—'}</Text>
+  </View>);
   return (
     <>
       <ScrollView contentInsetAdjustmentBehavior="automatic" contentContainerStyle={styles.content}
-        refreshControl={<RefreshControl refreshing={false} onRefresh={refreshDemoBills} />}>
+        refreshControl={<RefreshControl refreshing={false} onRefresh={refreshBills} />}>
         <View style={styles.section}>
-          <Text style={[styles.demo, { color: theme.link }]}>{t('Demo account')}</Text>
-          <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Demo edits last for this app session. No bank connection is needed.')}</Text>
+          <Text style={[styles.demo, { color: theme.link }]}>{t('Personal account')}</Text>
+          <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Your transactions and changes are saved on this device.')}</Text>
         </View>
         <View style={styles.summaries}>
           <Summary title="Due in the next 30 days" value={`≈ ${money.format(due.reduce((sum, b) => sum + b.usual, 0))}`} detail={t('{count} bills', { count: due.length })} />
@@ -162,8 +176,8 @@ export function BillsScreen() {
           <ActionButton title={t(showHidden ? 'Hide untracked bills' : 'Not tracked ({count})', { count: hidden.length })} onPress={() => setShowHidden(!showHidden)} />
           {hiddenRows}
         </View>}
-        <Section title="Credit card bills"><Text style={[styles.empty, { color: theme.textSecondary }]}>{t('The demo account has card transactions, but no closed card bills.')}</Text></Section>
-        <Section title="Loans & financing"><Text style={[styles.empty, { color: theme.textSecondary }]}>{t('No loan contracts are included in the demo account.')}</Text></Section>
+        <Section title="Credit card bills">{cardRows.length ? cardRows : <Text style={[styles.empty, { color: theme.textSecondary }]}>{t('No closed card bills are available from your banks.')}</Text>}</Section>
+        <Section title="Loans & financing">{loanRows.length ? loanRows : <Text style={[styles.empty, { color: theme.textSecondary }]}>{t('No loan contracts are available from your banks.')}</Text>}</Section>
         <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Due days are estimated from past payments. Tap a recurring bill to set its due day. Payments have a 3-day grace period before appearing late.')}</Text>
       </ScrollView>
       <Modal visible={editor !== null} animationType="slide" presentationStyle="pageSheet" onRequestClose={() => setEditor(null)}>
@@ -185,19 +199,19 @@ export function BillsScreen() {
 function BillEditor({ bill, today, onClose }: { bill: RecurringBill; today: number; onClose: () => void }) {
   const theme = useTheme();
   const month = Math.floor(today / 100);
-  const { data } = demoBillsStore.useValue();
+  const { data } = billsStore.useValue();
   const choice = data.expenses.bills?.[bill.key];
   const dayButtons = dueDays.map((day) => (
     <Pressable key={day} accessibilityRole="button" accessibilityLabel={t('Day {day}', { day })}
       accessibilityState={{ selected: bill.dueDaySet && bill.dueDay === day }}
-      onPress={() => updateDemoBill(bill.key, { dueDay: day })}
+      onPress={() => updateBill(bill.key, { dueDay: day })}
       style={[styles.dayButton, { backgroundColor: bill.dueDaySet && bill.dueDay === day ? theme.accent : theme.surface }]}>
       <Text style={{ color: bill.dueDaySet && bill.dueDay === day ? theme.onAccent : theme.text }}>{day}</Text>
     </Pressable>
   ));
   function togglePaid() {
     const months = choice?.paidByHand ?? [];
-    updateDemoBill(bill.key, { paidByHand: bill.paidByHand ? months.filter((m) => m !== month) : [...months, month] });
+    updateBill(bill.key, { paidByHand: bill.paidByHand ? months.filter((m) => m !== month) : [...months, month] });
   }
   return (
     <>
@@ -206,9 +220,9 @@ function BillEditor({ bill, today, onClose }: { bill: RecurringBill; today: numb
       {bill.paidThisMonth.length === 0 && <ActionButton title={t(bill.paidByHand ? 'Not paid this month' : 'Mark as paid this month')} onPress={togglePaid} />}
       <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('If you paid from an account that is not connected, mark it as paid here. This does not create a transaction.')}</Text>
       <Text accessibilityRole="header" style={[styles.heading, { color: theme.text }]}>{t('Due day')}</Text>
-      <ActionButton title={t('Estimate from payments')} onPress={() => updateDemoBill(bill.key, { dueDay: undefined })} isDisabled={!bill.dueDaySet} />
+      <ActionButton title={t('Estimate from payments')} onPress={() => updateBill(bill.key, { dueDay: undefined })} isDisabled={!bill.dueDaySet} />
       <View style={styles.days}>{dayButtons}</View>
-      <ActionButton title={t('Stop tracking')} onPress={() => { updateDemoBill(bill.key, { tracked: false, paidByHand: undefined }); onClose(); }} />
+      <ActionButton title={t('Stop tracking')} onPress={() => { updateBill(bill.key, { tracked: false, paidByHand: undefined }); onClose(); }} />
     </>
   );
 }

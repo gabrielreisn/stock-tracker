@@ -1,6 +1,6 @@
 # Cymba for iOS and Android
 
-The mobile client: an [Expo](https://docs.expo.dev) app (SDK 58, TypeScript, Expo Router). It includes four tabs, demo bonds under Investments, bills, Insights and category limits under Finances, and benchmarks and Open Finance connections in Settings.
+The mobile client: an [Expo](https://docs.expo.dev) app (SDK 58, TypeScript, Expo Router). The four tabs share a personal account saved on the device. Pluggy connections supply accounts, holdings, transactions, closed card bills and loans. Stocks, bonds, funds, FGC Watcher, Expenses, Bills, Insights and Categories use that same data.
 
 ## Develop
 
@@ -50,23 +50,42 @@ Its return link uses `exp://<LAN address>:8081/--/settings`. Pluggy rejects loca
 callbacks, and Expo Go cannot register `cymba://`. Use a Cymba native build for a stable
 callback scheme. Test create/reconnect token requests with `pnpm check:pluggy`.
 
-## Insights
+## Open Finance and local data
 
-Open **Finances → Insights** to explore the isolated demo account. The screen mirrors the macOS yearly summaries,
-monthly spending chart (category focus, trend and limits), category trends and twelve-month table. Tap a chart month
-for its value, tap a category to focus the chart, and swipe the chart or table horizontally for the full year. The year
-selector covers the current and previous two years. English/Portuguese strings and light/dark themes follow the device.
+Open **Finances → Open Finance** to see connected institutions, account balances and every
+reported investment. Supported active positions are imported automatically. Stocks aggregate
+quantities and acquisition costs; bonds use reported terms; funds use their CNPJ and statement
+prices. Missing terms are not invented, and closed records remain available for review.
+Stock holdings imported from snapshots start their performance history on the import date;
+Pluggy's investment list is not a historical trade ledger.
 
-`src/lib/insights.ts` classifies the demo transactions and derives yearly analytics without network or storage access.
-Averages and least-squares trends use completed months; installments are assigned to their billing months.
-`pnpm check:insights` verifies fixture totals, exclusions, overrides, currency handling, installments and trend boundaries.
-Personal-account selection and persistence remain future work, as described in the data guide.
+`account-store.ts` persists the personal portfolio, expense settings, transaction cache, card
+bills and loans in `expo-sqlite/kv-store`. `pluggy-store.ts` separately persists connection
+snapshots and the last successful refresh. Credentials stay in secure storage. Data survives
+reloads and works offline; a failed institution retains its previous snapshot. No demo positions,
+transactions or budgets are seeded. Original macOS fixtures remain only for regression tests.
 
-## Bonds
+The first sync requests transactions from the beginning of the previous calendar year.
+Subsequent syncs refresh the last three months. Opening older expense months or Insights years
+fetches those months into the same cache. Categories, overrides, manual purchases and bill
+choices are shared across screens and saved when edited.
 
-Open Investments → Bonds to explore the six demo holdings. The screen supports grouping, sorting, portfolio totals, allocation, maturity ladders, and adding, editing and deleting holdings. Changes stay in memory for this session and never enter the personal Open Finance store.
+A six-hour freshness check runs on launch, foreground resume and once a minute while active.
+Native builds also register `cymba-open-finance-sync` with a **360-minute minimum interval**
+through `expo-background-task`. The OS chooses the actual background execution time; this
+is not an exact cron schedule. Failed attempts retry no more often than every 15 minutes;
+manual Sync now bypasses that delay. Unsupported bill/loan products retain cached data and
+show a warning without blocking portfolio refresh.
 
-Valuations follow the macOS business-day, CDI, IPCA, IR and IOF conventions. CDI and IPCA histories come from public Banco Central series 12 and 433. If rates cannot load, affected values show a dash; charts explicitly fall back to invested principal. Maturity estimates use the latest available rates. Run `pnpm check:bonds` for pricing regression checks and `pnpm check:demo` for fixture checks.
+Background execution requires a rebuilt native app on a physical device; Expo Go and the iOS
+simulator use the foreground fallback. The config plugin applies iOS background processing
+settings during prebuild. On iOS the secret is stored with AFTER_FIRST_UNLOCK accessibility
+so a scheduled task can authenticate while locked after the first unlock following reboot.
+No API keys or secrets are stored in the account/cache records.
+
+Run `pnpm check:open-finance` for persistence, mapping, partial failures, redemption and sync
+race checks, and `pnpm check:pluggy` for the OAuth token contract. Pricing and classification
+regression checks continue to use synthetic fixtures and do not access your accounts.
 
 ## Release
 

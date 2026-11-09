@@ -7,11 +7,12 @@ export default function FinancesLayout() {
   const theme = useTheme();
   return (
     <Stack screenOptions={{ headerStyle: { backgroundColor: theme.background }, headerTintColor: theme.text, contentStyle: { backgroundColor: theme.background } }}>
-      <Stack.Screen name="index" options={{ headerShown: false }} />
+      <Stack.Screen name="index" options={{ headerShown: false, title: t('Finances') }} />
       <Stack.Screen name="expenses" options={{ title: t('Expenses') }} />
       <Stack.Screen name="insights" options={{ title: t('Insights') }} />
       <Stack.Screen name="categories" options={{ title: t('Categories & limits') }} />
       <Stack.Screen name="bills" options={{ title: t('Bills') }} />
+      <Stack.Screen name="open-finance" options={{ title: t('Open Finance') }} />
     </Stack>
   );
 }

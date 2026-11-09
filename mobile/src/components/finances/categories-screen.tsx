@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ActionButton, SettingsGroup } from '@/components/settings/ui';
 import { useTheme } from '@/hooks/use-theme';
-import { demoExpenseAccount, demoExpenseStore } from '@/lib/demo-expense-store';
+import { accountStore, expenseStore } from '@/lib/account-store';
 import { classifyExpenses, deleteCategory, limitStatus, newCategory, parseAmount, spendingByCategory, suggestLimits } from '@/lib/expenses';
 import { language, t, type StringKey } from '@/lib/i18n';
 import type { ExpenseCategory, ExpenseSettings } from '@/types';
@@ -33,7 +33,7 @@ const categoryNames: Record<string, StringKey> = {
 function categoryName(name: string) { return categoryNames[name] ? t(categoryNames[name]) : name; }
 function amountText(value?: number) { return value === undefined ? '' : numberFormat.format(value); }
 function updateSettings(patch: Partial<ExpenseSettings>) {
-  demoExpenseStore.set({ settings: { ...demoExpenseStore.get().settings, ...patch } });
+  expenseStore.set({ settings: { ...expenseStore.get().settings, ...patch } });
 }
 
 function AmountField({ label, value, onCommit, placeholder = t('No limit') }: {
@@ -89,7 +89,7 @@ function CategoryEditor({ category, isNew, onClose }: { category: ExpenseCategor
     if (!canSave) return;
     // Leave fixture names in English until the user actually renames them.
     const saved = { ...category, name: name.trim() === categoryName(category.name) ? category.name : name.trim(), symbol, limit: parsed };
-    const categories = demoExpenseStore.get().settings.categories;
+    const categories = expenseStore.get().settings.categories;
     updateSettings({ categories: isNew ? [...categories, saved] : categories.map((item) => item.id === saved.id ? saved : item) });
     onClose();
   }
@@ -97,7 +97,7 @@ function CategoryEditor({ category, isNew, onClose }: { category: ExpenseCategor
     Alert.alert(t('Delete “{name}”?', { name: categoryName(category.name) }), t('Its purchases go back to “To review”.'), [
       { text: t('Cancel'), style: 'cancel' },
       { text: t('Delete'), style: 'destructive', onPress: () => {
-        demoExpenseStore.set({ settings: deleteCategory(demoExpenseStore.get().settings, category.id) });
+        expenseStore.set({ settings: deleteCategory(expenseStore.get().settings, category.id) });
         onClose();
       } },
     ]);
@@ -139,25 +139,26 @@ function CategoryEditor({ category, isNew, onClose }: { category: ExpenseCategor
 
 export function CategoriesScreen() {
   const theme = useTheme();
-  const { settings } = demoExpenseStore.useValue();
+  const { settings } = expenseStore.useValue();
+  const { data: account } = accountStore.useValue();
   const [editor, setEditor] = useState<{ category: ExpenseCategory; isNew: boolean } | null>(null);
   const [reordering, setReordering] = useState(false);
   const [suggestionNote, setSuggestionNote] = useState('');
   const now = new Date();
   const month = now.getFullYear() * 100 + now.getMonth() + 1;
   const monthLabel = now.toLocaleDateString(language === 'pt' ? 'pt-BR' : 'en-US', { month: 'long', year: 'numeric' });
-  const rows = classifyExpenses(demoExpenseAccount.transactions, settings);
+  const rows = classifyExpenses(account.transactions, settings);
   const spent = spendingByCategory(rows, month);
   const totalSpent = [...spent.values()].reduce((sum, amount) => sum + amount, 0);
   const uncategorized = spent.get(undefined) ?? 0;
   const largePurchases = settings.largePurchase ? rows.filter((row) => row.kind === 'spending' && Math.floor(row.day / 100) === month && row.amount > settings.largePurchase!).length : 0;
   function suggest() {
     const result = suggestLimits(settings, rows, month);
-    demoExpenseStore.set({ settings: result.settings });
+    expenseStore.set({ settings: result.settings });
     setSuggestionNote(result.months ? t('Suggested {count} limits from the previous {months} months + 10%. Adjust as you like.', { count: result.count, months: result.months }) : t('Not enough history yet.'));
   }
   function move(id: string, offset: number) {
-    const categories = [...demoExpenseStore.get().settings.categories];
+    const categories = [...expenseStore.get().settings.categories];
     const index = categories.findIndex((category) => category.id === id);
     const destination = index + offset;
     if (index < 0 || destination < 0 || destination >= categories.length) return;
@@ -196,7 +197,7 @@ export function CategoriesScreen() {
     <SafeAreaView edges={[]} style={[styles.root, { backgroundColor: theme.background }]}>
       <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : undefined} style={styles.root}>
         <ScrollView contentContainerStyle={styles.content} keyboardDismissMode="on-drag" keyboardShouldPersistTaps="handled">
-          <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Demo account · Changes last until the app restarts.')}</Text>
+          <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Personal account · saved on this device.')}</Text>
           <Text accessibilityRole="header" style={[styles.heading, { color: theme.text }]}>{monthLabel}</Text>
           <SettingsGroup title={t('Whole month')} footer={t('Limits are per month. Warnings appear here when spending reaches the chosen share or exceeds a limit.')}>
             <View style={styles.field}>

@@ -1,12 +1,14 @@
-import { useState } from 'react';
+import { loadTransactionMonth } from '@/lib/pluggy-store';
+import { useEffect, useState } from 'react';
 import { Alert, FlatList, KeyboardAvoidingView, Modal, Platform, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import defaultCategories from '@/data/default-categories.json';
 
 import { ActionButton } from '@/components/settings/ui';
 import { useTheme } from '@/hooks/use-theme';
 import { billKey, calendarDate, todayKey } from '@/lib/bills';
-import { demoBillsStore, updateDemoBill } from '@/lib/demo-bills-store';
-import { demoExpenseAccount, demoExpenseStore } from '@/lib/demo-expense-store';
+import { billsStore, updateBill } from '@/lib/bills-store';
+import { accountStore, expenseStore } from '@/lib/account-store';
 import { classifyExpenses, limitStatus, moveMonth, newCategory, parseAmount, removeExpense, setExpenseCategory, setExpenseOutside } from '@/lib/expenses';
 import { language, t, type StringKey } from '@/lib/i18n';
 import type { Expense, ExpenseSettings, ExpenseSource } from '@/types';
@@ -18,11 +20,10 @@ const sorts = ['Date', 'Store', 'Description', 'Source', 'Category', 'Value'] as
 type Tab = typeof tabs[number];
 type Sort = typeof sorts[number];
 const sources: Record<ExpenseSource, StringKey> = { pix: 'Pix', creditCard: 'Credit card', debitCard: 'Debit card', autoDebit: 'Automatic debit', transfer: 'Transfer', boleto: 'Boleto', account: 'Bank account', manual: 'Manual' };
-const defaultCategoryNames = new Set(createDemoCategoryNames());
-function createDemoCategoryNames() { return demoExpenseAccount.expenses.categories.map((category) => category.name); }
+const defaultCategoryNames = new Set(defaultCategories.map(category => category.name));
 function categoryName(name: string) { return defaultCategoryNames.has(name) ? t(name as StringKey) : name; }
 function dateLabel(day: number) { return calendarDate(day).toLocaleDateString(locale, { day: 'numeric', month: 'short', timeZone: 'UTC' }); }
-function update(settings: ExpenseSettings) { demoExpenseStore.set({ settings }); }
+function update(settings: ExpenseSettings) { expenseStore.set({ settings }); }
 function amountLabel(row: Expense) { return row.foreign?.conversion.kind === 'missing' ? t('Conversion unavailable') : money.format(row.amount); }
 
 function Summary({ title, value, warning = false }: { title: StringKey; value: string; warning?: boolean }) {
@@ -47,15 +48,17 @@ function TransactionRow({ row, category, onPress, large }: { row: Expense; categ
 
 export function ExpensesScreen() {
   const theme = useTheme();
-  const { settings } = demoExpenseStore.useValue();
+  const { settings } = expenseStore.useValue();
+  const { data: account } = accountStore.useValue();
   const current = Math.floor(todayKey() / 100);
   const [month, setMonth] = useState(current);
+  useEffect(function loadSelectedMonth() { void loadTransactionMonth(month); }, [month]);
   const [tab, setTab] = useState<Tab>('Spending');
   const [search, setSearch] = useState('');
   const [sort, setSort] = useState<Sort>('Date');
   const [ascending, setAscending] = useState(false);
   const [editor, setEditor] = useState<string | null>(null);
-  const all = classifyExpenses(demoExpenseAccount.transactions, settings);
+  const all = classifyExpenses(account.transactions, settings);
   const monthly = all.filter((row) => Math.floor(row.day / 100) === month);
   const spent = monthly.filter((row) => row.kind === 'spending').reduce((sum, row) => sum + row.amount, 0);
   const income = monthly.filter((row) => row.kind === 'income').reduce((sum, row) => sum + row.amount, 0);
@@ -80,8 +83,8 @@ export function ExpensesScreen() {
   const sortButtons = sorts.map((item) => <Pressable key={item} accessibilityRole="button" accessibilityState={{ selected: sort === item }} onPress={() => { if (item === sort) setAscending(!ascending); else { setSort(item); setAscending(item !== 'Date' && item !== 'Value'); } }} style={[styles.chip, { backgroundColor: theme.surface }]}><Text style={{ color: sort === item ? theme.link : theme.textSecondary }}>{t(item)}{sort === item ? ascending ? ' ↑' : ' ↓' : ''}</Text></Pressable>);
   const status = limitStatus(spent, settings.totalLimit, settings.alertAt);
   const header = <View style={styles.header}>
-    <Text style={{ color: theme.link }}>{t('Demo account')}</Text>
-    <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Demo edits last for this app session. No bank connection is needed.')}</Text>
+    <Text style={{ color: theme.link }}>{t('Personal account')}</Text>
+    <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Your transactions and changes are saved on this device.')}</Text>
     <View style={styles.row}>
       <ActionButton title="‹" accessibilityLabel={t('Previous month')} onPress={() => setMonth(moveMonth(month, -1))} />
       <Text accessibilityRole="header" style={[styles.month, styles.flex, { color: theme.text }]}>{calendarDate(month * 100 + 1).toLocaleDateString(locale, { month: 'long', year: 'numeric', timeZone: 'UTC' })}</Text>
@@ -112,15 +115,15 @@ export function ExpensesScreen() {
 
 function TransactionEditor({ row, rows, onClose }: { row: Expense; rows: Expense[]; onClose: () => void }) {
   const theme = useTheme();
-  const { settings } = demoExpenseStore.useValue();
-  const { data: bills } = demoBillsStore.useValue();
+  const { settings } = expenseStore.useValue();
+  const { data: bills } = billsStore.useValue();
   const [forStore, setForStore] = useState(false);
   const key = billKey(row);
   const tracked = bills.expenses.bills?.[key]?.tracked === true;
-  function choose(id?: string) { update(setExpenseCategory(demoExpenseStore.get().settings, row, id, forStore, rows)); }
+  function choose(id?: string) { update(setExpenseCategory(expenseStore.get().settings, row, id, forStore, rows)); }
   function confirmDelete() {
-    Alert.alert(t('Delete this transaction?'), t(row.isManual ? 'This purchase will be removed.' : 'This transaction stays hidden when demo data is refreshed.'), [
-      { text: t('Cancel'), style: 'cancel' }, { text: t('Delete'), style: 'destructive', onPress: () => { update(removeExpense(demoExpenseStore.get().settings, row)); onClose(); } },
+    Alert.alert(t('Delete this transaction?'), t(row.isManual ? 'This purchase will be removed.' : 'This transaction stays hidden when bank data is refreshed.'), [
+      { text: t('Cancel'), style: 'cancel' }, { text: t('Delete'), style: 'destructive', onPress: () => { update(removeExpense(expenseStore.get().settings, row)); onClose(); } },
     ]);
   }
   const categories = settings.categories.map((category) => <ActionButton key={category.id} title={`${row.categoryID === category.id ? '✓ ' : ''}${categoryName(category.name)}`} onPress={() => choose(category.id)} />);
@@ -135,14 +138,14 @@ function TransactionEditor({ row, rows, onClose }: { row: Expense; rows: Expense
       <ActionButton title={`${forStore ? '✓ ' : ''}${t('Always use for this store')}`} onPress={() => setForStore(!forStore)} />
       <ActionButton title={t('Automatic category')} onPress={() => choose()} />{categories}</>}
     <ActionButton title={t(row.kind === 'outside' ? 'Count as spending or income' : 'Move to Not spending')} onPress={() => { update(setExpenseOutside(settings, row, row.kind !== 'outside')); onClose(); }} />
-    {!row.isCard && <ActionButton title={t(tracked ? 'Stop tracking as a bill' : 'Track as a bill')} onPress={() => updateDemoBill(key, { tracked: tracked ? undefined : true })} />}
+    {!row.isCard && <ActionButton title={t(tracked ? 'Stop tracking as a bill' : 'Track as a bill')} onPress={() => updateBill(key, { tracked: tracked ? undefined : true })} />}
     <ActionButton title={t('Delete')} onPress={confirmDelete} />
   </ScrollView>;
 }
 
 function ManualForm({ month, onClose }: { month: number; onClose: () => void }) {
   const theme = useTheme();
-  const { settings } = demoExpenseStore.useValue();
+  const { settings } = expenseStore.useValue();
   const day = Math.floor(todayKey() / 100) === month ? todayKey() : month * 100 + 1;
   const [date, setDate] = useState(`${Math.floor(day / 10000)}-${String(Math.floor(day / 100) % 100).padStart(2, '0')}-${String(day % 100).padStart(2, '0')}`);
   const [store, setStore] = useState('');
@@ -154,7 +157,7 @@ function ManualForm({ month, onClose }: { month: number; onClose: () => void }) 
   const valid = validDate && store.trim().length > 0 && typeof value === 'number';
   function save() {
     if (!valid || typeof value !== 'number') return;
-    const current = demoExpenseStore.get().settings;
+    const current = expenseStore.get().settings;
     update({ ...current, manual: [...current.manual, { id: newCategory('').id, day: dateKey, store: store.trim(), amount: value, categoryID }] });
     onClose();
   }

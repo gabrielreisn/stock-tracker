@@ -3,7 +3,10 @@
     "name": "Cymba",
     "slug": "cymba",
     "version": "0.1.0",
-    "platforms": ["ios", "android"],
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "cymba",
@@ -37,11 +40,20 @@
       [
         "expo-localization",
         {
-          "supportedLocales": ["pt-BR", "en"]
+          "supportedLocales": [
+            "pt-BR",
+            "en"
+          ]
         }
       ],
-      ["expo-secure-store", { "faceIDPermission": false }],
-      "expo-sqlite"
+      [
+        "expo-secure-store",
+        {
+          "faceIDPermission": false
+        }
+      ],
+      "expo-sqlite",
+      "expo-background-task"
     ],
     "experiments": {
       "typedRoutes": true,

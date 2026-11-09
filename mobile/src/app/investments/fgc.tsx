@@ -45,8 +45,8 @@ export default function FGCScreen() {
   const groupingPending = conglomerates.loading || conglomerates.failed;
   return <>
     <ScrollView contentInsetAdjustmentBehavior="automatic" style={{ backgroundColor: theme.background }} contentContainerStyle={s.content}>
-      <Label>{t('Demo account')}</Label>
-      <Label secondary>{t('Demo edits last for this session only.')}</Label>
+      <Label>{t('Personal account')}</Label>
+      <Label secondary>{t('Changes are saved on this device.')}</Label>
       <Label secondary>{t('FGC guarantees up to R$ 250,000 per CPF per institution or financial conglomerate, with a R$ 1 million total limit every four years. CDB, LC, LCI and LCA are covered; CRI, CRA and debentures are not.')}</Label>
       {loading && <Label secondary>{t('Loading CDI and IPCA…')}</Label>}
       {failed && <Card><Label>{t('Rate history is unavailable. Fixed-rate bonds are still valued; other values are left blank.')}</Label><ActionButton title={t('Retry')} onPress={retry} /></Card>}

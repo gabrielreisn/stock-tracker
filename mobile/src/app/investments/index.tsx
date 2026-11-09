@@ -14,10 +14,10 @@ export default function InvestmentsScreen() {
     <SafeAreaView edges={['top']} style={[styles.root, { backgroundColor: theme.background }]}>
       <ScrollView contentContainerStyle={styles.content}>
         <Text accessibilityRole="header" style={[styles.title, { color: theme.text }]}>{t('Investments')}</Text>
-        <Link href="/investments/stocks" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Stocks')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
-        <Link href="/investments/bonds" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Bonds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
-        <Link href="/investments/funds" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Funds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
-        <Link href="/investments/fgc" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('FGC Watcher')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
+        <Link href="/investments/stocks" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Stocks')}</Text><Text style={{ color: theme.textSecondary }}>{t('Personal account')} ·  ›</Text></Pressable></Link>
+        <Link href="/investments/bonds" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Bonds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Personal account')} ·  ›</Text></Pressable></Link>
+        <Link href="/investments/funds" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Funds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Personal account')} ·  ›</Text></Pressable></Link>
+        <Link href="/investments/fgc" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('FGC Watcher')}</Text><Text style={{ color: theme.textSecondary }}>{t('Personal account')} ·  ›</Text></Pressable></Link>
       </ScrollView>
     </SafeAreaView>
   );

@@ -1,23 +1,19 @@
-import { createDemoData } from '@/data/demo';
-import { createStore } from '@/lib/external-store';
+import { fundStore } from '@/lib/account-store';
 import type { FundHolding, FundPurpose } from '@/types';
+export { fundStore } from '@/lib/account-store';
 
-// Deliberately isolated from personal accounts and storage. Demo edits last for this session.
-export const demoFunds = createStore({
-  holdings: createDemoData().fundHoldings,
-});
 export function saveFund(holding: FundHolding) {
-  const holdings = demoFunds.get().holdings;
+  const holdings = fundStore.get().holdings;
   const exists = holdings.some((fund) => fund.id === holding.id);
-  demoFunds.set({
+  fundStore.set({
     holdings: exists
       ? holdings.map((fund) => (fund.id === holding.id ? holding : fund))
       : [...holdings, holding],
   });
 }
 export function deleteFund(id: string) {
-  demoFunds.set({
-    holdings: demoFunds.get().holdings.filter((fund) => fund.id !== id),
+  fundStore.set({
+    holdings: fundStore.get().holdings.filter((fund) => fund.id !== id),
   });
 }
 export function fundPurpose(fund: FundHolding): FundPurpose {

@@ -3,7 +3,7 @@ import { StyleSheet, TextInput, View } from 'react-native';
 import { Card, Label, Title } from '@/components/bonds/ui';
 import { ActionButton } from '@/components/settings/ui';
 import { useTheme } from '@/hooks/use-theme';
-import { saveDemoStock } from '@/lib/demo-stock-store';
+import { saveStock } from '@/lib/stock-store';
 import { t } from '@/lib/i18n';
 import { fetchStockQuote } from '@/lib/stock-market';
 import { stockNumber } from '@/lib/stocks';
@@ -26,7 +26,7 @@ export function StockForm({ holding, onClose, onSaved }: { holding?: StockHoldin
     const timeout = setTimeout(() => controller.abort(), 15000);
     try {
       if (!holding) await fetchStockQuote(symbol, controller.signal);
-      saveDemoStock(symbol, shares, paid, !!holding);
+      saveStock(symbol, shares, paid, !!holding);
       onSaved();
     } catch { setError(true); }
     clearTimeout(timeout); setBusy(false);
