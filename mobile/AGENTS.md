@@ -1,4 +1,12 @@
-This is an Expo/React Native mobile application. Prioritize mobile-first patterns, performance, and cross-platform compatibility.
+This is an Expo/React Native mobile application. Prioritize legibility, mobile-first patterns, and cross-platform compatibility. Optimize performance only when strictly necessary.
+
+## Code style
+
+- Prefer legibility over performance unless a demonstrated performance requirement makes optimization strictly necessary.
+- Use named functions as `useEffect` callbacks, with names that explain the effect's purpose, for example `useEffect(function syncConnections() { ... }, [])`.
+- Keep render expressions simple. Prepare fallbacks, transformations, and rendered lists as named `const` values before the JSX return instead of embedding expressions such as `{(arrayVar ?? []).map(...)}` in the markup.
+- Minimize stored state. Derive values from existing props and state whenever possible instead of introducing additional state or effects to keep duplicate values synchronized. Keep separate state only for independent information.
+- Prefer static definitions over runtime computation. Define styles with `StyleSheet.create` outside components and reuse them. Avoid dynamic styles and other render-time calculations unless they depend on required runtime values, such as the active theme or user input.
 
 ## Expo has changed — do not trust your training data
 
