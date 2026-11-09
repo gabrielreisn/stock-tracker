@@ -1,7 +1,6 @@
 # Cymba for iOS and Android
 
-The mobile client: an [Expo](https://docs.expo.dev) app (SDK 58, TypeScript, Expo Router). So far it's the shell, with
-the four tabs and, in Settings, the benchmarks and the Open Finance connections.
+The mobile client: an [Expo](https://docs.expo.dev) app (SDK 58, TypeScript, Expo Router). It includes four tabs, a demo-backed Bills screen under Finances, and benchmarks and Open Finance connections in Settings.
 
 ## Develop
 
