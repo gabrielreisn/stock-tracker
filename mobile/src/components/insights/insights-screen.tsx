@@ -72,7 +72,7 @@ export function InsightsScreen() {
       </View>
       <View style={styles.stats}>
         <Metric label={t('Average')} value={money(finishedAverage(points))} />
-        <Metric label={t('Last month')} value={money(last)} color={row.category?.limit !== undefined && last > row.category.limit ? '#dc4545' : undefined} />
+        <Metric alignRight label={t('Last month')} value={money(last)} color={row.category?.limit !== undefined && last > row.category.limit ? '#dc4545' : undefined} />
       </View>
       <View style={styles.row}>
         <Trend series={points} />
@@ -192,10 +192,10 @@ function Card({ title, children }: { title: string; children: ReactNode }) {
     <Text accessibilityRole="header" style={[styles.heading, { color: theme.text }]}>{title}</Text>{children}
   </View>;
 }
-function Metric({ label, value, color }: { label: string; value: string; color?: string }) {
+function Metric({ label, value, color, alignRight = false }: { label: string; value: string; color?: string; alignRight?: boolean }) {
   const theme = useTheme();
-  return <View style={styles.metric}><Text style={[styles.caption, { color: theme.textSecondary }]}>{label}</Text>
-    <Text style={[styles.body, { color: color ?? theme.text }]}>{value}</Text></View>;
+  return <View style={styles.metric}><Text style={[styles.caption, alignRight && styles.textRight, { color: theme.textSecondary }]}>{label}</Text>
+    <Text style={[styles.body, alignRight && styles.textRight, { color: color ?? theme.text }]}>{value}</Text></View>;
 }
 function Trend({ series }: { series: MonthPoint[] }) {
   const theme = useTheme();
@@ -228,6 +228,7 @@ const styles = StyleSheet.create({
   category: { padding: 14, gap: 14, borderWidth: 1, borderRadius: 14 },
   row: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', gap: 12 },
   categoryName: { flex: 1, fontSize: 15, fontWeight: '600' },
+  textRight: { textAlign: 'right' },
   stats: { flexDirection: 'row', gap: 24 }, metric: { flex: 1, gap: 4 },
   trend: { fontSize: 12, fontVariant: ['tabular-nums'], flexShrink: 1 },
   yearTotal: { fontSize: 12, fontWeight: '500', fontVariant: ['tabular-nums'], flexShrink: 1 },
