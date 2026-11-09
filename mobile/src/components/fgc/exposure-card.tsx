@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
+import Animated, { Easing, useAnimatedStyle, useSharedValue, withTiming } from 'react-native-reanimated';
 
 import { Card, Label, Title } from '@/components/bonds/ui';
 import { useTheme } from '@/hooks/use-theme';
@@ -40,21 +41,36 @@ function ExposureMetrics({ exposure, color }: { exposure: Exposure; color: strin
 function ConglomerateDetails({ conglomerate, names }: { conglomerate: Conglomerate; names: string[] }) {
   const theme = useTheme();
   const [expanded, setExpanded] = useState(false);
+  const progress = useSharedValue(0);
+  const listHeight = useSharedValue(0);
+  const arrowStyle = useAnimatedStyle(() => ({ transform: [{ rotate: `${progress.get() * 90}deg` }] }));
+  const listStyle = useAnimatedStyle(() => ({ height: listHeight.get() * progress.get(), opacity: progress.get() }));
+  function toggle() {
+    const next = !expanded;
+    setExpanded(next);
+    progress.set(withTiming(next ? 1 : 0, { duration: 220, easing: Easing.out(Easing.cubic) }));
+  }
   const others = conglomerate.members.filter(member => !names.some(name => foldIssuer(name) === foldIssuer(member)));
   const toggleLabel = t(expanded ? 'Hide other institutions' : 'Show {count} other institutions', { count: others.length });
-  const members = expanded ? others.map(member => <Label key={member} secondary>{member}</Label>) : null;
+  const members = others.map(member => <Label key={member} secondary>{member}</Label>);
   return <View style={styles.conglomerate}>
     <Label secondary>{t('Conglomerate {name}', { name: conglomerate.name })}</Label>
     {others.length > 0 && <Pressable
       accessibilityRole="button"
       accessibilityLabel={toggleLabel}
       accessibilityState={{ expanded }}
-      onPress={() => setExpanded(value => !value)}
+      onPress={toggle}
       style={styles.disclosure}>
-      <Text style={[styles.disclosureLabel, { color: theme.link }]}>{toggleLabel}</Text>
-      <Text accessible={false} style={{ color: theme.link }}>{expanded ? '▴' : '▾'}</Text>
+      <Text style={[styles.disclosureLabel, { color: theme.textSecondary }]}>{toggleLabel}</Text>
+      <Animated.View accessible={false} style={[styles.arrow, arrowStyle]}>
+        <View style={[styles.chevron, { borderColor: theme.textSecondary }]} />
+      </Animated.View>
     </Pressable>}
-    {members}
+    <Animated.View style={[styles.memberClip, listStyle]} pointerEvents={expanded ? 'auto' : 'none'} accessibilityElementsHidden={!expanded} importantForAccessibility={expanded ? 'auto' : 'no-hide-descendants'}>
+      <View style={styles.members} onLayout={event => listHeight.set(event.nativeEvent.layout.height)}>
+        {members}
+      </View>
+    </Animated.View>
   </View>;
 }
 
@@ -82,7 +98,11 @@ export function ExposureCard({ exposure, onEdit }: { exposure: Exposure; onEdit:
 const styles = StyleSheet.create({
   conglomerate: { gap: 4 },
   disclosure: { minHeight: 44, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 8 },
-  disclosureLabel: { flexShrink: 1, fontSize: 14, lineHeight: 20 },
+  disclosureLabel: { flexShrink: 1, fontSize: 14, lineHeight: 20, opacity: .75 },
+  arrow: { width: 28, height: 28, justifyContent: 'center', alignItems: 'center', opacity: .75 },
+  chevron: { width: 11, height: 11, borderTopWidth: 1.5, borderRightWidth: 1.5, transform: [{ rotate: '45deg' }] },
+  memberClip: { overflow: 'hidden' },
+  members: { position: 'absolute', width: '100%', gap: 8, paddingVertical: 4 },
   row: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: 8 },
   caption: { fontSize: 12, lineHeight: 18 }, status: { fontSize: 14, fontWeight: '600' },
   bond: { borderTopWidth: StyleSheet.hairlineWidth, paddingTop: 12, gap: 6, minHeight: 48 },
