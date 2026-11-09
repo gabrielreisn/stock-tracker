@@ -91,7 +91,7 @@ and Brazilian amount parsing.
 
 ## Overview
 
-The Overview tab uses the demo trades plus the same session-only bonds and funds edited in
+The Overview tab uses the same session-only trades, bonds and funds edited in
 Investments. It loads public Yahoo adjusted closes (US stocks and S&P 500 converted with
 USD/BRL) and Banco Central CDI/IPCA. Pull to refresh or use **Refresh market data** to retry.
 No personal account or Pluggy store is read. The selected range is saved on the device.
@@ -107,6 +107,24 @@ join on issue and stop at maturity. Missing histories are excluded, never zero-f
 Benchmark overlays follow Settings, including CDI's prior-day accrual and calendar-day IPCA
 proration. Run `pnpm check:overview` for aggregation, FX, missing data, date boundaries,
 statement valuation, chain linking and benchmark checks.
+
+## Stocks preview
+
+Open **Investments → Stocks** for the isolated demo portfolio. Add, edit, and remove
+holdings for the current app session. Adding an existing ticker combines quantities and
+weighted average prices; editing folds trades into a single holding like macOS.
+
+Public Yahoo prices and adjusted histories drive holdings and BRL performance; US
+positions require USD/BRL. Pull to refresh retries failed requests, retaining prior quotes
+with their timestamps. Incomplete totals and performance show unavailable states. The
+chart uses today's quantities and Settings benchmarks (CDI/IPCA from BCB; S&P 500 and
+IBOV from Yahoo). IFIX history is unavailable in this preview. Monthly inflation uses
+published observations without projecting missing months.
+
+Dividends use Yahoo ex-date events times current shares, converted at historical FX,
+before tax. They are not confirmed receipts or a B3 payment calendar; upcoming payments
+remain unavailable. No synthetic prices, returns or dividends are added to the fixtures.
+Run `pnpm check:stocks` for holdings, editing, returns, FX, sorting and quote parsing checks.
 
 ## FGC Watcher
 

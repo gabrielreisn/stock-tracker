@@ -4,7 +4,7 @@ import { ActivityIndicator, Pressable, RefreshControl, ScrollView, StyleSheet, T
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { AllocationDonut, ReturnChart, type ChartLine } from './charts';
-import { createDemoData } from '@/data/demo';
+import { useStockTrades } from '@/lib/demo-stock-store';
 import { useTheme } from '@/hooks/use-theme';
 import { useEnabledBenchmarks } from '@/lib/benchmarks';
 import { useBonds } from '@/lib/bond-store';
@@ -14,9 +14,7 @@ import { t } from '@/lib/i18n';
 import { ASSET_CLASSES, ASSET_COLORS, buildOverview, emptyMarket, percent, rangeStart, rebase, RANGES, stockQuantities, type OverviewRange } from '@/lib/overview';
 import { benchmarkLines, fetchOverviewMarket, type OverviewPrices } from '@/lib/overview-market';
 
-const demo = createDemoData();
 const labels = { stocks: 'Stocks', bonds: 'Bonds', funds: 'Funds' } as const;
-const tickers = stockQuantities(demo.trades).map(([ticker]) => ticker);
 function savedRange(): OverviewRange {
   try { const saved = Storage.getItemSync('overviewRange'); return RANGES.find(range => range === saved) ?? 'YTD'; } catch { return 'YTD'; }
 }
@@ -24,6 +22,8 @@ function savedRange(): OverviewRange {
 export function OverviewScreen() {
   const theme = useTheme();
   const bonds = useBonds();
+  const trades = useStockTrades();
+  const symbols = stockQuantities(trades).map(([ticker]) => ticker).join(',');
   const { holdings } = demoFunds.useValue();
   const enabled = useEnabledBenchmarks();
   const [range, setRange] = useState(savedRange);
@@ -31,18 +31,18 @@ export function OverviewScreen() {
   const [prices, setPrices] = useState<OverviewPrices | null>(null);
   const [loading, setLoading] = useState(true);
   const day = today();
-  const earliest = Math.min(rangeStart('5Y', day, day), ...bonds.map(bond => bond.issueDay), ...demo.trades.map(trade => Number(trade.date.slice(0, 10).replaceAll('-', ''))));
+  const earliest = Math.min(rangeStart('5Y', day, day), ...bonds.map(bond => bond.issueDay), ...trades.map(trade => Number(trade.date.slice(0, 10).replaceAll('-', ''))));
   // Include an extra month for the return base and IPCA publication lag.
   const start = Math.floor(earliest / 10000) * 10000 + 101;
   useEffect(function loadOverviewPrices() {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), 20000);
     let active = true;
-    fetchOverviewMarket(tickers, start, controller.signal).then(result => { if (active) setPrices(result); })
+    fetchOverviewMarket(symbols ? symbols.split(',') : [], start, controller.signal).then(result => { if (active) setPrices(result); })
       .finally(() => { clearTimeout(timeout); if (active) setLoading(false); });
     return () => { active = false; clearTimeout(timeout); controller.abort(); };
-  }, [start, attempt]);
-  const overview = useMemo(() => buildOverview(demo.trades, bonds, holdings, prices?.market ?? emptyMarket, day), [bonds, holdings, prices, day]);
+  }, [start, attempt, symbols]);
+  const overview = useMemo(() => buildOverview(trades, bonds, holdings, prices?.market ?? emptyMarket, day), [trades, bonds, holdings, prices, day]);
   const from = rangeStart(range, day, overview.first);
   const curve = rebase(overview.curve, from);
   const last = curve.at(-1);
