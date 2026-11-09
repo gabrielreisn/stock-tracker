@@ -51,7 +51,7 @@ function ConglomerateDetails({ conglomerate, names }: { conglomerate: Conglomera
     progress.set(withTiming(next ? 1 : 0, { duration: 220, easing: Easing.out(Easing.cubic) }));
   }
   const others = conglomerate.members.filter(member => !names.some(name => foldIssuer(name) === foldIssuer(member)));
-  const toggleLabel = t(expanded ? 'Hide other institutions' : 'Show {count} other institutions', { count: others.length });
+  const toggleLabel = t(expanded ? 'Hide ({count}) other institutions' : 'Show ({count}) other institutions', { count: others.length });
   const members = others.map(member => <Label key={member} secondary>{member}</Label>);
   return <View style={styles.conglomerate}>
     <Label secondary>{t('Conglomerate {name}', { name: conglomerate.name })}</Label>
@@ -61,7 +61,7 @@ function ConglomerateDetails({ conglomerate, names }: { conglomerate: Conglomera
       accessibilityState={{ expanded }}
       onPress={toggle}
       style={styles.disclosure}>
-      <Text style={[styles.disclosureLabel, { color: theme.textSecondary }]}>{toggleLabel}</Text>
+      <Text style={[styles.disclosureLabel, { color: theme.text }]}>{toggleLabel}</Text>
       <Animated.View accessible={false} style={[styles.arrow, arrowStyle]}>
         <View style={[styles.chevron, { borderColor: theme.textSecondary }]} />
       </Animated.View>
@@ -98,9 +98,9 @@ export function ExposureCard({ exposure, onEdit }: { exposure: Exposure; onEdit:
 const styles = StyleSheet.create({
   conglomerate: { gap: 4 },
   disclosure: { minHeight: 44, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 8 },
-  disclosureLabel: { flexShrink: 1, fontSize: 14, lineHeight: 20, opacity: .75 },
-  arrow: { width: 28, height: 28, justifyContent: 'center', alignItems: 'center', opacity: .75 },
-  chevron: { width: 11, height: 11, borderTopWidth: 1.5, borderRightWidth: 1.5, transform: [{ rotate: '45deg' }] },
+  disclosureLabel: { flexShrink: 1, fontSize: 14, lineHeight: 20 },
+  arrow: { width: 20, height: 20, justifyContent: 'center', alignItems: 'center', opacity: .75 },
+  chevron: { width: 7, height: 7, borderTopWidth: 1.5, borderRightWidth: 1.5, transform: [{ rotate: '45deg' }] },
   memberClip: { overflow: 'hidden' },
   members: { position: 'absolute', width: '100%', gap: 8, paddingVertical: 4 },
   row: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: 8 },
