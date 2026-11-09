@@ -2,6 +2,8 @@ import { getLocales } from 'expo-localization';
 
 // Same convention as macOS/Resources/pt-BR.lproj/Localizable.strings: the English text is the key.
 const portuguese = {
+  'Show {count} other institutions': 'Mostrar outras instituições ({count})',
+  'Hide other institutions': 'Ocultar outras instituições',
   "Under 80%": "Abaixo de 80%",
   "80–100%": "80–100%",
   "Above the limit": "Acima do limite",

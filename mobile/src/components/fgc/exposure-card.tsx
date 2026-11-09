@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 
 import { Card, Label, Title } from '@/components/bonds/ui';
@@ -5,7 +6,7 @@ import { useTheme } from '@/hooks/use-theme';
 import { describeRate, formatDay, money } from '@/lib/bonds';
 import { FGC_INSTITUTION_LIMIT, fgcStatus, foldIssuer, formatCNPJ, type Exposure } from '@/lib/fgc';
 import { t, type StringKey } from '@/lib/i18n';
-import type { Bond } from '@/types';
+import type { Bond, Conglomerate } from '@/types';
 
 const statusLabels: Record<ReturnType<typeof fgcStatus>, StringKey> = {
   unknown: 'Valuation unavailable', within: 'Under 80%', near: '80–100%', above: 'Above the limit',
@@ -36,13 +37,32 @@ function ExposureMetrics({ exposure, color }: { exposure: Exposure; color: strin
   </>;
 }
 
+function ConglomerateDetails({ conglomerate, names }: { conglomerate: Conglomerate; names: string[] }) {
+  const theme = useTheme();
+  const [expanded, setExpanded] = useState(false);
+  const others = conglomerate.members.filter(member => !names.some(name => foldIssuer(name) === foldIssuer(member)));
+  const toggleLabel = t(expanded ? 'Hide other institutions' : 'Show {count} other institutions', { count: others.length });
+  const members = expanded ? others.map(member => <Label key={member} secondary>{member}</Label>) : null;
+  return <View style={styles.conglomerate}>
+    <Label secondary>{t('Conglomerate {name}', { name: conglomerate.name })}</Label>
+    {others.length > 0 && <Pressable
+      accessibilityRole="button"
+      accessibilityLabel={toggleLabel}
+      accessibilityState={{ expanded }}
+      onPress={() => setExpanded(value => !value)}
+      style={styles.disclosure}>
+      <Text style={[styles.disclosureLabel, { color: theme.link }]}>{toggleLabel}</Text>
+      <Text accessible={false} style={{ color: theme.link }}>{expanded ? '▴' : '▾'}</Text>
+    </Pressable>}
+    {members}
+  </View>;
+}
+
 export function ExposureCard({ exposure, onEdit }: { exposure: Exposure; onEdit: (bond: Bond) => void }) {
   const theme = useTheme();
   const { names, cnpjs, conglomerate, bonds, gross, atMaturity } = exposure;
   const status = fgcStatus(gross);
   const color = status === 'above' ? '#dc2626' : status === 'near' ? theme.warning : status === 'unknown' ? theme.textSecondary : theme.success;
-  const others = conglomerate?.members.filter(member => !names.some(name => foldIssuer(name) === foldIssuer(member))) ?? [];
-  const sharedWith = others.length ? t('Shares the limit with {names}', { names: others.join(', ') }) : null;
   const cnpjText = cnpjs.map(formatCNPJ).join(' · ');
   const rows = bonds.map(({ bond, value }) => <Pressable key={bond.id} accessibilityRole="button" accessibilityLabel={`${t('Edit bond')}: ${bond.kind} ${bond.code}`} onPress={() => onEdit(bond)} style={[styles.bond, { borderTopColor: theme.selected }]}>
     <Label>{bond.kind} · {bond.code}  ›</Label>
@@ -52,8 +72,7 @@ export function ExposureCard({ exposure, onEdit }: { exposure: Exposure; onEdit:
   return <Card>
     <Title>{names.join(' + ')}</Title>
     {cnpjs.length ? <Text selectable style={[styles.caption, { color: theme.textSecondary }]}>{cnpjText}</Text> : <Text style={{ color: theme.warning }}>{t('CNPJ unknown: edit the bonds to identify the issuer.')}</Text>}
-    {conglomerate && <Label secondary>{t('Conglomerate {name}', { name: conglomerate.name })}</Label>}
-    {sharedWith && <Label secondary>{sharedWith}</Label>}
+    {conglomerate && <ConglomerateDetails conglomerate={conglomerate} names={names} />}
     <Text style={[styles.status, { color }]}>{t(statusLabels[status])}</Text>
     {gross !== null && atMaturity !== null && <ExposureBar gross={gross} atMaturity={atMaturity} color={color} />}
     <ExposureMetrics exposure={exposure} color={color} />
@@ -61,6 +80,9 @@ export function ExposureCard({ exposure, onEdit }: { exposure: Exposure; onEdit:
   </Card>;
 }
 const styles = StyleSheet.create({
+  conglomerate: { gap: 4 },
+  disclosure: { minHeight: 44, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 8 },
+  disclosureLabel: { flexShrink: 1, fontSize: 14, lineHeight: 20 },
   row: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between', alignItems: 'center', gap: 8 },
   caption: { fontSize: 12, lineHeight: 18 }, status: { fontSize: 14, fontWeight: '600' },
   bond: { borderTopWidth: StyleSheet.hairlineWidth, paddingTop: 12, gap: 6, minHeight: 48 },
