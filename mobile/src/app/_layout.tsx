@@ -41,7 +41,7 @@ export default function RootLayout() {
           <NativeTabs.Trigger.Label>{t('Finances')}</NativeTabs.Trigger.Label>
           <NativeTabs.Trigger.Icon sf="list.bullet.rectangle" md="receipt_long" />
         </NativeTabs.Trigger>
-        <NativeTabs.Trigger name="settings">
+        <NativeTabs.Trigger name="settings" disableAutomaticContentInsets>
           <NativeTabs.Trigger.Label>{t('Settings')}</NativeTabs.Trigger.Label>
           <NativeTabs.Trigger.Icon sf="gearshape" md="settings" />
         </NativeTabs.Trigger>
