@@ -194,7 +194,7 @@ function SyncStatus({ state }: { state: PluggyState }) {
   );
 }
 
-export function OpenFinanceSection() {
+export function OpenFinanceSection({ inOnboarding = false }: { inOnboarding?: boolean }) {
   const theme = useTheme();
   const state = usePluggy();
   const [connecting, setConnecting] = useState<{ updating: string | null } | null>(null);
@@ -207,7 +207,7 @@ export function OpenFinanceSection() {
       <SettingsGroup
         title={t('Open Finance')}
         footer={t('Your client secret stays in secure storage on this device and only leaves it to sign in to Pluggy. Meu Pluggy consent lasts a year; when it lapses, use Reconnect.')}>
-        {!configured && <Guide />}
+        {!configured && !inOnboarding && <Guide />}
         <ClientIdRow state={state} />
         <ClientSecretRow state={state} />
         {state.itemIDs.map((id) => (

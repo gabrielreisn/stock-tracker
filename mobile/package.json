@@ -10,6 +10,7 @@
     "android": "expo run:android",
     "lint": "expo lint",
     "typecheck": "tsc --noEmit",
+    "check:onboarding": "node scripts/check-onboarding.cjs",
     "check:pluggy": "node scripts/check-pluggy.cjs",
     "check:open-finance": "node scripts/check-open-finance.cjs && node scripts/check-open-finance-refresh.cjs",
     "check:insights": "node scripts/check-insights.cjs",
