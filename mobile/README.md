@@ -1,7 +1,7 @@
 # Cymba for iOS and Android
 
 The mobile client: an [Expo](https://docs.expo.dev) app (SDK 58, TypeScript, Expo Router). So far it's the shell, with
-the five tabs and no data yet.
+the four tabs and, in Settings, the benchmarks and the Open Finance connections.
 
 ## Develop
 
@@ -14,14 +14,17 @@ pnpm lint
 pnpm typecheck
 ```
 
-`ios/` and `android/` are generated and ignored by git: change native settings in `app.json`, not there. Once the app
-uses a native library Expo Go doesn't include, run it with `pnpm expo run:ios` or `pnpm expo run:android`.
+`ios/` and `android/` are generated and ignored by git: change native settings in `app.json`, not there. After adding a
+native library or config plugin, run `pnpm expo prebuild` and then `pnpm ios` or `pnpm android` to rebuild.
 
 ## Layout
 
 - `src/app/` — routes, one file per screen; `_layout.tsx` is the tab bar.
 - `src/components/`, `src/hooks/`, `src/constants/theme.ts` — shared UI, hooks and color tokens.
 - `src/lib/i18n.ts` — strings. As on macOS, the English text is the key, with a Portuguese translation for each.
+- `src/types/` — shared TypeScript data contracts for the screen implementations.
+- `src/data/demo/` — the macOS demo fixtures and `createDemoData()` loader. See [the data contract guide](src/data/README.md)
+  for imports, date/currency conventions, and the checks (`pnpm check:demo`).
 
 The tabs group the macOS sidebar, which has too many sections for a phone:
 
@@ -30,8 +33,11 @@ The tabs group the macOS sidebar, which has too many sections for a phone:
 | Overview     | Overview                                                    |
 | Investments  | Stocks, Bonds, Funds, FGC Watcher, Fund Comparison          |
 | Finances     | Expenses, Bills, Insights, Categories & limits, Open Finance |
-| AI           | AI                                                          |
-| Settings     | Settings                                                    |
+| Settings     | Benchmarks and Open Finance, from Settings                  |
+
+Open Finance works as on macOS: each user brings their own Pluggy application, and the app talks to `api.pluggy.ai`
+directly, with Pluggy's own `react-native-pluggy-connect` for the Connect widget. The client secret stays in the iOS Keychain or Android Keystore (`expo-secure-store`); everything else in
+Settings is plain preferences (`expo-sqlite/kv-store`).
 
 ## Release
 

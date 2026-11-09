@@ -39,7 +39,9 @@
         {
           "supportedLocales": ["pt-BR", "en"]
         }
-      ]
+      ],
+      ["expo-secure-store", { "faceIDPermission": false }],
+      "expo-sqlite"
     ],
     "experiments": {
       "typedRoutes": true,

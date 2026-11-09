@@ -36,10 +36,6 @@ export default function RootLayout() {
           <NativeTabs.Trigger.Label>{t('Finances')}</NativeTabs.Trigger.Label>
           <NativeTabs.Trigger.Icon sf="list.bullet.rectangle" md="receipt_long" />
         </NativeTabs.Trigger>
-        <NativeTabs.Trigger name="ai">
-          <NativeTabs.Trigger.Label>{t('AI')}</NativeTabs.Trigger.Label>
-          <NativeTabs.Trigger.Icon sf="sparkles" md="auto_awesome" />
-        </NativeTabs.Trigger>
         <NativeTabs.Trigger name="settings">
           <NativeTabs.Trigger.Label>{t('Settings')}</NativeTabs.Trigger.Label>
           <NativeTabs.Trigger.Icon sf="gearshape" md="settings" />

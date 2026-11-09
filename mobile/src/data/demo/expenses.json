@@ -1,0 +1,191 @@
+{
+  "categories": [
+    {
+      "id": "AE658F33-FE3B-890B-93F4-48B3A5AA3C81",
+      "name": "Groceries & Cleaning",
+      "symbol": "cart",
+      "limit": 1800,
+      "pluggyKeywords": [
+        "groceries",
+        "supermarket"
+      ]
+    },
+    {
+      "id": "B774EB52-48DB-40AF-7215-8370D269A9A5",
+      "name": "Home & Furniture",
+      "symbol": "house",
+      "pluggyKeywords": [
+        "home",
+        "furniture",
+        "houseware",
+        "housing improvement"
+      ]
+    },
+    {
+      "id": "58D5563D-AB2C-D31E-E315-128862C33A4F",
+      "name": "Delivery & Restaurants",
+      "symbol": "fork.knife",
+      "limit": 1200,
+      "pluggyKeywords": [
+        "eating out",
+        "restaurant",
+        "food delivery",
+        "delivery",
+        "food and drinks"
+      ]
+    },
+    {
+      "id": "5AFFB229-7631-A992-F0CE-583505C6AF07",
+      "name": "Transport & Travel",
+      "symbol": "car",
+      "limit": 700,
+      "pluggyKeywords": [
+        "transport",
+        "taxi",
+        "ride",
+        "gas station",
+        "parking",
+        "travel",
+        "airline",
+        "accommodation",
+        "toll"
+      ]
+    },
+    {
+      "id": "7E62AA0A-1DF9-FD78-9C65-39382B0537E6",
+      "name": "Health & Pharmacy",
+      "symbol": "cross.case",
+      "limit": 500,
+      "pluggyKeywords": [
+        "health",
+        "pharmacy",
+        "hospital",
+        "dentist",
+        "medical"
+      ]
+    },
+    {
+      "id": "49952399-C4AA-EAC1-37DC-76FB0F17A300",
+      "name": "Beauty & Self-care",
+      "symbol": "sparkles",
+      "limit": 300,
+      "pluggyKeywords": [
+        "beauty",
+        "wellness",
+        "gym",
+        "fitness"
+      ]
+    },
+    {
+      "id": "65DC9F50-3F63-AF83-BD05-61E6211C70CF",
+      "name": "Electronics & Tech",
+      "symbol": "laptopcomputer",
+      "pluggyKeywords": [
+        "electronics",
+        "technology"
+      ]
+    },
+    {
+      "id": "7F1B103C-DF15-82B0-EAB4-77D26415479C",
+      "name": "Subscriptions & Apps",
+      "symbol": "arrow.triangle.2.circlepath",
+      "limit": 200,
+      "pluggyKeywords": [
+        "subscription",
+        "streaming",
+        "digital services",
+        "software"
+      ]
+    },
+    {
+      "id": "66D22876-72FD-F202-2A96-FB1A14A0F9E7",
+      "name": "Books & Education",
+      "symbol": "book",
+      "limit": 400,
+      "pluggyKeywords": [
+        "education",
+        "books",
+        "school",
+        "university"
+      ]
+    },
+    {
+      "id": "230D977E-E225-7159-4720-771F8CA81811",
+      "name": "Pets",
+      "symbol": "pawprint",
+      "limit": 350,
+      "pluggyKeywords": [
+        "pet"
+      ]
+    },
+    {
+      "id": "8CDB305F-DD2E-1609-6E36-AAB0D1BC52D9",
+      "name": "Clothing & Accessories",
+      "symbol": "tshirt",
+      "limit": 500,
+      "pluggyKeywords": [
+        "clothing",
+        "apparel",
+        "fashion"
+      ]
+    },
+    {
+      "id": "FC891B4A-6A50-DF4D-B4D6-6A3A47469A4D",
+      "name": "Leisure & Games",
+      "symbol": "gamecontroller",
+      "limit": 400,
+      "pluggyKeywords": [
+        "leisure",
+        "entertainment",
+        "games",
+        "gaming",
+        "cinema",
+        "tickets"
+      ]
+    },
+    {
+      "id": "616499C9-E25A-7605-AEC6-F0245BD86D40",
+      "name": "Housing & Bills",
+      "symbol": "bolt",
+      "limit": 2200,
+      "pluggyKeywords": [
+        "bills",
+        "utilities",
+        "electricity",
+        "water",
+        "rent",
+        "telecommunications",
+        "internet",
+        "mobile",
+        "taxes",
+        "housing"
+      ]
+    },
+    {
+      "id": "153E7C2A-26A2-C0BD-3B12-87FFF52DDF5D",
+      "name": "PIX & Transfers",
+      "symbol": "arrow.left.arrow.right",
+      "pluggyKeywords": [
+        "transfer",
+        "pix"
+      ]
+    },
+    {
+      "id": "A8948C89-3B61-8676-26BB-7DBD2D1C9AF0",
+      "name": "Shopping",
+      "symbol": "bag",
+      "limit": 800,
+      "pluggyKeywords": [
+        "shopping",
+        "online shopping",
+        "department store"
+      ]
+    }
+  ],
+  "rules": {},
+  "overrides": {},
+  "manual": [],
+  "totalLimit": 11000,
+  "alertAt": 0.8,
+  "notified": []
+}

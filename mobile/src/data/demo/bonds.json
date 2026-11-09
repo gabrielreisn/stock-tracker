@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3F98E277-4CBD-87AD-5C90-A9587403E430",
+    "kind": "CDB",
+    "issuer": "BANCO INTER S.A.",
+    "issuerCNPJ": "00416968000101",
+    "code": "CDB34127884D",
+    "issueDay": 20250110,
+    "maturityDay": 20280110,
+    "indexer": "fixed",
+    "rate": 13.2,
+    "quantity": 40,
+    "unitPrice": 1000
+  },
+  {
+    "id": "86734721-4CDD-2055-930D-6EAF14F4733F",
+    "kind": "CDB",
+    "issuer": "BANCO DAYCOVAL S.A.",
+    "issuerCNPJ": "62232889000190",
+    "code": "CDB76453392F",
+    "issueDay": 20240805,
+    "maturityDay": 20270805,
+    "indexer": "cdi",
+    "rate": 112.0,
+    "quantity": 35,
+    "unitPrice": 1000
+  },
+  {
+    "id": "9BE4BCFC-49B6-4A08-72E6-CC3ABABCED20",
+    "kind": "LCA",
+    "issuer": "BANCO BTG PACTUAL S.A.",
+    "issuerCNPJ": "30306294000145",
+    "code": "LCA19824854B",
+    "issueDay": 20250318,
+    "maturityDay": 20270318,
+    "indexer": "cdi",
+    "rate": 94.0,
+    "quantity": 30,
+    "unitPrice": 1000
+  },
+  {
+    "id": "C1D3FCFF-2A3A-F4D4-6B0A-18E8830E07BC",
+    "kind": "CDB",
+    "issuer": "BANCO PAN S.A.",
+    "issuerCNPJ": "59285411000113",
+    "code": "CDB55909953C",
+    "issueDay": 20241122,
+    "maturityDay": 20291122,
+    "indexer": "ipca",
+    "rate": 7.1,
+    "quantity": 25,
+    "unitPrice": 1000
+  },
+  {
+    "id": "0A097C97-6BF4-6C69-7D2C-AF82EEEACBE2",
+    "kind": "CDB",
+    "issuer": "BANCO ABC BRASIL S.A.",
+    "issuerCNPJ": "28195667000106",
+    "code": "CDB99686414B",
+    "issueDay": 20250602,
+    "maturityDay": 20300602,
+    "indexer": "fixed",
+    "rate": 14.05,
+    "quantity": 20,
+    "unitPrice": 1000
+  },
+  {
+    "id": "CA02135E-92B1-D3F2-8EDE-0D7AC3BAEA9E",
+    "kind": "LCI",
+    "issuer": "BANCO INTER S.A.",
+    "issuerCNPJ": "00416968000101",
+    "code": "LCI52110478F",
+    "issueDay": 20250814,
+    "maturityDay": 20270814,
+    "indexer": "cdi",
+    "rate": 93.0,
+    "quantity": 15,
+    "unitPrice": 1000
+  }
+]
