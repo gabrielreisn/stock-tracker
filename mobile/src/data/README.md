@@ -96,3 +96,22 @@ USD/BRL for US events. Received/upcoming totals, filters and the monthly stacked
 use the same paid/date rules as macOS. Failed quote histories do not suppress B3
 announcements. Partial source coverage is labeled. Run `pnpm check:stocks` to verify
 share-class filtering, payment dates, missing FX, totals and the holdings calculations.
+
+## Fund market data
+
+The funds screen loads public CVM share-price reports on entry and on pull-to-refresh. FIFs
+use `FI/DOC/INF_DIARIO/DADOS/inf_diario_fi_YYYYMM.zip`; FIDCs use the
+`inf_mensal_fidc_tab_X_2_YYYYMM.csv` table from the monthly FIDC ZIP. Like desktop, FIF
+subclasses are not mixed with the class series; FIDC series use the greatest outstanding
+share count. FIPs retain statement valuations without inventing public return histories.
+
+The loader covers 16 months to accommodate reporting delays plus a 12-month baseline.
+It streams decompression one archive at a time and stores only held funds' numeric rows in
+SQLite, with a 12-hour cache. Pull-to-refresh bypasses that cache and refreshes connected
+Open Finance holdings first. Failed downloads preserve cached quotes and show a retry message.
+
+Trailing month, YTD and trailing year returns end on CVM's latest reporting day and use the
+last quote on or before each calendar boundary, including leap-day clamping. A newer bank
+statement changes valuation, not CVM returns. Missing baselines stay unavailable; summary
+returns weight only positions with that period's return by their latest gross values.
+Run `pnpm check:fund-market` for parser, valuation, return, caching and refresh regression checks.

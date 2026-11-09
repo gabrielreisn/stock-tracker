@@ -1,7 +1,14 @@
 import { router } from 'expo-router';
 import { useState } from 'react';
-import { Pressable, ScrollView, Text, TextInput, View } from 'react-native';
-import { Metric } from '@/components/funds/ui';
+import {
+  Pressable,
+  RefreshControl,
+  ScrollView,
+  Text,
+  TextInput,
+  View,
+} from 'react-native';
+import { Metric, ReturnMetric } from '@/components/funds/ui';
 import { styles } from '@/components/funds/styles';
 import { ActionButton } from '@/components/settings/ui';
 import { useTheme } from '@/hooks/use-theme';
@@ -9,7 +16,6 @@ import {
   fundStore,
   formatCNPJ,
   fundPurpose,
-  grossValue,
   money,
   purposeLabels,
   purposes,
@@ -17,6 +23,10 @@ import {
   dayInput,
 } from '@/lib/funds';
 import { t } from '@/lib/i18n';
+import { fundValuation, weightedFundReturn } from '@/lib/fund-performance';
+import { refreshFundMarket, useFundMarket } from '@/lib/use-fund-market';
+import { isConfigured, sync, usePluggy } from '@/lib/pluggy-store';
+import type { FundHolding } from '@/types';
 
 const sortOptions = ['Name', 'Shares', 'Gross value'] as const;
 type Sort = (typeof sortOptions)[number];
@@ -32,6 +42,27 @@ const palette = [
 export default function FundsScreen() {
   const theme = useTheme();
   const { holdings } = fundStore.useValue();
+  const market = useFundMarket(holdings);
+  const pluggy = usePluggy();
+  const [refreshing, setRefreshing] = useState(false);
+  const [syncFailed, setSyncFailed] = useState(false);
+  const valuations = holdings.map((fund) =>
+    fundValuation(fund, market.histories[fund.cnpj]),
+  );
+  function grossValue(fund: FundHolding) {
+    return fundValuation(fund, market.histories[fund.cnpj])?.gross;
+  }
+  function refresh() {
+    if (refreshing) return;
+    setRefreshing(true);
+    setSyncFailed(false);
+    void reloadFundData(isConfigured(pluggy) && pluggy.itemIDs.length > 0)
+      .then(
+        (success) => setSyncFailed(!success),
+        () => setSyncFailed(true),
+      )
+      .finally(() => setRefreshing(false));
+  }
   const [query, setQuery] = useState('');
   const [sort, setSort] = useState<Sort>('Gross value');
   const [ascending, setAscending] = useState(false);
@@ -57,8 +88,9 @@ export default function FundsScreen() {
       return direction * (av - bv) || a.name.localeCompare(b.name);
     });
   const cards = rows.map((fund) => {
-    const price = fund.statementPrice;
-    const source = fund.statementFromOpenFinance ? 'Open Finance' : 'Statement';
+    const value = fundValuation(fund, market.histories[fund.cnpj]);
+    const price = value?.price;
+    const source = value?.source;
     return (
       <Pressable
         key={fund.id}
@@ -89,19 +121,24 @@ export default function FundsScreen() {
           />
           <Metric
             label={t('Price date')}
-            value={fund.statementDay ? dayInput(fund.statementDay) : '—'}
+            value={value ? dayInput(value.day) : '—'}
           />
         </View>
-        {fund.statementDay && (
+        {source && (
           <Text style={[styles.caption, { color: theme.textSecondary }]}>
             {t(source)}
           </Text>
         )}
         <View style={styles.row}>
-          <Metric label={t('Last month')} value="—" />
-          <Metric label={t('Year to date')} value="—" />
-          <Metric label={t('Last 12 months')} value="—" />
+          <ReturnMetric label={t('Last month')} value={value?.month} />
+          <ReturnMetric label={t('Year to date')} value={value?.ytd} />
+          <ReturnMetric label={t('Last 12 months')} value={value?.year} />
         </View>
+        {value?.returnDay && (
+          <Text style={[styles.caption, { color: theme.textSecondary }]}>
+            {t('CVM returns as of {date}', { date: dayInput(value.returnDay) })}
+          </Text>
+        )}
         <Text style={[styles.caption, { color: theme.link }]}>
           {t('Edit fund')} →
         </Text>
@@ -165,6 +202,13 @@ export default function FundsScreen() {
   });
   return (
     <ScrollView
+      refreshControl={
+        <RefreshControl
+          refreshing={refreshing || market.loading}
+          onRefresh={() => void refresh()}
+          tintColor={theme.textSecondary}
+        />
+      }
       keyboardShouldPersistTaps="handled"
       contentContainerStyle={styles.content}
       style={{ backgroundColor: theme.background }}
@@ -188,9 +232,18 @@ export default function FundsScreen() {
             label={t(complete ? 'Gross value' : 'Known gross value')}
             value={money(valued.length ? total : undefined)}
           />
-          <Metric label={t('Last month')} value="—" />
-          <Metric label={t('Year to date')} value="—" />
-          <Metric label={t('Last 12 months')} value="—" />
+          <ReturnMetric
+            label={t('Last month')}
+            value={weightedFundReturn(valuations, 'month')}
+          />
+          <ReturnMetric
+            label={t('Year to date')}
+            value={weightedFundReturn(valuations, 'ytd')}
+          />
+          <ReturnMetric
+            label={t('Last 12 months')}
+            value={weightedFundReturn(valuations, 'year')}
+          />
         </View>
         <Text style={[styles.caption, { color: theme.textSecondary }]}>
           {t('{count} of {total} funds valued', {
@@ -199,6 +252,34 @@ export default function FundsScreen() {
           })}
         </Text>
       </View>
+      {market.loading && (
+        <Text style={[styles.caption, { color: theme.textSecondary }]}>
+          {t('Loading CVM reports {done}/{total}', {
+            done: market.done,
+            total: market.total,
+          })}
+        </Text>
+      )}
+      {!!market.failed.length && (
+        <Text
+          accessibilityRole="alert"
+          style={[styles.caption, { color: theme.warning }]}
+        >
+          {t(
+            'Some CVM reports could not be refreshed. Cached prices remain visible. Pull to retry.',
+          )}
+        </Text>
+      )}
+      {syncFailed && (
+        <Text
+          accessibilityRole="alert"
+          style={[styles.caption, { color: theme.warning }]}
+        >
+          {t(
+            'Bank holdings could not be refreshed. Previous holdings remain visible.',
+          )}
+        </Text>
+      )}
       <TextInput
         accessibilityLabel={t('Search by name or CNPJ')}
         placeholder={t('Search by name or CNPJ')}
@@ -250,9 +331,22 @@ export default function FundsScreen() {
       </View>
       <Text style={[styles.caption, { color: theme.textSecondary }]}>
         {t(
-          'Values use the latest bank statement. Returns require CVM history. Values are gross, before income tax.',
+          'Prices use CVM or a newer statement. Returns use CVM history as of its latest quote: daily for FIFs, monthly for FIDCs. FIPs have no public quota history. Missing periods show —. Summary returns are weighted by known gross value. Values are before income tax. Pull to refresh.',
         )}
       </Text>
     </ScrollView>
   );
+}
+
+async function reloadFundData(refreshBank: boolean): Promise<boolean> {
+  let success = true;
+  if (refreshBank) {
+    try {
+      success = await sync();
+    } catch {
+      success = false;
+    }
+  }
+  await refreshFundMarket(fundStore.get().holdings, true);
+  return success;
 }
