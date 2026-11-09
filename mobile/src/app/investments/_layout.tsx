@@ -5,7 +5,7 @@ export default function InvestmentsLayout() {
   return (
     <Stack>
       <Stack.Screen name="index" options={{ headerShown: false }} />
-      <Stack.Screen name="stocks" options={{ title: t('Stocks') }} />
+      <Stack.Screen name="stocks" options={{ title: t('Stocks'), headerBackTitle: t('Investments') }} />
 
       <Stack.Screen name="fgc" options={{ title: t('FGC Watcher') }} />
       <Stack.Screen name="bonds" options={{ title: t('Bonds') }} />

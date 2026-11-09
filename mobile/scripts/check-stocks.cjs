@@ -56,3 +56,28 @@ async function marketChecks() {
   await assert.rejects(failed.fetchStockQuote('AAPL', new AbortController().signal));
 }
 marketChecks().then(() => console.log('Stock holdings, returns, FX, sorting, input validation and quote parsing checks passed.')).catch(error => { console.error(error); process.exitCode = 1; });
+
+const { parseB3Dividends, dividendPayments, dividendSummary, dividendPaid } = load('stock-dividends.ts', { require: () => stocks });
+const announcements = parseB3Dividends('PETR4', [
+  { isinCode: 'BRPETRACNPR6', label: 'JRS CAP PROPRIO', rate: '1,234567', lastDatePrior: '18/12/2025', paymentDate: '20/02/2026' },
+  { isinCode: 'BRPETRACNPR6', label: 'DIVIDENDO', rate: '2,00', lastDatePrior: '01/11/2026', paymentDate: '20/12/2026' },
+  { isinCode: 'BRPETRACNOR9', label: 'DIVIDENDO', rate: '3,00', lastDatePrior: '01/11/2026', paymentDate: '20/12/2026' },
+  { isinCode: 'BRPETRACNPR6', label: 'DIVIDENDO', rate: '1,00', lastDatePrior: '01/11/2026', paymentDate: '' },
+  { isinCode: 'BRPETRACNPR6', rate: '1,00', lastDatePrior: '31/02/2026' },
+]);
+assert.equal(announcements.length, 3);
+assert.equal(announcements[0].kind, 'jcp');
+assert.equal(announcements[0].perShare, 1.234567);
+assert.equal(parseB3Dividends('IVVB11', []), null);
+const payments = dividendPayments([{ ticker: 'PETR4', quantity: 100 }], {}, { PETR4: announcements }, 2026);
+const summary = dividendSummary(payments, 20261109);
+assert.ok(Math.abs(summary.received - 123.4567) < 1e-8);
+assert.equal(summary.upcoming, 300);
+assert.equal(payments.filter(p => dividendPaid(p, 20261109)).length, 1);
+// A failed quote never hides independently fetched B3 cash payments.
+assert.equal(summary.missingFX, false);
+const fallback = dividendPayments([{ ticker: 'AAPL', quantity: 2 }], { AAPL: { history: { days: [], prices: [], dividends: [{ day: 20260105, amount: 0.5 }] } } }, {}, 2026);
+assert.equal(fallback[0].datedByExDate, true);
+assert.equal(fallback[0].amount, undefined);
+assert.equal(dividendSummary(fallback, 20261109).missingFX, true);
+console.log('B3 classes, prior-year record dates, payment types, upcoming/unknown dates and missing quote/FX checks passed.');

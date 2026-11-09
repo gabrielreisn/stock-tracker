@@ -2,6 +2,22 @@ import { getLocales } from 'expo-localization';
 
 // Same convention as macOS/Resources/pt-BR.lproj/Localizable.strings: the English text is the key.
 const portuguese = {
+  "Dividend": "Dividendo",
+  "JCP": "JCP",
+  "Income distribution": "Rendimento",
+  "All payments": "Todos os pagamentos",
+  "Received": "Recebido",
+  "Payment date not set": "Data de pagamento não definida",
+  "Ex-date": "Data ex",
+  "Holders on": "Data com",
+  "Received in": "Recebido em",
+  "Monthly dividends": "Proventos mensais",
+  "Faded bars indicate upcoming payments.": "Barras suaves indicam pagamentos a receber.",
+  "Partial dividend data. Totals include available events only.": "Dados parciais de proventos. Totais incluem apenas eventos disponíveis.",
+  "Loading dividends…": "Carregando proventos…",
+  "No payments in this view.": "Nenhum pagamento nesta visualização.",
+  "Amounts use current shares, before tax. B3 companies use announced payment and record dates. ETFs and US holdings use Yahoo ex-dates; these do not confirm receipt. US amounts use historical USD/BRL.": "Valores usam a quantidade atual, antes dos impostos. Empresas da B3 usam datas anunciadas de pagamento e data com. ETFs e ativos dos EUA usam datas ex do Yahoo, sem confirmação de recebimento. Valores dos EUA usam câmbio histórico.",
+  "B3 announcements unavailable; Yahoo ex-dates used when available.": "Anúncios da B3 indisponíveis; datas ex do Yahoo usadas quando disponíveis.",
   Back: 'Voltar',
   "Car": "Carro",
   "Fixed expenses": "Gastos fixos",

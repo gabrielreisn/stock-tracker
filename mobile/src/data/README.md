@@ -82,3 +82,17 @@ controls when background sync can discover new purchases; this is not a live ban
 Drag a category's handle to reorder; the list scrolls at its edges. VoiceOver/TalkBack users
 can use the handle's move-up/move-down actions. Run `pnpm check:notifications` for alert delivery,
 permission/retry behavior and category ordering checks.
+
+## Stocks and dividends
+
+Stocks uses the persistent personal account. Holding editors open in their own cards;
+additions use the separate add form. Native safe-area bounds keep the scroll viewport
+above the tab bar and below the navigation header.
+
+B3 company announcements provide dividend/JCP/income kinds, record dates and payment
+dates. ETFs and US holdings fall back to Yahoo ex-dividend dates; those dates are labeled
+and do not confirm receipt. Amounts use current quantities before tax, with historical
+USD/BRL for US events. Received/upcoming totals, filters and the monthly stacked chart
+use the same paid/date rules as macOS. Failed quote histories do not suppress B3
+announcements. Partial source coverage is labeled. Run `pnpm check:stocks` to verify
+share-class filtering, payment dates, missing FX, totals and the holdings calculations.
