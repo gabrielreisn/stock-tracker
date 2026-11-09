@@ -26,6 +26,28 @@ const portuguese = {
   "Create your Meu Pluggy account": "Crie sua conta no Meu Pluggy",
   "Your stocks, bonds, funds and spending in one place, checked against CDI, IPCA and the market. A few quick steps and you’re set.": "Suas ações, renda fixa, fundos e gastos em um só lugar, comparados ao CDI, IPCA e ao mercado. Bastam alguns passos para começar.",
   "Welcome to Cymba": "Bem-vindo ao Cymba",
+  "Spending notifications": "Notificações de gastos",
+  "Spending alerts": "Alertas de gastos",
+  "Enable notifications": "Ativar notificações",
+  "Open device Settings": "Abrir Ajustes do aparelho",
+  "Allow notifications for category limits and large purchases.": "Permita notificações para limites de categorias e compras altas.",
+  "Spending notifications are enabled.": "As notificações de gastos estão ativadas.",
+  "Notifications are blocked. Allow them in device Settings.": "As notificações estão bloqueadas. Permita-as nos Ajustes do aparelho.",
+  "Rebuild the app to enable device notifications.": "Gere uma nova versão do app para ativar notificações no aparelho.",
+  "Could not send notifications. Please try again.": "Não foi possível enviar notificações. Tente novamente.",
+  "Retry notifications": "Tentar notificações novamente",
+  "Limits are per month. Allow notifications to receive warnings at the chosen share, over a limit, or for large purchases.": "Os limites são mensais. Permita notificações para receber avisos na porcentagem escolhida, acima do limite ou para compras altas.",
+  "Monthly total": "Total mensal",
+  "{name}: limit exceeded": "{name}: limite excedido",
+  "{name}: {percent}% of the limit": "{name}: {percent}% do limite",
+  "{spent} of {limit} spent this month.": "{spent} de {limit} gastos neste mês.",
+  "Large purchase: {amount}": "Compra alta: {amount}",
+  "Reorder {name}": "Reordenar {name}",
+  "Drag to reorder, or use accessibility actions.": "Arraste para reordenar ou use as ações de acessibilidade.",
+  "Move down": "Mover para baixo",
+  "Move up": "Mover para cima",
+  "Drag the handle to reorder. Tap a category to edit it.": "Arraste a alça para reordenar. Toque na categoria para editá-la.",
+  "Deleting a category sends its purchases back to “To review”.": "Ao excluir uma categoria, suas compras voltam para “A revisar”.",
   'Background refresh is managed by the operating system; timing may vary.':
     'O sistema operacional gerencia a atualização em segundo plano; o horário pode variar.',
   'Tracked in portfolio': 'Acompanhado na carteira',
@@ -417,6 +439,7 @@ const portuguese = {
   "B3's real-estate fund (FII) index, with distributions reinvested. Starts Dec 2010.":
     'Índice de fundos imobiliários (FII) da B3, com rendimentos reinvestidos. Começa em dez/2010.',
   Benchmarks: 'Indicadores',
+  'No benchmarks selected': 'Nenhum indicador selecionado',
   Bills: 'Contas',
   Bonds: 'Renda fixa',
   Cancel: 'Cancelar',
@@ -489,7 +512,7 @@ export const language = isPortuguese ? 'pt' : 'en';
 
 /** Translates `key`, filling in `{placeholders}` from `values`. */
 export function t(key: StringKey, values: Record<string, string | number> = {}): string {
-  const text: string = isPortuguese ? portuguese[key] : key;
+  const text: string = isPortuguese ? (portuguese[key] ?? key) : key;
   return text.replace(/\{(\w+)\}/g, (placeholder, name: string) => String(values[name] ?? placeholder));
 }
 

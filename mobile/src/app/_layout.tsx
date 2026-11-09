@@ -5,6 +5,7 @@ import { useColorScheme } from 'react-native';
 import { Onboarding } from '@/components/onboarding';
 import { Colors } from '@/constants/theme';
 import { t } from '@/lib/i18n';
+import { useExpenseNotifications } from '@/lib/use-expense-notifications';
 import { useOpenFinanceRefresh } from '@/lib/pluggy-refresh';
 
 const lightNavigation = {
@@ -18,6 +19,7 @@ const darkNavigation = {
 
 export default function RootLayout() {
   useOpenFinanceRefresh();
+  useExpenseNotifications();
   const isDark = useColorScheme() === 'dark';
   const colors = isDark ? Colors.dark : Colors.light;
 

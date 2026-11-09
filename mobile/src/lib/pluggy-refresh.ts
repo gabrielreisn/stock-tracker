@@ -2,6 +2,7 @@ import { isRunningInExpoGo, requireOptionalNativeModule } from 'expo';
 import { AppState } from 'react-native';
 import { isConfigured, prepareBackgroundCredentials, syncIfNeeded, usePluggy } from '@/lib/pluggy-store';
 import { useEffect } from 'react';
+import { notifyCurrentExpenses } from '@/lib/expense-notifications';
 
 const TASK = 'cymba-open-finance-sync';
 const nativeAvailable = !isRunningInExpoGo() && !!requireOptionalNativeModule('ExpoBackgroundTask')
@@ -17,6 +18,7 @@ const background: typeof import('expo-background-task') | null = nativeAvailable
 if (taskManager && background && !taskManager.isTaskDefined(TASK)) {
   taskManager.defineTask(TASK, async function refreshOpenFinanceInBackground() {
     const success = await syncIfNeeded();
+    await notifyCurrentExpenses();
     return success ? background!.BackgroundTaskResult.Success : background!.BackgroundTaskResult.Failed;
   });
 }
