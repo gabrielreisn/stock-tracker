@@ -78,7 +78,11 @@ export default function BondsScreen() {
   const [ascending, setAscending] = useState(true);
   const rows = bonds.map(bond => ({ bond, value: valueBond(bond, rates) }));
   const editedValue = editing?.bond ? valueBond(editing.bond, rates) : null;
-  return <View style={[styles.root, { backgroundColor: theme.background }]}><ScrollView contentContainerStyle={s.content}>
+  return <>
+    <ScrollView
+      style={[styles.root, { backgroundColor: theme.background }]}
+      contentInsetAdjustmentBehavior="automatic"
+      contentContainerStyle={s.content}>
     <View style={s.row}><View style={s.column}><Label>{t('Demo account')}</Label><Label secondary>{t('Demo edits last for this session only.')}</Label></View><ActionButton title={t('Add bond')} isPrimary onPress={() => setEditing({ bond: null })} /></View>
     {loading && <Label secondary>{t('Loading CDI and IPCA…')}</Label>}
     {failed && <Card><Label>{t('Rate history is unavailable. Fixed-rate bonds are still valued; other values are left blank.')}</Label><ActionButton title={t('Retry')} onPress={retry} /></Card>}
@@ -89,6 +93,6 @@ export default function BondsScreen() {
       <HoldingGroups rows={rows} sort={sort} ascending={ascending} onEdit={bond => setEditing({ bond })} /><BondCharts rows={rows} />
       <Text style={[s.note, { color: theme.textSecondary }]}>{t('Values use business days over 252 with ANBIMA holidays, daily CDI compounding and monthly IPCA anniversaries. Income tax ranges from 22.5% to 15% on gains; exempt types pay no income tax. IOF applies within 30 days. Maturity projections carry forward the latest CDI or trailing 12-month IPCA and are estimates.')}</Text>
     </>}
-  </ScrollView>{editing && <BondForm key={editing.bond?.id ?? 'new'} bond={editing.bond} valuation={editedValue} onClose={() => setEditing(null)} />}</View>;
+  </ScrollView>{editing && <BondForm key={editing.bond?.id ?? 'new'} bond={editing.bond} valuation={editedValue} onClose={() => setEditing(null)} />}</>;
 }
 const styles = StyleSheet.create({ root: { flex: 1 }, holding: { gap: 8, paddingVertical: 14 } });
