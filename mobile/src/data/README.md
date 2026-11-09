@@ -88,3 +88,22 @@ plus 10%, rounded up to R$ 10, with the total limit set to the sum of category l
 foreign-currency conversions contribute zero rather than treating foreign amounts as reais.
 Run `pnpm check:expenses` to verify classification, suggestions, deletion cleanup, thresholds,
 and Brazilian amount parsing.
+
+## Overview
+
+The Overview tab uses the demo trades plus the same session-only bonds and funds edited in
+Investments. It loads public Yahoo adjusted closes (US stocks and S&P 500 converted with
+USD/BRL) and Banco Central CDI/IPCA. Pull to refresh or use **Refresh market data** to retry.
+No personal account or Pluggy store is read. The selected range is saved on the device.
+
+Totals, allocation and the ten largest positions use available gross BRL valuations.
+Unknown prices show in **Awaiting valuation** and are excluded from the explicitly labeled
+known-value subtotal and allocation. Funds use a dated statement price when provided in the
+Funds screen; CVM history downloading is not implemented on mobile, so the original demo
+funds have unavailable valuations. Statement-only funds contribute no return history.
+
+The return curve follows macOS's daily previous-value weighting of today's holdings; bonds
+join on issue and stop at maturity. Missing histories are excluded, never zero-filled.
+Benchmark overlays follow Settings, including CDI's prior-day accrual and calendar-day IPCA
+proration. Run `pnpm check:overview` for aggregation, FX, missing data, date boundaries,
+statement valuation, chain linking and benchmark checks.
