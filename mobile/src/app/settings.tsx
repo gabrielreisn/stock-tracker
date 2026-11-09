@@ -43,6 +43,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   content: {
+    flexGrow: 1,
     padding: Spacing.three,
     paddingBottom: Spacing.four + Spacing.two,
     gap: Spacing.four,
@@ -52,6 +53,7 @@ const styles = StyleSheet.create({
     fontWeight: '700',
   },
   sources: {
+    marginTop: 'auto',
     paddingHorizontal: Spacing.one,
     gap: Spacing.one,
   },
