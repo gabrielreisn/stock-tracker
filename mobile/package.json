@@ -13,7 +13,8 @@
     "check:demo": "node scripts/check-demo.cjs",
     "check:bills": "node scripts/check-bills.cjs",
     "check:expenses": "node scripts/check-expenses.cjs",
-    "check:bonds": "node scripts/check-bonds.cjs"
+    "check:bonds": "node scripts/check-bonds.cjs",
+    "check:funds": "node scripts/check-funds.cjs"
   },
   "dependencies": {
     "expo": "~58.0.23",

@@ -5,7 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useTheme } from '@/hooks/use-theme';
 import { t, type StringKey } from '@/lib/i18n';
 
-const upcoming: StringKey[] = ['Stocks', 'Funds', 'FGC Watcher', 'Fund Comparison'];
+const upcoming: StringKey[] = ['Stocks', 'FGC Watcher', 'Fund Comparison'];
 export default function InvestmentsScreen() {
   const theme = useTheme();
   const placeholders = upcoming.map(section => <View key={section} style={[styles.card, { backgroundColor: theme.surface }]}><Text style={{ color: theme.text }}>{t(section)}</Text><Text style={{ color: theme.textSecondary }}>{t('Coming soon')}</Text></View>);
@@ -14,6 +14,7 @@ export default function InvestmentsScreen() {
       <ScrollView contentContainerStyle={styles.content}>
         <Text accessibilityRole="header" style={[styles.title, { color: theme.text }]}>{t('Investments')}</Text>
         <Link href="/investments/bonds" asChild><Pressable accessibilityRole="button" style={[styles.card, { backgroundColor: theme.surface }]}><Text style={[styles.label, { color: theme.text }]}>{t('Bonds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
+        <Link href="/investments/funds" asChild><Pressable accessibilityRole="button" style={[styles.card, { backgroundColor: theme.surface }]}><Text style={[styles.label, { color: theme.text }]}>{t('Funds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
         {placeholders}
       </ScrollView>
     </SafeAreaView>
