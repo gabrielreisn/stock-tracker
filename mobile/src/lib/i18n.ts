@@ -2,6 +2,8 @@ import { getLocales } from 'expo-localization';
 
 // Same convention as macOS/Resources/pt-BR.lproj/Localizable.strings: the English text is the key.
 const portuguese = {
+  'To connect in Expo Go, restart Metro with --lan and reopen the project.':
+    'Para conectar no Expo Go, reinicie o Metro com --lan e abra o projeto de novo.',
   "Spending": "Gastos",
   "To review": "Para revisar",
   "Not spending": "Não são gastos",

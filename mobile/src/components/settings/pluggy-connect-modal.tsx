@@ -1,7 +1,8 @@
+import { createURL } from 'expo-linking';
 import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { ActivityIndicator, Linking, Modal, Pressable, StyleSheet, Text, useColorScheme, View } from 'react-native';
 import { PluggyConnect } from 'react-native-pluggy-connect';
-import { SafeAreaView } from 'react-native-safe-area-context';
+import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 
 import { ActionButton, settingsStyles } from '@/components/settings/ui';
 import { Spacing } from '@/constants/theme';
@@ -35,9 +36,11 @@ export function PluggyConnectModal({
   // PluggyConnect keeps the callbacks from its first render, so they can't read state.
   const hasSucceeded = useRef(false);
 
-  useEffect(() => {
+  useEffect(function startConnectSession() {
     let isCurrent = true;
-    connectSession(updating).then(
+    // Returns cymba://settings in our native build, or the current project's URL in Expo Go.
+    // Returning to the existing Settings route keeps this widget mounted while it polls the Item.
+    connectSession(updating, createURL('settings')).then(
       (started) => {
         if (isCurrent) setSession(started);
       },
@@ -57,78 +60,79 @@ export function PluggyConnectModal({
 
   return (
     <Modal animationType="slide" onRequestClose={onClose}>
-      <SafeAreaView style={[styles.root, { backgroundColor: theme.background }]}>
-        <View style={[styles.header, { borderBottomColor: theme.selected }]}>
-          <Text numberOfLines={1} style={[styles.headerTitle, { color: theme.text }]}>
-            {updating === null ? t('Connect account') : t('Renew connection')}
-          </Text>
-          <Pressable accessibilityRole="button" hitSlop={8} onPress={onClose} style={styles.headerAction}>
-            <Text style={[settingsStyles.label, { color: theme.link }]}>{t('Cancel')}</Text>
-          </Pressable>
-        </View>
-        {lastError && (
-          <Text style={[settingsStyles.caption, styles.lastError, { color: theme.textSecondary }]}>{lastError}</Text>
-        )}
-        <View style={styles.root}>
-          {session && (
-            <PluggyConnect
-              connectToken={session.token}
-              connectorIds={updating === null && session.connectorId !== null ? [session.connectorId] : undefined}
-              // Keeps the bank's sign-in in the app, so its result comes straight back to the widget. The default
-              // sends it to the system browser, which then has no way back here.
-              forceOauthInBrowser={false}
-              includeSandbox={false}
-              language={language}
-              onClose={() => {
-                if (!hasSucceeded.current) onClose();
-              }}
-              onError={(error) => {
-                if (error.message === 'ITEM_USER_ALREADY_EXISTS' && updating === null) {
-                  setIsAlreadyConnected(true);
-                } else {
-                  setLastError(error.message);
-                }
-              }}
-              onSuccess={({ item }) => {
-                hasSucceeded.current = true;
-                setIsFinishing(true);
-                void connected(item.id, updating).then(onClose);
-              }}
-              theme={scheme === 'dark' ? 'dark' : 'light'}
-              updateItem={updating ?? undefined}
-            />
+      <SafeAreaProvider>
+        <SafeAreaView style={[styles.root, { backgroundColor: theme.background }]}>
+          <View style={[styles.header, { borderBottomColor: theme.selected }]}>
+            <Text numberOfLines={1} style={[styles.headerTitle, { color: theme.text }]}>
+              {updating === null ? t('Connect account') : t('Renew connection')}
+            </Text>
+            <Pressable accessibilityRole="button" hitSlop={8} onPress={onClose} style={styles.headerAction}>
+              <Text style={[settingsStyles.label, { color: theme.link }]}>{t('Cancel')}</Text>
+            </Pressable>
+          </View>
+          {lastError && (
+            <Text style={[settingsStyles.caption, styles.lastError, { color: theme.textSecondary }]}>{lastError}</Text>
           )}
-          {(!session || isFinishing) && !fatalError && (
-            <Overlay>
-              <ActivityIndicator color={theme.textSecondary} />
-              <Text style={[settingsStyles.label, styles.centered, { color: theme.textSecondary }]}>
-                {isFinishing ? t('Syncing your accounts…') : t('Opening Pluggy Connect…')}
-              </Text>
-            </Overlay>
-          )}
-          {fatalError && (
-            <Overlay>
-              <Text style={[settingsStyles.label, styles.centered, { color: theme.text }]}>{fatalError}</Text>
-              <ActionButton title={t('Close')} onPress={onClose} />
-            </Overlay>
-          )}
-          {isAlreadyConnected && (
-            <Overlay>
-              <Text style={[styles.noticeTitle, styles.centered, { color: theme.text }]}>
-                {t('This Meu Pluggy account is already connected')}
-              </Text>
-              <Text style={[settingsStyles.label, styles.centered, { color: theme.textSecondary }]}>
-                {t("One MeuPluggy connection covers every bank and broker you authorize in Meu Pluggy. To add another institution, authorize it at meu.pluggy.ai; it shows up on Cymba's next sync.")}
-              </Text>
-              <ActionButton title={t('Open Meu Pluggy')} onPress={() => void Linking.openURL('https://meu.pluggy.ai')} />
-              {existing && (
-                <ActionButton title={t('Renew existing connection')} isPrimary onPress={() => onRenew(existing)} />
-              )}
-              <ActionButton title={t('Close')} onPress={onClose} />
-            </Overlay>
-          )}
-        </View>
-      </SafeAreaView>
+          <View style={styles.root}>
+            {session && (
+              <PluggyConnect
+                connectToken={session.token}
+                connectorIds={updating === null && session.connectorId !== null ? [session.connectorId] : undefined}
+                // MeuPluggy authorizes in the browser; the token's redirect brings the user back here.
+                forceOauthInBrowser
+                includeSandbox={false}
+                language={language}
+                onClose={() => {
+                  if (!hasSucceeded.current) onClose();
+                }}
+                onError={(error) => {
+                  if (error.message === 'ITEM_USER_ALREADY_EXISTS' && updating === null) {
+                    setIsAlreadyConnected(true);
+                  } else {
+                    setLastError(error.message);
+                  }
+                }}
+                onSuccess={({ item }) => {
+                  hasSucceeded.current = true;
+                  setIsFinishing(true);
+                  void connected(item.id, updating).then(onClose);
+                }}
+                theme={scheme === 'dark' ? 'dark' : 'light'}
+                updateItem={updating ?? undefined}
+              />
+            )}
+            {(!session || isFinishing) && !fatalError && (
+              <Overlay>
+                <ActivityIndicator color={theme.textSecondary} />
+                <Text style={[settingsStyles.label, styles.centered, { color: theme.textSecondary }]}>
+                  {isFinishing ? t('Syncing your accounts…') : t('Opening Pluggy Connect…')}
+                </Text>
+              </Overlay>
+            )}
+            {fatalError && (
+              <Overlay>
+                <Text style={[settingsStyles.label, styles.centered, { color: theme.text }]}>{fatalError}</Text>
+                <ActionButton title={t('Close')} onPress={onClose} />
+              </Overlay>
+            )}
+            {isAlreadyConnected && (
+              <Overlay>
+                <Text style={[styles.noticeTitle, styles.centered, { color: theme.text }]}>
+                  {t('This Meu Pluggy account is already connected')}
+                </Text>
+                <Text style={[settingsStyles.label, styles.centered, { color: theme.textSecondary }]}>
+                  {t("One MeuPluggy connection covers every bank and broker you authorize in Meu Pluggy. To add another institution, authorize it at meu.pluggy.ai; it shows up on Cymba's next sync.")}
+                </Text>
+                <ActionButton title={t('Open Meu Pluggy')} onPress={() => void Linking.openURL('https://meu.pluggy.ai')} />
+                {existing && (
+                  <ActionButton title={t('Renew existing connection')} isPrimary onPress={() => onRenew(existing)} />
+                )}
+                <ActionButton title={t('Close')} onPress={onClose} />
+              </Overlay>
+            )}
+          </View>
+        </SafeAreaView>
+      </SafeAreaProvider>
     </Modal>
   );
 }

@@ -74,13 +74,19 @@ export function createPluggyClient(clientId: string, clientSecret: string) {
     investments: (itemId: string) => all<PluggyInvestment>('investments', itemId),
 
     /** A 30-minute token for the Connect widget; with `itemId`, it reconnects that item instead of adding one. */
-    async connectToken(itemId: string | null): Promise<string> {
+    async connectToken(itemId: string | null, oauthRedirectUri: string): Promise<string> {
+      if (['localhost', '127.0.0.1', '[::1]'].includes(new URL(oauthRedirectUri).hostname)) {
+        throw new Error(t('To connect in Expo Go, restart Metro with --lan and reopen the project.'));
+      }
       // No avoidDuplicates: MeuPluggy items carry no credentials, so Pluggy would treat every new one as a
       // duplicate, yet each one shares a different institution. Cymba dedupes by accounts after syncing.
       const token = await send<{ accessToken: string }>('connect_token', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'X-API-KEY': await key() },
-        body: JSON.stringify(itemId ? { itemId } : {}),
+        body: JSON.stringify({
+          ...(itemId ? { itemId } : {}),
+          options: { oauthRedirectUri },
+        }),
       });
       return token.accessToken;
     },

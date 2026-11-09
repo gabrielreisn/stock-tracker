@@ -40,6 +40,16 @@ Open Finance works as on macOS: each user brings their own Pluggy application, a
 directly, with Pluggy's own `react-native-pluggy-connect` for the Connect widget. The client secret stays in the iOS Keychain or Android Keystore (`expo-secure-store`); everything else in
 Settings is plain preferences (`expo-sqlite/kv-store`).
 
+Pluggy authorization uses the system browser. Every Connect token includes
+`options.oauthRedirectUri`, built with `expo-linking` for the existing Settings route.
+Native Cymba builds return to `cymba://settings`; the mounted widget then detects the Item's
+status through Pluggy's polling. The callback itself is not proof of a successful connection.
+
+For Expo Go, start with `pnpm exec expo start --go --lan` and open the LAN project URL.
+Its return link uses `exp://<LAN address>:8081/--/settings`. Pluggy rejects localhost/127.0.0.1
+callbacks, and Expo Go cannot register `cymba://`. Use a Cymba native build for a stable
+callback scheme. Test create/reconnect token requests with `pnpm check:pluggy`.
+
 ## Insights
 
 Open **Finances → Insights** to explore the isolated demo account. The screen mirrors the macOS yearly summaries,

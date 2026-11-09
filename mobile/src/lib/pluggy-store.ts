@@ -125,10 +125,13 @@ export function removeItem(id: string) {
 }
 
 /** What the Connect widget needs: a fresh token, and the MeuPluggy connector to offer when it can be found. */
-export async function connectSession(updating: string | null): Promise<ConnectSession> {
+export async function connectSession(updating: string | null, redirectUri: string): Promise<ConnectSession> {
   const pluggy = client();
   if (!pluggy) throw new Error(t('Add your Pluggy client ID and secret in Settings.'));
-  const [token, connectorId] = await Promise.all([pluggy.connectToken(updating), pluggy.meuPluggyConnectorId()]);
+  const [token, connectorId] = await Promise.all([
+    pluggy.connectToken(updating, redirectUri),
+    pluggy.meuPluggyConnectorId(),
+  ]);
   return { token, connectorId };
 }
 

@@ -10,6 +10,7 @@
     "android": "expo run:android",
     "lint": "expo lint",
     "typecheck": "tsc --noEmit",
+    "check:pluggy": "node scripts/check-pluggy.cjs",
     "check:insights": "node scripts/check-insights.cjs",
     "check:fgc": "node scripts/check-fgc.cjs",
     "check:demo": "node scripts/check-demo.cjs",
