@@ -1,5 +1,1 @@
-import { SectionPlaceholder } from '@/components/section-placeholder';
-
-export default function OverviewScreen() {
-  return <SectionPlaceholder title="Overview" />;
-}
+export { OverviewScreen as default } from '@/components/overview/overview-screen';

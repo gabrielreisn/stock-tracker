@@ -89,6 +89,43 @@ foreign-currency conversions contribute zero rather than treating foreign amount
 Run `pnpm check:expenses` to verify classification, suggestions, deletion cleanup, thresholds,
 and Brazilian amount parsing.
 
+## Overview
+
+The Overview tab uses the same session-only trades, bonds and funds edited in
+Investments. It loads public Yahoo adjusted closes (US stocks and S&P 500 converted with
+USD/BRL) and Banco Central CDI/IPCA. Pull to refresh or use **Refresh market data** to retry.
+No personal account or Pluggy store is read. The selected range is saved on the device.
+
+Totals, allocation and the ten largest positions use available gross BRL valuations.
+Unknown prices show in **Awaiting valuation** and are excluded from the explicitly labeled
+known-value subtotal and allocation. Funds use a dated statement price when provided in the
+Funds screen; CVM history downloading is not implemented on mobile, so the original demo
+funds have unavailable valuations. Statement-only funds contribute no return history.
+
+The return curve follows macOS's daily previous-value weighting of today's holdings; bonds
+join on issue and stop at maturity. Missing histories are excluded, never zero-filled.
+Benchmark overlays follow Settings, including CDI's prior-day accrual and calendar-day IPCA
+proration. Run `pnpm check:overview` for aggregation, FX, missing data, date boundaries,
+statement valuation, chain linking and benchmark checks.
+
+## Stocks preview
+
+Open **Investments → Stocks** for the isolated demo portfolio. Add, edit, and remove
+holdings for the current app session. Adding an existing ticker combines quantities and
+weighted average prices; editing folds trades into a single holding like macOS.
+
+Public Yahoo prices and adjusted histories drive holdings and BRL performance; US
+positions require USD/BRL. Pull to refresh retries failed requests, retaining prior quotes
+with their timestamps. Incomplete totals and performance show unavailable states. The
+chart uses today's quantities and Settings benchmarks (CDI/IPCA from BCB; S&P 500 and
+IBOV from Yahoo). IFIX history is unavailable in this preview. Monthly inflation uses
+published observations without projecting missing months.
+
+Dividends use Yahoo ex-date events times current shares, converted at historical FX,
+before tax. They are not confirmed receipts or a B3 payment calendar; upcoming payments
+remain unavailable. No synthetic prices, returns or dividends are added to the fixtures.
+Run `pnpm check:stocks` for holdings, editing, returns, FX, sorting and quote parsing checks.
+
 ## FGC Watcher
 
 Open **Investments → FGC Watcher**. It shares the session-only demo bond store and valuation
