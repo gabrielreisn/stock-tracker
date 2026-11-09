@@ -140,3 +140,20 @@ Only issued, unexpired CDB, LC, LCI and LCA enter exposure totals; unsupported b
 separately. The overall percentage follows the desktop's sum of per-group capped exposure;
 prior FGC claims are not tracked. Run `pnpm check:fgc` for grouping, limit boundaries, demo
 totals, missing valuations and API fallback checks.
+
+## Expenses
+
+Open **Finances → Expenses** to browse the demo account by month. Spending, Income,
+To review and Not spending filters support store/description search and ascending or
+descending date, store, description, source, category and amount sorting. Tap a row to
+choose a category, apply a rule to the same merchant across months, move it out of spending,
+track bank payments in Bills, or delete it. Add purchase accepts a calendar date, store,
+positive BRL value (`25,90`) and optional category. Imported deletions remain hidden;
+manual purchases are removed. All edits last only for the app session.
+
+Categories and limits share `demoExpenseStore` with this screen. Bill tracking uses the
+existing separate Bills demo account. Installments count in their billed month. Foreign
+amounts use the bank's BRL conversion when supplied; otherwise the row is marked unavailable
+and excluded from the displayed totals. This preview does not fetch exchange rates or sync
+personal bank transactions. `pnpm check:expenses` also checks transaction actions, immutable
+store edits, merchant rules and bank payment sources.

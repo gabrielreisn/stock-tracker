@@ -15,7 +15,7 @@ function load(file) {
   return exports;
 }
 const { createDemoData } = load('src/data/demo/index.ts');
-const { classifyExpenses, spendingByCategory, deleteCategory, suggestLimits, limitStatus, parseAmount } = load('src/lib/expenses.ts');
+const { classifyExpenses, spendingByCategory, deleteCategory, suggestLimits, limitStatus, parseAmount, setExpenseCategory, setExpenseOutside, removeExpense } = load('src/lib/expenses.ts');
 const demo = createDemoData(20261109);
 const rows = classifyExpenses(demo.transactions, demo.expenses);
 assert.ok(rows.some((row) => row.kind === 'spending' && row.isCard));
@@ -83,3 +83,38 @@ assert.equal(parseAmount(''), undefined);
 for (const input of ['-1', '0', 'abc', '12,34,5', 'Infinity', '1.23']) assert.equal(parseAmount(input), 'invalid');
 assert.equal(demo.expenses.totalLimit, 11000, 'suggestion must not mutate the fixture');
 console.log('Expense classification, suggestions, deletion, thresholds and amount checks passed.');
+
+// Merchant rules apply across months, while excluded/deleted rows stay untouched.
+const sameStore = classified.filter((row) => row.merchantKey === 'TEST');
+const ruleSettings = { ...settings, overrides: {
+  'bank-debit': { category: { _0: category.id } },
+  'card-debit': { category: { _0: category.id } },
+  bill: { outside: {} }, salary: { deleted: {} },
+} };
+const before = JSON.stringify(ruleSettings);
+const updated = setExpenseCategory(ruleSettings, sameStore[0], second.id, true, classified);
+assert.equal(updated.rules.TEST, second.id);
+assert.equal(updated.overrides['card-debit'], undefined);
+assert.ok(updated.overrides.bill.outside);
+assert.ok(updated.overrides.salary.deleted);
+assert.equal(JSON.stringify(ruleSettings), before, 'category edits must not mutate the store snapshot');
+const automatic = setExpenseCategory(updated, sameStore[0]);
+assert.equal(automatic.overrides[sameStore[0].id], undefined);
+const excluded = setExpenseOutside(updated, sameStore[0], true);
+assert.equal(classifyExpenses(cache, excluded).find((row) => row.id === sameStore[0].id).kind, 'outside');
+assert.equal(setExpenseOutside(excluded, sameStore[0], false).overrides[sameStore[0].id], undefined);
+const deleted = removeExpense(updated, sameStore[0]);
+assert.ok(!classifyExpenses(cache, deleted).some((row) => row.id === sameStore[0].id));
+const manualRow = overridden.find((row) => row.id === 'manual');
+const manualDeleted = removeExpense(settings, manualRow);
+assert.equal(manualDeleted.manual.length, 0);
+assert.equal(manualDeleted.overrides.manual, undefined);
+const sourceCache = { ...cache, months: { 202611: [
+  make('pix', bank, 'DEBIT', -10, { paymentData: { paymentMethod: 'PIX' } }),
+  make('debit', bank, 'DEBIT', -10, { description: 'Compra débito' }),
+  make('auto', bank, 'DEBIT', -10, { description: 'Débito automático' }),
+  make('boleto', bank, 'DEBIT', -10, { paymentData: { paymentMethod: 'BOLETO' } }),
+  make('transfer', bank, 'DEBIT', -10, { paymentData: { paymentMethod: 'TED' } }),
+] } };
+assert.equal(classifyExpenses(sourceCache, demo.expenses).map((row) => row.source).join(','), 'pix,debitCard,autoDebit,boleto,transfer');
+console.log('Expense transaction actions and payment sources passed.');

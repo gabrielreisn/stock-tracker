@@ -1,4 +1,4 @@
-import type { Expense, ExpenseCategory, ExpenseSettings, MonthKey, TransactionCache } from '../types';
+import type { Expense, ExpenseCategory, ExpenseSettings, MonthKey, PluggyTransaction, ExpenseSource, TransactionCache } from '../types';
 
 export function moveMonth(month: MonthKey, offset: number): MonthKey {
   const date = new Date(Date.UTC(Math.floor(month / 100), month % 100 - 1 + offset, 1));
@@ -7,6 +7,19 @@ export function moveMonth(month: MonthKey, offset: number): MonthKey {
 
 export function merchantKey(name: string): string {
   return name.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toUpperCase().replace(/[^\p{L}\p{N}]/gu, '');
+}
+
+function sourceOf(row: PluggyTransaction, isCard: boolean): ExpenseSource {
+  if (isCard) return 'creditCard';
+  const method = row.paymentData?.paymentMethod?.toUpperCase();
+  const text = `${row.description ?? ''} ${row.descriptionRaw ?? ''}`.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toUpperCase();
+  if (method === 'PIX' || text.includes('PIX')) return 'pix';
+  if (['COMPRA DEBITO', 'DEBITO VISA', 'DEBITO MASTER', 'CARTAO DEBITO', 'COMPRA CARTAO'].some((s) => text.includes(s))
+    || row.category?.toLowerCase().includes('debit card')) return 'debitCard';
+  if (['DEBITO AUTOMATICO', 'DEB AUTOMATICO', 'DEB.AUT'].some((s) => text.includes(s))) return 'autoDebit';
+  if (method === 'BOLETO' || text.includes('BOLETO') || text.includes('PAGAMENTO DE TITULO')) return 'boleto';
+  if (['TED', 'DOC', 'TEF'].includes(method ?? '') || ['TED ', 'DOC ', 'TRANSF'].some((s) => text.includes(s))) return 'transfer';
+  return 'account';
 }
 
 /** Desktop classification order: exclusions, merchant rules, keyword mapping, then overrides. */
@@ -59,7 +72,7 @@ export function classifyExpenses(cache: TransactionCache, settings: ExpenseSetti
     rows.push({
       id: transaction.id, day, store, detail: transaction.descriptionRaw ?? transaction.description ?? '',
       amount, kind, categoryID, accountName: account?.marketingName ?? account?.name ?? undefined,
-      isCard, isManual: false, merchantKey: key, source: isCard ? 'creditCard' : 'account', billedLater,
+      isCard, isManual: false, merchantKey: key, source: sourceOf(transaction, isCard), billedLater,
       installment: installment && total && total > 1 ? `${installment}/${total}` : undefined,
       foreign: foreign ? { amount: original, currency, conversion: converted == null ? { kind: 'missing' } : { kind: 'bank' } } : undefined,
     });
@@ -132,4 +145,32 @@ export function newCategory(name: string): ExpenseCategory {
     return (letter === 'x' ? value : (value & 3) | 8).toString(16);
   });
   return { id, name, symbol: 'tag', pluggyKeywords: [] };
+}
+
+/** Same merchant rules and per-row choices as the desktop, applied immutably. */
+export function setExpenseCategory(settings: ExpenseSettings, row: Expense, id?: string, forStore = false, rows: Expense[] = []): ExpenseSettings {
+  const overrides = { ...settings.overrides };
+  if (id) overrides[row.id] = { category: { _0: id } };
+  else delete overrides[row.id];
+  if (id && forStore) {
+    // Only explicit category choices are cleared; exclusions and deletions survive.
+    for (const other of rows) {
+      if (other.id !== row.id && other.merchantKey === row.merchantKey && overrides[other.id]?.category) delete overrides[other.id];
+    }
+  }
+  return { ...settings, overrides, rules: id && forStore ? { ...settings.rules, [row.merchantKey]: id } : settings.rules };
+}
+
+export function removeExpense(settings: ExpenseSettings, row: Expense): ExpenseSettings {
+  const overrides = { ...settings.overrides };
+  if (row.isManual) delete overrides[row.id];
+  else overrides[row.id] = { deleted: {} };
+  return { ...settings, overrides, manual: settings.manual.filter((entry) => entry.id !== row.id) };
+}
+
+export function setExpenseOutside(settings: ExpenseSettings, row: Expense, outside: boolean): ExpenseSettings {
+  const overrides = { ...settings.overrides };
+  if (outside) overrides[row.id] = { outside: {} };
+  else delete overrides[row.id];
+  return { ...settings, overrides };
 }
