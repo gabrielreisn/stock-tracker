@@ -1,5 +1,5 @@
-import { useState } from 'react';
-import { Alert, KeyboardAvoidingView, Modal, Platform, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
+import { useRef, useState } from 'react';
+import { Alert, KeyboardAvoidingView, Modal, Platform, Pressable, ScrollView, StyleSheet, Text, TextInput, View, type ScrollViewInstance } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 import { ActionButton, SettingsGroup } from '@/components/settings/ui';
@@ -9,6 +9,9 @@ import { classifyExpenses, deleteCategory, limitStatus, newCategory, parseAmount
 import { language, t, type StringKey } from '@/lib/i18n';
 import type { ExpenseCategory, ExpenseSettings } from '@/types';
 import { CategoryIcon } from './category-icon';
+import { DraggableCategories } from './draggable-categories';
+import { NotificationPermission } from './notification-permission';
+import { reorderCategory, type CategoryScrollMetrics } from '@/lib/category-order';
 import { categoryIcons } from '@/lib/category-icons';
 
 const numberFormat = new Intl.NumberFormat('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
@@ -142,7 +145,9 @@ export function CategoriesScreen() {
   const { settings } = expenseStore.useValue();
   const { data: account } = accountStore.useValue();
   const [editor, setEditor] = useState<{ category: ExpenseCategory; isNew: boolean } | null>(null);
-  const [reordering, setReordering] = useState(false);
+  const [dragging, setDragging] = useState(false);
+  const scrollRef = useRef<ScrollViewInstance>(null);
+  const scrollMetrics = useRef<CategoryScrollMetrics>({ offset: 0, max: 0 });
   const [suggestionNote, setSuggestionNote] = useState('');
   const now = new Date();
   const month = now.getFullYear() * 100 + now.getMonth() + 1;
@@ -157,49 +162,37 @@ export function CategoriesScreen() {
     expenseStore.set({ settings: result.settings });
     setSuggestionNote(result.months ? t('Suggested {count} limits from the previous {months} months + 10%. Adjust as you like.', { count: result.count, months: result.months }) : t('Not enough history yet.'));
   }
-  function move(id: string, offset: number) {
-    const categories = [...expenseStore.get().settings.categories];
-    const index = categories.findIndex((category) => category.id === id);
-    const destination = index + offset;
-    if (index < 0 || destination < 0 || destination >= categories.length) return;
-    [categories[index], categories[destination]] = [categories[destination], categories[index]];
-    updateSettings({ categories });
+  function move(id: string, destination: number) {
+    updateSettings({ categories: reorderCategory(expenseStore.get().settings.categories, id, destination) });
   }
-  const categoryRows = settings.categories.map((category, index) => {
+  function renderCategory(category: ExpenseCategory) {
     const name = categoryName(category.name);
     return (
-      <View key={category.id} style={styles.categoryRow}>
-        <Pressable accessibilityRole="button" accessibilityLabel={t('Edit {name}', { name })}
-          onPress={() => setEditor({ category, isNew: false })} style={styles.categoryMain}>
-          <View style={[styles.categoryIcon, { backgroundColor: theme.selected }]}><CategoryIcon symbol={category.symbol} color={theme.text} /></View>
-          <View style={styles.categoryDetail}>
-            <Text style={[styles.label, { color: theme.text }]}>{name}</Text>
-            <Spending spent={spent.get(category.id) ?? 0} limit={category.limit} alertAt={settings.alertAt} />
-            {!category.limit && <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('No limit')}</Text>}
-          </View>
-          {!reordering && <Text style={{ color: theme.textSecondary }}>›</Text>}
-        </Pressable>
-        {reordering && <View style={styles.reorderControls}>
-          <Pressable accessibilityRole="button" accessibilityLabel={t('Move {name} up', { name })} accessibilityState={{ disabled: index === 0 }}
-            disabled={index === 0} onPress={() => move(category.id, -1)} style={styles.moveButton}>
-            <Text style={{ color: index === 0 ? theme.textSecondary : theme.link }}>↑</Text>
-          </Pressable>
-          <Pressable accessibilityRole="button" accessibilityLabel={t('Move {name} down', { name })} accessibilityState={{ disabled: index === settings.categories.length - 1 }}
-            disabled={index === settings.categories.length - 1} onPress={() => move(category.id, 1)} style={styles.moveButton}>
-            <Text style={{ color: index === settings.categories.length - 1 ? theme.textSecondary : theme.link }}>↓</Text>
-          </Pressable>
-        </View>}
-      </View>
+      <Pressable accessibilityRole="button" accessibilityLabel={t('Edit {name}', { name })}
+        onPress={() => setEditor({ category, isNew: false })} style={styles.categoryMain}>
+        <View style={[styles.categoryIcon, { backgroundColor: theme.selected }]}><CategoryIcon symbol={category.symbol} color={theme.text} /></View>
+        <View style={styles.categoryDetail}>
+          <Text style={[styles.label, { color: theme.text }]}>{name}</Text>
+          <Spending spent={spent.get(category.id) ?? 0} limit={category.limit} alertAt={settings.alertAt} />
+          {!category.limit && <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('No limit')}</Text>}
+        </View>
+        <Text style={[styles.chevron, { color: theme.textSecondary }]}>›</Text>
+      </Pressable>
     );
-  });
+  }
   const warningPercent = Math.round(settings.alertAt * 100);
   return (
     <SafeAreaView edges={[]} style={[styles.root, { backgroundColor: theme.background }]}>
       <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : undefined} style={styles.root}>
-        <ScrollView contentContainerStyle={styles.content} keyboardDismissMode="on-drag" keyboardShouldPersistTaps="handled">
+        <ScrollView ref={scrollRef} scrollEnabled={!dragging} scrollEventThrottle={16}
+          onScroll={event => {
+            const { contentOffset, contentSize, layoutMeasurement } = event.nativeEvent;
+            scrollMetrics.current = { offset: contentOffset.y, max: Math.max(0, contentSize.height - layoutMeasurement.height) };
+          }} contentContainerStyle={styles.content} keyboardDismissMode="on-drag" keyboardShouldPersistTaps="handled">
           <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Personal account · saved on this device.')}</Text>
           <Text accessibilityRole="header" style={[styles.heading, { color: theme.text }]}>{monthLabel}</Text>
-          <SettingsGroup title={t('Whole month')} footer={t('Limits are per month. Warnings appear here when spending reaches the chosen share or exceeds a limit.')}>
+          <SettingsGroup title={t('Whole month')} footer={t('Limits are per month. Allow notifications to receive warnings at the chosen share, over a limit, or for large purchases.')}>
+            <NotificationPermission />
             <View style={styles.field}>
               <Text style={[styles.label, { color: theme.text }]}>{t('Spent this month')}</Text>
               <Spending spent={totalSpent} limit={settings.totalLimit} alertAt={settings.alertAt} />
@@ -220,12 +213,11 @@ export function CategoriesScreen() {
               {!!suggestionNote && <Text accessibilityLiveRegion="polite" style={[styles.caption, { color: theme.textSecondary }]}>{suggestionNote}</Text>}
             </View>
           </SettingsGroup>
-          <View style={styles.toolbar}>
-            <Text accessibilityRole="header" style={[styles.heading, { color: theme.text }]}>{t('Categories')}</Text>
-            <ActionButton title={t(reordering ? 'Done' : 'Reorder')} onPress={() => setReordering(!reordering)} />
-          </View>
-          <SettingsGroup title={t('Monthly spending')} footer={t('Tap a category to change its name, icon or limit. Deleting it sends its purchases back to “To review”.')}>
-            {categoryRows}
+          <Text accessibilityRole="header" style={[styles.heading, { color: theme.text }]}>{t('Categories')}</Text>
+          <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Drag the handle to reorder. Tap a category to edit it.')}</Text>
+          <DraggableCategories categories={settings.categories} renderCategory={renderCategory} categoryName={categoryName}
+            onReorder={move} scrollRef={scrollRef} metrics={scrollMetrics} onDragging={setDragging} />
+          <SettingsGroup title={t('Monthly spending')} footer={t('Deleting a category sends its purchases back to “To review”.')}>
             {uncategorized > 0 && <View style={styles.field}>
               <Text style={[styles.label, { color: theme.warning }]}>{t('No category')}</Text>
               <Text style={{ color: theme.warning }}>{moneyFormat.format(uncategorized)}</Text>
@@ -249,7 +241,6 @@ const styles = StyleSheet.create({
   input: { minHeight: 48, borderRadius: 10, paddingHorizontal: 12, paddingVertical: 10, fontSize: 17 },
   toolbar: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 12 },
   threshold: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 8, flexWrap: 'wrap' },
-  categoryRow: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 16, gap: 8 },
   categoryMain: { flex: 1, flexDirection: 'row', alignItems: 'center', gap: 12, paddingVertical: 16, minHeight: 72 },
   categoryIcon: { width: 44, height: 44, borderRadius: 12, alignItems: 'center', justifyContent: 'center' },
   categoryDetail: { flex: 1, gap: 6 },
@@ -258,6 +249,5 @@ const styles = StyleSheet.create({
   fill: { height: 4 },
   icons: { flexDirection: 'row', flexWrap: 'wrap', gap: 10 },
   iconButton: { width: 48, height: 48, borderRadius: 10, alignItems: 'center', justifyContent: 'center' },
-  reorderControls: { flexDirection: 'row' },
-  moveButton: { minWidth: 44, minHeight: 44, alignItems: 'center', justifyContent: 'center' },
+  chevron: { fontSize: 32, fontWeight: '500', paddingHorizontal: 6 },
 });

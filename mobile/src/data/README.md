@@ -59,3 +59,26 @@ screen/store imports that factory. Refresh fixtures from `macOS/Resources/Demo/`
 `pnpm check:open-finance` exercises empty migration, imports, weighted prices, local persistence,
 six-hour boundaries, failed-bank retention, incomplete terms, closed positions and connection
 removal during sync. Existing feature checks use synthetic records only.
+
+
+## Spending notifications and category order
+
+Categories & limits requests notification authorization through **Enable notifications**. At
+first authorization it checks the current month's snapshot; subsequent account edits and
+foreground/background Open Finance refreshes check again. Alerts use the selected percentage
+(default 80%), an additional over-limit warning, the optional monthly total, and individual
+purchases strictly above the configured amount. Later installments do not trigger purchase
+alerts. Successfully delivered keys are persisted in `ExpenseSettings.notified`; denied
+permission and failed scheduling leave keys eligible for retry. Notification taps open the
+limits screen.
+
+The `expo-notifications` config plugin configures the native build for local notifications.
+iOS has no notification usage-description Info.plist key; authorization is requested at runtime.
+The existing background-task plugin supplies the background processing Info.plist configuration.
+APNs and remote-notification background mode are not needed for these local alerts. Existing
+installed binaries need a new native build to include the notification module. OS scheduling
+controls when background sync can discover new purchases; this is not a live bank push feed.
+
+Drag a category's handle to reorder; the list scrolls at its edges. VoiceOver/TalkBack users
+can use the handle's move-up/move-down actions. Run `pnpm check:notifications` for alert delivery,
+permission/retry behavior and category ordering checks.
