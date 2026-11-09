@@ -66,7 +66,7 @@ export function SettingsGroup({
           accessibilityValue={{ text: summary }}
           accessibilityState={{ expanded: isExpanded }}
           onPress={toggleExpanded}
-          style={({ pressed }) => [styles.disclosure, { backgroundColor: theme.surface }, pressed && styles.pressed]}>
+          style={[styles.disclosure, { backgroundColor: theme.surface }]}>
           <View style={styles.disclosureText}>
             {titleLabel}
             <Text style={[settingsStyles.caption, { color: theme.textSecondary }]}>{summary}</Text>
