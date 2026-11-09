@@ -1,0 +1,58 @@
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const path = require('node:path');
+const vm = require('node:vm');
+const ts = require('typescript');
+function load(file, globals = {}) {
+  const entry = path.resolve(__dirname, '../src/lib', file);
+  const output = ts.transpileModule(fs.readFileSync(entry, 'utf8'), { compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2022 } }).outputText;
+  const exports = {};
+  vm.runInNewContext(output, { exports, Date, AbortController, ...globals }, { filename: entry });
+  return exports;
+}
+const stocks = load('stocks.ts');
+const fixture = require('../src/data/demo/trades.json');
+const holdings = stocks.stockHoldings(fixture);
+assert.equal(holdings.length, 14);
+const wege = holdings.find(h => h.ticker === 'WEGE3');
+assert.equal(wege.quantity, 500);
+assert.equal(wege.averagePrice, (300 * 37.61 + 200 * 41.7) / 500);
+const trade = (kind, quantity, price, day = '2024-01-01') => ({ id: day, ticker: 'TEST3', date: `${day}T12:00:00Z`, kind, quantity, price });
+const trades = [trade('buy', 10, 20), trade('sell', 5, 40, '2024-02-01')];
+assert.equal(stocks.stockHoldings(trades)[0].quantity, 5);
+assert.equal(stocks.stockHoldings(trades)[0].averagePrice, 20);
+assert.equal(stocks.stockHoldings(stocks.addStock(trades, 'TEST3', 5, 30))[0].averagePrice, 25);
+assert.equal(stocks.stockHoldings(stocks.replaceStock(trades, 'TEST3', 3))[0].averagePrice, undefined);
+assert.equal(stocks.replaceStock(trades, 'TEST3', 3)[0].date, trades[0].date);
+assert.equal(stocks.stockHoldings([trade('sell', 10), trade('buy', 2, 3, '2024-03-01')])[0].quantity, 2);
+for (const [input, expected] of [['1.234,56', 1234.56], ['1234.56', 1234.56], ['0', undefined], ['-2', undefined], ['NaN', undefined], ['1e4', undefined], ['1,2,3', undefined]]) assert.equal(stocks.stockNumber(input), expected);
+const history = { days: [20260102, 20260105, 20260106], prices: [10, 11, 12] };
+assert.equal(stocks.closeBefore(history, 20260104), 10);
+assert.equal(stocks.closeBefore(history, 20250101), undefined);
+const quotes = { TEST3: { history, price: 12, previousClose: 11 }, AAPL: { history, price: 12 }, 'BRL=X': { history: { days: history.days, prices: [5, 5, 6] }, price: 6 } };
+const us = { ticker: 'AAPL', quantity: 2, averagePrice: 10 };
+assert.equal(stocks.holdingMetrics(us, quotes).value, 144);
+assert.equal(stocks.holdingMetrics(us, { AAPL: quotes.AAPL }).value, undefined);
+assert.equal(stocks.inReais('AAPL', quotes.AAPL, quotes['BRL=X']).prices[2], 72);
+const index = stocks.portfolioIndex([{ ticker: 'TEST3', quantity: 2 }], quotes, 20260105);
+assert.ok(Math.abs(index.at(-1).value - 0.2) < 1e-10);
+assert.equal(stocks.portfolioIndex([us], { AAPL: quotes.AAPL }, 20260105).length, 0);
+assert.equal(stocks.sortStocks([us, { ticker: 'TEST3', quantity: 10 }], quotes, 'value', false)[0].ticker, 'AAPL');
+assert.equal(stocks.sortStocks([us, { ticker: 'TEST3', quantity: 10 }], { TEST3: quotes.TEST3 }, 'price', true).at(-1).ticker, 'AAPL');
+assert.equal(stocks.isB3Stock('PETR4'), true);
+assert.equal(stocks.isB3Stock('BRK-B'), false);
+async function marketChecks() {
+  const response = { chart: { result: [{ meta: { regularMarketPrice: 14, regularMarketTime: 1760000000 }, timestamp: [1760000000, 1760086400, 1760172800], indicators: { quote: [{ close: [10, null, 14] }], adjclose: [{ adjclose: [9, null, 14] }] }, events: { dividends: { a: { date: 1760000000, amount: 0.5 } } } }] } };
+  let requested;
+  const { fetchStockQuote } = load('stock-market.ts', { require: () => stocks, fetch: async (url, options) => { requested = { url, options }; return { ok: true, json: async () => response }; } });
+  const quote = await fetchStockQuote('PETR4', new AbortController().signal);
+  assert.ok(requested.url.includes('PETR4.SA'));
+  assert.equal(requested.options.headers['User-Agent'], 'Mozilla/5.0');
+  assert.equal(quote.history.prices.length, 2);
+  assert.equal(quote.history.prices[0], 9);
+  assert.equal(quote.previousClose, 10);
+  assert.equal(quote.history.dividends[0].amount, 0.5);
+  const failed = load('stock-market.ts', { require: () => stocks, fetch: async () => ({ ok: false }) });
+  await assert.rejects(failed.fetchStockQuote('AAPL', new AbortController().signal));
+}
+marketChecks().then(() => console.log('Stock holdings, returns, FX, sorting, input validation and quote parsing checks passed.')).catch(error => { console.error(error); process.exitCode = 1; });
