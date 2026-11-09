@@ -38,17 +38,20 @@ export function ActionButton({
   onPress,
   isPrimary = false,
   isDisabled = false,
+  accessibilityLabel,
 }: {
   title: string;
   onPress: () => void;
   isPrimary?: boolean;
   isDisabled?: boolean;
+  accessibilityLabel?: string;
 }) {
   const theme = useTheme();
 
   return (
     <Pressable
       accessibilityRole="button"
+      accessibilityLabel={accessibilityLabel ?? title}
       accessibilityState={{ disabled: isDisabled }}
       disabled={isDisabled}
       onPress={onPress}

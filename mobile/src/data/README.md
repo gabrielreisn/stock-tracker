@@ -65,3 +65,17 @@ types describe future live data, not invented demo records.
 
 `pnpm check:demo` checks source parity, literal fixture compatibility with the contracts, account
 references, date shifting (including February/leap years), future filtering, and copy isolation.
+
+## Categories & limits preview
+
+Open **Finances → Categories & limits** to edit the demo account's monthly limits, warning
+threshold, large-purchase warning, and categories. Edits survive navigation in memory and reset
+when the app restarts; they never read or write the personal Pluggy account. Warnings appear
+in the screen rather than scheduling device notifications.
+
+`src/lib/expenses.ts` derives spending using account direction, exclusions, rules, overrides,
+and installment months. History suggestions match macOS: the previous three months' average
+plus 10%, rounded up to R$ 10, with the total limit set to the sum of category limits. Missing
+foreign-currency conversions contribute zero rather than treating foreign amounts as reais.
+Run `pnpm check:expenses` to verify classification, suggestions, deletion cleanup, thresholds,
+and Brazilian amount parsing.
