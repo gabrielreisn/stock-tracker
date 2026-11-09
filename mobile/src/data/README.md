@@ -82,3 +82,22 @@ controls when background sync can discover new purchases; this is not a live ban
 Drag a category's handle to reorder; the list scrolls at its edges. VoiceOver/TalkBack users
 can use the handle's move-up/move-down actions. Run `pnpm check:notifications` for alert delivery,
 permission/retry behavior and category ordering checks.
+
+## Fund market data
+
+The funds screen loads public CVM share-price reports on entry and on pull-to-refresh. FIFs
+use `FI/DOC/INF_DIARIO/DADOS/inf_diario_fi_YYYYMM.zip`; FIDCs use the
+`inf_mensal_fidc_tab_X_2_YYYYMM.csv` table from the monthly FIDC ZIP. Like desktop, FIF
+subclasses are not mixed with the class series; FIDC series use the greatest outstanding
+share count. FIPs retain statement valuations without inventing public return histories.
+
+The loader covers 16 months to accommodate reporting delays plus a 12-month baseline.
+It streams decompression one archive at a time and stores only held funds' numeric rows in
+SQLite, with a 12-hour cache. Pull-to-refresh bypasses that cache and refreshes connected
+Open Finance holdings first. Failed downloads preserve cached quotes and show a retry message.
+
+Trailing month, YTD and trailing year returns end on CVM's latest reporting day and use the
+last quote on or before each calendar boundary, including leap-day clamping. A newer bank
+statement changes valuation, not CVM returns. Missing baselines stay unavailable; summary
+returns weight only positions with that period's return by their latest gross values.
+Run `pnpm check:fund-market` for parser, valuation, return, caching and refresh regression checks.

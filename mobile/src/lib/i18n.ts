@@ -2,6 +2,14 @@ import { getLocales } from 'expo-localization';
 
 // Same convention as macOS/Resources/pt-BR.lproj/Localizable.strings: the English text is the key.
 const portuguese = {
+  "CVM daily": "CVM diário",
+  "CVM monthly": "CVM mensal",
+  "CVM returns as of {date}": "Retornos da CVM em {date}",
+  "Loading CVM reports {done}/{total}": "Carregando informes da CVM {done}/{total}",
+  "Some CVM reports could not be refreshed. Cached prices remain visible. Pull to retry.": "Não foi possível atualizar alguns informes da CVM. As cotas em cache continuam visíveis. Puxe para tentar novamente.",
+  "Bank holdings could not be refreshed. Previous holdings remain visible.": "Não foi possível atualizar as posições do banco. As posições anteriores continuam visíveis.",
+  "Prices use CVM or a newer statement. Returns use CVM history as of its latest quote: daily for FIFs, monthly for FIDCs. FIPs have no public quota history. Missing periods show —. Summary returns are weighted by known gross value. Values are before income tax. Pull to refresh.": "As cotas vêm da CVM ou de um extrato mais recente. Os retornos usam o histórico até a última cota da CVM: diário para FIFs e mensal para FIDCs. FIPs não têm histórico público de cotas. Períodos sem dados mostram —. Os retornos do resumo são ponderados pelo valor bruto conhecido. Valores antes do IR. Puxe para atualizar.",
+
   Back: 'Voltar',
   "Car": "Carro",
   "Fixed expenses": "Gastos fixos",
