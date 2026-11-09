@@ -1,5 +1,5 @@
 import { useState, type ReactNode } from 'react';
-import { Modal, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Modal, Pressable, ScrollView, StyleSheet, Text, useWindowDimensions, View } from 'react-native';
 
 import { createDemoData } from '@/data/demo';
 import { useTheme } from '@/hooks/use-theme';
@@ -10,6 +10,9 @@ import { Sparkline, SpendingChart } from './spending-chart';
 
 export function InsightsScreen() {
   const theme = useTheme();
+  const { fontScale } = useWindowDimensions();
+  // Both halves share row heights, including when category labels wrap at larger text sizes.
+  const tableRowStyle = { height: Math.max(48, Math.ceil(36 * fontScale + 12)), borderColor: theme.selected };
   const [today] = useState(() => new Date());
   const currentYear = today.getFullYear();
   const currentMonth = currentYear * 100 + today.getMonth() + 1;
@@ -65,6 +68,9 @@ export function InsightsScreen() {
       </View>
     </Pressable>;
   });
+  const categoryLabels = data.rows.map((row) => <View key={row.id ?? 'uncategorized'} style={[styles.tableRow, tableRowStyle]}>
+    <Text numberOfLines={2} style={[styles.nameCell, { color: theme.text }]}>{categoryName(row.category?.name)}</Text>
+  </View>);
   const gridHeader = data.yearMonths.map((month) => <Text key={month} style={[styles.cell, subtitleStyle]}>{monthName(month)}</Text>);
   const gridRows = data.rows.map((row) => {
     const cells = data.yearMonths.map((month) => {
@@ -72,8 +78,7 @@ export function InsightsScreen() {
       const color = row.category?.limit !== undefined && amount > row.category.limit ? '#dc4545' : amount === 0 ? theme.textSecondary : theme.text;
       return <Text key={month} style={[styles.cell, { color }]}>{wholeAmount(amount)}</Text>;
     });
-    return <View key={row.id ?? 'uncategorized'} style={[styles.tableRow, { borderColor: theme.selected }]}>
-      <Text numberOfLines={2} style={[styles.nameCell, { color: theme.text }]}>{categoryName(row.category?.name)}</Text>
+    return <View key={row.id ?? 'uncategorized'} style={[styles.tableRow, tableRowStyle]}>
       {cells}<Text style={[styles.totalCell, { color: theme.text }]}>{wholeAmount(row.total)}</Text>
     </View>;
   });
@@ -115,19 +120,28 @@ export function InsightsScreen() {
         {categories.length ? categories : empty}
       </View>
       <Card title={t('Month by month')}>
-        <ScrollView horizontal showsHorizontalScrollIndicator>
-          <View>
-            <View style={[styles.tableRow, { borderColor: theme.selected }]}>
-              <Text style={[styles.nameCell, subtitleStyle]}>{t('Category')}</Text>{gridHeader}
-              <Text style={[styles.totalCell, subtitleStyle]}>{t('Total')}</Text>
+        <View style={styles.table}>
+          <View style={[styles.frozenColumn, { borderColor: theme.selected }]}>
+            <View style={[styles.tableRow, tableRowStyle]}>
+              <Text numberOfLines={2} style={[styles.nameCell, subtitleStyle]}>{t('Category')}</Text>
             </View>
-            {gridRows}
-            <View style={[styles.tableRow, { borderColor: theme.selected }]}>
-              <Text style={[styles.nameCell, styles.bold, { color: theme.text }]}>{t('Total')}</Text>{totalCells}
-              <Text style={[styles.totalCell, { color: theme.text }]}>{wholeAmount(data.totalSpent)}</Text>
+            {categoryLabels}
+            <View style={[styles.tableRow, tableRowStyle]}>
+              <Text numberOfLines={2} style={[styles.nameCell, styles.bold, { color: theme.text }]}>{t('Total')}</Text>
             </View>
           </View>
-        </ScrollView>
+          <ScrollView horizontal showsHorizontalScrollIndicator style={styles.monthColumns}>
+            <View>
+              <View style={[styles.tableRow, tableRowStyle]}>
+                {gridHeader}<Text style={[styles.totalCell, subtitleStyle]}>{t('Total')}</Text>
+              </View>
+              {gridRows}
+              <View style={[styles.tableRow, tableRowStyle]}>
+                {totalCells}<Text style={[styles.totalCell, { color: theme.text }]}>{wholeAmount(data.totalSpent)}</Text>
+              </View>
+            </View>
+          </ScrollView>
+        </View>
       </Card>
       <Text style={[styles.footer, subtitleStyle]}>{t('Trends use completed months only. Spending excludes income, card bill payments, investments and transfers between your own accounts.')}</Text>
     </ScrollView>
@@ -205,8 +219,11 @@ const styles = StyleSheet.create({
   stats: { flexDirection: 'row', gap: 24 }, metric: { flex: 1, gap: 4 },
   trend: { fontSize: 12, fontVariant: ['tabular-nums'], flexShrink: 1 },
   yearTotal: { fontSize: 12, fontWeight: '500', fontVariant: ['tabular-nums'], flexShrink: 1 },
+  table: { flexDirection: 'row', alignItems: 'flex-start' },
+  frozenColumn: { width: 160, flexShrink: 0, borderRightWidth: StyleSheet.hairlineWidth },
+  monthColumns: { flex: 1, minWidth: 0 },
   tableRow: { flexDirection: 'row', alignItems: 'center', minHeight: 48, borderBottomWidth: StyleSheet.hairlineWidth },
-  nameCell: { width: 160, paddingRight: 12, fontSize: 12 },
+  nameCell: { flex: 1, paddingRight: 12, fontSize: 12, lineHeight: 18 },
   cell: { width: 76, textAlign: 'right', paddingHorizontal: 6, fontSize: 12, fontVariant: ['tabular-nums'] },
   totalCell: { width: 96, textAlign: 'right', fontSize: 12, fontWeight: '600', fontVariant: ['tabular-nums'] },
   bold: { fontWeight: '600' },
