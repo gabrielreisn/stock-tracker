@@ -88,3 +88,18 @@ plus 10%, rounded up to R$ 10, with the total limit set to the sum of category l
 foreign-currency conversions contribute zero rather than treating foreign amounts as reais.
 Run `pnpm check:expenses` to verify classification, suggestions, deletion cleanup, thresholds,
 and Brazilian amount parsing.
+
+## FGC Watcher
+
+Open **Investments → FGC Watcher**. It shares the session-only demo bond store and valuation
+engine with Bonds; tap a bond to edit its issuer/CNPJ or terms. It never syncs synthetic
+holdings with personal Open Finance. Public CDI/IPCA histories supply gross valuations and
+maturity estimates. Missing histories leave affected groups and summary totals blank.
+
+The latest published Banco Central IF.data quarter groups CNPJ roots into prudential
+conglomerates, with a 30-day in-memory cache. When unavailable, the screen marks the
+CNPJ-root/name fallback as provisional and offers Retry. Missing CNPJs also show a warning.
+Only issued, unexpired CDB, LC, LCI and LCA enter exposure totals; unsupported bonds appear
+separately. The overall percentage follows the desktop's sum of per-group capped exposure;
+prior FGC claims are not tracked. Run `pnpm check:fgc` for grouping, limit boundaries, demo
+totals, missing valuations and API fallback checks.

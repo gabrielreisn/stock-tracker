@@ -11,6 +11,7 @@
     "lint": "expo lint",
     "typecheck": "tsc --noEmit",
     "check:insights": "node scripts/check-insights.cjs",
+    "check:fgc": "node scripts/check-fgc.cjs",
     "check:demo": "node scripts/check-demo.cjs",
     "check:bills": "node scripts/check-bills.cjs",
     "check:expenses": "node scripts/check-expenses.cjs",

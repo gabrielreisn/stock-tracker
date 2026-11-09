@@ -5,7 +5,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { useTheme } from '@/hooks/use-theme';
 import { t, type StringKey } from '@/lib/i18n';
 
-const upcoming: StringKey[] = ['Stocks', 'FGC Watcher', 'Fund Comparison'];
+const upcoming: StringKey[] = ['Stocks'];
 export default function InvestmentsScreen() {
   const theme = useTheme();
   // Link asChild requires its child to receive one style object, not an array.
@@ -17,6 +17,7 @@ export default function InvestmentsScreen() {
         <Text accessibilityRole="header" style={[styles.title, { color: theme.text }]}>{t('Investments')}</Text>
         <Link href="/investments/bonds" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Bonds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
         <Link href="/investments/funds" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('Funds')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
+        <Link href="/investments/fgc" asChild><Pressable accessibilityRole="button" style={cardStyle}><Text style={[styles.label, { color: theme.text }]}>{t('FGC Watcher')}</Text><Text style={{ color: theme.textSecondary }}>{t('Demo account')} ·  ›</Text></Pressable></Link>
         {placeholders}
       </ScrollView>
     </SafeAreaView>

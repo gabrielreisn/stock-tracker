@@ -32,7 +32,7 @@ The tabs group the macOS sidebar, which has too many sections for a phone:
 | Tab          | macOS sections                                              |
 | ------------ | ----------------------------------------------------------- |
 | Overview     | Overview                                                    |
-| Investments  | Stocks, Bonds, Funds, FGC Watcher, Fund Comparison          |
+| Investments  | Stocks, Bonds, Funds, FGC Watcher                             |
 | Finances     | Expenses, Bills, Insights, Categories & limits, Open Finance |
 | Settings     | Benchmarks and Open Finance, from Settings                  |
 
