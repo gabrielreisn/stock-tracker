@@ -51,8 +51,8 @@ function ConglomerateDetails({ conglomerate, names }: { conglomerate: Conglomera
     progress.set(withTiming(next ? 1 : 0, { duration: 220, easing: Easing.out(Easing.cubic) }));
   }
   const others = conglomerate.members.filter(member => !names.some(name => foldIssuer(name) === foldIssuer(member)));
-  const toggleLabel = t(expanded ? 'Hide ({count}) other institutions' : 'Show ({count}) other institutions', { count: others.length });
-  const members = others.map(member => <Label key={member} secondary>{member}</Label>);
+  const toggleLabel = t(expanded ? 'Hide institutions' : 'Show institutions');
+  const members = others.map(member => <Label key={member}>{member}</Label>);
   return <View style={styles.conglomerate}>
     <Label secondary>{t('Conglomerate {name}', { name: conglomerate.name })}</Label>
     {others.length > 0 && <Pressable
@@ -61,7 +61,7 @@ function ConglomerateDetails({ conglomerate, names }: { conglomerate: Conglomera
       accessibilityState={{ expanded }}
       onPress={toggle}
       style={styles.disclosure}>
-      <Text style={[styles.disclosureLabel, { color: theme.text }]}>{toggleLabel}</Text>
+      <Text style={[styles.disclosureLabel, { color: theme.textSecondary }]}>{toggleLabel}</Text>
       <Animated.View accessible={false} style={[styles.arrow, arrowStyle]}>
         <View style={[styles.chevron, { borderColor: theme.textSecondary }]} />
       </Animated.View>

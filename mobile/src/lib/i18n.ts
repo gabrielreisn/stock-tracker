@@ -114,8 +114,8 @@ const portuguese = {
   "Date (YYYY-MM-DD)": "Data (AAAA-MM-DD)",
   "Value (BRL, e.g. 25,90)": "Valor (R$, ex.: 25,90)",
 
-  'Show ({count}) other institutions': 'Mostrar ({count}) outras instituições',
-  'Hide ({count}) other institutions': 'Ocultar ({count}) outras instituições',
+  'Show institutions': 'Mostrar instituições',
+  'Hide institutions': 'Ocultar instituições',
   "Allocation": "Alocação",
   "Stocks B3": "Ações B3",
   "Stocks US": "Ações EUA",
