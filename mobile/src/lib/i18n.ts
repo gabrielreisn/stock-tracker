@@ -2,6 +2,18 @@ import { getLocales } from 'expo-localization';
 
 // Same convention as macOS/Resources/pt-BR.lproj/Localizable.strings: the English text is the key.
 const portuguese = {
+  "Partially paid": "Parcialmente paga",
+  "Payment not reported": "Pagamento não informado",
+  "No amount due": "Nada a pagar",
+  "Closed {date}": "Fechou em {date}",
+  "Minimum payment {amount}": "Pagamento mínimo {amount}",
+  "Latest closed bill": "Última fatura fechada",
+  "Reported paid": "Pagamento informado",
+  "Remaining": "Restante",
+  "Hide previous bills": "Ocultar faturas anteriores",
+  "Previous bills ({count})": "Faturas anteriores ({count})",
+  "Payment amounts are reported by your bank. Missing payments do not confirm an unpaid bill.": "Os pagamentos são informados pelo banco. A ausência de um pagamento não confirma uma fatura em aberto.",
+
   "Dividend": "Dividendo",
   "JCP": "JCP",
   "Income distribution": "Rendimento",
