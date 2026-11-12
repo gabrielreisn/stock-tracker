@@ -105,13 +105,16 @@ export function DraggableCategories({ categories, renderCategory, categoryName, 
     const destination = target === category.id && !dragging;
     return (
       <Animated.View key={category.id} onLayout={event => frames.current.set(category.id, event.nativeEvent.layout)}
-        style={[styles.row, { backgroundColor: dragging ? theme.selected : theme.surface, borderColor: destination ? theme.link : theme.selected },
+        style={[styles.row, { backgroundColor: dragging ? theme.selected : theme.surface },
+          index === 0 && styles.firstRow, index === categories.length - 1 && styles.lastRow,
           dragging && styles.dragging, dragging && { transform: [{ translateY: translation }] }]}>
         {renderCategory(category)}
         <DragHandle name={categoryName(category.name)} begin={pageY => begin(category.id, pageY)}
           move={(dy, pageY) => { if (drag.current) { drag.current.dy = dy; drag.current.fingerY = pageY; updatePosition(); } }}
           finish={() => end(true)} cancel={() => end(false)}
           moveUp={() => onReorder(category.id, index - 1)} moveDown={() => onReorder(category.id, index + 1)} />
+        {index < categories.length - 1 && <View pointerEvents="none"
+          style={[styles.separator, { backgroundColor: destination ? theme.link : theme.selected }]} />}
       </Animated.View>
     );
   });
@@ -119,7 +122,10 @@ export function DraggableCategories({ categories, renderCategory, categoryName, 
 }
 const styles = StyleSheet.create({
   list: { borderRadius: 12 },
-  row: { flexDirection: 'row', alignItems: 'center', borderBottomWidth: StyleSheet.hairlineWidth, paddingLeft: 16, borderRadius: 8 },
-  handle: { width: 44, minHeight: 64, justifyContent: 'center', alignItems: 'center' },
-  dragging: { zIndex: 10 },
+  row: { flexDirection: 'row', alignItems: 'center', paddingLeft: 12 },
+  firstRow: { borderTopLeftRadius: 12, borderTopRightRadius: 12 },
+  lastRow: { borderBottomLeftRadius: 12, borderBottomRightRadius: 12 },
+  separator: { position: 'absolute', left: 58, right: 12, bottom: 0, height: 1 },
+  handle: { width: 44, minHeight: 44, flexShrink: 0, alignSelf: 'stretch', justifyContent: 'center', alignItems: 'center' },
+  dragging: { zIndex: 10, borderRadius: 12 },
 });

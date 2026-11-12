@@ -17,3 +17,8 @@ export interface RecurringBill {
   status: BillStatus;
 }
 
+export interface CardBillGroup {
+  key: string;
+  account?: import('./pluggy').PluggyAccount;
+  bills: import('./pluggy').PluggyBill[];
+}
