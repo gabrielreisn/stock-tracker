@@ -64,12 +64,13 @@ function AmountField({ label, value, onCommit, placeholder = t('No limit') }: {
   );
 }
 
-function Spending({ spent, limit, alertAt }: { spent: number; limit?: number; alertAt: number }) {
+function Spending({ spent, limit, alertAt, showNoLimit = false }: { spent: number; limit?: number; alertAt: number; showNoLimit?: boolean }) {
   const theme = useTheme();
   const status = limitStatus(spent, limit, alertAt);
   const color = status === 'over' ? '#dc2626' : status === 'warning' ? theme.warning : theme.textSecondary;
   const statusText = status === 'over' ? t('Over limit') : status === 'warning' ? t('Near limit') : '';
-  const text = limit ? t('{spent} of {limit}', { spent: moneyFormat.format(spent), limit: moneyFormat.format(limit) }) : moneyFormat.format(spent);
+  const unlimitedText = showNoLimit ? `${moneyFormat.format(spent)} · ${t('No limit')}` : moneyFormat.format(spent);
+  const text = limit ? t('{spent} of {limit}', { spent: moneyFormat.format(spent), limit: moneyFormat.format(limit) }) : unlimitedText;
   return (
     <View style={styles.spending}>
       <Text style={[styles.caption, { color }]}>{text}{statusText ? ` · ${statusText}` : ''}</Text>
@@ -173,8 +174,7 @@ export function CategoriesScreen() {
         <View style={[styles.categoryIcon, { backgroundColor: theme.selected }]}><CategoryIcon symbol={category.symbol} color={theme.text} /></View>
         <View style={styles.categoryDetail}>
           <Text style={[styles.label, { color: theme.text }]}>{name}</Text>
-          <Spending spent={spent.get(category.id) ?? 0} limit={category.limit} alertAt={settings.alertAt} />
-          {!category.limit && <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('No limit')}</Text>}
+          <Spending spent={spent.get(category.id) ?? 0} limit={category.limit} alertAt={settings.alertAt} showNoLimit />
         </View>
         <Text style={[styles.chevron, { color: theme.textSecondary }]}>›</Text>
       </Pressable>
@@ -213,8 +213,10 @@ export function CategoriesScreen() {
               {!!suggestionNote && <Text accessibilityLiveRegion="polite" style={[styles.caption, { color: theme.textSecondary }]}>{suggestionNote}</Text>}
             </View>
           </SettingsGroup>
-          <Text accessibilityRole="header" style={[styles.heading, { color: theme.text }]}>{t('Categories')}</Text>
-          <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Drag the handle to reorder. Tap a category to edit it.')}</Text>
+          <View style={styles.categoryHeader}>
+            <Text accessibilityRole="header" style={[styles.heading, { color: theme.text }]}>{t('Categories')}</Text>
+            <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Drag the handle to reorder. Tap a category to edit it.')}</Text>
+          </View>
           <DraggableCategories categories={settings.categories} renderCategory={renderCategory} categoryName={categoryName}
             onReorder={move} scrollRef={scrollRef} metrics={scrollMetrics} onDragging={setDragging} />
           <SettingsGroup title={t('Monthly spending')} footer={t('Deleting a category sends its purchases back to “To review”.')}>
@@ -241,9 +243,10 @@ const styles = StyleSheet.create({
   input: { minHeight: 48, borderRadius: 10, paddingHorizontal: 12, paddingVertical: 10, fontSize: 17 },
   toolbar: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 12 },
   threshold: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 8, flexWrap: 'wrap' },
-  categoryMain: { flex: 1, flexDirection: 'row', alignItems: 'center', gap: 12, paddingVertical: 16, minHeight: 72 },
-  categoryIcon: { width: 44, height: 44, borderRadius: 12, alignItems: 'center', justifyContent: 'center' },
-  categoryDetail: { flex: 1, gap: 6 },
+  categoryHeader: { gap: 6 },
+  categoryMain: { flex: 1, flexDirection: 'row', alignItems: 'center', gap: 10, paddingVertical: 10, minHeight: 68 },
+  categoryIcon: { width: 36, height: 36, borderRadius: 10, alignItems: 'center', justifyContent: 'center' },
+  categoryDetail: { flex: 1, gap: 4 },
   spending: { gap: 8 },
   track: { height: 4, borderRadius: 2, overflow: 'hidden' },
   fill: { height: 4 },
