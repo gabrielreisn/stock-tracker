@@ -9,7 +9,6 @@ import {
 } from "react-native";
 import { Card, Choices, Label, Title } from "@/components/bonds/ui";
 import { ActionButton } from "@/components/settings/ui";
-import { SafeAreaView } from "react-native-screens/experimental";
 import { StockDividends } from "@/components/stocks/dividends";
 import { StockPerformance } from "@/components/stocks/performance";
 import { StockForm } from "@/components/stocks/stock-form";
@@ -164,129 +163,112 @@ export function StocksScreen() {
     setEditor(false);
   }
   return (
-    <SafeAreaView
-      collapsable={false}
-      edges={{ top: true, bottom: true, left: true, right: true }}
+    <KeyboardAvoidingView
+      behavior="padding"
       style={[styles.root, { backgroundColor: theme.background }]}
     >
-      <KeyboardAvoidingView
-        behavior="padding"
-        style={[styles.root, { backgroundColor: theme.background }]}
+      <ScrollView
+        contentInsetAdjustmentBehavior="automatic"
+        style={styles.root}
+        keyboardShouldPersistTaps="handled"
+        contentContainerStyle={styles.content}
+        refreshControl={
+          <RefreshControl refreshing={market.loading} onRefresh={refresh} />
+        }
       >
-        <ScrollView
-          contentInsetAdjustmentBehavior="never"
-          keyboardShouldPersistTaps="handled"
-          contentContainerStyle={styles.content}
-          refreshControl={
-            <RefreshControl refreshing={market.loading} onRefresh={refresh} />
-          }
-        >
-          <Label secondary>
-            {t("Personal account · saved on this device.")}
+        <Label secondary>{t("Personal account · saved on this device.")}</Label>
+        <Card>
+          <Title>
+            {t("Stocks")} · {holdings.length}
+          </Title>
+          <Label>
+            {t("Total value")}: {money(total)}
           </Label>
-          <Card>
-            <Title>
-              {t("Stocks")} · {holdings.length}
-            </Title>
-            <Label>
-              {t("Total value")}: {money(total)}
-            </Label>
-            <Label secondary>
-              {t(
-                "Quotes may be delayed. Pull to refresh. Missing prices are excluded from totals by showing —.",
-              )}
-            </Label>
-            {market.failed.length > 0 && (
-              <>
-                <Label secondary>
-                  {t(
-                    "Some market data could not be refreshed. Previous quotes, if any, remain visible.",
-                  )}
-                  : {market.failed.join(", ")}
-                </Label>
-                <ActionButton
-                  title={t("Retry")}
-                  onPress={refresh}
-                  isDisabled={market.loading}
-                />
-              </>
+          <Label secondary>
+            {t(
+              "Quotes may be delayed. Pull to refresh. Missing prices are excluded from totals by showing —.",
             )}
-            <ActionButton
-              title={t("Add stock")}
-              onPress={() => setEditor(true)}
-            />
-          </Card>
-          {editor && (
-            <StockForm onClose={() => setEditor(false)} onSaved={saved} />
-          )}
-          <StockPerformance
-            holdings={holdings}
-            quotes={market.quotes}
-            rates={market.rates}
-          />
-          <Title>{t("Holdings")}</Title>
-          {cost > 0 && (
-            <Card>
-              <Label>
-                B3 · {t("Cost")}: {money(cost)}
-              </Label>
-              <Label>
-                {t("Value")}: {money(b3Value)}
-              </Label>
-              <Label>
-                {t("Gain")}:{" "}
-                {money(b3Value === undefined ? undefined : b3Value - cost)} ·{" "}
-                {percent(
-                  b3Value === undefined ? undefined : b3Value / cost - 1,
-                )}
-              </Label>
-            </Card>
-          )}
-          <Choices
-            values={sorts}
-            selected={sort}
-            onChange={(value) => {
-              setSort(value);
-              setAscending(value === "ticker");
-            }}
-            label={(value) => t(sortLabels[value])}
-          />
-          <ActionButton
-            title={t(ascending ? "Ascending ↑" : "Descending ↓")}
-            onPress={() => setAscending((value) => !value)}
-          />
-          {holdings.length ? (
-            cards
-          ) : (
-            <Card>
+          </Label>
+          {market.failed.length > 0 && (
+            <>
               <Label secondary>
-                {t("No stocks yet. Add a ticker and quantity.")}
+                {t(
+                  "Some market data could not be refreshed. Previous quotes, if any, remain visible.",
+                )}
+                : {market.failed.join(", ")}
               </Label>
-            </Card>
+              <ActionButton
+                title={t("Retry")}
+                onPress={refresh}
+                isDisabled={market.loading}
+              />
+            </>
           )}
-          <StockDividends
-            holdings={holdings}
-            quotes={market.quotes}
-            announcements={market.announcements}
-            failures={market.dividendFailures}
-            loading={market.loading}
+          <ActionButton
+            title={t("Add stock")}
+            onPress={() => setEditor(true)}
           />
-        </ScrollView>
-      </KeyboardAvoidingView>
-    </SafeAreaView>
+        </Card>
+        {editor && (
+          <StockForm onClose={() => setEditor(false)} onSaved={saved} />
+        )}
+        <StockPerformance
+          holdings={holdings}
+          quotes={market.quotes}
+          rates={market.rates}
+        />
+        <Title>{t("Holdings")}</Title>
+        {cost > 0 && (
+          <Card>
+            <Label>
+              B3 · {t("Cost")}: {money(cost)}
+            </Label>
+            <Label>
+              {t("Value")}: {money(b3Value)}
+            </Label>
+            <Label>
+              {t("Gain")}:{" "}
+              {money(b3Value === undefined ? undefined : b3Value - cost)} ·{" "}
+              {percent(b3Value === undefined ? undefined : b3Value / cost - 1)}
+            </Label>
+          </Card>
+        )}
+        <Choices
+          values={sorts}
+          selected={sort}
+          onChange={(value) => {
+            setSort(value);
+            setAscending(value === "ticker");
+          }}
+          label={(value) => t(sortLabels[value])}
+        />
+        <ActionButton
+          title={t(ascending ? "Ascending ↑" : "Descending ↓")}
+          onPress={() => setAscending((value) => !value)}
+        />
+        {holdings.length ? (
+          cards
+        ) : (
+          <Card>
+            <Label secondary>
+              {t("No stocks yet. Add a ticker and quantity.")}
+            </Label>
+          </Card>
+        )}
+        <StockDividends
+          holdings={holdings}
+          quotes={market.quotes}
+          announcements={market.announcements}
+          failures={market.dividendFailures}
+          loading={market.loading}
+        />
+      </ScrollView>
+    </KeyboardAvoidingView>
   );
 }
 const styles = StyleSheet.create({
   root: { flex: 1 },
-  content: { padding: 16, paddingBottom: 40, gap: 16 },
+  content: { padding: 16, gap: 16 },
   row: { flexDirection: "row", justifyContent: "space-between", gap: 12 },
   actions: { flexDirection: "row", gap: 12 },
-  bars: { height: 110, flexDirection: "row", gap: 4, alignItems: "flex-end" },
-  month: {
-    flex: 1,
-    alignItems: "center",
-    justifyContent: "flex-end",
-    height: 110,
-  },
-  bar: { width: "100%", borderRadius: 3 },
 });

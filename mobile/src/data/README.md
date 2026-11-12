@@ -86,8 +86,9 @@ permission/retry behavior and category ordering checks.
 ## Stocks and dividends
 
 Stocks uses the persistent personal account. Holding editors open in their own cards;
-additions use the separate add form. Native safe-area bounds keep the scroll viewport
-above the tab bar and below the navigation header.
+additions use the separate add form. The stack and native tabs own the screen insets;
+Stocks does not add a second safe-area wrapper. Its scroll viewport fills the space
+between the navigation bars.
 
 B3 company announcements provide dividend/JCP/income kinds, record dates and payment
 dates. ETFs and US holdings fall back to Yahoo ex-dividend dates; those dates are labeled
