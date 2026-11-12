@@ -1,3 +1,4 @@
+import { SymbolView } from 'expo-symbols';
 import { useRef, useState } from 'react';
 import { Alert, KeyboardAvoidingView, Modal, Platform, Pressable, ScrollView, StyleSheet, Text, TextInput, View, type ScrollViewInstance } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
@@ -171,12 +172,14 @@ export function CategoriesScreen() {
     return (
       <Pressable accessibilityRole="button" accessibilityLabel={t('Edit {name}', { name })}
         onPress={() => setEditor({ category, isNew: false })} style={styles.categoryMain}>
-        <View style={[styles.categoryIcon, { backgroundColor: theme.selected }]}><CategoryIcon symbol={category.symbol} color={theme.text} /></View>
+        <View style={styles.categoryIcon}><CategoryIcon symbol={category.symbol} color={theme.text} /></View>
         <View style={styles.categoryDetail}>
           <Text style={[styles.label, { color: theme.text }]}>{name}</Text>
           <Spending spent={spent.get(category.id) ?? 0} limit={category.limit} alertAt={settings.alertAt} showNoLimit />
         </View>
-        <Text style={[styles.chevron, { color: theme.textSecondary }]}>›</Text>
+        <View style={styles.chevron}>
+          <SymbolView name={{ ios: 'chevron.right', android: 'chevron_right' }} size={24} tintColor={theme.textSecondary} />
+        </View>
       </Pressable>
     );
   }
@@ -245,12 +248,12 @@ const styles = StyleSheet.create({
   threshold: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', gap: 8, flexWrap: 'wrap' },
   categoryHeader: { gap: 6 },
   categoryMain: { flex: 1, flexDirection: 'row', alignItems: 'center', gap: 10, paddingVertical: 10, minHeight: 68 },
-  categoryIcon: { width: 36, height: 36, borderRadius: 10, alignItems: 'center', justifyContent: 'center' },
+  categoryIcon: { width: 36, height: 36, alignItems: 'center', justifyContent: 'center' },
   categoryDetail: { flex: 1, gap: 4 },
   spending: { gap: 8 },
   track: { height: 4, borderRadius: 2, overflow: 'hidden' },
   fill: { height: 4 },
   icons: { flexDirection: 'row', flexWrap: 'wrap', gap: 10 },
   iconButton: { width: 48, height: 48, borderRadius: 10, alignItems: 'center', justifyContent: 'center' },
-  chevron: { fontSize: 32, fontWeight: '500', paddingHorizontal: 6 },
+  chevron: { width: 32, height: 44, alignItems: 'center', justifyContent: 'center' },
 });

@@ -15,3 +15,17 @@ export function categoryDropIndex(frames: { y: number; height: number }[], cente
   return target;
 }
 export interface CategoryScrollMetrics { offset: number; max: number }
+
+export interface CategoryFrame { id: string; y: number; height: number }
+
+/** Preview positions use measured heights so wrapped labels never overlap during a drag. */
+export function categoryDragOffsets(frames: CategoryFrame[], id: string, destination: number): Record<string, number> {
+  const ordered = reorderCategory(frames, id, destination);
+  let y = frames[0]?.y ?? 0;
+  const offsets: Record<string, number> = {};
+  for (const frame of ordered) {
+    offsets[frame.id] = y - frame.y;
+    y += frame.height;
+  }
+  return offsets;
+}

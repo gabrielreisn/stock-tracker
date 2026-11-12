@@ -140,6 +140,27 @@ async function main() {
   assert.equal(order.reorderCategory(categories, 'missing', 0), categories);
   assert.equal(order.reorderCategory(categories, 'a', 2)[2].limit, 10);
   assert.equal(order.categoryDropIndex([{ y: 0, height: 100 }, { y: 100, height: 150 }, { y: 250, height: 80 }], 280), 2);
+  // Variable-height rows must preview the exact final positions without overlaps or gaps.
+  const frames = [{ id: 'a', y: 0, height: 100 }, { id: 'b', y: 100, height: 150 }, { id: 'c', y: 250, height: 80 }];
+  const down = order.categoryDragOffsets(frames, 'a', 2);
+  assert.equal(down.a, 230);
+  assert.equal(down.b, -100);
+  assert.equal(down.c, -100);
+  const up = order.categoryDragOffsets(frames, 'c', 0);
+  assert.equal(up.c, -250);
+  assert.equal(up.a, 80);
+  assert.equal(up.b, 80);
+  for (const source of frames) {
+    for (let destination = 0; destination < frames.length; destination += 1) {
+      const offsets = order.categoryDragOffsets(frames, source.id, destination);
+      const preview = frames.map(frame => ({ ...frame, y: frame.y + offsets[frame.id] })).sort((a, b) => a.y - b.y);
+      assert.equal(preview[0].y, 0);
+      assert.equal(preview[1].y, preview[0].height);
+      assert.equal(preview[2].y, preview[0].height + preview[1].height);
+      assert.equal(preview[2].y + preview[2].height, 330);
+      assert.equal(preview[destination].id, source.id);
+    }
+  }
   console.log('Notification checks passed: thresholds, deduplication, permissions, retries, background integration and drag ordering.');
 }
 main().catch(error => { console.error(error); process.exitCode = 1; });
