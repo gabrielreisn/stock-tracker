@@ -1,6 +1,6 @@
 import AppKit
 
-/// Which data StockBar runs on: the user's own, or the made-up demo account for showing the app (switched in the
+/// Which data Cymba runs on: the user's own, or the made-up demo account for showing the app (switched in the
 /// Developer tab). Each has its own folders; the demo never talks to Open Finance, so it can't sync over or mix
 /// with real data. The local AI model and CVM's public fund data are shared.
 enum DataAccount: String, CaseIterable, Identifiable {
@@ -13,16 +13,16 @@ enum DataAccount: String, CaseIterable, Identifiable {
     /// Read once at launch: the stores open their files when the app starts, so switching relaunches it.
     static let current: DataAccount = UserDefaults.standard.string(forKey: key).flatMap(DataAccount.init) ?? .personal
 
-    /// Application Support/StockBar, shared by both accounts (the local model lives here).
+    /// Application Support/Cymba, shared by both accounts (the local model lives here).
     static let baseDirectory: URL = folder(FileManager.default.urls(for: .applicationSupportDirectory, in: .userDomainMask)[0]
-        .appendingPathComponent("StockBar", isDirectory: true))
+        .appendingPathComponent("Cymba", isDirectory: true))
 
     /// The account's portfolio, bonds, funds, alerts and expense settings. Personal data stays where it always was.
     static let dataDirectory: URL = current == .demo ? folder(baseDirectory.appendingPathComponent("Demo", isDirectory: true)) : baseDirectory
 
     /// The account's downloaded transactions and bills.
     static let cacheDirectory: URL = {
-        let base = folder(FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0].appendingPathComponent("StockBar", isDirectory: true))
+        let base = folder(FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0].appendingPathComponent("Cymba", isDirectory: true))
         return current == .demo ? folder(base.appendingPathComponent("Demo", isDirectory: true)) : base
     }()
 

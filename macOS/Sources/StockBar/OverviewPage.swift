@@ -91,7 +91,7 @@ struct Overview {
             series.append((.bonds, axis.map { $0 >= b.issueDay && $0 <= b.maturityDay ? pricer.value(b, on: $0).gross : nil }))
         }
         for h in funds.holdings {
-            guard let history = funds.holdingSeries[h.cnpj], let first = history.days.first else { continue }
+            guard !h.isBalanceOnly, let history = funds.holdingSeries[h.cnpj], let first = history.days.first else { continue }
             series.append((.funds, axis.map { $0 >= first ? history.price(onOrBefore: $0).map { $0 * h.quantity } : nil }))
         }
 
@@ -141,7 +141,7 @@ struct OverviewPage: View {
         [store.lastUpdated?.timeIntervalSince1970.description ?? "",
          store.holdings.map { "\($0.ticker)\($0.quantity)" }.joined(),
          store.bonds.map { "\($0.id)\($0.quantity)\($0.rate)" }.joined(),
-         funds.holdings.map { "\($0.id)\($0.quantity)" }.joined(),
+         funds.holdings.map { "\($0.id)\($0.quantity)\($0.statementGross ?? 0)\($0.statementDay ?? 0)" }.joined(),
          String(funds.holdingSeriesVersion), String(funds.holdingsLoading)].joined(separator: "|")
     }
 

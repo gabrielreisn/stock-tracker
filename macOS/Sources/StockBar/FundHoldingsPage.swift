@@ -134,10 +134,10 @@ struct FundHoldingsPage: View {
                 .foregroundStyle(.secondary)
             }
             .frame(maxWidth: .infinity, alignment: .leading)
-            Text(h.quantity.shares)
+            Text(h.isBalanceOnly ? "—" : h.quantity.shares)
                 .frame(width: 110, alignment: .trailing)
             VStack(alignment: .trailing, spacing: 1) {
-                Text(v.map { $0.price.formatted(.number.precision(.fractionLength(8)).locale(Self.brazil)) } ?? "—")
+                Text(h.isBalanceOnly ? "—" : (v.map { $0.price.formatted(.number.precision(.fractionLength(8)).locale(Self.brazil)) } ?? "—"))
                 if let v {
                     Text("\(source(v.source)) · \(short(v.day))").font(.caption2)
                         .foregroundStyle(isStale(v) ? .orange : .secondary)

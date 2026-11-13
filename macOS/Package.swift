@@ -2,11 +2,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "StockBar",
+    name: "Cymba",
     platforms: [.macOS(.v15)],
     targets: [
         .executableTarget(
-            name: "StockBar",
+            name: "Cymba",
             path: "Sources/StockBar"
         ),
     ],

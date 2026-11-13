@@ -52,6 +52,9 @@ struct FundHolding: Codable, Identifiable, Hashable {
     var quantity: Double
     /// Exempt from income tax for individuals (incentivized infrastructure funds).
     var taxExempt: Bool
+    /// Gross statement balance when the statement does not provide a share count.
+    var statementGross: Double?
+    var isBalanceOnly: Bool { quantity == 0 && statementGross != nil }
     var statementPrice: Double?
     var statementDay: Int?
     /// The statement price was taken from Open Finance on a sync, not typed in.
@@ -115,6 +118,9 @@ extension FundStore {
 
     /// Price, value and returns for a holding from what's loaded.
     func value(_ h: FundHolding) -> FundHoldingValue? {
+        if h.isBalanceOnly, let gross = h.statementGross, let day = h.statementDay {
+            return FundHoldingValue(price: 0, day: day, source: .statement, gross: gross)
+        }
         let series = holdingSeries[h.cnpj]
         var price: Double?, day = 0, source = FundHoldingValue.Source.statement
         if let series, let last = series.days.last, let p = series.prices.last {
@@ -151,8 +157,8 @@ extension FundStore {
             m = DayKey.addMonths(m * 100 + 1, -1) / 100
         }
         let recent = Array(months.prefix(14)), older = Array(months.dropFirst(14))
-        let daily = Set(holdings.filter { $0.kind == .fif }.map(\.cnpj))
-        let monthly = Set(holdings.filter { $0.kind == .fidc }.map(\.cnpj))
+        let daily = Set(holdings.filter { $0.kind == .fif && !$0.isBalanceOnly }.map(\.cnpj))
+        let monthly = Set(holdings.filter { $0.kind == .fidc && !$0.isBalanceOnly }.map(\.cnpj))
         Task { @MainActor in
             var rows: [String: [(day: Int, quota: Double)]] = [:]
             @MainActor func publish() {

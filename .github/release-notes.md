@@ -1,18 +1,19 @@
-## Install
+## Cymba 3.1.0
 
-1. Download the `.dmg` below and open it.
-2. Drag **StockBar** onto **Applications**.
-3. Open StockBar from Applications. It lives in the menu bar (no Dock icon).
+StockBar is now **Cymba**, with a new icon and a portfolio widget covering stocks, bonds and funds.
 
-StockBar isn't notarized by Apple yet, so the first launch is blocked with *"Apple could not verify StockBar…"*.
-To allow it, open **System Settings → Privacy & Security**, scroll down, and click **Open Anyway** next to StockBar.
-You only need to do this once.
+- Open Finance sync now picks up newly reported stocks and ETFs. Positions without market quotes use the bank's statement price, with the source shown on hover.
+- Add funds using a gross statement balance when the statement doesn't include shares. These balances stay fixed until updated and count toward the portfolio total.
+- The menu bar widget shows a concise, readable warning when market data is missing. Hover for details. **Open app** closes the widget and brings up the main window.
+- Price alerts now live under **Stocks → Price alerts**.
+- Run a local AI model through Ollama, or use Apple Intelligence or your own cloud provider key.
 
-From 3.0.0-beta-2 on, StockBar updates itself: when a new version is out, click **Update to …** in the sidebar
-(or Settings → Updates) and it downloads, installs and relaunches — no need to come back here.
+## Install or upgrade
 
-New in 3.0: an **AI** tab to ask about your portfolio and expenses. Choose its engine in Settings → AI:
-Apple Intelligence (macOS 26), a local model that runs on your Mac (Qwen3 4B, 2,5 GB, downloaded from Settings),
-or your own OpenAI, Anthropic, DeepSeek or Google Gemini key.
+1. Download **Cymba-3.1.0.dmg** below and open it.
+2. Drag **Cymba** onto **Applications**, then open it.
+3. If macOS blocks the first launch, allow it under **System Settings → Privacy & Security → Open Anyway**. The app isn't notarized yet.
 
-Requires macOS 15 or later. Runs natively on Apple Silicon and Intel Macs.
+**Upgrading from StockBar 3.0:** use the DMG for this release. StockBar's old updater cannot install the renamed application. Cymba copies existing StockBar data and settings on first launch without replacing existing Cymba files; saved Pluggy and AI keys remain accessible through Keychain. Keep StockBar closed while using Cymba. Future Cymba releases can be installed through Settings → Updates.
+
+Requires macOS 15 or later. Universal app for Apple Silicon and Intel. Apple Intelligence requires macOS 26 and supported hardware.

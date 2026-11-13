@@ -245,7 +245,7 @@ actor PluggyClient {
         request.setValue("application/json", forHTTPHeaderField: "Content-Type")
         request.setValue(try await key(), forHTTPHeaderField: "X-API-KEY")
         // No avoidDuplicates: MeuPluggy items carry no credentials, so Pluggy would treat every new one as a
-        // duplicate, yet each one shares a different institution. StockBar dedupes by accounts after syncing.
+        // duplicate, yet each one shares a different institution. Cymba dedupes by accounts after syncing.
         var body: [String: Any] = [:]
         if let itemId { body["itemId"] = itemId }
         request.httpBody = try JSONSerialization.data(withJSONObject: body)
@@ -307,24 +307,39 @@ actor PluggyClient {
 /// The client secret lives in the login keychain, never in files or defaults.
 ///
 /// macOS grants a self-signed app access per build (cdhash), so a new version asks again once; reading the
-/// secret's data is what asks, so StockBar reads it at most once per launch and checks for it by attributes only.
+/// secret's data is what asks, so Cymba reads it at most once per launch and checks for it by attributes only.
 enum Keychain {
     /// Pluggy's client secret, by client ID. Other secrets pass their own service.
-    static let pluggy = "StockBar Pluggy"
+    static let pluggy = "Cymba Pluggy"
+
+    /// Keep access to saved credentials across the StockBar → Cymba rename.
+    private static func services(for service: String) -> [String] {
+        switch service {
+        case "Cymba Pluggy": [service, "StockBar Pluggy"]
+        case "Cymba AI": [service, "StockBar AI"]
+        default: [service]
+        }
+    }
 
     /// Whether the item exists, without reading the secret itself (which is what asks for permission).
     static func hasSecret(for account: String, service: String = pluggy) -> Bool {
-        let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
-                                    kSecAttrAccount as String: account, kSecReturnAttributes as String: true]
-        return SecItemCopyMatching(query as CFDictionary, nil) == errSecSuccess
+        services(for: service).contains { candidate in
+            let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: candidate,
+                                       kSecAttrAccount as String: account, kSecReturnAttributes as String: true]
+            return SecItemCopyMatching(query as CFDictionary, nil) == errSecSuccess
+        }
     }
 
     static func secret(for account: String, service: String = pluggy) -> String? {
-        let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
-                                    kSecAttrAccount as String: account, kSecReturnData as String: true]
-        var result: AnyObject?
-        guard SecItemCopyMatching(query as CFDictionary, &result) == errSecSuccess, let data = result as? Data else { return nil }
-        return String(data: data, encoding: .utf8)
+        for candidate in services(for: service) {
+            let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: candidate,
+                                       kSecAttrAccount as String: account, kSecReturnData as String: true]
+            var result: AnyObject?
+            if SecItemCopyMatching(query as CFDictionary, &result) == errSecSuccess, let data = result as? Data {
+                return String(data: data, encoding: .utf8)
+            }
+        }
+        return nil
     }
 
     @discardableResult
@@ -336,9 +351,11 @@ enum Keychain {
     }
 
     static func deleteSecret(for account: String, service: String = pluggy) {
-        let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: service,
-                                    kSecAttrAccount as String: account]
-        SecItemDelete(query as CFDictionary)
+        for candidate in services(for: service) {
+            let query: [String: Any] = [kSecClass as String: kSecClassGenericPassword, kSecAttrService as String: candidate,
+                                       kSecAttrAccount as String: account]
+            SecItemDelete(query as CFDictionary)
+        }
     }
 }
 
@@ -364,7 +381,7 @@ final class PluggyStore {
     private(set) var error: String?
     /// What the last sync changed to match Open Finance; nil when it didn't get to match.
     private(set) var syncChanges: [OpenFinanceChange]?
-    /// Applies a sync's investments to what StockBar tracks (see `OpenFinanceMatcher.reconcile`).
+    /// Applies a sync's investments to what Cymba tracks (see `OpenFinanceMatcher.reconcile`).
     /// Its second argument is the connections that finished updating, whose listings are complete.
     var reconcile: (@MainActor ([PluggyInvestment], Set<String>) -> [OpenFinanceChange])?
 
@@ -406,7 +423,7 @@ final class PluggyStore {
 
     /// After the widget succeeds: keep the item (a reconnect can hand back a new id) and sync it. If an older
     /// connection turns out to share the same accounts (the same institution connected twice), it's dropped from
-    /// StockBar so nothing is counted twice; it stays in Pluggy. Returns the names of those dropped.
+    /// Cymba so nothing is counted twice; it stays in Pluggy. Returns the names of those dropped.
     @discardableResult
     func connected(itemId: String, replacing old: String?) async -> [String] {
         let id = itemId.lowercased()

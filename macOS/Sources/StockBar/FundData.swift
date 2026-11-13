@@ -70,7 +70,7 @@ enum CVM {
 
     static let cacheDirectory: URL = {
         let dir = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0]
-            .appendingPathComponent("StockBar/CVM", isDirectory: true)
+            .appendingPathComponent("Cymba/CVM", isDirectory: true)
         try? FileManager.default.createDirectory(at: dir, withIntermediateDirectories: true)
         // Caches from before columns were read by name (pre-Dec 2023 months were misread).
         for name in (try? FileManager.default.contentsOfDirectory(atPath: dir.path)) ?? []

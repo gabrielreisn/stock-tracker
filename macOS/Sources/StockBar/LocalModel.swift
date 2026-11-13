@@ -1,6 +1,6 @@
 import Foundation
 
-/// The local engine: a model the user has in Ollama, run on the Mac, free and private. StockBar doesn't run models
+/// The local engine: a model the user has in Ollama, run on the Mac, free and private. Cymba doesn't run models
 /// itself; it talks to Ollama's local server, which the user installs from ollama.com. Settings → AI lists the
 /// installed models that can call tools (the chat needs them) and remembers the choice; with none, it offers to
 /// download a small one through Ollama. Chats go through Ollama's OpenAI-compatible endpoint (`AIProvider.ollama`),
@@ -22,7 +22,7 @@ final class LocalModel {
     struct Installed: Hashable {
         var name: String
         var size: Int64
-        /// Thinks before answering by default (Qwen 3.x and others); StockBar turns that off.
+        /// Thinks before answering by default (Qwen 3.x and others); Cymba turns that off.
         var thinks: Bool
     }
 
@@ -126,7 +126,7 @@ final class LocalModel {
         var errorDescription: String? { message }
     }
 
-    /// StockBar 3.0 downloaded Qwen3 4B itself (2,5 GB in Application Support/StockBar/Models). Ollama replaced it,
+    /// Cymba 3.0 downloaded Qwen3 4B itself (2,5 GB in Application Support/Cymba/Models). Ollama replaced it,
     /// so the file only takes space.
     private static func removeOldModel() {
         let folder = DataAccount.baseDirectory.appendingPathComponent("Models")

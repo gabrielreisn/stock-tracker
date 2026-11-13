@@ -1,0 +1,872 @@
+/* English is the development language: keys are the English text. */
+
+/* iPhone navigation and forms */
+"AI settings" = "AI settings";
+"About" = "About";
+"Add a fund using its CNPJ, or import from Open Finance." = "Add a fund using its CNPJ, or import from Open Finance.";
+"Add a stock or import from Open Finance." = "Add a stock or import from Open Finance.";
+"Add alert" = "Add alert";
+"Add expense" = "Add expense";
+"Add holdings in Investments or connect a bank in Open Finance." = "Add holdings in Investments or connect a bank in Open Finance.";
+"Add stock" = "Add stock";
+"Always use for this store" = "Always use for this store";
+"Ask a question" = "Ask a question";
+"Ask about spending, holdings, returns or upcoming bills." = "Ask about spending, holdings, returns or upcoming bills.";
+"Audience" = "Audience";
+"Bank category keywords, comma separated" = "Bank category keywords, comma separated";
+"Benchmark" = "Benchmark";
+"CVM fact sheet" = "CVM fact sheet";
+"Card bills" = "Card bills";
+"Category trends" = "Category trends";
+"Cloud" = "Cloud";
+"Compare up to six funds" = "Compare up to six funds";
+"Condition" = "Condition";
+"Connections" = "Connections";
+"Current" = "Current";
+"Dividends & JCP" = "Dividends & JCP";
+"Enter the address of an Ollama server on your network. Ollama runs on your computer; keep this server on a trusted network." = "Enter the address of an Ollama server on your network. Ollama runs on your computer; keep this server on a trusted network.";
+"Every supported position is already tracked." = "Every supported position is already tracked.";
+"Fact sheet" = "Fact sheet";
+"Fund details" = "Fund details";
+"Hidden bills" = "Hidden bills";
+"Icon" = "Icon";
+"Import" = "Import";
+"Import positions" = "Import positions";
+"Import selected positions" = "Import selected positions";
+"Inception" = "Inception";
+"Large purchase alert" = "Large purchase alert";
+"Last sync" = "Last sync";
+"Loans" = "Loans";
+"Market data" = "Market data";
+"Market value" = "Market value";
+"Monthly limit" = "Monthly limit";
+"Monthly limits" = "Monthly limits";
+"Monthly spending" = "Monthly spending";
+"New alert" = "New alert";
+"New conversation" = "New conversation";
+"No tool-capable model is available from this server." = "No tool-capable model is available from this server.";
+"No transactions for this month" = "No transactions for this month";
+"Ollama server" = "Ollama server";
+"Performance" = "Performance";
+"Pluggy application" = "Pluggy application";
+"Portfolio allocation" = "Portfolio allocation";
+"Portfolio value" = "Portfolio value";
+"Price alerts are checked when market data refreshes. Background delivery is scheduled by iOS." = "Price alerts are checked when market data refreshes. Background delivery is scheduled by iOS.";
+"Refresh models" = "Refresh models";
+"Remove API key" = "Remove API key";
+"Renew consent to update this connection." = "Renew consent to update this connection.";
+"Reported investments" = "Reported investments";
+"Requires iOS 26, a compatible iPhone and Apple Intelligence enabled in Settings. Queries run on the device." = "Requires iOS 26, a compatible iPhone and Apple Intelligence enabled in Settings. Queries run on the device.";
+"Restart the app after changing the language." = "Restart the app after changing the language.";
+"Retry" = "Retry";
+"Save credentials" = "Save credentials";
+"Save key" = "Save key";
+"Save limits" = "Save limits";
+"Search by name, CNPJ or manager" = "Search by name, CNPJ or manager";
+"Select all bonds and funds" = "Select all bonds and funds";
+"Send" = "Send";
+"Server URL" = "Server URL";
+"Show" = "Show";
+"StockBar for iPhone" = "StockBar for iPhone";
+"Target price" = "Target price";
+"Total monthly limit" = "Total monthly limit";
+"Track this bill" = "Track this bill";
+"Track this store as a recurring bill" = "Track this store as a recurring bill";
+"Transaction" = "Transaction";
+"Warning threshold" = "Warning threshold";
+"Your portfolio and expenses are stored on this device. Credentials are stored in Keychain. Market data comes from Yahoo Finance, Banco Central, B3 and CVM." = "Your portfolio and expenses are stored on this device. Credentials are stored in Keychain. Market data comes from Yahoo Finance, Banco Central, B3 and CVM.";
+"Your questions and the results of read-only financial queries are sent to the selected provider." = "Your questions and the results of read-only financial queries are sent to the selected provider.";
+"Supported positions are reconciled automatically with Stocks, Bonds and Funds. Missing contract terms remain available here for review." = "Supported positions are reconciled automatically with Stocks, Bonds and Funds. Missing contract terms remain available here for review.";
+"Complete positions are imported automatically. Select remaining positions and supply missing acquisition prices. Bonds still need their reported rate, issue date and maturity; funds need a CNPJ." = "Complete positions are imported automatically. Select remaining positions and supply missing acquisition prices. Bonds still need their reported rate, issue date and maturity; funds need a CNPJ.";
+"Some positions are missing contract terms or a fund CNPJ. Add them manually in Investments after checking your statement." = "Some positions are missing contract terms or a fund CNPJ. Add them manually in Investments after checking your statement.";
+"Positions imported." = "Positions imported.";
+
+"Drag the handle to reorder categories. Tap a category to edit it." = "Drag the handle to reorder categories. Tap a category to edit it.";
+
+"Delete category" = "Delete category";
+
+"Delete this category?" = "Delete this category?";
+
+"Background refresh is managed by the operating system; timing may vary." = "Background refresh is managed by the operating system; timing may vary.";
+
+"Tracked in portfolio" = "Tracked in portfolio";
+
+"Review missing details" = "Review missing details";
+
+"Paid" = "Paid";
+
+"Personal account" = "Personal account";
+
+"Personal account · saved on this device." = "Personal account · saved on this device.";
+
+"Changes are saved on this device." = "Changes are saved on this device.";
+
+"Your transactions and changes are saved on this device." = "Your transactions and changes are saved on this device.";
+
+"Your connected accounts" = "Your connected accounts";
+
+"This transaction stays hidden when bank data is refreshed." = "This transaction stays hidden when bank data is refreshed.";
+
+"Values use the latest bank statement. Returns require CVM history. Values are gross, before income tax." = "Values use the latest bank statement. Returns require CVM history. Values are gross, before income tax.";
+
+"No closed card bills are available from your banks." = "No closed card bills are available from your banks.";
+
+"No loan contracts are available from your banks." = "No loan contracts are available from your banks.";
+
+"Waiting for sync" = "Waiting for sync";
+
+"Account" = "Account";
+
+"Investment" = "Investment";
+
+"Open" = "Open";
+
+"Closed" = "Closed";
+
+"Refreshes after 6 hours and when the app opens with stale data." = "Refreshes after 6 hours and when the app opens with stale data.";
+
+"Background refresh is scheduled by the operating system; timing may vary." = "Background refresh is scheduled by the operating system; timing may vary.";
+
+"Background refresh requires a native build on a physical device. Foreground refresh is active." = "Background refresh requires a native build on a physical device. Foreground refresh is active.";
+
+"Manage connections in Settings" = "Manage connections in Settings";
+
+"Accounts" = "Accounts";
+
+"No accounts available yet." = "No accounts available yet.";
+
+"Positions with missing terms or fund identifiers remain here for review. No values are guessed." = "Positions with missing terms or fund identifiers remain here for review. No values are guessed.";
+
+"Search investments" = "Search investments";
+
+"Hide closed positions" = "Hide closed positions";
+
+"Show closed positions" = "Show closed positions";
+
+"To connect in Expo Go, restart Metro with --lan and reopen the project." = "To connect in Expo Go, restart Metro with --lan and reopen the project.";
+
+"Spending" = "Spending";
+
+"To review" = "To review";
+
+"Not spending" = "Not spending";
+
+"Date" = "Date";
+
+"Store" = "Store";
+
+"Description" = "Description";
+
+"Source" = "Source";
+
+"Previous month" = "Previous month";
+
+"Next month" = "Next month";
+
+"Search store or item" = "Search store or item";
+
+"Add purchase" = "Add purchase";
+
+"No matching transactions" = "No matching transactions";
+
+"Nothing here this month" = "Nothing here this month";
+
+"Totals exclude transactions without a BRL conversion." = "Totals exclude transactions without a BRL conversion.";
+
+"Conversion unavailable" = "Conversion unavailable";
+
+"Later installment" = "Later installment";
+
+"Delete this transaction?" = "Delete this transaction?";
+
+"This purchase will be removed." = "This purchase will be removed.";
+
+"This transaction stays hidden when demo data is refreshed." = "This transaction stays hidden when demo data is refreshed.";
+
+"Converted by the bank" = "Converted by the bank";
+
+"Automatic category" = "Automatic category";
+
+"Count as spending or income" = "Count as spending or income";
+
+"Move to Not spending" = "Move to Not spending";
+
+"Stop tracking as a bill" = "Stop tracking as a bill";
+
+"Track as a bill" = "Track as a bill";
+
+"Date (YYYY-MM-DD)" = "Date (YYYY-MM-DD)";
+
+"Value (BRL, e.g. 25,90)" = "Value (BRL, e.g. 25,90)";
+
+"Hide other institutions" = "Hide other institutions";
+
+"Allocation" = "Allocation";
+
+"Stocks B3" = "Stocks B3";
+
+"Stocks US" = "Stocks US";
+
+"All" = "All";
+
+"Portfolio" = "Portfolio";
+
+"Largest positions" = "Largest positions";
+
+"Gross values in BRL" = "Gross values in BRL";
+
+"Known portfolio value" = "Known portfolio value";
+
+"Partial valuation" = "Partial valuation";
+
+"Returns cover available histories only. Missing prices are excluded, not treated as zero." = "Returns cover available histories only. Missing prices are excluded, not treated as zero.";
+
+"Shares of known value only" = "Shares of known value only";
+
+"No valued positions" = "No valued positions";
+
+"Awaiting valuation" = "Awaiting valuation";
+
+"Fund prices require CVM history or a statement price. Stock and rate requests can be retried below." = "Fund prices require CVM history or a statement price. Stock and rate requests can be retried below.";
+
+"Refresh market data" = "Refresh market data";
+
+"Return history unavailable" = "Return history unavailable";
+
+"Touch the chart to inspect returns" = "Touch the chart to inspect returns";
+
+"Clear selection" = "Clear selection";
+
+"Today's holdings are treated as held throughout the range. Daily returns are weighted by the previous day's values. Bonds join on their issue date; statement-only funds count in value, not returns. Values are gross of tax." = "Today's holdings are treated as held throughout the range. Daily returns are weighted by the previous day's values. Bonds join on their issue date; statement-only funds count in value, not returns. Values are gross of tax.";
+
+"Average price" = "Average price";
+
+"Checking…" = "Checking…";
+
+"Cost" = "Cost";
+
+"Could not validate this ticker. Check the symbol and connection, then retry." = "Could not validate this ticker. Check the symbol and connection, then retry.";
+
+"Current holdings, total returns in BRL. Benchmarks follow Settings. Monthly inflation uses published observations." = "Current holdings, total returns in BRL. Benchmarks follow Settings. Monthly inflation uses published observations.";
+
+"Demo account · edits reset when the app restarts." = "Demo account · edits reset when the app restarts.";
+
+"Dividends" = "Dividends";
+
+"Edit stock" = "Edit stock";
+
+"No dividend events available for this year." = "No dividend events available for this year.";
+
+"No stocks yet. Add a ticker and quantity." = "No stocks yet. Add a ticker and quantity.";
+
+"Optional" = "Optional";
+
+"Performance unavailable until all holdings have price histories and exchange rates." = "Performance unavailable until all holdings have price histories and exchange rates.";
+
+"Price" = "Price";
+
+"Price as of" = "Price as of";
+
+"Quotes may be delayed. Pull to refresh. Missing prices are excluded from totals by showing —." = "Quotes may be delayed. Pull to refresh. Missing prices are excluded from totals by showing —.";
+
+"Remove stock?" = "Remove stock?";
+
+"Reported distributions" = "Reported distributions";
+
+"Some market data could not be refreshed. Previous quotes, if any, remain visible." = "Some market data could not be refreshed. Previous quotes, if any, remain visible.";
+
+"Stock performance chart" = "Stock performance chart";
+
+"Ticker" = "Ticker";
+
+"Total value" = "Total value";
+
+"Unavailable" = "Unavailable";
+
+"Use the stock currency: BRL for B3, USD for US. Leave average price empty to clear it." = "Use the stock currency: BRL for B3, USD for US. Leave average price empty to clear it.";
+
+"Value" = "Value";
+
+"YTD" = "YTD";
+
+"Yahoo ex-dividend dates, multiplied by current shares, before tax. These are not confirmed payment dates. Upcoming payments are unavailable." = "Yahoo ex-dividend dates, multiplied by current shares, before tax. These are not confirmed payment dates. Upcoming payments are unavailable.";
+
+"Under 80%" = "Under 80%";
+
+"80–100%" = "80–100%";
+
+"Above the limit" = "Above the limit";
+
+"Value today" = "Value today";
+
+"Institution limit" = "Institution limit";
+
+"Headroom" = "Headroom";
+
+"CNPJ unknown: edit the bonds to identify the issuer." = "CNPJ unknown: edit the bonds to identify the issuer.";
+
+"Interest is projected to take this group above R$ 250,000 before maturity." = "Interest is projected to take this group above R$ 250,000 before maturity.";
+
+"FGC guarantees up to R$ 250,000 per CPF per institution or financial conglomerate, with a R$ 1 million total limit every four years. CDB, LC, LCI and LCA are covered; CRI, CRA and debentures are not." = "FGC guarantees up to R$ 250,000 per CPF per institution or financial conglomerate, with a R$ 1 million total limit every four years. CDB, LC, LCI and LCA are covered; CRI, CRA and debentures are not.";
+
+"Loading Banco Central conglomerates…" = "Loading Banco Central conglomerates…";
+
+"Conglomerate data unavailable. Grouped by CNPJ root or issuer name only; banks in the same group may share a limit." = "Conglomerate data unavailable. Grouped by CNPJ root or issuer name only; banks in the same group may share a limit.";
+
+"Provisional exposure · grouping unverified" = "Provisional exposure · grouping unverified";
+
+"Exposure by financial conglomerate" = "Exposure by financial conglomerate";
+
+"Guaranteed" = "Guaranteed";
+
+"Overall limit used" = "Overall limit used";
+
+"Of R$ 1 million per CPF every four years; prior claims are not tracked here." = "Of R$ 1 million per CPF every four years; prior claims are not tracked here.";
+
+"Totals are unavailable until every eligible bond can be valued." = "Totals are unavailable until every eligible bond can be valued.";
+
+"Reading the bars" = "Reading the bars";
+
+"Filled bar: value today · circle: estimated maturity value · vertical line: R$ 250,000 limit." = "Filled bar: value today · circle: estimated maturity value · vertical line: R$ 250,000 limit.";
+
+"Under 80% · 80–100% · Above the limit" = "Under 80% · 80–100% · Above the limit";
+
+"No active CDB, LC, LCI or LCA in Bonds." = "No active CDB, LC, LCI or LCA in Bonds.";
+
+"Not covered by the FGC" = "Not covered by the FGC";
+
+"FGC exposure uses gross principal plus accrued interest. Maturity estimates carry forward the latest CDI and trailing 12-month IPCA. Banco Central IF.data prudential conglomerates share one limit. Missing CNPJs can split a group; edit a bond to correct its issuer." = "FGC exposure uses gross principal plus accrued interest. Maturity estimates carry forward the latest CDI and trailing 12-month IPCA. Banco Central IF.data prudential conglomerates share one limit. Missing CNPJs can split a group; edit a bond to correct its issuer.";
+
+"Fund holding" = "Fund holding";
+
+"Your funds" = "Your funds";
+
+"Add fund" = "Add fund";
+
+"Edit fund" = "Edit fund";
+
+"Shares" = "Shares";
+
+"Known gross value" = "Known gross value";
+
+"Share price" = "Share price";
+
+"Price date" = "Price date";
+
+"Last month" = "Last month";
+
+"Year to date" = "Year to date";
+
+"Last 12 months" = "Last 12 months";
+
+"Taxable" = "Taxable";
+
+"Statement" = "Statement";
+
+"Search by name or CNPJ" = "Search by name or CNPJ";
+
+"Ascending" = "Ascending";
+
+"Descending" = "Descending";
+
+"Allocation by purpose" = "Allocation by purpose";
+
+"Selic / DI" = "Selic / DI";
+
+"Private credit (CDI)" = "Private credit (CDI)";
+
+"Inflation (IPCA)" = "Inflation (IPCA)";
+
+"Infrastructure (FIP)" = "Infrastructure (FIP)";
+
+"Equities" = "Equities";
+
+"Other" = "Other";
+
+"Automatic" = "Automatic";
+
+"Purpose" = "Purpose";
+
+"CNPJ" = "CNPJ";
+
+"Delete this fund?" = "Delete this fund?";
+
+"Fund not found." = "Fund not found.";
+
+"A fund with this CNPJ already exists." = "A fund with this CNPJ already exists.";
+
+"Statement price (optional)" = "Statement price (optional)";
+
+"Demo account · Changes last for this session." = "Demo account · Changes last for this session.";
+
+"No funds yet. Add a fund to get started." = "No funds yet. Add a fund to get started.";
+
+"No matching funds." = "No matching funds.";
+
+"Add statement prices to see allocation by value." = "Add statement prices to see allocation by value.";
+
+"Funds without prices are excluded from allocation." = "Funds without prices are excluded from allocation.";
+
+"Demo holdings have no CVM price history. Enter a statement price to value a fund. Returns require CVM history and remain unavailable. Values are gross, before income tax." = "Demo holdings have no CVM price history. Enter a statement price to value a fund. Returns require CVM history and remain unavailable. Values are gross, before income tax.";
+
+"Use a positive price and a valid date (YYYY-MM-DD), no later than today. Clear the price to remove the valuation." = "Use a positive price and a valid date (YYYY-MM-DD), no later than today. Clear the price to remove the valuation.";
+
+"Enter a 14-digit CNPJ, a name and a positive number of shares. Decimal comma or point accepted; omit thousands separators." = "Enter a 14-digit CNPJ, a name and a positive number of shares. Decimal comma or point accepted; omit thousands separators.";
+
+"Demo account" = "Demo account";
+
+"Demo data · no bank connection required" = "Demo data · no bank connection required";
+
+"Spent in the year" = "Spent in the year";
+
+"Average per month" = "Average per month";
+
+"Income" = "Income";
+
+"Balance" = "Balance";
+
+"Highest month" = "Highest month";
+
+"Previous year" = "Previous year";
+
+"Next year" = "Next year";
+
+"Spending by month" = "Spending by month";
+
+"All categories" = "All categories";
+
+"No category" = "No category";
+
+"Categories" = "Categories";
+
+"Average" = "Average";
+
+"Trend" = "Trend";
+
+"Year" = "Year";
+
+"Month by month" = "Month by month";
+
+"Category" = "Category";
+
+"Total" = "Total";
+
+"Spent" = "Spent";
+
+"Limit" = "Limit";
+
+"steady" = "steady";
+
+"in progress" = "in progress";
+
+"No spending this year." = "No spending this year.";
+
+"Tap a month for details. Swipe to see the whole year." = "Tap a month for details. Swipe to see the whole year.";
+
+"Tap a category to focus the chart." = "Tap a category to focus the chart.";
+
+"Trends use completed months only. Spending excludes income, card bill payments, investments and transfers between your own accounts." = "Trends use completed months only. Spending excludes income, card bill payments, investments and transfers between your own accounts.";
+
+"Groceries & Cleaning" = "Groceries & Cleaning";
+
+"Home & Furniture" = "Home & Furniture";
+
+"Delivery & Restaurants" = "Delivery & Restaurants";
+
+"Transport & Travel" = "Transport & Travel";
+
+"Health & Pharmacy" = "Health & Pharmacy";
+
+"Beauty & Self-care" = "Beauty & Self-care";
+
+"Electronics & Tech" = "Electronics & Tech";
+
+"Subscriptions & Apps" = "Subscriptions & Apps";
+
+"Books & Education" = "Books & Education";
+
+"Pets" = "Pets";
+
+"Clothing & Accessories" = "Clothing & Accessories";
+
+"Leisure & Games" = "Leisure & Games";
+
+"Housing & Bills" = "Housing & Bills";
+
+"PIX & Transfers" = "PIX & Transfers";
+
+"Shopping" = "Shopping";
+
+"Choose a category" = "Choose a category";
+
+"Yearly spending and category trends" = "Yearly spending and category trends";
+
+"Due dates and recurring payments" = "Due dates and recurring payments";
+
+"Automatic debit" = "Automatic debit";
+
+"Boleto" = "Boleto";
+
+"Pix" = "Pix";
+
+"Transfer" = "Transfer";
+
+"Bank account" = "Bank account";
+
+"Manual" = "Manual";
+
+"Credit card" = "Credit card";
+
+"Debit card" = "Debit card";
+
+"Today" = "Today";
+
+"Tomorrow" = "Tomorrow";
+
+"Not seen yet" = "Not seen yet";
+
+"Marked paid" = "Marked paid";
+
+"Estimated" = "Estimated";
+
+"Tracked by you" = "Tracked by you";
+
+"Manage" = "Manage";
+
+"Track again" = "Track again";
+
+"Track payment" = "Track payment";
+
+"Demo edits last for this app session. No bank connection is needed." = "Demo edits last for this app session. No bank connection is needed.";
+
+"Due in the next 30 days" = "Due in the next 30 days";
+
+"Late" = "Late";
+
+"Nothing late" = "Nothing late";
+
+"Paid this month" = "Paid this month";
+
+"Recorded payments only" = "Recorded payments only";
+
+"Recurring bills" = "Recurring bills";
+
+"Upcoming" = "Upcoming";
+
+"Late bills first, then the next 30 days" = "Late bills first, then the next 30 days";
+
+"Nothing due in the next 30 days." = "Nothing due in the next 30 days.";
+
+"Boletos, automatic debits and financing paid in at least 2 of the last 3 months" = "Boletos, automatic debits and financing paid in at least 2 of the last 3 months";
+
+"No recurring bills found yet." = "No recurring bills found yet.";
+
+"Track another payment" = "Track another payment";
+
+"Hide untracked bills" = "Hide untracked bills";
+
+"Credit card bills" = "Credit card bills";
+
+"The demo account has card transactions, but no closed card bills." = "The demo account has card transactions, but no closed card bills.";
+
+"Loans & financing" = "Loans & financing";
+
+"No loan contracts are included in the demo account." = "No loan contracts are included in the demo account.";
+
+"Due days are estimated from past payments. Tap a recurring bill to set its due day. Payments have a 3-day grace period before appearing late." = "Due days are estimated from past payments. Tap a recurring bill to set its due day. Payments have a 3-day grace period before appearing late.";
+
+"No other bank payments to track." = "No other bank payments to track.";
+
+"Not paid this month" = "Not paid this month";
+
+"Mark as paid this month" = "Mark as paid this month";
+
+"If you paid from an account that is not connected, mark it as paid here. This does not create a transaction." = "If you paid from an account that is not connected, mark it as paid here. This does not create a transaction.";
+
+"Due day" = "Due day";
+
+"Estimate from payments" = "Estimate from payments";
+
+"Stop tracking" = "Stop tracking";
+
+"Decrease warning threshold" = "Decrease warning threshold";
+
+"Increase warning threshold" = "Increase warning threshold";
+
+"No limit" = "No limit";
+
+"Enter a positive amount, like 1.234,50." = "Enter a positive amount, like 1.234,50.";
+
+"Over limit" = "Over limit";
+
+"Near limit" = "Near limit";
+
+"Its purchases go back to “To review”." = "Its purchases go back to “To review”.";
+
+"Delete" = "Delete";
+
+"Add category" = "Add category";
+
+"Edit category" = "Edit category";
+
+"Name" = "Name";
+
+"Monthly limit (R$)" = "Monthly limit (R$)";
+
+"Not enough history yet." = "Not enough history yet.";
+
+"Demo account · Changes last until the app restarts." = "Demo account · Changes last until the app restarts.";
+
+"Whole month" = "Whole month";
+
+"Limits are per month. Warnings appear here when spending reaches the chosen share or exceeds a limit." = "Limits are per month. Warnings appear here when spending reaches the chosen share or exceeds a limit.";
+
+"Spent this month" = "Spent this month";
+
+"Monthly total limit (R$)" = "Monthly total limit (R$)";
+
+"Warn at" = "Warn at";
+
+"Warn about purchases over (R$)" = "Warn about purchases over (R$)";
+
+"Off" = "Off";
+
+"Suggest limits from history" = "Suggest limits from history";
+
+"Done" = "Done";
+
+"Reorder" = "Reorder";
+
+"Tap a category to change its name, icon or limit. Deleting it sends its purchases back to “To review”." = "Tap a category to change its name, icon or limit. Deleting it sends its purchases back to “To review”.";
+
+"New category" = "New category";
+
+"Demo edits last for this session only." = "Demo edits last for this session only.";
+
+"Fixed rate" = "Fixed rate";
+
+"% of CDI" = "% of CDI";
+
+"CDI + spread" = "CDI + spread";
+
+"IPCA + spread" = "IPCA + spread";
+
+"Invested" = "Invested";
+
+"Gross value" = "Gross value";
+
+"Income tax" = "Income tax";
+
+"IOF" = "IOF";
+
+"Net value" = "Net value";
+
+"Gain" = "Gain";
+
+"Return" = "Return";
+
+"Unit value" = "Unit value";
+
+"At maturity (est., gross)" = "At maturity (est., gross)";
+
+"Add bond" = "Add bond";
+
+"Edit bond" = "Edit bond";
+
+"Delete this bond?" = "Delete this bond?";
+
+"Type" = "Type";
+
+"Issuer" = "Issuer";
+
+"Issuer CNPJ (optional)" = "Issuer CNPJ (optional)";
+
+"Code" = "Code";
+
+"Issued (YYYY-MM-DD)" = "Issued (YYYY-MM-DD)";
+
+"Matures (YYYY-MM-DD)" = "Matures (YYYY-MM-DD)";
+
+"Indexer" = "Indexer";
+
+"Rate (% a year)" = "Rate (% a year)";
+
+"Spread (% a year)" = "Spread (% a year)";
+
+"Quantity" = "Quantity";
+
+"Unit price at issue (R$)" = "Unit price at issue (R$)";
+
+"Enter an issuer, positive rate, quantity and price, valid dates from 2000–2070 with maturity after issue, and a 14-digit CNPJ if provided." = "Enter an issuer, positive rate, quantity and price, valid dates from 2000–2070 with maturity after issue, and a 14-digit CNPJ if provided.";
+
+"Allocation by indexer" = "Allocation by indexer";
+
+"Maturities" = "Maturities";
+
+"Invested · valuations unavailable" = "Invested · valuations unavailable";
+
+"Net value today by maturity year" = "Net value today by maturity year";
+
+"Issued" = "Issued";
+
+"Matures" = "Matures";
+
+"Matured" = "Matured";
+
+"Rate" = "Rate";
+
+"Income tax + IOF" = "Income tax + IOF";
+
+"FGC covered" = "FGC covered";
+
+"Not FGC covered" = "Not FGC covered";
+
+"Valuation unavailable" = "Valuation unavailable";
+
+"Tax exempt" = "Tax exempt";
+
+"Total net" = "Total net";
+
+"Loading CDI and IPCA…" = "Loading CDI and IPCA…";
+
+"Rate history is unavailable. Fixed-rate bonds are still valued; other values are left blank." = "Rate history is unavailable. Fixed-rate bonds are still valued; other values are left blank.";
+
+"No bonds yet" = "No bonds yet";
+
+"Add CDBs, LCAs and other fixed income with their rate and dates." = "Add CDBs, LCAs and other fixed income with their rate and dates.";
+
+"Portfolio summary" = "Portfolio summary";
+
+"Holdings" = "Holdings";
+
+"Ascending ↑" = "Ascending ↑";
+
+"Descending ↓" = "Descending ↓";
+
+"Values use business days over 252 with ANBIMA holidays, daily CDI compounding and monthly IPCA anniversaries. Income tax ranges from 22.5% to 15% on gains; exempt types pay no income tax. IOF applies within 30 days. Maturity projections carry forward the latest CDI or trailing 12-month IPCA and are estimates." = "Values use business days over 252 with ANBIMA holidays, daily CDI compounding and monthly IPCA anniversaries. Income tax ranges from 22.5% to 15% on gains; exempt types pay no income tax. IOF applies within 30 days. Maturity projections carry forward the latest CDI or trailing 12-month IPCA and are estimates.";
+
+"1. Create a free account at [meu.pluggy.ai](https://meu.pluggy.ai) and connect your banks and brokers there." = "1. Create a free account at [meu.pluggy.ai](https://meu.pluggy.ai) and connect your banks and brokers there.";
+
+"2. In the [Pluggy dashboard](https://dashboard.pluggy.ai), open your application and copy its Client ID and Client Secret." = "2. In the [Pluggy dashboard](https://dashboard.pluggy.ai), open your application and copy its Client ID and Client Secret.";
+
+"3. Paste them below and tap Connect a bank or broker. Each connection shares one institution from Meu Pluggy; connect again for the next one." = "3. Paste them below and tap Connect a bank or broker. Each connection shares one institution from Meu Pluggy; connect again for the next one.";
+
+"Add your Pluggy client ID and secret in Settings." = "Add your Pluggy client ID and secret in Settings.";
+
+"B3's real-estate fund (FII) index, with distributions reinvested. Starts Dec 2010." = "B3's real-estate fund (FII) index, with distributions reinvested. Starts Dec 2010.";
+
+"Benchmarks" = "Benchmarks";
+
+"Bills" = "Bills";
+
+"Bonds" = "Bonds";
+
+"Cancel" = "Cancel";
+
+"Categories & limits" = "Categories & limits";
+
+"Client ID" = "Client ID";
+
+"Client secret" = "Client secret";
+
+"Close" = "Close";
+
+"Coming soon" = "Coming soon";
+
+"Connect a bank or broker" = "Connect a bank or broker";
+
+"Connect account" = "Connect account";
+
+"Connect another bank or broker" = "Connect another bank or broker";
+
+"Connection" = "Connection";
+
+"Couldn't save the secret on this device." = "Couldn't save the secret on this device.";
+
+"Expenses" = "Expenses";
+
+"FGC Watcher" = "FGC Watcher";
+
+"Finances" = "Finances";
+
+"Forget" = "Forget";
+
+"Forget the client secret?" = "Forget the client secret?";
+
+"From your Pluggy application" = "From your Pluggy application";
+
+"Funds" = "Funds";
+
+"Ibovespa, B3's main stock index (a total-return index), via Yahoo (^BVSP)." = "Ibovespa, B3's main stock index (a total-return index), via Yahoo (^BVSP).";
+
+"Inflation plus a 6% real return a year — a typical long-term target." = "Inflation plus a 6% real return a year — a typical long-term target.";
+
+"Insights" = "Insights";
+
+"Interbank deposit rate, the usual fixed-income yardstick. Banco Central, series 12." = "Interbank deposit rate, the usual fixed-income yardstick. Banco Central, series 12.";
+
+"Investments" = "Investments";
+
+"It stays in Pluggy, but Cymba stops syncing it." = "It stays in Pluggy, but Cymba stops syncing it.";
+
+"Needs to be reconnected" = "Needs to be reconnected";
+
+"Official inflation. IBGE, via Banco Central series 433." = "Official inflation. IBGE, via Banco Central series 433.";
+
+"One MeuPluggy connection covers every bank and broker you authorize in Meu Pluggy. To add another institution, authorize it at meu.pluggy.ai; it shows up on Cymba's next sync." = "One MeuPluggy connection covers every bank and broker you authorize in Meu Pluggy. To add another institution, authorize it at meu.pluggy.ai; it shows up on Cymba's next sync.";
+
+"Open Finance" = "Open Finance";
+
+"Open Meu Pluggy" = "Open Meu Pluggy";
+
+"Opening Pluggy Connect…" = "Opening Pluggy Connect…";
+
+"Overview" = "Overview";
+
+"Reconnect" = "Reconnect";
+
+"Remove" = "Remove";
+
+"Remove this connection?" = "Remove this connection?";
+
+"Renew" = "Renew";
+
+"Renew connection" = "Renew connection";
+
+"Renew existing connection" = "Renew existing connection";
+
+"S&P 500 with dividends reinvested (^SP500TR), converted to reais at USD/BRL." = "S&P 500 with dividends reinvested (^SP500TR), converted to reais at USD/BRL.";
+
+"Save" = "Save";
+
+"Saved on this device" = "Saved on this device";
+
+"Set up once" = "Set up once";
+
+"Settings" = "Settings";
+
+"Stocks" = "Stocks";
+
+"Sync now" = "Sync now";
+
+"Syncing your accounts…" = "Syncing your accounts…";
+
+"This Meu Pluggy account is already connected" = "This Meu Pluggy account is already connected";
+
+"You will need to paste it again to sync." = "You will need to paste it again to sync.";
+
+"Your client secret stays in secure storage on this device and only leaves it to sign in to Pluggy. Meu Pluggy consent lasts a year; when it lapses, use Reconnect." = "Your client secret stays in secure storage on this device and only leaves it to sign in to Pluggy. Meu Pluggy consent lasts a year; when it lapses, use Reconnect.";
+
+"Personal account · Gross values in BRL" = "Personal account · Gross values in BRL";
+
+"Up to 3 at a time, so every line stays distinguishable. Rate-based ones are drawn dashed." = "Up to 3 at a time, so every line stays distinguishable. Rate-based ones are drawn dashed.";
+
+"Cymba for iPhone" = "Cymba for iPhone";
+
+"More" = "More";
+
+"Connect your banks with Meu Pluggy" = "Connect your banks with Meu Pluggy";
+
+"Use your own Pluggy application to connect banks and brokers. Your credentials stay on this device." = "Use your own Pluggy application to connect banks and brokers. Your credentials stay on this device.";
+
+"Saved in secure storage" = "Saved in secure storage";

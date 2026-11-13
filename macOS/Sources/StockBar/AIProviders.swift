@@ -92,7 +92,7 @@ enum AIEngine: String, CaseIterable {
 @Observable
 final class AIAccount {
     var engine: AIEngine { didSet { UserDefaults.standard.set(engine.rawValue, forKey: "aiEngine") } }
-    private static let keychainService = "StockBar AI"
+    private static let keychainService = "Cymba AI"
     private static let keychainAccount = "api-key"
 
     private(set) var provider: AIProvider? { didSet { UserDefaults.standard.set(provider?.rawValue, forKey: "aiProvider") } }
@@ -143,7 +143,7 @@ final class AIAccount {
             engine = .cloud
             return
         }
-        error = String(localized: "No provider accepted this key. StockBar works with OpenAI, Anthropic, DeepSeek and Google Gemini keys.")
+        error = String(localized: "No provider accepted this key. Cymba works with OpenAI, Anthropic, DeepSeek and Google Gemini keys.")
     }
 
     /// The provider's models, for the picker (asked again on each launch, since they change).

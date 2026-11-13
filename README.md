@@ -1,4 +1,4 @@
-# StockBar
+# Cymba
 
 A native macOS app made with SwiftUI that tracks a Brazilian investment portfolio — stocks (B3 and US),
 bonds and funds — against CDI, IPCA, IPCA+6%, the S&P 500, IFIX and IBOV. It opens as a window, with a
@@ -34,11 +34,11 @@ about all of it in plain words.
   </tr>
   <tr>
     <td><img src="docs/screenshots/fgc.png" alt="FGC Watcher: exposure per financial conglomerate"></td>
-    <td><img src="docs/screenshots/openfinance.png" alt="Open Finance: connections, accounts and investments checked against StockBar"></td>
+    <td><img src="docs/screenshots/openfinance.png" alt="Open Finance: connections, accounts and investments checked against Cymba"></td>
   </tr>
   <tr>
     <td align="center">FGC Watcher: exposure per conglomerate against the R$ 250 mil limit</td>
-    <td align="center">Open Finance: your banks' positions, checked against what StockBar tracks</td>
+    <td align="center">Open Finance: your banks' positions, checked against what Cymba tracks</td>
   </tr>
 </table>
 
@@ -46,11 +46,15 @@ about all of it in plain words.
 
 ## Install
 
-Download the latest `StockBar-<version>.dmg` from [Releases](../../releases), open it and drag StockBar to Applications.
+Download the latest `Cymba-<version>.dmg` from [Releases](../../releases), open it and drag Cymba to Applications.
 The app isn't notarized yet: on first launch, allow it in **System Settings → Privacy & Security → Open Anyway**.
 Requires macOS 15+ (Apple Silicon or Intel).
 
-After that, StockBar updates itself: it checks GitHub every few hours and shows **Update to …** in the sidebar;
+Upgrading from StockBar 3.0: install Cymba 3.1 from the DMG once. The renamed app copies your existing
+StockBar data and settings on first launch and can read your saved Keychain credentials. Existing Cymba
+files are preserved. Keep StockBar closed while using Cymba; future updates use Cymba’s built-in updater.
+
+After that, Cymba updates itself: it checks GitHub every few hours and shows **Update to …** in the sidebar;
 one click downloads the new version, checks it's signed with the same certificate, replaces the app and relaunches.
 Settings → Updates has "Check now" and a switch for beta versions.
 
@@ -69,7 +73,7 @@ Settings → Updates has "Check now" and a switch for beta versions.
 - **Fund Comparison** — search CVM's ~26k funds by name, CNPJ or manager, compare up to six against CDI, and open
   a fact sheet for each.
 - **Open Finance** — investments and accounts pulled through [Meu Pluggy](https://meu.pluggy.ai), checked against
-  what StockBar tracks, and an importer: pick positions (or select all bonds and funds), type average prices inline,
+  what Cymba tracks, and an importer: pick positions (or select all bonds and funds), type average prices inline,
   and import them together.
 - **Expenses** — every card, account and PIX transaction of a month from Open Finance, sorted into categories
   (pick one per row, or always use it for a store), with income, "to review" and what isn't spending (card bill
@@ -82,10 +86,11 @@ Settings → Updates has "Check now" and a switch for beta versions.
 - **Bills** — what's due and when: card bills from the bank, and recurring boletos, automatic debits and financing
   found in your accounts, with the due day estimated from past payments (or set by you) and what's late this month.
 - **AI** — ask about your money in plain words ("quantas vezes andei de Uber este mês?", "quanto rendeu meu CDB
-  pré-fixado?"). The assistant looks things up with StockBar's own queries and shows what it looked up under each
+  pré-fixado?"). The assistant looks things up with Cymba's own queries and shows what it looked up under each
   answer. Pick the engine in Settings → AI: Apple Intelligence or a model you run in [Ollama](https://ollama.com)
-  (StockBar lists the ones that can call its tools), both free and on your Mac, or your own OpenAI, Anthropic, DeepSeek or Google Gemini API key.
-- **Menu bar widget** — today's chart and holdings, plus price alerts that send a notification when a ticker reaches a target.
+  (Cymba lists the ones that can call its tools), both free and on your Mac, or your own OpenAI, Anthropic, DeepSeek or Google Gemini API key.
+- **Menu bar widget** — a read-only chart of the whole portfolio, with refresh, hide values and open app controls.
+  Add and edit holdings in the main app; manage target-price notifications under **Stocks → Price alerts**.
 - **Português e English** — the whole app is translated to Brazilian Portuguese; pick the language, and light, dark
   or system theme, in Settings → Appearance.
 - **Hide values** — one click (or ⇧⌘H) masks every amount, quantity and account number, for sharing screenshots;
@@ -97,6 +102,7 @@ Settings → Updates has "Check now" and a switch for beta versions.
   `.app` and the DMG.
 - `web/` — a Next.js app, just started.
 - `mobile/` — the iOS and Android client, an Expo app (see `mobile/README.md`).
+- `ios/` — Cymba’s native SwiftUI iPhone app and WidgetKit extension (see `ios/README.md`); open `ios/StockBar.xcodeproj`.
 - `docs/screenshots/` — the images in this README.
 
 ## Develop
@@ -105,9 +111,9 @@ The macOS app, from `macOS/`:
 
 ```sh
 cd macOS
-./build.sh            # universal build/StockBar.app
+./build.sh            # universal build/Cymba.app
 ./build.sh --install  # copy to ~/Applications and launch
-./build.sh --dmg      # package build/StockBar-<version>.dmg
+./build.sh --dmg      # package build/Cymba-<version>.dmg
 swift scripts/make-icon.swift  # regenerate Resources/AppIcon.icns
 ```
 
@@ -123,9 +129,9 @@ A tag with a suffix (`v3.0.0-beta-1`) is published as a pre-release; the app its
 
 ## How it works
 
-Your data lives in `~/Library/Application Support/StockBar/` (`trades.json`, `bonds.json`, `fund-holdings.json`,
+Your data lives in `~/Library/Application Support/Cymba/` (`trades.json`, `bonds.json`, `fund-holdings.json`,
 `alerts.json`, `expenses.json` for categories, limits and bill choices); downloaded market data and Open Finance
-transactions is cached in `~/Library/Caches/StockBar/`.
+transactions is cached in `~/Library/Caches/Cymba/`.
 
 - **Stocks** are a ticker, a quantity and an optional average price. The quantities you hold today define the portfolio:
   the curve holds them through the whole range, each session's return weighting stocks by their value at the previous close.
@@ -156,6 +162,6 @@ transactions is cached in `~/Library/Caches/StockBar/`.
 
 ## Signing
 
-Builds are signed with a self-signed certificate ("StockBar Code Signing") when it's in the keychain, or in CI
+Builds are signed with a self-signed certificate ("Cymba Code Signing") when it's in the keychain, or in CI
 from the `SIGNING_P12_BASE64` / `SIGNING_P12_PASSWORD` secrets; otherwise ad hoc. A stable signature lets macOS
 remember "Always Allow" for the app's Keychain item across updates. The app isn't notarized.

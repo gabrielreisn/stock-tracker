@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct StockBarApp: App {
+struct CymbaApp: App {
     @State private var store: PortfolioStore
     @State private var funds: FundStore
     @State private var pluggy: PluggyStore
@@ -13,11 +13,12 @@ struct StockBarApp: App {
     @State private var localModel: LocalModel
 
     init() {
+        LegacyMigration.run()
         DataAccount.prepareDemo()
         let store = PortfolioStore()
         let pluggy = PluggyStore()
         let funds = FundStore(portfolio: store)
-        // Every sync makes StockBar match Open Finance, whichever page started it.
+        // Every sync makes Cymba match Open Finance, whichever page started it.
         pluggy.reconcile = { OpenFinanceMatcher(store: store, funds: funds, investments: $0).reconcile(updatedItems: $1) }
         _store = State(initialValue: store)
         _funds = State(initialValue: funds)
@@ -42,12 +43,13 @@ struct StockBarApp: App {
         MenuBarExtra {
             ContentView()
                 .environment(store)
+                .environment(funds)
         } label: {
-            Image(systemName: "chart.line.uptrend.xyaxis")
+            Text("Cy").font(.system(size: 13, weight: .bold)).help("Cymba")
         }
         .menuBarExtraStyle(.window)
 
-        Window("StockBar", id: "main") {
+        Window("Cymba", id: "main") {
             MainWindow()
                 .environment(store)
                 .environment(funds)

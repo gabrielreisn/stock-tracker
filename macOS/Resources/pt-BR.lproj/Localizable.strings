@@ -1,4 +1,4 @@
-/* StockBar — Português (Brasil). Keys are the English text. */
+/* Cymba — Português (Brasil). Keys are the English text. */
 
 "% CDI" = "% CDI";
 "% of CDI" = "% do CDI";
@@ -46,7 +46,7 @@
 "Add purchase" = "Adicionar compra";
 "Add the funds you hold with their CNPJ and number of shares; their value follows CVM's daily share prices." = "Adicione os fundos que você tem com o CNPJ e a quantidade de cotas; o valor acompanha as cotas diárias da CVM.";
 "Add the stocks you hold and see how they did against CDI and IPCA." = "Adicione as ações que você tem e veja como elas foram em comparação ao CDI e ao IPCA.";
-"Add to StockBar" = "Adicionar ao StockBar";
+"Add to Cymba" = "Adicionar ao Cymba";
 "Add your stocks" = "Adicionar ações";
 "Added by hand" = "Adicionado à mão";
 "All" = "Tudo";
@@ -89,7 +89,7 @@
 "Clear" = "Limpar";
 "Click an icon to change it and a name to rename it. Deleting a category sends its purchases back to “To review”." = "Clique no ícone para trocá-lo e no nome para renomear. Ao excluir uma categoria, as compras dela voltam para “Para revisar”.";
 "Click to edit" = "Clique para editar";
-"Click to edit in StockBar" = "Clique para editar no StockBar";
+"Click to edit in Cymba" = "Clique para editar no Cymba";
 "Click to pick for import" = "Clique para selecionar para importação";
 "Click to rename" = "Clique para renomear";
 "Client ID" = "Client ID";
@@ -248,11 +248,11 @@
 "Not supported" = "Não suportado";
 "Nothing here this month" = "Nada aqui neste mês";
 "Nothing paid this year yet" = "Nada pago este ano ainda";
-"Notifications are off. Allow StockBar in System Settings → Notifications." = "As notificações estão desativadas. Permita o StockBar em Ajustes do Sistema → Notificações.";
+"Notifications are off. Allow Cymba in System Settings → Notifications." = "As notificações estão desativadas. Permita o Cymba em Ajustes do Sistema → Notificações.";
 "Notifies when the price drops to the target or below." = "Avisa quando o preço cair até o alvo ou abaixo dele.";
 "Notifies when the price rises to the target or above." = "Avisa quando o preço subir até o alvo ou acima dele.";
 "Official inflation. IBGE, via Banco Central series 433." = "Inflação oficial. IBGE, via Banco Central série 433.";
-"One MeuPluggy connection covers every bank and broker you authorize in Meu Pluggy. To add another institution, authorize it at meu.pluggy.ai; it shows up on StockBar's next sync." = "Uma conexão MeuPluggy cobre todos os bancos e corretoras que você autoriza no Meu Pluggy. Para adicionar outra instituição, autorize-a em meu.pluggy.ai; ela aparece na próxima sincronização do StockBar.";
+"One MeuPluggy connection covers every bank and broker you authorize in Meu Pluggy. To add another institution, authorize it at meu.pluggy.ai; it shows up on Cymba's next sync." = "Uma conexão MeuPluggy cobre todos os bancos e corretoras que você autoriza no Meu Pluggy. Para adicionar outra instituição, autorize-a em meu.pluggy.ai; ela aparece na próxima sincronização do Cymba.";
 "Open Finance" = "Open Finance";
 "Open Finance (Pluggy)" = "Open Finance (Pluggy)";
 "Open Meu Pluggy" = "Abrir o Meu Pluggy";
@@ -282,7 +282,7 @@
 "Purpose" = "Objetivo";
 "Qty" = "Qtd.";
 "Quantity" = "Quantidade";
-"Quit StockBar" = "Sair do StockBar";
+"Quit Cymba" = "Sair do Cymba";
 "R$ 250 mil limit" = "Limite de R$ 250 mil";
 "Range" = "Período";
 "Rate" = "Taxa";
@@ -293,12 +293,12 @@
 "Reconnect" = "Reconectar";
 "Refresh" = "Atualizar";
 "Registration" = "Cadastro";
-"Relaunch StockBar to change the language?" = "Reabrir o StockBar para mudar o idioma?";
+"Relaunch Cymba to change the language?" = "Reabrir o Cymba para mudar o idioma?";
 "Relaunch now" = "Reabrir agora";
 "Remove" = "Remover";
 "Remove %@" = "Remover %@";
-"Remove %@ from StockBar?" = "Remover %@ do StockBar?";
-"Remove from StockBar (the connection stays in Pluggy)" = "Remover do StockBar (a conexão continua na Pluggy)";
+"Remove %@ from Cymba?" = "Remover %@ do Cymba?";
+"Remove from Cymba (the connection stays in Pluggy)" = "Remover do Cymba (a conexão continua na Pluggy)";
 "Renew" = "Renovar";
 "Renew connection" = "Renovar conexão";
 "Renew existing connection" = "Renovar a conexão existente";
@@ -337,10 +337,10 @@
 "Spread (% a year)" = "Spread (% a.a.)";
 "Statement" = "Extrato";
 "Stock" = "Ação";
-"StockBar" = "StockBar";
-"StockBar %@ (%@%@)" = "StockBar %1$@ (%2$@%3$@)";
-"StockBar now" = "No StockBar agora";
-"StockBar's gross value vs. Open Finance's. Small differences come from different price dates." = "Valor bruto do StockBar comparado ao do Open Finance. Pequenas diferenças vêm de datas de preço diferentes.";
+"Cymba" = "Cymba";
+"Cymba %@ (%@%@)" = "Cymba %1$@ (%2$@%3$@)";
+"Cymba now" = "No Cymba agora";
+"Cymba's gross value vs. Open Finance's. Small differences come from different price dates." = "Valor bruto do Cymba comparado ao do Open Finance. Pequenas diferenças vêm de datas de preço diferentes.";
 "Stocks" = "Ações";
 "Stocks %@" = "Ações %@";
 "Stocks %@ today" = "Ações %@ hoje";
@@ -530,7 +530,7 @@
 "when it closes" = "quando fechar";
 
 /* Open Finance sync */
-"Everything StockBar tracks matches Open Finance" = "Tudo o que o StockBar acompanha bate com o Open Finance";
+"Everything Cymba tracks matches Open Finance" = "Tudo o que o Cymba acompanha bate com o Open Finance";
 "Updated to match Open Finance" = "Atualizado conforme o Open Finance";
 "quantity %@ → %@" = "quantidade %1$@ → %2$@";
 "average price updated" = "preço médio atualizado";
@@ -540,10 +540,10 @@
 
 /* Updates */
 "Couldn't reach GitHub to check for updates." = "Não foi possível acessar o GitHub para procurar atualizações.";
-"StockBar can't write to the folder it's installed in. Download the update from GitHub instead." = "O StockBar não consegue gravar na pasta em que está instalado. Baixe a atualização pelo GitHub.";
-"The downloaded update isn't signed like this copy of StockBar, so it wasn't installed." = "A atualização baixada não tem a mesma assinatura desta cópia do StockBar, então não foi instalada.";
+"Cymba can't write to the folder it's installed in. Download the update from GitHub instead." = "O Cymba não consegue gravar na pasta em que está instalado. Baixe a atualização pelo GitHub.";
+"The downloaded update isn't signed like this copy of Cymba, so it wasn't installed." = "A atualização baixada não tem a mesma assinatura desta cópia do Cymba, então não foi instalada.";
 "Installing the update failed (%@ exited with %d)." = "Falha ao instalar a atualização (%1$@ terminou com %2$d).";
-"Download StockBar %@ and relaunch" = "Baixar o StockBar %@ e reabrir";
+"Download Cymba %@ and relaunch" = "Baixar o Cymba %@ e reabrir";
 "Downloading update…" = "Baixando atualização…";
 "Installing update…" = "Instalando atualização…";
 "The update wasn't installed" = "A atualização não foi instalada";
@@ -555,17 +555,17 @@
 "Check for updates automatically" = "Procurar atualizações automaticamente";
 "Include beta versions" = "Incluir versões beta";
 "Updates" = "Atualizações";
-"Updates come from StockBar's releases on GitHub and are installed only when signed like this copy." = "As atualizações vêm das versões do StockBar no GitHub e só são instaladas se tiverem a mesma assinatura desta cópia.";
+"Updates come from Cymba's releases on GitHub and are installed only when signed like this copy." = "As atualizações vêm das versões do Cymba no GitHub e só são instaladas se tiverem a mesma assinatura desta cópia.";
 "Checking…" = "Verificando…";
-"StockBar is up to date" = "O StockBar está atualizado";
+"Cymba is up to date" = "O Cymba está atualizado";
 "Checked %@" = "Verificado %@";
-"StockBar %@ is available" = "O StockBar %@ está disponível";
+"Cymba %@ is available" = "O Cymba %@ está disponível";
 "Release notes" = "Notas da versão";
 
 /* Setup guide */
 "Setup guide" = "Guia de configuração";
 "Welcome" = "Boas-vindas";
-"Welcome to StockBar" = "Boas-vindas ao StockBar";
+"Welcome to Cymba" = "Boas-vindas ao Cymba";
 "Your stocks, bonds, funds and spending in one place, checked against CDI, IPCA and the market. A few quick steps and you're set." = "Suas ações, renda fixa, fundos e gastos em um só lugar, comparados com CDI, IPCA e o mercado. Alguns passos rápidos e está tudo pronto.";
 "You're all set" = "Tudo pronto";
 "Skip setup" = "Pular configuração";
@@ -576,7 +576,7 @@
 "Get dashboard info" = "Dados do painel";
 "Sync with Open Finance" = "Sincronizar com Open Finance";
 "Create your Meu Pluggy account" = "Crie sua conta no Meu Pluggy";
-"Meu Pluggy is a free service that reaches your banks and brokers through Open Finance. Create an account and connect your banks and brokers there; StockBar reads them from it." = "O Meu Pluggy é um serviço gratuito que acessa seus bancos e corretoras pelo Open Finance. Crie uma conta e conecte seus bancos e corretoras lá; o StockBar lê os dados de lá.";
+"Meu Pluggy is a free service that reaches your banks and brokers through Open Finance. Create an account and connect your banks and brokers there; Cymba reads them from it." = "O Meu Pluggy é um serviço gratuito que acessa seus bancos e corretoras pelo Open Finance. Crie uma conta e conecte seus bancos e corretoras lá; o Cymba lê os dados de lá.";
 "Open meu.pluggy.ai" = "Abrir meu.pluggy.ai";
 "Get your Client ID and secret" = "Pegue seu Client ID e secret";
 "In the Pluggy dashboard, open your application and copy its Client ID and Client Secret. You'll paste them in the next step." = "No painel da Pluggy, abra sua aplicação e copie o Client ID e o Client Secret. Você vai colá-los no próximo passo.";
@@ -589,7 +589,7 @@
 "Already in your categories" = "Já está nas suas categorias";
 "Fixed expenses" = "Despesas fixas";
 "Car" = "Carro";
-"Before relying on the numbers, review everything Open Finance brought in on the Open Finance page: the positions it found, how they were matched to what StockBar tracks, and their average prices." = "Antes de confiar nos números, revise na página Open Finance tudo o que veio do Open Finance: as posições encontradas, como foram associadas ao que o StockBar acompanha e os preços médios.";
+"Before relying on the numbers, review everything Open Finance brought in on the Open Finance page: the positions it found, how they were matched to what Cymba tracks, and their average prices." = "Antes de confiar nos números, revise na página Open Finance tudo o que veio do Open Finance: as posições encontradas, como foram associadas ao que o Cymba acompanha e os preços médios.";
 "Review on the Open Finance page" = "Revisar na página Open Finance";
 "Developer" = "Desenvolvedor";
 "Launch" = "Abrir";
@@ -622,12 +622,12 @@
 "%@ available" = "%@ disponível";
 "Launch at login, data and sources" = "Abrir ao iniciar sessão, dados e fontes";
 "Ask about your portfolio and expenses" = "Pergunte sobre sua carteira e seus gastos";
-"Answers come from Apple Intelligence, on this Mac: free, and neither your questions nor your data leave it. It reads what StockBar has; check the figures it looked up under each answer." = "As respostas vêm da Apple Intelligence, neste Mac: de graça, e nem suas perguntas nem seus dados saem dele. Ela lê o que o StockBar tem; confira o que ela consultou embaixo de cada resposta.";
+"Answers come from Apple Intelligence, on this Mac: free, and neither your questions nor your data leave it. It reads what Cymba has; check the figures it looked up under each answer." = "As respostas vêm da Apple Intelligence, neste Mac: de graça, e nem suas perguntas nem seus dados saem dele. Ela lê o que o Cymba tem; confira o que ela consultou embaixo de cada resposta.";
 "How many times did I take an Uber this month?" = "Quantas vezes andei de Uber este mês?";
 "Where did my money go last month?" = "Para onde foi meu dinheiro no mês passado?";
 "How is my portfolio doing today?" = "Como está minha carteira hoje?";
 "This question needs more than the on-device model can hold. Try a shorter period or a narrower question." = "Esta pergunta precisa de mais do que o modelo do Mac comporta. Tente um período menor ou uma pergunta mais específica.";
-"What the assistant looked up in StockBar to answer" = "O que o assistente consultou no StockBar para responder";
+"What the assistant looked up in Cymba to answer" = "O que o assistente consultou no Cymba para responder";
 "Transactions" = "Transações";
 "Positions" = "Posições";
 "per merchant" = "por lugar";
@@ -641,7 +641,7 @@
 "Apple Intelligence doesn't support this language yet." = "A Apple Intelligence ainda não suporta este idioma.";
 "Apple Intelligence's model isn't available right now. Try again in a few minutes." = "O modelo da Apple Intelligence não está disponível agora. Tente de novo em alguns minutos.";
 "Apple Intelligence is busy. Try again in a moment." = "A Apple Intelligence está ocupada. Tente de novo em instantes.";
-"The model gave an answer StockBar couldn't read. Try asking again." = "O modelo deu uma resposta que o StockBar não conseguiu ler. Pergunte de novo.";
+"The model gave an answer Cymba couldn't read. Try asking again." = "O modelo deu uma resposta que o Cymba não conseguiu ler. Pergunte de novo.";
 "Apple Intelligence couldn't answer. Try asking again." = "A Apple Intelligence não conseguiu responder. Pergunte de novo.";
 "thinking %@" = "pensando %@";
 "lookup %@" = "consulta %@";
@@ -650,7 +650,7 @@
 
 /* AI providers */
 "Couldn't save the key in the Keychain." = "Não foi possível guardar a chave no Keychain.";
-"No provider accepted this key. StockBar works with OpenAI, Anthropic, DeepSeek and Google Gemini keys." = "Nenhum provedor aceitou esta chave. O StockBar funciona com chaves da OpenAI, Anthropic, DeepSeek e Google Gemini.";
+"No provider accepted this key. Cymba works with OpenAI, Anthropic, DeepSeek and Google Gemini keys." = "Nenhum provedor aceitou esta chave. O Cymba funciona com chaves da OpenAI, Anthropic, DeepSeek e Google Gemini.";
 "The model kept looking things up without answering. Try a more specific question." = "O modelo continuou consultando sem responder. Tente uma pergunta mais específica.";
 "The model declined to answer that. Try rephrasing the question." = "O modelo se recusou a responder. Tente reformular a pergunta.";
 "The model's answer was empty." = "A resposta do modelo veio vazia.";
@@ -660,15 +660,15 @@
 "%@ is having problems (error %lld). Try again in a moment." = "A %@ está com problemas (erro %lld). Tente de novo em instantes.";
 "%@ returned error %lld." = "A %@ retornou o erro %lld.";
 "Apple Intelligence · on this Mac" = "Apple Intelligence · neste Mac";
-"StockBar couldn't read the API key from the Keychain. Enter it again in Settings → AI." = "O StockBar não conseguiu ler a chave de API do Keychain. Informe de novo em Ajustes → IA.";
+"Cymba couldn't read the API key from the Keychain. Enter it again in Settings → AI." = "O Cymba não conseguiu ler a chave de API do Keychain. Informe de novo em Ajustes → IA.";
 "model %@" = "modelo %@";
 "Change it in Settings → AI" = "Altere em Ajustes → IA";
-"Answers come from %@, with your API key. Your question and what StockBar looks up to answer it (amounts, places, positions) are sent to %@. Check the figures it looked up under each answer." = "As respostas vêm da %@, com a sua chave de API. Sua pergunta e o que o StockBar consulta para respondê-la (valores, lugares, posições) são enviados à %@. Confira o que foi consultado embaixo de cada resposta.";
+"Answers come from %@, with your API key. Your question and what Cymba looks up to answer it (amounts, places, positions) are sent to %@. Check the figures it looked up under each answer." = "As respostas vêm da %@, com a sua chave de API. Sua pergunta e o que o Cymba consulta para respondê-la (valores, lugares, posições) são enviados à %@. Confira o que foi consultado embaixo de cada resposta.";
 "Apple Intelligence, on this Mac" = "Apple Intelligence, neste Mac";
 "API key" = "Chave de API";
 "Model" = "Modelo";
-"Questions in the AI tab, and what StockBar looks up to answer them (amounts, places, positions), are sent to %@ and billed to your key. Forget the key to go back to Apple Intelligence." = "As perguntas da aba IA, e o que o StockBar consulta para respondê-las (valores, lugares, posições), são enviadas à %@ e cobradas na sua chave. Esqueça a chave para voltar à Apple Intelligence.";
-"Questions in the AI tab, and what StockBar looks up to answer them (amounts, places, positions), are sent to Google. On Gemini's free tier, Google may use them to improve its products and people may review them; turn on Hide values to send amounts masked. Forget the key to go back to Apple Intelligence." = "As perguntas da aba IA, e o que o StockBar consulta para respondê-las (valores, lugares, posições), são enviadas ao Google. No plano gratuito do Gemini, o Google pode usá-las para melhorar seus produtos e pessoas podem revisá-las; ative Ocultar valores para enviar os valores mascarados. Esqueça a chave para voltar à Apple Intelligence.";
+"Questions in the AI tab, and what Cymba looks up to answer them (amounts, places, positions), are sent to %@ and billed to your key. Forget the key to go back to Apple Intelligence." = "As perguntas da aba IA, e o que o Cymba consulta para respondê-las (valores, lugares, posições), são enviadas à %@ e cobradas na sua chave. Esqueça a chave para voltar à Apple Intelligence.";
+"Questions in the AI tab, and what Cymba looks up to answer them (amounts, places, positions), are sent to Google. On Gemini's free tier, Google may use them to improve its products and people may review them; turn on Hide values to send amounts masked. Forget the key to go back to Apple Intelligence." = "As perguntas da aba IA, e o que o Cymba consulta para respondê-las (valores, lugares, posições), são enviadas ao Google. No plano gratuito do Gemini, o Google pode usá-las para melhorar seus produtos e pessoas podem revisá-las; ative Ocultar valores para enviar os valores mascarados. Esqueça a chave para voltar à Apple Intelligence.";
 "this month" = "este mês";
 "last month" = "mês passado";
 "last 30 days" = "últimos 30 dias";
@@ -678,7 +678,7 @@
 "Apple Intelligence" = "Apple Intelligence";
 "Your API key" = "Sua chave de API";
 "On this Mac, free and private. Needs macOS 26 and Apple silicon; the slowest and least capable of the three." = "Neste Mac, grátis e privado. Precisa do macOS 26 e Apple silicon; o mais lento e menos capaz dos três.";
-"The provider's model, billed to your key. The fastest and most capable; your questions and what StockBar looks up leave the Mac." = "O modelo do provedor, cobrado na sua chave. O mais rápido e capaz; suas perguntas e o que o StockBar consulta saem do Mac.";
+"The provider's model, billed to your key. The fastest and most capable; your questions and what Cymba looks up leave the Mac." = "O modelo do provedor, cobrado na sua chave. O mais rápido e capaz; suas perguntas e o que o Cymba consulta saem do Mac.";
 "Download (%@)" = "Baixar (%@)";
 "Try again" = "Tentar de novo";
 "Works with OpenAI, Anthropic, DeepSeek and Google Gemini keys. Until one is saved, the AI tab uses Apple Intelligence. The key stays in your login keychain." = "Funciona com chaves da OpenAI, Anthropic, DeepSeek e Google Gemini. Até salvar uma, a aba IA usa a Apple Intelligence. A chave fica no seu keychain de login.";
@@ -693,11 +693,11 @@
 "Demo" = "Demo";
 "Demo data" = "Dados da demo";
 "Reset" = "Redefinir";
-"Demo runs on made-up data (a portfolio, bonds, funds and two years of spending), kept apart from yours and never connected to Open Finance, for showing the app. Its spending moves to the current month every month. Switching relaunches StockBar." = "A demo usa dados inventados (carteira, renda fixa, fundos e dois anos de gastos), separados dos seus e nunca conectados ao Open Finance, para apresentar o app. Os gastos dela avançam para o mês atual todo mês. Trocar reabre o StockBar.";
+"Demo runs on made-up data (a portfolio, bonds, funds and two years of spending), kept apart from yours and never connected to Open Finance, for showing the app. Its spending moves to the current month every month. Switching relaunches Cymba." = "A demo usa dados inventados (carteira, renda fixa, fundos e dois anos de gastos), separados dos seus e nunca conectados ao Open Finance, para apresentar o app. Os gastos dela avançam para o mês atual todo mês. Trocar reabre o Cymba.";
 "Switch to the demo account?" = "Trocar para a conta demo?";
 "Switch to your personal account?" = "Trocar para a sua conta pessoal?";
 "Relaunch" = "Reabrir";
-"StockBar relaunches with the other account's data. Nothing in either account is changed." = "O StockBar reabre com os dados da outra conta. Nada é alterado em nenhuma das duas.";
+"Cymba relaunches with the other account's data. Nothing in either account is changed." = "O Cymba reabre com os dados da outra conta. Nada é alterado em nenhuma das duas.";
 "Reset the demo data?" = "Redefinir os dados da demo?";
 "Reset and relaunch" = "Redefinir e reabrir";
 "Changes made in the demo account are replaced by the original made-up data." = "As mudanças feitas na conta demo são substituídas pelos dados inventados originais.";
@@ -709,10 +709,24 @@
 "not set up" = "não configurado";
 "Ollama isn't running. Open it, then ask again." = "O Ollama não está aberto. Abra-o e pergunte de novo.";
 "Ollama returned error %lld." = "O Ollama retornou o erro %lld.";
-"Thinking: deciding what to look up. Lookup: StockBar's queries. Reading: the model reading what they returned. Writing: the answer itself. Model: one request to the model, in the cloud or in Ollama on this Mac." = "Pensando: decidir o que consultar. Consulta: as buscas do StockBar. Leitura: o modelo lendo o que elas retornaram. Escrita: a resposta em si. Modelo: uma chamada ao modelo, na nuvem ou no Ollama neste Mac.";
+"Thinking: deciding what to look up. Lookup: Cymba's queries. Reading: the model reading what they returned. Writing: the answer itself. Model: one request to the model, in the cloud or in Ollama on this Mac." = "Pensando: decidir o que consultar. Consulta: as buscas do Cymba. Leitura: o modelo lendo o que elas retornaram. Escrita: a resposta em si. Modelo: uma chamada ao modelo, na nuvem ou no Ollama neste Mac.";
 "On this Mac, free and private, with a model you run in Ollama. Bigger models answer better but need more memory and time: about 6 GB for an 8-billion-parameter model, 18 GB for a 27-billion one." = "Neste Mac, grátis e privado, com um modelo que você roda no Ollama. Modelos maiores respondem melhor, mas precisam de mais memória e tempo: cerca de 6 GB para um modelo de 8 bilhões de parâmetros, 18 GB para um de 27 bilhões.";
 "No model that can look things up" = "Nenhum modelo que faça consultas";
 "Download %@" = "Baixar %@";
 "Running" = "Em execução";
-"Ollama is a free app that runs models on the Mac: install it from ollama.com and keep it open. The list shows its models that can call StockBar's lookups; add more with Ollama. StockBar asks it to free the memory when you leave the AI tab. Until it's ready, the AI tab uses Apple Intelligence." = "O Ollama é um app gratuito que roda modelos no Mac: instale pelo ollama.com e deixe-o aberto. A lista mostra os modelos dele que conseguem usar as consultas do StockBar; adicione outros pelo Ollama. O StockBar pede para ele liberar a memória quando você sai da aba IA. Até estar pronto, a aba IA usa a Apple Intelligence.";
+"Ollama is a free app that runs models on the Mac: install it from ollama.com and keep it open. The list shows its models that can call Cymba's lookups; add more with Ollama. Cymba asks it to free the memory when you leave the AI tab. Until it's ready, the AI tab uses Apple Intelligence." = "O Ollama é um app gratuito que roda modelos no Mac: instale pelo ollama.com e deixe-o aberto. A lista mostra os modelos dele que conseguem usar as consultas do Cymba; adicione outros pelo Ollama. O Cymba pede para ele liberar a memória quando você sai da aba IA. Até estar pronto, a aba IA usa a Apple Intelligence.";
 "Ollama doesn't have this model anymore. Pick another in Settings → AI." = "O Ollama não tem mais este modelo. Escolha outro em Ajustes → IA.";
+
+"Open app" = "Abrir app";
+
+"Loading portfolio…" = "Carregando carteira…";
+
+"No investments yet" = "Nenhum investimento ainda";
+
+"Open Cymba to add your investments and see your portfolio here." = "Abra o Cymba para adicionar investimentos e ver sua carteira aqui.";
+
+"Stocks section" = "Seção de ações";
+
+"No market history for %@; using the Open Finance price." = "Sem histórico de mercado para %@; usando o preço do Open Finance.";
+
+"Some asset data is missing. Check Open Finance." = "Faltam dados de ativos. Confira o Open Finance.";
