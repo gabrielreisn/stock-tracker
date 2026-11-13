@@ -75,6 +75,11 @@ if [[ -n "${SIGNING_P12_BASE64:-}" ]]; then
   security set-key-partition-list -S apple-tool:,apple: -s -k ci "$KEYCHAIN" >/dev/null
   security list-keychains -d user -s "$KEYCHAIN" $(security list-keychains -d user | tr -d '"')
 fi
+# Existing release secrets can still contain the certificate issued under the StockBar name.
+if [[ -z "${CODESIGN_IDENTITY:-}" ]] && ! security find-certificate -c "$IDENTITY" >/dev/null 2>&1 \
+   && security find-certificate -c "StockBar Code Signing" >/dev/null 2>&1; then
+  IDENTITY="StockBar Code Signing"
+fi
 if ! security find-certificate -c "$IDENTITY" >/dev/null 2>&1; then
   echo "No '$IDENTITY' certificate: signing ad hoc (Keychain access will be asked again after each build)"
   IDENTITY=-
