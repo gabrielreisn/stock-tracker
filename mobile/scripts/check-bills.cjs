@@ -79,3 +79,28 @@ deleted.expenses.overrides[id] = { deleted: {} };
 assert.ok(!classifyExpenses(deleted).some((e) => e.id === id));
 assert.equal(data.expenses.bills?.[key], undefined, 'derivations never mutate demo settings');
 console.log('Bills checks passed: demo detection, classification, dates, grace period, manual controls and isolation.');
+
+
+// Real bank statements: keep account histories together and never infer missed payments.
+const { groupCardBills, cardBillPayment } = load('../src/lib/card-bills.ts');
+const statements = [
+  { id: 'older', accountId: 'card', dueDate: '2026-09-13', totalAmount: 100, payments: [{ amount: -100 }] },
+  { id: 'latest', accountId: 'card', dueDate: '2026-10-13', totalAmount: 200, payments: [{ amount: 50 }] },
+  { id: 'other', accountId: 'second', dueDate: '2026-10-13', totalAmount: 300 },
+];
+const snapshot = JSON.stringify(statements);
+const groups = groupCardBills(statements, [{ id: 'card', name: 'My card' }]);
+assert.equal(groups.length, 2);
+assert.equal(groups[0].account.name, 'My card');
+assert.equal(groups[0].bills[0].id, 'latest');
+assert.equal(JSON.stringify(statements), snapshot, 'presentation grouping preserves cached statements');
+assert.equal(cardBillPayment(statements[0]).status, 'paid');
+assert.equal(cardBillPayment(statements[1]).remaining, 150);
+assert.equal(cardBillPayment(statements[1]).status, 'partial');
+assert.equal(cardBillPayment(statements[2]).status, 'unreported');
+assert.equal(cardBillPayment(statements[2]).paid, undefined);
+assert.equal(cardBillPayment({ id: 'zero', totalAmount: 0 }).status, 'empty');
+assert.equal(cardBillPayment({ id: 'unknown', payments: [{ amount: 100 }] }).remaining, undefined);
+assert.equal(cardBillPayment({ id: 'missing', totalAmount: 100, payments: [{ amount: null }] }).paid, undefined);
+assert.equal(groupCardBills([{ id: 'a' }, { id: 'b' }], []).length, 2);
+console.log('Card bill checks passed: grouping, chronology, payment reporting and cache isolation.');

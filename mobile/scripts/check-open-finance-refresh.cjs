@@ -33,6 +33,7 @@ async function check(native) {
     setInterval: (_, delay) => { calls.push(['timer', delay]); return 1; },
     clearInterval: () => calls.push(['clear-timer']),
     require(name) {
+      if (name === '@/lib/expense-notifications') return { notifyCurrentExpenses: async () => calls.push(['notifications']) };
       if (name === 'expo') return { isRunningInExpoGo: () => !native, requireOptionalNativeModule: () => ({}) };
       if (name === 'react') return { useEffect: callback => { cleanup = callback(); } };
       if (name === 'react-native') return { AppState: state };
@@ -55,6 +56,7 @@ async function check(native) {
     assert.ok(calls.some(row => row[0] === 'register' && row[2] === 360), 'Intervals are minutes');
     assert.ok(calls.some(row => row[0] === 'secure-key'));
     assert.equal(await task(), 1);
+    assert.equal(calls.at(-1)[0], 'notifications');
   } else assert.ok(!calls.some(row => row[0] === 'register'));
   const before = calls.length;
   state.currentState = 'background'; lifecycle();

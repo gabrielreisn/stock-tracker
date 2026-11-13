@@ -91,3 +91,22 @@ regression checks continue to use synthetic fixtures and do not access your acco
 
 Builds go through EAS (`eas.json`). The first time, run `eas init` to link the project to an Expo account; then
 `eas build --profile preview` for an internal build, or `eas build --profile production` and `eas submit` for the stores.
+
+## First-launch setup
+
+New installations show the same six-step setup guide as macOS: welcome, Meu Pluggy account,
+Pluggy dashboard credentials, Open Finance connection, expense categories, and a final review.
+Setup can be skipped; continuing past Open Finance requires at least one connection. Credentials
+and connections use the same controls and storage as Settings. The final review opens Finances →
+Open Finance. Nothing is imported automatically by the guide.
+
+The SQLite `onboardingSeen` marker is written when the guide opens, independently of app versions.
+Finishing, skipping, or quitting midway all leave it recorded, so relaunches and updates do not
+reopen setup. Installations with saved account data, Pluggy settings/cache, or benchmark preferences
+are treated as existing users and bypass setup. The marker uses app storage rather than Keychain;
+a fresh installation with no restored app data can show the guide again.
+
+Run `pnpm check:onboarding` for lifecycle and category-selection regression checks. To test the
+welcome flow manually, use a fresh simulator installation without restored data; an existing
+installation should go directly to the app. Force-quit during setup and reopen to verify it stays
+closed, then install a newer build over that installation to verify the same behavior on updates.

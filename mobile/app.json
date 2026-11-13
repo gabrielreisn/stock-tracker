@@ -53,7 +53,13 @@
         }
       ],
       "expo-sqlite",
-      "expo-background-task"
+      "expo-background-task",
+      [
+        "expo-notifications",
+        {
+          "enableRemoteNotifications": false
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true,
