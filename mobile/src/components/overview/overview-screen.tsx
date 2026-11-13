@@ -71,13 +71,12 @@ export function OverviewScreen() {
     <View style={styles.grow}><Text numberOfLines={2} style={{ color: theme.text }}>{position.name}</Text><Label>{position.detail}</Label></View>
     <View style={styles.amount}><Text style={{ color: theme.text }}>{money(position.value!)}</Text><Label>{overview.total > 0 ? percent(position.value! / overview.total) : '—'}</Label></View>
   </View>);
-  const missing = overview.positions.filter(position => position.value === undefined).map(position => <View key={position.id} style={styles.row}><View style={styles.grow}><Text style={{ color: theme.text }}>{position.name}</Text><Label>{position.detail}</Label></View><Label>—</Label></View>);
   return <SafeAreaView edges={['top']} style={[styles.root, { backgroundColor: theme.background }]}>
     <ScrollView contentInsetAdjustmentBehavior="automatic" contentContainerStyle={styles.content} refreshControl={<RefreshControl refreshing={loading} onRefresh={refresh} tintColor={theme.text} />}>
       <Text accessibilityRole="header" style={[styles.title, { color: theme.text }]}>{t('Overview')}</Text>
       <Label>{t('Personal account')} · {t('Gross values in BRL')}</Label>
       <Card><Label>{t(partial ? 'Known portfolio value' : 'Total')}</Label><Text style={[styles.total, { color: theme.text }]}>{money(overview.total)}</Text>
-        <Text style={{ color: last && last.value >= 0 ? theme.success : theme.textSecondary }}>{last ? `${percent(last.value)} · ${range}` : '—'}</Text>
+        <ReturnChange value={last?.value} range={range} />
         {partial && <Label>{t('{count} positions without a valuation', { count: overview.missing })}</Label>}
       </Card>
       <View style={styles.tiles}>{tiles}</View>
@@ -90,7 +89,6 @@ export function OverviewScreen() {
         <AllocationDonut slices={overview.slices} total={overview.total} />{allocation}
       </Card>
       <Card><Heading>{t('Largest positions')}</Heading>{positions.length ? positions : <Label>{t('No valued positions')}</Label>}</Card>
-      {partial && <Card><Heading>{t('Awaiting valuation')}</Heading><Label>{t('Fund prices require CVM history or a statement price. Stock and rate requests can be retried below.')}</Label>{missing}</Card>}
       <Pressable accessibilityRole="button" onPress={refresh} style={[styles.retry, { backgroundColor: theme.selected }]}><Text style={{ color: theme.text }}>{t('Refresh market data')}</Text></Pressable>
       <Label>{t("Today's holdings are treated as held throughout the range. Daily returns are weighted by the previous day's values. Bonds join on their issue date; statement-only funds count in value, not returns. Values are gross of tax.")}</Label>
     </ScrollView>
@@ -106,8 +104,16 @@ function AssetTile({ assetClass, overview, from, range }: { assetClass: typeof A
     <Label><Text style={{ color: ASSET_COLORS[assetClass] }}>● </Text>{t(labels[assetClass])}</Label>
     <Text adjustsFontSizeToFit numberOfLines={1} style={[styles.value, { color: theme.text }]}>{hasValue ? money(overview.values[assetClass]) : '—'}</Text>
     <Label>{complete && overview.total > 0 ? percent(overview.values[assetClass] / overview.total) : t('Partial valuation')}</Label>
-    <Label>{change ? `${percent(change.value)} · ${range}` : '—'}</Label>
+    <ReturnChange value={change?.value} range={range} compact />
   </View>;
+}
+function ReturnChange({ value, range, compact = false }: { value?: number; range: OverviewRange; compact?: boolean }) {
+  const theme = useTheme();
+  let color: string = theme.textSecondary;
+  if (value !== undefined && value > 0) color = theme.success;
+  if (value !== undefined && value < 0) color = '#dc4545';
+  const text = value === undefined ? '—' : `${percent(value)} · ${range}`;
+  return <Text style={[compact && styles.label, { color }]}>{text}</Text>;
 }
 function Card({ children }: { children: ReactNode }) { const theme = useTheme(); return <View style={[styles.card, { backgroundColor: theme.surface }]}>{children}</View>; }
 function Label({ children }: { children: ReactNode }) { const theme = useTheme(); return <Text style={[styles.label, { color: theme.textSecondary }]}>{children}</Text>; }

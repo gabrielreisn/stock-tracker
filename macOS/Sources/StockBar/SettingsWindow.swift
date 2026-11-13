@@ -53,7 +53,7 @@ struct SettingsWindow: View {
             }
             .padding(.bottom, 16)
             // Outside the groups, so it's a plain button rather than a row of its own.
-            Button("Quit StockBar") { NSApplication.shared.terminate(nil) }
+            Button("Quit Cymba") { NSApplication.shared.terminate(nil) }
         }
         .padding(.horizontal, 20)
         .padding(.bottom, 20)
@@ -201,7 +201,7 @@ enum AppTheme: String, CaseIterable, Identifiable {
 }
 
 /// The AI tab's engine: Apple Intelligence, the local model (run by Ollama) or the user's own API key, in one
-/// field for any provider (StockBar finds out whose it is).
+/// field for any provider (Cymba finds out whose it is).
 struct AISettingsSection: View {
     @Environment(AIAccount.self) private var ai
     @Environment(LocalModel.self) private var local
@@ -224,7 +224,7 @@ struct AISettingsSection: View {
                 case .local:
                     Text("On this Mac, free and private, with a model you run in Ollama. Bigger models answer better but need more memory and time: about 6 GB for an 8-billion-parameter model, 18 GB for a 27-billion one.")
                 case .cloud:
-                    Text("The provider's model, billed to your key. The fastest and most capable; your questions and what StockBar looks up leave the Mac.")
+                    Text("The provider's model, billed to your key. The fastest and most capable; your questions and what Cymba looks up leave the Mac.")
                 }
             }
             .font(.caption).foregroundStyle(.secondary)
@@ -284,7 +284,7 @@ struct AISettingsSection: View {
             }
             .task { await local.refresh() }
         } footer: {
-            Text("Ollama is a free app that runs models on the Mac: install it from ollama.com and keep it open. The list shows its models that can call StockBar's lookups; add more with Ollama. StockBar asks it to free the memory when you leave the AI tab. Until it's ready, the AI tab uses Apple Intelligence.")
+            Text("Ollama is a free app that runs models on the Mac: install it from ollama.com and keep it open. The list shows its models that can call Cymba's lookups; add more with Ollama. Cymba asks it to free the memory when you leave the AI tab. Until it's ready, the AI tab uses Apple Intelligence.")
                 .font(.caption).foregroundStyle(.secondary)
         }
     }
@@ -321,9 +321,9 @@ struct AISettingsSection: View {
         } footer: {
             Group {
                 if ai.provider == .gemini {
-                    Text("Questions in the AI tab, and what StockBar looks up to answer them (amounts, places, positions), are sent to Google. On Gemini's free tier, Google may use them to improve its products and people may review them; turn on Hide values to send amounts masked. Forget the key to go back to Apple Intelligence.")
+                    Text("Questions in the AI tab, and what Cymba looks up to answer them (amounts, places, positions), are sent to Google. On Gemini's free tier, Google may use them to improve its products and people may review them; turn on Hide values to send amounts masked. Forget the key to go back to Apple Intelligence.")
                 } else if let provider = ai.provider {
-                    Text("Questions in the AI tab, and what StockBar looks up to answer them (amounts, places, positions), are sent to \(provider.label) and billed to your key. Forget the key to go back to Apple Intelligence.")
+                    Text("Questions in the AI tab, and what Cymba looks up to answer them (amounts, places, positions), are sent to \(provider.label) and billed to your key. Forget the key to go back to Apple Intelligence.")
                 } else {
                     Text("Works with OpenAI, Anthropic, DeepSeek and Google Gemini keys. Until one is saved, the AI tab uses Apple Intelligence. The key stays in your login keychain.")
                 }
@@ -379,7 +379,7 @@ private struct UpdatesSection: View {
             Toggle("Check for updates automatically", isOn: $updater.checkAutomatically)
             Toggle("Include beta versions", isOn: $updater.includeBetas)
         } footer: {
-            Text("Updates come from StockBar's releases on GitHub and are installed only when signed like this copy.")
+            Text("Updates come from Cymba's releases on GitHub and are installed only when signed like this copy.")
                 .font(.caption).foregroundStyle(.secondary)
         }
     }
@@ -393,14 +393,14 @@ private struct UpdatesSection: View {
             HStack(spacing: 6) { ProgressView().controlSize(.small); Text("Checking…") }.foregroundStyle(.secondary)
         case .upToDate:
             VStack(alignment: .leading, spacing: 2) {
-                Text("StockBar is up to date")
+                Text("Cymba is up to date")
                 if let last = updater.lastCheck {
                     Text("Checked \(last.formatted(.relative(presentation: .named)))").font(.caption).foregroundStyle(.secondary)
                 }
             }
         case .available(let release):
             VStack(alignment: .leading, spacing: 2) {
-                Text("StockBar \(release.version) is available")
+                Text("Cymba \(release.version) is available")
                 Link("Release notes", destination: release.page).font(.caption)
             }
         case .downloading:
@@ -419,7 +419,7 @@ struct LanguagePicker: View {
     @State private var language = Self.saved
     @State private var pending: String?
 
-    private static var bundleID: CFString { (Bundle.main.bundleIdentifier ?? "com.gabrielreis.stockbar") as CFString }
+    private static var bundleID: CFString { (Bundle.main.bundleIdentifier ?? "app.cymba.macos") as CFString }
 
     /// Only the app's own setting, not the Mac's language list from the global domain.
     /// The language in effect from the next launch, as the picker names it.
@@ -446,7 +446,7 @@ struct LanguagePicker: View {
             Text(verbatim: "English").tag("en")
             Text(verbatim: "Português (Brasil)").tag("pt-BR")
         }
-        .alert("Relaunch StockBar to change the language?", isPresented: Binding(get: { pending != nil }, set: { if !$0 { pending = nil } })) {
+        .alert("Relaunch Cymba to change the language?", isPresented: Binding(get: { pending != nil }, set: { if !$0 { pending = nil } })) {
             Button("Relaunch now") { DataAccount.relaunch() }
             Button("Later", role: .cancel) {}
         } message: {

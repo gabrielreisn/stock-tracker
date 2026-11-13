@@ -198,6 +198,7 @@ struct StockHoldingsSection: View {
             }
 
             Text(live?.price(for: h.ticker) ?? "—").frame(width: Width.price, alignment: .trailing)
+                .help(store.priceSource(h.ticker))
             Text(store.totalValue > 0 ? (h.weight * store.totalValue).reais : "—").fontWeight(.medium)
                 .frame(width: Width.value, alignment: .trailing)
             gain(h, live: live).frame(width: Width.gain, alignment: .trailing)

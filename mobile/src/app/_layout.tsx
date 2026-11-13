@@ -2,8 +2,10 @@ import { DarkTheme, DefaultTheme, ThemeProvider } from 'expo-router';
 import { NativeTabs } from 'expo-router/native-tabs';
 import { useColorScheme } from 'react-native';
 
+import { Onboarding } from '@/components/onboarding';
 import { Colors } from '@/constants/theme';
 import { t } from '@/lib/i18n';
+import { useExpenseNotifications } from '@/lib/use-expense-notifications';
 import { useOpenFinanceRefresh } from '@/lib/pluggy-refresh';
 
 const lightNavigation = {
@@ -17,6 +19,7 @@ const darkNavigation = {
 
 export default function RootLayout() {
   useOpenFinanceRefresh();
+  useExpenseNotifications();
   const isDark = useColorScheme() === 'dark';
   const colors = isDark ? Colors.dark : Colors.light;
 
@@ -38,11 +41,12 @@ export default function RootLayout() {
           <NativeTabs.Trigger.Label>{t('Finances')}</NativeTabs.Trigger.Label>
           <NativeTabs.Trigger.Icon sf="list.bullet.rectangle" md="receipt_long" />
         </NativeTabs.Trigger>
-        <NativeTabs.Trigger name="settings">
+        <NativeTabs.Trigger name="settings" disableAutomaticContentInsets>
           <NativeTabs.Trigger.Label>{t('Settings')}</NativeTabs.Trigger.Label>
           <NativeTabs.Trigger.Icon sf="gearshape" md="settings" />
         </NativeTabs.Trigger>
       </NativeTabs>
+      <Onboarding />
     </ThemeProvider>
   );
 }

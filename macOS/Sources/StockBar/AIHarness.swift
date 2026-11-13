@@ -9,7 +9,7 @@ enum AIRules {
     static var instructions: String {
         let rules = Bundle.main.url(forResource: "rules", withExtension: "md", subdirectory: "AI")
             .flatMap { try? String(contentsOf: $0, encoding: .utf8) }
-            ?? "You are StockBar's assistant. Use the tools for the user's own data and never invent numbers."
+            ?? "You are Cymba's assistant. Use the tools for the user's own data and never invent numbers."
         let today = Date.now.formatted(.iso8601.year().month().day())
         let weekday = Date.now.formatted(.dateTime.weekday(.wide).locale(Locale(identifier: "en_US")))
         return rules + "\n\nToday is \(weekday), \(today). Amounts are in reais (R$) unless a tool says otherwise."
@@ -101,7 +101,7 @@ struct AIData {
     /// Only when there's nothing to go by: transactions already downloaded still answer after a bank is disconnected.
     private var noData: String? {
         pluggy.isConfigured && !pluggy.itemIDs.isEmpty || !expenses.expenses.isEmpty ? nil
-            : "Open Finance isn't connected in StockBar, so there are no transactions. The user can connect a bank on the Open Finance page."
+            : "Open Finance isn't connected in Cymba, so there are no transactions. The user can connect a bank on the Open Finance page."
     }
 
     // MARK: Expenses
@@ -164,7 +164,7 @@ struct AIData {
         return lines.joined(separator: "\n")
     }
 
-    /// What the model can ask for, as it says it, and how StockBar tells them apart.
+    /// What the model can ask for, as it says it, and how Cymba tells them apart.
     nonisolated static let methods: [(String, Expense.Source)] = [("pix", .pix), ("credit card", .creditCard), ("debit card", .debitCard),
                                                        ("boleto", .boleto), ("transfer", .transfer), ("automatic debit", .autoDebit)]
 
@@ -288,7 +288,7 @@ struct AIData {
             }
             let names = ["fixed": "Fixed rate (prefixado)", "cdi": "CDI (pós-fixado)", "ipca": "IPCA+"]
             let bonds = portfolio.bonds.filter { indexer == nil || family($0) == indexer }
-            guard !bonds.isEmpty else { return indexer == nil ? "No fixed income in StockBar." : "No \(names[indexer!] ?? indexer!) bonds in StockBar." }
+            guard !bonds.isEmpty else { return indexer == nil ? "No fixed income in Cymba." : "No \(names[indexer!] ?? indexer!) bonds in Cymba." }
             var lines = ["Fixed income, gross values (before income tax). \"This month\" is what each bond earned since \(day(monthStart))."]
             for (key, group) in Dictionary(grouping: bonds, by: family).sorted(by: { $0.key < $1.key }) {
                 let value = group.reduce(0) { $0 + pricer.value($1).gross }
@@ -302,14 +302,14 @@ struct AIData {
             }
             return lines.joined(separator: "\n")
         case "funds":
-            guard !funds.holdings.isEmpty else { return "No funds in StockBar." }
+            guard !funds.holdings.isEmpty else { return "No funds in Cymba." }
             return (["Funds (\(funds.holdings.count)):"] + funds.holdings.prefix(12).map { f in
                 let v = funds.value(f)
                 let ytd = v?.ytd.map { ", \($0.signedPercent) this year" } ?? ""
                 return "- \(f.name): \(v?.gross.reais ?? "no price yet")\(ytd)"
             }).joined(separator: "\n")
         default:
-            guard !portfolio.holdings.isEmpty else { return "No stocks in StockBar." }
+            guard !portfolio.holdings.isEmpty else { return "No stocks in Cymba." }
             return (["Stocks, FIIs and ETFs (\(portfolio.holdings.count)), largest first:"] + portfolio.holdings.prefix(15).map { h in
                 var parts = ["\(h.quantity.quantity) shares", "value \((h.weight * portfolio.totalValue).reais)"]
                 if let live = portfolio.livePrice(h.ticker) {
@@ -329,13 +329,13 @@ struct AIData {
 /// The model's read-only window into the app. None of them change anything: text inside the data (a PIX
 /// description, a merchant name) can try to steer the model, and read-only tools keep that harmless.
 @available(macOS 26, *)
-protocol StockBarTool: Tool where Output == String {
+protocol CymbaTool: Tool where Output == String {
     var data: AIData { get }
     var note: @MainActor @Sendable (_ label: String, _ output: String, _ seconds: Double) -> Void { get }
 }
 
 @available(macOS 26, *)
-extension StockBarTool {
+extension CymbaTool {
     /// Runs the call through `AIToolbox`, the same code the cloud models use, and reports it to the chat.
     @MainActor
     func answer(_ name: String, _ arguments: [String: Any]) async throws -> String {
@@ -353,7 +353,7 @@ enum AITools {
     }
 
     /// The query tool: its arguments are the schema of a transaction, as far as the model needs to know it.
-    struct Query: StockBarTool {
+    struct Query: CymbaTool {
         let data: AIData
         let note: @MainActor @Sendable (_ label: String, _ output: String, _ seconds: Double) -> Void
         let name = "queryTransactions"
@@ -394,7 +394,7 @@ enum AITools {
         }
     }
 
-    struct Spending: StockBarTool {
+    struct Spending: CymbaTool {
         let data: AIData
         let note: @MainActor @Sendable (_ label: String, _ output: String, _ seconds: Double) -> Void
         let name = "spendingSummary"
@@ -415,7 +415,7 @@ enum AITools {
         }
     }
 
-    struct Overview: StockBarTool {
+    struct Overview: CymbaTool {
         let data: AIData
         let note: @MainActor @Sendable (_ label: String, _ output: String, _ seconds: Double) -> Void
         let name = "portfolioOverview"
@@ -427,7 +427,7 @@ enum AITools {
         func call(arguments: Arguments) async throws -> String { try await answer(name, [:]) }
     }
 
-    struct Holdings: StockBarTool {
+    struct Holdings: CymbaTool {
         let data: AIData
         let note: @MainActor @Sendable (_ label: String, _ output: String, _ seconds: Double) -> Void
         let name = "listHoldings"

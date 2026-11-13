@@ -1,117 +1,132 @@
 import Charts
 import SwiftUI
 
-enum Screen { case overview, alerts }
-
+/// Read-only menu-bar quick look. Portfolio management lives in the main app.
 struct ContentView: View {
-    @State private var screen: Screen = .overview
-    @AppStorage(Privacy.key) private var hideValues = false
-
-    var body: some View {
-        Group {
-            switch screen {
-            case .overview: OverviewView(screen: $screen)
-            case .alerts: AlertsView(screen: $screen)
-            }
-        }
-        .id(hideValues)
-        .frame(width: 400)
-    }
-}
-
-/// Title bar with a back button for the secondary screens.
-struct ScreenHeader: View {
-    let title: LocalizedStringKey
-    @Binding var screen: Screen
-
-    var body: some View {
-        HStack(spacing: 8) {
-            Button { screen = .overview } label: {
-                Image(systemName: "chevron.left")
-                    .font(.title2.weight(.semibold))
-                    .frame(width: 28, height: 28)
-                    .contentShape(Rectangle())
-            }
-            .buttonStyle(.borderless)
-            .help("Back")
-            Text(title).font(.title2.weight(.semibold))
-            Spacer()
-        }
-        .padding(.horizontal, 8)
-        .padding(.vertical, 12)
-    }
-}
-
-// MARK: - Overview
-
-struct OverviewView: View {
     @Environment(PortfolioStore.self) private var store
+    @Environment(FundStore.self) private var funds
     @Environment(\.openWindow) private var openWindow
-    @AppStorage("mainSection") private var mainSection: MainSection = .stocks
-    @AppStorage("chartRange") private var range: ChartRange = .ytd
-    @Binding var screen: Screen
+    @AppStorage(Privacy.key) private var hideValues = false
+    @State private var overview: Overview?
+    @State private var widgetWindow = WidgetWindowReference()
+
+    private struct Revision: Hashable {
+        let updated: Date?
+        let trades: [Trade]
+        let bonds: [Bond]
+        let funds: [FundHolding]
+        let fundPrices: Int
+    }
+    private var revision: Revision {
+        Revision(updated: store.lastUpdated, trades: store.trades, bonds: store.bonds,
+                 funds: funds.holdings, fundPrices: funds.holdingSeriesVersion)
+    }
 
     var body: some View {
         VStack(spacing: 0) {
-            if store.trades.isEmpty {
-                emptyState
-            } else {
-                // The widget is narrow: four ranges keep the headline readable.
-                PerformanceSection(ranges: [.day, .week, .ytd, .all], rangeKey: "widgetRange")
+            Group {
+                if let overview {
+                    if overview.positions.isEmpty {
+                        emptyState
+                    } else {
+                        VStack(alignment: .leading, spacing: 4) {
+                            Text("Portfolio").font(.caption).foregroundStyle(.secondary)
+                            Text(overview.total.reais).font(.title2.weight(.semibold).monospacedDigit())
+                        }
+                        .frame(maxWidth: .infinity, alignment: .leading)
+                        .padding(.horizontal, 14).padding(.top, 14)
+                        PerformanceSection(curves: overview.curves, ranges: [.quarter, .ytd, .year, .all], rangeKey: "widgetPortfolioRange")
+                    }
+                } else {
+                    ProgressView("Loading portfolio…").padding(24)
+                }
+            }
+            .id(hideValues)
+            if !store.errors.isEmpty {
                 Divider()
-                holdingsList
+                Label("Some asset data is missing. Check Open Finance.", systemImage: "exclamationmark.triangle")
+                    .labelStyle(.titleAndIcon)
+                    .font(.caption)
+                    .foregroundStyle(.orange)
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.85)
+                    .help(store.errors.joined(separator: "\n"))
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .padding(.horizontal, 14).padding(.vertical, 10)
+                    .accessibilityElement(children: .combine)
             }
             Divider()
             footer
         }
+        .frame(width: 400)
+        .background(WidgetWindowReader(reference: widgetWindow).frame(width: 0, height: 0))
+        .task { funds.loadHoldings() }
+        .task(id: revision) { overview = Overview(store: store, funds: funds) }
     }
 
     private var emptyState: some View {
         VStack(spacing: 10) {
             Image(systemName: "chart.line.uptrend.xyaxis").font(.largeTitle).foregroundStyle(.secondary)
-            Text("No trades yet").font(.headline)
-            Text("Add the stocks you hold and see how they did against CDI and IPCA.")
+            Text("No investments yet").font(.headline)
+            Text("Open Cymba to add your investments and see your portfolio here.")
                 .font(.callout).foregroundStyle(.secondary).multilineTextAlignment(.center)
-            Button("Add your stocks") { open(.stocks) }.buttonStyle(.borderedProminent)
-        }
-        .padding(24)
-    }
-
-    private var holdingsList: some View {
-        HoldingsList(range: range)
-    }
-
-    private func open(_ section: MainSection) {
-        mainSection = section
-        openWindow(id: "main")
-        NSApp.activate()
+                .fixedSize(horizontal: false, vertical: true)
+        }.padding(24)
     }
 
     private var footer: some View {
         HStack(spacing: 18) {
-            if let error = store.errors.first {
-                Label(error, systemImage: "exclamationmark.triangle")
-                    .foregroundStyle(.orange).lineLimit(1).help(store.errors.joined(separator: "\n"))
-            } else if let updated = store.lastUpdated {
+            if let updated = store.lastUpdated {
                 Text("Updated \(updated.formatted(date: .omitted, time: .shortened))").foregroundStyle(.secondary)
             }
             Spacer()
-            Button { Task { await store.refresh() } } label: {
-                Image(systemName: "arrow.clockwise")
+            Button {
+                Task { await store.refresh(); funds.loadHoldings() }
+            } label: {
+                Label("Refresh", systemImage: "arrow.clockwise")
                     .symbolEffect(.rotate, isActive: store.isLoading)
             }
-            .help("Refresh")
-            .disabled(store.isLoading)
-            HideValuesButton().labelStyle(.iconOnly)
-            Button { screen = .alerts } label: { Image(systemName: "bell") }.help("Price alerts")
-            Button { open(.stocks) } label: { Image(systemName: "list.bullet") }.help("Holdings")
-            Button { open(.settings) } label: { Image(systemName: "gearshape") }.help("Settings")
+            .help("Refresh").disabled(store.isLoading || funds.holdingsLoading)
+            HideValuesButton()
+            Button {
+                widgetWindow.window?.close()
+                openWindow(id: "main")
+                NSApp.activate()
+            } label: {
+                Label("Open app", systemImage: "macwindow")
+            }.help("Open app")
         }
-        .font(.callout)
-        .imageScale(.large)
-        .buttonStyle(.borderless)
-        .padding(.horizontal, 14)
-        .padding(.vertical, 12)
+        .labelStyle(.iconOnly)
+        .font(.callout).imageScale(.large).buttonStyle(.borderless)
+        .padding(.horizontal, 14).padding(.vertical, 12)
+    }
+}
+
+/// Capture this widget's window so opening the app never closes the main window by mistake.
+private final class WidgetWindowReference {
+    weak var window: NSWindow?
+}
+
+private struct WidgetWindowReader: NSViewRepresentable {
+    let reference: WidgetWindowReference
+
+    final class WindowView: NSView {
+        weak var reference: WidgetWindowReference?
+
+        override func viewDidMoveToWindow() {
+            super.viewDidMoveToWindow()
+            reference?.window = window
+        }
+    }
+
+    func makeNSView(context: Context) -> WindowView {
+        let view = WindowView()
+        view.reference = reference
+        return view
+    }
+
+    func updateNSView(_ view: WindowView, context: Context) {
+        reference.window = view.window
     }
 }
 
@@ -410,151 +425,6 @@ struct PerformanceSection: View {
         case .ytd, .year: .dateTime.month(.abbreviated)
         case .threeYears, .fiveYears: .dateTime.month(.abbreviated).year(.twoDigits)
         case .all: .dateTime.year()
-        }
-    }
-}
-
-enum HoldingSort: String, CaseIterable {
-    case weight, rangeReturn, today
-}
-
-/// Per-stock performance for the selected range, sortable by column.
-struct HoldingsList: View {
-    @Environment(PortfolioStore.self) private var store
-    @AppStorage("holdingsSort") private var sort: HoldingSort = .rangeReturn
-    let range: ChartRange
-
-    private static let rowHeight: CGFloat = 40
-
-    private var rows: [Holding] {
-        let returns = store.tickerReturns[range] ?? [:], today = store.tickerReturns[.day] ?? [:]
-        let key: (Holding) -> Double = switch sort {
-        case .weight: { $0.weight }
-        case .rangeReturn: { returns[$0.ticker] ?? -.infinity }
-        case .today: { today[$0.ticker] ?? -.infinity }
-        }
-        return store.holdings.sorted { key($0) > key($1) }
-    }
-
-    var body: some View {
-        let rows = rows
-        VStack(spacing: 0) {
-            header
-            Divider()
-            ScrollView {
-                LazyVStack(spacing: 0) {
-                    ForEach(rows) { h in
-                        HoldingRow(
-                            holding: h,
-                            path: store.tickerCurves[range]?[h.ticker] ?? [],
-                            rangeReturn: store.tickerReturns[range]?[h.ticker],
-                            dayChange: store.tickerReturns[.day]?[h.ticker],
-                            showsDayChange: range != .day
-                        )
-                        .frame(height: Self.rowHeight)
-                        Divider().padding(.leading, 14)
-                    }
-                }
-            }
-            // A ScrollView has no natural height, so size it to the rows (scrolling past 7).
-            .frame(height: min(CGFloat(rows.count) * (Self.rowHeight + 1), 290))
-        }
-    }
-
-    private var header: some View {
-        HStack(spacing: 8) {
-            Text("\(store.holdings.count) stocks").frame(maxWidth: .infinity, alignment: .leading)
-            sortButton("Weight", .weight).frame(width: 46, alignment: .trailing)
-            sortButton("\(range.label)", .rangeReturn).frame(width: 74, alignment: .trailing)
-            if range != .day {
-                sortButton("Today", .today).frame(width: 60, alignment: .trailing)
-            }
-        }
-        .font(.caption)
-        .foregroundStyle(.secondary)
-        .padding(.leading, 14)
-        // With "always show scroll bars", the scroller narrows the rows below but not this header.
-        .padding(.trailing, 14 + (NSScroller.preferredScrollerStyle == .legacy
-            ? NSScroller.scrollerWidth(for: .regular, scrollerStyle: .legacy) : 0))
-        .padding(.vertical, 6)
-    }
-
-    private func sortButton(_ title: LocalizedStringKey, _ column: HoldingSort) -> some View {
-        Button { sort = column } label: {
-            HStack(spacing: 2) {
-                Text(title)
-                if sort == column { Image(systemName: "chevron.down").font(.system(size: 7, weight: .bold)) }
-            }
-            .fontWeight(sort == column ? .semibold : .regular)
-        }
-        .buttonStyle(.plain)
-        .help(Text("Sort by") + Text(" ") + Text(title))
-    }
-}
-
-struct HoldingRow: View {
-    let holding: Holding
-    let path: [Double]
-    let rangeReturn: Double?
-    let dayChange: Double?
-    let showsDayChange: Bool
-
-    var body: some View {
-        HStack(spacing: 8) {
-            VStack(alignment: .leading, spacing: 1) {
-                HStack(spacing: 4) {
-                    Text(holding.ticker).font(.callout.weight(.semibold))
-                    if holding.isUS {
-                        Text("US").font(.system(size: 8, weight: .bold)).foregroundStyle(.secondary)
-                            .padding(.horizontal, 3).padding(.vertical, 1)
-                            .overlay(RoundedRectangle(cornerRadius: 3).stroke(.secondary.opacity(0.5), lineWidth: 0.5))
-                            .help("US stock — returns in reais, including the dollar's move")
-                    }
-                }
-                Text("\(holding.quantity.quantity) shares").font(.caption2).foregroundStyle(.secondary)
-            }
-            .frame(width: 104, alignment: .leading)
-            Sparkline(values: path, color: (rangeReturn ?? 0).gainColor)
-                .frame(height: 22)
-                .frame(maxWidth: .infinity)
-            Text(holding.weight.percent)
-                .font(.caption.monospacedDigit()).foregroundStyle(.secondary)
-                .frame(width: 46, alignment: .trailing)
-            Text(rangeReturn?.signedPercent ?? "—")
-                .font(.callout.weight(.medium).monospacedDigit())
-                .foregroundStyle((rangeReturn ?? 0).gainColor)
-                .frame(width: 74, alignment: .trailing)
-            if showsDayChange {
-                Text(dayChange?.signedPercent ?? "—")
-                    .font(.caption.monospacedDigit()).foregroundStyle((dayChange ?? 0).gainColor)
-                    .frame(width: 60, alignment: .trailing)
-            }
-        }
-        .padding(.horizontal, 14)
-        .contentShape(Rectangle())
-        .help(holding.name ?? holding.ticker)
-    }
-}
-
-/// Tiny return path for one stock over the selected range, with a faint 0% baseline.
-struct Sparkline: View {
-    let values: [Double]
-    let color: Color
-
-    var body: some View {
-        Canvas { context, size in
-            guard values.count > 1, let lo = (values + [0]).min(), let hi = (values + [0]).max(), hi > lo else { return }
-            func y(_ v: Double) -> CGFloat { size.height - 1 - CGFloat((v - lo) / (hi - lo)) * (size.height - 2) }
-            var baseline = Path()
-            baseline.move(to: CGPoint(x: 0, y: y(0)))
-            baseline.addLine(to: CGPoint(x: size.width, y: y(0)))
-            context.stroke(baseline, with: .color(.secondary.opacity(0.35)), style: StrokeStyle(lineWidth: 0.5, dash: [2, 2]))
-            var line = Path()
-            for (i, v) in values.enumerated() {
-                let point = CGPoint(x: size.width * CGFloat(i) / CGFloat(values.count - 1), y: y(v))
-                if i == 0 { line.move(to: point) } else { line.addLine(to: point) }
-            }
-            context.stroke(line, with: .color(color), style: StrokeStyle(lineWidth: 1.5, lineCap: .round, lineJoin: .round))
         }
     }
 }

@@ -72,6 +72,31 @@ final class PortfolioStore {
         enabledBenchmarks = BenchmarkID.allCases.filter(set.contains)
     }
 
+    /// Bank statement quotes for B3 positions without a market quote (for example subscription rights).
+    struct StatementQuote: Codable { var price: Double; var day: Int }
+    private var statementQuotes: [String: StatementQuote] = [:]
+    private static let statementQuotesURL = directory.appendingPathComponent("open-finance-stock-prices.json")
+
+    func updateOpenFinancePrices(_ investments: [PluggyInvestment], updatedItems: Set<String>) {
+        let entries = investments.filter {
+            ($0.type == "EQUITY" || $0.type == "ETF") && !OpenFinanceMatcher.isClosed($0)
+                && updatedItems.contains($0.itemId ?? "") && $0.currencyCode == "BRL"
+                && MarketData.isB3(OpenFinanceMatcher.normalizedCode($0)) && ($0.quantity ?? 0) > 0
+        }
+        for inv in entries {
+            var ticker = OpenFinanceMatcher.normalizedCode(inv)
+            if ticker.hasSuffix("F") { ticker.removeLast() }
+            guard let day = inv.date.map(OpenFinanceMatcher.isoDayKey), day > 0,
+                  let gross = inv.amount ?? inv.balance, gross > 0, gross.isFinite else { continue }
+            let quote = StatementQuote(price: gross / inv.quantity!, day: day)
+            if day >= (statementQuotes[ticker]?.day ?? 0) { statementQuotes[ticker] = quote }
+        }
+        if let data = try? JSONEncoder().encode(statementQuotes) {
+            try? data.write(to: Self.statementQuotesURL, options: .atomic)
+        }
+        recompute()
+    }
+
     private var histories: [String: PriceHistory] = [:]
     /// B3's announcements per ticker; tickers B3 has none for (FIIs, ETFs) fall back to Yahoo's dividend events.
     private var b3Dividends: [String: [(kind: DividendKind, recordDay: Int, paymentDay: Int?, perShare: Double)]] = [:]
@@ -103,6 +128,9 @@ final class PortfolioStore {
             .compactMap(BenchmarkID.init)
         enabledBenchmarks = Array(BenchmarkID.allCases.filter(saved.contains).prefix(BenchmarkID.maxEnabled))
         load()
+        if let data = try? Data(contentsOf: Self.statementQuotesURL) {
+            statementQuotes = (try? JSONDecoder().decode([String: StatementQuote].self, from: data)) ?? [:]
+        }
         loadAlerts()
         loadBonds()
         loadBenchmarks()
@@ -220,7 +248,13 @@ final class PortfolioStore {
     func cdiLevel(at day: Int) -> Double? { cdi.isEmpty ? nil : cdi.level(at: day) }
 
     /// Latest price in the ticker's own currency (dollars for US stocks).
-    func livePrice(_ ticker: String) -> Double? { intraday[ticker]?.last }
+    func priceSource(_ ticker: String) -> String {
+        if intraday[ticker] != nil || histories[ticker] != nil { return "Yahoo Finance" }
+        guard let quote = statementQuotes[ticker] else { return "" }
+        return "Open Finance · \(DayKey.date(quote.day).formatted(date: .abbreviated, time: .omitted))"
+    }
+
+    func livePrice(_ ticker: String) -> Double? { intraday[ticker]?.last ?? histories[ticker]?.last ?? statementQuotes[ticker]?.price }
 
     /// Fires every armed alert whose target the latest price has reached, then disarms it.
     private func checkAlerts() {
@@ -339,7 +373,13 @@ final class PortfolioStore {
             return await group.reduce(into: []) { $0.append($1) }
         }
         for (ticker, history) in dailyResults {
-            if let history { histories[ticker] = history } else { newErrors.append("No data for \(MarketData.displayName(ticker))") }
+            if let history {
+                histories[ticker] = history
+            } else if statementQuotes[ticker] != nil {
+                newErrors.append(String(localized: "No market history for \(MarketData.displayName(ticker)); using the Open Finance price."))
+            } else {
+                newErrors.append("No data for \(MarketData.displayName(ticker))")
+            }
         }
         if staleHistories, !needHistory.isEmpty { historiesFetchedAt = .now }
         if !needHistory.isEmpty {
@@ -438,7 +478,7 @@ final class PortfolioStore {
         let intraday = intradayInReais()
 
         var result = quantities.map { Holding(ticker: $0.key, name: histories[$0.key]?.name, quantity: $0.value, averagePrice: averagePrice($0.key)) }
-        let values = result.map { $0.quantity * (histories[$0.ticker]?.last ?? 0) }
+        let values = result.map { $0.quantity * (histories[$0.ticker]?.last ?? statementQuotes[$0.ticker]?.price ?? 0) }
         let total = values.reduce(0, +)
         if total > 0 {
             for i in result.indices { result[i].weight = values[i] / total }

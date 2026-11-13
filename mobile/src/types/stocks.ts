@@ -1,4 +1,4 @@
-import type { PriceHistory } from './portfolio';
+import type { PriceHistory } from "./portfolio";
 
 export interface StockQuote {
   history: PriceHistory;
@@ -11,6 +11,32 @@ export interface StockHolding {
   quantity: number;
   averagePrice?: number;
 }
-export interface StockPoint { day: number; value: number }
-export type StockRange = '1M' | '3M' | '6M' | 'YTD' | '1Y' | '5Y';
-export type StockSort = 'ticker' | 'shares' | 'average' | 'price' | 'value' | 'gain' | 'today' | 'ytd';
+export interface StockPoint {
+  day: number;
+  value: number;
+}
+export type StockRange = "1M" | "3M" | "6M" | "YTD" | "1Y" | "5Y";
+export type StockSort =
+  | "ticker"
+  | "shares"
+  | "average"
+  | "price"
+  | "value"
+  | "gain"
+  | "today"
+  | "ytd";
+
+export type DividendKind = "dividend" | "jcp" | "income";
+export interface StockDividend {
+  kind: DividendKind;
+  recordDay: number;
+  paymentDay?: number;
+  perShare: number;
+}
+export interface DividendPayment extends StockDividend {
+  id: string;
+  ticker: string;
+  quantity: number;
+  amount?: number;
+  datedByExDate: boolean;
+}

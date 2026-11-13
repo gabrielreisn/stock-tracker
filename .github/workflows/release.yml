@@ -1,4 +1,4 @@
-# Pushing a tag like v1.2.0 builds a universal StockBar DMG and publishes it as a GitHub release.
+# Pushing a tag like v1.2.0 builds a universal Cymba DMG and publishes it as a GitHub release.
 # A tag with a suffix, like v3.0.0-beta-1, is published as a pre-release (never marked "Latest").
 name: Release
 
@@ -18,6 +18,9 @@ jobs:
         with:
           fetch-depth: 0  # build number = commit count
 
+      - name: Check StockBar migration
+        run: macOS/scripts/check-migration.sh
+
       - name: Build DMG
         env:
           # Optional: a stable signing certificate, so "Always Allow" on the Keychain prompt survives updates.
@@ -31,7 +34,7 @@ jobs:
         run: |
           prerelease=()
           [[ "$GITHUB_REF_NAME" == *-* ]] && prerelease=(--prerelease)
-          gh release create "$GITHUB_REF_NAME" macOS/build/StockBar-*.dmg "${prerelease[@]}" \
-            --title "StockBar ${GITHUB_REF_NAME#v}" \
+          gh release create "$GITHUB_REF_NAME" macOS/build/Cymba-*.dmg "${prerelease[@]}" \
+            --title "Cymba ${GITHUB_REF_NAME#v}" \
             --notes-file .github/release-notes.md \
             --generate-notes

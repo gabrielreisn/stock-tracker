@@ -1,6 +1,6 @@
 import Foundation
 
-/// A StockBar position an Open Finance investment refers to.
+/// A Cymba position an Open Finance investment refers to.
 enum OpenFinanceTarget {
     case stock(Holding), bond(Bond), fund(FundHolding)
 
@@ -19,11 +19,11 @@ struct OpenFinanceMatch {
     var ours = 0.0
     /// Open Finance's quantity, summed over entries with the same code.
     var quantity = 0.0
-    /// For stocks: StockBar's average price and Open Finance's.
+    /// For stocks: Cymba's average price and Open Finance's.
     var ourAverage: Double?
     var theirAverage: Double?
     var quantityMatches: Bool { OpenFinanceMatcher.same(ours, quantity) }
-    /// Open Finance has an average price and StockBar has none, or one more than 0,5% away.
+    /// Open Finance has an average price and Cymba has none, or one more than 0,5% away.
     var averageDiffers: Bool {
         guard let theirs = theirAverage else { return false }
         guard let ours = ourAverage else { return true }
@@ -32,7 +32,7 @@ struct OpenFinanceMatch {
     var matches: Bool { quantityMatches && !averageDiffers }
 }
 
-/// What a sync changed in StockBar to match Open Finance.
+/// What a sync changed in Cymba to match Open Finance.
 struct OpenFinanceChange: Identifiable {
     enum Kind {
         case quantity(from: Double, to: Double)
@@ -45,7 +45,7 @@ struct OpenFinanceChange: Identifiable {
     var kind: Kind
 }
 
-/// Matches Open Finance investments to what StockBar tracks: stocks by ticker, bonds by code (or issuer and
+/// Matches Open Finance investments to what Cymba tracks: stocks by ticker, bonds by code (or issuer and
 /// maturity), funds by CNPJ (or name, when Open Finance doesn't give one).
 @MainActor
 struct OpenFinanceMatcher {
@@ -79,7 +79,7 @@ struct OpenFinanceMatcher {
 
     var open: [PluggyInvestment] { investments.filter { !Self.isClosed($0) } }
 
-    /// The StockBar position an investment refers to, and how to name it.
+    /// The Cymba position an investment refers to, and how to name it.
     func target(of inv: PluggyInvestment) -> (target: OpenFinanceTarget, label: String)? {
         let code = Self.normalizedCode(inv)
         switch inv.type {
@@ -104,7 +104,7 @@ struct OpenFinanceMatcher {
         return nil
     }
 
-    /// The StockBar position behind a key from `lastListed`, if it's still tracked.
+    /// The Cymba position behind a key from `lastListed`, if it's still tracked.
     private func target(forKey key: String) -> (target: OpenFinanceTarget, label: String)? {
         if let h = store.holdings.first(where: { OpenFinanceTarget.stock($0).key == key }) { return (.stock(h), h.ticker) }
         if let b = store.bonds.first(where: { OpenFinanceTarget.bond($0).key == key }) { return (.bond(b), b.code) }
@@ -112,7 +112,7 @@ struct OpenFinanceMatcher {
         return nil
     }
 
-    /// One investment against StockBar. The same asset can be split across entries (or institutions), so the
+    /// One investment against Cymba. The same asset can be split across entries (or institutions), so the
     /// open total of entries with its code is compared.
     func compare(_ inv: PluggyInvestment) -> OpenFinanceMatch {
         let code = Self.normalizedCode(inv)
@@ -138,7 +138,7 @@ struct OpenFinanceMatcher {
         return shares > 0 ? priced.reduce(0) { $0 + $1.price * $1.quantity } / shares : nil
     }
 
-    /// Makes StockBar match Open Finance after a sync:
+    /// Makes Cymba match Open Finance after a sync:
     /// - quantities of the positions it reports, summed across institutions, and stocks' average prices;
     /// - the price of FIDCs and FIPs, which CVM reports late or not at all. Regular funds keep CVM's daily price,
     ///   which is fresher than what the brokers share;
@@ -146,6 +146,21 @@ struct OpenFinanceMatcher {
     ///   last sync and no longer lists, once that connection has updated (`updatedItems`).
     /// Positions Open Finance has never listed (a pension fund, a broker that isn't connected) are left alone.
     func reconcile(updatedItems: Set<String>) -> [OpenFinanceChange] {
+        var changes: [OpenFinanceChange] = []
+        // Discover newly listed equities before matching quantities. A sync used to silently skip them.
+        let newStocks = open.filter {
+            ($0.type == "EQUITY" || $0.type == "ETF") && ($0.quantity ?? 0) > 0
+                && updatedItems.contains($0.itemId ?? "")
+        }
+        for inv in newStocks where target(of: inv) == nil {
+            var ticker = Self.normalizedCode(inv)
+            guard ticker.range(of: #"^[A-Z][A-Z0-9.\-]{0,19}$"#, options: .regularExpression) != nil else { continue }
+            if MarketData.isB3(ticker), ticker.hasSuffix("F") { ticker.removeLast() }
+            // The reconciliation below sets the full quantity across institutions and preserves its cost basis.
+            store.setQuantity(ticker, to: inv.quantity!, averagePrice: inv.averagePrice)
+            changes.append(OpenFinanceChange(name: ticker, kind: .quantity(from: 0, to: inv.quantity!)))
+        }
+        store.updateOpenFinancePrices(investments, updatedItems: updatedItems)
         struct Group { var target: OpenFinanceTarget; var label: String; var entries: [PluggyInvestment] = [] }
         var held: [String: Group] = [:], withdrawn: [String: Group] = [:]
         for inv in investments {
@@ -169,7 +184,6 @@ struct OpenFinanceMatcher {
         }
         Self.lastListed = held.mapValues { Array(Set($0.entries.compactMap(\.itemId))).sorted() }.merging(stillPending) { a, _ in a }
 
-        var changes: [OpenFinanceChange] = []
         for group in held.values {
             let quantity = group.entries.reduce(0) { $0 + ($1.quantity ?? 0) }
             switch group.target {

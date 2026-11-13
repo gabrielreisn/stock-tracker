@@ -26,14 +26,14 @@ struct StockForm: View {
                 TextField("Ticker", text: $ticker, prompt: Text("PETR4"))
                 TextField("Quantity", text: $quantity, prompt: Text("100"))
                 TextField("Average price", text: $price, prompt: Text("Optional"))
-                if let held { LabeledContent("StockBar now", value: "\(held.quantity.quantity) shares") }
+                if let held { LabeledContent("Cymba now", value: "\(held.quantity.quantity) shares") }
                 if let error { Text(error).foregroundStyle(.red).font(.caption) }
             }
             .formStyle(.grouped)
             HStack {
                 if held != nil {
                     Button("Remove", role: .destructive) { confirmRemove = true }
-                        .confirmationDialog("Remove \(symbol) from StockBar?", isPresented: $confirmRemove) {
+                        .confirmationDialog("Remove \(symbol) from Cymba?", isPresented: $confirmRemove) {
                             Button("Remove", role: .destructive) { store.removeStock(symbol); dismiss() }
                         }
                 }
@@ -81,6 +81,7 @@ struct FundHoldingForm: View {
     @State private var holding: FundHolding
     @State private var cnpj: String
     @State private var quantity: String
+    @State private var gross: String
     @State private var price: String
     @State private var priceDate: Date
     @State private var confirmDelete = false
@@ -91,6 +92,7 @@ struct FundHoldingForm: View {
         _holding = State(initialValue: holding)
         _cnpj = State(initialValue: CVM.formatCNPJ(holding.cnpj))
         _quantity = State(initialValue: holding.quantity > 0 ? holding.quantity.formatted(.number.precision(.fractionLength(0...8)).grouping(.never).locale(Locale(identifier: "pt_BR"))) : "")
+        _gross = State(initialValue: holding.statementGross.map { $0.formatted(.number.grouping(.never).locale(Locale(identifier: "pt_BR"))) } ?? "")
         _price = State(initialValue: holding.statementPrice.map { $0.formatted(.number.precision(.fractionLength(0...8)).grouping(.never).locale(Locale(identifier: "pt_BR"))) } ?? "")
         _priceDate = State(initialValue: holding.statementDay.map(DayKey.date) ?? .now)
     }
@@ -132,10 +134,17 @@ struct FundHoldingForm: View {
     private var result: FundHolding? {
         let digits = cnpj.filter(\.isNumber)
         guard digits.count == 14, !holding.name.trimmingCharacters(in: .whitespaces).isEmpty,
-              let q = parseNumber(quantity), q > 0 else { return nil }
+              (parseNumber(quantity) ?? 0) > 0 || (quantity.trimmingCharacters(in: .whitespaces).isEmpty && (parseNumber(gross) ?? 0) > 0) else { return nil }
         var h = holding
         h.cnpj = digits
-        h.quantity = q
+        h.quantity = parseNumber(quantity) ?? 0
+        h.statementGross = h.quantity > 0 ? nil : parseNumber(gross)
+        if h.isBalanceOnly {
+            h.statementPrice = nil
+            h.statementDay = DayKey.from(priceDate)
+            h.statementFromOpenFinance = false
+            return h
+        }
         h.statementPrice = parseNumber(price).flatMap { $0 > 0 ? $0 : nil }
         h.statementDay = h.statementPrice == nil ? nil : DayKey.from(priceDate)
         // A price changed by hand is the user's own, not Open Finance's anymore.
@@ -169,6 +178,11 @@ struct FundHoldingForm: View {
                     Text("Private equity fund (FIP)").tag(FundHoldingKind.fip)
                 }
                 TextField("Shares", text: $quantity)
+                if quantity.trimmingCharacters(in: .whitespaces).isEmpty {
+                    TextField("Gross balance (BRL)", text: $gross)
+                    Text("Without a share count, the statement balance stays fixed until you update it.")
+                        .font(.caption).foregroundStyle(.secondary)
+                }
                 Toggle("Tax exempt", isOn: $holding.taxExempt)
                 Picker("Purpose", selection: $holding.purpose) {
                     Text("Automatic (\(funds.inferredPurpose(of: holding).label))").tag(FundPurpose?.none)

@@ -8,7 +8,7 @@ enum OpenFinanceSort: String {
 private struct StagedImport {
     enum Item {
         case stock(ticker: String, quantity: Double)
-        /// A stock StockBar already holds, getting the average price typed on its row.
+        /// A stock Cymba already holds, getting the average price typed on its row.
         case stockAverage(ticker: String)
         case bond(Bond)
         case fund(FundHolding)
@@ -29,7 +29,7 @@ private struct StagedImport {
     }
 }
 
-/// What Open Finance (via Pluggy) reports, side by side with what StockBar tracks. Positions StockBar doesn't
+/// What Open Finance (via Pluggy) reports, side by side with what Cymba tracks. Positions Cymba doesn't
 /// have can be picked (they turn blue) and imported together from the bar at the bottom.
 struct OpenFinancePage: View {
     @Environment(PluggyStore.self) private var pluggy
@@ -136,11 +136,11 @@ struct OpenFinancePage: View {
         .card()
     }
 
-    /// What the last sync changed in StockBar to match Open Finance.
+    /// What the last sync changed in Cymba to match Open Finance.
     private func syncChangesCard(_ changes: [OpenFinanceChange]) -> some View {
         VStack(alignment: .leading, spacing: 6) {
             if changes.isEmpty {
-                Label("Everything StockBar tracks matches Open Finance", systemImage: "checkmark.circle.fill").foregroundStyle(.green)
+                Label("Everything Cymba tracks matches Open Finance", systemImage: "checkmark.circle.fill").foregroundStyle(.green)
             } else {
                 Label("Updated to match Open Finance", systemImage: "arrow.triangle.2.circlepath").font(.headline)
                 ForEach(changes) { c in
@@ -191,7 +191,7 @@ struct OpenFinancePage: View {
         .card()
     }
 
-    // MARK: - Investments vs StockBar
+    // MARK: - Investments vs Cymba
 
     private var investmentsCard: some View {
         let shown = showClosed ? pluggy.investments : openInvestments
@@ -224,7 +224,7 @@ struct OpenFinancePage: View {
                             Text("Avg price").frame(width: StockColumn.average, alignment: .center)
                             Text("Price").frame(width: StockColumn.price, alignment: .trailing)
                             column("Value", .value).frame(width: StockColumn.value, alignment: .trailing)
-                            column("StockBar", .status, ascendingFirst: true).frame(width: 230, alignment: .leading)
+                            column("Cymba", .status, ascendingFirst: true).frame(width: 230, alignment: .leading)
                         }
                         .font(.caption).foregroundStyle(.secondary)
                         .padding(.horizontal, 14).padding(.bottom, 4)
@@ -233,7 +233,7 @@ struct OpenFinancePage: View {
                             column("Name", .name, ascendingFirst: true).frame(maxWidth: .infinity, alignment: .leading)
                             column("Quantity", .quantity).frame(width: 150, alignment: .trailing)
                             column("Value", .value).frame(width: 150, alignment: .trailing)
-                            column("StockBar", .status, ascendingFirst: true).frame(width: 230, alignment: .leading)
+                            column("Cymba", .status, ascendingFirst: true).frame(width: 230, alignment: .leading)
                         }
                         .font(.caption).foregroundStyle(.secondary)
                         .padding(.horizontal, 14).padding(.bottom, 4)
@@ -291,7 +291,7 @@ struct OpenFinancePage: View {
             guard !closed else { return }
             if let target = match?.target { editor = editor(for: target) } else { toggleStaged(inv) }
         }
-        .help(closed ? "" : match?.target == nil ? "Click to pick for import" : "Click to edit in StockBar")
+        .help(closed ? "" : match?.target == nil ? "Click to pick for import" : "Click to edit in Cymba")
     }
 
     /// Typing an average price picks the row: a new stock is imported with it, a held one gets it as an update.
@@ -384,7 +384,7 @@ struct OpenFinancePage: View {
             guard !closed else { return }
             if let target = match?.target { editor = editor(for: target) } else { toggleStaged(inv) }
         }
-        .help(closed ? "" : match?.target == nil ? "Click to pick for import" : "Click to edit in StockBar")
+        .help(closed ? "" : match?.target == nil ? "Click to pick for import" : "Click to edit in Cymba")
     }
 
     private func rowTint(_ inv: PluggyInvestment) -> Color {
@@ -400,7 +400,7 @@ struct OpenFinancePage: View {
         return t > 0 ? t : nil
     }
 
-    /// StockBar's own value for a matched bond or fund, to set against Open Finance's.
+    /// Cymba's own value for a matched bond or fund, to set against Open Finance's.
     private func ourValue(_ target: Target) -> Double? {
         switch target {
         case .stock: nil
@@ -409,7 +409,7 @@ struct OpenFinancePage: View {
         }
     }
 
-    /// Matches, a one-click quantity update when they differ, or adding it when StockBar doesn't track it.
+    /// Matches, a one-click quantity update when they differ, or adding it when Cymba doesn't track it.
     @ViewBuilder
     private func status(_ inv: PluggyInvestment, closed: Bool, match: Match?) -> some View {
         if closed {
@@ -422,10 +422,10 @@ struct OpenFinancePage: View {
                     Label("Matches \(match.label)", systemImage: "checkmark.circle.fill").foregroundStyle(.green)
                     if let ours = ourValue(target), let theirs = gross(inv), theirs > 0 {
                         let diff = ours - theirs
-                        Text("StockBar \(ours.reais) (\(diff >= 0 ? "+" : "")\(diff.reais))")
+                        Text("Cymba \(ours.reais) (\(diff >= 0 ? "+" : "")\(diff.reais))")
                             .font(.caption)
                             .foregroundStyle(abs(diff / theirs) < 0.005 ? Color.secondary : .orange)
-                            .help("StockBar's gross value vs. Open Finance's. Small differences come from different price dates.")
+                            .help("Cymba's gross value vs. Open Finance's. Small differences come from different price dates.")
                     }
                 }
             } else {
@@ -434,11 +434,11 @@ struct OpenFinancePage: View {
                 }
                 .buttonStyle(.borderless).foregroundStyle(.orange)
                 .help(match.quantityMatches
-                      ? "Average price: StockBar \(match.ourAverage.map { $0.price(for: match.label) } ?? "none"), Open Finance \(match.theirAverage.map { $0.price(for: match.label) } ?? "—")"
-                      : "StockBar has \(match.ours.quantity); set \(match.label) to the Open Finance quantity" + (match.theirAverage.map { " and average price \($0.price(for: match.label))" } ?? ""))
+                      ? "Average price: Cymba \(match.ourAverage.map { $0.price(for: match.label) } ?? "none"), Open Finance \(match.theirAverage.map { $0.price(for: match.label) } ?? "—")"
+                      : "Cymba has \(match.ours.quantity); set \(match.label) to the Open Finance quantity" + (match.theirAverage.map { " and average price \($0.price(for: match.label))" } ?? ""))
             }
         } else if newEditor(inv) != nil {
-            Button { toggleStaged(inv) } label: { Label("Add to StockBar", systemImage: "plus.circle.fill") }
+            Button { toggleStaged(inv) } label: { Label("Add to Cymba", systemImage: "plus.circle.fill") }
                 .buttonStyle(.borderless)
         } else {
             Label("Not supported", systemImage: "circle.dashed").foregroundStyle(.secondary)
@@ -646,7 +646,7 @@ struct OpenFinancePage: View {
         }
     }
 
-    /// A StockBar entry pre-filled from Open Finance, for review before saving; nil for types StockBar doesn't track.
+    /// A Cymba entry pre-filled from Open Finance, for review before saving; nil for types Cymba doesn't track.
     private func newEditor(_ inv: PluggyInvestment) -> Editor? {
         let quantity = inv.quantity ?? 0
         let cost = inv.averagePrice
@@ -817,7 +817,7 @@ struct PluggySettingsSection: View {
                 .help("Open Pluggy Connect to sign in again for this connection")
             Button { pluggy.removeItem(id) } label: { Image(systemName: "minus.circle") }
                 .buttonStyle(.borderless)
-                .help("Remove from StockBar (the connection stays in Pluggy)")
+                .help("Remove from Cymba (the connection stays in Pluggy)")
         }
     }
 }

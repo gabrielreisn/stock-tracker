@@ -75,7 +75,7 @@ struct PluggyConnectView: View {
         VStack(spacing: 12) {
             Image(systemName: "checkmark.seal").font(.largeTitle).foregroundStyle(.green)
             Text("This Meu Pluggy account is already connected").font(.headline)
-            Text("One MeuPluggy connection covers every bank and broker you authorize in Meu Pluggy. To add another institution, authorize it at meu.pluggy.ai; it shows up on StockBar's next sync.")
+            Text("One MeuPluggy connection covers every bank and broker you authorize in Meu Pluggy. To add another institution, authorize it at meu.pluggy.ai; it shows up on Cymba's next sync.")
                 .multilineTextAlignment(.center).foregroundStyle(.secondary)
                 .frame(maxWidth: 360)
             HStack {
@@ -135,7 +135,7 @@ private struct ConnectWebView: NSViewRepresentable {
         webView.uiDelegate = context.coordinator
         context.coordinator.widget = webView
         webView.setValue(false, forKey: "drawsBackground")
-        webView.loadHTMLString(html, baseURL: URL(string: "https://stockbar.local/"))
+        webView.loadHTMLString(html, baseURL: URL(string: "https://cymba.local/"))
         return webView
     }
 
@@ -161,7 +161,7 @@ private struct ConnectWebView: NSViewRepresentable {
         </head><body><script>
           const post = (message) => window.webkit.messageHandlers.pluggy.postMessage(message);
           // Pluggy's SDK hands OAuth sign-ins to Cordova's in-app browser instead of opening a pop-up
-          // (pop-ups from its iframe fail in an embedded web view). StockBar plays that part: it opens the
+          // (pop-ups from its iframe fail in an embedded web view). Cymba plays that part: it opens the
           // sign-in in a window and reports each page load back, like InAppBrowser's 'loadstop' events.
           const loadstop = [];
           window.cordova = { InAppBrowser: { open: (url, target) => {
@@ -173,7 +173,7 @@ private struct ConnectWebView: NSViewRepresentable {
               close: () => post({ type: 'oauthClose' }),
             };
           } } };
-          window.stockbarLoadstop = (url) => loadstop.forEach((listener) => listener({ url }));
+          window.cymbaLoadstop = (url) => loadstop.forEach((listener) => listener({ url }));
           const describe = (value) => { try { return JSON.stringify(value); } catch (e) { return String(value); } };
           const options = {
             connectToken: \(json(token)),
@@ -241,13 +241,13 @@ private struct ConnectWebView: NSViewRepresentable {
             guard let url = webView.url?.absoluteString else { return }
             oauthWindow?.title = "Sign in to \(webView.url?.host ?? "Pluggy")"
             let literal = (try? JSONSerialization.data(withJSONObject: [url])).flatMap { String(data: $0, encoding: .utf8) }.map { String($0.dropFirst().dropLast()) } ?? "''"
-            widget?.evaluateJavaScript("window.stockbarLoadstop(\(literal))")
+            widget?.evaluateJavaScript("window.cymbaLoadstop(\(literal))")
             if url.contains("/oauthCallback.html") { Self.log("oauth", "callback reached") }
         }
 
-        /// Appends to ~/Library/Caches/StockBar/pluggy-connect.log, to see what Pluggy Connect reported when something fails.
+        /// Appends to ~/Library/Caches/Cymba/pluggy-connect.log, to see what Pluggy Connect reported when something fails.
         static func log(_ type: String, _ detail: String) {
-            let url = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0].appendingPathComponent("StockBar/pluggy-connect.log")
+            let url = FileManager.default.urls(for: .cachesDirectory, in: .userDomainMask)[0].appendingPathComponent("Cymba/pluggy-connect.log")
             // Tokens and callback codes stay out of the log.
             let redacted = detail.replacingOccurrences(of: #"(token|code|state)=[^&"\s]+"#, with: "$1=…", options: .regularExpression)
             let line = "\(Date.now.formatted(.iso8601)) \(type) \(redacted.prefix(2000))\n"

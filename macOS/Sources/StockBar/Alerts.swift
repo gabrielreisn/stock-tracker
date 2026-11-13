@@ -42,7 +42,6 @@ final class AlertNotifier: NSObject, UNUserNotificationCenterDelegate {
 
 struct AlertsView: View {
     @Environment(PortfolioStore.self) private var store
-    @Binding var screen: Screen
 
     @State private var ticker = ""
     @State private var kind: TradeKind = .buy
@@ -65,23 +64,21 @@ struct AlertsView: View {
     }
 
     var body: some View {
-        VStack(spacing: 0) {
-            ScreenHeader(title: "Price alerts", screen: $screen)
+        VStack(alignment: .leading, spacing: 16) {
+            PageHeader(title: "Price alerts")
             form
             Divider()
             if store.alerts.isEmpty {
                 Text("No alerts yet").foregroundStyle(.secondary).padding(24)
             } else {
-                ScrollView {
-                    LazyVStack(spacing: 0) {
-                        ForEach(store.alerts) { alert in
-                            row(alert)
-                                .background(editing == alert.id ? Color.accentColor.opacity(0.12) : .clear)
-                            Divider().padding(.leading, 14)
-                        }
+                LazyVStack(spacing: 0) {
+                    ForEach(store.alerts) { alert in
+                        row(alert)
+                            .background(editing == alert.id ? Color.accentColor.opacity(0.12) : .clear)
+                        if alert.id != store.alerts.last?.id { Divider().padding(.leading, 14) }
                     }
                 }
-                .frame(maxHeight: 340)
+                .card()
             }
         }
         .onAppear { tickerFocused = true }
@@ -98,9 +95,9 @@ struct AlertsView: View {
                 .labelsHidden()
                 .fixedSize()
                 TextField("Ticker", text: $ticker, prompt: Text("PETR4"))
-                    .focused($tickerFocused)
+                    .focused($tickerFocused).frame(width: 160)
                 TextField("Price", text: $price, prompt: Text("38,50"))
-                    .frame(width: 80)
+                    .frame(width: 140)
                     .onSubmit(submit)
                 Button {
                     submit()
@@ -115,6 +112,7 @@ struct AlertsView: View {
                         .keyboardShortcut(.cancelAction)
                         .help("Cancel editing")
                 }
+                Spacer()
             }
             .textFieldStyle(.roundedBorder)
             if let error {
@@ -125,7 +123,7 @@ struct AlertsView: View {
                     .font(.caption).foregroundStyle(.secondary)
             }
             if notificationsOff {
-                Label("Notifications are off. Allow StockBar in System Settings → Notifications.", systemImage: "bell.slash")
+                Label("Notifications are off. Allow Cymba in System Settings → Notifications.", systemImage: "bell.slash")
                     .font(.caption).foregroundStyle(.orange)
             }
         }

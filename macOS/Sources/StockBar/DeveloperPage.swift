@@ -1,6 +1,6 @@
 import SwiftUI
 
-/// Tools for working on StockBar, in the sidebar of dev builds only (see `Bundle.isDevBuild`).
+/// Tools for working on Cymba, in the sidebar of dev builds only (see `Bundle.isDevBuild`).
 struct DeveloperPage: View {
     @State private var showOnboarding = false
     @State private var pendingAccount: DataAccount?
@@ -22,7 +22,7 @@ struct DeveloperPage: View {
             } header: {
                 Text("Account")
             } footer: {
-                Text("Demo runs on made-up data (a portfolio, bonds, funds and two years of spending), kept apart from yours and never connected to Open Finance, for showing the app. Its spending moves to the current month every month. Switching relaunches StockBar.")
+                Text("Demo runs on made-up data (a portfolio, bonds, funds and two years of spending), kept apart from yours and never connected to Open Finance, for showing the app. Its spending moves to the current month every month. Switching relaunches Cymba.")
                     .font(.caption).foregroundStyle(.secondary)
             }
 
@@ -46,7 +46,7 @@ struct DeveloperPage: View {
             Button("Relaunch") { if let pendingAccount { DataAccount.switchTo(pendingAccount) } }
             Button("Cancel", role: .cancel) {}
         } message: {
-            Text("StockBar relaunches with the other account's data. Nothing in either account is changed.")
+            Text("Cymba relaunches with the other account's data. Nothing in either account is changed.")
         }
         .alert("Reset the demo data?", isPresented: $confirmReset) {
             Button("Reset and relaunch", role: .destructive) { DataAccount.resetDemo() }

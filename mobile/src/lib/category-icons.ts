@@ -11,4 +11,5 @@ export const categoryIcons = [
   ['cup.and.saucer', 'local_cafe'], ['wineglass', 'wine_bar'], ['stroller', 'stroller'],
   ['building.columns', 'account_balance'], ['creditcard', 'credit_card'],
   ['banknote', 'payments'], ['ellipsis.circle', 'more_horiz'],
+  ['pin', 'push_pin'], ['car.side', 'directions_car'],
 ] as const;

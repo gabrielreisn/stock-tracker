@@ -42,7 +42,6 @@ export default function FGCScreen() {
   const cards = exposures.map(exposure => <ExposureCard key={exposure.key} exposure={exposure} onEdit={setEditing} />);
   const uncoveredRows = uncovered.map(({ bond, value }) => <View key={bond.id} style={styles.row}><Label>{bond.kind} · {bond.issuer}</Label><Label>{value ? money(value.gross) : '—'}</Label></View>);
   const editedValue = editing ? valueBond(editing, rates, day) : null;
-  const groupingPending = conglomerates.loading || conglomerates.failed;
   return <>
     <ScrollView contentInsetAdjustmentBehavior="automatic" style={{ backgroundColor: theme.background }} contentContainerStyle={s.content}>
       <Label>{t('Personal account')}</Label>
@@ -50,8 +49,8 @@ export default function FGCScreen() {
       <Label secondary>{t('FGC guarantees up to R$ 250,000 per CPF per institution or financial conglomerate, with a R$ 1 million total limit every four years. CDB, LC, LCI and LCA are covered; CRI, CRA and debentures are not.')}</Label>
       {loading && <Label secondary>{t('Loading CDI and IPCA…')}</Label>}
       {failed && <Card><Label>{t('Rate history is unavailable. Fixed-rate bonds are still valued; other values are left blank.')}</Label><ActionButton title={t('Retry')} onPress={retry} /></Card>}
-      {groupingPending && <Card><Label>{t(conglomerates.loading ? 'Loading Banco Central conglomerates…' : 'Conglomerate data unavailable. Grouped by CNPJ root or issuer name only; banks in the same group may share a limit.')}</Label>{conglomerates.failed && <ActionButton title={t('Retry')} onPress={conglomerates.retry} />}</Card>}
-      <ExposureSummary guaranteed={guaranteed} above={above} count={exposures.length} provisional={groupingPending} />
+      {conglomerates.failed && <Card><Label>{t('Conglomerate data unavailable. Grouped by CNPJ root or issuer name only; banks in the same group may share a limit.')}</Label><ActionButton title={t('Retry')} onPress={conglomerates.retry} /></Card>}
+      <ExposureSummary guaranteed={guaranteed} above={above} count={exposures.length} provisional={conglomerates.failed} />
       <Card><Title>{t('Reading the bars')}</Title><Label secondary>{t('Filled bar: value today · circle: estimated maturity value · vertical line: R$ 250,000 limit.')}</Label><Label secondary>{t('Under 80% · 80–100% · Above the limit')}</Label></Card>
       {!exposures.length && <Card><Title>{t('No active CDB, LC, LCI or LCA in Bonds.')}</Title></Card>}
       {cards}

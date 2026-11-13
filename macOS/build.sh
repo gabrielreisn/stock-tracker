@@ -1,7 +1,7 @@
 #!/bin/zsh
-# Builds a universal StockBar.app into ./build.
+# Builds a universal Cymba.app into ./build.
 #   ./build.sh            build the app
-#   ./build.sh --dmg      also package build/StockBar-<version>.dmg
+#   ./build.sh --dmg      also package build/Cymba-<version>.dmg
 #   ./build.sh --install  copy it to ~/Applications and launch it
 # VERSION=1.2.0 ./build.sh --dmg   sets the app version (default: latest git tag, else 0.0.0)
 set -euo pipefail
@@ -18,7 +18,7 @@ BUILD_NUMBER="$(git rev-list --count HEAD 2>/dev/null || echo 1)"
 # Builds made outside GitHub Actions are dev builds: they show tools a release hides (Settings → Setup guide).
 DEV_BUILD=$([[ -n "${GITHUB_ACTIONS:-}" ]] && echo false || echo true)
 # macOS wants a numeric version in the app; a pre-release like 3.0.0-beta-1 keeps its suffix in the tag, the DMG name
-# and StockBarVersion (read by the updater, so a beta is offered the next beta).
+# and CymbaVersion (read by the updater, so a beta is offered the next beta).
 SHORT_VERSION="${VERSION%%-*}"
 
 # One build per architecture, merged into a universal binary (multi-arch in one step needs full Xcode).
@@ -26,13 +26,13 @@ for arch in arm64 x86_64; do
   swift build -c release --triple "$arch-apple-macosx15.0"
 done
 
-APP=build/StockBar.app
+APP=build/Cymba.app
 rm -rf "$APP"
 mkdir -p "$APP/Contents/MacOS" "$APP/Contents/Resources"
 lipo -create \
-  .build/arm64-apple-macosx/release/StockBar \
-  .build/x86_64-apple-macosx/release/StockBar \
-  -output "$APP/Contents/MacOS/StockBar"
+  .build/arm64-apple-macosx/release/Cymba \
+  .build/x86_64-apple-macosx/release/Cymba \
+  -output "$APP/Contents/MacOS/Cymba"
 cp Resources/AppIcon.icns "$APP/Contents/Resources/"
 # Translations: <lang>.lproj/Localizable.strings, looked up from the main bundle by SwiftUI and String(localized:).
 cp -R Resources/*.lproj Resources/AI Resources/Demo "$APP/Contents/Resources/"
@@ -42,18 +42,18 @@ cat > "$APP/Contents/Info.plist" <<PLIST
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>CFBundleName</key><string>StockBar</string>
-  <key>CFBundleDisplayName</key><string>StockBar</string>
-  <key>CFBundleIdentifier</key><string>com.gabrielreis.stockbar</string>
-  <key>CFBundleExecutable</key><string>StockBar</string>
+  <key>CFBundleName</key><string>Cymba</string>
+  <key>CFBundleDisplayName</key><string>Cymba</string>
+  <key>CFBundleIdentifier</key><string>app.cymba.macos</string>
+  <key>CFBundleExecutable</key><string>Cymba</string>
   <key>CFBundleIconFile</key><string>AppIcon</string>
   <key>CFBundleDevelopmentRegion</key><string>en</string>
   <key>CFBundleLocalizations</key><array><string>en</string><string>pt-BR</string></array>
   <key>CFBundlePackageType</key><string>APPL</string>
   <key>CFBundleShortVersionString</key><string>$SHORT_VERSION</string>
   <key>CFBundleVersion</key><string>$BUILD_NUMBER</string>
-  <key>StockBarVersion</key><string>$VERSION</string>
-  <key>StockBarDevBuild</key><$DEV_BUILD/>
+  <key>CymbaVersion</key><string>$VERSION</string>
+  <key>CymbaDevBuild</key><$DEV_BUILD/>
   <key>LSApplicationCategoryType</key><string>public.app-category.finance</string>
   <key>LSMinimumSystemVersion</key><string>15.0</string>
   <key>LSUIElement</key><true/>
@@ -64,7 +64,7 @@ PLIST
 
 # Sign with a stable identity when there is one, so macOS keeps "Always Allow" for the Keychain item across builds
 # (an ad-hoc signature changes with every build). CI imports it from secrets; locally it's in the login keychain.
-IDENTITY="${CODESIGN_IDENTITY:-StockBar Code Signing}"
+IDENTITY="${CODESIGN_IDENTITY:-Cymba Code Signing}"
 if [[ -n "${SIGNING_P12_BASE64:-}" ]]; then
   KEYCHAIN="$RUNNER_TEMP/signing.keychain-db"
   security create-keychain -p ci "$KEYCHAIN"
@@ -75,30 +75,35 @@ if [[ -n "${SIGNING_P12_BASE64:-}" ]]; then
   security set-key-partition-list -S apple-tool:,apple: -s -k ci "$KEYCHAIN" >/dev/null
   security list-keychains -d user -s "$KEYCHAIN" $(security list-keychains -d user | tr -d '"')
 fi
+# Existing release secrets can still contain the certificate issued under the StockBar name.
+if [[ -z "${CODESIGN_IDENTITY:-}" ]] && ! security find-certificate -c "$IDENTITY" >/dev/null 2>&1 \
+   && security find-certificate -c "StockBar Code Signing" >/dev/null 2>&1; then
+  IDENTITY="StockBar Code Signing"
+fi
 if ! security find-certificate -c "$IDENTITY" >/dev/null 2>&1; then
   echo "No '$IDENTITY' certificate: signing ad hoc (Keychain access will be asked again after each build)"
   IDENTITY=-
 fi
 codesign --force --sign "$IDENTITY" "$APP"
-echo "Built $APP $VERSION ($BUILD_NUMBER), $(lipo -archs "$APP/Contents/MacOS/StockBar")"
+echo "Built $APP $VERSION ($BUILD_NUMBER), $(lipo -archs "$APP/Contents/MacOS/Cymba")"
 
 case "${1:-}" in
   --dmg)
-    DMG="build/StockBar-$VERSION.dmg"
+    DMG="build/Cymba-$VERSION.dmg"
     STAGING="$(mktemp -d)"
     cp -R "$APP" "$STAGING/"
     ln -s /Applications "$STAGING/Applications"   # drag-to-install target
     rm -f "$DMG"
-    hdiutil create -volname "StockBar $VERSION" -srcfolder "$STAGING" -fs HFS+ -format UDZO -ov "$DMG" >/dev/null
+    hdiutil create -volname "Cymba $VERSION" -srcfolder "$STAGING" -fs HFS+ -format UDZO -ov "$DMG" >/dev/null
     rm -rf "$STAGING"
     echo "Packaged $DMG"
     ;;
   --install)
     mkdir -p ~/Applications
-    pkill -x StockBar || true
-    rm -rf ~/Applications/StockBar.app
+    pkill -x Cymba || true
+    rm -rf ~/Applications/Cymba.app
     cp -R "$APP" ~/Applications/
-    open ~/Applications/StockBar.app
-    echo "Installed to ~/Applications/StockBar.app"
+    open ~/Applications/Cymba.app
+    echo "Installed to ~/Applications/Cymba.app"
     ;;
 esac

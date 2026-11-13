@@ -28,7 +28,7 @@ final class AIChat {
         enum Kind {
             /// On-device: from sending to the first tool call, or to the first word when no tool is used.
             case thinking
-            /// Running the tools: StockBar's own queries, including fetching a month from Open Finance.
+            /// Running the tools: Cymba's own queries, including fetching a month from Open Finance.
             case lookup
             /// On-device: from the last tool's answer to the first word, the model reading what the tools returned.
             case reading
@@ -164,7 +164,7 @@ final class AIChat {
             switch activeEngine {
             case .cloud:
                 guard let provider = account.provider, let key = account.key else {
-                    fail(index, String(localized: "StockBar couldn't read the API key from the Keychain. Enter it again in Settings → AI."))
+                    fail(index, String(localized: "Cymba couldn't read the API key from the Keychain. Enter it again in Settings → AI."))
                     return
                 }
                 await ask(provider, model: account.model, key: key, prompt + Self.languageHint(prompt), at: index)
@@ -216,7 +216,7 @@ final class AIChat {
         }
     }
 
-    /// Asks a model behind an API (a cloud provider, or Ollama for the local engine), which runs StockBar's tools
+    /// Asks a model behind an API (a cloud provider, or Ollama for the local engine), which runs Cymba's tools
     /// and answers.
     private func ask(_ provider: AIProvider, model: String, key: String, skipThinking: Bool = false, _ prompt: String, at index: Int) async {
         // A new conversation when the provider or model changed: each keeps its own format.
@@ -265,7 +265,7 @@ final class AIChat {
         case .rateLimited, .concurrentRequests:
             String(localized: "Apple Intelligence is busy. Try again in a moment.")
         case .decodingFailure, .unsupportedGuide:
-            String(localized: "The model gave an answer StockBar couldn't read. Try asking again.")
+            String(localized: "The model gave an answer Cymba couldn't read. Try asking again.")
         @unknown default:
             String(localized: "Apple Intelligence couldn't answer. Try asking again.")
         }
@@ -368,9 +368,9 @@ struct AIPage: View {
                 if chat.activeEngine == .local {
                     Text("Answers come from \(chat.local.model), running on this Mac: free, and neither your questions nor your data leave it. Check the figures it looked up under each answer.")
                 } else if chat.activeEngine == .cloud, let provider = chat.account.provider {
-                    Text("Answers come from \(provider.label), with your API key. Your question and what StockBar looks up to answer it (amounts, places, positions) are sent to \(provider.label). Check the figures it looked up under each answer.")
+                    Text("Answers come from \(provider.label), with your API key. Your question and what Cymba looks up to answer it (amounts, places, positions) are sent to \(provider.label). Check the figures it looked up under each answer.")
                 } else {
-                    Text("Answers come from Apple Intelligence, on this Mac: free, and neither your questions nor your data leave it. It reads what StockBar has; check the figures it looked up under each answer.")
+                    Text("Answers come from Apple Intelligence, on this Mac: free, and neither your questions nor your data leave it. It reads what Cymba has; check the figures it looked up under each answer.")
                 }
             }
                 .font(.callout).foregroundStyle(.secondary).multilineTextAlignment(.center)
@@ -411,7 +411,7 @@ struct AIPage: View {
                 } else {
                     Label(lookup.label, systemImage: "magnifyingglass")
                         .font(.caption).foregroundStyle(.secondary)
-                        .help("What the assistant looked up in StockBar to answer")
+                        .help("What the assistant looked up in Cymba to answer")
                 }
             }
             bubbleText(message)
@@ -437,7 +437,7 @@ struct AIPage: View {
         }
         return Label(seconds(t.total) + "  ·  " + parts.joined(separator: " · "), systemImage: "clock")
             .font(.caption.monospacedDigit()).foregroundStyle(.tertiary)
-            .help("Thinking: deciding what to look up. Lookup: StockBar's queries. Reading: the model reading what they returned. Writing: the answer itself. Model: one request to the model, in the cloud or in Ollama on this Mac.")
+            .help("Thinking: deciding what to look up. Lookup: Cymba's queries. Reading: the model reading what they returned. Writing: the answer itself. Model: one request to the model, in the cloud or in Ollama on this Mac.")
     }
     private func bubbleText(_ message: AIChat.Message) -> some View {
         HStack(alignment: .top) {

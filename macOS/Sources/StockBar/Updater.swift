@@ -1,7 +1,7 @@
 import AppKit
 import Security
 
-/// Updates StockBar in place from the GitHub releases: finds a newer DMG, copies the app out of it, checks that it's
+/// Updates Cymba in place from the GitHub releases: finds a newer DMG, copies the app out of it, checks that it's
 /// signed with the same certificate as the running app, swaps the bundle and relaunches.
 @MainActor
 @Observable
@@ -41,7 +41,7 @@ final class Updater {
     }
 
     /// The full version, beta suffix included (CFBundleShortVersionString must be numeric, so it drops it).
-    static let currentVersion = Bundle.main.object(forInfoDictionaryKey: "StockBarVersion") as? String
+    static let currentVersion = Bundle.main.object(forInfoDictionaryKey: "CymbaVersion") as? String
         ?? Bundle.main.object(forInfoDictionaryKey: "CFBundleShortVersionString") as? String ?? "0.0.0"
 
     private static let releasesURL = URL(string: "https://api.github.com/repos/gabrielreisn/stock-tracker/releases?per_page=20")!
@@ -112,17 +112,17 @@ final class Updater {
     nonisolated private static func replace(_ target: URL, withAppIn dmg: URL) throws {
         let fm = FileManager.default
         guard fm.isWritableFile(atPath: target.deletingLastPathComponent().path) else {
-            throw UpdateError(message: String(localized: "StockBar can't write to the folder it's installed in. Download the update from GitHub instead."))
+            throw UpdateError(message: String(localized: "Cymba can't write to the folder it's installed in. Download the update from GitHub instead."))
         }
         let work = try fm.url(for: .itemReplacementDirectory, in: .userDomainMask, appropriateFor: target, create: true)
         defer { try? fm.removeItem(at: work) }
         let mount = work.appendingPathComponent("mount")
-        let staged = work.appendingPathComponent("StockBar.app")
+        let staged = work.appendingPathComponent("Cymba.app")
 
         try run("/usr/bin/hdiutil", "attach", dmg.path, "-nobrowse", "-readonly", "-noautoopen", "-mountpoint", mount.path)
         do {
             // ditto keeps the signature and extended attributes intact.
-            try run("/usr/bin/ditto", mount.appendingPathComponent("StockBar.app").path, staged.path)
+            try run("/usr/bin/ditto", mount.appendingPathComponent("Cymba.app").path, staged.path)
         } catch {
             try? run("/usr/bin/hdiutil", "detach", mount.path, "-force")
             throw error
@@ -146,7 +146,7 @@ final class Updater {
               SecStaticCodeCreateWithPath(app as CFURL, [], &staticCode) == errSecSuccess, let staticCode,
               SecStaticCodeCheckValidity(staticCode, SecCSFlags(rawValue: kSecCSCheckAllArchitectures | kSecCSStrictValidate), requirement) == errSecSuccess
         else {
-            throw UpdateError(message: String(localized: "The downloaded update isn't signed like this copy of StockBar, so it wasn't installed."))
+            throw UpdateError(message: String(localized: "The downloaded update isn't signed like this copy of Cymba, so it wasn't installed."))
         }
     }
 
@@ -227,5 +227,5 @@ struct Version: Comparable {
 
 extension Bundle {
     /// Built locally rather than by the release workflow (see build.sh).
-    var isDevBuild: Bool { object(forInfoDictionaryKey: "StockBarDevBuild") as? Bool ?? true }
+    var isDevBuild: Bool { object(forInfoDictionaryKey: "CymbaDevBuild") as? Bool ?? true }
 }

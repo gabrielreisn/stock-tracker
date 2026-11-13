@@ -157,7 +157,7 @@ private struct UpdateButton: View {
                         .contentShape(Rectangle())
                 }
                 .buttonStyle(.plain)
-                .help("Download StockBar \(release.version) and relaunch")
+                .help("Download Cymba \(release.version) and relaunch")
             case .downloading, .installing:
                 HStack(spacing: 8) {
                     ProgressView().controlSize(.small)
@@ -218,19 +218,38 @@ private struct PortfolioCard: View {
 
 // MARK: - Stocks
 
+private enum StocksSection: String, CaseIterable, Identifiable {
+    case holdings, alerts
+    var id: String { rawValue }
+}
+
 struct StocksPage: View {
-    @Environment(PortfolioStore.self) private var store
+    @AppStorage("stocksSection") private var section: StocksSection = .holdings
 
     var body: some View {
-        ScrollView {
-            VStack(alignment: .leading, spacing: 24) {
-                PerformanceSection(chartHeight: 300)
-                    .padding(6)
-                    .card()
-                StockHoldingsSection()
-                DividendsSection()
+        VStack(spacing: 0) {
+            PageHeader(title: "Stocks") {
+                Picker("Stocks section", selection: $section) {
+                    Text("Holdings").tag(StocksSection.holdings)
+                    Text("Price alerts").tag(StocksSection.alerts)
+                }
+                .pickerStyle(.segmented).labelsHidden().frame(width: 280)
             }
-            .padding(24)
+            .padding(.horizontal, 24).padding(.top, 24).padding(.bottom, 16)
+            ScrollView {
+                VStack(alignment: .leading, spacing: 24) {
+                    switch section {
+                    case .holdings:
+                        PerformanceSection(chartHeight: 300).padding(6).card()
+                        StockHoldingsSection()
+                        DividendsSection()
+                    case .alerts:
+                        AlertsView()
+                    }
+                }
+                .frame(maxWidth: .infinity, alignment: .leading)
+                .padding(.horizontal, 24).padding(.bottom, 24)
+            }
         }
     }
 }

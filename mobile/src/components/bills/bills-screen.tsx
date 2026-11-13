@@ -2,6 +2,7 @@ import { useState, type ReactNode } from 'react';
 import { Modal, Pressable, RefreshControl, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
+import { CardBillsSection } from '@/components/bills/card-bills-section';
 import { ActionButton } from '@/components/settings/ui';
 import { useTheme } from '@/hooks/use-theme';
 import { billKey, calendarDate, classifyExpenses, daysBetween, recurringBills, trackablePayments, upcomingBills } from '@/lib/bills';
@@ -137,15 +138,6 @@ export function BillsScreen() {
       <ActionButton title={t('Track payment')} onPress={() => { updateBill(key, { tracked: true }); setEditor(null); }} />
     </View>
   ));
-  const cardRows = data.cardBills.map(bill => {
-    const paid = bill.payments?.reduce((sum, payment) => sum + (payment.amount ?? 0), 0) ?? 0;
-    const account = data.transactions.accounts.find(row => row.id === bill.accountId);
-    return <View key={bill.id} style={styles.section}>
-      <Text style={{ color: theme.text }}>{account?.marketingName ?? account?.name ?? t('Credit card')}</Text>
-      <Text style={{ color: theme.text }}>{bill.totalAmount == null ? '—' : money.format(bill.totalAmount)}</Text>
-      <Text style={{ color: theme.textSecondary }}>{bill.dueDate?.slice(0, 10) ?? '—'} · {t('Paid')}: {money.format(paid)}</Text>
-    </View>;
-  });
   const loanRows = data.loans.map(loan => <View key={loan.id} style={styles.section}>
     <Text style={{ color: theme.text }}>{loan.productName ?? loan.type ?? t('Loans & financing')}</Text>
     <Text style={{ color: theme.text }}>{loan.payments?.contractOutstandingBalance == null ? '—' : money.format(loan.payments.contractOutstandingBalance)}</Text>
@@ -176,7 +168,7 @@ export function BillsScreen() {
           <ActionButton title={t(showHidden ? 'Hide untracked bills' : 'Not tracked ({count})', { count: hidden.length })} onPress={() => setShowHidden(!showHidden)} />
           {hiddenRows}
         </View>}
-        <Section title="Credit card bills">{cardRows.length ? cardRows : <Text style={[styles.empty, { color: theme.textSecondary }]}>{t('No closed card bills are available from your banks.')}</Text>}</Section>
+        <CardBillsSection bills={data.cardBills} accounts={data.transactions.accounts} />
         <Section title="Loans & financing">{loanRows.length ? loanRows : <Text style={[styles.empty, { color: theme.textSecondary }]}>{t('No loan contracts are available from your banks.')}</Text>}</Section>
         <Text style={[styles.caption, { color: theme.textSecondary }]}>{t('Due days are estimated from past payments. Tap a recurring bill to set its due day. Payments have a 3-day grace period before appearing late.')}</Text>
       </ScrollView>

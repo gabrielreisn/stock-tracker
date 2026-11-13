@@ -64,11 +64,11 @@ struct OnboardingView: View {
     private var page: some View {
         switch step {
         case .welcome:
-            OnboardingPage(systemImage: "chart.line.uptrend.xyaxis", title: "Welcome to StockBar",
+            OnboardingPage(systemImage: "chart.line.uptrend.xyaxis", title: "Welcome to Cymba",
                            message: "Your stocks, bonds, funds and spending in one place, checked against CDI, IPCA and the market. A few quick steps and you're set.")
         case .pluggyAccount:
             OnboardingPage(systemImage: "person.crop.circle.badge.plus", title: "Create your Meu Pluggy account",
-                           message: "Meu Pluggy is a free service that reaches your banks and brokers through Open Finance. Create an account and connect your banks and brokers there; StockBar reads them from it.") {
+                           message: "Meu Pluggy is a free service that reaches your banks and brokers through Open Finance. Create an account and connect your banks and brokers there; Cymba reads them from it.") {
                 Link(destination: URL(string: "https://meu.pluggy.ai")!) {
                     Label("Open meu.pluggy.ai", systemImage: "arrow.up.right.square")
                 }
@@ -102,7 +102,7 @@ struct OnboardingView: View {
             }
         case .done:
             OnboardingPage(systemImage: "checkmark.circle", title: "You're all set",
-                           message: "Before relying on the numbers, review everything Open Finance brought in on the Open Finance page: the positions it found, how they were matched to what StockBar tracks, and their average prices.") {
+                           message: "Before relying on the numbers, review everything Open Finance brought in on the Open Finance page: the positions it found, how they were matched to what Cymba tracks, and their average prices.") {
                 Button { finish(showing: .openFinance) } label: {
                     Label("Review on the Open Finance page", systemImage: "building.2")
                 }
